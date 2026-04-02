@@ -1,0 +1,16 @@
+{
+  "n_profiles": 62,
+  "n_unique_drugs": 5,
+  "smiles_valid": 4,
+  "smiles_missing": 58,
+  "route_distribution": {
+    "oral": 61,
+    "SC_injection": 1
+  },
+  "cmax_ngml": {
+    "min": 0.3,
+    "median": 99.0,
+    "max": 14360.0
+  },
+  "grid_coverage": 7.9
+}
