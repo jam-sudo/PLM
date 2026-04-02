@@ -1,0 +1,40 @@
+{
+  "drug_name": "inclisiran",
+  "smiles": null,
+  "dose_mg": 300,
+  "route": "SC_injection",
+  "formulation": "SC_injection",
+  "food_effect": "not_specified",
+  "population": "not_specified",
+  "n_subjects": null,
+  "timepoints_h": [
+    0,
+    2,
+    4,
+    8,
+    12,
+    20,
+    30,
+    40
+  ],
+  "concentrations_ng_ml": [
+    0,
+    1500,
+    1400,
+    1050,
+    700,
+    400,
+    200,
+    120
+  ],
+  "concentration_unit": "ng/mL",
+  "cmax_digitized": 1500,
+  "tmax_digitized": 2.0,
+  "source_nda": "NDA214012",
+  "source_page": 11,
+  "source_figure": "data/figures/NDA214012/p011_img00.png",
+  "curve_label": "300 mg dose, first dosing period (0-40h)",
+  "digitization_method": "visual_llm",
+  "digitization_notes": "Multi-dose study with 4 dose groups (125, 250, 300, 500mg) over ~690 hours. Digitized 300mg first dose period only. Data points overlap between dose groups making precise reading difficult. SC injection shows rapid absorption (Tmax ~2h) and slow elimination. Lower confidence than NDA208658 digitization due to overlapping points and broken x-axis.",
+  "qc_status": "pending"
+}

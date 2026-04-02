@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Isturisa_osilodrostat",
+    "nda": "212801",
+    "year": 2020,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212801Orig1s000ClinPharmR.pdf",
+    "file": "data/raw/NDA212801_ClinPharmR.pdf",
+    "size_mb": 6.2,
+    "status": "downloaded"
+  },
+  {
+    "name": "Jatenzo_testosterone",
+    "nda": "206089",
+    "year": 2019,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/206089Orig1s000ClinPharmR.pdf",
+    "file": "data/raw/NDA206089_ClinPharmR.pdf",
+    "size_mb": 22.8,
+    "status": "downloaded"
+  },
+  {
+    "name": "NDA208313",
+    "nda": "208313",
+    "year": 2018,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/208313Orig1s000ClinPharmR.pdf",
+    "file": "data/raw/NDA208313_ClinPharmR.pdf",
+    "size_mb": 0.5,
+    "status": "downloaded"
+  },
+  {
+    "name": "NDA215904",
+    "nda": "215904",
+    "year": 2022,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/215904Orig1s000ClinPharmR.pdf",
+    "file": "data/raw/NDA215904_ClinPharmR.pdf",
+    "size_mb": 1.2,
+    "status": "downloaded"
+  },
+  {
+    "name": "NDA214012",
+    "nda": "214012",
+    "year": 2022,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/214012Orig1s000ClinPharmR.pdf",
+    "file": "data/raw/NDA214012_ClinPharmR.pdf",
+    "size_mb": 2.7,
+    "status": "downloaded"
+  },
+  {
+    "name": "NDA217806",
+    "nda": "217806",
+    "year": 2024,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217806Orig1s000ClinPharmR.pdf",
+    "file": "data/raw/NDA217806_ClinPharmR.pdf",
+    "size_mb": 5.7,
+    "status": "downloaded"
+  },
+  {
+    "name": "Synjardy_empagliflozin_metformin",
+    "nda": "208658",
+    "year": 2016,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/208658Orig1s000ClinPharmR.pdf",
+    "file": "data/raw/NDA208658_ClinPharmR.pdf",
+    "size_mb": 6.5,
+    "status": "downloaded"
+  },
+  {
+    "name": "Jardiance_empagliflozin",
+    "nda": "204629",
+    "year": 2014,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/204629Orig1s000PharmR.pdf",
+    "file": "data/raw/NDA204629_ClinPharmR.pdf",
+    "size_mb": 4.5,
+    "status": "downloaded"
+  },
+  {
+    "name": "NDA022075",
+    "nda": "022075",
+    "year": 2019,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/022075Orig1s000ClinPharmR.pdf",
+    "file": "data/raw/NDA022075_ClinPharmR.pdf",
+    "size_mb": 8.4,
+    "status": "downloaded"
+  },
+  {
+    "name": "NDA125527",
+    "nda": "125527",
+    "year": 2015,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2015/125527Orig1s000ClinPharmR.pdf",
+    "file": "data/raw/NDA125527_ClinPharmR.pdf",
+    "size_mb": 2.2,
+    "status": "downloaded"
+  },
+  {
+    "name": "NDA125320",
+    "nda": "125320",
+    "year": 2010,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2010/125320s000clinpharmr.pdf",
+    "file": "data/raw/NDA125320_ClinPharmR.pdf",
+    "size_mb": 4.6,
+    "status": "downloaded"
+  },
+  {
+    "name": "NDA210491",
+    "nda": "210491",
+    "status": "failed_404"
+  },
+  {
+    "name": "NDA211651",
+    "nda": "211651",
+    "status": "failed_404"
+  },
+  {
+    "name": "NDA213137",
+    "nda": "213137",
+    "status": "failed_404"
+  },
+  {
+    "name": "NDA212099",
+    "nda": "212099",
+    "status": "failed_404"
+  }
+]

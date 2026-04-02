@@ -1,0 +1,123 @@
+{
+  "review_date": "2026-04-02",
+  "total_reviewed": 37,
+  "summary": {
+    "confirmed_ct": 10,
+    "not_ct": 24,
+    "rotated_artifact": 3,
+    "heuristic_ct_precision": "10/17 = 58.8%",
+    "heuristic_non_ct_false_negative": "1/20 = 5.0% (rotated image)"
+  },
+  "confirmed_ct_profiles": [
+    {
+      "index": 5,
+      "file": "data/figures/NDA206089/p053_img00.png",
+      "drug": "testosterone_undecanoate",
+      "nda": "NDA206089",
+      "description": "Plasma T Concentration vs Time (0-24h, ng/dL, multiple visits)",
+      "heuristic": "ct"
+    },
+    {
+      "index": 6,
+      "file": "data/figures/NDA206089/p059_img00.png",
+      "drug": "testosterone_undecanoate",
+      "nda": "NDA206089",
+      "description": "Duplicate/similar to index 5",
+      "heuristic": "ct"
+    },
+    {
+      "index": 7,
+      "file": "data/figures/NDA206089/p078_img00.jpeg",
+      "drug": "testosterone_undecanoate",
+      "nda": "NDA206089",
+      "description": "T Concentration vs Time Postdose (0-12h, ng/dL)",
+      "heuristic": "ct"
+    },
+    {
+      "index": 8,
+      "file": "data/figures/NDA208658/p011_img00.png",
+      "drug": "empagliflozin",
+      "nda": "NDA208658",
+      "description": "Empagliflozin plasma conc (0-72h, nmol/L, FDC vs single)",
+      "heuristic": "ct"
+    },
+    {
+      "index": 9,
+      "file": "data/figures/NDA208658/p011_img01.png",
+      "drug": "metformin",
+      "nda": "NDA208658",
+      "description": "Metformin plasma conc (0-72h, ng/mL, FDC vs single)",
+      "heuristic": "ct"
+    },
+    {
+      "index": 10,
+      "file": "data/figures/NDA208658/p013_img00.jpeg",
+      "drug": "empagliflozin_metformin",
+      "nda": "NDA208658",
+      "description": "Two-panel empagliflozin+metformin XR (0-72h)",
+      "heuristic": "ct"
+    },
+    {
+      "index": 12,
+      "file": "data/figures/NDA212801/p049_img00.jpeg",
+      "drug": "osilodrostat",
+      "nda": "NDA212801",
+      "description": "Osilodrostat/LXB168 observed+simulated (0-48h)",
+      "heuristic": "ct"
+    },
+    {
+      "index": 13,
+      "file": "data/figures/NDA212801/p049_img01.jpeg",
+      "drug": "osilodrostat",
+      "nda": "NDA212801",
+      "description": "LXB168 multiple dose simulation (0-400h)",
+      "heuristic": "ct"
+    },
+    {
+      "index": 15,
+      "file": "data/figures/NDA214012/p011_img00.png",
+      "drug": "inclisiran",
+      "nda": "NDA214012",
+      "description": "Inclisiran conc-time profiles (0-690h, multiple doses)",
+      "heuristic": "ct"
+    },
+    {
+      "index": 30,
+      "file": "data/figures/NDA206089/p203_img01.png",
+      "drug": "testosterone_undecanoate",
+      "nda": "NDA206089",
+      "description": "T/DHT/T+DHT vs Time 0-24h (ROTATED 180 degrees)",
+      "heuristic": "non_ct",
+      "notes": "Image is rotated 180 degrees but is a valid C-t profile"
+    }
+  ],
+  "not_ct_details": [
+    {"index": 0, "file": "data/figures/NDA022075/p104_img00.jpeg", "reason": "table"},
+    {"index": 1, "file": "data/figures/NDA022075/p104_img01.jpeg", "reason": "table"},
+    {"index": 2, "file": "data/figures/NDA022075/p104_img02.jpeg", "reason": "table"},
+    {"index": 3, "file": "data/figures/NDA204629/p036_img00.png", "reason": "table"},
+    {"index": 4, "file": "data/figures/NDA204629/p045_img00.png", "reason": "table"},
+    {"index": 11, "file": "data/figures/NDA212801/p018_img00.png", "reason": "text_snippet"},
+    {"index": 14, "file": "data/figures/NDA214012/p010_img03.png", "reason": "table"},
+    {"index": 16, "file": "data/figures/NDA214012/p011_img05.png", "reason": "text_snippet"},
+    {"index": 17, "file": "data/figures/NDA204629/p071_img03.png", "reason": "scatter_plot"},
+    {"index": 18, "file": "data/figures/NDA022075/p096_img01.jpeg", "reason": "table"},
+    {"index": 19, "file": "data/figures/NDA206089/p223_img02.png", "reason": "rotated_artifact"},
+    {"index": 20, "file": "data/figures/NDA206089/p210_img00.png", "reason": "rotated_artifact"},
+    {"index": 21, "file": "data/figures/NDA206089/p194_img00.png", "reason": "rotated_artifact"},
+    {"index": 22, "file": "data/figures/NDA204629/p135_img01.png", "reason": "chemical_structure"},
+    {"index": 23, "file": "data/figures/NDA204629/p055_img00.png", "reason": "scatter_plot"},
+    {"index": 24, "file": "data/figures/NDA204629/p038_img02.png", "reason": "table"},
+    {"index": 25, "file": "data/figures/NDA212801/p021_img00.png", "reason": "text_snippet"},
+    {"index": 26, "file": "data/figures/NDA022075/p103_img00.jpeg", "reason": "pk_table"},
+    {"index": 27, "file": "data/figures/NDA022075/p101_img03.png", "reason": "metabolic_pathway"},
+    {"index": 28, "file": "data/figures/NDA204629/p046_img00.png", "reason": "metabolite_table"},
+    {"index": 29, "file": "data/figures/NDA206089/p187_img04.png", "reason": "box_plot"},
+    {"index": 31, "file": "data/figures/NDA217806/p030_img01.jpeg", "reason": "gof_diagnostic"},
+    {"index": 32, "file": "data/figures/NDA022075/p101_img00.png", "reason": "metabolic_pathway"},
+    {"index": 33, "file": "data/figures/NDA206089/p174_img00.png", "reason": "rotated_table"},
+    {"index": 34, "file": "data/figures/NDA212801/p017_img00.jpeg", "reason": "forest_plot"},
+    {"index": 35, "file": "data/figures/NDA206089/p190_img01.png", "reason": "rotated_table"},
+    {"index": 36, "file": "data/figures/NDA212801/p039_img02.png", "reason": "statistics_table"}
+  ]
+}

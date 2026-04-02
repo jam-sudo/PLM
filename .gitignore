@@ -5,7 +5,10 @@ data/raw/**/*.pdf
 # Extracted figures (regenerable)
 data/figures/*.png
 data/figures/*.jpg
+data/figures/*.jpeg
 data/figures/**/*.png
+data/figures/**/*.jpg
+data/figures/**/*.jpeg
 
 # Python
 __pycache__/
