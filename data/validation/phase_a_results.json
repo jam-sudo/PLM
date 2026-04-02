@@ -1,0 +1,9 @@
+{
+  "version": "v3_clean_A",
+  "n_train": 3631,
+  "n_holdout": 97,
+  "holdout_aafe": 3.723,
+  "within_2fold_pct": 36.1,
+  "within_3fold_pct": 48.5,
+  "features": "Morgan FP 2048 + log10(dose)"
+}

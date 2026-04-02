@@ -1,0 +1,883 @@
+{
+  "source": "Sisyphus 3track_holdout_predictions.json",
+  "n_sisyphus_holdout": 107,
+  "n_matched_inchikey": 97,
+  "n_in_combined_dataset": 97,
+  "holdout_inchikeys": [
+    "DKNWSYNQZKUICI",
+    "CVWXJKQAOSCOAB",
+    "NUKYPUAOHBNCPY",
+    "WOZSCQDILHKSGG",
+    "WYQFJHHDOKWSHR",
+    "JOFWLTCLBGQGBO",
+    "UPNUIXSCZBYVBB",
+    "WXJFKKQWPMNTIM",
+    "QZUDBNBUXVUHMW",
+    "BQSJTQLCZDPROO",
+    "DBABZHXKTCFAPX",
+    "DCCSDBARQIPTGU",
+    "GKTWGGQPFAXNFI",
+    "AQIXAKUUQRKLND",
+    "FABPRXSRWADJSP",
+    "JSWZEAMFRNKZNL",
+    "KUCQYCKVKVOKAY",
+    "OJFSXZCBGQGRNV",
+    "PHLBKPHSAVXXEF",
+    "BNRNXUUZRGQAQC",
+    "IAKHMKGGTNLKSZ",
+    "LTMHDMANZUZIPE",
+    "ZQDWXGKKHFNSQK",
+    "UBQNRHZMVUUOMG",
+    "UVSMNLNDYGZFPF",
+    "KGFYHTZWPPHNLQ",
+    "VAOCPAMSLUNLGC",
+    "ADEBPBSSDYVVLD",
+    "ZBNZXTGUTAYRHI",
+    "MYSWGUAQZAJSOK",
+    "DUGOZIWVEXMGBE",
+    "VREFGVBLTWBCJP",
+    "VOVIALXJUBGFJZ",
+    "HYYBABOKPJLUIN",
+    "WPVFJKSGQUFQAP",
+    "HFNKQEVNSGCOJV",
+    "PSIFNNKUMBGKDQ",
+    "JVHXJTBJCFBINQ",
+    "XMAYWYJOQHXEEK",
+    "ZAFYATHCZYHLPB",
+    "QNZCBYKSOIHPEH",
+    "ATEBXHFBFRCZMA",
+    "DCOPUUMXTXDBNB",
+    "IIXWYSCJSQVBQM",
+    "NNYBQONXHNTVIJ",
+    "BLIJXOOIHRSQRB",
+    "TUZYXOIXSAXUGO",
+    "PNVNVHUZROJLTJ",
+    "UCHDWCPVSPXUMX",
+    "VVNCNSJFMMFHPL",
+    "RJKFOVLPORLFTN",
+    "QCHFTSOMWOSFHM",
+    "VZZJRYRQSPEMTK",
+    "OROGSEYTTFOCAN",
+    "KQKPFRSPSRPDEB",
+    "GSDSWSVVBLHKDQ",
+    "AFCGFAGUEYAMAO",
+    "HHZIURLSWUIHRB",
+    "RAGOYPUPXAKGKH",
+    "GZOSMCIZMLWJML",
+    "XIQVNETUBQGFHX",
+    "NMUSYJAQQFHJEW",
+    "LOUPRKONTZGTKE",
+    "BPEGJWRSRHCHSN",
+    "YWXYYJSYQOXTPL",
+    "QFJCIRLUMZQUOT",
+    "SGEGOXDYSFKCPT",
+    "ONIQOQHATWINJY",
+    "DRHKJLXJIQTDTD",
+    "AHOUBRCZNHFOSL",
+    "BFDBKMOZYNOTPK",
+    "MQTOSJVFKKJCRP",
+    "FFGPTBGBLSHEPO",
+    "XUFQPHANEAPEMJ",
+    "GJSURZIOUXUGAL",
+    "YLXDSYKOBKBWJQ",
+    "VMXUWOKSQNHOCA",
+    "BALLNEJQLSTPIO",
+    "VHVPQPYKVGDNFY",
+    "CXOFVDLJLONNDW",
+    "PHXJVRSECIGDHY",
+    "NKANXQFJJICGDU",
+    "CJOFXWAVKWHTFT",
+    "HKDLNTKNLJPAIY",
+    "VIKNJXKGJWUCNN",
+    "GDLIGKIOYRNHDA",
+    "OZWKMVRBQXNZKK",
+    "BRYXUCLEHAUSDY",
+    "BQJCRHHNABKAKU",
+    "MEZLKOACVSPNER",
+    "JFVZFKDSXNQEJW",
+    "CGIGDMFJXJATDK",
+    "JTEGQNOMFQHVDC",
+    "SFNSLLSYNZWZQG",
+    "ULGZDMOVFRHVEP",
+    "JZQKKSLKJUAGIC",
+    "ZKLPARSLTMPFCP"
+  ],
+  "holdout_drugs": [
+    {
+      "name": "abiraterone",
+      "smiles": "C[C@]12CC[C@H](O)CC1=CC[C@@H]1[C@@H]2CC[C@]2(C)C(c3cccnc3)=CC[C@@H]12",
+      "inchikey14": "GZOSMCIZMLWJML",
+      "dose_mg": 1000.0,
+      "cmax_obs_ngml": 73.0,
+      "cmax_sisyphus_meta_mgL": 0.17464338440968988
+    },
+    {
+      "name": "acamprosate",
+      "smiles": "CC(=O)NCCCS(=O)(=O)O",
+      "inchikey14": "AFCGFAGUEYAMAO",
+      "dose_mg": 1332.0,
+      "cmax_obs_ngml": 180.0,
+      "cmax_sisyphus_meta_mgL": 2.3614423650317558
+    },
+    {
+      "name": "adefovir dipivoxil",
+      "smiles": "CC(C)(C)C(=O)OCOP(=O)(COCCn1cnc2c(N)ncnc21)OCOC(=O)C(C)(C)C",
+      "inchikey14": "WOZSCQDILHKSGG",
+      "dose_mg": 10.0,
+      "cmax_obs_ngml": 18.4,
+      "cmax_sisyphus_meta_mgL": 0.005871763418940053
+    },
+    {
+      "name": "alosetron",
+      "smiles": "Cc1[nH]cnc1CN1CCc2c(c3ccccc3n2C)C1=O",
+      "inchikey14": "JSWZEAMFRNKZNL",
+      "dose_mg": 4.0,
+      "cmax_obs_ngml": 5.0,
+      "cmax_sisyphus_meta_mgL": 0.010980044861619522
+    },
+    {
+      "name": "alprazolam",
+      "smiles": "Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2",
+      "inchikey14": "VREFGVBLTWBCJP",
+      "dose_mg": 2.07,
+      "cmax_obs_ngml": 14.003,
+      "cmax_sisyphus_meta_mgL": 0.01095571045355409
+    },
+    {
+      "name": "alvimopan",
+      "smiles": "C[C@H]1CN(C[C@H](Cc2ccccc2)C(=O)NCC(=O)O)CC[C@@]1(C)c1cccc(O)c1",
+      "inchikey14": "UPNUIXSCZBYVBB",
+      "dose_mg": 24.0,
+      "cmax_obs_ngml": 10.98,
+      "cmax_sisyphus_meta_mgL": 0.03584299655239356
+    },
+    {
+      "name": "amantadine",
+      "smiles": "NC12CC3CC(CC(C3)C1)C2",
+      "inchikey14": "DKNWSYNQZKUICI",
+      "dose_mg": 207.0,
+      "cmax_obs_ngml": 220.0,
+      "cmax_sisyphus_meta_mgL": 0.4061369090491153
+    },
+    {
+      "name": "apixaban",
+      "smiles": "COc1ccc(-n2nc(C(N)=O)c3c2C(=O)N(c2ccc(N4CCCCC4=O)cc2)CC3)cc1",
+      "inchikey14": "QNZCBYKSOIHPEH",
+      "dose_mg": 50.0,
+      "cmax_obs_ngml": 126.0,
+      "cmax_sisyphus_meta_mgL": 0.0682226756855029
+    },
+    {
+      "name": "atovaquone",
+      "smiles": "O=C1C(O)=C([C@H]2CC[C@H](c3ccc(Cl)cc3)CC2)C(=O)c2ccccc21",
+      "inchikey14": "KUCQYCKVKVOKAY",
+      "dose_mg": 500.0,
+      "cmax_obs_ngml": 8800.0,
+      "cmax_sisyphus_meta_mgL": 3.3932364807768725
+    },
+    {
+      "name": "azacitidine",
+      "smiles": "Nc1ncn(C2OC(CO)C(O)C2O)c(=O)n1",
+      "inchikey14": "NMUSYJAQQFHJEW",
+      "dose_mg": 300.0,
+      "cmax_obs_ngml": 145.0,
+      "cmax_sisyphus_meta_mgL": 0.5516778286371684
+    },
+    {
+      "name": "azithromycin",
+      "smiles": "CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O",
+      "inchikey14": "MQTOSJVFKKJCRP",
+      "dose_mg": 500.0,
+      "cmax_obs_ngml": 500.0,
+      "cmax_sisyphus_meta_mgL": 0.6305214829465929
+    },
+    {
+      "name": "brincidofovir",
+      "smiles": "CCCCCCCCCCCCCCCCOCCCOP(=O)(O)CO[C@H](CO)Cn1ccc(N)nc1=O",
+      "inchikey14": "WXJFKKQWPMNTIM",
+      "dose_mg": 140.0,
+      "cmax_obs_ngml": 251.0,
+      "cmax_sisyphus_meta_mgL": 0.13449967569865043
+    },
+    {
+      "name": "budesonide",
+      "smiles": "CCCC1O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@]5(C)[C@H]4[C@@H](O)C[C@]3(C)[C@]2(C(=O)CO)O1",
+      "inchikey14": "VOVIALXJUBGFJZ",
+      "dose_mg": 3.0,
+      "cmax_obs_ngml": 1.5,
+      "cmax_sisyphus_meta_mgL": 0.013754368341014584
+    },
+    {
+      "name": "cabozantinib",
+      "smiles": "COc1cc2nccc(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)c2cc1OC",
+      "inchikey14": "ONIQOQHATWINJY",
+      "dose_mg": 140.0,
+      "cmax_obs_ngml": 9800.0,
+      "cmax_sisyphus_meta_mgL": 2.434932821695705
+    },
+    {
+      "name": "carbamazepine",
+      "smiles": "NC(=O)N1c2ccccc2C=Cc2ccccc21",
+      "inchikey14": "FFGPTBGBLSHEPO",
+      "dose_mg": 600.0,
+      "cmax_obs_ngml": 1000.0,
+      "cmax_sisyphus_meta_mgL": 1.8447859675983183
+    },
+    {
+      "name": "carbinoxamine",
+      "smiles": "CN(C)CCOC(c1ccc(Cl)cc1)c1ccccn1",
+      "inchikey14": "OJFSXZCBGQGRNV",
+      "dose_mg": 8.0,
+      "cmax_obs_ngml": 24.0,
+      "cmax_sisyphus_meta_mgL": 0.024446838590873973
+    },
+    {
+      "name": "levocetirizine",
+      "smiles": "O=C(O)COCCN1CCN([C@H](c2ccccc2)c2ccc(Cl)cc2)CC1",
+      "inchikey14": "ZKLPARSLTMPFCP",
+      "dose_mg": 30.0,
+      "cmax_obs_ngml": 450.0,
+      "cmax_sisyphus_meta_mgL": 0.4503985856238123
+    },
+    {
+      "name": "cimetidine",
+      "smiles": "CN/C(=N/C#N)NCCSCc1nc[nH]c1C",
+      "inchikey14": "AQIXAKUUQRKLND",
+      "dose_mg": 400.0,
+      "cmax_obs_ngml": 2348.425,
+      "cmax_sisyphus_meta_mgL": 1.5902870851622477
+    },
+    {
+      "name": "ciprofloxacin",
+      "smiles": "O=C(O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O",
+      "inchikey14": "MYSWGUAQZAJSOK",
+      "dose_mg": 50.0,
+      "cmax_obs_ngml": 2970.0,
+      "cmax_sisyphus_meta_mgL": 3.0055851770712727
+    },
+    {
+      "name": "clomipramine",
+      "smiles": "CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc21",
+      "inchikey14": "GDLIGKIOYRNHDA",
+      "dose_mg": 75.0,
+      "cmax_obs_ngml": 92.0,
+      "cmax_sisyphus_meta_mgL": 0.05894072143292372
+    },
+    {
+      "name": "clonidine",
+      "smiles": "Clc1cccc(Cl)c1NC1=NCCN1",
+      "inchikey14": "GJSURZIOUXUGAL",
+      "dose_mg": 0.3,
+      "cmax_obs_ngml": 0.40072,
+      "cmax_sisyphus_meta_mgL": 0.00026861271445442026
+    },
+    {
+      "name": "clopidogrel",
+      "smiles": "COC(=O)C(c1ccccc1Cl)N1CCc2sccc2C1",
+      "inchikey14": "GKTWGGQPFAXNFI",
+      "dose_mg": 300.0,
+      "cmax_obs_ngml": 300.0,
+      "cmax_sisyphus_meta_mgL": 0.20370616049751047
+    },
+    {
+      "name": "clozapine",
+      "smiles": "CN1CCN(C2=Nc3cc(Cl)ccc3Nc3ccccc32)CC1",
+      "inchikey14": "QZUDBNBUXVUHMW",
+      "dose_mg": 75.0,
+      "cmax_obs_ngml": 413.0,
+      "cmax_sisyphus_meta_mgL": 0.09229562224419013
+    },
+    {
+      "name": "codeine",
+      "smiles": "COc1ccc2c3c1O[C@H]1[C@@H](O)C=C[C@H]4[C@@H](C2)N(C)CC[C@@]341",
+      "inchikey14": "OROGSEYTTFOCAN",
+      "dose_mg": 120.0,
+      "cmax_obs_ngml": 139.0,
+      "cmax_sisyphus_meta_mgL": 0.17425244463265896
+    },
+    {
+      "name": "colchicine",
+      "smiles": "COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1[C@@H](NC(C)=O)CC2",
+      "inchikey14": "IAKHMKGGTNLKSZ",
+      "dose_mg": 1.0,
+      "cmax_obs_ngml": 2.5,
+      "cmax_sisyphus_meta_mgL": 0.0026064861259100557
+    },
+    {
+      "name": "dalfampridine",
+      "smiles": "Nc1ccncc1",
+      "inchikey14": "NUKYPUAOHBNCPY",
+      "dose_mg": 10.0,
+      "cmax_obs_ngml": 42.7,
+      "cmax_sisyphus_meta_mgL": 0.05692894117166755
+    },
+    {
+      "name": "dapagliflozin",
+      "smiles": "CCOc1ccc(Cc2cc([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)ccc2Cl)cc1",
+      "inchikey14": "JVHXJTBJCFBINQ",
+      "dose_mg": 50.0,
+      "cmax_obs_ngml": 121.809,
+      "cmax_sisyphus_meta_mgL": 0.12738600910736553
+    },
+    {
+      "name": "darolutamide",
+      "smiles": "CC(Cn1ccc(-c2ccc(C#N)c(Cl)c2)n1)NC(=O)c1cc(C(C)O)[nH]n1",
+      "inchikey14": "BLIJXOOIHRSQRB",
+      "dose_mg": 600.0,
+      "cmax_obs_ngml": 4790.0,
+      "cmax_sisyphus_meta_mgL": 2.3134820478197633
+    },
+    {
+      "name": "dasatinib",
+      "smiles": "Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1",
+      "inchikey14": "ZBNZXTGUTAYRHI",
+      "dose_mg": 100.0,
+      "cmax_obs_ngml": 82.19999999999999,
+      "cmax_sisyphus_meta_mgL": 0.3051383769722299
+    },
+    {
+      "name": "diclofenac",
+      "smiles": "O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl",
+      "inchikey14": "DCOPUUMXTXDBNB",
+      "dose_mg": 150.0,
+      "cmax_obs_ngml": 500.0,
+      "cmax_sisyphus_meta_mgL": 0.7248902482716705
+    },
+    {
+      "name": "digoxin",
+      "smiles": "C[C@H]1O[C@@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3[C@@H](O)C[C@H](O[C@H]4CC[C@@]5(C)[C@H](CC[C@@H]6[C@@H]5C[C@@H](O)[C@]5(C)[C@@H](C7=CC(=O)OC7)CC[C@]65O)C4)O[C@@H]3C)O[C@@H]2C)C[C@H](O)[C@@H]1O",
+      "inchikey14": "LTMHDMANZUZIPE",
+      "dose_mg": 1.0,
+      "cmax_obs_ngml": 1.5,
+      "cmax_sisyphus_meta_mgL": 0.0014098663756108075
+    },
+    {
+      "name": "donepezil",
+      "smiles": "COc1cc2c(cc1OC)C(=O)C(CC1CCN(Cc3ccccc3)CC1)C2",
+      "inchikey14": "ADEBPBSSDYVVLD",
+      "dose_mg": 10.0,
+      "cmax_obs_ngml": 7.7,
+      "cmax_sisyphus_meta_mgL": 0.007931810850187782
+    },
+    {
+      "name": "erythromycin",
+      "smiles": "CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(O)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O",
+      "inchikey14": "ULGZDMOVFRHVEP",
+      "dose_mg": 500.0,
+      "cmax_obs_ngml": 1786.4,
+      "cmax_sisyphus_meta_mgL": 0.8413451753934867
+    },
+    {
+      "name": "etodolac",
+      "smiles": "CCc1cccc2c3c([nH]c12)C(CC)(CC(=O)O)OCC3",
+      "inchikey14": "NNYBQONXHNTVIJ",
+      "dose_mg": 200.0,
+      "cmax_obs_ngml": 15900.0,
+      "cmax_sisyphus_meta_mgL": 4.471528743341337
+    },
+    {
+      "name": "famotidine",
+      "smiles": "NC(N)=Nc1nc(CSCCC(N)=NS(N)(=O)=O)cs1",
+      "inchikey14": "XUFQPHANEAPEMJ",
+      "dose_mg": 40.0,
+      "cmax_obs_ngml": 73.0,
+      "cmax_sisyphus_meta_mgL": 0.04745073633198322
+    },
+    {
+      "name": "febuxostat",
+      "smiles": "Cc1nc(-c2ccc(OCC(C)C)c(C#N)c2)sc1C(=O)O",
+      "inchikey14": "BQSJTQLCZDPROO",
+      "dose_mg": 240.0,
+      "cmax_obs_ngml": 1500.0,
+      "cmax_sisyphus_meta_mgL": 0.7930052254985225
+    },
+    {
+      "name": "fesoterodine",
+      "smiles": "CC(C)C(=O)Oc1ccc(CO)cc1C(CCN(C(C)C)C(C)C)c1ccccc1",
+      "inchikey14": "DCCSDBARQIPTGU",
+      "dose_mg": 8.0,
+      "cmax_obs_ngml": 1.89,
+      "cmax_sisyphus_meta_mgL": 0.008724696736972824
+    },
+    {
+      "name": "fluvoxamine",
+      "smiles": "COCCCC/C(=N\\OCCN)c1ccc(C(F)(F)F)cc1",
+      "inchikey14": "CJOFXWAVKWHTFT",
+      "dose_mg": 100.0,
+      "cmax_obs_ngml": 15.0,
+      "cmax_sisyphus_meta_mgL": 0.0643997218748458
+    },
+    {
+      "name": "fruquintinib",
+      "smiles": "CNC(=O)c1c(C)oc2cc(Oc3ncnc4cc(OC)c(OC)cc34)ccc12",
+      "inchikey14": "BALLNEJQLSTPIO",
+      "dose_mg": 4.0,
+      "cmax_obs_ngml": 113.0,
+      "cmax_sisyphus_meta_mgL": 0.09944767612804171
+    },
+    {
+      "name": "glasdegib",
+      "smiles": "CN1CCC(NC(=O)Nc2ccc(C#N)cc2)CC1c1nc2ccccc2[nH]1",
+      "inchikey14": "SFNSLLSYNZWZQG",
+      "dose_mg": 150.0,
+      "cmax_obs_ngml": 1252.0,
+      "cmax_sisyphus_meta_mgL": 0.7995610809956049
+    },
+    {
+      "name": "hydroxyzine",
+      "smiles": "OCCOCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1",
+      "inchikey14": "ZQDWXGKKHFNSQK",
+      "dose_mg": 46.62,
+      "cmax_obs_ngml": 30.0,
+      "cmax_sisyphus_meta_mgL": 0.09093234439684654
+    },
+    {
+      "name": "indomethacin",
+      "smiles": "COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1",
+      "inchikey14": "CGIGDMFJXJATDK",
+      "dose_mg": 100.0,
+      "cmax_obs_ngml": 1540.0,
+      "cmax_sisyphus_meta_mgL": 1.1972949308424237
+    },
+    {
+      "name": "isosorbide mononitrate",
+      "smiles": "O=[N+]([O-])O[C@@H]1CO[C@H]2[C@@H]1OC[C@@H]2O",
+      "inchikey14": "YWXYYJSYQOXTPL",
+      "dose_mg": 40.0,
+      "cmax_obs_ngml": 1242.0,
+      "cmax_sisyphus_meta_mgL": 0.5243513014116257
+    },
+    {
+      "name": "itraconazole",
+      "smiles": "CCC(C)n1ncn(-c2ccc(N3CCN(c4ccc(OCC5COC(Cn6cncn6)(c6ccc(Cl)cc6Cl)O5)cc4)CC3)cc2)c1=O",
+      "inchikey14": "VHVPQPYKVGDNFY",
+      "dose_mg": 200.0,
+      "cmax_obs_ngml": 500.0,
+      "cmax_sisyphus_meta_mgL": 0.4511013233926684
+    },
+    {
+      "name": "ketoconazole",
+      "smiles": "CC(=O)N1CCN(c2ccc(OCC3COC(Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1",
+      "inchikey14": "XMAYWYJOQHXEEK",
+      "dose_mg": 800.0,
+      "cmax_obs_ngml": 3000.0,
+      "cmax_sisyphus_meta_mgL": 0.9237861775980809
+    },
+    {
+      "name": "ketorolac",
+      "smiles": "O=C(c1ccccc1)c1ccc2n1CCC2C(=O)O",
+      "inchikey14": "OZWKMVRBQXNZKK",
+      "dose_mg": 30.0,
+      "cmax_obs_ngml": 800.0,
+      "cmax_sisyphus_meta_mgL": 0.1842699048146278
+    },
+    {
+      "name": "lamivudine",
+      "smiles": "Nc1ccn([C@@H]2CS[C@H](CO)O2)c(=O)n1",
+      "inchikey14": "JTEGQNOMFQHVDC",
+      "dose_mg": 450.0,
+      "cmax_obs_ngml": 1400.0,
+      "cmax_sisyphus_meta_mgL": 1.1593015408472571
+    },
+    {
+      "name": "lenacapavir",
+      "smiles": "CC(C)(C#Cc1ccc(-c2ccc(Cl)c3c(NS(C)(=O)=O)nn(CC(F)(F)F)c23)c(C(Cc2cc(F)cc(F)c2)NC(=O)Cn2nc(C(F)(F)F)c3c2C(F)(F)C2CC32)n1)S(C)(=O)=O",
+      "inchikey14": "BRYXUCLEHAUSDY",
+      "dose_mg": 600.0,
+      "cmax_obs_ngml": 23.400000000000002,
+      "cmax_sisyphus_meta_mgL": 0.08563798531734068
+    },
+    {
+      "name": "levofloxacin",
+      "smiles": "C[C@H]1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23",
+      "inchikey14": "GSDSWSVVBLHKDQ",
+      "dose_mg": 1000.0,
+      "cmax_obs_ngml": 6200.0,
+      "cmax_sisyphus_meta_mgL": 5.015155530659808
+    },
+    {
+      "name": "lorlatinib",
+      "smiles": "CC1Oc2cc(cnc2N)-c2c(nn(C)c2C#N)CN(C)C(=O)c2ccc(F)cc21",
+      "inchikey14": "IIXWYSCJSQVBQM",
+      "dose_mg": 100.0,
+      "cmax_obs_ngml": 501.29999999999995,
+      "cmax_sisyphus_meta_mgL": 0.6642038487258863
+    },
+    {
+      "name": "losartan",
+      "smiles": "CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1",
+      "inchikey14": "PSIFNNKUMBGKDQ",
+      "dose_mg": 200.0,
+      "cmax_obs_ngml": 224.0,
+      "cmax_sisyphus_meta_mgL": 0.14014527989028885
+    },
+    {
+      "name": "mefenamic acid",
+      "smiles": "Cc1cccc(Nc2ccccc2C(=O)O)c1C",
+      "inchikey14": "HYYBABOKPJLUIN",
+      "dose_mg": 500.0,
+      "cmax_obs_ngml": 2173.397,
+      "cmax_sisyphus_meta_mgL": 5.300921527064774
+    },
+    {
+      "name": "methylphenidate",
+      "smiles": "COC(=O)C(c1ccccc1)C1CCCCN1",
+      "inchikey14": "DUGOZIWVEXMGBE",
+      "dose_mg": 21.0,
+      "cmax_obs_ngml": 9.1,
+      "cmax_sisyphus_meta_mgL": 0.11035463501027262
+    },
+    {
+      "name": "metronidazole",
+      "smiles": "Cc1ncc([N+](=O)[O-])n1CCO",
+      "inchikey14": "VAOCPAMSLUNLGC",
+      "dose_mg": 2000.0,
+      "cmax_obs_ngml": 13000.0,
+      "cmax_sisyphus_meta_mgL": 4.741772099432467
+    },
+    {
+      "name": "montelukast",
+      "smiles": "CC(C)(O)c1ccccc1CC[C@@H](SCC1(CC(=O)O)CC1)c1cccc(/C=C/c2ccc3ccc(Cl)cc3n2)c1",
+      "inchikey14": "UCHDWCPVSPXUMX",
+      "dose_mg": 10.0,
+      "cmax_obs_ngml": 350.0,
+      "cmax_sisyphus_meta_mgL": 0.07752839657454214
+    },
+    {
+      "name": "morphine",
+      "smiles": "CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5",
+      "inchikey14": "BQJCRHHNABKAKU",
+      "dose_mg": 10.0,
+      "cmax_obs_ngml": 18.65,
+      "cmax_sisyphus_meta_mgL": 0.04341697073625701
+    },
+    {
+      "name": "moxifloxacin",
+      "smiles": "COc1c(N2CC3CCCNC3C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12",
+      "inchikey14": "FABPRXSRWADJSP",
+      "dose_mg": 400.0,
+      "cmax_obs_ngml": 4100.0,
+      "cmax_sisyphus_meta_mgL": 2.891363110907548
+    },
+    {
+      "name": "nilotinib",
+      "smiles": "Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cccnc5)n4)c3)cc(C(F)(F)F)c2)cn1",
+      "inchikey14": "HHZIURLSWUIHRB",
+      "dose_mg": 400.0,
+      "cmax_obs_ngml": 1950.0,
+      "cmax_sisyphus_meta_mgL": 1.1266046839849724
+    },
+    {
+      "name": "norethindrone",
+      "smiles": "C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3CCC21C",
+      "inchikey14": "VIKNJXKGJWUCNN",
+      "dose_mg": 5.0,
+      "cmax_obs_ngml": 26.19,
+      "cmax_sisyphus_meta_mgL": 0.03054321185717608
+    },
+    {
+      "name": "oxybutynin",
+      "smiles": "CCN(CC)CC#CCOC(=O)C(O)(c1ccccc1)C1CCCCC1",
+      "inchikey14": "XIQVNETUBQGFHX",
+      "dose_mg": 5.0,
+      "cmax_obs_ngml": 1.0,
+      "cmax_sisyphus_meta_mgL": 0.007460832898337837
+    },
+    {
+      "name": "paroxetine",
+      "smiles": "Fc1ccc([C@@H]2CCNC[C@H]2COc2ccc3c(c2)OCO3)cc1",
+      "inchikey14": "AHOUBRCZNHFOSL",
+      "dose_mg": 40.0,
+      "cmax_obs_ngml": 5.0,
+      "cmax_sisyphus_meta_mgL": 0.07362372195106748
+    },
+    {
+      "name": "penicillamine",
+      "smiles": "CC(C)(S)[C@@H](N)C(=O)O",
+      "inchikey14": "VVNCNSJFMMFHPL",
+      "dose_mg": 500.0,
+      "cmax_obs_ngml": 1500.0,
+      "cmax_sisyphus_meta_mgL": 2.699382877197524
+    },
+    {
+      "name": "phenytoin",
+      "smiles": "O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1",
+      "inchikey14": "CXOFVDLJLONNDW",
+      "dose_mg": 1600.0,
+      "cmax_obs_ngml": 5000.0,
+      "cmax_sisyphus_meta_mgL": 6.3959298817394785
+    },
+    {
+      "name": "pilocarpine",
+      "smiles": "CC[C@@H]1C(=O)OC[C@@H]1Cc1cncn1C",
+      "inchikey14": "QCHFTSOMWOSFHM",
+      "dose_mg": 10.0,
+      "cmax_obs_ngml": 15.0,
+      "cmax_sisyphus_meta_mgL": 0.026851487811258328
+    },
+    {
+      "name": "pindolol",
+      "smiles": "CC(C)NCC(O)COc1cccc2[nH]ccc12",
+      "inchikey14": "JZQKKSLKJUAGIC",
+      "dose_mg": 15.0,
+      "cmax_obs_ngml": 33.099999999999994,
+      "cmax_sisyphus_meta_mgL": 0.010193124606729888
+    },
+    {
+      "name": "pomalidomide",
+      "smiles": "Nc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O",
+      "inchikey14": "UVSMNLNDYGZFPF",
+      "dose_mg": 20.0,
+      "cmax_obs_ngml": 53.1,
+      "cmax_sisyphus_meta_mgL": 0.05185239232429861
+    },
+    {
+      "name": "ponatinib",
+      "smiles": "Cc1ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1C#Cc1cnc2cccnn12",
+      "inchikey14": "PHXJVRSECIGDHY",
+      "dose_mg": 45.0,
+      "cmax_obs_ngml": 54.699999999999996,
+      "cmax_sisyphus_meta_mgL": 0.06702601000862558
+    },
+    {
+      "name": "posaconazole",
+      "smiles": "CCC(C(C)O)n1ncn(-c2ccc(N3CCN(c4ccc(OCC5COC(Cn6cncn6)(c6ccc(F)cc6F)C5)cc4)CC3)cc2)c1=O",
+      "inchikey14": "RAGOYPUPXAKGKH",
+      "dose_mg": 600.0,
+      "cmax_obs_ngml": 151.0,
+      "cmax_sisyphus_meta_mgL": 0.726692115350588
+    },
+    {
+      "name": "pravastatin",
+      "smiles": "CC[C@H](C)C(=O)O[C@H]1C[C@H](O)C=C2C=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC(=O)O)[C@H]21",
+      "inchikey14": "TUZYXOIXSAXUGO",
+      "dose_mg": 40.0,
+      "cmax_obs_ngml": 25.0,
+      "cmax_sisyphus_meta_mgL": 0.006679149632360926
+    },
+    {
+      "name": "probenecid",
+      "smiles": "CCCN(CCC)S(=O)(=O)c1ccc(C(=O)O)cc1",
+      "inchikey14": "DBABZHXKTCFAPX",
+      "dose_mg": 2000.0,
+      "cmax_obs_ngml": 32900.0,
+      "cmax_sisyphus_meta_mgL": 9.12673395172575
+    },
+    {
+      "name": "progesterone",
+      "smiles": "CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C",
+      "inchikey14": "RJKFOVLPORLFTN",
+      "dose_mg": 100.0,
+      "cmax_obs_ngml": 17.3,
+      "cmax_sisyphus_meta_mgL": 0.0356013303165305
+    },
+    {
+      "name": "quinine",
+      "smiles": "C=C[C@H]1C[N@@]2CC[C@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12",
+      "inchikey14": "LOUPRKONTZGTKE",
+      "dose_mg": 1200.0,
+      "cmax_obs_ngml": 5400.0,
+      "cmax_sisyphus_meta_mgL": 1.4914545674316833
+    },
+    {
+      "name": "quizartinib",
+      "smiles": "CC(C)(C)c1cc(NC(=O)Nc2ccc(-c3cn4c(n3)sc3cc(OCCN5CCOCC5)ccc34)cc2)no1",
+      "inchikey14": "CVWXJKQAOSCOAB",
+      "dose_mg": 30.0,
+      "cmax_obs_ngml": 99.3,
+      "cmax_sisyphus_meta_mgL": 0.03272943396185793
+    },
+    {
+      "name": "ramelteon",
+      "smiles": "CCC(=O)NCC[C@@H]1CCc2ccc3c(c21)CCO3",
+      "inchikey14": "YLXDSYKOBKBWJQ",
+      "dose_mg": 64.0,
+      "cmax_obs_ngml": 11.6,
+      "cmax_sisyphus_meta_mgL": 0.019207155975995635
+    },
+    {
+      "name": "ranitidine",
+      "smiles": "CNC(=C[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1",
+      "inchikey14": "VMXUWOKSQNHOCA",
+      "dose_mg": 300.0,
+      "cmax_obs_ngml": 440.0,
+      "cmax_sisyphus_meta_mgL": 0.7171724869296217
+    },
+    {
+      "name": "rifabutin",
+      "smiles": "CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(c3C2=O)C2=NC3(CCN(CC(C)C)CC3)NC2=C(NC(=O)/C(C)=C\\C=C\\[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C4=O",
+      "inchikey14": "ATEBXHFBFRCZMA",
+      "dose_mg": 450.0,
+      "cmax_obs_ngml": 375.0,
+      "cmax_sisyphus_meta_mgL": 0.3768060732177036
+    },
+    {
+      "name": "rivaroxaban",
+      "smiles": "O=C(NC[C@H]1CN(c2ccc(N3CCOCC3=O)cc2)C(=O)O1)c1ccc(Cl)s1",
+      "inchikey14": "KGFYHTZWPPHNLQ",
+      "dose_mg": 40.0,
+      "cmax_obs_ngml": 143.2,
+      "cmax_sisyphus_meta_mgL": 0.10225612499042516
+    },
+    {
+      "name": "ruxolitinib",
+      "smiles": "N#CC[C@H](C1CCCC1)n1cc(-c2ncnc3[nH]ccc23)cn1",
+      "inchikey14": "HFNKQEVNSGCOJV",
+      "dose_mg": 100.0,
+      "cmax_obs_ngml": 64.889,
+      "cmax_sisyphus_meta_mgL": 0.061951538411933224
+    },
+    {
+      "name": "selegiline",
+      "smiles": "C#CCN(C)[C@H](C)Cc1ccccc1",
+      "inchikey14": "MEZLKOACVSPNER",
+      "dose_mg": 10.0,
+      "cmax_obs_ngml": 1.0,
+      "cmax_sisyphus_meta_mgL": 0.017177728351221406
+    },
+    {
+      "name": "sildenafil",
+      "smiles": "CCCc1nn(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(C)CC4)ccc3OCC)nc12",
+      "inchikey14": "BNRNXUUZRGQAQC",
+      "dose_mg": 200.0,
+      "cmax_obs_ngml": 270.0,
+      "cmax_sisyphus_meta_mgL": 0.3084086904070192
+    },
+    {
+      "name": "sirolimus",
+      "smiles": "COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(O)C(OC)C2)CC(=O)C(C)C=C(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C",
+      "inchikey14": "QFJCIRLUMZQUOT",
+      "dose_mg": 20.0,
+      "cmax_obs_ngml": 24.0,
+      "cmax_sisyphus_meta_mgL": 0.01608473496389475
+    },
+    {
+      "name": "sonidegib",
+      "smiles": "Cc1c(C(=O)Nc2ccc(N3CC(C)OC(C)C3)nc2)cccc1-c1ccc(OC(F)(F)F)cc1",
+      "inchikey14": "VZZJRYRQSPEMTK",
+      "dose_mg": 200.0,
+      "cmax_obs_ngml": 1030.0,
+      "cmax_sisyphus_meta_mgL": 0.34917294758982004
+    },
+    {
+      "name": "sumatriptan",
+      "smiles": "CNS(=O)(=O)Cc1ccc2[nH]cc(CCN(C)C)c2c1",
+      "inchikey14": "KQKPFRSPSRPDEB",
+      "dose_mg": 200.0,
+      "cmax_obs_ngml": 16.5,
+      "cmax_sisyphus_meta_mgL": 0.06244909514359326
+    },
+    {
+      "name": "tamoxifen",
+      "smiles": "CCC(=C(c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1",
+      "inchikey14": "NKANXQFJJICGDU",
+      "dose_mg": 20.0,
+      "cmax_obs_ngml": 40.0,
+      "cmax_sisyphus_meta_mgL": 0.05446363305893471
+    },
+    {
+      "name": "tamsulosin",
+      "smiles": "CCOc1ccccc1OCCN[C@H](C)Cc1ccc(OC)c(S(N)(=O)=O)c1",
+      "inchikey14": "DRHKJLXJIQTDTD",
+      "dose_mg": 0.4,
+      "cmax_obs_ngml": 10.1,
+      "cmax_sisyphus_meta_mgL": 0.005866933803533937
+    },
+    {
+      "name": "temozolomide",
+      "smiles": "Cn1nnc2c(C(N)=O)ncn2c1=O",
+      "inchikey14": "BPEGJWRSRHCHSN",
+      "dose_mg": 150.0,
+      "cmax_obs_ngml": 7500.0,
+      "cmax_sisyphus_meta_mgL": 5.460582500484818
+    },
+    {
+      "name": "tenofovir disoproxil",
+      "smiles": "CC(C)OC(=O)OCOP(=O)(COC(C)Cn1cnc2c(N)ncnc21)OCOC(=O)OC(C)C",
+      "inchikey14": "JFVZFKDSXNQEJW",
+      "dose_mg": 300.0,
+      "cmax_obs_ngml": 380.0,
+      "cmax_sisyphus_meta_mgL": 0.3517765895986133
+    },
+    {
+      "name": "trazodone",
+      "smiles": "O=c1n(CCCN2CCN(c3cccc(Cl)c3)CC2)nc2ccccn12",
+      "inchikey14": "PHLBKPHSAVXXEF",
+      "dose_mg": 100.0,
+      "cmax_obs_ngml": 1620.0,
+      "cmax_sisyphus_meta_mgL": 0.501464400381194
+    },
+    {
+      "name": "triazolam",
+      "smiles": "Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2",
+      "inchikey14": "JOFWLTCLBGQGBO",
+      "dose_mg": 0.5,
+      "cmax_obs_ngml": 1.4829999999999999,
+      "cmax_sisyphus_meta_mgL": 0.0014342107101407407
+    },
+    {
+      "name": "ulipristal",
+      "smiles": "CC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CCC4=C3[C@@H](c3ccc(N(C)C)cc3)C[C@@]21C",
+      "inchikey14": "HKDLNTKNLJPAIY",
+      "dose_mg": 30.0,
+      "cmax_obs_ngml": 176.0,
+      "cmax_sisyphus_meta_mgL": 0.18007927774627197
+    },
+    {
+      "name": "upadacitinib",
+      "smiles": "CC[C@@H]1CN(C(=O)NCC(F)(F)F)C[C@@H]1c1cnc2cnc3[nH]ccc3n12",
+      "inchikey14": "WYQFJHHDOKWSHR",
+      "dose_mg": 48.0,
+      "cmax_obs_ngml": 26.0,
+      "cmax_sisyphus_meta_mgL": 0.10390984622007361
+    },
+    {
+      "name": "valganciclovir",
+      "smiles": "CC(C)C(N)C(=O)OCC(CO)OCn1cnc2c(=O)[nH]c(N)nc21",
+      "inchikey14": "WPVFJKSGQUFQAP",
+      "dose_mg": 900.0,
+      "cmax_obs_ngml": 5800.0,
+      "cmax_sisyphus_meta_mgL": 0.43663150031672215
+    },
+    {
+      "name": "venlafaxine",
+      "smiles": "COc1ccc(C(CN(C)C)C2(O)CCCCC2)cc1",
+      "inchikey14": "PNVNVHUZROJLTJ",
+      "dose_mg": 150.0,
+      "cmax_obs_ngml": 35.5,
+      "cmax_sisyphus_meta_mgL": 0.1392870593110686
+    },
+    {
+      "name": "vilazodone",
+      "smiles": "N#Cc1ccc2[nH]cc(CCCCN3CCN(c4ccc5oc(C(N)=O)cc5c4)CC3)c2c1",
+      "inchikey14": "SGEGOXDYSFKCPT",
+      "dose_mg": 20.0,
+      "cmax_obs_ngml": 156.0,
+      "cmax_sisyphus_meta_mgL": 0.14468861128752936
+    },
+    {
+      "name": "vonoprazan",
+      "smiles": "CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1",
+      "inchikey14": "BFDBKMOZYNOTPK",
+      "dose_mg": 120.0,
+      "cmax_obs_ngml": 25.0,
+      "cmax_sisyphus_meta_mgL": 0.10566824984054095
+    },
+    {
+      "name": "zolpidem",
+      "smiles": "Cc1ccc(-c2nc3ccc(C)cn3c2CC(=O)N(C)C)cc1",
+      "inchikey14": "ZAFYATHCZYHLPB",
+      "dose_mg": 12.5,
+      "cmax_obs_ngml": 134.0,
+      "cmax_sisyphus_meta_mgL": 0.0941408815939038
+    },
+    {
+      "name": "zonisamide",
+      "smiles": "NS(=O)(=O)Cc1noc2ccccc12",
+      "inchikey14": "UBQNRHZMVUUOMG",
+      "dose_mg": 300.0,
+      "cmax_obs_ngml": 2000.0,
+      "cmax_sisyphus_meta_mgL": 4.715936100453167
+    }
+  ]
+}
