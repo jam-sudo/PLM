@@ -1,0 +1,8 @@
+{
+  "method": "PLM_tables_v2_cleaned + Sisyphus_MMPK",
+  "n_entries": 3866,
+  "n_drugs": 1260,
+  "cmax_dose_aafe": 3.275,
+  "within_2fold_pct": 38.2,
+  "within_3fold_pct": 57.3
+}
