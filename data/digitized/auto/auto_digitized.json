@@ -69,7 +69,10 @@
       "page": 20,
       "caption": "difference for each istradefylline dose (20 and 40 mg) vs. placebo for the primary efficacy dose groups vs. placebo across weight categories. on istradefylline exposures. Briefly, population PK model-",
       "is_scan": false
-    }
+    },
+    "drug_name": "istradefylline",
+    "source_nda": "NDA022075",
+    "smiles": "CCN1C2=C(C(=O)N(C1=O)CC)N(C(=N2)/C=C/C3=CC(=C(C=C3)OC)OC)C"
   },
   {
     "status": "failed",
@@ -235,7 +238,10 @@
       "page": 152,
       "caption": "Figure. Mean Plasma Concentration-Time Profiles of Istradefylline after Single- Dose Administration of 3 Different Istradefylline 40 mg Tablet Treatments (Study The pharmacokinetic parameters of istra",
       "is_scan": false
-    }
+    },
+    "drug_name": "istradefylline",
+    "source_nda": "NDA022075",
+    "smiles": "CCN1C2=C(C(=O)N(C1=O)CC)N(C(=N2)/C=C/C3=CC(=C(C=C3)OC)OC)C"
   },
   {
     "status": "failed",
@@ -343,7 +349,10 @@
       "page": 155,
       "caption": "Figure. Mean Plasma Concentration-Time Profiles of Istradefylline after The mean plasma concentration-time profiles of istradefylline and M1 after single-dose administration of a 40-mg tablet under fa",
       "is_scan": false
-    }
+    },
+    "drug_name": "istradefylline",
+    "source_nda": "NDA022075",
+    "smiles": "CCN1C2=C(C(=O)N(C1=O)CC)N(C(=N2)/C=C/C3=CC(=C(C=C3)OC)OC)C"
   },
   {
     "status": "failed",
@@ -441,7 +450,10 @@
       "page": 156,
       "caption": "Inset shows plasma concentrations of M1 over 0-48 hours. Figure. Mean Plasma Concentration-Time Profiles of Istradefylline and M1 after Single-Dose Administration of a 40-mg Tablet under Fasted Condit",
       "is_scan": false
-    }
+    },
+    "drug_name": "istradefylline",
+    "source_nda": "NDA022075",
+    "smiles": "CCN1C2=C(C(=O)N(C1=O)CC)N(C(=N2)/C=C/C3=CC(=C(C=C3)OC)OC)C"
   },
   {
     "status": "failed",
@@ -551,7 +563,10 @@
       "page": 178,
       "caption": "Figure below shows mean plasma concentration-time profiles for  female subjects. Figure. Mean Plasma Concentration-Time Profiles of Istradefylline after Single- Dose Administration of Istradefylline i",
       "is_scan": false
-    }
+    },
+    "drug_name": "istradefylline",
+    "source_nda": "NDA022075",
+    "smiles": "CCN1C2=C(C(=O)N(C1=O)CC)N(C(=N2)/C=C/C3=CC(=C(C=C3)OC)OC)C"
   },
   {
     "status": "failed",
@@ -647,7 +662,10 @@
       "page": 181,
       "caption": "Figure. Mean Plasma Concentration-Time Profiles of Istradefylline after Administration of Repeated Doses of Istradefylline for 14 Days in Healthy Male Subjects (Study 6002-US-002). The pharmacokinetic",
       "is_scan": false
-    }
+    },
+    "drug_name": "istradefylline",
+    "source_nda": "NDA022075",
+    "smiles": "CCN1C2=C(C(=O)N(C1=O)CC)N(C(=N2)/C=C/C3=CC(=C(C=C3)OC)OC)C"
   },
   {
     "status": "failed",
@@ -751,7 +769,10 @@
       "page": 185,
       "caption": "Figure. Mean Plasma Concentration-Time Profile of Istradefylline after Repeated Subjects (Study 6002-9703). The pharmacokinetic parameters of istradefylline are summarized in the following Table. Tabl",
       "is_scan": false
-    }
+    },
+    "drug_name": "istradefylline",
+    "source_nda": "NDA022075",
+    "smiles": "CCN1C2=C(C(=O)N(C1=O)CC)N(C(=N2)/C=C/C3=CC(=C(C=C3)OC)OC)C"
   },
   {
     "status": "failed",
@@ -889,7 +910,10 @@
       "page": 194,
       "caption": "Figure. Dose-Normalized Mean Plasma Concentration-Time",
       "is_scan": false
-    }
+    },
+    "drug_name": "istradefylline",
+    "source_nda": "NDA022075",
+    "smiles": "CCN1C2=C(C(=O)N(C1=O)CC)N(C(=N2)/C=C/C3=CC(=C(C=C3)OC)OC)C"
   },
   {
     "status": "failed",
@@ -1043,7 +1067,10 @@
       "page": 214,
       "caption": "Figure. Mean Plasma Concentration-Time Profiles of Levodopa after Single Doses Doses of Istradefylline (Day 15) in Healthy Subjects (Study 6002-US-009). The pharmacokinetic parameters of levodopa on D",
       "is_scan": false
-    }
+    },
+    "drug_name": "istradefylline",
+    "source_nda": "NDA022075",
+    "smiles": "CCN1C2=C(C(=O)N(C1=O)CC)N(C(=N2)/C=C/C3=CC(=C(C=C3)OC)OC)C"
   },
   {
     "status": "success",
@@ -1105,7 +1132,10 @@
       "page": 214,
       "caption": "Figure. Mean Plasma Concentration-Time Profiles of Levodopa after Single Doses Doses of Istradefylline (Day 15) in Healthy Subjects (Study 6002-US-009). The pharmacokinetic parameters of levodopa on D",
       "is_scan": false
-    }
+    },
+    "drug_name": "istradefylline",
+    "source_nda": "NDA022075",
+    "smiles": "CCN1C2=C(C(=O)N(C1=O)CC)N(C(=N2)/C=C/C3=CC(=C(C=C3)OC)OC)C"
   },
   {
     "status": "failed",
@@ -1219,7 +1249,10 @@
       "page": 219,
       "caption": "Figure. Mean Plasma Concentration-Time Profiles",
       "is_scan": false
-    }
+    },
+    "drug_name": "istradefylline",
+    "source_nda": "NDA022075",
+    "smiles": "CCN1C2=C(C(=O)N(C1=O)CC)N(C(=N2)/C=C/C3=CC(=C(C=C3)OC)OC)C"
   },
   {
     "status": "failed",
@@ -1581,7 +1614,10 @@
       "page": 128,
       "caption": "Figure A-2-1: Arithmetic Mean Plasma T Concentration-Time Profiles (Linear Scale; N=18) Plasma total T PK parameters following different breakfast meal types are summarized for the PK Table A-2-3: Des",
       "is_scan": false
-    }
+    },
+    "drug_name": "testosterone undecanoate",
+    "source_nda": "NDA206089",
+    "smiles": "CCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C"
   },
   {
     "status": "failed",
@@ -1705,7 +1741,10 @@
       "page": 175,
       "caption": "Figure 09007-1. Mean (\u00b1SD) Concentration-Time Profile for Serum Total T in Subjects on In terms of Cmax, the mean values on Day 30, 90 and 365 ranged between 1100 ng/dL to 1676 ng/dL and occurred appr",
       "is_scan": false
-    }
+    },
+    "drug_name": "testosterone undecanoate",
+    "source_nda": "NDA206089",
+    "smiles": "CCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C"
   },
   {
     "status": "success",
@@ -1787,7 +1826,10 @@
       "page": 192,
       "caption": "What is the Serum DHT Concentration-Time Profiles Following Oral TU? What is the Difference in DHT Levels Between Oral TU and AndroGel\u00ae? pg/mL (http://www.mayomedicallaboratories.com/test-catalog/prin",
       "is_scan": false
-    }
+    },
+    "drug_name": "testosterone undecanoate",
+    "source_nda": "NDA206089",
+    "smiles": "CCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C"
   },
   {
     "status": "failed",
@@ -2065,7 +2107,10 @@
       "page": 29,
       "caption": "Data source: Tables 9-12, Report 905-PK-006 Target AUC for PED5 is 889 ng*h/mL based on Study 905-CL-080 solifenacin plasma concentration-time profiles in Study 905-CL-074 with PBPK simulations. Figur",
       "is_scan": false
-    }
+    },
+    "drug_name": "solifenacin succinate",
+    "source_nda": "NDA209529",
+    "smiles": "C1CN2CCC1[C@H](C2)OC(=O)N3CCC4=CC=CC=C4[C@@H]3C5=CC=CC=C5.C(CC(=O)O)C(=O)O"
   },
   {
     "status": "failed",
@@ -2167,7 +2212,10 @@
       "page": 15,
       "caption": "Figure 6: Mean Plasma Concentration-Time Profiles of Ibrutinib After Single Administration of Ibrutinib Source: Applicant\u2019s Figure 2 from Clinical Study Report CLL1021. Table 7: Pharmacokinetic Result",
       "is_scan": false
-    }
+    },
+    "drug_name": "ibrutinib",
+    "source_nda": "NDA210563",
+    "smiles": "C=CC(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=CC=C(C=C4)OC5=CC=CC=C5)N"
   },
   {
     "status": "failed",
@@ -2259,7 +2307,10 @@
       "page": 16,
       "caption": "Figure 7: Mean Plasma Concentration-Time Profiles of Ibrutinib After Single Administration of Ibrutinib Source: Applicant\u2019s Figure 2 from Clinical Study Report CLL1022. Table 8: Pharmacokinetic Result",
       "is_scan": false
-    }
+    },
+    "drug_name": "ibrutinib",
+    "source_nda": "NDA210563",
+    "smiles": "C=CC(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=CC=C(C=C4)OC5=CC=CC=C5)N"
   },
   {
     "status": "failed",
@@ -2353,7 +2404,10 @@
       "page": 17,
       "caption": "AUClast (743 ng\u2219h/mL vs. 426 ng\u2219h/mL), higher AUCinf (750 ng\u2219h/mL vs. 460 ng\u2219h/mL), and slightly shorter mean t1/2 (6.4 hr vs. 8.4 hr). Figure 8: Mean Plasma Concentration-Time Profiles of Ibrutinib A",
       "is_scan": false
-    }
+    },
+    "drug_name": "ibrutinib",
+    "source_nda": "NDA210563",
+    "smiles": "C=CC(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=CC=C(C=C4)OC5=CC=CC=C5)N"
   },
   {
     "status": "failed",
@@ -2558,7 +2612,9 @@
       "page": 191,
       "caption": "Figure 19. Mean VX-445 Plasma Concentration-Time Profiles Following Single Dose Administration of VX-445, Part A (Log-linear Scale) Source \u2013 Figure 11-2, CSR001 Table 75. Summary of the Pharmacokineti",
       "is_scan": false
-    }
+    },
+    "drug_name": "elexacaftor, ivacaftor, tezacaftor",
+    "source_nda": "NDA212273"
   },
   {
     "status": "failed",
@@ -2666,7 +2722,9 @@
       "page": 194,
       "caption": "Figure 21. Mean VX-445 Trough Plasma Concentration-Time Profiles Following Multiple Oral Doses for 10 Days (Part B) and 14 Days (Part C) Source: Figure 11-8, 11-14, CSR001",
       "is_scan": false
-    }
+    },
+    "drug_name": "elexacaftor, ivacaftor, tezacaftor",
+    "source_nda": "NDA212273"
   },
   {
     "status": "failed",
@@ -2818,7 +2876,10 @@
       "page": 7,
       "caption": "Figure 1.2 Geometric mean (\u00b1 SD) metformin plasma concentration-time profiles (PK set, N=52) following 750 mg single dose of ER-suspension under fasting condition (blue) and fed condition (red). BLQ s",
       "is_scan": false
-    }
+    },
+    "drug_name": "metformin",
+    "source_nda": "NDA212595",
+    "smiles": "CN(C)C(=N)N=C(N)N"
   },
   {
     "status": "success",
@@ -2900,7 +2961,10 @@
       "page": 175,
       "caption": "Figure 21. PBPK predicted and observed PK profiles of avapritinib following multiple dosing PBPK Predicted (lines) and observed (circles, Study BLU-285-1101) plasma concentration-time profiles of avap",
       "is_scan": false
-    }
+    },
+    "drug_name": "avapritinib",
+    "source_nda": "NDA212608",
+    "smiles": "C[C@](C1=CC=C(C=C1)F)(C2=CN=C(N=C2)N3CCN(CC3)C4=NC=NN5C4=CC(=C5)C6=CN(N=C6)C)N"
   },
   {
     "status": "success",
@@ -2982,7 +3046,10 @@
       "page": 175,
       "caption": "Figure 21. PBPK predicted and observed PK profiles of avapritinib following multiple dosing PBPK Predicted (lines) and observed (circles, Study BLU-285-1101) plasma concentration-time profiles of avap",
       "is_scan": false
-    }
+    },
+    "drug_name": "avapritinib",
+    "source_nda": "NDA212608",
+    "smiles": "C[C@](C1=CC=C(C=C1)F)(C2=CN=C(N=C2)N3CCN(CC3)C4=NC=NN5C4=CC(=C5)C6=CN(N=C6)C)N"
   },
   {
     "status": "success",
@@ -3064,7 +3131,10 @@
       "page": 175,
       "caption": "Figure 21. PBPK predicted and observed PK profiles of avapritinib following multiple dosing PBPK Predicted (lines) and observed (circles, Study BLU-285-1101) plasma concentration-time profiles of avap",
       "is_scan": false
-    }
+    },
+    "drug_name": "avapritinib",
+    "source_nda": "NDA212608",
+    "smiles": "C[C@](C1=CC=C(C=C1)F)(C2=CN=C(N=C2)N3CCN(CC3)C4=NC=NN5C4=CC(=C5)C6=CN(N=C6)C)N"
   },
   {
     "status": "success",
@@ -3144,7 +3214,10 @@
       "page": 37,
       "caption": "Figure 16 Observed Osilodrostat Plasma Concentrations versus Time after Previous Dose, All Data (Left: Linear Y Scale, Right: Logarithmic Y Scale) (Source: figure 5-2)",
       "is_scan": false
-    }
+    },
+    "drug_name": "osilodrostat",
+    "source_nda": "NDA212801",
+    "smiles": "C1CC2=CN=CN2[C@H]1C3=C(C=C(C=C3)C#N)F"
   },
   {
     "status": "failed",
@@ -3240,7 +3313,10 @@
       "page": 49,
       "caption": "Figure 19 Observed (dots or circles) and simulated (lines) osilodrostat plasma concentration-time profiles following a single dose (3, 10, 30, 50, 100, or 200 mg) or multiple dose (0.5, 1 and 3 mg, qd",
       "is_scan": false
-    }
+    },
+    "drug_name": "osilodrostat",
+    "source_nda": "NDA212801",
+    "smiles": "C1CC2=CN=CN2[C@H]1C3=C(C=C(C=C3)C#N)F"
   },
   {
     "status": "failed",
@@ -3364,7 +3440,10 @@
       "page": 63,
       "caption": "Figure 5. Graphical Exploration of Day 8 HIV-1 RNA Decline vs. Predictors of Interest, BRIGHTE IC50 represents EC50 in the figure. Green dots (placebo) and red dots (FTR 600 mg BID); PBIC50: Baseline ",
       "is_scan": false
-    }
+    },
+    "drug_name": "fostemsavir",
+    "source_nda": "NDA212950",
+    "smiles": "CC1=NN(C=N1)C2=NC=C(C3=C2N(C=C3C(=O)C(=O)N4CCN(CC4)C(=O)C5=CC=CC=C5)COP(=O)(O)O)OC"
   },
   {
     "status": "success",
@@ -3438,7 +3517,10 @@
       "page": 64,
       "caption": "Figure 6. Inhibitory Quotient\u2014Day 8 Response, BRIGHTE Trial IC50 represents EC50 in the figure. The color scale in the left panel presents EC50 fold change in log-scale. EC50 fold change range Abbrevi",
       "is_scan": false
-    }
+    },
+    "drug_name": "fostemsavir",
+    "source_nda": "NDA212950",
+    "smiles": "CC1=NN(C=N1)C2=NC=C(C3=C2N(C=C3C(=O)C(=O)N4CCN(CC4)C(=O)C5=CC=CC=C5)COP(=O)(O)O)OC"
   },
   {
     "status": "failed",
@@ -3548,7 +3630,10 @@
       "page": 226,
       "caption": "Figure 14. E-R Relationships in Subgroups by Baseline CD4+ T Cell Counts Source: Reviewer\u2019s figure. Abbreviations: CFB, change from baseline; Ctau, plasma concentration during a dosing interval; E-R, ",
       "is_scan": false
-    }
+    },
+    "drug_name": "fostemsavir",
+    "source_nda": "NDA212950",
+    "smiles": "CC1=NN(C=N1)C2=NC=C(C3=C2N(C=C3C(=O)C(=O)N4CCN(CC4)C(=O)C5=CC=CC=C5)COP(=O)(O)O)OC"
   },
   {
     "status": "failed",
@@ -3632,7 +3717,10 @@
       "page": 106,
       "caption": "Figure 17-2: Mean\u00b1SE Omeprazole Plasma Concentration-Time Profiles on Linear (A) and Semi-logarithmic (B) Scale Figure 17-3: Mean\u00b1SE Rifabutin Plasma Concentration-Time Profiles on Linear (A) and Semi",
       "is_scan": false
-    }
+    },
+    "drug_name": "amoxicillin",
+    "source_nda": "NDA213004",
+    "smiles": "CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=C(C=C3)O)N)C(=O)O)C"
   },
   {
     "status": "failed",
@@ -3726,7 +3814,10 @@
       "page": 111,
       "caption": "Figure 17-7: Mean\u00b1SE Rifabutin Plasma Concentration-Time Profiles on Linear (A) and Semi\u00ad logarithmic (B) Scale Figure 17-8: Mean\u00b1SE 25-O-desacetylrifabutin Plasma Concentration-Time Profiles on Linea",
       "is_scan": false
-    }
+    },
+    "drug_name": "amoxicillin",
+    "source_nda": "NDA213004",
+    "smiles": "CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=C(C=C3)O)N)C(=O)O)C"
   },
   {
     "status": "failed",
@@ -3812,7 +3903,10 @@
       "page": 38,
       "caption": "Source: Figure 11-1 of Study 002 CSR Figure 5. Arithmetic Mean Plasma Concentration-Time Profiles of MK-4618 Following Multiple Once Daily Oral Dose Administration of 25 to 400 mg MK-4618 for 14 Days ",
       "is_scan": false
-    }
+    },
+    "drug_name": "vibegron",
+    "source_nda": "NDA213006",
+    "smiles": "C1C[C@@H](N[C@@H]1CC2=CC=C(C=C2)NC(=O)[C@@H]3CCC4=NC=CC(=O)N34)[C@@H](C5=CC=CC=C5)O"
   },
   {
     "status": "failed",
@@ -3964,7 +4058,10 @@
       "page": 53,
       "caption": "Table 21. Geometric Least Squares Mean and Statistical Comparison of Vibegron Pharmacokinetic Parameters Vibegron exposures when administered as a single 100 mg dose concomitantly with multiple doses ",
       "is_scan": false
-    }
+    },
+    "drug_name": "vibegron",
+    "source_nda": "NDA213006",
+    "smiles": "C1C[C@@H](N[C@@H]1CC2=CC=C(C=C2)NC(=O)[C@@H]3CCC4=NC=CC(=O)N34)[C@@H](C5=CC=CC=C5)O"
   },
   {
     "status": "success",
@@ -4046,7 +4143,10 @@
       "page": 54,
       "caption": "concomitantly administered with diltiazem (73 h alone vs. 80 h with diltiazem). Figure 11. Arithmetic Mean (SE) Plasma Concentration-Time Profiles of MK-4618 Alone and MK-4618 With Diltiazem in Health",
       "is_scan": false
-    }
+    },
+    "drug_name": "vibegron",
+    "source_nda": "NDA213006",
+    "smiles": "C1C[C@@H](N[C@@H]1CC2=CC=C(C=C2)NC(=O)[C@@H]3CCC4=NC=CC(=O)N34)[C@@H](C5=CC=CC=C5)O"
   },
   {
     "status": "failed",
@@ -4352,7 +4452,10 @@
       "page": 74,
       "caption": "Figure 23. Arithmetic Mean (SD) Plasma Concentration-Time Profiles of Ethinyl Estradiol Following the Administration of a Single Oral Dose of Nordette\u00ae28 (0.03 mg EE/0.15 mg LNG) With and Without Mult",
       "is_scan": false
-    }
+    },
+    "drug_name": "vibegron",
+    "source_nda": "NDA213006",
+    "smiles": "C1C[C@@H](N[C@@H]1CC2=CC=C(C=C2)NC(=O)[C@@H]3CCC4=NC=CC(=O)N34)[C@@H](C5=CC=CC=C5)O"
   },
   {
     "status": "failed",
@@ -4462,7 +4565,9 @@
       "page": 195,
       "caption": "Figure 4.2.1-3. Mean Baseline-Adjusted E2 and Total Estrone Plasma Concentration Time Profiles Table 4.2.1-2. Bioequivalence Assessment for Morning Dose To-Be-Marketed FDC Capsule (Study Least Squares",
       "is_scan": false
-    }
+    },
+    "drug_name": "elagolix sodium,estradiol,norethindrone",
+    "source_nda": "NDA213388"
   },
   {
     "status": "failed",
@@ -4572,7 +4677,10 @@
       "page": 283,
       "caption": "LUPKINYS (voclosporin) midazolam PK (Study ISA07-07). After adjustment of ketoconazole CL/F in the model, the model could simulate ketoconazole plasma concentrations and PK parameters (Table 80 and th",
       "is_scan": false
-    }
+    },
+    "drug_name": "voclosporin",
+    "source_nda": "NDA213716",
+    "smiles": "CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C=C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C"
   },
   {
     "status": "success",
@@ -4654,7 +4762,10 @@
       "page": 283,
       "caption": "LUPKINYS (voclosporin) midazolam PK (Study ISA07-07). After adjustment of ketoconazole CL/F in the model, the model could simulate ketoconazole plasma concentrations and PK parameters (Table 80 and th",
       "is_scan": false
-    }
+    },
+    "drug_name": "voclosporin",
+    "source_nda": "NDA213716",
+    "smiles": "CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C=C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C"
   },
   {
     "status": "failed",
@@ -4814,7 +4925,10 @@
       "page": 329,
       "caption": "Figure 20 Relationship between pERK inhibition and plasma concentration of selumetinib Source: GSR summary of clinical pharmacology.",
       "is_scan": false
-    }
+    },
+    "drug_name": "selumetinib",
+    "source_nda": "NDA213756",
+    "smiles": "CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)Cl)C(=O)NOCCO"
   },
   {
     "status": "failed",
@@ -4964,7 +5078,10 @@
       "page": 202,
       "caption": "Abbreviations: AUClast, area under the curve to last measurable collection; Cmax, maximum plasma concentration; tmax, time to maximum concentration Abbreviations: AUClast, area under the curve to last",
       "is_scan": false
-    }
+    },
+    "drug_name": "daridorexant",
+    "source_nda": "NDA214985",
+    "smiles": "CC1=C(C=CC2=C1N=C(N2)[C@@]3(CCCN3C(=O)C4=C(C=CC(=C4)OC)N5N=CC=N5)C)Cl"
   },
   {
     "status": "failed",
@@ -5130,7 +5247,10 @@
       "page": 238,
       "caption": "daridorexant) administration. Daridorexant had a geometric mean (95% CI) absolute BA of Figure 22. Mean Plasma Concentration-Time Profile of p.o. Daridorexant (Cold) vs. Dose-Adjusted, IV Administered",
       "is_scan": false
-    }
+    },
+    "drug_name": "daridorexant",
+    "source_nda": "NDA214985",
+    "smiles": "CC1=C(C=CC2=C1N=C(N2)[C@@]3(CCCN3C(=O)C4=C(C=CC(=C4)OC)N5N=CC=N5)C)Cl"
   },
   {
     "status": "failed",
@@ -5265,7 +5385,10 @@
       "page": 52,
       "caption": "NDA 215019: Dartisla ODT (glycopyrrolate) orally disintegrating tablets Table 19. Summary of Glycopyrrolate Plasma PK Parameters, Study 000103702 Subjects did not complete the study as per protocol. T",
       "is_scan": false
-    }
+    },
+    "drug_name": "glycopyrrolate",
+    "source_nda": "NDA215019",
+    "smiles": "C[N+]1(CCC(C1)OC(=O)C(C2CCCC2)(C3=CC=CC=C3)O)C.[Br-]"
   },
   {
     "status": "success",
@@ -5347,7 +5470,10 @@
       "page": 209,
       "caption": "Figure 12. Mean Plasma Concentration-Time Profiles of Dextromethorphan on Day 1 and Day 8 Healthy Subjects (Studies AXS-05-101 and AXS-05-102) Source: Summary of clinical pharmacology, Figures 1 and 2",
       "is_scan": false
-    }
+    },
+    "drug_name": "bupropion",
+    "source_nda": "NDA215430",
+    "smiles": "CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C"
   },
   {
     "status": "success",
@@ -5417,7 +5543,10 @@
       "page": 209,
       "caption": "Figure 12. Mean Plasma Concentration-Time Profiles of Dextromethorphan on Day 1 and Day 8 Healthy Subjects (Studies AXS-05-101 and AXS-05-102) Source: Summary of clinical pharmacology, Figures 1 and 2",
       "is_scan": false
-    }
+    },
+    "drug_name": "bupropion",
+    "source_nda": "NDA215430",
+    "smiles": "CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C"
   },
   {
     "status": "success",
@@ -5487,7 +5616,10 @@
       "page": 221,
       "caption": "Figure 20. Mean Plasma Concentration-Time Profiles of Dextromethorphan Following Source: Study report AXS-05-108; Figure 11.4.1-1. Abbreviations: h, hours; SD, standard deviation Table 84.Geometric Me",
       "is_scan": false
-    }
+    },
+    "drug_name": "bupropion",
+    "source_nda": "NDA215430",
+    "smiles": "CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C"
   },
   {
     "status": "failed",
@@ -5569,7 +5701,10 @@
       "page": 228,
       "caption": "Figure 25. Mean Plasma Concentration-Time Profiles of Bupropion Following Administration of Source: Study report AXS-05-111; Figure 11.4.1-4. Abbreviation: h, hours Table 89. Geometric Mean Ratio [AXS",
       "is_scan": false
-    }
+    },
+    "drug_name": "bupropion",
+    "source_nda": "NDA215430",
+    "smiles": "CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C"
   },
   {
     "status": "failed",
@@ -5805,7 +5940,10 @@
       "page": 89,
       "caption": "Figure 50. Comparison of observed vs PBPK predicted plasma concentration-time profiles of Solid black line: geomean of predicted PK using the adult PBPK model; shaded grey area: 5th-95th percentile of",
       "is_scan": false
-    }
+    },
+    "drug_name": "rivaroxaban",
+    "source_nda": "NDA215859",
+    "smiles": "C1COCC(=O)N1C2=CC=C(C=C2)N3C[C@@H](OC3=O)CNC(=O)C4=CC=C(S4)Cl"
   },
   {
     "status": "success",
@@ -5873,7 +6011,10 @@
       "page": 89,
       "caption": "Figure 50. Comparison of observed vs PBPK predicted plasma concentration-time profiles of Solid black line: geomean of predicted PK using the adult PBPK model; shaded grey area: 5th-95th percentile of",
       "is_scan": false
-    }
+    },
+    "drug_name": "rivaroxaban",
+    "source_nda": "NDA215859",
+    "smiles": "C1COCC(=O)N1C2=CC=C(C=C2)N3C[C@@H](OC3=O)CNC(=O)C4=CC=C(S4)Cl"
   },
   {
     "status": "failed",
@@ -5959,7 +6100,10 @@
       "page": 89,
       "caption": "Figure 50. Comparison of observed vs PBPK predicted plasma concentration-time profiles of Solid black line: geomean of predicted PK using the adult PBPK model; shaded grey area: 5th-95th percentile of",
       "is_scan": false
-    }
+    },
+    "drug_name": "rivaroxaban",
+    "source_nda": "NDA215859",
+    "smiles": "C1COCC(=O)N1C2=CC=C(C=C2)N3C[C@@H](OC3=O)CNC(=O)C4=CC=C(S4)Cl"
   },
   {
     "status": "failed",
@@ -6097,7 +6241,10 @@
       "page": 93,
       "caption": "values with decreasing age/body weight, a switch to BID regimen was implemented for the oral Figure 53. Comparison of PBPK predicted and observed rivaroxaban plasma concentration in the time interval ",
       "is_scan": false
-    }
+    },
+    "drug_name": "rivaroxaban",
+    "source_nda": "NDA215859",
+    "smiles": "C1COCC(=O)N1C2=CC=C(C=C2)N3C[C@@H](OC3=O)CNC(=O)C4=CC=C(S4)Cl"
   },
   {
     "status": "failed",
@@ -6209,7 +6356,10 @@
       "page": 173,
       "caption": "4 subjects who failed to complete the study were lost to follow-up. The PK population was comprised of subjects with a sufficient number of concentration-time data to provide a PK profile for noncompa",
       "is_scan": false
-    }
+    },
+    "drug_name": "oteseconazole",
+    "source_nda": "NDA215888",
+    "smiles": "C1=CC(=CC=C1C2=CN=C(C=C2)C([C@](CN3C=NN=N3)(C4=C(C=C(C=C4)F)F)O)(F)F)OCC(F)(F)F"
   },
   {
     "status": "success",
@@ -6291,7 +6441,10 @@
       "page": 175,
       "caption": "Table 125. Mean (\u00b1 SD) Compartmental PK Parameters Dose (mg) Abbreviations: CL/F, apparent clearance; PK, pharmacokinetic; t1/2, half-life; Tlag, lag time; TVz/F, apparent volume of distribution Figur",
       "is_scan": false
-    }
+    },
+    "drug_name": "oteseconazole",
+    "source_nda": "NDA215888",
+    "smiles": "C1=CC(=CC=C1C2=CN=C(C=C2)C([C@](CN3C=NN=N3)(C4=C(C=C(C=C4)F)F)O)(F)F)OCC(F)(F)F"
   },
   {
     "status": "failed",
@@ -6451,7 +6604,10 @@
       "page": 263,
       "caption": "Figure 30 Observed (dots) and simulated (lines) adagrasib plasma concentration-time profiles (geometric mean) following a single dose (A: 200 mg; B: 600 mg) or multiple dose (C: 400 mg bid; D: 600 mg ",
       "is_scan": false
-    }
+    },
+    "drug_name": "adagrasib",
+    "source_nda": "NDA216340",
+    "smiles": "CN1CCC[C@H]1COC2=NC3=C(CCN(C3)C4=CC=CC5=C4C(=CC=C5)Cl)C(=N2)N6CCN([C@H](C6)CC#N)C(=O)C(=C)F"
   },
   {
     "status": "success",
@@ -6491,7 +6647,10 @@
       "page": 263,
       "caption": "Figure 30 Observed (dots) and simulated (lines) adagrasib plasma concentration-time profiles (geometric mean) following a single dose (A: 200 mg; B: 600 mg) or multiple dose (C: 400 mg bid; D: 600 mg ",
       "is_scan": false
-    }
+    },
+    "drug_name": "adagrasib",
+    "source_nda": "NDA216340",
+    "smiles": "CN1CCC[C@H]1COC2=NC3=C(CCN(C3)C4=CC=CC5=C4C(=CC=C5)Cl)C(=N2)N6CCN([C@H](C6)CC#N)C(=O)C(=C)F"
   },
   {
     "status": "success",
@@ -6573,7 +6732,10 @@
       "page": 263,
       "caption": "Figure 30 Observed (dots) and simulated (lines) adagrasib plasma concentration-time profiles (geometric mean) following a single dose (A: 200 mg; B: 600 mg) or multiple dose (C: 400 mg bid; D: 600 mg ",
       "is_scan": false
-    }
+    },
+    "drug_name": "adagrasib",
+    "source_nda": "NDA216340",
+    "smiles": "CN1CCC[C@H]1COC2=NC3=C(CCN(C3)C4=CC=CC5=C4C(=CC=C5)Cl)C(=N2)N6CCN([C@H](C6)CC#N)C(=O)C(=C)F"
   },
   {
     "status": "failed",
@@ -6665,7 +6827,10 @@
       "page": 263,
       "caption": "Figure 30 Observed (dots) and simulated (lines) adagrasib plasma concentration-time profiles (geometric mean) following a single dose (A: 200 mg; B: 600 mg) or multiple dose (C: 400 mg bid; D: 600 mg ",
       "is_scan": false
-    }
+    },
+    "drug_name": "adagrasib",
+    "source_nda": "NDA216340",
+    "smiles": "CN1CCC[C@H]1COC2=NC3=C(CCN(C3)C4=CC=CC5=C4C(=CC=C5)Cl)C(=N2)N6CCN([C@H](C6)CC#N)C(=O)C(=C)F"
   },
   {
     "status": "failed",
@@ -6929,7 +7094,10 @@
       "page": 265,
       "caption": "Figure 52. Observed Grade \u22651 Dysgeusia Events Overlay With Logistic Regression Model Source: Applicant\u2019s ER-safety report, Figure A2.2. Abbreviations: Cmax, maximum plasma concentration; E-R, exposure",
       "is_scan": false
-    }
+    },
+    "drug_name": "nirmatrelvir",
+    "source_nda": "NDA217188",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)C(F)(F)F)C(=O)N[C@@H](C[C@@H]3CCNC3=O)C#N)C"
   },
   {
     "status": "success",
@@ -6997,7 +7165,10 @@
       "page": 275,
       "caption": "nirmatrelvir PK both following coadministration of carbamazepine with a single dose of Figure 56. Effects of Moderate CYP3A Inducers on the Exposure of the Components in Ritonavir Abbreviations: AUCR,",
       "is_scan": false
-    }
+    },
+    "drug_name": "nirmatrelvir",
+    "source_nda": "NDA217188",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)C(F)(F)F)C(=O)N[C@@H](C[C@@H]3CCNC3=O)C#N)C"
   },
   {
     "status": "failed",
@@ -7469,7 +7640,10 @@
       "page": 22,
       "caption": "doses, respectively. Benzgalantamine concentrations were 0.15%, 0.304%, and 0.43% of the galantamine Cmax following ZUNVEYL 5 mg, 10 mg, and 15 mg dose, respectively. AUCs for benzgalantamine were not",
       "is_scan": false
-    }
+    },
+    "drug_name": "benzgalantamine",
+    "source_nda": "NDA218549",
+    "smiles": "CN1CC[C@@]23C=C[C@@H](C[C@@H]2OC4=C(C=CC(=C34)C1)OC)OC(=O)C5=CC=CC=C5"
   },
   {
     "status": "failed",
@@ -7663,7 +7837,10 @@
       "page": 201,
       "caption": "Figure 23. Mean Plasma Concentration Over Time, Cohort 2, Log Scale Source: Figure 11-D. Study CRN00808-07 Clinical Study Report Abbreviations: CRN00808, paltusotine; HF, high-fat meal; log, logarithm",
       "is_scan": false
-    }
+    },
+    "drug_name": "paltusotine",
+    "source_nda": "NDA219070",
+    "smiles": "C1CN(CCC1N)C2=C3C=C(C=CC3=NC=C2C4=CC(=CC(=C4)F)F)C5=CC=CC(=C5O)C#N"
   },
   {
     "status": "failed",
@@ -7827,7 +8004,10 @@
       "page": 261,
       "caption": "Figure 43. Sensitivity Analysis of Colon Absorption Scalar on AUC (Left) and Cmax (Right) Ratios AUC ratio Cmax ratio Source: Figure 2, Information Request response dated June 25, 2025 Abbreviations: ",
       "is_scan": false
-    }
+    },
+    "drug_name": "paltusotine",
+    "source_nda": "NDA219070",
+    "smiles": "C1CN(CCC1N)C2=C3C=C(C=CC3=NC=C2C4=CC(=CC(=C4)F)F)C5=CC=CC(=C5O)C#N"
   },
   {
     "status": "success",
@@ -7879,7 +8059,10 @@
       "page": 261,
       "caption": "Figure 43. Sensitivity Analysis of Colon Absorption Scalar on AUC (Left) and Cmax (Right) Ratios AUC ratio Cmax ratio Source: Figure 2, Information Request response dated June 25, 2025 Abbreviations: ",
       "is_scan": false
-    }
+    },
+    "drug_name": "paltusotine",
+    "source_nda": "NDA219070",
+    "smiles": "C1CN(CCC1N)C2=C3C=C(C=CC3=NC=C2C4=CC(=CC(=C4)F)F)C5=CC=CC(=C5O)C#N"
   },
   {
     "status": "success",
@@ -7943,7 +8126,10 @@
       "page": 261,
       "caption": "Figure 43. Sensitivity Analysis of Colon Absorption Scalar on AUC (Left) and Cmax (Right) Ratios AUC ratio Cmax ratio Source: Figure 2, Information Request response dated June 25, 2025 Abbreviations: ",
       "is_scan": false
-    }
+    },
+    "drug_name": "paltusotine",
+    "source_nda": "NDA219070",
+    "smiles": "C1CN(CCC1N)C2=C3C=C(C=CC3=NC=C2C4=CC(=CC(=C4)F)F)C5=CC=CC(=C5O)C#N"
   },
   {
     "status": "success",
@@ -7995,7 +8181,10 @@
       "page": 261,
       "caption": "Figure 43. Sensitivity Analysis of Colon Absorption Scalar on AUC (Left) and Cmax (Right) Ratios AUC ratio Cmax ratio Source: Figure 2, Information Request response dated June 25, 2025 Abbreviations: ",
       "is_scan": false
-    }
+    },
+    "drug_name": "paltusotine",
+    "source_nda": "NDA219070",
+    "smiles": "C1CN(CCC1N)C2=C3C=C(C=CC3=NC=C2C4=CC(=CC(=C4)F)F)C5=CC=CC(=C5O)C#N"
   },
   {
     "status": "failed",
@@ -8197,7 +8386,10 @@
       "page": 218,
       "caption": "Figure 30. Simulated and Observed Plasma Concentration-Time Profiles of a Single Oral Dose of Depicted are simulated (lines) and observed data (circles, white: mean of n=6; Clinical Study CY 6011, par",
       "is_scan": false
-    }
+    },
+    "drug_name": "aficamten",
+    "source_nda": "NDA219083",
+    "smiles": "CCC1=NC(=NO1)C2=CC3=C(C=C2)[C@@H](CC3)NC(=O)C4=CN(N=C4)C"
   },
   {
     "status": "failed",
@@ -8293,7 +8485,10 @@
       "page": 218,
       "caption": "Figure 30. Simulated and Observed Plasma Concentration-Time Profiles of a Single Oral Dose of Depicted are simulated (lines) and observed data (circles, white: mean of n=6; Clinical Study CY 6011, par",
       "is_scan": false
-    }
+    },
+    "drug_name": "aficamten",
+    "source_nda": "NDA219083",
+    "smiles": "CCC1=NC(=NO1)C2=CC3=C(C=C2)[C@@H](CC3)NC(=O)C4=CN(N=C4)C"
   },
   {
     "status": "success",
@@ -8359,7 +8554,10 @@
       "page": 219,
       "caption": "Table 123. Simulated and Observed PK Parameters Following Oral Administration of a Single Dose of 10-mg Aficamten in Healthy Subjects With Different CYP2D6 Phenotypes Source: Tables 12 and 13 in the P",
       "is_scan": false
-    }
+    },
+    "drug_name": "aficamten",
+    "source_nda": "NDA219083",
+    "smiles": "CCC1=NC(=NO1)C2=CC3=C(C=C2)[C@@H](CC3)NC(=O)C4=CN(N=C4)C"
   },
   {
     "status": "failed",
@@ -8455,7 +8653,10 @@
       "page": 223,
       "caption": "Table 125. Summary of Model Development and Verification of the Aficamten PBPK Model With or Source: Tables 8 to 13 and 42 to 45 in the PBPK report (cyt-11-b) and reviewer\u2019s analysis * Modified paroxe",
       "is_scan": false
-    }
+    },
+    "drug_name": "aficamten",
+    "source_nda": "NDA219083",
+    "smiles": "CCC1=NC(=NO1)C2=CC3=C(C=C2)[C@@H](CC3)NC(=O)C4=CN(N=C4)C"
   },
   {
     "status": "success",
@@ -8537,7 +8738,10 @@
       "page": 5,
       "caption": "Treatment B (100 mg dose of Sitagliptin HCl Oral Solution 25 mg/mL (4 mL), under fed conditions) vs. Treatment A (100 mg dose of Sitagliptin HCl Oral Solution 25 PK Results: PK profiles and descriptiv",
       "is_scan": false
-    }
+    },
+    "drug_name": "sitagliptin",
+    "source_nda": "NDA219122",
+    "smiles": "C1CN2C(=NN=C2C(F)(F)F)CN1C(=O)C[C@@H](CC3=CC(=C(C=C3F)F)F)N"
   },
   {
     "status": "failed",
@@ -8779,7 +8983,10 @@
       "page": 125,
       "caption": "Figure 17. Baseline-Adjusted Mean Plasma Doxecitine (Top Panel) and Doxribtimine (Bottom Panel) Concentration-Time Profiles Following a Single Oral Dose of 266.6 mg/kg Under Fasted and Fed Conditions ",
       "is_scan": false
-    }
+    },
+    "drug_name": "doxecitine",
+    "source_nda": "NDA219792",
+    "smiles": "C1[C@@H]([C@H](O[C@H]1N2C=CC(=NC2=O)N)CO)O"
   },
   {
     "status": "failed",

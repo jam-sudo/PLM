@@ -1,16 +1,21 @@
 {
+  "version": "0.2.0",
   "n_profiles": 62,
-  "n_unique_drugs": 5,
-  "smiles_valid": 4,
-  "smiles_missing": 58,
+  "n_unique_drugs": 27,
+  "n_unique_smiles": 23,
+  "smiles_coverage": "59/62",
   "route_distribution": {
     "oral": 61,
     "SC_injection": 1
   },
   "cmax_ngml": {
     "min": 0.3,
-    "median": 99.0,
+    "median": 96.0,
     "max": 14360.0
   },
-  "grid_coverage": 7.9
+  "digitization_methods": {
+    "auto_hough_easyocr": 57,
+    "visual_llm": 5
+  },
+  "mean_grid_points_filled": 7.9
 }

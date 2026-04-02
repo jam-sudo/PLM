@@ -1,0 +1,1294 @@
+{
+  "200403": {
+    "drug": "hydromorphone",
+    "smiles": "CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3C(=O)CC4"
+  },
+  "201194": {
+    "drug": "oxycodone",
+    "smiles": "CN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O"
+  },
+  "205777": {
+    "drug": "naloxone",
+    "smiles": "C=CCN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)O)O4)O"
+  },
+  "204200": {
+    "drug": "epinephrine",
+    "smiles": "CNC[C@@H](C1=CC(=C(C=C1)O)O)O"
+  },
+  "206940": {
+    "drug": "eluxadoline",
+    "smiles": "CC1=CC(=CC(=C1C[C@@H](C(=O)N(CC2=CC(=C(C=C2)OC)C(=O)O)[C@@H](C)C3=NC=C(N3)C4=CC=CC=C4)N)C)C(=O)N"
+  },
+  "208079": {
+    "drug": "betamethasone dipropionate",
+    "smiles": "CCC(=O)OCC(=O)[C@]1([C@H](C[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2CCC4=CC(=O)C=C[C@@]43C)F)O)C)C)OC(=O)CC"
+  },
+  "209529": {
+    "drug": "solifenacin succinate",
+    "smiles": "C1CN2CCC1[C@H](C2)OC(=O)N3CCC4=CC=CC=C4[C@@H]3C5=CC=CC=C5.C(CC(=O)O)C(=O)O"
+  },
+  "214622": {
+    "drug": "infigratinib",
+    "smiles": "CCN1CCN(CC1)C2=CC=C(C=C2)NC3=CC(=NC=N3)N(C)C(=O)NC4=C(C(=CC(=C4Cl)OC)OC)Cl"
+  },
+  "213400": {
+    "drug": "tazemetostat",
+    "smiles": "CCN(C1CCOCC1)C2=CC(=CC(=C2C)C(=O)NCC3=C(C=C(NC3=O)C)C)C4=CC=C(C=C4)CN5CCOCC5"
+  },
+  "022504": {
+    "drug": "testosterone",
+    "smiles": "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2O)CCC4=CC(=O)CC[C@]34C"
+  },
+  "201195": {
+    "drug": "docetaxel",
+    "smiles": "CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C)O"
+  },
+  "206544": {
+    "drug": "morphine",
+    "smiles": "CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3[C@H](C=C4)O"
+  },
+  "202342": {
+    "drug": "esomeprazole strontium",
+    "smiles": "CC1=CN=C(C(=C1OC)C)C[S@](=O)C2=NC3=C([N-]2)C=CC(=C3)OC.CC1=CN=C(C(=C1OC)C)C[S@](=O)C2=NC3=C([N-]2)C=CC(=C3)OC.O.O.O.O.[Sr+2]"
+  },
+  "207315": {
+    "drug": "lamivudine",
+    "smiles": "C1[C@H](O[C@H](S1)CO)N2C=CC(=NC2=O)N"
+  },
+  "213004": {
+    "drug": "amoxicillin",
+    "smiles": "CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=C(C=C3)O)N)C(=O)O)C"
+  },
+  "214231": {
+    "drug": "dasiglucagon",
+    "smiles": "C[C@H]([C@@H](C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H]([C@@H](C)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC3=CC=C(C=C3)O)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CC(=O)O)C(=O)NC(C)(C)C(=O)N[C@@H](C)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC4=CC=CC=C4)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CC5=CNC6=CC=CC=C65)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CO)C(=O)N[C@@H]([C@@H](C)O)C(=O)O)NC(=O)CNC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CO)NC(=O)[C@H](CC7=CNC=N7)N)O"
+  },
+  "219884": {
+    "drug": "trofinetide",
+    "smiles": "C[C@]1(CCCN1C(=O)CN)C(=O)N[C@@H](CCC(=O)O)C(=O)O"
+  },
+  "202343": {
+    "drug": "simvastatin",
+    "smiles": "CCC(C)(C)C(=O)O[C@H]1C[C@H](C=C2[C@H]1[C@H]([C@H](C=C2)C)CC[C@@H]3C[C@H](CC(=O)O3)O)C"
+  },
+  "210563": {
+    "drug": "ibrutinib",
+    "smiles": "C=CC(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=CC=C(C=C4)OC5=CC=CC=C5)N"
+  },
+  "208081": {
+    "drug": "aminolevulinic acid",
+    "smiles": "C(CC(=O)O)C(=O)CN"
+  },
+  "209531": {
+    "drug": "nusinersen",
+    "smiles": null
+  },
+  "209875": {
+    "drug": "pitavastatin",
+    "smiles": "C1CC1C2=NC3=CC=CC=C3C(=C2/C=C/[C@H](C[C@H](CC(=O)O)O)O)C4=CC=C(C=C4)F"
+  },
+  "214628": {
+    "drug": "norepinephrine bi",
+    "smiles": null
+  },
+  "211241": {
+    "drug": "copper histidinate",
+    "smiles": "C1=C(NC=N1)C[C@@H](C(=O)[O-])N.C1=C(NC=N1)C[C@@H](C(=O)[O-])N.[Cu+2]"
+  },
+  "212295": {
+    "drug": "remimazolam",
+    "smiles": "CC1=CN=C2N1C3=C(C=C(C=C3)Br)C(=N[C@H]2CCC(=O)OC)C4=CC=CC=N4"
+  },
+  "213005": {
+    "drug": "treprostinil",
+    "smiles": "CCCCC[C@@H](CC[C@H]1[C@@H](C[C@H]2[C@@H]1CC3=C(C2)C(=CC=C3)OCC(=O)O)O)O"
+  },
+  "217651": {
+    "drug": "cyclophosphamide",
+    "smiles": "C1CNP(=O)(OC1)N(CCCl)CCCl"
+  },
+  "206545": {
+    "drug": "idelalisib",
+    "smiles": "CC[C@@H](C1=NC2=C(C(=CC=C2)F)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5"
+  },
+  "202344": {
+    "drug": "alendronate",
+    "smiles": "C(CC(O)(P(=O)(O)O)P(=O)(O)O)CN"
+  },
+  "210565": {
+    "drug": "loteprednol etabonate",
+    "smiles": "CCOC(=O)O[C@@]1(CC[C@@H]2[C@@]1(C[C@@H]([C@H]3[C@H]2CCC4=CC(=O)C=C[C@]34C)O)C)C(=O)OCCl"
+  },
+  "208082": {
+    "drug": "deutetrabenazine",
+    "smiles": "[2H]C([2H])([2H])OC1=C(C=C2[C@@H]3CC(=O)[C@H](CN3CCC2=C1)CC(C)C)OC([2H])([2H])[2H]"
+  },
+  "208462": {
+    "drug": "ixazomib citrate",
+    "smiles": "B1(OC(=O)C(O1)(CC(=O)O)CC(=O)O)[C@H](CC(C)C)NC(=O)CNC(=O)C2=C(C=CC(=C2)Cl)Cl"
+  },
+  "209184": {
+    "drug": "levodopa",
+    "smiles": "C1=CC(=C(C=C1C[C@@H](C(=O)O)N)O)O"
+  },
+  "213006": {
+    "drug": "vibegron",
+    "smiles": "C1C[C@@H](N[C@@H]1CC2=CC=C(C=C2)NC(=O)[C@@H]3CCC4=NC=CC(=O)N34)[C@@H](C5=CC=CC=C5)O"
+  },
+  "022509": {
+    "drug": "lamotrigine",
+    "smiles": "C1=CC(=C(C(=C1)Cl)Cl)C2=C(N=C(N=N2)N)N"
+  },
+  "205713": {
+    "drug": "oxygen",
+    "smiles": "O=O"
+  },
+  "209478": {
+    "drug": "spironolactone",
+    "smiles": "CC(=O)S[C@@H]1CC2=CC(=O)CC[C@@]2([C@@H]3[C@@H]1[C@@H]4CC[C@]5([C@]4(CC3)C)CCC(=O)O5)C"
+  },
+  "215401": {
+    "drug": "dextroamphetamine",
+    "smiles": "C[C@@H](CC1=CC=CC=C1)N"
+  },
+  "212950": {
+    "drug": "fostemsavir",
+    "smiles": "CC1=NN(C=N1)C2=NC=C(C3=C2N(C=C3C(=O)C(=O)N4CCN(CC4)C(=O)C5=CC=CC=C5)COP(=O)(O)O)OC"
+  },
+  "218527": {
+    "drug": "tadalafil",
+    "smiles": "CN1CC(=O)N2[C@@H](C1=O)CC3=C([C@H]2C4=CC5=C(C=C4)OCO5)NC6=CC=CC=C36"
+  },
+  "219070": {
+    "drug": "paltusotine",
+    "smiles": "C1CN(CCC1N)C2=C3C=C(C=CC3=NC=C2C4=CC(=CC(=C4)F)F)C5=CC=CC(=C5O)C#N"
+  },
+  "022434": {
+    "drug": "argatroban",
+    "smiles": "C[C@@H]1CCN([C@H](C1)C(=O)O)C(=O)[C@H](CCCN=C(N)N)NS(=O)(=O)C2=CC=CC3=C2NCC(C3)C"
+  },
+  "205718": {
+    "drug": "netupitant",
+    "smiles": "CC1=CC=CC=C1C2=CC(=NC=C2N(C)C(=O)C(C)(C)C3=CC(=CC(=C3)C(F)(F)F)C(F)(F)F)N4CCN(CC4)C"
+  },
+  "204516": {
+    "drug": "paroxetine",
+    "smiles": "C1CNC[C@H]([C@@H]1C2=CC=C(C=C2)F)COC3=CC4=C(C=C3)OCO4"
+  },
+  "208030": {
+    "drug": "deferiprone",
+    "smiles": "CC1=C(C(=O)C=CN1C)O"
+  },
+  "209819": {
+    "drug": "buprenorphine",
+    "smiles": "C[C@]([C@H]1C[C@@]23CC[C@@]1([C@H]4[C@@]25CCN([C@@H]3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)(C(C)(C)C)O"
+  },
+  "216686": {
+    "drug": "fosaprepitant dimeglumine",
+    "smiles": "C[C@H](C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)O[C@@H]2[C@@H](N(CCO2)CC3=NN(C(=O)N3)P(=O)(O)O)C4=CC=C(C=C4)F.CNC[C@@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O.CNC[C@@H]([C@H]([C@@H]([C@@H](CO)O)O)O)O"
+  },
+  "202292": {
+    "drug": "crofelemer",
+    "smiles": null
+  },
+  "202992": {
+    "drug": "teriflunomide",
+    "smiles": "C/C(=C(\\C#N)/C(=O)NC1=CC=C(C=C1)C(F)(F)F)/O"
+  },
+  "209481": {
+    "drug": "vancomycin",
+    "smiles": "C[C@H]1[C@H]([C@@](C[C@@H](O1)O[C@@H]2[C@H]([C@@H]([C@H](O[C@H]2OC3=C4C=C5C=C3OC6=C(C=C(C=C6)[C@H]([C@H](C(=O)N[C@H](C(=O)N[C@H]5C(=O)N[C@@H]7C8=CC(=C(C=C8)O)C9=C(C=C(C=C9O)O)[C@H](NC(=O)[C@H]([C@@H](C1=CC(=C(O4)C=C1)Cl)O)NC7=O)C(=O)O)CC(=O)N)NC(=O)[C@@H](CC(C)C)NC)O)Cl)CO)O)O)(C)N)O"
+  },
+  "209115": {
+    "drug": "rucaparib camsylate",
+    "smiles": "CC1([C@@H]2CC[C@]1(C(=O)C2)CS(=O)(=O)O)C.CNCC1=CC=C(C=C1)C2=C3CCNC(=O)C4=C3C(=CC(=C4)F)N2"
+  },
+  "215830": {
+    "drug": "ritlecitinib",
+    "smiles": "C[C@H]1CC[C@H](CN1C(=O)C=C)NC2=NC=NC3=C2C=CN3"
+  },
+  "214154": {
+    "drug": "drospirenone",
+    "smiles": "C[C@]12CCC(=O)C=C1[C@@H]3C[C@@H]3[C@@H]4[C@@H]2CC[C@]5([C@H]4[C@@H]6C[C@@H]6[C@@]57CCC(=O)O7)C"
+  },
+  "219745": {
+    "drug": "leuprolide",
+    "smiles": "CCNC(=O)[C@@H]1CCCN1C(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@@H](CC(C)C)NC(=O)[C@H](CC2=CC=C(C=C2)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC3=CNC4=CC=CC=C43)NC(=O)[C@H](CC5=CN=CN5)NC(=O)[C@@H]6CCC(=O)N6"
+  },
+  "022437": {
+    "drug": "triptorelin pamoate",
+    "smiles": "CC(C)C[C@@H](C(=O)N[C@@H](CCCN=C(N)N)C(=O)N1CCC[C@H]1C(=O)NCC(=O)N)NC(=O)[C@@H](CC2=CNC3=CC=CC=C32)NC(=O)[C@H](CC4=CC=C(C=C4)O)NC(=O)[C@H](CO)NC(=O)[C@H](CC5=CNC6=CC=CC=C65)NC(=O)[C@H](CC7=CN=CN7)NC(=O)[C@@H]8CCC(=O)N8.C1=CC=C2C(=C1)C=C(C(=C2CC3=C(C(=CC4=CC=CC=C43)C(=O)O)O)O)C(=O)O"
+  },
+  "207620": {
+    "drug": "sacubitril",
+    "smiles": "CCOC(=O)[C@H](C)C[C@@H](CC1=CC=C(C=C1)C2=CC=CC=C2)NC(=O)CCC(=O)O"
+  },
+  "208032": {
+    "drug": "oxymetazoline",
+    "smiles": "CC1=CC(=C(C(=C1CC2=NCCN2)C)O)C(C)(C)C"
+  },
+  "208772": {
+    "drug": "brigatinib",
+    "smiles": "CN1CCN(CC1)C2CCN(CC2)C3=CC(=C(C=C3)NC4=NC=C(C(=N4)NC5=CC=CC=C5P(=O)(C)C)Cl)OC"
+  },
+  "209482": {
+    "drug": "fluticasone furoate",
+    "smiles": "C[C@@H]1C[C@H]2[C@@H]3C[C@@H](C4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@]1(C(=O)SCF)OC(=O)C5=CC=CO5)C)O)F)C)F"
+  },
+  "214155": {
+    "drug": "oritavancin di",
+    "smiles": null
+  },
+  "022439": {
+    "drug": "chlorpheniramine",
+    "smiles": "CN(C)CCC(C1=CC=C(C=C1)Cl)C2=CC=CC=N2"
+  },
+  "206073": {
+    "drug": "empagliflozin",
+    "smiles": "C1COC[C@H]1OC2=CC=C(C=C2)CC3=C(C=CC(=C3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)Cl"
+  },
+  "202293": {
+    "drug": "dapagliflozin",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)Cl"
+  },
+  "207621": {
+    "drug": "naltrexone",
+    "smiles": "C1CC1CN2CC[C@]34[C@@H]5C(=O)CC[C@]3([C@H]2CC6=C4C(=C(C=C6)O)O5)O"
+  },
+  "208036": {
+    "drug": "barium",
+    "smiles": "[Ba]"
+  },
+  "209483": {
+    "drug": "clobetasol propionate",
+    "smiles": "CCC(=O)O[C@@]1([C@H](C[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2CCC4=CC(=O)C=C[C@@]43C)F)O)C)C)C(=O)CCl"
+  },
+  "215833": {
+    "drug": "lutetium lu-177 vipivotide tetraxetan",
+    "smiles": "C1CC(CCC1CNC(=O)CN2CCN(CCN(CCN(CC2)CC(=O)[O-])CC(=O)[O-])CC(=O)[O-])C(=O)N[C@@H](CC3=CC4=CC=CC=C4C=C3)C(=O)NCCCC[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O.[177Lu+3]"
+  },
+  "219757": {
+    "drug": "ramipril",
+    "smiles": "CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N2[C@H]3CCC[C@H]3C[C@H]2C(=O)O"
+  },
+  "022442": {
+    "drug": "hydrocodone bi",
+    "smiles": null
+  },
+  "206488": {
+    "drug": "eteplirsen",
+    "smiles": null
+  },
+  "210844": {
+    "drug": "oxygen",
+    "smiles": "O=O"
+  },
+  "208418": {
+    "drug": "calcium",
+    "smiles": "[Ca]"
+  },
+  "214985": {
+    "drug": "daridorexant",
+    "smiles": "CC1=C(C=CC2=C1N=C(N2)[C@@]3(CCCN3C(=O)C4=C(C=CC(=C4)OC)N5N=CC=N5)C)Cl"
+  },
+  "212593": {
+    "drug": "vasopressin",
+    "smiles": null
+  },
+  "217593": {
+    "drug": "meloxicam",
+    "smiles": "CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O"
+  },
+  "022445": {
+    "drug": "granisetron",
+    "smiles": "CN1[C@@H]2CCC[C@H]1CC(C2)NC(=O)C3=NN(C4=CC=CC=C43)C"
+  },
+  "208419": {
+    "drug": "pemetrexed",
+    "smiles": "C1=CC(=CC=C1CCC2=CNC3=C2C(=O)NC(=N3)N)C(=O)N[C@@H](CCC(=O)O)C(=O)O"
+  },
+  "208775": {
+    "drug": "abacavir",
+    "smiles": "C1CC1NC2=C3C(=NC(=N2)N)N(C=N3)[C@@H]4C[C@@H](C=C4)CO"
+  },
+  "211192": {
+    "drug": "ivosidenib",
+    "smiles": "C1CC(=O)N([C@@H]1C(=O)N(C2=CC(=CN=C2)F)[C@@H](C3=CC=CC=C3Cl)C(=O)NC4CC(C4)(F)F)C5=NC=CC(=C5)C#N"
+  },
+  "212595": {
+    "drug": "metformin",
+    "smiles": "CN(C)C(=N)N=C(N)N"
+  },
+  "213716": {
+    "drug": "voclosporin",
+    "smiles": "CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C=C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C"
+  },
+  "022450": {
+    "drug": "acetaminophen",
+    "smiles": "CC(=O)NC1=CC=C(C=C1)O"
+  },
+  "215413": {
+    "drug": "abacavir",
+    "smiles": "C1CC1NC2=C3C(=NC(=N2)N)N(C=N3)[C@@H]4C[C@@H](C=C4)CO"
+  },
+  "214988": {
+    "drug": "dehydrated alcohol",
+    "smiles": "CCO"
+  },
+  "216285": {
+    "drug": "drospirenone",
+    "smiles": "C[C@]12CCC(=O)C=C1[C@@H]3C[C@@H]3[C@@H]4[C@@H]2CC[C@]5([C@H]4[C@@H]6C[C@@H]6[C@@]57CCC(=O)O7)C"
+  },
+  "219083": {
+    "drug": "aficamten",
+    "smiles": "CCC1=NC(=NO1)C2=CC3=C(C=C2)[C@@H](CC3)NC(=O)C4=CN(N=C4)C"
+  },
+  "022453": {
+    "drug": "topotecan",
+    "smiles": "CC[C@@]1(C2=C(COC1=O)C(=O)N3CC4=CC5=C(C=CC(=C5CN(C)C)O)N=C4C3=C2)O"
+  },
+  "200244": {
+    "drug": "lamivudine",
+    "smiles": "C1[C@H](O[C@H](S1)CO)N2C=CC(=NC2=O)N"
+  },
+  "205737": {
+    "drug": "oxygen",
+    "smiles": "O=O"
+  },
+  "209128": {
+    "drug": "sufentanil citrate",
+    "smiles": "CCC(=O)N(C1=CC=CC=C1)C2(CCN(CC2)CCC3=CC=CS3)COC.C(C(=O)O)C(CC(=O)O)(C(=O)O)O"
+  },
+  "205738": {
+    "drug": "nitrogen",
+    "smiles": "N#N"
+  },
+  "214566": {
+    "drug": "dolutegravir",
+    "smiles": "C[C@@H]1CCO[C@@H]2N1C(=O)C3=C(C(=O)C(=CN3C2)C(=O)NCC4=C(C=C(C=C4)F)F)O"
+  },
+  "216718": {
+    "drug": "omaveloxolone",
+    "smiles": "C[C@@]12CC[C@]3(CCC(C[C@H]3[C@H]1C(=O)C=C4[C@]2(CC[C@@H]5[C@@]4(C=C(C(=O)C5(C)C)C#N)C)C)(C)C)NC(=O)C(C)(F)F"
+  },
+  "022454": {
+    "drug": "ioflupane i-123",
+    "smiles": "COC(=O)[C@@H]1[C@H]2CC[C@H](N2CCCF)C[C@@H]1C3=CC=C(C=C3)[123I]"
+  },
+  "206494": {
+    "drug": "avibactam",
+    "smiles": "C1C[C@H](N2C[C@@H]1N(C2=O)OS(=O)(=O)O)C(=O)N"
+  },
+  "204141": {
+    "drug": "desoximetasone",
+    "smiles": "C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4([C@]3([C@H](C[C@@]2([C@H]1C(=O)CO)C)O)F)C"
+  },
+  "210526": {
+    "drug": "amphetamine",
+    "smiles": "CC(CC1=CC=CC=C1)N"
+  },
+  "208042": {
+    "drug": "buprenorphine",
+    "smiles": "C[C@]([C@H]1C[C@@]23CC[C@@]1([C@H]4[C@@]25CCN([C@@H]3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)(C(C)(C)C)O"
+  },
+  "210850": {
+    "drug": "sincalide",
+    "smiles": "CSCC[C@@H](C(=O)NCC(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@@H](CCSC)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CC3=CC=CC=C3)C(=O)N)NC(=O)[C@H](CC4=CC=C(C=C4)OS(=O)(=O)O)NC(=O)[C@H](CC(=O)O)N"
+  },
+  "217150": {
+    "drug": "cyclophosphamide",
+    "smiles": "C1CNP(=O)(OC1)N(CCCl)CCCl"
+  },
+  "208424": {
+    "drug": "nitroglycerin",
+    "smiles": "C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]"
+  },
+  "208780": {
+    "drug": "pirfenidone",
+    "smiles": "CC1=CN(C(=O)C=C1)C2=CC=CC=C2"
+  },
+  "214993": {
+    "drug": "technetium tc-99m succimer",
+    "smiles": "[C@@H]([C@@H](C(=O)O)S)(C(=O)O)S.[C@@H]([C@@H](C(=O)O)S)(C(=O)O)S.O=[99Tc+3]"
+  },
+  "210852": {
+    "drug": "cyclophosphamide",
+    "smiles": "C1CNP(=O)(OC1)N(CCCl)CCCl"
+  },
+  "211868": {
+    "drug": "dolutegravir",
+    "smiles": "C[C@@H]1CCO[C@@H]2N1C(=O)C3=C(C(=O)C(=CN3C2)C(=O)NCC4=C(C=C(C=C4)F)F)O"
+  },
+  "218033": {
+    "drug": "tovorafenib",
+    "smiles": "C[C@H](C1=NC=C(S1)C(=O)NC2=NC=C(C(=C2)C(F)(F)F)Cl)NC(=O)C3=C(C(=NC=N3)N)Cl"
+  },
+  "205739": {
+    "drug": "patiromer sorbitex calcium",
+    "smiles": null
+  },
+  "209830": {
+    "drug": "aripiprazole lauroxil",
+    "smiles": "CCCCCCCCCCCC(=O)OCN1C(=O)CCC2=C1C=C(C=C2)OCCCCN3CCN(CC3)C4=C(C(=CC=C4)Cl)Cl"
+  },
+  "215841": {
+    "drug": "gallium ga-68 gozetotide",
+    "smiles": "[H+].C1=CC(=C(C=C1CCC(=O)NCCCCCC(=O)NCCCC[C@@H](C(=O)O)NC(=O)N[C@@H](CCC(=O)O)C(=O)O)CN(CCN(CC2=C(C=CC(=C2)CCC(=O)O)[O-])CC(=O)[O-])CC(=O)[O-])[O-].[68Ga+3]"
+  },
+  "210854": {
+    "drug": "baloxavir marboxil",
+    "smiles": "COC(=O)OCOC1=C2C(=O)N3CCOC[C@H]3N(N2C=CC1=O)[C@H]4C5=C(CSC6=CC=CC=C46)C(=C(C=C5)F)F"
+  },
+  "213721": {
+    "drug": "pralsetinib",
+    "smiles": "CC1=CC(=NN1)NC2=NC(=NC(=C2)C)C3CCC(CC3)(C(=O)N[C@@H](C)C4=CN=C(C=C4)N5C=C(C=N5)F)OC"
+  },
+  "206500": {
+    "drug": "rolapitant",
+    "smiles": "C[C@H](C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)OC[C@]2(CC[C@]3(CCC(=O)N3)CN2)C4=CC=CC=C4"
+  },
+  "201917": {
+    "drug": "telaprevir",
+    "smiles": "CCC[C@@H](C(=O)C(=O)NC1CC1)NC(=O)[C@@H]2[C@H]3CCC[C@H]3CN2C(=O)[C@H](C(C)(C)C)NC(=O)[C@H](C4CCCCC4)NC(=O)C5=NC=CN=C5"
+  },
+  "210166": {
+    "drug": "prucalopride succinate",
+    "smiles": "COCCCN1CCC(CC1)NC(=O)C2=CC(=C(C3=C2OCC3)N)Cl.C(CC(=O)O)C(=O)O"
+  },
+  "214998": {
+    "drug": "mavacamten",
+    "smiles": "C[C@@H](C1=CC=CC=C1)NC2=CC(=O)N(C(=O)N2)C(C)C"
+  },
+  "215842": {
+    "drug": "nedosiran",
+    "smiles": null
+  },
+  "217603": {
+    "drug": "lotilaner",
+    "smiles": "CC1=C(SC(=C1)C2=NO[C@@](C2)(C3=CC(=C(C(=C3)Cl)Cl)Cl)C(F)(F)F)C(=O)NCC(=O)NCC(F)(F)F"
+  },
+  "219776": {
+    "drug": "berotralstat",
+    "smiles": "C1CC1CN[C@@H](C2=CC(=C(C=C2)F)NC(=O)C3=CC(=NN3C4=CC=CC(=C4)CN)C(F)(F)F)C5=CC=CC(=C5)C#N"
+  },
+  "022460": {
+    "drug": "dutasteride",
+    "smiles": "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)NC4=C(C=CC(=C4)C(F)(F)F)C(F)(F)F)CC[C@@H]5[C@@]3(C=CC(=O)N5)C"
+  },
+  "203388": {
+    "drug": "vismodegib",
+    "smiles": "CS(=O)(=O)C1=CC(=C(C=C1)C(=O)NC2=CC(=C(C=C2)Cl)C3=CC=CC=N3)Cl"
+  },
+  "204886": {
+    "drug": "vorapaxar",
+    "smiles": "CCOC(=O)N[C@@H]1CC[C@@H]2[C@@H](C1)C[C@@H]3[C@H]([C@H]2/C=C/C4=NC=C(C=C4)C5=CC(=CC=C5)F)[C@H](OC3=O)C"
+  },
+  "215422": {
+    "drug": "baclofen",
+    "smiles": "C1=CC(=CC=C1C(CC(=O)O)CN)Cl"
+  },
+  "215000": {
+    "drug": "carmustine",
+    "smiles": "C(CCl)NC(=O)N(CCCl)N=O"
+  },
+  "217159": {
+    "drug": "motixafortide",
+    "smiles": "C1C[C@H]2C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N2C1)CCCCN)CCCCN)CCCNC(=O)N)CC3=CC=C(C=C3)O)NC(=O)[C@H](CC4=CC5=CC=CC=C5C=C4)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CCCNC(=N)N)NC(=O)C6=CC=C(C=C6)F)C(=O)N[C@@H](CCCNC(=N)N)C(=O)N)CCCNC(=O)N)CCCNC(=N)N)CC7=CC=C(C=C7)O"
+  },
+  "217604": {
+    "drug": "pyridostigmine",
+    "smiles": "C[N+]1=CC=CC(=C1)OC(=O)N(C)C"
+  },
+  "218549": {
+    "drug": "benzgalantamine",
+    "smiles": "CN1CC[C@@]23C=C[C@@H](C[C@@H]2OC4=C(C=CC(=C34)C1)OC)OC(=O)C5=CC=CC=C5"
+  },
+  "022063": {
+    "drug": "amphetamine aspartate",
+    "smiles": "CC(CC1=CC=CC=C1)N.CC(CC1=CC=CC=C1)N.C([C@@H](C(=O)O)N)C(=O)O"
+  },
+  "203389": {
+    "drug": "cysteamine bi",
+    "smiles": null
+  },
+  "204150": {
+    "drug": "desvenlafaxine",
+    "smiles": "CN(C)CC(C1=CC=C(C=C1)O)C2(CCCCC2)O"
+  },
+  "215423": {
+    "drug": "finasteride",
+    "smiles": "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2C(=O)NC(C)(C)C)CC[C@@H]4[C@@]3(C=CC(=O)N4)C"
+  },
+  "218037": {
+    "drug": "danicopan",
+    "smiles": "CC1=NC=C(C=N1)C2=CC3=C(C=C2)N(N=C3C(=O)C)CC(=O)N4C[C@@H](C[C@H]4C(=O)NC5=NC(=CC=C5)Br)F"
+  },
+  "218550": {
+    "drug": "entrectinib",
+    "smiles": "CN1CCN(CC1)C2=CC(=C(C=C2)C(=O)NC3=NNC4=C3C=C(C=C4)CC5=CC(=CC(=C5)F)F)NC6CCOCC6"
+  },
+  "219097": {
+    "drug": "imatinib",
+    "smiles": "CC1=C(C=C(C=C1)NC(=O)C2=CC=C(C=C2)CN3CCN(CC3)C)NC4=NC=CC(=N4)C5=CN=CC=C5"
+  },
+  "219779": {
+    "drug": "carbon dioxide",
+    "smiles": "C(=O)=O"
+  },
+  "022462": {
+    "drug": "baclofen",
+    "smiles": "C1=CC(=CC=C1C(CC(=O)O)CN)Cl"
+  },
+  "203791": {
+    "drug": "acyclovir",
+    "smiles": "C1=NC2=C(N1COCCO)N=C(NC2=O)N"
+  },
+  "206910": {
+    "drug": "deferasirox",
+    "smiles": "C1=CC=C(C(=C1)C2=NN(C(=N2)C3=CC=CC=C3O)C4=CC=C(C=C4)C(=O)O)O"
+  },
+  "215425": {
+    "drug": "epinephrine",
+    "smiles": "CNC[C@@H](C1=CC(=C(C=C1)O)O)O"
+  },
+  "211875": {
+    "drug": "paclitaxel",
+    "smiles": "CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C"
+  },
+  "213727": {
+    "drug": "helium",
+    "smiles": "[He]"
+  },
+  "218038": {
+    "drug": "diltiazem",
+    "smiles": "CC(=O)O[C@@H]1[C@@H](SC2=CC=CC=C2N(C1=O)CCN(C)C)C3=CC=C(C=C3)OC"
+  },
+  "201110": {
+    "drug": "progesterone",
+    "smiles": "CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C"
+  },
+  "206088": {
+    "drug": "apremilast",
+    "smiles": "CCOC1=C(C=CC(=C1)[C@@H](CS(=O)(=O)C)N2C(=O)C3=C(C2=O)C(=CC=C3)NC(=O)C)OC"
+  },
+  "206510": {
+    "drug": "lamivudine",
+    "smiles": "C1[C@H](O[C@H](S1)CO)N2C=CC(=NC2=O)N"
+  },
+  "204153": {
+    "drug": "luliconazole",
+    "smiles": "C1[C@H](S/C(=C(\\C#N)/N2C=CN=C2)/S1)C3=C(C=C(C=C3)Cl)Cl"
+  },
+  "206911": {
+    "drug": "bromfenac",
+    "smiles": "C1=CC(=C(C(=C1)C(=O)C2=CC=C(C=C2)Br)N)CC(=O)O"
+  },
+  "215428": {
+    "drug": "citalopram",
+    "smiles": "CN(C)CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F"
+  },
+  "210858": {
+    "drug": "sildenafil citrate",
+    "smiles": "CCCC1=NN(C2=C1N=C(NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)C)OCC)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O"
+  },
+  "211210": {
+    "drug": "meloxicam",
+    "smiles": "CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O"
+  },
+  "214187": {
+    "drug": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3"
+  },
+  "206089": {
+    "drug": "testosterone undecanoate",
+    "smiles": "CCCCCCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C"
+  },
+  "201922": {
+    "drug": "minocycline",
+    "smiles": "CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C=CC(=C4C(=C3C(=O)[C@@]2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C"
+  },
+  "203794": {
+    "drug": "tapentadol",
+    "smiles": "CC[C@@H](C1=CC(=CC=C1)O)[C@@H](C)CN(C)C"
+  },
+  "215429": {
+    "drug": "venlafaxine",
+    "smiles": "CN(C)CC(C1=CC=C(C=C1)OC)C2(CCCCC2)O"
+  },
+  "212608": {
+    "drug": "avapritinib",
+    "smiles": "C[C@](C1=CC=C(C=C1)F)(C2=CN=C(N=C2)N3CCN(CC3)C4=NC=NN5C4=CC(=C5)C6=CN(N=C6)C)N"
+  },
+  "216307": {
+    "drug": "helium",
+    "smiles": "[He]"
+  },
+  "217171": {
+    "drug": "pegcetacoplan",
+    "smiles": null
+  },
+  "219104": {
+    "drug": "letermovir",
+    "smiles": "COC1=C(C=C(C=C1)C(F)(F)F)N2[C@H](C3=C(C(=CC=C3)F)N=C2N4CCN(CC4)C5=CC(=CC=C5)OC)CC(=O)O"
+  },
+  "219792": {
+    "drug": "doxecitine",
+    "smiles": "C1[C@@H]([C@H](O[C@H]1N2C=CC(=NC2=O)N)CO)O"
+  },
+  "022466": {
+    "drug": "articaine",
+    "smiles": "CCCNC(C)C(=O)NC1=C(SC=C1C)C(=O)OC"
+  },
+  "201923": {
+    "drug": "fluocinolone acetonide",
+    "smiles": "C[C@]12C[C@@H]([C@]3([C@H]([C@@H]1C[C@@H]4[C@]2(OC(O4)(C)C)C(=O)CO)C[C@@H](C5=CC(=O)C=C[C@@]53C)F)F)O"
+  },
+  "202667": {
+    "drug": "dorzolamide",
+    "smiles": "CCN[C@H]1C[C@@H](S(=O)(=O)C2=C1C=C(S2)S(=O)(=O)N)C"
+  },
+  "208051": {
+    "drug": "neratinib",
+    "smiles": "CCOC1=C(C=C2C(=C1)N=CC(=C2NC3=CC(=C(C=C3)OCC4=CC=CC=N4)Cl)C#N)NC(=O)/C=C/CN(C)C"
+  },
+  "209500": {
+    "drug": "lumateperone",
+    "smiles": "CN1CCN2[C@H]3CCN(C[C@H]3C4=C2C1=CC=C4)CCCC(=O)C5=CC=C(C=C5)F"
+  },
+  "215430": {
+    "drug": "bupropion",
+    "smiles": "CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C"
+  },
+  "210861": {
+    "drug": "larotrectinib",
+    "smiles": "C1C[C@@H](N(C1)C2=NC3=C(C=NN3C=C2)NC(=O)N4CC[C@@H](C4)O)C5=C(C=CC(=C5)F)F"
+  },
+  "215859": {
+    "drug": "rivaroxaban",
+    "smiles": "C1COCC(=O)N1C2=CC=C(C=C2)N3C[C@@H](OC3=O)CNC(=O)C4=CC=C(S4)Cl"
+  },
+  "205750": {
+    "drug": "cholic acid",
+    "smiles": "C[C@H](CCC(=O)O)[C@H]1CC[C@@H]2[C@@]1([C@H](C[C@H]3[C@H]2[C@@H](C[C@H]4[C@@]3(CC[C@H](C4)O)C)O)O)C"
+  },
+  "208434": {
+    "drug": "alectinib",
+    "smiles": "CCC1=CC2=C(C=C1N3CCC(CC3)N4CCOCC4)C(C5=C(C2=O)C6=C(N5)C=C(C=C6)C#N)(C)C"
+  },
+  "209501": {
+    "drug": "pregabalin",
+    "smiles": "CC(C)C[C@@H](CC(=O)O)CN"
+  },
+  "214581": {
+    "drug": "hydroxychloroquine",
+    "smiles": "CCN(CCCC(C)NC1=C2C=CC(=CC2=NC=C1)Cl)CCO"
+  },
+  "210864": {
+    "drug": "fosphenytoin",
+    "smiles": "C1=CC=C(C=C1)C2(C(=O)N(C(=O)N2)COP(=O)(O)O)C3=CC=CC=C3"
+  },
+  "211215": {
+    "drug": "bivalirudin",
+    "smiles": "CC[C@H](C)[C@@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CC2=CC=C(C=C2)O)C(=O)N[C@@H](CC(C)C)C(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](CC3=CC=CC=C3)NC(=O)[C@H](CC(=O)O)NC(=O)CNC(=O)[C@H](CC(=O)N)NC(=O)CNC(=O)CNC(=O)CNC(=O)CNC(=O)[C@@H]4CCCN4C(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H]5CCCN5C(=O)[C@@H](CC6=CC=CC=C6)N"
+  },
+  "219108": {
+    "drug": "rocuronium",
+    "smiles": "CC(=O)O[C@H]1[C@H](C[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(C[C@@H]([C@H](C4)O)N5CCOCC5)C)C)[N+]6(CCCC6)CC=C"
+  },
+  "201151": {
+    "drug": "lamivudine",
+    "smiles": "C1[C@H](O[C@H](S1)CO)N2C=CC(=NC2=O)N"
+  },
+  "203797": {
+    "drug": "daptomycin",
+    "smiles": "CCCCCCCCCC(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@H](CC(=O)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@H]3[C@H](OC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](NC(=O)CNC(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CNC3=O)CCCN)CC(=O)O)C)CC(=O)O)CO)[C@H](C)CC(=O)O)CC(=O)C4=CC=CC=C4N)C"
+  },
+  "208054": {
+    "drug": "fluciclovine f-18",
+    "smiles": "C1C(CC1(C(=O)O)N)[18F]"
+  },
+  "209844": {
+    "drug": "doxycycline hyclate",
+    "smiles": "CCO.C[C@@H]1[C@H]2[C@@H]([C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O.C[C@@H]1[C@H]2[C@@H]([C@H]3[C@@H](C(=O)C(=C([C@]3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O.O.Cl.Cl"
+  },
+  "211882": {
+    "drug": "tazarotene",
+    "smiles": "CCOC(=O)C1=CN=C(C=C1)C#CC2=CC3=C(C=C2)SCCC3(C)C"
+  },
+  "212268": {
+    "drug": "asenapine",
+    "smiles": "CN1C[C@H]2[C@H](C1)C3=C(C=CC(=C3)Cl)OC4=CC=CC=C24"
+  },
+  "201152": {
+    "drug": "nevirapine",
+    "smiles": "CC1=C2C(=NC=C1)N(C3=C(C=CC=N3)C(=O)N2)C4CC4"
+  },
+  "202317": {
+    "drug": "mechlorethamine",
+    "smiles": "CN(CCCl)CCCl"
+  },
+  "207648": {
+    "drug": "fish oil",
+    "smiles": null
+  },
+  "208791": {
+    "drug": "chloroprocaine",
+    "smiles": "CCN(CC)CCOC(=O)C1=C(C=C(C=C1)N)Cl"
+  },
+  "215431": {
+    "drug": "meloxicam",
+    "smiles": "CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O"
+  },
+  "215007": {
+    "drug": "carbon dioide",
+    "smiles": null
+  },
+  "210867": {
+    "drug": "moxidectin",
+    "smiles": "C[C@@H]\\1C/C(=C/C[C@@H]2C[C@@H](C[C@@]3(O2)C/C(=N\\OC)/[C@@H]([C@H](O3)/C(=C/C(C)C)/C)C)OC(=O)[C@@H]4C=C([C@H]([C@@H]5[C@]4(/C(=C/C=C1)/CO5)O)O)C)/C"
+  },
+  "212269": {
+    "drug": "deferiprone",
+    "smiles": "CC1=C(C(=O)C=CN1C)O"
+  },
+  "201153": {
+    "drug": "imiquimod",
+    "smiles": "CC(C)CN1C=NC2=C1C3=CC=CC=C3N=C2N"
+  },
+  "205755": {
+    "drug": "ceritinib",
+    "smiles": "CC1=CC(=C(C=C1C2CCNCC2)OC(C)C)NC3=NC=C(C(=N3)NC4=CC=CC=C4S(=O)(=O)C(C)C)Cl"
+  },
+  "208056": {
+    "drug": "dexlansoprazole",
+    "smiles": "CC1=C(C=CN=C1C[S@@](=O)C2=NC3=CC=CC=C3N2)OCC(F)(F)F"
+  },
+  "208437": {
+    "drug": "glycopyrrolate",
+    "smiles": "C[N+]1(CCC(C1)OC(=O)C(C2CCCC2)(C3=CC=CC=C3)O)C.[Br-]"
+  },
+  "208794": {
+    "drug": "telotristat etiprate",
+    "smiles": "CCOC(=O)[C@H](CC1=CC=C(C=C1)C2=CC(=NC(=N2)N)O[C@H](C3=C(C=C(C=C3)Cl)N4C=CC(=N4)C)C(F)(F)F)N.C1=CC=C(C=C1)C(=O)NCC(=O)O"
+  },
+  "210868": {
+    "drug": "lorlatinib",
+    "smiles": "C[C@@H]1C2=C(C=CC(=C2)F)C(=O)N(CC3=NN(C(=C3C4=CC(=C(N=C4)N)O1)C#N)C)C"
+  },
+  "212271": {
+    "drug": "fosfomycin di",
+    "smiles": null
+  },
+  "213736": {
+    "drug": "pemigatinib",
+    "smiles": "CCN1C2=C3C=C(NC3=NC=C2CN(C1=O)C4=C(C(=CC(=C4F)OC)OC)F)CN5CCOCC5"
+  },
+  "216318": {
+    "drug": "testosterone cypionate",
+    "smiles": "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@@H]2OC(=O)CCC4CCCC4)CCC5=CC(=O)CC[C@]35C"
+  },
+  "021359": {
+    "drug": "nitroglycerin",
+    "smiles": "C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-]"
+  },
+  "209847": {
+    "drug": "darunavir and ritonavir",
+    "smiles": null
+  },
+  "212614": {
+    "drug": "empagliflozin",
+    "smiles": "C1COC[C@H]1OC2=CC=C(C=C2)CC3=C(C=CC(=C3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)Cl"
+  },
+  "215866": {
+    "drug": "tirzepatide",
+    "smiles": "CC[C@H](C)[C@@H](C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCCCNC(=O)COCCOCCNC(=O)COCCOCCNC(=O)CC[C@@H](C(=O)O)NC(=O)CCCCCCCCCCCCCCCCCCC(=O)O)C(=O)N[C@@H](C)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC2=CNC3=CC=CC=C32)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](C)C(=O)NCC(=O)NCC(=O)N4CCC[C@H]4C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](C)C(=O)N5CCC[C@H]5C(=O)N6CCC[C@H]6C(=O)N7CCC[C@H]7C(=O)N[C@@H](CO)C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)C(C)(C)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CO)NC(=O)[C@H](CC8=CC=C(C=C8)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC9=CC=CC=C9)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)C(C)(C)NC(=O)[C@H](CC1=CC=C(C=C1)O)N"
+  },
+  "219839": {
+    "drug": "sunvozertinib",
+    "smiles": "CC(C)(C1=CC(=C(C=C1NC2=NC(=NC=C2)NC3=C(C=C(C(=C3)NC(=O)C=C)N4CC[C@H](C4)N(C)C)OC)Cl)F)O"
+  },
+  "022474": {
+    "drug": "ulipristal",
+    "smiles": "CC(=O)[C@]1(CC[C@@H]2[C@@]1(C[C@@H](C3=C4CCC(=O)C=C4CC[C@@H]23)C5=CC=C(C=C5)N(C)C)C)O"
+  },
+  "209510": {
+    "drug": "amisulpride",
+    "smiles": "CCN1CCCC1CNC(=O)C2=CC(=C(C=C2OC)N)S(=O)(=O)CC"
+  },
+  "210872": {
+    "drug": "isopropyl alcohol",
+    "smiles": "CC(C)O"
+  },
+  "212273": {
+    "drug": "elexacaftor, ivacaftor, tezacaftor",
+    "smiles": null
+  },
+  "214200": {
+    "drug": "trilaciclib",
+    "smiles": "CN1CCN(CC1)C2=CN=C(C=C2)NC3=NC=C4C=C5C(=O)NCC6(N5C4=N3)CCCCC6"
+  },
+  "215868": {
+    "drug": "midazolam",
+    "smiles": "CC1=NC=C2N1C3=C(C=C(C=C3)Cl)C(=NC2)C4=CC=CC=C4F"
+  },
+  "218571": {
+    "drug": "etripamil",
+    "smiles": "CC(C)[C@](CCCN(C)CCC1=CC(=CC=C1)C(=O)OC)(C#N)C2=CC(=C(C=C2)OC)OC"
+  },
+  "219840": {
+    "drug": "barium",
+    "smiles": "[Ba]"
+  },
+  "022075": {
+    "drug": "istradefylline",
+    "smiles": "CCN1C2=C(C(=O)N(C1=O)CC)N(C(=N2)/C=C/C3=CC(=C(C=C3)OC)OC)C"
+  },
+  "022479": {
+    "drug": "lamivudine",
+    "smiles": "C1[C@H](O[C@H](S1)CO)N2C=CC(=NC2=O)N"
+  },
+  "204168": {
+    "drug": "levomilnacipran",
+    "smiles": "CCN(CC)C(=O)[C@]1(C[C@H]1CN)C2=CC=CC=C2"
+  },
+  "208798": {
+    "drug": "fluticasone propionate",
+    "smiles": "CCC(=O)O[C@@]1([C@@H](C[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2C[C@@H](C4=CC(=O)C=C[C@@]43C)F)F)O)C)C)C(=O)SCF"
+  },
+  "209511": {
+    "drug": "bupivacaine",
+    "smiles": "CCCCN1CCCCC1C(=O)NC2=C(C=CC=C2C)C"
+  },
+  "215014": {
+    "drug": "pegcetacoplan",
+    "smiles": null
+  },
+  "213756": {
+    "drug": "selumetinib",
+    "smiles": "CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)Cl)C(=O)NOCCO"
+  },
+  "215870": {
+    "drug": "fentanyl citrate",
+    "smiles": "CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3.C(C(=O)O)C(CC(=O)O)(C(=O)O)O"
+  },
+  "216743": {
+    "drug": "metformin",
+    "smiles": "CN(C)C(=N)N=C(N)N"
+  },
+  "217186": {
+    "drug": "carbidopa",
+    "smiles": "C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)NN"
+  },
+  "217628": {
+    "drug": "clotrimazole",
+    "smiles": "C1=CC=C(C=C1)C(C2=CC=CC=C2)(C3=CC=CC=C3Cl)N4C=CN=C4"
+  },
+  "219843": {
+    "drug": "methocarbamol",
+    "smiles": "COC1=CC=CC=C1OCC(COC(=O)N)O"
+  },
+  "022483": {
+    "drug": "imiquimod",
+    "smiles": "CC(C)CN1C=NC2=C1C3=CC=CC=C3N=C2N"
+  },
+  "206099": {
+    "drug": "sumatriptan succinate",
+    "smiles": "CNS(=O)(=O)CC1=CC2=C(C=C1)NC=C2CCN(C)C.C(CC(=O)O)C(=O)O"
+  },
+  "208799": {
+    "drug": "fluticasone propionate",
+    "smiles": "CCC(=O)O[C@@]1([C@@H](C[C@@H]2[C@@]1(C[C@@H]([C@]3([C@H]2C[C@@H](C4=CC(=O)C=C[C@@]43C)F)F)O)C)C)C(=O)SCF"
+  },
+  "209512": {
+    "drug": "ritonavir",
+    "smiles": "CC(C)C1=NC(=CS1)CN(C)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CC2=CC=CC=C2)C[C@@H]([C@H](CC3=CC=CC=C3)NC(=O)OCC4=CN=CS4)O"
+  },
+  "215441": {
+    "drug": "bortezomib",
+    "smiles": "B([C@H](CC(C)C)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C2=NC=CN=C2)(O)O"
+  },
+  "210874": {
+    "drug": "dapagliflozin",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)Cl"
+  },
+  "211566": {
+    "drug": "sitagliptin",
+    "smiles": "C1CN2C(=NN=C2C(F)(F)F)CN1C(=O)C[C@@H](CC3=CC(=C(C=C3F)F)F)N"
+  },
+  "213378": {
+    "drug": "olanzapine",
+    "smiles": "CC1=CC2=C(S1)NC3=CC=CC=C3N=C2N4CCN(CC4)C"
+  },
+  "217630": {
+    "drug": "daptomycin",
+    "smiles": "CCCCCCCCCC(=O)N[C@@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@H](CC(=O)N)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@H]3[C@H](OC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](NC(=O)CNC(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)CNC3=O)CCCN)CC(=O)O)C)CC(=O)O)CO)[C@H](C)CC(=O)O)CC(=O)C4=CC=CC=C4N)C"
+  },
+  "022484": {
+    "drug": "itraconazole",
+    "smiles": "CCC(C)N1C(=O)N(C=N1)C2=CC=C(C=C2)N3CCN(CC3)C4=CC=C(C=C4)OC[C@H]5CO[C@](O5)(CN6C=NC=N6)C7=C(C=C(C=C7)Cl)Cl"
+  },
+  "202324": {
+    "drug": "axitinib",
+    "smiles": "CNC(=O)C1=CC=CC=C1SC2=CC3=C(C=C2)C(=NN3)/C=C/C4=CC=CC=N4"
+  },
+  "203414": {
+    "drug": "alogliptin benzoate",
+    "smiles": "CN1C(=O)C=C(N(C1=O)CC2=CC=CC=C2C#N)N3CCC[C@H](C3)N.C1=CC=C(C=C1)C(=O)O"
+  },
+  "204914": {
+    "drug": "lamivudine",
+    "smiles": "C1[C@H](O[C@H](S1)CO)N2C=CC(=NC2=O)N"
+  },
+  "208065": {
+    "drug": "osimertinib",
+    "smiles": "CN1C=C(C2=CC=CC=C21)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC"
+  },
+  "210875": {
+    "drug": "apomorphine",
+    "smiles": "CN1CCC2=C3[C@H]1CC4=C(C3=CC=C2)C(=C(C=C4)O)O"
+  },
+  "211225": {
+    "drug": "ceritinib",
+    "smiles": "CC1=CC(=C(C=C1C2CCNCC2)OC(C)C)NC3=NC=C(C(=N3)NC4=CC=CC=C4S(=O)(=O)C(C)C)Cl"
+  },
+  "212279": {
+    "drug": "air polymer-type a",
+    "smiles": null
+  },
+  "215875": {
+    "drug": "epinephrine",
+    "smiles": "CNC[C@@H](C1=CC(=C(C=C1)O)O)O"
+  },
+  "217188": {
+    "drug": "nirmatrelvir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)C(F)(F)F)C(=O)N[C@@H](C[C@@H]3CCNC3=O)C#N)C"
+  },
+  "022485": {
+    "drug": "argatroban",
+    "smiles": "C[C@@H]1CCN([C@H](C1)C(=O)O)C(=O)[C@H](CCCN=C(N)N)NS(=O)(=O)C2=CC=CC3=C2NCC(C3)C"
+  },
+  "205764": {
+    "drug": "carbon dioxide",
+    "smiles": "C(=O)=O"
+  },
+  "203415": {
+    "drug": "enzalutamide",
+    "smiles": "CC1(C(=O)N(C(=S)N1C2=CC(=C(C=C2)C(=O)NC)F)C3=CC(=C(C=C3)C#N)C(F)(F)F)C"
+  },
+  "204553": {
+    "drug": "magnesium",
+    "smiles": "[Mg]"
+  },
+  "204915": {
+    "drug": "abacavir",
+    "smiles": "C1CC1NC2=C3C(=NC(=N2)N)N(C=N3)[C@@H]4C[C@@H](C=C4)CO"
+  },
+  "215019": {
+    "drug": "glycopyrrolate",
+    "smiles": "C[N+]1(CCC(C1)OC(=O)C(C2CCCC2)(C3=CC=CC=C3)O)C.[Br-]"
+  },
+  "211226": {
+    "drug": "levoleucovorin",
+    "smiles": "C1[C@@H](N(C2=C(N1)N=C(NC2=O)N)C=O)CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O"
+  },
+  "219847": {
+    "drug": "lisdexamfetamine",
+    "smiles": "C[C@@H](CC1=CC=CC=C1)NC(=O)[C@H](CCCCN)N"
+  },
+  "022488": {
+    "drug": "pregabalin",
+    "smiles": "CC(C)C[C@@H](CC(=O)O)CN"
+  },
+  "205765": {
+    "drug": "medical air",
+    "smiles": null
+  },
+  "206927": {
+    "drug": "bortezomib",
+    "smiles": "B([C@H](CC(C)C)NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C2=NC=CN=C2)(O)O"
+  },
+  "215446": {
+    "drug": "edaravone",
+    "smiles": "CC1=NN(C(=O)C1)C2=CC=CC=C2"
+  },
+  "219122": {
+    "drug": "sitagliptin",
+    "smiles": "C1CN2C(=NN=C2C(F)(F)F)CN1C(=O)C[C@@H](CC3=CC(=C(C=C3F)F)F)N"
+  },
+  "205766": {
+    "drug": "nitrogen",
+    "smiles": "N#N"
+  },
+  "208447": {
+    "drug": "niraparib",
+    "smiles": "C1C[C@H](CNC1)C2=CC=C(C=C2)N3C=C4C=CC=C(C4=N3)C(=O)N"
+  },
+  "215448": {
+    "drug": "dolutegravir, emtricitabine and tenofovir alafenamide",
+    "smiles": null
+  },
+  "218585": {
+    "drug": "aceclidine",
+    "smiles": "CC(=O)OC1CN2CCC1CC2"
+  },
+  "205767": {
+    "drug": "oxygen",
+    "smiles": "O=O"
+  },
+  "209521": {
+    "drug": "sarecycline",
+    "smiles": "CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C=CC(=C4C(=C3C(=O)[C@@]2(C(=C(C1=O)C(=O)N)O)O)O)O)CN(C)OC"
+  },
+  "210884": {
+    "drug": "sumatriptan",
+    "smiles": "CNS(=O)(=O)CC1=CC2=C(C=C1)NC=C2CCN(C)C"
+  },
+  "213388": {
+    "drug": "elagolix sodium,estradiol,norethindrone",
+    "smiles": null
+  },
+  "022494": {
+    "drug": "sodium fluoride f-18",
+    "smiles": "[18F-].[Na+]"
+  },
+  "200327": {
+    "drug": "ceftaroline fosamil",
+    "smiles": "CCO/N=C(/C1=NSC(=N1)NP(=O)(O)O)\\C(=O)N[C@H]2[C@@H]3N(C2=O)C(=C(CS3)SC4=NC(=CS4)C5=CC=[N+](C=C5)C)C(=O)[O-]"
+  },
+  "206110": {
+    "drug": "caspofungin",
+    "smiles": "CC[C@H](C)C[C@H](C)CCCCCCCCC(=O)N[C@H]1C[C@H]([C@H](NC(=O)[C@@H]2[C@H](CCN2C(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H]3C[C@H](CN3C(=O)[C@@H](NC1=O)[C@@H](C)O)O)[C@@H]([C@H](C4=CC=C(C=C4)O)O)O)[C@@H](CCN)O)O)NCCN)O"
+  },
+  "202331": {
+    "drug": "azilsartan kamedoxomil",
+    "smiles": "CCOC1=NC2=CC=CC(=C2N1CC3=CC=C(C=C3)C4=CC=CC=C4C5=NOC(=O)[N-]5)C(=O)OCC6=C(OC(=O)O6)C.[K+]"
+  },
+  "209862": {
+    "drug": "naloxone",
+    "smiles": "C=CCN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)O)O4)O"
+  },
+  "215025": {
+    "drug": "sodium benzoate",
+    "smiles": "C1=CC=C(C=C1)C(=O)[O-].[Na+]"
+  },
+  "211230": {
+    "drug": "solriamfetol",
+    "smiles": "C1=CC=C(C=C1)C[C@H](COC(=O)N)N"
+  },
+  "212994": {
+    "drug": "dexmethylphenidate",
+    "smiles": "COC(=O)[C@@H]([C@H]1CCCCN1)C2=CC=CC=C2"
+  },
+  "219130": {
+    "drug": "escitalopram",
+    "smiles": "CN(C)CCC[C@@]1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F"
+  },
+  "022496": {
+    "drug": "bupivacaine",
+    "smiles": "CCCCN1CCCCC1C(=O)NC2=C(C=CC=C2C)C"
+  },
+  "206111": {
+    "drug": "empagliflozin",
+    "smiles": "C1COC[C@H]1OC2=CC=C(C=C2)CC3=C(C=CC(=C3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)Cl"
+  },
+  "202685": {
+    "drug": "lamivudine",
+    "smiles": "C1[C@H](O[C@H](S1)CO)N2C=CC(=NC2=O)N"
+  },
+  "205352": {
+    "drug": "diphenhydramine",
+    "smiles": "CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2"
+  },
+  "208069": {
+    "drug": "nitrous oxide",
+    "smiles": "[N-]=[N+]=O"
+  },
+  "209863": {
+    "drug": "testosterone enanthate",
+    "smiles": "CCCCCCC(=O)O[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CCC4=CC(=O)CC[C@]34C)C"
+  },
+  "209176": {
+    "drug": "edaravone",
+    "smiles": "CC1=NN(C(=O)C1)C2=CC=CC=C2"
+  },
+  "216755": {
+    "drug": "metronidazole",
+    "smiles": "CC1=NC=C(N1CCO)[N+](=O)[O-]"
+  },
+  "217639": {
+    "drug": "elacestrant",
+    "smiles": "CCNCCC1=CC=C(C=C1)CN(CC)C2=C(C=CC(=C2)OC)[C@@H]3CCC4=C(C3)C=CC(=C4)O"
+  },
+  "218590": {
+    "drug": "nalmefene",
+    "smiles": "C=C1CC[C@]2([C@H]3CC4=C5[C@]2([C@H]1OC5=C(C=C4)O)CCN3CC6CC6)O"
+  },
+  "219131": {
+    "drug": "duloxetine",
+    "smiles": "CNCC[C@@H](C1=CC=CS1)OC2=CC=CC3=CC=CC=C32"
+  },
+  "022497": {
+    "drug": "bupropion",
+    "smiles": "CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)C"
+  },
+  "205353": {
+    "drug": "panobinostat lactate",
+    "smiles": "CC1=C(C2=CC=CC=C2N1)CCNCC3=CC=C(C=C3)/C=C/C(=O)NO.CC(C(=O)O)O"
+  },
+  "211580": {
+    "drug": "indocyanine green",
+    "smiles": "CC1(C(=[N+](C2=C1C3=CC=CC=C3C=C2)CCCCS(=O)(=O)[O-])/C=C/C=C/C=C/C=C\\4/C(C5=C(N4CCCCS(=O)(=O)[O-])C=CC6=CC=CC=C65)(C)C)C.[Na+]"
+  },
+  "218591": {
+    "drug": "sacubitril",
+    "smiles": "CCOC(=O)[C@H](C)C[C@@H](CC1=CC=C(C=C1)C2=CC=CC=C2)NC(=O)CCC(=O)O"
+  },
+  "219132": {
+    "drug": "levacetylleucine",
+    "smiles": "CC(C)C[C@@H](C(=O)O)NC(=O)C"
+  },
+  "219868": {
+    "drug": "ferumoxytol",
+    "smiles": "[O-2].[O-2].[O-2].[O-2].[Fe+2].[Fe+3].[Fe+3]"
+  },
+  "210192": {
+    "drug": "dolutegravir",
+    "smiles": "C[C@@H]1CCO[C@@H]2N1C(=O)C3=C(C(=O)C(=CN3C2)C(=O)NCC4=C(C=C(C=C4)F)F)O"
+  },
+  "210557": {
+    "drug": "bremelanotide",
+    "smiles": "CCCC[C@@H](C(=O)N[C@H]1CC(=O)NCCCC[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@H](NC(=O)[C@@H](NC1=O)CC2=CN=CN2)CC3=CC=CC=C3)CCCN=C(N)N)CC4=CNC5=CC=CC=C54)C(=O)O)NC(=O)C"
+  },
+  "208073": {
+    "drug": "lifitegrast",
+    "smiles": "CS(=O)(=O)C1=CC=CC(=C1)C[C@@H](C(=O)O)NC(=O)C2=C(C=C3CN(CCC3=C2Cl)C(=O)C4=CC5=C(C=C4)C=CO5)Cl"
+  },
+  "215457": {
+    "drug": "naloxone",
+    "smiles": "C=CCN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)O)O4)O"
+  },
+  "215029": {
+    "drug": "lidocaine",
+    "smiles": "CCN(CC)CC(=O)NC1=C(C=CC=C1C)C"
+  },
+  "214218": {
+    "drug": "pemetrexed di",
+    "smiles": null
+  },
+  "216338": {
+    "drug": "paclitaxel",
+    "smiles": "CC1=C2[C@H](C(=O)[C@@]3([C@H](C[C@@H]4[C@]([C@H]3[C@@H]([C@@](C2(C)C)(C[C@@H]1OC(=O)[C@@H]([C@H](C5=CC=CC=C5)NC(=O)C6=CC=CC=C6)O)O)OC(=O)C7=CC=CC=C7)(CO4)OC(=O)C)O)C)OC(=O)C"
+  },
+  "219873": {
+    "drug": "desmopressin",
+    "smiles": "C1C[C@H](N(C1)C(=O)[C@@H]2CSSCCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N2)CC(=O)N)CCC(=O)N)CC3=CC=CC=C3)CC4=CC=C(C=C4)O)C(=O)N[C@H](CCCN=C(N)N)C(=O)NCC(=O)N"
+  },
+  "204568": {
+    "drug": "efavirenz",
+    "smiles": "C1CC1C#C[C@]2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F"
+  },
+  "205355": {
+    "drug": "lamivudine",
+    "smiles": "C1[C@H](O[C@H](S1)CO)N2C=CC(=NC2=O)N"
+  },
+  "215887": {
+    "drug": "tofersen",
+    "smiles": null
+  },
+  "217645": {
+    "drug": "clonidine",
+    "smiles": "C1CN=C(N1)NC2=C(C=CC=C2Cl)Cl"
+  },
+  "219141": {
+    "drug": "hydrochlorothiazide",
+    "smiles": "C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl"
+  },
+  "219876": {
+    "drug": "dordaviprone",
+    "smiles": "CC1=CC=CC=C1CN2C(=O)C3=C(CCN(C3)CC4=CC=CC=C4)N5C2=NCC5"
+  },
+  "022501": {
+    "drug": "ethinyl estradiol",
+    "smiles": "C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)O"
+  },
+  "204569": {
+    "drug": "suvorexant",
+    "smiles": "C[C@@H]1CCN(CCN1C(=O)C2=C(C=CC(=C2)C)N3N=CC=N3)C4=NC5=C(O4)C=CC(=C5)Cl"
+  },
+  "215033": {
+    "drug": "bendamustine",
+    "smiles": "CN1C2=C(C=C(C=C2)N(CCCl)CCCl)N=C1CCCC(=O)O"
+  },
+  "210895": {
+    "drug": "colesevelam",
+    "smiles": null
+  },
+  "215888": {
+    "drug": "oteseconazole",
+    "smiles": "C1=CC(=CC=C1C2=CN=C(C=C2)C([C@](CN3C=NN=N3)(C4=C(C=C(C=C4)F)F)O)(F)F)OCC(F)(F)F"
+  },
+  "216340": {
+    "drug": "adagrasib",
+    "smiles": "CN1CCC[C@H]1COC2=NC3=C(CCN(C3)C4=CC=CC5=C4C(=CC=C5)Cl)C(=N2)N6CCN([C@H](C6)CC#N)C(=O)C(=C)F"
+  },
+  "217202": {
+    "drug": "landiolol",
+    "smiles": "CC1(OC[C@H](O1)COC(=O)CCC2=CC=C(C=C2)OC[C@H](CNCCNC(=O)N3CCOCC3)O)C"
+  },
+  "022502": {
+    "drug": "adapalene",
+    "smiles": "COC1=C(C=C(C=C1)C2=CC3=C(C=C2)C=C(C=C3)C(=O)O)C45CC6CC(C4)CC(C6)C5"
+  },
+  "205776": {
+    "drug": "methotrexate",
+    "smiles": "CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O"
+  },
+  "208078": {
+    "drug": "amifampridine",
+    "smiles": "C1=CN=CC(=C1N)N"
+  },
+  "214621": {
+    "drug": "relugolix",
+    "smiles": "CN(C)CC1=C(SC2=C1C(=O)N(C(=O)N2CC3=C(C=CC=C3F)F)C4=NN=C(C=C4)OC)C5=CC=C(C=C5)NC(=O)NOC"
+  },
+  "022503": {
+    "drug": "metaxalone",
+    "smiles": "CC1=CC(=CC(=C1)OCC2CNC(=O)O2)C"
+  },
+  "212801": {
+    "drug": "osilodrostat",
+    "smiles": "C1CC2=CN=CN2[C@H]1C3=C(C=C(C=C3)C#N)F"
+  },
+  "208313": {
+    "drug": "unknown",
+    "smiles": null
+  },
+  "215904": {
+    "drug": "ganaxolone",
+    "smiles": "CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@@](C4)(C)O)C)C"
+  },
+  "214012": {
+    "drug": "inclisiran",
+    "smiles": null
+  },
+  "217806": {
+    "drug": "tirzepatide",
+    "smiles": "CC[C@H](C)[C@@H](C(=O)N[C@@H](C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CCCCNC(=O)COCCOCCNC(=O)COCCOCCNC(=O)CC[C@@H](C(=O)O)NC(=O)CCCCCCCCCCCCCCCCCCC(=O)O)C(=O)N[C@@H](C)C(=O)N[C@@H](CC1=CC=CC=C1)C(=O)N[C@@H](C(C)C)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC2=CNC3=CC=CC=C32)C(=O)N[C@@H](CC(C)C)C(=O)N[C@@H]([C@@H](C)CC)C(=O)N[C@@H](C)C(=O)NCC(=O)NCC(=O)N4CCC[C@H]4C(=O)N[C@@H](CO)C(=O)N[C@@H](CO)C(=O)NCC(=O)N[C@@H](C)C(=O)N5CCC[C@H]5C(=O)N6CCC[C@H]6C(=O)N7CCC[C@H]7C(=O)N[C@@H](CO)C(=O)N)NC(=O)[C@H](CCCCN)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CC(C)C)NC(=O)C(C)(C)NC(=O)[C@H]([C@@H](C)CC)NC(=O)[C@H](CO)NC(=O)[C@H](CC8=CC=C(C=C8)O)NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](CO)NC(=O)[C@H]([C@@H](C)O)NC(=O)[C@H](CC9=CC=CC=C9)NC(=O)[C@H]([C@@H](C)O)NC(=O)CNC(=O)[C@H](CCC(=O)O)NC(=O)C(C)(C)NC(=O)[C@H](CC1=CC=C(C=C1)O)N"
+  },
+  "208658": {
+    "drug": "empagliflozin",
+    "smiles": "C1COC[C@H]1OC2=CC=C(C=C2)CC3=C(C=CC(=C3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)Cl"
+  },
+  "204629": {
+    "drug": "empagliflozin",
+    "smiles": "C1COC[C@H]1OC2=CC=C(C=C2)CC3=C(C=CC(=C3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)Cl"
+  },
+  "125527": {
+    "drug": "unknown_bla",
+    "smiles": null
+  },
+  "125320": {
+    "drug": "denosumab",
+    "smiles": null
+  }
+}
