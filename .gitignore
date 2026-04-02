@@ -1,0 +1,42 @@
+# FDA PDFs (too large for git)
+data/raw/*.pdf
+data/raw/**/*.pdf
+
+# Extracted figures (regenerable)
+data/figures/*.png
+data/figures/*.jpg
+data/figures/**/*.png
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Environment
+.env
+.venv/
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (large binary)
+models/*.pkl
+models/*.json
+!models/__init__.py
