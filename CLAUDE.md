@@ -6,26 +6,29 @@ PLM (Pharmacological Language Model) predicts human plasma concentration-time
 profiles directly from [SMILES, dose, route, formulation], eliminating the
 IVIVE error propagation chain inherent in traditional PBPK approaches.
 
-## Current Phase: Scale-Up Complete → Phase 1 Model Ready
+## Current Phase: Phase 1 XGBoost Baseline Complete
 
-### Completed: Feasibility (PASSED)
-- [x] 11 FDA PDFs downloaded and figures extracted
-- [x] C-t figures identified (heuristic+LLM >95% accuracy)
-- [x] 5 C-t profiles digitized with 3.5-14% Cmax error
-- [x] Metadata (dose, route, formulation) extracted
+### Completed: Full Pipeline (Feasibility → Scale-Up → Model)
+- [x] 266 ClinPharmR PDFs downloaded from FDA
+- [x] 13,108 figures extracted, 927 C-t candidates identified
+- [x] Auto-digitizer v2: 592/927 success (63.9%)
+- [x] Dataset v0.4: 427 profiles, 100 drugs, 90 SMILES
+- [x] Dataset v0.5 (cleaned): 199 profiles, 72 drugs, Sisyphus cross-validated
+- [x] Phase 1 XGBoost: AAFE 5.2 (Sisyphus-validated subset, N=67)
 
-### Completed: Scale-Up (87 PDFs → 62 profiles)
-- [x] 87 ClinPharmR PDFs downloaded (76 new + 11 feasibility)
-- [x] 4,747 figures extracted, 335 C-t candidates identified
-- [x] Auto-digitizer built (easyocr + Hough line removal)
-- [x] 62 profiles in dataset v0.2 (27 drugs, 23 SMILES, 95% coverage)
-- [x] Sisyphus overlap: 2 drugs (empagliflozin, metformin)
+### XGBoost Results
+| Dataset | N | Drugs | AAFE | 2-fold% |
+|---------|---|-------|------|---------|
+| v0.4 noisy | 316 | 81 | 10.1 | 19% |
+| v0.5 cleaned | 199 | 71 | 7.8 | 22% |
+| v0.5 Sis-validated | 67 | 30 | **5.2** | 19% |
+| Sisyphus Meta | ~500 | ~200 | **2.3** | ~50% |
 
-### Next Goal: Phase 1 XGBoost Model
-- Dataset: data/curated/plm_dataset_v0.2.json (62 profiles)
-- Need dose_mg annotation for log10(C/dose) computation
-- Need more profiles (target: 200+) for meaningful model training
-- Scale-up plan: docs/scaleup_plan.md
+### Next Goal: Close gap to Sisyphus AAFE 2.3
+- Primary bottleneck: data quality (auto-digitization noise)
+- Path 1: Manual C-t digitization for 200+ high-quality profiles
+- Path 2: Improved auto-digitizer (CNN classifier + better OCR)
+- Path 3: Direct PK table extraction from PDF text (bypass figures)
 
 ## Architecture Decisions
 
