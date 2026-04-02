@@ -1,0 +1,15 @@
+{
+  "morgan_only": {
+    "aafe": 3.723,
+    "2fold": 36.1
+  },
+  "morgan_3d_cs03": {
+    "aafe": 3.708,
+    "2fold": 34.0
+  },
+  "morgan_3d_cs07": {
+    "aafe": 3.702,
+    "2fold": 37.1
+  },
+  "3d_conformer_success_rate": 99.5
+}
