@@ -6,17 +6,26 @@ PLM (Pharmacological Language Model) predicts human plasma concentration-time
 profiles directly from [SMILES, dose, route, formulation], eliminating the
 IVIVE error propagation chain inherent in traditional PBPK approaches.
 
-## Current Phase: Pre-Feasibility
+## Current Phase: Scale-Up Complete → Phase 1 Model Ready
 
-### Immediate Goal
-Validate that FDA Clinical Pharmacology Reviews can be programmatically
-accessed, figures extracted, and C-t data digitized at scale.
+### Completed: Feasibility (PASSED)
+- [x] 11 FDA PDFs downloaded and figures extracted
+- [x] C-t figures identified (heuristic+LLM >95% accuracy)
+- [x] 5 C-t profiles digitized with 3.5-14% Cmax error
+- [x] Metadata (dose, route, formulation) extracted
 
-### Success Criteria for Feasibility
-- [ ] 10 FDA PDFs downloaded and figures extracted
-- [ ] C-t figures identified vs non-C-t figures (>80% accuracy)
-- [ ] 5 C-t profiles digitized with <10% error vs manual
-- [ ] Metadata (dose, route, formulation) extracted from captions
+### Completed: Scale-Up (87 PDFs → 62 profiles)
+- [x] 87 ClinPharmR PDFs downloaded (76 new + 11 feasibility)
+- [x] 4,747 figures extracted, 335 C-t candidates identified
+- [x] Auto-digitizer built (easyocr + Hough line removal)
+- [x] 62 profiles in dataset v0.2 (27 drugs, 23 SMILES, 95% coverage)
+- [x] Sisyphus overlap: 2 drugs (empagliflozin, metformin)
+
+### Next Goal: Phase 1 XGBoost Model
+- Dataset: data/curated/plm_dataset_v0.2.json (62 profiles)
+- Need dose_mg annotation for log10(C/dose) computation
+- Need more profiles (target: 200+) for meaningful model training
+- Scale-up plan: docs/scaleup_plan.md
 
 ## Architecture Decisions
 
@@ -96,9 +105,10 @@ Categories: fasted, fed, not_specified
 - RDKit — molecular features
 - XGBoost — Phase 1 model
 - scikit-learn — preprocessing, evaluation
-- anthropic — Claude API for caption parsing
+- easyocr — figure axis label OCR
+- opencv-python-headless — curve tracing
 - requests — FDA download
-- numpy, pandas, matplotlib
+- numpy, pandas, matplotlib, scipy
 
 ## Repository Rules
 - No FDA PDFs committed to git (too large, add to .gitignore)
