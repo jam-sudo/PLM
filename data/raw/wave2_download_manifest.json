@@ -1,0 +1,1035 @@
+{
+  "date": "2026-04-02",
+  "attempted": 212,
+  "success": 179,
+  "failed": 33,
+  "results": [
+    {
+      "nda": "210854",
+      "status": "downloaded_direct",
+      "size_mb": 3.0
+    },
+    {
+      "nda": "210166",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 10.3
+    },
+    {
+      "nda": "211210",
+      "status": "downloaded_direct",
+      "size_mb": 2.3
+    },
+    {
+      "nda": "210861",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 6.8
+    },
+    {
+      "nda": "209844",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 7.4
+    },
+    {
+      "nda": "210867",
+      "status": "downloaded_direct",
+      "size_mb": 2.7
+    },
+    {
+      "nda": "210868",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 9.2
+    },
+    {
+      "nda": "209521",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 11.3
+    },
+    {
+      "nda": "208078",
+      "status": "downloaded_direct",
+      "size_mb": 2.0
+    },
+    {
+      "nda": "207315",
+      "status": "failed"
+    },
+    {
+      "nda": "209875",
+      "status": "downloaded_direct",
+      "size_mb": 5.8
+    },
+    {
+      "nda": "208082",
+      "status": "downloaded_direct",
+      "size_mb": 34.6
+    },
+    {
+      "nda": "209478",
+      "status": "downloaded_direct",
+      "size_mb": 1.6
+    },
+    {
+      "nda": "208772",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 6.2
+    },
+    {
+      "nda": "208775",
+      "status": "failed"
+    },
+    {
+      "nda": "208780",
+      "status": "downloaded_direct",
+      "size_mb": 1.8
+    },
+    {
+      "nda": "022063",
+      "status": "downloaded_direct",
+      "size_mb": 4.8
+    },
+    {
+      "nda": "208051",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 8.0
+    },
+    {
+      "nda": "209501",
+      "status": "downloaded_direct",
+      "size_mb": 5.9
+    },
+    {
+      "nda": "208794",
+      "status": "downloaded_direct",
+      "size_mb": 6.4
+    },
+    {
+      "nda": "209512",
+      "status": "downloaded_direct",
+      "size_mb": 0.6
+    },
+    {
+      "nda": "208447",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 9.7
+    },
+    {
+      "nda": "210192",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 7.5
+    },
+    {
+      "nda": "209115",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 6.8
+    },
+    {
+      "nda": "207621",
+      "status": "downloaded_direct",
+      "size_mb": 4.6
+    },
+    {
+      "nda": "208036",
+      "status": "downloaded_direct",
+      "size_mb": 0.8
+    },
+    {
+      "nda": "208056",
+      "status": "downloaded_direct",
+      "size_mb": 10.0
+    },
+    {
+      "nda": "204553",
+      "status": "downloaded_direct",
+      "size_mb": 0.3
+    },
+    {
+      "nda": "206940",
+      "status": "downloaded_direct",
+      "size_mb": 9.3
+    },
+    {
+      "nda": "206544",
+      "status": "downloaded_direct",
+      "size_mb": 4.4
+    },
+    {
+      "nda": "208462",
+      "status": "downloaded_direct",
+      "size_mb": 7.3
+    },
+    {
+      "nda": "208030",
+      "status": "downloaded_direct",
+      "size_mb": 1.2
+    },
+    {
+      "nda": "207620",
+      "status": "downloaded_direct",
+      "size_mb": 2.6
+    },
+    {
+      "nda": "206073",
+      "status": "downloaded_direct",
+      "size_mb": 2.5
+    },
+    {
+      "nda": "205739",
+      "status": "downloaded_direct",
+      "size_mb": 3.1
+    },
+    {
+      "nda": "206500",
+      "status": "downloaded_direct",
+      "size_mb": 13.4
+    },
+    {
+      "nda": "206910",
+      "status": "downloaded_direct",
+      "size_mb": 5.8
+    },
+    {
+      "nda": "206510",
+      "status": "downloaded_direct",
+      "size_mb": 6.3
+    },
+    {
+      "nda": "205750",
+      "status": "downloaded_direct",
+      "size_mb": 6.9
+    },
+    {
+      "nda": "208434",
+      "status": "downloaded_direct",
+      "size_mb": 7.0
+    },
+    {
+      "nda": "208065",
+      "status": "downloaded_direct",
+      "size_mb": 6.9
+    },
+    {
+      "nda": "206111",
+      "status": "downloaded_direct",
+      "size_mb": 16.2
+    },
+    {
+      "nda": "205353",
+      "status": "downloaded_direct",
+      "size_mb": 6.2
+    },
+    {
+      "nda": "022503",
+      "status": "downloaded_direct",
+      "size_mb": 2.1
+    },
+    {
+      "nda": "205777",
+      "status": "downloaded_direct",
+      "size_mb": 26.4
+    },
+    {
+      "nda": "206545",
+      "status": "downloaded_direct",
+      "size_mb": 8.8
+    },
+    {
+      "nda": "205718",
+      "status": "downloaded_direct",
+      "size_mb": 20.8
+    },
+    {
+      "nda": "202293",
+      "status": "downloaded_direct",
+      "size_mb": 6.7
+    },
+    {
+      "nda": "204886",
+      "status": "downloaded_direct",
+      "size_mb": 6.8
+    },
+    {
+      "nda": "206088",
+      "status": "downloaded_direct",
+      "size_mb": 3.6
+    },
+    {
+      "nda": "205755",
+      "status": "downloaded_direct",
+      "size_mb": 9.8
+    },
+    {
+      "nda": "204914",
+      "status": "failed"
+    },
+    {
+      "nda": "204915",
+      "status": "failed"
+    },
+    {
+      "nda": "205352",
+      "status": "downloaded_direct",
+      "size_mb": 4.8
+    },
+    {
+      "nda": "205355",
+      "status": "failed"
+    },
+    {
+      "nda": "204569",
+      "status": "downloaded_direct",
+      "size_mb": 16.3
+    },
+    {
+      "nda": "202342",
+      "status": "downloaded_direct",
+      "size_mb": 4.9
+    },
+    {
+      "nda": "204516",
+      "status": "downloaded_direct",
+      "size_mb": 2.4
+    },
+    {
+      "nda": "203389",
+      "status": "downloaded_direct",
+      "size_mb": 3.6
+    },
+    {
+      "nda": "204150",
+      "status": "downloaded_direct",
+      "size_mb": 2.4
+    },
+    {
+      "nda": "204168",
+      "status": "downloaded_direct",
+      "size_mb": 12.5
+    },
+    {
+      "nda": "203414",
+      "status": "downloaded_direct",
+      "size_mb": 6.9
+    },
+    {
+      "nda": "204568",
+      "status": "failed"
+    },
+    {
+      "nda": "201194",
+      "status": "downloaded_direct",
+      "size_mb": 1.2
+    },
+    {
+      "nda": "202344",
+      "status": "downloaded_direct",
+      "size_mb": 3.3
+    },
+    {
+      "nda": "202292",
+      "status": "downloaded_direct",
+      "size_mb": 3.4
+    },
+    {
+      "nda": "202992",
+      "status": "downloaded_direct",
+      "size_mb": 18.2
+    },
+    {
+      "nda": "203388",
+      "status": "downloaded_direct",
+      "size_mb": 5.6
+    },
+    {
+      "nda": "201922",
+      "status": "downloaded_direct",
+      "size_mb": 4.3
+    },
+    {
+      "nda": "203794",
+      "status": "downloaded_direct",
+      "size_mb": 0.1
+    },
+    {
+      "nda": "202324",
+      "status": "downloaded_direct",
+      "size_mb": 6.5
+    },
+    {
+      "nda": "203415",
+      "status": "downloaded_direct",
+      "size_mb": 6.5
+    },
+    {
+      "nda": "202685",
+      "status": "failed"
+    },
+    {
+      "nda": "202343",
+      "status": "downloaded_direct",
+      "size_mb": 2.8
+    },
+    {
+      "nda": "022439",
+      "status": "downloaded_direct",
+      "size_mb": 4.7
+    },
+    {
+      "nda": "022442",
+      "status": "downloaded_direct",
+      "size_mb": 7.3
+    },
+    {
+      "nda": "201917",
+      "status": "downloaded_direct",
+      "size_mb": 8.3
+    },
+    {
+      "nda": "201151",
+      "status": "failed"
+    },
+    {
+      "nda": "201152",
+      "status": "downloaded_direct",
+      "size_mb": 4.6
+    },
+    {
+      "nda": "202331",
+      "status": "downloaded_direct",
+      "size_mb": 2.1
+    },
+    {
+      "nda": "022497",
+      "status": "downloaded_direct",
+      "size_mb": 5.2
+    },
+    {
+      "nda": "022509",
+      "status": "downloaded_direct",
+      "size_mb": 0.0
+    },
+    {
+      "nda": "200244",
+      "status": "failed"
+    },
+    {
+      "nda": "022460",
+      "status": "downloaded_direct",
+      "size_mb": 1.8
+    },
+    {
+      "nda": "022474",
+      "status": "failed"
+    },
+    {
+      "nda": "022479",
+      "status": "failed"
+    },
+    {
+      "nda": "022484",
+      "status": "downloaded_direct",
+      "size_mb": 2.3
+    },
+    {
+      "nda": "022488",
+      "status": "failed"
+    },
+    {
+      "nda": "022501",
+      "status": "downloaded_direct",
+      "size_mb": 0.3
+    },
+    {
+      "nda": "213005",
+      "status": "failed"
+    },
+    {
+      "nda": "218571",
+      "status": "downloaded_toc_IntegratedR",
+      "size_mb": 9.3
+    },
+    {
+      "nda": "217628",
+      "status": "failed"
+    },
+    {
+      "nda": "218585",
+      "status": "downloaded_toc_IntegratedR",
+      "size_mb": 5.1
+    },
+    {
+      "nda": "215029",
+      "status": "failed"
+    },
+    {
+      "nda": "219779",
+      "status": "failed"
+    },
+    {
+      "nda": "210852",
+      "status": "downloaded_toc_ClinPharmR",
+      "size_mb": 0.2
+    },
+    {
+      "nda": "215842",
+      "status": "downloaded_toc_IntegratedR",
+      "size_mb": 4.3
+    },
+    {
+      "nda": "217603",
+      "status": "downloaded_direct",
+      "size_mb": 1.1
+    },
+    {
+      "nda": "217159",
+      "status": "downloaded_toc_IntegratedR",
+      "size_mb": 19.3
+    },
+    {
+      "nda": "217171",
+      "status": "downloaded_direct",
+      "size_mb": 2.6
+    },
+    {
+      "nda": "215870",
+      "status": "downloaded_direct",
+      "size_mb": 0.2
+    },
+    {
+      "nda": "215875",
+      "status": "downloaded_direct",
+      "size_mb": 2.2
+    },
+    {
+      "nda": "216338",
+      "status": "downloaded_toc_IntegratedR",
+      "size_mb": 5.2
+    },
+    {
+      "nda": "215887",
+      "status": "downloaded_toc_IntegratedR",
+      "size_mb": 10.7
+    },
+    {
+      "nda": "214628",
+      "status": "downloaded_direct",
+      "size_mb": 7.2
+    },
+    {
+      "nda": "215401",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 6.7
+    },
+    {
+      "nda": "215833",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 16.2
+    },
+    {
+      "nda": "210850",
+      "status": "downloaded_toc_ClinPharmR",
+      "size_mb": 0.3
+    },
+    {
+      "nda": "214993",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 4.7
+    },
+    {
+      "nda": "215841",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 7.2
+    },
+    {
+      "nda": "215000",
+      "status": "downloaded_direct",
+      "size_mb": 2.2
+    },
+    {
+      "nda": "211875",
+      "status": "downloaded_toc_ClinPharmR",
+      "size_mb": 1.0
+    },
+    {
+      "nda": "216318",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 7.3
+    },
+    {
+      "nda": "215866",
+      "status": "downloaded_direct",
+      "size_mb": 13.7
+    },
+    {
+      "nda": "215868",
+      "status": "downloaded_toc_PharmR",
+      "size_mb": 5.6
+    },
+    {
+      "nda": "215441",
+      "status": "failed"
+    },
+    {
+      "nda": "215457",
+      "status": "downloaded_direct",
+      "size_mb": 4.0
+    },
+    {
+      "nda": "214218",
+      "status": "downloaded_toc_ClinPharmR",
+      "size_mb": 0.1
+    },
+    {
+      "nda": "215033",
+      "status": "downloaded_toc_PharmR",
+      "size_mb": 0.6
+    },
+    {
+      "nda": "214231",
+      "status": "downloaded_direct",
+      "size_mb": 3.3
+    },
+    {
+      "nda": "214155",
+      "status": "failed"
+    },
+    {
+      "nda": "216307",
+      "status": "failed"
+    },
+    {
+      "nda": "214200",
+      "status": "downloaded_toc_ClinPharmR",
+      "size_mb": 4.3
+    },
+    {
+      "nda": "215014",
+      "status": "downloaded_toc_IntegratedR",
+      "size_mb": 9.2
+    },
+    {
+      "nda": "215025",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 0.3
+    },
+    {
+      "nda": "212295",
+      "status": "downloaded_direct",
+      "size_mb": 7.1
+    },
+    {
+      "nda": "212593",
+      "status": "downloaded_toc_PharmR",
+      "size_mb": 1.1
+    },
+    {
+      "nda": "208419",
+      "status": "downloaded_toc_ClinPharmR",
+      "size_mb": 0.7
+    },
+    {
+      "nda": "201110",
+      "status": "downloaded_direct",
+      "size_mb": 1.7
+    },
+    {
+      "nda": "210864",
+      "status": "downloaded_toc_ClinPharmR",
+      "size_mb": 1.6
+    },
+    {
+      "nda": "215007",
+      "status": "failed"
+    },
+    {
+      "nda": "209510",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 7.1
+    },
+    {
+      "nda": "209511",
+      "status": "downloaded_toc_ClinPharmR",
+      "size_mb": 4.2
+    },
+    {
+      "nda": "210875",
+      "status": "downloaded_direct",
+      "size_mb": 2.1
+    },
+    {
+      "nda": "213727",
+      "status": "failed"
+    },
+    {
+      "nda": "211215",
+      "status": "downloaded_direct",
+      "size_mb": 1.2
+    },
+    {
+      "nda": "211882",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 5.4
+    },
+    {
+      "nda": "212268",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 6.0
+    },
+    {
+      "nda": "210872",
+      "status": "downloaded_direct",
+      "size_mb": 0.9
+    },
+    {
+      "nda": "212279",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 2.9
+    },
+    {
+      "nda": "206927",
+      "status": "downloaded_direct",
+      "size_mb": 0.9
+    },
+    {
+      "nda": "210884",
+      "status": "downloaded_direct",
+      "size_mb": 0.3
+    },
+    {
+      "nda": "210557",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 23.6
+    },
+    {
+      "nda": "210565",
+      "status": "downloaded_direct",
+      "size_mb": 0.2
+    },
+    {
+      "nda": "209184",
+      "status": "downloaded_direct",
+      "size_mb": 0.6
+    },
+    {
+      "nda": "209481",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 2.6
+    },
+    {
+      "nda": "209128",
+      "status": "downloaded_direct",
+      "size_mb": 11.6
+    },
+    {
+      "nda": "208042",
+      "status": "downloaded_direct",
+      "size_mb": 9.0
+    },
+    {
+      "nda": "209830",
+      "status": "downloaded_direct",
+      "size_mb": 7.4
+    },
+    {
+      "nda": "211226",
+      "status": "downloaded_direct",
+      "size_mb": 0.3
+    },
+    {
+      "nda": "209863",
+      "status": "downloaded_toc_ClinPharmR",
+      "size_mb": 3.8
+    },
+    {
+      "nda": "211580",
+      "status": "downloaded_toc_MultidisciplineR",
+      "size_mb": 4.6
+    },
+    {
+      "nda": "209819",
+      "status": "downloaded_direct",
+      "size_mb": 16.7
+    },
+    {
+      "nda": "209482",
+      "status": "downloaded_direct",
+      "size_mb": 2.8
+    },
+    {
+      "nda": "209483",
+      "status": "downloaded_direct",
+      "size_mb": 2.9
+    },
+    {
+      "nda": "210844",
+      "status": "failed"
+    },
+    {
+      "nda": "208418",
+      "status": "downloaded_direct",
+      "size_mb": 3.4
+    },
+    {
+      "nda": "208791",
+      "status": "downloaded_direct",
+      "size_mb": 3.8
+    },
+    {
+      "nda": "208437",
+      "status": "downloaded_direct",
+      "size_mb": 3.4
+    },
+    {
+      "nda": "208798",
+      "status": "downloaded_direct",
+      "size_mb": 6.5
+    },
+    {
+      "nda": "208799",
+      "status": "downloaded_direct",
+      "size_mb": 6.5
+    },
+    {
+      "nda": "209176",
+      "status": "downloaded_direct",
+      "size_mb": 3.2
+    },
+    {
+      "nda": "208079",
+      "status": "downloaded_direct",
+      "size_mb": 4.2
+    },
+    {
+      "nda": "208081",
+      "status": "downloaded_direct",
+      "size_mb": 4.2
+    },
+    {
+      "nda": "209531",
+      "status": "downloaded_direct",
+      "size_mb": 3.4
+    },
+    {
+      "nda": "208032",
+      "status": "downloaded_direct",
+      "size_mb": 11.4
+    },
+    {
+      "nda": "206488",
+      "status": "downloaded_direct",
+      "size_mb": 6.8
+    },
+    {
+      "nda": "022445",
+      "status": "downloaded_direct",
+      "size_mb": 4.8
+    },
+    {
+      "nda": "208424",
+      "status": "downloaded_direct",
+      "size_mb": 1.6
+    },
+    {
+      "nda": "206911",
+      "status": "downloaded_direct",
+      "size_mb": 1.5
+    },
+    {
+      "nda": "208054",
+      "status": "downloaded_direct",
+      "size_mb": 1.8
+    },
+    {
+      "nda": "207648",
+      "status": "downloaded_direct",
+      "size_mb": 0.8
+    },
+    {
+      "nda": "206099",
+      "status": "downloaded_toc_PharmR",
+      "size_mb": 5.4
+    },
+    {
+      "nda": "206110",
+      "status": "downloaded_direct",
+      "size_mb": 5.7
+    },
+    {
+      "nda": "209862",
+      "status": "downloaded_direct",
+      "size_mb": 3.4
+    },
+    {
+      "nda": "208073",
+      "status": "downloaded_direct",
+      "size_mb": 5.5
+    },
+    {
+      "nda": "206494",
+      "status": "downloaded_direct",
+      "size_mb": 4.1
+    },
+    {
+      "nda": "201923",
+      "status": "downloaded_direct",
+      "size_mb": 3.9
+    },
+    {
+      "nda": "208069",
+      "status": "failed"
+    },
+    {
+      "nda": "205776",
+      "status": "downloaded_direct",
+      "size_mb": 2.5
+    },
+    {
+      "nda": "205713",
+      "status": "failed"
+    },
+    {
+      "nda": "205737",
+      "status": "failed"
+    },
+    {
+      "nda": "205738",
+      "status": "failed"
+    },
+    {
+      "nda": "204141",
+      "status": "downloaded_direct",
+      "size_mb": 2.8
+    },
+    {
+      "nda": "203791",
+      "status": "downloaded_direct",
+      "size_mb": 2.1
+    },
+    {
+      "nda": "204153",
+      "status": "downloaded_direct",
+      "size_mb": 5.4
+    },
+    {
+      "nda": "203797",
+      "status": "failed"
+    },
+    {
+      "nda": "202317",
+      "status": "downloaded_direct",
+      "size_mb": 1.3
+    },
+    {
+      "nda": "205764",
+      "status": "failed"
+    },
+    {
+      "nda": "205765",
+      "status": "failed"
+    },
+    {
+      "nda": "205766",
+      "status": "failed"
+    },
+    {
+      "nda": "205767",
+      "status": "failed"
+    },
+    {
+      "nda": "204200",
+      "status": "downloaded_toc_ClinPharmR",
+      "size_mb": 2.9
+    },
+    {
+      "nda": "022453",
+      "status": "downloaded_direct",
+      "size_mb": 0.1
+    },
+    {
+      "nda": "202667",
+      "status": "downloaded_direct",
+      "size_mb": 0.0
+    },
+    {
+      "nda": "200403",
+      "status": "downloaded_direct",
+      "size_mb": 0.7
+    },
+    {
+      "nda": "201195",
+      "status": "downloaded_direct",
+      "size_mb": 0.9
+    },
+    {
+      "nda": "022434",
+      "status": "downloaded_direct",
+      "size_mb": 0.9
+    },
+    {
+      "nda": "022454",
+      "status": "failed"
+    },
+    {
+      "nda": "201153",
+      "status": "downloaded_direct",
+      "size_mb": 1.4
+    },
+    {
+      "nda": "021359",
+      "status": "downloaded_direct",
+      "size_mb": 5.4
+    },
+    {
+      "nda": "022485",
+      "status": "downloaded_direct",
+      "size_mb": 1.0
+    },
+    {
+      "nda": "022494",
+      "status": "downloaded_direct",
+      "size_mb": 0.1
+    },
+    {
+      "nda": "022496",
+      "status": "downloaded_direct",
+      "size_mb": 4.8
+    },
+    {
+      "nda": "022504",
+      "status": "downloaded_direct",
+      "size_mb": 1.6
+    },
+    {
+      "nda": "022437",
+      "status": "downloaded_direct",
+      "size_mb": 0.7
+    },
+    {
+      "nda": "022450",
+      "status": "downloaded_direct",
+      "size_mb": 1.4
+    },
+    {
+      "nda": "022462",
+      "status": "downloaded_direct",
+      "size_mb": 0.1
+    },
+    {
+      "nda": "022466",
+      "status": "downloaded_direct",
+      "size_mb": 0.4
+    },
+    {
+      "nda": "022483",
+      "status": "downloaded_direct",
+      "size_mb": 1.0
+    },
+    {
+      "nda": "200327",
+      "status": "downloaded_direct",
+      "size_mb": 2.5
+    },
+    {
+      "nda": "022502",
+      "status": "failed"
+    }
+  ]
+}

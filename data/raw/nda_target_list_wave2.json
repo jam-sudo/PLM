@@ -1,0 +1,1486 @@
+[
+  {
+    "nda": "210854",
+    "year": 2018,
+    "brand_name": "XOFLUZA",
+    "active_ingredient": "BALOXAVIR MARBOXIL",
+    "route": "ORAL"
+  },
+  {
+    "nda": "210166",
+    "year": 2018,
+    "brand_name": "MOTEGRITY",
+    "active_ingredient": "PRUCALOPRIDE SUCCINATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "211210",
+    "year": 2018,
+    "brand_name": "QMIIZ ODT",
+    "active_ingredient": "MELOXICAM",
+    "route": "ORAL"
+  },
+  {
+    "nda": "210861",
+    "year": 2018,
+    "brand_name": "VITRAKVI",
+    "active_ingredient": "LAROTRECTINIB SULFATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "209844",
+    "year": 2018,
+    "brand_name": "LYMEPAK",
+    "active_ingredient": "DOXYCYCLINE HYCLATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "210867",
+    "year": 2018,
+    "brand_name": "MOXIDECTIN",
+    "active_ingredient": "MOXIDECTIN",
+    "route": "ORAL"
+  },
+  {
+    "nda": "210868",
+    "year": 2018,
+    "brand_name": "LORBRENA",
+    "active_ingredient": "LORLATINIB",
+    "route": "ORAL"
+  },
+  {
+    "nda": "209521",
+    "year": 2018,
+    "brand_name": "SEYSARA",
+    "active_ingredient": "SARECYCLINE HYDROCHLORIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "208078",
+    "year": 2018,
+    "brand_name": "FIRDAPSE",
+    "active_ingredient": "AMIFAMPRIDINE PHOSPHATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "207315",
+    "year": 2017,
+    "brand_name": "LAMIVUDINE AND TENOFOVIR DISOPROXIL FUMARATE",
+    "active_ingredient": "LAMIVUDINE; TENOFOVIR DISOPROXIL FUMARATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "209875",
+    "year": 2017,
+    "brand_name": "NIKITA",
+    "active_ingredient": "PITAVASTATIN SODIUM",
+    "route": "ORAL"
+  },
+  {
+    "nda": "208082",
+    "year": 2017,
+    "brand_name": "AUSTEDO",
+    "active_ingredient": "DEUTETRABENAZINE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "209478",
+    "year": 2017,
+    "brand_name": "CAROSPIR",
+    "active_ingredient": "SPIRONOLACTONE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "208772",
+    "year": 2017,
+    "brand_name": "ALUNBRIG",
+    "active_ingredient": "BRIGATINIB",
+    "route": "ORAL"
+  },
+  {
+    "nda": "208775",
+    "year": 2017,
+    "brand_name": "ABACAVIR AND LAMIVUDINE",
+    "active_ingredient": "ABACAVIR; LAMIVUDINE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "208780",
+    "year": 2017,
+    "brand_name": "ESBRIET",
+    "active_ingredient": "PIRFENIDONE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "022063",
+    "year": 2017,
+    "brand_name": "MYDAYIS",
+    "active_ingredient": "AMPHETAMINE ASPARTATE; AMPHETAMINE SULFATE; DEXTROAMPHETAMINE SACCHARATE; DEXTROAMPHETAMINE SULFATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "208051",
+    "year": 2017,
+    "brand_name": "NERLYNX",
+    "active_ingredient": "NERATINIB MALEATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "209501",
+    "year": 2017,
+    "brand_name": "LYRICA CR",
+    "active_ingredient": "PREGABALIN",
+    "route": "ORAL"
+  },
+  {
+    "nda": "208794",
+    "year": 2017,
+    "brand_name": "XERMELO",
+    "active_ingredient": "TELOTRISTAT ETIPRATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "209512",
+    "year": 2017,
+    "brand_name": "NORVIR",
+    "active_ingredient": "RITONAVIR",
+    "route": "ORAL"
+  },
+  {
+    "nda": "208447",
+    "year": 2017,
+    "brand_name": "ZEJULA",
+    "active_ingredient": "NIRAPARIB TOSYLATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "210192",
+    "year": 2017,
+    "brand_name": "JULUCA",
+    "active_ingredient": "DOLUTEGRAVIR SODIUM; RILPIVIRINE HYDROCHLORIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "209115",
+    "year": 2016,
+    "brand_name": "RUBRACA",
+    "active_ingredient": "RUCAPARIB CAMSYLATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "207621",
+    "year": 2016,
+    "brand_name": "TROXYCA ER",
+    "active_ingredient": "NALTREXONE HYDROCHLORIDE; OXYCODONE HYDROCHLORIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "208036",
+    "year": 2016,
+    "brand_name": "E-Z-CAT DRY",
+    "active_ingredient": "BARIUM SULFATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "208056",
+    "year": 2016,
+    "brand_name": "DEXILANT SOLUTAB",
+    "active_ingredient": "DEXLANSOPRAZOLE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "204553",
+    "year": 2016,
+    "brand_name": "COLPREP KIT",
+    "active_ingredient": "MAGNESIUM SULFATE; POTASSIUM SULFATE; SODIUM SULFATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "206940",
+    "year": 2015,
+    "brand_name": "VIBERZI",
+    "active_ingredient": "ELUXADOLINE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "206544",
+    "year": 2015,
+    "brand_name": "MORPHABOND ER",
+    "active_ingredient": "MORPHINE SULFATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "208462",
+    "year": 2015,
+    "brand_name": "NINLARO",
+    "active_ingredient": "IXAZOMIB CITRATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "208030",
+    "year": 2015,
+    "brand_name": "FERRIPROX",
+    "active_ingredient": "DEFERIPRONE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "207620",
+    "year": 2015,
+    "brand_name": "ENTRESTO",
+    "active_ingredient": "SACUBITRIL; VALSARTAN",
+    "route": "ORAL"
+  },
+  {
+    "nda": "206073",
+    "year": 2015,
+    "brand_name": "GLYXAMBI",
+    "active_ingredient": "EMPAGLIFLOZIN; LINAGLIPTIN",
+    "route": "ORAL"
+  },
+  {
+    "nda": "205739",
+    "year": 2015,
+    "brand_name": "VELTASSA",
+    "active_ingredient": "PATIROMER SORBITEX CALCIUM",
+    "route": "ORAL"
+  },
+  {
+    "nda": "206500",
+    "year": 2015,
+    "brand_name": "VARUBI",
+    "active_ingredient": "ROLAPITANT HYDROCHLORIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "206910",
+    "year": 2015,
+    "brand_name": "JADENU",
+    "active_ingredient": "DEFERASIROX",
+    "route": "ORAL"
+  },
+  {
+    "nda": "206510",
+    "year": 2015,
+    "brand_name": "DUTREBIS",
+    "active_ingredient": "LAMIVUDINE; RALTEGRAVIR POTASSIUM",
+    "route": "ORAL"
+  },
+  {
+    "nda": "205750",
+    "year": 2015,
+    "brand_name": "CHOLBAM",
+    "active_ingredient": "CHOLIC ACID",
+    "route": "ORAL"
+  },
+  {
+    "nda": "208434",
+    "year": 2015,
+    "brand_name": "ALECENSA",
+    "active_ingredient": "ALECTINIB HYDROCHLORIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "208065",
+    "year": 2015,
+    "brand_name": "TAGRISSO",
+    "active_ingredient": "OSIMERTINIB MESYLATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "206111",
+    "year": 2015,
+    "brand_name": "SYNJARDY",
+    "active_ingredient": "EMPAGLIFLOZIN; METFORMIN HYDROCHLORIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "205353",
+    "year": 2015,
+    "brand_name": "FARYDAK",
+    "active_ingredient": "PANOBINOSTAT LACTATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "022503",
+    "year": 2015,
+    "brand_name": "METAXALONE",
+    "active_ingredient": "METAXALONE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "205777",
+    "year": 2014,
+    "brand_name": "TARGINIQ",
+    "active_ingredient": "NALOXONE HYDROCHLORIDE; OXYCODONE HYDROCHLORIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "206545",
+    "year": 2014,
+    "brand_name": "ZYDELIG",
+    "active_ingredient": "IDELALISIB",
+    "route": "ORAL"
+  },
+  {
+    "nda": "205718",
+    "year": 2014,
+    "brand_name": "AKYNZEO",
+    "active_ingredient": "NETUPITANT; PALONOSETRON HYDROCHLORIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "202293",
+    "year": 2014,
+    "brand_name": "FARXIGA",
+    "active_ingredient": "DAPAGLIFLOZIN",
+    "route": "ORAL"
+  },
+  {
+    "nda": "204886",
+    "year": 2014,
+    "brand_name": "ZONTIVITY",
+    "active_ingredient": "VORAPAXAR SULFATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "206088",
+    "year": 2014,
+    "brand_name": "OTEZLA",
+    "active_ingredient": "APREMILAST",
+    "route": "ORAL"
+  },
+  {
+    "nda": "205755",
+    "year": 2014,
+    "brand_name": "ZYKADIA",
+    "active_ingredient": "CERITINIB",
+    "route": "ORAL"
+  },
+  {
+    "nda": "204914",
+    "year": 2014,
+    "brand_name": "LAMIVUDINE; ZIDOVUDINE",
+    "active_ingredient": "LAMIVUDINE; ZIDOVUDINE",
+    "route": "ORAL SUSPENSION"
+  },
+  {
+    "nda": "204915",
+    "year": 2014,
+    "brand_name": "ABACAVIR AND LAMIVUDINE",
+    "active_ingredient": "ABACAVIR; LAMIVUDINE",
+    "route": "ORAL SUSPENSION"
+  },
+  {
+    "nda": "205352",
+    "year": 2014,
+    "brand_name": "ALEVE PM",
+    "active_ingredient": "DIPHENHYDRAMINE HYDROCHLORIDE; NAPROXEN SODIUM",
+    "route": "ORAL"
+  },
+  {
+    "nda": "205355",
+    "year": 2014,
+    "brand_name": "LAMIVUDINE; TENOFOVIR DISOPROXIL FUMARATE; NEVIRAPINE",
+    "active_ingredient": "LAMIVUDINE; TENOFOVIR DISOPROXIL FUMARATE; NEVIRAPINE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "204569",
+    "year": 2014,
+    "brand_name": "BELSOMRA",
+    "active_ingredient": "SUVOREXANT",
+    "route": "ORAL"
+  },
+  {
+    "nda": "202342",
+    "year": 2013,
+    "brand_name": "ESOMEPRAZOLE STRONTIUM",
+    "active_ingredient": "ESOMEPRAZOLE STRONTIUM",
+    "route": "ORAL"
+  },
+  {
+    "nda": "204516",
+    "year": 2013,
+    "brand_name": "BRISDELLE",
+    "active_ingredient": "PAROXETINE MESYLATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "203389",
+    "year": 2013,
+    "brand_name": "PROCYSBI",
+    "active_ingredient": "CYSTEAMINE BITARTRATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "204150",
+    "year": 2013,
+    "brand_name": "DESVENLAFAXINE",
+    "active_ingredient": "DESVENLAFAXINE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "204168",
+    "year": 2013,
+    "brand_name": "FETZIMA",
+    "active_ingredient": "LEVOMILNACIPRAN HYDROCHLORIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "203414",
+    "year": 2013,
+    "brand_name": "KAZANO",
+    "active_ingredient": "ALOGLIPTIN BENZOATE; METFORMIN HYDROCHLORIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "204568",
+    "year": 2013,
+    "brand_name": "EFAVIRENZ, LAMIVUDINE, AND TENOFOVIR DISOPROXIL FUMARATE",
+    "active_ingredient": "EFAVIRENZ; LAMIVUDINE; TENOFOVIR DISOPROXIL FUMARATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "201194",
+    "year": 2012,
+    "brand_name": "OXYCODONE HYDROCHLORIDE",
+    "active_ingredient": "OXYCODONE HYDROCHLORIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "202344",
+    "year": 2012,
+    "brand_name": "BINOSTO",
+    "active_ingredient": "ALENDRONATE SODIUM",
+    "route": "ORAL"
+  },
+  {
+    "nda": "202292",
+    "year": 2012,
+    "brand_name": "MYTESI",
+    "active_ingredient": "CROFELEMER",
+    "route": "ORAL"
+  },
+  {
+    "nda": "202992",
+    "year": 2012,
+    "brand_name": "AUBAGIO",
+    "active_ingredient": "TERIFLUNOMIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "203388",
+    "year": 2012,
+    "brand_name": "ERIVEDGE",
+    "active_ingredient": "VISMODEGIB",
+    "route": "ORAL"
+  },
+  {
+    "nda": "201922",
+    "year": 2012,
+    "brand_name": "XIMINO",
+    "active_ingredient": "MINOCYCLINE HYDROCHLORIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "203794",
+    "year": 2012,
+    "brand_name": "NUCYNTA",
+    "active_ingredient": "TAPENTADOL HYDROCHLORIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "202324",
+    "year": 2012,
+    "brand_name": "INLYTA",
+    "active_ingredient": "AXITINIB",
+    "route": "ORAL"
+  },
+  {
+    "nda": "203415",
+    "year": 2012,
+    "brand_name": "XTANDI",
+    "active_ingredient": "ENZALUTAMIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "202685",
+    "year": 2012,
+    "brand_name": "LAMIVUDINE; NEVIRAPINE; ZIDOVUDINE",
+    "active_ingredient": "LAMIVUDINE; NEVIRAPINE; ZIDOVUDINE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "202343",
+    "year": 2011,
+    "brand_name": "JUVISYNC",
+    "active_ingredient": "SIMVASTATIN; SITAGLIPTIN PHOSPHATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "022439",
+    "year": 2011,
+    "brand_name": "ZUTRIPRO",
+    "active_ingredient": "CHLORPHENIRAMINE MALEATE; HYDROCODONE BITARTRATE; PSEUDOEPHEDRINE HYDROCHLORIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "022442",
+    "year": 2011,
+    "brand_name": "REZIRA",
+    "active_ingredient": "HYDROCODONE BITARTRATE; PSEUDOEPHEDRINE HYDROCHLORIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "201917",
+    "year": 2011,
+    "brand_name": "INCIVEK",
+    "active_ingredient": "TELAPREVIR",
+    "route": "ORAL"
+  },
+  {
+    "nda": "201151",
+    "year": 2011,
+    "brand_name": "LAMIVUDINE; ZIDOVUDINE",
+    "active_ingredient": "LAMIVUDINE; ZIDOVUDINE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "201152",
+    "year": 2011,
+    "brand_name": "VIRAMUNE XR",
+    "active_ingredient": "NEVIRAPINE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "202331",
+    "year": 2011,
+    "brand_name": "EDARBYCLOR",
+    "active_ingredient": "AZILSARTAN KAMEDOXOMIL; CHLORTHALIDONE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "022497",
+    "year": 2011,
+    "brand_name": "FORFIVO XL",
+    "active_ingredient": "BUPROPION HYDROCHLORIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "022509",
+    "year": 2010,
+    "brand_name": "LAMICTAL XR",
+    "active_ingredient": "LAMOTRIGINE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "200244",
+    "year": 2010,
+    "brand_name": "LAMIVUDINE, NEVIRAPINE, AND STAVUDINE",
+    "active_ingredient": "LAMIVUDINE; NEVIRAPINE; STAVUDINE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "022460",
+    "year": 2010,
+    "brand_name": "JALYN",
+    "active_ingredient": "DUTASTERIDE; TAMSULOSIN HYDROCHLORIDE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "022474",
+    "year": 2010,
+    "brand_name": "ELLA",
+    "active_ingredient": "ULIPRISTAL ACETATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "022479",
+    "year": 2010,
+    "brand_name": "LAMIVUDINE AND STAVUDINE",
+    "active_ingredient": "LAMIVUDINE; STAVUDINE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "022484",
+    "year": 2010,
+    "brand_name": "ONMEL",
+    "active_ingredient": "ITRACONAZOLE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "022488",
+    "year": 2010,
+    "brand_name": "LYRICA",
+    "active_ingredient": "PREGABALIN",
+    "route": "ORAL"
+  },
+  {
+    "nda": "022501",
+    "year": 2010,
+    "brand_name": "LO LOESTRIN FE",
+    "active_ingredient": "ETHINYL ESTRADIOL; NORETHINDRONE ACETATE",
+    "route": "ORAL"
+  },
+  {
+    "nda": "213005",
+    "year": 2025,
+    "brand_name": "YUTREPIA",
+    "active_ingredient": "TREPROSTINIL SODIUM",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "218571",
+    "year": 2025,
+    "brand_name": "CARDAMYST",
+    "active_ingredient": "ETRIPAMIL",
+    "route": "NASAL"
+  },
+  {
+    "nda": "217628",
+    "year": 2025,
+    "brand_name": "CLOTIC",
+    "active_ingredient": "CLOTRIMAZOLE",
+    "route": "OTIC"
+  },
+  {
+    "nda": "218585",
+    "year": 2025,
+    "brand_name": "VIZZ",
+    "active_ingredient": "ACECLIDINE HYDROCHLORIDE",
+    "route": "OPHTHALMIC"
+  },
+  {
+    "nda": "215029",
+    "year": 2025,
+    "brand_name": "BONDLIDO",
+    "active_ingredient": "LIDOCAINE",
+    "route": "TOPICAL"
+  },
+  {
+    "nda": "219779",
+    "year": 2024,
+    "brand_name": "CARBON DIOXIDE, USP",
+    "active_ingredient": "CARBON DIOXIDE",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "210852",
+    "year": 2023,
+    "brand_name": "FRINDOVYX",
+    "active_ingredient": "CYCLOPHOSPHAMIDE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "215842",
+    "year": 2023,
+    "brand_name": "RIVFLOZA",
+    "active_ingredient": "NEDOSIRAN SODIUM",
+    "route": "INJECTION"
+  },
+  {
+    "nda": "217603",
+    "year": 2023,
+    "brand_name": "XDEMVY",
+    "active_ingredient": "LOTILANER",
+    "route": "OPHTHALMIC"
+  },
+  {
+    "nda": "217159",
+    "year": 2023,
+    "brand_name": "APHEXDA",
+    "active_ingredient": "MOTIXAFORTIDE ACETATE",
+    "route": "SUBCUTANEOUS"
+  },
+  {
+    "nda": "217171",
+    "year": 2023,
+    "brand_name": "SYFOVRE",
+    "active_ingredient": "PEGCETACOPLAN",
+    "route": "INTRAVITREAL"
+  },
+  {
+    "nda": "215870",
+    "year": 2023,
+    "brand_name": "FENTANYL CITRATE",
+    "active_ingredient": "FENTANYL CITRATE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "215875",
+    "year": 2023,
+    "brand_name": "ADRENALIN",
+    "active_ingredient": "EPINEPHRINE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "216338",
+    "year": 2023,
+    "brand_name": "PACLITAXEL",
+    "active_ingredient": "PACLITAXEL",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "215887",
+    "year": 2023,
+    "brand_name": "QALSODY",
+    "active_ingredient": "TOFERSEN",
+    "route": "INTRATHECAL"
+  },
+  {
+    "nda": "214628",
+    "year": 2022,
+    "brand_name": "NOREPINEPHRINE BITARTRATE IN 0.9% SODIUM CHLORIDE",
+    "active_ingredient": "NOREPINEPHRINE BITARTRATE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "215401",
+    "year": 2022,
+    "brand_name": "XELSTRYM",
+    "active_ingredient": "DEXTROAMPHETAMINE",
+    "route": "TRANSDERMAL"
+  },
+  {
+    "nda": "215833",
+    "year": 2022,
+    "brand_name": "PLUVICTO",
+    "active_ingredient": "LUTETIUM LU-177 VIPIVOTIDE TETRAXETAN",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "210850",
+    "year": 2022,
+    "brand_name": "SINCALIDE",
+    "active_ingredient": "SINCALIDE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "214993",
+    "year": 2022,
+    "brand_name": "NEPHROSCAN",
+    "active_ingredient": "TECHNETIUM TC-99M SUCCIMER",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "215841",
+    "year": 2022,
+    "brand_name": "LOCAMETZ",
+    "active_ingredient": "GALLIUM GA-68 GOZETOTIDE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "215000",
+    "year": 2022,
+    "brand_name": "CARMUSTINE",
+    "active_ingredient": "CARMUSTINE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "211875",
+    "year": 2022,
+    "brand_name": "PACLITAXEL",
+    "active_ingredient": "PACLITAXEL",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "216318",
+    "year": 2022,
+    "brand_name": "AZMIRO",
+    "active_ingredient": "TESTOSTERONE CYPIONATE",
+    "route": "INTRAMUSCULAR"
+  },
+  {
+    "nda": "215866",
+    "year": 2022,
+    "brand_name": "MOUNJARO",
+    "active_ingredient": "TIRZEPATIDE",
+    "route": "SUBCUTANEOUS"
+  },
+  {
+    "nda": "215868",
+    "year": 2022,
+    "brand_name": "MIDAZOLAM IN 0.8% SODIUM CHLORIDE",
+    "active_ingredient": "MIDAZOLAM",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "215441",
+    "year": 2022,
+    "brand_name": "BORTEZOMIB",
+    "active_ingredient": "BORTEZOMIB",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "215457",
+    "year": 2022,
+    "brand_name": "NALOXONE HYDROCHLORIDE (AUTOINJECTOR)",
+    "active_ingredient": "NALOXONE HYDROCHLORIDE",
+    "route": "INTRAMUSCULAR, SUBCUTANEOUS"
+  },
+  {
+    "nda": "214218",
+    "year": 2022,
+    "brand_name": "PEMETREXED DISODIUM",
+    "active_ingredient": "PEMETREXED DISODIUM",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "215033",
+    "year": 2022,
+    "brand_name": "BENDAMUSTINE HYDROCHLORIDE",
+    "active_ingredient": "BENDAMUSTINE HYDROCHLORIDE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "214231",
+    "year": 2021,
+    "brand_name": "ZEGALOGUE",
+    "active_ingredient": "DASIGLUCAGON HYDROCHLORIDE",
+    "route": "SUBCUTANEOUS"
+  },
+  {
+    "nda": "214155",
+    "year": 2021,
+    "brand_name": "KIMYRSA",
+    "active_ingredient": "ORITAVANCIN DIPHOSPHATE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "216307",
+    "year": 2021,
+    "brand_name": "HELIUM, USP",
+    "active_ingredient": "HELIUM",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "214200",
+    "year": 2021,
+    "brand_name": "COSELA",
+    "active_ingredient": "TRILACICLIB DIHYDROCHLORIDE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "215014",
+    "year": 2021,
+    "brand_name": "EMPAVELI",
+    "active_ingredient": "PEGCETACOPLAN",
+    "route": "SUBCUTANEOUS"
+  },
+  {
+    "nda": "215025",
+    "year": 2021,
+    "brand_name": "SODIUM PHENYLACETATE AND SODIUM BENZOATE",
+    "active_ingredient": "SODIUM BENZOATE; SODIUM PHENYLACETATE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "212295",
+    "year": 2020,
+    "brand_name": "BYFAVO",
+    "active_ingredient": "REMIMAZOLAM BESYLATE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "212593",
+    "year": 2020,
+    "brand_name": "VASOPRESSIN",
+    "active_ingredient": "VASOPRESSIN",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "208419",
+    "year": 2020,
+    "brand_name": "PEMETREXED",
+    "active_ingredient": "PEMETREXED",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "201110",
+    "year": 2020,
+    "brand_name": "MILPROSA",
+    "active_ingredient": "PROGESTERONE",
+    "route": "VAGINAL"
+  },
+  {
+    "nda": "210864",
+    "year": 2020,
+    "brand_name": "SESQUIENT",
+    "active_ingredient": "FOSPHENYTOIN SODIUM",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "215007",
+    "year": 2020,
+    "brand_name": "CARBON DIOXIDE, USP",
+    "active_ingredient": "CARBON DIOIDE",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "209510",
+    "year": 2020,
+    "brand_name": "BARHEMSYS",
+    "active_ingredient": "AMISULPRIDE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "209511",
+    "year": 2020,
+    "brand_name": "XARACOLL",
+    "active_ingredient": "BUPIVACAINE HYDROCHLORIDE",
+    "route": "IMPLANTATION"
+  },
+  {
+    "nda": "210875",
+    "year": 2020,
+    "brand_name": "KYNMOBI",
+    "active_ingredient": "APOMORPHINE HYDROCHLORIDE",
+    "route": "SUBLINGUAL"
+  },
+  {
+    "nda": "213727",
+    "year": 2019,
+    "brand_name": "HELIUM, USP",
+    "active_ingredient": "HELIUM",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "211215",
+    "year": 2019,
+    "brand_name": "ANGIOMAX RTU",
+    "active_ingredient": "BIVALIRUDIN",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "211882",
+    "year": 2019,
+    "brand_name": "ARAZLO",
+    "active_ingredient": "TAZAROTENE",
+    "route": "TOPICAL"
+  },
+  {
+    "nda": "212268",
+    "year": 2019,
+    "brand_name": "SECUADO",
+    "active_ingredient": "ASENAPINE",
+    "route": "TRANSDERMAL"
+  },
+  {
+    "nda": "210872",
+    "year": 2019,
+    "brand_name": "ZURAGARD",
+    "active_ingredient": "ISOPROPYL ALCOHOL",
+    "route": "TOPICAL"
+  },
+  {
+    "nda": "212279",
+    "year": 2019,
+    "brand_name": "EXEM FOAM KIT",
+    "active_ingredient": "AIR POLYMER-TYPE A",
+    "route": "INTRAUTERINE"
+  },
+  {
+    "nda": "206927",
+    "year": 2019,
+    "brand_name": "BORTEZOMIB",
+    "active_ingredient": "BORTEZOMIB",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "210884",
+    "year": 2019,
+    "brand_name": "TOSYMRA",
+    "active_ingredient": "SUMATRIPTAN",
+    "route": "NASAL"
+  },
+  {
+    "nda": "210557",
+    "year": 2019,
+    "brand_name": "VYLEESI (AUTOINJECTOR)",
+    "active_ingredient": "BREMELANOTIDE ACETATE",
+    "route": "SUBCUTANEOUS"
+  },
+  {
+    "nda": "210565",
+    "year": 2018,
+    "brand_name": "INVELTYS",
+    "active_ingredient": "LOTEPREDNOL ETABONATE",
+    "route": "OPHTHALMIC"
+  },
+  {
+    "nda": "209184",
+    "year": 2018,
+    "brand_name": "INBRIJA",
+    "active_ingredient": "LEVODOPA",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "209481",
+    "year": 2018,
+    "brand_name": "VANCOMYCIN HYDROCHLORIDE",
+    "active_ingredient": "VANCOMYCIN HYDROCHLORIDE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "209128",
+    "year": 2018,
+    "brand_name": "DSUVIA",
+    "active_ingredient": "SUFENTANIL CITRATE",
+    "route": "SUBLINGUAL"
+  },
+  {
+    "nda": "208042",
+    "year": 2018,
+    "brand_name": "CASSIPA",
+    "active_ingredient": "BUPRENORPHINE HYDROCHLORIDE; NALOXONE HYDROCHLORIDE",
+    "route": "SUBLINGUAL"
+  },
+  {
+    "nda": "209830",
+    "year": 2018,
+    "brand_name": "ARISTADA INITIO KIT",
+    "active_ingredient": "ARIPIPRAZOLE LAUROXIL",
+    "route": "INTRAMUSCULAR"
+  },
+  {
+    "nda": "211226",
+    "year": 2018,
+    "brand_name": "KHAPZORY",
+    "active_ingredient": "LEVOLEUCOVORIN",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "209863",
+    "year": 2018,
+    "brand_name": "XYOSTED (AUTOINJECTOR)",
+    "active_ingredient": "TESTOSTERONE ENANTHATE",
+    "route": "SUBCUTANEOUS"
+  },
+  {
+    "nda": "211580",
+    "year": 2018,
+    "brand_name": "SPY AGENT GREEN KIT",
+    "active_ingredient": "INDOCYANINE GREEN",
+    "route": "INTRAVENOUS, INTERSTITIAL"
+  },
+  {
+    "nda": "209819",
+    "year": 2017,
+    "brand_name": "SUBLOCADE",
+    "active_ingredient": "BUPRENORPHINE",
+    "route": "SUBCUTANEOUS"
+  },
+  {
+    "nda": "209482",
+    "year": 2017,
+    "brand_name": "TRELEGY ELLIPTA",
+    "active_ingredient": "FLUTICASONE FUROATE; UMECLIDINIUM BROMIDE; VILANTEROL TRIFENATATE",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "209483",
+    "year": 2017,
+    "brand_name": "IMPOYZ",
+    "active_ingredient": "CLOBETASOL PROPIONATE",
+    "route": "TOPICAL"
+  },
+  {
+    "nda": "210844",
+    "year": 2017,
+    "brand_name": "OXYGEN, USP",
+    "active_ingredient": "OXYGEN",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "208418",
+    "year": 2017,
+    "brand_name": "CALCIUM GLUCONATE",
+    "active_ingredient": "CALCIUM GLUCONATE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "208791",
+    "year": 2017,
+    "brand_name": "CLOROTEKAL",
+    "active_ingredient": "CHLOROPROCAINE HYDROCHLORIDE",
+    "route": "INTRATHECAL"
+  },
+  {
+    "nda": "208437",
+    "year": 2017,
+    "brand_name": "LONHALA MAGNAIR KIT",
+    "active_ingredient": "GLYCOPYRROLATE",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "208798",
+    "year": 2017,
+    "brand_name": "ARMONAIR RESPICLICK",
+    "active_ingredient": "FLUTICASONE PROPIONATE",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "208799",
+    "year": 2017,
+    "brand_name": "AIRDUO DIGIHALER",
+    "active_ingredient": "FLUTICASONE PROPIONATE; SALMETEROL XINAFOATE",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "209176",
+    "year": 2017,
+    "brand_name": "RADICAVA",
+    "active_ingredient": "EDARAVONE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "208079",
+    "year": 2016,
+    "brand_name": "SERNIVO",
+    "active_ingredient": "BETAMETHASONE DIPROPIONATE",
+    "route": "TOPICAL"
+  },
+  {
+    "nda": "208081",
+    "year": 2016,
+    "brand_name": "AMELUZ",
+    "active_ingredient": "AMINOLEVULINIC ACID HYDROCHLORIDE",
+    "route": "TOPICAL"
+  },
+  {
+    "nda": "209531",
+    "year": 2016,
+    "brand_name": "SPINRAZA",
+    "active_ingredient": "NUSINERSEN SODIUM",
+    "route": "INTRATHECAL"
+  },
+  {
+    "nda": "208032",
+    "year": 2016,
+    "brand_name": "KOVANAZE",
+    "active_ingredient": "OXYMETAZOLINE HYDROCHLORIDE; TETRACAINE HYDROCHLORIDE",
+    "route": "NASAL"
+  },
+  {
+    "nda": "206488",
+    "year": 2016,
+    "brand_name": "EXONDYS 51",
+    "active_ingredient": "ETEPLIRSEN",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "022445",
+    "year": 2016,
+    "brand_name": "SUSTOL",
+    "active_ingredient": "GRANISETRON",
+    "route": "SUBCUTANEOUS"
+  },
+  {
+    "nda": "208424",
+    "year": 2016,
+    "brand_name": "GONITRO",
+    "active_ingredient": "NITROGLYCERIN",
+    "route": "SUBLINGUAL"
+  },
+  {
+    "nda": "206911",
+    "year": 2016,
+    "brand_name": "BROMSITE",
+    "active_ingredient": "BROMFENAC SODIUM",
+    "route": "OPHTHALMIC"
+  },
+  {
+    "nda": "208054",
+    "year": 2016,
+    "brand_name": "AXUMIN",
+    "active_ingredient": "FLUCICLOVINE F-18",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "207648",
+    "year": 2016,
+    "brand_name": "SMOFLIPID 20%",
+    "active_ingredient": "FISH OIL; MEDIUM CHAIN TRIGLYCERIDES; OLIVE OIL; SOYBEAN OIL",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "206099",
+    "year": 2016,
+    "brand_name": "ONZETRA XSAIL",
+    "active_ingredient": "SUMATRIPTAN SUCCINATE",
+    "route": "NASAL"
+  },
+  {
+    "nda": "206110",
+    "year": 2016,
+    "brand_name": "CASPOFUNGIN ACETATE",
+    "active_ingredient": "CASPOFUNGIN ACETATE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "209862",
+    "year": 2016,
+    "brand_name": "EVZIO (AUTOINJECTOR)",
+    "active_ingredient": "NALOXONE HYDROCHLORIDE",
+    "route": "INTRAMUSCULAR, SUBCUTANEOUS"
+  },
+  {
+    "nda": "208073",
+    "year": 2016,
+    "brand_name": "XIIDRA",
+    "active_ingredient": "LIFITEGRAST",
+    "route": "OPHTHALMIC"
+  },
+  {
+    "nda": "206494",
+    "year": 2015,
+    "brand_name": "AVYCAZ",
+    "active_ingredient": "AVIBACTAM SODIUM; CEFTAZIDIME",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "201923",
+    "year": 2014,
+    "brand_name": "ILUVIEN",
+    "active_ingredient": "FLUOCINOLONE ACETONIDE",
+    "route": "INTRAVITREAL"
+  },
+  {
+    "nda": "208069",
+    "year": 2014,
+    "brand_name": "NITROUS OXIDE, USP",
+    "active_ingredient": "NITROUS OXIDE",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "205776",
+    "year": 2014,
+    "brand_name": "RASUVO",
+    "active_ingredient": "METHOTREXATE",
+    "route": "SUBCUTANEOUS"
+  },
+  {
+    "nda": "205713",
+    "year": 2013,
+    "brand_name": "OXYGEN, USP",
+    "active_ingredient": "OXYGEN",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "205737",
+    "year": 2013,
+    "brand_name": "OXYGEN, USP",
+    "active_ingredient": "OXYGEN",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "205738",
+    "year": 2013,
+    "brand_name": "NITROGEN, NF",
+    "active_ingredient": "NITROGEN",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "204141",
+    "year": 2013,
+    "brand_name": "TOPICORT",
+    "active_ingredient": "DESOXIMETASONE",
+    "route": "TOPICAL"
+  },
+  {
+    "nda": "203791",
+    "year": 2013,
+    "brand_name": "SITAVIG",
+    "active_ingredient": "ACYCLOVIR",
+    "route": "BUCCAL"
+  },
+  {
+    "nda": "204153",
+    "year": 2013,
+    "brand_name": "LUZU",
+    "active_ingredient": "LULICONAZOLE",
+    "route": "TOPICAL"
+  },
+  {
+    "nda": "203797",
+    "year": 2013,
+    "brand_name": "DAPTOMYCIN",
+    "active_ingredient": "DAPTOMYCIN",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "202317",
+    "year": 2013,
+    "brand_name": "VALCHLOR",
+    "active_ingredient": "MECHLORETHAMINE HYDROCHLORIDE",
+    "route": "TOPICAL"
+  },
+  {
+    "nda": "205764",
+    "year": 2013,
+    "brand_name": "CARBON DIOXIDE, USP",
+    "active_ingredient": "CARBON DIOXIDE",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "205765",
+    "year": 2013,
+    "brand_name": "MEDICAL AIR, USP",
+    "active_ingredient": "MEDICAL AIR",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "205766",
+    "year": 2013,
+    "brand_name": "NITROGEN, NF",
+    "active_ingredient": "NITROGEN",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "205767",
+    "year": 2013,
+    "brand_name": "OXYGEN, USP",
+    "active_ingredient": "OXYGEN",
+    "route": "INHALATION"
+  },
+  {
+    "nda": "204200",
+    "year": 2012,
+    "brand_name": "ADRENALIN",
+    "active_ingredient": "EPINEPHRINE",
+    "route": "INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS"
+  },
+  {
+    "nda": "022453",
+    "year": 2012,
+    "brand_name": "TOPOTECAN HYDROCHLORIDE",
+    "active_ingredient": "TOPOTECAN HYDROCHLORIDE",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "202667",
+    "year": 2012,
+    "brand_name": "COSOPT PF",
+    "active_ingredient": "DORZOLAMIDE HYDROCHLORIDE; TIMOLOL MALEATE",
+    "route": "OPHTHALMIC"
+  },
+  {
+    "nda": "200403",
+    "year": 2011,
+    "brand_name": "HYDROMORPHONE HYDROCHLORIDE",
+    "active_ingredient": "HYDROMORPHONE HYDROCHLORIDE",
+    "route": "INJECTION"
+  },
+  {
+    "nda": "201195",
+    "year": 2011,
+    "brand_name": "DOCETAXEL",
+    "active_ingredient": "DOCETAXEL",
+    "route": "INJECTION"
+  },
+  {
+    "nda": "022434",
+    "year": 2011,
+    "brand_name": "ARGATROBAN IN SODIUM CHLORIDE",
+    "active_ingredient": "ARGATROBAN",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "022454",
+    "year": 2011,
+    "brand_name": "DATSCAN",
+    "active_ingredient": "IOFLUPANE I-123",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "201153",
+    "year": 2011,
+    "brand_name": "ZYCLARA",
+    "active_ingredient": "IMIQUIMOD",
+    "route": "TOPICAL"
+  },
+  {
+    "nda": "021359",
+    "year": 2011,
+    "brand_name": "RECTIV",
+    "active_ingredient": "NITROGLYCERIN",
+    "route": "INTRA-ANAL"
+  },
+  {
+    "nda": "022485",
+    "year": 2011,
+    "brand_name": "ARGATROBAN IN SODIUM CHLORIDE",
+    "active_ingredient": "ARGATROBAN",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "022494",
+    "year": 2011,
+    "brand_name": "SODIUM FLUORIDE F 18",
+    "active_ingredient": "SODIUM FLUORIDE F-18",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "022496",
+    "year": 2011,
+    "brand_name": "EXPAREL",
+    "active_ingredient": "BUPIVACAINE",
+    "route": "INJECTION"
+  },
+  {
+    "nda": "022504",
+    "year": 2010,
+    "brand_name": "AXIRON",
+    "active_ingredient": "TESTOSTERONE",
+    "route": "TRANSDERMAL"
+  },
+  {
+    "nda": "022437",
+    "year": 2010,
+    "brand_name": "TRELSTAR",
+    "active_ingredient": "TRIPTORELIN PAMOATE",
+    "route": "INTRAMUSCULAR"
+  },
+  {
+    "nda": "022450",
+    "year": 2010,
+    "brand_name": "OFIRMEV",
+    "active_ingredient": "ACETAMINOPHEN",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "022462",
+    "year": 2010,
+    "brand_name": "GABLOFEN",
+    "active_ingredient": "BACLOFEN",
+    "route": "INTRATHECAL"
+  },
+  {
+    "nda": "022466",
+    "year": 2010,
+    "brand_name": "ORABLOC",
+    "active_ingredient": "ARTICAINE HYDROCHLORIDE; EPINEPHRINE BITARTRATE",
+    "route": "INJECTION"
+  },
+  {
+    "nda": "022483",
+    "year": 2010,
+    "brand_name": "ZYCLARA",
+    "active_ingredient": "IMIQUIMOD",
+    "route": "TOPICAL"
+  },
+  {
+    "nda": "200327",
+    "year": 2010,
+    "brand_name": "TEFLARO",
+    "active_ingredient": "CEFTAROLINE FOSAMIL",
+    "route": "INTRAVENOUS"
+  },
+  {
+    "nda": "022502",
+    "year": 2010,
+    "brand_name": "DIFFERIN",
+    "active_ingredient": "ADAPALENE",
+    "route": "TOPICAL"
+  }
+]

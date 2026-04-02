@@ -1,13 +1,13 @@
 {
-  "version": "0.3.0",
-  "n_profiles": 147,
-  "n_unique_drugs": 38,
-  "n_unique_smiles": 34,
-  "smiles_coverage": "137/147",
+  "version": "0.4.0",
+  "n_profiles": 427,
+  "n_unique_drugs": 100,
+  "n_unique_smiles": 90,
+  "smiles_coverage": "388/427",
   "cmax_ngml": {
     "min": 0.1,
-    "median": 66.8,
-    "max": 68626.8
+    "median": 69.0,
+    "max": 645476.6
   },
-  "mean_grid_points": 8.3
+  "mean_grid_points": 8.0
 }
