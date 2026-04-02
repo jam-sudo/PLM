@@ -1,0 +1,781 @@
+[
+  {
+    "image_path": "data/figures/NDA022075/NDA022075_ClinPharmR_p020_img00.png",
+    "cmax": 478.7,
+    "tmax": 4.8,
+    "n_points": 20,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA022075/NDA022075_ClinPharmR_p152_img00.jpeg",
+    "cmax": 163.0,
+    "tmax": 202.5,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA022075/NDA022075_ClinPharmR_p155_img01.png",
+    "cmax": 8.2,
+    "tmax": 0.0,
+    "n_points": 17,
+    "unit": "unknown",
+    "qc_status": "PASS",
+    "qc_flags": []
+  },
+  {
+    "image_path": "data/figures/NDA022075/NDA022075_ClinPharmR_p156_img00.jpeg",
+    "cmax": 150.5,
+    "tmax": 70.1,
+    "n_points": 19,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA022075/NDA022075_ClinPharmR_p178_img00.jpeg",
+    "cmax": 284.3,
+    "tmax": 322.5,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA022075/NDA022075_ClinPharmR_p181_img00.jpeg",
+    "cmax": 1.8,
+    "tmax": 370.4,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA022075/NDA022075_ClinPharmR_p185_img00.jpeg",
+    "cmax": 150.2,
+    "tmax": 3.6,
+    "n_points": 15,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA022075/NDA022075_ClinPharmR_p194_img00.jpeg",
+    "cmax": 1.4,
+    "tmax": 4.3,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA022075/NDA022075_ClinPharmR_p214_img00.png",
+    "cmax": 1598.9,
+    "tmax": 260.2,
+    "n_points": 19,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA022075/NDA022075_ClinPharmR_p214_img01.png",
+    "cmax": 600.0,
+    "tmax": 155.2,
+    "n_points": 15,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA022075/NDA022075_ClinPharmR_p219_img00.png",
+    "cmax": 1.3,
+    "tmax": 3.2,
+    "n_points": 20,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA206089/NDA206089_ClinPharmR_p128_img00.png",
+    "cmax": 1114.5,
+    "tmax": 9.1,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA206089/NDA206089_ClinPharmR_p175_img00.png",
+    "cmax": 2091.1,
+    "tmax": 271.7,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA206089/NDA206089_ClinPharmR_p192_img00.png",
+    "cmax": 274.6,
+    "tmax": 7.8,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA209529/NDA209529_ClinPharmR_p029_img00.png",
+    "cmax": 100.0,
+    "tmax": 333.18,
+    "n_points": 11,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA210563/NDA210563_ClinPharmR_p015_img00.png",
+    "cmax": 88.9,
+    "tmax": 22.9,
+    "n_points": 21,
+    "unit": "unknown",
+    "qc_status": "PASS",
+    "qc_flags": []
+  },
+  {
+    "image_path": "data/figures/NDA210563/NDA210563_ClinPharmR_p016_img00.png",
+    "cmax": 29.6,
+    "tmax": 18.1,
+    "n_points": 23,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA210563/NDA210563_ClinPharmR_p017_img00.png",
+    "cmax": 294.9,
+    "tmax": 12.9,
+    "n_points": 24,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA212273/NDA212273_ClinPharmR_p191_img00.png",
+    "cmax": 7.6,
+    "tmax": 155.5,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "PASS",
+    "qc_flags": []
+  },
+  {
+    "image_path": "data/figures/NDA212273/NDA212273_ClinPharmR_p194_img01.png",
+    "cmax": 0.1,
+    "tmax": 46.68,
+    "n_points": 17,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA212595/NDA212595_ClinPharmR_p007_img01.png",
+    "cmax": 78.5,
+    "tmax": 2.7,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA212608/NDA212608_ClinPharmR_p175_img00.png",
+    "cmax": 879.8,
+    "tmax": 267.4,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA212608/NDA212608_ClinPharmR_p175_img01.png",
+    "cmax": 1498.4,
+    "tmax": 4.5,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA212608/NDA212608_ClinPharmR_p175_img02.png",
+    "cmax": 138.1,
+    "tmax": 33.3,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA212801/NDA212801_ClinPharmR_p037_img00.png",
+    "cmax": 1998.1,
+    "tmax": 107.3,
+    "n_points": 24,
+    "unit": "unknown",
+    "qc_status": "PASS",
+    "qc_flags": []
+  },
+  {
+    "image_path": "data/figures/NDA212801/NDA212801_ClinPharmR_p049_img01.jpeg",
+    "cmax": 874.5,
+    "tmax": 289.1,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA212950/NDA212950_ClinPharmR_p063_img00.png",
+    "cmax": 0.9,
+    "tmax": 1662.6,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA212950/NDA212950_ClinPharmR_p064_img00.jpeg",
+    "cmax": 1.8,
+    "tmax": 21.1,
+    "n_points": 21,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA212950/NDA212950_ClinPharmR_p226_img00.png",
+    "cmax": 3.0,
+    "tmax": 1567.3,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA213004/NDA213004_ClinPharmR_p106_img00.jpeg",
+    "cmax": 1495.9,
+    "tmax": 0.0,
+    "n_points": 19,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA213004/NDA213004_ClinPharmR_p111_img00.jpeg",
+    "cmax": 78.1,
+    "tmax": 153.38,
+    "n_points": 24,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA213006/NDA213006_ClinPharmR_p038_img01.png",
+    "cmax": 3.1,
+    "tmax": 3327.26,
+    "n_points": 20,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA213006/NDA213006_ClinPharmR_p053_img01.png",
+    "cmax": 460.3,
+    "tmax": 28.5,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA213006/NDA213006_ClinPharmR_p054_img00.png",
+    "cmax": 307.2,
+    "tmax": 28.6,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA213006/NDA213006_ClinPharmR_p074_img01.png",
+    "cmax": 2770.7,
+    "tmax": 10.7,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA213388/NDA213388_ClinPharmR_p195_img02.png",
+    "cmax": 63.7,
+    "tmax": 34.6,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "PASS",
+    "qc_flags": []
+  },
+  {
+    "image_path": "data/figures/NDA213716/NDA213716_ClinPharmR_p283_img00.jpeg",
+    "cmax": 16037.5,
+    "tmax": 191.9,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA213716/NDA213716_ClinPharmR_p283_img01.jpeg",
+    "cmax": 245.1,
+    "tmax": 454.4,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA213756/NDA213756_ClinPharmR_p329_img00.png",
+    "cmax": 95.2,
+    "tmax": 1003.7,
+    "n_points": 22,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA214985/NDA214985_ClinPharmR_p202_img00.png",
+    "cmax": 8.6,
+    "tmax": 4692.22,
+    "n_points": 10,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA214985/NDA214985_ClinPharmR_p238_img00.png",
+    "cmax": 14360.0,
+    "tmax": 8.9,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA215019/NDA215019_ClinPharmR_p052_img01.png",
+    "cmax": 62.5,
+    "tmax": 50.72,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA215430/NDA215430_ClinPharmR_p209_img00.png",
+    "cmax": 141.4,
+    "tmax": 28.6,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "PASS",
+    "qc_flags": []
+  },
+  {
+    "image_path": "data/figures/NDA215430/NDA215430_ClinPharmR_p209_img01.png",
+    "cmax": 92.4,
+    "tmax": 5.0,
+    "n_points": 19,
+    "unit": "unknown",
+    "qc_status": "PASS",
+    "qc_flags": []
+  },
+  {
+    "image_path": "data/figures/NDA215430/NDA215430_ClinPharmR_p221_img00.png",
+    "cmax": 2.1,
+    "tmax": 30286.2,
+    "n_points": 19,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA215430/NDA215430_ClinPharmR_p228_img00.png",
+    "cmax": 67.5,
+    "tmax": 2.29,
+    "n_points": 18,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA215859/NDA215859_ClinPharmR_p089_img01.jpeg",
+    "cmax": 58.6,
+    "tmax": 0.0,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA215859/NDA215859_ClinPharmR_p089_img02.jpeg",
+    "cmax": 2.0,
+    "tmax": 164.7,
+    "n_points": 18,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA215859/NDA215859_ClinPharmR_p089_img04.jpeg",
+    "cmax": 2.0,
+    "tmax": 26.7,
+    "n_points": 20,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA215859/NDA215859_ClinPharmR_p093_img00.jpeg",
+    "cmax": 101.3,
+    "tmax": 10.8,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA215888/NDA215888_ClinPharmR_p173_img00.jpeg",
+    "cmax": 250.9,
+    "tmax": 15.2,
+    "n_points": 19,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA215888/NDA215888_ClinPharmR_p175_img00.jpeg",
+    "cmax": 3142.6,
+    "tmax": 5.2,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA216340/NDA216340_ClinPharmR_p263_img00.png",
+    "cmax": 195.0,
+    "tmax": 0.4,
+    "n_points": 22,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA216340/NDA216340_ClinPharmR_p263_img01.jpeg",
+    "cmax": 295.0,
+    "tmax": 3.73,
+    "n_points": 4,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: 4-7 timepoints"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA216340/NDA216340_ClinPharmR_p263_img02.png",
+    "cmax": 1610.3,
+    "tmax": 28.0,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA216340/NDA216340_ClinPharmR_p263_img04.png",
+    "cmax": 86.5,
+    "tmax": 2930.07,
+    "n_points": 23,
+    "unit": "ng/mL",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA217188/NDA217188_ClinPharmR_p265_img00.png",
+    "cmax": 1.0,
+    "tmax": 2183.6,
+    "n_points": 25,
+    "unit": "ng/mL",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA217188/NDA217188_ClinPharmR_p275_img00.png",
+    "cmax": 1.7,
+    "tmax": 1.7,
+    "n_points": 18,
+    "unit": "unknown",
+    "qc_status": "PASS",
+    "qc_flags": []
+  },
+  {
+    "image_path": "data/figures/NDA218549/NDA218549_ClinPharmR_p022_img01.jpeg",
+    "cmax": 7.6,
+    "tmax": 32.0,
+    "n_points": 17,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA219070/NDA219070_ClinPharmR_p201_img00.png",
+    "cmax": 3.0,
+    "tmax": 0.7,
+    "n_points": 11,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA219070/NDA219070_ClinPharmR_p261_img00.png",
+    "cmax": 2.0,
+    "tmax": 0.1,
+    "n_points": 10,
+    "unit": "unknown",
+    "qc_status": "PASS",
+    "qc_flags": []
+  },
+  {
+    "image_path": "data/figures/NDA219070/NDA219070_ClinPharmR_p261_img01.png",
+    "cmax": 2.0,
+    "tmax": 0.05,
+    "n_points": 10,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: max time <1h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA219070/NDA219070_ClinPharmR_p261_img02.png",
+    "cmax": 0.3,
+    "tmax": 0.05,
+    "n_points": 16,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: max time <1h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA219070/NDA219070_ClinPharmR_p261_img03.png",
+    "cmax": 0.5,
+    "tmax": 0.05,
+    "n_points": 10,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: max time <1h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA219083/NDA219083_ClinPharmR_p218_img01.png",
+    "cmax": 53.2,
+    "tmax": 0,
+    "n_points": 8,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA219083/NDA219083_ClinPharmR_p218_img03.png",
+    "cmax": 96.8,
+    "tmax": 0.0,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA219083/NDA219083_ClinPharmR_p219_img00.jpeg",
+    "cmax": 44.0,
+    "tmax": 1454.1,
+    "n_points": 17,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA219083/NDA219083_ClinPharmR_p223_img01.png",
+    "cmax": 0.1,
+    "tmax": 38.1,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: min time >2h",
+      "FLAG: non-monotonic post-Cmax"
+    ]
+  },
+  {
+    "image_path": "data/figures/NDA219122/NDA219122_ClinPharmR_p005_img00.jpeg",
+    "cmax": 2.0,
+    "tmax": 2.0,
+    "n_points": 25,
+    "unit": "unknown",
+    "qc_status": "PASS",
+    "qc_flags": []
+  },
+  {
+    "image_path": "data/figures/NDA219792/NDA219792_ClinPharmR_p125_img01.png",
+    "cmax": 7.2,
+    "tmax": 3.74,
+    "n_points": 7,
+    "unit": "unknown",
+    "qc_status": "FLAG",
+    "qc_flags": [
+      "FLAG: 4-7 timepoints"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "total": 335,
+  "success": 70,
+  "failed": 265,
+  "rate_pct": 20.9,
+  "time_s": 211,
+  "errors": {
+    "insufficient axis labels": 263,
+    "curve trace found <3 points": 2
+  }
+}
