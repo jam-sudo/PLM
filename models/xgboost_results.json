@@ -1,0 +1,8 @@
+{
+  "n_profiles": 316,
+  "n_drugs": 81,
+  "cmax_aafe": 10.11,
+  "cmax_within_2fold_pct": 19.0,
+  "cmax_within_3fold_pct": 26.9,
+  "filtering": "Cmax/dose 0.001-1000, dose>=0.5mg, >=3 grid points"
+}
