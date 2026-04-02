@@ -1,8 +1,26 @@
 {
-  "n_profiles": 316,
-  "n_drugs": 81,
-  "cmax_aafe": 10.11,
-  "cmax_within_2fold_pct": 19.0,
-  "cmax_within_3fold_pct": 26.9,
-  "filtering": "Cmax/dose 0.001-1000, dose>=0.5mg, >=3 grid points"
+  "v04_noisy": {
+    "aafe": 10.11,
+    "n_profiles": 316,
+    "n_drugs": 81,
+    "2fold_pct": 19.0
+  },
+  "v05_cleaned": {
+    "aafe": 7.791,
+    "n_profiles": 199,
+    "n_drugs": 71,
+    "2fold_pct": 22.1
+  },
+  "v05_sisyphus_validated": {
+    "aafe": 5.221,
+    "n_profiles": 67,
+    "n_drugs": 30,
+    "2fold_pct": 19.4
+  },
+  "sisyphus_baselines": {
+    "meta": 2.283,
+    "ml": 2.336,
+    "engine": 3.416
+  },
+  "conclusion": "Data quality is the primary bottleneck. Sisyphus-validated subset achieves AAFE 5.2 with only 67 profiles. More high-quality data (manual digitization or better auto-digitizer) is the path to competitive performance."
 }
