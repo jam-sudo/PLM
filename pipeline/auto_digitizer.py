@@ -37,8 +37,39 @@ def _get_reader():
 # 1. OCR
 # ---------------------------------------------------------------------------
 
+def preprocess_image(image_path: str) -> str:
+    """Preprocess image for better OCR: upscale small images, enhance contrast."""
+    img = cv2.imread(image_path)
+    if img is None:
+        return image_path
+    h, w = img.shape[:2]
+
+    modified = False
+    # Upscale small images (< 600px on shorter side)
+    short_side = min(w, h)
+    if short_side < 600:
+        scale = 600 / short_side
+        img = cv2.resize(img, None, fx=scale, fy=scale, interpolation=cv2.INTER_CUBIC)
+        modified = True
+
+    # Enhance contrast using CLAHE on L channel
+    lab = cv2.cvtColor(img, cv2.COLOR_BGR2LAB)
+    l_channel = lab[:, :, 0]
+    clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))
+    lab[:, :, 0] = clahe.apply(l_channel)
+    img = cv2.cvtColor(lab, cv2.COLOR_LAB2BGR)
+    modified = True
+
+    if modified:
+        import tempfile
+        tmp = tempfile.NamedTemporaryFile(suffix=".png", delete=False)
+        cv2.imwrite(tmp.name, img)
+        return tmp.name
+    return image_path
+
+
 def ocr_image(image_path: str) -> list[dict]:
-    """Run easyocr, return text regions with pixel positions."""
+    """Run easyocr on (possibly preprocessed) image."""
     reader = _get_reader()
     results = reader.readtext(image_path)
     regions = []
@@ -56,6 +87,32 @@ def ocr_image(image_path: str) -> list[dict]:
             "conf": conf,
         })
     return regions
+
+
+def ocr_pytesseract_fallback(image_path: str) -> list[dict]:
+    """pytesseract fallback OCR when easyocr finds too few ticks."""
+    try:
+        import pytesseract
+        from PIL import Image
+        pil_img = Image.open(image_path)
+        data = pytesseract.image_to_data(pil_img, output_type=pytesseract.Output.DICT)
+        regions = []
+        for i in range(len(data["text"])):
+            text = data["text"][i].strip()
+            conf = int(data["conf"][i])
+            if not text or conf < 30:
+                continue
+            x = data["left"][i]
+            y = data["top"][i]
+            w = data["width"][i]
+            h = data["height"][i]
+            regions.append({
+                "text": text, "cx": x + w / 2, "cy": y + h / 2,
+                "x1": x, "y1": y, "x2": x + w, "y2": y + h, "conf": conf,
+            })
+        return regions
+    except Exception:
+        return []
 
 
 # ---------------------------------------------------------------------------
@@ -128,25 +185,45 @@ def detect_axes(ocr_regions: list[dict], img_w: int, img_h: int) -> dict:
     y_ticks = _validate_uniform_spacing(y_ticks)
 
     # Plot region: EXTEND beyond tick marks to capture full curve
-    # The curve often starts before the first x-tick and extends below the last y-tick
     plot_region = None
+
+    # Case 1: Both axes have 2+ ticks — full transform possible
     if len(x_ticks) >= 2 and len(y_ticks) >= 2:
-        # Build preliminary transforms to extrapolate bounds
         x_tf = build_transform(x_ticks)
         y_tf = build_transform(y_ticks)
-
         if x_tf and y_tf:
-            # Extrapolate: where would time=0 be? where would conc=0 be?
-            # pixel = (value - offset) / scale
             x_at_zero = max(0, (0 - x_tf[1]) / x_tf[0]) if x_tf[0] != 0 else 0
             y_at_zero = min(img_h, (0 - y_tf[1]) / y_tf[0]) if y_tf[0] != 0 else img_h
-
             plot_region = (
-                max(0, x_at_zero - 10),        # left: time=0 with margin
-                max(0, min(t[0] for t in y_ticks) - 10),  # top: highest tick with margin
-                min(img_w, max(t[0] for t in x_ticks) + 20),  # right: last tick with margin
-                min(img_h * 0.85, y_at_zero + 10),  # bottom: conc=0 with margin
+                max(0, x_at_zero - 10),
+                max(0, min(t[0] for t in y_ticks) - 10),
+                min(img_w, max(t[0] for t in x_ticks) + 20),
+                min(img_h * 0.85, y_at_zero + 10),
             )
+
+    # Case 2: Only one axis has 2+ ticks — estimate plot region heuristically
+    elif len(x_ticks) >= 2 and len(y_ticks) < 2:
+        # Estimate y-axis: plot top ~10% of image height, bottom ~80%
+        plot_region = (
+            max(0, min(t[0] for t in x_ticks) - img_w * 0.15),
+            img_h * 0.05,
+            min(img_w, max(t[0] for t in x_ticks) + 20),
+            img_h * 0.80,
+        )
+        # Estimate y_ticks from plot region bounds
+        if not y_ticks:
+            y_ticks = [(img_h * 0.1, 100), (img_h * 0.7, 0)]  # placeholder
+
+    elif len(y_ticks) >= 2 and len(x_ticks) < 2:
+        # Estimate x-axis: plot left ~15% of width, right ~90%
+        plot_region = (
+            img_w * 0.15,
+            max(0, min(t[0] for t in y_ticks) - 10),
+            img_w * 0.90,
+            min(img_h * 0.85, max(t[0] for t in y_ticks) + 30),
+        )
+        if not x_ticks:
+            x_ticks = [(img_w * 0.2, 0), (img_w * 0.85, 24)]  # placeholder
 
     return {"x_ticks": x_ticks, "y_ticks": y_ticks, "plot_region": plot_region}
 
@@ -419,11 +496,39 @@ def digitize_figure(image_path: str, caption: str = "") -> dict:
 
     img_h, img_w = img.shape[:2]
 
-    # Step 1: OCR
+    # Step 0: Preprocess image (upscale + contrast)
     try:
-        ocr_regions = ocr_image(str(path))
+        preprocessed_path = preprocess_image(str(path))
+    except Exception:
+        preprocessed_path = str(path)
+
+    # Step 1: OCR (easyocr on preprocessed image)
+    try:
+        ocr_regions = ocr_image(preprocessed_path)
     except Exception as e:
         return {"status": "error", "error": f"OCR failed: {e}", "image_path": str(path)}
+
+    # Step 1b: If easyocr found few numeric regions, try pytesseract fallback
+    numeric_count = sum(1 for r in ocr_regions if parse_number(r["text"]) is not None)
+    if numeric_count < 4:
+        fallback = ocr_pytesseract_fallback(preprocessed_path)
+        if fallback:
+            fb_numeric = sum(1 for r in fallback if parse_number(r["text"]) is not None)
+            if fb_numeric > numeric_count:
+                ocr_regions = fallback
+
+    # Clean up temp file
+    if preprocessed_path != str(path):
+        try:
+            import os
+            os.unlink(preprocessed_path)
+        except Exception:
+            pass
+
+    # Use preprocessed dimensions for axis detection
+    img_for_axes = cv2.imread(str(path))
+    if img_for_axes is not None:
+        img_h, img_w = img_for_axes.shape[:2]
 
     # Step 2: Detect axes
     axes = detect_axes(ocr_regions, img_w, img_h)
@@ -431,7 +536,7 @@ def digitize_figure(image_path: str, caption: str = "") -> dict:
     y_ticks = axes["y_ticks"]
     plot_region = axes["plot_region"]
 
-    if len(x_ticks) < 2 or len(y_ticks) < 2 or not plot_region:
+    if not plot_region:
         return {
             "status": "failed",
             "error": "insufficient axis labels",
@@ -441,9 +546,37 @@ def digitize_figure(image_path: str, caption: str = "") -> dict:
             "ocr_count": len(ocr_regions),
         }
 
-    # Step 3: Build transforms
-    x_tf = build_transform(x_ticks)
-    y_tf = build_transform(y_ticks)
+    # Step 3: Build transforms (needs ≥2 ticks per axis)
+    x_tf = build_transform(x_ticks) if len(x_ticks) >= 2 else None
+    y_tf = build_transform(y_ticks) if len(y_ticks) >= 2 else None
+    if not x_tf or not y_tf:
+        # If one transform is missing, try pixel-proportion fallback
+        if x_tf and not y_tf:
+            # Estimate y from plot region: top = max_val, bottom = 0
+            y_top = plot_region[1]
+            y_bot = plot_region[3]
+            if y_bot > y_top:
+                # Use the single y-tick if available, else estimate
+                if len(y_ticks) == 1:
+                    # One tick gives us a reference point; assume 0 at bottom
+                    tick_px, tick_val = y_ticks[0]
+                    scale = -tick_val / (y_bot - tick_px) if y_bot != tick_px else -1
+                    offset = tick_val - scale * tick_px
+                    y_tf = (scale, offset)
+                else:
+                    y_tf = (-(100 / (y_bot - y_top)), 100 * y_bot / (y_bot - y_top))
+        elif y_tf and not x_tf:
+            x_left = plot_region[0]
+            x_right = plot_region[2]
+            if x_right > x_left:
+                if len(x_ticks) == 1:
+                    tick_px, tick_val = x_ticks[0]
+                    scale = tick_val / (tick_px - x_left) if tick_px != x_left else 1
+                    offset = -scale * x_left
+                    x_tf = (scale, offset)
+                else:
+                    x_tf = (24 / (x_right - x_left), -24 * x_left / (x_right - x_left))
+
     if not x_tf or not y_tf:
         return {"status": "failed", "error": "transform build failed", "image_path": str(path)}
 

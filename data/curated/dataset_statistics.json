@@ -1,21 +1,13 @@
 {
-  "version": "0.2.0",
-  "n_profiles": 62,
-  "n_unique_drugs": 27,
-  "n_unique_smiles": 23,
-  "smiles_coverage": "59/62",
-  "route_distribution": {
-    "oral": 61,
-    "SC_injection": 1
-  },
+  "version": "0.3.0",
+  "n_profiles": 147,
+  "n_unique_drugs": 38,
+  "n_unique_smiles": 34,
+  "smiles_coverage": "137/147",
   "cmax_ngml": {
-    "min": 0.3,
-    "median": 96.0,
-    "max": 14360.0
+    "min": 0.1,
+    "median": 66.8,
+    "max": 68626.8
   },
-  "digitization_methods": {
-    "auto_hough_easyocr": 57,
-    "visual_llm": 5
-  },
-  "mean_grid_points_filled": 7.9
+  "mean_grid_points": 8.3
 }
