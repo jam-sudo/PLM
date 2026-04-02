@@ -1,0 +1,433 @@
+[
+  {
+    "nda": "210563",
+    "status": "downloaded",
+    "type": "ClinPharmR",
+    "size_mb": 1.7,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/210563Orig1s000,210563Orig2s000ClinPharmR.pdf"
+  },
+  {
+    "nda": "211192",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 7.5,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/211192Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "213004",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 11.3,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/213004Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "209500",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 8.0,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/209500Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "212273",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 5.9,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212273Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "211230",
+    "status": "downloaded",
+    "type": "ClinPharmR",
+    "size_mb": 2.0,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/211230Orig1Orig2s000ClinPharmR.pdf"
+  },
+  {
+    "nda": "213400",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 5.0,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213400Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "212950",
+    "status": "downloaded",
+    "type": "IntegratedR",
+    "size_mb": 22.2,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212950Orig1s000IntegratedR.pdf"
+  },
+  {
+    "nda": "213721",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 20.6,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213721Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "212608",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 7.3,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212608Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "213736",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 9.9,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213736Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "213756",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 14.2,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213756Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "213388",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 10.6,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213388Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "214621",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 4.2,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214621Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "214622",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 5.3,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214622Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "214154",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 8.2,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214154Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "213716",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 36.3,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/213716Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "214566",
+    "status": "no_toc"
+  },
+  {
+    "nda": "210526",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 2.5,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/210526Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "215423",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 3.8,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/215423Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "213378",
+    "status": "download_failed",
+    "available": [
+      "MultidisciplineR"
+    ]
+  },
+  {
+    "nda": "215019",
+    "status": "downloaded",
+    "type": "IntegratedR",
+    "size_mb": 1.3,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/215019Orig1s000IntegratedR.pdf"
+  },
+  {
+    "nda": "212994",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 6.8,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/212994Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "214985",
+    "status": "downloaded",
+    "type": "IntegratedR",
+    "size_mb": 19.8,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/214985Orig1s000IntegratedR.pdf"
+  },
+  {
+    "nda": "215428",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 0.7,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/215428Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "215429",
+    "status": "download_failed",
+    "available": [
+      "MultidisciplineR"
+    ]
+  },
+  {
+    "nda": "215430",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 11.3,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/215430Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "214581",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 4.0,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/214581Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "215888",
+    "status": "downloaded",
+    "type": "IntegratedR",
+    "size_mb": 16.0,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/215888Orig1s000IntegratedR.pdf"
+  },
+  {
+    "nda": "216340",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 8.8,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216340Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "215830",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 15.2,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/215830Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "211868",
+    "status": "no_toc"
+  },
+  {
+    "nda": "218550",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 14.6,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/218550Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "209847",
+    "status": "no_toc"
+  },
+  {
+    "nda": "216743",
+    "status": "downloaded",
+    "type": "PharmR",
+    "size_mb": 2.2,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/216743Orig1s000PharmR.pdf"
+  },
+  {
+    "nda": "217188",
+    "status": "downloaded",
+    "type": "IntegratedR",
+    "size_mb": 18.2,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/217188Orig1s000IntegratedR.pdf"
+  },
+  {
+    "nda": "215448",
+    "status": "no_toc"
+  },
+  {
+    "nda": "216755",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 6.1,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/216755Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "217639",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 8.1,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/217639Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "217651",
+    "status": "downloaded",
+    "type": "PharmR",
+    "size_mb": 1.6,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217651Orig1s000PharmR.pdf"
+  },
+  {
+    "nda": "216686",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 3.5,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216686Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "218033",
+    "status": "download_failed",
+    "available": [
+      "MultidisciplineR"
+    ]
+  },
+  {
+    "nda": "218037",
+    "status": "downloaded",
+    "type": "IntegratedR",
+    "size_mb": 10.8,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/218037Orig1s000IntegratedR.pdf"
+  },
+  {
+    "nda": "219104",
+    "status": "no_pdfs_in_toc"
+  },
+  {
+    "nda": "218591",
+    "status": "download_failed",
+    "available": [
+      "ClinPharmR",
+      "PharmR"
+    ]
+  },
+  {
+    "nda": "219132",
+    "status": "downloaded",
+    "type": "IntegratedR",
+    "size_mb": 12.0,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/219132Orig1s000IntegratedR.pdf"
+  },
+  {
+    "nda": "217645",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 3.1,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217645Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "217630",
+    "status": "no_pdfs_in_toc"
+  },
+  {
+    "nda": "219884",
+    "status": "no_toc"
+  },
+  {
+    "nda": "219070",
+    "status": "downloaded",
+    "type": "IntegratedR",
+    "size_mb": 14.6,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/219070Orig1s000IntegratedR.pdf"
+  },
+  {
+    "nda": "219757",
+    "status": "no_toc"
+  },
+  {
+    "nda": "219083",
+    "status": "downloaded",
+    "type": "IntegratedR",
+    "size_mb": 16.1,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/219083Orig1s000IntegratedR.pdf"
+  },
+  {
+    "nda": "219776",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 7.2,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/219776Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "210858",
+    "status": "no_toc"
+  },
+  {
+    "nda": "219792",
+    "status": "downloaded",
+    "type": "IntegratedR",
+    "size_mb": 8.5,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/219792Orig1s000IntegratedR.pdf"
+  },
+  {
+    "nda": "219839",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 14.8,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/219839Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "219843",
+    "status": "no_toc"
+  },
+  {
+    "nda": "219847",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 3.4,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/219847Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "219130",
+    "status": "no_toc"
+  },
+  {
+    "nda": "219876",
+    "status": "downloaded",
+    "type": "MultidisciplineR",
+    "size_mb": 17.6,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/219876Orig1s000MultidisciplineR.pdf"
+  },
+  {
+    "nda": "219745",
+    "status": "no_toc"
+  },
+  {
+    "nda": "217593",
+    "status": "no_toc"
+  },
+  {
+    "nda": "214988",
+    "status": "no_toc"
+  },
+  {
+    "nda": "215425",
+    "status": "no_toc"
+  },
+  {
+    "nda": "219108",
+    "status": "no_toc"
+  },
+  {
+    "nda": "212271",
+    "status": "no_toc"
+  },
+  {
+    "nda": "219868",
+    "status": "no_toc"
+  },
+  {
+    "nda": "219131",
+    "status": "no_toc"
+  },
+  {
+    "nda": "219873",
+    "status": "no_toc"
+  },
+  {
+    "nda": "211241",
+    "status": "downloaded",
+    "type": "IntegratedR",
+    "size_mb": 9.1,
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/211241Orig1s000IntegratedR.pdf"
+  }
+]

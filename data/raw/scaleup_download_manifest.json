@@ -1,0 +1,788 @@
+{
+  "date": "2026-04-02",
+  "attempted": 100,
+  "success": 76,
+  "failed": 24,
+  "results": [
+    {
+      "nda": "210563",
+      "year": 2018,
+      "status": "downloaded_via_toc",
+      "ingredient": "IBRUTINIB",
+      "size_mb": 1.7,
+      "review_type": "ClinPharmR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/210563Orig1s000,210563Orig2s000ClinPharmR.pdf"
+    },
+    {
+      "nda": "211192",
+      "year": 2018,
+      "status": "downloaded_via_toc",
+      "ingredient": "IVOSIDENIB",
+      "size_mb": 7.5,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/211192Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "213004",
+      "year": 2019,
+      "status": "downloaded_via_toc",
+      "ingredient": "AMOXICILLIN; OMEPRAZOLE MAGNESIUM; RIFABUTIN",
+      "size_mb": 11.3,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/213004Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "212595",
+      "year": 2019,
+      "status": "exists",
+      "size_mb": 1.3,
+      "ingredient": "METFORMIN HYDROCHLORIDE"
+    },
+    {
+      "nda": "209500",
+      "year": 2019,
+      "status": "downloaded_via_toc",
+      "ingredient": "LUMATEPERONE TOSYLATE",
+      "size_mb": 8.0,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/209500Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "212273",
+      "year": 2019,
+      "status": "downloaded_via_toc",
+      "ingredient": "ELEXACAFTOR, IVACAFTOR, TEZACAFTOR; IVACAFTOR",
+      "size_mb": 5.9,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212273Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "210874",
+      "year": 2019,
+      "status": "exists",
+      "size_mb": 1.5,
+      "ingredient": "DAPAGLIFLOZIN; METFORMIN HYDROCHLORIDE; SAXAGLIPTIN HYDROCHLORIDE"
+    },
+    {
+      "nda": "211225",
+      "year": 2019,
+      "status": "exists",
+      "size_mb": 0.2,
+      "ingredient": "CERITINIB"
+    },
+    {
+      "nda": "211230",
+      "year": 2019,
+      "status": "downloaded_via_toc",
+      "ingredient": "SOLRIAMFETOL HYDROCHLORIDE",
+      "size_mb": 2.0,
+      "review_type": "ClinPharmR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/211230Orig1Orig2s000ClinPharmR.pdf"
+    },
+    {
+      "nda": "210895",
+      "year": 2019,
+      "status": "exists",
+      "size_mb": 3.4,
+      "ingredient": "COLESEVELAM HYDROCHLORIDE"
+    },
+    {
+      "nda": "209529",
+      "year": 2020,
+      "status": "exists",
+      "size_mb": 7.0,
+      "ingredient": "SOLIFENACIN SUCCINATE"
+    },
+    {
+      "nda": "213400",
+      "year": 2020,
+      "status": "downloaded_via_toc",
+      "ingredient": "TAZEMETOSTAT HYDROBROMIDE",
+      "size_mb": 5.0,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213400Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "213006",
+      "year": 2020,
+      "status": "exists",
+      "size_mb": 6.0,
+      "ingredient": "VIBEGRON"
+    },
+    {
+      "nda": "212950",
+      "year": 2020,
+      "status": "downloaded_via_toc",
+      "ingredient": "FOSTEMSAVIR TROMETHAMINE",
+      "size_mb": 22.2,
+      "review_type": "IntegratedR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212950Orig1s000IntegratedR.pdf"
+    },
+    {
+      "nda": "213721",
+      "year": 2020,
+      "status": "downloaded_via_toc",
+      "ingredient": "PRALSETINIB",
+      "size_mb": 20.6,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213721Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "212608",
+      "year": 2020,
+      "status": "downloaded_via_toc",
+      "ingredient": "AVAPRITINIB",
+      "size_mb": 7.3,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212608Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "212269",
+      "year": 2020,
+      "status": "exists",
+      "size_mb": 3.3,
+      "ingredient": "DEFERIPRONE"
+    },
+    {
+      "nda": "213736",
+      "year": 2020,
+      "status": "downloaded_via_toc",
+      "ingredient": "PEMIGATINIB",
+      "size_mb": 9.9,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213736Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "212614",
+      "year": 2020,
+      "status": "exists",
+      "size_mb": 3.8,
+      "ingredient": "EMPAGLIFLOZIN; LINAGLIPTIN; METFORMIN HYDROCHLORIDE"
+    },
+    {
+      "nda": "213756",
+      "year": 2020,
+      "status": "downloaded_via_toc",
+      "ingredient": "SELUMETINIB SULFATE",
+      "size_mb": 14.2,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213756Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "213388",
+      "year": 2020,
+      "status": "downloaded_via_toc",
+      "ingredient": "ELAGOLIX SODIUM,ESTRADIOL,NORETHINDRONE ACETATE; ELAGOLIX SODIUM",
+      "size_mb": 10.6,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213388Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "214621",
+      "year": 2020,
+      "status": "downloaded_via_toc",
+      "ingredient": "RELUGOLIX",
+      "size_mb": 4.2,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/214621Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "214622",
+      "year": 2021,
+      "status": "downloaded_via_toc",
+      "ingredient": "INFIGRATINIB PHOSPHATE",
+      "size_mb": 5.3,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214622Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "214154",
+      "year": 2021,
+      "status": "downloaded_via_toc",
+      "ingredient": "DROSPIRENONE; ESTETROL",
+      "size_mb": 8.2,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214154Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "213716",
+      "year": 2021,
+      "status": "downloaded_via_toc",
+      "ingredient": "VOCLOSPORIN",
+      "size_mb": 36.3,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/213716Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "214566",
+      "year": 2021,
+      "status": "failed",
+      "ingredient": "DOLUTEGRAVIR SODIUM"
+    },
+    {
+      "nda": "210526",
+      "year": 2021,
+      "status": "downloaded_via_toc",
+      "ingredient": "AMPHETAMINE; AMPHETAMINE ASPARTATE/DEXTROAMPHETAMINE SULFATE",
+      "size_mb": 2.5,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/210526Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "215422",
+      "year": 2021,
+      "status": "downloaded",
+      "size_mb": 0.6,
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/215422Orig1s000ClinPharmR.pdf",
+      "ingredient": "BACLOFEN"
+    },
+    {
+      "nda": "215423",
+      "year": 2021,
+      "status": "downloaded_via_toc",
+      "ingredient": "FINASTERIDE; TADALAFIL",
+      "size_mb": 3.8,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/215423Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "214187",
+      "year": 2021,
+      "status": "exists",
+      "size_mb": 4.8,
+      "ingredient": "SOFOSBUVIR; VELPATASVIR"
+    },
+    {
+      "nda": "215859",
+      "year": 2021,
+      "status": "downloaded",
+      "size_mb": 10.0,
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/215859Orig1s000ClinPharmR.pdf",
+      "ingredient": "RIVAROXABAN"
+    },
+    {
+      "nda": "213378",
+      "year": 2021,
+      "status": "failed",
+      "ingredient": "OLANZAPINE; SAMIDORPHAN L-MALATE"
+    },
+    {
+      "nda": "215019",
+      "year": 2021,
+      "status": "downloaded_via_toc",
+      "ingredient": "GLYCOPYRROLATE",
+      "size_mb": 1.3,
+      "review_type": "IntegratedR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/215019Orig1s000IntegratedR.pdf"
+    },
+    {
+      "nda": "212994",
+      "year": 2021,
+      "status": "downloaded_via_toc",
+      "ingredient": "DEXMETHYLPHENIDATE HYDROCHLORIDE; SERDEXMETHYLPHENIDATE CHLORIDE",
+      "size_mb": 6.8,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/212994Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "214985",
+      "year": 2022,
+      "status": "downloaded_via_toc",
+      "ingredient": "DARIDOREXANT HYDROCHLORIDE",
+      "size_mb": 19.8,
+      "review_type": "IntegratedR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/214985Orig1s000IntegratedR.pdf"
+    },
+    {
+      "nda": "215413",
+      "year": 2022,
+      "status": "exists",
+      "size_mb": 1.5,
+      "ingredient": "ABACAVIR SULFATE; DOLUTEGRAVIR SODIUM; LAMIVUDINE"
+    },
+    {
+      "nda": "216285",
+      "year": 2022,
+      "status": "downloaded",
+      "size_mb": 4.7,
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216285Orig1s000ClinPharmR.pdf",
+      "ingredient": "DROSPIRENONE"
+    },
+    {
+      "nda": "214998",
+      "year": 2022,
+      "status": "exists",
+      "size_mb": 4.6,
+      "ingredient": "MAVACAMTEN"
+    },
+    {
+      "nda": "215428",
+      "year": 2022,
+      "status": "downloaded_via_toc",
+      "ingredient": "CITALOPRAM HYDROBROMIDE",
+      "size_mb": 0.7,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/215428Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "215429",
+      "year": 2022,
+      "status": "failed",
+      "ingredient": "VENLAFAXINE BESYLATE"
+    },
+    {
+      "nda": "215430",
+      "year": 2022,
+      "status": "downloaded_via_toc",
+      "ingredient": "BUPROPION HYDROCHLORIDE; DEXTROMETHORPHAN HYDROBROMIDE",
+      "size_mb": 11.3,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/215430Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "214581",
+      "year": 2022,
+      "status": "downloaded_via_toc",
+      "ingredient": "HYDROXYCHLOROQUINE SULFATE",
+      "size_mb": 4.0,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/214581Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "215446",
+      "year": 2022,
+      "status": "downloaded",
+      "size_mb": 2.0,
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/215446Orig1s000ClinPharmR.pdf",
+      "ingredient": "EDARAVONE"
+    },
+    {
+      "nda": "215888",
+      "year": 2022,
+      "status": "downloaded_via_toc",
+      "ingredient": "OTESECONAZOLE",
+      "size_mb": 16.0,
+      "review_type": "IntegratedR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/215888Orig1s000IntegratedR.pdf"
+    },
+    {
+      "nda": "216340",
+      "year": 2022,
+      "status": "downloaded_via_toc",
+      "ingredient": "ADAGRASIB",
+      "size_mb": 8.8,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216340Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "215830",
+      "year": 2023,
+      "status": "downloaded_via_toc",
+      "ingredient": "RITLECITINIB TOSYLATE",
+      "size_mb": 15.2,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/215830Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "216718",
+      "year": 2023,
+      "status": "exists",
+      "size_mb": 6.2,
+      "ingredient": "OMAVELOXOLONE"
+    },
+    {
+      "nda": "211868",
+      "year": 2023,
+      "status": "failed",
+      "ingredient": "DOLUTEGRAVIR; LAMIVUDINE; TENOFOVIR DISOPROXIL FUMARATE"
+    },
+    {
+      "nda": "218550",
+      "year": 2023,
+      "status": "downloaded_via_toc",
+      "ingredient": "ENTRECTINIB",
+      "size_mb": 14.6,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/218550Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "209847",
+      "year": 2023,
+      "status": "failed",
+      "ingredient": "DARUNAVIR AND RITONAVIR"
+    },
+    {
+      "nda": "216743",
+      "year": 2023,
+      "status": "downloaded_via_toc",
+      "ingredient": "METFORMIN HYDROCHLORIDE; SITAGLIPTIN",
+      "size_mb": 2.2,
+      "review_type": "PharmR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/216743Orig1s000PharmR.pdf"
+    },
+    {
+      "nda": "211566",
+      "year": 2023,
+      "status": "downloaded",
+      "size_mb": 1.2,
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/211566Orig1s000ClinPharmR.pdf",
+      "ingredient": "SITAGLIPTIN"
+    },
+    {
+      "nda": "217188",
+      "year": 2023,
+      "status": "downloaded_via_toc",
+      "ingredient": "NIRMATRELVIR; RITONAVIR",
+      "size_mb": 18.2,
+      "review_type": "IntegratedR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/217188Orig1s000IntegratedR.pdf"
+    },
+    {
+      "nda": "215448",
+      "year": 2023,
+      "status": "failed",
+      "ingredient": "DOLUTEGRAVIR, EMTRICITABINE and TENOFOVIR ALAFENAMIDE"
+    },
+    {
+      "nda": "216755",
+      "year": 2023,
+      "status": "downloaded_via_toc",
+      "ingredient": "METRONIDAZOLE",
+      "size_mb": 6.1,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/216755Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "217639",
+      "year": 2023,
+      "status": "downloaded_via_toc",
+      "ingredient": "ELACESTRANT HYDROCHLORIDE",
+      "size_mb": 8.1,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/217639Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "217651",
+      "year": 2023,
+      "status": "downloaded_via_toc",
+      "ingredient": "CYCLOPHOSPHAMIDE",
+      "size_mb": 1.6,
+      "review_type": "PharmR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217651Orig1s000PharmR.pdf"
+    },
+    {
+      "nda": "216686",
+      "year": 2023,
+      "status": "downloaded_via_toc",
+      "ingredient": "FOSAPREPITANT DIMEGLUMINE",
+      "size_mb": 3.5,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216686Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "217150",
+      "year": 2023,
+      "status": "downloaded",
+      "size_mb": 0.3,
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217150Orig1s000ClinPharmR.pdf",
+      "ingredient": "CYCLOPHOSPHAMIDE"
+    },
+    {
+      "nda": "218527",
+      "year": 2024,
+      "status": "downloaded",
+      "size_mb": 2.4,
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/218527Orig1s000ClinPharmR.pdf",
+      "ingredient": "TADALAFIL"
+    },
+    {
+      "nda": "218033",
+      "year": 2024,
+      "status": "failed",
+      "ingredient": "TOVORAFENIB"
+    },
+    {
+      "nda": "217604",
+      "year": 2024,
+      "status": "downloaded",
+      "size_mb": 2.4,
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/217604Orig1s000ClinPharmR.pdf",
+      "ingredient": "PYRIDOSTIGMINE BROMIDE"
+    },
+    {
+      "nda": "218549",
+      "year": 2024,
+      "status": "downloaded",
+      "size_mb": 2.9,
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/218549Orig1s000ClinPharmR.pdf",
+      "ingredient": "BENZGALANTAMINE GLUCONATE"
+    },
+    {
+      "nda": "218037",
+      "year": 2024,
+      "status": "downloaded_via_toc",
+      "ingredient": "DANICOPAN",
+      "size_mb": 10.8,
+      "review_type": "IntegratedR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/218037Orig1s000IntegratedR.pdf"
+    },
+    {
+      "nda": "219097",
+      "year": 2024,
+      "status": "downloaded",
+      "size_mb": 0.9,
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/219097Orig1s000ClinPharmR.pdf",
+      "ingredient": "IMATINIB MESYLATE"
+    },
+    {
+      "nda": "219104",
+      "year": 2024,
+      "status": "failed",
+      "ingredient": "LETERMOVIR"
+    },
+    {
+      "nda": "217186",
+      "year": 2024,
+      "status": "downloaded",
+      "size_mb": 4.2,
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/217186Orig1s000ClinPharmR.pdf",
+      "ingredient": "CARBIDOPA; LEVODOPA"
+    },
+    {
+      "nda": "218591",
+      "year": 2024,
+      "status": "failed",
+      "ingredient": "SACUBITRIL; VALSARTAN"
+    },
+    {
+      "nda": "219132",
+      "year": 2024,
+      "status": "downloaded_via_toc",
+      "ingredient": "LEVACETYLLEUCINE",
+      "size_mb": 12.0,
+      "review_type": "IntegratedR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/219132Orig1s000IntegratedR.pdf"
+    },
+    {
+      "nda": "217645",
+      "year": 2024,
+      "status": "downloaded_via_toc",
+      "ingredient": "CLONIDINE HYDROCHLORIDE",
+      "size_mb": 3.1,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217645Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "217630",
+      "year": 2024,
+      "status": "failed",
+      "ingredient": "DAPTOMYCIN"
+    },
+    {
+      "nda": "218590",
+      "year": 2024,
+      "status": "downloaded",
+      "size_mb": 5.1,
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/218590Orig1s000ClinPharmR.pdf",
+      "ingredient": "NALMEFENE HYDROCHLORIDE"
+    },
+    {
+      "nda": "217202",
+      "year": 2024,
+      "status": "exists",
+      "size_mb": 3.6,
+      "ingredient": "LANDIOLOL HYDROCHLORIDE"
+    },
+    {
+      "nda": "219884",
+      "year": 2025,
+      "status": "failed",
+      "ingredient": "TROFINETIDE"
+    },
+    {
+      "nda": "219070",
+      "year": 2025,
+      "status": "downloaded_via_toc",
+      "ingredient": "PALTUSOTINE HYDROCHLORIDE",
+      "size_mb": 14.6,
+      "review_type": "IntegratedR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/219070Orig1s000IntegratedR.pdf"
+    },
+    {
+      "nda": "219757",
+      "year": 2025,
+      "status": "failed",
+      "ingredient": "RAMIPRIL"
+    },
+    {
+      "nda": "219083",
+      "year": 2025,
+      "status": "downloaded_via_toc",
+      "ingredient": "AFICAMTEN",
+      "size_mb": 16.1,
+      "review_type": "IntegratedR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/219083Orig1s000IntegratedR.pdf"
+    },
+    {
+      "nda": "219776",
+      "year": 2025,
+      "status": "downloaded_via_toc",
+      "ingredient": "BEROTRALSTAT DIHYDROCHLORIDE",
+      "size_mb": 7.2,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/219776Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "210858",
+      "year": 2025,
+      "status": "failed",
+      "ingredient": "SILDENAFIL CITRATE"
+    },
+    {
+      "nda": "219792",
+      "year": 2025,
+      "status": "downloaded_via_toc",
+      "ingredient": "DOXECITINE; DOXRIBTIMINE",
+      "size_mb": 8.5,
+      "review_type": "IntegratedR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/219792Orig1s000IntegratedR.pdf"
+    },
+    {
+      "nda": "215431",
+      "year": 2025,
+      "status": "exists",
+      "size_mb": 2.0,
+      "ingredient": "MELOXICAM; RIZATRIPTAN BENZOATE"
+    },
+    {
+      "nda": "219839",
+      "year": 2025,
+      "status": "downloaded_via_toc",
+      "ingredient": "SUNVOZERTINIB",
+      "size_mb": 14.8,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/219839Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "219840",
+      "year": 2025,
+      "status": "exists",
+      "size_mb": 0.5,
+      "ingredient": "BARIUM SULFATE"
+    },
+    {
+      "nda": "219843",
+      "year": 2025,
+      "status": "failed",
+      "ingredient": "METHOCARBAMOL"
+    },
+    {
+      "nda": "219847",
+      "year": 2025,
+      "status": "downloaded_via_toc",
+      "ingredient": "LISDEXAMFETAMINE DIMESYLATE",
+      "size_mb": 3.4,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/219847Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "219122",
+      "year": 2025,
+      "status": "exists",
+      "size_mb": 1.5,
+      "ingredient": "SITAGLIPTIN HYDROCHLORIDE"
+    },
+    {
+      "nda": "219130",
+      "year": 2025,
+      "status": "failed",
+      "ingredient": "ESCITALOPRAM OXALATE"
+    },
+    {
+      "nda": "219141",
+      "year": 2025,
+      "status": "exists",
+      "size_mb": 2.9,
+      "ingredient": "HYDROCHLOROTHIAZIDE"
+    },
+    {
+      "nda": "219876",
+      "year": 2025,
+      "status": "downloaded_via_toc",
+      "ingredient": "DORDAVIPRONE HYDROCHLORIDE",
+      "size_mb": 17.6,
+      "review_type": "MultidisciplineR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/219876Orig1s000MultidisciplineR.pdf"
+    },
+    {
+      "nda": "219745",
+      "year": 2025,
+      "status": "failed",
+      "ingredient": "LEUPROLIDE MESYLATE"
+    },
+    {
+      "nda": "217593",
+      "year": 2025,
+      "status": "failed",
+      "ingredient": "MELOXICAM"
+    },
+    {
+      "nda": "214988",
+      "year": 2025,
+      "status": "failed",
+      "ingredient": "DEHYDRATED ALCOHOL"
+    },
+    {
+      "nda": "215425",
+      "year": 2025,
+      "status": "failed",
+      "ingredient": "EPINEPHRINE"
+    },
+    {
+      "nda": "218038",
+      "year": 2025,
+      "status": "exists",
+      "size_mb": 1.7,
+      "ingredient": "DILTIAZEM HYDROCHLORIDE"
+    },
+    {
+      "nda": "219108",
+      "year": 2025,
+      "status": "failed",
+      "ingredient": "ROCURONIUM BROMIDE"
+    },
+    {
+      "nda": "212271",
+      "year": 2025,
+      "status": "failed",
+      "ingredient": "FOSFOMYCIN DISODIUM"
+    },
+    {
+      "nda": "219868",
+      "year": 2025,
+      "status": "failed",
+      "ingredient": "FERUMOXYTOL"
+    },
+    {
+      "nda": "219131",
+      "year": 2026,
+      "status": "failed",
+      "ingredient": "DULOXETINE HYDROCHLORIDE"
+    },
+    {
+      "nda": "219873",
+      "year": 2026,
+      "status": "failed",
+      "ingredient": "DESMOPRESSIN ACETATE"
+    },
+    {
+      "nda": "211241",
+      "year": 2026,
+      "status": "downloaded_via_toc",
+      "ingredient": "COPPER HISTIDINATE",
+      "size_mb": 9.1,
+      "review_type": "IntegratedR",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/211241Orig1s000IntegratedR.pdf"
+    }
+  ]
+}

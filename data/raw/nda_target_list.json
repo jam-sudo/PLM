@@ -1,0 +1,802 @@
+[
+  {
+    "nda": "219131",
+    "year": 2026,
+    "brand_name": "DULOXETINE HYDROCHLORIDE",
+    "active_ingredient": "DULOXETINE HYDROCHLORIDE",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE, DELAYED REL PELLETS"
+  },
+  {
+    "nda": "219873",
+    "year": 2026,
+    "brand_name": "DESMODA",
+    "active_ingredient": "DESMOPRESSIN ACETATE",
+    "route": "ORAL",
+    "dosage_form": "SOLUTION"
+  },
+  {
+    "nda": "219884",
+    "year": 2025,
+    "brand_name": "DAYBUE STIX",
+    "active_ingredient": "TROFINETIDE",
+    "route": "ORAL",
+    "dosage_form": "FOR SOLUTION"
+  },
+  {
+    "nda": "219070",
+    "year": 2025,
+    "brand_name": "PALSONIFY",
+    "active_ingredient": "PALTUSOTINE HYDROCHLORIDE",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "219757",
+    "year": 2025,
+    "brand_name": "VOSTALLY",
+    "active_ingredient": "RAMIPRIL",
+    "route": "ORAL",
+    "dosage_form": "SOLUTION"
+  },
+  {
+    "nda": "219083",
+    "year": 2025,
+    "brand_name": "MYQORZO",
+    "active_ingredient": "AFICAMTEN",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "219776",
+    "year": 2025,
+    "brand_name": "ORLADEYO",
+    "active_ingredient": "BEROTRALSTAT DIHYDROCHLORIDE",
+    "route": "ORAL",
+    "dosage_form": "PELLETS"
+  },
+  {
+    "nda": "210858",
+    "year": 2025,
+    "brand_name": "VYBRIQUE",
+    "active_ingredient": "SILDENAFIL CITRATE",
+    "route": "ORAL",
+    "dosage_form": "FILM"
+  },
+  {
+    "nda": "219792",
+    "year": 2025,
+    "brand_name": "KYGEVVI",
+    "active_ingredient": "DOXECITINE; DOXRIBTIMINE",
+    "route": "ORAL",
+    "dosage_form": "FOR SOLUTION"
+  },
+  {
+    "nda": "215431",
+    "year": 2025,
+    "brand_name": "SYMBRAVO",
+    "active_ingredient": "MELOXICAM; RIZATRIPTAN BENZOATE",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "219839",
+    "year": 2025,
+    "brand_name": "ZEGFROVY",
+    "active_ingredient": "SUNVOZERTINIB",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "219840",
+    "year": 2025,
+    "brand_name": "E-Z-DISK",
+    "active_ingredient": "BARIUM SULFATE",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "219843",
+    "year": 2025,
+    "brand_name": "ATMEKSI",
+    "active_ingredient": "METHOCARBAMOL",
+    "route": "ORAL",
+    "dosage_form": "SUSPENSION"
+  },
+  {
+    "nda": "219847",
+    "year": 2025,
+    "brand_name": "ARYNTA",
+    "active_ingredient": "LISDEXAMFETAMINE DIMESYLATE",
+    "route": "ORAL",
+    "dosage_form": "SOLUTION"
+  },
+  {
+    "nda": "219122",
+    "year": 2025,
+    "brand_name": "BRYNOVIN",
+    "active_ingredient": "SITAGLIPTIN HYDROCHLORIDE",
+    "route": "ORAL",
+    "dosage_form": "SOLUTION"
+  },
+  {
+    "nda": "219130",
+    "year": 2025,
+    "brand_name": "ESCITALOPRAM",
+    "active_ingredient": "ESCITALOPRAM OXALATE",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE"
+  },
+  {
+    "nda": "219141",
+    "year": 2025,
+    "brand_name": "INZIRQO",
+    "active_ingredient": "HYDROCHLOROTHIAZIDE",
+    "route": "ORAL",
+    "dosage_form": "FOR SUSPENSION"
+  },
+  {
+    "nda": "219876",
+    "year": 2025,
+    "brand_name": "MODEYSO",
+    "active_ingredient": "DORDAVIPRONE HYDROCHLORIDE",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE"
+  },
+  {
+    "nda": "218527",
+    "year": 2024,
+    "brand_name": "CHEWTADZY",
+    "active_ingredient": "TADALAFIL",
+    "route": "ORAL",
+    "dosage_form": "TABLET, CHEWABLE"
+  },
+  {
+    "nda": "218033",
+    "year": 2024,
+    "brand_name": "OJEMDA",
+    "active_ingredient": "TOVORAFENIB",
+    "route": "ORAL",
+    "dosage_form": "FOR SUSPENSION"
+  },
+  {
+    "nda": "217604",
+    "year": 2024,
+    "brand_name": "PYRIDOSTIGMINE BROMIDE",
+    "active_ingredient": "PYRIDOSTIGMINE BROMIDE",
+    "route": "ORAL",
+    "dosage_form": "TABLET, EXTENDED RELEASE"
+  },
+  {
+    "nda": "218549",
+    "year": 2024,
+    "brand_name": "ZUNVEYL",
+    "active_ingredient": "BENZGALANTAMINE GLUCONATE",
+    "route": "ORAL",
+    "dosage_form": "TABLET, DELAYED RELEASE"
+  },
+  {
+    "nda": "218037",
+    "year": 2024,
+    "brand_name": "VOYDEYA",
+    "active_ingredient": "DANICOPAN",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "219097",
+    "year": 2024,
+    "brand_name": "IMKELDI",
+    "active_ingredient": "IMATINIB MESYLATE",
+    "route": "ORAL",
+    "dosage_form": "SOLUTION"
+  },
+  {
+    "nda": "219104",
+    "year": 2024,
+    "brand_name": "PREVYMIS",
+    "active_ingredient": "LETERMOVIR",
+    "route": "ORAL",
+    "dosage_form": "PELLETS"
+  },
+  {
+    "nda": "217186",
+    "year": 2024,
+    "brand_name": "CREXONT",
+    "active_ingredient": "CARBIDOPA; LEVODOPA",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE, EXTENDED RELEASE"
+  },
+  {
+    "nda": "218591",
+    "year": 2024,
+    "brand_name": "ENTRESTO SPRINKLE",
+    "active_ingredient": "SACUBITRIL; VALSARTAN",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE, PELLETS"
+  },
+  {
+    "nda": "219132",
+    "year": 2024,
+    "brand_name": "AQNEURSA",
+    "active_ingredient": "LEVACETYLLEUCINE",
+    "route": "ORAL",
+    "dosage_form": "FOR SUSPENSION"
+  },
+  {
+    "nda": "217645",
+    "year": 2024,
+    "brand_name": "ONYDA XR",
+    "active_ingredient": "CLONIDINE HYDROCHLORIDE",
+    "route": "ORAL",
+    "dosage_form": "SUSPENSION, EXTENDED RELEASE"
+  },
+  {
+    "nda": "215830",
+    "year": 2023,
+    "brand_name": "LITFULO",
+    "active_ingredient": "RITLECITINIB TOSYLATE",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE"
+  },
+  {
+    "nda": "216718",
+    "year": 2023,
+    "brand_name": "SKYCLARYS",
+    "active_ingredient": "OMAVELOXOLONE",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE"
+  },
+  {
+    "nda": "211868",
+    "year": 2023,
+    "brand_name": "DOLUTEGRAVIR; LAMIVUDINE; TENOFOVIR DISOPROXIL FUMARATE",
+    "active_ingredient": "DOLUTEGRAVIR; LAMIVUDINE; TENOFOVIR DISOPROXIL FUMARATE",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "218550",
+    "year": 2023,
+    "brand_name": "ROZLYTREK",
+    "active_ingredient": "ENTRECTINIB",
+    "route": "ORAL",
+    "dosage_form": "PELLETS"
+  },
+  {
+    "nda": "209847",
+    "year": 2023,
+    "brand_name": "DARUNAVIR AND RITONAVIR",
+    "active_ingredient": "DARUNAVIR AND RITONAVIR",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "216743",
+    "year": 2023,
+    "brand_name": "ZITUVIMET",
+    "active_ingredient": "METFORMIN HYDROCHLORIDE; SITAGLIPTIN",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "211566",
+    "year": 2023,
+    "brand_name": "ZITUVIO",
+    "active_ingredient": "SITAGLIPTIN",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "217188",
+    "year": 2023,
+    "brand_name": "PAXLOVID (COPACKAGED)",
+    "active_ingredient": "NIRMATRELVIR; RITONAVIR",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "215448",
+    "year": 2023,
+    "brand_name": "DOLUTEGRAVIR, EMTRICITABINE and TENOFOVIR ALAFENAMIDE",
+    "active_ingredient": "DOLUTEGRAVIR, EMTRICITABINE and TENOFOVIR ALAFENAMIDE",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "216755",
+    "year": 2023,
+    "brand_name": "LIKMEZ",
+    "active_ingredient": "METRONIDAZOLE",
+    "route": "ORAL",
+    "dosage_form": "SUSPENSION"
+  },
+  {
+    "nda": "217639",
+    "year": 2023,
+    "brand_name": "ORSERDU",
+    "active_ingredient": "ELACESTRANT HYDROCHLORIDE",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "214985",
+    "year": 2022,
+    "brand_name": "QUVIVIQ",
+    "active_ingredient": "DARIDOREXANT HYDROCHLORIDE",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "215413",
+    "year": 2022,
+    "brand_name": "TRIUMEQ PD",
+    "active_ingredient": "ABACAVIR SULFATE; DOLUTEGRAVIR SODIUM; LAMIVUDINE",
+    "route": "ORAL",
+    "dosage_form": "TABLET, FOR SUSPENSION"
+  },
+  {
+    "nda": "216285",
+    "year": 2022,
+    "brand_name": "DROSPIRENONE",
+    "active_ingredient": "DROSPIRENONE",
+    "route": "ORAL",
+    "dosage_form": "TABLET, CHEWABLE"
+  },
+  {
+    "nda": "214998",
+    "year": 2022,
+    "brand_name": "CAMZYOS",
+    "active_ingredient": "MAVACAMTEN",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE"
+  },
+  {
+    "nda": "215428",
+    "year": 2022,
+    "brand_name": "CITALOPRAM HYDROBROMIDE",
+    "active_ingredient": "CITALOPRAM HYDROBROMIDE",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE"
+  },
+  {
+    "nda": "215429",
+    "year": 2022,
+    "brand_name": "VENLAFAXINE BESYLATE",
+    "active_ingredient": "VENLAFAXINE BESYLATE",
+    "route": "ORAL",
+    "dosage_form": "TABLET, EXTENDED RELEASE"
+  },
+  {
+    "nda": "215430",
+    "year": 2022,
+    "brand_name": "AUVELITY",
+    "active_ingredient": "BUPROPION HYDROCHLORIDE; DEXTROMETHORPHAN HYDROBROMIDE",
+    "route": "ORAL",
+    "dosage_form": "TABLET, EXTENDED RELEASE"
+  },
+  {
+    "nda": "214581",
+    "year": 2022,
+    "brand_name": "SOVUNA",
+    "active_ingredient": "HYDROXYCHLOROQUINE SULFATE",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "215446",
+    "year": 2022,
+    "brand_name": "RADICAVA ORS",
+    "active_ingredient": "EDARAVONE",
+    "route": "ORAL",
+    "dosage_form": "SUSPENSION"
+  },
+  {
+    "nda": "215888",
+    "year": 2022,
+    "brand_name": "VIVJOA",
+    "active_ingredient": "OTESECONAZOLE",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE"
+  },
+  {
+    "nda": "216340",
+    "year": 2022,
+    "brand_name": "KRAZATI",
+    "active_ingredient": "ADAGRASIB",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "214622",
+    "year": 2021,
+    "brand_name": "TRUSELTIQ",
+    "active_ingredient": "INFIGRATINIB PHOSPHATE",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE"
+  },
+  {
+    "nda": "214154",
+    "year": 2021,
+    "brand_name": "NEXTSTELLIS",
+    "active_ingredient": "DROSPIRENONE; ESTETROL",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "213716",
+    "year": 2021,
+    "brand_name": "LUPKYNIS",
+    "active_ingredient": "VOCLOSPORIN",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE"
+  },
+  {
+    "nda": "214566",
+    "year": 2021,
+    "brand_name": "DOLUTEGRAVIR SODIUM",
+    "active_ingredient": "DOLUTEGRAVIR SODIUM",
+    "route": "ORAL SUSPENSION",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "210526",
+    "year": 2021,
+    "brand_name": "DYANAVEL XR 20",
+    "active_ingredient": "AMPHETAMINE; AMPHETAMINE ASPARTATE/DEXTROAMPHETAMINE SULFATE",
+    "route": "ORAL",
+    "dosage_form": "TABLET, EXTENDED RELEASE"
+  },
+  {
+    "nda": "215422",
+    "year": 2021,
+    "brand_name": "LYVISPAH",
+    "active_ingredient": "BACLOFEN",
+    "route": "ORAL",
+    "dosage_form": "GRANULES"
+  },
+  {
+    "nda": "215423",
+    "year": 2021,
+    "brand_name": "ENTADFI",
+    "active_ingredient": "FINASTERIDE; TADALAFIL",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE"
+  },
+  {
+    "nda": "214187",
+    "year": 2021,
+    "brand_name": "EPCLUSA",
+    "active_ingredient": "SOFOSBUVIR; VELPATASVIR",
+    "route": "ORAL",
+    "dosage_form": "PELLETS"
+  },
+  {
+    "nda": "215859",
+    "year": 2021,
+    "brand_name": "XARELTO",
+    "active_ingredient": "RIVAROXABAN",
+    "route": "ORAL",
+    "dosage_form": "FOR SUSPENSION"
+  },
+  {
+    "nda": "213378",
+    "year": 2021,
+    "brand_name": "LYBALVI",
+    "active_ingredient": "OLANZAPINE; SAMIDORPHAN L-MALATE",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "215019",
+    "year": 2021,
+    "brand_name": "DARTISLA ODT",
+    "active_ingredient": "GLYCOPYRROLATE",
+    "route": "ORAL",
+    "dosage_form": "TABLET, ORALLY DISINTEGRATING"
+  },
+  {
+    "nda": "212994",
+    "year": 2021,
+    "brand_name": "AZSTARYS",
+    "active_ingredient": "DEXMETHYLPHENIDATE HYDROCHLORIDE; SERDEXMETHYLPHENIDATE CHLORIDE",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE"
+  },
+  {
+    "nda": "209529",
+    "year": 2020,
+    "brand_name": "VESICARE LS",
+    "active_ingredient": "SOLIFENACIN SUCCINATE",
+    "route": "ORAL",
+    "dosage_form": "SUSPENSION"
+  },
+  {
+    "nda": "213400",
+    "year": 2020,
+    "brand_name": "TAZVERIK",
+    "active_ingredient": "TAZEMETOSTAT HYDROBROMIDE",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "213006",
+    "year": 2020,
+    "brand_name": "GEMTESA",
+    "active_ingredient": "VIBEGRON",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "212950",
+    "year": 2020,
+    "brand_name": "RUKOBIA",
+    "active_ingredient": "FOSTEMSAVIR TROMETHAMINE",
+    "route": "ORAL",
+    "dosage_form": "TABLET, EXTENDED RELEASE"
+  },
+  {
+    "nda": "213721",
+    "year": 2020,
+    "brand_name": "GAVRETO",
+    "active_ingredient": "PRALSETINIB",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE"
+  },
+  {
+    "nda": "212608",
+    "year": 2020,
+    "brand_name": "AYVAKIT",
+    "active_ingredient": "AVAPRITINIB",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "212269",
+    "year": 2020,
+    "brand_name": "FERRIPROX",
+    "active_ingredient": "DEFERIPRONE",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "213736",
+    "year": 2020,
+    "brand_name": "PEMAZYRE",
+    "active_ingredient": "PEMIGATINIB",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "212614",
+    "year": 2020,
+    "brand_name": "TRIJARDY XR",
+    "active_ingredient": "EMPAGLIFLOZIN; LINAGLIPTIN; METFORMIN HYDROCHLORIDE",
+    "route": "ORAL",
+    "dosage_form": "TABLET, EXTENDED RELEASE"
+  },
+  {
+    "nda": "213756",
+    "year": 2020,
+    "brand_name": "KOSELUGO",
+    "active_ingredient": "SELUMETINIB SULFATE",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE"
+  },
+  {
+    "nda": "213388",
+    "year": 2020,
+    "brand_name": "ORIAHNN (COPACKAGED)",
+    "active_ingredient": "ELAGOLIX SODIUM,ESTRADIOL,NORETHINDRONE ACETATE; ELAGOLIX SODIUM",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE"
+  },
+  {
+    "nda": "214621",
+    "year": 2020,
+    "brand_name": "ORGOVYX",
+    "active_ingredient": "RELUGOLIX",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "213004",
+    "year": 2019,
+    "brand_name": "TALICIA",
+    "active_ingredient": "AMOXICILLIN; OMEPRAZOLE MAGNESIUM; RIFABUTIN",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE, DELAYED RELEASE"
+  },
+  {
+    "nda": "212595",
+    "year": 2019,
+    "brand_name": "RIOMET ER",
+    "active_ingredient": "METFORMIN HYDROCHLORIDE",
+    "route": "ORAL",
+    "dosage_form": "FOR SUSPENSION, EXTENDED RELEASE"
+  },
+  {
+    "nda": "209500",
+    "year": 2019,
+    "brand_name": "CAPLYTA",
+    "active_ingredient": "LUMATEPERONE TOSYLATE",
+    "route": "ORAL",
+    "dosage_form": "CAPSULE"
+  },
+  {
+    "nda": "212273",
+    "year": 2019,
+    "brand_name": "TRIKAFTA (COPACKAGED)",
+    "active_ingredient": "ELEXACAFTOR, IVACAFTOR, TEZACAFTOR; IVACAFTOR",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "210874",
+    "year": 2019,
+    "brand_name": "QTERNMET XR",
+    "active_ingredient": "DAPAGLIFLOZIN; METFORMIN HYDROCHLORIDE; SAXAGLIPTIN HYDROCHLORIDE",
+    "route": "ORAL",
+    "dosage_form": "TABLET, EXTENDED RELEASE"
+  },
+  {
+    "nda": "211225",
+    "year": 2019,
+    "brand_name": "ZYKADIA",
+    "active_ingredient": "CERITINIB",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "211230",
+    "year": 2019,
+    "brand_name": "SUNOSI",
+    "active_ingredient": "SOLRIAMFETOL HYDROCHLORIDE",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "210895",
+    "year": 2019,
+    "brand_name": "WELCHOL",
+    "active_ingredient": "COLESEVELAM HYDROCHLORIDE",
+    "route": "ORAL",
+    "dosage_form": "BAR, CHEWABLE"
+  },
+  {
+    "nda": "210563",
+    "year": 2018,
+    "brand_name": "IMBRUVICA",
+    "active_ingredient": "IBRUTINIB",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "211192",
+    "year": 2018,
+    "brand_name": "TIBSOVO",
+    "active_ingredient": "IVOSIDENIB",
+    "route": "ORAL",
+    "dosage_form": "TABLET"
+  },
+  {
+    "nda": "211241",
+    "year": 2026,
+    "brand_name": "ZYCUBO",
+    "active_ingredient": "COPPER HISTIDINATE",
+    "route": "SUBCUTANEOUS",
+    "dosage_form": "POWDER"
+  },
+  {
+    "nda": "219745",
+    "year": 2025,
+    "brand_name": "CAMCEVI ETM",
+    "active_ingredient": "LEUPROLIDE MESYLATE",
+    "route": "SUBCUTANEOUS",
+    "dosage_form": "EMULSION"
+  },
+  {
+    "nda": "217593",
+    "year": 2025,
+    "brand_name": "QAMZOVA",
+    "active_ingredient": "MELOXICAM",
+    "route": "INTRAVENOUS",
+    "dosage_form": "SOLUTION"
+  },
+  {
+    "nda": "214988",
+    "year": 2025,
+    "brand_name": "DEHYDRATED ALCOHOL",
+    "active_ingredient": "DEHYDRATED ALCOHOL",
+    "route": "INTRAVENOUS",
+    "dosage_form": "SOLUTION"
+  },
+  {
+    "nda": "215425",
+    "year": 2025,
+    "brand_name": "EPINEPHRINE",
+    "active_ingredient": "EPINEPHRINE",
+    "route": "INTRAMUSCULAR, INTRAVENOUS, SUBCUTANEOUS",
+    "dosage_form": "SOLUTION"
+  },
+  {
+    "nda": "218038",
+    "year": 2025,
+    "brand_name": "DILTIAZEM HYDROCHLORIDE IN 0.72% SODIUM CHLORIDE",
+    "active_ingredient": "DILTIAZEM HYDROCHLORIDE",
+    "route": "INTRAVENOUS",
+    "dosage_form": "SOLUTION"
+  },
+  {
+    "nda": "219108",
+    "year": 2025,
+    "brand_name": "ROCURONIUM BROMIDE",
+    "active_ingredient": "ROCURONIUM BROMIDE",
+    "route": "INTRAVENOUS",
+    "dosage_form": "SOLUTION"
+  },
+  {
+    "nda": "212271",
+    "year": 2025,
+    "brand_name": "CONTEPO",
+    "active_ingredient": "FOSFOMYCIN DISODIUM",
+    "route": "INTRAVENOUS",
+    "dosage_form": "POWDER"
+  },
+  {
+    "nda": "219868",
+    "year": 2025,
+    "brand_name": "FERABRIGHT",
+    "active_ingredient": "FERUMOXYTOL",
+    "route": "INTRAVENOUS",
+    "dosage_form": "SOLUTION"
+  },
+  {
+    "nda": "217630",
+    "year": 2024,
+    "brand_name": "DAPTOMYCIN",
+    "active_ingredient": "DAPTOMYCIN",
+    "route": "INTRAVENOUS",
+    "dosage_form": "POWDER"
+  },
+  {
+    "nda": "218590",
+    "year": 2024,
+    "brand_name": "ZURNAI (AUTOINJECTOR)",
+    "active_ingredient": "NALMEFENE HYDROCHLORIDE",
+    "route": "INTRAMUSCULAR, SUBCUTANEOUS",
+    "dosage_form": "SOLUTION"
+  },
+  {
+    "nda": "217202",
+    "year": 2024,
+    "brand_name": "RAPIBLYK",
+    "active_ingredient": "LANDIOLOL HYDROCHLORIDE",
+    "route": "INTRAVENOUS",
+    "dosage_form": "POWDER"
+  },
+  {
+    "nda": "217651",
+    "year": 2023,
+    "brand_name": "CYCLOPHOSPHAMIDE",
+    "active_ingredient": "CYCLOPHOSPHAMIDE",
+    "route": "INTRAVENOUS",
+    "dosage_form": "SOLUTION"
+  },
+  {
+    "nda": "216686",
+    "year": 2023,
+    "brand_name": "FOCINVEZ",
+    "active_ingredient": "FOSAPREPITANT DIMEGLUMINE",
+    "route": "INTRAVENOUS",
+    "dosage_form": "SOLUTION"
+  },
+  {
+    "nda": "217150",
+    "year": 2023,
+    "brand_name": "CYCLOPHOSPHAMIDE",
+    "active_ingredient": "CYCLOPHOSPHAMIDE",
+    "route": "INTRAVENOUS",
+    "dosage_form": "SOLUTION"
+  }
+]

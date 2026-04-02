@@ -1,0 +1,524 @@
+[
+  {
+    "nda": "NDA022075",
+    "total_figures": 203,
+    "ct_candidates": 47,
+    "scans": 18
+  },
+  {
+    "nda": "NDA125320",
+    "total_figures": 78,
+    "ct_candidates": 0,
+    "scans": 78
+  },
+  {
+    "nda": "NDA125527",
+    "total_figures": 11,
+    "ct_candidates": 0,
+    "scans": 8
+  },
+  {
+    "nda": "NDA204629",
+    "total_figures": 127,
+    "ct_candidates": 12,
+    "scans": 19
+  },
+  {
+    "nda": "NDA206089",
+    "total_figures": 382,
+    "ct_candidates": 18,
+    "scans": 59
+  },
+  {
+    "nda": "NDA208313",
+    "total_figures": 1,
+    "ct_candidates": 0,
+    "scans": 0
+  },
+  {
+    "nda": "NDA208658",
+    "total_figures": 38,
+    "ct_candidates": 0,
+    "scans": 33
+  },
+  {
+    "nda": "NDA209500",
+    "total_figures": 71,
+    "ct_candidates": 0,
+    "scans": 19
+  },
+  {
+    "nda": "NDA209529",
+    "total_figures": 45,
+    "ct_candidates": 9,
+    "scans": 12
+  },
+  {
+    "nda": "NDA210526",
+    "total_figures": 3,
+    "ct_candidates": 0,
+    "scans": 0
+  },
+  {
+    "nda": "NDA210563",
+    "total_figures": 15,
+    "ct_candidates": 6,
+    "scans": 2
+  },
+  {
+    "nda": "NDA210874",
+    "total_figures": 4,
+    "ct_candidates": 0,
+    "scans": 4
+  },
+  {
+    "nda": "NDA210895",
+    "total_figures": 37,
+    "ct_candidates": 0,
+    "scans": 9
+  },
+  {
+    "nda": "NDA211192",
+    "total_figures": 82,
+    "ct_candidates": 7,
+    "scans": 25
+  },
+  {
+    "nda": "NDA211225",
+    "total_figures": 1,
+    "ct_candidates": 0,
+    "scans": 1
+  },
+  {
+    "nda": "NDA211230",
+    "total_figures": 33,
+    "ct_candidates": 1,
+    "scans": 1
+  },
+  {
+    "nda": "NDA211241",
+    "total_figures": 82,
+    "ct_candidates": 0,
+    "scans": 12
+  },
+  {
+    "nda": "NDA211566",
+    "total_figures": 4,
+    "ct_candidates": 0,
+    "scans": 2
+  },
+  {
+    "nda": "NDA212269",
+    "total_figures": 16,
+    "ct_candidates": 0,
+    "scans": 14
+  },
+  {
+    "nda": "NDA212273",
+    "total_figures": 65,
+    "ct_candidates": 10,
+    "scans": 6
+  },
+  {
+    "nda": "NDA212595",
+    "total_figures": 12,
+    "ct_candidates": 1,
+    "scans": 6
+  },
+  {
+    "nda": "NDA212608",
+    "total_figures": 69,
+    "ct_candidates": 3,
+    "scans": 24
+  },
+  {
+    "nda": "NDA212614",
+    "total_figures": 19,
+    "ct_candidates": 0,
+    "scans": 17
+  },
+  {
+    "nda": "NDA212801",
+    "total_figures": 92,
+    "ct_candidates": 5,
+    "scans": 11
+  },
+  {
+    "nda": "NDA212950",
+    "total_figures": 97,
+    "ct_candidates": 6,
+    "scans": 42
+  },
+  {
+    "nda": "NDA212994",
+    "total_figures": 52,
+    "ct_candidates": 1,
+    "scans": 21
+  },
+  {
+    "nda": "NDA213004",
+    "total_figures": 39,
+    "ct_candidates": 3,
+    "scans": 34
+  },
+  {
+    "nda": "NDA213006",
+    "total_figures": 98,
+    "ct_candidates": 26,
+    "scans": 19
+  },
+  {
+    "nda": "NDA213388",
+    "total_figures": 95,
+    "ct_candidates": 5,
+    "scans": 15
+  },
+  {
+    "nda": "NDA213400",
+    "total_figures": 61,
+    "ct_candidates": 0,
+    "scans": 19
+  },
+  {
+    "nda": "NDA213716",
+    "total_figures": 146,
+    "ct_candidates": 6,
+    "scans": 42
+  },
+  {
+    "nda": "NDA213721",
+    "total_figures": 82,
+    "ct_candidates": 0,
+    "scans": 68
+  },
+  {
+    "nda": "NDA213736",
+    "total_figures": 39,
+    "ct_candidates": 0,
+    "scans": 11
+  },
+  {
+    "nda": "NDA213756",
+    "total_figures": 61,
+    "ct_candidates": 3,
+    "scans": 11
+  },
+  {
+    "nda": "NDA214012",
+    "total_figures": 80,
+    "ct_candidates": 1,
+    "scans": 5
+  },
+  {
+    "nda": "NDA214154",
+    "total_figures": 73,
+    "ct_candidates": 4,
+    "scans": 25
+  },
+  {
+    "nda": "NDA214187",
+    "total_figures": 27,
+    "ct_candidates": 0,
+    "scans": 17
+  },
+  {
+    "nda": "NDA214581",
+    "total_figures": 16,
+    "ct_candidates": 0,
+    "scans": 14
+  },
+  {
+    "nda": "NDA214621",
+    "total_figures": 26,
+    "ct_candidates": 1,
+    "scans": 12
+  },
+  {
+    "nda": "NDA214622",
+    "total_figures": 86,
+    "ct_candidates": 0,
+    "scans": 11
+  },
+  {
+    "nda": "NDA214985",
+    "total_figures": 184,
+    "ct_candidates": 12,
+    "scans": 74
+  },
+  {
+    "nda": "NDA214998",
+    "total_figures": 48,
+    "ct_candidates": 1,
+    "scans": 15
+  },
+  {
+    "nda": "NDA215019",
+    "total_figures": 10,
+    "ct_candidates": 1,
+    "scans": 4
+  },
+  {
+    "nda": "NDA215413",
+    "total_figures": 8,
+    "ct_candidates": 0,
+    "scans": 7
+  },
+  {
+    "nda": "NDA215422",
+    "total_figures": 4,
+    "ct_candidates": 0,
+    "scans": 2
+  },
+  {
+    "nda": "NDA215423",
+    "total_figures": 30,
+    "ct_candidates": 0,
+    "scans": 11
+  },
+  {
+    "nda": "NDA215428",
+    "total_figures": 12,
+    "ct_candidates": 0,
+    "scans": 6
+  },
+  {
+    "nda": "NDA215430",
+    "total_figures": 95,
+    "ct_candidates": 6,
+    "scans": 54
+  },
+  {
+    "nda": "NDA215431",
+    "total_figures": 11,
+    "ct_candidates": 1,
+    "scans": 2
+  },
+  {
+    "nda": "NDA215446",
+    "total_figures": 12,
+    "ct_candidates": 4,
+    "scans": 1
+  },
+  {
+    "nda": "NDA215830",
+    "total_figures": 122,
+    "ct_candidates": 0,
+    "scans": 44
+  },
+  {
+    "nda": "NDA215859",
+    "total_figures": 116,
+    "ct_candidates": 17,
+    "scans": 28
+  },
+  {
+    "nda": "NDA215888",
+    "total_figures": 92,
+    "ct_candidates": 8,
+    "scans": 59
+  },
+  {
+    "nda": "NDA215904",
+    "total_figures": 15,
+    "ct_candidates": 0,
+    "scans": 4
+  },
+  {
+    "nda": "NDA216285",
+    "total_figures": 13,
+    "ct_candidates": 0,
+    "scans": 6
+  },
+  {
+    "nda": "NDA216340",
+    "total_figures": 48,
+    "ct_candidates": 5,
+    "scans": 30
+  },
+  {
+    "nda": "NDA216686",
+    "total_figures": 7,
+    "ct_candidates": 0,
+    "scans": 7
+  },
+  {
+    "nda": "NDA216718",
+    "total_figures": 26,
+    "ct_candidates": 3,
+    "scans": 19
+  },
+  {
+    "nda": "NDA216743",
+    "total_figures": 8,
+    "ct_candidates": 0,
+    "scans": 7
+  },
+  {
+    "nda": "NDA216755",
+    "total_figures": 35,
+    "ct_candidates": 0,
+    "scans": 32
+  },
+  {
+    "nda": "NDA217150",
+    "total_figures": 0,
+    "ct_candidates": 0,
+    "scans": 0
+  },
+  {
+    "nda": "NDA217186",
+    "total_figures": 38,
+    "ct_candidates": 5,
+    "scans": 16
+  },
+  {
+    "nda": "NDA217188",
+    "total_figures": 140,
+    "ct_candidates": 7,
+    "scans": 42
+  },
+  {
+    "nda": "NDA217202",
+    "total_figures": 21,
+    "ct_candidates": 0,
+    "scans": 9
+  },
+  {
+    "nda": "NDA217604",
+    "total_figures": 8,
+    "ct_candidates": 1,
+    "scans": 5
+  },
+  {
+    "nda": "NDA217639",
+    "total_figures": 69,
+    "ct_candidates": 13,
+    "scans": 7
+  },
+  {
+    "nda": "NDA217645",
+    "total_figures": 26,
+    "ct_candidates": 1,
+    "scans": 13
+  },
+  {
+    "nda": "NDA217651",
+    "total_figures": 6,
+    "ct_candidates": 0,
+    "scans": 3
+  },
+  {
+    "nda": "NDA217806",
+    "total_figures": 31,
+    "ct_candidates": 0,
+    "scans": 17
+  },
+  {
+    "nda": "NDA218037",
+    "total_figures": 102,
+    "ct_candidates": 9,
+    "scans": 48
+  },
+  {
+    "nda": "NDA218038",
+    "total_figures": 6,
+    "ct_candidates": 0,
+    "scans": 4
+  },
+  {
+    "nda": "NDA218527",
+    "total_figures": 11,
+    "ct_candidates": 2,
+    "scans": 1
+  },
+  {
+    "nda": "NDA218549",
+    "total_figures": 14,
+    "ct_candidates": 4,
+    "scans": 1
+  },
+  {
+    "nda": "NDA218550",
+    "total_figures": 72,
+    "ct_candidates": 5,
+    "scans": 51
+  },
+  {
+    "nda": "NDA218590",
+    "total_figures": 30,
+    "ct_candidates": 0,
+    "scans": 12
+  },
+  {
+    "nda": "NDA219070",
+    "total_figures": 170,
+    "ct_candidates": 19,
+    "scans": 62
+  },
+  {
+    "nda": "NDA219083",
+    "total_figures": 144,
+    "ct_candidates": 16,
+    "scans": 61
+  },
+  {
+    "nda": "NDA219097",
+    "total_figures": 2,
+    "ct_candidates": 0,
+    "scans": 0
+  },
+  {
+    "nda": "NDA219122",
+    "total_figures": 5,
+    "ct_candidates": 2,
+    "scans": 0
+  },
+  {
+    "nda": "NDA219132",
+    "total_figures": 89,
+    "ct_candidates": 1,
+    "scans": 56
+  },
+  {
+    "nda": "NDA219141",
+    "total_figures": 7,
+    "ct_candidates": 1,
+    "scans": 6
+  },
+  {
+    "nda": "NDA219776",
+    "total_figures": 42,
+    "ct_candidates": 4,
+    "scans": 30
+  },
+  {
+    "nda": "NDA219792",
+    "total_figures": 87,
+    "ct_candidates": 12,
+    "scans": 18
+  },
+  {
+    "nda": "NDA219839",
+    "total_figures": 60,
+    "ct_candidates": 0,
+    "scans": 20
+  },
+  {
+    "nda": "NDA219840",
+    "total_figures": 2,
+    "ct_candidates": 0,
+    "scans": 2
+  },
+  {
+    "nda": "NDA219847",
+    "total_figures": 13,
+    "ct_candidates": 0,
+    "scans": 10
+  },
+  {
+    "nda": "NDA219876",
+    "total_figures": 88,
+    "ct_candidates": 0,
+    "scans": 86
+  }
+]
