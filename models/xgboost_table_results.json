@@ -1,0 +1,10 @@
+{
+  "method": "table_extracted_pk",
+  "n_entries": 616,
+  "n_drugs": 151,
+  "cmax_dose_aafe": 4.682,
+  "within_2fold_pct": 33.1,
+  "within_3fold_pct": 48.9,
+  "model": "XGBoost (Morgan FP 2048 + log10_dose)",
+  "cv": "5-fold drug-level GroupKFold"
+}
