@@ -1,0 +1,26 @@
+{
+  "morgan_only": {
+    "cv": 3.098,
+    "ho": 3.819
+  },
+  "morgan_physchem": {
+    "cv": 3.091,
+    "ho": 3.8
+  },
+  "morgan4096_physchem": {
+    "cv": 3.07,
+    "ho": 3.671
+  },
+  "morgan_physchem_cs05": {
+    "cv": 3.075,
+    "ho": 3.831
+  },
+  "lgb_morgan_physchem": {
+    "cv": 3.096,
+    "ho": 3.834
+  },
+  "ensemble_xgb_lgb": {
+    "cv": 3.083,
+    "ho": 3.814
+  }
+}

@@ -1,0 +1,1402 @@
+[
+  {
+    "nda": "022342",
+    "year": 2009,
+    "route": "ORAL",
+    "brand": "STAVUDINE; LAMIVUDINE; NEVIRAPINE",
+    "ingredient": "STAVUDINE"
+  },
+  {
+    "nda": "021974",
+    "year": 2007,
+    "route": "ORAL",
+    "brand": "LAMIVUDINE; STAVUDINE",
+    "ingredient": "LAMIVUDINE"
+  },
+  {
+    "nda": "205649",
+    "year": 2014,
+    "route": "ORAL",
+    "brand": "XIGDUO XR",
+    "ingredient": "DAPAGLIFLOZIN"
+  },
+  {
+    "nda": "203697",
+    "year": 2013,
+    "route": "ORAL",
+    "brand": "VAZALORE",
+    "ingredient": "ASPIRIN"
+  },
+  {
+    "nda": "203312",
+    "year": 2015,
+    "route": "ORAL",
+    "brand": "RYTARY",
+    "ingredient": "CARBIDOPA"
+  },
+  {
+    "nda": "210450",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "ORILISSA",
+    "ingredient": "ELAGOLIX SODIUM"
+  },
+  {
+    "nda": "212516",
+    "year": 2019,
+    "route": "ORAL",
+    "brand": "DRIZALMA SPRINKLE",
+    "ingredient": "DULOXETINE HYDROCHLORIDE"
+  },
+  {
+    "nda": "217514",
+    "year": 2023,
+    "route": "ORAL",
+    "brand": "TAFINLAR",
+    "ingredient": "DABRAFENIB MESYLATE"
+  },
+  {
+    "nda": "022343",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "EFAVIRENZ, LAMIVUDINE AND TENOFOVIR DISOPROXIL FUMARATE",
+    "ingredient": "EFAVIRENZ"
+  },
+  {
+    "nda": "021976",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "PREZISTA",
+    "ingredient": "DARUNAVIR"
+  },
+  {
+    "nda": "208341",
+    "year": 2016,
+    "route": "ORAL",
+    "brand": "EPCLUSA",
+    "ingredient": "SOFOSBUVIR"
+  },
+  {
+    "nda": "214900",
+    "year": 2021,
+    "route": "ORAL",
+    "brand": "BREXAFEMME",
+    "ingredient": "IBREXAFUNGERP CITRATE"
+  },
+  {
+    "nda": "207975",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "VANTRELA ER",
+    "ingredient": "HYDROCODONE BITARTRATE"
+  },
+  {
+    "nda": "204061",
+    "year": 2013,
+    "route": "ORAL",
+    "brand": "QUARTETTE",
+    "ingredient": "ETHINYL ESTRADIOL"
+  },
+  {
+    "nda": "210787",
+    "year": 2019,
+    "route": "ORAL",
+    "brand": "DOLUTEGRAVIR; LAMIVUDINE; TENOFOVIR DISOPROXIL FUMARATE",
+    "ingredient": "DOLUTEGRAVIR"
+  },
+  {
+    "nda": "215344",
+    "year": 2023,
+    "route": "ORAL",
+    "brand": "SUFLAVE",
+    "ingredient": "MAGNESIUM SULFATE"
+  },
+  {
+    "nda": "022344",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "LAMIVUDINE AND TENOFOVIR DISOPROXIL FUMARATE",
+    "ingredient": "LAMIVUDINE"
+  },
+  {
+    "nda": "021977",
+    "year": 2007,
+    "route": "ORAL",
+    "brand": "VYVANSE",
+    "ingredient": "LISDEXAMFETAMINE DIMESYLATE"
+  },
+  {
+    "nda": "204819",
+    "year": 2013,
+    "route": "ORAL",
+    "brand": "ADEMPAS",
+    "ingredient": "RIOCIGUAT"
+  },
+  {
+    "nda": "209777",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "ROXYBOND",
+    "ingredient": "OXYCODONE HYDROCHLORIDE"
+  },
+  {
+    "nda": "212895",
+    "year": 2019,
+    "route": "ORAL",
+    "brand": "CONJUPRI",
+    "ingredient": "LEVAMLODIPINE MALEATE"
+  },
+  {
+    "nda": "022345",
+    "year": 2011,
+    "route": "ORAL",
+    "brand": "POTIGA",
+    "ingredient": "EZOGABINE"
+  },
+  {
+    "nda": "204820",
+    "year": 2014,
+    "route": "ORAL",
+    "brand": "MITIGARE",
+    "ingredient": "COLCHICINE"
+  },
+  {
+    "nda": "204063",
+    "year": 2013,
+    "route": "ORAL",
+    "brand": "TECFIDERA",
+    "ingredient": "DIMETHYL FUMARATE"
+  },
+  {
+    "nda": "212526",
+    "year": 2019,
+    "route": "ORAL",
+    "brand": "PIQRAY",
+    "ingredient": "ALPELISIB"
+  },
+  {
+    "nda": "215760",
+    "year": 2022,
+    "route": "ORAL",
+    "brand": "CUVRIOR",
+    "ingredient": "TRIENTINE TETRAHYDROCHLORIDE"
+  },
+  {
+    "nda": "022346",
+    "year": 2009,
+    "route": "ORAL",
+    "brand": "STAVUDINE; LAMIVUDINE; NEVIRAPINE",
+    "ingredient": "STAVUDINE"
+  },
+  {
+    "nda": "210455",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "SYMTUZA",
+    "ingredient": "COBICISTAT"
+  },
+  {
+    "nda": "218436",
+    "year": 2025,
+    "route": "ORAL",
+    "brand": "RHAPSIDO",
+    "ingredient": "REMIBRUTINIB"
+  },
+  {
+    "nda": "022347",
+    "year": 2009,
+    "route": "ORAL",
+    "brand": "STAVUDINE; LAMIVUDINE",
+    "ingredient": "STAVUDINE"
+  },
+  {
+    "nda": "208351",
+    "year": 2016,
+    "route": "ORAL",
+    "brand": "ODEFSEY",
+    "ingredient": "EMTRICITABINE"
+  },
+  {
+    "nda": "207981",
+    "year": 2015,
+    "route": "ORAL",
+    "brand": "LONSURF",
+    "ingredient": "TIPIRACIL HYDROCHLORIDE"
+  },
+  {
+    "nda": "210793",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "NUPLAZID",
+    "ingredient": "PIMAVANSERIN TARTRATE"
+  },
+  {
+    "nda": "020427",
+    "year": 2009,
+    "route": "ORAL",
+    "brand": "SABRIL",
+    "ingredient": "VIGABATRIN"
+  },
+  {
+    "nda": "216203",
+    "year": 2023,
+    "route": "ORAL",
+    "brand": "INPEFA",
+    "ingredient": "SOTAGLIFLOZIN"
+  },
+  {
+    "nda": "217927",
+    "year": 2023,
+    "route": "ORAL",
+    "brand": "COXANTO",
+    "ingredient": "OXAPROZIN"
+  },
+  {
+    "nda": "021985",
+    "year": 2007,
+    "route": "ORAL",
+    "brand": "TEKTURNA",
+    "ingredient": "ALISKIREN HEMIFUMARATE"
+  },
+  {
+    "nda": "202245",
+    "year": 2011,
+    "route": "ORAL",
+    "brand": "CODEINE SULFATE",
+    "ingredient": "CODEINE SULFATE"
+  },
+  {
+    "nda": "218980",
+    "year": 2025,
+    "route": "ORAL",
+    "brand": "KHINDIVI",
+    "ingredient": "HYDROCORTISONE"
+  },
+  {
+    "nda": "021986",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "SPRYCEL",
+    "ingredient": "DASATINIB"
+  },
+  {
+    "nda": "022350",
+    "year": 2009,
+    "route": "ORAL",
+    "brand": "ONGLYZA",
+    "ingredient": "SAXAGLIPTIN HYDROCHLORIDE"
+  },
+  {
+    "nda": "208711",
+    "year": 2019,
+    "route": "ORAL",
+    "brand": "EGATEN",
+    "ingredient": "TRICLABENDAZOLE"
+  },
+  {
+    "nda": "210795",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "KRINTAFEL",
+    "ingredient": "TAFENOQUINE SUCCINATE"
+  },
+  {
+    "nda": "021988",
+    "year": 2007,
+    "route": "ORAL",
+    "brand": "Lamivudine/Zidovudine 150 mg/300 mg Tablets Co-packaged with Nevirapine 200 mg Tablets",
+    "ingredient": "LAMIVUDINE"
+  },
+  {
+    "nda": "022351",
+    "year": 2009,
+    "route": "ORAL",
+    "brand": "COLCRYS",
+    "ingredient": "COLCHICINE"
+  },
+  {
+    "nda": "208712",
+    "year": 2022,
+    "route": "ORAL",
+    "brand": "VONJO",
+    "ingredient": "PACRITINIB CITRATE"
+  },
+  {
+    "nda": "207202",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "ABILIFY MYCITE KIT",
+    "ingredient": "ARIPIPRAZOLE"
+  },
+  {
+    "nda": "200153",
+    "year": 2013,
+    "route": "ORAL",
+    "brand": "LIPTRUZET",
+    "ingredient": "ATORVASTATIN CALCIUM"
+  },
+  {
+    "nda": "212904",
+    "year": 2021,
+    "route": "ORAL",
+    "brand": "FOTIVDA",
+    "ingredient": "TIVOZANIB HYDROCHLORIDE"
+  },
+  {
+    "nda": "219616",
+    "year": 2025,
+    "route": "ORAL",
+    "brand": "AVMAPKI FAKZYNJA CO-PACK (COPACKAGED)",
+    "ingredient": "AVUTOMETINIB POTASSIUM"
+  },
+  {
+    "nda": "021990",
+    "year": 2007,
+    "route": "ORAL",
+    "brand": "EXFORGE",
+    "ingredient": "AMLODIPINE BESYLATE"
+  },
+  {
+    "nda": "022352",
+    "year": 2009,
+    "route": "ORAL",
+    "brand": "COLCRYS",
+    "ingredient": "COLCHICINE"
+  },
+  {
+    "nda": "210115",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "PROGRAF",
+    "ingredient": "TACROLIMUS"
+  },
+  {
+    "nda": "210796",
+    "year": 2019,
+    "route": "ORAL",
+    "brand": "DOLUTEGRAVIR; LAMIVUDINE; TENOFOVIR DISOPROXIL FUMARATE",
+    "ingredient": "DOLUTEGRAVIR"
+  },
+  {
+    "nda": "214094",
+    "year": 2020,
+    "route": "ORAL",
+    "brand": "ORLADEYO",
+    "ingredient": "BEROTRALSTAT DIHYDROCHLORIDE"
+  },
+  {
+    "nda": "021269",
+    "year": 2005,
+    "route": "ORAL",
+    "brand": "CARDURA XL",
+    "ingredient": "DOXAZOSIN MESYLATE"
+  },
+  {
+    "nda": "021991",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "ZOLINZA",
+    "ingredient": "VORINOSTAT"
+  },
+  {
+    "nda": "022353",
+    "year": 2009,
+    "route": "ORAL",
+    "brand": "COLCRYS",
+    "ingredient": "COLCHICINE"
+  },
+  {
+    "nda": "208716",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "VERZENIO",
+    "ingredient": "ABEMACICLIB"
+  },
+  {
+    "nda": "206843",
+    "year": 2015,
+    "route": "ORAL",
+    "brand": "DAKLINZA",
+    "ingredient": "DACLATASVIR DIHYDROCHLORIDE"
+  },
+  {
+    "nda": "202589",
+    "year": 2012,
+    "route": "ORAL",
+    "brand": "LAMIVUDINE; NEVIRAPINE; ZIDOVUDINE",
+    "ingredient": "LAMIVUDINE"
+  },
+  {
+    "nda": "215358",
+    "year": 2021,
+    "route": "ORAL",
+    "brand": "SCEMBLIX",
+    "ingredient": "ASCIMINIB HYDROCHLORIDE"
+  },
+  {
+    "nda": "021605",
+    "year": 2005,
+    "route": "ORAL",
+    "brand": "CLARINEX D 24 HOUR",
+    "ingredient": "DESLORATADINE"
+  },
+  {
+    "nda": "021992",
+    "year": 2008,
+    "route": "ORAL",
+    "brand": "PRISTIQ",
+    "ingredient": "DESVENLAFAXINE SUCCINATE"
+  },
+  {
+    "nda": "022356",
+    "year": 2009,
+    "route": "ORAL",
+    "brand": "LAMIVUDINE, ZIDOVUDINE TABS 150MG/300MG CO-PACKAGED WITH NEVIRAPINE TABS 200MG",
+    "ingredient": "LAMIVUDINE"
+  },
+  {
+    "nda": "050786",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "PYLERA",
+    "ingredient": "BISMUTH SUBCITRATE POTASSIUM"
+  },
+  {
+    "nda": "207988",
+    "year": 2015,
+    "route": "ORAL",
+    "brand": "ZURAMPIC",
+    "ingredient": "LESINURAD"
+  },
+  {
+    "nda": "209080",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "TIGLUTIK KIT",
+    "ingredient": "RILUZOLE"
+  },
+  {
+    "nda": "214096",
+    "year": 2021,
+    "route": "ORAL",
+    "brand": "TEPMETKO",
+    "ingredient": "TEPOTINIB HYDROCHLORIDE"
+  },
+  {
+    "nda": "021606",
+    "year": 2005,
+    "route": "ORAL",
+    "brand": "ZEMPLAR",
+    "ingredient": "PARICALCITOL"
+  },
+  {
+    "nda": "217070",
+    "year": 2023,
+    "route": "ORAL",
+    "brand": "ABACAVIR; DOLUTEGRAVIR; LAMIVUDINE",
+    "ingredient": "ABACAVIR"
+  },
+  {
+    "nda": "021993",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "CLARITIN REDITABS",
+    "ingredient": "LORATADINE"
+  },
+  {
+    "nda": "022360",
+    "year": 2009,
+    "route": "ORAL",
+    "brand": "NICORETTE",
+    "ingredient": "NICOTINE POLACRILEX"
+  },
+  {
+    "nda": "201803",
+    "year": 2012,
+    "route": "ORAL",
+    "brand": "ADVIL",
+    "ingredient": "IBUPROFEN SODIUM"
+  },
+  {
+    "nda": "021610",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "OPANA ER",
+    "ingredient": "OXYMORPHONE HYDROCHLORIDE"
+  },
+  {
+    "nda": "022362",
+    "year": 2009,
+    "route": "ORAL",
+    "brand": "WELCHOL",
+    "ingredient": "COLESEVELAM HYDROCHLORIDE"
+  },
+  {
+    "nda": "021611",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "OPANA",
+    "ingredient": "OXYMORPHONE HYDROCHLORIDE"
+  },
+  {
+    "nda": "021995",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "JANUVIA",
+    "ingredient": "SITAGLIPTIN PHOSPHATE"
+  },
+  {
+    "nda": "022363",
+    "year": 2009,
+    "route": "ORAL",
+    "brand": "LIVALO",
+    "ingredient": "PITAVASTATIN CALCIUM"
+  },
+  {
+    "nda": "202258",
+    "year": 2011,
+    "route": "ORAL",
+    "brand": "VICTRELIS",
+    "ingredient": "BOCEPREVIR"
+  },
+  {
+    "nda": "210806",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "PIFELTRO",
+    "ingredient": "DORAVIRINE"
+  },
+  {
+    "nda": "211150",
+    "year": 2020,
+    "route": "ORAL",
+    "brand": "WAKIX",
+    "ingredient": "PITOLISANT HYDROCHLORIDE"
+  },
+  {
+    "nda": "021612",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "LIPOFEN",
+    "ingredient": "FENOFIBRATE"
+  },
+  {
+    "nda": "205677",
+    "year": 2014,
+    "route": "ORAL",
+    "brand": "HETLIOZ",
+    "ingredient": "TASIMELTEON"
+  },
+  {
+    "nda": "210807",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "DELSTRIGO",
+    "ingredient": "DORAVIRINE"
+  },
+  {
+    "nda": "021615",
+    "year": 2005,
+    "route": "ORAL",
+    "brand": "RAZADYNE ER",
+    "ingredient": "GALANTAMINE HYDROBROMIDE"
+  },
+  {
+    "nda": "207997",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "RYDAPT",
+    "ingredient": "MIDOSTAURIN"
+  },
+  {
+    "nda": "209449",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "HARLIKU",
+    "ingredient": "NITISINONE"
+  },
+  {
+    "nda": "211155",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "COPIKTRA",
+    "ingredient": "DUVELISIB"
+  },
+  {
+    "nda": "214927",
+    "year": 2024,
+    "route": "ORAL",
+    "brand": "MIPLYFFA",
+    "ingredient": "ARIMOCLOMOL CITRATE"
+  },
+  {
+    "nda": "021998",
+    "year": 2009,
+    "route": "ORAL",
+    "brand": "PLAN B ONE-STEP",
+    "ingredient": "LEVONORGESTREL"
+  },
+  {
+    "nda": "022370",
+    "year": 2010,
+    "route": "ORAL",
+    "brand": "CONZIP",
+    "ingredient": "TRAMADOL HYDROCHLORIDE"
+  },
+  {
+    "nda": "050795",
+    "year": 2005,
+    "route": "ORAL",
+    "brand": "DORYX MPC",
+    "ingredient": "DOXYCYCLINE HYCLATE"
+  },
+  {
+    "nda": "207999",
+    "year": 2016,
+    "route": "ORAL",
+    "brand": "OCALIVA",
+    "ingredient": "OBETICHOLIC ACID"
+  },
+  {
+    "nda": "206439",
+    "year": 2014,
+    "route": "ORAL",
+    "brand": "NAMZARIC",
+    "ingredient": "DONEPEZIL HYDROCHLORIDE"
+  },
+  {
+    "nda": "209089",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "XYZAL ALLERGY 24HR",
+    "ingredient": "LEVOCETIRIZINE DIHYDROCHLORIDE"
+  },
+  {
+    "nda": "203340",
+    "year": 2013,
+    "route": "ORAL",
+    "brand": "NYMALIZE",
+    "ingredient": "NIMODIPINE"
+  },
+  {
+    "nda": "213674",
+    "year": 2020,
+    "route": "ORAL",
+    "brand": "XTANDI",
+    "ingredient": "ENZALUTAMIDE"
+  },
+  {
+    "nda": "219008",
+    "year": 2024,
+    "route": "ORAL",
+    "brand": "LAZCLUZE",
+    "ingredient": "LAZERTINIB MESYLATE"
+  },
+  {
+    "nda": "219660",
+    "year": 2025,
+    "route": "ORAL",
+    "brand": "Ruxolitinib",
+    "ingredient": "Ruxolitinib"
+  },
+  {
+    "nda": "021999",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "INVEGA",
+    "ingredient": "PALIPERIDONE"
+  },
+  {
+    "nda": "209090",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "XYZAL ALLERGY 24HR",
+    "ingredient": "LEVOCETIRIZINE DIHYDROCHLORIDE"
+  },
+  {
+    "nda": "203341",
+    "year": 2012,
+    "route": "ORAL",
+    "brand": "BOSULIF",
+    "ingredient": "BOSUTINIB MONOHYDRATE"
+  },
+  {
+    "nda": "214517",
+    "year": 2020,
+    "route": "ORAL",
+    "brand": "HETLIOZ LQ",
+    "ingredient": "TASIMELTEON"
+  },
+  {
+    "nda": "022000",
+    "year": 2007,
+    "route": "ORAL",
+    "brand": "LIALDA",
+    "ingredient": "MESALAMINE"
+  },
+  {
+    "nda": "022372",
+    "year": 2010,
+    "route": "ORAL",
+    "brand": "SUPREP BOWEL PREP KIT",
+    "ingredient": "MAGNESIUM SULFATE"
+  },
+  {
+    "nda": "207223",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "DIACOMIT",
+    "ingredient": "STIRIPENTOL"
+  },
+  {
+    "nda": "209091",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "QTERN",
+    "ingredient": "DAPAGLIFLOZIN"
+  },
+  {
+    "nda": "218466",
+    "year": 2024,
+    "route": "ORAL",
+    "brand": "VIJOICE",
+    "ingredient": "ALPELISIB"
+  },
+  {
+    "nda": "022001",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "ACTIVELLA",
+    "ingredient": "ESTRADIOL"
+  },
+  {
+    "nda": "050797",
+    "year": 2005,
+    "route": "ORAL",
+    "brand": "ZMAX",
+    "ingredient": "AZITHROMYCIN"
+  },
+  {
+    "nda": "208379",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "ZYPITAMAG",
+    "ingredient": "PITAVASTATIN MAGNESIUM"
+  },
+  {
+    "nda": "206038",
+    "year": 2015,
+    "route": "ORAL",
+    "brand": "ORKAMBI",
+    "ingredient": "IVACAFTOR"
+  },
+  {
+    "nda": "209092",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "KISQALI",
+    "ingredient": "RIBOCICLIB SUCCINATE"
+  },
+  {
+    "nda": "210132",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "BIJUVA",
+    "ingredient": "ESTRADIOL"
+  },
+  {
+    "nda": "219666",
+    "year": 2025,
+    "route": "ORAL",
+    "brand": "SEPHIENCE",
+    "ingredient": "SEPIAPTERIN"
+  },
+  {
+    "nda": "022003",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "NOXAFIL",
+    "ingredient": "POSACONAZOLE"
+  },
+  {
+    "nda": "204096",
+    "year": 2013,
+    "route": "ORAL",
+    "brand": "ASTAGRAF XL",
+    "ingredient": "TACROLIMUS"
+  },
+  {
+    "nda": "206040",
+    "year": 2014,
+    "route": "ORAL",
+    "brand": "LAMIVUDINE; ZIDOVUDINE; EFAVIRENZ",
+    "ingredient": "LAMIVUDINE"
+  },
+  {
+    "nda": "214522",
+    "year": 2022,
+    "route": "ORAL",
+    "brand": "TADLIQ",
+    "ingredient": "TADALAFIL"
+  },
+  {
+    "nda": "219015",
+    "year": 2024,
+    "route": "ORAL",
+    "brand": "EMROSI",
+    "ingredient": "MINOCYCLINE HYDROCHLORIDE"
+  },
+  {
+    "nda": "208383",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "BEVYXXA",
+    "ingredient": "BETRIXABAN"
+  },
+  {
+    "nda": "206041",
+    "year": 2014,
+    "route": "ORAL",
+    "brand": "ATAZANAVIR SULFATE;RITONAVIR;LAMIVUDINE;ZIDOVUDINE",
+    "ingredient": "ATAZANAVIR SULFATE"
+  },
+  {
+    "nda": "202270",
+    "year": 2012,
+    "route": "ORAL",
+    "brand": "JANUMET XR",
+    "ingredient": "METFORMIN HYDROCHLORIDE"
+  },
+  {
+    "nda": "213687",
+    "year": 2020,
+    "route": "ORAL",
+    "brand": "DOJOLVI",
+    "ingredient": "TRIHEPTANOIN"
+  },
+  {
+    "nda": "219016",
+    "year": 2024,
+    "route": "ORAL",
+    "brand": "EDURANT PED",
+    "ingredient": "RILPIVIRINE HYDROCHLORIDE"
+  },
+  {
+    "nda": "022006",
+    "year": 2009,
+    "route": "ORAL",
+    "brand": "SABRIL",
+    "ingredient": "VIGABATRIN"
+  },
+  {
+    "nda": "022386",
+    "year": 2008,
+    "route": "ORAL",
+    "brand": "PRANDIMET",
+    "ingredient": "METFORMIN HYDROCHLORIDE"
+  },
+  {
+    "nda": "208745",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "TRULANCE",
+    "ingredient": "PLECANATIDE"
+  },
+  {
+    "nda": "209803",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "STEGLATRO",
+    "ingredient": "ERTUGLIFLOZIN"
+  },
+  {
+    "nda": "210491",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "SYMDEKO (COPACKAGED)",
+    "ingredient": "IVACAFTOR"
+  },
+  {
+    "nda": "021627",
+    "year": 2005,
+    "route": "ORAL",
+    "brand": "NAMENDA",
+    "ingredient": "MEMANTINE HYDROCHLORIDE"
+  },
+  {
+    "nda": "050805",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "ORACEA",
+    "ingredient": "DOXYCYCLINE"
+  },
+  {
+    "nda": "200175",
+    "year": 2010,
+    "route": "ORAL",
+    "brand": "TRIBENZOR",
+    "ingredient": "AMLODIPINE BESYLATE"
+  },
+  {
+    "nda": "209805",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "STEGLUJAN",
+    "ingredient": "ERTUGLIFLOZIN"
+  },
+  {
+    "nda": "211843",
+    "year": 2019,
+    "route": "ORAL",
+    "brand": "THIOLA EC",
+    "ingredient": "TIOPRONIN"
+  },
+  {
+    "nda": "216655",
+    "year": 2024,
+    "route": "ORAL",
+    "brand": "OPIPZA",
+    "ingredient": "ARIPIPRAZOLE"
+  },
+  {
+    "nda": "022008",
+    "year": 2008,
+    "route": "ORAL",
+    "brand": "REQUIP XL",
+    "ingredient": "ROPINIROLE HYDROCHLORIDE"
+  },
+  {
+    "nda": "204505",
+    "year": 2013,
+    "route": "ORAL",
+    "brand": "LAMIVUDINE; TENOFOVIR DISOPROXIL FUMARATE; NEVIRAPINE",
+    "ingredient": "LAMIVUDINE"
+  },
+  {
+    "nda": "208010",
+    "year": 2016,
+    "route": "ORAL",
+    "brand": "RAYALDEE",
+    "ingredient": "CALCIFEDIOL"
+  },
+  {
+    "nda": "209806",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "SEGLUROMET",
+    "ingredient": "ERTUGLIFLOZIN"
+  },
+  {
+    "nda": "214120",
+    "year": 2020,
+    "route": "ORAL",
+    "brand": "ONUREG",
+    "ingredient": "AZACITIDINE"
+  },
+  {
+    "nda": "215383",
+    "year": 2021,
+    "route": "ORAL",
+    "brand": "WELIREG",
+    "ingredient": "BELZUTIFAN"
+  },
+  {
+    "nda": "050808",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "SOLODYN",
+    "ingredient": "MINOCYCLINE HYDROCHLORIDE"
+  },
+  {
+    "nda": "200179",
+    "year": 2010,
+    "route": "ORAL",
+    "brand": "STAXYN",
+    "ingredient": "VARDENAFIL HYDROCHLORIDE"
+  },
+  {
+    "nda": "202276",
+    "year": 2012,
+    "route": "ORAL",
+    "brand": "STENDRA",
+    "ingredient": "AVANAFIL"
+  },
+  {
+    "nda": "202611",
+    "year": 2012,
+    "route": "ORAL",
+    "brand": "MYRBETRIQ",
+    "ingredient": "MIRABEGRON"
+  },
+  {
+    "nda": "210496",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "BRAFTOVI",
+    "ingredient": "ENCORAFENIB"
+  },
+  {
+    "nda": "214952",
+    "year": 2023,
+    "route": "ORAL",
+    "brand": "LIQREV",
+    "ingredient": "SILDENAFIL CITRATE"
+  },
+  {
+    "nda": "216660",
+    "year": 2022,
+    "route": "ORAL",
+    "brand": "RELYVRIO",
+    "ingredient": "SODIUM PHENYLBUTYRATE"
+  },
+  {
+    "nda": "205266",
+    "year": 2015,
+    "route": "ORAL",
+    "brand": "ODOMZO",
+    "ingredient": "SONIDEGIB PHOSPHATE"
+  },
+  {
+    "nda": "207233",
+    "year": 2015,
+    "route": "ORAL",
+    "brand": "VIVLODEX",
+    "ingredient": "MELOXICAM"
+  },
+  {
+    "nda": "215809",
+    "year": 2022,
+    "route": "ORAL",
+    "brand": "ERMEZA",
+    "ingredient": "LEVOTHYROXINE SODIUM"
+  },
+  {
+    "nda": "219685",
+    "year": 2025,
+    "route": "ORAL",
+    "brand": "WAYRILZ",
+    "ingredient": "RILZABRUTINIB"
+  },
+  {
+    "nda": "022011",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "TYZEKA",
+    "ingredient": "TELBIVUDINE"
+  },
+  {
+    "nda": "208398",
+    "year": 2016,
+    "route": "ORAL",
+    "brand": "VERMOX",
+    "ingredient": "MEBENDAZOLE"
+  },
+  {
+    "nda": "203756",
+    "year": 2012,
+    "route": "ORAL",
+    "brand": "COMETRIQ",
+    "ingredient": "CABOZANTINIB S-MALATE"
+  },
+  {
+    "nda": "218490",
+    "year": 2024,
+    "route": "ORAL",
+    "brand": "OPSYNVI",
+    "ingredient": "MACITENTAN"
+  },
+  {
+    "nda": "022012",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "COREG CR",
+    "ingredient": "CARVEDILOL PHOSPHATE"
+  },
+  {
+    "nda": "022399",
+    "year": 2011,
+    "route": "ORAL",
+    "brand": "HORIZANT",
+    "ingredient": "GABAPENTIN ENACARBIL"
+  },
+  {
+    "nda": "204114",
+    "year": 2013,
+    "route": "ORAL",
+    "brand": "MEKINIST",
+    "ingredient": "TRAMETINIB DIMETHYL SULFOXIDE"
+  },
+  {
+    "nda": "210498",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "MEKTOVI",
+    "ingredient": "BINIMETINIB"
+  },
+  {
+    "nda": "216665",
+    "year": 2025,
+    "route": "ORAL",
+    "brand": "VYKAT XR",
+    "ingredient": "DIAZOXIDE CHOLINE"
+  },
+  {
+    "nda": "217564",
+    "year": 2023,
+    "route": "ORAL",
+    "brand": "FRUZAQLA",
+    "ingredient": "FRUQUINTINIB"
+  },
+  {
+    "nda": "219042",
+    "year": 2025,
+    "route": "ORAL",
+    "brand": "HERNEXEOS",
+    "ingredient": "ZONGERTINIB"
+  },
+  {
+    "nda": "022401",
+    "year": 2009,
+    "route": "ORAL",
+    "brand": "TWYNSTA",
+    "ingredient": "AMLODIPINE BESYLATE"
+  },
+  {
+    "nda": "208400",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "XATMEP",
+    "ingredient": "METHOTREXATE SODIUM"
+  },
+  {
+    "nda": "208019",
+    "year": 2015,
+    "route": "ORAL",
+    "brand": "POKONZA",
+    "ingredient": "POTASSIUM CHLORIDE"
+  },
+  {
+    "nda": "214958",
+    "year": 2022,
+    "route": "ORAL",
+    "brand": "SOTYKTU",
+    "ingredient": "DEUCRAVACITINIB"
+  },
+  {
+    "nda": "215814",
+    "year": 2022,
+    "route": "ORAL",
+    "brand": "REZLIDHIA",
+    "ingredient": "OLUTASIDENIB"
+  },
+  {
+    "nda": "021641",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "AZILECT",
+    "ingredient": "RASAGILINE MESYLATE"
+  },
+  {
+    "nda": "208401",
+    "year": 2016,
+    "route": "ORAL",
+    "brand": "QBRELIS",
+    "ingredient": "LISINOPRIL"
+  },
+  {
+    "nda": "209471",
+    "year": 2023,
+    "route": "ORAL",
+    "brand": "COMBOGESIC",
+    "ingredient": "ACETAMINOPHEN"
+  },
+  {
+    "nda": "020727",
+    "year": 2005,
+    "route": "ORAL",
+    "brand": "BIDIL",
+    "ingredient": "HYDRALAZINE HYDROCHLORIDE"
+  },
+  {
+    "nda": "022402",
+    "year": 2009,
+    "route": "ORAL",
+    "brand": "CODEINE SULFATE",
+    "ingredient": "CODEINE SULFATE"
+  },
+  {
+    "nda": "050813",
+    "year": 2008,
+    "route": "ORAL",
+    "brand": "MOXATAG",
+    "ingredient": "AMOXICILLIN"
+  },
+  {
+    "nda": "212576",
+    "year": 2020,
+    "route": "ORAL",
+    "brand": "INQOVI",
+    "ingredient": "CEDAZURIDINE"
+  },
+  {
+    "nda": "214133",
+    "year": 2021,
+    "route": "ORAL",
+    "brand": "RECORLEV",
+    "ingredient": "LEVOKETOCONAZOLE"
+  },
+  {
+    "nda": "022015",
+    "year": 2006,
+    "route": "ORAL",
+    "brand": "MIRALAX",
+    "ingredient": "POLYETHYLENE GLYCOL 3350"
+  },
+  {
+    "nda": "204119",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "EFAVIRENZ, LAMIVUDINE, AND TENOFOVIR DISOPROXIL FUMARATE",
+    "ingredient": "EFAVIRENZ"
+  },
+  {
+    "nda": "209816",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "NUZYRA",
+    "ingredient": "OMADACYCLINE TOSYLATE"
+  },
+  {
+    "nda": "022405",
+    "year": 2011,
+    "route": "ORAL",
+    "brand": "CAPRELSA",
+    "ingredient": "VANDETANIB"
+  },
+  {
+    "nda": "208025",
+    "year": 2016,
+    "route": "ORAL",
+    "brand": "LANSOPRAZOLE",
+    "ingredient": "LANSOPRAZOLE"
+  },
+  {
+    "nda": "210833",
+    "year": 2018,
+    "route": "ORAL",
+    "brand": "SYMPAZAN",
+    "ingredient": "CLOBAZAM"
+  },
+  {
+    "nda": "211855",
+    "year": 2019,
+    "route": "ORAL",
+    "brand": "VUMERITY",
+    "ingredient": "DIROXIMEL FUMARATE"
+  },
+  {
+    "nda": "219696",
+    "year": 2025,
+    "route": "ORAL",
+    "brand": "DOPTELET SPRINKLE",
+    "ingredient": "AVATROMBOPAG MALEATE"
+  },
+  {
+    "nda": "022018",
+    "year": 2017,
+    "route": "ORAL",
+    "brand": "LAMIVUDINE AND ZIDOVUDINE",
+    "ingredient": "LAMIVUDINE"
+  },
+  {
+    "nda": "022406",
+    "year": 2011,
+    "route": "ORAL",
+    "brand": "XARELTO",
+    "ingredient": "RIVAROXABAN"
+  },
+  {
+    "nda": "208026",
+    "year": 2016,
+    "route": "ORAL",
+    "brand": "JENTADUETO XR",
+    "ingredient": "LINAGLIPTIN"
+  },
+  {
+    "nda": "214962",
+    "year": 2022,
+    "route": "ORAL",
+    "brand": "TASCENSO ODT",
+    "ingredient": "FINGOLIMOD LAURYL SULFATE"
+  },
+  {
+    "nda": "022020",
+    "year": 2007,
+    "route": "ORAL",
+    "brand": "PROTONIX",
+    "ingredient": "PANTOPRAZOLE SODIUM"
+  },
+  {
+    "nda": "214544",
+    "year": 2023,
+    "route": "ORAL",
+    "brand": "DOLUTEGRAVIR; EMTRICITABINE; TENOFOVIR ALAFENAMIDE",
+    "ingredient": "DOLUTEGRAVIR"
+  },
+  {
+    "nda": "217581",
+    "year": 2023,
+    "route": "ORAL",
+    "brand": "XALKORI",
+    "ingredient": "CRIZOTINIB"
+  },
+  {
+    "nda": "022021",
+    "year": 2007,
+    "route": "ORAL",
+    "brand": "ALTACE",
+    "ingredient": "RAMIPRIL"
+  },
+  {
+    "nda": "022024",
+    "year": 2009,
+    "route": "ORAL",
+    "brand": "ACTOPLUS MET XR",
+    "ingredient": "METFORMIN HYDROCHLORIDE"
+  },
+  {
+    "nda": "022411",
+    "year": 2010,
+    "route": "ORAL",
+    "brand": "OLEPTRO",
+    "ingredient": "TRAZODONE HYDROCHLORIDE"
+  },
+  {
+    "nda": "050824",
+    "year": 2011,
+    "route": "ORAL",
+    "brand": "OMECLAMOX-PAK",
+    "ingredient": "AMOXICILLIN"
+  },
+  {
+    "nda": "022416",
+    "year": 2013,
+    "route": "ORAL",
+    "brand": "APTIOM",
+    "ingredient": "ESLICARBAZEPINE ACETATE"
+  },
+  {
+    "nda": "022026",
+    "year": 2007,
+    "route": "ORAL",
+    "brand": "AMLODIPINE BESYLATE",
+    "ingredient": "AMLODIPINE BESYLATE"
+  },
+  {
+    "nda": "022417",
+    "year": 2010,
+    "route": "ORAL",
+    "brand": "NORVIR",
+    "ingredient": "RITONAVIR"
+  }
+]
