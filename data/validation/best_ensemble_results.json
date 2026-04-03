@@ -1,0 +1,13 @@
+{
+  "best_ho": 3.28,
+  "best_combo": [
+    "XGB d6 lr0.01",
+    "LGB d5 lr0.02"
+  ],
+  "best_weights": [
+    0.7,
+    0.3
+  ],
+  "ho_2fold": 38.1,
+  "ho_3fold": 55.7
+}
