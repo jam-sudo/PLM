@@ -1,0 +1,9 @@
+{
+  "method": "micro_pbpk",
+  "cv": 2.828,
+  "ho": 3.337,
+  "cv_2f": 42.2,
+  "ho_2f": 36.1,
+  "micro_importance_pct": 2.6,
+  "n_micro_features": 16
+}
