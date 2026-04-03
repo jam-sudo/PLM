@@ -1,0 +1,14 @@
+{
+  "cv_xgb": 2.701,
+  "cv_lgb": 2.705,
+  "cv_ensemble": 2.693,
+  "ho_xgb": 3.359,
+  "ho_lgb": 3.435,
+  "ho_ensemble": 3.381,
+  "ho_2fold": 36.1,
+  "ho_3fold": 55.7,
+  "blend_weight_xgb": 0.7,
+  "n_features": 4308,
+  "n_train": 3490,
+  "n_holdout": 97
+}
