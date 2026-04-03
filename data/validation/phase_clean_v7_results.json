@@ -1,0 +1,15 @@
+{
+  "version": "v7_aggressive_clean",
+  "n_train": 3490,
+  "n_drugs": 1133,
+  "indomain_cv_aafe": 3.098,
+  "indomain_cv_2fold": 38.7,
+  "indomain_cv_3fold": 58.4,
+  "ood_holdout_aafe": 3.819,
+  "ood_holdout_2fold": 32.0,
+  "cleaning": {
+    "conflict_removed": 68,
+    "extreme_removed": 62,
+    "plm_bias_removed": 11
+  }
+}
