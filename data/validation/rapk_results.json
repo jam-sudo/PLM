@@ -1,0 +1,9 @@
+{
+  "method": "RAPK",
+  "K": 5,
+  "cv_aafe": 3.735,
+  "ho_aafe": 4.546,
+  "cv_2fold": 38.1,
+  "ho_2fold": 27.8,
+  "retrieval_importance_pct": 8.3
+}
