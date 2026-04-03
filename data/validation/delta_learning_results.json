@@ -1,0 +1,9 @@
+{
+  "method": "delta_learning",
+  "cv_direct": 2.748,
+  "cv_delta": 3.514,
+  "ho_direct": 3.288,
+  "ho_delta": 4.004,
+  "ho_delta_2f": 36.1,
+  "delta_variance_ratio": 243.4
+}
