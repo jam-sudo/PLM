@@ -1,9 +1,7 @@
 {
-  "method": "delta_learning",
-  "cv_direct": 2.748,
-  "cv_delta": 3.514,
-  "ho_direct": 3.288,
-  "ho_delta": 4.004,
-  "ho_delta_2f": 36.1,
-  "delta_variance_ratio": 243.4
+  "direct_cv": 2.755,
+  "direct_ho": 3.228,
+  "delta_cv": 3.647,
+  "delta_ho": 4.453,
+  "delta_ho_2fold": 28.9
 }
