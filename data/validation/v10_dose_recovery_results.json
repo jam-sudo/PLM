@@ -1,0 +1,10 @@
+{
+  "n_train": 3549,
+  "n_drugs": 1146,
+  "cv": 2.85,
+  "ho": 3.248,
+  "cv2f": 44.2,
+  "ho2f": 39.2,
+  "dose_recovered": 309,
+  "entries_added": 59
+}

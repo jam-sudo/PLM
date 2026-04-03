@@ -1,0 +1,114 @@
+[
+  {
+    "drug_name": "adefovir",
+    "cmax_ngml": 23.3,
+    "cmax_raw": 23.3,
+    "cmax_unit": "ng/mL",
+    "dose_mg": 10.0,
+    "source": "DailyMed_SPL"
+  },
+  {
+    "drug_name": "adefovir dipivoxil",
+    "cmax_ngml": 23.3,
+    "cmax_raw": 23.3,
+    "cmax_unit": "ng/mL",
+    "dose_mg": 10.0,
+    "source": "DailyMed_SPL"
+  },
+  {
+    "drug_name": "apalutamide",
+    "cmax_ngml": 5900.0,
+    "cmax_raw": 5.9,
+    "cmax_unit": "mcg/mL",
+    "dose_mg": 60.0,
+    "source": "DailyMed_SPL"
+  },
+  {
+    "drug_name": "aprepitant",
+    "cmax_ngml": 1600.0,
+    "cmax_raw": 1.6,
+    "cmax_unit": "mcg/mL",
+    "dose_mg": 40.0,
+    "source": "DailyMed_SPL"
+  },
+  {
+    "drug_name": "aprocitentan",
+    "cmax_ngml": 1300.0,
+    "cmax_raw": 1.3,
+    "cmax_unit": "mcg/mL",
+    "dose_mg": 25.0,
+    "source": "DailyMed_SPL"
+  },
+  {
+    "drug_name": "atazanavir",
+    "cmax_ngml": 3190.0,
+    "cmax_raw": 3190.0,
+    "cmax_unit": "ng/mL",
+    "dose_mg": 400.0,
+    "source": "DailyMed_SPL"
+  },
+  {
+    "drug_name": "azithromycin",
+    "cmax_ngml": 216.0,
+    "cmax_raw": 0.216,
+    "cmax_unit": "mcg/mL",
+    "dose_mg": 500.0,
+    "source": "DailyMed_SPL"
+  },
+  {
+    "drug_name": "berotralstat",
+    "cmax_ngml": 158.0,
+    "cmax_raw": 158.0,
+    "cmax_unit": "ng/mL",
+    "dose_mg": 150.0,
+    "source": "DailyMed_SPL"
+  },
+  {
+    "drug_name": "bosutinib",
+    "cmax_ngml": 127.0,
+    "cmax_raw": 127.0,
+    "cmax_unit": "ng/mL",
+    "dose_mg": 600.0,
+    "source": "DailyMed_SPL"
+  },
+  {
+    "drug_name": "brensocatib",
+    "cmax_ngml": 85.4,
+    "cmax_raw": 85.4,
+    "cmax_unit": "ng/mL",
+    "dose_mg": 240.0,
+    "source": "DailyMed_SPL"
+  },
+  {
+    "drug_name": "cobimetinib",
+    "cmax_ngml": 273.0,
+    "cmax_raw": 273.0,
+    "cmax_unit": "ng/mL",
+    "dose_mg": 60.0,
+    "source": "DailyMed_SPL"
+  },
+  {
+    "drug_name": "colchicine",
+    "cmax_ngml": 3.0,
+    "cmax_raw": 3.0,
+    "cmax_unit": "ng/mL",
+    "dose_mg": 0.6,
+    "source": "DailyMed_SPL"
+  },
+  {
+    "drug_name": "dacomitinib",
+    "cmax_ngml": 108.0,
+    "cmax_raw": 108.0,
+    "cmax_unit": "ng/mL",
+    "dose_mg": 60.0,
+    "source": "DailyMed_SPL"
+  },
+  {
+    "drug_name": "efavirenz",
+    "cmax_ngml": 6570.0,
+    "cmax_raw": 6.57,
+    "cmax_unit": "mcg/mL",
+    "dose_mg": 600.0,
+    "source": "DailyMed_SPL"
+  }
+]
