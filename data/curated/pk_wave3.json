@@ -1,0 +1,4514 @@
+[
+  {
+    "cmax_ngml": 147.89,
+    "page": 23,
+    "nda": "NDA203312",
+    "drug_name": "carbidopa",
+    "smiles": "C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)NN",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 6752.81,
+    "page": 38,
+    "nda": "NDA203312",
+    "drug_name": "carbidopa",
+    "smiles": "C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)NN",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 4.88,
+    "page": 38,
+    "nda": "NDA203312",
+    "drug_name": "carbidopa",
+    "smiles": "C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)NN",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1341.42,
+    "page": 56,
+    "nda": "NDA203312",
+    "drug_name": "carbidopa",
+    "smiles": "C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)NN",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 72.16,
+    "page": 57,
+    "nda": "NDA203312",
+    "drug_name": "carbidopa",
+    "smiles": "C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)NN",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 38.09,
+    "page": 58,
+    "nda": "NDA203312",
+    "drug_name": "carbidopa",
+    "smiles": "C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)NN",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1449.73,
+    "page": 61,
+    "nda": "NDA203312",
+    "drug_name": "carbidopa",
+    "smiles": "C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)NN",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 259.95,
+    "page": 62,
+    "nda": "NDA203312",
+    "drug_name": "carbidopa",
+    "smiles": "C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)NN",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 85.84,
+    "page": 62,
+    "nda": "NDA203312",
+    "drug_name": "carbidopa",
+    "smiles": "C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)NN",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 837.6,
+    "page": 65,
+    "nda": "NDA203312",
+    "drug_name": "carbidopa",
+    "smiles": "C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)NN",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 96.03,
+    "page": 66,
+    "nda": "NDA203312",
+    "drug_name": "carbidopa",
+    "smiles": "C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)NN",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 94.69,
+    "page": 66,
+    "nda": "NDA203312",
+    "drug_name": "carbidopa",
+    "smiles": "C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)NN",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 91.05,
+    "page": 66,
+    "nda": "NDA203312",
+    "drug_name": "carbidopa",
+    "smiles": "C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)NN",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 0.9117,
+    "page": 66,
+    "nda": "NDA203312",
+    "drug_name": "carbidopa",
+    "smiles": "C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)NN",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 774.0,
+    "page": 47,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 18.5,
+    "page": 48,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 774.0,
+    "page": 48,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 0.7,
+    "page": 55,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 800.0,
+    "page": 55,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 2800.0,
+    "page": 55,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 2200.0,
+    "page": 55,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 3.5,
+    "page": 59,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 8.4,
+    "page": 59,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 9.1,
+    "page": 59,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 987.0,
+    "page": 76,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 617.0,
+    "page": 77,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 749.0,
+    "page": 81,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 929.0,
+    "page": 81,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 437.0,
+    "page": 83,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 774.0,
+    "page": 84,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 1.0,
+    "page": 230,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 764.0,
+    "page": 252,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 1140.0,
+    "page": 252,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 5.72,
+    "page": 253,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 11.0,
+    "page": 253,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 13.2,
+    "page": 254,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 16.1,
+    "page": 254,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 987.0,
+    "page": 267,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 617.0,
+    "page": 268,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 774.0,
+    "page": 371,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 4300.0,
+    "page": 374,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 3300.0,
+    "page": 374,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 6710.0,
+    "page": 375,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 3050.0,
+    "page": 375,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 13200.0,
+    "page": 385,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 10000.0,
+    "page": 385,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 4590.0,
+    "page": 393,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 3800.0,
+    "page": 395,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 34600.0,
+    "page": 400,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 2640.0,
+    "page": 400,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 700.0,
+    "page": 423,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 800.0,
+    "page": 423,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 2800.0,
+    "page": 423,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 2200.0,
+    "page": 423,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 3500.0,
+    "page": 435,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 8400.0,
+    "page": 435,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 9100.0,
+    "page": 435,
+    "nda": "NDA210450",
+    "drug_name": "elagolix",
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 3298.09,
+    "page": 2,
+    "nda": "NDA022343",
+    "drug_name": "efavirenz",
+    "smiles": "C1CC1C#C[C@]2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F",
+    "dose_mg": 600.0
+  },
+  {
+    "cmax_ngml": 2603.95,
+    "page": 2,
+    "nda": "NDA022343",
+    "drug_name": "efavirenz",
+    "smiles": "C1CC1C#C[C@]2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F",
+    "dose_mg": 600.0
+  },
+  {
+    "cmax_ngml": 447.07,
+    "page": 2,
+    "nda": "NDA022343",
+    "drug_name": "efavirenz",
+    "smiles": "C1CC1C#C[C@]2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F",
+    "dose_mg": 600.0
+  },
+  {
+    "cmax_ngml": 3298.09,
+    "page": 9,
+    "nda": "NDA022343",
+    "drug_name": "efavirenz",
+    "smiles": "C1CC1C#C[C@]2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F",
+    "dose_mg": 600.0
+  },
+  {
+    "cmax_ngml": 2603.95,
+    "page": 9,
+    "nda": "NDA022343",
+    "drug_name": "efavirenz",
+    "smiles": "C1CC1C#C[C@]2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F",
+    "dose_mg": 600.0
+  },
+  {
+    "cmax_ngml": 447.07,
+    "page": 9,
+    "nda": "NDA022343",
+    "drug_name": "efavirenz",
+    "smiles": "C1CC1C#C[C@]2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F",
+    "dose_mg": 600.0
+  },
+  {
+    "cmax_ngml": 3117.96,
+    "page": 10,
+    "nda": "NDA022343",
+    "drug_name": "efavirenz",
+    "smiles": "C1CC1C#C[C@]2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F",
+    "dose_mg": 600.0
+  },
+  {
+    "cmax_ngml": 2512.0,
+    "page": 10,
+    "nda": "NDA022343",
+    "drug_name": "efavirenz",
+    "smiles": "C1CC1C#C[C@]2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F",
+    "dose_mg": 600.0
+  },
+  {
+    "cmax_ngml": 424.42,
+    "page": 10,
+    "nda": "NDA022343",
+    "drug_name": "efavirenz",
+    "smiles": "C1CC1C#C[C@]2(C3=C(C=CC(=C3)Cl)NC(=O)O2)C(F)(F)F",
+    "dose_mg": 600.0
+  },
+  {
+    "cmax_ngml": 566.0,
+    "page": 18,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 868.0,
+    "page": 18,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 259.0,
+    "page": 18,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 0.5,
+    "page": 25,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 22.4,
+    "page": 46,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 28.3,
+    "page": 46,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 784.7,
+    "page": 47,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 364.3,
+    "page": 47,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 932.27,
+    "page": 48,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 880.28,
+    "page": 48,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 395.6,
+    "page": 48,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1080.97,
+    "page": 48,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1223.0,
+    "page": 65,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 474.0,
+    "page": 65,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1162.0,
+    "page": 65,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 79.0,
+    "page": 65,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 884.0,
+    "page": 70,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 574.0,
+    "page": 70,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1051.0,
+    "page": 70,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 72.0,
+    "page": 70,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 81.22,
+    "page": 83,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 5.7,
+    "page": 83,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1103.43,
+    "page": 83,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1905.21,
+    "page": 83,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 658.3,
+    "page": 84,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 543.3,
+    "page": 84,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 528.8,
+    "page": 84,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 528.8,
+    "page": 84,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 516.34,
+    "page": 87,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 540.58,
+    "page": 87,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 270.88,
+    "page": 87,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1571.5,
+    "page": 90,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 442.3,
+    "page": 90,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 843.9,
+    "page": 90,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1555.2,
+    "page": 99,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1674.7,
+    "page": 99,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1446.5,
+    "page": 99,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1720.9,
+    "page": 99,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 485.1,
+    "page": 100,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 579.7,
+    "page": 100,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 467.5,
+    "page": 100,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 523.3,
+    "page": 100,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1161.3,
+    "page": 101,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 917.1,
+    "page": 101,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 956.5,
+    "page": 101,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 942.2,
+    "page": 101,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 705.3,
+    "page": 102,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 655.0,
+    "page": 102,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 562.2,
+    "page": 102,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 565.4,
+    "page": 102,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 2895.3,
+    "page": 103,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 189.8,
+    "page": 103,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 4839.5,
+    "page": 103,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 2166.3,
+    "page": 104,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1607.1,
+    "page": 104,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 307.6,
+    "page": 104,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1733.0,
+    "page": 105,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1934.8,
+    "page": 105,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 2122.8,
+    "page": 105,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 282.5,
+    "page": 106,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 350.5,
+    "page": 106,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 17.1,
+    "page": 106,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1581.74,
+    "page": 111,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1632.73,
+    "page": 111,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1409.76,
+    "page": 111,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1543.19,
+    "page": 111,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1301.44,
+    "page": 111,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 526.65,
+    "page": 112,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 545.02,
+    "page": 112,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 516.89,
+    "page": 112,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 552.15,
+    "page": 112,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 553.79,
+    "page": 112,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 915.78,
+    "page": 113,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 931.52,
+    "page": 113,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 895.46,
+    "page": 113,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 980.44,
+    "page": 113,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 885.55,
+    "page": 113,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 600.47,
+    "page": 114,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 681.94,
+    "page": 114,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 608.61,
+    "page": 114,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 644.96,
+    "page": 114,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 656.38,
+    "page": 114,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1585.07,
+    "page": 115,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1591.94,
+    "page": 115,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1712.44,
+    "page": 116,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1560.32,
+    "page": 116,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1551.9,
+    "page": 116,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1337.25,
+    "page": 116,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1401.61,
+    "page": 116,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 401.94,
+    "page": 117,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 300.09,
+    "page": 117,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 335.58,
+    "page": 117,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 323.1,
+    "page": 117,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 278.95,
+    "page": 117,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 8907.42,
+    "page": 118,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 662.61,
+    "page": 118,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1508.8,
+    "page": 118,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1707.96,
+    "page": 118,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 5109.73,
+    "page": 119,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 15.0,
+    "page": 119,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1049.56,
+    "page": 119,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1.07,
+    "page": 129,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 0.409,
+    "page": 129,
+    "nda": "NDA208341",
+    "drug_name": "sofosbuvir",
+    "smiles": "C[C@@H](C(=O)OC(C)C)N[P@](=O)(OC[C@@H]1[C@H]([C@@]([C@@H](O1)N2C=CC(=O)NC2=O)(C)F)O)OC3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1723.0,
+    "page": 53,
+    "nda": "NDA214900",
+    "drug_name": "ibrexafungerp citrate",
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 3613.0,
+    "page": 53,
+    "nda": "NDA214900",
+    "drug_name": "ibrexafungerp citrate",
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 4665.0,
+    "page": 53,
+    "nda": "NDA214900",
+    "drug_name": "ibrexafungerp citrate",
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 580.0,
+    "page": 53,
+    "nda": "NDA214900",
+    "drug_name": "ibrexafungerp citrate",
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 1128.0,
+    "page": 54,
+    "nda": "NDA214900",
+    "drug_name": "ibrexafungerp citrate",
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 2746.0,
+    "page": 54,
+    "nda": "NDA214900",
+    "drug_name": "ibrexafungerp citrate",
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 617.0,
+    "page": 54,
+    "nda": "NDA214900",
+    "drug_name": "ibrexafungerp citrate",
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 1100.0,
+    "page": 54,
+    "nda": "NDA214900",
+    "drug_name": "ibrexafungerp citrate",
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 1730.0,
+    "page": 54,
+    "nda": "NDA214900",
+    "drug_name": "ibrexafungerp citrate",
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 2630.0,
+    "page": 54,
+    "nda": "NDA214900",
+    "drug_name": "ibrexafungerp citrate",
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 1580.0,
+    "page": 54,
+    "nda": "NDA214900",
+    "drug_name": "ibrexafungerp citrate",
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 4200.0,
+    "page": 54,
+    "nda": "NDA214900",
+    "drug_name": "ibrexafungerp citrate",
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 8780.0,
+    "page": 54,
+    "nda": "NDA214900",
+    "drug_name": "ibrexafungerp citrate",
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 629.0,
+    "page": 144,
+    "nda": "NDA214900",
+    "drug_name": "ibrexafungerp citrate",
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 287.4,
+    "page": 5,
+    "nda": "NDA209777",
+    "drug_name": "oxycodone",
+    "smiles": "CN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O",
+    "dose_mg": 15.0
+  },
+  {
+    "cmax_ngml": 354.2,
+    "page": 6,
+    "nda": "NDA209777",
+    "drug_name": "oxycodone",
+    "smiles": "CN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O",
+    "dose_mg": 15.0
+  },
+  {
+    "cmax_ngml": 0.9769,
+    "page": 17,
+    "nda": "NDA209777",
+    "drug_name": "oxycodone",
+    "smiles": "CN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O",
+    "dose_mg": 15.0
+  },
+  {
+    "cmax_ngml": 2.5,
+    "page": 20,
+    "nda": "NDA209777",
+    "drug_name": "oxycodone",
+    "smiles": "CN1CC[C@]23[C@@H]4C(=O)CC[C@]2([C@H]1CC5=C3C(=C(C=C5)OC)O4)O",
+    "dose_mg": 15.0
+  },
+  {
+    "cmax_ngml": 266.0,
+    "page": 26,
+    "nda": "NDA022345",
+    "drug_name": "ezogabine",
+    "smiles": "CCOC(=O)NC1=C(C=C(C=C1)NCC2=CC=C(C=C2)F)N",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 282.0,
+    "page": 26,
+    "nda": "NDA022345",
+    "drug_name": "ezogabine",
+    "smiles": "CCOC(=O)NC1=C(C=C(C=C1)NCC2=CC=C(C=C2)F)N",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 282.0,
+    "page": 159,
+    "nda": "NDA022345",
+    "drug_name": "ezogabine",
+    "smiles": "CCOC(=O)NC1=C(C=C(C=C1)NCC2=CC=C(C=C2)F)N",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 50.0,
+    "page": 161,
+    "nda": "NDA022345",
+    "drug_name": "ezogabine",
+    "smiles": "CCOC(=O)NC1=C(C=C(C=C1)NCC2=CC=C(C=C2)F)N",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 77.0,
+    "page": 87,
+    "nda": "NDA204063",
+    "drug_name": "dimethyl",
+    "smiles": "CC",
+    "dose_mg": 120.0
+  },
+  {
+    "cmax_ngml": 25.0,
+    "page": 34,
+    "nda": "NDA218436",
+    "drug_name": "remibrutinib",
+    "smiles": "CC1=C(C=C(C=C1NC(=O)C2=C(C=C(C=C2)C3CC3)F)F)C4=C(C(=NC=N4)N)OCCN(C)C(=O)C=C",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 57.0,
+    "page": 36,
+    "nda": "NDA218436",
+    "drug_name": "remibrutinib",
+    "smiles": "CC1=C(C=C(C=C1NC(=O)C2=C(C=C(C=C2)C3CC3)F)F)C4=C(C(=NC=N4)N)OCCN(C)C(=O)C=C",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 4370.0,
+    "page": 127,
+    "nda": "NDA218436",
+    "drug_name": "remibrutinib",
+    "smiles": "CC1=C(C=C(C=C1NC(=O)C2=C(C=C(C=C2)C3CC3)F)F)C4=C(C(=NC=N4)N)OCCN(C)C(=O)C=C",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 2360.0,
+    "page": 127,
+    "nda": "NDA218436",
+    "drug_name": "remibrutinib",
+    "smiles": "CC1=C(C=C(C=C1NC(=O)C2=C(C=C(C=C2)C3CC3)F)F)C4=C(C(=NC=N4)N)OCCN(C)C(=O)C=C",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 107.0,
+    "page": 171,
+    "nda": "NDA218436",
+    "drug_name": "remibrutinib",
+    "smiles": "CC1=C(C=C(C=C1NC(=O)C2=C(C=C(C=C2)C3CC3)F)F)C4=C(C(=NC=N4)N)OCCN(C)C(=O)C=C",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 117.0,
+    "page": 171,
+    "nda": "NDA218436",
+    "drug_name": "remibrutinib",
+    "smiles": "CC1=C(C=C(C=C1NC(=O)C2=C(C=C(C=C2)C3CC3)F)F)C4=C(C(=NC=N4)N)OCCN(C)C(=O)C=C",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 61.9,
+    "page": 174,
+    "nda": "NDA218436",
+    "drug_name": "remibrutinib",
+    "smiles": "CC1=C(C=C(C=C1NC(=O)C2=C(C=C(C=C2)C3CC3)F)F)C4=C(C(=NC=N4)N)OCCN(C)C(=O)C=C",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 278.0,
+    "page": 174,
+    "nda": "NDA218436",
+    "drug_name": "remibrutinib",
+    "smiles": "CC1=C(C=C(C=C1NC(=O)C2=C(C=C(C=C2)C3CC3)F)F)C4=C(C(=NC=N4)N)OCCN(C)C(=O)C=C",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 124.61,
+    "page": 191,
+    "nda": "NDA218436",
+    "drug_name": "remibrutinib",
+    "smiles": "CC1=C(C=C(C=C1NC(=O)C2=C(C=C(C=C2)C3CC3)F)F)C4=C(C(=NC=N4)N)OCCN(C)C(=O)C=C",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 0.92,
+    "page": 191,
+    "nda": "NDA218436",
+    "drug_name": "remibrutinib",
+    "smiles": "CC1=C(C=C(C=C1NC(=O)C2=C(C=C(C=C2)C3CC3)F)F)C4=C(C(=NC=N4)N)OCCN(C)C(=O)C=C",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 3.6,
+    "page": 191,
+    "nda": "NDA218436",
+    "drug_name": "remibrutinib",
+    "smiles": "CC1=C(C=C(C=C1NC(=O)C2=C(C=C(C=C2)C3CC3)F)F)C4=C(C(=NC=N4)N)OCCN(C)C(=O)C=C",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 413.54,
+    "page": 192,
+    "nda": "NDA218436",
+    "drug_name": "remibrutinib",
+    "smiles": "CC1=C(C=C(C=C1NC(=O)C2=C(C=C(C=C2)C3CC3)F)F)C4=C(C(=NC=N4)N)OCCN(C)C(=O)C=C",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 0.0636,
+    "page": 202,
+    "nda": "NDA218436",
+    "drug_name": "remibrutinib",
+    "smiles": "CC1=C(C=C(C=C1NC(=O)C2=C(C=C(C=C2)C3CC3)F)F)C4=C(C(=NC=N4)N)OCCN(C)C(=O)C=C",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 2.98,
+    "page": 202,
+    "nda": "NDA218436",
+    "drug_name": "remibrutinib",
+    "smiles": "CC1=C(C=C(C=C1NC(=O)C2=C(C=C(C=C2)C3CC3)F)F)C4=C(C(=NC=N4)N)OCCN(C)C(=O)C=C",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 8.56,
+    "page": 202,
+    "nda": "NDA218436",
+    "drug_name": "remibrutinib",
+    "smiles": "CC1=C(C=C(C=C1NC(=O)C2=C(C=C(C=C2)C3CC3)F)F)C4=C(C(=NC=N4)N)OCCN(C)C(=O)C=C",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 133.0,
+    "page": 150,
+    "nda": "NDA216203",
+    "drug_name": "sotagliflozin",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)SC)O)O)O)Cl",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 3.3,
+    "page": 152,
+    "nda": "NDA216203",
+    "drug_name": "sotagliflozin",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)SC)O)O)O)Cl",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 611.7,
+    "page": 257,
+    "nda": "NDA216203",
+    "drug_name": "sotagliflozin",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)SC)O)O)O)Cl",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 8.42,
+    "page": 33,
+    "nda": "NDA208712",
+    "drug_name": "pacritinib citrate",
+    "smiles": "C1CCN(C1)CCOC2=C3COC/C=C/COCC4=CC(=CC=C4)C5=NC(=NC=C5)NC(=C3)C=C2.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "dose_mg": 400.0
+  },
+  {
+    "cmax_ngml": 78.3,
+    "page": 92,
+    "nda": "NDA208712",
+    "drug_name": "pacritinib citrate",
+    "smiles": "C1CCN(C1)CCOC2=C3COC/C=C/COCC4=CC(=CC=C4)C5=NC(=NC=C5)NC(=C3)C=C2.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "dose_mg": 400.0
+  },
+  {
+    "cmax_ngml": 4.0,
+    "page": 95,
+    "nda": "NDA208712",
+    "drug_name": "pacritinib citrate",
+    "smiles": "C1CCN(C1)CCOC2=C3COC/C=C/COCC4=CC(=CC=C4)C5=NC(=NC=C5)NC(=C3)C=C2.C(C(=O)O)C(CC(=O)O)(C(=O)O)O",
+    "dose_mg": 400.0
+  },
+  {
+    "cmax_ngml": 156.26,
+    "page": 16,
+    "nda": "NDA200153",
+    "drug_name": "atorvastatin calcium",
+    "smiles": "CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.[Ca+2]",
+    "dose_mg": 10.0
+  },
+  {
+    "cmax_ngml": 87.77,
+    "page": 16,
+    "nda": "NDA200153",
+    "drug_name": "atorvastatin calcium",
+    "smiles": "CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.[Ca+2]",
+    "dose_mg": 10.0
+  },
+  {
+    "cmax_ngml": 14.38,
+    "page": 18,
+    "nda": "NDA200153",
+    "drug_name": "atorvastatin calcium",
+    "smiles": "CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.[Ca+2]",
+    "dose_mg": 10.0
+  },
+  {
+    "cmax_ngml": 65.2,
+    "page": 18,
+    "nda": "NDA200153",
+    "drug_name": "atorvastatin calcium",
+    "smiles": "CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.[Ca+2]",
+    "dose_mg": 10.0
+  },
+  {
+    "cmax_ngml": 10.0,
+    "page": 18,
+    "nda": "NDA200153",
+    "drug_name": "atorvastatin calcium",
+    "smiles": "CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.[Ca+2]",
+    "dose_mg": 10.0
+  },
+  {
+    "cmax_ngml": 162.04,
+    "page": 19,
+    "nda": "NDA200153",
+    "drug_name": "atorvastatin calcium",
+    "smiles": "CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.[Ca+2]",
+    "dose_mg": 10.0
+  },
+  {
+    "cmax_ngml": 66.8,
+    "page": 19,
+    "nda": "NDA200153",
+    "drug_name": "atorvastatin calcium",
+    "smiles": "CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.[Ca+2]",
+    "dose_mg": 10.0
+  },
+  {
+    "cmax_ngml": 10.0,
+    "page": 20,
+    "nda": "NDA200153",
+    "drug_name": "atorvastatin calcium",
+    "smiles": "CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.CC(C)C1=C(C(=C(N1CC[C@H](C[C@H](CC(=O)[O-])O)O)C2=CC=C(C=C2)F)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4.[Ca+2]",
+    "dose_mg": 10.0
+  },
+  {
+    "cmax_ngml": 70.0,
+    "page": 252,
+    "nda": "NDA212904",
+    "drug_name": "tivozanib",
+    "smiles": "CC1=CC(=NO1)NC(=O)NC2=C(C=C(C=C2)OC3=C4C=C(C(=CC4=NC=C3)OC)OC)Cl",
+    "dose_mg": 1.34
+  },
+  {
+    "cmax_ngml": 210.0,
+    "page": 34,
+    "nda": "NDA219616",
+    "drug_name": "avutometinib",
+    "smiles": "CC1=C(C(=O)OC2=C1C=CC(=C2)OC3=NC=CC=N3)CC4=C(C(=NC=C4)NS(=O)(=O)NC)F",
+    "dose_mg": 0.8
+  },
+  {
+    "cmax_ngml": 210.0,
+    "page": 55,
+    "nda": "NDA219616",
+    "drug_name": "avutometinib",
+    "smiles": "CC1=C(C(=O)OC2=C1C=CC(=C2)OC3=NC=CC=N3)CC4=C(C(=NC=C4)NS(=O)(=O)NC)F",
+    "dose_mg": 0.8
+  },
+  {
+    "cmax_ngml": 581.0,
+    "page": 58,
+    "nda": "NDA219616",
+    "drug_name": "avutometinib",
+    "smiles": "CC1=C(C(=O)OC2=C1C=CC(=C2)OC3=NC=CC=N3)CC4=C(C(=NC=C4)NS(=O)(=O)NC)F",
+    "dose_mg": 0.8
+  },
+  {
+    "cmax_ngml": 5.76,
+    "page": 63,
+    "nda": "NDA219616",
+    "drug_name": "avutometinib",
+    "smiles": "CC1=C(C(=O)OC2=C1C=CC(=C2)OC3=NC=CC=N3)CC4=C(C(=NC=C4)NS(=O)(=O)NC)F",
+    "dose_mg": 0.8
+  },
+  {
+    "cmax_ngml": 19.5,
+    "page": 65,
+    "nda": "NDA219616",
+    "drug_name": "avutometinib",
+    "smiles": "CC1=C(C(=O)OC2=C1C=CC(=C2)OC3=NC=CC=N3)CC4=C(C(=NC=C4)NS(=O)(=O)NC)F",
+    "dose_mg": 0.8
+  },
+  {
+    "cmax_ngml": 1610.0,
+    "page": 82,
+    "nda": "NDA219616",
+    "drug_name": "avutometinib",
+    "smiles": "CC1=C(C(=O)OC2=C1C=CC(=C2)OC3=NC=CC=N3)CC4=C(C(=NC=C4)NS(=O)(=O)NC)F",
+    "dose_mg": 0.8
+  },
+  {
+    "cmax_ngml": 59.7,
+    "page": 84,
+    "nda": "NDA219616",
+    "drug_name": "avutometinib",
+    "smiles": "CC1=C(C(=O)OC2=C1C=CC(=C2)OC3=NC=CC=N3)CC4=C(C(=NC=C4)NS(=O)(=O)NC)F",
+    "dose_mg": 0.8
+  },
+  {
+    "cmax_ngml": 49.63,
+    "page": 146,
+    "nda": "NDA219616",
+    "drug_name": "avutometinib",
+    "smiles": "CC1=C(C(=O)OC2=C1C=CC(=C2)OC3=NC=CC=N3)CC4=C(C(=NC=C4)NS(=O)(=O)NC)F",
+    "dose_mg": 0.8
+  },
+  {
+    "cmax_ngml": 123.3,
+    "page": 147,
+    "nda": "NDA219616",
+    "drug_name": "avutometinib",
+    "smiles": "CC1=C(C(=O)OC2=C1C=CC(=C2)OC3=NC=CC=N3)CC4=C(C(=NC=C4)NS(=O)(=O)NC)F",
+    "dose_mg": 0.8
+  },
+  {
+    "cmax_ngml": 60.08,
+    "page": 148,
+    "nda": "NDA219616",
+    "drug_name": "avutometinib",
+    "smiles": "CC1=C(C(=O)OC2=C1C=CC(=C2)OC3=NC=CC=N3)CC4=C(C(=NC=C4)NS(=O)(=O)NC)F",
+    "dose_mg": 0.8
+  },
+  {
+    "cmax_ngml": 15.02,
+    "page": 149,
+    "nda": "NDA219616",
+    "drug_name": "avutometinib",
+    "smiles": "CC1=C(C(=O)OC2=C1C=CC(=C2)OC3=NC=CC=N3)CC4=C(C(=NC=C4)NS(=O)(=O)NC)F",
+    "dose_mg": 0.8
+  },
+  {
+    "cmax_ngml": 684.8,
+    "page": 150,
+    "nda": "NDA219616",
+    "drug_name": "avutometinib",
+    "smiles": "CC1=C(C(=O)OC2=C1C=CC(=C2)OC3=NC=CC=N3)CC4=C(C(=NC=C4)NS(=O)(=O)NC)F",
+    "dose_mg": 0.8
+  },
+  {
+    "cmax_ngml": 43.67,
+    "page": 150,
+    "nda": "NDA219616",
+    "drug_name": "avutometinib",
+    "smiles": "CC1=C(C(=O)OC2=C1C=CC(=C2)OC3=NC=CC=N3)CC4=C(C(=NC=C4)NS(=O)(=O)NC)F",
+    "dose_mg": 0.8
+  },
+  {
+    "cmax_ngml": 47.01,
+    "page": 151,
+    "nda": "NDA219616",
+    "drug_name": "avutometinib",
+    "smiles": "CC1=C(C(=O)OC2=C1C=CC(=C2)OC3=NC=CC=N3)CC4=C(C(=NC=C4)NS(=O)(=O)NC)F",
+    "dose_mg": 0.8
+  },
+  {
+    "cmax_ngml": 5.841,
+    "page": 152,
+    "nda": "NDA219616",
+    "drug_name": "avutometinib",
+    "smiles": "CC1=C(C(=O)OC2=C1C=CC(=C2)OC3=NC=CC=N3)CC4=C(C(=NC=C4)NS(=O)(=O)NC)F",
+    "dose_mg": 0.8
+  },
+  {
+    "cmax_ngml": 71.2,
+    "page": 154,
+    "nda": "NDA219616",
+    "drug_name": "avutometinib",
+    "smiles": "CC1=C(C(=O)OC2=C1C=CC(=C2)OC3=NC=CC=N3)CC4=C(C(=NC=C4)NS(=O)(=O)NC)F",
+    "dose_mg": 0.8
+  },
+  {
+    "cmax_ngml": 1330.0,
+    "page": 51,
+    "nda": "NDA208716",
+    "drug_name": "abemaciclib",
+    "smiles": "CCN1CCN(CC1)CC2=CN=C(C=C2)NC3=NC=C(C(=N3)C4=CC5=C(C(=C4)F)N=C(N5C(C)C)C)F",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 11.3,
+    "page": 59,
+    "nda": "NDA208716",
+    "drug_name": "abemaciclib",
+    "smiles": "CCN1CCN(CC1)CC2=CN=C(C=C2)NC3=NC=C(C(=N3)C4=CC5=C(C(=C4)F)N=C(N5C(C)C)C)F",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 729.0,
+    "page": 63,
+    "nda": "NDA208716",
+    "drug_name": "abemaciclib",
+    "smiles": "CCN1CCN(CC1)CC2=CN=C(C=C2)NC3=NC=C(C(=N3)C4=CC5=C(C(=C4)F)N=C(N5C(C)C)C)F",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 348.0,
+    "page": 66,
+    "nda": "NDA208716",
+    "drug_name": "abemaciclib",
+    "smiles": "CCN1CCN(CC1)CC2=CN=C(C=C2)NC3=NC=C(C(=N3)C4=CC5=C(C(=C4)F)N=C(N5C(C)C)C)F",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 6000.0,
+    "page": 39,
+    "nda": "NDA207988",
+    "drug_name": "lesinurad",
+    "smiles": "C1CC1C2=CC=C(C3=CC=CC=C23)N4C(=NN=C4Br)SCC(=O)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 6000.0,
+    "page": 39,
+    "nda": "NDA207988",
+    "drug_name": "lesinurad",
+    "smiles": "C1CC1C2=CC=C(C3=CC=CC=C23)N4C(=NN=C4Br)SCC(=O)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1.0,
+    "page": 63,
+    "nda": "NDA214096",
+    "drug_name": "tepotinib",
+    "smiles": "CN1CCC(CC1)COC2=CN=C(N=C2)C3=CC=CC(=C3)CN4C(=O)C=CC(=N4)C5=CC=CC(=C5)C#N",
+    "dose_mg": 450.0
+  },
+  {
+    "cmax_ngml": 182.0,
+    "page": 63,
+    "nda": "NDA214096",
+    "drug_name": "tepotinib",
+    "smiles": "CN1CCC(CC1)COC2=CN=C(N=C2)C3=CC=CC(=C3)CN4C(=O)C=CC(=N4)C5=CC=CC(=C5)C#N",
+    "dose_mg": 450.0
+  },
+  {
+    "cmax_ngml": 68.23,
+    "page": 79,
+    "nda": "NDA214096",
+    "drug_name": "tepotinib",
+    "smiles": "CN1CCC(CC1)COC2=CN=C(N=C2)C3=CC=CC(=C3)CN4C(=O)C=CC(=N4)C5=CC=CC(=C5)C#N",
+    "dose_mg": 450.0
+  },
+  {
+    "cmax_ngml": 305.01,
+    "page": 79,
+    "nda": "NDA214096",
+    "drug_name": "tepotinib",
+    "smiles": "CN1CCC(CC1)COC2=CN=C(N=C2)C3=CC=CC(=C3)CN4C(=O)C=CC(=N4)C5=CC=CC(=C5)C#N",
+    "dose_mg": 450.0
+  },
+  {
+    "cmax_ngml": 1680.0,
+    "page": 5,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1680.0,
+    "page": 9,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1730.0,
+    "page": 69,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 94.6,
+    "page": 79,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 88.2,
+    "page": 79,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 90.0,
+    "page": 87,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 6.0,
+    "page": 181,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 6.0,
+    "page": 181,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 6.0,
+    "page": 181,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 6.0,
+    "page": 181,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1730.0,
+    "page": 183,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 968.0,
+    "page": 183,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 768.0,
+    "page": 183,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 2750.0,
+    "page": 183,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1.0,
+    "page": 184,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1.0,
+    "page": 184,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1.0,
+    "page": 184,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1.0,
+    "page": 185,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 56000.0,
+    "page": 200,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1610.0,
+    "page": 233,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 12.0,
+    "page": 236,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 12.0,
+    "page": 236,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 12.0,
+    "page": 236,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 12.0,
+    "page": 236,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 2100.0,
+    "page": 237,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 16.0,
+    "page": 238,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 16.0,
+    "page": 238,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 16.0,
+    "page": 239,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 16.0,
+    "page": 239,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 16.0,
+    "page": 241,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 16.0,
+    "page": 241,
+    "nda": "NDA202258",
+    "drug_name": "boceprevir",
+    "smiles": "CC1([C@@H]2[C@H]1[C@H](N(C2)C(=O)[C@H](C(C)(C)C)NC(=O)NC(C)(C)C)C(=O)NC(CC3CCC3)C(=O)C(=O)N)C",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1780.0,
+    "page": 85,
+    "nda": "NDA210806",
+    "drug_name": "doravirine",
+    "smiles": "CN1C(=NNC1=O)CN2C=CC(=C(C2=O)OC3=CC(=CC(=C3)C#N)Cl)C(F)(F)F",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1950.0,
+    "page": 86,
+    "nda": "NDA210806",
+    "drug_name": "doravirine",
+    "smiles": "CN1C(=NNC1=O)CN2C=CC(=C(C2=O)OC3=CC(=CC(=C3)C#N)Cl)C(F)(F)F",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 24.0,
+    "page": 232,
+    "nda": "NDA210806",
+    "drug_name": "doravirine",
+    "smiles": "CN1C(=NNC1=O)CN2C=CC(=C(C2=O)OC3=CC(=CC(=C3)C#N)Cl)C(F)(F)F",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 24.0,
+    "page": 233,
+    "nda": "NDA210806",
+    "drug_name": "doravirine",
+    "smiles": "CN1C(=NNC1=O)CN2C=CC(=C(C2=O)OC3=CC(=CC(=C3)C#N)Cl)C(F)(F)F",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 24.0,
+    "page": 233,
+    "nda": "NDA210806",
+    "drug_name": "doravirine",
+    "smiles": "CN1C(=NNC1=O)CN2C=CC(=C(C2=O)OC3=CC(=CC(=C3)C#N)Cl)C(F)(F)F",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 11.0,
+    "page": 236,
+    "nda": "NDA210806",
+    "drug_name": "doravirine",
+    "smiles": "CN1C(=NNC1=O)CN2C=CC(=C(C2=O)OC3=CC(=CC(=C3)C#N)Cl)C(F)(F)F",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 43.0,
+    "page": 64,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 366.0,
+    "page": 75,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 31.0,
+    "page": 85,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 87.5,
+    "page": 86,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 67.6,
+    "page": 86,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 1.2,
+    "page": 88,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 243.0,
+    "page": 93,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 6.7,
+    "page": 94,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 89.0,
+    "page": 94,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 298.0,
+    "page": 95,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 228.0,
+    "page": 96,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 51.6,
+    "page": 97,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 51.98,
+    "page": 102,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 157.5,
+    "page": 103,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 39.74,
+    "page": 103,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 136.0,
+    "page": 112,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 365.0,
+    "page": 114,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 59.3,
+    "page": 117,
+    "nda": "NDA205677",
+    "drug_name": "tasimelteon",
+    "smiles": "CCC(=O)NC[C@@H]1C[C@H]1C2=C3CCOC3=CC=C2",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 1780.0,
+    "page": 85,
+    "nda": "NDA210807",
+    "drug_name": "doravirine",
+    "smiles": "CN1C(=NNC1=O)CN2C=CC(=C(C2=O)OC3=CC(=CC(=C3)C#N)Cl)C(F)(F)F",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1950.0,
+    "page": 86,
+    "nda": "NDA210807",
+    "drug_name": "doravirine",
+    "smiles": "CN1C(=NNC1=O)CN2C=CC(=C(C2=O)OC3=CC(=CC(=C3)C#N)Cl)C(F)(F)F",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 24.0,
+    "page": 232,
+    "nda": "NDA210807",
+    "drug_name": "doravirine",
+    "smiles": "CN1C(=NNC1=O)CN2C=CC(=C(C2=O)OC3=CC(=CC(=C3)C#N)Cl)C(F)(F)F",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 24.0,
+    "page": 233,
+    "nda": "NDA210807",
+    "drug_name": "doravirine",
+    "smiles": "CN1C(=NNC1=O)CN2C=CC(=C(C2=O)OC3=CC(=CC(=C3)C#N)Cl)C(F)(F)F",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 24.0,
+    "page": 233,
+    "nda": "NDA210807",
+    "drug_name": "doravirine",
+    "smiles": "CN1C(=NNC1=O)CN2C=CC(=C(C2=O)OC3=CC(=CC(=C3)C#N)Cl)C(F)(F)F",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 11.0,
+    "page": 236,
+    "nda": "NDA210807",
+    "drug_name": "doravirine",
+    "smiles": "CN1C(=NNC1=O)CN2C=CC(=C(C2=O)OC3=CC(=CC(=C3)C#N)Cl)C(F)(F)F",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 1334.0,
+    "page": 4,
+    "nda": "NDA209449",
+    "drug_name": "nitisinone",
+    "smiles": "C1CC(=O)C(C(=O)C1)C(=O)C2=C(C=C(C=C2)C(F)(F)F)[N+](=O)[O-]",
+    "dose_mg": 10.0
+  },
+  {
+    "cmax_ngml": 1333.0,
+    "page": 5,
+    "nda": "NDA209449",
+    "drug_name": "nitisinone",
+    "smiles": "C1CC(=O)C(C(=O)C1)C(=O)C2=C(C=C(C=C2)C(F)(F)F)[N+](=O)[O-]",
+    "dose_mg": 10.0
+  },
+  {
+    "cmax_ngml": 6.0,
+    "page": 39,
+    "nda": "NDA211155",
+    "drug_name": "duvelisib",
+    "smiles": "C[C@@H](C1=CC2=C(C(=CC=C2)Cl)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 7.0,
+    "page": 40,
+    "nda": "NDA211155",
+    "drug_name": "duvelisib",
+    "smiles": "C[C@@H](C1=CC2=C(C(=CC=C2)Cl)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 75.0,
+    "page": 65,
+    "nda": "NDA211155",
+    "drug_name": "duvelisib",
+    "smiles": "C[C@@H](C1=CC2=C(C(=CC=C2)Cl)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 6.0,
+    "page": 69,
+    "nda": "NDA211155",
+    "drug_name": "duvelisib",
+    "smiles": "C[C@@H](C1=CC2=C(C(=CC=C2)Cl)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 19.0,
+    "page": 69,
+    "nda": "NDA211155",
+    "drug_name": "duvelisib",
+    "smiles": "C[C@@H](C1=CC2=C(C(=CC=C2)Cl)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 517.0,
+    "page": 69,
+    "nda": "NDA211155",
+    "drug_name": "duvelisib",
+    "smiles": "C[C@@H](C1=CC2=C(C(=CC=C2)Cl)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 1017.0,
+    "page": 70,
+    "nda": "NDA211155",
+    "drug_name": "duvelisib",
+    "smiles": "C[C@@H](C1=CC2=C(C(=CC=C2)Cl)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 9.7,
+    "page": 70,
+    "nda": "NDA211155",
+    "drug_name": "duvelisib",
+    "smiles": "C[C@@H](C1=CC2=C(C(=CC=C2)Cl)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 32.0,
+    "page": 72,
+    "nda": "NDA211155",
+    "drug_name": "duvelisib",
+    "smiles": "C[C@@H](C1=CC2=C(C(=CC=C2)Cl)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 5.89,
+    "page": 210,
+    "nda": "NDA211155",
+    "drug_name": "duvelisib",
+    "smiles": "C[C@@H](C1=CC2=C(C(=CC=C2)Cl)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 332.0,
+    "page": 33,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 70.0,
+    "page": 34,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 200.0,
+    "page": 44,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 364.0,
+    "page": 51,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 2.0,
+    "page": 51,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 2.2,
+    "page": 52,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 90.0,
+    "page": 53,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 96.31,
+    "page": 53,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 90.0,
+    "page": 53,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 96.38,
+    "page": 53,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 86.0,
+    "page": 58,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 177.0,
+    "page": 58,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 166.0,
+    "page": 61,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 39.0,
+    "page": 61,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 86.0,
+    "page": 81,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 300.0,
+    "page": 82,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 177.0,
+    "page": 86,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 556.0,
+    "page": 87,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 166.0,
+    "page": 91,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 39.0,
+    "page": 91,
+    "nda": "NDA022370",
+    "drug_name": "tramadol",
+    "smiles": "CN(C)C[C@H]1CCCC[C@@]1(C2=CC(=CC=C2)OC)O",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 71.9,
+    "page": 50,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 60.0,
+    "page": 50,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 15.8,
+    "page": 50,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 68.9,
+    "page": 54,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 273.7,
+    "page": 54,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 193.4,
+    "page": 54,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 0.1,
+    "page": 59,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 54.0,
+    "page": 69,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 49.5,
+    "page": 69,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 21.9,
+    "page": 69,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 68.3,
+    "page": 69,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 107.0,
+    "page": 74,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 212.0,
+    "page": 74,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 104.0,
+    "page": 75,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 107.0,
+    "page": 82,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 219.0,
+    "page": 82,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 104.0,
+    "page": 83,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 32.9,
+    "page": 93,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 38.3,
+    "page": 93,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 11.8,
+    "page": 93,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 36.4,
+    "page": 93,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 40.3,
+    "page": 93,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 12.4,
+    "page": 93,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 50.428,
+    "page": 146,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 68.036,
+    "page": 146,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 96.357,
+    "page": 146,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 237.258,
+    "page": 146,
+    "nda": "NDA207999",
+    "drug_name": "obeticholic acid",
+    "smiles": "CC[C@@H]1[C@@H]2C[C@@H](CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3[C@@H]1O)CC[C@@H]4[C@H](C)CCC(=O)O)C)C)O",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 517.15,
+    "page": 38,
+    "nda": "NDA219008",
+    "drug_name": "lazertinib",
+    "smiles": "CN(C)CC1=CN(N=C1C2=CC=CC=C2)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N5CCOCC5)OC",
+    "dose_mg": 80.0
+  },
+  {
+    "cmax_ngml": 591.0,
+    "page": 61,
+    "nda": "NDA219008",
+    "drug_name": "lazertinib",
+    "smiles": "CN(C)CC1=CN(N=C1C2=CC=CC=C2)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N5CCOCC5)OC",
+    "dose_mg": 80.0
+  },
+  {
+    "cmax_ngml": 319.0,
+    "page": 64,
+    "nda": "NDA219008",
+    "drug_name": "lazertinib",
+    "smiles": "CN(C)CC1=CN(N=C1C2=CC=CC=C2)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N5CCOCC5)OC",
+    "dose_mg": 80.0
+  },
+  {
+    "cmax_ngml": 734.0,
+    "page": 66,
+    "nda": "NDA219008",
+    "drug_name": "lazertinib",
+    "smiles": "CN(C)CC1=CN(N=C1C2=CC=CC=C2)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N5CCOCC5)OC",
+    "dose_mg": 80.0
+  },
+  {
+    "cmax_ngml": 540.0,
+    "page": 70,
+    "nda": "NDA219008",
+    "drug_name": "lazertinib",
+    "smiles": "CN(C)CC1=CN(N=C1C2=CC=CC=C2)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N5CCOCC5)OC",
+    "dose_mg": 80.0
+  },
+  {
+    "cmax_ngml": 230.0,
+    "page": 86,
+    "nda": "NDA219008",
+    "drug_name": "lazertinib",
+    "smiles": "CN(C)CC1=CN(N=C1C2=CC=CC=C2)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N5CCOCC5)OC",
+    "dose_mg": 80.0
+  },
+  {
+    "cmax_ngml": 27.9,
+    "page": 88,
+    "nda": "NDA219008",
+    "drug_name": "lazertinib",
+    "smiles": "CN(C)CC1=CN(N=C1C2=CC=CC=C2)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N5CCOCC5)OC",
+    "dose_mg": 80.0
+  },
+  {
+    "cmax_ngml": 102.0,
+    "page": 132,
+    "nda": "NDA219008",
+    "drug_name": "lazertinib",
+    "smiles": "CN(C)CC1=CN(N=C1C2=CC=CC=C2)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N5CCOCC5)OC",
+    "dose_mg": 80.0
+  },
+  {
+    "cmax_ngml": 100.0,
+    "page": 133,
+    "nda": "NDA219008",
+    "drug_name": "lazertinib",
+    "smiles": "CN(C)CC1=CN(N=C1C2=CC=CC=C2)C3=NC(=NC=C3)NC4=C(C=C(C(=C4)NC(=O)C=C)N5CCOCC5)OC",
+    "dose_mg": 80.0
+  },
+  {
+    "cmax_ngml": 270.0,
+    "page": 21,
+    "nda": "NDA203341",
+    "drug_name": "bosutinib monohydrate",
+    "smiles": "CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC.O",
+    "dose_mg": 500.0
+  },
+  {
+    "cmax_ngml": 800.0,
+    "page": 24,
+    "nda": "NDA203341",
+    "drug_name": "bosutinib monohydrate",
+    "smiles": "CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC.O",
+    "dose_mg": 500.0
+  },
+  {
+    "cmax_ngml": 600.0,
+    "page": 24,
+    "nda": "NDA203341",
+    "drug_name": "bosutinib monohydrate",
+    "smiles": "CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC.O",
+    "dose_mg": 500.0
+  },
+  {
+    "cmax_ngml": 34.0,
+    "page": 28,
+    "nda": "NDA203341",
+    "drug_name": "bosutinib monohydrate",
+    "smiles": "CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC.O",
+    "dose_mg": 500.0
+  },
+  {
+    "cmax_ngml": 242.0,
+    "page": 28,
+    "nda": "NDA203341",
+    "drug_name": "bosutinib monohydrate",
+    "smiles": "CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC.O",
+    "dose_mg": 500.0
+  },
+  {
+    "cmax_ngml": 7.01,
+    "page": 33,
+    "nda": "NDA203341",
+    "drug_name": "bosutinib monohydrate",
+    "smiles": "CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC.O",
+    "dose_mg": 500.0
+  },
+  {
+    "cmax_ngml": 5.2,
+    "page": 33,
+    "nda": "NDA203341",
+    "drug_name": "bosutinib monohydrate",
+    "smiles": "CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC.O",
+    "dose_mg": 500.0
+  },
+  {
+    "cmax_ngml": 114.0,
+    "page": 34,
+    "nda": "NDA203341",
+    "drug_name": "bosutinib monohydrate",
+    "smiles": "CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC.O",
+    "dose_mg": 500.0
+  },
+  {
+    "cmax_ngml": 112.0,
+    "page": 35,
+    "nda": "NDA203341",
+    "drug_name": "bosutinib monohydrate",
+    "smiles": "CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC.O",
+    "dose_mg": 500.0
+  },
+  {
+    "cmax_ngml": 55.9,
+    "page": 38,
+    "nda": "NDA203341",
+    "drug_name": "bosutinib monohydrate",
+    "smiles": "CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC.O",
+    "dose_mg": 500.0
+  },
+  {
+    "cmax_ngml": 1.8,
+    "page": 38,
+    "nda": "NDA203341",
+    "drug_name": "bosutinib monohydrate",
+    "smiles": "CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC.O",
+    "dose_mg": 500.0
+  },
+  {
+    "cmax_ngml": 30.0,
+    "page": 138,
+    "nda": "NDA206038",
+    "drug_name": "ivacaftor",
+    "smiles": "CC(C)(C)C1=CC(=C(C=C1NC(=O)C2=CNC3=CC=CC=C3C2=O)O)C(C)(C)C",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 1820.0,
+    "page": 39,
+    "nda": "NDA209092",
+    "drug_name": "ribociclib succinate",
+    "smiles": "CN(C)C(=O)C1=CC2=CN=C(N=C2N1C3CCCC3)NC4=NC=C(C=C4)N5CCNCC5.C(CC(=O)O)C(=O)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 25.0,
+    "page": 41,
+    "nda": "NDA209092",
+    "drug_name": "ribociclib succinate",
+    "smiles": "CN(C)C(=O)C1=CC2=CN=C(N=C2N1C3CCCC3)NC4=NC=C(C=C4)N5CCNCC5.C(CC(=O)O)C(=O)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 50.0,
+    "page": 42,
+    "nda": "NDA209092",
+    "drug_name": "ribociclib succinate",
+    "smiles": "CN(C)C(=O)C1=CC2=CN=C(N=C2N1C3CCCC3)NC4=NC=C(C=C4)N5CCNCC5.C(CC(=O)O)C(=O)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1.0,
+    "page": 42,
+    "nda": "NDA209092",
+    "drug_name": "ribociclib succinate",
+    "smiles": "CN(C)C(=O)C1=CC2=CN=C(N=C2N1C3CCCC3)NC4=NC=C(C=C4)N5CCNCC5.C(CC(=O)O)C(=O)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 50.0,
+    "page": 42,
+    "nda": "NDA209092",
+    "drug_name": "ribociclib succinate",
+    "smiles": "CN(C)C(=O)C1=CC2=CN=C(N=C2N1C3CCCC3)NC4=NC=C(C=C4)N5CCNCC5.C(CC(=O)O)C(=O)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 50.0,
+    "page": 43,
+    "nda": "NDA209092",
+    "drug_name": "ribociclib succinate",
+    "smiles": "CN(C)C(=O)C1=CC2=CN=C(N=C2N1C3CCCC3)NC4=NC=C(C=C4)N5CCNCC5.C(CC(=O)O)C(=O)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 10.0,
+    "page": 43,
+    "nda": "NDA209092",
+    "drug_name": "ribociclib succinate",
+    "smiles": "CN(C)C(=O)C1=CC2=CN=C(N=C2N1C3CCCC3)NC4=NC=C(C=C4)N5CCNCC5.C(CC(=O)O)C(=O)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 10.0,
+    "page": 43,
+    "nda": "NDA209092",
+    "drug_name": "ribociclib succinate",
+    "smiles": "CN(C)C(=O)C1=CC2=CN=C(N=C2N1C3CCCC3)NC4=NC=C(C=C4)N5CCNCC5.C(CC(=O)O)C(=O)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 600.0,
+    "page": 67,
+    "nda": "NDA209092",
+    "drug_name": "ribociclib succinate",
+    "smiles": "CN(C)C(=O)C1=CC2=CN=C(N=C2N1C3CCCC3)NC4=NC=C(C=C4)N5CCNCC5.C(CC(=O)O)C(=O)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1354.0,
+    "page": 206,
+    "nda": "NDA209092",
+    "drug_name": "ribociclib succinate",
+    "smiles": "CN(C)C(=O)C1=CC2=CN=C(N=C2N1C3CCCC3)NC4=NC=C(C=C4)N5CCNCC5.C(CC(=O)O)C(=O)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1416.0,
+    "page": 206,
+    "nda": "NDA209092",
+    "drug_name": "ribociclib succinate",
+    "smiles": "CN(C)C(=O)C1=CC2=CN=C(N=C2N1C3CCCC3)NC4=NC=C(C=C4)N5CCNCC5.C(CC(=O)O)C(=O)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 26.0,
+    "page": 27,
+    "nda": "NDA204096",
+    "drug_name": "tacrolimus",
+    "smiles": "C[C@@H]1C[C@@H]([C@@H]2[C@H](C[C@H]([C@@](O2)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@@H]([C@@H]([C@H](CC(=O)[C@@H](/C=C(/C1)\\C)CC=C)O)C)/C(=C/[C@@H]4CC[C@H]([C@@H](C4)OC)O)/C)O)C)OC)OC",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 31.0,
+    "page": 27,
+    "nda": "NDA204096",
+    "drug_name": "tacrolimus",
+    "smiles": "C[C@@H]1C[C@@H]([C@@H]2[C@H](C[C@H]([C@@](O2)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@@H]([C@@H]([C@H](CC(=O)[C@@H](/C=C(/C1)\\C)CC=C)O)C)/C(=C/[C@@H]4CC[C@H]([C@@H](C4)OC)O)/C)O)C)OC)OC",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 32.2,
+    "page": 27,
+    "nda": "NDA204096",
+    "drug_name": "tacrolimus",
+    "smiles": "C[C@@H]1C[C@@H]([C@@H]2[C@H](C[C@H]([C@@](O2)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@@H]([C@@H]([C@H](CC(=O)[C@@H](/C=C(/C1)\\C)CC=C)O)C)/C(=C/[C@@H]4CC[C@H]([C@@H](C4)OC)O)/C)O)C)OC)OC",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 32.7,
+    "page": 27,
+    "nda": "NDA204096",
+    "drug_name": "tacrolimus",
+    "smiles": "C[C@@H]1C[C@@H]([C@@H]2[C@H](C[C@H]([C@@](O2)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@@H]([C@@H]([C@H](CC(=O)[C@@H](/C=C(/C1)\\C)CC=C)O)C)/C(=C/[C@@H]4CC[C@H]([C@@H](C4)OC)O)/C)O)C)OC)OC",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 18.2,
+    "page": 29,
+    "nda": "NDA204096",
+    "drug_name": "tacrolimus",
+    "smiles": "C[C@@H]1C[C@@H]([C@@H]2[C@H](C[C@H]([C@@](O2)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@@H]([C@@H]([C@H](CC(=O)[C@@H](/C=C(/C1)\\C)CC=C)O)C)/C(=C/[C@@H]4CC[C@H]([C@@H](C4)OC)O)/C)O)C)OC)OC",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 29.9,
+    "page": 29,
+    "nda": "NDA204096",
+    "drug_name": "tacrolimus",
+    "smiles": "C[C@@H]1C[C@@H]([C@@H]2[C@H](C[C@H]([C@@](O2)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@@H]([C@@H]([C@H](CC(=O)[C@@H](/C=C(/C1)\\C)CC=C)O)C)/C(=C/[C@@H]4CC[C@H]([C@@H](C4)OC)O)/C)O)C)OC)OC",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 26.4,
+    "page": 29,
+    "nda": "NDA204096",
+    "drug_name": "tacrolimus",
+    "smiles": "C[C@@H]1C[C@@H]([C@@H]2[C@H](C[C@H]([C@@](O2)(C(=O)C(=O)N3CCCC[C@H]3C(=O)O[C@@H]([C@@H]([C@H](CC(=O)[C@@H](/C=C(/C1)\\C)CC=C)O)C)/C(=C/[C@@H]4CC[C@H]([C@@H](C4)OC)O)/C)O)C)OC)OC",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 243.94,
+    "page": 36,
+    "nda": "NDA219015",
+    "drug_name": "minocycline",
+    "smiles": "CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C=CC(=C4C(=C3C(=O)[C@@]2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C",
+    "dose_mg": 40.0
+  },
+  {
+    "cmax_ngml": 222.8,
+    "page": 36,
+    "nda": "NDA219015",
+    "drug_name": "minocycline",
+    "smiles": "CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C=CC(=C4C(=C3C(=O)[C@@]2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C",
+    "dose_mg": 40.0
+  },
+  {
+    "cmax_ngml": 243.94,
+    "page": 92,
+    "nda": "NDA219015",
+    "drug_name": "minocycline",
+    "smiles": "CN(C)[C@H]1[C@@H]2C[C@@H]3CC4=C(C=CC(=C4C(=C3C(=O)[C@@]2(C(=C(C1=O)C(=O)N)O)O)O)O)N(C)C",
+    "dose_mg": 40.0
+  },
+  {
+    "cmax_ngml": 4.2,
+    "page": 24,
+    "nda": "NDA208383",
+    "drug_name": "betrixaban",
+    "smiles": "CN(C)C(=N)C1=CC=C(C=C1)C(=O)NC2=C(C=C(C=C2)OC)C(=O)NC3=NC=C(C=C3)Cl",
+    "dose_mg": 80.0
+  },
+  {
+    "cmax_ngml": 0.6,
+    "page": 25,
+    "nda": "NDA208383",
+    "drug_name": "betrixaban",
+    "smiles": "CN(C)C(=N)C1=CC=C(C=C1)C(=O)NC2=C(C=C(C=C2)OC)C(=O)NC3=NC=C(C=C3)Cl",
+    "dose_mg": 80.0
+  },
+  {
+    "cmax_ngml": 605.0,
+    "page": 36,
+    "nda": "NDA219016",
+    "drug_name": "rilpivirine",
+    "smiles": "CC1=CC(=CC(=C1NC2=NC(=NC=C2)NC3=CC=C(C=C3)C#N)C)/C=C/C#N",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 19.0,
+    "page": 38,
+    "nda": "NDA219016",
+    "drug_name": "rilpivirine",
+    "smiles": "CC1=CC(=CC(=C1NC2=NC(=NC=C2)NC3=CC=C(C=C3)C#N)C)/C=C/C#N",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 605.0,
+    "page": 77,
+    "nda": "NDA219016",
+    "drug_name": "rilpivirine",
+    "smiles": "CC1=CC(=CC(=C1NC2=NC(=NC=C2)NC3=CC=C(C=C3)C#N)C)/C=C/C#N",
+    "dose_mg": 25.0
+  },
+  {
+    "cmax_ngml": 258.0,
+    "page": 142,
+    "nda": "NDA209803",
+    "drug_name": "ertugliflozin",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)CO)O)O)O)Cl",
+    "dose_mg": 4.0
+  },
+  {
+    "cmax_ngml": 814.0,
+    "page": 143,
+    "nda": "NDA209803",
+    "drug_name": "ertugliflozin",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)CO)O)O)O)Cl",
+    "dose_mg": 4.0
+  },
+  {
+    "cmax_ngml": 258.0,
+    "page": 157,
+    "nda": "NDA209803",
+    "drug_name": "ertugliflozin",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)CO)O)O)O)Cl",
+    "dose_mg": 4.0
+  },
+  {
+    "cmax_ngml": 814.0,
+    "page": 158,
+    "nda": "NDA209803",
+    "drug_name": "ertugliflozin",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)CO)O)O)O)Cl",
+    "dose_mg": 4.0
+  },
+  {
+    "cmax_ngml": 12.0,
+    "page": 27,
+    "nda": "NDA210491",
+    "drug_name": "ivacaftor",
+    "smiles": "CC(C)(C)C1=CC(=C(C=C1NC(=O)C2=CNC3=CC=CC=C3C2=O)O)C(C)(C)C",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 258.0,
+    "page": 142,
+    "nda": "NDA209805",
+    "drug_name": "ertugliflozin",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)CO)O)O)O)Cl",
+    "dose_mg": 4.0
+  },
+  {
+    "cmax_ngml": 814.0,
+    "page": 143,
+    "nda": "NDA209805",
+    "drug_name": "ertugliflozin",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)CO)O)O)O)Cl",
+    "dose_mg": 4.0
+  },
+  {
+    "cmax_ngml": 258.0,
+    "page": 157,
+    "nda": "NDA209805",
+    "drug_name": "ertugliflozin",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)CO)O)O)O)Cl",
+    "dose_mg": 4.0
+  },
+  {
+    "cmax_ngml": 814.0,
+    "page": 158,
+    "nda": "NDA209805",
+    "drug_name": "ertugliflozin",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)CO)O)O)O)Cl",
+    "dose_mg": 4.0
+  },
+  {
+    "cmax_ngml": 5396.8,
+    "page": 7,
+    "nda": "NDA211843",
+    "drug_name": "tiopronin",
+    "smiles": "CC(C(=O)NCC(=O)O)S",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 6423.8,
+    "page": 12,
+    "nda": "NDA211843",
+    "drug_name": "tiopronin",
+    "smiles": "CC(C(=O)NCC(=O)O)S",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 5641.7,
+    "page": 15,
+    "nda": "NDA211843",
+    "drug_name": "tiopronin",
+    "smiles": "CC(C(=O)NCC(=O)O)S",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 258.0,
+    "page": 142,
+    "nda": "NDA209806",
+    "drug_name": "ertugliflozin",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)CO)O)O)O)Cl",
+    "dose_mg": 4.0
+  },
+  {
+    "cmax_ngml": 814.0,
+    "page": 143,
+    "nda": "NDA209806",
+    "drug_name": "ertugliflozin",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)CO)O)O)O)Cl",
+    "dose_mg": 4.0
+  },
+  {
+    "cmax_ngml": 258.0,
+    "page": 157,
+    "nda": "NDA209806",
+    "drug_name": "ertugliflozin",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)CO)O)O)O)Cl",
+    "dose_mg": 4.0
+  },
+  {
+    "cmax_ngml": 814.0,
+    "page": 158,
+    "nda": "NDA209806",
+    "drug_name": "ertugliflozin",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@@]34[C@@H]([C@H]([C@@H]([C@@](O3)(CO4)CO)O)O)O)Cl",
+    "dose_mg": 4.0
+  },
+  {
+    "cmax_ngml": 10.0,
+    "page": 39,
+    "nda": "NDA214120",
+    "drug_name": "azacitidine",
+    "smiles": "C1=NC(=NC(=O)N1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)N",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 119.0,
+    "page": 46,
+    "nda": "NDA214120",
+    "drug_name": "azacitidine",
+    "smiles": "C1=NC(=NC(=O)N1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)N",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 129.0,
+    "page": 46,
+    "nda": "NDA214120",
+    "drug_name": "azacitidine",
+    "smiles": "C1=NC(=NC(=O)N1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)N",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 124.0,
+    "page": 62,
+    "nda": "NDA214120",
+    "drug_name": "azacitidine",
+    "smiles": "C1=NC(=NC(=O)N1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)N",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 97.0,
+    "page": 62,
+    "nda": "NDA214120",
+    "drug_name": "azacitidine",
+    "smiles": "C1=NC(=NC(=O)N1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)N",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 10.66,
+    "page": 27,
+    "nda": "NDA200179",
+    "drug_name": "vardenafil",
+    "smiles": "CCCC1=NC(=C2N1N=C(NC2=O)C3=C(C=CC(=C3)S(=O)(=O)N4CCN(CC4)CC)OCC)C",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 2620.0,
+    "page": 105,
+    "nda": "NDA202276",
+    "drug_name": "avanafil",
+    "smiles": "COC1=C(C=C(C=C1)CNC2=NC(=NC=C2C(=O)NCC3=NC=CC=N3)N4CCC[C@H]4CO)Cl",
+    "dose_mg": 800.0
+  },
+  {
+    "cmax_ngml": 2660.0,
+    "page": 125,
+    "nda": "NDA202276",
+    "drug_name": "avanafil",
+    "smiles": "COC1=C(C=C(C=C1)CNC2=NC(=NC=C2C(=O)NCC3=NC=CC=N3)N4CCC[C@H]4CO)Cl",
+    "dose_mg": 800.0
+  },
+  {
+    "cmax_ngml": 2850.0,
+    "page": 126,
+    "nda": "NDA202276",
+    "drug_name": "avanafil",
+    "smiles": "COC1=C(C=C(C=C1)CNC2=NC(=NC=C2C(=O)NCC3=NC=CC=N3)N4CCC[C@H]4CO)Cl",
+    "dose_mg": 800.0
+  },
+  {
+    "cmax_ngml": 2870.0,
+    "page": 128,
+    "nda": "NDA202276",
+    "drug_name": "avanafil",
+    "smiles": "COC1=C(C=C(C=C1)CNC2=NC(=NC=C2C(=O)NCC3=NC=CC=N3)N4CCC[C@H]4CO)Cl",
+    "dose_mg": 800.0
+  },
+  {
+    "cmax_ngml": 2610.0,
+    "page": 129,
+    "nda": "NDA202276",
+    "drug_name": "avanafil",
+    "smiles": "COC1=C(C=C(C=C1)CNC2=NC(=NC=C2C(=O)NCC3=NC=CC=N3)N4CCC[C@H]4CO)Cl",
+    "dose_mg": 800.0
+  },
+  {
+    "cmax_ngml": 2850.0,
+    "page": 130,
+    "nda": "NDA202276",
+    "drug_name": "avanafil",
+    "smiles": "COC1=C(C=C(C=C1)CNC2=NC(=NC=C2C(=O)NCC3=NC=CC=N3)N4CCC[C@H]4CO)Cl",
+    "dose_mg": 800.0
+  },
+  {
+    "cmax_ngml": 535.0,
+    "page": 132,
+    "nda": "NDA202276",
+    "drug_name": "avanafil",
+    "smiles": "COC1=C(C=C(C=C1)CNC2=NC(=NC=C2C(=O)NCC3=NC=CC=N3)N4CCC[C@H]4CO)Cl",
+    "dose_mg": 800.0
+  },
+  {
+    "cmax_ngml": 568.0,
+    "page": 133,
+    "nda": "NDA202276",
+    "drug_name": "avanafil",
+    "smiles": "COC1=C(C=C(C=C1)CNC2=NC(=NC=C2C(=O)NCC3=NC=CC=N3)N4CCC[C@H]4CO)Cl",
+    "dose_mg": 800.0
+  },
+  {
+    "cmax_ngml": 2030.0,
+    "page": 135,
+    "nda": "NDA202276",
+    "drug_name": "avanafil",
+    "smiles": "COC1=C(C=C(C=C1)CNC2=NC(=NC=C2C(=O)NCC3=NC=CC=N3)N4CCC[C@H]4CO)Cl",
+    "dose_mg": 800.0
+  },
+  {
+    "cmax_ngml": 1520.0,
+    "page": 137,
+    "nda": "NDA202276",
+    "drug_name": "avanafil",
+    "smiles": "COC1=C(C=C(C=C1)CNC2=NC(=NC=C2C(=O)NCC3=NC=CC=N3)N4CCC[C@H]4CO)Cl",
+    "dose_mg": 800.0
+  },
+  {
+    "cmax_ngml": 648.0,
+    "page": 138,
+    "nda": "NDA202276",
+    "drug_name": "avanafil",
+    "smiles": "COC1=C(C=C(C=C1)CNC2=NC(=NC=C2C(=O)NCC3=NC=CC=N3)N4CCC[C@H]4CO)Cl",
+    "dose_mg": 800.0
+  },
+  {
+    "cmax_ngml": 19.0,
+    "page": 139,
+    "nda": "NDA202276",
+    "drug_name": "avanafil",
+    "smiles": "COC1=C(C=C(C=C1)CNC2=NC(=NC=C2C(=O)NCC3=NC=CC=N3)N4CCC[C@H]4CO)Cl",
+    "dose_mg": 800.0
+  },
+  {
+    "cmax_ngml": 1760.0,
+    "page": 146,
+    "nda": "NDA202276",
+    "drug_name": "avanafil",
+    "smiles": "COC1=C(C=C(C=C1)CNC2=NC(=NC=C2C(=O)NCC3=NC=CC=N3)N4CCC[C@H]4CO)Cl",
+    "dose_mg": 800.0
+  },
+  {
+    "cmax_ngml": 33.0,
+    "page": 47,
+    "nda": "NDA202611",
+    "drug_name": "mirabegron",
+    "smiles": "C1=CC=C(C=C1)[C@H](CNCCC2=CC=C(C=C2)NC(=O)CC3=CSC(=N3)N)O",
+    "dose_mg": 50.0
+  },
+  {
+    "cmax_ngml": 50.4,
+    "page": 47,
+    "nda": "NDA202611",
+    "drug_name": "mirabegron",
+    "smiles": "C1=CC=C(C=C1)[C@H](CNCCC2=CC=C(C=C2)NC(=O)CC3=CSC(=N3)N)O",
+    "dose_mg": 50.0
+  },
+  {
+    "cmax_ngml": 43500.0,
+    "page": 46,
+    "nda": "NDA210496",
+    "drug_name": "encorafenib",
+    "smiles": "C[C@@H](CNC1=NC=CC(=N1)C2=CN(N=C2C3=C(C(=CC(=C3)Cl)NS(=O)(=O)C)F)C(C)C)NC(=O)OC",
+    "dose_mg": 75.0
+  },
+  {
+    "cmax_ngml": 961.5,
+    "page": 80,
+    "nda": "NDA210496",
+    "drug_name": "encorafenib",
+    "smiles": "C[C@@H](CNC1=NC=CC(=N1)C2=CN(N=C2C3=C(C(=CC(=C3)Cl)NS(=O)(=O)C)F)C(C)C)NC(=O)OC",
+    "dose_mg": 75.0
+  },
+  {
+    "cmax_ngml": 553.5,
+    "page": 82,
+    "nda": "NDA210496",
+    "drug_name": "encorafenib",
+    "smiles": "C[C@@H](CNC1=NC=CC(=N1)C2=CN(N=C2C3=C(C(=CC(=C3)Cl)NS(=O)(=O)C)F)C(C)C)NC(=O)OC",
+    "dose_mg": 75.0
+  },
+  {
+    "cmax_ngml": 482.3,
+    "page": 83,
+    "nda": "NDA210496",
+    "drug_name": "encorafenib",
+    "smiles": "C[C@@H](CNC1=NC=CC(=N1)C2=CN(N=C2C3=C(C(=CC(=C3)Cl)NS(=O)(=O)C)F)C(C)C)NC(=O)OC",
+    "dose_mg": 75.0
+  },
+  {
+    "cmax_ngml": 1041.0,
+    "page": 84,
+    "nda": "NDA210496",
+    "drug_name": "encorafenib",
+    "smiles": "C[C@@H](CNC1=NC=CC(=N1)C2=CN(N=C2C3=C(C(=CC(=C3)Cl)NS(=O)(=O)C)F)C(C)C)NC(=O)OC",
+    "dose_mg": 75.0
+  },
+  {
+    "cmax_ngml": 100.0,
+    "page": 18,
+    "nda": "NDA205266",
+    "drug_name": "sonidegib",
+    "smiles": "C[C@@H]1CN(C[C@@H](O1)C)C2=NC=C(C=C2)NC(=O)C3=CC=CC(=C3C)C4=CC=C(C=C4)OC(F)(F)F",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 100.0,
+    "page": 18,
+    "nda": "NDA205266",
+    "drug_name": "sonidegib",
+    "smiles": "C[C@@H]1CN(C[C@@H](O1)C)C2=NC=C(C=C2)NC(=O)C3=CC=CC(=C3C)C4=CC=C(C=C4)OC(F)(F)F",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1.08,
+    "page": 24,
+    "nda": "NDA205266",
+    "drug_name": "sonidegib",
+    "smiles": "C[C@@H]1CN(C[C@@H](O1)C)C2=NC=C(C=C2)NC(=O)C3=CC=CC(=C3C)C4=CC=C(C=C4)OC(F)(F)F",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 21067.0,
+    "page": 44,
+    "nda": "NDA205266",
+    "drug_name": "sonidegib",
+    "smiles": "C[C@@H]1CN(C[C@@H](O1)C)C2=NC=C(C=C2)NC(=O)C3=CC=CC(=C3C)C4=CC=C(C=C4)OC(F)(F)F",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 212.0,
+    "page": 74,
+    "nda": "NDA205266",
+    "drug_name": "sonidegib",
+    "smiles": "C[C@@H]1CN(C[C@@H](O1)C)C2=NC=C(C=C2)NC(=O)C3=CC=CC(=C3C)C4=CC=C(C=C4)OC(F)(F)F",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 7.0,
+    "page": 78,
+    "nda": "NDA205266",
+    "drug_name": "sonidegib",
+    "smiles": "C[C@@H]1CN(C[C@@H](O1)C)C2=NC=C(C=C2)NC(=O)C3=CC=CC(=C3C)C4=CC=C(C=C4)OC(F)(F)F",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1230.62,
+    "page": 9,
+    "nda": "NDA207233",
+    "drug_name": "meloxicam",
+    "smiles": "CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O",
+    "dose_mg": 10.0
+  },
+  {
+    "cmax_ngml": 0.982,
+    "page": 9,
+    "nda": "NDA207233",
+    "drug_name": "meloxicam",
+    "smiles": "CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O",
+    "dose_mg": 10.0
+  },
+  {
+    "cmax_ngml": 642.4,
+    "page": 11,
+    "nda": "NDA207233",
+    "drug_name": "meloxicam",
+    "smiles": "CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O",
+    "dose_mg": 10.0
+  },
+  {
+    "cmax_ngml": 1225.36,
+    "page": 12,
+    "nda": "NDA207233",
+    "drug_name": "meloxicam",
+    "smiles": "CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O",
+    "dose_mg": 10.0
+  },
+  {
+    "cmax_ngml": 1255.36,
+    "page": 13,
+    "nda": "NDA207233",
+    "drug_name": "meloxicam",
+    "smiles": "CC1=CN=C(S1)NC(=O)C2=C(C3=CC=CC=C3S(=O)(=O)N2C)O",
+    "dose_mg": 10.0
+  },
+  {
+    "cmax_ngml": 400.0,
+    "page": 39,
+    "nda": "NDA219685",
+    "drug_name": "rilzabrutinib",
+    "smiles": "CC(C)(/C=C(\\C#N)/C(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=C(C=C(C=C4)OC5=CC=CC=C5)F)N)N6CCN(CC6)C7COC7",
+    "dose_mg": 400.0
+  },
+  {
+    "cmax_ngml": 8.0,
+    "page": 91,
+    "nda": "NDA219685",
+    "drug_name": "rilzabrutinib",
+    "smiles": "CC(C)(/C=C(\\C#N)/C(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=C(C=C(C=C4)OC5=CC=CC=C5)F)N)N6CCN(CC6)C7COC7",
+    "dose_mg": 400.0
+  },
+  {
+    "cmax_ngml": 150.0,
+    "page": 114,
+    "nda": "NDA219685",
+    "drug_name": "rilzabrutinib",
+    "smiles": "CC(C)(/C=C(\\C#N)/C(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=C(C=C(C=C4)OC5=CC=CC=C5)F)N)N6CCN(CC6)C7COC7",
+    "dose_mg": 400.0
+  },
+  {
+    "cmax_ngml": 1280.0,
+    "page": 140,
+    "nda": "NDA219685",
+    "drug_name": "rilzabrutinib",
+    "smiles": "CC(C)(/C=C(\\C#N)/C(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=C(C=C(C=C4)OC5=CC=CC=C5)F)N)N6CCN(CC6)C7COC7",
+    "dose_mg": 400.0
+  },
+  {
+    "cmax_ngml": 1080.0,
+    "page": 140,
+    "nda": "NDA219685",
+    "drug_name": "rilzabrutinib",
+    "smiles": "CC(C)(/C=C(\\C#N)/C(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=C(C=C(C=C4)OC5=CC=CC=C5)F)N)N6CCN(CC6)C7COC7",
+    "dose_mg": 400.0
+  },
+  {
+    "cmax_ngml": 2590.0,
+    "page": 143,
+    "nda": "NDA219685",
+    "drug_name": "rilzabrutinib",
+    "smiles": "CC(C)(/C=C(\\C#N)/C(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=C(C=C(C=C4)OC5=CC=CC=C5)F)N)N6CCN(CC6)C7COC7",
+    "dose_mg": 400.0
+  },
+  {
+    "cmax_ngml": 2300.0,
+    "page": 143,
+    "nda": "NDA219685",
+    "drug_name": "rilzabrutinib",
+    "smiles": "CC(C)(/C=C(\\C#N)/C(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=C(C=C(C=C4)OC5=CC=CC=C5)F)N)N6CCN(CC6)C7COC7",
+    "dose_mg": 400.0
+  },
+  {
+    "cmax_ngml": 10.7,
+    "page": 145,
+    "nda": "NDA219685",
+    "drug_name": "rilzabrutinib",
+    "smiles": "CC(C)(/C=C(\\C#N)/C(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=C(C=C(C=C4)OC5=CC=CC=C5)F)N)N6CCN(CC6)C7COC7",
+    "dose_mg": 400.0
+  },
+  {
+    "cmax_ngml": 35.1,
+    "page": 145,
+    "nda": "NDA219685",
+    "drug_name": "rilzabrutinib",
+    "smiles": "CC(C)(/C=C(\\C#N)/C(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=C(C=C(C=C4)OC5=CC=CC=C5)F)N)N6CCN(CC6)C7COC7",
+    "dose_mg": 400.0
+  },
+  {
+    "cmax_ngml": 64.38,
+    "page": 162,
+    "nda": "NDA219685",
+    "drug_name": "rilzabrutinib",
+    "smiles": "CC(C)(/C=C(\\C#N)/C(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=C(C=C(C=C4)OC5=CC=CC=C5)F)N)N6CCN(CC6)C7COC7",
+    "dose_mg": 400.0
+  },
+  {
+    "cmax_ngml": 228.8,
+    "page": 165,
+    "nda": "NDA219685",
+    "drug_name": "rilzabrutinib",
+    "smiles": "CC(C)(/C=C(\\C#N)/C(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=C(C=C(C=C4)OC5=CC=CC=C5)F)N)N6CCN(CC6)C7COC7",
+    "dose_mg": 400.0
+  },
+  {
+    "cmax_ngml": 174.0,
+    "page": 7,
+    "nda": "NDA208398",
+    "drug_name": "mebendazole",
+    "smiles": "COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 881.0,
+    "page": 7,
+    "nda": "NDA208398",
+    "drug_name": "mebendazole",
+    "smiles": "COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 210.0,
+    "page": 34,
+    "nda": "NDA208398",
+    "drug_name": "mebendazole",
+    "smiles": "COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 881.0,
+    "page": 34,
+    "nda": "NDA208398",
+    "drug_name": "mebendazole",
+    "smiles": "COC(=O)NC1=NC2=C(N1)C=C(C=C2)C(=O)C3=CC=CC=C3",
+    "dose_mg": 100.0
+  },
+  {
+    "cmax_ngml": 199.02,
+    "page": 121,
+    "nda": "NDA218490",
+    "drug_name": "macitentan",
+    "smiles": "CCCNS(=O)(=O)NC1=C(C(=NC=N1)OCCOC2=NC=C(C=N2)Br)C3=CC=C(C=C3)Br",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 277.96,
+    "page": 122,
+    "nda": "NDA218490",
+    "drug_name": "macitentan",
+    "smiles": "CCCNS(=O)(=O)NC1=C(C(=NC=N1)OCCOC2=NC=C(C=N2)Br)C3=CC=C(C=C3)Br",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 206.49,
+    "page": 122,
+    "nda": "NDA218490",
+    "drug_name": "macitentan",
+    "smiles": "CCCNS(=O)(=O)NC1=C(C(=NC=N1)OCCOC2=NC=C(C=N2)Br)C3=CC=C(C=C3)Br",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 528.49,
+    "page": 123,
+    "nda": "NDA218490",
+    "drug_name": "macitentan",
+    "smiles": "CCCNS(=O)(=O)NC1=C(C(=NC=N1)OCCOC2=NC=C(C=N2)Br)C3=CC=C(C=C3)Br",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 198.36,
+    "page": 124,
+    "nda": "NDA218490",
+    "drug_name": "macitentan",
+    "smiles": "CCCNS(=O)(=O)NC1=C(C(=NC=N1)OCCOC2=NC=C(C=N2)Br)C3=CC=C(C=C3)Br",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 274.39,
+    "page": 124,
+    "nda": "NDA218490",
+    "drug_name": "macitentan",
+    "smiles": "CCCNS(=O)(=O)NC1=C(C(=NC=N1)OCCOC2=NC=C(C=N2)Br)C3=CC=C(C=C3)Br",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 238.34,
+    "page": 125,
+    "nda": "NDA218490",
+    "drug_name": "macitentan",
+    "smiles": "CCCNS(=O)(=O)NC1=C(C(=NC=N1)OCCOC2=NC=C(C=N2)Br)C3=CC=C(C=C3)Br",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 664.15,
+    "page": 125,
+    "nda": "NDA218490",
+    "drug_name": "macitentan",
+    "smiles": "CCCNS(=O)(=O)NC1=C(C(=NC=N1)OCCOC2=NC=C(C=N2)Br)C3=CC=C(C=C3)Br",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 199.02,
+    "page": 141,
+    "nda": "NDA218490",
+    "drug_name": "macitentan",
+    "smiles": "CCCNS(=O)(=O)NC1=C(C(=NC=N1)OCCOC2=NC=C(C=N2)Br)C3=CC=C(C=C3)Br",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 198.36,
+    "page": 141,
+    "nda": "NDA218490",
+    "drug_name": "macitentan",
+    "smiles": "CCCNS(=O)(=O)NC1=C(C(=NC=N1)OCCOC2=NC=C(C=N2)Br)C3=CC=C(C=C3)Br",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 277.96,
+    "page": 147,
+    "nda": "NDA218490",
+    "drug_name": "macitentan",
+    "smiles": "CCCNS(=O)(=O)NC1=C(C(=NC=N1)OCCOC2=NC=C(C=N2)Br)C3=CC=C(C=C3)Br",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 274.39,
+    "page": 147,
+    "nda": "NDA218490",
+    "drug_name": "macitentan",
+    "smiles": "CCCNS(=O)(=O)NC1=C(C(=NC=N1)OCCOC2=NC=C(C=N2)Br)C3=CC=C(C=C3)Br",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 206.49,
+    "page": 154,
+    "nda": "NDA218490",
+    "drug_name": "macitentan",
+    "smiles": "CCCNS(=O)(=O)NC1=C(C(=NC=N1)OCCOC2=NC=C(C=N2)Br)C3=CC=C(C=C3)Br",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 528.49,
+    "page": 157,
+    "nda": "NDA218490",
+    "drug_name": "macitentan",
+    "smiles": "CCCNS(=O)(=O)NC1=C(C(=NC=N1)OCCOC2=NC=C(C=N2)Br)C3=CC=C(C=C3)Br",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 238.34,
+    "page": 159,
+    "nda": "NDA218490",
+    "drug_name": "macitentan",
+    "smiles": "CCCNS(=O)(=O)NC1=C(C(=NC=N1)OCCOC2=NC=C(C=N2)Br)C3=CC=C(C=C3)Br",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 664.15,
+    "page": 164,
+    "nda": "NDA218490",
+    "drug_name": "macitentan",
+    "smiles": "CCCNS(=O)(=O)NC1=C(C(=NC=N1)OCCOC2=NC=C(C=N2)Br)C3=CC=C(C=C3)Br",
+    "dose_mg": 20.0
+  },
+  {
+    "cmax_ngml": 5.59,
+    "page": 131,
+    "nda": "NDA022399",
+    "drug_name": "gabapentin enacarbil",
+    "smiles": "CC(C)C(=O)OC(C)OC(=O)NCC1(CCCCC1)CC(=O)O",
+    "dose_mg": 600.0
+  },
+  {
+    "cmax_ngml": 10.0,
+    "page": 12,
+    "nda": "NDA204114",
+    "drug_name": "trametinib dimethyl sulfoxide",
+    "smiles": "CC1=C2C(=C(N(C1=O)C)NC3=C(C=C(C=C3)I)F)C(=O)N(C(=O)N2C4=CC=CC(=C4)NC(=O)C)C5CC5.CS(=O)C",
+    "dose_mg": 2.0
+  },
+  {
+    "cmax_ngml": 438.5,
+    "page": 36,
+    "nda": "NDA210498",
+    "drug_name": "binimetinib",
+    "smiles": "CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)F)C(=O)NOCCO",
+    "dose_mg": 15.0
+  },
+  {
+    "cmax_ngml": 438.0,
+    "page": 58,
+    "nda": "NDA210498",
+    "drug_name": "binimetinib",
+    "smiles": "CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)F)C(=O)NOCCO",
+    "dose_mg": 15.0
+  },
+  {
+    "cmax_ngml": 300.0,
+    "page": 61,
+    "nda": "NDA217564",
+    "drug_name": "fruquintinib",
+    "smiles": "CC1=C(C2=C(O1)C=C(C=C2)OC3=NC=NC4=CC(=C(C=C43)OC)OC)C(=O)NC",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 1.0,
+    "page": 58,
+    "nda": "NDA219042",
+    "drug_name": "zongertinib",
+    "smiles": "CC1=C(C=CC(=C1)NC2=NC=NC3=CN=C(N=C32)N4CCC(CC4)NC(=O)C=C)OC5=CC6=C(C=C5)N(C=N6)C",
+    "dose_mg": 60.0
+  },
+  {
+    "cmax_ngml": 184.0,
+    "page": 83,
+    "nda": "NDA214958",
+    "drug_name": "deucravacitinib",
+    "smiles": "[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4",
+    "dose_mg": 6.0
+  },
+  {
+    "cmax_ngml": 343.0,
+    "page": 83,
+    "nda": "NDA214958",
+    "drug_name": "deucravacitinib",
+    "smiles": "[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4",
+    "dose_mg": 6.0
+  },
+  {
+    "cmax_ngml": 36.6,
+    "page": 86,
+    "nda": "NDA214958",
+    "drug_name": "deucravacitinib",
+    "smiles": "[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4",
+    "dose_mg": 6.0
+  },
+  {
+    "cmax_ngml": 3.4,
+    "page": 87,
+    "nda": "NDA214958",
+    "drug_name": "deucravacitinib",
+    "smiles": "[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4",
+    "dose_mg": 6.0
+  },
+  {
+    "cmax_ngml": 8.0,
+    "page": 94,
+    "nda": "NDA214958",
+    "drug_name": "deucravacitinib",
+    "smiles": "[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4",
+    "dose_mg": 6.0
+  },
+  {
+    "cmax_ngml": 8.0,
+    "page": 94,
+    "nda": "NDA214958",
+    "drug_name": "deucravacitinib",
+    "smiles": "[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4",
+    "dose_mg": 6.0
+  },
+  {
+    "cmax_ngml": 8.0,
+    "page": 94,
+    "nda": "NDA214958",
+    "drug_name": "deucravacitinib",
+    "smiles": "[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4",
+    "dose_mg": 6.0
+  },
+  {
+    "cmax_ngml": 8.0,
+    "page": 94,
+    "nda": "NDA214958",
+    "drug_name": "deucravacitinib",
+    "smiles": "[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4",
+    "dose_mg": 6.0
+  },
+  {
+    "cmax_ngml": 8.0,
+    "page": 94,
+    "nda": "NDA214958",
+    "drug_name": "deucravacitinib",
+    "smiles": "[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4",
+    "dose_mg": 6.0
+  },
+  {
+    "cmax_ngml": 8.0,
+    "page": 94,
+    "nda": "NDA214958",
+    "drug_name": "deucravacitinib",
+    "smiles": "[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4",
+    "dose_mg": 6.0
+  },
+  {
+    "cmax_ngml": 8.0,
+    "page": 95,
+    "nda": "NDA214958",
+    "drug_name": "deucravacitinib",
+    "smiles": "[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4",
+    "dose_mg": 6.0
+  },
+  {
+    "cmax_ngml": 8.0,
+    "page": 95,
+    "nda": "NDA214958",
+    "drug_name": "deucravacitinib",
+    "smiles": "[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4",
+    "dose_mg": 6.0
+  },
+  {
+    "cmax_ngml": 18.0,
+    "page": 97,
+    "nda": "NDA214958",
+    "drug_name": "deucravacitinib",
+    "smiles": "[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4",
+    "dose_mg": 6.0
+  },
+  {
+    "cmax_ngml": 18.0,
+    "page": 97,
+    "nda": "NDA214958",
+    "drug_name": "deucravacitinib",
+    "smiles": "[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4",
+    "dose_mg": 6.0
+  },
+  {
+    "cmax_ngml": 81.58,
+    "page": 71,
+    "nda": "NDA215814",
+    "drug_name": "olutasidenib",
+    "smiles": "C[C@@H](C1=CC2=C(C=CC(=C2)Cl)NC1=O)NC3=CC=C(N(C3=O)C)C#N",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 56.68,
+    "page": 71,
+    "nda": "NDA215814",
+    "drug_name": "olutasidenib",
+    "smiles": "C[C@@H](C1=CC2=C(C=CC(=C2)Cl)NC1=O)NC3=CC=C(N(C3=O)C)C#N",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 16248.0,
+    "page": 16,
+    "nda": "NDA209471",
+    "drug_name": "acetaminophen",
+    "smiles": "CC(=O)NC1=CC=C(C=C1)O",
+    "dose_mg": 97.5
+  },
+  {
+    "cmax_ngml": 19943.0,
+    "page": 16,
+    "nda": "NDA209471",
+    "drug_name": "acetaminophen",
+    "smiles": "CC(=O)NC1=CC=C(C=C1)O",
+    "dose_mg": 97.5
+  },
+  {
+    "cmax_ngml": 15368.0,
+    "page": 17,
+    "nda": "NDA209471",
+    "drug_name": "acetaminophen",
+    "smiles": "CC(=O)NC1=CC=C(C=C1)O",
+    "dose_mg": 97.5
+  },
+  {
+    "cmax_ngml": 20654.0,
+    "page": 17,
+    "nda": "NDA209471",
+    "drug_name": "acetaminophen",
+    "smiles": "CC(=O)NC1=CC=C(C=C1)O",
+    "dose_mg": 97.5
+  },
+  {
+    "cmax_ngml": 16548.0,
+    "page": 18,
+    "nda": "NDA209471",
+    "drug_name": "acetaminophen",
+    "smiles": "CC(=O)NC1=CC=C(C=C1)O",
+    "dose_mg": 97.5
+  },
+  {
+    "cmax_ngml": 5417.0,
+    "page": 34,
+    "nda": "NDA209471",
+    "drug_name": "acetaminophen",
+    "smiles": "CC(=O)NC1=CC=C(C=C1)O",
+    "dose_mg": 97.5
+  },
+  {
+    "cmax_ngml": 8549.0,
+    "page": 34,
+    "nda": "NDA209471",
+    "drug_name": "acetaminophen",
+    "smiles": "CC(=O)NC1=CC=C(C=C1)O",
+    "dose_mg": 97.5
+  },
+  {
+    "cmax_ngml": 16500.0,
+    "page": 73,
+    "nda": "NDA214133",
+    "drug_name": "levoketoconazole",
+    "smiles": "CC(=O)N1CCN(CC1)C2=CC=C(C=C2)OC[C@@H]3CO[C@@](O3)(CN4C=CN=C4)C5=C(C=C(C=C5)Cl)Cl",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 1520.0,
+    "page": 75,
+    "nda": "NDA214133",
+    "drug_name": "levoketoconazole",
+    "smiles": "CC(=O)N1CCN(CC1)C2=CC=C(C=C2)OC[C@@H]3CO[C@@](O3)(CN4C=CN=C4)C5=C(C=C(C=C5)Cl)Cl",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 13668.0,
+    "page": 76,
+    "nda": "NDA214133",
+    "drug_name": "levoketoconazole",
+    "smiles": "CC(=O)N1CCN(CC1)C2=CC=C(C=C2)OC[C@@H]3CO[C@@](O3)(CN4C=CN=C4)C5=C(C=C(C=C5)Cl)Cl",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 65.0,
+    "page": 79,
+    "nda": "NDA214133",
+    "drug_name": "levoketoconazole",
+    "smiles": "CC(=O)N1CCN(CC1)C2=CC=C(C=C2)OC[C@@H]3CO[C@@](O3)(CN4C=CN=C4)C5=C(C=C(C=C5)Cl)Cl",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 1.34,
+    "page": 79,
+    "nda": "NDA214133",
+    "drug_name": "levoketoconazole",
+    "smiles": "CC(=O)N1CCN(CC1)C2=CC=C(C=C2)OC[C@@H]3CO[C@@](O3)(CN4C=CN=C4)C5=C(C=C(C=C5)Cl)Cl",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 3.1,
+    "page": 79,
+    "nda": "NDA214133",
+    "drug_name": "levoketoconazole",
+    "smiles": "CC(=O)N1CCN(CC1)C2=CC=C(C=C2)OC[C@@H]3CO[C@@](O3)(CN4C=CN=C4)C5=C(C=C(C=C5)Cl)Cl",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 3976.0,
+    "page": 82,
+    "nda": "NDA214133",
+    "drug_name": "levoketoconazole",
+    "smiles": "CC(=O)N1CCN(CC1)C2=CC=C(C=C2)OC[C@@H]3CO[C@@](O3)(CN4C=CN=C4)C5=C(C=C(C=C5)Cl)Cl",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 3291.2,
+    "page": 196,
+    "nda": "NDA214133",
+    "drug_name": "levoketoconazole",
+    "smiles": "CC(=O)N1CCN(CC1)C2=CC=C(C=C2)OC[C@@H]3CO[C@@](O3)(CN4C=CN=C4)C5=C(C=C(C=C5)Cl)Cl",
+    "dose_mg": 150.0
+  },
+  {
+    "cmax_ngml": 18800.0,
+    "page": 67,
+    "nda": "NDA209816",
+    "drug_name": "omadacycline",
+    "smiles": "CC(C)(C)CNCC1=CC(=C2C[C@H]3C[C@H]4[C@@H](C(=O)C(=C([C@]4(C(=O)C3=C(C2=C1O)O)O)O)C(=O)N)N(C)C)N(C)C",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 28.0,
+    "page": 3,
+    "nda": "NDA022405",
+    "drug_name": "vandetanib",
+    "smiles": "CN1CCC(CC1)COC2=C(C=C3C(=C2)N=CN=C3NC4=C(C=C(C=C4)Br)F)OC",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 213.0,
+    "page": 15,
+    "nda": "NDA022405",
+    "drug_name": "vandetanib",
+    "smiles": "CN1CCC(CC1)COC2=C(C=C3C(=C2)N=CN=C3NC4=C(C=C(C=C4)Br)F)OC",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 919.8,
+    "page": 16,
+    "nda": "NDA022405",
+    "drug_name": "vandetanib",
+    "smiles": "CN1CCC(CC1)COC2=C(C=C3C(=C2)N=CN=C3NC4=C(C=C(C=C4)Br)F)OC",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 130.0,
+    "page": 18,
+    "nda": "NDA022405",
+    "drug_name": "vandetanib",
+    "smiles": "CN1CCC(CC1)COC2=C(C=C3C(=C2)N=CN=C3NC4=C(C=C(C=C4)Br)F)OC",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 14.0,
+    "page": 22,
+    "nda": "NDA022405",
+    "drug_name": "vandetanib",
+    "smiles": "CN1CCC(CC1)COC2=C(C=C3C(=C2)N=CN=C3NC4=C(C=C(C=C4)Br)F)OC",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 2.005,
+    "page": 39,
+    "nda": "NDA022405",
+    "drug_name": "vandetanib",
+    "smiles": "CN1CCC(CC1)COC2=C(C=C3C(=C2)N=CN=C3NC4=C(C=C(C=C4)Br)F)OC",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 36.0,
+    "page": 39,
+    "nda": "NDA022405",
+    "drug_name": "vandetanib",
+    "smiles": "CN1CCC(CC1)COC2=C(C=C3C(=C2)N=CN=C3NC4=C(C=C(C=C4)Br)F)OC",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 100.0,
+    "page": 81,
+    "nda": "NDA022405",
+    "drug_name": "vandetanib",
+    "smiles": "CN1CCC(CC1)COC2=C(C=C3C(=C2)N=CN=C3NC4=C(C=C(C=C4)Br)F)OC",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 74.6,
+    "page": 11,
+    "nda": "NDA210833",
+    "drug_name": "clobazam",
+    "smiles": "CN1C(=O)CC(=O)N(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3",
+    "dose_mg": 10.0
+  },
+  {
+    "cmax_ngml": 5.0,
+    "page": 29,
+    "nda": "NDA022406",
+    "drug_name": "rivaroxaban",
+    "smiles": "C1COCC(=O)N1C2=CC=C(C=C2)N3C[C@@H](OC3=O)CNC(=O)C4=CC=C(S4)Cl",
+    "dose_mg": 5.0
+  },
+  {
+    "cmax_ngml": 115.0,
+    "page": 7,
+    "nda": "NDA217581",
+    "drug_name": "crizotinib",
+    "smiles": "C[C@H](C1=C(C=CC(=C1Cl)F)Cl)OC2=C(N=CC(=C2)C3=CN(N=C3)C4CCNCC4)N",
+    "dose_mg": 250.0
+  },
+  {
+    "cmax_ngml": 1137.22,
+    "page": 3,
+    "nda": "NDA022411",
+    "drug_name": "trazodone",
+    "smiles": "C1CN(CCN1CCCN2C(=O)N3C=CC=CC3=N2)C4=CC(=CC=C4)Cl",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 1137.22,
+    "page": 7,
+    "nda": "NDA022411",
+    "drug_name": "trazodone",
+    "smiles": "C1CN(CCN1CCCN2C(=O)N3C=CC=CC3=N2)C4=CC(=CC=C4)Cl",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 12.55,
+    "page": 7,
+    "nda": "NDA022411",
+    "drug_name": "trazodone",
+    "smiles": "C1CN(CCN1CCCN2C(=O)N3C=CC=CC3=N2)C4=CC(=CC=C4)Cl",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 1231.0,
+    "page": 32,
+    "nda": "NDA022411",
+    "drug_name": "trazodone",
+    "smiles": "C1CN(CCN1CCCN2C(=O)N3C=CC=CC3=N2)C4=CC(=CC=C4)Cl",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 18.1,
+    "page": 34,
+    "nda": "NDA022411",
+    "drug_name": "trazodone",
+    "smiles": "C1CN(CCN1CCCN2C(=O)N3C=CC=CC3=N2)C4=CC(=CC=C4)Cl",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 104.0,
+    "page": 125,
+    "nda": "NDA022411",
+    "drug_name": "trazodone",
+    "smiles": "C1CN(CCN1CCCN2C(=O)N3C=CC=CC3=N2)C4=CC(=CC=C4)Cl",
+    "dose_mg": 300.0
+  },
+  {
+    "cmax_ngml": 1.31,
+    "page": 164,
+    "nda": "NDA022416",
+    "drug_name": "eslicarbazepine",
+    "smiles": "C1[C@@H](C2=CC=CC=C2N(C3=CC=CC=C31)C(=O)N)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 0.52,
+    "page": 164,
+    "nda": "NDA022416",
+    "drug_name": "eslicarbazepine",
+    "smiles": "C1[C@@H](C2=CC=CC=C2N(C3=CC=CC=C31)C(=O)N)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1.65,
+    "page": 164,
+    "nda": "NDA022416",
+    "drug_name": "eslicarbazepine",
+    "smiles": "C1[C@@H](C2=CC=CC=C2N(C3=CC=CC=C31)C(=O)N)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 1.54,
+    "page": 164,
+    "nda": "NDA022416",
+    "drug_name": "eslicarbazepine",
+    "smiles": "C1[C@@H](C2=CC=CC=C2N(C3=CC=CC=C31)C(=O)N)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 22957.0,
+    "page": 169,
+    "nda": "NDA022416",
+    "drug_name": "eslicarbazepine",
+    "smiles": "C1[C@@H](C2=CC=CC=C2N(C3=CC=CC=C31)C(=O)N)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 8.0,
+    "page": 169,
+    "nda": "NDA022416",
+    "drug_name": "eslicarbazepine",
+    "smiles": "C1[C@@H](C2=CC=CC=C2N(C3=CC=CC=C31)C(=O)N)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 8.0,
+    "page": 169,
+    "nda": "NDA022416",
+    "drug_name": "eslicarbazepine",
+    "smiles": "C1[C@@H](C2=CC=CC=C2N(C3=CC=CC=C31)C(=O)N)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 8.0,
+    "page": 170,
+    "nda": "NDA022416",
+    "drug_name": "eslicarbazepine",
+    "smiles": "C1[C@@H](C2=CC=CC=C2N(C3=CC=CC=C31)C(=O)N)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 8.0,
+    "page": 170,
+    "nda": "NDA022416",
+    "drug_name": "eslicarbazepine",
+    "smiles": "C1[C@@H](C2=CC=CC=C2N(C3=CC=CC=C31)C(=O)N)O",
+    "dose_mg": 200.0
+  },
+  {
+    "cmax_ngml": 22957.0,
+    "page": 297,
+    "nda": "NDA022416",
+    "drug_name": "eslicarbazepine",
+    "smiles": "C1[C@@H](C2=CC=CC=C2N(C3=CC=CC=C31)C(=O)N)O",
+    "dose_mg": 200.0
+  }
+]

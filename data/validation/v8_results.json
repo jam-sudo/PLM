@@ -1,0 +1,10 @@
+{
+  "version": "v8_wave3_expanded",
+  "n_train": 3425,
+  "n_drugs": 1152,
+  "cv_aafe": 3.149,
+  "cv_2fold": 38.2,
+  "ho_aafe": 3.622,
+  "ho_2fold": 37.1,
+  "features": "Morgan4096 + PhysChem24 + log_dose"
+}
