@@ -1,0 +1,10 @@
+{
+  "baseline_aafe": 3.07,
+  "strategy_A": 2.436,
+  "strategy_B": 3.022,
+  "strategy_C": 2.389,
+  "strategy_D": 2.051,
+  "best": "D",
+  "best_aafe": 2.051,
+  "entries_removed": 872
+}
