@@ -43,3 +43,4 @@ Thumbs.db
 models/*.pkl
 models/*.json
 !models/__init__.py
+*.tab
