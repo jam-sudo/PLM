@@ -1,0 +1,875 @@
+[
+  {
+    "drug_name": "abiraterone",
+    "smiles": "C[C@]12CC[C@H](O)CC1=CC[C@@H]1[C@@H]2CC[C@]2(C)C(c3cccnc3)=CC[C@@H]12",
+    "dose_mg": 1000.0,
+    "cmax_obs_ngml": 73.0,
+    "cmax_pred_plm_ngml": 3643.090576171875,
+    "fold_error": 49.90535035851885,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "acamprosate",
+    "smiles": "CC(=O)NCCCS(=O)(=O)O",
+    "dose_mg": 1332.0,
+    "cmax_obs_ngml": 180.0,
+    "cmax_pred_plm_ngml": 8909.0810546875,
+    "fold_error": 49.49489474826389,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "adefovir dipivoxil",
+    "smiles": "CC(C)(C)C(=O)OCOP(=O)(COCCn1cnc2c(N)ncnc21)OCOC(=O)C(C)(C)C",
+    "dose_mg": 10.0,
+    "cmax_obs_ngml": 18.4,
+    "cmax_pred_plm_ngml": 37.68402862548828,
+    "fold_error": 2.0480450339939287,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "alosetron",
+    "smiles": "Cc1[nH]cnc1CN1CCc2c(c3ccccc3n2C)C1=O",
+    "dose_mg": 4.0,
+    "cmax_obs_ngml": 5.0,
+    "cmax_pred_plm_ngml": 23.620752334594727,
+    "fold_error": 4.724150466918944,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "alprazolam",
+    "smiles": "Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1)=NC2",
+    "dose_mg": 2.07,
+    "cmax_obs_ngml": 14.003,
+    "cmax_pred_plm_ngml": 21.457151412963867,
+    "fold_error": 1.5323253169295057,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "alvimopan",
+    "smiles": "C[C@H]1CN(C[C@H](Cc2ccccc2)C(=O)NCC(=O)O)CC[C@@]1(C)c1cccc(O)c1",
+    "dose_mg": 24.0,
+    "cmax_obs_ngml": 10.98,
+    "cmax_pred_plm_ngml": 80.9564208984375,
+    "fold_error": 7.373080227544398,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "amantadine",
+    "smiles": "NC12CC3CC(CC(C3)C1)C2",
+    "dose_mg": 207.0,
+    "cmax_obs_ngml": 220.0,
+    "cmax_pred_plm_ngml": 621.9213256835938,
+    "fold_error": 2.8269151167436077,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "apixaban",
+    "smiles": "COc1ccc(-n2nc(C(N)=O)c3c2C(=O)N(c2ccc(N4CCCCC4=O)cc2)CC3)cc1",
+    "dose_mg": 50.0,
+    "cmax_obs_ngml": 126.0,
+    "cmax_pred_plm_ngml": 372.3407287597656,
+    "fold_error": 2.955085148887029,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "atovaquone",
+    "smiles": "O=C1C(O)=C([C@H]2CC[C@H](c3ccc(Cl)cc3)CC2)C(=O)c2ccccc21",
+    "dose_mg": 500.0,
+    "cmax_obs_ngml": 8800.0,
+    "cmax_pred_plm_ngml": 2143.119140625,
+    "fold_error": 4.1061646238825755,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "azacitidine",
+    "smiles": "Nc1ncn(C2OC(CO)C(O)C2O)c(=O)n1",
+    "dose_mg": 300.0,
+    "cmax_obs_ngml": 145.0,
+    "cmax_pred_plm_ngml": 1095.8133544921875,
+    "fold_error": 7.5573334792564655,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "azithromycin",
+    "smiles": "CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O",
+    "dose_mg": 500.0,
+    "cmax_obs_ngml": 500.0,
+    "cmax_pred_plm_ngml": 5048.3837890625,
+    "fold_error": 10.096767578125002,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "brincidofovir",
+    "smiles": "CCCCCCCCCCCCCCCCOCCCOP(=O)(O)CO[C@H](CO)Cn1ccc(N)nc1=O",
+    "dose_mg": 140.0,
+    "cmax_obs_ngml": 251.0,
+    "cmax_pred_plm_ngml": 91.710693359375,
+    "fold_error": 2.7368673249087574,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "budesonide",
+    "smiles": "CCCC1O[C@@H]2C[C@H]3[C@@H]4CCC5=CC(=O)C=C[C@]5(C)[C@H]4[C@@H](O)C[C@]3(C)[C@]2(C(=O)CO)O1",
+    "dose_mg": 3.0,
+    "cmax_obs_ngml": 1.5,
+    "cmax_pred_plm_ngml": 17.874006271362305,
+    "fold_error": 11.916004180908205,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "cabozantinib",
+    "smiles": "COc1cc2nccc(Oc3ccc(NC(=O)C4(C(=O)Nc5ccc(F)cc5)CC4)cc3)c2cc1OC",
+    "dose_mg": 140.0,
+    "cmax_obs_ngml": 9800.0,
+    "cmax_pred_plm_ngml": 766.2684326171875,
+    "fold_error": 12.7892518898738,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "carbamazepine",
+    "smiles": "NC(=O)N1c2ccccc2C=Cc2ccccc21",
+    "dose_mg": 600.0,
+    "cmax_obs_ngml": 1000.0,
+    "cmax_pred_plm_ngml": 6026.52978515625,
+    "fold_error": 6.026529785156251,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "carbinoxamine",
+    "smiles": "CN(C)CCOC(c1ccc(Cl)cc1)c1ccccn1",
+    "dose_mg": 8.0,
+    "cmax_obs_ngml": 24.0,
+    "cmax_pred_plm_ngml": 14.530181884765625,
+    "fold_error": 1.6517343134681017,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "levocetirizine",
+    "smiles": "O=C(O)COCCN1CCN([C@H](c2ccccc2)c2ccc(Cl)cc2)CC1",
+    "dose_mg": 30.0,
+    "cmax_obs_ngml": 450.0,
+    "cmax_pred_plm_ngml": 121.44474792480469,
+    "fold_error": 3.705388727708735,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "cimetidine",
+    "smiles": "CN/C(=N/C#N)NCCSCc1nc[nH]c1C",
+    "dose_mg": 400.0,
+    "cmax_obs_ngml": 2348.425,
+    "cmax_pred_plm_ngml": 1074.091064453125,
+    "fold_error": 2.18643006884682,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "ciprofloxacin",
+    "smiles": "O=C(O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O",
+    "dose_mg": 50.0,
+    "cmax_obs_ngml": 2970.0,
+    "cmax_pred_plm_ngml": 366.63970947265625,
+    "fold_error": 8.10059555270704,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "clomipramine",
+    "smiles": "CN(C)CCCN1c2ccccc2CCc2ccc(Cl)cc21",
+    "dose_mg": 75.0,
+    "cmax_obs_ngml": 92.0,
+    "cmax_pred_plm_ngml": 29.48592185974121,
+    "fold_error": 3.1201330735944457,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "clonidine",
+    "smiles": "Clc1cccc(Cl)c1NC1=NCCN1",
+    "dose_mg": 0.3,
+    "cmax_obs_ngml": 0.40072,
+    "cmax_pred_plm_ngml": 0.6679750084877014,
+    "fold_error": 1.6669370345570507,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "clopidogrel",
+    "smiles": "COC(=O)C(c1ccccc1Cl)N1CCc2sccc2C1",
+    "dose_mg": 300.0,
+    "cmax_obs_ngml": 300.0,
+    "cmax_pred_plm_ngml": 942.8408203125,
+    "fold_error": 3.142802734375,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "clozapine",
+    "smiles": "CN1CCN(C2=Nc3cc(Cl)ccc3Nc3ccccc32)CC1",
+    "dose_mg": 75.0,
+    "cmax_obs_ngml": 413.0,
+    "cmax_pred_plm_ngml": 97.14419555664062,
+    "fold_error": 4.251412013177847,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "codeine",
+    "smiles": "COc1ccc2c3c1O[C@H]1[C@@H](O)C=C[C@H]4[C@@H](C2)N(C)CC[C@@]341",
+    "dose_mg": 120.0,
+    "cmax_obs_ngml": 139.0,
+    "cmax_pred_plm_ngml": 215.2448272705078,
+    "fold_error": 1.5485239371978978,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "colchicine",
+    "smiles": "COc1cc2c(c(OC)c1OC)-c1ccc(OC)c(=O)cc1[C@@H](NC(C)=O)CC2",
+    "dose_mg": 1.0,
+    "cmax_obs_ngml": 2.5,
+    "cmax_pred_plm_ngml": 6.755734443664551,
+    "fold_error": 2.7022937774658202,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "dalfampridine",
+    "smiles": "Nc1ccncc1",
+    "dose_mg": 10.0,
+    "cmax_obs_ngml": 42.7,
+    "cmax_pred_plm_ngml": 38.44186782836914,
+    "fold_error": 1.1107680873011188,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "dapagliflozin",
+    "smiles": "CCOc1ccc(Cc2cc([C@@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3O)ccc2Cl)cc1",
+    "dose_mg": 50.0,
+    "cmax_obs_ngml": 121.809,
+    "cmax_pred_plm_ngml": 955.6669311523438,
+    "fold_error": 7.845618395622194,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "darolutamide",
+    "smiles": "CC(Cn1ccc(-c2ccc(C#N)c(Cl)c2)n1)NC(=O)c1cc(C(C)O)[nH]n1",
+    "dose_mg": 600.0,
+    "cmax_obs_ngml": 4790.0,
+    "cmax_pred_plm_ngml": 3346.66064453125,
+    "fold_error": 1.4312774759004319,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "dasatinib",
+    "smiles": "Cc1nc(Nc2ncc(C(=O)Nc3c(C)cccc3Cl)s2)cc(N2CCN(CCO)CC2)n1",
+    "dose_mg": 100.0,
+    "cmax_obs_ngml": 82.19999999999999,
+    "cmax_pred_plm_ngml": 162.92193603515625,
+    "fold_error": 1.9820186865590788,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "diclofenac",
+    "smiles": "O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl",
+    "dose_mg": 150.0,
+    "cmax_obs_ngml": 500.0,
+    "cmax_pred_plm_ngml": 3961.121826171875,
+    "fold_error": 7.92224365234375,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "digoxin",
+    "smiles": "C[C@H]1O[C@@H](O[C@H]2[C@@H](O)C[C@H](O[C@H]3[C@@H](O)C[C@H](O[C@H]4CC[C@@]5(C)[C@H](CC[C@@H]6[C@@H]5C[C@@H](O)[C@]5(C)[C@@H](C7=CC(=O)OC7)CC[C@]65O)C4)O[C@@H]3C)O[C@@H]2C)C[C@H](O)[C@@H]1O",
+    "dose_mg": 1.0,
+    "cmax_obs_ngml": 1.5,
+    "cmax_pred_plm_ngml": 11.567215919494629,
+    "fold_error": 7.711477279663086,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "donepezil",
+    "smiles": "COc1cc2c(cc1OC)C(=O)C(CC1CCN(Cc3ccccc3)CC1)C2",
+    "dose_mg": 10.0,
+    "cmax_obs_ngml": 7.7,
+    "cmax_pred_plm_ngml": 20.061256408691406,
+    "fold_error": 2.6053579751547282,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "erythromycin",
+    "smiles": "CC[C@H]1OC(=O)[C@H](C)[C@@H](O[C@H]2C[C@@](C)(OC)[C@@H](O)[C@H](C)O2)[C@H](C)[C@@H](O[C@@H]2O[C@H](C)C[C@H](N(C)C)[C@H]2O)[C@](C)(O)C[C@@H](C)C(=O)[C@H](C)[C@@H](O)[C@]1(C)O",
+    "dose_mg": 500.0,
+    "cmax_obs_ngml": 1786.4,
+    "cmax_pred_plm_ngml": 2084.98291015625,
+    "fold_error": 1.167142247064627,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "etodolac",
+    "smiles": "CCc1cccc2c3c([nH]c12)C(CC)(CC(=O)O)OCC3",
+    "dose_mg": 200.0,
+    "cmax_obs_ngml": 15900.0,
+    "cmax_pred_plm_ngml": 2812.958251953125,
+    "fold_error": 5.652412363020365,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "famotidine",
+    "smiles": "NC(N)=Nc1nc(CSCCC(N)=NS(N)(=O)=O)cs1",
+    "dose_mg": 40.0,
+    "cmax_obs_ngml": 73.0,
+    "cmax_pred_plm_ngml": 102.43019104003906,
+    "fold_error": 1.4031533019183433,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "febuxostat",
+    "smiles": "Cc1nc(-c2ccc(OCC(C)C)c(C#N)c2)sc1C(=O)O",
+    "dose_mg": 240.0,
+    "cmax_obs_ngml": 1500.0,
+    "cmax_pred_plm_ngml": 2498.028076171875,
+    "fold_error": 1.66535205078125,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "fesoterodine",
+    "smiles": "CC(C)C(=O)Oc1ccc(CO)cc1C(CCN(C(C)C)C(C)C)c1ccccc1",
+    "dose_mg": 8.0,
+    "cmax_obs_ngml": 1.89,
+    "cmax_pred_plm_ngml": 31.278350830078125,
+    "fold_error": 16.549391973586314,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "fluvoxamine",
+    "smiles": "COCCCC/C(=N\\OCCN)c1ccc(C(F)(F)F)cc1",
+    "dose_mg": 100.0,
+    "cmax_obs_ngml": 15.0,
+    "cmax_pred_plm_ngml": 153.5378875732422,
+    "fold_error": 10.235859171549482,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "fruquintinib",
+    "smiles": "CNC(=O)c1c(C)oc2cc(Oc3ncnc4cc(OC)c(OC)cc34)ccc12",
+    "dose_mg": 4.0,
+    "cmax_obs_ngml": 113.0,
+    "cmax_pred_plm_ngml": 49.80173110961914,
+    "fold_error": 2.2689974320626414,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "glasdegib",
+    "smiles": "CN1CCC(NC(=O)Nc2ccc(C#N)cc2)CC1c1nc2ccccc2[nH]1",
+    "dose_mg": 150.0,
+    "cmax_obs_ngml": 1252.0,
+    "cmax_pred_plm_ngml": 275.02911376953125,
+    "fold_error": 4.55224533446721,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "hydroxyzine",
+    "smiles": "OCCOCCN1CCN(C(c2ccccc2)c2ccc(Cl)cc2)CC1",
+    "dose_mg": 46.62,
+    "cmax_obs_ngml": 30.0,
+    "cmax_pred_plm_ngml": 48.0446891784668,
+    "fold_error": 1.6014896392822267,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "indomethacin",
+    "smiles": "COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1",
+    "dose_mg": 100.0,
+    "cmax_obs_ngml": 1540.0,
+    "cmax_pred_plm_ngml": 656.6559448242188,
+    "fold_error": 2.3452159569076088,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "isosorbide mononitrate",
+    "smiles": "O=[N+]([O-])O[C@@H]1CO[C@H]2[C@@H]1OC[C@@H]2O",
+    "dose_mg": 40.0,
+    "cmax_obs_ngml": 1242.0,
+    "cmax_pred_plm_ngml": 47.586097717285156,
+    "fold_error": 26.10005988259164,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "itraconazole",
+    "smiles": "CCC(C)n1ncn(-c2ccc(N3CCN(c4ccc(OCC5COC(Cn6cncn6)(c6ccc(Cl)cc6Cl)O5)cc4)CC3)cc2)c1=O",
+    "dose_mg": 200.0,
+    "cmax_obs_ngml": 500.0,
+    "cmax_pred_plm_ngml": 952.8685302734375,
+    "fold_error": 1.905737060546875,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "ketoconazole",
+    "smiles": "CC(=O)N1CCN(c2ccc(OCC3COC(Cn4ccnc4)(c4ccc(Cl)cc4Cl)O3)cc2)CC1",
+    "dose_mg": 800.0,
+    "cmax_obs_ngml": 3000.0,
+    "cmax_pred_plm_ngml": 3799.5673828125,
+    "fold_error": 1.2665224609375,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "ketorolac",
+    "smiles": "O=C(c1ccccc1)c1ccc2n1CCC2C(=O)O",
+    "dose_mg": 30.0,
+    "cmax_obs_ngml": 800.0,
+    "cmax_pred_plm_ngml": 159.2014617919922,
+    "fold_error": 5.025079487305561,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "lamivudine",
+    "smiles": "Nc1ccn([C@@H]2CS[C@H](CO)O2)c(=O)n1",
+    "dose_mg": 450.0,
+    "cmax_obs_ngml": 1400.0,
+    "cmax_pred_plm_ngml": 1684.5679931640625,
+    "fold_error": 1.2032628522600446,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "lenacapavir",
+    "smiles": "CC(C)(C#Cc1ccc(-c2ccc(Cl)c3c(NS(C)(=O)=O)nn(CC(F)(F)F)c23)c(C(Cc2cc(F)cc(F)c2)NC(=O)Cn2nc(C(F)(F)F)c3c2C(F)(F)C2CC32)n1)S(C)(=O)=O",
+    "dose_mg": 600.0,
+    "cmax_obs_ngml": 23.400000000000002,
+    "cmax_pred_plm_ngml": 2308.875244140625,
+    "fold_error": 98.6698822282318,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "levofloxacin",
+    "smiles": "C[C@H]1COc2c(N3CCN(C)CC3)c(F)cc3c(=O)c(C(=O)O)cn1c23",
+    "dose_mg": 1000.0,
+    "cmax_obs_ngml": 6200.0,
+    "cmax_pred_plm_ngml": 5452.71240234375,
+    "fold_error": 1.1370487827920361,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "lorlatinib",
+    "smiles": "CC1Oc2cc(cnc2N)-c2c(nn(C)c2C#N)CN(C)C(=O)c2ccc(F)cc21",
+    "dose_mg": 100.0,
+    "cmax_obs_ngml": 501.29999999999995,
+    "cmax_pred_plm_ngml": 957.2861938476562,
+    "fold_error": 1.9096074084333858,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "losartan",
+    "smiles": "CCCCc1nc(Cl)c(CO)n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1",
+    "dose_mg": 200.0,
+    "cmax_obs_ngml": 224.0,
+    "cmax_pred_plm_ngml": 852.0089111328125,
+    "fold_error": 3.803611210414342,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "mefenamic acid",
+    "smiles": "Cc1cccc(Nc2ccccc2C(=O)O)c1C",
+    "dose_mg": 500.0,
+    "cmax_obs_ngml": 2173.397,
+    "cmax_pred_plm_ngml": 9866.6123046875,
+    "fold_error": 4.539719298723382,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "methylphenidate",
+    "smiles": "COC(=O)C(c1ccccc1)C1CCCCN1",
+    "dose_mg": 21.0,
+    "cmax_obs_ngml": 9.1,
+    "cmax_pred_plm_ngml": 97.04973602294922,
+    "fold_error": 10.664806156368046,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "metronidazole",
+    "smiles": "Cc1ncc([N+](=O)[O-])n1CCO",
+    "dose_mg": 2000.0,
+    "cmax_obs_ngml": 13000.0,
+    "cmax_pred_plm_ngml": 17739.076171875,
+    "fold_error": 1.3645443209134616,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "montelukast",
+    "smiles": "CC(C)(O)c1ccccc1CC[C@@H](SCC1(CC(=O)O)CC1)c1cccc(/C=C/c2ccc3ccc(Cl)cc3n2)c1",
+    "dose_mg": 10.0,
+    "cmax_obs_ngml": 350.0,
+    "cmax_pred_plm_ngml": 48.681968688964844,
+    "fold_error": 7.189520256179317,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "morphine",
+    "smiles": "CN1CC[C@]23c4c5ccc(O)c4O[C@H]2[C@@H](O)C=C[C@H]3[C@H]1C5",
+    "dose_mg": 10.0,
+    "cmax_obs_ngml": 18.65,
+    "cmax_pred_plm_ngml": 11.48505973815918,
+    "fold_error": 1.623848758751795,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "moxifloxacin",
+    "smiles": "COc1c(N2CC3CCCNC3C2)c(F)cc2c(=O)c(C(=O)O)cn(C3CC3)c12",
+    "dose_mg": 400.0,
+    "cmax_obs_ngml": 4100.0,
+    "cmax_pred_plm_ngml": 3041.22314453125,
+    "fold_error": 1.3481417854433504,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "nilotinib",
+    "smiles": "Cc1cn(-c2cc(NC(=O)c3ccc(C)c(Nc4nccc(-c5cccnc5)n4)c3)cc(C(F)(F)F)c2)cn1",
+    "dose_mg": 400.0,
+    "cmax_obs_ngml": 1950.0,
+    "cmax_pred_plm_ngml": 4378.2841796875,
+    "fold_error": 2.245273938301282,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "norethindrone",
+    "smiles": "C#CC1(O)CCC2C3CCC4=CC(=O)CCC4C3CCC21C",
+    "dose_mg": 5.0,
+    "cmax_obs_ngml": 26.19,
+    "cmax_pred_plm_ngml": 34.329429626464844,
+    "fold_error": 1.3107838727172525,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "oxybutynin",
+    "smiles": "CCN(CC)CC#CCOC(=O)C(O)(c1ccccc1)C1CCCCC1",
+    "dose_mg": 5.0,
+    "cmax_obs_ngml": 1.0,
+    "cmax_pred_plm_ngml": 8.396986961364746,
+    "fold_error": 8.396986961364746,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "paroxetine",
+    "smiles": "Fc1ccc([C@@H]2CCNC[C@H]2COc2ccc3c(c2)OCO3)cc1",
+    "dose_mg": 40.0,
+    "cmax_obs_ngml": 5.0,
+    "cmax_pred_plm_ngml": 91.72476196289062,
+    "fold_error": 18.34495239257813,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "penicillamine",
+    "smiles": "CC(C)(S)[C@@H](N)C(=O)O",
+    "dose_mg": 500.0,
+    "cmax_obs_ngml": 1500.0,
+    "cmax_pred_plm_ngml": 11391.0537109375,
+    "fold_error": 7.594035807291666,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "phenytoin",
+    "smiles": "O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1",
+    "dose_mg": 1600.0,
+    "cmax_obs_ngml": 5000.0,
+    "cmax_pred_plm_ngml": 15065.4208984375,
+    "fold_error": 3.0130841796875,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "pilocarpine",
+    "smiles": "CC[C@@H]1C(=O)OC[C@@H]1Cc1cncn1C",
+    "dose_mg": 10.0,
+    "cmax_obs_ngml": 15.0,
+    "cmax_pred_plm_ngml": 83.48514556884766,
+    "fold_error": 5.565676371256511,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "pindolol",
+    "smiles": "CC(C)NCC(O)COc1cccc2[nH]ccc12",
+    "dose_mg": 15.0,
+    "cmax_obs_ngml": 33.099999999999994,
+    "cmax_pred_plm_ngml": 24.59564208984375,
+    "fold_error": 1.3457668589862892,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "pomalidomide",
+    "smiles": "Nc1cccc2c1C(=O)N(C1CCC(=O)NC1=O)C2=O",
+    "dose_mg": 20.0,
+    "cmax_obs_ngml": 53.1,
+    "cmax_pred_plm_ngml": 168.43980407714844,
+    "fold_error": 3.1721243705677677,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "ponatinib",
+    "smiles": "Cc1ccc(C(=O)Nc2ccc(CN3CCN(C)CC3)c(C(F)(F)F)c2)cc1C#Cc1cnc2cccnn12",
+    "dose_mg": 45.0,
+    "cmax_obs_ngml": 54.699999999999996,
+    "cmax_pred_plm_ngml": 117.32613372802734,
+    "fold_error": 2.14490189630763,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "posaconazole",
+    "smiles": "CCC(C(C)O)n1ncn(-c2ccc(N3CCN(c4ccc(OCC5COC(Cn6cncn6)(c6ccc(F)cc6F)C5)cc4)CC3)cc2)c1=O",
+    "dose_mg": 600.0,
+    "cmax_obs_ngml": 151.0,
+    "cmax_pred_plm_ngml": 2603.04296875,
+    "fold_error": 17.23869515728477,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "pravastatin",
+    "smiles": "CC[C@H](C)C(=O)O[C@H]1C[C@H](O)C=C2C=C[C@H](C)[C@H](CC[C@@H](O)C[C@@H](O)CC(=O)O)[C@H]21",
+    "dose_mg": 40.0,
+    "cmax_obs_ngml": 25.0,
+    "cmax_pred_plm_ngml": 7.453973770141602,
+    "fold_error": 3.353915746275168,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "probenecid",
+    "smiles": "CCCN(CCC)S(=O)(=O)c1ccc(C(=O)O)cc1",
+    "dose_mg": 2000.0,
+    "cmax_obs_ngml": 32900.0,
+    "cmax_pred_plm_ngml": 25758.337890625,
+    "fold_error": 1.2772563252994005,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "progesterone",
+    "smiles": "CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C",
+    "dose_mg": 100.0,
+    "cmax_obs_ngml": 17.3,
+    "cmax_pred_plm_ngml": 135.07554626464844,
+    "fold_error": 7.807835044199331,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "quinine",
+    "smiles": "C=C[C@H]1C[N@@]2CC[C@H]1C[C@H]2[C@H](O)c1ccnc2ccc(OC)cc12",
+    "dose_mg": 1200.0,
+    "cmax_obs_ngml": 5400.0,
+    "cmax_pred_plm_ngml": 1751.9434814453125,
+    "fold_error": 3.0822912138382037,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "quizartinib",
+    "smiles": "CC(C)(C)c1cc(NC(=O)Nc2ccc(-c3cn4c(n3)sc3cc(OCCN5CCOCC5)ccc34)cc2)no1",
+    "dose_mg": 30.0,
+    "cmax_obs_ngml": 99.3,
+    "cmax_pred_plm_ngml": 30.03969383239746,
+    "fold_error": 3.3056262342096874,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "ramelteon",
+    "smiles": "CCC(=O)NCC[C@@H]1CCc2ccc3c(c21)CCO3",
+    "dose_mg": 64.0,
+    "cmax_obs_ngml": 11.6,
+    "cmax_pred_plm_ngml": 302.6064147949219,
+    "fold_error": 26.086759896113954,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "ranitidine",
+    "smiles": "CNC(=C[N+](=O)[O-])NCCSCc1ccc(CN(C)C)o1",
+    "dose_mg": 300.0,
+    "cmax_obs_ngml": 440.0,
+    "cmax_pred_plm_ngml": 657.5880737304688,
+    "fold_error": 1.494518349387429,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "rifabutin",
+    "smiles": "CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(c3C2=O)C2=NC3(CCN(CC(C)C)CC3)NC2=C(NC(=O)/C(C)=C\\C=C\\[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C)C4=O",
+    "dose_mg": 450.0,
+    "cmax_obs_ngml": 375.0,
+    "cmax_pred_plm_ngml": 2078.272216796875,
+    "fold_error": 5.542059244791668,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "rivaroxaban",
+    "smiles": "O=C(NC[C@H]1CN(c2ccc(N3CCOCC3=O)cc2)C(=O)O1)c1ccc(Cl)s1",
+    "dose_mg": 40.0,
+    "cmax_obs_ngml": 143.2,
+    "cmax_pred_plm_ngml": 261.4371032714844,
+    "fold_error": 1.8256780954712597,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "ruxolitinib",
+    "smiles": "N#CC[C@H](C1CCCC1)n1cc(-c2ncnc3[nH]ccc23)cn1",
+    "dose_mg": 100.0,
+    "cmax_obs_ngml": 64.889,
+    "cmax_pred_plm_ngml": 212.2864990234375,
+    "fold_error": 3.271532910407581,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "selegiline",
+    "smiles": "C#CCN(C)[C@H](C)Cc1ccccc1",
+    "dose_mg": 10.0,
+    "cmax_obs_ngml": 1.0,
+    "cmax_pred_plm_ngml": 8.540084838867188,
+    "fold_error": 8.540084838867188,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "sildenafil",
+    "smiles": "CCCc1nn(C)c2c(=O)[nH]c(-c3cc(S(=O)(=O)N4CCN(C)CC4)ccc3OCC)nc12",
+    "dose_mg": 200.0,
+    "cmax_obs_ngml": 270.0,
+    "cmax_pred_plm_ngml": 718.6474609375,
+    "fold_error": 2.6616572627314814,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "sirolimus",
+    "smiles": "COC1CC2CCC(C)C(O)(O2)C(=O)C(=O)N2CCCCC2C(=O)OC(C(C)CC2CCC(O)C(OC)C2)CC(=O)C(C)C=C(C)C(O)C(OC)C(=O)C(C)CC(C)C=CC=CC=C1C",
+    "dose_mg": 20.0,
+    "cmax_obs_ngml": 24.0,
+    "cmax_pred_plm_ngml": 68.199462890625,
+    "fold_error": 2.841644287109375,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "sonidegib",
+    "smiles": "Cc1c(C(=O)Nc2ccc(N3CC(C)OC(C)C3)nc2)cccc1-c1ccc(OC(F)(F)F)cc1",
+    "dose_mg": 200.0,
+    "cmax_obs_ngml": 1030.0,
+    "cmax_pred_plm_ngml": 547.0301513671875,
+    "fold_error": 1.8828943842048382,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "sumatriptan",
+    "smiles": "CNS(=O)(=O)Cc1ccc2[nH]cc(CCN(C)C)c2c1",
+    "dose_mg": 200.0,
+    "cmax_obs_ngml": 16.5,
+    "cmax_pred_plm_ngml": 337.49212646484375,
+    "fold_error": 20.45406827059659,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "tamoxifen",
+    "smiles": "CCC(=C(c1ccccc1)c1ccc(OCCN(C)C)cc1)c1ccccc1",
+    "dose_mg": 20.0,
+    "cmax_obs_ngml": 40.0,
+    "cmax_pred_plm_ngml": 41.49759292602539,
+    "fold_error": 1.0374398231506348,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "tamsulosin",
+    "smiles": "CCOc1ccccc1OCCN[C@H](C)Cc1ccc(OC)c(S(N)(=O)=O)c1",
+    "dose_mg": 0.4,
+    "cmax_obs_ngml": 10.1,
+    "cmax_pred_plm_ngml": 1.2498711347579956,
+    "fold_error": 8.080833070807413,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "temozolomide",
+    "smiles": "Cn1nnc2c(C(N)=O)ncn2c1=O",
+    "dose_mg": 150.0,
+    "cmax_obs_ngml": 7500.0,
+    "cmax_pred_plm_ngml": 1865.9288330078125,
+    "fold_error": 4.019445901326398,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "tenofovir disoproxil",
+    "smiles": "CC(C)OC(=O)OCOP(=O)(COC(C)Cn1cnc2c(N)ncnc21)OCOC(=O)OC(C)C",
+    "dose_mg": 300.0,
+    "cmax_obs_ngml": 380.0,
+    "cmax_pred_plm_ngml": 875.368896484375,
+    "fold_error": 2.3036023591694077,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "trazodone",
+    "smiles": "O=c1n(CCCN2CCN(c3cccc(Cl)c3)CC2)nc2ccccn12",
+    "dose_mg": 100.0,
+    "cmax_obs_ngml": 1620.0,
+    "cmax_pred_plm_ngml": 42.908260345458984,
+    "fold_error": 37.754968086732184,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "triazolam",
+    "smiles": "Cc1nnc2n1-c1ccc(Cl)cc1C(c1ccccc1Cl)=NC2",
+    "dose_mg": 0.5,
+    "cmax_obs_ngml": 1.4829999999999999,
+    "cmax_pred_plm_ngml": 1.254620909690857,
+    "fold_error": 1.1820303555800105,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "ulipristal",
+    "smiles": "CC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CCC4=C3[C@@H](c3ccc(N(C)C)cc3)C[C@@]21C",
+    "dose_mg": 30.0,
+    "cmax_obs_ngml": 176.0,
+    "cmax_pred_plm_ngml": 216.8558349609375,
+    "fold_error": 1.2321354259144177,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "upadacitinib",
+    "smiles": "CC[C@@H]1CN(C(=O)NCC(F)(F)F)C[C@@H]1c1cnc2cnc3[nH]ccc3n12",
+    "dose_mg": 48.0,
+    "cmax_obs_ngml": 26.0,
+    "cmax_pred_plm_ngml": 168.38925170898438,
+    "fold_error": 6.476509681114784,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "valganciclovir",
+    "smiles": "CC(C)C(N)C(=O)OCC(CO)OCn1cnc2c(=O)[nH]c(N)nc21",
+    "dose_mg": 900.0,
+    "cmax_obs_ngml": 5800.0,
+    "cmax_pred_plm_ngml": 3415.188720703125,
+    "fold_error": 1.6982956065765775,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "venlafaxine",
+    "smiles": "COc1ccc(C(CN(C)C)C2(O)CCCCC2)cc1",
+    "dose_mg": 150.0,
+    "cmax_obs_ngml": 35.5,
+    "cmax_pred_plm_ngml": 280.2286071777344,
+    "fold_error": 7.893763582471392,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "vilazodone",
+    "smiles": "N#Cc1ccc2[nH]cc(CCCCN3CCN(c4ccc5oc(C(N)=O)cc5c4)CC3)c2c1",
+    "dose_mg": 20.0,
+    "cmax_obs_ngml": 156.0,
+    "cmax_pred_plm_ngml": 16.941781997680664,
+    "fold_error": 9.208004212387838,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "vonoprazan",
+    "smiles": "CNCc1cc(-c2ccccc2F)n(S(=O)(=O)c2cccnc2)c1",
+    "dose_mg": 120.0,
+    "cmax_obs_ngml": 25.0,
+    "cmax_pred_plm_ngml": 668.0520629882812,
+    "fold_error": 26.722082519531245,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "zolpidem",
+    "smiles": "Cc1ccc(-c2nc3ccc(C)cn3c2CC(=O)N(C)C)cc1",
+    "dose_mg": 12.5,
+    "cmax_obs_ngml": 134.0,
+    "cmax_pred_plm_ngml": 118.17623138427734,
+    "fold_error": 1.133899756578529,
+    "in_sisyphus_holdout": true
+  },
+  {
+    "drug_name": "zonisamide",
+    "smiles": "NS(=O)(=O)Cc1noc2ccccc12",
+    "dose_mg": 300.0,
+    "cmax_obs_ngml": 2000.0,
+    "cmax_pred_plm_ngml": 2830.224365234375,
+    "fold_error": 1.4151121826171875,
+    "in_sisyphus_holdout": true
+  }
+]

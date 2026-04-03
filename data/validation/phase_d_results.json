@@ -1,0 +1,20 @@
+{
+  "version": "v6_tuned",
+  "n_train": 3631,
+  "n_holdout": 97,
+  "holdout_aafe": 3.964,
+  "within_2fold_pct": 32.0,
+  "within_3fold_pct": 46.4,
+  "best_params": {
+    "max_depth": 8,
+    "n_estimators": 200,
+    "learning_rate": 0.05,
+    "min_child_weight": 5,
+    "subsample": 0.9,
+    "colsample_bytree": 0.3,
+    "reg_alpha": 1.0,
+    "reg_lambda": 5.0
+  },
+  "cv_aafe": 3.142,
+  "gate": "FAIL"
+}

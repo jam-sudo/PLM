@@ -1,0 +1,33 @@
+{
+  "progression": [
+    {
+      "version": "v0.4_figure",
+      "aafe": 10.11,
+      "2fold": 19.0,
+      "type": "CV"
+    },
+    {
+      "version": "v2_table_CV",
+      "aafe": 3.275,
+      "2fold": 38.2,
+      "type": "CV"
+    },
+    {
+      "version": "v3_clean",
+      "aafe": 3.723,
+      "2fold": 36.1,
+      "type": "holdout"
+    },
+    {
+      "version": "v6_tuned",
+      "aafe": 3.964,
+      "2fold": 32.0,
+      "type": "holdout"
+    }
+  ],
+  "sisyphus": {
+    "engine": 3.416,
+    "ml": 2.336,
+    "meta": 2.283
+  }
+}
