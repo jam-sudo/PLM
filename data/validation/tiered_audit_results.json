@@ -1,0 +1,45 @@
+{
+  "tier1": {
+    "set": [
+      "cabozantinib"
+    ],
+    "plm_ho": 3.257
+  },
+  "tier2": {
+    "set": [
+      "cabozantinib",
+      "paroxetine",
+      "dapagliflozin",
+      "sumatriptan"
+    ],
+    "plm_ho": 3.163
+  },
+  "tier3": {
+    "set": [
+      "cabozantinib",
+      "methylphenidate",
+      "budesonide",
+      "dasatinib",
+      "paroxetine",
+      "sumatriptan",
+      "oxybutynin",
+      "posaconazole",
+      "dapagliflozin"
+    ],
+    "plm_ho": 3.066
+  },
+  "original": {
+    "plm_ho": 3.355
+  },
+  "confirmed_corrections": {
+    "budesonide": 21.074956951171288,
+    "cabozantinib": 563.5507246376812,
+    "dapagliflozin": 600.0,
+    "dasatinib": 363.751193865607,
+    "methylphenidate": 69.31193288975169,
+    "oxybutynin": 7.659950781540919,
+    "paroxetine": 49.55297573331494,
+    "posaconazole": 916.5,
+    "sumatriptan": 73.931429701956
+  }
+}

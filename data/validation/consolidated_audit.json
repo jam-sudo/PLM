@@ -1,0 +1,122 @@
+{
+  "confirmed_suspects": [
+    {
+      "drug": "budesonide",
+      "ik": "VOVIALXJUBGFJZ",
+      "original": 1.5,
+      "corrected": 21.074956951171288,
+      "sources": {
+        "meta": 13.754368341014585,
+        "chembl": 28.395545561327992,
+        "llm": null
+      },
+      "n_sources_agree": 2,
+      "fold_change": 14.049971300780859
+    },
+    {
+      "drug": "cabozantinib",
+      "ik": "ONIQOQHATWINJY",
+      "original": 9800.0,
+      "corrected": 563.5507246376812,
+      "sources": {
+        "meta": 2434.932821695705,
+        "chembl": 553.6224511925501,
+        "llm": 563.5507246376812
+      },
+      "n_sources_agree": 3,
+      "fold_change": 0.05750517598343686
+    },
+    {
+      "drug": "dapagliflozin",
+      "ik": "JVHXJTBJCFBINQ",
+      "original": 121.809,
+      "corrected": 600.0,
+      "sources": {
+        "meta": 127.38600910736552,
+        "chembl": 2495.437184178012,
+        "llm": 600.0
+      },
+      "n_sources_agree": 2,
+      "fold_change": 4.925744403122922
+    },
+    {
+      "drug": "dasatinib",
+      "ik": "ZBNZXTGUTAYRHI",
+      "original": 82.19999999999999,
+      "corrected": 363.751193865607,
+      "sources": {
+        "meta": 305.1383769722299,
+        "chembl": 422.364010758984,
+        "llm": null
+      },
+      "n_sources_agree": 2,
+      "fold_change": 4.4251970056643195
+    },
+    {
+      "drug": "methylphenidate",
+      "ik": "DUGOZIWVEXMGBE",
+      "original": 9.1,
+      "corrected": 69.31193288975169,
+      "sources": {
+        "meta": 110.35463501027262,
+        "chembl": null,
+        "llm": 28.269230769230766
+      },
+      "n_sources_agree": 2,
+      "fold_change": 7.616695921950735
+    },
+    {
+      "drug": "oxybutynin",
+      "ik": "XIQVNETUBQGFHX",
+      "original": 1.0,
+      "corrected": 7.659950781540919,
+      "sources": {
+        "meta": 7.460832898337837,
+        "chembl": 7.859068664744001,
+        "llm": null
+      },
+      "n_sources_agree": 2,
+      "fold_change": 7.659950781540919
+    },
+    {
+      "drug": "paroxetine",
+      "ik": "AHOUBRCZNHFOSL",
+      "original": 5.0,
+      "corrected": 49.55297573331494,
+      "sources": {
+        "meta": 73.62372195106748,
+        "chembl": 25.482229515562395,
+        "llm": null
+      },
+      "n_sources_agree": 2,
+      "fold_change": 9.910595146662988
+    },
+    {
+      "drug": "posaconazole",
+      "ik": "RAGOYPUPXAKGKH",
+      "original": 151.0,
+      "corrected": 916.5,
+      "sources": {
+        "meta": 726.692115350588,
+        "chembl": 2238.0296421051,
+        "llm": 916.5
+      },
+      "n_sources_agree": 3,
+      "fold_change": 6.069536423841059
+    },
+    {
+      "drug": "sumatriptan",
+      "ik": "KQKPFRSPSRPDEB",
+      "original": 16.5,
+      "corrected": 73.931429701956,
+      "sources": {
+        "meta": 62.44909514359326,
+        "chembl": 73.931429701956,
+        "llm": 2426.0
+      },
+      "n_sources_agree": 2,
+      "fold_change": 4.480692709209455
+    }
+  ],
+  "n_confirmed": 9
+}
