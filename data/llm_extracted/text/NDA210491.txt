@@ -1,0 +1,1492 @@
+
+
+===== PAGE 5 =====
+
+4 
+ 
+Table 24. Summary of the predicted vs. observed AUC and Cmax ratios with or without the presence of 
+itraconazole, a strong CYP3A4 inhibitor .................................................................................................... 53 
+Table 25. Simulated AUC and Cmax ratios with or without fluconazole ................................................... 54 
+Table 26. Input parameters for TEZ and M1-TEZ PBPK models .............................................................. 55 
+Table 27. Trial designs for use in the verification simulations. .................................................................. 56 
+Table 28. Trial designs for use in the verification simulations. .................................................................. 56 
+Table 29. Summary of exposure change in TEZ, M1-TEZ, or total active moiety when TEZ is 
+administered with itraconazole or fluconazole. .......................................................................................... 57 
+Table 30. - CFTR mutations in study VX14-661-107 with FRT Cl- channel data from NDA 203188 ..... 71 
+Table 31. - 2 x 2 Contingency Table analysis for Tezacaftor ..................................................................... 72 
+Table 32. - 2 x 2 Contingency Table analysis for Ivacaftor alone .............................................................. 72 
+Table 30. Tezacaftor (VX-661) and Its Major Metabolites In Vitro Studies Using Human Biomaterials . 78 
+Table 31: Total Percent of Radioactive Dose as 14C-VX-661 or Metabolites of 14C-VX-661 in Pooled 
+Urine at Specified Times After a Single Oral Administration of 14C-VX-661 to Healthy Male Human 
+Subjects ....................................................................................................................................................... 84 
+Table 32: Study design ................................................................................................................................ 86 
+Table 33: Summary of the Pharmacokinetic Parameters for Tezacaftor Following Single Oral Doses ..... 89 
+Table 34: Statistical Comparison of Fasted Versus Fed Conditions for Tablet and Solution Formulations
+ .................................................................................................................................................................... 91 
+Table 35: Summary of VX-661 Pharmacokinetic Parameters for Solution (R and RF) and Tablet (T and 
+TF) Formulations in Both Fed and Fasted States ........................................................................................ 91 
+Table 36: Summary of the Pharmacokinetic Parameters for TEZ Following Multiple Oral Doses ........... 94 
+Table 37: Mean (SD) VX-661 Pharmacokinetic Parameters After VX-661 Administration on Day 1 and 
+Day 7 (Part A) ............................................................................................................................................. 97 
+Table 38: Mean (SD) M1-661 Pharmacokinetic Parameters After VX-661 Administration on Day 1 and 
+Day 7 (Part A) ............................................................................................................................................. 98 
+Table 39: Mean (SD) VX-661, M1-661, and M2-661 Pharmacokinetic Parameters After Administration 
+of VX-661 in the Therapeutic and Supratherapeutic Dose Regimens in Cohort A (Part B) ...................... 98 
+Table 40. Statistical Comparison of VX-661, M1-661, and M2-661 Exposures After Administration of 
+VX-661 and Ivacaftor in Subjects with Moderate Hepatic Impairment Relative to Exposures in Matched 
+Healthy Subjects on Day 1 and Day 10 .................................................................................................... 101 
+Table 41. Statistical Comparison of IVA, M1-IVA, and M6-IVA Exposures After Administration of IVA 
+and VX-661 in Subjects with Moderate Hepatic Impairment Relative to Exposures in Matched Healthy 
+Subjects on Day 1 and Day 10 .................................................................................................................. 101 
+Table 42. Mean (CV%) Percentage of Unbound Drug in the Plasma in Cohort 1 and Cohort 2 .............. 102 
+Table 43: Cohort 1 GLSM Ratios and 90% CIs for PK Parameters of Ivacaftor, M1-Ivacaftor, and M6-
+Ivacaftor After Ivacaftor (150 mg q12h) Administration Alone in Dosing Period 1 (Day 7) and With 
+Concomitant Ciprofloxacin in Dosing Period 2 (Day 14) ........................................................................ 105 
+Table 44: Cohort 2 GLSM Ratios and 90% CIs for PK Parameters of Ivacaftor, M1-Ivacaftor, and M6-
+Ivacaftor After Administration of VX-661 (50 mg q12h) in Combination With Ivacaftor (150 mg q12h) in 
+Dosing Period 1 and With Concomitant Ciprofloxacin in Dosing Period 2 ............................................. 106 
+Reference ID: 4216031
+
+
+===== PAGE 6 =====
+
+5 
+ 
+Table 45: Cohort 2 GLSM Ratios and 90% CIs for PK Parameters of VX-661, M1-661, and M2-661 
+After Administration of VX-661 (50 mg q12h) in Combination With Ivacaftor (150 mg q12h) in Dosing 
+Period 1 and With Concomitant Ciprofloxacin in Dosing Period 2 .......................................................... 106 
+Table 46: Geometric Least Square Mean (GLSM) Ratios and 90% CI for VX-661, M1-661, and M2-661 
+Comparing Period 2 (With Itraconazole) to Period 1 (Without Itraconazole) .......................................... 111 
+Table 47: Geometric Least Square Mean (GLSM) Ratios and 90% CI for IVA, M1- IVA and M6-IVA 
+Comparing Period 2 (With Itraconazole) to Period 1 (Without Itraconazole) .......................................... 111 
+Table 48: Summary of PK Parameters of TEZ and IVA After Oral Administration of TEZ/IVA as an FDC 
+Tablet ........................................................................................................................................................ 112 
+Table 49: Metabolic Ratio of M1-661 and M2-661 After Oral Administration of VX-661/IVA as an FDC 
+Tablet ........................................................................................................................................................ 112 
+Table 50: Geometric Least Square Mean (GLSM) Ratios and 90% CI for Midazolam and 1-
+Hydroxymidazolam Comparing Period 2 (With VX-661/IVA) to Period 1 (Without VX-661/IVA) ...... 113 
+Table 51: Geometric Least Square Mean (GLSM) Ratios and 90% CI for Digoxin Comparing Period 2 
+(With VX-661/IVA) to Period 1 (Without VX-661/IVA) ........................................................................ 114 
+Table 52: Geometric Mean (95% CI) Plasma Pharmacokinetics of EE and NE Exposures in Healthy 
+Subjects With or Without TEZ/IVA ......................................................................................................... 117 
+Table 53: Statistical Analysis of Exposures of TEZ and Its Metabolites in Healthy Subjects With or 
+Without OC ............................................................................................................................................... 118 
+Table 54: Statistical Analysis of Exposures of IVA and Its Metabolites in Healthy Subjects With or 
+Without OC ............................................................................................................................................... 118 
+Table 55: Arithmetic Mean (CV%) of LH, FSH, and Progesterone Concentrations After Administration of 
+OC With and Without TEZ/IVA ............................................................................................................... 119 
+Table 56: Statistical Analysis of Hormone Levels in Healthy Subjects in Comparison of OC With and 
+Without TEZ/IVA ..................................................................................................................................... 119 
+Table 57. Pharmacokinetic Parameters (Mean ± SD) of VX-661 and Ivacaftor ...................................... 120 
+Table 58. Relative Bioavailability of the FDC Formulation Compared to Separate Tablets Under Fed 
+Conditions ................................................................................................................................................. 121 
+Table 59. Relative Bioavailability of the FDC Formulation in Fed Condition Compared to Fasted 
+Condition .................................................................................................................................................. 122 
+ 
+List of Figures 
+Figure 1. Molecular structure of tezacaftor and ivacaftor ........................................................................... 14 
+Figure 2. Change from baseline ppFEV1 vs. the 12-hour average IVA concentration (Left) or IVA 
+concentration (Right) at the time of measurement. ..................................................................................... 25 
+Figure 3: Absolute change in percent predicted FEV1 by visit in study 101 .............................................. 26 
+Figure 4: Tezacaftor and Ivacaftor Exposure (AUC) by Age Group.  Red lines represent the 150%, 100%, 
+and 66.7% of the typical steady state AUC value in the population. .......................................................... 28 
+Figure 5. Covariate effect on steady state TEZ exposure based on post hoc analysis in patients who 
+provided PK data in the TEZ PPK dataset. Red lines represent the 150%, 100%, and 66.7% of the typical 
+steady state AUC value in the population. .................................................................................................. 30 
+Reference ID: 4216031
+
+
+===== PAGE 10 =====
+
+9 
+ 
+1.1 Recommendations 
+The Office of Clinical Pharmacology/Division of Clinical Pharmacology 2 (OCP/DCP2) has reviewed 
+NDA 208418 Clinical Pharmacology data submitted on May 16, 2016 and recommends approval. The 
+key review issues with specific recommendations/comments are summarized below: 
+Review Issue 
+Recommendations and Comments 
+Pivotal or supportive evidence of 
+effectiveness 
+Phase III studies, and in vitro FRT assay 
+General dosing instructions 
+The proposed dosing is acceptable based on phase 2 and 3 studies. 
+See section 2.2.1.  
+Dosing in patient subgroups 
+(intrinsic and extrinsic factors) 
+The proposed dosing is acceptable. See section 2.2.2. 
+Labeling 
+See section 2.4 for labeling. 
+In vitro assay to support the 
+indication 
+In general, the TEZ/IVA FRT assay is acceptable. The 10% cutoff 
+could be applied to decide whether a mutation is responsive to 
+TEZ/IVA in vitro, similar to the case for IVA monotherapy. Note 
+that the in vitro data may not accurately predict added clinical 
+benefit of SYMDEKO (tezacaftor/ivacaftor combination) over 
+KALYDECO (ivacaftor) alone for individual mutations. In addition, 
+the magnitude of the net change over baseline in CFTR-mediated 
+chloride transport is not correlated with the magnitude of clinical 
+response for individual mutations. 
+ 
+1.2 Post-Marketing Requirements and Commitments 
+None. 
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT 
+2.1 Pharmacology and Clinical Pharmacokinetics 
+TEZ and IVA have complementary mechanisms of action. TEZ improves the processing and trafficking 
+of the CFTR protein, resulting in an increase in the quantity of CFTR protein at the cell surface. IVA 
+increases the channel open probability of the CFTR protein delivered to the cell surface by TEZ. The 
+combined effect of TEZ and IVA is increased quantity and function of CFTR at the cell surface. The 
+following is a summary of the clinical pharmacokinetics of TEZ/IVA: 
+ 
+Absorption: After a single dose in healthy subjects in the fed state, tezacaftor was absorbed with a 
+median (range) time to maximum concentration (Tmax) of approximately 4 hours (2 to 6 
+hours). The median (range) Tmax of ivacaftor was approximately 6.0 hours (3 to 10 hours) 
+in the fed state.  
+Reference ID: 4216031
+
+
+===== PAGE 11 =====
+
+10 
+ 
+When a single dose of  TEZ/IVA was administered with fat-containing foods, Tezacaftor 
+exposure was similar and ivacaftor exposure was approximately 3 times higher than when 
+taken in a fasting state (Study 004). 
+ 
+Distribution: Tezacaftor is approximately 99% bound to plasma proteins, primarily to albumin. Ivacaftor 
+is approximately 99% bound to plasma proteins, primarily to alpha 1 acid glycoprotein and 
+albumin. After oral administration of tezacaftor 100 mg once daily in combination with/ 
+ivacaftor 150 mg every 12 hours in patients with CF in the fed state, the mean (±SD) for 
+apparent volume of distribution of tezacaftor and ivacaftor was 271 (157) L and 206 (82.9) 
+L, respectively (Study 101). Neither tezacaftor nor ivacaftor partition preferentially into 
+human red blood cells. 
+ 
+Elimination: After oral administration of tezacaftor 100 mg once daily / ivacaftor 150 mg every 12 hours 
+in patients with CF in the fed state, the mean (±SD) for apparent clearance values of 
+tezacaftor and ivacaftor were 1.31 (0.41) and 15.7 (6.38) L/h, respectively (Study 101).  
+After steady state dosing of tezacaftor in combination with ivacaftor in CF patients, the 
+effective half-lives of tezacaftor and ivacaftor were approximately 15.0 and 13.7 hours, 
+respectively. 
+    
+Metabolism: Tezacaftor is metabolized extensively in humans. In vitro data suggested that 
+tezacaftor is metabolized mainly by CYP3A4 and CYP3A5. Following oral 
+administration of a single dose of 100 mg 14C tezacaftor to healthy male subjects, 
+M1, M2, and M5 were the three major circulating metabolites of tezacaftor in 
+humans. M1 has the similar potency to that of tezacaftor and is considered 
+pharmacologically active. M2 is much less pharmacologically active than 
+tezacaftor or M1, and M5 is not considered pharmacologically active. Another 
+minor circulating metabolite, M3, is formed by direct glucuronidation of tezacaftor. 
+ 
+Ivacaftor is also metabolized extensively in humans. In vitro and in vivo data 
+indicate that ivacaftor is metabolized primarily by CYP3A4 and CYP3A5. M1 and 
+M6 are the two major metabolites of ivacaftor in humans. M1 has approximately 
+one sixth the potency of ivacaftor and is considered pharmacologically active. M6 
+is not considered pharmacologically active. 
+ 
+Excretion: Following oral administration of 14C tezacaftor, the majority of the dose (72%) was 
+excreted in the feces (unchanged or as the M2 metabolite) and about 14% was 
+recovered in urine (mostly as M2 metabolite), resulting in a mean overall recovery 
+of 86% up to 21 days after the dose. Less than 1% of the administrated dose was 
+excreted in urine as unchanged tezacaftor, showing that renal excretion is not the 
+major pathway of tezacaftor elimination in humans. 
+ 
+Following oral administration of ivacaftor alone, the majority of ivacaftor (87.8%) 
+is eliminated in the feces after metabolic conversion. There was minimal 
+elimination of ivacaftor and its metabolites in urine (only 6.6% of total 
+Reference ID: 4216031
+
+
+===== PAGE 13 =====
+
+12 
+ 
+respectively, and the AUCτ of IVA was 52% higher in subjects with moderate hepatic impairment than in 
+matched healthy subjects. IVA is predominately cleared via a hepatic route. Based on the results of the 
+hepatic impairment study with IVA alone (Study 770-013), subjects with moderately impaired hepatic 
+function had approximately two-fold increase in ivacaftor AUCinf. Therefore, a dose reduction (from 150 
+mg q12h to 150 mg qd) during IVA monotherapy is recommended in patients with moderate hepatic 
+impairment. While the IVA exposure was only 52% higher in study 009, we still recommend dose 
+adjustment (from 150 mg q12h to 150 mg qd) based on the largest change in exposure observed in studies 
+with moderate hepatic impairment subjects.  These recommendations are consistent with the labeling for 
+IVA monotherapy. 
+ 
+For dose adjustment in patients with hepatic impairment, refer to Table 2. Studies have not been 
+conducted in patients with severe hepatic impairment (Child-Pugh Class C), but exposure of tezacaftor 
+and ivacaftor is expected to be higher compared to patients with moderate hepatic impairment. 
+SYMDEKO should be used with caution at a reduced dose after weighing the risks and benefits of 
+treatment in these patients. See section 3.3.3. 
+Table 2. Dosage Recommendations for Patients with Hepatic Impairment 
+ 
+Morning 
+Evening 
+Mild (Child-Pugh Class A) 
+No dose adjustment 
+No dose adjustment 
+Moderate (Child-Pugh Class B) 
+One tablet of tezacaftor 100 mg/ivacaftor 150 mg 
+once daily 
+No ivacaftor 150 mg 
+dose 
+Severe (Child-Pugh Class C) 
+One tablet of tezacaftor 100 mg/ivacaftor 150 mg 
+once daily (or less frequently) 
+ 
+Strong CYP3A Inhibitors: Co administration with itraconazole, a strong CYP3A inhibitor, increased 
+tezacaftor exposure (AUC) by 4.0 fold and ivacaftor by 15.6 fold (study 006). Therefore, when co 
+administered with strong inhibitors of CYP3A (e.g., ketoconazole, itraconazole, posaconazole, 
+voriconazole, telithromycin, and clarithromycin), the dose should be adjusted to one tablet of tezacaftor 
+100 mg/ivacaftor 150 mg twice a week, taken approximately 3 to 4 days apart. The evening dose of 
+ivacaftor 150 mg should not be taken. See section 3.3.4 for details of dose justification. 
+ 
+Moderate CYP3A Inhibitors: Physiologically based pharmacokinetic modeling suggested co 
+administration with fluconazole, a moderate CYP3A inhibitor, may increase tezacaftor exposure (AUC) 
+by approximately 2.0 fold. In a previous study, co administration of fluconazole increased ivacaftor 
+exposure (AUC) by 3.0 fold. When co administered with moderate CYP3A inhibitors, the dose of 
+SYMDEKO should be reduced (Table 3). See section 3.3.4 for details of dose justification.  
+ 
+ 
+Reference ID: 4216031
+
+
+===== PAGE 19 =====
+
+18 
+ 
+h*μg/ml (Study 103) to 90.6 h*μg/ml (Study 101 Group 7) in subjects 
+with CF. 
+Drug exposure at steady 
+state following the 
+therapeutic dosing regimen 
+The PopPK model estimated mean Cmax,ss and AUCτ,ss was  5.95 μg/mL, 
+84.5 μg*h/mL respectively for TEZ, and 1.17 μg/mL , 11.3 μg*h/mL  for 
+IVA, following a Tezacaftor 100-mg once-daily/ivacaftor 150 mg twice 
+daily  dosing regimen in CF patients. 
+Dose Proportionality 
+Exposures of tezacaftor (administered alone or in combination with 
+ivacaftor) increase in an approximately dose proportional manner with 
+increasing doses from 10 mg to 300 mg once daily. 
+Accumulation 
+At steady state, the accumulation ratio is approximately 1.5 for 
+tezacaftor and 2.2 for ivacaftor. 
+Variability 
+The between-subject variability estimated from population PK analysis 
+is 27.9% in CF patients. 
+Absorption 
+Bioavailability [oral] 
+The relative bioavailability of VX-661, ivacaftor, and their metabolites 
+with the FDC formulation compared to the separate tablet formulations 
+of VX-661 and ivacaftor was approximately 1 (study 004). 
+tmax [oral] 
+Median Tmax for TEZ is 4h (2-6h). Median Tmax for IVA is 6 h (3-10h). 
+(Study 004). 
+Food effect (high-fat) 
+GMR (fed/fasted, 90% CI) 
+(Study 004) 
+AUC0-inf 
+Cmax 
+TEZ 
+1.1 (1.01, 1.20) 
+0.807 (0.673, 0.968) 
+IVA 
+3.08 (2.45, 3.87) 
+4.32 (3.01, 6.18) 
+Distribution 
+Volume of Distribution 
+Volume of distribution of tezacaftor and ivacaftor was 271 (157) L and 
+206 (82.9) L, respectively (Study 101). 
+Plasma protein binding 
+Tezacaftor is approximately 99% bound to plasma proteins, primarily to 
+albumin.  
+ 
+Ivacaftor is approximately 99% bound to plasma proteins, primarily to 
+alpha 1 acid glycoprotein and albumin. 
+Blood to plasma ratio 
+Neither TEZ nor IVA partitions preferentially into human red blood 
+cells. The blood to plasma radioactivity ratio was ~0.45 to 0.58 for TEZ , 
+indicating no appreciable accumulation of radioactivity in blood cells 
+(study 005). 
+Substrate transporter 
+systems 
+[in vitro] 
+Tezacaftor is a substrate for the uptake transporter OATP1B1, and efflux 
+transporters P-gp and BCRP. Tezacaftor is not a substrate for OATP1B3. 
+Ivacaftor is not a substrate for OATP1B1, OATP1B3, or P-gp. 
+Elimination 
+Effective half-life 
+After steady state dosing of tezacaftor in combination with ivacaftor in 
+CF patients, the effective half-lives of tezacaftor and ivacaftor were 
+approximately 15.0 (3.44) and 13.7 (6.06) hours, respectively. 
+Metabolism 
+Primary metabolic 
+pathway(s) [in vitro]  
+In vitro data suggested that tezacaftor is metabolized mainly by CYP3A4 
+and CYP3A5. M1, M2, and M5 were the 3 major circulating metabolites 
+of tezacaftor in humans. M1 has the similar potency to that of tezacaftor 
+and is considered pharmacologically active. M2 is much less 
+pharmacologically active than tezacaftor or M1, and M5 is not 
+considered pharmacologically active. Another minor circulating 
+Reference ID: 4216031
+
+
+===== PAGE 20 =====
+
+19 
+ 
+metabolite, M3, is formed by direct glucuronidation of tezacaftor. 
+Ivacaftor is also metabolized extensively in humans. In vitro and in vivo 
+data indicate that ivacaftor is metabolized primarily by CYP3A4 and 
+CYP3A5. M1 and M6 are the two major metabolites of ivacaftor in 
+humans. M1 has approximately one sixth the potency of ivacaftor and is 
+considered pharmacologically active. M6 is not considered 
+pharmacologically active. 
+Inhibitor/Inducer 
+Based on in vitro results, tezacaftor has a low potential to inhibit 
+CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and 
+CYP3A4 and did not induce CYP1A2 and CYP2B6. Tezacaftor has a 
+low potential to induce CYP3A and a low potential to inhibit transporters 
+P gp, BCRP, OATP1B1, OATP1B3, OCT1, OCT2, OAT1, or OAT3.  
+Based on in vitro results, ivacaftor has the potential to inhibit CYP3A 
+and P gp, and may also inhibit CYP2C9. In vitro, ivacaftor was not an 
+inducer of CYP isozymes. Ivacaftor is not an inhibitor of transporters 
+OATP1B1, OATP1B3, OCT1, OCT2, OAT1, or OAT3. 
+ 
+Clinical studies with midazolam showed that SYMDEKO is not an 
+inhibitor of CYP3A. Co administration of SYMDEKO with digoxin, a 
+sensitive P gp substrate, increased digoxin exposure by 1.3 fold 
+consistent with weak inhibition of P gp by ivacaftor (Study 006). Co 
+administration of SYMDEKO with an ethinyl estradiol/ norethindrone 
+oral contraceptive had no significant effect on the exposures of the 
+hormonal contraceptives (Study 008). 
+Excretion 
+Primary excretion 
+pathway  
+TEZ is eliminated primarily by biliary/fecal excretion. Following oral 
+administration of 14C tezacaftor, the majority of the dose (72%) was 
+excreted in the feces (unchanged or as the M2 metabolite) and about 
+14% was recovered in urine (mostly as M2 metabolite).  Less than 1% of 
+the administrated dose was excreted in urine as unchanged tezacaftor, 
+showing that renal excretion is not the major pathway of tezacaftor 
+elimination in humans (study 005). 
+ 
+Following oral administration of ivacaftor alone, the majority of 
+ivacaftor (87.8%) is eliminated in the feces after metabolic conversion. 
+There was minimal elimination of ivacaftor and its metabolites in urine 
+(only 6.6% of total radioactivity was recovered in the urine), and there 
+was negligible urinary excretion of ivacaftor as unchanged drug. 
+DDI between TEZ and IVA 
+Impact of IVA on TEZ PK 
+No significant impact (study 108). 
+Impact of TEZ on IVA PK 
+Study 108 (F/RF subjects) included 70 subjects that crossed over from an 
+IVA 150 mg q12h treatment for 8 weeks to a TEZ 100 mg qd/IVA 150 
+mg q12h treatment for 8 weeks, or vice-versa, after an 8-week washout. 
+IVA exposures were comparable in the presence and absence of TEZ, 
+suggesting that TEZ does not have a clinically significant impact on IVA 
+PK: The geometric mean ratio (90% CI) of IVA steady-state AUC 
++TEZ/-TEZ (derived from post-hoc estimates in PopPK analyses) at 
+Week 4 was 1.23 (1.14, 1.32) and 1.11 (1.01, 1.22) at Week 8. Thus, 
+IVA exposure increased approximately 17% in the presence of TEZ. 
+Reference ID: 4216031
+
+
+===== PAGE 28 =====
+
+27 
+ 
+The proposed dose is reasonable from a clinical pharmacology perspective as the exposures achieved in 
+pediatric patients of ages 12-17 years is similar to adults (Figure 4). In the phase 3 trials (study 106, 107 
+and 108), pediatric patients accounted for 20% of the patients enrolled in each arm (Table 11). The 
+concentrations achieved in the phase 3 trials in pediatrics and adults were similar (Table 12) . 
+Additionally the efficacy in pediatric were similar to adults (data not shown).  The adverse events were 
+generally comparable between the two groups (data not shown). Please see the clinical and statistical 
+review for the assessment of the efficacy and safety in pediatrics patients compared to adults. 
+Table 11. Number of Subjects by Age Category in Pooled Placebo Controlled Phase 3 studies (Study 106, 107, and 108, 
+placebo-controlled safety dataset) 
+ 
+Age Groups 
+(years) 
+Number (%) of subjects in each group 
+Placebo 
+N = 505 
+Tezacaftor 100 mg QD/ Ivacaftor 150 mg BID 
+N = 496 
+12 to < 18 
+101(20%) 
+98 (19.8%) 
+≥ 18 
+404 (80%) 
+398 (80.2%) 
+(Source: Reviewer summary based on Table 6-1 in Summary of Clinical safety) 
+ 
+Table 12. Tezacaftor and Ivacaftor exposure (geometric mean (CV%)) by Age Group (study 106, 107, and 108) 
+ 
+Age Groups 
+(years) 
+PK 
+TEZ 
+IVA 
+Cmax 
+(ng/ml) 
+Cmin (ng/ml) 
+AUC τ * 
+(ng*h/ml) 
+Cmax (ng/ml) 
+Cmin (ng/ml) 
+AUCτ * 
+(ng*h/ml) 
+12 to < 18 
+6.09 (16.6) 
+1.71 (62.4) 
+86.4 (29.0) 
+1.18 (50.3) 
+0.630 (78.1) 
+11.0 (58.3) 
+≥ 18 
+5.36 (16.4) 
+1.64 (64.4) 
+78.3 (29.5) 
+1.22 (44.7) 
+0.734 (66.2) 
+11.8 (51.2) 
+*AUC0 24h for tezacaftor and AUC0 12h for ivacaftor 
+(Source: Reviewer’s Analysis) 
+ 
+Reference ID: 4216031
+
+
+===== PAGE 29 =====
+
+28 
+ 
+Tezacaftor 
+Ivacaftor 
+Figure 4: Tezacaftor and Ivacaftor Exposure (AUC) by Age Group.  Red lines represent the 150%, 100%, 
+and 66.7% of the typical steady state AUC value in the population.                                  
+(Source: Reviewer’s analysis, See Appendix 4.2, Pharmacometrics review) 
+ 
+Reviewer’s comment:  
+The applicant’s posthoc analysis for TEZ and IVA exposure in pediatric and adult patients were 
+recreated by the reviewer. Reviewer’s analysis did not result in any meaningful difference in exposure at 
+steady state. The applicant’s population PK model for TEZ contained the fixed coefficient (0.75) on 
+weight for CL. FDA reviewer did independent sensitive analysis to assess the allometric components for 
+clearance. Including body weight as an allometric component on clearance did not improve model 
+performance in reviewer’s analysis. Simulations of the estimated exposure for pediatric and adult 
+population using the sponsor’s model and the reviewer’s model show no significant difference in 
+prediction. Overall, the FDA reviewer found sponsor’s labeling statement “Following oral 
+administration of SYMDEKO tablets, tezacaftor 100 mg once daily / ivacaftor 150 mg every 12 hours, the 
+mean (±SD) AUCss was 97.3 (35.7) mcg·h/mL and 11.4 (5.46) mcg·h/mL, respectively for tezacaftor and 
+ivacaftor, similar to the mean AUCss in adult patients administered SYMDEKO tablets, tezacaftor 100 
+mg once daily / ivacaftor 150 mg every 12 hours.”, for estimated steady state exposure acceptable (See 
+Appendix 4.2, PM review).  
+ 
+3.3.3 Is an alternative dosing regimen and/or management strategy required for 
+subpopulations based on intrinsic factors? 
+Yes, dose reduction is recommended in hepatic impairment patients. There is no dose adjustment based 
+on renal function, age, weight, or other intrinsic factors. See below for the data submitted by the Sponsor 
+and reviewer’s comment. 
+Patients with Hepatic Impairment 
+Hepatic metabolism and/or excretion are major route of elimination for tezacaftor and ivacaftor. Impact of 
+moderate hepatic impairment on TEZ/IVA PK was assessed in a nonrandomized, open-label, multiple 
+Reference ID: 4216031
+
+
+===== PAGE 30 =====
+
+29 
+ 
+doses study (Study 009). TEZ 50 mg qd/IVA 150 mg qd was administered orally on Days 1 through Day 
+10.  
+On Day 10, the total and unbound AUCτ of VX-661 were 36% and 47% higher, respectively, in subjects 
+with moderate hepatic impairment than in matched healthy subjects. Therefore, no dose adjustment for 
+TEZ is necessary for patients with mild or moderate hepatic impairment. 
+On Day 10, the AUCτ of IVA was 52% higher in subjects with moderate hepatic impairment than in 
+matched healthy subjects. In another study (study 770-013), subjects with moderately impaired hepatic 
+function had approximately two fold increase in ivacaftor AUCinf. Therefore, dose adjustment (from 150 
+mg q12h to 150 mg qd) is recommended based on the largest change in IVA exposure observed in studies 
+with moderate hepatic impairment subjects. 
+The extent of protein binding was similar in subjects with moderate hepatic impairment and healthy 
+subjects. 
+Table 13. Summary of Results of TEZ/IVA  Pharmacokinetic Parameters in Subjects with Moderate 
+Hepatic Impairment Compared with Healthy Subjects 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Source –Table 11-6, Table 11-7, Study 009 report) 
+Reviewer’s comment:  
+IVA is predominately cleared via a hepatic route. Based on the results of the hepatic impairment study 
+with IVA alone (Study 770-013), subjects with moderately impaired hepatic function had approximately 
+two fold increase in ivacaftor AUCinf. Therefore, a dose reduction (from 150 mg q12h to 150 mg qd) 
+during IVA monotherapy is recommended in patients with moderate hepatic impairment. While the IVA 
+exposure was only 52% higher in study 009, dose adjustment for ivacaftor (from 150 mg q12h to 150 mg 
+qd) is still recommended based on the largest change in exposure observed in studies with moderate 
+hepatic impairment subjects.  These recommendations are consistent with the labeling for IVA 
+monotherapy. 
+Day 
+Analyte 
+Parameter 
+Group comparison 
+Mean 
+Ratio 
+90% CI of the 
+ratio 
+Day 10 
+TEZ 
+AUCτ 
+(ng h/mL) 
+Moderate hepatic 
+impairment/healthy 
+66397/48791 
+1.36 
+(1.17, 1.58) 
+Cmax 
+(ng/mL) 
+Moderate hepatic 
+impairment/healthy 
+4277/3873 
+1.10 
+(0.952, 1.28) 
+IVA 
+AUCτ 
+(ng h/mL) 
+Moderate hepatic 
+impairment/healthy 
+17262/11351 
+1.52 
+(1.13, 2.04) 
+Cmax 
+(ng/mL) 
+Moderate hepatic 
+impairment/healthy 
+1084/1028 
+1.05 
+(0.806, 1.38) 
+Reference ID: 4216031
+
+
+===== PAGE 31 =====
+
+30 
+ 
+Patients with Renal Impairment 
+Renal excretion is not a major pathway of TEZ elimination. Therefore, no dedicated study in renal 
+impaired patients has been performed. 
+Based on population PK analysis, reviewer’s analysis confirmed a lack of clinically meaningful effect on 
+TEZ PK from mild or moderate renal impairment based on estimated glomerular filtration rate (Figure 5). 
+The median steady state AUC values were 81.49, 84.21, or 91.09 μg*hr/mL, in patients with normal renal 
+function, mild renal impairment, or moderate renal impairment, respectively. 
+No data were collected for patients with baseline eGFR≤ 50ml/min/1.73 m2, as these patients were 
+excluded from the study.  
+ 
+Figure 5. Covariate effect on steady state TEZ exposure based on post hoc analysis in patients who provided 
+PK data in the TEZ PPK dataset. Red lines represent the 150%, 100%, and 66.7% of the typical steady state AUC 
+value in the population. 
+(Source: Reviewer’s analysis, See Appendix 4.2, Pharmacometrics review) 
+Reviewer’s comment:  
+Renal clearance is likely to play a minimal role in the elimination of TEZ and IVA, and no dose 
+adjustment is necessary for patients with mild to moderate renal impairment. Caution is recommended 
+when administering TEZ and IVA combination therapy to patients with severe renal impairment 
+(creatinine clearance less than or equal to 15 to <30mL/min) or with end-stage renal disease. This is 
+consistent with the labeling of IVA monotherapy.  
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the 
+appropriate management strategy? 
+The following drug-drug interactions were proposed by the sponsor: 
+Potential for other drugs to affect TEZ/IVA: 
+ 
+ 
+Reference ID: 4216031
+
+
+===== PAGE 32 =====
+
+31 
+ 
+ 
+Co-administered 
+drug 
+Effect on 
+PK 
+AUCinf 
+Cmax 
+Dosing recommendation 
+Strong CYP3A  
+inhibitor:  
+ 
+itraconazole  
+ 
+ 
+↑ TEZ 
+4.02 
+2.83 
+One tablet of tezacaftor 100 mg/ivacaftor 150 mg twice 
+a week, taken approximately 3 to 4 days apart. The 
+evening dose of ivacaftor 150 mg should not be taken. 
+Overall, TEZ dose is reduced by 1/3.5, and IVA dose 
+is reduced by to 1/7. The IVA dose to be administered 
+is consistent with the labeling of IVA monotherapy. 
+↑ IVA      
+15.6 
+ 8.60 
+Moderate CYP3A 
+inhibitor:  
+ 
+fluconazole  
+ 
+TEZ 
+NA 
+NA 
+PBPK model predicted a 2.1-fold increase in TEZ 
+exposure and an 1.2-fold increase in M1-TEZ 
+exposure. Dose adjustment based on PBPK, overall, 
+dose is reduced by half for TEZ and IVA. 
+↑  IVA 
+2.95 
+2.47 
+ciprofloxacin  
+ 
+↔ TEZ 
+1.08 
+1.05 
+No dose adjustment for TEZ and IVA. This is 
+consistent with the labeling of IVA monotherapy.  
+↔IVA  
+1.17 
+1.18 
+CYP3A inducer:  
+rifampin  
+ 
+TEZ 
+(expected ↓) 
+NA 
+NA 
+Co-administration not recommended. This is consistent 
+with the labeling of IVA monotherapy. 
+↓ IVA 
+0.114 
+0.2 
+↑- Increase, ↔ - no change 
+Reviewer’s comment: 
+1. Co-administration with itraconazole (P-gp and CYP3A4 inhibitor) increased exposure to ivacaftor by 
+15.6 fold based on AUC and 8.6-fold based on Cmax in a dedicated drug-drug interaction study. TEZ 
+exposures were increased by 4-fold and M1-TEZ exposures were lowered by 40% in the presence of 
+itraconazole. The proposed dosing regimen in the presence of strong CYP3A inhibitors is to reduce 
+TEZ/IVA dosing to100/150 mg  twice weekly.  
+With dose reduction in presence of strong CYP3A inhibitors, steady-state TEZ exposures will be at 
+similar levels as those observed under normal dosing conditions, however steady-state M1-TEZ 
+exposures will be lower. Under the assumption that TEZ and M1-TEZ contribute equally to efficacy 
+and that the TEZ and M1-TEZ exposures in Study 106 are representative in CF patients not taking 
+CYP3A inhibitors, the proposed dosing in the presence of itraconazole yields unbound active moiety 
+exposures equivalent to a 75 mg TEZ dose in the absence of itraconazole (Sponsor analysis, Table 
+14). Sponsor’s PKPD modeling (TEZ- ΔppFEV1 model) suggested that a reduction of TEZ dose from 
+100 mg to 75 mg would have a modest impact on the change in ppFEV1 (Figure 6). A 3.5-fold dose 
+reduction in TEZ dose when the drug is co-administrated with a strong CYP3A inhibitor (such as 
+itraconazole) is not predicted to significantly decrease efficacy. 
+ 
+Reference ID: 4216031
+
+
+===== PAGE 34 =====
+
+33 
+ 
+2. No significant change in exposure (AUC and Cmax) of tezacaftor and ivacaftor was observed 
+following co-administration with ciprofloxacin. However, this may not be extrapolated to other 
+moderate CYP3A inhibitors. According to the Kalydeco (ivacaftor) approved label, ciprofloxacin did 
+not increase the exposure of ivacaftor, while another moderate CYP3A inhibitor fluconazole 
+increased the exposure of ivacaftor by 3 fold. The PBPK model predicted a 2.1-fold increase in TEZ 
+exposure and an 1.2-fold increase in M1-TEZ exposure when the drug is co-administered with 
+fluconazole, a moderate CYP3A inhibitor.  Therefore, when co administered with moderate CYP3A 
+inhibitors, the dose of SYMDEKO should be reduced by half (Table 15). The proposed dosing 
+regimen with moderate inhibitors yields an unbound active moiety equivalent to 87 mg TEZ dose and 
+total active moiety equivalent to 78 mg TEZ dose, both of which are higher than that after dose 
+adjustment with itraconazole. Therefore, there should be minimal concern for loss of efficacy due to 
+decreased TEZ exposure (See Appendix 4.2 and 4.3). These recommendations are consistent with the 
+labeling for IVA monotherapy. 
+ 
+Table 15. Dosing Schedule for Concomitant Use of SYMDEKO with Moderate CYP3A Inhibitors 
+ 
+Day 1 
+Day 2 
+Day 3 
+Day 4* 
+Morning Dose 
+Tezacaftor 100 mg/ivacaftor 150 mg tablet 
+
+- 
+ 
+- 
+Ivacaftor 150 mg tablet 
+- 
+
+- 
+
+Evening Dose 
+Ivacaftor 150mg tablet 
+- 
+- 
+- 
+- 
+*Continue dosing with tezacaftor 100 mg/ivacaftor 150 mg or ivacaftor 150 mg tablets on alternate days. 
+ 
+3. Co-administration with rifampin significantly reduced AUC and Cmax of ivacaftor by 89% and 
+80%, respectively. Rifampin is an inducer for CYP3A4 and is also expected to reduce TEZ exposure. 
+These lower exposures will result in inefficacious concentrations; therefore, co-administration with 
+rifampicin or other CYP3A inducers is not recommended. These recommendations are consistent with 
+the labeling for IVA monotherapy. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 4216031
+
+
+===== PAGE 41 =====
+
+40 
+ 
+Results 
+The PPK model estimation data sets were comprised of 660 subjects contributing a total of 6389 TEZ 
+observations and 421 subjects contributing a total of 6293 M1-TEZ observations. For each species, less 
+than 10% of the observations were below the limit of quantitation.  
+Parameter estimates for the final parent drug model is presented in Table 19. Fixed effect of body weight 
+on clearance terms and volume terms were carried over from the base model. On average, female subjects 
+had slightly higher CL/F compared to male subjects and subjects with the F/RF genotype in study 108 had 
+slightly lower clearance. The other statistically significant covariate was a modest 18% increase in V3/F 
+for female subjects relative to male subjects. ETA shrinkage was low for CL/F and higher for volumes of 
+distribution and absorption related parameters. Data simulated from the TEZ final model was generally 
+consistent with observed AUC in studies 101, 103, and 106, and was consistent with trough 
+concentrations from studies 107 and 108, all of which stratified by VISIT. 
+For estimating the population PK for M1-TEZ, the PK for TEZ was fixed to the empirical Bayes estimate 
+from a single chain in the TEZ final model for each individual. PPK parameters for M1-TEZ were 
+estimated under the assumption that 80% of the TEZ clearance was metabolized to M1-TEZ. A two-
+compartment structural model was chosen to describe the disposition of the metabolites. The same set of 
+covariates investigated for parent drug model was investigated for M1-TEZ. The typical (95% CI) 
+estimates for M1-TEZ PK parameters in the final model were summarized in Table 19. The only 
+statistically significant covariates for M1-TEZ were a slightly decreased clearance for subjects with F/RF 
+genotype in study 108. The full covariate model for M1-TEZ described the data well with no significant 
+trends in ETA histograms or plots of ETA versus model covariates.  
+Population estimates from previously established IVA PPK model were fixed to data from studies 101, 
+103, 106, 107, 108, and VX08-770-104 and individual PK parameters for patients in these studies were 
+predicted. In the 70 subjects in study 108 who had IVA PK observations both with and without TEZ and 
+at both WEEK 4 and WEEK 8 visits, the predicted IVA total daily AUC at steady state was higher during 
+TEZ co-therapy compared to IVA mono-therapy. The geometric mean ratio for TEZ+IVA AUC to IVA 
+AUC was 1.23 (90% CI: 1.14 to 1.32) for the WEEK 4 visit and 1.11 (1.01 to 1.22) for the WEEK 8 visit. 
+Reference ID: 4216031
+
+
+===== PAGE 51 =====
+
+50 
+ 
+4.3 Physiological-based Pharmacokinetic Modeling Review  
+ 
+NDA/BLA Number 
+NDA 210491 
+Generic Name 
+Tezacaftor and Ivacaftor (TEZ/IVA) 
+Trade Name 
+SymdekoTM 
+Submission Type 
+New NDA (New Molecular Entity; Priority Review) 
+Sponsor 
+Vertex Pharms 
+Dosage Form and Strengths 
+Tablet / Tablet: one tablet containing 100 mg TEZ / 150 mg IVA; one tablet 
+containing IVA 150 mg  
+Proposed Indication 
+For treatment of patients with cystic fibrosis (CF) aged 12 years and older 
+who are homozygous for the F508del mutation or who have at least 1 
+mutation in CFTR gene that is responsive to TEZ/IVA based on in vitro data 
+and/or clinical evidence. 
+Dose Regimen 
+One tablet (containing tezacaftor 100 mg / ivacaftor 150 mg) in the morning 
+and one tablet (containing ivacaftor 150 mg) in the evening, approximately 
+12 hours apart. SYMDEKO should be taken with fat-containing food. 
+Primary PBPK Reviewer 
+Nan Zheng, Ph.D. 
+Secondary PBPK Reviewer 
+Yuching Yang, Ph.D. 
+1. Objectives 
+ 
+To evaluate the adequacy of applicant’s physiologically-based pharmacokinetic (PBPK) model to 
+predict the drug-drug interaction (DDI) potential between tezacaftor (a CYP3A substrate) and 
+fluconazole (a moderate CYP3A inhibitor) in human. 
+2. Background 
+TEZ is a cystic fibrosis transmembrane conductance regulator (CFTR) corrector currently being 
+developed to treat CF. It is intended to be given as a fixed-dose combination (FDC) with ivacaftor (IVA), 
+a CFTR potentiator. The proposed dose is one tablet (containing 100 mg TEZ and 150 mg IVA) in the 
+morning and one tablet (containing 150 mg IVA) in the evening, approximately 12 hours apart, taken with 
+fat-containing food. M1-TEZ is the major circulating metabolite of TEZ in human. Both TEZ and M1-
+TEZ are highly protein bound in the plasma with fraction unbound (fu) values <1%. The applicant 
+reported that similar pharmacology activity were found in preclinical chloride transport assay for TEZ and 
+M1-TEZ using human bronchial epithelial cells cultured from CF patients. However, the applicant is 
+unable to differentiate the individual contributions of TEZ and M1-TEZ on the clinical efficacy.  
+In a dedicated DDI study, daily doses of 200 mg itraconazole oral solution resulted in a 4-fold increase in 
+TEZ area under the plasma concentration-time curve (AUC) and a decrease of 40% in AUC of M1-TEZ, 
+when 25 mg TEZ tablet was given orally every 24 hours with food.     
+This review evaluates the adequacy of applicant’s TEZ PBPK models to predict the effect of moderate 
+CYP3A inhibitors on the PKs of TEZ and M1-TEZ.   
+IVA was approved in January 2012 for treatment of CF in patients age 6 years and older who have a 
+G551D mutation in the CFTR gene. No changes were proposed in this submission with regard to IVA 
+dosing regimens under DDI effect. 
+3. Method 
+Summary of Clinical Studies Used in TEZ/M1-TEZ Model Development and Verification 
+ID 
+Relevant Study Design Features 
+VX13-661-005  
+A Phase 1, open label, mass balance study to investigate the absorption, metabolism, and 
+Reference ID: 4216031
+
+
+===== PAGE 52 =====
+
+51 
+ 
+(the ADME study) 
+excretion of 14C-VX-661 following single oral administration to healthy male subjects. 
+VX14-661-006*  
+(the DDI study) 
+Cohort 1 (N=18):  
+Period 1 (Day 1-14): TEZ 25 mg / IVA 50 mg as separate tablets, QD 
+Period 2 (Day 15-28): TEZ/IVA (same as above); itraconazole 200 mg oral solution, QD# 
+Cohort 2 (N=16) 
+Period 1 (Day 1-5): a single dose of midazolam and digoxin;  
+Period 2 (Day 6-19): TEZ 100 mg/IVA 150 mg FDC tablet in the morning and IVA 150 
+mg tablet in the evening; a single dose of midazolam and digoxin on Day 15 
+* Study title: A Phase 1, open label study to evaluate the pharmacokinetic drug-drug interactions between VX-661 
+in combination with ivacaftor and itraconazole, midazolam, and digoxin in healthy adult subjects.  
+# A single loading dose of 200 mg ITRA was applied in Cohort 1 Period 2. 
+Model Development 
+A minimal TEZ PBPK model was constructed based on available physiochemical properties (e.g., 
+permeability, blood to plasma ratio, plasma protein binding) of TEZ and clinical data.   The model 
+assumed first order oral absorption where the value of fraction absorbed (Fa) was set to 0.82 based on the 
+ADME study, and first order absorption rate constant (ka) was estimated from Caco-2 permeability assay. 
+Intestinal extraction of TEZ was predicted to be minimal (Fg=0.95) by the Qgut model considering that 
+TEZ has low oral clearance, low first pass effect, and moderate interaction with itraconazole. Distribution 
+parameters, such as in-vivo volume of distribution, Vss, were optimized based on Cohort 2, Period 2 of 
+the DDI study. The fractional metabolism by CYP3A4 (fm_CYP3A4) was set to 73.2% based on the 
+ADME study. CYP3A4-mediated intrinsic clearance, Clint, was calculated using the built-in Simcyp 
+retrograde calculator based on fm and oral clearance (CLpo) or hepatic clearance (CLiv) from population 
+PK analysis. Table 26 listed the parameters used in the TEZ PBPK model. 
+Similarly, M1-TEZ base model was built based on in vitro measurements and clinical data (Table 26). 
+Applicant assumed that M1-TEZ was exclusively formed by CYP3A4 based on in vitro CYP phenotyping 
+data. The values of Vss and CLiv were optimized to capture the mean M1-TEZ plasma concentration-
+time profile in Cohort 2, Period 2 of the DDI study. The fm_CYP3A4 for M1-TEZ was set to 80% by 
+sensitivity analysis to recapture the ratio of M1-TEZ with/without itraconazole observed in Cohort I of 
+the DDI study.  
+Model Verification 
+In the DDI study, itraconazole oral solution was administrated after an overnight fast and 1 hour before 
+administration of IVA/TEZ with food. In the simulation, itraconazole was administrated as solution under 
+the fed condition. The simulated itraconazole and OH-itraconazole plasma concentration profiles agree 
+with the observed data in the clinical trial. 
+Two simulation scenarios were generated to verify the PBPK models of TEZ/M1-TEZ:  
+1. Verification 1: To verify whether the model can capture the TEZ and M1-TEZ plasma concentration 
+time profiles with the FDC dosing regimen (Cohort 2, Period 2 of the DDI study).  
+2. Verification 2: To verify that the model can capture the TEZ and M1-TEZ plasma concentration time 
+profiles and the corresponding changes in AUC and Cmax in the presence of itraconazole (Cohort 1 in the 
+DDI study).  
+Model Application 
+Three simulations were conducted to support the application of PBPK modeling: 
+1. Application 1: To predict the impact of a moderate CYP3A4 inhibitor (fluconazole) on the exposure of 
+TEZ and M1-TEZ at 50 mg dose level. 
+2. Application 2: To assess the extent of uncertainty in predicted AUCR and CmaxR in the presence of 
+itraconazole with TEZ fm_CYP3A4 ranging from 65% to 85%. 
+Reference ID: 4216031
+
+
+===== PAGE 54 =====
+
+53 
+ 
+Figure 12. Observed (circles) and PBPK-predicted (lines: mean and 5th/9th percentiles) plasma-time profiles 
+of TEZ and M1-TEZ without (left) or with (right) co-administration with itraconazole in in Cohort 1 of the 
+DDI study.   
+Source: PBPK report (n032.pdf), Figure 7-3 
+Table 24. Summary of the predicted vs. observed AUC and Cmax ratios with or without the presence of 
+itraconazole, a strong CYP3A4 inhibitor 
+ 
+Source: PBPK report (n032.pdf), Table 6-2 
+4.2 Can PBPK model predict TEZ and M1-TEZ exposure change when the drug is co-administered 
+with a moderate CYP3A inhibitor fluconazole? 
+Yes.  TEZ and M1-TEZ PBPK models were verified using clinical DDI data with itraconazole, a strong 
+CYP3A inhibitor.  PBPK models of TEZ and M1-TEZ was then used to predict untested clinical DDI 
+scenarios with fluconazole.  When 50 mg TEZ was co-administered with 200 mg fluconazole, both on a 
+daily basis, the model predicted 2.1-fold and 1.7-fold increases in the steady state Cmax and AUC for 
+TEZ, respectively, and M1-TEZ steady state AUC and Cmax were predicted to increase by 1.2-fold 
+(Table 25). 
+Reference ID: 4216031
+
+
+===== PAGE 55 =====
+
+54 
+ 
+Table 25. Simulated AUC and Cmax ratios with or without fluconazole 
+ 
+Source: PBPK report (n032.pdf), Table 6-3 
+By varying the fm_CYP3A4 value from 0.65 to 0.85, the model predicted an approximately 2-fold 
+difference in the simulated ratio of AUC of TEZ with/without co-administered with itraconazole 
+(Application 2, Figure 13, left panel).   However, the impact of TEZ fm_CYP3A4 on the predicted AUCR 
+with fluconazole was not significant (Application 3, Figure 13, right panel).  Reviewer conducted an 
+additional PBPK analysis to identify an alternative value of fm_CYP3A4 for M1-TEZ, with TEZ 
+fm_CYP3A4 set to 80%, to capture the observed M1-TEZ AUCR in the DDI study. An alternative value 
+of 75% was assigned to fm_CYP3A4 for M1-TEZ. Reviewer then used the Applicant’s PBPK model, 
+with fm_CYP3A4 for TEZ equals 80% and fm_CYP3A4 for M1-TEZ equals 75%, to simulate the DDI 
+effect between fluconazole and TEZ.  The steady state AUC and Cmax for TEZ was predicted to increase 
+by 2.3-fold and 1.7-fold, respectively, and M1-TEZ steady state AUC and Cmax were predicted to 
+increase by 1.3-fold, in the presence of fluconazole. Reviewer’s analysis confirmed that applicant’s TEZ 
+and M1-TEZ models are robust in terms of predicting DDI effect with fluconazole. Reviewer’s analyses 
+were conducted with Simcyp version 16. 
+Figure 13. Parameter sensitivity analysis of the fractional metabolism of TEZ by CYP3A4 on the predicted 
+AUCR with or without itraconazole (left) or fluconazole (right). 
+ 
+ 
+Source: PBPK report (n032.pdf), Figure 7-5 and 7-6 
+Table 29 in Appendix summarized the fold-change in the exposure of TEZ, M1-TEZ, and total active 
+moiety when TEZ is co-administrated with itraconazole and fluconazole. The amount of total active 
+moiety was calculated as the sum of TEZ and M1-TEZ in molar units. 
+5. Conclusion 
+The applicant’s PBPK model for TEZ can be used to predict the PK of TEZ and M1-TEZ with strong and 
+moderate CYP3A inhibitors.  The PBPK model predicted an 2.1-fold increase in TEZ exposure and an 
+1.2-fold increase in M1-TEZ exposure when the drug is co-administered with fluconazole, a moderate 
+CYP3A inhibitor.   
+Reference ID: 4216031
+
+
+===== PAGE 56 =====
+
+55 
+ 
+6. Abbreviations 
+AUC, area under the concentration-time profile;  AUCR, the ratio of the area under the curve of the 
+substrate drug in the presence and absence of the perpetrator; BID, twice daily dosing; B/P, blood to 
+plasma ratio; Cmax, maximum concentration in plasma; CmaxR, the ratio of the maximum plasma 
+concentration of the substrate drug in the presence or absence of the perpetrator; CL, clearance; CLint, 
+intrinsic clearance; CLiv, intravenous clearance; DDI, drug-drug interaction; F, bioavailability; Fa, 
+fraction absorbed; Fg, fraction that escapes intestinal metabolism; fm, fraction metabolized; fu, unbound 
+fraction in plasma; fu mic, unbound fraction in microsomes; ka, first order absorption rate constant; Kp, 
+tissue-to-plasma partition coefficient; Ki, reversible inhibition constant; NA, not applicable; PBPK, 
+Physiological-based Pharmacokinetic; Peff, predicted effective intestinal permeability; Q, inter-
+compartment clearance; QD, once daily dosing; Qgut, a hypothetical flow term for the intestine 
+absorption model; Vsac, volume of distribution in the single adjusted compartment; Vss, volume of 
+distribution at steady state. 
+7. Information Requests 
+Given the similar pharmacologically activities between TEZ and its active metabolite M1-TEZ (Section 
+4.3.2 of pharmacol-written-summary.pdf, Submission 0001) and higher plasma M1-TEZ exposure than 
+TEZ exposure (Section 3.3 in summary-clin-pharm.pdf, Submission 0001), provide information as to 
+whether a 3.5-fold dose reduction in TEZ when the drug is co- administrated with a strong CYP3A 
+inhibitor (such as itraconazole) would decrease efficacy if the efficacy of TEZ is driven by both TEZ and 
+M1-TEZ. 
+(Response to Information Requests is reviewed under the Pharmacometrics Review) 
+8. Appendix  
+Table 26. Input parameters for TEZ and M1-TEZ PBPK models 
+Parameter 
+TEZ 
+M1-TEZ Reference 
+Physical-Chemical Properties 
+Mol Weight (g/mol) 
+520.5 
+518.48 
+in vitro measurement 
+log P 
+3.6 
+4.397 
+in vitro measurement 
+Compound Type 
+Neutral 
+Neutral 
+in vitro measurement 
+Blood to plasma ratio 
+0.658 
+0.573 
+in vitro measurement 
+fup 
+0.009 
+0.004 
+in vitro measurement 
+Absorption 
+fu(Gut) 
+1 
+1 
+Default 
+fa 
+0.82 
+  
+Estimated from ADME study 
+fg 
+0.95 
+  
+Predicted by Qgut model 
+F 
+0.75 
+  
+Predicted 
+PCaco-2(10-6 cm/s) 
+4.70 
+  
+in vitro measurement 
+Reference Compound 
+Multiple   
+in vitro measurement 
+Scalar 
+2.997 
+  
+Calibration from reference compounds 
+Distribution (minimal PBPK) 
+  
+  
+Vss (L/kg) 
+0.332 
+0.232 
+Optimized 
+Vsac (L/kg) 
+0.113 
+  
+Optimized 
+Q (L/h) 
+0.873 
+  
+Optimized 
+Elimination 
+  
+  
+  
+CLpo (L/hr) 
+1.39 
+  
+Final output from PopPK CL/F 
+CLiv (L/hr) 
+0.387 
+Optimized by parameter estimation 
+rCYP3A4 CLint (µL/min/pmol of isoform) 0.175 
+0.141 
+Retrograde calculator 
+Reference ID: 4216031
+
+
+===== PAGE 80 =====
+
+79 
+ 
+Following incubation of hepatocytes from various species with TEZ at 1 μM up to 
+4 hr, metabolic turn-over of TEZ was observed. 
+G027 
+M5-TEZ was relatively stable in vitro, in human hepatocytes 
+K258 
+M5-TEZ was relatively stable in vitro, in human, dog and rat liver microsomes 
+K269 
+M5-TEZ was relatively stable in vitro, in human liver S9 
+K284 
+M5-TEZ was relatively stable in vitro, in human plasma 
+K302 
+direct glucuronidation metabolite M3-TEZ 
+G025 
+Metabolic profile of 14C-TEZ was investigated in plasma, urine and feces 
+samples from the mass balance study 005. See individual study report for study 
+005 for summary of results. 
+K247 
+DDI 
+potential-
+CYP 
+induction 
+ 
+In human hepatocytes, TEZ did not induce CYP1A2 and CYP2B6. Induction of 
+CYP3A4 was observed at concentrations of 30 to 100 μM TEZ. Considering 
+unbound Cmax at therapeutic dose of approximately 0.11 μM, TEZ is not likely 
+to be a significant inducer in the clinic 
+G035 
+M094 
+In a human hepatocyte experiment evaluating the effect of pre-incubation with 
+TEZ on the clearance of IVA, no significant change in clearance was 
+observed.The amount of IVA remaining decreased only slightly in cultures treated 
+with TEZ as compared to cultures treated with solvent (0.5% DMSO). This 
+strongly suggests that TEZ does not affect the metabolism of IVA 
+H122 
+H123 
+In human hepatocytes, M1-TEZ showed CYP3A4 induction at 5 μM. Considering 
+unbound Cmax at therapeutic dose of <0.05 μM for M1-TEZ, the DDI potential 
+for these TEZ metabolites due to induction is predicted to be low 
+H108 
+In human hepatocytes, M2-TEZ did not show induction of CYP3A4 after 2-day 
+incubation. 
+I 244 
+In human hepatocytes, there were no observed increases in CYP1A2 or CYP2B6 
+expression and activity in response to M5-TEZ. and M5-TEZ increased CYP3A4 
+mRNA at 25 μM. There was no associated increase in CYP3A4 activity. 
+Considering its unbound peak plasma concentration <0.05 μM at the therapeutic 
+dose, M5-TEZ is unlikely to cause drug-drug interactions due to induction of 
+either of these CYP enzymes. 
+K301 
+DDI 
+potential-
+CYP 
+inhibition 
+TEZ did not inhibit any CYP significantly, with the IC50 values ≥25 μM for 
+CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4 
+G026 
+K312 
+Metabolites M1-TEZ, M2-TEZ, and M5-TEZ did not potently inhibit CYPs in 
+human liver microsomal incubations in vitro (IC50 ≥12 μM for M1-TEZ, ≥75 μ
+M for M2-TEZ, and M5-TEZ for CYP1A2, CYP2B6, CYP2C8, CYP2C9, 
+CYP2C19, CYP2D6, and CYP3A4 
+H033 
+I229 
+K280 
+DDI 
+potential-
+Transporter 
+ 
+MDCK-MDR1 P-gp Substrate Inhibition. The IC50 values were 28.6 μM for 
+TEZ, >30 μM for M1-TEZ and >100 μM for M2-TEZ and M5-TEZ. At oral dose 
+of 100 mg QD of TEZ, the Cmax of TEZ at steady state is 12.5 μM, and 
+Cmax/IC50 >0.1, suggesting potential drug-drug interaction due to Pgp inhibition 
+in the clinic. Therefore, a clinical DDI study with digoxin was conducted for TEZ 
+in combination with IVA, and the result suggests minimal contribution of TEZ to 
+Pgp inhibition (Study 006) 
+K311 
+The DDI potential for TEZ, M1-TEZ, M2-TEZ and M5-TEZ through inhibition 
+of BCRP, OAT1, OAT3 and OCT2 is predicted to be low. 
+OPT-2014-114 
+OPT-2014-138 
+TEZ, M1-TEZ, M2-TEZ and M5-TEZ inhibited atorvastatin uptake into 
+OATP1B1 overexpressed HEK-293 cells in a concentration-dependent manner 
+with IC50 values of 3.24 μM, 6.22 μM, 7.60 μM, and 11.4 μM, respectively. 
+K304 
+TEZ, M1-TEZ, M2-TEZ and M5-TEZ inhibited atorvastatin uptake into 
+OATP1B3 overexpressed HEK-293 cells in a concentration-dependent manner 
+with IC50 values of 28.8 μM, 19.8 μM, 21.5 μM, and 12.9 μM, respectively. The 
+DDI potential for TEZ, M1-TEZ, M2-TEZ and M5-TEZ through inhibition of 
+uptake transporters OATP1B1 and OATP1B3 is predicted to be low, as calculated 
+R-values were less than 1.25  with exposure achieved at clinical dose of TEZ 
+100mg QD. 
+L244 
+L245 
+Reference ID: 4216031
+
+
+===== PAGE 82 =====
+
+81 
+ 
+ 
+Feces sampling intervals: A predose feces sample was collected within 24 hours before 
+dosing from all subjects. Postdose feces samples were collected at 0 to 24, 24 to 48, 48 to 72, 
+72 to 96, 96 to 120, 120 to 144, and 144 to 168 hours after study drug administration and 
+every 24 hours thereafter until the day of discharge. 
+ 
+Results 
+The overall recovery of the administered dose was approximately 85.9%.  The majority of the 
+administered radiolabeled dose was recovered over the 624-hour study; however, all subjects 
+continued to excrete low levels of radioactivity through discharge. Cumulative total, urine, and fecal 
+recovery of [14C] radioactivity following oral administration is shown in Figure 24. 
+ 
+Figure 24: Mean (±SD) Cumulative Percent of Radioactive Dose Recovered in Urine and Feces at 
+Specified Intervals After a Single 100-mg (100-μCi) Oral Dose of 14C-VX-661 to Healthy Male Subjects 
+(Source: Figure 11-1, CSR 005) 
+ 
+Absorption:  
+The median concentration-time profiles of VX-661 and its metabolites (M1-661 and M2-661) in 
+plasma are presented in Figure 25. Following a single oral dose of 100-mg (100-μCi) 14C-VX-661, 
+VX-661 plasma concentration rapidly reached Cmax with a median tmax value of 1.25 hours post-
+dose, the median tmax was 12.00 hours for M1-661 and 72.00 hours for M2-661. 
+ 
+Reference ID: 4216031
+
+
+===== PAGE 84 =====
+
+83 
+ 
+M2-TEZ and M5-TEZ accounted for 7%, 15%, 31% and 33% of AUC values of the total 
+radioactivity, respectively. M3-TEZ accounted for 7% of the total radioactivity AUC. No other 
+circulating metabolites accounted for more than 5% of the AUC of total plasma radioactivity. 
+ 
+ 
+Figure 26: Proposed Biotransformation Pathways of 14C-VX-661 in Humans 
+(Source: Figure 11-3, CSR005) 
+ 
+Elimination: 
+A mean of 72.2% of the radioactive dose was recovered in feces and 13.7% was recovered in urine 
+through the last collection interval, resulting in a mean overall recovery of 85.9% (Figure 24).  
+Approximately 0.792% of the administrated dose was excreted in urine as unchanged VX-661, 
+showing that renal excretion is not the major pathway of VX-661 elimination in humans.  
+A mean of 33.8% of the total administered dose was excreted as the form of the parent drug in urine 
+and feces. The only major excreted metabolite was the oxidative metabolite M2-661, which 
+accounted for a mean of 35.5% of the total dose excreted in urine and feces. 
+The apparent elimination half-lives for unchanged VX-661, M1-661 and M2-661 were similar, with a 
+mean of 118 hours for VX-661, 109 hours for M1-661, and 119 hours for M2-661. 
+Reference ID: 4216031
+
+
+===== PAGE 88 =====
+
+87 
+ 
+ 
+Plasma PK samples were to be drawn predose (0 hour) and 0.25, 0.5, 0.75, 1, 2, 3, 4, 6, 8, 
+10, 12, 16, 24, 36, 48, 72, 96, 120, 144, 168, 192, 216, 240, 264, 288, 312, 336, 360, and 
+384 hours following the study drug administration and at the Follow-up Visit. 
+ 
+Urine samples were collected and pooled for PK analysis of VX-661 at predose (0 hour) 
+and between 0 to 4, 4 to 8, 8 to 12, 12 to 24, 24 to 48, and 48 to 72 hours following the 
+study drug administration. 
+ 
+PK Sampling Schedule Part B 
+ 
+Plasma PK samples were to be drawn predose (0 hour) and 0.25, 0.5, 0.75, 1, 2, 3, 4, 6, 8, 
+10, 12, 16, 24, 36, 48, 72, 96, 120, 144, 192, 240, 288, 336, and 384 hours following each 
+study drug administration and at the Follow-up Visit. 
+PK Sampling Schedule Part C 
+ 
+On Study Days 1 and 14 blood samples for PK analysis of VX-661 were to be drawn 
+predose (0 hour) and 0.25, 0.5, 0.75, 1, 2, 3, 4, 6, 8, 10, 12, 16, and 24 hours postdose. 
+The 24-hour postdose PK samples for Days 1 and 14 were to be taken before dosing on 
+Days 2 and 15, respectively.  
+ 
+On Study Days 3 to 13 and 16 to 27, a single blood sample for PK analysis of VX-661 
+was to be drawn before dosing.  
+ 
+Blood samples for PK analysis of VX-661 was to be drawn predose (0 hour) and 0.25, 
+0.5, 0.75, 1, 2, 3, 4, 6, 8, 10, 12, 16, 24, 36, 48, 72, 96, 120, 144, 192, 240, 288, 336, and 
+384 hours postdose on Study Day 28. A single blood sample was also to be drawn at the 
+Follow-up Visit. 
+ 
+Results: 
+Part A (SAD) 
+The mean plasma concentration-time profile is shown in Figure 27. The summary of PK parameters 
+for each dose group is provided in (Table 36). Following oral administration, VX-661 was readily 
+absorbed with a median Tmax of ~ 1 hour in the fasted state (50 mg to 300 mg). VX-661 appears to 
+follow multiple-exponential disposition kinetics in healthy male volunteers (Figure 27). VX-661 
+exhibited long apparent terminal half-life with a median of 74 to 89 hours over a range of 100 to 300-
+mg single doses (Table 36). However, the large majority of VX-661 was eliminated within the first 48 
+hours postdose. Cmax and AUCinf of VX-661 exhibited approximately dose proportional increase 
+when administered as single doses of 50 to 300 mg (Figure 28). Minimal amounts of VX-661 (<1% 
+of total dose) were excreted in the urine after single doses of 50 to 300 mg. 
+Reference ID: 4216031
+
+
+===== PAGE 91 =====
+
+90 
+ 
+Although this study was not designed to investigate gender effect, an assessment of potential 
+differences in PK between males and females was conducted for VX-661. A total of 4 males and 6 
+females were dosed with the 100-mg single dose. Mean plasma concentration-time profiles by gender 
+are shown in Figure 29 for VX-661. The PK parameters (AUC0-∞, Cmax, tmax, t1/2λz) were similar 
+for male and female subjects administered a single dose of 100 mg VX-661. 
+ 
+Figure 29: Mean VX-661 Plasma Concentration Time Profiles by Gender Following Single Dose 
+Administration of VX-661 
+(Source – Figure 11-4, CSR001) 
+ 
+Part B (Relative bioavailability, food effect) 
+The statistical comparisons of Cmax and AUC0-∞ values between fasted and fed states for both tablet 
+and solution formulations are provided in Table 37. In the fed state (a high-fat meal), the AUC0-∞ of 
+both solution and tablet formulations were comparable relative to those of the fasted state (Table 38). 
+Reference ID: 4216031
+
+
+===== PAGE 93 =====
+
+92 
+ 
+after multiple doses was consistent with the single dose PK. The median Tmax was about 1-3 hr and 
+mean apparent terminal t1/2 ranged from 106 to 138 hours over the range of 50 to 200 mg qd for 28 
+days. VX-661 steady state was reached within 2 weeks following 50 to 200 mg QD dosing based on 
+trough concentrations (Figure 31) and AUCτ (Table 39). Mean accumulation ratio for all doses 
+ranged from 1.53 to 2.18 with the QD dosing regimen, which suggested that the effective half-life is 
+~24 hours, much shorter than the terminal half-life.  
+CL/F of VX661 did not change after multiple dosing compared to single dose administration. The 
+AUCτ at steady state was consistent with the observed single dose exposures (AUC0-24h /AUC0-∞). 
+With VX661 100 mg QD under fed state, the AUCτ at steady state is ~70μg*h/mL, comparable to 
+AUC0-∞ of 79 μg*h/mL after single dose of 100 mg VX-661 administered with food. The 
+pharmacokinetics of VX661 can therefore be considered time-independent. Cmax and AUCτ of VX-
+661 exhibited approximately dose proportional increase when administered as once daily doses of 50 
+to 200 mg (Figure 32). Overall, VX661 exhibit linear PK. 
+ 
+Figure 30: Mean VX-661 Plasma Concentration-Time Profiles Following Multiple Dose Administration 
+of VX-661 
+(Source – Figure 11-5 and 11-6, CSR001) 
+ 
+Reference ID: 4216031
+
+
+===== PAGE 97 =====
+
+96 
+ 
+Day 7, plasma PK samples were collected before study drug dosing and 2, 3, 4, 6, 12, 24, 48, 72, 
+and 96 hours after study drug dosing on Day 7 (through Day 11). One blood sample was collected 
+at the Safety Follow-up Visit. 
+For part B, Plasma PK samples drawn before the study drug dose were collected after a fast of at 
+least 8 hours. Plasma PK samples were collected on Days 1, 7, 14, and 15 (NOTE: the 23.5-hour 
+time points are shown on the following days); matching samples were collected on Day -1. All 
+PK sampling times are relative to the nominal dose time of study drug(s) with a window of ± 15 
+minutes for the actual dose time. On Days 1, 7, 14, and 15, PK samples were collected before 
+study drug dosing (-0.5 [Days 1, 7, and 14 only]) and 0.5, 1, 2, 3, 4, 6, 9, 12, and 23.5 hours after 
+the study drug dose. Additional samples matching the predose to 23.5-hour time points (on Days 
+1, 7, 14, and 15) were collected on Day -1 (i.e., -24.5, -23.5, -23, -22, -21, -20, -18, -15, and -12 
+hours before the first study drug dose on Day 1). 
+Results: 
+Pharmacokinetic results 
+Part A 
+VX-661 was rapidly absorbed in healthy subjects following single and multiple doses of 200 and 300 
+mg qd with a tmax of approximately 2 to 3 hours (Figure 33). Exposure to VX-661, M1-661, and M2-
+661 increased in an approximately dose proportional manner from 200 mg to 300 mg qd, with a mean 
+terminal half-life of VX661 between 80-90 hours. 
+Part B 
+VX-661 was rapidly absorbed following single and multiple therapeutic doses of 100 mg qd and 
+supratherapeutic doses of 300 mg qd in healthy subjects. VX-661, M1-661, and M2-661 exposure 
+increased in an approximately dose proportional manner when the VX-661 dose was increased from 
+100 mg qd to 300 mg qd. AUCτ increased by approximately 3.0-fold (78500 to 232000 ng•h/mL) and 
+Cmax increased by approximately 2.4-fold (7000 to 17100 ng/mL). 
+ 
+ 
+Reference ID: 4216031
+
+
+===== PAGE 101 =====
+
+100 
+ 
+PK assessments included plasma concentrations of VX-661 and its metabolite, M1-661 and M2-661, 
+and IVA and its metabolites, M1-IVA and M6-IVA. 
+• On Day 1, blood samples were collected for measurement of VX-661 and IVA before the study drug 
+dose (0 hour) and at 1, 2, 3, 4, 6, 8, 12, and 24 hours (Day 2) after the dose of study drugs. 
+• On Day 8 and Day 9, blood samples were collected for measurement of VX-661 and IVA before the 
+dose (0 hour) of study drugs. 
+• On Day 10, blood samples were collected for measurement of VX-661 and IVA before the study 
+drug dose (0 hour) and at 1, 2, 3, 4, 6, 8, 12, 24 hours (Day 11), 48 (Day 12), 72 (Day 13), 96 (Day 
+14), 120 (Day 15), and 144 hours (Day 16) after the dose of study drugs. 
+• On Day 10, blood samples for plasma protein binding were collected before the study drug dose (0 
+hour) and at 2 and 4 hours after the dose of study drugs. 
+ 
+Results: 
+Pharmacokinetic results 
+Summary statistics of PK parameters are presented in Table 43 and Table 44. Steady-state plasma 
+concentrations of VX-661 and IVA were achieved by Day 10. Overall, plasma exposures (Cmax and 
+AUC) of VX-661 and its metabolites M1-661, M2-661 in subjects with moderate hepatic impairment 
+were comparable to those in subjects with normal hepatic function. On Day 10, the total and unbound 
+AUCτ of VX-661 were 21% and 32% higher, respectively, in subjects with moderate hepatic 
+impairment than in matched healthy subjects, while the total and unbound Cmax of VX-661 were 
+similar between the 2 cohorts. On Day 10, total and unbound exposures of M1-661 and M2-661 were 
+similar between cohorts. 
+Overall, plasma exposures (Cmax and AUC) of IVA in subjects with moderate hepatic impairment 
+were comparable to those in subjects with normal hepatic function in this study. On Day 10, the 
+AUCτ of IVA was 24% higher in subjects with moderate hepatic impairment while the Cmax of IVA 
+was similar between cohorts. 
+After 10 days of dosing, subjects with moderate hepatic impairment had mean metabolic ratios that 
+were reduced: 0.85 for M1-TEZ (compared to 1.3 for matched healthy subjects), 0.97 for M2-TEZ 
+(compared to 1.5 for matched healthy subjects), 1.4 for M1-IVA (compared to 2.1 for matched 
+healthy subjects), and 0.79 for M6-IVA (compared to 1.4 for matched healthy subjects). 
+ 
+Reference ID: 4216031
+
+
+===== PAGE 111 =====
+
+110 
+ 
+Itraconazole PK 
+• On Days 26 and 27, blood samples were collected before the morning itraconazole dose. 
+• On Day 28, blood samples were collected before the morning dose and at 2 hours after the 
+morning itraconazole dose. 
+Cohort 2 
+Midazolam PK 
+• On Day 1, blood samples were collected before the morning midazolam dose and at 0.5, 1, 1.5, 
+2, 3, 4, 6, 8, 12, and 24 hours (Day 2) after the morning midazolam dose. 
+• On Day 15, blood samples were collected before the morning midazolam dose and at 0.5, 1, 1.5, 
+2, 3, 4, 6, 8, 12, and 24 hours (Day 16) after the morning midazolam dose. 
+Digoxin PK 
+• Day 1, blood samples were collected before the morning digoxin dose and at 0.5, 0.75, 1, 1.5, 2, 
+4, 6, 8, 10, 12, 24 (Day 2), 48 (Day 3), 72 (Day 4), 96 (Day 5), and 120 hours (Day 6) after the 
+digoxin dose. 
+• Day 15, blood samples were collected before the morning digoxin dose and at 0.5, 0.75, 1, 1.5, 
+2, 4, 6, 8, 10, 12, 24 (Day 16), 48 (Day 17), 72 (Day 18), 96 (Day 19), and 120 hours (Day 20) 
+after the digoxin dose. 
+• On Day 1, urine samples were collected before the morning digoxin dose, and from 0 to 6, 6 to 
+12, 12 to 24 (Day 2), 24 to 48 (Day 3), 48 to 72 (Day 4), 72 to 96 (Day 5), and 96 to 120 hours 
+(Day 6) after the digoxin dose. 
+• On Day 15, urine samples were collected before the morning digoxin dose, and from 0 to 6, 6 to 
+12, 12 to 24 (Day 16), 24 to 48 (Day 17), 48 to 72 (Day 18), 72 to 96 (Day 19), and 96 to 120 
+hours (Day 20) after the digoxin dose. 
+VX-661 and IVA PK 
+• On Day 6, blood samples were collected before the morning VX-661/IVA dose and at 0.5, 1, 2, 
+3, 4, 6, 8, 12, and 24 hours (Day 7) after the morning VX-661/IVA dose. 
+• On Days 13 and 14, blood samples were collected before the morning VX-661/IVA dose. 
+• On Day 15, blood samples were collected before the morning VX-661/IVA dose and at 0.5, 1, 
+2, 3, 4, 6, 8, 12, and 24 hours (Day 16) after the morning VX 661/IVA dose. 
+Results and Conclusions: 
+PK results 
+Effect of itraconazole on ivacaftor, VX-661, and metabolites: 
+ 
+Upon coadministration of VX-661/IVA as separate tablets with itraconazole, VX-661 exposure 
+increased (Ctrough increased 6-fold, Cmax increased 2.83-fold and AUCτ increased 4.02-fold), 
+M1-661 exposure decreased approximately 40%, and M2-661 exposure decreased approximately 
+60%. 
+ 
+Upon coadministration of VX-661/IVA as separate tablets with itraconazole, IVA exposure 
+increased (Ctrough increased 37.7-fold, Cmax increased approximately 8.6-fold, and AUCτ 
+increased 15.6-fold), M1-IVA exposure increased (Ctrough increased 8.7-fold, Cmax increased 
+1.8-fold and AUCτ increased 3.56-fold), and M6-IVA decreased (Cmax decreased approximately 
+Reference ID: 4216031
+
+
+===== PAGE 117 =====
+
+116 
+ 
+similar compared to administration of EE and NE alone.GLSM ratios of EE and NE exposures were 
+within the range of 101% to 115% in healthy subjects receiving OC with or without TEZ/IVA. The 
+90% CI for the EE Cmax ratio with and without TEZ/IVA was 99% to 133%. For EE AUCτ and NE 
+Cmax and AUCτ, the 90% CIs were within the range of 80% to 125% (Table 55).  
+The PK of TEZ and IVA and their metabolites did not change when TEZ/IVA was administrated with 
+OC. GLSM ratios of the exposure of TEZ and its metabolites were within the range of 85% to 105% 
+in healthy subjects receiving TEZ/IVA with or without OC. The 90% CIs for Cmax and AUCτ were 
+within the range of 80% to 125% for TEZ and both of its metabolites (Table 56). GLSM ratios of the 
+exposure of IVA and its metabolites were within the range of 98% to 104% in healthy subjects 
+receiving TEZ/IVA with or without OC. The 90% CIs for Cmax and AUCτ were within 80% to 125% 
+for IVA and both of its metabolites (Table 57). 
+ 
+Figure 39: Arithmetic Mean Plasma Concentration-time Profiles of EE After Administration of OC 
+Alone (Day 21) and With TEZ/IVA (Day 49)  
+(Source: Figure 11- 1, CSR008) 
+ 
+Reference ID: 4216031
+
+
+===== PAGE 122 =====
+
+121 
+ 
+The FDC formulation demonstrated similar bioavailability compared to the separate tablet 
+formulations of VX-661 and ivacaftor. There was no significant difference in exposure of VX-661, 
+ivacaftor, and their respective metabolites between the two formulations. The geometric mean ratios 
+for Cmax and AUC of the FDC relative to separate tablets were both approximately 100% under fed 
+conditions (Table 61). 
+Table 61. Relative Bioavailability of the FDC Formulation Compared to Separate Tablets Under Fed 
+Conditions 
+ 
+ (Source: Table 2-1, synopsis of study 004) 
+Effect of Food on the FDC Formulation 
+Administration of the FDC formulation with food (high-fat, high-calorie breakfast) had no clinically 
+relevant effect on exposure of VX-661 and its metabolites. Food slightly decreased Cmax (by 20%) 
+and delayed the tmax of VX-661. However, VX-661 AUCinf was comparable between the fed and 
+fasted states with a GLSM ratio of 1.10 (90% CI: 1.01 to 1.20) (Table 62). 
+There was a significant food effect on exposure of ivacaftor and its metabolites with the FDC 
+formulation. Ivacaftor Cmax and AUC0-∞ increased to 4- and 3-fold, respectively, when the FDC 
+was administered after a high-fat, high-calorie breakfast (Table 62).  
+ 
+Reference ID: 4216031

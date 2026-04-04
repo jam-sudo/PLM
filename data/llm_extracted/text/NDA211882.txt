@@ -1,0 +1,1424 @@
+
+
+===== PAGE 7 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 211882 Multi-disciplinary Review and Evaluation  
+Arazlo (tazarotene) lotion, 0.045% for topical use 
+Table 35: Incidence of Local Mild, Moderate, or Severe Cutaneous Irritation at Any Post Baseline  
+Visit (Safety Population) ..........................................................................................................89  
+Table 36: Treatment-Emergent Adverse Reactions Occurring in ≥2 Subjects in Any Subgroup  
+Treated With Arazlo Lotion or Vehicle Lotion, by Age Group (ISS, Safety Analysis Set) ..........91  
+Table 37: Treatment-Emergent Adverse Reactions Occurring in ≥2 Subjects in Any Subgroup  
+Treated With Arazlo Lotion or Vehicle Lotion, by Gender (ISS, Safety Analysis Set) ...............92  
+Table 38: Treatment-Emergent Adverse Reactions Occurring in ≥2 Subjects in Any Subgroup  
+Treated With Arazlo Lotion or Vehicle Lotion, by Race (ISS, Safety Analysis Set)....................93  
+Table 39: Treatment-Emergent Adverse Reactions Occurring in ≥2 Subjects in Any Subgroup  
+Treated With Arazlo Lotion or Vehicle Lotion, by Ethnicity (ISS, Safety Analysis Set) .............94  
+Table 40: Treatment-Emergent Adverse Reactions Occurring in ≥2 Subjects in Any Subgroup  
+Treated With Arazlo Lotion or Vehicle Lotion, by Geographic Region (ISS, Safety Analysis Set)  
+.................................................................................................................................................95  
+Table 41: Response Symbols and Numerical Responses ..............................................................96  
+Table 42: Effects on Superficial Layers of the Skin .......................................................................97  
+Table 43: Mean and Total Irritation Score, Study 101 (N=42) (Safety Population) ......................97  
+Table 44: Human Exposure Multiples Based on AUC Comparison Using the Human Mean AUC  
+Value of 9702.49 pg*hr/mL in Subjects Aged 9 to <12 Years Treated With Arazlo...............109  
+Table 45: Summary of LC-MS/MS Bioanalytical Method Validation ..........................................116  
+Table 46: Summary of Bioanalysis Performance ........................................................................117  
+6  
+Version date: October 12, 2018 
+Reference ID: 4534641  
+
+
+===== PAGE 8 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 211882 Multi-disciplinary Review and Evaluation  
+Arazlo (tazarotene) lotion, 0.045% for topical use 
+Table of Figures 
+: Molecular Structure of Tazarotene ...............................................................................31 
+Figure 1
+Figure 2: Plasma Concentrations (Mean ± SD) of Tazarotene and Tazarotenic Acid in Subjects  
+Aged ≥12 Years ........................................................................................................................47  
+Figure 3: Plasma Concentrations (Mean ± SD) of Tazarotene and Tazarotenic Acid From Three  
+Treatment Groups ...................................................................................................................48  
+Figure 4: Absolute Change in Noninflammatory Lesions by Center (Trial 301)............................63  
+Figure 5: Absolute Change in Inflammatory Lesions by Center (Trial 301)...................................63  
+Figure 6: EGSS Success by Center (Trial 301)................................................................................64  
+Figure 7: Absolute Change in Noninflammatory Lesions by Center (Trial 302)............................64  
+Figure 8: Absolute Change in Inflammatory Lesions by Center (Trial 302)...................................65  
+Figure 9: EGSS Success by Center (Trial 302)................................................................................65  
+Figure 10: Change in Noninflammatory Lesions Over Time (Trial 301) ........................................66  
+Figure 11: Change in Inflammatory Lesions Over Time (Trial 301)...............................................67  
+Figure 12: EGSS Success Over Time (Trial 301).............................................................................67  
+Figure 13: Change in Noninflammatory Lesions Over Time (Trial 302) ........................................68  
+Figure 14: Change in Inflammatory Lesions Over Time (Trial 302)...............................................68  
+Figure 15: EGSS Success Over Time (Trial 302).............................................................................69  
+Figure 16: Mean Local Cutaneous Safety and Tolerability Assessments by Visit (Trials 301 and  
+302 Combined) ........................................................................................................................73  
+Figure 17: Cmax of Tazarotenic Acid on Days 14 to 15 From Individual Subjects From the Arazlo  
+Lotion Treatment Group........................................................................................................118  
+Figure 18: AUCall of Tazarotenic Acid on Days 14 to 15 From Individual Subjects From the Arazlo  
+Lotion Treatment Group........................................................................................................119  
+Figure 19: Relationship Between Dose of Arazlo Lotion and Cmax of Tazarotenic Acid on Days 14  
+to 15.......................................................................................................................................119  
+7  
+Version date: October 12, 2018 
+Reference ID: 4534641 
+
+
+===== PAGE 14 =====
+
+ 
+ 
+ 
+ 
+ 
+NDA 211882 Multi-disciplinary Review and Evaluation  
+Arazlo (tazarotene) lotion, 0.045% for topical use 
+Glossary 
+Acne-QoL 
+Acne-Specific Quality of Life Questionnaire 
+AE 
+adverse event 
+ANCOVA 
+analysis of covariance 
+AR 
+adverse reaction 
+AUC 
+area under the curve 
+CDER 
+Center for Drug Evaluation and Research 
+CFR 
+Code of Federal Regulations 
+CHO/HGPRT Chinese hamster ovary cell/hypoxanthine-guanine phosphoribosyl-transferase 
+Cmax 
+observed peak drug concentration 
+CSR 
+clinical study report 
+DMF 
+drug master file 
+ECG 
+electrocardiogram 
+EGSS 
+Evaluator’s Global Severity Score 
+FDA 
+Food and Drug Administration 
+GLP 
+good laboratory practice 
+hERG 
+human ether-a-go-go-related gene 
+IC50 
+half maximal inhibitory concentration 
+IND 
+Investigational New Drug 
+iPSP 
+Initial Pediatric Study Plan 
+ISS 
+integrated summary of safety 
+LD 
+listed drug 
+MCMC 
+Markov Chain Monte Carlo 
+MedDRA 
+Medical Dictionary for Regulatory Activities 
+MRHD 
+maximum recommended human dose 
+NDA 
+new drug application 
+OCS 
+Office of Computational Science 
+OPDP 
+Office of Prescription Drug Promotion 
+PI 
+prescribing information 
+PK 
+pharmacokinetics 
+PP 
+per protocol 
+PPI 
+patient package insert (also known as Patient Information) 
+PRO 
+patient-reported outcome 
+PT 
+preferred term 
+RAR 
+retinoic acid receptor 
+SAE 
+serious adverse event 
+SOC 
+system organ class 
+TEAE 
+treatment-emergent adverse event 
+13  
+Version date: October 12, 2018 
+Reference ID: 4534641 
+
+
+===== PAGE 34 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 211882 Multi-disciplinary Review and Evaluation  
+Arazlo (tazarotene) lotion, 0.045% for topical use 
+5 Nonclinical Pharmacology/Toxicology 
+5.1. Executive Summary 
+The Applicant submitted a 505(b)(2) application for Arazlo (tazarotene) Lotion, 0.045% for the 
+topical treatment of acne vulgaris in patients 9 years of age and older, using Tazorac Cream, 
+0.1% as the LD. Tazorac Cream, 0.1% has been approved for the same indication in patients 12 
+years of age and older under NDA 021184 since 2001. 
+The Applicant has established an adequate clinical bridge to the LD, Tazorac Cream, 0.1% based 
+on a human maximal use PK study in subjects aged 12 years and older. Refer to the Clinical 
+Pharmacology section of this review for the details. The Applicant is relying on the Agency’s 
+finding of safety for the LD. The nonclinical information from the approved label for the LD that 
+the Applicant intends to rely on includes fertility and reproduction, embryofetal development, 
+genetic toxicity, and carcinogenicity. The toxicity of tazarotene is well characterized and typical 
+for the retinoid drug class. 
+The Applicant conducted a pivotal repeat dose dermal toxicity study with a fixed-dose 
+combination drug product containing halobetasol propionate and tazarotene in a lotion vehicle, 
+and halobetasol and tazarotene monads in a lotion vehicle. The lotion vehicle composition used 
+in this study is the same as used in Arazlo. The Applicant used the toxicity data from the 
+tazarotene portion of this repeat dose dermal toxicity study to support the safety of Arazlo. 
+The pivotal 3-month repeat dose dermal toxicity study in minipigs was conducted with five 
+treatment groups that included low (halobetasol propionate 0.002%/tazarotene 0.010%), mid 
+(halobetasol propionate 0.01%/tazarotene 0.045%) and high doses (halobetasol propionate 
+0.02%/tazarotene 0.09%) of the combination product and monad groups containing 
+halobetasol propionate (0.02%) or tazarotene (0.090%) in the lotion vehicle. The mid-dose 
+group is equivalent to the tazarotene concentration used in Arazlo. Topical administration of 
+the three doses of the fixed-dose combination drug product as well as halobetasol propionate 
+and tazarotene monads once daily for 90 days was well tolerated in minipigs. Treatment related 
+effects included body weight decreases, consistent with adverse effects of topical 
+corticosteroids, and correlated to halobetasol propionate systemic exposure. Target organs 
+included those previously reported for tazarotene and halobetasol propionate (i.e., skin dose 
+site, adrenal glands, and thymus). Decreased organ weights and/or microscopic changes 
+observed in target organs showed partial or full reversibility following a 1-month recovery 
+period. There were no test article-related electrocardiogram (ECG) abnormalities in this study. 
+The tazarotene lotion monad used in this study contains 0.090% tazarotene which is twofold 
+higher than the concentration used in Arazlo. The toxicity profile for the tazarotene lotion 
+monad was consistent with that of topical tazarotene or retinoid. Steady state exposures (AUC0­
+24) at the mid dose (clinical strength) were 20 and 14 ng*hr/mL for tazarotenic acid (the active 
+metabolite of tazarotene) in males and females, respectively, which is 2 and 1.4 times the 
+maximum recommended human dose (MRHD) of Arazlo Lotion (based on area under the curve 
+(AUC) comparison), respectively. 
+33 
+Version date: October 12, 2018 
+Reference ID: 4534641 
+
+
+===== PAGE 37 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 211882 Multi-disciplinary Review and Evaluation  
+Arazlo (tazarotene) lotion, 0.045% for topical use 
+Table 4. TK Data for Tazarotenic Acid From a 3-Month Repeat-Dose Dermal Minipig Toxicity Study 
+Agent and Test 
+Animal 
+Major Findings 
+Tmax: 
+Low strength: 2 hrs 
+Clinical strength: 8 hrs 
+Enhanced strength: 4 hrs 
+Tazarotene lotion monad: 2 hrs 
+AUC0-24: 
+Low strength: 6.1 ng∙hr/mL 
+Clinical strength: 32 ng∙hr/mL 
+Enhanced strength: 54 ng∙hr/mL
+Tazarotenic acid in 
+Tazarotene lotion monad: 26.5 ng·hr/mL 
+male minipigs 
+Cmax: 
+Low strength: 0.3 ng/mL 
+Clinical strength: 2.1 ng/mL 
+Enhanced strength: 3.0 ng/mL 
+Tazarotene lotion monad: 1.8 ng/mL 
+Accumulation: No evidence of systemic accumulation from Day 28 to 
+Day 90, indicating steady-state had been achieved by Day 28. 
+Dose proportionality: Systemic exposure increased roughly dose-
+proportionally 
+Tmax: 
+Low strength: 8 hrs 
+Clinical strength: 4 hrs 
+Enhanced strength: 3 hrs 
+Tazarotene lotion monad: 2 hrs 
+AUC0-24: 
+Low strength: 4.0 ng∙hr/mL 
+Clinical strength: 24 ng∙hr/mL 
+Enhanced strength: 42 ng∙hr/mL
+Tazarotenic acid in 
+Tazarotene lotion monad: 30.6 ng∙hr/mL
+female minipigs 
+Cmax: 
+Low strength: 0.23 ng/mL 
+Clinical strength: 1.7 ng/mL 
+Enhanced strength: 3.7 ng/mL 
+Tazarotene lotion monad: 2.4 ng/mL 
+Accumulation: No evidence of systemic accumulation from Day 28 to 
+Day 90, indicating steady-state had been achieved by Day 28. 
+Dose proportionality: Systemic exposure increased roughly 
+dose-proportionally 
+a A 3-month Study of IDP-118-A by Dermal Administration in Minipigs with a 1-month Recovery Period, Study # V01-118A-605 
+Abbreviations: AUC=area under the curve, Cmax=observed peak drug concentration, Tmax=time at which Cmax is observed 
+The Applicant conducted a human maximal use PK study in subjects aged 12 years and older to 
+determine biocomparability between Arazlo and the LD to establish a clinical bridge to the LD. It 
+is determined that the Applicant has established an adequate clinical bridge to the LD, Tazorac 
+Cream, 0.1%. The Applicant also conducted a human maximal use PK study in pediatric subjects 
+(9 years to 11 years 11 months) with Arazlo Lotion. Refer to the Clinical Pharmacology section 
+of this review for the details. 
+36 
+Version date: October 12, 2018 
+Reference ID: 4534641 
+
+
+===== PAGE 38 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 211882 Multi-disciplinary Review and Evaluation  
+Arazlo (tazarotene) lotion, 0.045% for topical use 
+5.5. Toxicology 
+5.5.1. 
+General Toxicology 
+Study 1 
+A 3-month Study of IDP-118-A by Dermal Administration in Minipigs with a 
+1-month Recovery Period (Study # V01-118A-605, GLP) 
+This study was conducted with five treatment groups that included low (halobetasol propionate 
+0.002%/tazarotene 0.010%), mid (halobetasol propionate 0.01%/tazarotene 0.045%) and high 
+doses (halobetasol propionate 0.02%/tazarotene 0.09%) of the fixed-dose combination 
+product, as well as monad groups containing halobetasol propionate (0.02%) or tazarotene 
+(0.090%) in the lotion vehicle. The lotion vehicle used in this study contains the same excipient 
+composition as Arazlo Lotion. The mid-dose group is equivalent to the tazarotene concentration 
+used in Arazlo Lotion. The tazarotene monad group contained 0.090% tazarotene, which is 
+twofold higher than the tazarotene concentration used in Arazlo Lotion. 
+Administration of the three doses of the fixed-dose combination product as well as halobetasol 
+propionate and tazarotene monads by once daily dermal application for 90 days was well 
+tolerated in minipigs. 
+Treatment-related effects included body weight decreases, consistent with adverse effects of 
+topical corticosteroids, and correlated to halobetasol propionate systemic exposure. Target 
+organs included those previously reported for tazarotene and halobetasol propionate (i.e., skin 
+dose site, adrenal glands, and thymus). The decreased organ weights and/or microscopic 
+changes observed in target organs showed partial or full reversibility following a 1-month 
+recovery period. The toxicity profile of the tazarotene lotion monad group was consistent with 
+that of topical tazarotene. 
+ECG measurements were obtained prior to the first dose, during the last week of dosing (Days 
+85/87), and during the last week of the recovery period (Day 114). There were no test article-
+related ECG abnormalities in main study animals or in 1-month recovery animals. 
+Tazarotene is a prodrug of its active metabolite, tazarotenic acid. Tazarotenic acid, but not 
+tazarotene, was detected in plasma. Overall, drug systemic exposure was consistently achieved 
+throughout the dosing interval, with the peak drug concentration (Cmax) reached within a few 
+hours after dosing. The highest exposures, based on Cmax, were observed in the high-dose group 
+on Day 90 for tazarotenic acid. There was no evidence of drug systemic accumulation between 
+Days 28 and 90, and steady state appeared to be reached by Day 28. Drug absorption appeared 
+to increase with the combination product as compared to the lotion monads. On Day 90, male 
+and female Cmax averaged 3.0 and 3.7 ng/mL for tazarotenic acid, respectively. Steady state 
+exposures (AUC0-24) for tazarotenic acid at the mid dose (clinical strength) were 21 and 14 
+ng*hr/mL for males and females, respectively, which is 2 and 1.4 times the MRHD of Arazlo 
+(based on AUC comparison), respectively. 
+37 
+Version date: October 12, 2018 
+Reference ID: 4534641 
+
+
+===== PAGE 45 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 211882 Multi-disciplinary Review and Evaluation  
+Arazlo (tazarotene) lotion, 0.045% for topical use 
+Parameter 
+Details 
+Systemic concentrations of tazarotene were at or near steady state by Day 14. 
+The tables below summarize PK parameters of tazarotene and tazarotenic acid 
+on Days 14-15 following once daily topical application of Arazlo Lotion and 
+Tazorac Cream. 
+Tazarotene 
+Arazlo Lotion 
+9 to <12 years 
+Arazlo Lotion 
+≥12 years 
+Tazorac Cream 
+≥12 years 
+Cmax 
+(pg/mL) 
+Mean 
+(SD) 
+17.82 (19.93) 
+4.84 (3.97) 
+6.25 (4.43) 
+N (Nquant) 
+8 (6) 
+20 (7) 
+20 (10) 
+AUC0-t 
+(h*pg/mL) 
+Mean 
+(SD) 
+240.98 
+(239.22) 
+67.40 (34.10) 
+72.66 (33.30) 
+N (Nquant) 
+5 (5) 
+4 (4) 
+5 (5) 
+AUC0-24h 
+(h*pg/mL) 
+Mean 
+(SD) 
+447.73 (NAa) 
+126.53 (-)
+ ­
+N (Nquant) 
+2 (2) 
+1 (1) 
+0 (0)
+PK parameters 
+a SD could not be calculated from two values 
+Source: Tables 2 and 3 from module 2.7.2 
+Tazarotenic Acid 
+Arazlo Lotion 
+9 to <12 years 
+Arazlo Lotion 
+≥12 years 
+Tazorac Cream 
+≥12 years 
+Cmax 
+(pg/mL) 
+Mean 
+(SD) 
+620.88 
+(532.30) 
+262.63 
+(170.09) 
+355.11 (227.56) 
+N (Nquant) 
+8 (8) 
+20 (20) 
+20 (20) 
+AUC0-t 
+(h*pg/mL) 
+Mean 
+(SD) 
+9702.49 
+(8420.68) 
+4129.33 
+(2641.35) 
+5571.13 
+(3324.04) 
+N (Nquant) 
+8 (8) 
+20 (20) 
+20 (20) 
+AUC0-24h 
+(h*pg/mL) 
+Mean 
+(SD) 
+8251.06 
+(7941.10) 
+4195.14 
+(2851.14) 
+5606.80 
+(3776.02) 
+N (Nquant) 
+5 (5) 
+17 (17) 
+11 (11) 
+Relative bioavailability 
+Source: Tables 4 and 5 from module 2.7.2 
+In subjects aged ≥12 years and older, the systemic exposure of Arazlo Lotion 
+was lower compared to that of Tazorac Cream. For tazarotene, the ratios of 
+arithmetic mean (Arazlo/Tazorac) were 0.77 and 0.93 for Cmax and AUC0-t, 
+respectively on Days 14-15. For tazarotenic acid, the ratios were 0.74 for both 
+Cmax and AUC0-t on Days 14-15. 
+Pharmacodynamics 
+The PD of tazarotene and tazarotenic acid are unknown. The Applicant did not 
+(PD) 
+evaluate the PD in this NDA. 
+Bioanalytical method 
+A liquid chromatography tandem mass spectrometric method was used for 
+quantification of tazarotene and tazarotenic acid in human plasma samples 
+collected from Study V01-123A-501. A full validation report was submitted and 
+bioanalytical method was adequately validated. See Section 13.4.1 for 
+additional details. 
+Abbreviations: AUC0-t=area under the curve from time 0 up to the time corresponding to the last quantifiable concentration, 
+AUC0-24h=area under the curve from time 0 through 24 hours, Cmax=observed peak drug concentration, SD=standard deviation, 
+Nquant=number of samples with quantifiable levels of analyte, NDA = new drug application, PK=pharmacokinetics 
+44 
+Version date: October 12, 2018 
+Reference ID: 4534641 
+
+
+===== PAGE 46 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 211882 Multi-disciplinary Review and Evaluation  
+Arazlo (tazarotene) lotion, 0.045% for topical use 
+6.2.2. 
+General Dosing and Therapeutic Individualization 
+General Dosing 
+The Applicant’s proposed dosing regimen is to apply a thin layer of Arazlo Lotion to the affected 
+areas once daily. This dosing regimen is supported by systemic safety data from the maximal 
+use study (V01-123A-501) and efficacy and safety data from the Phase 2 comparative safety 
+and efficacy study (V01-123A-201) and the Phase 3 trials (301 and 302). See Section 8 for 
+efficacy and safety findings from the Phase 3 trials. 
+Therapeutic Individualization 
+Therapeutic individualization was not evaluated in this NDA. 
+6.2.3. 
+Outstanding Issues 
+There are no outstanding issues that would preclude the approval of Arazlo Lotion from a 
+Clinical Pharmacology perspective. 
+6.2.4. 
+Summary of Labeling Recommendations 
+The Clinical Pharmacology review team added additional PK information indicating the higher 
+Cmax and AUC(0-t) of tazarotene and tazarotenic acid observed in subjects aged 9 to less than 12 
+years compared to those observed in subjects 12 years and older in Section 12.3 of the label. 
+6.3. Comprehensive Clinical Pharmacology Review 
+6.3.1. 
+General Pharmacology and Pharmacokinetic Characteristics 
+The PK characteristics of tazarotene and tazarotenic acid following application of Arazlo Lotion 
+were assessed in Study V01-123A-501 under maximal use conditions. This was an open-label 
+study designed to assess the safety and plasma PK of topically applied Arazlo Lotion in 
+comparison to Tazorac Cream. 
+Eligible subjects for the study were males and females at least 9 years of age for Arazlo Lotion 
+and at least 12 years of age and older for Tazorac Cream. Subjects had a clinical diagnosis of 
+moderate to severe acne vulgaris with a facial acne inflammatory lesion (e.g., papules, pustules, 
+nodules) count of no less than 20 but no more than 40, a facial acne noninflammatory lesion 
+(e.g., open and closed comedones) count of no less than 20 but no more than 100, and 2 or 
+fewer facial nodules. 
+Subjects applied approximately 4 g of Arazlo Lotion or Tazorac Cream on the face, neck, upper 
+chest, upper back, and shoulders once daily for 14 days at approximately the same time each 
+morning. 
+A total of 48 subjects were enrolled and all subjects completed the study. Demographic 
+characteristics of these subjects are summarized in Table 7. 
+45 
+Version date: October 12, 2018 
+Reference ID: 4534641 
+
+
+===== PAGE 49 =====
+
+NDA 211882 Multi-disciplinary Review and Evaluation 
+Arazlo (tazarotene) lotion, 0.045% for t opical use 
+Figure 3: Plasma Concentrations (Mean ±SD) of Tazarotene and Tazarotenic Acid From Three 
+Treatment Groups 
+Tazarotene 
+Tazarotenic Acid 
+40 Day 12 
+; Day 14 
+1500 
+~ 30 
+::r 1000
+...J 
+E
+E 
+Ci 20 
+Ci 
+Q, 
+Q, 500 
+u
+u 
+c 10 
+c  
+0  
+0 u 
+0
+u 
+0  
+264 
+316 320 324 328 332 336  
+-10  
+-500
+Time (h) 
+Source: reviewer's plot 
+Abbreviations: SD=standard deviation 
+Day 12 
+; Day 14 
+.....- ARAZLO 9 to < 12 years old 
+.... TAZORAC ~ 12 years old 
+-+- ARAZLO ~ 12 years old 
+264 312 316 320 324 328 332 336 
+Time (h) 
+Reviewers comment: The plasma concentrations ofboth tazarotene and tazarotenic acid were 
+higher in younger subjects (9 to <12 years) following once daily application ofArazlo Lotion, 
+compared to the concentrations in older subjects (~12 years) whofollowing once daily 
+application ofArazlo Lotion or Tazorac Cream. Plots of individual Cmax and AUC011 values for all 
+subjects are available in Figure 17 and Figure 18, respectively in Section 13.4.2. Although only a 
+small number ofsubjects aged 9 to <12 years were included in the PK assessment (n=8}, the 
+higher concentrations observed in younger subjects were not causefor any additional safety 
+concerns (and this was confirmed with clinical reviewers). The percentage ofsubjects with any 
+TEAE was lower among younger subjects (12.5%} compared to older subjects in the Arazlo 
+treatment group (15%} and to subjects in the Tazorac treatment group (30%} (see Section 8.2 
+for the summary ofsafety). This reviewer did additional analysis to assessfor correlation 
+between the amount ofArazlo Lotion applied and the systemic exposure {Cmaxl of tazarotenic 
+acid as a potential cause ofincrease in systemic exposure in the lower age group (see Figure 19 
+under Section 13.4.2). The results indicated no correlation and thus did not explain the observed 
+increase in systemic exposure in the lower age group. The higher systemic exposure in younger 
+subjects could be due to higher surface-area-to-volume ratio as the daily dose applied was 
+similar in all age groups. 
+The PK parameters of tazarotene and t azarotenic acid were evaluat ed and summarized by the 
+treatment groups and evaluat ion days in Table 10, Table 11, Table 12 and Table 13. Due to 
+number of samples with concentrations of tazarot ene or tazarot enic acid below the limit of 
+quantificat ion, AUC values were calculated in limited number of subjects, especially for 
+tazarotene. 
+48 
+Version date: October 12, 2018 
+Reference ID 4534641 
+
+
+===== PAGE 50 =====
+
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 211882 Multi-disciplinary Review and Evaluation  
+Arazlo (tazarotene) lotion, 0.045% for topical use 
+Table 10: PK Parameters of Tazarotene on Days 1 to 2 Per Treatment Groups 
+Arazlo Lotion 
+Arazlo Lotion 
+Tazorac Cream 
+Parameter 
+9 to <12 years 
+≥12 years 
+≥12 years 
+Tmax (h) 
+Mean (SD) 
+-
+9.00 (9.00) 
+6.33 (4.63) 
+Nquant 
+-
+2 
+6 
+Cmax (pg/mL) 
+Mean (SD) 
+-
+1.33 (4.60) 
+4.15 (10.16) 
+Nquant 
+-
+2 
+6 
+AUC0-t (h*pg/mL) 
+Mean (SD) 
+-
+-
+137.87 (-) 
+Nquant 
+-
+0 
+1 
+AUC0-24 (h*pg/mL) 
+Mean (SD) 
+-
+-
+-
+Nquant 
+-
+0 
+0 
+Source: Table 14.2.2.1 from CSR 
+Abbreviations: AUC0-t=area under the curve from time 0 up to the time corresponding to the last quantifiable concentration, 
+AUC0-24h=area under the curve from time 0 through 24 hours, Cmax=observed peak drug concentration, SD=standard deviation, 
+Tmax=time at which Cmax is observed, Nquant=number of samples with quantifiable levels of analyte, PK=pharmacokinetics 
+Table 11: PK Parameters of Tazarotene on Days 14 to 15 Per Treatment Groups 
+Arazlo Lotion 
+Arazlo Lotion 
+Tazorac Cream 
+Parameter 
+9 to <12 years 
+≥12 years 
+≥12 years 
+Tmax (h) 
+Mean (SD) 
+4.67 (1.63) 
+3.57 (1.99) 
+3.90 (2.23) 
+Nquant 
+6 
+7 
+10 
+Cmax (pg/mL) 
+Mean (SD) 
+17.82 (19.93) 
+3.22 (5.03) 
+5.00 (5.58) 
+Nquant 
+6 
+7 
+10 
+AUC0-t (h*pg/mL) 
+Mean (SD) 
+240.98 (239.22) 
+67.40 (34.10) 
+72.66 (33.30) 
+Nquant 
+5
+4
+5 
+AUC0-24 (h*pg/mL) 
+Mean (SD) 
+447.73 (NAa) 
+126.53 (-) 
+-
+Nquant 
+2
+1
+0 
+Source: Table 14.2.2.1 from CSR 
+a SD could not be calculated from two values 
+Abbreviations: AUC0-t=area under the curve from time 0 up to the time corresponding to the last quantifiable concentration, 
+AUC0-24h=area under the curve from time 0 through 24 hours, Cmax=observed peak drug concentration, SD=standard deviation, 
+Tmax=time at which Cmax is observed, Nquant=number of samples with quantifiable levels of analyte, PK=pharmacokinetics 
+49 
+Version date: October 12, 2018 
+Reference ID: 4534641 
+
+
+===== PAGE 51 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 211882 Multi-disciplinary Review and Evaluation  
+Arazlo (tazarotene) lotion, 0.045% for topical use 
+Table 12: PK Parameters of Tazarotenic Acid on Days 1 to 2 Per Treatment Groups 
+Arazlo Lotion 
+Arazlo Lotion 
+Tazorac Cream 
+Parameter 
+9 to <12 years 
+≥12 years 
+≥12 years 
+Tmax (h) 
+Mean (SD) 
+-
+9.30 (2.70) 
+7.10 (2.38) 
+Nquant 
+-
+20 
+20 
+Cmax (pg/mL) 
+Mean (SD) 
+-
+226.64 (190.52) 
+369.75 (239.05) 
+Nquant 
+-
+20 
+20 
+AUC0-t (h*pg/mL) 
+Mean (SD) 
+-
+3462.02 (2589.02) 
+5301.12 (3142.50) 
+Nquant 
+-
+20 
+20 
+AUC0-24 (h*pg/mL) 
+Mean (SD) 
+-
+2589.15 (2884.14) 
+5821.71 (3444.77) 
+Nquant 
+-
+20 
+20 
+Source: Table 14.2.2.2 from CSR 
+Abbreviations: AUC0-t=area under the curve from time 0 up to the time corresponding to the last quantifiable concentration, 
+AUC0-24h=area under the curve from time 0 through 24 hours, Cmax=observed peak drug concentration, SD=standard deviation, 
+Tmax=time at which Cmax is observed, Nquant=number of samples with quantifiable levels of analyte, PK=pharmacokinetics 
+Table 13: PK Parameters of Tazarotenic Acid on Days 14 to 15 Per Treatment Groups 
+Arazlo Lotion 
+Arazlo Lotion 
+Tazorac Cream 
+Parameter 
+9 to <12 years 
+≥12 years 
+≥12 years 
+Tmax (h) 
+Mean (SD) 
+7.50 (2.98) 
+6.90 (1.89) 
+6.70 (2.85) 
+Nquant 
+8 
+20 
+20 
+Cmax (pg/mL) 
+Mean (SD) 
+620.88 (532.30) 
+262.63 (170.09) 
+355.11 (227.56) 
+Nquant 
+8 
+20 
+20 
+AUC0-t (h*pg/mL) 
+Mean (SD) 
+9702.49 (8420.68) 
+4129.33 (2641.35) 
+5571.13 (3324.04) 
+Nquant 
+8 
+20 
+20 
+AUC0-24 (h*pg/mL) 
+Mean (SD) 
+8251.06 (7941.10) 
+4195.14 (2851.14) 
+5606.80 (3776.02) 
+Nquant 
+5 
+20 
+11 
+Source: Table 14.2.2.2 from CSR 
+Abbreviations: AUC0-t=area under the curve from time 0 up to the time corresponding to the last quantifiable concentration, 
+AUC0-24h=area under the curve from time 0 through 24 hours, Cmax=observed peak drug concentration, SD=standard deviation, 
+Tmax=time at which Cmax is observed, Nquant=number of samples with quantifiable levels of analyte, PK=pharmacokinetics 
+6.3.2. 
+Clinical Pharmacology Questions 
+Does the clinical pharmacology program provide supportive evidence of effectiveness? 
+Not applicable. The purpose of the pivotal Clinical Pharmacology study was to assess PK of 
+Arazlo Lotion under maximal use conditions, assess systemic safety and establish a clinical 
+bridge between the Applicant’s product, Arazlo Lotion, and the LD, Tazorac Cream. This study 
+did not directly provide efficacy data. 
+Is the proposed dosing regimen appropriate for the general patient population for which the 
+indication is being sought? 
+Based on the systemic safety and bridging study results from V01-123A-501 and the efficacy 
+and safety results from Phase 3 trials, the proposed dosing regimen is appropriate. 
+50 
+Version date: October 12, 2018 
+Reference ID: 4534641 
+
+
+===== PAGE 110 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 211882 Multi-disciplinary Review and Evaluation  
+Arazlo (tazarotene) lotion, 0.045% for topical use 
+The human exposure multiples in the Arazlo Lotion label were recalculated using the human 
+exposure multiples provided in the Tazorac Cream label (the LD), mean human AUC for 
+tazarotenic acid from the Tazorac Cream, 0.1% arm of the comparative bioavailability study 
+(5571.13 pg*hr/mL) and the mean AUC value for tazarotenic acid in subjects aged 9 to less than 
+12 years treated with Arazlo Lotion under maximal use conditions (9702.49 pg*hr/mL). 
+For example, the calculation for the multiple to be used for the dermal rat embryofetal 
+development study in labeling is provided below. 
+Proposed multiple: 2 x 5571.13 pg*hr/mL ÷ 9702.49 pg*hr/mL =1.15 (1) 
+Table 44: Human Exposure Multiples Based on AUC Comparison Using the Human Mean AUC 
+Value of 9702.49 pg*hr/mL in Subjects Aged 9 to <12 Years Treated With Arazlo 
+Multiples of 
+Multiples of 
+Human 
+Human 
+LOAELa/NOAELb 
+Exposurec 
+Exposure 
+Study 
+Route 
+(mg/kg/day) 
+(Tazorac) 
+(Arazlo) 
+Carcinogenicity study in rats 
+Oral (diet) 
+0.125b 
+2 
+1.15 (1) 
+Carcinogenicity study in mice 
+Dermal 
+1b 
+13 
+7.46 (7) 
+Embryofetal development study in rats 
+Dermal 
+0.25a 
+2 
+1.15 (1) 
+Embryofetal development study in rabbits 
+Dermal 
+0.25 a 
+26 
+14.93 (15) 
+Embryofetal development study in rats 
+Oral 
+0.5 a 
+2 
+1.15 (1) 
+Embryofetal development study in rabbits 
+Oral 
+0.2 a 
+52 
+29.86 (30) 
+Fertility and reproduction/ pre- and 
+postnatal development study in rats 
+Dermal 
+0.125b 
+2 
+1.15 (1) 
+Fertility and reproduction in rats 
+Oral 
+1b 
+6.3 
+3.62 (4) 
+Fertility and reproduction in rats 
+Oral 
+2b 
+11 
+6.32 (6) 
+a and b The LOAEL or NOAEL values provided in the Tazorac Cream label.  
+c The multiples of human exposure provided in the Tazorac Cream label.  
+Abbreviations: AUC= area under the curve, LOAEL=lowest observed adverse effect level, NOAEL=no-observed-adverse-effect level  
+13.3.2. 
+Recommended Revision to the Nonclinical Portions of Labeling 
+Revisions to the Applicant’s proposed wording for the nonclinical and related sections of the 
+label are provided below. It is recommended that the underlined wording be inserted into and 
+the strikethrough wording be deleted from the Arazlo Lotion label text. 
+HIGHLIGHTS OF PRESCRIBING INFORMATION 
+INDICATIONS AND USAGE 
+(b) (4)
+109 
+Version date: October 12, 2018 
+3 Page(s) of Draft Labeling have been Withheld in Full as b4 (CCI/
+TS) immediately following this page
+Reference ID: 4534641 
+
+
+===== PAGE 112 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 211882 Multi-disciplinary Review and Evaluation  
+Arazlo (tazarotene) lotion, 0.045% for topical use 
+dose (MRHD) (based on AUC comparison). In animal reproduction studies with pregnant 
+rabbits, single incidences of known retinoid malformations, including spina bifida, 
+hydrocephaly, and heart anomalies were observed after topical administration of a tazarotene 
+gel formulation at a 15 times the MRHD (based on AUC comparison) (see Data). 
+In animal reproduction studies with pregnant rats and rabbits, malformations, fetal toxicity, 
+developmental delays, and/or behavioral delays were observed after oral administration of 
+tazarotene during the period of organogenesis at doses 1 and 30 times, respectively, the MRHD 
+(based on AUC comparison). In pregnant rats, decreased litter size, decreased numbers of live 
+fetuses, decreased fetal body weights, and increased malformations were observed after oral 
+administration of tazarotene prior to mating through early gestation at doses 6 times the 
+MRHD (based on AUC comparison) (see Data). 
+Data 
+Animal Data 
+In an embryofetal development study in rats, a tazarotene gel formulation, 0.5% (0.25 
+mg/kg/day tazarotene) was topically administered to pregnant rats during gestation days 6 
+through 17. Reduced fetal body weights and reduced skeletal ossification occurred at this dose 
+(equivalent to the MRHD based on AUC comparison). In an embryofetal development study in 
+rabbits, a tazarotene gel formulation, 0.5% (0.25 mg/kg/day tazarotene) was topically 
+administered to pregnant rabbits during gestation days 6 through 18. Single incidences of 
+known retinoid malformations, including spina bifida, hydrocephaly, and heart anomalies were 
+noted at this dose (15 times the MRHD based on AUC comparison). 
+When tazarotene was given orally to animals, developmental delays were seen in rats; and 
+malformations and postimplantation loss were observed in rats and rabbits at doses producing 
+1 and 30 times, respectively, the MRHD (based on AUC comparison).  
+In female rats orally administered 2 mg/kg/day of tazarotene from 15 days before mating 
+through gestation day 7, classic developmental effects of retinoids including decreased number 
+of implantation sites, decreased litter size, decreased numbers of live fetuses, and decreased 
+fetal body weights were observed at this dose (6 times the MRHD based on AUC comparison). A 
+low incidence of retinoid-related malformations was observed at this dose. 
+In a pre- and postnatal development toxicity study, topical administration of a tazarotene gel 
+formulation (0.125 mg/kg/day) to pregnant female rats from gestation day 16 through lactation 
+day 20 reduced pup survival, but did not affect the reproductive capacity of the offspring. Based 
+on data from another study, the systemic drug exposure in the rat at this dose would be 
+equivalent to the MRHD (based on AUC comparison). 
+8.2 
+Lactation 
+Risk Summary 
+114 
+Version date: October 12, 2018 
+Reference ID: 4534641 
+
+
+===== PAGE 113 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 211882 Multi-disciplinary Review and Evaluation  
+Arazlo (tazarotene) lotion, 0.045% for topical use 
+After single topical doses of a 14C-tazarotene gel formulation to the skin of lactating rats, 
+radioactivity was detected in rat milk. 
+12 
+CLINICAL PHARMACOLOGY 
+12.1 
+Mechanism of Action 
+Tazarotene is a retinoid prodrug which is converted to its active form, tazarotenic acid, the 
+carboxylic acid of tazarotene, by deesterification. Tazarotenic acid binds to all three members 
+of the retinoic acid receptor (RAR) family: RARα, RARβ and RARγ, but shows relative selectivity 
+for RARβ, and RARγ and may modify gene expression. The clinical significance of these findings 
+for the treatment of acne vulgaris is unknown. 
+13 
+NONCLINICAL TOXICOLOGY 
+13.1 
+Carcinogenesis, Mutagenesis, Impairment of Fertility 
+A long-term study of tazarotene following oral administration of 0.025, 0.050, and 0.125 
+mg/kg/day to rats showed no indications of increased carcinogenic risks. Based on 
+pharmacokinetic data from a shorter term study in rats, the highest dose of 0.125 mg/kg/day 
+was anticipated to give systemic exposure in the rat equivalent to the MRHD (based on AUC 
+comparison). 
+A long-term study with topical application of up to 0.1% of tazarotene in a gel formulation in 
+mice terminated at 88 weeks showed that dose levels of 0.05, 0.125, 0.25, and 1 mg/kg/day 
+(reduced to 0.5 mg/kg/day for males after 41 weeks due to severe dermal irritation) revealed 
+no apparent carcinogenic effects when compared to vehicle control animals. Tazarotenic acid 
+systemic exposures at the highest dose was 7 times the MRHD (based on AUC comparison). 
+Tazarotene was nonmutagenic in the Ames assay and did not produce structural chromosomal 
+aberrations in human lymphocytes. Tazarotene was nonmutagenic in CHO/HGPRT mammalian 
+cell forward gene mutation assay and was nonclastogenic in an in vivo mouse micronucleus 
+test. 
+No impairment of fertility occurred in rats when male animals were treated for 70 days prior to 
+mating and female animals were treated for 14 days prior to mating and continuing through 
+gestation and lactation with topical doses of a tazarotene gel formulation up to 0.125 
+mg/kg/day. Based on data from another study, the systemic drug exposure in the rat at the 
+highest dose was equivalent to the MRHD (based on AUC comparison). 
+No impairment of mating performance or fertility was observed in male rats treated for 70 days 
+prior to mating with oral doses of up to 1 mg/kg/day tazarotene, which produced a systemic 
+exposure 4 times the MRHD (based on AUC comparison). 
+No impairment of mating performance or fertility was observed in female rats treated for 15 
+days prior to mating and continuing through gestation day 7 with oral doses of tazarotene up to 
+115 
+Version date: October 12, 2018 
+Reference ID: 4534641 
+
+
+===== PAGE 116 =====
+
+• 
+• • 
+• • 
+• 
+• 
+• 
+• • 
+• 
+• 
+• 
+NDA 211882 Multi-disciplinary Review and Evaluation 
+Arazlo (tazarotene) lotion, 0.045% for t opical use 
+13.4.2. Supporting Graphs 
+Figure 17: C max of Tazarotenic Acid on Days 14 to 15 From Individual Subjects From the Arazlo 
+Lotion Treatment Group 
+2000 
+1500 
+• 
+• 
+::J 
+E 
+~ 1000 
+c,; c 
+0 u 
+500 
+• 
+• • 
+• • 
+• 
+• 
+Mean ······················································································• ············································· 
+Median ------------6 -------.,·--------------------e------------------------------•----· 
+(bll6l 
+SUDJect 10 
+Source: reviewer's plot 
+Data in red dots represent subjects aged 9 to <12 years and black dots represent subjects aged ;:;12 years. 
+Abbreviations: Cm•x=observed peak drug concentration 
+Reviewers comments: In subjects 9 to <12 years old, 62.5% (5 out of8) of Cmax values were 
+above the mean, whereas in subjects 12 years and older, only 25% (5 out of20) of Cmax values 
+were above the mean. This analysis suggests that the systemic exposure following daily 
+application ofArazlo Lotion is higher in younger subjects compared to older subjects. 
+118 
+Version date: October 12, 2018 
+Reference ID 4534641 
+
+
+===== PAGE 117 =====
+
+• • 
+• 
+• 
+• 
+• 
+• • 
+• • 
+• 
+• 
+• 
+• 
+•• 
+• • • • 
+•• 
+NDA 211882 Multi-disciplinary Review and Evaluation 
+Arazlo (tazarotene) lotion, 0.045% for t opical use 
+Figure 18: AUCa11 of Tazarotenic Acid on Days 14 to 15 From Individual Subjects From the Arazlo 
+Lotion Treatment Group 
+u 
+::> 
+25000 
+20000 
+< 10000 
+5000 
+• 
+• 
+• 
+• 
+• 
+•
+• 
+(b)(6J 
+SUDJect ID 
+Source: reviewer's plot 
+Data in red dots represent subjects aged 9 to <12 years and black dots represent subjects aged ;:;12 years. Data are from 22 
+subjects (out of 28) as AUC values could not be calculated in all subjects. 
+Abbreviations: AUC=area under the curve 
+Figure 19: Relationship Between Dose of Arazlo Lotion and Cmax of Tazarotenic Acid on Days 14 to 
+15 
+5.5 
+• 
+80 
+c 
+.. 
+R2=0.009045
+::s -
+5.0 
+• 
+­
+0 Cl 
+••• 
+c E? 60
+e­
+R2=0.007948 
+::s "C
+<( ~ 4.5 
+•
+0 
+Q)
+>. I/) 
+~ ::::> 4.0 ••• ··-•• 
+• • 
+E :!3 40 
+<( Cl
+0 
+Cl 
+Q) ::s 
+.a ::s 
+Cl 0 3.5 
+I 
+oc
+cu.__ 
+I- -
+20
+0 
+0
+~ 
+3.0 
+<( 
+2.5 
+0 
+0 
+500 
+1000 
+1500 
+Cmax (pg/ml ) 
+2000 
+0 
+500 
+1000 
+C max (pg/ml) 
+1500 
+2000 
+Source: reviewer's plot 
+Abbreviations: Cm,.=observed peak drug concentration, R2=coefficient of determination 
+Version date: October 12, 2018 
+Reference ID 4534641 
+119 

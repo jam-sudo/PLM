@@ -1,0 +1,1874 @@
+
+
+===== PAGE 7 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{PIQRAY, Alpelisib} 
+ 
+ 
+ 
+6 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Table 29: Summary method performance of a bioanalytical method DMPK R1600667 to 
+measure alpelisib and BZG791 in human plasma ....................................................................... 181 
+Table 30: Summary of Studies with PK Sampling Included in Population PK Analysis ............... 184 
+Table 31: Summary of Baseline Demographic Covariates for Analysis ...................................... 185 
+Table 32: Covariate Effects on PK parameters ........................................................................... 186 
+Table 33: Parameter Estimates for the Final Model ................................................................... 188 
+Table 34: Specific Comments on Applicant’s Final Population PK model .................................. 189 
+Table 35: Exposure safety response for log-transformed instantaneous Cmin. ........................ 193 
+Table 36: Exposure safety response for log-transformed time-normalized Cmin. .................... 194 
+Table 37: Exposure safety response for Cmin ............................................................................ 194 
+Table 38: Exposure safety response for TN Cmin ....................................................................... 195 
+Table 39: Identification of CYP enzymes and transporters involved in alpelisib ADME ............. 198 
+Table 40: Evaluation of alpelisib as a modulator of drug metabolizing enzymes or P-gp .......... 199 
+Table 41: Observed and simulated alpelisib Cmax, AUC and the Cmax and AUC ratios following a 
+single or multiple administration of alpelisib. ............................................................................ 205 
+Table 42: Observed and simulated Cmax and AUC ratios of everolimus in the presence and 
+absence of ketoconazole, erythromycin, verapamil and rifampin. ............................................ 208 
+Table 43: DDI simulations of either alpelisib as perpetrator with everolimus or rifampicin as 
+perpetrator with alpelisib ........................................................................................................... 212 
+Table 44: ACAT physiology for a 70-kg subject under fasted condition (A) and under fed (LFLC 
+meal) (B) condition ..................................................................................................................... 218 
+Table 45: Observed and simulated alpelisib Cmax and AUC, the Cmax and AUC ratios and predicted 
+fraction absorbed of alpelisib ..................................................................................................... 219 
+Table 46: Static DDI risk assessment for alpelisib as inhibitors of enzymes and transporters .. 221 
+Table 47: Static DDI risk assessment for BZG791 as inhibitors of enzymes and transporters ... 222 
+ 
+ 
+ 
+Reference ID: 4437533
+
+
+===== PAGE 10 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{PIQRAY, Alpelisib} 
+ 
+ 
+ 
+9 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Glossary 
+ADME 
+absorption, distribution, metabolism, and excretion 
+ADR 
+adverse drug reaction 
+AE 
+adverse event 
+AESI 
+adverse event of special interest 
+AI 
+aromatase inhibitor 
+AKT 
+protein kinase B 
+ARA 
+acid-reducing agent 
+AUCinf 
+area under the plasma concentration time curve from time zero to infinity 
+AUC last 
+area under the plasma concentration time curve from time zero to last 
+quantifiable concentration 
+AUC0-24 
+area under the plasma concentration time curve from time zero to 24 hours 
+BCRP 
+breast cancer resistance protein 
+BCS 
+Biopharmaceutics Classification System 
+b.i.d. 
+twice a day 
+BIRC 
+blinded independent review committee 
+BMD 
+bone mineral density 
+BPI-SF 
+brief pain inventory – short form 
+CBR 
+clinical benefit rate 
+CDK4/6 
+cyclin-dependent kinase 4/6 
+CDRH 
+Center for Devices and Radiological Health 
+CI 
+confidence interval 
+Cmax 
+peak concentration 
+Cmin 
+trough concentration 
+CNS 
+central nervous system 
+COA 
+clinical outcome assessment 
+CR 
+complete response 
+CRF 
+case report form 
+CSR 
+Clinical Study Report 
+CT 
+computed tomography 
+CTCAE 
+Common Terminology Criteria for Adverse Events 
+ctDNA 
+circulating tumor deoxyribonucleic acid 
+CV 
+coefficient of variation 
+CYP 
+cytochrome P450 
+CYP2B6 
+cytochrome P450 2B6 
+CYP2C9 
+cytochrome P450 2C9 
+CYP3A4 
+cytochrome P450 3A4 
+DCR 
+disease control rate 
+DDI 
+drug-drug interaction 
+DLT 
+dose-limiting toxicity 
+DMC 
+data monitoring committee 
+Reference ID: 4437533
+
+
+===== PAGE 39 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+ 
+ 
+ 
+38 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+activity of alpelisib.    
+ 
+Alpelisib did not induce mutations in the bacterial reverse mutation (Ames) assays and was 
+not genotoxic in either the in vitro micronucleus and chromosome aberration tests or the in 
+vivo rat micronucleus assay at 20 mg/kg, the top dose tested (1.7x human exposure based on 
+AUC).  
+ 
+No fertility and early embryonic development studies have been conducted or are warranted 
+to support the proposed indication.  In repeated-dose toxicity studies in rats and dogs with 
+alpelisib, histopathological changes observed in reproductive organs suggest that alpelisib 
+has the potential to impair male or female fertility. Adverse findings in animals included 
+vaginal atrophy and estrous cycle variations in rats at ≥ 6 mg/kg following 13 weeks of 
+treatment with an AUC of 18700 hr*mg/mL (0.6x human exposure based on AUC at the 
+recommended dose), and prostate atrophy and testicular hypocellularity in dogs at 15 mg/kg 
+following 4 weeks of treatment with an AUC of 85700 hr*mg/mL (2.6x human exposure based 
+on AUC at the recommended dose).    
+ 
+In embryo-fetal toxicity studies, administration of alpelisib at doses of 3, 10, and 30 
+mg/kg/day to pregnant rats from GD 6 to 17 resulted in maternal body weight loss at 30 
+mg/kg/day and a dose-related decrease in body weight gain at 3 and 10 mg/kg/day.  
+Females administered 30 mg/kg/day (HD) had no viable fetuses at scheduled necropsy due to 
+increased post-implantation losses. The maternal systemic exposure at 30 mg/kg is about 3x 
+the human exposure (AUC) at the recommended dose of 300 mg/day. Reduced fetal weight 
+and increased numbers of litters with fetal malformations (bent scapula and thickened or 
+bent long bones) and fetal variations including enlarged brain ventricle at 10 mg/kg (MD), 
+with an AUC of 26,600 ng.h/mL, about 0.8x human exposure (AUC) at the recommended dose 
+of 300 mg/day. In a non-GLP study in rabbits, alpelisib was orally administered at dose levels 
+of 3, 15 and 25 (or 30) mg/kg/day from GD 7 to 20. Maternal body weight loss associated 
+with reduced food intake was observed at 30 or 25 mg/kg/day. Increased embryo-fetal 
+deaths and malformations (acaudia and/or short tail and misshapen head) were observed at 
+≥ 15 mg/kg/day. The systemic exposure (AUC) to alpelisib in rabbits at 15 mg/kg was 170,000 
+ng·h/mL, about 5x human exposure (AUC) at the recommended dose of 300 mg/day. The 
+human AUC used to calculate animal to human exposure margins was 33200 ng·h/mL at the 
+recommended dose of 300 mg/day.   
+ 
+Based on findings in animals and mechanism of action, alpelisib can cause fetal harm when 
+administered to a pregnant woman. In general, reproductive toxicology studies are not 
+warranted when the patient population consist of postmenopausal women. However, since 
+the data on embryofetal toxicity is available, the pharmacology/toxicology team 
+recommends adding this information in the product label. Females of reproductive potential 
+and male patients with female partners of reproductive potential should use effective 
+contraception during treatment with alpelisib and for one week after the last dose, which 
+covers a period of at least 5 half-lives for alpelisib (T1/2 = 8 to 9 h). The applicant 
+Reference ID: 4437533
+
+
+===== PAGE 45 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+ 
+ 
+ 
+44 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+pharmacological intervention. Further, inhibition of VEGF signaling and neovascularization have 
+been observed with PI3K inhibitors (Graupera and Potente 2013). 
+The FDA’s Assessment:   
+The FDA agrees with the off-target activity assay results of alpelisib on adenosine Ad3 
+receptor, adenosine Ad1 receptor, and PDE4d and the effects of alpelisib on glucose 
+homeostasis.  Maximum recommended therapeutic dose levels of 300 mg/day results in a 
+total Cmax of 2480 ng/mL (approximately 5.6 µM). While there is about 3-fold safety margin 
+using data from unbound alpelisib at the 300 mg/day dose (unbound Cmax of 313 ng/mL, ≈ 
+0.7µM) for binding to adenosine receptor Ad3 (IC50 = 2.25 μM) , there is no margin of safety 
+using the total Cmax value. In addition, alpelisib may possibly have an effect on serotonin 
+5HT2A receptors as activities of >50% inhibition of 5HT2A receptors at 10 μM (IC50 = 6.7 μM) 
+were found with drug batch NX-1, though the results were not confirmed with drug batch NX-
+2 in a repeated experiment. 
+To test whether BYL719 is less immunosuppressive than pan-class I PI3K inhibitors, the effects 
+of BYL719 on anti-IgD-induced B cell activation and T cell-dependent antibody responses were 
+assessed in Balb/c mice. B cell activation was determined by measuring CD86 expression, 
+following stimulation with anti-IgD antibodies, and T cell-dependent antibody responses were 
+measured following immunization with DNP-KLH (Study RD-2009-00527). A single oral 
+administration of the pan-PI3K inhibitor NVP-CAA224 prevented B cell activation and reduced 
+IgG and IgM serum levels in a dose-dependent manner. A single dose of 12.5 or 25 mg/kg 
+BYL719 inhibited anti-IgD induced upregulation of CD86 by 29 and 47%, respectively. The 
+clinical relevance of a 47% inhibition of B cell activation by BYL719 is unknown. Daily dosing 
+with 12.5 or 25 mg/kg BYL719 for 7 days did not affect the IgG response to immunization with 
+DNP-KLH but IgM levels were reduced by ∼70% at 25 mg/kg.    
+ 
+An in vivo pharmacology study (Study RD-2010-00184) showed that NVP-BYL719 had dose-
+dependent inhibitory effects on the growth of vascularized tissue induced by human VEGF or 
+bFGF. 
+ 
+Safety pharmacology 
+ 
+The Applicant’s Position: 
+ 
+Nervous and respiratory systems function 
+In rats, functional observations and measurements conducted as part of the Functional 
+Observational Battery (FOB) did not reveal any relevant changes in males at a single dose of 
+80 mg/kg, compared to controls, and no biologically relevant changes were observed upon 
+respiratory measurements using plethysmography. 
+Reference ID: 4437533
+
+
+===== PAGE 46 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+ 
+ 
+ 
+45 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Cardiovascular function 
+In vitro: In a single-concentration hERG channel patch clamp screening test using HEK293 cells 
+stably transfected with the channel, no significant inhibition was seen at 10 μM (4.4 μg/mL). In 
+a GLP test using the same cell type, BYL719 inhibited hERG current with an IC50 of 9.4 μM 
+(4.2 μg/mL). 
+In vivo: In electrocardiographic readouts using standard surface recorded ECGs in dogs, within 
+2- and 4- and 13-week repeated dose studies and a single rising dose study up to 180 mg/kg 
+there were no treatment-related ECG effects. 
+In a single-dose invasive telemetry study in dogs, dose-independent, minimal to slight and 
+transient increases in systolic and diastolic blood pressure with a compensatory slight decrease 
+in heart rate was seen, in the absence of any electrophysiological abnormality. 
+In summary, the data indicate the absence of a relevant electrophysiological risk, but treatment 
+with BYL719 was associated with slight, transient arterial blood pressure increase in dogs. 
+The FDA’s Assessment:  
+The FDA agrees that no adverse effects on ECG, respiration, or neurological behavior were 
+observed in the conducted safety pharmacology studies. There is however a potential for 
+drug-related increased blood pressure. The applicant submitted data from a GLP-compliant 
+single-dose telemetry study in dogs. Four healthy telemetered male dogs received a single 
+dose of the vehicle or test item formulation at doses of 5, 15, and 30 mg/kg with a treatment-
+free period between each dosage of at least 6 days. The electrocardiogram, arterial blood 
+pressure and core body temperature were recorded for 2 minutes every 15 minutes, beginning 
+about 1 hour before administration and ending about 21 hours post-dose. BYL719 treatment 
+was associated with a dose-independent increase in systolic and diastolic blood pressure of 
+approximately 10% (≤ 10 mm Hg) starting 1-hour post dose and ending 8 hours post dose. This 
+finding corresponded with a dose-independent decrease of approximately 10% (≤ 10 beats per 
+minutes) in heart rate starting 1-hour post dose and ending 20 hours post dose. The changes 
+in heart rate were secondary to the increase in arterial blood pressure. These findings suggest 
+that BYL719 could have some effects on blood pressure; however, the changes were transient 
+and mild and no changes on heart rate were observed in the repeat dose toxicity studies in 
+dogs (4-week and 13 week).  
+ 
+ADME/PK 
+Absorption 
+Absorption, distribution, metabolism and excretion in rats after oral (15 mg/kg) and 
+intravenous (3.4 and 5 mg/kg) administration of [14C]BYL719:  DMPK R0900368 
+Alpelisib was rapidly absorbed after p.o. dosing, with a Tmax of 0.5h for both alpelisib 
+and total radioactivity. Absorption was estimated to be 62.5%. Bioavailability was 
+Reference ID: 4437533
+
+
+===== PAGE 47 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+ 
+ 
+ 
+46 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+calculated to be 57.3%, indicating a negligible first pass effect.  The systemic half-life 
+of alpelisib was short, at 1.5h. 
+Distribution 
+Absorption, distribution, metabolism and excretion in rats after oral (15 mg/kg) and 
+intravenous (3.4 and 5 mg/kg) administration of [14C]BYL719:  DMPK R0900368 
+ 
+QWBA and metabolism in male rats after single oral (15 mg/kg) and intravenous (5 
+mg/kg) administration of [14C]BYL719: DMPK R1100487 
+After both i.v. and p.o. administration to albino rats, 14C-alpelisib-derived radioactivity 
+distributed rapidly throughout the body with highest tissue concentrations in liver 
+(and bile), kidney, and harderian gland. Tmax in most tissues was achieved at 15 
+minutes and 1 hour post dose after i.v. and p.o. administration, respectively. The 14C-
+alpelisib-derived radioactivity observed in the intestinal walls indicate active secretion 
+into the lumen of the GI tract, which is in line with the excretion data observed in bile 
+duct-cannulated rats. The distribution in partially pigmented rats (DMPK R1100487) 
+was similar to the albino rats, with the exception that higher levels of radioactivity 
+were detected in melanin containing structures (eye choroid, hair follicle and skin). 
+However radioactivity levels in these structures declined with time, suggesting that 
+14C-alpelisib-derived radioactivity undergoes specific but reversible binding to 
+melanin. No evidence for brain penetration of alpelisib related material was observed. 
+Metabolism 
+In vitro biotransformation of [14C]BYL719: Species comparison using hepatocytes of 
+rat, dog and human:  DMPK R0900574 
+In hepatocytes from all species, the most important metabolic pathway (based on 
+radiopeak abundance in the metabolic profile) was amide hydrolysis, forming 
+metabolite BZG791. Other phase I metabolites observed were formed by C 
+hydroxylation (M2, M3 and M5) and a combination of C-hydroxylation and 
+dehydrogenation (M6). Metabolites M2 and M3 were observed in rat and human 
+hepatocytes, whereas M5 and M6 were only observed in rat. Only one phase II 
+conjugate was observed, in rat hepatocytes only, which was a combination of 
+oxygenation and glucuronidation (M1). With the exception of metabolites M5 and 
+M6, all metabolites identified in vitro in hepatocytes were subsequently detected in 
+vivo in either rat, dog or human. 
+Excretion 
+Absorption, distribution, metabolism and excretion in rats after oral (15 mg/kg) and 
+intravenous (3.4 and 5 mg/kg) administration of [14C]BYL719:  DMPK R0900368 
+The predominant route of excretion in rat was fecal, with 75.8 and 12.3% of the dose 
+found in feces and urine, respectively, after i.v. dosing. Results after p.o. dosing were 
+similar (83.7 and 15.0% of the dose in feces and urine, respectively).   Alpelisib in 
+feces and urine after p.o. dosing amounted to 21.4 and 0.61% of the dose, 
+respectively.  In BDC rats (after i.v. dosing) 38.3% of dose was eliminated in bile up to 
+48 hours post dose, with alpelisib amounting to 8.66% of dose in bile. Furthermore 
+Reference ID: 4437533
+
+
+===== PAGE 48 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+ 
+ 
+ 
+47 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+alpelisib amounted to 10.9% of the dose in feces of BDC rats, indicating direct 
+intestinal secretion of alpelisib. 
+TK data from general toxicology studies 
+4-week and 13-week repeat dose toxicology studies in rats; Study numbers 0970325 
+and 1070415 
+Plasma exposure to alpelisib in rats increased roughly dose-proportionally with oral 
+doses up to 30 mg/kg/day. Exposures following single and multiple dosing were less 
+than 3 fold different, and no clear gender difference was observed in terms of AUC 
+(area under the curve) or Cmax. 
+TK data from reproductive toxicology studies 
+Oral (gavage) study of embryo-fetal development in the rat; Study number 1770537: 
+Embryo-fetal development dose range finding study in rabbit; study number 1770536.  
+In pregnant rats and rabbits, exposure to alpelisib increased approximately dose 
+proportionally. Alpelisib passed the placental barrier in rats and rabbits, but fetal 
+plasma concentrations were low (rat approximately 10-fold lower; rabbit 
+approximately 70-fold lower) compared to maternal plasma. In rat, the alpelisib 
+maternal plasma AUC0-24h at the NOAEL (3.0 mg/kg/day) and MTD (30/mg/kg/day) 
+was 3540 and 97500 ng•h/mL, respectively. In rabbit, the alpelisib maternal plasma 
+AUC0-24h at the NOAEL (3.0 mg/kg/day) and MTD (25/mg/kg/day) was 26400 and 
+293000 ng•h/mL, respectively. 
+ 
+The FDA’s Assessment:   
+The FDA agrees with the results of ADME studies and the PK parameters summarized by the 
+applicant. Additional study results are summarized in the table below. 
+Type of Study 
+Major Findings 
+Absorption 
+Dogs 
+Absorption, pharmacokinetics, 
+metabolism, and excretion of BYL719 in 
+male dogs after oral (5 mg/kg) 
+administration of [14C]BYL719 (#DMPK 
+R1300123) 
+Pharmacokinetics in dogs of the PI3K alpha 
+inhibitor NVP-BYL719 after intravenous 
+and oral administration (#RD-2009-00575) 
+ 
+Tmax was reached 2 h after oral administration of 5 
+mg/kg BY719 and the T1/2 was 6.2 h for the parent 
+drug and 13 h for total radioactivity (parent and 
+metabolites).  Absolute oral bioavailability was high.  
+Distribution 
+Rats 
+ 
+ 
+ 
+Tissue distribution was extensive after either oral or 
+IV route of administration and included distribution 
+to hair and eyes of pigmented LE rats. Thus BYL719 
+(or its metabolites) can bind melanin. While the tlast 
+Reference ID: 4437533
+
+
+===== PAGE 50 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+ 
+ 
+ 
+49 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ 
+ 
+ 
+ 
+ 
+ 
+A 13-week repeated dose study in dogs 
+(Study 1070416) 
+  0.2, 1, 5 mg/kg/day 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4250-60300 ng*hr/mL (female) 
+ 
+Cmax: 436-5070 ng/mL (male) 
+ 
+725-6740 ng/mL (female) 
+T1/2: not defined 
+Tmax: 0.5-1 hours 
+Accumulation (1.3 – 2-fold) 
+Cmax dose proportional ↑ 
+AUC > dose proportional ↑ 
+On Day 72 
+ 
+AUC: 442-15100 ng*hr/mL  
+ 
+Cmax: 95-1860   ng/mL  
+No gender differences 
+No accumulation 
+T1/2: not defined 
+Tmax: 0.5-1 hours 
+  LE: Long Evans; TK: toxickinetics 
+ 
+Toxicology 
+ 
+General Toxicology 
+The Applicant’s Position: 
+Alpelisib is a PI3K inhibitor intended for the treatment of advanced cancers. Therefore, the 
+toxicology program was designed in accordance with ICH S9 guidance, as well as with all other 
+relevant ICH guidances on safety, with a few lines of investigation exceeding those 
+requirements. All principal toxicology studies were conducted in accordance with GLP and 
+currently accepted guidelines. 
+Alpelisib was tested in a single rising-dose study in dogs and repeated-dose studies in rats and 
+dogs of 2 (non-GLP, dose-range finding), 4 and 13 weeks (GLP) of treatment duration. 
+Generally, due to the higher dose levels used, the findings in the 4-week studies were of higher 
+severity than in the 13-week studies, why the 4-week studies are described in detail below and 
+the results of the 13-week studies summarized. 
+4-week oral (gavage) toxicity study in rats with a 4-week recovery period/ Study 
+0970325:   
+ 
+Key Study Findings 
+ 
+• Doses of 80 and 60 mg/kg/day not tolerated due to weight loss necessitating 
+premature sacrifices. 
+• Treatment-related effects on hemo- and lymphopoiesis, disturbances in glucose 
+and lipid metabolism, changes in endocrine pancreas and estrus cycle, and 
+Reference ID: 4437533
+
+
+===== PAGE 63 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+ 
+ 
+ 
+62 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Dose level 
+mg/kg 
+Cmax 
+(ng/mL) 
+Dose 
+Normalized 
+Cmax 
+AUC0-24h 
+ng.h/mL 
+Dose 
+Normalized 
+AUC0-24 
+3 
+3230 
+1080 
+26400 
+8800 
+15 
+20400 
+1360 
+170000 
+11300 
+25 
+32900 
+1320 
+293000 
+11700 
+ 
+Animal-to-human AUC ratio:  
+Rats 
+• AUC at 10 mg/kg (26600 ng.h/mL) was approximately 0.8 times the exposure in humans 
+at the recommended dose of 300 mg/kg (33224 ng.h/mL) 
+Rabbits 
+• AUC at 15 mg/kg (170000 ng.h/mL) was approximately 5 times the exposure in humans 
+at the recommended dose of 300 mg/kg (33224 ng.h/mL) 
+ 
+Other Toxicology Studies 
+Local Tolerance  
+The Applicant’s Position: 
+Alpelisib was tested for contact sensitizing potential in a murine local lymph node assay (LLNA 
+TIER I), after application on the dorsum of both ears once a day on 3 consecutive days. In a 
+second study, primary skin irritation and corrosion was tested in rabbits applying the test item 
+to the skin of one flank covered by a patch for 4 hours. 
+There was no evidence for sensitization, irritation or corrosion in these studies. 
+The FDA’s Assessment: 
+The FDA agrees with the conclusion. 
+Phototoxicity Studies  
+The Applicant’s Position: 
+In a non-GLP and a GLP 3T3 NRU uptake in vitro study, the phototoxic potential of alpelisib was 
+assessed according to guideline ICH S10. In both studies, it was concluded that alpelisib is 
+devoid of a phototoxic potential. 
+The FDA’s Assessment:   
+The FDA agrees with the conclusion. 
+Reference ID: 4437533
+
+
+===== PAGE 73 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+ 
+ 
+ 
+72 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+The FDA’s Assessment: 
+ 
+Two PMC clinical pharmacology studies are described in Table 4:  
+ 
+• Conduct a clinical trial to evaluate the effect of repeat doses of a strong CYP3A4 inducer 
+on pharmacokinetics of alpelisib to assess the magnitude of decreased alpelisib exposure 
+and to determine appropriate dosing recommendations. Design and conduct the trial in 
+accordance with the FDA Guidance for Industry; “Clinical Drug Interaction Studies - Study 
+Design, Data Analysis, and Clinical Implications.”  
+ 
+• Conduct a clinical trial to evaluate the effect of repeat doses of alpelisib on the single dose 
+pharmacokinetics of sensitive probe substrates to assess the magnitude of exposure 
+change for sensitive substrates of CYP2B6, CYP3A4 and CYP2C-family enzymes (CYP2C9, 
+CYP2C19 and / or CYP2C8) and to determine appropriate dosing recommendations. Design 
+and conduct the trial in accordance with the FDA Guidance for Industry; “Clinical Drug 
+Interaction Studies - Study Design, Data Analysis, and Clinical Implications.” 
+ 
+ 
+Comprehensive Clinical Pharmacology Review 
+ 
+General Pharmacology and Pharmacokinetic Characteristics 
+The Applicant’s Position: 
+An overview of the ADME properties, clinical pharmacokinetics, and DDI potential of alpelisib is 
+provided below. 
+ 
+Absorption: Alpelisib is classified as a BCS Class II compound (low solubility, high permeability). 
+Under fed conditions absorption is virtually complete (> 99%) independent of dose across the 
+tested dose range (30-450 mg) based on absorption biopharmaceutics modelling. Bioavailability 
+in vivo under fasted conditions is limited by solubility, resulting in a fraction absorbed of 68.7% 
+after a 300 mg and 50-60% for a 400 mg single dose in healthy subjects. 
+Distribution: The apparent volume of distribution was 114 L (49% CV) based on Phase III 
+population PK analysis, suggesting wide distribution into tissues compared to total body water. 
+The fraction of alpelisib bound to plasma proteins in vitro was moderate (89.2%) and 
+independent of plasma concentrations. Alpelisib was equally distributed between plasma and 
+red blood cells. Evidence suggests that alpelisib and BZG791 are not able to cross the blood-
+brain-barrier in humans. 
+Metabolism: Alpelisib’s primary metabolism pathway in vivo is amide hydrolysis to BZG791, 
+which is the major circulating metabolite in plasma. BZG791 is pharmacologically inactive and 
+does not contribute to clinical activity. Formation of BZG791 is governed by multiple, 
+ubiquitously expressed, high-capacity enzymes (esterases, amidases, and choline esterase) that 
+Reference ID: 4437533
+
+
+===== PAGE 74 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+ 
+ 
+ 
+73 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+are unlikely to become subject to drug-drug-interactions. Metabolism of alpelisib is therefore 
+largely non-hepatic which was further confirmed by the results from the hepatic impairment 
+study that showed no significant increase in alpelisib exposure with severe hepatic impairment 
+(Child-Pugh class C). The overall contribution of liver-mediated metabolism (CYP-mediated 
+Phase I and Phase II metabolism together) was low, contributing to ≤ 15% of the elimination. 
+Excretion: Alpelisib and its metabolites are almost exclusively excreted in the feces (81.0%) 
+after oral administration, most likely through hepatobiliary export and/or intestinal secretion of 
+either unchanged parent or metabolized to BZG791. Excretion in the urine is minor (13.5%), 
+with only a fraction of the dose being excreted as unchanged alpelisib (2%). 
+Clinical Pharmacokinetics: Alpelisib was quickly absorbed following single dose and repeated 
+daily administration with a median Tmax of 2-4 hours independent of dose and time in most 
+cancer subjects. Cmax and AUC0-24 increased in an approximately dose proportional manner 
+after daily oral dosing of alpelisib in the fed state. Alpelisib terminal half-life was short (~9 
+hours) based on population analysis. After repeated daily administration, alpelisib only 
+minimally accumulates in plasma (between 1.3- and 1.5-fold) with steady state reached by day 
+3. Single-agent PK under fed conditions showed moderate inter-subject variability (~20-40%) in 
+subjects with cancer. Intra-subject variability was high (CV% ≥ 30%) in cancer subjects across 
+the dose range between 30 mg and 450 mg. PK in subjects with cancer was consistent between 
+studies. 
+The primary metabolite BZG791 had similar PK characteristics as the parent drug with 
+concentration time course of the metabolite being parallel to that of the parent (formation-rate 
+limited metabolite). Following single dose and repeated daily administration of alpelisib, 
+median Tmax across studies (and food conditions) was approximately 4 hours. The apparent 
+elimination half-life was similar to the parent drug, indicating that accumulation of the 
+metabolite is limited. In the systemic circulation, the relative abundance of BZG791 was usually 
+between 20% and 30% of alpelisib. 
+In vitro victim DDI risk: Alpelisib is a substrate of BCRP. Alpelisib is metabolized by CYP3A4 in 
+vitro but the in vivo relevance was found to be minor in the human mass balance study (fm, 
+CYP3A4 ~0.12). The clinical relevance of these interactions are described in Section 6.3.2.4. 
+In vitro perpetrator DDI risk: The DDI potential of alpelisib and its primary metabolite BZG791 
+was assessed in vitro with all common metabolic enzymes and transporters. Alpelisib may only 
+induce the metabolic clearance of co-medications metabolized by CYP2B6, CYP2C9, and CYP3A, 
+and may inhibit the metabolic clearance of co-medications metabolized by CYP3A4/5 (strong 
+time-dependent inhibition). The clinical relevance of these interactions are described in Section 
+6.3.2.4. BZG791 will not cause any metabolic or transporter-mediated DDIs with concomitant 
+medications based on its systemic exposure and low free fraction. 
+Reference ID: 4437533
+
+
+===== PAGE 77 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+ 
+ 
+ 
+76 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Bioanalysis 
+In the pivotal study CBYL719C2301, alpelisib and its major metabolite, BZG791, 
+were measured using validated LC-MS/MS methods. A summary of the method 
+validation reports is included as an appendix. 
+Healthy Volunteers 
+vs. Patients 
+Lower exposure was observed for alpelisib in healthy subjects compared to 
+subjects with cancer, though data for comparison under the same PK conditions 
+were limited and confounded by other factors. On the other hand, alpelisib PK in 
+patients with cancer were consistent between studies.  
+Drug exposure at 
+steady state 
+following the 
+therapeutic dosing 
+regimen 
+In adult patients who received alpelisib 300 mg once daily in Study CBYL719C2301, 
+popPK approach derived mean steady-state alpelisib (CV%) for Cmax was 2480 
+(23%) ng/mL and AUC0-24hr was 33224 (21%) ng*h/mL. 
+Minimal effective 
+dose or exposure 
+Not determined. Dose levels lower than 300 mg were not tested.  
+Maximal tolerated 
+dose or exposure 
+In Study BYL719X2101, the established MTD of alpelisib single-agent treatment in 
+patients with advanced solid malignancies was 400 mg QD.  
+Dose 
+Proportionality 
+Alpelisib showed dose-proportional increase in both Cmax and AUC across the dose 
+range of 30 to 450 mg following a single dose and multiple doses. Oral plasma 
+clearance values of alpelisib (CL/F) were similar following a single dose and at 
+steady state, suggesting that alpelisib exhibits linear PK in humans. See 18.3 OCP 
+Appendices for detail.  
+Estimated slopes 
+(90% CI) 
+Single Dose 
+Multiple Doses 
+Cmax 
+0.93 (0.79, 1.07) 
+0.97 (0.88, 1.07) 
+AUC 
+1.01 (0.90, 1.12) 
+1.00 (0.91, 1.09) 
+Source: Section 3.1.8 of the Applicant’s Summary of Clinical Pharmacology 
+Accumulation 
+The mean accumulation ratios (Racc) following alpelisib 90 to 450 mg QD were 
+between 1.3- and 1.5-fold 
+Variability 
+Following alpelisib 300 to 400 mg QD + fulvestrant combination treatments, the 
+inter-subject variability (CV%) of steady state alpelisib AUCtau and Cmax was 23% 
+and 30%, respectively. 
+Absorption 
+Bioavailability 
+The absolute bioavailability of alpelisib is unknown.  
+Tmax 
+The median time to reach peak plasma concentration (Tmax) ranged between 2.0 
+to 4.0 hours. 
+Reference ID: 4437533
+
+
+===== PAGE 78 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+ 
+ 
+ 
+77 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Food effect 
+(Fed/fasted) 
+In Study BYL719A2103, both high-fat high-calorie meal (HFHC, 985 calories with 
+58.1 g of fat) and low-fat low-calorie meal (LFLC, 334 calories with 8.7 g of fat) 
+showed a positive food effect on absorption of alpelisib in healthy subjects. No 
+significant difference was found for AUCinf between LFLC and HFLC with a GMR of 
+0.978 (90%CI: 0.876, 1.09). 
+ 
+R_AUC0-inf 
+(GMR, 90% CI) 
+R_Cmax 
+(GMR, 90% CI) 
+Tmax (hours) 
+(range) 
+Fasted 
+N/A 
+N/A 
+2.0 (1.0 – 2.5) 
+HFHC 
+1.73 (1.55-1.93) 
+1.84 (1.56-2.17) 
+3.0 (1.0 – 4.1) 
+LFLC 
+1.77 (1.58-1.97) 
+2.45 (2.08-2.89) 
+2.5 (1.0 – 4.0) 
+Source: Table 2-1 of Applicant’s Summary of Clinical Pharmacology 
+Acid-reducing 
+agent effect 
+(Ranitidine) 
+In Study BYL719A2103, coadministration of the H2 receptor antagonist ranitidine in 
+combination with a single 300 mg oral dose of alpelisib decreased the absorption 
+and overall exposure of alpelisib. In the presence of a low-fat low-calorie meal, 
+AUC was decreased on average by 21% and Cmax by 36% with ranitidine. Under 
+the fasted state, AUC was decreased on average by 30% and Cmax by 51% with 
+ranitidine. 
+ 
+R_AUC0-inf 
+(GMR, 90% CI) 
+R_Cmax 
+(GMR, 90% CI) 
+Tmax (hours) 
+(range) 
+Fasted 
+0.70 (0.62-0.78) 
+0.49 (0.42-0.58) 
+2.0 (1.5 – 4.1) 
+LFLC 
+0.79 (0.71-0.88) 
+0.64 (0.54-0.75) 
+2.5 (1.5 – 4.0) 
+Source: Table 2-1 of Applicant’s Summary of Clinical Pharmacology 
+Alpelisib can be coadministered with acid reducing agents, since alpelisib should 
+be taken with food. Food exhibited a more pronounced effect on the solubility of 
+alpelisib than the effect of gastric pH value.  
+Distribution 
+Volume of 
+distribution  
+The popPK approach derived mean (%CV) apparent volume of distribution of 
+alpelisib at steady-state is 114 L (46%).  
+Plasma protein 
+binding 
+In vitro, protein binding of alpelisib is 89% and is independent of concentration. 
+Blood to plasma 
+ratio 
+The mean blood-to-plasma ratio was 1.03 for alpelisib. 
+Elimination 
+Half-life 
+The popPK approach derived terminal half-life of alpelisib is 8 to 9 hours. 
+Clearance 
+The popPK approach derived mean (%CV) clearance of alpelisib is 9.2 L/hr (21%) 
+under fed conditions. 
+Metabolism 
+Reference ID: 4437533
+
+
+===== PAGE 81 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+ 
+ 
+ 
+80 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Renal impairment: No dose adjustment is necessary in subjects with mild or moderate renal 
+impairment based upon the understanding of the fractional elimination pathway (i.e. negligible 
+renal excretion and limited liver mediated metabolism) and further supported by the results of 
+population PK analyses (Phase I and III analysis). Caution should be used in subjects with severe 
+renal impairment, as no dedicated study in subjects with severe renal impairment was 
+conducted with alpelisib and since there is no experience with fulvestrant in this population. 
+ 
+The FDA’s Assessment: 
+ 
+The FDA generally agrees. In the labeling, the FDA stated that the effect of severe renal 
+impairment (CLcr < 30 mL/min) on alpelisib PK is unknown.  
+ 
+6.3.2.4. 
+Are there clinically relevant food-drug or drug-drug interactions, and 
+what is the appropriate management strategy? 
+The Applicant’s Position: 
+The clinically relevant food-drug and drug-drug interactions with concomitant medications are 
+described in further detail below with their respective recommendation for management. 
+Effect of food 
+Alpelisib absorption is affected by food. Safety, efficacy, and PK (including dose-proportionality) 
+of alpelisib have been established in the fed state in cancer subjects from studies included in 
+the dossier. In healthy volunteers after a single 300 mg oral dose of alpelisib, compared to the 
+fasted state, a high-fat, high-calorie (HFHC) meal increased AUCinf by 73% and Cmax by 84%, 
+and a LFLC meal increased AUCinf by 77% and Cmax by 145%. No significant difference was 
+found for AUCinf between LFLC and HFHC showing that neither fat content nor overall caloric 
+intake has an impact on absorption. The increase in gastrointestinal solubility by bile, secreted 
+in response to food intake, is considered the cause of the food effect. Therefore, alpelisib 
+should be taken immediately after food, at approximately the same time each day. 
+Co-administration of alpelisib with BCRP inhibitors 
+Alpelisib is a substrate of the efflux transporter BCRP. Based on an integrated risk assessment of 
+the available in vitro data, absorption of alpelisib is unlikely to be affected by BCRP inhibition 
+due to saturation of the transporter in the intestine. However, due to the involvement of BCRP 
+in the hepatobiliary export and intestinal secretion of alpelisib and in the absence of clinical 
+data, caution is advised when co-administering alpelisib with a clinically proven BCRP inhibitor, 
+as inhibition of BCRP in the liver and in the intestine during the elimination phase could 
+potentially lead to an increase in systemic exposure of alpelisib. 
+ 
+Effect of alpelisib on CYP3A4 substrates 
+In vitro studies showed that alpelisib is a strong time-dependent inhibitor of CYP3A4. Alpelisib 
+was also identified to be a strong inducer of CYP3A4. Due to the complex nature of concurrent 
+Reference ID: 4437533
+
+
+===== PAGE 85 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+ 
+ 
+ 
+84 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+the worst-case scenario in the in vivo evaluation of pH effect because they generally have a 
+more sustained suppression effect on gastric acid (Zhang et al 2014). 
+ 
+The study results of BYL719A2103 trial reported that AUCinf was decreased by 21% and Cmax by 
+36% with ranitidine compared to the fed state following a LFLC meal without co-
+administration of ranitidine; in the absence of food, the effect was more pronounced with a 
+30% decrease in AUCinf and 51% decrease in Cmax with ranitidine compared to the fasted state 
+without co-administration of ranitidine (Figure 3). Of note, alpelisib absorption is enhanced 
+by food and a LFLC meal increased AUCinf by 77% and Cmax by 145% compared to fasted state.  
+ 
+Figure 3: Effect of ranitidine on alpelisib Cmax (A) and AUCinf (B) under fasted condition a fed 
+condition following a low-fat, low-calorie (LFLC) meal  
+ 
+Source: Table 2-1 of Applicant’s Summary of Clinical Pharmacology 
+ 
+The applicant’s in vitro evaluations showed that alpelisib exhibits pH-dependent solubility 
+(Table 9). The decrease in alpelisib solubility reached a plateau at 0.02 mg/mL when pH ≥ 5.0. 
+The solubility of alpelisib in fed state simulated intestinal fluid (FeSSIF) increased substantially 
+to 0.32 mg/mL, suggesting that solubility of alpelisib would have a significant increase under 
+fed condition.  
+ 
+Reference ID: 4437533
+
+
+===== PAGE 88 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+ 
+ 
+ 
+87 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Trial Identity 
+NCT no. 
+Trial Design 
+Regimen/ 
+schedule/ 
+route 
+Study Endpoints 
+Treatment 
+Duration/ Follow 
+Up 
+No. of 
+subjects 
+enrolled 
+Study 
+Population 
+No. of 
+Centers 
+and 
+Countries 
+respectively 
+Single agent 
+alpelisib across all 
+dose levels - 2.7 mo 
+Studies to Support Safety 
+BYL719X1101 
+NCT01387321 
+Phase 1, open-
+label, 
+multicenter 
+study in 
+Japanese 
+subjects 
+Alpelisib 
+p.o. once 
+daily: 
+escalation 
+part: 90, 
+180, 270, 
+350, 400 mg 
+expansion 
+part: 
+350 mg 
+Primary: MTD of BYL719 as 
+single agent in subjects with 
+advanced solid malignancies. 
+Secondary: Safety and 
+tolerability of BYL719, PK profile 
+of BYL719 after single and 
+multiple administrations, and 
+ORR. 
+Median duration of 
+exposure to 
+alpelisib single 
+agent across all 
+dose levels: 2.3 mo 
+33 
+(including 
+4 subjects 
+with breast 
+cancer) 
+Adult subjects 
+with advanced 
+solid 
+malignancies 
+and documented 
+genetic 
+alteration of the 
+PIK3CA gene 
+4 centers in 
+1 country  
+Other Studies (Clinical Pharmacology Studies) 
+BYL719A2103  
+Single-center, 
+open-label, 
+randomized, 
+five period, ten 
+sequence 
+crossover study 
+Single dose- 
+300 mg, 
+fasted and 
+fed 
+Primary: Cmax, Tmax and 
+AUCinf of alpelisib. Other PK 
+parameters such as 
+Secondary: Other PK 
+parameters such as AUC0-t, 
+AUClast, Cl/F, Vz/F, T1/2, 
+derived PK parameters of 
+ranitidine, and safety data. 
+Subjects received a 
+single dose of 300 
+mg of alpelisib 
+during each of the 5 
+periods 
+21 
+Healthy 
+volunteers 
+1 center in 
+in 1 
+country 
+BYL719X1101 
+NCT01387321 
+Details described above 
+BYL719X2107 
+  
+Single-center, 
+open-label 
+study 
+Single, oral 
+dose of 400 
+mg 14C-
+alpelisib 
+(two gelatin 
+Primary: Recovery of 14C-
+alpelisib, metabolite ID, 
+metabolite % of dose excreted. 
+Cmax, Tmax, T1/2 and AUC for 
+alpelisib and its metabolite. 
+Subjects received a 
+single dose of 
+400 mg of alpelisib 
+4 
+Healthy 
+volunteers 
+1 center in 
+one 
+country 
+Reference ID: 4437533
+
+
+===== PAGE 89 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+ 
+ 
+ 
+88 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Trial Identity 
+NCT no. 
+Trial Design 
+Regimen/ 
+schedule/ 
+route 
+Study Endpoints 
+Treatment 
+Duration/ Follow 
+Up 
+No. of 
+subjects 
+enrolled 
+Study 
+Population 
+No. of 
+Centers 
+and 
+Countries 
+capsules) 
+Secondary: Safety  
+BYL719A2105 
+  
+Phase 1, open-
+label, single-
+dose, 
+multicenter, 
+parallel group 
+study 
+Single, oral 
+300 mg 
+dose of 
+alpelisib for 
+all groups 
+Primary: Cmax, AUClast, AUC 
+inf 
+Secondary: PK parameter after 
+a single oral dose; Tmax, Cmax, 
+AUC0-t, AUClast, 
+AUCinf, CL/F, Vz/F and T1/2. 
+Safety 
+Subjects received a 
+single dose of 
+300 mg of alpelisib 
+23 
+Healthy 
+volunteers and 
+subjects with 
+moderate and 
+severe hepatic 
+impairment 
+4 centers in 
+one 
+country 
+BYL719Z2102 
+NCT 
+NCT02077933 
+Phase Ib dose-
+finding study 
+ 
+Primary: Incidence of DLT 
+Secondary: Safety, PK 
+parameters 
+Median duration of 
+exposure: 82 days 
+across all dose 
+levels of doublet 
+combination 
+(alpelisib plus 
+everolimus) and 
+123 days for triplet 
+combination 
+(alpelisib plus 
+everolimus plus 
+exemestane). 
+79 
+Subjects with 
+advanced solid 
+tumors 
+21 centers 
+across 9 
+countries 
+Reference ID: 4437533
+
+
+===== PAGE 187 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+186 
+ 
+b. Base model  
+The final base model was a one-compartment model with a delayed first-order absorption and 
+linear elimination. The effect of body weight was included as an allometric exponent on CL/F 
+and V/F.  
+Inter-individual variability (IIV) for log-transformed PK parameters was modelled assuming a 
+normal distribution for patient level random effects.  Residual variability was tested as additive, 
+proportional or both on the dependent variable.  Model evaluation and selection of the base 
+model were based on standard statistical criteria of goodness-of-fit such as a decrease in the 
+minimum objective function value (OFV), accuracy of parameter estimation (i.e., 95% confidence 
+interval excluding 0), successful model convergence, and diagnostic plots. 
+c. Covariate analysis 
+Clinical judgment, physiologic relevance, prior knowledge and mechanistic plausibility were 
+used to determine which covariates should be tested with the various PK parameters. A 
+systematic covariate search was performed that led to the final model in the Phase I population 
+PK analysis. Covariate parameters, including age, Hispanic, renal impairment and hepatic on 
+CL/F, and Japanese ethnicity on Vc/F, were investigated in the Phase III population PK analysis.  
+The reviewer’s analysis of covariates effect on PK was similar to that of the applicant. The 
+effects of body weight, renal impairment, hepatic impairment, and Ethnicity on clearance (CL/F) 
+are explored in Figure 11. The model estimated covariate effects on PK parameters are 
+illustrated in Table 32.  
+ 
+Table 32: Covariate Effects on PK parameters 
+ 
+Source: Applicant’s Population Phase III popPK report, Table 5-5 
+ 
+ 
+ 
+Reference ID: 4437533
+
+
+===== PAGE 198 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+197 
+ 
+• The PBPK analysis cannot be used to quantitatively predict the effects of alpelisib on the 
+PK of a CYP2C9 substrate (warfarin) due to the lack of in vitro to in vivo extrapolation 
+of the KI (inhibition constant). The model could be used as a risk assessment tool to 
+evaluate a worst-case scenario with regards to the change in PK of a CYP2C9 substrate 
+when it is co-administered with alpelisib.
+ 
+  
+• The PBPK analysis cannot be used to predict the effects of alpelisib on the PK of a CYP2B6 
+substrate (bupropion) due to the lack of in vitro to in vivo extrapolation of the KI 
+(inhibition constant). The model could be used as a risk assessment tool to evaluate a 
+worst-case scenario with regards to the change in PK of a CYP2B6 substrate when it is 
+co-administered with alpelisib. The model predicted that bupropion plasma AUC ratio 
+with and without coadministration of alpelisib was 0.88.  
+• The PBPK analysis is inadequate to predict the effects of BCRP inhibitors (itraconazole 
+or cyclosporin A) on the PK of alpelisib. Itraconazole and cyclosporine A are dual 
+inhibitors of CYP3A4 and BCRP. Both itraconazole and cyclosporine A are CYP3A 
+substrates. The itraconazole or cyclosporine A PK may be affected by alpelisib due to its 
+effect on CYP3A activity.  Without prior knowledge of the net effect of alpelisib on CYP3A 
+activity, it is not able to estimate the net CYP3A activity in the system containing both 
+alpelisib and itraconazole or cyclosporine A. Thus, the BCRP mediated DDI between 
+alpelisib and itraconazole or cyclosporin A cannot be estimated. 
+• The alpelisib PBPK absorption model is not adequate to predict the fraction absorbed of 
+alpelisib under fed conditions (low-fat low-calorie [LFLC] or high-fat low-calorie [HFLC]) 
+due to the possibility of enterohepatic circulation involved in alpelisib absorption. 
+ 
+ 
+ 
+Background 
+Pharmacokinetics 
+Alpelisib has low and pH-dependent solubility where the solubility decreases with the increasing 
+pH. The apparent permeability of alpelisib was high in the absence of transporter and moderate 
+to high in the presence of unsaturated efflux transporter (BCRP). The absorption of alpelisib was 
+at least 53.5% under the fasted state after a single oral dose of 400 mg alpelisib (mass balance 
+Study X2107). The alpelisib Cmax and AUCinf were significantly increased under the fed state by an 
+average of 84-145% and 73-77%, respectively, in healthy subjects.  
+ 
+Alpelisib distributes widely into tissues with the apparent volume of distribution of 114 L. 
+Alpelisib moderately binds to protein with a free fraction of plasma protein binding (fu) of 0.108, 
+and a mean blood to plasma ratio of 1.03 (Summary of Clinical Pharmacology Studies - Breast 
+Cancer-1).  
+ 
+Reference ID: 4437533
+(b) (4)
+(b) (4)
+
+
+===== PAGE 201 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+200 
+ 
+Model development 
+Alpelisib 
+The alpelisib PBPK model was developed based on in vitro and in vivo ADME data. The first-order 
+absorption model was selected with a fraction absorbed (fa) (model predicted), a first-order rate 
+constant (ka) (estimated based on observed alpelisib PK profiles), and an effective permeability 
+(Peff) in human (predicted based on in vitro parallel artificial membrane permeability assay 
+(PAMPA) data) as input parameters. Although the in vitro study results showed that alpelisib is a 
+weak P-gp substrate and a relatively strong BCRP substrate with a Km of 2 -15 mM, both P-gp and 
+BCRP were saturated during the absorption phase due to the high luminal alpelisib concentration 
+of 724 µM.  Therefore, absorption is governed by the passive permeability. Due to the minor 
+contribution of CYP3A4 to the systemic clearance (fm~ 0.12), intestinal metabolism attributing to 
+the first-pass effect was expected to be low. 
+The steady state volume of distribution (1.87 L/kg) was predicted using Poulin and Theil (2002) 
+method which was comparable to the respective estimate based on population pharmacokinetic 
+analysis (1.54-1.69 L/kg).  
+In vitro studies demonstrated that enzymatic amide hydrolysis was a major metabolism pathway 
+to form the major metabolite BZG 791, whereas the CYP3A4 contribution to alpelisib clearance 
+is minor. Mass balance study showed that the excretion ratio of CYP3A4-mediated metabolites 
+and BZG791 was accounted for ~12% and ~40% of the dose, respectively. The intrinsic clearance 
+via CYP3A4 was estimated using the Simcyp retrograde model and based on the total clearance 
+and fmCYP3A4 of 0.12.  
+CLothers (additional systemic clearance) was used in the alpelisib model representing the 
+contribution of intestinal/biliary elimination mediated by efflux transporters in addition to the 
+BZG791 formation, which was optimized based on the observed clinical PK data and accounted 
+for about 80% of total clearance. Contribution of renal excretion to total elimination was 
+negligible given only 2% of the radioactivity was excreted into urine as the parent drug after oral 
+administration of [14C]alpelisib in human. 
+ 
+The CYP3A inhibitory parameters (KI and kinact) obtained from an in vitro study (Table 40, 
+R0900218) were used in the model to describe the alpelisib-mediated CYP3A4 inhibition kinetics. 
+The CYP3A induction parameter (IndC50=1.7 µM) estimated from an in vitro study based on the 
+changes in mRNA levels relative to the vehicle  control was used in the model (Table 40, 
+R1300942), whereas the Indmax (=15), the maximal CYP3A induction potential, was optimized 
+based on the clinical PK data following single and multiple oral dosing of alpelisib over the dose 
+range of 60-450 mg. 
+The CYP2C9 inhibitory parameters and CYP2B6 and CYP2C9 induction parameters obtained from 
+in vitro studies (Table 40, R1300942 and R0900502) were used in the model to describe alpelisib-
+mediated inhibitory or induction kinetics of these enzymes.  
+The FDA’s Assessment: 
+Reference ID: 4437533
+
+
+===== PAGE 202 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+201 
+ 
+1. The alpelisib model did not account for alpelisib mediated P-gp induction and inhibition 
+effect, which may contribute to the DDI between alpelisib and everolimus. 
+2. In the in vitro study, alpelisib was characterized as a relative strong BCRP substrate with a 
+Km of 2 -15 mM. The intestine BCRP transport may be completely saturated due to the high 
+intestinal concentration and may not have impact on alpelisib absorption. However, the 
+potential DDI between alpelisib and a BCRP inhibitor in the liver need to be evaluated given 
+the lower alpelisib unbound plasma concentration relative to the Km of BCRP mediated 
+biliary excretion of alpelisib. On Jan. 11, 2019, an information request was issued requesting 
+the evaluation of the potential DDI between alpelisib and a BCRP inhibitor in the liver.    
+Perpetrator drugs 
+The default PBPK models of perpetrator drugs (ritonavir, rifampicin, itraconazole and 
+cyclosporine A) in SimCYP V13 and V14 were used for DDI prediction. The Simcyp rifampicin 
+model (V13) were refined by incorporating the CYP3A enzyme kinetics and updating the CYP3A4 
+enzyme induction parameters based on the clinical DDI study results. Compatibility of the 
+simulation performance using these perpetrator files between Simcyp V13 and V14 was 
+confirmed. 
+Victim drugs 
+The default PBPK models of victim drugs (midazolam, ritonavir, ribociclib, rifampicin, warfarin, 
+and bupropion) in SimCYP V14 were used for DDI prediction. The Simcyp rifampicin model (V13) 
+were refined by incorporating the CYP3A enzyme kinetics and updating the CYP3A4 enzyme 
+induction parameters based on the clinical DDI study results. The compatibility of the simulation 
+performance between Simcyp V12 and 14 was confirmed. 
+Everolimus drug model 
+The first-order absorption model was selected, and the fa and ka were defined as 1 to fit the 
+everolimus PK profiles. Everolimus is a P-gp substrate. The P-gp may not play an important role 
+for everolimus absorption, since the passive permeability of everolimus was found to be high and 
+P-gp is likely to be saturated in the intestine at doses > 1mg (4µM) based upon the measured Km 
+value of 1 µM. The P-gp was therefore not incorporated in the GI tract of the everolimus model.  
+Parameter sensitivity analysis was performed on Qgut and fu,gut values to minimize the Fg to fit the 
+in vivo DDI study results with ketoconazole and erythromycin.  
+The minimal PBPK model was used with a kin value of 0.55 h-1, kout value of 0.10 h-1, and the 
+volume of the single adjusting compartment (Vsac) was assigned a value of 10 L/kg. The Vss was 
+predicted to be 13.2 L/kg using Rodgers and Rowland method with a Kp scalar of 0.14.  
+The everolimus clearance was described by enzyme kinetics with a recombinant CYP3A4-
+mediated CLint of 0.1 mL/min/pmol CYP, which was optimized based on the clinical PK data (top-
+down approach).  
+To best predict the DDI between everolimus and ketoconazole, an active update factor of 2.5 was 
+assigned in the everolimus model to account for higher drug concentrations in the liver and lower 
+Reference ID: 4437533
+
+
+===== PAGE 205 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+204 
+ 
+Results 
+a. Version difference  
+The reviewer noticed that there is minor difference in the predicted Cmax and AUC values of 
+alpelisib or everolimus between SimCYP V17 vs SimCYP V14, 15 or 16. However, the predicted 
+victim drug Cmax and AUC ratios in the presence and absence of perpetrators are the same 
+between SimCYP V17 and other versions. Therefore, in the following sections, the Applicant 
+submitted results were presented which were obtained using SimCYP V 14, 15 or 16 based on 
+the Applicant submitted PBPK models. In the FDA analyses, the reviewer conducted the PBPK 
+analyses based on the Applicant submitted PBPK models using SimCYP V17.  
+b. Alpelisib model verification 
+The in vitro CYP3A inhibitory parameters (KI and kinact) were used in the model to describe the 
+alpelisib-mediated CYP3A inhibitory kinetics (Table 40, R0900218). One of the CYP3A induction 
+parameter (Ind50) value in the model was obtained from in vitro study (Table 40, R1300942), 
+while the other CYP3A induction parameter (Indmax) was manually optimized to fit the clinical 
+observed PK data following multiple administration of alpelisib.  
+ 
+Figure 15 A and B show the simulated alpelisib PK profiles following a single or multiple 
+administration of alpelisib. The Cmax and AUC values obtained from model simulation and clinical 
+studies (Study Z2102 and Study Z2107) were presented in Table 41. The simulated AUC values 
+are in line with the observed data after a single dose or multiple dose administration of alpelisib 
+over a dose range of 60-450 mg. The simulated Cmax, however, was underestimated and within 
+40%. 
+ 
+Figure 15: Observed and simulated alpelisib PK profiles following a single (A) or multiple dose 
+(B) administration of alpelisib in humans  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                         
+ 
+*Observed and simulated alpelisib concentration-time profiles are presented as dots and lines, respectively.  
+Source: based on the Applicant’s simulations 
+ 
+A 
+B 
+Reference ID: 4437533
+
+
+===== PAGE 206 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+205 
+ 
+Table 41: Observed and simulated alpelisib Cmax, AUC and the Cmax and AUC ratios following a 
+single or multiple administration of alpelisib.  
+a: n=1;  
+b: Both simulated and observed Cmax and AUC values are presented as median values. Observed values were 
+obtained from Study Z2102 (multiple dose in cancer patients) or Study Z2107 (single dose in healthy subjects). 
+*The number of subjects in the simulation is 24 healthy subjects. 
+Source: Applicant’s PBPK report DMPK R1400676 Table 6-9. 
+ 
+The FDA’s Assessment:  
+The simulated alpelisib PK profiles agreed relatively well with the observed data over a dose 
+range of 60-450 mg following multiple administration using the Applicant’s model. The lack of 
+systemic exposure accumulation of alpelisib over time was also captured by the Applicant’s 
+model. However, considering the minor contribution of CYP3A to the alpelisib systemic 
+clearance (fm~ 0.12), alpelisib is not a sensitive substrate to test its inhibitory and induction 
+effects on CYP3A. The reviewer conducted a sensitivity analysis to assess the effects of alpelisib 
+ 
+Dose 
+(mg) 
+N in 
+Clinical 
+Studies 
+Cmax (ng/mL)b 
+Observed/Predicted/RPred/Obs 
+AUC (ng*h/mL)b 
+Observed/Predicted/RPred/Obs 
+Single 
+dose 
+60 
+3 
+338 / 326 / 0.96 
+4816a / 5864 / 1.22 
+90 
+6 
+759 / 489 / 0.64 
+8220 / 8772 /1.07 
+180 
+6 
+1545 / 979 / 0.63 
+18457 / 17442 / 0.95 
+270 
+4 
+1950 / 1469 / 0.75 
+24363 / 26073 / 1.07 
+300 
+8 
+2180 / 1633 / 0.75 
+26179 / 28947 / 1.11 
+350 
+6 
+3150 / 1906 / 0.61 
+29972 / 33742 / 1.13 
+400 
+55 
+2880 / 2179 / 0.76 
+36970 / 38536 / 1.04 
+450 
+9 
+2850 / 2452 / 0.86 
+42098 / 43334 / 1.03 
+Multiple 
+dose 
+q.d. for 
+8 days 
+60 
+3 
+475 / 423 / 0.89 
+4770 / 5771 / 1.21 
+90 
+6 
+849 / 639 / 0.75 
+8520 / 8610 /1.01 
+180 
+6 
+1740 / 1295 / 0.74 
+20600 / 17096 / 0.83 
+270 
+4 
+2880 / 1958 / 0.68 
+25900 / 25605 / 0.99 
+300 
+8 
+3160 / 2181 / 0.69 
+33200 / 28453 / 0.86 
+350 
+6 
+3200 / 2553 / 0.80 
+29500 / 33213/ 1.13 
+400 
+65 
+3560 / 2927 / 0.82 
+39600 / 37990 / 0.96 
+450 
+9 
+3550 / 3301 / 0.93 
+46000 / 42786/ 0.93 
+Reference ID: 4437533
+
+
+===== PAGE 207 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+206 
+ 
+CYP3A induction and inhibition on itself systemic exposure. Simulation suggested that the 
+alpelisib plasma AUC was not sensitive to the changes in its CYP3A induction and inhibitory 
+parameters when varying the KI and IndC50 values in a range of 0.01-fold to 1-fold and kinact 
+and Indmax values in a range of 0.1-fold to10-fold of the values obtained from in vitro studies 
+(Figure 16). The uncertainty associated with the alpelisib-mediated in vivo CYP3A induction and 
+inhibitory effect, therefore, may compromise the capability of alpelisib model for DDI 
+assessment with CYP3A substrates and modulators. 
+Figure 16: Sensitivity analysis of alpelisib CYP3A induction and inhibitory parameters on the 
+simulated alpelisib AUC  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+* PBPK simulation was conducted following multiple dose administration of 300 mg alpelisib in healthy subjects 
+Source: FDA reviewer’s analysis.  
+c. Model DDI predictive performance evaluation 
+DDI assessment of the perpetrator potential of alpelisib on everolimus PK at steady-state in 
+healthy subjects 
+The applicant performed simulations to explore the effect of alpelisib on everolimus PK at steady 
+state in healthy subjects and compared them to the clinical DDI study results. The simulated 
+everolimus AUC ratio (geometric mean ratio) at the last dose after oral administration of 2.5 mg 
+everolimus, q.d. for 28 days was 1.13-fold with co-administration of alpelisib (300 mg p.o., q.d. 
+for 21 days). The clinical observed AUC ratio was 0.766 (geometric mean ratio) or 0.888 
+(estimated based on a linear mixed-effect model). The Applicant stated that both observed and 
+simulated results support the conclusion that there is a lack of meaningful change in everolimus 
+PK when co-administered with alpelisib. (Applicant’s response to FDA’s Information Request on 
+Jan 11, 2019) 
+ 
+The FDA’s Assessment: 
+ The in vitro study result indicated that alpelisib is a weak P-gp inhibitor with a Ki of 98.6 μM 
+(R0900459), which may translate into clinical significance based on an expected alpelisib gut 
+concentration of 724 μM following the administration of 300 mg alpelisib. Due to alpelisib’s 
+Reference ID: 4437533
+
+
+===== PAGE 209 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+208 
+ 
+ 
+Table 42: Observed and simulated Cmax and AUC ratios of everolimus in the presence and 
+absence of ketoconazole, erythromycin, verapamil and rifampin.  
+ 
+Ketoconazolea 
+Erythromycinb 
+Verapamilc 
+Rifampind 
+ 
+CmaxR 
+AUCR 
+CmaxR 
+AUCR 
+CmaxR 
+AUCR 
+CmaxR 
+AUCR 
+Observed 
+3.9 
+15 
+2.0 
+4.5 
+2.2 
+3.4 
+0.42 
+0.37 
+Simulated 
+1.6 
+8.9 
+1.5 
+4.6 
+1.3 
+1.7 
+0.45 
+0.19 
+Simulated / 
+Observed 
+0.41 
+0.59 
+0.75 
+1.02 
+0.59 
+0.5 
+1.07 
+0.51 
+a: Period 1: everolimus, 2 mg on day 1 through day 6; Period 2: ketoconazole, 200 mg, b.i.d. on day 10 through day 
+17 and everolimus, 2 mg, q.d. on day 13 through day 183. 
+b: everolimus, 2 mg, on day 1 and day 14; erythromycin 500 mg, t.i.d. on day 10 through day 184. 
+c: Period 1: everolimus, 2 mg on day 1 through day 6; Period 2: verapamil, 80 mg, t.i.d. on day 10 through day 15 
+and everolimus, 2 mg, q.d. on day 11 through day 165. 
+d: Period 1: everolimus, 2 mg on day 1; Period 2: rifampin, 600 mg, q.d. on day 7 through day 19 and everolimus, 2 
+mg, on day 156. 
+Source: FDA reviewer’s analysis. Data were obtained from published articles and summarized in DMPK-R1300572 
+report. Everolimus is administered orally.  
+ 
+d. Model application evaluation 
+ 
+1. Assessment of the effects of alpelisib on midazolam PK at steady-state in healthy 
+subjects 
+ 
+The FDA’s Assessment:  
+The applicant developed alpelisib model was used to predict the effects of alpelisib on 
+midazolam (a sensitive CYP3A4 substrate) PK. As stated in previous sections, the net effect of 
+alpelisib on the PK of a sensitive CYP3A substrate cannot be estimated using the current PBPK 
+model due to the gaps existing in the model, and lack of appropriate model validation.  
+2. Assessment of the effects of alpelisib on rifampicin (a CYP3A auto-inducer) PK at steady-
+state in healthy subjects 
+The FDA’s Assessment:  
+                                                     
+3 Kovarik JM, Beyer D, Bizot MN, Jiang Q, Shenouda M, Schmouder RL. Blood concentrations of everolimus are 
+markedly increased by ketoconazole. J Clin Pharmacol. 2005;45(5):514-8. 
+4 Kovarik JM, Beyer D, Bizot MN, Jiang Q, Shenouda M, Schmouder RL. Effect of multiple-dose erythromycin on 
+everolimus pharmacokinetics. Eur J Clin Pharmacol. 2005;61(1):35-8.  
+5 J M Kovarik, D Beyer, M N Bizot, Q Jiang, M J Allison, and R L Schmouder. Pharmacokinetic interaction between 
+verapamil and everolimus in healthy subjects. Br J Clin Pharmacol. 2005; 60(4): 434–437.  
+6 Kovarik JM, Hartmann S, Figueiredo J, Rouilly M, Port A, Rordorf C. Effect of rifampin on apparent clearance of 
+everolimus. Ann Pharmacother. 2002;36(6):981-5. 
+Reference ID: 4437533
+
+
+===== PAGE 211 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 212526} 
+{Piqray, Alpelisib} 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+210 
+ 
+As aforementioned, due to the minor contribution of CYP3A to the alpelisib systemic clearance 
+(fm~ 0.12), the effect of ritonavir, a CYP3A substrate and strong inhibitor, on alpelisib PK is 
+expected to be low. The reviewer conduced a worst-case scenario analysis assuming complete 
+inhibition of CYP3A mediated metabolic pathway. The simulated alpelisib plasma Cmax and AUC 
+were increased by 1.08 and 1.16-fold, respectively. Based on the simulation, the reviewer 
+concluded that the effect of a strong CYP3A inhibitor on the PK of alpelisib is minimal. 
+5. Assessment of the effects of rifampicin (a strong CYP3A inducer) on alpelisib PK at steady-
+state in healthy subjects 
+The FDA’s Assessment:  
+The Applicant assessed the effects of rifampicin (a CYP3A auto-inducer) on alpelisib PK using 
+the modified Simcyp rifampin model. When the in vivo alpelisib CYP3A inhibitory effect and 
+induction effect were both over-estimated or both under-estimated, the simulated alpelisib PK 
+and the simulated effects of alpelisib on everolimus PK would maintain the same. However, the 
+effects of a strong CYP3A inducer (such as rifampin) on alpelisib could be over- or under- 
+estimated. The uncertainty in alpelisib CYP3A inhibitory and induction potential estimation 
+could introduce uncertainties in the prediction of the effects of a strong CYP3A inducer (e.g. 
+rifampin) on alpelisib PK. Two potential scenarios are discussed in more detail as follows using 
+simulations. 
+Scenario 1: Both in vivo alpelisib CYP3A inhibitory effect and induction effect are over-
+estimated. 
+ 
+In the Applicant’s response to FDA information request on Jan. 31, 2019, the Applicant 
+conducted a sensitivity analysis by increasing the alpelisib CYP3A inactivation rate (kinact) values 
+by 2, 5, 10 and 20-fold and simultaneously, increasing the CYP3A maximal fold induction 
+(Indmax) values by the same factors to maintain the net CYP3A activity the same as the default 
+level. The KI (concentration of inhibitor that supports half maximal inhibition) and IndC50 (drug 
+concentration that supports half maximal induction) values in the model remained unchanged 
+in this analysis.  
+ 
+As shown in Table 43, although the CYP3A kinact and Indmax parameter values were increased by 
+2-20-fold, the predicted alpelisib PK and the effects of alpelisib on everolimus PK were 
+unchanged, indicating that the net CYP3A activity was maintained when increasing the 
+magnitude of the alpelisib CYP3A inhibition and induction effects simultaneously. The effect of 
+rifampicin on alpelisib PK decreased as evidenced by the increased AUC ratios from 0.79 to 1.00 
+with increasing alpelisib CYP3A kinact and Indmax values. These simulation results indicated that 
+the effect of alpelisib on CYP3A activity superseded and finally completely masked the induction 
+effect of rifampicin on CYP3A. As such, in this scenario, the effect of a strong CYP3A inducer on 
+alpelisib could be reduced and further completely blocked. 
+ 
+Reference ID: 4437533
+
+
+===== PAGE 217 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The FDA’s Assessment:  
+The applicant submitted the DDI assessment evaluating the effects of BCRP inhibitors on the 
+PK of alpelisib along with the model files in their response to FDA IR on Jan 11. 2019.   The 
+Applicant developed alpelisib model was slightly modified in order to account for BCRP 
+mediated transport in the liver. The modification included 1) adding BCRP for the biliary 
+secretion which was assigned to 40% of total clearance (Summary of Clinical Pharmacology 
+Studies - Breast Cancer-1), and 2) changing the distribution model from a minimal PBPK model 
+to a full PBPK model.  
+Biliary secretion was summed up together with the alpelisib hydrolysis under “Additional 
+Systemic Clearance” (CLothers) in the original alpelisib model. In the updated model with BCRP, 
+CLothers value was reduced to 4.34 L/h and a CLint value of 3.86 μL/min/106 hepatocytes was 
+assigned to the BCRP secretion. To implement BCRP transport, the alpelisib distribution model 
+had to be switched from a minimal to a full PBPK model and the prediction method for volume 
+of distribution had to be “method 2” Rodger/Rowland. Kp scalar was scaled to result in a Vss of 
+1.86 L/kg. As Tmax was appearing earlier with these new settings, ka and lag time were modified 
+accordingly. The alpelisib PK profile predicted using the modified alpelisib model agreed well 
+with the one predicted using the alpelisib model without modification.   
+ 
+The followings are the three scenarios that have been considered in the Applicant simulations 
+regarding the assessment of the effects of BCRP inhibitors on the PK of alpelisib. 
+ 
+Scenario 1:  Literature reported BCRP KI values of itraconazole (Ki=IC50/2, IC50= 1.9 μM) and its 
+major metabolite hydroxy-itraconazole (KI=IC50/2, IC50= 0.44 μM) and the BCRP KI value of 0.5 
+μM in Simcyp default cyclosporine A model were used in simulations. 
+Scenario 2:  10-fold lower KI values for itraconazole, hydoxy-itroconazole and cyclosporine A 
+were used in simulations. 
+Scenario 3: BCRP transport pathway in alpelisib model was completely inhibited in simulations. 
+ 
+The applicant simulated alpelisib AUC ratios with and without coadministration of BCRP 
+inhibitors under different scenarios. It was shown that the alpelisib AUC was increased by 1.69-
+fold under worst-case scenario with complete inhibition of the BCRP pathway. 
+ 
+Itraconazole and cyclosporine A may potentially affect alpelisib PK via both CYP3A and BCRP 
+pathways. Both itraconazole and cyclosporine A are CYP3A substrates, CYP3A inhibitors and 
+BCRP inhibitors. The itraconazole or cyclosporine A PK may also be affected by alpelisib due to 
+its effect on CYP3A activity. Without prior knowledge of the net effect of alpelisib on CYP3A 
+activity, it is not able to estimate the net CYP3A activity in the system containing both alpelisib 
+and itraconazole or cyclosporine A.  Thus, the BCRP mediated DDI between alpelisib and 
+itraconazole or cyclosporin A cannot be estimated.  
+Conclusions 
+Reference ID: 4437533
+
+
+===== PAGE 218 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The applicant submitted alpelisib PBPK model is not adequate to predict CYP3A-mediated DDI 
+potential of alpelisib as a victim or perpetrator due to the multiple pathways (CYP3A, P-gp, and 
+BCRP) involved, and lack of appropriate model validation. Based on worst-case scenario 
+analysis, the model predicted that alpelisib may decrease the exposure of a sensitive CYP2C9 
+substrate (warfarin) by 80% or a CYP2B6 substrate (bupropion) by 97%. 
+ 
+Part B: Prediction of fraction absorbed of alpelisib under fed condition in 
+healthy subjects 
+The Applicant’s Analysis: 
+PBPK software 
+GastroPlusTM V9.5 (Simulation Plus, US) was used to develop the oral absorption PBPK model for 
+alpelisib and predict the fraction absorbed under fasted and fed conditions with or without 
+coadministration of ranitidine in healthy subjects. 
+Model development 
+The applicant’s model consists of an advanced compartment and transit (ACAT) absorption 
+Model and a 2-compartmental model with a systemic clearance of 20.4 L/h, and a volume of 
+distribution of 90.9 L estimated from the population pharmacokinetic (pop-PK) analysis. The 
+measured pH-solubility in buffers was used to simulate absorption of 300 mg of alpelisib under 
+fasted conditions and when coadministered with ranitidine; whereas adjusted pH-solubility 
+profile (adjusted based on the pKa function fitting using measured solubility data) was used for 
+simulating absorption under fed conditions. In vitro dissolution data of alpelisib generated under 
+fasted-state simulated intestinal fluid (FaSSIF) and fed-state simulated intestinal fluid (FeSSIF) 
+conditions were used to fit constant Z-factor (Takano dissolution model) and obtained a Z-factor 
+of 7.48E-3 mL/mg/s for fasted and 6.0E-3 mL/mg/s for fed conditions.  
+ 
+GastroPlus ACAT default physiological parameters such as pH, transit times and volumes across 
+the intestinal tract were used to simulate the alpelisib PK under fasted and HFHC meal 
+conditions. To simulate the food effect with high-fat low-calorie (HFLC) meal, several 
+adjustments in the ACAT model were made according to Sutton et al 2017 (Table 44).  For co-
+administration with ranitidine, pH in stomach was set to 6.50 (when fasted and fed). 
+ 
+ 
+ 
+Reference ID: 4437533
+
+
+===== PAGE 220 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 45: Observed and simulated alpelisib Cmax and AUC, the Cmax and AUC ratios and 
+predicted fraction absorbed of alpelisib 
+Source: Applicant’s PBPK report DMPK R1701118 Table 7-2. 
+ 
+Figure 19: Observed and simulated alpelisib PK with or without food, and with or without 
+concurrent ranitidine 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+*PBPK simulations are conducted following a single administration of 300 mg alpelisib under fasting condition with 
+and without ranitidine, under fed condition (LFLC) with and without ranitidine, and under fed condition (HFHC). 
+Source: Applicant’s PBPK report DMPK R1701118 Figure 8-4 and Figure 8-5. 
+ 
+The FDA’s Assessment:  
+It is possible that the fraction absorbed of alpelisib in healthy subjects under LFLC and HFLC 
+conditions could be greater than 1 based on the reasons outlined below. 
+ 
+ 
+Fasted 
+LFLC 
+Fasted+ 
+Ranitidine 
+LFLC+ 
+Ranitidine 
+HFHC 
+AUC (ng*hr/mL) 
+Obs. 
+10350 
+17700 
+7390 
+14500 
+17570 
+Pred. 
+10110 
+14670 
+6570 
+14640 
+14680 
+Rpred./obs. 
+0.97 
+0.82 
+0.89 
+1.00 
+0.84 
+Cmax (ng/mL) 
+Obs. 
+1042 
+2372 
+527 
+1550 
+1822 
+Pred. 
+974 
+1951 
+553 
+1913 
+2005 
+Rpred./obs. 
+0.93 
+0.82 
+1.05 
+1.23 
+1.10 
+Fraction absorbed 
+Pred. 
+69% 
+99.8% 
+45% 
+99.7% 
+99.8% 
+Reference ID: 4437533
+
+
+===== PAGE 221 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. The preclinical study result (DMPK R0900368) indicated that efflux transporter (BCRP) 
+functionally mediates the transport of alpelisib back to lumen as evidenced by the results 
+that parent drug was identified in the bile (8.66% of the dose) and feces (10.9% of the dose) 
+in the bile duct cannulated rats after iv administration.  
+ 
+2. In addition, double peaks in alpelisib plasma concentration-time profiles were observed in 
+some subjects.  
+ 
+Therefore, the possibility of enterohepatic circulation in alpelisib absorption could not be 
+excluded.   
+ 
+a. Absolute bioavailability prediction 
+ 
+The FDA’s Assessment:  
+The applicant did not intend to use PBPK model to predict the alpelisib absolute bioavailability. 
+The values, 69% and 99% were the estimated fraction absorbed of alpelisib, not the 
+bioavailability under fasted and fed conditions, respectively as stated in PBPK report No. DMPK 
+R1701118, entitled “Oral absorption modeling of BYL719 in GastroPlus”. In addition, the 
+applicant-developed alpelisib model consisted of a 2-compartmental model instead of a PBPK 
+model to characterize alpelisib disposition in the body, while the PBPK model is generally used 
+to enable the bioavailability prediction after incorporating the enzyme and transposer 
+information into the model. 
+ 
+ 
+ 
+Conclusions 
+The alpelisib PBPK absorption model is not adequate to predict the fraction absorbed of 
+alpelisib under fed conditions (low-fat low-calorie [LFLC] or high-fat low-calorie [HFLC]) due to 
+the possibility of enterohepatic circulation involved in alpelisib absorption. 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 4437533
+(b) (4)
+(b) (4)

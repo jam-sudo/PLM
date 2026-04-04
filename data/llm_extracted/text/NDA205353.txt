@@ -1,0 +1,1989 @@
+
+
+===== PAGE 27 =====
+
+5 | P a g e  
+ 
+endpoint. PFS was statistically significantly different between the treatment arms (HR: 0.63 
+[0.52, 0.76]) in favor of the PAN+BTZ+DEX arm. Median PFS was prolonged by 3.9 months 
+(from 8.1 months to 12.0 months) with the addition of PAN to BTZ+DEX. Similarly, in the 
+phase 3 trial D2308, high toxicity was observed in PAN+BTZ+DEX arm as compared to 
+PBO+BTZ+DEX arm. The rate of adverse reactions leading to dose modification or 
+interruption was 89% with PAN versus 76% with PBO respectively. Treatment 
+discontinuation rates due to AEs were 36% in patients treated with PAN compared to 20% 
+in the PBO arm. Death rate was also higher in PAN treated patients (8% versus 5%). 
+Kaplan-Meier Curves of time to AEs also showed that the occurrences of severe event 
+were earlier in PAN+BTZ+DEX group compared to the PBO+BTZ+DEX group. A time to 
+event analysis of AEs by DI quartiles showed a trend across all safety endpoints 
+(thrombocytopenia, diarrhea, anemia, fatigue, neutropenia and hypokalemia) 
+suggesting possible relationship between AEs and higher PAN DI. An increasing risk of 
+thrombocytopenia (all grades and grade 3/4) with increasing PAN DI was identified 
+based on Cox proportional hazards model. 
+During development, administration of PAN by intravenous and oral routes caused a 
+dose-related increase in the QT interval. There was one case of TdP with the 20 mg/m2 
+consecutive intravenous dosing regimen which has been discontinued. In the current 
+NDA submission, the incidence of grade 3 QTc prolongation (QTcF > 500 ms) with 
+intermittent dosing is about 1% with the highest frequency of <5% seen in patients treated 
+with the 60-mg oral dose. The effect of PAN on QT appears to occur hours after Tmax of 
+the parent drug, so the effect is probably not dependent on the concentration of the 
+parent drug. The FDA Interdisciplinary Review Team (QT-IRT) for QT Studies reviewed this 
+information and found that the labeling language related to the QT risk appeared to be 
+adequate in mitigating risk after FARYDAK is approved to be marketed with minor edits. 
+Using a population based approach PAN PK was characterized by a 3-compartment 
+model with data from 581 patients across 14 phase 1/2 studies in solid tumors or 
+hematological malignancies receiving oral or intravenous administration of PAN. Body 
+surface area at baseline, age and race were statistically significant covariates on the 
+clearance and central volume of distribution. However, the extent of these covariate 
+effects were small as compared to the large (~65%) inter-individual variability of PAN and 
+were not deemed sufficient to require a dosing modification.  
+The absolute oral bioavailability of FARYDAK is approximately 21%. Peak concentrations 
+of PAN are observed within 2 hours (Tmax) of oral administration in patients with advanced 
+cancer. FARYDAK exhibits an approximately dose proportional increase in both Cmax and 
+AUC over the dosing range. When given with food, plasma PAN Cmax and AUC0-48 were 
+approximately 44% and 15% lower compared to fasting conditions. The median Tmax was 
+also delayed by 2.5 hours in these patients. The aqueous solubility of PAN is pH 
+dependent, with higher pH resulting in lower solubility. Coadministration of FARYDAK with 
+drugs that elevate the gastric pH was not evaluated in vitro or in a clinical trial; however, 
+altered PAN absorption was not observed in simulations using mechanistic models. 
+PAN has extensive tissue distribution following oral administration. The oral terminal 
+volume of distribution ranged from approximately 6 to 10000 L in clinical trials of single 
+agent FARYDAK where sampling was sufficient to characterize the terminal phase. PAN is 
+approximately 90% bound to human plasma proteins in vitro and is independent of 
+concentration. FARYDAK is a P-gp substrate, but not subject to MRP mediated efflux.  
+PAN undergoes extensive systemic metabolism. Pertinent metabolic pathways involved 
+in the biotransformation of PAN are reduction, hydrolysis, oxidation, and glucuronidation 
+processes. In vitro, PAN is primarily (~40%) metabolized by CYP3A4 and to a lesser extent 
+Reference ID: 3636184
+
+
+===== PAGE 40 =====
+
+18 | P a g e  
+ 
+2.2.5.1 
+What are the single dose and multiple dose PK parameters?  
+Single Agent in Advanced Cancer: 
+The single dose and multiple dose PK of single-agent PAN was evaluated in fourteen 
+phase 1 and 2 trials that enrolled approximately 600 patients following intravenous (2 
+trials) or oral (12 trials) PAN administration.  Dense PK sampling (8-12 samples per profile) 
+was collected in all trials over a 48 hour period with the exception of trials X2101 and 
+X2105, where sampling was over 96 hours, and the phase 2 trials B2201, B2202, B2203, and 
+B221 where a limited sampling strategy was used (≤ 6 samples per profile).  
+Pharmacokinetic parameters were derived from both noncompartmental analyses and 
+a pooled pop-PK approach. 
+The dose escalation trials B2101 and B2102 evaluated single agent PAN following single 
+and multiple oral dosing (i.e., MWF of every week [q.w.]) in adult patients with various 
+solid or hematologic malignancies, respectively.  The derived PK parameters from the 
+noncompartment analysis are reported in Table 5 and Table 6 below.  Based on this 
+information and a visual inspection of the time concentration profiles (See Appendix 
+Section 4.1, Figure 18 ) PAN PK appears to follow a linear process, although limited data 
+are available at doses at or above 45 mg.  
+Since the noncompartmental approach used to assesses the PK of PAN was limited by 
+the ≤ 48 hour sampling period and  unlikely to have captured the complete terminal 
+elimination phase, information from trials B2101 and B2102 should only be used to assess 
+absorption (i.e., maximum concentration [Cmax] and Time to Cmax [Tmax]) and dose 
+proportionality rather than draw conclusions regarding half-life (T1/2), area under the 
+curve (AUC) to infinity, oral clearance (CL/F), and oral volume of distribution (Vz/F). 
+Table 5: Arithmetic mean (CV%) of PAN PK parameters following a single oral dose on 
+Day 1 using all schedules in trials B2101 and B2102 
+PK 
+Parameter 
+Trial 
+Dose
+15 mg 
+20 mg
+30 mg
+40 mg
+45 mg
+60 mg 
+80 mg
+N 
+2101 
+3 
+36
+31
+NA
+17
+4 
+NA
+2102 
+NA 
+9
+18
+24
+15
+53 
+18
+Cmax (ng/mL) 
+2101 
+12.2 (65%) 
+23.6 (57%)
+34.0 (56%)
+NA
+48.6 (79%)
+55.4 (40%) 
+NA
+2102 
+NA 
+19.5 (61%)
+39.8 (69%)
+58 (59%)
+54 (53%)
+66.9 (70%) 
+63.5 (58%)
+^Tmax (hr) 
+2101 
+1 (0.5-2) 
+1 (0.5-4.5)
+1 (0.5-8)
+1 (0.5-4)
+2 (1-3) 
+NA
+2102 
+NA 
+2.1 (0.5-3.1)
+1 (0.5-28)
+0.8 (0.5-3.1)
+1 (0.5-1.1)
+1 (0.5-45.7) 
+1 (0.5-6)
+AUC0-inf (ng*h/mL) 
+2101 
+NA 
+209.2 (57%)
+264.4 (57%)
+NA
+372.4 (33%)
+454.0 (35%) 
+NA
+2102 
+NA 
+145 (59%)
+272 (52%)
+329 (77%)
+290 (41%)
+356 (64%) 
+397 (49%)
+AUC0-48h (ng*h/mL) 
+2101 
+NA 
+198.1 (48%)
+261.5 (49%)
+NA
+362.7 (39%)
+390.3 (28%) 
+NA
+2102 
+NA 
+131 (58%)
+310 (117%)
+299 (76%)
+249 (44%)
+330 (62%) 
+342 (54%)
+CL/F (L/h) 
+2101 
+NA 
+133.5 (60%)
+135.8 (44%)
+NA
+130.9 (28%)
+142.0 (30%) 
+NA
+2102 
+NA 
+180 (49%)
+158 (72%)
+201 (77%)
+179 (38%)
+240 (58%) 
+246 (50%)
+T1/2 (h) 
+2101 
+NA 
+12.4 (36%)
+13.4 (36%)
+NA
+15.2 (18%)
+16.8 (13%) 
+NA
+2102 
+NA 
+14 (48%)
+18 (30%)
+14 (24%)
+20 (59%)
+15 (27%) 
+15 (18%)
+Vz/F (L) 
+2101 
+NA 
+2160 (52%)
+2581 (54%)
+NA
+2880 (34%)
+3342 (19%) 
+NA
+2102 
+NA 
+3109 (37%)
+3324 (61%)
+3604 (58%)
+4272 (53%)
+5062 (53%) 
+5402 (63%)
+^Values are median (range) for Tmax, and arithmetic mean (CV%) for all other parameters. NA: not available when CV% is determined < 3 patients
+Source: Applicant’s final trial reports for trials B2101 and B2102 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 3636184
+
+
+===== PAGE 41 =====
+
+19 | P a g e  
+ 
+Table 6: Arithmetic mean (CV%) of PAN PK parameters following multiple oral doses 
+(MWF q.w.) on Day 15 in in trials B2101 and B2102   
+PK Parameters 
+Trail 
+PAN Dose MWF q.w.
+15 mg 
+20 mg
+30 mg
+40 mg
+60 mg 
+80 mg
+N 
+B2101 
+3 
+18
+4
+NA
+NA 
+NA
+B2102 
+NA 
+8
+12
+22
+17 
+4
+Cmax (ng/mL) 
+B2101 
+13.2 (58%)
+28.8 (62%)
+17.3 (61%)
+NA
+NA 
+NA
+B2102 
+NA 
+33.6 (49%)
+38.4 (61%)
+41.6 (88%)
+51.8 (56%) 
+69.6 (39%)
+^Tmax (h) 
+B2101 
+1 (1 – 2) 
+1 (0.5 – 3)
+2.1 (1 – 4)
+NA
+NA 
+NA
+B2102 
+NA 
+1 (0.5-2.1)
+2 (0.7-4.0)
+1.1 (0.5-4.0)
+1.1 (0.5-6.0) 
+1.5 (0.7-2.0)
+AUC0-inf(ng*h/mL) 
+B2101 
+285.0 (n/a)
+280.0 (51%)
+328.0 (23%)
+NA
+NA 
+NA
+B2102 
+NA 
+193 (50%)
+333 (69%)
+373 (50%)
+349 (49%) 
+365 (65%)
+AUC0-48h (ng*h/mL) 
+B2101 
+148.7 (48%)
+263.8 (56%)
+235.0 (62%)
+NA
+NA 
+NA
+B2102 
+NA 
+245 (87%)
+280 (59%)
+271 (59%)
+306 (50%) 
+369 (52%)
+CL/F (L/h) 
+B2101 
+53 (n/a) 
+86.4 (46%)
+94.7 (23%)
+NA
+NA 
+NA
+B2102 
+NA 
+124 (41%)
+148 (86%)
+150 (76%)
+213 (45%) 
+331 (83%)
+T1/2 (h) 
+B2101 
+23.4 (n/a)
+15.5 (26%)
+13.2 (4.6%)
+NA
+NA 
+NA
+B2102 
+NA 
+20 (35%)
+20 (31%)
+21 (41%)
+18 (26%) 
+18 (50%)
+Vz/F (L) 
+B2101 
+1779 (n/a)
+1789 (30%)
+1807 (26%)
+NA
+NA 
+NA
+B2102 
+NA 
+3230 (52%)
+3098 (73%)
+3303 (55%)
+5283 (47%) 
+6087 (20%)
+^Values are median (range) for Tmax, and arithmetic mean (CV%) for all other parameters. NA: not available when CV% is determined < 3 patients
+Source: Applicant’s final trial reports for trials B2101 and B2102 
+To evaluate half-life (T1/2), area under the curve (AUC) to infinity, oral clearance (CL/F), 
+and oral volume of distribution (Vz/F), information from the normal groups of the hepatic 
+(B2101) and renal (B2105) impairment trials was used since PK sampling was conducted 
+over 96 hours following a single oral 30 mg PAN dose administered in patients with 
+advanced solid tumors. Plasma samples for PAN and its metabolite BJB432 were 
+collected under the dense sampling scheme described above. The derived PK exposure 
+parameters for PAN and its metabolite BJB432 from the noncompartment analysis of 
+these trial data are reported in Table 7 below. BJB432 is a reductive metabolite of PAN 
+that, as described in Section 2.2.4.4, inhibits hERG potassium channel activity, but is not 
+pharmacologically active vis-a-vis HDAC inhibition. 
+Table 7: Summary of arithmetic mean (CV%) PAN and BJB432 plasma PK 
+parameters following a single oral 30 mg PAN dose administered in patients with 
+advanced solid tumors in trials X2101 and X2105 
+PK Parameter 
+PAN 
+BJB432 
+X2101 
+X2105 
+X2101 
+X2105 
+n 
+10 
+11 
+10 
+11 
+Tmax (h)^ 
+2.0 (0.5-7.0) 
+1.02 (0.5; 4.0) 
+24.0 (2.0; 48.0) 
+4.08 (1.0; 48.0) 
+Cmax (ng/mL) 
+23.2 (74.2) 
+41.0 (69.0) 
+4.0 (132.2) 
+2.60 (50.1) 
+AUC0-48 (ng*h/mL) 
+146.2 (53.1) 
+225.2 (45.6) 
+NR 
+86.5 (64.3) 
+AUC0-96 (ng*h/mL) 
+165.7 (53.0) 
+253.9 (46.5) 
+NR 
+140.7 (71.9) 
+AUClast (ng*h/mL) 
+165.5 (53.3) 
+253.4 (46.9) 
+218.0 (138.2) 
+140.6 (72.1) 
+AUC0-inf (ng*h/mL) 
+176.5 (53.0) 
+275.2 (47.6) 
+291.3 (136.0) 
+208.9 (85.2) 
+CL/F (L/h) 
+247.0 (80.1) 
+210.0 (144.1) 
+211 (61.0) 
+317.7 (109.4) 
+Vz/F (L) 
+9318.2 (50.3) 
+6092.8 (43.3) 
+13404 (80.1) 
+16234.4 (71.9) 
+T1/2 (h) 
+29.6 (20.9) 
+32.4 (39.6) 
+46.0 (62.6) 
+46.9 (35.0) 
+^Values are median (range) for Tmax, and arithmetic mean (CV%) for all other parameters. NA: not available when CV% is determined < 3 patients
+Source: Applicant’s final trial reports for trials X2101 and X2105 
+Single Agent in MM: 
+The PK of PAN and its metabolite BJB432 was assessed as a single agent in the treatment 
+of MM in trials B2203 and B2207. Trial B2203 was a phase 2, open-label trial where oral 
+PAN was administered at 20 mg TIW, every week in adult patients with MM who had 
+received at least two prior lines of therapy (including BTZ or lenalidomide) and whose 
+disease was refractory to the most recent line of therapy. Plasma samples for PAN and its 
+metabolite BJB432 were collected under the limited sampling scheme described above 
+Reference ID: 3636184
+
+
+===== PAGE 42 =====
+
+20 | P a g e  
+ 
+on Days 1 and 8 during the first treatment cycle.  The derived PK exposure parameters for 
+PAN and its metabolite BJB432 from the noncompartment analysis are reported in Table 
+8 below.  Since the last available sampling time, around 24 hours post-dose, these 
+findings are not sufficient to adequately characterize the terminal phase PK parameters 
+(i.e., T1/2, AUC to infinity, CL/F, Vz/F) and were not reported.   
+Table 8: Arithmetic mean (CV%) of PAN and BJB432 PK exposure parameters on Days 1 
+and 8 following oral administration of PAN 20 mg three times weekly (TIW), every week in 
+adult patients with MM (trial B2203) 
+Substance 
+Day 
+Tmax (hr)^ 
+Cmax (ng/mL) 
+AUC0-24 (ng*hr/ml) 
+PAN 
+1 
+1.7 [0.2, 5.2] 
+7.6 (72.6) 
+72.0 (50.1) 
+n=27 
+n=27 
+n=27 
+8 
+1.2 [0.2; 23.7] 
+9.7 (67.2) 
+81.6 (46) 
+n=22 
+n=22 
+n=21 
+BJB432 
+1 
+24 [1.7; 47.5] 
+0.9 (57.9) 
+15.2 (55.2) 
+n=27 
+n=27 
+n=27 
+8 
+22.2 [0.8; 26.2] 
+1.8 (52.4) 
+32.5 (54.4) 
+n=21 
+n=21 
+n=13 
+^Values are median (range) for Tmax, and arithmetic mean (CV%) for all other parameters. NA: not available when CV% is determined < 3 patients
+Source: Applicant’s final trial reports for trials B2203  
+Trial B2207 was a phase Ib trial which evaluated several dosing regimens of orally 
+administered PAN alone and in combination with intravenous BTZ, with and without oral 
+DEX in 62 adult patients with MM whose disease had relapsed, as well as patients with 
+relapsed-and refractory MM, following at least one prior line of therapy, and who were 
+suitable for treatment (or re-treatment) with BTZ. In the dose escalation phase FARYDAK 
+was administered at escalating doses for three days per week every week (i.e., Days 1, 3, 
+5, 8, 10, 12, 15, 17, 19 in a 21 day cycle) and BTZ was administered at escalating doses 
+twice weekly for two weeks (i.e., Days 1, 4, 8 and 11) followed by a 10-day treatment 
+holiday (Days 12-21). Plasma samples for PAN were collected under the dense sampling 
+scheme described above on Cycle 1 Days 8, 9, 10 and Cycle 1 Days 15, 16, 17.  The 
+derived PAN PK parameters for PAN from the noncompartmental analysis are reported in 
+Table 9 below.  Additional exposure information for other PAN doses studied in trial B2207 
+can be found in Appendix Section 4.1, Table 32. 
+Table 9: Arithmetic mean (CV%) of PAN PK parameters on day 15 
+following oral administration of PAN 20 mg three times weekly (TIW), every 
+week in adult patients with MM (trial B2207) 
+Parameter 
+PAN 20 mg + 
+BTZ 1.0 mg/m2 
+PAN 20 mg + 
+BTZ 1.3 mg/m2 
+n 
+4 
+14 
+AUC(0-48) (ng.h/mL) 
+82.6 (61.4) 
+91.9 (91.9) 
+Cmax (ng/mL) 
+7.6 (50.6) 
+12.2 (103.3) 
+Tmax (h)^ 
+2.0 [1.0;3.9] 
+1.8 [0.5;3.0] 
+T1/2 (h) 
+14.4 (56.7) 
+14.1 (62.3) 
+CL/F (L/h) 
+191.9 (74.5) 
+193.3 (103.7) 
+Vz/F (L) 
+3989.3 (105.9) 
+3930.0 (56.6) 
+^Values are median (range) for Tmax, and arithmetic mean (CV%) for all other parameters. NA: not available when CV% is determined < 3 patients
+Source: Applicant’s final trial reports for trials B2207 
+A final determination regarding a possible disease effect could not be definitively made 
+from the noncompartmental analysis because the sampling differences and the high 
+variability did not permit a direct comparison between trials B2102, B2203, and B2207. 
+However, a visual comparison of the exposure data does appear to show some overlap 
+(Figure 6).     
+Reference ID: 3636184
+
+
+===== PAGE 43 =====
+
+21 | P a g e  
+ 
+PK sampling was collected on day 8 in trial B2203 and 15 for trial B2102 and B2207
+In trial B2207 PAN single agent PK sampling collected was following a 7 day washout of Bortezomib (BTZ) which was administered in combination with PAN 
+Source: Applicant’s final trial reports and PKPARM datasets for trials B2207, B2203 and B2102
+Figure 6: Comparison of Geometric Mean (range) PAN exposure following multiple 
+dosing in patients with hematologic malignancies (B2102) or multiple melanoma (B2203 
+and B2207) 
+To address the limitations of the noncompartmental approach to assessing the single 
+agent PK of PAN in the submitted phase 1 and 2 trials that were limited by the ≤ 48 hour 
+sampling period the applicant also conducted a pop-PK analysis with data from a 
+combined analysis of eight phase 1 trials (B1101, B2102, A2101, A2102, B2101, B2109, 
+B2110 and B2111) and six phase 2 trials (B2201, B2202, B2203, B2211, B1201 and E2214).  It 
+is unclear why the PK information from the “normal” groups from trials B2101 and B2105 
+and the “PAN alone” sampling from the dose escalation phase of trial B2207 were not 
+included in the model. The pop-PK model was based on 7834 observations in 581 
+patients receiving either intravenous (1.2 to 20 mg/m2) or oral doses of single-agent PAN 
+(10 to 80 mg TIW) with either solid or hematological tumors from 14 phase 1 or 2 clinical 
+studies.  
+Using this model the PK of PAN was characterized with a 3-compartment model that 
+suggested that PAN is linear in the dose range tested. The absolute bioavailability for the 
+FMI oral formulation was estimated to be 21%. Terminal elimination half-life was 
+approximately 37 hours, and average effective half-life based on rate of accumulation 
+was 16 hours. Systemic clearance (CL) was 33 L/hour and CL/F was approximately 160 
+L/hour, with a large inter-subject variability on clearance of 65%. The central volume of 
+distribution was 24.8 liters. The estimates for clearance and half-life are similar to that 
+reported for PAN PK sampling collected over 96 hours and analyzed using 
+noncompartmental methods (see Table 7). A disease effect was also not noted in the 
+pop-PK analysis which is consistent with the visual analysis of the noncompartmental 
+findings (see Figure 6). Because of the limitations with the noncompartmental analysis 
+described above, the pop-PK estimates for PK parameters for PAN should be used in 
+labeling.  
+Combination Agent in MM: 
+Under the proposed indication, FARYDAK  therapy is to be combined with both BTZ and 
+DEX (see Section 2.1.3).  The PK of this combination was described in the expansion 
+phase of trial 2207 that is described above.  In the expansion phase patients received 20 
+mg FARYDAK TIW with a 2 weeks on/1 week off schedule, with 1.3 mg/m2 BTZ on D1, D4, 
+D8 and D11 + 20 mg DEX on each day of and day after BTZ dosing in a 3 week cycle 
+allowing a treatment holiday of 1 week for all drugs for 8 cycles of BTZ/DEX, and PAN 
+continued thereafter until progression.  PAN PK samples were collected on Cycle 1 Day 8 
+Reference ID: 3636184
+
+
+===== PAGE 44 =====
+
+22 | P a g e  
+ 
+and Cycle 2 Day 8 using a 28 hour dense sampling schedule. The derived PAN PK 
+parameters for the full combination (i.e., cycle 2) are described in Table 10 below. 
+Additional exposure information for other PAN+BTZ doses studied in trial B2207 can be 
+found in Appendix Section 4.1, Table 32. Since the last available PK sampling time, 
+around 28 hours post-dose, is not sufficient to adequately characterize the terminal 
+phase, additional PAN PK parameters (i.e., T1/2, AUC to infinity, CL/F, Vz/F) from this trial 
+analysis are not considered reliable and should not be reported in labeling.   
+Table 10: Arithmetic mean (CV%) of PAN PK 
+parameters following a PAN + BTZ + DEX 
+combination regimen on cycle 2 day 8 in trial 
+2207 
+PK Parameter (unit) 
+ 
+PAN 20 mg (2 weeks on/ 1 week off) 
++ BTZ 1.3 mg/m2 + DEX 20 mg 
+n 
+12 
+AUC(0-24) (ng.h/mL) 
+47.5 (76.8) 
+Cmax (ng/mL) 
+8.1 (90.3) 
+Tmax (h)^ 
+1.0 [0.5;6.3] 
+T1/2 (h) 
+15.9 (29.2) 
+CL/F (L/h) 
+285.2 (79.4) 
+Vz/F (L) 
+6539.0 (81.0) 
+^Values are median (range) for Tmax, and arithmetic mean (CV%) for all other parameters. NA: not available 
+when CV% is determined < 3 patients
+Source: Applicant’s final trial reports for trials B2207
+2.2.5.2 
+How does the PK of the drug and its major active metabolites in healthy 
+volunteers compare to that in patients? 
+PAN has not been evaluated in healthy volunteer subjects because of the observed 
+genotoxicity in preclinical mutagenicity and COMET (a single cell gel electrophoresis 
+assay to detect DNA damage) assays. 
+2.2.5.3 
+What are the characteristics of drug absorption?  
+The mass balance (ADME) trial B2108 reports that the extent of PAN absorption following 
+oral administration of [14C]-PAN is ≥ 87% of radioactivity associated with PAN and its 
+metabolites recovered in excreta. Unchanged PAN in the feces accounted for <3.5% of 
+the administered dose which further suggests absorption.  
+The absolute bioavailability of the clinical service formulation (CSF) and final market 
+image (FMI) of PAN, defined as the geometric mean ratio (GMR) between intravenous (2 
+trials) and oral (8 trials) AUCinf values, was estimated to be approximately 28% by a cross 
+trial assessment of the GMR from a noncompartmental assessment of dense PK sampling 
+and approximately 21% based on a pop-PK approach which included the dense PK 
+sampling as well as additional trough samples.  Since it is unlikely that the 48 hour dense 
+sampling period captured the complete terminal elimination phase, the pop-PK estimate 
+should be used in labeling. 
+PAN is a P-gp substrate (Km >100 μM), but not subject to MRP mediated efflux. The Peff 
+under LY335979 inhibition at a concentration of either 5.0 μM or 23 μM was measured to 
+be ~35 ×10-5 cm·min-1 which suggests that PAN is a highly permeable compound. Due to 
+the high permeability of PAN and likely saturation of transporters at commonly 
+administered oral doses of PAN, it is not expected that P-gp would affect absorption of 
+PAN from the intestinal tract. This hypothesis is strengthened by the findings of a patient 
+with a hepatico-jejunostomy in the ADME trial B2108 where PAN absorption, based on 
+exposure, did not appear altered substantially.  This procedure can result in a reduction 
+Reference ID: 3636184
+
+
+===== PAGE 45 =====
+
+23 | P a g e  
+ 
+in the functional length of the gastrointestinal tract which could affect any P-gp 
+mediated absorption of PAN.    
+The solubility determination of PAN (also known as LBH589) was assessed in 250 mL of 
+aqueous media across a pH range of 1.2 to 7.6 and the results are presented in Table 11. 
+These results suggest that PAN has non-linear solubility with strong dependence pH. 
+Particularly, the solubility in 250 ml of pH 7.6 phosphate buffer is less (~16 mg) than the 
+highest dose strength of 20 mg. In order to determine whether pH modifying agents 
+could influence the absorption of PAN, the applicant provided PBPK simulations 
+suggesting that elevating stomach pH does not influence oral absorption of Pan (See 
+Appendix Section 4.2.2), also see Figure 7.  This model also appears to qualitatively 
+describe the effect of food on Tmax and Cmax of PAN observed in a dedicated clinical trial 
+(see Section 2.5.3). 
+Table 11: Solubility of LBH589 (PAN) lactate, anhydrous drug substance at 37.0°C (+/- 0.5°C), 
+batch 0724011 
+Solution / buffer 
+Approximate solubility in mg/mL of 
+solution at 37°C (±0.5°C) 
+Corresponding maximum amount 
+of drug soluble in                  
+250 ml of solution (in mg) 
+Water 
+4.775 
+1194 
+pH 1.2 (HCl) 
+1.017 
+254 
+pH 2.0 (HCl) 
+1.256 
+314 
+pH 4.5 (acetate) 
+4.771 
+1193 
+pH 6.0 (phosphate) 
+3.845 
+961 
+pH 6.8 (phosphate, simulated intestinal fluid) 
+0.261 
+65 
+pH 7.6 (phosphate) 
+0.064 
+16 
+Source: Applicant’s CMC Drug Substance General properties reports
+ 
+Source: Applicant’s final reports  “ACAT absorption model for LBH589 in humans and the assessment of varying stomach pH on LBH589 
+absorption in humans” 
+Figure 7: Projected absorption of 20 mg PAN vs. stomach pH 
+in humans 
+2.2.5.4 
+What are the characteristics of drug distribution?  
+In vitro, PAN is 89.6% bound to plasma proteins (88.2% in human serum). In study 
+R0200414, the mean percent bound of PAN to human plasma proteins was 90.7%, 89.7%, 
+92.5%, 89.5%, and 86.8% at 0.1, 0.5, 1, 10, and 100 μg/mL, respectively. Therefore, PAN 
+protein binding is independent of concentration over the 0.1 to 100 μg/mL range 
+Reference ID: 3636184
+
+
+===== PAGE 46 =====
+
+24 | P a g e  
+ 
+studied. These findings are acceptable and the potential risk of a drug-protein 
+interaction does not warrant additional in vivo trials.  The fraction of PAN in the 
+erythrocyte is 0.60 in vitro and is also independent of concentrations over the range 
+assessed (0.1 to 100 μg/mL). 
+Plasma protein binding of PAN was also assessed in patients with normal and impaired 
+hepatic and renal function in studies X2101 and X2105, respectively. The mean percent 
+bound of PAN to human serum proteins averaged 84.1%, 83.9%, and 76.5% in patients 
+with normal, mild, and moderate hepatic impairment, respectively (see Section 2.3.2.7). 
+Similarly, the renal impairment trial reports the mean percent bound of PAN to human 
+serum proteins averaged 87.7%, 83.3%, 84.9%, and 86.4% in patients with normal, mild, 
+moderate, and severe renal impairment, respectively (see Section 2.3.2.6). 
+In the normal group of the special population trials X2101 and X2105, where PK sampling 
+was collected over 96 hours the mean (%CV) terminal volume of distribution (Vz/F) of 
+single agent PAN from the noncompartmental analysis was 9318.2 (50.3) and 6092.8 
+(43.3) liters, respectively (see Table 7).  This finding was consistent with the median 
+(range) Vz/F estimate of 9464 (5178; 9867) liters from the ADME trial B2108 and suggests 
+extensive tissue distribution.  The central volume of distribution reported from the pop-PK 
+analysis of PAN single agent was 24.8 liters. 
+In vitro studies suggest that the substantial P-gp mediated efflux ratios for PAN (see 
+Section 2.2.5.3) may hypothetically limit its exposure in tissues that are protected by high 
+levels of P-gp expression such as the brain and testis, but this has not been evaluated 
+clinically. 
+2.2.5.5 
+Does the mass balance trial suggest renal or hepatic as the major route of 
+elimination?  
+The ADME of single agent PAN was assessed in a phase I, open-label trial using a single 
+oral 20 mg dose of [14C]-PAN (50 μCi) in four advanced cancer patients. Plasma, urine, 
+and fecal samples were collected over 168 hours for PAN and metabolic profiling. The 
+disposition of PAN was described by a relatively fast absorption followed by a biphasic 
+elimination phase. Mass balance was achieved in this trial with ≥ 87% of the administered 
+radioactivity being recovered in the excreta of all four patients after 7 days (see Table 
+12). Multiple metabolites contributed to the circulating drug-related material in plasma 
+at levels comparable to or greater than unchanged PAN. The plasma exposure of 
+BJB432, based on a comparison of AUC0-last, ranged from 25 to 97% of the exposure to 
+PAN. 
+Overall a median (range) of 48% (44 – 77%) of the dose was recovered in the feces and 
+41% (29 – 51%) of the dose was recovered in the urine (see Table 12). The metabolite 
+BJB432 represented 1.47 to 22.5% and 0.24 to 1.24% of the PAN dose in feces and urine, 
+respectively. The elimination of PAN was primarily in the form of metabolites with 
+unchanged PAN in feces and urine accounting for median (range) of 0 (0 – 3.3%) and 
+2% (1.1 – 2.4%) of dose, respectively. The disposition of a single 20 mg dose of [14C]-PAN in 
+patients was found to be variable, in particular with regard to the routes of elimination.  
+ 
+ 
+ 
+ 
+ 
+Reference ID: 3636184
+
+
+===== PAGE 48 =====
+
+26 | P a g e  
+ 
+ketoconazole drug interaction trial (B2110), the fraction metabolized through CYP P450 
+3A accounts for approximately 40% of PAN elimination with additional minor 
+contributions from CYP2D6 and 2C19 also reported in vitro.  In vitro, UGT1A1, UGT1A3, 
+UGT1A7, UGT1A8, UGT1A9, and UGT2B4 contribute to the glucuronidation of PAN. The 
+relative contribution of each UGT enzyme was not explored. 
+ 
+Source: Applicant’s final trial report for trial B2108
+Figure 8: Primary PAN metabolic scheme 
+2.2.5.7 
+What are the characteristics of drug excretion? 
+As described in detail on Section 2.2.5.5, approximately 44-77% and 29-51% of an oral 
+PAN dose was recovered in the feces and urine from four patients studied in the ADME 
+trial B2108, respectively. In the normal group of the special population trials X2101 and 
+X2105, where PK sampling was collected over 96 hours the mean (%CV) oral plasma 
+clearance (CL/F) of single agent PAN from the noncompartmental analysis was 247.0 
+(80.1) and 210.0 (144.1) L/hr, respectively (see Table 7).  Despite the high variability, this 
+finding was consistent with the median (range) CL/F estimate of 209 (114; 248) L/hr from 
+patients studied in trial B2108. The pop-PK model reported a PAN systemic clearance (CL) 
+of 33 L/hour and CL/F of approximately 160 L/hr, with a large inter-subject variability on 
+clearance of 65%.  The mean (%CV) renal clearance of single agent PAN is estimated to 
+be 1.39 (13.0) mL/hr in patients with normal renal function from the dedicated renal 
+impairment trial X2105. 
+2.2.5.8 
+Based on PK parameters, what is the degree of linearity or nonlinearity in the 
+dose-concentration relationship? 
+A cross trial visual inspection of dose normalized PAN Cmax and AUC0-48 following single 
+dose and multiple dose single agent oral PAN administration in trials B2101 and B2102 
+implies dose proportionality across the dosage range tested (Figure 9).  A similar finding 
+was observed from a visual inspection of the respective time versus concentration plots 
+(See Appendix Section 4.1, Figure 18). 
+ 
+Reference ID: 3636184
+
+
+===== PAGE 50 =====
+
+28 | P a g e  
+ 
+absorption, given the relatively low intra-patient variability when PAN was administered 
+intravenously (Table 13), and the multiple comorbidities in this cancer population. 
+Table 13: Reported inter- and inter-patient variability from the 
+applicants pooled analysis of single agent PAN dose trials 
+Route 
+PK Parameter 
+Variability 
+Inter-patienta 
+Intra-patientb 
+Intravenous 
+Cmax 
+NR 
+34% 
+AUC0-inf 
+39% 
+17% 
+Oral 
+Cmax 
+80% 
+52% 
+AUC0-inf 
+66% 
+38% 
+a=pooled trials B1101, B2101, B2102, B2109, B2110, B2111 X2101, X2105
+b=pooled trials B1101, B2101, B2102 
+NR= not reported 
+Source: Derived from applicant’s clinical pharmacology summary appendix 1
+2.3 
+Intrinsic Factors 
+2.3.1 
+What intrinsic factors influence exposure and/or response, and what is the impact 
+of any differences in exposure on efficacy or safety responses? 
+Results from a pop-PK analysis and two dedicated organ dysfunction trials suggest that 
+age, body surface area (BSA), hepatic dysfunction, and possibly Japanese race may 
+influence PAN exposure. Of these, the magnitude of the effect of hepatic impairment on 
+exposure requires a dose modification to match exposure in patients with normal 
+hepatic function (see Section 2.3.2.7). A semi-mechanistic indirect PK-PD model reports 
+that there is a dose and schedule dependent relationship between single agent PAN 
+exposure and thrombocytopenia.  Considering the risk of overlapping toxicities with BTZ, 
+the risk of thrombocytopenia may be even greater with combination therapy.  The 
+exposure-safety of other risk parameters is not known.  
+2.3.2 
+Based upon what is known about exposure-response relationships and their 
+variability and the groups studied, healthy volunteers vs. patients vs. specific 
+populations (examples shown below), what dosage regimen adjustments, if any, 
+are recommended for each of these groups?  
+Given the ADME profile of single agent PAN combined with the less than optimal 
+exposure results from trial X2101due to high variability (see Section 2.3.2.7) and the 
+exposure and safety profile of FARYDAK, a dose modification is recommended for 
+patients with mild to moderate hepatic impairment to match exposure to patients with 
+normal hepatic function.  Because the selected dose for the general population was 
+found unacceptable we are we cannot recommend a dose for special population 
+without a reference dose. 
+2.3.2.1 
+Elderly  
+The pop-PK analysis reported that younger patients with a median age of 30 years are 
+predicted to have 12% slower clearance and 25% lower central volume of distribution 
+than patients with a median age of 61 years old. In addition, patients at age 80 are 
+predicted to have 5% faster PAN clearance than patients 61 years old. The age effect 
+did not appear to be confounded by the BSA effect. Based on these findings it is unlikely 
+that older patients are at risk of having a potential higher systemic exposure that would 
+require a dose modification. 
+ 
+Reference ID: 3636184
+
+
+===== PAGE 51 =====
+
+29 | P a g e  
+ 
+2.3.2.2 
+Pediatric patients  
+The expected exposure and PK in pediatrics is not known.  Given this is an orphan drug it 
+is excluded from PREA requirements. 
+2.3.2.3 
+Gender 
+The pop-PK analysis of single agent PAN showed no effect by gender on PAN clearance. 
+2.3.2.4 
+Body Weight and BSA 
+In the BSA range studied, approximately 95% of patients had BSA between 1.5 m2 and 
+2.5 m2. The pop-PK model predicts that a patient with a BSA of 1.5 m2 would have a 21% 
+lower clearance and a 27% lower central volume compared to that of a typical patient 
+(BSA of 1.9 m2), and a patient with a BSA of 2.5 m2 would have a 32% higher clearance 
+and a 45% higher central volume compared to that of a typical patient. However, due 
+to magnitude of these effects as compared to the unexplained inter-patient variation of 
+clearance (65%) and volume (58%), the BSA effect on systemic exposure is unlikely to 
+require a dose modification or a weight based dosing scheme. 
+2.3.2.5 
+Race 
+PAN PK has been characterized mainly in Caucasians, with limited data from Japanese 
+patients following PAN administration as a single agent (i.e., Trial B1101) and combination 
+therapy (i.e., trial D2308).  Following multiple dosing of single agent PAN 20 mg TIW every 
+week in six Japanese patients with advanced solid tumors or cutaneous T-cell lymphoma 
+(CTCL), a trend suggesting a lower exposure in these patients compared to Caucasian 
+patients receiving the same dose was apparent (see Figure 10). However, the small 
+sample size and high inter-individual variability not allow for a robust comparison.  
+PK sampling was collected on day 15  
+Source: Applicant’s final trial reports and PKPARM datasets for trials B1101, B2201 and B2102
+Figure 10: Comparison of Geometric Mean (range) PAN exposure following multiple dosing 
+in Japanese  (B1101) or Caucasian (B2101 and B2102) patients with solid or hematologic 
+malignancies 
+The pop-PK analysis reported a statistically significant covariate effect of race on 
+clearance and central volume of distribution. An Asian patient with a BSA of 1.90 m2 
+would have a 17% higher clearance and a 37% higher central volume compare to that 
+of a typical Caucasian patient. However, for a typical Asian patient with a BSA of 1.7 m2, 
+this translates into an increase of only 4.7% and 17.7%, respectively. Again the magnitude 
+of effect is small as compared to the unexplained inter-patient variation of clearance. 
+Therefore the race effect on systemic exposure not considered clinically relevant. 
+Reference ID: 3636184
+
+
+===== PAGE 54 =====
+
+32 | P a g e  
+ 
+Table 15: Adjusted Geometric mean ratios for exposure parameters in trial X2105   
+PK Parameter 
+(unit) 
+Normal 
+(N=11) 
+Mild 
+(N=10) 
+Moderate 
+(N=10) 
+Severe 
+(N=6) 
+Adj GM 
+Adj GM 
+GMR 
+Adj 
+GM 
+GMR 
+Adj GM 
+GMR 
+Tmax (h) 
+1.02 
+1 
+-0.01 
+[-0.97; 0.50] 
+1 
+-0.02  
+[-.97; 0.50] 
+0.75 
+-0.01  
+[-1.18; 0.50] 
+Cmax (ng/mL) 
+29.59 
+18.34 
+0.62  
+[0.33;1.16] 
+32.79 
+1.11  
+[0.56; 2.19] 
+14.18 
+0.48  
+[0.23 0.1] 
+AUC0-inf 
+(ng*h/mL) 
+217.85 
+145.14 
+0.666  
+[0.39; 1.15] 
+227.95 
+1.05 
+[0.58; 1.89] 
+133.61 
+0.61 
+[0.33 1.16] 
+Adj GM= Geometric mean adjusted for baseline age and BSA in a linear mixed model analysis
+GMR = Adjusted Geometric mean ratio [90% confidence interval] 
+Source: Applicant’s final trial report for trial X2105
+BJB432 plasma exposure (geometric mean AUC0-inf) values were 144.6, 117.4, 251.0 and 
+158.0 ng·hr/mL in the normal renal function and in the mild, moderate and severe renal 
+impairment groups, respectively with large variability (%CV geo-mean 69-138). 
+Geometric mean ratio of AUC0-inf of BJB432 over the parent compound (PAN) was 0.64 in 
+patients with normal renal function and 0.81, 1.13 and 1.20 in patients with mild, 
+moderate and severe renal dysfunction, respectively. There were no cases of QTcF 
+prolongation (absolute QTcF >480 ms, relative QTcF >60 ms). 
+2.3.2.7 
+Hepatic impairment 
+As described in Section 2.2.5.5, the ADME trial B2108 reports that the hepatic elimination 
+of PAN is approximately half of the total elimination. Metabolism is the primary route of 
+hepatic elimination leading to a biliary/fecal elimination of 0 to 3.3% as parent 
+compound and 1.5 to 22.5% of the dose as the metabolite BJB432.  To confirm this, the 
+applicant conducted a phase I trial where 30 mg FARYDAK was orally administered in 
+patients with advanced solid tumors and varying degrees of hepatic function. Serial 
+dense blood samples were collected characterize PAN and its metabolite B2108 PK 
+during the core phase in all participating patients. The plasma protein binding of PAN 
+was also assessed. 
+Twenty-five patients received oral FARYDAK (10 patients with normal hepatic function, 8 
+patients with mild hepatic dysfunction, 6 patients with moderate hepatic dysfunction, 
+and 1 patient with severe hepatic dysfunction based upon National Cancer Institute, 
+Cancer Therapy Evaluation Program (NCI-CTEP) criteria) in this trial.  The PK parameters 
+for the normal and hepatic impairment groups studied are reported in Table 16. 
+Pharmacokinetic information from the severe hepatic impairment group is considered 
+indeterminate given the small sample size. The geometric mean AUC0-inf of PAN  was 
+increased by 43%, 105%, and 81%, respectively, in patients with mild, moderate, and 
+severe hepatic impairment.. The geometric mean values of Cmax followed similar pattern. 
+Using Child-Pugh criteria, patients with mild (n=9) or moderate (n=5) hepatic impairment 
+had a AUC0-inf GMR 66% and 78% greater and Cmax GMR 92% and 40% greater than 
+patients with normal hepatic function (n=10), respectively. While the average 
+demographics where similar across groups the intra-patient variability with regard to the 
+significant covariates age and weight were substantial and may have contributed to the 
+high variability noted in the PK parameters. The extensive cancer related comorbidities in 
+this population was also a likely factor.  The applicant attempted to adjust the exposure 
+parameters for weight and age (see Table 17) but this did not impact the interpretation 
+of these data significantly. 
+The average protein binding for patients with normal hepatic function, and with mild and 
+moderate hepatic impairment was 84.1%, 83.9% and 76.5%, respectively. Given the 
+Reference ID: 3636184
+
+
+===== PAGE 55 =====
+
+33 | P a g e  
+ 
+observed variability, it is unlikely that there is a difference in the PAN binding to plasma 
+proteins among the subjects with these different degrees of hepatic impairment that 
+would impact systemic exposure enough to require a dose modification.  The impact of 
+severe hepatic impairment is not known. 
+Table 16: Summary of single agent FARYDAK plasma PK parameters from trial 
+X2101, by hepatic function groupa, following a single 30 mg oral dose of FARYDAK  
+PK Parameter (unit) 
+Normal 
+(N=10) 
+Mild 
+(N=7) 
+Moderate 
+(N=6) 
+Severe 
+(N=1) 
+Tmax (h) 
+2.0 (0.5-7.0) 
+2.0 (0.5-4.0) 
+2.0 (1.0-4.0) 
+2.0 (2.0-2.0) 
+Cmax (ng/mL) 
+18.5 (81.18) 
+29.1 (57.3) 
+33.9 (50.9) 
+31.2 (NE) 
+AUC0-48 (ng*h/mL) 
+125.0 (70.3) 
+183.9 (54.2) 
+249.9 (43.2) 
+235.4 (NE) 
+AUC0-inf (ng*h/mL) 
+150.3 (72.3) 
+214.8 (56.3) 
+308.0 (44.2) 
+272.3 (NE) 
+CL/F (L/h) 
+199.6 (72.3) 
+139.7 (56.3) 
+97.4 (44.2) 
+110.2 (NE) 
+Vz/F (L) 
+8295(54.7) 
+5297 (48.1) 
+4864 (35.1) 
+3157 (NE) 
+T1/2 (h) 
+28.8 (27.3) 
+26.3 (27.6) 
+34.6 (31.5) 
+19.9 (NE) 
+a= NCI-CTEP criteria 
+Source: Applicant’s final trial report for trial X2101 
+ 
+Table 17: Adjusted geometric mean ratios for exposure parameters in trial X2101   
+PK Parameter 
+(unit) 
+Normal 
+(N=10) 
+Mild 
+(N=7) 
+Moderate 
+(N=6) 
+Severe 
+(N=1) 
+Adj GM 
+Adj GM 
+GMR 
+Adj 
+GM 
+GMR 
+Adj GM 
+GMR 
+Tmax (h) 
+2 
+2 
+0 
+[-1.03; 1.03] 
+2 
+0 
+[-.1.00; 1.50] 
+2 
+0 
+[-5.00; 1.50] 
+Cmax (ng/mL) 
+16.29 
+32.35 
+1.99  
+[1.12;1.16] 
+42.20 
+2.59 
+[1.32; 5.07] 
+29.91 
+1.84  
+[0.61; 5.49] 
+AUC0-inf 
+(ng*h/mL) 
+151.63 
+214.58 
+1.42  
+[0.80; 2.51] 
+291.79 
+1.92 
+[0.98; 3.76] 
+272.12 
+1.79 
+[0.60 5.37] 
+Adj GM= Geometric mean adjusted for baseline age and BSA in a linear mixed model analysis
+GMR = Adjusted Geometric mean ratio [90% confidence interval] 
+Source: Applicant’s final trial report for trial X2101
+BJB432 plasma exposure (geometric mean AUC0-inf) values were 183.9, 132.9 and 308.3 
+ng·hr/mL in the normal, mild and moderate liver dysfunction groups, respectively with 
+large variability (%CV 30-100), and 190.2 ng·hr/mL in the single patient with severe liver 
+impairment. The GMR of AUC0-inf of BJB432 over the parent compound (PAN) was 1.2 in 
+patients with normal liver function and 0.62 and 1.0 in patients with mild and moderate 
+liver dysfunction, respectively. There were no cases of QTcF prolongation (absolute QTcF 
+>480 ms, relative QTcF >60 ms). 
+Given the ADME profile of single agent PAN combined with the less than optimal 
+exposure results from trial X2101 and the safety profile of FARYDAK, a dose modification is 
+recommended for patients with mild to moderate hepatic impairment to match 
+exposure to patients with normal hepatic function. FARYDAK doses of 15 and 10 mg in 
+patients with mild and moderate hepatic impairment provide comparable systemic 
+exposure as a 20 mg dose of FARYDAK in patients with normal hepatic function. There is 
+insufficient PK data for patients with severe hepatic impairment in order to make reliable 
+exposure assessment. 
+ 
+Reference ID: 3636184
+
+
+===== PAGE 60 =====
+
+38 | P a g e  
+ 
+1) oral FARYDAK 20 mg was administered once per day, on Days 3, 5, and 8. Oral DM at 
+60 mg was administered on the mornings of Day 1 and Day 8 of Cycle 1 only. On Day 8, 
+the DM dose was administered 1 hour after FARYDAK dose. Dense PK sampling was 
+drawn for PAN on days 3 and 8, DM on days 1 and 8, dextrorphan (DX) on days 1 and 8 
+and the CYP3A-mediated metabolites 3-methoxymorphinan (3-MEM) on days 1 and 8. 
+Prior to drug administration, CYP2D6 genotyping status was obtained from all patients. 
+Seventeen patients (10 male; 7 female) were enrolled in this trial and all completed the 
+Core Phase. The PK parameters for DM and its metabolites following an oral dose of DM 
+at 60 mg (Day 1) and in combination with FARYDAK (Day 3, 5, and 8) in the fourteen 
+enrolled extensive metabolizers are reported in Table 21.  These DM data were extremely 
+variable (CV% >150%) and limited by several patients having DM concentrations >5% of 
+the Cmax on day 8.  The DM alone exposure and intra-subject variability is consistent with 
+reports in the literature.3 4 The reason for this variability in DM exposure is indeterminate, 
+but may in part be related to DM absorption given the lower variability in DM half-life 
+reported.  PAN exposure on day three (i.e., without DM) did not appear to explain this 
+extreme variability in the change in DM exposure on Day 8 (i.e., PAN+DM) as described 
+in Appendix, Section 4.1 Figure 20.  
+Table 21: Geometric Mean (CV%) of Dextromethorphan and its metabolites PK parameters by 
+treatment in extensive metabolizers  
+Parameter 
+Dextromethorphan (DM) 
+Dextrorphan (DX) 
+3-methoxymorphinan (3-MAM) 
+DM 
+DM+PAN 
+DM 
+DM+PAN 
+DM 
+DM+PAN 
+n 
+14 
+14 
+14 
+14 
+10 
+10 
+Cmax (ng/mL) 
+5.1 (272) 
+9.4 (158) 
+476 (46) 
+498.8 (62) 
+0.52 (124) 
+0.53 (118) 
+AUC0-24 (ng.h/mL) 
+50.1 (279) 
+70.7 (210) 
+4712.8 (24) 
+5461.7 (39) 
+14.8 (176) 
+18.3 (111) 
+AUC0-48 (ng.h/mL) 
+61.4 (302) 
+85.6 (245) 
+5537.6 (25) 
+6647.7 (42) 
+NA 
+NA 
+AUC0-inf (ng.h/mL) 
+59.7 (340) 
+73.6 (194) 
+5647 (26) 
+7010.7 (43) 
+NA 
+NA 
+*Tmax(h) 
+2.5 (1-4) 
+1.8 (0.5-3) 
+2.5 (1.5-10.1) 
+3 (1.5-7.0) 
+1.75 (1.1-4) 
+3 (0-23) 
+T1/2 (h) 
+11.4 (39) 
+11 (55) 
+8.3 (52) 
+8.8 (52) 
+22.0 (105) 
+19.1 (100) 
+*MR 
+0.012 (0.001-0.164) 
+0.008 (0.002-0.226) 
+NA 
+NA 
+NA 
+NA 
+NA= not applicable; MR= metabolic ratio (DM/DX); PAN =panobinostat 
+Source: Applicant’s final trial report for trial B2109
+Given this variability, the GMR of exposure parameters and their relative 90% confidence 
+intervals were considered unreliable for assessing the impact of PAN on DM exposure.  
+Instead nonparametric descriptive variables for the ratio of PAN+DM to PAN for the DM 
+exposure parameters were evaluated visually (Figure 13). The reported median (range) 
+for the ratio of PAN+DM to PAN for DM Cmax and AUC0-inf is 1.6 (1.2; 3.1) and 1.4(1.2; 2.3), 
+respectively.  Removing the apparent outlier changes these values to 1.4 (1.1; 3.2) and 
+1.4(1.1; 2.9), respectively.  In view of the unexplained variability and the nonparametric 
+descriptive assessment, that suggested a change in exposure as high as 200% was 
+possible in 50% of the population, the use of sensitive 2D6 substrates or 2D6 substrates 
+with a narrow therapeutic index should be avoided.   
+                                                     
+3 Manap RA, Wright CE, Gregory A, et al. The antitussive effect of dextromethorphan in relation to CYP2D6 activity. Br J Clin Pharmacol 1999; 48: 
+382-7. 
+4 Pope LE, Khalil MH, Berg JE, et al. Pharmacokinetics of dextromethorphan after single or multiple dosing in combination with quinidine in extensive 
+and poor metabolizers. J Clin Pharmacol 2004; 44, 1132-42. 
+Reference ID: 3636184
+
+
+===== PAGE 62 =====
+
+40 | P a g e  
+ 
+Table 22: Geometric Mean (CV%) of PAN PK parameters by treatment 
+Parameters (unit) 
+PAN (1st dose) 
+(N=15) 
+DM+ PAN (3rd dose) 
+(N=15) 
+Cmax (ng/mL) 
+9.9 (106) 
+14.2 (192) 
+AUC0-48 (ng.h/mL) 
+135.9 (74) 
+216.4 (76) 
+AUC0-inf (ng.h/mL) 
+145.5 (90) 
+258.3 (68) 
+Tmax(h)a 
+2.5 (0.5-4.2) 
+2 (0-49) 
+T1/2 (h) 
+9.1 (37) 
+12.6 (55) 
+a= Values were median (range) for Tmax 
+Source: The applicant’s final trial report  for trial B2109
+In the core phase of this trial, 3 patients reported a new QTcF reading of > 450 msec; no 
+patient had a new QTcF reading > 480 msec. There were no deaths, clinically significant 
+AEs, or discontinuations from the trial due to an AE during this phase. 
+Inhibition of CYP3A4 by PAN 
+The applicant developed a PBPK model as part this NDA submission to evaluate the 
+effect of PAN on CYP3A probe substrate midazolam and to determine the need for 
+additional in vivo trials. The applicant believes that, based on its analysis of the model 
+prediction and sensitivity, PAN will not significantly increase midazolam exposure 
+(midazolam AUC ratio <1.25). The Agency reviewed this PBPK model, relevant 
+simulations, and conducted additional sensitivity analyses (see Section 4.2.2) and finds 
+that the potential for the concurrent use of FARYDAK with sensitive CYP3A4 substrates to 
+result in a change in the CYP3A substrate exposure that requires intervention is unlikely, 
+but not conclusive (Table 23).  
+ 
+labeling should communicate that PBPK simulations 
+suggested that the effect of PAN on the sensitive CYP3A substrate midazolam is minimal 
+(e.g. exposure increase less than 
+.  
+ 
+   
+Table 23: Prediction of the drug interaction of LBH589 (20 mg MWF weekly) and midazolam 
+(5 mg single dose on day 15) 
+Group 
+N 
+Mean AUC0-inf 
+GM AUC0-inf 
+Mean Cmax 
+GM Cmax 
+Midazolam alone 
+100 
+70.0 (64%) 
+56.2 
+17.1 (57%) 
+14.5 
+Midazolam + PAN 
+100 
+73.2 (64%) 
+58.7 
+17.8 (56%) 
+15.1 
+GM ratio (90% CI) 
+ 
+ 
+1.04 (1.04-1.05) 
+ 
+1.04 (1.03-1.04) 
+GM =Geometric mean 
+Source: Applicant’s final report  for trial 1400354 
+2.4.2.3.2 
+PAN Related CYP Enzyme Inhibition 
+In vitro CYP Enzyme Induction 
+The potential for PAN to induce CYP1A1, CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, 
+CYP3A4, and CYP3A5 mRNA and activity was examined in vitro using primary human 
+hepatocyctes from three individual donors in study DMPK R0500725. For all CYP isozymes 
+tested, mRNA induction was within 2-fold of the vehicle control and/or less than 40% of 
+the positive control. Therefore the reviewer agrees with the applicant’s position that PAN 
+is an unlikely inducer of CYP1A1, CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP3A4, 
+and CYP3A5 enzymes. 
+2.4.2.4 
+Is the drug a substrate and/or an inhibitor of P-glycoprotein transport processes? 
+In study DMPK R0500488, PAN exhibited a high apparent permeability in Caco-2 cell 
+monolayers, with a Papp ratio (B-A/A-B) of ~15. MK571 and LY353979 inhibitors were used 
+Reference ID: 3636184
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 67 =====
+
+45 | P a g e  
+ 
+increase in PAN exposure could increase the risk of thrombocytopenia and a reduction 
+in exposure may affect efficacy. 
+2.5.2.3 
+If the formulations do not meet the standard criteria for bioequivalence, what 
+clinical pharmacology and/or clinical safety and efficacy data support the 
+approval of the to-be-marketed product? 
+The proposed commercial formulation (supplied as 
+ 15 mg, or 20 mg capsules) was 
+used in the pivotal phase 3 trial. 
+2.5.3 
+What is the effect of food on the bioavailability (BA) of the drug from the dosage 
+form? What dosing recommendation should be made, if any, regarding 
+administration of the product in relation to meals or meal types? 
+Food effect was evaluated in a randomized 3-way crossover formal food effect trial in 
+patients with advanced solid tumors that were randomized to receive 20 mg FARYDAK 
+on days 1, 8, and 15 as part of a 21-day cycle after either an overnight fast, 30-minutes 
+after a high-fat breakfast (i.e., 1000 calories with approximately 50% of the calories from 
+fat), or 1-hour after a “normal” breakfast (i.e., 500 calories with approximately 35% of the 
+calories from fat). Single agent PAN PK was evaluated using dense sampling over 48 
+hours after each patient had received three of the above prandial conditions on Days 1, 
+8, and 15. 
+A total of 36 patients were evaluated, of which 33 patients had evaluable PK.  There 
+were 8 PK profiles that had non-zero pre-dose concentrations suggesting some potential 
+carryover. However, the pre-dose concentrations exceeded 5% of Cmax values in two 
+occasions and these were excluded from the PK analysis. Given that the inter-patient 
+variability in the systemic exposure of PAN was high (i.e., 59%) with or without food in this 
+trial, box whisker plots, with superimposed raw data, were created and used to describe 
+the Cmax and AUC0-48 of PAN (Figure 17). Based on this information, food (high fat or 
+normal meal) appears to decrease the Cmax of PAN by approximately 50%, but only 
+marginally decreases AUC0-48. The median Tmax was delayed by 1 and 2.5 hours in the 
+presence of normal and high fat meal, respectively.  This delayed absorption may 
+explain the greater effect of food on PAN Cmax rather than AUC0-48. Similarly, an analysis 
+of fed/fasting geometric mean ratio (Table 24) for the high fat meal cohort reported that 
+PAN Cmax and AUC0-48 was lowered by an average of 44% and 15%, respectively.  This 
+difference is consistent with findings in Figure 17. In addition, the effect of food on Tmax 
+and Cmax of PAN observed in this trial was qualitatively described using a PBPK model 
+submitted by the applicant (See Appendix Section 4.2.2).  
+A food effect cannot be ruled out based on these results because the 90% confidence 
+intervals for the fed/fasting geometric mean ratio for the high fat meal are outside of the 
+0.8 to 1.25 equivalence criteria. Despite this, the potential impact of a high fat meal on 
+PAN exposure during chronic administration in patients is not expected to have 
+substantial clinical consequences that would necessitate food to be restricted around 
+FARYDAK administration.  Further, FARYDAK was administered without regard to food in 
+the pivotal trial D2308. The product labeling should communicate the observed 
+differences in exposure and Tmax for the high fat meal cohort and that FARYDAK can be 
+administered without regard to food.  
+ 
+Reference ID: 3636184
+(b) (4)
+
+
+===== PAGE 91 =====
+
+ 
+NDA205353 Panobinostat Pharmacometric Review  
+Page 11 of 15 
+to 88 years), the median weight of the patients was 76.4 kg (range: 41 to 196.4 kg), the 
+median height was 170cm (range: 143cm to 198cm), 362 patients were male and 219 
+female. Moreover, 496 patients were Caucasian, 34 Black, 27 Asian and the rest of 24 
+patients were classified as “Other”. 
+ 
+The population PK models were fitted using NONMEM 6.2 with first order conditional 
+estimation with interaction (METHOD = 1 INTERACTION) method. The PK of PAN 
+was best characterized by a three-compartmental model with two peripheral 
+compartments and with input of drug into the central compartment either directly (i.v. 
+dosing) or via first order absorption from the gut (oral dosing), and first order elimination 
+of drug from the central compartment.  Covariate analysis was conducted to evaluate the 
+effect of demographic parameters (body weight, body surface area, height, gender, race 
+and age), as well as of creatinine clearance at baseline, liver function, tumor type and 
+concomitant medications on both volume and clearance of PAN. The bioavailability and 
+the absorption rate dependence on the oral formulation were also considered. 
+ 
+Key PK parameter estimates were provided in Table 3. Goodness-of-fit plots for the final 
+model are shown in Figure 7. The population median of clearance (CL) was 33.1 L/h and 
+the central volume of distribution (V2) was 24.8 L. The inter-patient variability in 
+clearance was 65%, and inter-patient variability in the volume was 58%. The absolute 
+bioavailability of oral PAN was 21%.  Formulation had an effect on the rate but not on 
+the extent of absorption of PAN. Simulation showed that the predicted difference in the 
+absorption rate would result in an approximately 30% lower Cmax for FMI formulation 
+compared to CSF. 
+ 
+Table 3. Parameter estimates from the final three-compartment and the base model 
+69| Page
+Reference ID: 3636184
+
+
+===== PAGE 99 =====
+
+OCP PBPK Review_NDA205494 Panobinostat (Gastroplus)  
+ 
+ 
+PBPK Review 2 page 3 
+ 
+1. Objectives 
+The main objective of this review is to evaluate the adequacy of sponsor’s conclusions regarding the 
+ability of a physiologically-based pharmacokinetic (PBPK) model to predict the effect of changing gastric 
+pH on panobinostat PK.   
+To support its conclusions the sponsor provided the following PBPK modeling and simulation report: 
+ ACAT absorption model for LBH589 in humans and the assessment of varying stomach 
+pH on LBH589 absorption in humans [1]. 
+2. Background 
+Panobinostat (LBH589) is a deacetylase inhibitor (DACi) for the treatment of patients with multiple 
+myeloma (MM) who received at least one prior therapy [2].   The proposed dosing regimen is oral 
+administration of 20 mg three times a week (TIW), with a 2 weeks on/1 week off schedule in combination 
+with bortezomib (BTZ) and dexamethasone (Dex).  In advanced cancer patients, the extent of 
+panobinostat after oral absorption was estimated to be more than 87% based on human mass balance 
+study.  After TIW (Monday/Wednesday/Friday) single agent dosing, steady state of panobinostat is 
+reached on the 3rd dose with minimal accumulation.  Panobinostat exposure appears to be dose-
+proportional over 10 to 30 mg after multiple dosing.  Administration with Food does not have substantive 
+effect on panobinostat exposure.  The absolute bioavailability (F) for the oral anhydrous salt formulation 
+(FMI) was estimated to be 21%, and the systemic clearance (CL) was estimated to be 33 L/hr based on 
+population pharmacokinetic analysis.  Panobinostat demonstrates extensive tissue distribution, with 
+volume of distribution significantly exceeding blood volume.  Panobinostat is metabolized by both non-
+CYP routes and CYP enzymes [2].   
+In a response to FDA’s information request on definition of Biopharmaceutics Classification System 
+(BCS) classification of panobinostat, sponsor stated that panobinostat lactate, anhydrous “has high 
+permeability and pH dependent solubility with low solubility at pH 7.6, and therefore is considered to be 
+in the Biopharmaceutics Classification System (BCS) II compound” [3].  In the presence of p-
+glycoprotein (P-gp) inhibition, panobinostat demonstrated good passive permeability in vitro, with an 
+estimated passive permeability of 5.8x10-6 cm/s, or an effective passive permeability in human (Peff) of 
+2.289 x10-4 cm/s.  The relatively high passive permeability is consistent with complete oral absorption 
+that was observed in human mass-balance study (fraction absorbed Fa at least 87% [2]). The sponsor 
+indicates that panobinostat has low solubility at neutral pH.  As shown in Table 1, solubility of 
+panobinostat is strongly dependent on pH, and the solubility in 250 mL at pH 7.6 (16 mg) is less than the 
+dose strength of 20 mg. 
+Table 1. Solubility of panobinostat lactate, anhydrous drug substance at 37.0°C (+/- 0.5°C) (Table 
+3-1, Ref [1]) 
+Solution / buffer 
+Approximate solubility in mg/ml of 
+solution at 37°C (±0.5°C) 
+Corresponding maximum amount of drug 
+soluble in 250 ml of solution (in mg) 
+Water 
+4.775 
+1194 
+pH 1.2 (HCl) 
+1.017 
+254 
+pH 2.0 (HCl) 
+1.256 
+314 
+pH 4.5 (acetate) 
+4.771 
+1193 
+pH 6.0 (phosphate) 
+3.845 
+961 
+pH 6.8 (phosphate, simulated intestinal fluid) 
+0.261 
+65 
+pH 7.6 (phosphate) 
+0.064 
+16 
+ 
+77 | Page
+Reference ID: 3636184
+
+
+===== PAGE 101 =====
+
+OCP PBPK Review_NDA205494 Panobinostat (Gastroplus)  
+ 
+ 
+PBPK Review 2 page 5 
+ 
+salt concentrations, and transit times between compartments.    Additional fed condition was tested by 
+increasing gastric transit time from 1 hr to 3 hrs, partially mimicking the effect of meal with higher fat 
+contents.  These simulations were compared with the PK changes observed in the dedicated food effect 
+study B2111 [2]. 
+1.2. Model applications 
+Sponsor used panobinostat PBPK model to predict the effect of changing gastric pH on the PK of 
+panobinostat.   
+4. Results 
+a. Does the Panobinostat PBPK Model Suggest the Lack of the Effect of Elevating Gastric pH 
+on Panobinostat Exposure? 
+Yes.  The sponsor’s PBPK model integrates pH dependent solubility and cellular permeability 
+information measured in vitro. Simulation using this model suggests the lack of effect of elevating gastric 
+pH on panobinostat oral absorption and PK. 
+As shown in Table 2, sponsor’s panobinostat PBPK model predicts a complete oral absorption (e.g., Fa 
+~1.0), which is consistent with that observed in human mass balance study [2].  In human mass balance 
+study, Fa in patients taking 20 mg panobinostat orally was more than 0.87, suggesting near complete oral 
+absorption of the drug [2].  It has to be noted that results from Study B2102 were part of the data for the 
+development of panobinostat population PK model.  Comparison of drug exposure (Cmax and AUC) 
+between simulation and observation in Table 2 should not be considered as a verification process.  In 
+addition, the model tends to predict higher Cmax across all doses, which implies the need for further 
+optimization of the model.  Despite this limitation the model is acceptable to address this issue. 
+ 
+Table 2. PBPK model simulated PK parameters of panobinostat compared with the observed values (Table 6-
+1, ref [1]) 
+ 
+ 
+Observed Cmax value referred to the Cmax of the geometric mean concentration-time profiles for panobinostat in study 
+CLBH589B2102. Observed Tmax value referred to the Tmax of the geometric mean concentration-time profiles for panobinostat 
+in study CLBH589B2102. 
+ 
+The ACAT models for fed and fasted conditions considered multiple physiological differences within the 
+PBPK software.  The prominent differences include stomach pH (fasted 1.3 vs fed 4.9), stomach volume 
+(fasted 46 mL vs fed 919 mL), stomach transit time (fasted 0.25 hr vs fed 1 hr), and hepatic blood flow 
+(fasted 1.5 mL/min vs fed 2 L/min for a 70 kg man).  In order to evaluate sponsor’s assumptions using 
+ACAT model, the FDA reviewer used sponsor’s model to simulate the effect of food on panobinostat PK 
+in a human subject taking 20 mg oral dose as immediate release formulation (Table 3).  In this 
+simulation, two fed conditions were tested: (a) the use of default human fed physiology model (condition 
+79 | Page
+Reference ID: 3636184
+
+
+===== PAGE 102 =====
+
+OCP PBPK Review_NDA205494 Panobinostat (Gastroplus)  
+ 
+ 
+PBPK Review 2 page 6 
+ 
+2), and (b) a prolonged gastric transit time from 1 hr in the default fed physiology model to 3 hr 
+(condition 3).  As shown in Table 3, panobinostat PBPK model predicted a delay in Tmax and a decrease 
+in Cmax as a result from food intake, and the effects were greater under condition 3.  The prolonged 
+gastric emptying time (3h compared to the default value of 1h) assumed in the PBPK simulations can be 
+reasonably justified with the fact that food, especially high-fat meals, decelerate gastric emptying.  These 
+simulations show that food has no effect on panobinostat AUC.  In a food effect study [2], normal 
+breakfast and high fat breakfast delayed panobinostat Tmax by a median of 1.5 hours and 2.5 hours, 
+decreased panobinostat Cmax by 36% (geometric mean ratio GMR of 0.64 (90% confidence interval CI: 
+0.50 – 0.81))and 44% (GMR of 0.56 (90% CI: 0.45 – 0.70)), respectively. However, food has marginal 
+effect on panobinostat AUC [2].  Simulations using sponsor’s PBPK model appear to qualitatively 
+describe the moderate effect of food on Tmax and Cmax of panobinostat. 
+Table 3. FDA’s simulations using sponsor’s PBPK model to evaluate the effect of food on 
+panobinostat PK and oral absorption (GMR: geometric mean ratio; data see Appendix Table 3) 
+In order to assess the effect of varying stomach pH on the absorption of 20 mg panobinostat in humans, 
+the sponsor conducted sensitivity analysis on the stomach pH ranging from 0.5-8.0.  The predicted Fa 
+remained ~1.0 across this pH range (Figure 1).   
+ 
+ 
+Simulated compared to fasted condition (simulation Condition 1) 
+ 
+Default fed condition (gastric 
+transit time 1 hr, Condition 2) 
+Modified fed condition (gastric transit 
+time 3 hr, Condition 3) 
+Delayed Tmax (hr) 
+0.5 
+1.3 
+% decrease in Cmax 
+31% 
+62% 
+% change in AUC (0-48hr) 
+0% 
+0% 
+Observed compared to fasted condition 
+Normal Breakfast 
+High-fat Breakfast 
+Delayed median Tmax (hr) 
+1.5 
+2.5 
+% decrease in GMR Cmax 
+36% 
+44% 
+% change in GMR AUC 0-inf 
+-14% 
+-16% 
+80 | Page
+Reference ID: 3636184
+
+
+===== PAGE 103 =====
+
+OCP PBPK Review_NDA205494 Panobinostat (Gastroplus)  
+ 
+ 
+PBPK Review 2 page 7 
+ 
+Figure 1. Projected absorption of 20 mg panobinostat vs. stomach pH in humans (Figure 7-4 from 
+reference [1]) 
+ 
+During the review of sponsor’s prediction of drug-drug interaction potential using PBPK approach, the 
+FDA reviewer conducted a similar evaluation of the effect of food and increase in gastric pH using 
+another PBPK platform [8].  Preliminary simulations also show that panobinostat absorption and PK were 
+not affected by elevation in gastric pH, and food delayed panobinostat Tmax and decreased Cmax without 
+changing AUC. 
+5. Conclusion 
+Sponsor’s PBPK model integrates pH dependent solubility and cellular permeability information 
+measured in vitro.  Model simulations suggested the lack of effect of elevating gastric pH on panobinostat 
+oral absorption and PK. 
+81 | Page
+Reference ID: 3636184
+
+
+===== PAGE 104 =====
+
+OCP PBPK Review_NDA205494 Panobinostat (Gastroplus)  
+ 
+ 
+PBPK Review 2 page 8 
+ 
+6. Appendices 
+ 
+a. Abbreviations 
+ACAT, advanced compartmental absorption and transit model; ADME, absorption, distribution, metabolism, and 
+excretion; BCS, Biopharmaceutics Classification System; B/P, blood to plasma ratio; AUC, area under the 
+concentration-time profile; AUCR, the ratio of the area under the curve of the substrate drug in the presence and 
+absence of the perpetrator; AUCtau, steady state AUC within a dosing interval; B/P, blood to plasma ratio; BTZ, 
+bortezomib; Cmax, maximal concentration in plasma; CmaxR, the ratio of the maximum plasma concentration of 
+the substrate drug in the presence or absence of the perpetrator; Ctrough, trough concentration; CL, clearance; CLint, 
+intrinsic clearance; DACi, deacetylase inhibitors; Dex, dexamethasone; DDI, drug-drug interaction; F, 
+bioavailability; Fa, fraction absorbed; Fh, fraction that escapes hepatic metabolism; Fg, fraction that escapes intestinal 
+metabolism; fp, fraction unbound in plasma; GI: gastrointestinal; IR, immediate release formulation; ka, first order 
+absorption rate constant; LogP, logarithm of the octanol-water partition coefficient; MM: multiple myeloma; NA, 
+not applicable; ND, not determined; NDA: new drug application; Peff, effective passive permeability; PBPK: 
+Physiological-based Pharmacokinetic; P-gp: P-glycoprotein; q.d., once daily dosing; TIW: three times a week; 
+Tmax: time at maximal concentration in plasma; Vss, volume of distribution at steady state. 
+ 
+b. Information requests 
+ 
+Clinical Pharmacology July 22, 2014 (07222014IR) 
+ 
+To facilitate our review of your PBPK simulation report: “Study 1400363 - ACAT absorption model for LBH589 in 
+humans and the assessment of varying stomach pH on LBH589 absorption in humans” submitted on May 5, 2014, 
+you should submit executable GastroPlus model files being used to simulate final results in this study report.  The 
+model files should include, but are not limited to model compound file ( mdb), solubility vs pH (.spd), particle size 
+distribution(.psd), Tissue/Plasma Conc. vs. Time Data: Other Dosage Forms (.opd), and User-Defined ACAT Model 
+(.cat). 
+c. Appendix tables and figures 
+ 
+Appendix Table 1. Summary of input parameters for panobinostat ACAT model in humans 
+Dose (mg) 
+20 
+30 
+40 
+Parameters 
+ 
+ 
+ 
+Dosage form 
+ 
+ 
+LogPb 
+ 
+ 
+Solubility (mg/mL)c 
+ 
+ 
+pKab 
+ 
+ 
+Dose volume (mL) 
+ 
+ 
+Particle density (g/mL)b 
+ 
+ 
+Mean particle radius (µm)d 
+ 
+ 
+Particle radius standard deviationb 
+ 
+ 
+Particle radius binb 
+ 
+ 
+Precipitation time (sec)b 
+ 
+ 
+Diffusion coefficient (cm2/s × 105)b 
+ 
+ 
+Permeability (cm/s×104) e 
+ 
+ 
+Simulation time (h) 
+ 
+ 
+82 | Page
+Reference ID: 3636184
+(b) (4)
+
+
+===== PAGE 110 =====
+
+OCP PBPK Review_NDA205494 Panobinostat (SimCYP)  
+ 
+ 
+PBPK Review page 3 
+ 
+1. Objectives 
+The main objectives of this review are to 1) evaluate the adequacy of sponsor’s conclusions regarding the 
+ability of a physiologically-based pharmacokinetic (PBPK) model to predict the DDI potential of 
+panobinostat as a victim and time dependent perpetrator of the CYP3A4 metabolic pathway and 2) 
+provide a dosing recommendation based on the predicted effect of rifampin on panobinostat PK and the 
+effect of panobinostat on midazolam PK.  Additional PBPK modeling and simulation using sponsor’s 
+model was conducted to evaluate the effect of food and increase in gastric pH on panobinostat PK.  To 
+support its conclusions the sponsor provided the following PBPK modeling and simulation reports:  
+1. “Simcyp® simulations of the clinical drug interaction potential of ketoconazole or rifampin 
+with LBH589” [1]  
+2. “Risk assessment of the time-dependent inhibition of CYP3A by LBH589” [2]  
+3. “Updated Simcyp simulations of LBH589 pharmacokinetics and CYP3A drug interaction 
+potential” [3]. 
+2. Background 
+Panobinostat (LBH589) is a deacetylase inhibitor (DACi) that is being evaluated in the current NDA for 
+the treatment of patients with multiple myeloma (MM) who received at least one prior therapy (4).   The 
+proposed dosing regimen is oral administration of 20 mg three times a week (TIW), with a 2 weeks on/1 
+week off schedule in combination with bortezomib (BTZ) and dexamethasone (Dex).  In advanced cancer 
+patients, the extent of panobinostat after oral absorption was estimated to be more than 87% based on 
+human mass balance study.  After TIW (Monday/Wednesday/Friday) single agent dosing, steady state of 
+panobinostat is reached on the 3rd dose with minimal accumulation.  Panobinostat exposure appears to be 
+dose-proportional over 10 to 30 mg after multiple dosing.  Administration with Food does not have 
+substantive effect on panobinostat exposure.  The absolute bioavailability (F) for the oral anhydrous salt 
+formulation (FMI) was estimated to be 21%, and the systemic clearance (CL) was estimated to be 33 L/hr 
+based on population pharmacokinetic analysis.  Panobinostat demonstrates extensive tissue distribution, 
+with volume of distribution significantly exceeding blood volume.  Panobinostat is metabolized by both 
+non-CYP routes and CYP enzymes [4].   Detailed absorption and disposition characteristics can be found 
+in the PBPK input parameter table (Appendix Tables 1 and 2). 
+The sponsor developed a PBPK model as part of the NDA submission [1,2] to evaluate two potential 
+drug-drug interaction (DDI)  scenarios and determine the need for additional in vivo trials.  Specifically, it 
+evaluated the effect of a strong CYP3A inducer rifampin on panobinostat PK and the effect of 
+panobinostat on CYP3A probe substrate midazolam. Following the initial filing review the Agency sent 
+two information requests to the sponsor on April 22, 2014 and July 07, 2014 (04222014IR and 
+07072014IR, Section 6.b) regarding model parameterization and requesting additional simulation 
+scenarios be explored.  In response, the sponsor submitted an updated study report and relevant electronic 
+files of PBPK modeling on May 9, 2014[3], and additional simulations on July 10, 2014 [5].   
+This review evaluates the adequacy of sponsor’s panobinostat PBPK model to predict the DDI potential, 
+and provides dosing recommendations based on the predicted effect of rifampin on panobinostat PK and 
+the effect of panobinostat on midazolam PK.   
+ 
+88 | Page
+Reference ID: 3636184
+
+
+===== PAGE 112 =====
+
+OCP PBPK Review_NDA205494 Panobinostat (SimCYP)  
+ 
+ 
+PBPK Review page 5 
+ 
+decreasing fm,CYPs from 0.55 to 0.3.  This alternative model requires optimization of individual fm by 
+keeping the relative ratios for each CYP isoform and Qgut to maintain overall first-pass metabolism.   
+c. Model applications 
+Two scenarios that have not been tested through clinical trials were predicted using panobinostat PBPK 
+model. These include the effect of a strong CYP3A inducer rifampin on panobinostat PK and the effect of 
+panobinostat on CYP3A probe substrate midazolam. 
+d. Additional PBPK modeling and simulation 
+Sponsor’s PBPK model assumed first-order absorption for panobinostat (Appendix Table 2 and sources 
+for input parameters therein).  The FDA reviewer expanded this model by using the software’s 
+“Advanced Dissolution, Absorption, and Metabolism (ADAM)” model (mechanistic absorption model). 
+Input parameters describing various processes responsible for oral absorption are summarized in 
+Appendix Table 3, including a measured pH dependent solubility profile [8].The following scenarios 
+were explored using mechanistic absorption model: 
+1. Food effect.  The effect of food was evaluated by comparing the simulations under fasted and fed 
+conditions.  Physiological changes under these prandial conditions have been implemented in the PBPK 
+software and include e.g. alterations in liver blood flow and composition of luminal fluids in terms of 
+their pH and bile salt concentrations.  Additional condition was tested by increasing gastric emptying time 
+under fed condition from 1 hr to 3 hrs, partially mimicking the effect of high fat meal. 
+2. Sensitivity of panobinostat exposure to changes in gastric pH.  A sensitivity analysis was conducted by 
+varying gastric pH from 0.5-8.0 to explore the effect of changing gastric pH on panobinostat absorption 
+and PK. 
+Unless otherwise stated, designs of these additional simulations used population representative (n=1 
+virtual subject) of “Healthy Volunteer” population taking a single oral dose of panobinostat.  The duration 
+was 48 hours. 
+ 
+4. Results 
+a. Can Panobinostat PBPK Model Be Used to Predict The Effect of CYP3A 
+Modulation on Panobinostat Exposure? 
+Yes. Two major factors are critical for a substrate PBPK model to predict the effect of CYP inhibition or 
+induction on its PK: quantitative determination of the contribution of the CYP pathway that is modulated 
+by co-medication (e.g., assumption of fm,CYP3A for panobinostat), and capability of the model to predict the 
+PK profile under different dosing regimens.   
+The sponsor believes that the simulations using the updated panobinostat model are acceptable for 
+describing the majority of the observed panobinostat single agent PK from three studies with patients 
+taking oral panobinostat ([3], Appendix Table 4).   
+The ratios of simulated exposure (AUC or Cmax) to the observed exposure for the 22 dosing conditions 
+of these studies were calculated (Table 1).  Based on sponsor’s pre-defined, 2-fold prediction threshold, 4 
+conditions have ratios ≥2 (Cmax or AUC), and one condition has Cmax ratio of 0.5. One limitation is the 
+use of healthy volunteer population to simulate all conditions.  For example, healthy volunteer is not 
+90 | Page
+Reference ID: 3636184
+
+
+===== PAGE 115 =====
+
+OCP PBPK Review_NDA205494 Panobinostat (SimCYP)  
+ 
+ 
+PBPK Review page 8 
+ 
+Table 2. Comparison of PBPK simulated PK parameters of LBH589 in the presence or absence of 
+ketoconazole (Study CLBH589B2110) 
+ 
+ 
+PBPK Simulated 
+Observed 
+Mean (CV%) panobinostat AUC (0-24hr) (ng/ml h) 
+104 (103) 
+111 (32) 
+Mean (CV%) panobinostat AUC (0-24hr) with ketoconazole (ng/ml h) 
+194 (110) 
+188 (56) 
+Geometric AUC mean ratio (90% CI) 
+1.8 (1.7-1.9) 
+1.8 (1.5-2.2) 
+Mean (CV%) panobinostat Cmax (ng/ml) 
+19 (146) 
+20 (36) 
+Mean (CV%) panobinostat Cmax with ketoconazole (ng/ml h) 
+37 (154) 
+40 (80) 
+Geometric Cmax mean ratio (90% CI) 
+1.7 (1.6-1.8) 
+1.6 (1.2-2.2) 
+Summarized from Table 6.3 of reference [3].  Simulation used 10 trials with 10 subjects each (n=100 total).  Clinical data were 
+available for panobinostat PK alone and with ketoconazole in 11 and 12 subjects. 
+ 
+Sponsor applied panobinostat PBPK model to predict the effect of a strong CYP3A inducer rifampin on 
+panobinostat PK.  Table 3 shows the simulated panobinostat PK after 20 mg single oral dose on day 7 in 
+the presence of rifampin (600 mg once daily for 14 days).  Co-administration with rifampin decreased 
+geometric mean AUC and Cmax by 65 and 55%, respectively.  The default rifampin model in SimCYP 
+software tends to underestimate its induction potential [10].  Therefore the strong CYP3A inducer 
+rifampin will likely result in a decrease in panobinostat AUC that is greater than 65% reported from the 
+simulations.  This should be considered when drafting labeling for the effect of strong inducers on 
+panobinostat exposure.  
+Table 3. PBPK simulated panobinostat PK parameters in the presence and in the absence of 
+rifampin (Table 6.4 of reference [3]) 
+ 
+ 
+b. Can Panobinostat PBPK Model Be Used to Predict The Effect of Panobinostat on 
+The PK of Midazolam? 
+Yes. Table 4 shows the simulated midazolam PK after a single oral dose of 5 mg on day 15 in the 
+presence of panobinostat given 20 mg MWF for 15 days (7 doses).  The geometric mean increases in 
+midazolam AUC and Cmax were 1.04 and 1.04, respectively.  Sponsor conducted sensitivity analysis 
+using a model that assumed a more potent time-dependent CYP3A inhibition (KI of 7.5 M and kinact of 
+1.51 /h) and predicted a geometric mean increase in midazolam AUC of less than 1.08. Based on 
+sponsor’s prediction and sensitivity analyses, it appears that panobinostat will not significantly increase 
+93 | Page
+Reference ID: 3636184
+
+
+===== PAGE 116 =====
+
+OCP PBPK Review_NDA205494 Panobinostat (SimCYP)  
+ 
+ 
+PBPK Review page 9 
+ 
+midazolam exposure (e.g. AUC ratio of midazolam ≤1.25), when both drugs are co-administered through 
+oral administration.  The FDA reviewer conducted an additional sensitivity analysis by increasing kinact by 
+10-fold.  Simulated midazolam AUC ratio was 1.32 using the alternative model with 10-fold higher kinact 
+for CYP3A.  The alternative model over predicted panobinostat exposure by >15%, suggesting nonlinear 
+PK as a result of stronger auto inhibition of CYP3A, that was not observed in the dose escalation trials. 
+Therefore, the 10-fold increase in kinact appears implausible, and sponsor’s assumption regarding kinact for 
+CYP3A is reasonable. Since the sponsor plans to conduct a clinical trial to further assess this potential 
+DDI, interim labeling should communicate that PBPK simulations suggested that the effect of 
+panobinostat on a sensitive CYP3A substrate midazolam is minimal (e.g. exposure increase less than 
+25%).  The label should be updated once additional information becomes available from the proposed 
+panobinostat-midazolam DDI trial. 
+ 
+Table 4. PBPK simulation of the effect of panobinostat on midazolam exposure (Table 6.5, 
+reference [3]). 
+ 
+ 
+c. Additional modeling and simulations to evaluate the effect of food and elevated 
+gastric pH on panobinostat oral absorption  
+ 
+Panobinostat has a pH dependent aqueous solubility, with high solubility at low pH and decreasing 
+solubility with increasing pH [8].  In humans, normal breakfast and high fat breakfast delayed 
+panobinostat Tmax by a median of 1.5 hours and 2.5 hours, decreased panobinostat Cmax by 36% 
+(geometric mean ratio GMR of 0.64 (90% confidence interval CI: 0.50 – 0.81))and 44% (GMR of 0.56 
+(90% CI: 0.45 – 0.70)), respectively. However, food has marginal effect on panobinostat AUC [4].  In 
+order to evaluate the effect of various factors on panobinostat absorption, especially the effect of gastric 
+pH on panobinostat PK given a lower solubility at pH 7.6  [8], the FDA reviewer expanded sponsor’s 
+model by considering mechanistic oral drug absorption processes (Appendix Table 3).  The mechanistic 
+absorption model was used to simulate food effect and pH effect on panobinostat PK after single oral 
+dose of 20 mg in healthy volunteers.   
+This model, under the assumptions provided in Appendix Table 3, predicts complete oral absorption 
+(e.g. fraction absorbed or Fa of >99%) in both prandial states and under elevated gastric pH conditions.  
+In a representative virtual healthy volunteer, simulated panobinostat PK using the mechanistic absorption 
+model appears to be consistent with the observed data (Table 5).  However, the model tends to over-
+predict panobinostat exposure (Cmax and AUC) when simulation was conducted in healthy volunteer 
+virtual population (10 trials with10 subjects in each trial, data not shown).  Because the post-absorption 
+component of panobinostat PBPK model was kept unchanged with regard to hepatic metabolism and drug 
+distribution, the over-prediction of panobinostat exposure can be attributed to a less significant  first pass 
+94 | Page
+Reference ID: 3636184
+
+
+===== PAGE 117 =====
+
+OCP PBPK Review_NDA205494 Panobinostat (SimCYP)  
+ 
+ 
+PBPK Review page 10 
+ 
+metabolism in small intestine predicted by the mechanistic absorption model as compared to first order 
+absorption model.   A subsequent simulation of the effect of ketoconazole using the mechanistic 
+absorption model (same design as in “a” above) shows that the effect of ketoconazole was less 
+pronounced than using sponsor’s first order absorption model, supporting the hypothesis that first pass 
+metabolism needs to be optimized in the mechanistic absorption model in order to better describe 
+panobinostat PK (see Appendix Table A2 and discussions on optimization of Qgut parameter).  Given 
+the short review timeline and the primary focus on the effect on panobinostat oral absorption, the 
+reviewer did not further optimize this mechanistic absorption model.  The subsequent analyses of the 
+factors affecting oral absorption of panobinostat should be considered exploratory. 
+1. Food effect 
+The FDA reviewer explored the effect of food on the exposure of panobinostat after a single oral dose of 
+20 mg.  The results are shown in Table 5. Simulation shows that food has no effect on panobinostat 
+AUC, fa, and Fg values.  In addition, simulations under fed conditions (conditions 2 and 3 with prolonged 
+gastric emptying time from fasted condition (condition 1) to 1 hr and 3 hr, respectively) show an increase 
+in Tmax and a decrease in Cmax.  These findings appear to be consistent with the observations in the food 
+effect study [4]. The prolonged gastric emptying time

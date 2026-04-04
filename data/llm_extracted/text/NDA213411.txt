@@ -1,0 +1,2562 @@
+
+
+===== PAGE 7 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+6 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+Table 32: Demographic and Baseline Characteristics ................................................................. 161 
+Table 33: Summary of Baseline Disease Characteristics ............................................................ 161 
+Table 34: Treatment-Emergent Adverse Events Leading to Death ............................................ 167 
+Table 35: Treatment-Emergent Grade ≥3 AE Occurring in ≥2% of Pool 1 Subjects ................... 176 
+Table 36: Summary of Treatment-Emergent Adverse Events .................................................... 178 
+Table 37: TEAEs occurring in ≥10% of patients receiving tucatinib in HER2CLIMB .................... 179 
+Table 38: Laboratory abnormalities (≥20%) worsening from baseline in patients who received 
+tucatinib and with a difference of ≥5% compared to placebo in HER2CLIMB ........................... 182 
+Table 39: The Point Estimates and the 90% CIs (FDA Analysis) .................................................. 184 
+Table 40: Summary of Treatment-Emergent Adverse Events of Diarrhea ................................. 186 
+Table 41: Subject Incidence of Post-Baseline Hepatotoxicity by Liver Function Tests ............... 189 
+Table 42: Increases in AST, ALT, and/or total bilirubin in the tucatinib safety database ........... 191 
+Table 43: Effect of Tucatinib On Metformin Pharmacokinetic Parameters ............................... 201 
+Table 44: Iohexol Pharmacokinetic Parameters ......................................................................... 202 
+Table 45: Clinical Studies Included in Population PK Modeling .................................................. 239 
+Table 46: Summary of Continuous Covariates ............................................................................ 241 
+Table 47: Summary of Categorical Covariates ............................................................................ 242 
+Table 48: Tucatinib Base Model Parameter Estimates ............................................................... 244 
+Table 49: Final Model Parameter Estimates for Tucatinib PK .................................................... 247 
+Table 50: Observed and simulated tucatinib geometric mean PK parameters following a single 
+dose (300 mg) or multiple dose (300 mg, bid) administration of tucatinib in healthy subjects. 
+Observed and simulated tucatinib or midazolam geometric mean Cmax and AUC ratios in the 
+presence and absence of a CYP modulator in healthy subjects. ................................................ 256 
+Table 51: fu,gut, fmCYP3A4 and fmCYP2C8 values implemented in the Applicant’s refined model 
+and FDA’s model ......................................................................................................................... 259 
+Table 52. Model predicted tucatinib (300mg bid) Cmax  and AUC ratios in the presence and 
+absence of a CYP3A modulator at steady-state in healthy subjects .......................................... 261 
+Table 53: Summary of validated analytical methods ................................................................. 262 
+Table 54: Absolute difference of QC mean bias % between TM17-396 and cross validation 
+methods ...................................................................................................................................... 263 
+Table 55: Summary Method Performance ................................................................................. 264 
+ 
+Reference ID: 4593552
+
+
+===== PAGE 11 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+10 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+Glossary 
+ADME 
+absorption, distribution, metabolism, and elimination 
+AE 
+adverse event 
+ALP 
+alkaline phosphatase 
+ALT 
+alanine aminotransferase 
+aPTT 
+activated partial thromboplastin time 
+AST 
+aspartate aminotransferase 
+AUC 
+area under the plasma concentration-time curve 
+BC 
+breast cancer 
+BICR 
+blinded independent central review 
+BID 
+twice daily 
+BUN 
+blood urea nitrogen 
+CBR 
+clinical benefit rate 
+CFR 
+Code of Federal Regulations 
+CI 
+confidence interval 
+Cmax 
+maximum serum concentration 
+CMH 
+Cochran-Mantel-Haenszel 
+CNS 
+central nervous system 
+CR 
+complete response 
+CRO 
+contract research organization 
+CT 
+computed tomography 
+%CV 
+percent coefficient of variation 
+CYP 
+cytochrome p 
+DDI 
+drug-drug interaction 
+DLT 
+dose-limiting toxicity 
+DMSO 
+dimethyl sulfoxide 
+DOR 
+duration of response 
+EC50 
+half maximal effective concentration 
+ECG 
+electrocardiogram 
+ECHO 
+echocardiogram 
+ECOG 
+Eastern Cooperative Oncology Group 
+eCRF 
+electronic case report form 
+EDC 
+electronic data capture 
+EGFR 
+epidermal growth factor receptor 
+EOP 
+end of phase 
+EOT 
+end of treatment 
+EQ-5D 
+European Quality of Life 5-Dimensional 
+EQ-5D-5L 
+European Quality of Life 5-Dimensional-5L 
+eTMF 
+electronic trial master file 
+GCP 
+good clinical practice 
+Reference ID: 4593552
+
+
+===== PAGE 13 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+12 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+PK 
+pharmacokinetic 
+PO 
+oral dose 
+PPE 
+palmar-plantar erythrodysesthesia 
+PR 
+partial response 
+PRO 
+patient-reported outcome 
+PS 
+performance status 
+PSS 
+physiological salt solution 
+QT 
+QT interval 
+QTc 
+corrected QT interval 
+RDI 
+relative dose intensity 
+RECIST 
+Response Evaluation Criteria in Solid Tumors 
+REMS 
+Risk Evaluation and Mitigation Strategies 
+RP2D 
+recommended phase 2 dose 
+SAE 
+serious adverse events 
+SAP 
+Statistical Analysis Plan 
+SC 
+subcutaneous 
+SD 
+stable disease 
+STD 
+standard deviation 
+SSQ 
+special search query 
+T1/2 
+terminal half-life 
+T-DM1 
+trastuzumab emtansine 
+TEAE 
+treatment-emergent adverse event 
+TK 
+toxicokinetic 
+TKI 
+tyrosine kinase inhibitor 
+US 
+United States 
+USD 
+United States dollar 
+VAS 
+visual analogue scale 
+WHODRUG 
+World Health Organization Drug Dictionary 
+Reference ID: 4593552
+
+
+===== PAGE 35 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+34 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+In repeat-dose toxicology studies with tucatinib, toxicities were generally dose-dependent and 
+were reversible or showed tendency of reversibility after a 4-week treatment-free recovery 
+period.  The treatment-related toxicities were associated with the pharmacologic activity of 
+tucatinib.  
+ 
+Tucatinib had no adverse effect on ECG, respiration, or neurological behavior in safety 
+pharmacology studies.  In the 13-week monkey study with twice daily administration, tucatinib 
+treatment elevated heart rates on Day 2 and with reduced severity on Day 92 of the dosing 
+phase in males at doses ≥ 5 mg/kg/day. Elevated heart rates resolved during the recovery 
+phase.  Elevated heart rates were not noted during ECG assessment.   
+ 
+Tucatinib did not induce mutations in the bacterial reverse mutation (Ames) assay and was not 
+clastogenic in the in vitro chromosome aberration test or the in vivo mouse bone marrow 
+micronucleus assay at doses up to the high dose of 2000 mg/kg. 
+ 
+No fertility and early embryonic development studies have been conducted or are warranted 
+to support this NDA submission. In the 13-week study in rats, tucatinib induced reproductive 
+toxicities including uterine atrophy, vaginal atrophy, changes in corpora lutea at doses ≥6 
+mg/kg (approximately 0.1 times the human exposure at the recommended dose of 300 mg 
+twice daily based on AUC). Tucatinib treatment resulted in atrophy and edema in the testes 
+and oligospermia/germ cell debris in the epididymides in male rats at doses ≥ 120 mg/kg/day 
+(approximately 13 times the human exposure at the recommended dose of 300 mg twice daily 
+based on AUC). Based on findings in animals, tucatinib may impair male and female fertility.  
+ 
+The Applicant conducted pilot embryo-fetal development studies in rats and rabbits.  Tucatinib 
+was administered to animals at oral doses up to 150 mg/kg/day during the period of 
+organogenesis.  In rats, oral administration of tucatinib resulted in maternal toxicity (body 
+weight loss, reduced body weight gain, low food consumption) and embryofetal toxicities 
+including a reduced number of live fetuses, decreased fetal weights and fetal abnormalities 
+(increase in skeletal variations, incomplete ossification) at doses ≥ 90 mg/kg/day 
+(approximately 3.5 times the human exposure at the recommended dose based on AUC).  In 
+rabbits, oral administration of tucatinib resulted in maternal toxicity (minimal body weight loss 
+and low food consumption) at doses ≥ 120 mg/kg and embryofetal toxicities including 
+increased resorptions, decreased percentages of live fetuses, and skeletal, visceral, and 
+external malformations in fetuses at doses ≥ 90 mg/kg/day (1.3 times the human exposure at 
+the recommended dose based on AUC). Fetal abnormalities in rabbits included domed head, 
+brain dilation, incomplete ossification of frontal and parietal bones, and a hole in the parietal 
+bone. Exposure multiples were calculated using the mean AUC0-12h of 16400 ng.hr/mL in rats 
+and 6370 ng.hr/mL in rabbits and the mean human AUC-last of 4724 ng.h/mL at a recommended 
+human dose of 300 mg twice daily.  
+Reference ID: 4593552
+
+
+===== PAGE 41 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+40 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+Local GI tolerance assay: The whole stomach was removed and examined approximately 4 
+hours after test item/vehicle administration. Adverse effects on the stomach were scored as 
+follows: Score 1 superficial mucosal lesion, Score 2 hemorrhagic ulcer, and Score 3 perforated 
+ulcer. Score 2 lesions were observed in 10, 70, 30, 80% of animals in the vehicle, 10, 30, 100 
+mg/kg tucatinib groups, respectively. Score 2 lesions in the 100 mg/kg tucatinib group were 
+statistically significant compared to the vehicle group. The total lengths of score 1 lesions at 
+100 mg/kg were also statistically significant (3 times higher) compared to the vehicle group.  
+Cardiovascular assessments:  
+In the 13-week monkey study, twice daily administration of tucatinib increased heart rates on 
+Day 2 of the dosing phase in males at all doses. Mean heart rates were 41, 44, or 40 
+beats/minute higher than controls in males at 5, 20, or 40 mg/kg/day, respectively. Mean heart 
+rates were also elevated by 20 to 28 beats/minute compared to the controls on Day 92 of the 
+dosing phase and resolved during the recovery phase.  Elevated heart rates were not noted 
+during ECG assessment. 
+ 
+ 
+ADME/PK 
+Data: 
+Type of Study 
+Major Findings 
+Absorption 
+TRN-5562: Pharmacokinetics of 
+Tucatinib in Mice, Rats, and Monkeys 
+following a Single Intravenous or 
+Oral Dose 
+Following a single IV dose of tucatinib at 0.5 or 1 mg/kg, the clearance 
+was moderate in rats and high in cynomolgus monkeys. Following oral 
+administration (various formulations), exposure increased greater than 
+dose-proportionally in mice (20 to 100 mg/kg) and rats (10 to 100 
+mg/kg). In cynomolgus monkeys, the exposure increase was less than 
+dose proportional (15 to 45 mg/kg). 
+Species 
+Route 
+Dose 
+t1/2 
+AUC24h 
+Cmax 
+Bioavailability 
+(mg/kg) 
+(h) 
+(µg·h/mL) (µg/mL) 
+(%) 
+Rat 
+IV 
+0.5 
+0.725 
+0.286 
+0.399 
+NA 
+Oral 
+10a 
+2.51 
+1.35 
+0.236 
+23.8 
+10b 
+NR 
+1.23 
+0.358 
+21.9 
+Monkey IV 
+1 
+0.456 
+0.171 
+0.224 
+NA 
+Oral 
+15 
+1.95 
+7.35 
+2.75 
+>100 
+30 
+2.78 
+9.95 
+3.09 
+>100 
+45 
+3.62 
+14.2 
+3.60 
+>100 
+a. 
+0.5% Tween 80, pH 2.6 
+b. 
+0.5% sodium carboxymethyl cellulose + 0.1% Tween 80 
+Distribution 
+Study DM06-046: Assessment of 
+Reversible Protein Binding of ARRY-
+432380 in Human, Monkey, Rat, and 
+Mouse Plasma as Determined by 
+Equilibrium Dialysis 
+Plasma protein binding of tucatinib was not species- or concentration-
+dependent. 
+  
+% Bound 
+Species 
+0.1 µM 
+tucatinib 
+1 µM 
+tucatinib 
+10 µM 
+tucatinib 
+50 µM 
+tucatinib 
+Reference ID: 4593552
+
+
+===== PAGE 42 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+41 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+Type of Study 
+Major Findings 
+CD-1 mouse 
+94.8 
+98.7 
+96.7 
+98.2 
+Sprague-Dawley rat 
+100 
+98.4 
+97.5 
+97.3 
+Cynomolgus monkey 
+93.5 
+96.5 
+95.2 
+95.9 
+Human 
+97.8 
+97.1 
+97.9 
+97.5 
+Study 170229: Pharmacokinetics and 
+Biodistribution Study of 
+[14C]-Tucatinib in Mice Bearing 
+Intracerebral BT-474 Tumor Cells 
+Radioactivity crossed the blood-brain tumor barrier and distributed 
+preferentially into the tumor located in the striatum of the right 
+hemisphere. The ratio of radioactivity in tumor vs normal brain at 3-
+hours post last dosing ranged from 3.6 to 10.9. 
+DPM 
+Parameter 
+Mouse 
+1 
+Mouse 
+5 
+Mouse 
+9 
+Left striatum (no tumor) 
+404 
+496 
+372 
+Right striatum (tumor) 
+1359 
+793 
+926 
+Total (left + right) 
+1763 
+1289 
+1298 
+Tumor/normal brain radioactivity 
+ratio 
+10.85 
+3.6 
+7.63 
+Study 8369173: Quantitative Whole-
+Body Autoradiography of Rats 
+Following Oral Administration of 
+[14C]-Tucatinib 
+Following a 26.8 mg/kg (303 µCurie/kg) single oral dose in Long Evans 
+rats, [14C]-tucatinib-derived radioactivity distributed into most tissues by 
+1-hour post-dose. Elimination of radioactivity was virtually complete by 
+168-hours post-dose. Tissue distribution was extensive through 8-hours 
+post-dose. There was an affinity for pigmented tissues. 
+Metabolism 
+Study 8393554: Absorption, 
+Metabolism, and Excretion of 
+14C-Tucatinib Following Oral 
+Administration to Monkeys 
+Study ONT-380-008: A Phase 1, 
+Open-label Study of the Absorption, 
+Metabolism, and Excretion of 
+[14C]-Tucatinib Following a Single 
+Oral Dose in Healthy Male and 
+Female Subjects 
+Study 14663: Cross-Species 
+Metabolites in Safety Testing (MIST) 
+Exposure Assessment of Tucatinib in 
+Rat, Monkey, and Human Plasma 
+Samples 
+In monkeys, tucatinib was the most abundant plasma component (67.5% 
+of total radioactivity exposure through 24 h) followed by ONT-993 
+(2.70%). Tucatinib accounted for 11.8% of dose in feces and for 0.189% of 
+dose in urine. ONT-993 was the most abundant excreted component, 
+accounting for an average 16.4% and 0.53% of dose in feces and urine, 
+respectively. 
+In humans, tucatinib was the most abundant plasma component (75.6%) 
+followed by ONT-993 (9.16%). Tucatinib accounted for 15.9% and 0.714% 
+of dose in feces and urine, respectively. ONT-993 was the most abundant 
+excreted component, accounting for an average 36.8% and 1.47% of dose 
+in feces and urine, respectively. 
+All human plasma metabolites were also observed in rats and/or 
+monkeys. Most identified metabolites were products of oxidative 
+metabolism, such as hydroxylation, dehydrogenation, and dealkylation. 
+Hydroxylation at the methyl group on the dimethyl dihydrooxazole of 
+tucatinib appeared to be the predominant metabolic pathway. No human 
+circulating metabolites exceeded 10% of total drug-related exposure. 
+Study DM09-027: Reaction 
+Phenotyping for ARRY-432380 
+Metabolism in Human Liver 
+Microsomes and Recombinant 
+Human Cytochrome P450 Enzymes 
+CYP2C8 was the predominant contributor to tucatinib metabolism in 
+vitro, followed by CYP3A4 and CYP3A5. ONT-993 was formed by CYP2C8. 
+Reference ID: 4593552
+
+
+===== PAGE 44 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+43 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+Type of Study 
+Major Findings 
+OCT2 
+Creatinine 
+0.107 µM 
+MATE1 
+Creatinine 
+0.0855 µM 
+a. Caco-2 cells; b MDR1 LLC-PK1 cells. 
+TK data from general toxicology studies 
+Study 1140-028: 28-Day repeat-dose 
+oral toxicity study of ARRY-432380 in 
+rats followed by a 4-week recovery 
+There were no significant differences in tucatinib exposure between 
+male and female rats based on Day27 Cmax and AUC12h values (generally 
+<2-fold). The mean Cmax and AUC12h values of tucatinib increased in a 
+greater than dose proportionally manner on both days of analysis. 
+Tucatinib mean AUC12h values increased on average by 3.58-fold from 
+Day 1 to Day 27 for doses of 10 and 30 mg/kg. 
+Dose (mg/kg/dose) 
+Day 
+Cmax 
+AUC12h 
+(µg/mL) 
+(µg·h/mL) 
+10 
+1 
+0.686 
+1.18 
+27 
+0.745 
+3.15 
+30 
+1 
+4.28 
+8.34 
+27 
+5.37 
+29.6 
+100/60a 
+1 
+16.5 
+90.7 
+27 
+9.27 
+72.5 
+a. In the 100 mg/kg dose group, doses were reduced to 60 mg/kg on Day 8 and 
+thereafter. 
+Study JAY00093: A 4-week toxicity 
+study of ARRY-432380 administered 
+twice-daily by nasal gavage to 
+cynomolgus monkeys, with a 4-week 
+recovery period 
+There were no significant differences in tucatinib exposure between 
+male and female cynomolgus monkeys based on individual plasma 
+concentrations or AUC12h values. The mean Cmax and AUC12h values of 
+tucatinib increased in a linear and nearly dose proportional manner on 
+both days of analysis. The mean Cmax and AUC12h values increased less 
+than 2-fold from Day 1 to Day 28. 
+Dose (mg/kg/dose) 
+Day 
+Cmax 
+AUC12h 
+(µg/mL) 
+(µg·h/mL) 
+10 
+1 
+0.892 
+3.01 
+28 
+1.17 
+5.22 
+30 
+1 
+2.91 
+14 
+28 
+4.6 
+26.4 
+45 
+1 
+4.54 
+23.8 
+28 
+NS 
+NS 
+NS=no samples 
+TK data from reproductive toxicology studies 
+Study 20144956: An oral (gavage) 
+dose range-finding embryo-fetal 
+development study of tucatinib in 
+rabbits 
+Systemic exposure to tucatinib, as assessed by Cmax and AUC12h, 
+increased in a greater than dose proportional manner between 60 and 
+150 mg/kg/day on GD 7 and GD 19. Systemic exposure to tucatinib 
+increased on GD 19 compared to GD 7 and the accumulation ratios 
+increased in a dose-dependent manner for AUC12h. 
+Dose (mg/kg/day) 
+GD 
+Cmax 
+AUC12h 
+(µg/mL) 
+(µg·h/mL) 
+60 
+7 
+0.373 
+0.845 
+Reference ID: 4593552
+
+
+===== PAGE 45 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+44 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+Type of Study 
+Major Findings 
+19 
+0.706 
+1.64 
+90 
+7 
+0.688 
+1.72 
+19 
+2.03 
+6.10 
+120 
+7 
+1.18 
+3.03 
+19 
+5.21 
+23.2 
+150 
+7 
+1.46 
+3.19 
+ 
+19 
+5.86 
+25.9 
+Study 20160869: An oral (gavage) 
+dose range-finding embryo-fetal 
+development study of tucatinib in 
+rats 
+Systemic exposure to tucatinib, as assessed by Cmax and AUC12h, 
+generally increased in a greater than dose proportional manner 
+between 90 and 150 mg/kg/day but it was less marked on GD7. 
+Dose (mg/kg/day) 
+GD 
+Cmax 
+AUC12h 
+(µg/mL) 
+(µg·h/mL) 
+90 
+7 
+2.66 
+12.9 
+17 
+2.42 
+16.4 
+120 
+7 
+6.34 
+33.7 
+17 
+3.84 
+31.6 
+150 
+7 
+5.89 
+35.7 
+17 
+9.55 
+60.6 
+AUC=area under the plasma concentration-time curve; CYP=cytochrome P450; IV=intravenous 
+ 
+The Applicant’s Position: 
+The nonclinical pharmacokinetic (PK) properties of tucatinib were characterized as moderate 
+clearance in rats and high clearance in cynomolgus monkeys, exceeding hepatic blood flow. 
+Following oral doses, tucatinib generally showed a greater than dose-proportional increase in 
+exposure and accumulation. Plasma protein binding was 97.1% in human, independent of 
+concentration, and consistent across species. Tucatinib was primarily metabolized by 
+cytochrome P450 (CYP) 2C8 to form ONT-993, followed by CYP3A4. No circulating metabolites 
+exceeded 10% of total drug-related exposure in human. The predominant circulating 
+metabolite, ONT-993, has a potency corrected exposure of <10% of tucatinib. Therefore, 
+tucatinib metabolites are not expected to meaningfully contribute to the safety or efficacy of 
+tucatinib. Following a single oral administration of [14C]-tucatinib, the majority of radioactivity 
+was recovered in feces in rat, cynomolgus monkey, and human, primarily as metabolites, 
+suggesting metabolism and hepatobiliary excretion as the major route of clearance. Renal 
+elimination of tucatinib was minimal. 
+ 
+Regulatory Authorities Assessment: 
+The regulatory authorities generally agree with the applicant’s summary of the study results.  
+Additional noteworthy study results and comments on Applicant’s summary are presented in 
+table below.  
+Reference ID: 4593552
+
+
+===== PAGE 46 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+45 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+Type of Study 
+Major Findings 
+Absorption 
+TRN-5562: Pharmacokinetics of 
+Tucatinib in Mice, Rats, and 
+Monkeys following a Single 
+Intravenous or Oral Dose (#TRN-
+5562) 
+ 
+ 
+ 
+Clearance: Clearance following IV and oral administration are 
+summarized below. 
+Species 
+Route 
+Dose 
+(mg/kg) 
+CL or CL/F 
+(mL/min/kg) 
+Rat 
+IV 
+0.5 
+29.6 
+1 
+46.9 
+Oral 
+10a 
+233 
+Monkey 
+IV 
+1 
+105 
+Oral 
+15a 
+42.6 
+30a 
+61.4 
+45a 
+58.1 
+a. Solution, 0.5% Tween 80, pH 2.6 
+CL or CL/F:  Total body clearance without or with 
+bioavailability adjusted 
+Systemic exposure:  
+It was noted that systemic exposure of tucatinib in animals 
+was affected  by the forms of active drug (free drug or salt), 
+the drug formulation, and the animal gender used in the 
+study. 
+Bioavailability 
+It appears that the Applicant calculated bioavailability in 
+monkeys by comparing the AUCs from oral administration to 
+the extrapolated AUCs using AUC of 1.0 mg/kg IV 
+administration. The higher than 100% bioavailability is invalid 
+and was likely due to non-linear pharmacokinetics.  
+Distribution 
+Study 170229: Pharmacokinetics 
+and Biodistribution Study of [14C] 
+Tucatinib in Mice Bearing 
+Intracerebral BT 474 Tumor Cells 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Methods: 
+Route of administration:  oral gavage 
+Treatment dose: 70 mg/kg 
+Treatment schedule:  twice a day for 3 doses 
+Results: Autoradiography did not detect [14C]-radioactivity in 
+brain slices. As a result, the Applicant extracted and directly 
+counted [14C]-radioactivity using a scintillation counter. The 
+study results shown in the table provided by the Applicant 
+were [14C]-radioactivity extracted from cutting pieces of brain 
+slices.  FDA agrees that radioactivity was higher in the right 
+side of the brain implanted with tumor; however, there was 
+insufficient data demonstrating that radioactivity crossed the 
+Reference ID: 4593552
+
+
+===== PAGE 47 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+46 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+ 
+ 
+ 
+ 
+ 
+Study 8369173: Quantitative 
+Whole-Body Autoradiography of 
+Rats Following Oral Administration 
+of [14C]-Tucatinib 
+ 
+ 
+blood-brain tumor barrier and distributed preferentially into 
+the tumor.  It is possible that the high volume of circulating 
+blood in tumors contributed to the observed high radioactivity 
+in the brain with tumors. 
+   
+• [14C]-Tucatinib was not distributed to CNS tissues, 
+indicating that it does not cross the blood: brain 
+barrier. 
+• The tissues with the highest absorbed doses of 
+radiation were uveal tract, eyes, pigmented skin, liver, 
+testes, epididymis (male), and thymus (female).  
+• Radioactivity was only present in the uveal tract and 
+eyes at 672 hours postdose (last time point). 
+Metabolism 
+Study ONT-380-008 is a pharmacokinetic/ADME study in healthy human subjects and not reviewed 
+in the nonclinical section of the multi-disciplinary review. See the clinical pharmacology section 6 for 
+information on human metabolism.  
+Excretion 
+The excretion table provided by the Applicant shows the percentage of radioactive dose in samples 
+from rats, monkeys, and humans. 
+Drug Interactions 
+Study XT195024: Tucatinib: 
+Cytochrome P450 3A4/5 Inhibition 
+in Human Liver Microsomes 
+ 
+IC50 on CYP3A-mediated midazolam 1’ hydroxylation: 3.3 μM. 
+TK data from general toxicology 
+studies 
+Rat  
+A 28-Day toxicity study in rats 
+(Study 1140-028) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+• Both AUC and Cmax were higher in female rats 
+than in males.  
+Dose 
+(mg/kg/day) 
+Day 
+Sex 
+Cmax 
+(ng/mL) 
+AUC112h 
+(ng·h/mL) 
+AUC24h 
+(ng·h/mL) 
+20 
+1 
+M 
+394 
+846 
+1720 
+F 
+1190 
+1680 
+6540 
+27 
+M 
+508 
+2320 
+5810 
+F 
+1320 
+4350 
+7590 
+60 
+1 
+M 
+3340 
+3760 
+15100 
+F 
+5490 
+1890 
+55400 
+27 
+M 
+4780 
+27000 
+61500 
+F 
+7270 
+33600 
+78300 
+200/120a 
+1 
+M 
+14400 
+74900 
+174000 
+F 
+19900 
+117000 
+258000 
+27 
+M 
+9370 
+62800 
+NA 
+Reference ID: 4593552
+
+
+===== PAGE 48 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+47 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+ 
+ 
+ 
+ 
+ 
+ 
+A 13-week repeated dose study in 
+rats (Study (8369684) 
+6, 20, 60 mg/kg/day twice daily 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Monkey 
+A 13-week repeated dose study in 
+monkeys (study 8369685) 
+  5, 20, 40 mg/kg twice daily 
+ 
+ 
+ 
+ 
+ 
+ 
+F 
+9410 
+92400 
+NA 
+a:  In the 200 mg/kg/day dose group, doses were reduced to 
+120 mg/kg/day on Day 8 and thereafter. 
+NA:  Not applicable. Samples were not available to determine 
+the AUC value beyond the 12-hour time point. 
+ 
+• Cmax and AUC > dose proportional ↑  
+• Exposure in females > exposure in males except 
+exposure in females = exposure in males at 60 mg/kg 
+in Week 13 
+• T1/2: not defined 
+•  Tmax: 1-2 hours 
+• Accumulation: 1.5-2.7,  systemic exposure in week 13 
+compared to Day 1 
+Dose 
+(mg/kg/day) 
+Time 
+Point 
+Sex 
+Cmax 
+(ng/mL) 
+AUC12h 
+(ng·h/mL) 
+AUC24h 
+(ng·h/mL) 
+6 
+Day 1 
+M 
+23 
+61 
+173 
+F 
+61 
+228 
+684 
+Week 
+13 
+M 
+64 
+194 
+425 
+F 
+173 
+536 
+1060 
+20 
+Day 1 
+M 
+227 
+1130 
+3740 
+F 
+293 
+1650 
+5210 
+Week 
+13 
+M 
+751 
+3290 
+6570 
+F 
+1180 
+4320 
+11200 
+60 
+Day 1 
+M 
+2120 
+11100 
+35700 
+F 
+4120 
+20500 
+52000 
+Week 
+13 
+M 
+8250 
+44700 
+97700 
+F 
+8010 
+40800 
+81200 
+ 
+• Cmax and AUC > dose proportional ↑ 
+• Exposures in males > exposures in females at ≤ 20 
+mg/kg/day; exposures in females > exposures in 
+males at 40 mg/kg/day on Day 91 
+• No accumulation 
+• T1/2: not defined 
+• Tmax: 0.75-4 hours 
+Dose 
+(mg/kg/day) 
+Day 
+Sex 
+Cmax 
+(ng/mL) 
+AUC12h 
+(ng·h/mL) 
+AUC24h 
+(ng·h/mL) 
+5 
+1 
+M 
+96 
+179 
+287 
+Reference ID: 4593552
+
+
+===== PAGE 65 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation - NOA 213411 
+Tradename™ (tucatinib) 
+FetalL Offs12ring (malformations, variations} 
+All doses 
+.J,fetal ossification sites (the mean number of hindlimb tarsals and phalanges, forelimb 
+phalanges and metatarsals) 
+1'skeletal variations (incomplete ossified parietal, ossified sternebra bipartite, fused cervical 
+arch, misshapen cervical arch, unossified thoracic centrum, nodulated rib, incomplete ossified 
+squamosal, incomplete ossified zygomatic, full cervical supernumerary rib, short cervical 
+supernumerary rib, ossified thoracic centrum bipartite, incomplete ossified sternebra, short rib 
+Toxicokinetics 
+* Mean toxicokinetic parameters for tucatinib and ONT-993 (metabolite) - Gestation Day 17 
+Analyte 
+Dose level 
+Cm ax 
+Dose 
+AUC0-12h 
+Dose 
+AUCo-24h 
+(mg/kg) 
+(0-12) 
+Normalized 
+ng.h/ml 
+Normalized 
+ng.h/ml 
+Daily 
+Twice 
+(ng/mL) 
+Cm ax 
+AUC0-12 
+daily 
+tucatinib 
+90 
+45 
+2420 
+54 
+16400 
+365 
+50000 
+120 
+60 
+3840 
+64 
+31600 
+527 
+57900 
+150 
+7 
+9550 
+127 
+60600 
+808 
+136000 
+ONT-
+90 
+45 
+16 
+0.4 
+156 
+3.5 
+342 
+993 
+120 
+60 
+16 
+0.3 
+153 
+2.6 
+292 
+150 
+7 
+27 
+0.4 
+219 
+2.9 
+480 
+Tucatinib 
+• AUC and Cmax increased more than dose proportionally . 
+• Tmax values ranging from 2 to 8 hours post dose . 
+ONT-993 
+• AUC and Cmax increased dose proportionally . 
+• T max values ranging from 4 to 8 hours post dose . 
+*some of this data is presented by the Applicant in Section 5.4 above. 
+Rabbit embryo-fetal development study 
+The regulatory authorities agree with the Applicant's conclusions for the pilot embryo-fetal 
+development study in rabbits. Additional noteworthy findings are included in the table below. 
+AUC12h of 6370 hr* ng/ml corresponding to the embryo-fetal growth developmental toxicity at 
+90 mg/kg/day was approximately 1.3-fold higher than the AUC at the clinical dose of 300 
+mg/dose twice daily in humans. 
+Parameters 
+Major findings 
+Body Weights 
+~ 120 mg/kg: .J, intervals GD 7-10 and GD 7-19 ( .J,up to 5%). 
+64 
+Version date: July 24, 2019 (All NOA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as '7he Applicant's Position" are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA. 
+Reference ID 4593552 
+Tmax 
+(h) 
+2 
+2 
+8 
+4 
+4 
+8 
+
+
+===== PAGE 66 =====
+
+NDA/ BLA Multi-disciplinary Review and Evaluation - NOA 213411 
+Tradename™ (tucatinib) 
+Mean mat ernal body weights in treatment groups on GD 29 were comparable t o that in 
+control. 
+Food 
+Mean mat ernal food consumption was 81%, 62%, 49%, and 80.5% of the 
+Consumption 
+controls in the 60, 90, 120, and 150 mg/ kg/ day dose groups, respectively, for the interval of 
+GD 7 t o 20. 
+Food consumption improved during the postdose period. 
+Toxicokinetics 
+* Mean toxicokinetic parameters for Tucatinib in plasma - Gestation 
+Day 19 
+Dose level 
+Dose level 
+Cmax(0-12) 
+Dose 
+AUCo-12h 
+Dose 
+AUC0-24h 
+T max (h) 
+mg/ kg/dose 
+mg/kg/day 
+(ng/ml) Normalized 
+ng.h/ ml Normalized 
+ng.h/ml 
+Cmax{0-12} 
+AUCo-12 
+30 
+60 
+819 
+27.3 
+1860 
+61.9 
+3560 
+1 
+45 
+90 
+2190 
+48.6 
+6370 
+141 
+12900 
+1 
+60 
+120 
+5720 
+95.4 
+29900 
+499 
+55400 
+1 
+75 
+150 
+6330 
+84.4 
+29500 
+394 
+55300 
+1 
+• 
+AUC and Cmax increased more than dose proportionally as the doses increased from 
+60 mg/ kg/day t o 120 mg/ kg/ day; increased dose proportionally as the doses 
+increased from 120 mg/ kg/ day to 150 mg/ kg/ day. 
+• 
+T max was 1 hours post dose on Gestation Day 19 . 
+* some of this data is present ed by the Applicant in Section 5.4 above. 
+Prenatal and Postnatal Development 
+Data: 
+NA 
+The Applicant's Position: 
+NA 
+Regulatory Authorities Assessment: 
+The regulatory authorities agree that no prenatal and postnatal development studies are 
+warranted for the proposed indication. 
+5.5.5. 
+Other Toxicology Studies 
+Data: 
+In vitro phototoxicitv: Tucatinib showed absorbance in the UVA region of an ultraviolet-visible 
+light absorbance scan, indicative of pot ential phototoxicity. Follow-up testing with the 3T3 
+Neutral Red Uptake Phot otoxicity Test indicated tucatinib had a Photo-Irritant Factor of 7.3. 
+Therefore, tucatinib is considered to have phototoxic potential. 
+65 
+Version date: July 24, 2019 (All NOA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as '7he Applicant's Position" are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA. 
+Reference ID 4593552 
+
+
+===== PAGE 75 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+74 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+exposure response relationships are identified for safety. Increased incidence of grade ≥ 3 AE 
+was observed at dose 350 mg BID during dose finding. Refer to section 6.3.2.1 for more 
+details with regard to dose regimen evaluation.  
+ 
+6.2.2.2. 
+Therapeutic Individualization 
+The Applicant’s Position: 
+The population PK covariate search supports 
+ 
+ 
+ 
+Data: 
+Special Populations 
+Patients with Hepatic Impairment: ONT-380-009 was a dedicated hepatic impairment study in 
+subjects without cancer. Mild (Child-Pugh A), moderate (Child-Pugh B), and severe (Child-Pugh 
+C) hepatic impairment had no clinically relevant effect on tucatinib exposure. Tucatinib AUCinf 
+and Cmax increased <2-fold in hepatically impaired subjects versus subjects with normal hepatic 
+function. 
+ 
+Patients with Renal Impairment: Study ONT-380-008 showed that < 5% of total radioactivity 
+was excreted in urine, indicating that renal excretion of tucatinib is not a major route of 
+elimination. Tucatinib elimination is predominantly mediated by metabolism and biliary 
+excretion; 
+  
+Intrinsic Factors 
+A population PK analysis showed that body weight 
+ did not have a clinically 
+meaningful effect on tucatinib PK. Age,
+ and race were not identified as 
+predictors of tucatinib PK.  
+Using NCI organ dysfunction working group criteria, a baseline patient factor covariate analysis 
+of PK data from HER2CLIMB was conducted. Weight and age did not meaningfully impact the 
+PK of tucatinib, as the predicted range was <2-fold on tucatinib trough concentration (Ctrough). 
+Race, Eastern Cooperative Oncology Group (ECOG) performance status and baseline renal 
+function were not significant predictors of tucatinib PK.  
+Regulatory Authorities Assessment:  
+Intrinsic Factors 
+The regulatory authorities generally agree with the Applicant’s position on therapeutic 
+individualization. However, the regulatory authorities does not agree with the applicant’s 
+proposal of 
+ 
+Reference ID: 4593552
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 79 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+78 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+Data:  
+General pharmacology and PK characteristics are summarized in Table 3. 
+Table 3: General pharmacology and pharmacokinetic characteristics of tucatinib 
+2a. General Information 
+Chemical Structure and major 
+physical and chemical 
+properties 
+Chemical structure of the compound and molecular weight (MW) 
+ 
+Chemical Name: (N4-(4-([1,2,4]triazolo[1,5-a]pyridin-7-yloxy)-3-methylphenyl)-
+N6-(4,4-dimethyl-4,5-dihydrooxazol-2-yl)quinazoline-4,6-diamine  
+(4,4-dimethyl-4,5-dihydrooxazol-2-yl)quinazoline-4,6-diamine  
+ 
+Molecular Formula: C26H24N8O2  
+ 
+Molecular Weight (unsolvated free base): 480.52 g/mol 
+ 
+Log P, pKa, solubility (in water and in buffers at different pH levels) 
+LogD (pH 7.4): 3.82 
+pKa: 2.07 ± 0.05, 4.19 ± 0.03, 6.15 ± 0.14 
+Solubility: <pH 2.9 = >18.7 mg/mL; >pH 4.6 = <0.4 mg/mL  
+Proposed indication  
+Tucatinib is indicated in combination with trastuzumab and capecitabine for 
+treatment of patients with locally advanced unresectable or metastatic 
+HER2-positive breast cancer, including patients with brain metastases, who 
+have received at least 3 prior HER2-directed agents separately or in 
+combination, in the neoadjuvant, adjuvant, or metastatic setting. 
+Route and formulation type and 
+formulation strengths 
+Oral tablet 
+Formulation Strengths: 50-mg and 150-mg tablets. 
+Planned dose  
+300 mg BID (tablet) 
+Mechanism of action  
+ HER2 tyrosine kinase inhibition  
+ 
+2b. Dose and Adverse Events 
+Therapeutic dose and exposure 
+Proposed clinical dosing regimen: 300 mg BID 
+GMean (%CV) Cmax and AUC for a single dose at the maximum proposed dose  
+           300 mg tablet  
+           AUCinf: 2480 h*ng/mL (38.5%) 
+           Cmax: 410 ng/mL (42.3%) 
+GMean (%CV) Cmax and AUC at the steady state with the maximum proposed 
+Reference ID: 4593552
+(b) (4)
+
+
+===== PAGE 80 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+79 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+2b. Dose and Adverse Events 
+clinical dosing regimen  
+           300 mg tablet BID 
+           AUCtau: 5234 h*ng/mL 
+           Cmax: 630 ng/mL 
+Maximum tolerated dose 
+Clinical 
+           600 mg BID powder in capsule 
+           300 mg BID tablet 
+Nonclinical data (13 week repeat-dose oral studies) 
+           Rat NOAEL: 60 mg/kg/day 
+           Cynomolgus monkey NOAEL: 20 mg/kg/day 
+Principal adverse events 
+Most common tucatinib adverse events 
+           Diarrhea, Nausea, Fatigue 
+Dose limiting related adverse events 
+           Elevated liver transaminases 
+ 
+2c. PK Features 
+Maximum 
+dose tested 
+Single Dose 
+800 mg powder in capsule; 350 mg tablet 
+Multiple Dose 
+800 mg BID powder in capsule; 350 mg BID tablet 
+Dose/exposure 
+range tested in 
+clinic (data 
+from this IND 
+and/or 
+elsewhere) 
+Single Dose 
+Dose Range:  
+25-800 mg BID (powder in capsule formulation)  
+50-350 mg BID (tablet formulation)  
+ 
+GMean (%CV) Cmax and AUC:  
+           Powder in Capsule formulation (25 mg BID) 
+                Cmax: 19.1 ng/mL (39.6%) 
+                AUC0-12: 80.4 h*ng/mL (76.5%) 
+           Powder in Capsule formulation (800 mg BID) 
+                Cmax: 876 ng/mL (31.2%) 
+                AUC0-12: 3660 h*ng/mL (23.3%) 
+            Tablet formulation (50 mg BID) 
+                Cmax: 73.8 ng/mL (54.9%) 
+                AUCinf: 370 h*ng/mL (41.2%) 
+            Tablet formulation (350 mg BID) 
+                Cmax: 743 ng/mL (44.1%) 
+                AUC0-6: 2750 h*ng/mL (28.8%) 
+Multiple Dose 
+Dose Range:  
+25–800 mg BID (powder in capsule formulation); 50–350 mg BID (tablet) 
+GMean (%CV) Cmax and AUC:  
+        Powder in Capsule formulation (25 mg BID) 
+            Cmax: 35.8 ng/mL (35.4%)  
+            AUC0-12: 187 h*ng/mL (29.3%)  
+        Powder in Capsule formulation (800 mg BID) 
+            Cmax: 655 ng/mL (55.0%)  
+            AUC0-12: 4480 h*ng/mL (94.7%)  
+       Tablet Formulation (50 mg BID) 
+Reference ID: 4593552
+
+
+===== PAGE 81 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+80 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+2c. PK Features 
+           Cmax: 88.8 ng/mL (82.7%)  
+           AUCinf: 531 h*ng/mL (67.3%) 
+       Tablet Formulation (350 mg BID) 
+           Cmax: 1483 ng/mL (71.1%)  
+           AUC0-6: 5238 h*ng/mL (31.6%) 
+Range of linear 
+PK 
+Powder in Capsule Formulation: 25 to 800 mg 
+Tablet Formulation: 50 to 300 mg 
+Accumulation at 
+steady-state 
+300 mg BID (tablet): AUC=1.72-fold; Cmax=1.52-fold 
+Metabolites 
+There is no major metabolite in humans: 
+• 
+The predominant metabolite (ONT-993) accounted for 9.16% of total plasma radioactivity 
+exposure in humans 
+• 
+Cytotoxic potency of ONT-993 is 2- to 3-fold less than that of tucatinib; the potency 
+adjusted exposure of ONT-993 is <10% of total pharmacological activity 
+Absorption 
+Absolute/Relative 
+Bioavailability 
+Absolute BA: NA, tucatinib has not been administered intravenously to 
+estimate F. 
+Tmax 
+Median (range) 
+2.00 hours (range: 1.00 to 4.00 hours) (300 mg tablet) 
+Distribution 
+Vd/F or Vd 
+Vss/F: 730 L (300 mg tablet) 
+% bound 
+Mean (%CV) 
+97.1% bound in human plasma 
+Elimination 
+Route 
+Primary route; percent dose eliminated: 
+Following administration of nominal 300 mg [14C]-tucatinib single oral 
+solution, 85.8% (mean) of dosed radioactivity recovered in feces 
+Other routes:  
+Following administration of 300 mg [14C]-tucatinib single oral solution, 
+4.09% (mean) of dosed radioactivity recovered in urine 
+t½ 
+Terminal Elimination:  
+t½: 14.9 hours (300 mg tablet) 
+Effective:  
+t½: 9.55 hours (300 mg tablet BID) 
+CL/F or CL 
+CL/F: 57.3 L/h (300 mg tablet) 
+Metabolism 
+• by CYP450 ☒Yes ☐ No ☐ NA, if yes, specify 
+• CYP2C8 (~75%), CYP3A (~10%) 
+• by Phase II enzymes ☐Yes ☒ No ☐ NA 
+• by other enzyme systems ☒Yes ☐ No ☐ NA, if yes, specify 
+• Aldehyde Oxidase  
+• inhibits CYP450 ☒Yes ☐ No ☐ NA, if yes, specify and provide Ki and/or IC50. 
+• CYP3A Ki: 0.805 µM 
+• CYP3A KI: 0.54 µM (metabolism-dependent inactivation) 
+• CYP2C8 Ki: 0.170 µM 
+• CYP2C9 Ki: 4.57 µM 
+• inhibits Phase II enzymes ☒Yes ☐ No ☐ NA, if yes specify and provide Ki and/or IC50. 
+Reference ID: 4593552
+
+
+===== PAGE 82 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+81 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+2c. PK Features 
+• UGT1A1 Ki: 1.81 µM 
+• induces CYP450 ☐Yes ☒ No ☐ NA, if yes specify 
+Transporters 
+• by major transporters ☒Yes ☐ No ☐ NA, if yes, specify 
+• P-gp, BCRP 
+• inhibits major transporters ☒Yes ☐ No ☐ NA, if yes, specify and provide Ki and/or IC50. 
+• OCT2 (metformin) IC50: 14.7 µM 
+• MATE1 (metformin) IC50: 0.340 µM 
+• MATE2-K (metformin) IC50: 0.135 µM 
+• P-gp IC50: 10-30 µM 
+• induces major transporters ☐Yes ☐ No ☒ NA, if yes specify 
+Intrinsic Factors 
+Age 
+Not clinically significant 
+Sex 
+Not clinically significant 
+Race 
+Not clinically significant 
+Hepatic and 
+Renal 
+Impairment 
+From the hepatic impairment Study ONT-380-009 
+300 mg tablet (single dose); GMRs relative to healthy matched controls: 
+Mild: AUCinf GMR: 0.99; Cmax GMR: 1.04 
+Moderate AUCinf GMR: 1.15; Cmax GMR: 0.89 
+Severe: AUCinf GMR: 1.61; Cmax GMR: 1.17 
+ 
+No renal impairment study conducted due to minimal renal elimination (<5%) 
+Reference ID: 4593552
+
+
+===== PAGE 83 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+82 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+2c. PK Features 
+Extrinsic Factors 
+Drug 
+interactions  
+Drug-drug interaction (DDI) studies with geometric mean difference in Cmax 
+and AUC (300 mg tablet):  
+Impact of Other Drugs on Tucatinib 
+• 
+CYP3A Inhibition (Itraconazole) 
+• 
+Tucatinib Cmax increased approximately 1.3-fold  
+• 
+Tucatinib AUCinf increased approximately 1.3-fold 
+• 
+CYP3A/CYP2C8 Induction (Rifampin) 
+• 
+Tucatinib Cmax decreased approximately 37%  
+• 
+Tucatinib AUCinf decreased approximately 48% 
+• 
+CYP2C8 Inhibition (Gemfibrozil) 
+• 
+Tucatinib Cmax increased approximately 1.6-fold  
+• 
+Tucatinib AUCinf increased approximately 3.0-fold 
+• 
+Gastric pH Modulation (Omeprazole) 
+• 
+Tucatinib Cmax decreased approximately 13%  
+• 
+Tucatinib AUCinf decreased approximately 13% 
+Impact of Tucatinib on Other Drugs 
+• 
+CYP3A Inhibition: 
+• 
+Midazolam Cmax increased approximately 3.0-fold  
+• 
+Midazolam AUCinf increased approximately 5.7-fold 
+• 
+CYP2C8 Inhibition: 
+• 
+Repaglinide Cmax increased approximately 1.7-fold  
+• 
+Repaglinide AUCinf increased approximately 1.7-fold 
+• 
+CYP2C9 Inhibition: 
+• 
+No effect on tolbutamide Cmax or AUC 
+• 
+P-gp Inhibition:  
+• 
+Digoxin Cmax increased approximately 2.4-fold  
+• 
+Digoxin AUCinf increased approximately 1.5-fold 
+• 
+MATE1/2-K Inhibition: 
+• 
+Metformin Cmax increased approximately 1.1-fold  
+• 
+Metformin AUCinf increased approximately 1.4-fold 
+Meal Effects 
+Mean difference in Cmax and AUC 
+Meal type (i.e., high-fat, standard, low-fat) 
+300 mg tablet in the presence of a high-fat meal 
+• 
+Tucatinib Cmax was unchanged 
+• 
+Tucatinib AUCinf increased approximately 49% 
+Population PK 
+Analyses 
+• 
+Body weight and albumin were identified as covariates; however, impact on tucatinib PK 
+was not clinically meaningful 
+• 
+Age, creatinine clearance, and race were not identified as covariates in the population PK 
+model 
+ 
+Reference ID: 4593552
+
+
+===== PAGE 89 =====
+
+NDA/ BLA Multi-disciplinary Review and Evaluation - NOA 213411 
+Tradename™ (tucatinib) 
+Exploratory E-R analysis for safety based on subgroup analysis on TEAEs did not 
+identify correlation between Ctrouch and incidence of TEAEs (Table 5). 
+Table 5: Summary of TEAE by Quartiles of Average Tucatinib Ctrough in Study HER2CLIMB 
+Tuc+Cap+Tra 
+=385 
+T ucatinib Q l 
+Tucatitub Q2 
+Tucatinib Q3 
+TucatitubQ4 
+Pbo+Cap+ T ra 
+(N=94) 
+(N=93) 
+(N=93) 
+(N=93) 
+(N=l97) 
+n(%) 
+11 (%) 
+n(%) 
+11 (%) 
+11(%) 
+AJ1yTEAE 
+93 (98.9) 
+93 (JOO) 
+93 (JOO) 
+93 (JOO) 
+191 (97.0) 
+:::Gracie 3 TEAE 
+62 (66.0) 
+46 (49.5) 
+50 (53.8) 
+45 (48.4) 
+96 (48.7) 
+AJ1y TESAE 
+33 (35.1) 
+21 (22.6) 
+20 (21.5) 
+18 (19.4) 
+53 (26.9) 
+TEAE leading to death 
+2 (2.1) 
+2 (2.2) 
+I (J. l) 
+0 
+6 (3.0) 
+Subjects who discontinued tuc.ati.11iblplaccbo due to TEAE 
+4 (4.3) 
+5 (5.4) 
+2 (2.2) 
+3 (3.2) 
+6 (3.0) 
+S11bjects who discontinued capecitabine clue to TEAE 
+14 (14.9) 
+8 (8.6) 
+3 (3.2) 
+8 (8.6) 
+18 (9.1) 
+Subjects who discontinued trasn1zumab due to TEAE 
+4 (4.3) 
+6 (6.5) 
+2 (2.2) 
+1 (1.1) 
+5 (2.5) 
+Subjects with tucatitub/placebo dose reduction due to TEAE 
+36 (38.3) 
+16 (17.2) 
+12 (12.9) 
+14 ( JS.I) 
+21 (10.7) 
+Subjects with tucatinib/placcbo dose hold due to TEAE 
+71 (75.5) 
+52 (55.9) 
+29 (31.2) 
+45 (48.4) 
+80 (40.6) 
+Source: Applicant's response to FDA's information request, eCTD sequence No. 22 
+In addition, exploratory E-R analysis for safety based on AUC and Cmax with data from studies 
+in subjects with cancer (studies 101, 004, 005) also suggest no evident association between 
+tucatinib exposure ( Cmax and AUC) and Grade ~3 TEAE, TE SAE (Table 6). This analysis does 
+suggest correlation between Cmax and AUC between dose modifications with the data from 
+dose up to 800 mg BID dose. Given the dose reduction rate of 20% in the HER2CLIMB study, 
+the regulatory authorities considered the selection of 300 mg dose acceptable. 
+Table 6: Subgroup Analysis with Safety Data from Studies 101, 004 and 005 
+Tucatinib Exposure 
+(Pooled from Studies 101, 004 and 005) 
+N'=l 10 
+AUCtau 
+Cmax 
+n (%) 
+GM (CV%) 
+n(%) 
+GM(CV%) 
+Grad~3 TEAE Cfes) 
+68 (61.8) 
+4804.3 (81.0) 
+68 (61.8) 
+586.0 (60.7) 
+Grad~3 TEAE (No) 
+42 (38.2) 
+3678.4 (57.6) 
+42 (38.2) 
+451.1 (61.6) 
+TE SAE Cfes) 
+37 (33.6) 
+4620.5 (99.9) 
+37 (33.6) 
+554.9 (74.1) 
+TE SAE(No) 
+73 (66.4) 
+4202.4 (49.2) 
+73 (66.4) 
+518.2 (52.6) 
+TEAE leading to tucatinib dose reduction Cf es) 
+21 (19.1) 
+6141.5 (32.9) 
+21 (19.1) 
+801.8 (28.1) 
+TEAE leading to tucatinib dose reduction (No) 
+89 (80.9) 
+3997.l (83.6) 
+89 (80.9) 
+481.0 (68.4) 
+TEAE leading to tucatinib dose hold Cf es) 
+46 (41.8) 
+5151.5 (44.2) 
+46 (41.8) 
+628.7 (45.4) 
+TEAE leading to tucatinib dose bold (No) 
+64 (58.2) 
+3834.9 (94.1) 
+64 (58.2) 
+469.2 (72.5) 
+Source: Applicant's response to FDA's information request, eCTD sequence No. 34. 
+88 
+Version date: July 24, 2019 (All NOA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as '7he Applicant's Position" are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA. 
+Reference ID 4593552 
+
+
+===== PAGE 95 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation - NOA 213411 
+Tradename™ (tucatinib) 
+6.3.2.4. 
+The Applicant's Position: 
+Are there clinically relevant food-drug or drug-drug 
+interactions, and what is the appropriate management 
+strategy? 
+The effect of food on the PK of tucatinib was not clinically meaningful, thus, tucatinib may be 
+administered without regard to a meal. 
+There are clinically relevant DOI with tucatinib, as described in the data section below. 
+Tucatinib is a strong inhibitor of CYP3A and a weak inhibitor of P-gp. Tucatinib is predominantly 
+eliminated by CYP2C8, and co-administration with strong CYP2C8 inhibitors strong 
+CYP3A/CYP2C8 inducers should be avoided. Recommendations are presented in Table 8. 
+Table 8: Dosing Recommendations for Concomitant Use with Tucatinib 
+Drug Class 
+Strong CYP3A/CYP2C8 inducers 
+Strong CYP2C8 inhibitors 
+J 
+1Dml CYP3A substrate 
+Source: m2.7.2, Tables 49 and 50 
+Data: 
+Dosing Recommendations 
+Avoid concomitant use 
+Avoid concomitant use 
+Avoid concomitant use 
+{tif('li 
+Food-drug interaction: Following administration of a single dose of tucatinib in 11 subjects after 
+a high-fat meal (N58% fat, 26% carbohydrate, and 16% protein), the mean AUC;nf increased by 
+1.5-fold, the T max shifted from 1.7 to 4.0 hours, and Cmax was unaltered. Relative to a fasted 
+state, administration of tucatinib after a high fat meal did not meaningfully impact tucatinib. 
+Tucatinib can be administered with or without a meal. 
+Drug-Drug interactions: The DOI study, ONT-380-012, assessed the effect of a CYP2C8 inhibitor 
+(gemfibrozil), CYP3A inhibitor (itraconazole), and CYP2C8/3A inducer (rifampicin) on the PK of 
+tucatinib. Strong inhibition of CYP2C8 by gemfibrozil increased tucatinib exposure by 3-fold. 
+PBPK modeling indicated that CYP2C8 plays a major role (N75% of primary metabolism) in the 
+elimination of tucatinib. Strong inhibition of CYP3A by itraconazole increased tucatinib 
+exposure by just 1.3-fold, suggesting a minor role (N10% of primary metabolism) for CYP3A in 
+the elimination of tucatinib. These observations were consistent with the observed 48% 
+reduction in tucatinib exposure in response to the strong induction of CYP2C8/3A by rifampicin. 
+The DOI study, ONT-380-012, assessed the effect of tucatinib as the perpetrator on the PK of 
+other drugs, including a CYP2C8 substrate (repaglinide), a CYP3A4 substrate (midazolam), and a 
+P-gp substrate (digoxin). Tucatinib demonstrated strong inhibition of CYP3A, resulting in a 
+5.7-fold increase in midazolam exposure (AUC). Tucatinib demonstrated relatively weak 
+inhibition of CYP2C8, resulting in a 1.7-fold increase in repaglinide exposure (AUC and Cmax), and 
+weak inhibition of P-gp, resulting in a 1.5-fold increase in AUC for digoxin exposure. 
+94 
+Version date: July 24, 2019 (All NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as '7he Applicant's Position" are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA. 
+Reference ID 4593552 
+
+
+===== PAGE 96 =====
+
+NDA/ BLA Multi-disciplinary Review and Evaluation - NOA 213411 
+Tradename™ (tucatinib) 
+The DOI study, SGNTUC-020, assessed the effect of tucatinib as a perpetrator on the PK of 
+metformin, a substrate of MATEl/ 2-K. Tucatinib demonstrated weak inhibition of the 
+MATEl / 2-K renal transporter resulting in a 1.4-fold increase in metformin exposure (AUC). 
+Regulatory Authorities Assessment: 
+Tucatinib as Victim 
+The regulatory authorities agree with Applicant's assessment on the food-drug interaction, 
+based on the results from food effect study Array-380-103 showing that a high-fat meal 
+increased the mean AUC;nf by 1.5-fold, shifted T max from 1. 7 to 4.0 hours, and did not affect 
+Cmax (Table 9). 
+Table 9: Statistical Analysis of Tucatinib PK Parameters (Food Effect) 
+Ratio of 
+Geomett·lc 
+G eom etr ic !\'lea ns 
+90% CI of 
+Tl'eatmeut• 
+N 
+Mean 
+(F ed/Fasre<J) 
+Ratio 
+P VaJueb 
+AUC,M, (hr*n~mL) 
+c 
+11 
+B 
+11 
+A UC;.u (Jn·*ng/mL) 
+c 
+11 
+B 
+11 
+C'""" (ngfmL) 
+c 
+11 
+B 
+11 
+Abbre,·iation: CL confidence inten·aJ. 
+B = ARRY-380 tablets 300 mg. fasted. 
+C = ARRY-380 tablets 300 mg, fed. 
+Source: ARRAY-380-103, Table 9 
+35 13.58 
+14 7.7i 
+124.88- 174.84 
+0.0018 
+23ii.82 
+3661.64 
+148.51 
+125.90- 175. 17 
+0.0015 
+2465.60 
+478.93 
+107.73 
+85.36--135.96 
+0.5749 
+444.57 
+The regulatory authorities agree with the Applicant's position that a proton pump inhibitor 
+does not have a clinically meaningful effect on tucatinib PK, as suggested by results from 
+study ARRAY-380-103 showing minor tucatinib exposure change by omeprazole 40 mg (Table 
+10). 
+Table 10: Statistical Analysis of Tucatinib PK Parameters (PPI Effect) 
+Formulation 
+Tncatinib tablets, fasted 
+=11 
+Omcpraz.olc:+Tucatinib 
+tablets, fasted (N=9) 
+Source: ARRAY-380-103, Table 10 
+Period 
+3 
+4 
+AUCiotRatio 
+Reference 
+87.76 
+(74.00-104.09) 
+AUC1a11Rntio 
+Reference 
+87.89 
+(73.79-104.70) 
+Cmax Ratio 
+Reference 
+86.96 
+( 66.80-113 .2 l) 
+The regulatory authorities generally agree with the Applicant's assessment on the effect of 
+CYP2C8 inhibitor (gemfibrozil), CYP3A inhibitor (itraconazole), and CYP2C8/3A inducer 
+(rifampicin) on the PK of tucatinib (Figure 9). 
+In terms of a prevention/management strategy, the regulatory authorities agree with the 
+applicant's proposal to avoid concomitant use of strong CYP2C8 inhibitor. In addition, the 
+regulatory authorities recommend to reduce the starting dose of tucatinib to 100 mg BID 
+when concomitant use of unavoidable, as the AUC was shown to increase by 3 fold when in 
+combination with strong CYP2C8 inhibitor gemfibrozil, and dose proportionality has been 
+95 
+Version date: July 24, 2019 (All NOA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as '7he Applicant's Position" are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA. 
+Reference ID 4593552 
+
+
+===== PAGE 97 =====
+
+NDA/ BLA Multi-disciplinary Review and Evaluation - NOA 213411 
+Tradename™ (tucatinib) 
+demonstrated below 300 mg BID dose (Figure 1). 
+The drug interaction for tucatinib with moderate CYP2C8 inhibitor has not been evaluated in 
+the clinical trial. It is expected that the effect on the tucatinib by a moderate CYP2C8 inhibitor 
+will be 1 to 3 fold, given that the strong CYP2C8 inhibitor gemfibrozil increased tucatinib AUC 
+by 3 fold. As a result, FDA recommends increasing monitoring for adverse reactions with 
+concomitant use of moderate CYP2C8 inhibitors. 
+Figure 9: Comparison between Concomitant Use of Perpetrators to No Combination 
+CYP2C8 INH (Gernfibrotil) 
+CYP3A IMH (ltraconatole) 
+CYP3A/2C8 IND (Rilampin) 
+1 
+2 
+90% Confidence Interval for GMR to No COMB 
+PK Parameter • 
+AUC • 
+CMAX 
+Source: Reviewer's Analysis 
+Reviewers note: Refer to section 6.2.2.2 for more details with regard to the different opinions 
+between FDA and HC on whether the concomitant use of moderate CYP2CB should be avoided 
+and whether an adjusted starting dose should be recommended. 
+The regulatory authorities agrees with the proposed recommendation to avoid concomitant 
+use of strong CYP3A4 inducers or moderate CYP2C8 inducers. The regulatory authorities do 
+not have a starting dose recommendation when concomitant use is unavoidable due to the 
+following reasons: 
+1) lack of adequate dose proportionality assessment beyond dose of 300 mg BID tablet 
+2) Insufficient clinical safety data at dose beyond 300 mg BID 
+3) Increase dose may lead to unacceptable AEs such as diarrhea and other GI toxicities 
+As such, the regulatory authorities considered that the applicant's recommendation to avoid 
+concomitant use of any strong CYP3A4 or moderate CYP2C8 inducer is acceptable. 
+Tucatinib as Perpentrator 
+The regulatory authorities agree with the applicant's assessment on the DOI potential for 
+tucatinib as the perpetrator on the PK of other drugs, including a CYP2C8 substrate 
+(repaglinide), a CYP3A4 substrate (midazolam), a P-gp substrate (digoxin) and a substrate of 
+MATEl/2-K (metformin). The regulatory authorities also agree with the applicant's position 
+96 
+Version date: July 24, 2019 (All NOA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as '7he Applicant's Position" are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA. 
+Reference ID 4593552 
+
+
+===== PAGE 245 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+244 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+were used for model diagnostics and facilitation of tasks such as covariate testing and 
+bootstrap. 
+Base Model: The base model was developed in 2 stages. In the first stage, data from healthy 
+subjects in Studies ARRAY-380-103 and ONT-380-012 were used to establish the absorption 
+model and estimate the effects of formulation, administration of tucatinib with a high-fat meal, 
+and administration of tucatinib 2 hours after breakfast on tucatinib absorption. A 2-
+compartment model with linear elimination and first-order absorption preceded by an 
+absorption Tlag was found to provide an adequate fit to the healthy data. The model estimated 
+an 11% decrease in Frel with the capsule compared to the tablet, a 38.1% decrease in the first-
+order absorption rate constant (Ka) with a high-fat meal relative to the fasted state, and a 
+43.9% increase in Frel when tucatinib is administered with a high-fat meal or 2 hours after 
+breakfast relative to administration in the fasted state. These effects were considered to apply 
+only to healthy subjects.  
+In the second stage, the final base model was established by fitting the model selected from the 
+first stage to the entire analysis dataset containing data from both healthy subjects and 
+subjects with cancer. With the exception of Tlag, the absorption-related parameters (i.e., Ka 
+and the effects of formulation and prandial state on Ka and Frel in healthy subjects) were fixed 
+to the values estimated in the first stage. The effect of formulation on Frel was applied only to 
+healthy subjects and not subjects with cancer.  
+Parameter estimates for the base model are presented in Table 48. All parameters were 
+precisely estimated, with relative standard errors (RSEs) ≤ 9.3%. Goodness-of-fit plots for the 
+base model are shown in Figure 6 and Appendix 1.4, and they indicate an adequate model fit to 
+the data. No marked systematic trends were seen in the residual diagnostic plots. 
+ 
+Table 48: Tucatinib Base Model Parameter Estimates 
+ 
+Reference ID: 4593552
+
+
+===== PAGE 246 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+245 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+ 
+ 
+Covariate Analysis: The covariates tested in the stepwise covariate search were selected based 
+on a statistically significant reduction in the univariate screening step (p < 0.01) or on clinical 
+interest and were as follows: 
+• Apparent clearance (CL/F): body weight, race, CRCLN, age, NCI hepatic dysfunction 
+category, Eastern Cooperative Oncology Group performance status monotherapy, 
+capsules versus Phase 1b patient combination therapy, tablet) 
+• Apparent central volume of distribution (Vc/F): body weight and albumin 
+• Apparent inter-compartmental clearance (Q/F): weight 
+• Apparent peripheral volume of distribution (Vp/F): weight 
+• Ka: fasted state versus unknown prandial state (i.e., dosing without regard to 
+• food; applied only to subjects with cancer) 
+The covariates added to the model during the forward addition step were population on CL/F, 
+body weight on Q/F, albumin on Vc/F, unknown prandial state on Ka, and body weight on CL/F, 
+in that order. No covariates were removed in the backward elimination step. 
+The Applicant mentioned that a comparison between the capsule and tablet formulations in 
+subjects with cancer was confounded by the fact that the only data from the tablet formulation 
+in subjects with cancer were from combination therapy studies ONT-380-004 and ONT-380-005, 
+whereas the only data from the capsule formulation in subjects with cancer were from ARRAY-
+380-101, in which tucatinib was given as monotherapy. Therefore, rather than categorizing the 
+population covariate as healthy subjects versus subjects with cancer, the population covariate 
+was defined as 3 categories: 
+ 
+Reference ID: 4593552
+
+
+===== PAGE 252 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+251 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+• Increase in apparent inter-compartmental clearance (Q/F) with the increase in body 
+weight 
+• Decrease apparent central volume of distribution (Vc/F) with increasing serum albumin 
+Based on the population PK analysis, the proposed label by the Applicant stated 
+ 
+ 
+ 
+Reviewer’s Comment: As indicated by the VPC plots above and individual plots shown in Figure 
+1.23 in the report, the fitting of PK data in subjects enrolled in study ONT-380-004 and ONT-380-
+005 was poor. The sample size in these subjects was limited and the PK data were highly 
+variable,  suggesting that poor data quality might have affected the results of the analysis. The 
+PK and exposure estimates of subjects in study ONT-380-004 and ONT-380-005 were not reliable 
+and use of the estimates in these subjects should be with caution. 
+Independent analysis was conducted by the FDA reviewer. Representative individual plots of PK 
+profile of tucatinib in healthy volunteers are shown in Figure 25 . While the general conclusions 
+of the population PK analysis are acceptable,  multiple flaws were identified. As indicated in 
+Figure 25 below Cmax of many subjects in healthy volunteers were under estimated, suggesting 
+that the parameter of Ka was not well estimated. Despite these flaws, the concentration in the 
+last few points were well captured indicating that the estimate of clearance is accurate.  
+Overall, despite few flaws identified in the analysis, the reviewer agrees with the Applicant’s 
+conclusions from the population PK analysis on effect of covariates except for the following: 
+• Decrease in apparent clearance (CL/F) in subjects with cancer (i.e., Phase 1a subjects 
+with cancer receiving tucatinib monotherapy in the capsule formulation [ARRAY-380-
+101] and Phase 1b subjects with cancer receiving tucatinib tablets in combination 
+therapy with T-DM1 or trastuzumab and capecitabine [ONT-380-004 and ONT-380-005]) 
+compared to healthy subjects 
+ 
+ 
+ 
+Reference ID: 4593552
+(b) (4)
+
+
+===== PAGE 254 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+253 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+o R_SEAT_1B Final PK Report: Development of a physiologically based pharmacokinetic model 
+for tucatinib and primary metabolite ONT-993, using the Simcyp population-based 
+simulator, and subsequent prediction of DDI as perpetrator or victim of drug-drug 
+interactions; 
+o R-SEAT-1B_PK_APPX_C: Development of a fit-for-purpose PBPK model for tucatinib and 
+primary metabolite ONT-993, using the Simcyp population-based simulator, and subsequent 
+prediction of DDI as perpetrator of CYP3A4, CYP2C8, CYP2C9 or MATE1/2k inhibition; 
+o R-SEAT-1B_PK_APPX_D: Extension of a previously developed PBPK model for tucatinib and 
+primary metabolite ONT-993 within the Simcyp population-based simulator to enable 
+evaluation of potential CYP and transporter mediated drug-drug interactions as victim. 
+The Division of Pharmacometrics has reviewed the PBPK reports, supporting modeling files, and 
+the Applicant’s responses to FDA’s information requests (IRs) submitted on February 5, 2020, 
+and concluded the followings.  
+o The tucatinib and its metabolite ONT-993 PBPK models are adequate to predict the 
+tucatinib and ONT-993 PK profiles following a single dose administration (300 mg) and 
+multiple does administration (300 mg, bid) in healthy subjects. 
+o The tucatinib PBPK model is adequate to predict the effect of itraconazole (a strong CYP3A4 
+inhibitor) on tucatinib PK following multiple dose administration of tucatinib (300 mg, BID)  
+and multiple dose administration of itraconazole (200 mg, QD). Model predicted tucatinib 
+geometric mean AUC ratio was 1.09 with itraconazole in healthy subjects. 
+o The tucatinib PBPK model is adequate to predict the effect of gemfibrozil (a strong CYP2C8 
+inhibitor) on tucatinib PK following multiple dose administration of tucatinib (300 mg, BID)  
+and multiple dose administration of gemfibrozil (600 mg, BID). Model predicted tucatinib 
+geometric mean AUC ratio was 4.35 with gemfibrozil in healthy subjects. 
+o The tucatinib PBPK model is adequate to predict the effect of carbamazepine (a strong 
+CYP3A4 inducer) on tucatinib PK following multiple dose administration of tucatinib (300 
+mg, BID)  and multiple dose administration of carbamazepine (400 mg, BID). Model 
+predicted tucatinib geometric mean AUC ratio was 0.70 with carbamazepine in healthy 
+subjects. 
+o The tucatinib PBPK model is adequate to predict the effect of phenytoin (a strong CYP3A4 
+inducer) on tucatinib PK following multiple dose administration of tucatinib (300 mg, BID)  
+and multiple dose administration of phenytoin (300 mg, QD). Model predicted tucatinib 
+geometric mean AUC ratio was 0.84 with phenytoin in healthy subjects. 
+o The tucatinib PBPK model is adequate to predict the effect of tucatinib on raltegravir (a 
+UGT1A1 substrate) and rosuvastatin (an OATP1B1/3 substrate) PK following multiple dose 
+administration of tucatinib (300 mg, BID) and a single dose administration of raltegravir and 
+rosuvastatin. Model predicted changes in the exposure of raltegravir and rosuvastatin were 
+not considered clinically significant when coadministered with multiple dose of tucatinib in 
+healthy subjects. 
+Applicant’s PBPK Modeling Effort 
+Reference ID: 4593552
+
+
+===== PAGE 255 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+254 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+PBPK software 
+Simcyp V17 (Simcyp Ltd, UK) was used by the Applicant to develop the PBPK models and DDI 
+predictions. The reviewer used the same software and version for analyses. 
+Model development 
+Tucatinib 
+The tucatinib model consisted of a first order absorption and a whole-body PBPK model.  The 
+absorption rate constant (ka) and lag time (Tlag) were estimated to be 0.6 1/h and 0.5 hr, 
+respectively, based on the observed tucatinib PK in healthy subjects in Study ARRAY-380-103. 
+The fu,gut (unbound fraction in enterocytes) was set to be 1.0. The Peff,man (permeability in man) 
+was predicted to be 2.19X10-4 cm/s based on the permeability data in Caco-2 cells. 
+The whole-body full PBPK model was used to simulate tucatinib distribution. The volume of 
+distribution (Vss, 2.08 L/kg ) was predicted using Method 1 in Simcyp and subsequently 
+optimized based on the observed tucatinib PK in healthy subjects in Study ARRAY-380-103 using 
+a global Kp scalar of 0.4.  
+Tucatinib oral clearance (124 L/h) after a single dose of 300 mg tablets under fasted condition 
+in Study ARRAY-380-103 was used for the retrograde calculation of unbound hepatic intrinsic 
+clearance by CYP2C8 and CYP3A4. The percentages of tucatinib metabolized by CYP3A4 and 
+CYP2C8 were assigned as 10% and 75% according to the clinical DDI study results with 
+itraconazole and gemfibrozil, respectively. The rest of the metabolism was assigned as the 
+additional human liver microsome clearance (15%). Renal elimination was not considered in the 
+model because the majority of tucatinib clearance was attributed to metabolic elimination, 
+with minimal drug excreted unchanged in urine. 
+The in vitro Ki values of CYP2C8 (0.17 µM) and CYP2C9 (4.57 µM) were used in the tucatinib 
+model to simulate the observed repaglinide (a CYP2C8 substrate) and tolbutamide (a CYP2C9 
+substrate) DDI. 
+Based on in vivo clinical DDI study results, a 20-, 20-, and 15-fold reduction in the in vitro Ki 
+values for MATE, OCT2 and P-gp, respectively, were incorporated in the model to simulate the 
+observed DDI with metformin (a MATE and OCT2 substrate) and digoxin (a P-gp substrate). 
+The in vitro reversible inhibition constant (Ki=0.805 µM ), in vitro inactivation rate constant 
+(kinact=0.66) and a 3-fold reduction in the in vitro inactivation constant (KI=0.18 µM) for 
+CYP3A4 were incorporated in the model to simulate the observed DDI with midazolam. 
+The in vitro Ki of UGT1A1 or OATP1B1 and OATP1B3 were applied in the model to predict the 
+DDI of tucatinib as perpetrator when co-administered with a single dose raltegravir or 
+rosuvastatin. A sensitivity analysis of UGT1A1 or  OATP1B1 and OATP1B3 Ki values were 
+conducted to assess the effect on raltegravir or rosuvastatin exposure. 
+Metabolite ONT-993 
+Reference ID: 4593552
+
+
+===== PAGE 258 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+257 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+Observed and simulated tucatinib or midazolam geometric mean Cmax and AUC ratios in the 
+presence and absence of a CYP modulator in healthy subjects. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a: geometric mean AUC0-12h 
+Source: from FDA’s reviewer’s simulations using Applicant’s refined final model and FDA’s model 
+ 
+In the response to the FDA’s IR, the Applicant assessed the effect of a moderate CYP2C8 
+inhibitor on the PK of tucatinib. A hypothetic sensitive CYP2C8 substrate was developed based 
+on the rosiglitazone (a moderately sensitive CYP2C8 substrate) model by increasing the 
+fmCYP2C8 from approximately 50% to 90% for rosiglitazone. The Applicant modified the lower 
+end and higher end of the Ki values in the gemfibrozil and its metabolite, gemfibrozil 1-O-β 
+glucuronide models to mimic moderate CYP2C8 inhibition effect to achieve >2 to <5-fold 
+increase in the AUC of a sensitive CYP2C8 substrate. The Applicant’s approach can be used for 
+risk assessment purpose to provide a range of potential DDI magnitude. However, this 
+approach cannot be used to inform tucatinib dose adjustment because the predicted high end 
+of AUCR of tucatinib with a moderate CYP2C8 inhibitor was 3, which was similar to the 
+observed AUCR with a strong CYP2C8 inhibitor using this approach and there were 
+ 
+Without CYP modulator/substrate 
+With CYP modulator/substrate 
+Sources 
+Cmax (ng/mL) 
+AUC (ng*h/mL) 
+Cmax ratio 
+AUC ratio 
+Obs. 
+Pred. RPred/Obs Obs. Pred. 
+RPred/Obs Obs. Pred. 
+Obs. 
+Pred. 
+Applicant’s 
+refined 
+model 
+300 mg, SD, 
+w/ or w/o 
+itraconazole 
+Tucatinib 488 
+378 
+0.77 
+3350 2814 
+0.84 
+1.32 
+1.24 
+1.34 
+1.26 
+ONT-380-
+012, Part A 
+ONT-993 62 
+47 
+0.76 
+512 
+323 
+0.63 
+300 mg, SD, 
+w/ or w/o 
+gemfibrozil 
+Tucatinib 410 
+375 
+0.92 
+2480 2765 
+1.12 
+1.62 
+1.81 
+3.04 
+3.42 
+ONT-380-
+012, Part C 
+ONT-993 49 
+51 
+1.04 
+415 
+348 
+0.84 
+300 mg, bid, 
+w/ or w/o 
+midazolam 
+Tucatinib 554 
+550 
+0.99 
+3120a 3376 
+1.08 
+3.01 
+2.51 
+5.74 
+5.71 
+ONT-380-
+012, Part E 
+ONT-993 87 
+74 
+0.85 
+522a 443 
+0.85 
+FDA’s 
+model 
+300 mg, SD, 
+w/ or w/o 
+itraconazole 
+Tucatinib 488 
+386 
+0.80 
+3350 2833 
+0.85 
+1.32 
+1.27 
+1.34 
+1.36 
+ONT-380-
+012, Part A 
+ONT-993 62 
+56 
+0.90 
+512 
+386 
+0.75 
+300 mg, SD, 
+w/ or w/o 
+gemfibrozil 
+Tucatinib 410 
+385 
+0.94 
+2480 2835 
+1.14 
+1.62 
+1.63 
+3.04 
+3.00 
+ONT-380-
+012, Part C 
+ONT-993 49 
+48 
+0.98 
+415 
+328 
+0.80 
+300 mg, bid, 
+w/ or w/o 
+midazolam 
+Tucatinib 554 
+592 
+1.07 
+3120a 374a 
+1.20 
+3.01 
+2.43 
+5.74 
+5.70 
+ONT-380-
+012, Part E 
+ONT-993 87 
+68 
+0.78 
+522a 534a 
+1.02 
+Reference ID: 4593552
+
+
+===== PAGE 262 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation – NDA 213411 
+Tradename™ (tucatinib)  
+ 
+ 
+ 
+261 
+Version date: July 24, 2019 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed by the Applicant 
+and do not necessarily reflect the positions of the FDA.  
+Table 52. Model predicted tucatinib (300mg bid) Cmax  and AUC ratios in the presence and 
+absence of a CYP3A modulator at steady-state in healthy subjects 
+ 
+ 
+ 
+ 
+ 
+ 
+5. Can FDA refined tucatinib PBPK model predict the effect of tucatinib on the PK of 
+raltegravir (a UGT1A1 substrate) in healthy subjects? 
+Yes. In vitro studies indicated that tucatinib is a UGT1A1 inhibitor with an in vitro 
+determined Ki value of 1.81 M.  The model predicted raltegravir exposure was not 
+significantly affected by concomitant tucatinib using the in vitro determined UGT1A1 Ki 
+value (AUCR=1.04). The reviewer further conducted a sensitivity analysis of tucatinib 
+UGT1A1 Ki to assess the effect on the predicted raltegravir exposure. The simulated 
+raltegravir AUC ratios were 1.27  and  1.45 with 10- and 20-fold lower UGT1A1 Ki values, 
+respectively than the in vitro determined. In vivo effect of tucatinib on a UGT1A1 substrate 
+is expected to be weak unless there are potential safety concerns with the UGT1A1 
+substrate. 
+6. Can FDA refined tucatinib PBPK model predict the effect of tucatinib on the PK of 
+rosuvastatin (an OATP1B1/3 substrate) in healthy subjects? 
+Yes. In vitro studies indicated that tucatinib is an OATP1B1/3 inhibitor with an in vitro 
+determined OATP1B1 Ki value of 5 M and OATP1B3 Ki value of 4 M. The model predicted 
+rosuvastatin exposure was not significantly affected by concomitant tucatinib using the in 
+vitro determined OATP1B1/3 Ki values (AUCR = 1.0) or  10-fold lower OATP1B1/3 Ki values 
+(AUCR=1.03) than the in vitro determined. The reviewer noticed the version difference 
+between Simcyp V17 and Simcyp V19 with respect to the rosuvastatin PBPK model. Simcyp 
+V19 was also used to evaluate the effect of tucatinib on rosuvastatin exposure and no 
+difference was found in the predicted rosuvastatin AUC ratios in the presence and absence 
+of tucatinib using Simcyp V17 or V19. Therefore, the rosuvastatin exposure would not be 
+expected to be significantly affected by concomitant tucatinib. 
+ 
+Bioanalytical Method Summary 
+Validated bioanalytical assays using liquid chromatography with tandem mass spectrometry 
+(LC-MS/MS) were used throughout the tucatinib clinical program to quantify tucatinib, ONT-
+993, co-administered drugs and metabolites(Table 53)  
+ 
+ 
+CYP3A modulators 
+CmaxR 
+AUCR 
+Itraconazole  (a strong CYP3A inhibitor), 200 mg, QD 
+1.07 
+1.09 
+Gemfibrozil (a strong CYP2C8 inhibitor), 600 mg, BID 
+2.97 
+4.35 
+Carbamazepine (a strong CYP3A4 inducer), 400 mg, BID 
+0.72 
+0.70 
+Phenytoin (a strong CYP 3A4 inducer), 300 mg, QD 
+0.86 
+0.84 
+Reference ID: 4593552

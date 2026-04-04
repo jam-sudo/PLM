@@ -1,0 +1,2423 @@
+
+
+===== PAGE 9 =====
+
+NDA214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+8 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table 48: Select Laboratory Abnormalities (≥10%) Worsening from Baseline in Patients 
+Receiving Infigratinib in Study CBGJ398X2204 (Interim Analysis Set 2 for Cohort 1) ................ 183 
+Table 49 ‐ All Grade laboratory abnormalities occurring in ≥ 10% of patients .......................... 184 
+Table 50: QT, QTcF, and QTcB Outlier Values (Study CBGJ398X2204 Interim Analysis Set 2 for 
+Cohort 1: Subjects with Both Baseline and Postbaseline ECG Assessment) .............................. 186 
+Table 51: Overall Summary of Treatment‐Emergent Adverse Events by Subgroup (Study 
+CBGJ398X2204 Interim Analysis Set 2 for Cohort 1) ................................................................. 191 
+Table 52: Treatment Emergent Adverse Events Occurring in ≥10% of All Subjects by Preferred 
+Term and Subgroup (Study CBGJ398X2204 Interim Analysis Set 2 for Cohort 1) ...................... 192 
+Table 53: Summary of Significant Labeling Changes ................................................................. 205 
+Table 54. Summary of bioanalytical method performance in infigratinib clinical studies. ........ 222 
+Table 55. Summary of dose normalized descriptive PK by formulations, based on 5 healthy 
+volunteer studies CBGJ398X2103, CBGJ398A2104, CBGJ398A2105, CBGJ398A2106, QBGJ398‐
+109. ........................................................................................................................................... 226 
+Table 56. Descriptive statistics of dose normalized AUCactivity (μM*h/mg) by formulations across 
+healthy volunteer studies. ........................................................................................................ 227 
+Table 57. Summary of simulated geometric mean (CV%) of infigratinib Cmax and overall 
+AUCacitivity following oral administration of infigratinib 125 mg (FMI‐I, FMI‐III and FMI‐IV) on 
+C1D1 and C1D15. ...................................................................................................................... 227 
+Table 58. Studies Included for Population PK Analysis. ............................................................. 229 
+Table 59. Summary of Baseline Demographic Characteristics and Laboratory Values in the 
+Dataset. ..................................................................................................................................... 232 
+Table 60. Number of Samples for Population PK Analysis in Interim Dataset 2 (March 2020 
+Cutoff) Stratified by Analyte. ..................................................................................................... 233 
+Table 61. Parameter Estimates and SE from Final Infigratinib Population PK Model. ............... 233 
+Table 62. Parameter Estimates and SE from Final BHS697 Population PK Model. .................... 234 
+Table 63. Parameter Estimates and SE from Final CQM157 Population PK Model. .................. 235 
+Table 64. Ratio of AUC Geomean Relative to Normal Hepatic/renal Function for Each Organ 
+Impairment Category in Study 2204. ........................................................................................ 237 
+Table 65. Geometric Mean of Simulated Exposures at 125, 100, and 75 mg by Hepatic 
+Impairment Category in Study 2204. ........................................................................................ 238 
+Table 66. Geometric Mean of Simulated Exposures at 125, 100, and 75 mg by Renal Impairment 
+Category in Study 2204. ............................................................................................................ 238 
+Table 67 Geometric Mean of Simulated AUC0‐24h Activity and Infigratinib Cmax at 50, 75, 100, 125 
+mg by Organ Impairment Category in Study 2204. ................................................................... 240 
+Table 68. Studies Included for E‐R Analyses. ............................................................................. 245 
+Table 69. Summary of Baseline Demographic Characteristics in the Dataset by Last Dose. ..... 246 
+Table 70. Summary of Baseline Demographic Characteristics from Patients with 
+Pharmacokinetic observations in the Dataset by Study. ........................................................... 250 
+Table 71: Distribution of FGFR2 Fusions or other Rearrangements per Local and/or Central 
+Testing (N=108) ......................................................................................................................... 254 
+Reference ID: 4802513
+
+
+===== PAGE 49 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+48 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+contribution by FMO3 (6%) and very minor contributions by CYP2D6, CYP2J2, and CYP1A1/2. In 
+hepatocytes, the main biotransformation pathways of [14C]‐infigratinib observed in all species 
+were N‐oxidation (to form BQR917) and N‐deethylation (to form BHS697). Formation of 
+CQM157 and other metabolites were minor transformation pathways in hepatocytes. In vivo, 
+absorbed [14C]‐infigratinib was extensively metabolized in male and female rats, dogs, and 
+monkeys. All detected human metabolites were also observed in at least one of the 3 species 
+(rats, dogs, or monkeys). Elimination of drug‐related material occurred predominantly via the 
+feces in rats, dogs, and monkeys. After single doses of infigratinib, the steady‐state plasma 
+clearance was high with t1/2 values of 1.47 hr to 5.2 hr across species and route of 
+administration. The PK of the metabolites was characterized in the rat and dog toxicology 
+studies and in pregnant rats and rabbits as part of the embryofetal‐development studies. There 
+were no relevant differences in infigratinib systemic exposure between males and females 
+across species. Accumulation in exposure to infigratinib or metabolites after multiple daily 
+doses of infigratinib was <2 to 3‐fold across species and studies.  In pregnant rabbits, significant 
+accumulation of infigratinib, BHS697, and BQR917 was observed on DG 19 relative to DG 7 (and 
+less than 3‐fold accumulation for CQM157). 
+The FDA’s Assessment: 
+FDA generally agrees with the Applicant’s position. 
+ 
+Major Findings
+Absorption 
+RD‐2006‐01894, 
+0900385, 0800707, 
+1300399, 0770963‐01, 
+0610059, 0770100, 
+0870299, 1270617 
+ 
+Infigratinib absorption time ranged from 0.5 to 9.5 hr post‐dose across species 
+ 
+The bioavailability (F) ranged from 1.5% to 51% across species 
+ 
+Distribution 
+1300282, 0800423, 
+0800707, 1300098 
+ 
+Brain‐to‐plasma ratio of 0.68 (based on AUC0‐inf) 
+ 
+Plasma protein binding of [14C]‐BGJ398 using equilibrium dialysis 
+ 
+ 
+In vitro blood distribution study with [14C]‐BGJ398 from 10 to 10000 ng/mL 
+ 
+ 
+Quantitative whole‐body autoradiography study after a single oral dose of [14C]‐BGJ398 
+in male pigmented rats (ten highest) 
+Reference ID: 4802513
+
+
+===== PAGE 81 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+80 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+PMR 
+Description 
+Conduct a drug interaction study to evaluate the effect of a P‐gp inhibitor on the 
+pharmacokinetics of infigratinib and its major metabolites to assess the 
+magnitude of increased drug exposure and determine appropriate dosage 
+recommendations when infigratinib is administered concomitantly with P‐gp 
+inhibitors. Design and conduct the study in accordance with the FDA Guidance for 
+Industry titled “ Clinical Drug Interaction Studies —Cytochrome P450 Enzyme‐ and 
+Transporter‐Mediated Drug Interactions.” 
+Post‐Marketing Requirement‐4 
+PMR 
+Rationale 
+Infigratinib is a BCRP inhibitor and substrate in vitro. BCRP may potentially be 
+responsible in part for the infigratinib plasma exposure accumulation ratio of 8‐
+fold for Cmax and 5‐fold for AUC at steady state following a dosage of 125 mg QD 
+in patients. The risk of concomitant use of BCRP inhibitors to increase infigratinib 
+plasma exposure, leading to increased adverse reactions, and the 8‐fold drug 
+exposure increase at steady state, can not been ruled out. 
+PMR 
+Description 
+Conduct a drug interaction study to evaluate the effect of a BCRP inhibitor on the 
+pharmacokinetics of infigratinib and its major metabolites to assess the 
+magnitude of increased drug exposure and determine appropriate dosage 
+recommendations when infigratinib is administered concomitantly with BCRP 
+inhibitors. Design and conduct the study in accordance with the FDA Guidance for 
+Industry titled “ Clinical Drug Interaction Studies —Cytochrome P450 Enzyme‐ and 
+Transporter‐Mediated Drug Interactions.” 
+Post‐Marketing Requirement‐5 
+PMR 
+Rationale 
+Infigratinib is a BCRP inhibitor and substrate in vitro. BCRP is potentially 
+responsible for the infigratinib plasma exposure accumulation ratio of 8‐fold for 
+Cmax and 5‐fold for AUC at steady state following a dosage of 125 mg QD in 
+patients. In addition, the effect of infigratinib on increasing plasma exposures of 
+BCRP substrates cannot been ruled out. 
+PMR 
+Description 
+Conduct a drug interaction study in patients to evaluate the effect of multiple‐
+dose infigratinib on the pharmacokinetics of a BCRP substrate to assess the 
+magnitude of increased drug exposure and determine appropriate dosage 
+recommendations when infigratinib is administered concomitantly with BCRP 
+substrates. Design and conduct the study in accordance with the FDA Guidance 
+for Industry titled “ Clinical Drug Interaction Studies —Cytochrome P450 Enzyme‐ 
+and Transporter‐Mediated Drug Interactions.” 
+Post‐Marketing Requirement‐6 
+Reference ID: 4802513
+
+
+===== PAGE 94 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+93 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table 9. Statistical analysis of infigratinib and CQM157, BHS697 systemic exposure, 
+comparisons of subjects with moderate renal impairment (Test) to healthy subjects with 
+normal renal function (reference).  
+Analyte 
+PK parameter 
+GeoMean Test
+GeoMean Ref
+Ratio (%) 
+(Test/Ref) 
+90% CI
+Infigratinib 
+Cmax (ng/mL) 
+32.1 
+32.5
+98.8
+(48.8, 228.2)
+AUClast (h*ng/mL) 
+392 
+291
+134.9
+(62.8, 289.8)
+AUCinf (h*ng/mL) 
+512 
+325
+157.8
+(74.2, 335.4)
+CQM157 
+Cmax (ng/mL) 
+31.9 
+36.2
+88.2
+(50.7, 153.5)
+AUClast (h*ng/mL) 
+1050
+987
+106.8
+(67.6, 168.6)
+AUCinf (h*ng/mL) 
+1480
+1080
+136.8
+(80.0, 234.0)
+BHS697 
+Cmax (ng/mL) 
+8.66 
+5.88
+147.2
+(64.6, 335.7)
+AUClast (h*ng/mL) 
+161 
+95.0
+169.0
+(88.1, 324.0)
+AUCinf (h*ng/mL) 
+246 
+124
+199.0
+(91.4, 433.4)
+Source: EDR 5.3.3.3 Study QBGJ398‐110 report Table 17. 
+Table 10. TEAEs leading to dose modification stratified by renal function categories.  
+Dose Modification 
+Normal (n=71) 
+CLcr ≥ 90 mL/min 
+Mild RI (n=29)
+CLcr 60 to < 90 mL/min 
+Moderate RI (n=7)
+CLcr 45 to < 60 mL/min 
+TEAEs leading to dose interruption 
+63.4% (45/71) 
+62.1% (18/29) 
+85.7% (6/7) 
+TEAEs leading to dose reduction 
+54.9% (39/71)
+69.0% (20/29)
+57.1% (4/7) 
+TEAEs leading to dose discontinuation   11.3% (8/71) 
+13.8% (4/29) 
+42.9% (3/7) 
+Source: EDR 1.11.3 Response to FDA RFI‐ClinPharm ‐23 Dec 2020. 
+Table 11. Simulated potency adjusted AUCacitivity (μM*h) of infigratinib and BHS697, CQM157 
+for each renal impairment category in Study CBGJ398X2204 at 125 mg, 100 mg, and 75 mg.  
+NCI criteria 
+N 
+AUCactivity,ss Geometric Mean and 90% CI 
+125 mg
+100 mg
+75 mg 
+Normal renal function 
+CLcr ≥ 90 mL/min 
+52 
+41.4 (22.2, 70.6) 
+33.1 (17.8, 56.5) 
+24.8 (13.4, 42.4) 
+Mild renal impairment 
+CLcr 60 to < 90 mL/min 
+20 
+54.7 (34.0, 103.5)
+43.8 (27.2, 82.8)
+32.8 (20.4, 62.1)
+Moderate renal impairment 
+CLcr 45 to < 60 mL/min 
+7 
+56.9 (38.5, 73.8) 
+45.5 (30.8, 59.0) 
+34.2 (23.1, 44.3) 
+Source: EDR 1.11.3 Response to FDA RFI‐ClinPharm ‐23 Dec 2020. 
+Hepatic Impairment:
+ 
+ Dose reduction is necessary for patients 
+with mild hepatic impairment based on the Applicant’s updates with results from the dedicated 
+hepatic impairment study as well as the safety and PK assessments from study CBGJ398X2204. 
+Reference ID: 4802513
+(b) (4)
+
+
+===== PAGE 96 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+95 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+infigratinib at a dosage of 125 mg QD and 100 mg QD throughout the study. Therefore, 
+it is likely the 100 mg starting dose has the potential to maintain efficacy (given the 
+uncertain flat or negative trend in the E‐R for efficacy) and also appears relatively well 
+tolerated, with a potential for additional dose reduction based on phosphate levels and 
+individual tolerability in accordance with the proposed package insert.   
+b. At a starting dose of 75 mg QD in patients with mild hepatic impairment, the simulated 
+steady state AUCactivity (34.2‐37.7 μM*h) is lower than that of patients with normal 
+hepatic function following 125 mg QD starting dose. (Table 15) Given the inconclusive 
+exposure‐efficacy relationship, and limited patient data at the 75 mg dose level, FDA 
+recommends a starting dose of 100 mg, in patients with mild hepatic impairment, with 
+the potential for further dose reduction based on phosphate levels and individual 
+tolerability as proposed in the package insert.  
+c. The reviewer’s analysis supports the dosage recommendation of 100 mg QD for mild 
+hepatic impairment, where the steady state AUCactivity has a better match to patients 
+with normal hepatic function taking infigratinib at 125 mg QD.   
+Based on the above, FDA recommends a starting dose reduction to 100 mg QD for 21 days 
+in 28‐day cycle for patients with mild hepatic impairment.  
+FDA agrees with the Applicant’s proposal of a starting dose of 75 mg QD for patients with 
+moderate hepatic impairment. The dosage recommendations are verified based on the 
+AUCactivity matching at steady state using population PK simulation in Study CBGJ398X2204. 
+Although the PK simulation is only based on 5 patients with moderate hepatic impairment 
+and all patients received infigratinib at 125 mg QD or 100 mg QD during the study, 
+additional support for the 75 mg starting dose is further supported by results from the 
+dedicated study. Specifically, a single dose of 125 mg infigratinib would cause a 182% 
+increase in AUC in subjects with moderate hepatic impairment. Therefore, a dose reduction 
+to 100 mg will not be sufficient to reduce the safety concern associated with by the further 
+elevated infigratinib exposure at steady state.  
+Table 12. Statistical analysis of infigratinib and CQM157, BHS697 systemic exposure, 
+comparisons of subjects with mild hepatic impairment (Child Pugh A, Test) to healthy subjects 
+with normal function (reference).  
+Analyte 
+PK parameter 
+GeoMean Test
+GeoMean Ref
+Ratio (%) 
+(Test/Ref) 
+90% CI
+Infigratinib 
+Cmax (ng/mL) 
+83.3 
+46.6
+178.9
+(133.8, 239.2)
+AUCt (h*ng/mL) 
+802 
+436
+183.8
+(124.3, 271.8)
+AUCinf (h*ng/mL) 
+829 
+447
+185.6
+(123.5, 278.8)
+CQM157 
+Cmax (ng/mL) 
+34.4 
+43.1
+79.8
+(50.3, 126.5)
+AUCt (h*ng/mL) 
+1060
+1120
+94.3 
+(57.1, 155.7)
+AUCinf (h*ng/mL) 
+1220
+1180
+103.4
+(61.3, 174.6)
+Reference ID: 4802513
+
+
+===== PAGE 97 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+96 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+BHS697 
+Cmax (ng/mL) 
+9.2 
+10.8
+85.0
+(55.0, 131.6)
+AUCt (h*ng/mL) 
+150 
+164
+91.2
+(68.5, 121.6)
+AUCinf (h*ng/mL) 
+187 
+208
+89.7
+(66.4, 121.1)
+Source: EDR 5.3.3.3 Study QBGJ398‐107 report Table 24. 
+Table 13. Statistical analysis of infigratinib and CQM157, BHS697 systemic exposure, 
+comparisons of subjects with moderate hepatic impairment (Child Pugh B, Test) to healthy 
+subjects with normal function (reference).  
+Analyte 
+PK parameter 
+GeoMean Test
+GeoMean Ref
+Ratio (%) 
+(Test/Ref) 
+90% CI
+Infigratinib 
+Cmax (ng/mL) 
+112 
+71.8
+155.9
+(101.2, 240.2)
+AUCt (h*ng/mL) 
+1590
+614
+259.2 
+(154.8, 434.0)
+AUCinf (h*ng/mL) 
+1640
+626
+261.5
+(155.7, 439.2)
+CQM157 
+Cmax (ng/mL) 
+28.9 
+46.8
+61.7
+(39.1, 97.3)
+AUCt (h*ng/mL) 
+1050
+1330
+78.9
+(48.8, 127.6)
+AUCinf (h*ng/mL) 
+629 
+1530
+41.0
+(24.9, 67.5)
+BHS697 
+Cmax (ng/mL) 
+13.0 
+22.8
+56.7
+(34.4, 93.5)
+AUCt (h*ng/mL) 
+252 
+319
+78.9
+(51.8, 120.4)
+AUCinf (h*ng/mL) 
+320 
+381
+84.0
+(54.3, 129.9)
+Source: EDR 5.3.3.3 Study QBGJ398‐107 report Table 25. 
+Table 14. TEAEs leading to dose modification stratified by hepatic function categories.  
+Dose Modification 
+Normal (n=53)  
+Mild HI (n=50) 
+Moderate HI (n=4) 
+TEAEs leading to dose interruption 
+62.3% (33/53) 
+66% (33/50) 
+75% (3/4) 
+TEAEs leading to dose reduction 
+54.7% (29/53)
+64.0% (32/50)
+50% (2/4) 
+TEAEs leading to dose discontinuation  
+18.9% (10/53) 
+10% (5/50) 
+0% 
+Source: EDR 1.11.3 Response to FDA RFI‐ClinPharm ‐23 Dec 2020. 
+Table 15. Simulated potency adjusted AUCacitivity (μM*h) of infigratinib and BHS697, CQM157 
+for each renal impairment category in Study CBGJ398X2204 at 125 mg, 100 mg, and 75 mg.  
+NCI criteria 
+N 
+AUCactivity Geometric Mean and 90% CI 
+125 mg
+100 mg
+75 mg 
+Normal hepatic function 
+38 
+38.8 (22.6, 67.3) 
+31.0 (18.1, 53.9) 
+23.3 (13.5, 40.4) 
+Mild B1 hepatic impairment 
+29 
+57.0 (34.4, 115.0) 
+45.6 (27.5, 92.0) 
+34.2 (20.7, 69.0) 
+Mild B2 hepatic impairment 
+7 
+62.9 (42.1, 82.6) 
+50.3 (33.7, 66.1) 
+37.7 (25.2, 50.0) 
+Moderate hepatic impairment 
+5 
+77.4 (50.7, 127.5) 
+61.9 (40.6, 102.0) 
+46.4 (30.4, 76.5) 
+Source: EDR 1.11.3 Response to FDA RFI‐ClinPharm ‐23 Dec 2020. 
+Other special populations: FDA agrees with the Applicant’s position that no therapeutic 
+Reference ID: 4802513
+
+
+===== PAGE 100 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+99 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Steady‐state 
+exposure at the 
+proposed dosing 
+regimen 
+Steady‐state is achieved within 15 days of QD dosing. 
+At 125 mg QD (3 weeks on/1 week off) in cholangiocarcinoma patients the observed exposure 
+was: 
+Infigratinib 
+ 
+AUC0‐24hr=6284 ng*hr/mL (42 %CV), n=8 
+ 
+Cmax=330 ng/mL (49 %CV), n=11 
+BHS697 
+ 
+AUC0‐24hr=1027 ng*hr/mL (59 %CV), n=8 
+ 
+Cmax=52 ng/mL (63 %CV), n=11 
+CQM157 
+ 
+AUC0‐24hr=431 ng*hr/mL (59 %CV), n=7 
+ 
+Cmax=20 ng/mL (78 %CV), n=11 
+Minimal 
+effective dose or 
+exposure 
+Unknown 
+Maximum 
+tolerated dose 
+125 mg QD continuous 
+Dose 
+Proportionality 
+Following multiple dosing, infigratinib exposures increased more than dose proportionally 
+across the dose range of 5 mg to 150 mg once daily. Infigratinib exposure accumulated 
+significantly following repeated dosing (0.79 to 8.00‐fold, with 8.00‐fold at the 125 mg 3 weeks 
+on/1 week off regimen). 
+ 
+ 
+Reference ID: 4802513
+
+
+===== PAGE 101 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+100 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Accumulation 
+Following once daily dosing at steady state in patients with cholangiocarcinoma (mean [%CV] 
+for infigratinib): 
+ 
+AUC0‐24hr ratio=5.08 (38.5 %CV) 
+ 
+Cmax ratio=7.71 (113.2 %CV) 
+Variability 
+Following 125 mg QD (3 weeks on/1 week off) in cholangiocarcinoma patients, inter‐subject 
+variability (%CV) was 42.0% and 48.6% for steady‐state AUC and Cmax, respectively. 
+Absorption 
+Bioavailability 
+Absolute bioavailability not assessed. Metabolite ID data from hADME study (QBGJ398‐101) 
+indicates the infigratinib fraction absorbed is approximately 69%. 
+Tmax 
+Median (range) Tmax=6 hr (2‐7)  
+Food effect  
+High‐calorie, high‐fat and low‐calorie, low‐fat 
+ 
+GLSM Ratio (%) 
+(90% CI) 
+Infigratinib PK 
+Parameter 
+FMI I Low‐calorie, 
+Low‐fat vs Fasted  
+FMI I High‐calorie, 
+High‐fat vs Fasted 
+FMI III High‐calorie, 
+High‐fat vs Fasted 
+AUCinf  
+ 
+1.66 
+(1.33, 2.07) 
+2.24 
+(1.77, 2.84) 
+1.81 
+(1.51, 2.17) 
+Cmax 
+  
+1.91 
+(1.49, 2.45) 
+1.77 
+(1.38, 2.28) 
+1.62 
+(1.29, 2.04) 
+Administration of infigratinib with food results in significant increase in the PK of infigratinib. 
+Infigratinib should be coadministered 1 hour before or 2 hours after a meal. 
+Distribution 
+Volume of 
+distribution (Vd) 
+Plasma protein binding for infigratinib and its metabolites: 
+Infigratinib: 98.2%  
+BHS697: 98.7%  
+CQM157: 99.5%  
+Brain to plasma ratio (AUCinf)=0.682 in rats after a single oral dose. 
+The mean apparent Vd in cholangiocarcinoma patients on Day 1 was 1247 L (145 %CV). The 
+population predicted steady state mean, based on population PK, was 1180 L (83.0 %CV). 
+Substrate of 
+transporter 
+systems 
+Infigratinib is a substrate for P‐gp and BCRP 
+Elimination 
+Terminal 
+elimination half‐
+life and 
+clearance 
+Following 125 mg of infigratinib 
+The mean (%CV) half‐life of infigratinib in oncology patients at steady state is 11.6 hr (32.0%) 
+and 5.77 hr (44.7 %CV) after a single dose. 
+The mean (%CV) half‐life of infigratinib in cholangiocarcinoma patients after a single dose is 
+6.3 hr (20.4 %CV).  
+The median (min, max) half‐life at steady state of BHS697 and CQM157 in oncology patients is 
+29.1 hr (15.5, 146) and 52.8 hr (26.1, 313), respectively. 
+The steady state apparent clearance (CL/F) is approximately 24.2 L/hr (52.8% CV) in 
+cholangiocarcinoma patients  
+Reference ID: 4802513
+
+
+===== PAGE 102 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+101 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Metabolism 
+Infigratinib is primarily metabolized by CYP3A4 (94% contribution of total clearance) with 
+minor contributions by flavin containing monooxygenase (FMO) enzymes (6% contribution of 
+total clearance). 
+Metabolism of BHS697 is mediated via O‐demethylation and metabolism of CQM157 is 
+mediated by N‐acetylation and O‐demethylation. 
+Excretion 
+Based on the mass balance study, 77.3% of the dose is recovered in feces (3.43% as 
+unchanged) and 7.22% in urine (1.90% as unchanged), supporting extensive metabolism.  
+Drug interaction 
+liability 
+Infigratinib 
+Metabolism 
+ 
+As victim: primarily metabolized by CYP3A4 
+Transporters 
+ 
+As victim: P‐gp and BCRP substrate 
+Other 
+ 
+As victim: acid reducing agents due to pH dependent solubility of infigratinib  
+Exposure‐Response 
+Efficacy 
+No exposure measures were statistically significant predictors of either OR or PFS. This lack of 
+a significant exposure‐response (E‐R) relationship may be due to the relatively small sample 
+size of patients included in these analyses. 
+Safety 
+Statistically significant E‐R relationships were identified for hyperphosphatemia and eye 
+disorders (excluding CSR/RPED). Higher infigratinib exposure resulted in higher probability of 
+hyperphosphatemia and eye disorders (excluding CSR/RPED). 
+Stochastic simulations to predict the probability of hyperphosphatemia or eye disorders 
+(excluding CSR/RPED) when administering 50, 75, 100, and 125 mg 3 weeks on/1 week off 
+showed a minimal change in the probability of these events; thus, supporting the 
+appropriateness of the 125 mg 3 weeks on/1 week off dosing regimen. 
+AUC0‐24=area under the concentration‐time curve from time 0 to 24 hours postdose; BCRP=breast cancer 
+resistance protein; CL/F=apparent clearance; Cmax=maximum plasma concentration; CSR/RPED=central serous 
+retinopathy/retinal pigment epithelium detachment; E‐R=exposure‐response;FMI I=final market image 
+formulation I; FMI III=final market image formulation III; GeoMean=geometric mean; LC‐MS/MS=liquid 
+chromatography tandem mass spectrometry; P‐gp=p‐glycoprotein, Tmax=time to maximum concentration; 
+Vd=volume of distribution. 
+Source: Module 2.7.2, Table 3 
+ 
+The Applicant’s Position: 
+The PK properties of infigratinib and its active metabolites (BHS697 and CQM157) have been 
+evaluated in healthy subjects and oncology patients. After single and repeat once daily dosing, 
+infigratinib exposure increased in a more than dose proportional manner across the dose range 
+of 5 mg to 150 mg (CBGJ398X2101). The mean steady state infigratinib AUC0‐24hr was 
+6284 ng*hr/mL (42 %CV) and Cmax was 330 ng/mL (49 %CV) following 125 mg oral dosing in 
+cholangiocarcinoma patients. Steady state was achieved after 2 weeks of daily dosing, and the 
+mean accumulation ratio ranged from 0.79 to 8‐fold, with 8‐fold at the 125 mg 3 weeks on/ 
+1 week off regimen.  
+Reference ID: 4802513
+
+
+===== PAGE 103 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+102 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Absorption: Following oral administration of infigratinib in the fasted state, infigratinib 
+absorption occurred at a median peak plasma concentration (Tmax) of 6.0 hours (range 2 to 
+7 hours) in cholangiocarcinoma patients. Effect of food: administration of infigratinib with food 
+increased the exposure of infigratinib AUCinf by 1.7 to 2.2‐fold. Metabolite ID data from hADME 
+study (QBGJ398‐101) indicates fraction absorbed is approximately 69%. 
+Distribution: The population derived apparent volume of distribution was 1180 L (83.0 %CV). 
+Infigratinib, BHS697, and CQM157 are >96% bound to human plasma proteins. Following a 
+single oral dose of [14C]‐infigratinib in healthy subjects, the blood‐to‐plasma ratio of 
+[14C]‐radioactivity was 0.88 through 168 hours postdose. The ex vivo plasma protein binding of 
+infigratinib, BHS697, CQM157, and BQR917 was approximately 99% in healthy subjects 
+(QBGJ398‐107).  
+Elimination: The mean half‐life of infigratinib at steady state in cholangiocarcinoma patients 
+was 11.6 h. The observed mean apparent clearance (CL/F) at steady state in 
+cholangiocarcinoma patients was 24.2 L/h (52.8 %CV). 
+Metabolism: Infigratinib is extensively metabolized, primarily via CYP3A4 (~94%) and minimal 
+contribution by FMO (6%) enzymes. The most abundant species in human plasma was 
+unchanged infigratinib with 37.87% of dose, followed by a mixture of BHS697/M25/M24 (34.4% 
+of dose), and M35 (27.36% of dose), while M27 and an unknown metabolite were minor 
+components in plasma (0.31% and 0.06% of dose, respectively). CQM157 was not detected in 
+the metabolite identification assays which had been shown to be in significant quantities (>10% 
+of parent) in other clinical studies. Evidence of in process metabolite decomposition from 
+CQM157 to M35 was found, as a result, the true plasma concentration of CQM157 was likely 
+much higher than indicated by experimental data from this metabolite identification assay. 
+Quantification of non‐radiolabeled infigratinib and its metabolites showed that the metabolite 
+to parent ratios (AUCmetabolite/AUCinfigratinib) were: 0.80, 0.26 for CQM157 and BHS697, 
+respectively, supporting that CQM157 was formed in significant quantities and that in process 
+degradation in the metabolite identification assay occurred. Overall, metabolites BHS697 and 
+CQM157 are found at >10% of parent in human plasma samples. 
+Excretion: Following a single dose of [14C]‐infigratinib in healthy male subjects, approximately 
+84.5% of the radioactive dose was recovered, with 77.3% of the dose from feces and 7.22% 
+from urine. Fecal and renal excretion of infigratinib as unchanged parent was minimal (3.43% of 
+dose and 1.90% of dose, respectively) indicating extensive metabolism.  
+Effects of other drugs on infigratinib: Infigratinib is the substrate of CYP3A. Potent inhibition of 
+both CYP3A results in a substantial increase in infigratinib exposure, and coadministration of 
+infigratinib with potent inhibitors of CYP3A is not recommended. Likewise, drugs that are 
+potent inducers of CYP3A may result in lower plasma exposures of infigratinib and lead to 
+Reference ID: 4802513
+
+
+===== PAGE 105 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+104 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+labeling for QT: 
+At the recommended dosing regimen, Infigratinib does not result in a large mean increase (i.e. 
+>20 msec) in the QTc interval. The QT effect of infigratinib at higher exposures associated with 
+CYP3A4 inhibition has not been studied. 
+Refer to QT‐IRT review for more details. 
+3. PK parameters: The Applicant proposed PK parameters are mixed assessments by 
+noncompartmental analysis (NCA) as well as the population PK modeling from both Study 
+CBGJ398X2204 in patients with cholangiocarcinoma as well as from Study 2101 in patients 
+with solid tumors. On February 12, 2021, the Applicant provided the following updates in 
+response to FDA IR sent on February 7, 2021, where the PK parameters were calculated 
+estimated via NCA of the simulated hourly PK data from population PK model for the 79 
+patients with PK data in Study CBGJ398X2204. 
+Table 17. NCA estimated PK parameters of infigratinib and active metabolites BHS697, 
+CQM197 based on individual PKa estimates in patients with cholangiocarcinoma in Study 
+CBGJ398X2204.  
+PK 
+Parameter 
+Infigratinib GeoMean (%CV)
+BHS697 GeoMean (%CV)
+CQM197 GeoMean (%CV)
+Single Dose 
+N=79 
+Steady State
+N=79 
+Single Dose
+N=79 
+Steady State
+N=79 
+Single Dose 
+N=79 
+Steady State
+N=79 
+AUC0‐24hr 
+(ng*hr/mL) 
+794.74 (50.94) 
+3780.36 (58.75) 
+143.11 (45.34) 
+717.49 (55.02) 
+409.59 (57.56) 
+428.38 (71.58) 
+Cmax (ng/mL) 
+66.96 (57.62) 
+202.20 (50.72) 
+9.81 (47.86) 
+35.47 (48.73) 
+21.80 (57.39) 
+20.12 (67.94) 
+Tmax (h)b 
+4 (1‐12) 
+5 (1‐9) 
+4 (2‐22) 
+4 (2‐10) 
+10 (2‐27) 
+7 (2‐11) 
+t1/2 (h) 
+15.03 (19.80) 
+33.54 (39.19) 
+19.13 (26.77) 
+47.64 (30.97) 
+52.03 (26.91) 
+76.41 (52.30) 
+V/F (L) 
+2591.39 (44.06) 
+1600.16 (33.35) 
+N/A 
+N/A 
+N/A 
+N/A 
+CL/F (L/h) 
+119.50 (59.94) 
+33.07 (58.75) 
+N/A 
+N/A 
+N/A 
+N/A 
+a Population PK model was using updated model with inclusion of hepatic and renal covariates. 
+b Values for Tmax are median (min, max).  
+Source: Response to FDA RFI‐ClinPharm ‐12 Feb 2021. 
+The geometric mean results of AUC0‐24hr, t1/2, V/F, and CL/F at steady state in the above Table 8 
+are verified by FDA and have been included in the labeling. Given the large shrink of V2 in the 
+population PK modeling that may cause an inaccuracy in estimation of steady state Cmax and 
+Tmax, labeling included the original NCA results instead of the population PK results in Table 8, as 
+the following Table 9. Of note, the Applicant reported steady state AUC0‐24hr as 6284 ng*hr/mL 
+(42 %CV) and Cmax as 330 ng/mL (49 %CV), as well as the 5‐ to 7‐ fold accumulation ratio, was 
+based on arithmetic mean (CV%) results, not geometric mean (CV%) results as shown in 
+Table 16. 
+Reference ID: 4802513
+
+
+===== PAGE 109 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+108 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Hepatic impairment: Clinically significant exposure change (>2‐fold) of infigratinib was observed 
+in subjects with moderate hepatic impairment (the AUCinf and Cmax geometric mean ratio of 
+infigratinib were 262% and 156%, respectively, in subjects with moderate hepatic impairment 
+compared with subjects with normal hepatic function). The exposure of infigratinib in subjects 
+with mild hepatic impairment was <2‐fold (the AUCinf and Cmax geometric mean ratio of 
+infigratinib were 186% and 178%, respectively, in subjects with mild hepatic impairment 
+compared with subjects with normal hepatic function), and therefore may not require a dose 
+adjustment. Similarly, in the population PK model that assessed the exposure of infigratinib in 
+cholangiocarcinoma patients by NCI liver function criteria, a trend towards increased exposure 
+with moderate liver function was observed and exposure was similar between patients with 
+normal hepatic function and those with mild hepatic impairment (NCI B1, B2). Therefore, the 
+dose of 
+ mg QD 3 weeks on/1 week off is considered appropriate for cholangiocarcinoma 
+patients with mild hepatic function and a starting dose of infigratinib 75 mg QD 3 weeks on/ 
+1 week off is recommended for patients with moderate hepatic impairment. 
+Renal impairment: The population PK analysis assessed creatinine clearance as a covariate on 
+infigratinib exposure. To investigate potential effects of renal function on the PK parameters, 
+the exposure measures of the patients from CBGJ398X2204 were stratified by creatinine 
+clearance category (normal: ≥90 mL/min, mild impairment: 60 to <90 mL/min, and moderate 
+impairment 30 to <60 mL/min). Differences in the distributions of the individual and combined 
+exposure measures between patients of the different renal impairment categories 
+in CBGJ398X2204 showed no clinically relevant difference in AUCactivity,ss with impaired renal 
+function. Patients with mild impaired renal function (n=20) had a geometric mean AUCactivity,ss 
+(Geo %CV) of 36.1 (39.0), compared to 38.3 (26.0) in patients with normal renal function 
+(n=52). 
+A study of the effects of moderate renal impairment on the PK of infigratinib is ongoing. The 
+effect of severe renal impairment or renal dialysis in end‐stage renal disease on infigratinib 
+exposure is unknown. 
+The Applicant’s Position: 
+Based on the assessment of intrinsic factors, a dose adjustment from 125 mg 3 weeks on/ 
+1 week off to 75 mg 3 weeks on/1 week off is recommended for patients with moderate 
+hepatic impairment.
+ 
+. The effects of moderate 
+renal impairment will be determined from the ongoing study. The effects of severe hepatic 
+impairment and severe renal impairment are unknown. 
+The FDA’s Assessment: 
+FDA disagrees with the Applicant regarding the need for a starting dose adjustment in patients 
+with mild or moderate renal impairment. FDA recommends a starting dose reduction to 100 mg 
+Reference ID: 4802513
+(b) (4)
+(b) (4)
+
+
+===== PAGE 111 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+110 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+(125 mg, FMI III) with a high‐fat, high‐calorie meal increased infigratinib with a ratio of 1.81‐fold 
+for AUCinf and 1.62‐fold for Cmax, compared with the exposures achieved under fasted 
+conditions). As administration of infigratinib with food resulted in significant increase in 
+exposure of infigratinib, infigratinib was administered 1 hour before or 2 hours after a meal in 
+patient trials.  
+Potential for infigratinib to affect other drugs: There is, overall, a low potential for infigratinib 
+to be a perpetrator of DDIs through human drug metabolizing enzymes or drug transporters. 
+CYP3A4 was inhibited in vitro by infigratinib. Due to the high prevalence of drugs metabolized 
+by CYP3A4, a clinical DDI study was performed to assess the impact of infigratinib on the PK of a 
+midazolam (a sensitive CYP3A4 substrate). The plasma exposure (AUCinf, AUClast, and Cmax) of 
+midazolam, was minimally affected following administration with infigratinib. Midazolam mean 
+exposure was reduced by ~10% (AUC0 t and AUC0‐inf) when administered with infigratinib; no 
+difference was observed in Cmax. The exposure of 1‐hydroxymidazolam increased by ~15%‐19% 
+in terms of AUC0‐t and AUCinf. These results indicate that infigratinib is a weak CYP3A inhibitor in 
+vivo. Therefore, infigratinib may be coadministered with CYP3A4 substrates.  
+Effects of other drugs on infigratinib: Infigratinib has the potential to interact with drugs that 
+affect CYP3A4 and infigratinib is subject to pH dependent solubility. As such, clinical DDIs were 
+conducted to provide guidance upon coadministration with agents that affect CYP3A4 or alter 
+gastric pH.  
+Following simultaneous administration of infigratinib (125 mg) with rifampin under fasted 
+conditions (preceded by 600 mg QD rifampin, for 9 days), infigratinib exposure (AUCinf) was 
+reduced by 56%, and similar decrease in exposure were observed for BHS698 and CQM157. 
+Drugs that are strong inducers of CYP3A4 may result in lower plasma exposure of infigratinib 
+and may lead to reduced therapeutic effect of infigratinib; therefore, the coadministration of 
+these two agents is not recommended.  
+Upon coadministration of infigratinib (75 mg) with itraconazole under fasted conditions 
+(preceded by 200 mg QD itraconazole, for 3 days), infigratinib exposure (AUCinf) increased by 
+622%, while the metabolites BHS698 increase was less substantial and there was no change in 
+CQM157 AUCinf. Drugs that are strong inhibitors of CYP3A4 may result in significantly higher 
+plasma exposure of infigratinib and may lead to adverse events; therefore, the 
+coadministration of these two agents is not recommended.  
+Following simultaneous administration of infigratinib (125 mg) with lansoprazole under fasted 
+conditions (preceded by 30 mg QD lansoprazole, for 4 days), infigratinib exposure (AUCinf) was 
+reduced by 45%, and similar decrease in exposure were observed for BHS698 and CQM157. 
+Drugs that are proton pump inhibitors may result in lower plasma exposure of infigratinib due 
+to decreased absorption and may lead to reduced therapeutic effect of infigratinib; therefore, 
+Reference ID: 4802513
+
+
+===== PAGE 113 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+112 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table 19 lists the results of median AUC0‐24h of infigratinib and potency adjusted AUCactivity in 
+Study CBGJ398X2204. Based on the results, concomitant use of a weak CYP3A4 inducer or weak 
+inhibitor does not appear to result in a clinically significant change (> 20%) in AUC. Therefore, 
+patients may be administered concomitant weak CYP3A4 inhibitors or inducers with 
+infigratinib. 
+Table 19. PK model predicted infigratinib AUC at steady state in the presence or absence of 
+weak CYP3A4 inhibitors or inducers in Study CBGJ398X2204, assuming a 125‐mg dose.  
+PK Parametersa 
+Co‐med Weak CYP3A4 Inhibitors
+Co‐med Weak CYP3A4 Inducers 
+Present 
+Absent
+Present
+Absent 
+Infigratinib AUC0‐24h 
+(ng*h/mL) 
+5003 (3239, 6419) 
+4648 (3510, 6502)
+5357 (4078, 7231) 
+4553 (3054, 6358)
+AUCactivity  
+(nM*h) 
+51.4 (33.9, 65.9) 
+50.2 (40.3, 65.2)
+51.7 (43.7, 69.4)
+49.3 (36.9, 64.7)
+a AUC values are listed as median (1st quartile, 3rd quartile). 
+Source: Applicant follow‐up response to FDA midcycle meeting 28 January 2021. 
+ 
+DDI risks to be assessed: The Applicant has not adequately assessed the following DDI risks 
+with data from in vivo studies in patients or healthy subjects: 
+1. Moderate CYP3A4 inhibitor or inducer: Infigratinib is primarily metabolized by CYP3A in 
+vitro. In a single dose drug interaction study in healthy subjects, infigratinib exposure 
+increased by 7‐fold when coadministered with a strong CYP3A inhibitor (itraconazole) 
+and decreased by 50% when coadministered with a strong CYP3A inducer (rifampin). 
+The risk of a moderate CYP3A inhibitor or inducer affecting the PK of infigratinib has not 
+been evaluated. 
+2. BCRP inhibitor or substrate: Infigratinib is a BCRP inhibitor and substrate in vitro. 
+Infigratinib is also a CYP3A moderate inhibitor and substrate in vitro. Infigratinib has 
+demonstrated time‐dependent PK with 5‐ to 8‐fold accumulation ratio (AUC, Cmax) at 
+steady state following a 125 mg QD dose. The Applicant stated that the time dependent 
+PK may be related to BCRP, as the dedicated DDI study has proved that CYP3A is unlikely 
+the cause for time dependent PK as infigratinib did not inhibit midazolam (CYP3A 
+sensitive substrate) at clinically relevant concentrations. 
+3. P‐gp inhibitor: Infigratinib is a P‐gp substrate in vitro. The risk of P‐gp inhibitors 
+increasing infigratinib plasma exposure leading to increased adverse reactions has not 
+been ruled out.  
+4. MATE1 substrate: Infigratinib is a MATE1 inhibitor in vitro. The inhibition potential of 
+the major metabolites on transporters (MATE, OCT) have not been assessed. Among 27 
+patients concomitantly taking metformin (MATE & OCT substrate) with infigratinib, a 
+total of 3 patients have developed hypoglycemia. The Applicant did not have blood 
+glucose data to evaluate whether concomitant use of infigratinib may lead to increased 
+metformin exposure, leading to blood glucose level decreases and hypoglycemia.  
+Reference ID: 4802513
+
+
+===== PAGE 117 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+116 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant and do not necessarily reflect the 
+positions of the FDA.  
+Study 
+Type  
+Study ID; 
+# of Study 
+Centers; 
+Location 
+Study Objective(s); 
+Primary Endpoint(s) 
+Study Design and 
+Type of Control; 
+Enrollment Status 
+(Goal); FPFV  
+Test Product(s)a; Dose 
+Regimen; Route of 
+Administration  
+Number of 
+Subjects; M/F; 
+Mean Age 
+(Range) 
+Healthy Subjects 
+or Diagnosis of 
+Patients/Main 
+Incl Criteria 
+Duration 
+of Tx 
+Study 
+Status; 
+Type of 
+Report 
+PK, BA 
+CBGJ398X 
+2103 
+ 
+1 
+ 
+US 
+Assess the effect of 
+food on PK of single 
+doses of FMI I, the 
+relative BA of CSF and 
+FMI I formulations 
+under fasted 
+conditions, and assess 
+safety and food effect 
+on PK and BA of 
+metabolites BHS697 
+and CQM157 
+ 
+AUClast, AUCinf, Cmax, 
+Tmax 
+Phase 1, R, OL, XO, 
+4‐treatment, 
+4‐sequence, 4‐period,
+fed and fasted 
+ 
+Uncontrolled 
+ 
+Completed 
+(24 subjects) 
+ 
+08MAY2014 
+Infigratinib single PO doses; 
+14‐day washout between 
+doses. Formulations FMI I 
+and CSF; 
+100 mg. 
+Treatment A: CSF fasted 
+Treatment B: FMI I fasted  
+Treatment C: FMI I with low‐
+fat, low‐calorie meal 
+Treatment D: FMI I with 
+high‐fat, high‐calorie meal 
+24 enrolled and 
+treated 
+ 
+21M/3F 
+ 
+33.6 (22‐55) 
+years 
+Healthy, 
+18‐55 years of 
+age 
+4 single 
+doses 
+Complete;
+CSR 
+ 
+BA, PK 
+CBGJ398X 
+2105 
+ 
+1 
+ 
+US 
+Evaluate the BA and 
+safety of 2 
+formulations of 
+infigratinib (FMI II and 
+CSF capsules) and 
+determine PK of 
+metabolites BHS697 
+and CQM157 
+ 
+AUClast, AUCinf, Cmax, 
+Tmax 
+Phase 1, R, OL, XO, 
+4‐treatment, 
+4‐sequence,  
+fed and fasted  
+ 
+Uncontrolled 
+ 
+Completed 
+(40 subjects) 
+ 
+16JUL2015 
+Infigratinib single PO doses; 
+14‐day washout between 
+doses. Formulations FMI II 
+and CSF. 
+Treatment A: 125 mg CSF 
+fasted 
+Treatment B: 75 mg FMI II 
+with low‐fat, low‐calorie 
+meal 
+Treatment C: 125 mg FMI II 
+with low‐fat, low‐calorie 
+meal 
+Treatment D: 200 mg FMI II 
+fasted 
+40 enrolled and 
+treated 
+ 
+32M/8F 
+ 
+37.2 (22‐54) 
+years 
+Healthy, 
+18‐55 years of 
+age 
+4 single 
+doses 
+Complete;
+CSR 
+ 
+Reference ID: 4802513
+
+
+===== PAGE 118 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+117 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant and do not necessarily reflect the 
+positions of the FDA.  
+Study 
+Type  
+Study ID; 
+# of Study 
+Centers; 
+Location 
+Study Objective(s); 
+Primary Endpoint(s) 
+Study Design and 
+Type of Control; 
+Enrollment Status 
+(Goal); FPFV  
+Test Product(s)a; Dose 
+Regimen; Route of 
+Administration  
+Number of 
+Subjects; M/F; 
+Mean Age 
+(Range) 
+Healthy Subjects 
+or Diagnosis of 
+Patients/Main 
+Incl Criteria 
+Duration 
+of Tx 
+Study 
+Status; 
+Type of 
+Report 
+PK, BA 
+CBGJ398X 
+2106 
+ 
+1 
+ 
+US 
+ 
+Evaluate the BA, PK 
+food effect, and safety 
+of 2 formulations of 
+infigratinib (FMI III and 
+CSF capsules) 
+ 
+AUClast, AUCinf, Cmax, 
+Tmax 
+Phase 1, R, OL, XO, 
+4‐treatment, 
+4‐sequence, 4‐period, 
+fed and fasted 
+ 
+Uncontrolled 
+ 
+Completed 
+(40 subjects) 
+ 
+13JAN2016 
+Infigratinib single PO doses; 
+14‐day washout between 
+doses. Formulations FMI III 
+and CSF. 
+Treatment A: 125 mg CSF 
+fasted 
+Treatment B: 75 mg FMI III 
+fasted 
+Treatment C: 125 mg FMI III 
+fasted 
+Treatment D: 125 mg FMI III 
+with high‐fat, high‐calorie 
+meal 
+40 enrolled and 
+treated 
+ 
+32M/8F 
+ 
+36.8 (23‐51) 
+years 
+Healthy, 
+18‐55 years of 
+age 
+4 single 
+doses 
+Complete;
+CSR 
+ 
+PK  
+QBGJ398‐
+102 
+ 
+1 
+ 
+US 
+Determine effect of 
+rifampin on PK of 
+infigratinib and the 
+safety and tolerability 
+of infigratinib when 
+administered with 
+rifampin 
+ 
+AUC0‐t, AUC0‐inf, 
+AUCExtrap, Tmax, 
+Tlast, Clast, and Cmax 
+Phase 1, OL, fixed‐
+sequence, 
+2‐treatment, drug‐
+drug interaction 
+ 
+Uncontrolled 
+ 
+Completed 
+(20 subjects) 
+ 
+05DEC2018 
+Infigratinib single doses.
+Period 1: 125 mg infigratinib 
+PO fasted on Day 1 
+Infigratinib washout: 13 days 
+(Days 1‐13) 
+Period 2: 600 mg rifampin 
+PO QD on Days 5‐13; 125 mg 
+infigratinib PO + 600 mg 
+rifampin PO fasted on Day 
+14 
+20 enrolled and 
+treated 
+ 
+17M/3F 
+ 
+37.3 (20‐53) 
+years 
+Healthy, 
+18‐55 years of 
+age 
+2 single 
+doses 
+(Day 1 and 
+Day 14) 
+Complete;
+CSR 
+ 
+Reference ID: 4802513
+
+
+===== PAGE 119 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+118 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant and do not necessarily reflect the 
+positions of the FDA.  
+Study 
+Type  
+Study ID; 
+# of Study 
+Centers; 
+Location 
+Study Objective(s); 
+Primary Endpoint(s) 
+Study Design and 
+Type of Control; 
+Enrollment Status 
+(Goal); FPFV  
+Test Product(s)a; Dose 
+Regimen; Route of 
+Administration  
+Number of 
+Subjects; M/F; 
+Mean Age 
+(Range) 
+Healthy Subjects 
+or Diagnosis of 
+Patients/Main 
+Incl Criteria 
+Duration 
+of Tx 
+Study 
+Status; 
+Type of 
+Report 
+PK  
+QBGJ398‐
+103 
+ 
+1 
+ 
+US 
+Determine effect of 
+itraconazole on PK of 
+infigratinib and the 
+safety and tolerability 
+of infigratinib when 
+administered with 
+itraconazole 
+ 
+AUC0‐t, AUC0‐inf, Cmax, 
+Tmax, T1/2, CL/F, V2/F 
+Phase 1, OL, fixed‐
+sequence, 2‐period, 
+2‐treatment, drug‐
+drug interaction 
+ 
+Uncontrolled 
+ 
+Completed 
+(20 subjects) 
+ 
+04DEC2018 
+Infigratinib single doses.
+Period 1: 75 mg infigratinib 
+PO fasted on Day 1 
+Infigratinib washout: 14 days 
+(Days 1‐14) 
+Period 2: 200 mg 
+itraconazole PO QD on Days 
+12‐14; 75 mg infigratinib PO 
++ 200 mg itraconazole PO 
+fasted, Day 15 
+20 enrolled and 
+treated 
+ 
+10M/10F 
+ 
+40.5 (19‐55) 
+years 
+Healthy, 
+18‐55 years of 
+age 
+2 single 
+doses 
+(Day 1 and 
+Day 15) 
+Complete;
+CSR 
+ 
+PK  
+QBGJ398‐
+104 
+ 
+1 
+ 
+US 
+Determine effect of 
+lansoprazole on PK of 
+infigratinib and the 
+safety and tolerability 
+of infigratinib when 
+administered with 
+lansoprazole 
+ 
+AUC0‐t, AUC0‐inf, Cmax, 
+Tmax, T1/2, CL/F, V2/F 
+Phase 1, OL, fixed‐
+sequence, 2‐period, 
+2‐treatment, drug‐
+drug interaction 
+ 
+Uncontrolled 
+ 
+Completed 
+(20 subjects) 
+ 
+03DEC2018 
+Infigratinib single doses.
+Period 1: 125 mg infigratinib 
+PO fasted on Day 1 
+Infigratinib washout: 14 days 
+(Days 1‐14) 
+Period 2: 30 mg lansoprazole 
+PO QD on Days 11‐14; 125 
+mg infigratinib PO + 30 mg 
+lansoprazole PO fasted on 
+Day 15; 30 mg lansoprazole 
+PO QD on Days 16 and 17 
+20 enrolled and 
+treated 
+ 
+15M/5F 
+ 
+41.0 (23‐55) 
+years 
+Healthy, 
+18‐55 years of 
+age 
+2 single 
+doses 
+(Day 1 and 
+Day 15) 
+Complete;
+CSR 
+ 
+Reference ID: 4802513
+
+
+===== PAGE 120 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+119 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the Applicant and do not necessarily reflect the 
+positions of the FDA.  
+Study 
+Type  
+Study ID; 
+# of Study 
+Centers; 
+Location 
+Study Objective(s); 
+Primary Endpoint(s) 
+Study Design and 
+Type of Control; 
+Enrollment Status 
+(Goal); FPFV  
+Test Product(s)a; Dose 
+Regimen; Route of 
+Administration  
+Number of 
+Subjects; M/F; 
+Mean Age 
+(Range) 
+Healthy Subjects 
+or Diagnosis of 
+Patients/Main 
+Incl Criteria 
+Duration 
+of Tx 
+Study 
+Status; 
+Type of 
+Report 
+PK  
+QBGJ398‐
+106 
+ 
+1 
+ 
+US 
+Determine effects of 
+multiple, QD oral doses 
+of infigratinib on the 
+PK of single oral doses 
+of midazolam and the 
+safety and tolerability 
+of infigratinib when 
+administered with 
+midazolam 
+ 
+AUC0‐t, AUC0‐inf, Cmax 
+Phase 1, single‐dose, 
+OL, fixed‐sequence, 
+2‐period, 2‐treatment, 
+drug‐drug interaction
+ 
+Uncontrolled 
+ 
+Completed 
+(20 subjects) 
+ 
+18FEB2019 
+Infigratinib multiple doses. 
+Period 1: single dose 2 mg 
+midazolam PO fasted on Day 
+1 
+Infigratinib washout: 3 days 
+(Days 1‐3) 
+Period 2: 125 mg infigratinib 
+PO fasted overnight for 6 
+days (Days 4‐9); single dose 
+of 125 mg infigratinib + 2 mg 
+midazolam PO fasted on 
+Day 10 
+20 enrolled and 
+treated 
+ 
+18M/2F 
+ 
+34.1 (19‐45) 
+years 
+Healthy, 
+18‐55 years of 
+age 
+7 days 
+(Day 1 and 
+Days 4‐10)
+Complete;
+CSR 
+ 
+PK 
+QBGJ398‐
+101 
+ 
+1 
+ 
+US 
+Determine mass 
+balance, routes and 
+rates of elimination of 
+total radioactivity, and 
+PK of infigratinib and 
+metabolites (CQM157, 
+BHS697, and BQR917), 
+the chemical structure 
+of the metabolites, and 
+the safety and 
+tolerability of 
+infigratinib 
+ 
+Cmax, Tmax, Clast, Tlast, λz, 
+T1/2, AUClast, AUCinf, 
+total radioactivity in 
+urine and feces 
+Phase 1, OL, single‐
+radiolabeled dose, not 
+randomized 
+ 
+Uncontrolled 
+ 
+Completed 
+(8 subjects) 
+ 
+10DEC2018 
+Infigratinib single PO dose 
+125 mg (as free base) 
+containing 150 µCi of [14C] 
+infigratinib (fasted) 
+8 enrolled and 
+treated 
+ 
+8M/0F 
+ 
+34.4 (26‐50) 
+years 
+Healthy males, 
+18‐55 years of 
+age 
+Single dose Complete;
+CSR 
+ 
+Reference ID: 4802513
+
+
+===== PAGE 156 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+155 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+The FDA’s Assessment: 
+FDA reiterates that time‐to‐event endpoints like PFS and OS are uninterpretable in a single‐arm 
+study in the absence of a comparator arm. Thus, these results should not be considered in the 
+assessment of persistence of effect. 
+Efficacy Results – Secondary or exploratory COA (PRO) endpoints 
+ 
+Data: 
+Not applicable.  
+The Applicant’s Position: 
+Not applicable. 
+The FDA’s Assessment: 
+N/A 
+Additional Analyses Conducted on the Individual Trial 
+Data:  
+A summary of the PK assessment is presented in Table 35 below. 
+Table 35: PK Assessment (Study CBGJ398X2204) 
+ 
+Cycle 1 Day 1 Mean (%CV) 
+PK Parameter 
+n 
+Infigratinib 
+n 
+BHS697  
+n 
+CQM157 
+AUC0‐24 (h*ng/mL) 
+14 
+1397.3 (57.0) 
+15 
+221.3 (62.5) 
+3 
+950.4 (75.9) 
+Cmax (ng/mL) 
+18 
+151.4 (68.3) 
+17 
+15.02 (69.3) 
+18 
+40.81 (64.5) 
+Tmax (h)a 
+18 
+3.00 (1.87‐7.08) 
+17 
+3.00 (2.00‐23.7) 
+18 
+8.00 (5.63‐25.75) 
+T1/2 (h) a 
+8 
+6.33 (4.20, 7.78) 
+‐‐ 
+NC 
+‐‐ 
+NC 
+ 
+Cycle 1 Day 15 Mean (%CV) 
+AUC0‐24 (h*ng/mL) 
+7 
+6084.5 (45.7)  
+7 
+1105.6 (54.9) 
+6 
+466.8 (55.8) 
+Cmax (ng/mL) 
+10 
+332 (50.8) 
+10 
+54.86 (59.4) 
+10 
+21.12 (75.5) 
+Tmax (h)a 
+10 
+4.63 (2.05‐7.12) 
+10 
+4.00 (2.97‐24.00) 
+10 
+5.13 (0.40‐24.00) 
+T1/2 (h) a 
+‐‐ 
+NC 
+‐‐ 
+NC 
+‐‐ 
+NC 
+AR AUC0‐24 
+5 
+4.97 (43.6) 
+5 
+7.37 (41.8) 
+1 
+0.5080 (NC) 
+M:P AUC0‐24 
+‐‐ 
+NA 
+7 
+0.198 (41.3) 
+4 
+0.146 (87.1) 
+M:P=metabolite to parent ratio; NC=not calculated; NA=not applicable; RACC=accumulations ratio AUC0‐24, Day 15 
+/ AUC0‐24 Day 1 
+a 
+Tmax and T1/2 are reported as median (min, max) 
+Note: This table only includes data for patients who received FMI III  
+Source: CBGJ398X2204 CSR, Table 26; adlb.xpt 
+ 
+Reference ID: 4802513
+
+
+===== PAGE 225 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+224 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+ Formulation Bridging 
+During the clinical development of infigratinib, various formulations (CSF, FMI I, FMI III, and FMI 
+IV) were developed and administered to healthy volunteers and oncology patients. In Study 
+CBGJ398X2204, formulations FMI‐I, FMI‐III, and FMI‐IV were administered to patients with 
+cholangiocarcinoma. The bridging of the to‐be‐marketed formulation FMI‐IV to FMI‐I and FMI‐
+III was established based on the following:  
+1. FMI‐IV to FMI‐III: 
+According to Pharmaceutical Quality review, FMI‐III and FMI‐IV are deemed sufficiently 
+similar in terms of formulation and manufacturing process. Adequate comparative in vitro 
+dissolution data using the proposed dissolution method and in various pH media were also 
+established. Therefore, the in vitro bridging is considered an appropriate approach to 
+establish the bridging of FMI‐IV to FMI‐III. Refer to Pharmaceutical Quality review for 
+details.  
+In a PK analysis with pooled PK data from 5 single dose healthy volunteer studies (i.e., Study 
+CBGJ398X2103 [CSF, FMI‐I], CBGJ398A2104 [CSF], CBGJ398A2105 [CSF], CBGJ398A2106 
+[CSF, FMI‐III], QBGJ398‐109 [FMI‐IV]), the arithmetic mean value of dose‐normalized 
+infigratinib AUCinf in Table 55 and overall AUCacitivty (defined in Section 6.2.2.1) in Table 56, 
+are comparable with differences less than 20% across studies for FMI‐III versus FMI‐IV. Of 
+note, using AUCactivity for formulation comparison is based on consideration of: (1) the 
+Applicant finding that orally administered infigratinib undergoes extensive first‐pass hepatic 
+extraction or presystemic metabolism prior to reaching general systemic circulation; and (2) 
+the exposure‐response assessment for safety does not show new safety signal with regard 
+to the two active metabolites BHS697 and CQM157. 
+In addition, the population PK modeling assessment has demonstrated that the 
+formulations have minimal effect on the PK of infigratinib or its metabolites. (Section 
+19.4.2) 
+It is noted that the Cmax of infigratinib is higher in FMI‐IV from Study 109 as compared to 
+FMI‐III from Study 2106 (Table 55). However, this difference is not considered as clinically 
+relevant, based on the following: 
+(1) The Cmax relationship in patients following multiple doses may differ from that following 
+a single dose and in healthy subjects. In addition, the comparison of Cmax here is a cross 
+study comparison. 
+(2) Based on population PK modeling assessment, simulated PK parameters were available 
+for formulations FMI‐I, FMI‐III, and FMI‐IV in Study CBGJ398X2204 in patients following 
+first dose and at steady state for infigratinib. (Table 57).  The simulated infigratinib Cmax 
+and AUC0‐24, as well as overall AUCactivity following the first dose and at steady state were 
+Reference ID: 4802513
+
+
+===== PAGE 226 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+225 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+compared for FMI‐III versus FMI‐IV, and the differences in the geometric mean values of 
+these metrics were all less than 20%. 
+(3) In the exposure‐response analysis, the Applicant evaluated all exposure metrics (e.g., 
+Ctrough, Cmax, Cavg, AUC0‐24, etc.). Among these metrics, the overall AUCactivity was found to 
+have slightly better correlation with hyperphosphatemia and eye disorder than other 
+metrics including infigratinib Cmax. Given the simulated difference for probability of 
+hyperphosphatemia and eye disorder between infigratinib dosage of 100 mg and 125 
+mg is small (Section 19.4.4), the < 20% difference of AUCacitivity (or Cmax) for FMI‐IV versus 
+FMI‐III is not likely to result in a clinically meaningful difference of the safety profile.  
+Given the adequacy of in vitro bridging establishment, lack of a statistically significant 
+impact on PK by population PK analysis, as well as the in vivo AUC similarity across these 
+two studies, the overall formulation bridging is still considered established.  This conclusion 
+is reached based on the overall consideration of the totality of safety, efficacy, PK, in vitro 
+dissolution, and product quality comparability data.  
+Based on the above rationale, FMI‐IV and FMI‐III are considered adequately bridged. 
+2. FMI‐I to FMI‐III: 
+The majority of patients in Study CBGJ398X2204 received FMI‐I (N=51) or FMI‐III (N=48), as 
+compared to FMI‐IV (N=9). The pooled PK analysis across studies in Table 55 has 
+demonstrated that the Cmax, and Tmax of infigratinib were similar for FMI‐I and FMI‐III. The 
+infigratinib AUCinf and the overall AUCacitivity (Table 56) also showed a difference of the mean 
+values less than 20% for these two formulations. 
+In addition, the efficacy and safety of FMI‐I and FMI‐III did not appear to have clinically 
+relevant difference in Study CBGJ398X2204.  
+Based on the above, FMI‐III and FMI‐I are considered adequately bridged. 
+3. FMI‐IV to FMI‐I:  
+Both FMI‐IV and FMI‐I have been bridged to FMI‐III as demonstrated above. Similarly, the 
+pooled PK analysis across studies has demonstrated that the infigratinib AUCinf and the 
+overall AUCacitivity of FMI‐I and FMI‐IV are comparable with a difference of mean values less 
+than 20%. In vitro dissolution testing has also demonstrated the similarity between the two 
+formulations. 
+It is also noted that the Cmax of FMI‐IV is higher than FMI‐I in Table 55. However, this 
+difference is not considered clinically relevant given the similar rationale as above for the 
+higher Cmax of FMI‐IV as compared to FMI‐III. 
+Given the lack of PK difference by formulation based on population PK, as well as the 
+Reference ID: 4802513
+
+
+===== PAGE 229 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+228 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+ Population PK Analysis 
+19.4.2.1 Review Summary 
+The applicant’s population PK analysis is acceptable for characterization of PK of infigratinib and 
+its  two  active  metabolites  BHS697  and  CQM157,  exploration  of  the  exposure‐response 
+relationships  for  efficacy  and  safety,  dose  adjustment  for  intrinsic  and  extrinsic  factors,  and 
+designation for future investigation trials. 
+ 
+Intrinsic (tumor type, healthy, hepatic function, sex) and extrinsic (fed, dose, time, formulation) 
+factors were identified as covariates on Frel, KA, CLapp, Vcapp, and Vpapp in PK models of infigratinib 
+or  its  active  metabolites.  Renal  excretion  is  a  minor  route  for  infigratinib  elimination,  but 
+creatinine  clearance  (CrCL)  was  identified  as  a  covariate  for  CLapp.  Amongst  the  identified 
+covariates, most were not found to have a profound impact on overall activity AUC ‐ a combined 
+AUC of the parent drug and two active metabolites based on their relative in vivo EC50 potency 
+of  receptor  binding  for  FGFR1‐4.  The  estimated  PK  parameters,  Eta  and  epsilon,  and  their 
+shrinkages were reasonable (generally <30%) for EBE estimation used in PK/PD analyses.  
+ 
+The developed model was used to for simulation of different dose scenarios for organ impaired 
+patients to match the exposure of patients with normal organ function. Though we agree with 
+the Applicant’s simulation results, dose adjustment proposed by the Applicant does not appear 
+to be adequate. We recommend dose reductions for patients with mild or moderate hepatic or 
+renal impairment (detailed in 19.4.2.4). 
+ 
+19.4.2.2 Population PK Assessment 
+19.4.2.2.1 Objectives 
+The primary objective of this assessment was to: 
+ To examine if the final population PK model reasonably describe the observations. 
+ To verify sponsor’s exposure simulation and evaluate the adequacy of dose adjustment 
+for patients with organ impairment based on PK matching with patients that have 
+normal organ function. 
+ 
+19.4.2.2.2 Overview of studies included in population PK analysis 
+Data were pooled from 11 Phase 1 studies in healthy subjects and 2 Phase 2 studies in  patients 
+with advanced solid tumors or advanced or metastatic cholangiocarcinoma (Table 58).  
+Two interim datasets that were collected at different cut‐off time were used for modeling. Base 
+structure model development and covariate evaluation used interim dataset 1 (May 2019 cut‐
+off); final model refinement used interim dataset 2 (March 2020 cut‐off). 
+ 
+ 
+ 
+Reference ID: 4802513
+
+
+===== PAGE 232 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+231 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+analysis,  many  of  which  were  collected  during  the  absorption  phase.  These  samples  were 
+undetectable likely due to a low solubility of the drug (BCS Class II compound). 
+ 
+Baseline patient characteristics of the population PK dataset are summarized in Table 59. The 
+number of samples from 572 subjects for the parent drug and metabolites used for population 
+PK analysis is summarized in Table 60. There are small discrepancies in the number of samples 
+between the PK report from sponsors and the PK data received.  
+ 
+The PK of infigratinib and its metabolites BHS697 and CQM157 were independently modeled 
+because of rapid first‐pass metabolism in the liver. The plasma concentrations of infigratinib as 
+well as the metabolites were described by a two‐compartment disposition model with first‐order 
+absorption. Time‐dependent decrease in elimination was expressed as a function of dose counts 
+in infigratinib and BHS697.  
+ 
+Covariates  explored  included  age,  body  weight,  sex,  race,  formulation,  study,  dose,  study 
+population (healthy volunteer and patients of various tumors), fed status, BMI, AST, ALT, TBIL, 
+NCI  liver  function  category,  total  protein,  CrCL,  cancer  type  (cholangiocarcinoma  vs.  other 
+cancers),  treatment  (monotherapy  vs.  combination  therapy).  The  concomitant  medications 
+explored were BLY719 (only in CBGJ398X2102), CYP3A4 inhibitors/inducers, gastric pH‐modifying 
+agents,  and  phosphate  binders.  Most  of  the  covariates  were  not  found  to  have  a  clinically 
+significant impact on the overall activity AUC which is a combined AUC of the parent drug and 
+two active metabolites based on their in vivo EC50 potency.  
+ 
+The final population PK parameters for infigratinib, BHS697, and CQM157 are presented in the 
+Table 61, Table 62, and Table 63 , respectively. The final PK models of these three analytes were 
+all parameterized in terms of Ka, CLapp, V2app, Qapp, and V3app, ALAG1, and F1rel.  
+ 
+For  infigratinib,  estimated  fixed  and  random  effect  parameters  were  estimated  with  good 
+precision (%RSE < 29%). For infigratinib, the magnitude of the interindividual variability was high 
+for CLapp (78.7% CV), V2app (74.9% CV), ka (120% CV), and F1 (76.9% CV). Residual variability was 
+moderate. 
+ 
+For BHS697, estimated fixed and random effect parameters were estimated with good precision 
+(%RSE  <  29%)  except  the  covariance  between  V3app  and  Ka  (46.8%).  The  magnitude  of  the 
+interindividual variability was moderate for V3app (32.9% CV), but high for CLapp (67.2% CV), V2app 
+(120% CV), ka (149% CV), and F1 (63.7% CV). Residual variability was moderate. 
+ 
+For CQM157, estimated fixed and random effect parameters were estimated with good precision 
+(%RSE < 29%). The magnitude of the interindividual variability was high for CLapp (68.6% CV), V2app 
+(65.4% CV), V3app (103% CV), ka (54.8 % CV), and F1 (55.5% CV). Residual variability was moderate. 
+Reference ID: 4802513
+
+
+===== PAGE 233 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+232 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+The diagnostic plots and visual predictive check for the final PK models of the three analytes were 
+stratified by profile type (healthy, single dose, and multiple doses in patients). The infigratinib PK 
+model presented a left‐shift concentration‐time profile compared to the actual observations in 
+healthy adults and patients (Figure 12), indicating a poor fit for the absorption phase. The drug 
+underwent  extensive  first‐pass  metabolism  and  therefore  large  variability  among  different 
+populations (healthy adults, patients with solid tumors, glioblastoma, or cholangiocarcinoma) 
+was present. In addition, there are great number of BLQ observations during absorption phase 
+that were excluded during PK modeling, leading to a large eta shrinkage for V2app and a prediction 
+bias for the absorption phase. 
+ 
+In  VPC  plots  of  multiple  doses,  both  the  infigratinib  and  BHS  PK  models  overpredicted 
+concentrations  at  the  10th  percentile  (Figure  12  and  Figure  13).  This  is  because  all  BLQ 
+observations were added back to the dataset before calculating the percentiles of the observed 
+observations.  For  handling  BLQ,  sponsor  applied  LLOQ/2  to  replace  BLQ  which  resulted  in 
+moderate differences in fixed effect parameters and comparable GOF plots; sponsor also tested 
+M3 method which resulted in unsuccessful minimizations. The model fit for the data could be 
+improved if the healthy and patient population were modeled separately, and a partial recovery 
+of clearance after a dosing holiday was factored in the model (see 19.4.2.2.5). Overall, the model 
+fit is acceptable for the heterogeneous study populations.  
+ 
+ 
+Table 59. Summary of Baseline Demographic Characteristics and Laboratory Values in the 
+Dataset. 
+Characteristics 
+level 
+Statistics 
+N 
+ 
+573 
+Dose, n (%) 
+20 mg 
+13 (2.3) 
+40 mg 
+11 (1.9) 
+50 mg 
+9 (1.6) 
+60 mg 
+3 (0.5) 
+65 mg 
+1 (0.2) 
+75 mg 
+35 (6.1) 
+90 mg 
+5 (0.9) 
+100 mg 
+42 (7.3) 
+125 mg 
+448 (78.2) 
+150 mg 
+6 (1) 
+NCI liver function group, n (%) 
+Normal 
+454 (79.2) 
+Mild B1 
+90 (15.7) 
+Mild B2 
+19 (3.3) 
+Moderate C 
+10 (1.7) 
+Disease status, n (%) 
+Healthy  
+211 (36.8) 
+Patient 
+362 (63.2) 
+Race, n (%) 
+Caucasian 
+405 (70.7) 
+Black 
+88 (15.4) 
+Asian 
+46 (8) 
+Other 
+34 (5.9) 
+Reference ID: 4802513
+
+
+===== PAGE 238 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+237 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+19.4.2.2.4 Elevated AUC in Organ Impaired Patients with Repeated Doses of Infigratinib 
+A  significant  accumulation  of  the  parent  drug  (5‐fold)  and  metabolite  BHS697  (7‐fold)  was 
+observed on day 15 compared to day 1 in terms of AUC0‐24. The effects of hepatic and renal 
+impairment  evaluated  in  dedicated  study  with  a  single  dose  of  infigratinib  may  neither  be 
+adequate nor relevant.  In addition, hepatic function was classified differently for healthy subjects 
+in the dedicated study (Child‐Pugh) and patients with cancer (NCI liver function group), therefore 
+the  degree  of  hepatic  impairment  could  have  discordance  to  directly  apply  dose 
+recommendation based on one classification to the other.  
+ 
+The impact of hepatic or renal dysfunction in lieu of multiple doses was evaluated based on 
+individual  exposure  estimation  using  population  PK  approach.  In  the  pivotal  study,  hepatic 
+impairment characterized by NCI liver function group included 36 patients in mild group (29 in 
+B1 and 7 in B2), and 5 in moderate group; renal impairment characterized by creatinine clearance 
+included 20 patients in mild group (60~89 mL/min) and 7 in moderate group (30~59 mL/min). As 
+shown  in  Table  64,  steady  state  AUC  values  for  the  parent  and  its  active  metabolites  were 
+increased in mild and moderate organ impaired subjects, except there is some inconsistency for 
+CQM157. 
+ 
+ 
+Table 64. Ratio of AUC Geomean Relative to Normal Hepatic/renal Function for Each Organ 
+Impairment Category in Study 2204. 
+Ratio of AUC Geomean 
+Relative to Normal 
+Hepatic/Renal Function 
+Hepatic impairment by NCI liver Fx group 
+Renal impairment by CrCL 
+Mild 
+(B1) 
+Mild 
+(B2) 
+Moderate 
+(C) 
+Mild 
+(60‐89 mL/min) 
+Moderate 
+(30‐59 mL/min) 
+Infigratinib 
+1.65 
+1.86 
+2.19 
+1.39 
+1.48 
+BHS697 
+1.65 
+1.47 
+1.83 
+1.24 
+1.78 
+CQM157 
+0.86 
+1.29 
+2.00 
+1.25 
+0.69 
+Source:  \\CDSESUB1\evsprod\nda214622\0013\m1\us\111‐info‐amend\clin‐info‐amendment‐
+clinpharm.pdf (Derived from Table 12); \\CDSESUB1\evsprod\nda214622\0009\m1\us\111‐info‐
+amend\clin‐info‐amend‐clinpharm‐14dec20.pdf (Derived from Table 5) 
+ 
+ 
+Simulation to match PK for organ impaired patients 
+Since an elevation of exposure was observed in patients with hepatic/renal impairment, the 
+Applicant performed PK simulations to determine the appropriate dose adjustment. To check if 
+dose reduction is necessary, 5‐95th percentile of simulated AUC activity of patients with normal 
+organ function was used as the reference range and the organ impairment with 25‐75th exposure 
+outside of the reference range was considered for a dose reduction. Therefore, only patients with 
+moderate hepatic impairment were proposed for a dose reduction to 75 mg (Table 65 and Table 
+66).  Though  most  of  the  simulated  AUC  in  mild  hepatic  impaired  and  mild/moderate  renal 
+impaired  patients  were  within  the  reference  range,  the  distribution  displayed  a  prominent 
+upward shift ( Figure 14 and Figure 15). In addition, the simulation is based on a small number of 
+Reference ID: 4802513
+
+
+===== PAGE 241 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+240 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+volume, then generate 4 separate datasets for 50 mg, 75 mg, 100 mg, and 125 mg dose scenarios 
+by replacing the existing dose amount in the dataset; 4) simulate hourly concentrations for the 4 
+dose scenarios; 5) summarize exposure (AUC0‐24h activity at steady state and Cmax of infigratinib) 
+based on baseline organ impairment categories. 
+ 
+The AUC activity profiles as shown in Table 67 and Figure 16 were similar to sponsor’s profiles. 
+Based  on  comparing  the  median  and  90%  CI  of  geomean,  and  weighing  the  distribution  of 
+simulated  exposures,  we  recommend  dose  reductions  for  mild/moderate  organ  impaired 
+subjects as follows: 
+ Hepatic impairment (by NCI classification): 25 mg dose reduction in patients with mild (B1 
+or B2) hepatic impairment; 50 mg dose reduction in patients with moderate (C) hepatic 
+impairment. 
+ Renal impairment (by CrCL): 25 mg dose reduction in patients with mild (60‐89 mL/min) 
+or moderate (30‐59 mL/min) renal impairment. 
+ 
+Table 67 Geometric Mean of Simulated AUC0‐24h Activity and Infigratinib Cmax at 50, 75, 100, 
+125 mg by Organ Impairment Category in Study 2204. 
+AUC0‐24h activity (μM*h) 
+Hepatic Impairment 
+Normal (A) 
+Mild (B1) 
+Mild (B2) 
+Moderate (C) 
+50 mg 
+15.6 [13.4; 18.2] 
+19.7 [17.1; 22.8] 
+20.7 [16.1; 26.6] 
+25.4 [14.8; 43.6] 
+75 mg 
+23.4 [20.1; 27.3] 
+29.5 [25.5; 34.1] 
+31 [24.2; 39.8] 
+38 [22.2; 65.1] 
+100 mg 
+31.1 [26.7; 36.3] 
+39.2 [33.8; 45.3] 
+41.4 [32.3; 53] 
+50.5 [29.4; 86.6] 
+125 mg 
+38.8 [33.3; 45.4] 
+48.8 [42.1; 56.5] 
+51.7 [40.5; 66] 
+62.9 [36.7; 108] 
+ 
+Renal Impairment 
+Normal (≥ 90 mL/min) 
+Mild (60‐89 mL/min) 
+Moderate (30‐59 mL/min) 
+50 mg 
+15.6 [13.8; 17.5] 
+22.7 [19.4; 26.7] 
+27.1 [18.8; 39.1] 
+75 mg 
+23.3 [20.7; 26.2] 
+34 [29; 40] 
+40.6 [28.2; 58.5] 
+100 mg 
+31 [27.5; 34.8] 
+45.3 [38.5; 53.3] 
+54.1 [37.6; 77.8] 
+125 mg 
+38.6 [34.3; 43.5] 
+56.5 [48; 66.5] 
+67.5 [47; 97] 
+ 
+Infigratinib Cmax (ng/mL) 
+Hepatic Impairment 
+Normal (A) 
+Mild (B1) 
+Mild (B2) 
+Moderate (C) 
+50 mg 
+83.9 [69.7; 100.9] 
+114.3 [96.6; 135.3] 
+123.6 [96.4; 158.5] 
+123.9 [71.2; 215.7] 
+75 mg 
+117.9 [97.9; 142.1] 
+160.1 [135.1; 189.7] 
+174.5 [136.5; 223] 
+177.8 [100.7; 313.7] 
+100 mg 
+150.6 [124.8; 181.7] 
+204.1 [172; 242.2] 
+223.6 [175.4; 284.9] 
+229.9 [128.9; 410] 
+125 mg 
+182.3 [150.9; 220.3] 
+246.9 [207.7; 293.4] 
+271.6 [213.7; 345.1] 
+280.8 [156.1; 504.9] 
+ 
+Renal Impairment 
+Normal (≥ 90 mL/min) 
+Mild (60‐89 mL/min) 
+Moderate (30‐59 mL/min) 
+50 mg 
+86 [74.5; 99.3] 
+130.8 [110.6; 154.8] 
+137.1 [83.5; 225.1] 
+75 mg 
+120.5 [104.3; 139.3] 
+184.7 [156.2; 218.5] 
+196.3 [119.8; 321.7] 
+100 mg 
+153.5 [132.6; 177.5] 
+236.9 [200.1; 280.5] 
+253.8 [155; 415.4] 
+125 mg 
+185.4 [160.1; 214.7] 
+287.9 [242.8; 341.5] 
+310.1 [189.6; 507.1] 
+Source: Reviewer’s analysis 
+ 
+Reference ID: 4802513
+
+
+===== PAGE 242 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+241 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+ 
+Figure 16. Simulated Overall Activity AUC0‐24h by Organ Impairment Categories at 50, 75, 100, 
+and 125 mg. 
+ 
+ 
+ 
+Source: Reviewer’s analysis 
+ 
+19.4.2.2.5 Technical issues with the sponsor’s analyses 
+Inaccurate  clearance  and  half‐life  estimates  of  infigratinib  in  cholangiocarcinoma  patients 
+proposed in the label 
+The steady state clearance of infigratinib was reported to be 
+ L/h (
+%CV) in proposed label 
+and  clin  pharm  summary.  When  referring  to  the  source  table  [QEDT‐NCA‐BGJ398‐827  Table 
+8.4.1.4], the clearance of infigratinib clearance at Cycle 1 Day 15 was reported as follows: the 
+arithmetic mean ‐ 25.35 L/h, geometric mean ‐ 22.69 L/h, and median ‐ 19.4 L/h, none of which 
+matched 
+ L/h. In addition, the value of clearance is summarized from 7 subjects which may 
+be biased due to small sample size. 
+ 
+The terminal half‐life (sponsor mistakenly named it as 
+) of infigratinib at steady 
+state was reported to be 
+ hours in proposed label and clin pharm summary 
+ 
+ 
+ 
+  
+ 
+Due to the limitations stated above in NCA analysis, below provided the clearance and half‐life 
+at Cycle 1 Day 15 calculation based on the population PK parameter estimates (the values of the 
+parameter estimates can be found in population PK report): 
+ 
+ CLss = CLBapp*(1‐ 0.489*TUMGLCH)*[1+KCLMAX*DC/(DC50+DC)] = 47.2 L/h 
+F1rel = 1*(1+0.334*FORM134) = 1.334 
+CLapp,ss = CL/F1rel = 35.4 L/h 
+Reference ID: 4802513
+(b) (4)
+(b) 
+(4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 243 =====
+
+NDA 214622 Multi‐disciplinary Review and Evaluation  
+Infigratinib (Truseltiq) 
+ 
+ 
+ 
+242 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Where  DC(dose  count)=15  for  steady‐state;  TUMGLCH=1  for  cholangiocarcinoma 
+patients;  KCLMAX  (maximum  relative  change  of  clearance)=‐0.802;  F1rel  stands  for 
+relative bioavailability to CSF formulation.  
+ 
+ t1/2 = 0.693/BETA = 33.0 h 
+BETA is the elimination constant for the terminal phase calculated as follows: 
+K23=Qapp/V2app 
+K32=Qapp/V3app 
+K=CL/V2app 
+BETA = {(K23 + K32 + K20) – SQRT[(K23 + K32 + K20)^2 ‐ (4*K21*K20)]}/2 
+ 
+The  calculated  values  were  in  agreement  with  the  PK  estimates  submitted  by  sponsor 
+[20210209_FDA_NDA_RFI_ClinPharm]. 
+ 
+Clearance of infigratinib partially restored after off‐cycle 
+A reduction in infigratinib clearance (the parent drug and metabolite BHS697) over time was 
+reflected with dose count as a covariate on clearance in the population PK model. Within a 
+treatment cycle, trough increases with the number of dosing. At the start of a new cycle, a trough 
+comparable to the level of the first dose in cycle 1 was observed, suggesting a restoration of 
+clearance after the 7‐day off‐cycle. There is no inter‐occasional variability was used to factor in 
+this change, therefore the exposure measure could be inflated which likely introduced bias in the 
+subsequent E‐R analysis. Reviewer carried out an independent analysis to reset the dose count 
+to 1 after the off‐cycle (a reset for any dose holiday that lasted for at least 7 days). The OFV was 
+increased, suggesting a complete restoration is not likely. Subsequently, the reviewer carried out 
+another analysis by subtracting the number of dose holidays from the dose count. OFV of the 
+infigratinib  model  dropped  by  31.492,  and  OFV  of  the  BHS697  model  dropped  by  8.928, 
+suggesting some recovery from auto‐inhibition after dose holidays. However, given the limited 
+sparse PK sampling at the later cycles, the effect of off‐cycle on clearance may not be adequately 
+characterized and its impact on ER analyses and PK simulation for dose adjustment is expected 
+to be minimum. 
+ 
+Large inter‐occasional variability for Ka in BHS697 PK model 
+Large inter‐occasional variability (IOV) for Ka was observed, accompanied by flip‐flop kinetics in 
+some subjects. Adding occasion to factor in IOV on Ka significantly improved the fit, partially 
+resolving the flip‐flop kinetics. Given BHS697 is a metabolite and the Ka is not a true absorption 
+constant, the flip‐flop in some subjects could be attributed by some transient extrinsic factors, 
+such as concomitant medication. Since the change of key parameter estimates was within 20% 
+and BHS697 only contributed to 16‐33% of FGFR1‐3 inhibition, the inter‐occasional v

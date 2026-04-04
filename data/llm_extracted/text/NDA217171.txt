@@ -1,0 +1,518 @@
+
+
+===== PAGE 14 =====
+
+3
+Table of Tables
+Table 1. Summary of Clinical Pharmacology Review Issues and Recommendations......................................5
+Table 2. Summary of Key Regulatory Interactions...........................................................................................8
+Table 3. General Pharmacology and Pharmacokinetic Characteristics of Pegcetacoplan.................................9
+Table 4. ADA and PK Sampling .....................................................................................................................15
+Table 5. Summary of Anti–Pegcetacoplan Peptide Antibody Results ............................................................16
+Table 6. Summary of Anti-PEG Antibody Results .........................................................................................17
+Table 7. Summary of Bioanalytical Methods for PK, PD, and Immunogenicity............................................19
+Table 8. Summary of Bioanalytical Methods for the Measurement of Serum Pegcetacoplan........................19
+Table 9. Study POT-CP043014: Summary of Pegcetacoplan Serum PK Parameters.....................................24
+Table 10. Study Pegcetacoplan-203: Mean Pegcetacoplan Serum Concentration..........................................26
+Table 11. Study POT-CP121614: Mean Pegcetacoplan Serum Concentration...............................................29
+Table 12. Study APL2-303: Mean Pegcetacoplan Serum Concentration........................................................34
+Table 13. Summary of Subjects and PK Samples by Study............................................................................39
+Table 14. Pharmacokinetic Parameter Estimates for the Final Model ............................................................42
+Table 15. Predicted Pegcetacoplan Steady-state Serum Exposure – Final Model ..........................................45
+Table 16. Simulated Pegcetacoplan PK Parameters Following IVT Monthly Administration.......................50
+Table 17. Summary of Subjects.......................................................................................................................53
+Table 18. Parameter Estimates for the Final ER Model ..................................................................................56
+Reference ID: 5067026
+
+
+===== PAGE 18 =====
+
+7
+2.
+SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT
+2.1 Pharmacology and Clinical Pharmacokinetics
+Pegcetacoplan binds to complement protein C3 and its activation fragment C3b with high 
+affinity thereby regulating the cleavage of C3 and the generation of downstream effectors of 
+complement activation. 
+Pharmacokinetics
+Following repeat intravitreal administration of pegcetacoplan of 15 mg, geometric mean (%CV) 
+serum Cmax value at steady state was 2.2 μg/mL (28.7%) and 1.5 μg/mL (58.1%) for GA 
+patients dosed monthly and every other month, respectively. The steady state geometric mean 
+(%CV) serum trough concentrations were 1.0  μg/mL (52.3%) and 0.2 μg/mL (89.6%) for 
+patients treated monthly and every other month, respectively.
+Following intravitreal administration of pegcetacoplan, the systemic median Tmax of 
+pegcetacoplan is between 7 and 14 days. Following intravitreal treatment, systemic exposure of 
+pegcetacoplan increases approximately proportionally over a dosage range from 4 to 20 mg. 
+The geometric mean (95%CI) volume of distribution of pegcetacoplan is approximately 1.85 L 
+(1.62   2.12) in patients with GA following intravitreal administration. The estimated geometric 
+mean (%CV) of clearance (CL) is 0.284 L/day (21.1%) and geometric mean half-life of 
+elimination (T1/2) is 4.5 days (21.1%) in patients with GA. There were no clinically significant 
+differences on the pharmacokinetics of pegcetacoplan intravitreal administration based on age 
+(60 to 97 years old), sex, renal impairment, and hepatic function as evaluated by total bilirubin 
+(0.05-1.7 mg/dL), albumin (2.96-5.38 g/dL), aspartate aminotransferase (8.7-101 IU/L), or 
+alanine aminotransferase (5.9-136 IU/L).
+Pharmacodynamics
+No systemic PD effects (CH50, C3, and AH50) were observed in subjects with GA secondary 
+to AMD; this is consistent with the low systemic exposure of pegcetacoplan observed following 
+IVT administration of 15 mg doses either monthly or EOM.
+Immunogenicity
+The incidence of anti–pegcetacoplan peptide antibodies was low across all studies, and there 
+was no apparent relationship between incidence of ADAs and dose group. Additionally, low 
+incidences of treatment-emergent and treatment-boosted anti-PEG antibody responses were 
+observed, and many of those responses were transient. Given the low incidence of anti-
+pegcetacoplan peptide antibodies and treatment-emergent/boosted anti-PEG antibodies, the 
+effect of these antibodies on the pharmacokinetics, pharmacodynamics, safety, and/or 
+effectiveness of pegcetacoplan is unknown.
+2.2
+Dosing and Therapeutic Individualization
+2.2.1
+General dosing
+The proposed dosage of IVT pegcetacoplan is administered by intravitreal injection at 15 mg 
+Reference ID: 5067026
+
+
+===== PAGE 20 =====
+
+9
+Type B EOP2 Meeting
+(Dec 05, 2017)
+Discussed two Phase 3 protocol designs as adequate and well-controlled 
+confirmatory studies to support the indication of pegcetacoplan for the 
+treatment of patients with GA secondary to AMD.
+Type C WRO
+(Oct 21, 2019)
+Discussed the acceptability of the proposed 
+-mL overfill on the basis of 
+dead volume loss and filling machine variability
+Type C Meeting
+(Mar 01, 2021)
+Discussed the statistical analysis strategy and pooling proposals for the 
+Phase 3 studies for pegcetacoplan
+Type C WRO 
+(Sep 28, 2021)
+Discussed the concentration for leachables and the Division required 12-
+month drug product registration stability data at the time of NDA 
+submission.
+Type A Meeting
+(Scheduled on Nov 18, 
+2021) 
+Discussed the adequacy of Studies APL2-303, APL2-304, and POT-
+CP121614 to support the indication and the appropriateness of the mean 
+rate of change from baseline (CFB) in total GA lesion area using fundus 
+autofluorescence (FAF) as the primary endpoint.
+Type B Pre-NDA Meeting
+(Jan 21, 2022)
+The Division recommended that Apellis submit complete Month 18 
+efficacy and safety data in the initial NDA and to focus on the post–
+Month 12 endpoints that are most relevant for informing the benefit-risk 
+profile. The Division agreed to Apellis’s plan to include Month 12 clinical 
+study reports (CSRs) in the initial NDA, full data sets through Month 18, 
+brief summaries of key findings at Month 18, and brief summaries of 
+pertinent data beyond Month 18.
+3.2 General Pharmacology and Pharmacokinetic Characteristics
+The PK of IVT pegcetacoplan was evaluated in subjects with nAMD (Studies POT-CP043014 and 
+APL2-203), and 3 clinical studies in subjects with GA secondary to AMD (Studies POT-
+CP121614, APL2-303, and APL2-304). All but one clinical study (Study APL2-304) evaluated the 
+PK of pegcetacoplan. Population PK (PopPK) analysis of pegcetacoplan was conducted using 
+pooled PK data from 4 clinical studies following IVT administration. Based on the PopPK 
+analysis, none of the investigated covariate effects were anticipated to be clinically meaningful 
+given the low absolute maximum serum concentrations achieved (<5 µg/mL). General 
+pharmacology and pharmacokinetic characteristics of pegcetacoplan is shown in Table 3.
+Table 3. General Pharmacology and Pharmacokinetic Characteristics of Pegcetacoplan
+Characteristic
+Drug Information
+Pharmacologic Activity
+Reference ID: 5067026
+(b) 
+(4)
+
+
+===== PAGE 21 =====
+
+10
+Characteristic
+Drug Information
+Established 
+pharmacologic class 
+(EPC)
+Pegcetacoplan is a symmetrical molecule comprised of two identical 
+pentadecapeptides covalently bound to the ends of a linear 40-
+kiloDalton (kDa) PEG molecule.
+Mechanism of action
+Pegcetacoplan binds to complement protein C3 and its activation 
+fragment C3b with high affinity thereby regulating the cleavage of C3 
+and the generation of downstream effectors of complement activation. 
+Overactivation of the complement system is strongly associated with 
+the progression of GA. Increased levels of complement activity have 
+been found in patients with GA, specifically in lesions and surrounding 
+areas. Pegcetacoplan acts centrally by regulating C3 in the complement 
+cascade, thereby exerting broad control of complement activation, and 
+of the complement effectors that are involved in the pathogenesis of 
+GA.
+Active moieties
+Pegcetacoplan
+General Information
+Bioanalysis
+Pegcetacoplan concentrations in human serum were quantified using 
+validated LC-MS/MS. These assays along with its related validation 
+reports were found to be acceptable. (Reference: Appendix 4.1)
+Bridge between to-be-
+marketed and clinical 
+trial formulations
+The to-be-marketed formulation was used in pivotal clinical studies.
+Absorption
+Cmax
+Median (5th, 95th) steady-state serum Cmax among GA patients is 
+predicted to be 1.70 (0.60, 2.30) μg/mL and 2.20 (1.40, 3.00) μg/mL at 
+doses of 15 mg IVT EOM and 15 mg IVT every month, respectively. 
+(Reference: Appendix 4.3.1)
+Serum pegcetacoplan 
+exposure at steady 
+state 
+Steady-state serum pegcetacoplan exposure is predicted to be below the 
+level required for systemic PD effects on the basis of systemic C3 
+inhibition (655-706 μg/mL in paroxysmal nocturnal hemoglobinuria 
+[PNH] patients, reference to NDA 215014 Integrated Review in 
+DARRTS dated May 14, 2021). Steady-state vitreous pegcetacoplan 
+Reference ID: 5067026
+
+
+===== PAGE 22 =====
+
+11
+Characteristic
+Drug Information
+exposure is predicted to be approximately 1300-fold higher than serum 
+exposure. (Reference: Appendix 4.3.1)
+Dosage 
+proportionality
+Serum PK of pegcetacoplan increased in a dose-proportional manner as 
+assessed by AUC and Cmax across the dose range evaluated (4, 10, and 
+20 mg IVT/0.1 mL injection). (Reference: Appendix 4.2.2)
+Accumulation
+There is almost no systemic accumulation from first dose to steady 
+state with EOM dosing (median accumulation ratio [AR] = 1.10) and 
+only a small amount of accumulation with monthly dosing (median AR 
+= 1.50). (Reference: Appendix 4.3.1) 
+Distribution
+Volume of 
+Distribution
+The geometric mean (95%CI) volume of distribution of pegcetacoplan 
+is approximately 1.85 L (1.62 - 2.12) in patients with GA following 
+intravitreal administration. (Reference: Appendix 4.3.1)
+Elimination
+Clearance 
+The estimated geometric mean (%CV) of clearance (CL) is 0.284 L/day 
+(21.1%) and geometric mean half-life of elimination (T1/2) is 4.5 days 
+(21.1%) in patients with GA secondary to AMD. (Reference: Appendix 
+4.3.1)
+Half-life 
+Pegcetacoplan disposition following IVT administration is absorption 
+limited with median individual predicted absorption and elimination 
+half-lives of 13.0 days (T½, abs) and 4.49 days (T½, elim), 
+respectively. (Reference: Appendix 4.3.1)
+Metabolic pathway(s)
+Pegcetacoplan is expected to be metabolized into small peptides and 
+amino acids by catabolic pathways. 
+Intrinsic Factors and Specific Populations
+Body weight
+Based on the PopPK model, body weight-based dosage adjustment is 
+not needed. (Reference: Appendix 4.3.1)
+Age
+Based on the PopPK model, age-based dosage adjustment is not 
+needed. (Reference: Appendix 4.3.1)
+Reference ID: 5067026
+
+
+===== PAGE 34 =====
+
+23
+subjects once the initial 3 subjects had reached their Day 7 Visit (only 7 were recruited).
+Subjects who met all entry criteria received IVT pegcetacoplan on Day 1. Subjects returned 
+to the clinical site on Days 3, 8, and 15 during the 14-day acute safety observation period. 
+After the acute safety period, subjects returned to the clinical site for additional follow-up 
+visits on Days 29, 57, 85, and the Termination Visit on Day 113. Safety was assessed 
+throughout the study; blood samples and urine samples were collected for safety laboratory 
+determinations. 
+Blood samples were also collected for the pharmacokinetic assessment of pegcetacoplan. No PD 
+samples were collected.
+Results:
+A total of 13 subjects were enrolled in the study, 3 received 4 mg pegcetacoplan, 3 received 10 mg 
+pegcetacoplan, and 7 received 20 mg pegcetacoplan. All 13 subjects were included in the Safety Set, 
+the Efficacy Set, and the Pharmacokinetic set.
+Pharmacokinetic Results: 
+Pegcetacoplan was slowly absorbed into the systemic circulation, with Tmax values between 7 and 16 
+days across all subjects. Pegcetacoplan serum concentrations declined in a steady mono-exponential 
+manner. There was a dose-dependent increase in exposure (Cmax and AUC0-t), broadly consistent 
+with the pegcetacoplan serum pharmacokinetics being dose-proportional across the doses investigated 
+(Figure 1 and Table 9).
+Figure 1. Study POT-CP043014: Mean (SE) Pegcetacoplan Serum Concentrations Following 
+IVT Administration
+Reference ID: 5067026
+
+
+===== PAGE 37 =====
+
+26
+Pharmacokinetic Results:
+Pharmacokinetic analyses were not performed as planned because the study was terminated, and 
+subjects were not exposed to the predetermined number of pegcetacoplan injections necessary for 
+meaningful PK analysis. PK data were collected at Month 1 and Month 6 (Figure 2 and Table 10). 
+No PD samples were collected.
+Figure 2. Study Pegcetacoplan-203: Mean (SE) Pegcetacoplan Serum Concentration Following 
+IVT Administration
+Source: 2.7.2 Summary of Clinical Pharmacology, Figure 2.
+Table 10. Study Pegcetacoplan-203: Mean Pegcetacoplan Serum Concentration
+Source: 2.7.2 Summary of Clinical Pharmacology, Table 6.
+Safety Results:
+Reference ID: 5067026
+
+
+===== PAGE 44 =====
+
+33
+The procedure for sham injection was the same as that used for IVT pegcetacoplan injection but no 
+actual injection occurred. The injecting physician only touched the study eye with the blunt end of 
+the syringe. No needle or medication was injected inside the eye. 
+Sparse blood samples in a total of 101 subjects were collected predose and on Days 1, 7, 30, 180 and 
+360 for PK and PD assessments. Immunogenicity was summarized at the sample level and the 
+subject level for anti-APL2 peptide antibody assay and the anti-PEG antibody response.
+Results:
+The intent-to-treat (ITT) population included 206 subjects in the PM group, 208 subjects in the 
+PEOM group, and 207 subjects in the sham pooled group. The modified intent-to-treat (mITT) 
+population included 201 subjects in the PM group, 200 subjects in the PEOM group, and 194 
+subjects in the sham pooled group. The safety population included 206 subjects in the PM group, 
+208 subjects in the PEOM group and 206 subjects in the sham pooled groups, respectively.
+Pharmacokinetic Results:
+The observed mean Cmax of pegcetacoplan was 1.37 and 1.46 μg/mL at Day 7 for the PM and 
+PEOM groups, respectively. The steady state mean trough concentrations were observed at the range 
+of 0.83 to 0.96 μg/mL and 0.14 to 0.17 μg/mL for the PM and PEOM groups, respectively, following 
+more than 6 months of treatment (Figure 6 and Table 12).
+Figure 6. Study APL2-303: Mean (SE) Pegcetacoplan Serum Concentrations Following IVT 
+Administration
+Source: 2.7.2 Summary of Clinical Pharmacology, Figure 7.
+Reference ID: 5067026
+
+
+===== PAGE 50 =====
+
+39
+Title: Development of a population pharmacokinetic model for pegcetacoplan (ALP-2) in phase 
+1, 2, and 3 studies in patients with neovascular age-related macular degeneration and geographic 
+atrophy secondary to age-related macular degeneration
+Objectives:
+The primary objectives were to develop a population pharmacokinetic (PK) model to 
+characterize the serum concentration-time profile of pegcetacoplan following intravitreal (IVT) 
+administration to patients with neovascular age-related macular degeneration (nAMD) or 
+geographic atrophy (GA), including the assessment of intrinsic and extrinsic factors as 
+covariates. 
+Data:
+The population PK analysis includes pegcetacoplan serum concentration-time data from 4 
+studies following IVT administration, including one phase 1 study in patients with nAMD, one 
+phase 1b/2 study in patients with nAMD, one phase 2 study in patients with GA, and one phase 3 
+study in patients with GA. The analysis included a total of 261 unique subjects and 2033 PK 
+samples collected after the first dose of study medication, 1561 (76.8%) of which were 
+detectable and 472 (23.2%) of which were BLQ (Table 13). The assay LLOQ was 0.1 μg/mL for 
+all studies.
+Table 13. Summary of Subjects and PK Samples by Study
+Source: PPK_APL-ex2-cp-012, Figure S4., Table 5.
+A pre-commercial solution formulation was used for 6 patients in Study POT-CP 043014 and the 
+planned commercial solution was used for 67 patients in Study APL2-303. A 
+ 
+formulation was used for all other dose administrations. Patients were relatively well balanced 
+between female (56.7%) and male (43.3%) and were almost exclusively of White race (97.3%) 
+and non-Hispanic ethnicity (95.4%). The median age was 80 years (range, 60-97 years), which is 
+consistent with the natural history of nAMD and GA. The median baseline C3-concentration was 
+1.20 g/L (range, 0.616-1.91 g/L). Measures of body size (height, weight, body surface-area) were 
+not available from studies POT-CP043014 or POT-CP121614, which represents over 50% of 
+subjects included in the analysis dataset. 
+Concomitant anti-VEGF medications were used for all nAMD patients and approximately 12% 
+of GA patients. Anti-PEG antibodies were detectable in 109 of 165 (66.1%) GA patients in POT-
+CP121614 and 41 of 67 (61.2%) of GA patients in APL2-303, primarily to preexisting antibodies 
+present at baseline. Anti-pegcetacoplan peptide antibodies were detected infrequently among GA 
+Reference ID: 5067026
+(b) (4)
+
+
+===== PAGE 51 =====
+
+40
+patients with positive anti-pegcetacoplan peptide antibody results among only 5 of 165 (3.0%) 
+GA patients in POT-CP121614 and 1 of 67 (1.5%) GA patients in APL2-303.
+Methods:
+Prior to model development, exploratory data analysis was performed to characterize the observed 
+data and inform model selection. A preliminary structural model, including the assessment of the 
+random effects structure, was then identified using data from nAMD patients in Phase 1 study 
+POT-CP043014 and GA patients in Phase 2 study POT-CP121614.The predictive performance of 
+the preliminary structural model was evaluated using a visual predictive check (VPC). 
+A model update was performed to incorporate data from nAMD patients in Phase 1b/2 Study 
+APL2-203 and GA patients in Phase 3 Study APL2-303 into the preliminary structural model 
+developed for IVT administration. Prior to updating the model, the ability of the preliminary 
+structural model to predict the new study data was evaluated using an external VPC. Following 
+external predictive assessment, the previous preliminary structural model was updated using 
+pooled data from all four clinical studies. A working full covariate model was developed using a 
+forward selection procedure followed by backward elimination to identify a preliminary 
+parsimonious final model. 
+The preliminary final model was evaluated using an internal VPC procedure to ensure adequate 
+predictive ability across the full combined data set prior to applying the model to generate 
+exposure predictions. The dependent variable in this analysis was log-transformed serum 
+concentration of pegcetacoplan following IVT administration. All post-dose concentration 
+measurements, both quantifiable and below the lower limit of quantification (BLQ), were included 
+in the analysis using the M3 approach.
+Results:
+Basic Structure Model:
+A preliminary structural population PK model trained on data from nAMD and GA patients from 
+studies POT-CP043014 and POT-CP121614 was developed and verified through external 
+predictive check on the other two nAMD and GA patient studies, APL2-203 and APL2-303. 
+The basic structure model built upon all 4 studies was established with an IVT dose administration 
+compartment (CMT =1), representing the vitreous space, and one systemic disposition 
+compartment (CMT = 2), representing serum, with first-order absorption following IVT 
+administration from the vitreous compartment to the serum compartment and subsequent first-
+order elimination from the serum compartment (Figure 10). Because all pegcetacoplan 
+administered via IVT injection was anticipated to be eliminated via absorption into systemic 
+circulation, bioavailability (F1) was assumed to be one such that serum parameters of clearance 
+(CL) and central volume of distribution (VC) were interpreted as apparent values (i.e., CL/F, 
+VC/F). Random effects included inter-individual variability (IIV) on CL/F and vitreous-to-serum 
+absorption rate (KA) with log-additive residual error.
+Figure 10. Basic Structure Model
+Reference ID: 5067026
+
+
+===== PAGE 52 =====
+
+41
+Source: PPK_APL-ex2-cp-012, Figure S4.
+The distribution of IIV on CL/F was found to deviate from log-normal and the Manly 
+transformation was used to meet the NONMEM assumption of normality in the distribution of 
+ⴄ1CL/F as follows:
+Where ⴄ1CL/F is a  random effect describing the ith individual’s deviation from the population 
+CL/F described using the Manly transform including distribution shape parameter λ. Structural 
+parameters were subsequently log transformed to facilitate estimation of covariate models in 
+subsequent steps.
+Covariate Model:
+Covariate-parameter relationships were evaluated using a forward selection procedure starting 
+with the updated structural model trained on the pooled analysis dataset including all four 
+clinical studies. In this procedure, the covariate-parameter relationship which had the largest 
+change in OFV and met the inclusion criteria (ΔOFV <-3.84 [p>0.05]) was retained and the 
+stepwise procedure repeated until no additional covariate-parameter relationships met the 
+inclusion criteria. A stepwise backward elimination procedure was then used to identify a 
+preliminary final model containing similar ‘information’ content as the working full model, but 
+with fewer covariates. At each step in backward elimination, the covariate-parameter 
+relationship which had the lowest change in OFV and did not meet the inclusion criteria 
+(ΔOFV >10.83 [p>0.001]) was eliminated and the stepwise backward elimination procedure 
+was repeated until all covariate-parameter relationships met the inclusion criteria.
+Covariates evaluated included: patient type (GA vs nAMD [reference]), sex (female vs 
+male[reference]), age, baseline C3, total bilirubin, albumin, alanine aminotransferase (ALT), 
+aspartate aminotransferase (AST), and estimated glomerular filtration rate (eGFR). Body weight 
+was not evaluated as a covariate due to missing values in >50% of subjects. Race and ethnicity 
+were not evaluated due to the homogeneity of the analysis population. The following seven 
+covariate-parameter relationships were added to the updated structural model in the working full 
+model: female sex, age, and C3 on CL/F; female sex on KA; and nAMD, C3, and albumin on 
+VC/F. Four of these covariates were subsequently removed in the backward elimination 
+Reference ID: 5067026
+
+
+===== PAGE 53 =====
+
+42
+procedure resulting in three covariate effects in the final model: female sex, age, and C3 on 
+CL/F.
+Final Model:
+PK parameter estimates for the final model are provided in Table 14. Parameters in the final 
+model were well estimated (RSE ≤37%). PK parameters for the typical patient with nAMD or 
+GA in the final model (male, 80 years of age, baseline C3 1.2 g/L) were as follows: CL/F of 
+0.325 L/day, VC/F of 1.85 L, and KA of 0.0523 day-1. Residual unexplained variability was 
+modest at 30.0%.
+Pegcetacoplan disposition is absorption-limited following IVT administration, displaying a 
+“flipflop”kinetic profile (typical T1/2,abs = 13.3 days; typical T1/2, elim = 3.95 days). Even in 
+the setting of absorption-limited disposition, the parameter estimate for the typical systemic 
+clearance (0.325 L/day) was intermediate to the typical systemic clearance estimates for 
+healthy subjects (0.298 L/day) and PNH patients (0.353 L/day) following systemic 
+administration routes of administration. 
+Table 14. Pharmacokinetic Parameter Estimates for the Final Model
+Reference ID: 5067026
+
+
+===== PAGE 60 =====
+
+49
+Source: APL-EX21-CP-013, Figure 15.
+The final model identified covariates, namely sex, age and baseline C3, are not predicted to have 
+any clinically meaningful impact due to the low absolute serum pegcetacoplan concentrations 
+predicted under all conditions of interest (<5 μg/mL) and lack of a predicted impact on vitreous 
+pegcetacoplan exposure. Similar simulation investigations were conducted for patient type, 
+formulation types, time varying anti-VEGF and ADA, which also suggested no clinical 
+meaningful impact from patient type (nAMD vs GA), formulation (solution vs 
+), 
+concomitant anti-VEGF and ADA identified on predicted steady state serum pegcetacoplan 
+exposure.
+Conclusions: 
+Pegcetacoplan PK was adequately described by 1-compartment serum disposition, first-order 
+absorption from the vitreous to serum compartments, and first-order elimination from the
+serum compartment adequately described the serum concentration-time profile of pegcetacoplan 
+following IVT administration to adults with nAMD or GA. Pegcetacoplan disposition was 
+absorption-limited following IVT administration with median individual predicted absorption 
+(T1/2,abs) and elimination (T1/2,elim) half-lives of 13.0 days and 4.49 days, respectively (Table 16).
+Reference ID: 5067026
+(b) (4)
+BEST AVAILABLE COPY
+
+
+===== PAGE 62 =====
+
+51
+Source: This reviewer’s analysis to duplicate Figure 16 in PPK_APL-ex2-cp-012
+Age, sex, and baseline C3 level were identified as significant (p < 0.001) predictors of apparent 
+serum pegcetacoplan clearance following IVT administration. Females are predicted to have a 
+1.27-fold increase (90% CI, 1.21-1.32) in steady-state serum Cmax compared to males. Age and 
+baseline C3 were not predicted to result in exposure outside of 0.8- to 1.25-fold of reference 
+Reference ID: 5067026
+
+
+===== PAGE 63 =====
+
+52
+over the range of values representing 90% of individuals in the analysis. In addition, 
+concomitant use of intravitreal anti-VEGF medications was predicted to result in 0.821- fold 
+(90% CI, 0.753-0.895) and 0.785-fold (90% CI, 0.709-0.859) decreases in serum AUC and 
+Cmax, respectively. Overall, none of these covariate effects were anticipated to be clinically 
+meaningful given the low absolute maximum serum concentrations achieved (<5 µg/mL).
+Reviewer’s Comments:
+1.
+  The Applicant’s final PopPK model is repeatable and considered adequate. It provided 
+an adequate description of the observed serum concentration–time profiles of pegcetacoplan in 
+adults with GA secondary to AMD following IVT administration.
+2.
+     None of the investigated covariate effects were anticipated to be clinically meaningful 
+given the low absolute maximum serum concentrations achieved (<5 µg/mL). The effect of body 
+weight on pegcetacoplan exposure is unknown as the information is missing in >50% of 
+subjects
+3.
+     Steady-state vitreous exposure was predicted to be approximately 1300-fold higher than 
+serum exposure. No intrinsic or extrinsic patient factors were anticipated to influence vitreous 
+exposure. However, because of lack of observed vitreous concentrations from all dosages of 
+IVT pegcetacoplan, the reliability of the predicted vitreous concentrations in human subjects 
+cannot be assessed.
+4.3.2
+Exposure-Response Analysis
+Title: Development of a Population Exposure Response Model for Lesion Area in Patients with 
+Geographic Atrophy Secondary to Age Related Macular Degeneration Treated with 
+Pegcetacoplan (APLl-2) or Sham in Phase 2 and 3 Studies 
+Objectives:
+•
+Develop a disease progression model to characterize the natural history of lesion area in 
+patients with GA
+•
+Develop a population ER model to characterize the impact of pegcetacoplan exposure 
+following IVT administration on disease progression in patients with GA
+•
+Predict disease progression at landmark timepoints following sham treatment compared to 
+clinically relevant doses administered via IVT injection
+Data: 
+The population ER analysis included GA lesion area measurements from 3 clinical studies (one 
+Phase 2 study and two Phase 3 studies) following sham treatment or IVT administration of 
+pegcetacoplan to patients with GA secondary to AMD. 
+Methods: 
+Prior to model development, exploratory data analysis was performed to help inform model 
+selection. First, a disease progression model, including the assessment of the random effects 
+Reference ID: 5067026

@@ -1,0 +1,2327 @@
+
+
+===== PAGE 10 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+9 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Table 87 Patients with suicidal ideation in Study B7461001 (Reviewer table) .......................... 190 
+Table 88 Time to start of medication to lower cholesterol and/or triglycerides (Reviewer table)
+..................................................................................................................................................... 197 
+Table 89 Mean cholesterol and triglyceride levels preceding adverse event ............................ 198 
+Table 90 Comparison of treatment-emergent adverse events by age in Study B7461001 
+(Reviewer table) .......................................................................................................................... 203 
+Table 91 Comparison of treatment-emergent adverse events by gender in Study B7461001 
+(Reviewer table) .......................................................................................................................... 204 
+Table 92 Comparison of treatment-emergent adverse events by race in Study B7461001 
+(Reviewer table) .......................................................................................................................... 205 
+Table 93 Summary of the Validated Analytical Methods for Lorlatinib, Midazolam, Rifampicin, 
+and Desacetyl Rifampicin ............................................................................................................ 228 
+Table 94 Summary of Bioanalytical Assay Performance............................................................. 229 
+Table 95 Summary of Bioanalytical Assay Performance for PF-06895751 ................................. 229 
+Table 96 Summary of Plasma Lorlatinib Pharmacokinetic Parameters Following a Single Oral 
+Dose of Lorlatinib ........................................................................................................................ 230 
+Table 97 Summary of Plasma Lorlatinib Pharmacokinetic Parameters Following Multiple Oral 
+Doses of Lorlatinib ...................................................................................................................... 231 
+Table 98 Comparison of lorlatinib pharmacokinetic parameters between observed valuesa and 
+predicted values from PBPK model following a single 50 mg IV or 100 mg SD or MD oral 
+administration ............................................................................................................................. 237 
+Table 99 Comparison of mean accumulation ratio (Rac) and steady state accumulation ratio (Rss) 
+between observed and predicted values ................................................................................... 239 
+Table 100 Observed and simulated lorlatinib exposure following a single dose of lorlatinib with 
+multiple daily doses of itraconazole, a strong CYP3A inhibitor, or rifampicin, a strong CYP3A 
+inducer ........................................................................................................................................ 240 
+Table 101 Observed and simulated midazolam exposure following a single dose of midazolam, a 
+CYP3A index substrate, with multiple daily doses of lorlatinib .................................................. 240 
+Table 102 Steady state exposure of lorlatinib with (+) or without (-) CYP3A inhibitor itraconazole 
+(200 mg QD) and relative exposure ratios .................................................................................. 241 
+Table 103 Lorlatinib PBPK model input parameters (Simcyp, v16, release 1) ........................... 242 
+Table 104 Enzyme Kinetic Parameters for the metabolism of lorlatinib in pooled liver 
+microsomesa................................................................................................................................ 245 
+Table 105 M2a formation rates and prediction of fraction metabolic contribution determined 
+from lorlatinib metabolism in rhCYPs ......................................................................................... 247 
+Table 106 Metabolite formation rates of M1a from lorlatinib metabolism in rhUGTsa ............ 247 
+Table 107 Clinical Studies Included in Population PK Analysis ................................................... 249 
+Table 108 Summary of Continuous Covariates ........................................................................... 251 
+Table 109 Summary of Categorical Covariates ........................................................................... 254 
+Table 110 Final PK Model Parameter Estimates ......................................................................... 255 
+Table 111 Summary of Patients with Advanced NSCLC Enrolled in Study B7461001 ................ 260 
+Table 112 Potential Predictors of Response (i.e. Covariates) ..................................................... 261 
+Table 113 Summary of Patient Categorical Covariate Characteristics ....................................... 262 
+Reference ID: 4344794
+
+
+===== PAGE 12 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+11 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Table of Figures 
+ 
+Figure 1: Inhibition of EML4-ALKv1G1202R tumor growth by PF-06463922 in a NSCLC model ...... 46 
+Figure 2: Inhibition of ALK and ALK I1171T by lorlatinib and crizotinib ....................................... 47 
+Figure 3: Inhibition of EML4-ALKL1196M (left) and ROS1 (right) tumor growth following 
+treatment with PF-06463922 in mouse models of NSCLC ........................................................... 47 
+Figure 4: Effects of PF-06463922 on cognitive performance parameters.................................... 49 
+Figure 5 Simulated Body Weight Effect on Lorlatinib Pharmacokinetics ..................................... 86 
+Figure 6 Time course of the increase in plasma ALT and AST liver over the treatment period of 
+all 12 healthy subjects. ................................................................................................................. 96 
+Figure 7: Study Schemas of B761001 .......................................................................................... 110 
+Figure 8 Lorlatinib dose levels (Applicant figure) ....................................................................... 116 
+Figure 9 eDISH analysis for patient
+(Applicant figure) ............................................... 173 
+Figure 10 eDISH analysis for patient
+(Applicant figure) ............................................. 175 
+Figure 11 The observed and simulated concentration-time profiles of a single (A) 50 mg IV and 
+(B) 100 mg oral administration of lorlatinib in healthy subjects. Blue circles with standard 
+derivation denoted the observed mean values obtained from Study B7461007; Black solid line 
+denoted the simulated concentrations from PBPK model with 95th percentile highlighted by 
+gray shadow and red dash lines.................................................................................................. 235 
+Figure 12 The observed and simulated concentration-time profiles of 100 mg QD doses of 
+lorlatinib in NSCLC patients. Color circles denoted the individual observed values obtained from 
+Study B7461001; Black solid line denoted the simulated concentrations from PBPK model with 
+95th percentile highlighted by gray shadow and red dash lines. ................................................ 237 
+Figure 13 Dose proportionality between dose and exposure (Cmax and AUC) and the calculated R 
+ratio. ............................................................................................................................................ 238 
+Figure 14 Simulated lorlatinib concentration-time profiles with (multiple doses of lorlatinib and 
+itraconazole) or without itraconazole under steady state condition using PBPK modeling ...... 241 
+Figure 15 Eadie-Hofstee, Michaelis-Menten, and Lineweaver-Burk plots for M6 formation from 
+lorlatinib (Source: Preclinical Report 123802; Figures 8.2 and 6.1 on Page 22) ........................ 246 
+Figure 16 Goodness-of-fit Plots of the Final Model .................................................................... 256 
+Figure 17 Prediction- and Variability- Corrected Visual Predictive Check .................................. 257 
+Figure 18 Predicted Probability of Achieving IC-ORR Stratified by Significant Predictor Variable: 
+IC-ORR ≥1 Prior ALK-Inhibitors .................................................................................................... 267 
+Figure 19 Predicted Probability of Grade ≥ 3 Hypercholesterolemia Versus Cmax Prior to the AE 
+with Fixed Time to Event Stratified by Baseline Cholesterol Level ............................................ 275 
+Figure 20 Hosmer-Lemeshow Goodness of Fit Calibration Plot for Grade ≥ 3 
+Hypercholesterolemia ................................................................................................................. 276 
+Figure 21 Predicted Probability of Grade ≥ 3 TEAEs Versus CAUCcomplete with Fixed Time to 
+Event Stratified by Age, Concomitant Narcotics, and Concomitant Steroids............................. 278 
+Figure 22 Hosmer-Lemeshow Goodness of Fit Calibration Plot for Grade ≥ 3 TEAEs ................ 279 
+Figure 23: Mean EORTC QLQ-C30 QoL Score by Visit ................................................................. 285 
+Figure 24: Mean Change from Baseline EORTC QLQ-C30 QoL Score by Visit ............................ 286 
+Figure 25: Mean EORTC QLQ-LC13 Scores by Category and Visit .............................................. 287 
+Reference ID: 4344794
+(b) (6)
+(b) (6)
+
+
+===== PAGE 54 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+53 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Type of Study 
+Major Findings 
+Absorption 
+ 
+Study #120541: Single dose 
+pharmacokinetics and oral 
+bioavailability of PF-
+06463922 in rats following 
+oral or intravenous 
+administration 
+ 
+ 
+Study #121134: Single dose 
+pharmacokinetics and oral 
+bioavailability of PF-
+06463922 in dogs following 
+oral or intravenous 
+administration 
+ 
+• Following 1 mg/kg intravenous (IV) or 5 mg/kg 
+oral administration in rats, the mean CL was 
+15.5 mL/min/kg and mean Vd was 2.66 L/kg.  
+The half-life ranged from 2.7 h (IV) to 3.6 h 
+(oral).  
+• Oral bioavailability was approximately 100%. 
+ 
+• Following 1 mg/kg IV or 2 mg/kg oral 
+administration in dogs, the mean CL was 9.05 
+mL/min/kg and mean Vd was 2.80 L/kg. The 
+half-life ranged from 4.6 h (IV) to 8 h (oral).  
+• Oral bioavailability was approximately 97 %.  
+ 
+Distribution 
+ 
+Reference ID: 4344794
+
+
+===== PAGE 55 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+54 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Type of Study 
+Major Findings 
+Study #092743: Protein 
+binding of PF-06463922 in 
+mouse and rabbit plasma 
+ 
+Study #ADME2012-001-
+0027: Protein binding of PF-
+06463922 in human, rat, 
+and dog plasma  
+Study #104704: Protein 
+binding of PF-06463922 in 
+human serum albumin and 
+alpha-1-acid 
+ 
+Study #114157: Plasma, CSF, 
+and brain tissue distribution 
+of PF-06463922 in rats 
+following single oral 
+administration (10 mg/kg) 
+ 
+ 
+ 
+ 
+Study #152438: Quantitative 
+whole-body 
+autoradiography of male 
+Long Evans rats after a 
+single oral administration of 
+[14C]PF-06463922 
+Mean fraction unbound of PF-06463922 in plasma 
+proteins at 2 µM (equilibrium dialysis) 
+Species 
+Mean Fraction Unbound 
+Mouse 
+0.239 
+Rat 
+0.303 
+Rabbit 
+0.358 
+Human  
+0.340 
+Human (HSA) 
+0.474 
+Human (AAG) 
+0.62 
+ 
+ 
+PK parameters of PF-06463922 in plasma, CSF, brain 
+Parameter 
+Plasma 
+CSF 
+Brain 
+tissue 
+Cmax (ng/mL) 
+1560 
+198 
+1150 
+AUC24 (h*ng/mL) 
+12500 
+1410 
+7970 
+Tmax (h) 
+1 
+1 
+1 
+T1/2 (h) 
+2.69 
+2.89 
+3.15 
+PF-06433922 demonstrated high penetration into 
+brain tissue, with concentrations as high as ~65% 
+those seen in plasma 
+• PF-06463922 rapidly and extensively distributed 
+to the tissues by 0.25 hours post dose 
+• Cmax in tissues was 1-8 hours post dose 
+• By 48 hours, 36 of 52 tissues were below the 
+lower limit of detection. By 672 hours post dose, 
+the lens of the eye, eye, kidneys, renal cortex, 
+nasal turbinates, preputial gland, thyroid, and 
+uveal tract still had measurable concentrations of 
+PF-06463922 
+• Tissues with the highest exposure were uveal 
+tract, liver, intervertebral discs, adrenal gland, and 
+Harderian gland 
+Metabolism 
+ 
+Reference ID: 4344794
+
+
+===== PAGE 60 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+59 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+• 
+The pancreas, liver, and kidney were major target organs, primarily in 
+high dose females 
+• 
+See Table 9 for selected histopathology findings 
+ 
+Toxicokinetics 
+• 
+Exposure increased in a dose-dependent manner 
+• 
+Exposure was approximately 2-fold higher in males compared to 
+females, leading to the difference in dose administration 
+• 
+There was accumulation in females at all doses, and in males at 15 
+mg/kg 
+ 
+ 
+  
+Dose (mg/kg/day) 
+Parameter 
+1           
+(0.5 BID) 
+2          
+(1 BID) 
+4         
+(2 BID) 
+8           
+(4 BID) 
+15                
+(7.5 BID) 
+Sex 
+F 
+M 
+F 
+M 
+F 
+M 
+Day 1 
+Cmax (ng/mL) 
+249 
+329 
+1020 
+1610 
+2640 
+3940 
+AUC24 (h*ng/mL) 
+3660 
+3750 
+15200 
+18600 
+31700 
+62400 
+Tmax (h) 
+1 
+1 
+1 
+1 
+1.7 
+1.7 
+Day 90 
+Cmax (ng/mL) 
+388 
+322 
+1490 
+1460 
+3020 
+6600 
+AUC24 (h*ng/mL) 
+5770 
+3920 
+25800 
+20600 
+44800 
+13100 
+Tmax (h) 
+1 
+1 
+1.7 
+1 
+1.7 
+1 
+ 
+LD: low dose; MD: mid dose; HD: high dose. 
+M: male; F: female 
+-/+: indicates reduction/increase in parameters compared to control. 
+Abs: absolute organ weight; OW: organ weight; BW: body weight 
+ 
+Table 9: Selected histopathology findings in rats 
+Sex 
+Male 
+Female 
+Dose (mg/kg/day) 
+2 
+8 
+15 
+1 
+4 
+15 
+# Main group, # Recovery 
+10, 5 
+10, 5 
+10, 5 
+10, 5 
+10, 5 
+10, 5 
+Pancreas 
+  
+  
+  
+  
+  
+  
+  
+Atrophy; acinar 
+Minimal 
+  
+  
+2, 2R 
+  
+  
+2, 2R 
+Mild 
+  
+  
+  
+  
+  
+6, 2R 
+Moderate 
+  
+  
+1 
+  
+  
+  
+Liver 
+  
+Hypertrophy; centrilobular 
+Minimal 
+  
+  
+  
+  
+  
+5 
+Hyperplasia; bile duct 
+Minimal 
+  
+  
+  
+  
+  
+2, 2R 
+Mild 
+  
+  
+  
+  
+  
+6, 1R 
+Moderate 
+  
+  
+  
+  
+  
+1R 
+Single cell necrosis 
+Minimal 
+  
+  
+  
+  
+  
+2 
+Increased cellularity; sinusoid 
+Minimal 
+  
+  
+  
+  
+  
+3 
+Increased hematopoiesis 
+Minimal 
+  
+  
+  
+  
+  
+8 
+Duct; bile 
+  
+  
+  
+  
+  
+  
+  
+Dilation 
+Mild 
+  
+  
+  
+  
+  
+3 
+Kidney 
+  
+  
+  
+  
+Reference ID: 4344794
+
+
+===== PAGE 65 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+64 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Histopathology 
+  Adequate battery: Yes 
+ 
+Scheduled sacrifices  
+Major target organs included lungs, liver, skin, and lymph nodes 
+ 
+See Table 10: Selected histopathology in dogs for selected 
+histopathology 
+Toxicokinetics 
+• 
+Exposure increased in a dose-dependent manner 
+• 
+There were no sex-related differences in exposure 
+• 
+Little accumulation occurred 
+  
+Dose (mg/kg/day) 
+Parameter 
+2             
+(1 BID) 
+7            
+(3.5 BID) 
+25          
+(12.5 BID) 
+Day 1 
+Cmax (ng/mL) 
+280 
+924 
+2760 
+AUC24 (h*ng/mL) 
+2520 
+10000 
+30800 
+Tmax (h) 
+1 
+1 
+1 
+Day 90 
+Cmax (ng/mL) 
+318 
+1150 
+3590 
+AUC24 (h*ng/mL) 
+2820 
+10400 
+31000 
+Tmax (h) 
+1 
+1 
+1 
+ 
+ 
+LD: low dose; MD: mid dose; HD: high dose 
+-/+: indicates reduction or increase in parameters compared to control 
+M: indicates male; F: indicates female 
+Abs: absolute organ weight; OW: organ weight; BW: body weight; BN: brain weight 
+ 
+Table 10: Selected histopathology in dogs 
+Sex 
+Male 
+Female 
+Dose (mg/kg/day) 
+0 
+2 
+7 
+25 
+0 
+2 
+7 
+25 
+# Main group 
+3 
+3 
+3 
+2 
+3 
+3 
+3 
+1 
+Lungs 
+  
+  
+  
+  
+  
+  
+  
+  
+Inflammation, subacute 
+Minimal 
+  
+  
+1 
+  
+  
+  
+  
+  
+Mild 
+  
+  
+2 
+  
+  
+  
+3 
+1 
+Moderate 
+  
+  
+  
+2 
+  
+  
+  
+  
+Inflammation, pleural, subacute 
+Minimal 
+  
+  
+2 
+1 
+  
+  
+1 
+  
+Liver 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Hyperplasia, bile duct 
+Minimal 
+  
+1 
+2 
+2 
+  
+1 
+2 
+  
+Mild 
+  
+  
+  
+  
+  
+  
+1 
+  
+Moderate 
+  
+  
+  
+  
+  
+  
+  
+1 
+Pigment, Kupffer cell 
+Minimal 
+1 
+1 
+1 
+  
+1 
+  
+2 
+  
+Mild 
+  
+  
+  
+2 
+  
+  
+  
+1 
+Skin 
+  
+Ulceration 
+Minimal 
+  
+  
+  
+1 
+  
+  
+  
+  
+Mild 
+  
+  
+  
+  
+  
+  
+1 
+  
+Inflammation 
+Moderate 
+  
+  
+  
+1 
+  
+  
+2 
+  
+Crust 
+Minimal 
+  
+  
+  
+  
+  
+  
+1 
+  
+Mild 
+  
+  
+  
+  
+  
+  
+1 
+  
+Moderate 
+  
+  
+  
+1 
+  
+  
+  
+  
+Reference ID: 4344794
+
+
+===== PAGE 71 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+70 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Necropsy 
+findings 
+ 
+Offspring 
+1 mg/kg 
+1 fetus with multiple malformations: 
+External: medially rotated hindlimbs, a supernumerary digit on the left 
+forepaw, gastroschisis 
+Visceral: protrusion of multiple organs through abdominal opening (a 
+portion of liver, stomach, small intestine, spleen, pancreas)  
+ 
+2 additional fetuses: small right kidney, interrupted aortic arch 
+Toxicokinetics 
+• The AUC exposures in rats at doses of 1, 4, 15, and 30 mg/kg were 
+approximately 1.2x, 5x, 19x, and 60x those achieved in patients 
+given the 100 mg PF-06463922 dose 
+ 
+Maternal exposure at GD 17 
+Dose (mg/kg/day) 
+Parameter 
+1           
+(0.5 BID) 
+4         
+(2 BID) 
+15          
+(7.5 BID) 
+30         
+(15 BID) 
+Cmax (ng/mL) 
+272 
+1060 
+3820 
+20300 
+AUC24 (h*ng/mL) 
+6810 
+27200 
+107000 
+339000 
+Tmax (h) 
+1 
+1 
+4 
+7 
+ 
+A preliminary embryo-fetal development study of PF-06463922 by oral gavage in rabbits / 
+Study 15GR478   
+Key Study Findings 
+• PF-06463922 related abortions were noted at doses of 15 and 30 mg/kg, and there were 
+no viable fetuses at either dose 
+• Primary effects of PF-06463922 were low embryo-fetal viability, incidence of external 
+and visceral abnormalities, and increased incidence of resorption at 4 mg/kg 
+ 
+Conducting laboratory and location: 
+GLP compliance: 
+Yes 
+ 
+Methods 
+Dose and frequency of dosing: 
+0.5, 2, 7.5, and 15 mg/kg given twice daily (1, 4, 
+15, 30 mg/kg/day) on gestation days (GDs) 7-19 
+Route of administration: 
+Oral gavage 
+Formulation/Vehicle: 
+Acidified deionized water (0.001N HCl) 
+Species/Strain: 
+New Zealand white rabbits 
+Number/Sex/Group: 
+8 females/group 
+Satellite groups: 
+None 
+Study design: 
+Female rabbits were naturally bread to 
+untreated males and mating day was designated 
+Reference ID: 4344794
+(b) (4)
+
+
+===== PAGE 73 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+72 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ 
+vessel variations found in rabbits. Therefore, the higher incidence of 
+malformation at 4 mg/kg/day was considered test-article related. 
+ 
+4 mg/kg 
+Single fetus: domed head, malrotated forelimbs, forepaw hyperextension, 
+high arched palate 
+2 additional fetuses: malpositioned and misshapen kidneys and a short 
+ureter, one of which also noted with a retroesophageal subclavian artery 
+Toxicokinetics 
+• The AUC exposures in rabbits at doses of 1, 4, 15, and 30 
+mg/kg/day were approximately 0.1x, 0.6x, 3x, and 7x those 
+achieved in patients given the 100 mg lorlatinib dose 
+ 
+Maternal exposure at GD 19 
+  
+Dose (mg/kg/day) 
+Parameter 
+1          
+(0.5 BID) 
+4        
+(2 BID) 
+15          
+(7.5 BID) 
+30          
+(15 BID) 
+Cmax (ng/mL) 
+37.8 
+235 
+909 
+2860 
+AUC24 (h*ng/mL) 
+546 
+3160 
+17000 
+40200 
+Tmax (h) 
+1 
+1 
+1 
+1 
+ 
+An investigative study of the effects of PF-06463922 on zebrafish development/ Study 
+16GR239   
+ 
+Pfizer performed an investigative evaluation of the effects of PF-06463922 on zebrafish 
+embryos. Briefly, wild-type pond zebrafish were obtained, and 12 mating groups were 
+established using 2 females and 1 male per group. Eggs from each mating group were pooled. 
+Eggs were plated 5 per well in a 24 well plate with embryo medium and incubated with PF-
+06463922 (0.25 to 1000 µM), prepared medium control, or solvent control until 120 hours post 
+fertilization. Zebrafish were then anesthetized with tricaine solution and a dissecting 
+microscope was used to determine phenotypic differences as compared to control. A scoring 
+system of 1-5 was used for major organ systems, with 1 being severely affected, and 5 being 
+normal. Differences in liver, yolk ball, body shape, circulation, edema, motility, and heart rate 
+were captured as affected (1) or not affected (0). After morphological assessment, zebrafish 
+were homogenized for plasma concentration and tissue bioanalysis via LC-MS/MS. 
+ 
+The developmental lowest observed effect concentration (LOEC) of zebrafish exposed to PF-
+06463922 was 0.25 µM. From 0.25-3.91 µM, the only PF-06463922-related effect observed was 
+fewer iridophores in the eye (100% of zebrafish scored). At concentrations ≥7.82 µM, PF-
+06463922 affected arches/jaws, body shape, circulation, face, fins, heart, liver, motility, neural 
+tube, notochord, somites, tail, and yolk. PF-06463922 also caused edema at concentrations 
+≥7.82 µM. The LOEC for death was 7.82 µM (3% of the exposed embryos died). 100% death 
+Reference ID: 4344794
+
+
+===== PAGE 78 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+77 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+PMR or 
+PMC 
+Key Issue(s) 
+to be 
+Addressed 
+Rationale 
+Key Considerations for 
+Design Features 
+PMR 
+Mechanism of 
+hepatotoxicity 
+observed in 
+B7461011 
+with 
+rifampicin 
+induction  
+Severe hepatotoxicity was observed 
+in subjects following multiple daily 
+doses of rifampicin and a single co-
+administered dose of lorlatinib. A 
+plausible mechanism for this 
+hepatotoxicity may be through the 
+synergistic activation of the PXR by 
+lorlatinib and rifampin, which are 
+both PXR agonists. PXR agonists are 
+generally CYP3A inducers. Since the 
+mechanism of the hepatotoxicity is 
+unknown, there is a potential safety 
+risk for severe hepatotoxicity when 
+lorlatinib is co-administered with 
+CYP3A inducers and PXR agonists. A 
+preclinical study should be designed 
+to assess this mechanism and 
+provide labeling information 
+regarding hepatotoxicity. 
+Evaluate the risk for 
+hepatotoxicity when lorlatinib 
+is co-administered with CYP3A 
+inducers (PXR and non-PXR 
+agonists) and non-CYP3A 
+inducers (PXR agonists and non-
+PXR agonists) using a 
+pharmacologically-relevant 
+animal model capable of 
+demonstrating the clinically 
+observed hepatoxicity signal.  
+ 
+ Summary of Clinical Pharmacology Assessment  
+ 
+Pharmacology and Clinical Pharmacokinetics 
+Steady-state lorlatinib maximum plasma concentration (Cmax) and area under the curve (AUC) 
+increased proportionally over the dose range of 10 mg to 200 mg orally once daily (0.1 to 2 
+times the recommended dose). At the recommended dosage, the mean [coefficient of variation 
+(CV) %] Cmax was 577 ng/mL (42%) and the AUC0-24h was 5650 ng·h/mL (39%) in patients with 
+cancer, and there was no accumulation. 
+Absorption 
+The median lorlatinib Tmax was 1.2 hours (0.5 to 4 hours) following a single oral 100 mg dose 
+and 2 hours (0.5 to 23 hours) following 100 mg orally once daily at steady state.  
+ 
+The mean absolute bioavailability is 81% (90% confidence interval [CI] 75.7%, 86.2%) after oral 
+administration compared to intravenous administration. 
+Reference ID: 4344794
+
+
+===== PAGE 79 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+78 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Distribution 
+In vitro, protein binding of lorlatinib to human plasma proteins, including serum albumin and 
+α1-acid glycoprotein, was 66% at a concentration of 2.4 µM and the blood-to-plasma ratio was 
+0.99. The mean (CV%) steady state volume of distribution (Vss) was 305 L (28%) following a 
+single intravenous 50 mg dose (0.5 times the recommended dose). 
+Elimination 
+The mean plasma half-life (t1/2) of lorlatinib was 24 hours (40%) after a single oral 100 mg dose 
+of lorlatinib. The mean oral clearance (CL/F) was 11 L/h (35%) following a single oral 100 mg 
+dose and increased to 18 L/h (39%) at steady state, suggesting autoinduction. 
+ 
+Metabolism: In vitro, lorlatinib is metabolized primarily by CYP3A4 and UGT1A4, with minor 
+contribution from CYP2C8, CYP2C19, CYP3A5, and UGT1A3.  
+ 
+In plasma, a benzoic acid metabolite (M8) of lorlatinib resulting from the oxidative cleavage of 
+the amide and aromatic ether bonds of lorlatinib accounted for 21% of the circulating 
+radioactivity in a human [14C] mass balance study. The oxidative cleavage metabolite, M8, is 
+pharmacologically inactive. Therefore, data related to M8 are not further presented in this 
+review. 
+ 
+Excretion: Following a single oral 100 mg dose of radiolabeled lorlatinib, 48% of the 
+radioactivity was recovered in urine (< 1% as unchanged) and 41% in feces (about 9% as 
+unchanged). 
+ 
+ 
+General Dosing and Therapeutic Individualization 
+General Dosing 
+Pfizer proposed a dosing regimen of 100 mg administered orally, daily, with or without food. 
+The MTD was not reached in the dose escalation portion in Study B7461001 which dosage of 10 
+mg to 200 mg lorlatinib QD were evaluated. Grade 1/2 CNS toxicity occurred in 1 of 3 patients 
+enrolled in the 200 mg QD cohort during the first cycle of treatment. Additionally, in the 150 
+and 200 mg QD cohorts, the majority of patients experienced adverse reactions resulting in 
+temporary discontinuation and/or dose reduction. Patients did not tolerate the 75 mg or 100 
+mg BID dosing regimens. Lorlatinib was considered tolerable at the next highest dose, 100 mg 
+QD, which was selected as the recommended phase 2 dose (RP2D) and was evaluated in the 
+dose expansion portion in Study B7461001. 
+Reference ID: 4344794
+
+
+===== PAGE 80 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+79 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Therapeutic Individualization 
+Specific Populations: 
+No clinically meaningful differences in lorlatinib pharmacokinetics were observed based on age 
+(19 to 85 years), sex, race/ethnicity, body weight, mild to moderate renal impairment (CLcr 30 
+to 89 mL/min), mild hepatic impairment (total bilirubin ≤ upper limit of normal [ULN] and AST > 
+ULN or total bilirubin > 1.5 × ULN and any AST), or metabolizer phenotypes for CYP3A5 and 
+CYP2C19. The effect of moderate to severe hepatic impairment or severe renal impairment on 
+lorlatinib pharmacokinetics is unknown. 
+Drug-Drug Interactions: 
+CYP3A Inducers: Twelve healthy subjects received rifampicin, a strong CYP3A inducer that also 
+activates PXR, 600 mg once daily for 8 days (Days 1 to 8) and a single oral 100 mg dose or 
+LORBRENA on Day 8. The co-administration of rifampin with LORBRENA reduced the mean 
+lorlatinib AUCinf by 85% and Cmax by 76%. Grade 2-4 increases in ALT/AST occurred within 3 days 
+of lorlatinib dosing. Grade 4 ALT/AST elevations occurred in 50% of subjects, Grade 3 ALT/AST 
+elevations in 33%, and Grade 2 ALT/AST elevations occurred in 8% of subjects. ALT and AST 
+returned to within normal limits within 7 to 34 days (median 15 days). The effect of the 
+concomitant use of moderate CYP3A inducers on lorlatinib pharmacokinetics or the risk of 
+hepatotoxicity with the concomitant use of moderate CYP3A inducers is unknown. LORBRENA is 
+contraindicated with strong CYP3A inducers. Discontinue strong CYP3A inducers for 
+ 
+ 3 plasma half-lives of the strong CYP3A inducers prior to initiating 
+treatment with lorlatinib. Avoid concomitant use of LORBRENA with moderate CYP3A inducers. 
+If concomitant use of moderate CYP3A inducers cannot be avoided, monitor ALT, AST and 
+bilirubin as recommended. 
+  
+CYP3A Inhibitors: Itraconazole, a strong CYP3A inhibitor, resulted in a 42% increase in AUCinf and 
+a 24% increase in Cmax of a single oral 100 mg dose of lorlatinib. Concomitant use with a strong 
+CYP3A inhibitor increased lorlatinib plasma concentrations, which may increase the incidence 
+and severity of adverse reactions of lorlatinib. Avoid the concomitant use of LORBRENA with a 
+strong CYP3A inhibitor. If concomitant use cannot be avoided, reduce LORBRENA dose as 
+recommended. 
+CYP3A Substrates: LORBRENA 150 mg orally once daily for 15 days decreased AUCinf by 64% and 
+Cmax by 50% of a single oral 2 mg dose of midazolam (a sensitive CYP3A substrate). Concomitant 
+use of LORBRENA decreases the concentration of CYP3A substrates, which may reduce the 
+efficacy of these substrates. Avoid concomitant use of LORBRENA with CYP3A substrates, where 
+minimal concentration changes may lead to serious therapeutic failures. 
+Reference ID: 4344794
+(b) (4)
+(b) (4)
+
+
+===== PAGE 82 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+81 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+QT/QTc 
+Prolongation 
+In 272 patients who received lorlatinib at the recommended dose and had a baseline PR assessment in 
+activity-estimating portion of Study B7461001, of whom 7 had a baseline PR > 200 ms, the maximum 
+mean change from baseline for PR interval was 14.2 ms (two-sided 90% upper CI 16.2 ms). Among the 
+265 patients with PR interval < 200 ms, 14% had PR interval prolongation > 200 ms after starting 
+LORBRENA. The prolongation of PR interval occurred in a concentration-dependent manner. 
+Atrioventricular block occurred in 1.1% of patients. 
+In 275 patients who received lorlatinib at the recommended dose in the activity-estimating portion of 
+Study B7461001, no large mean increases from baseline in the QTc interval (i.e., > 20 ms) were detected. 
+General Information 
+Bioanalysis 
+Lorlatinib and its metabolite, M8, were measured using validated LC-MS/MS methods. A summary of the 
+method validation reports is included as an appendix (19.4 OCP Appendices). 
+Healthy 
+Volunteers vs. 
+Patients 
+PK characteristics were similar between healthy subjects and the target populations based on population 
+PK analyses. 
+Drug exposure at 
+steady state 
+following the 
+therapeutic dosing 
+regimen 
+Based on the results of the dose escalation trial B7461001 
+), the observed 
+geometric mean (CV%) AUC0-tau,ss and Cmax,ss of lorlatinib in patients treated at the 100 mg QD dosing 
+regimen is 5121 ng·h/mL (30%) and 550.2 ng/mL (32%). 
+Minimal effective 
+dose or exposure 
+Not determined. Lorlatinib 100 mg was the only dose regimen tested in patients with NSCLC. 
+Maximal tolerated 
+dose or exposure 
+In Study B7461001, patients with NSCLC were treated with lorlatinib up to doses of 200 mg QD. The MTD 
+was not reached or determined. 
+Dose 
+Proportionality 
+Lorlatinib showed dose-proportional increase in both Cmax and AUC across the dose range of 10 to 200 
+mg following a single dose and multiple doses. See 19.4 OCP Appendices for detail.  
+Accumulation 
+The mean accumulation ratio (Rac) following lorlatinib 100 mg QD was 1.07 (29%). 
+Variability 
+Following 100 mg QD dose, the inter-subject variability (CV%) of steady state AUCtau and Cmax was 30% 
+and 32%, respectively. 
+Absorption 
+Bioavailability 
+In Study B7461007, the absolute bioavailability of lorlatinib was 80.78% (90% CI: 75.73-86.16%) in 
+healthy volunteers. 
+Tmax 
+In Study B7461001, the median lorlatinib Tmax was 1.2 hours (0.5 to 4 hours) following a single oral 100 
+mg dose and 2 hours (0.5 to 23 hours) following 100 mg orally once daily at steady state in patients with 
+NSCLC.  
+Relative 
+Bioavailability 
+(oral solution) 
+AUC0-inf 
+(GMR, 90% CI) 
+Cmax 
+(GMR, 90% CI) 
+Tmax (hours) 
+(range) 
+1.08 (1.04-1.12) 
+1.30 (1.21-1.39) 
+Solution 
+1.0 (0.5-1.5) 
+Tablet 
+1.5 (0.5-2.0) 
+In Study B7461008, the exposure of lorlatinib was not altered following a single dose of 100 mg oral 
+solution and a single dose of 100 mg immediate-release tablet (Anhydrous free-base) in healthy 
+volunteers under fasting conditions. 
+Reference ID: 4344794
+(b) (4)
+
+
+===== PAGE 83 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+82 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Food effect 
+(Fed/fasted) 
+AUC0-inf 
+(GMR, 90% CI) 
+Cmax 
+(GMR, 90% CI) 
+Tmax (hours) 
+(range) 
+1.05 (1.01-1.08) 
+0.91 (0.85-0.97) 
+Fed 
+2.0 (1.0-6.0) 
+Fasted 
+1.5 (0.5-2.0) 
+In Study B7461008, no clinically relevant food effect was observed on the exposure of lorlatinib following 
+the concomitant administration of single 100 mg immediate-release tablet (anhydrous free-base) with a 
+high-fat (approximately 50% of total caloric content of the meal) and high calorie (approximately 150 
+protein calories, 250 carbohydrate calories, 500-600 fat calorie totaling approximately 1000 calories) 
+meal in healthy volunteers. 
+PPI effect 
+(Rabeprazole) 
+AUC0-inf 
+(GMR, 90% CI) 
+Cmax 
+(GMR, 90% CI) 
+Tmax (hours) 
+(range) 
+1.01 (0.98-1.04) 
+0.71 (0.66-0.76) 
+PPI 
+2.0 (1.5-6.0) 
+Fasted 
+1.5 (0.5-2.0) 
+In Study B7461008, no clinically relevant PPI effect was observed on the exposure of lorlatinib following 
+the concomitant administration of single 100 mg immediate-release tablet (anhydrous free-base) with 
+repeated doses of rabeprazole in healthy volunteers under fasting condition. 
+Relative 
+Bioavailability 
+(Different 
+formulations) 
+In Study B7461005, the relative bioavailability of the old tablet formulation 
+) was 
+compared to the two extemporaneous tablet formulations (anhydrous free base and 
+ 
+ vs. anhydrous free base formulations 
+AUC0-inf 
+(GMR, 90% CI) 
+Cmax 
+(GMR, 90% CI) 
+Tmax (hours) 
+(range) 
+0.95 (0.90-1.00) 
+0.85 (0.78-0.93) 
+Anhydrous free base 
+1.5 (1.0-3.0) 
+ 
+1.5 (1.0-3.0) 
+The exposure of lorlatinib was not altered following a single dose of 100 mg anhydrous free base tablet 
+and a single dose of 100 mg 
+ tablet in healthy volunteers under fasting condition. 
+ vs. anhydrous free base formulations 
+AUC0-inf 
+(GMR, 90% CI) 
+Cmax 
+(GMR, 90% CI) 
+Tmax (hours) 
+(range) 
+0.99 (0.94-1.04) 
+1.01 (0.92-1.09) 
+Anhydrous free base 
+1.5 (1.0-2.0) 
+ 
+1.5 (1.0-3.0) 
+The exposure of lorlatinib was not altered following a single dose of 100 mg 
+ tablet and a 
+single dose of 100 mg 
+ tablet in healthy volunteers under fasting condition. 
+Reference ID: 4344794
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 84 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+83 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Relative 
+Bioavailability 
+(commercial 
+formulation) 
+In Study B7461016, the relative bioavailability of the anhydrous free base tablet from clinical batches 
+was compared to the commercial scaled anhydrous free base tablets (25, 
+ 100 mg). 
+100 mg commercial (4×25 mg) vs. 100 mg clinical (4×25 mg) anhydrous free base formulations 
+AUC0-inf 
+(GMR, 90% CI) 
+Cmax 
+(GMR, 90% CI) 
+Tmax (hours) 
+(range) 
+1.01 (0.98-1.05) 
+1.07 (0.96-1.18) 
+Commercial 
+1.0 (1.0-4.0) 
+Clinical 
+1.5 (1.0-2.0) 
+The exposure of lorlatinib was not altered following a single dose of 4×25 mg commercial anhydrous free 
+base tablets and a single dose of 4×25 mg clinical anhydrous free base tablets in healthy volunteers 
+under fasting condition. 
+100 mg commercial 
+ vs. 100 mg clinical (4×25 mg) anhydrous free base formulations 
+AUC0-inf 
+(GMR, 90% CI) 
+Cmax 
+(GMR, 90% CI) 
+Tmax (hours) 
+(range) 
+1.01 (0.98-1.05) 
+1.01 (0.91-1.12) 
+Commercial 
+1.0 (1.0-4.0) 
+Clinical 
+1.5 (1.0-2.0) 
+The exposure of lorlatinib was not altered following a single dose of 
+mg commercial anhydrous free 
+base tablets and a single dose of 4×25 mg clinical anhydrous free base tablets in healthy volunteers 
+under fasting condition. 
+100 mg commercial (1×100 mg) vs. 100 mg clinical (4×25 mg) anhydrous free base formulations 
+AUC0-inf 
+(GMR, 90% CI) 
+Cmax 
+(GMR, 90% CI) 
+Tmax (hours) 
+(range) 
+1.05 (1.01-1.09) 
+1.07 (0.97-1.18) 
+Commercial 
+1.0 (1.0-4.0) 
+Clinical 
+1.5 (1.0-2.0) 
+The exposure of lorlatinib was not altered following a single dose of 1×100 mg commercial anhydrous 
+free base tablets and a single dose of 4×25 mg clinical anhydrous free base tablets in healthy volunteers 
+under fasting condition. 
+Distribution 
+Volume of 
+Distribution  
+Based on non-compartmental analysis in Study B7461007, the geometric mean volume of distribution 
+(Vd) was 305 L (28%) following a single intravenous 50 mg dose. 
+Plasma Protein 
+Binding 
+In vitro, protein binding of lorlatinib to human plasma proteins, including serum albumin and α1-acid 
+glycoprotein, was 66% at a concentration of 2.4 µM.  
+Blood to Plasma 
+Ratio 
+The mean blood-to-plasma ratio was 0.99 for lorlatinib. 
+Elimination 
+Half-life 
+In Study B7461007, the mean plasma half-life (t1/2) was 27 hours (19%) following a single intravenous 50 
+mg dose. In Study B7461001, the mean apparent plasma half-life (t1/2) of lorlatinib was 24 hours (40%) 
+after a single oral 100 mg dose of lorlatinib.  
+Clearance 
+In Study B7461001, the mean oral clearance (CL/F) was 11 L/h (35%) following a single oral 100 mg dose 
+and increased to 18 L/h (39%) at steady state, suggesting autoinduction. 
+Metabolism 
+Reference ID: 4344794
+(b) 
+(4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 91 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+90 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+for Food-Effect Bioavailability and Fed Bioequivalence Studies. PK samples were collected from 
+pre-dose to 96 hours post-dose. Administration of a single 100 mg dose of lorlatinib with a high-
+fat, high-calorie meal in healthy subjects resulted in no change in AUC and Cmax and increased 
+tmax by a median of 0.5 hours as compared to the fasted condition (Table 15). A preliminary 
+food effect study in 6 NSCLC patients administered the 100 mg 
+ tablet 
+formulation (B7461001) showed similar results; a high-fat meal resulted in no change in AUC 
+and Cmax. These results support the labeling recommendation of administering lorlatinib with or 
+without food. 
+ 
+Table 15 PK Parameters of a single dose of lorlatinib after a high-fat meal as compared with 
+fasted state 
+Exposure 
+Parameters 
+Geometric Mean (%CV) 
+ 
+High-Fat Meal 
+Fasted State 
+Geometric Mean 
+Ratio (90% CI) 
+AUC0-inf (ng∙hr/mL) 
+8779 (24) 
+8712 (24) 
+1.05 (1.01 – 1.08) 
+AUC0-96h (ng∙hr/mL) 
+8262 (22) 
+8191 (21) 
+1.05 (1.01 – 1.08) 
+Cmax (ng/mL) 
+488.5 (26) 
+547.8 (20) 
+0.91 (0.85 – 0.97) 
+Source: B7461008 Final Study Report; Table 12, 13; Page 48 
+Proton-pump inhibitor (PPI) Drug Interactions 
+The effect of PPI on lorlatinib PK was evaluated in a single 100 mg dose, randomized, 4 period, 4 
+treatment, 4 sequence, crossover study (B7461008) with a washout period of at least 10 days in 
+24 healthy subjects who received the 100 mg anhydrous free-base formulation. The fasting 
+condition was defined as a 10 hour overnight fast. In the period of concomitant medications, 20 
+mg QD dosing of Pariet (rabeprazole) as 2× 10 mg tablets in the evening from Day 1 through 
+Day 5 and a 100 mg single dose of lorlatinib administered in the fasted state as 4 × 25 mg 
+tablets on the morning of Day 6. PK samples were adequately collected from pre-dose to 96 
+hours post-dose. Administration of a single 100 mg dose of lorlatinib with rabeprazole in 
+healthy subjects resulted in no change in AUC, 29% decrease in Cmax and increased tmax by a 
+median of 0.5 hours as compared to fasted condition (Table 16). These results suggest that 
+lorlatinib can be taken concomitantly with PPIs without adjusting the lorlatinib dose.   
+ 
+Table 16 PK Parameters of a single dose of lorlatinib after concomitant with rabeprazole as 
+compared with fasted state 
+Exposure 
+Parameters 
+Geometric Mean (%CV) 
+ 
+Rabeprazole (PPI) 
+Fasted State 
+Geometric Mean 
+Ratio (90% CI) 
+AUC0-inf (ng∙hr/mL) 
+8629 (24) 
+8712 (24) 
+1.01 (0.97 – 1.04) 
+AUC0-96h (ng∙hr/mL) 
+8011 (21) 
+8191 (21) 
+1.00 (0.96 – 1.03) 
+Cmax (ng/mL) 
+383 (28) 
+547.8 (20) 
+0.71 (0.66 – 0.77) 
+Source: B7461008 Final Study Report; Table 12, 13; Page 48 
+Reference ID: 4344794
+(b) (4)
+
+
+===== PAGE 92 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+91 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Relative Bioavailability (Solution) 
+The relative bioavailability of the lorlatinib oral solution and anhydrous free-base tablets was 
+evaluated in a single 100 mg dose, randomized, 4 period, 4 treatment, 4 sequence, crossover 
+study (B7461008) with a washout period of at least 10 days in 24 healthy subjects. The fasting 
+condition was defined as a 10 hour overnight fast. PK samples were adequately collected from 
+pre-dose to 96 hours post-dose. Administration of a single 100 mg dose of oral solution resulted 
+in no change in AUC, 1.29-fold slight increase in Cmax and decreased tmax by a median of 0.5 
+hours as compared to tablet formulation (Table 17). These results show that there is no 
+clinically relevant difference between the bioavailability of the lorlatinib oral solution and tablet 
+formulations. 
+ 
+Table 17 PK Parameters of a single dose of lorlatinib oral solution vs. anhydrous free-base 
+tablets under fasting condition 
+Exposure 
+Parameters 
+Geometric Mean (%CV) 
+ 
+Oral solution 
+Anhydrous free-base 
+tablet 
+Geometric Mean 
+Ratio (90% CI) 
+AUC0-inf (ng∙hr/mL) 
+9359 (24) 
+8712 (24) 
+1.08 (1.04 – 1.12) 
+AUC0-96h (ng∙hr/mL) 
+8789 (21) 
+8191 (21) 
+1.08 (1.04 – 1.11) 
+Cmax (ng/mL) 
+704.7 (22) 
+547.8 (20) 
+1.29 (1.21 – 1.39) 
+Source: B7461008 Final Study Report; Table 12, 13; Page 48 
+Relative Bioavailability (Different formulations) 
+The relative bioavailability of 2 extemporaneous tablet formulations (anhydrous free base and 
+) of lorlatinib relative to the reference 
+ immediate release tablet 
+formulation was evaluated in a randomized, 3 period, 6 sequence, crossover study (B7461005) 
+with a washout period of at least 7 days in 18 healthy subjects. The treatment was 
+administered after an overnight fast of at least 10 hours. No food was allowed for at least 4 
+hours post-dose. PK samples were adequately collected from pre-dose to 120 hours post-dose. 
+Administration of a single 100 mg dose of lorlatinib anhydrous free base tablet resulted in no 
+change in AUC and slight decrease in Cmax (15%) as compared to lorlatinib 
+ tablet 
+(Table 18). These results show that there is no clinically relevant difference between lorlatinib 
+anhydrous free base tablet and lorlatinib 
+ tablet formulations.  
+ 
+Reference ID: 4344794
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 93 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+92 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Table 18 PK Parameters of a single dose of lorlatinib anhydrous free base tablet vs. lorlatinib 
+ tablet 
+Exposure 
+Parameters 
+Geometric Mean (%CV) 
+ 
+Anhydrous free base 
+ 
+Geometric Mean 
+Ratio (90% CI) 
+AUC0-inf (ng∙hr/mL) 
+7629 (20) 
+7937 (22) 
+0.95 (0.90 – 1.00) 
+AUC0-120h (ng∙hr/mL) 
+7433 (19) 
+7752 (22) 
+0.95 (0.90 – 1.00) 
+Cmax (ng/mL) 
+491.7 (33) 
+566.5 (30 
+0.85 (0.87 – 0.93) 
+Source: B7461005 Final Study Report; Table 12, 13; Page 41 
+ 
+Administration of a single 100 mg dose of lorlatinib 
+ tablet resulted in no change in 
+AUC and Cmax as compared to lorlatinib 
+ tablet (Table 19). These results show 
+that there is no clinically relevant difference between lorlatinib 
+ tablet and 
+lorlatinib 
+ tablet formulations.  
+ 
+Table 19 PK Parameters of a single dose of lorlatinib 
+ tablet vs. lorlatinib 
+ 
+ tablet 
+Exposure 
+Parameters 
+Geometric Mean (%CV) 
+ 
+ 
+ 
+Geometric Mean 
+Ratio (90% CI) 
+AUC0-inf (ng∙hr/mL) 
+8027 (18) 
+7937 (22) 
+0.99 (0.94 – 1.04) 
+AUC0-120h (ng∙hr/mL) 
+7831 (17) 
+7752 (22) 
+0.99 (0.94 – 1.04) 
+Cmax (ng/mL) 
+578.7 (23) 
+566.5 (30) 
+1.01 (0.93 – 1.09) 
+Source: B7461005 Final Study Report; Table 12, 13; Page 41 
+Relative Bioavailability (Commercial formulation) 
+The relative bioavailability of the commercial tablet formulation of lorlatinib relative to the 
+reference anhydrous free base immediate release tablet formulation was evaluated in a 
+randomized, 4-period, 4 treatment, 4 sequence, crossover study (B7461016) with a washout 
+period of at least 10 days in 16 healthy subjects. The treatment was administered after an 
+overnight fast of at least 10 hours. PK samples were collected from pre-dose to 120 hours post-
+dose. Administration of a single 100 mg dose of the commercial lorlatinib tablet resulted in no 
+change in AUC and Cmax as compared to lorlatinib clinical anhydrous free base tablet (Table 20 
+and Table 21). These results show that there is no clinically relevant difference between 
+commercial and clinical tablets of lorlatinib.  
+ 
+Reference ID: 4344794
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 94 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+93 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Table 20 PK Parameters of a single dose of lorlatinib commercial tablet vs. lorlatinib clinical 
+anhydrous free base tablet 
+Exposure 
+Parameters 
+Geometric Mean (%CV) 
+Clinical 4 × 25 
+mg Tablets 
+Commercial 4 × 
+25 mg Tablets 
+Commercial 
+ 
+ Tablets 
+Commercial 1 × 
+100 mg Tablets 
+AUC0-inf (ng∙hr/mL) 
+7683 (18) 
+7769 (21) 
+7770 (18) 
+8054 (19) 
+AUC0-120h (ng∙hr/mL) 
+7482 (18) 
+7526 (21) 
+7539 (18) 
+7785 (19) 
+Cmax (ng/mL) 
+532.0 (25) 
+567.3 (28) 
+539.8 (27) 
+567.3 (34) 
+Source: B7461016 Final Study Report; Table 11; Page 46 
+ 
+Table 21 Geometric mean ratios of a single dose of lorlatinib commercial tablet vs. lorlatinib 
+clinical anhydrous free base tablet 
+Exposure 
+Parameters 
+Geometric Mean Ratio (90% CI) 
+Commercial 4 × 25 
+mg Tablets 
+Commercial 
+ 
+mg Tablets 
+Commercial 1 × 100 mg 
+Tablets 
+AUC0-inf (ng∙hr/mL) 
+1.01 (0.98 – 1.05) 
+1.01 (0.98 – 1.05) 
+1.05 (1.01 – 1.09) 
+AUC0-120h (ng∙hr/mL) 
+1.01 (0.97 – 1.04) 
+1.01 (0.97 – 1.04) 
+1.04 (1.01 – 1.08) 
+Cmax (ng/mL) 
+1.07 (0.96 – 1.18) 
+1.01 (0.92 – 1.12) 
+1.07 (0.97 – 1.18) 
+Source: B7461016 Final Study Report; Table 12; Page 46 
+Drug Interactions as perpetrator (CYP3A probe) 
+The effect of lorlatinib to mediated inhibition or induction of CYP3A on the PK of the CYP3A 
+probe substrate, midazolam, was evaluated in Study B7461001. There were 2 lorlatinib dose 
+cohorts (25 and 150 mg QD) with 3 NSCLC patients in each cohort. Patients were treated with a 
+single 2 mg oral dose of midazolam on Day -7 and again concurrently with lorlatinib QD (Cycle 1 
+Day 1 to 15) on Cycle 1 Day 15. PK samples were adequately collected from pre-dose to 96 
+hours post-dose. Administration of repeated 150 mg QD doses of lorlatinib appeared to show 
+decrease in AUC (64%) and Cmax (50%) of midazolam (Table 22 and Table 23). The cohort with a 
+single 2 mg dose of midazolam and 25 mg lorlatinib QD showed similar results; decrease in AUC 
+(63%) and Cmax (40%). These results show that concomitant use of lorlatinib may decrease the 
+concentration of CYP3A substrates, which may reduce the efficacy of these drugs.  The results 
+support the labeling recommendation to avoid concomitant use of lorlatinib with CYP3A 
+substrates. 
+ 
+Reference ID: 4344794
+(b) 
+(4)
+(b) (4)
+
+
+===== PAGE 95 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+94 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Table 22 PK Parameters [Geometric Mean (%CV)] of a single dose of midazolam before and 
+after repeated doses of lorlatinib 
+Exposure 
+Parameters 
+Day -7 Lead In (Alone) 
+Cycle 1 Day 15 (with Lorlatinib) 
+25 mg QD 
+Lorlatinib 
+150 mg QD 
+Lorlatinib 
+25 mg QD 
+Lorlatinib 
+150 mg QD 
+Lorlatinib 
+AUC0-inf (ng∙hr/mL) 
+54.53 (43) 
+(42.2, 46.8)a 
+21.32 (18) 
+16.09 (29) 
+AUC0-24h (ng∙hr/mL) 
+51.3 (47) 
+36.49 (20) 
+20.43 (18) 
+14.44 (25) 
+Cmax (ng/mL) 
+16.06 (42) 
+11.56 (48) 
+9.697 (40) 
+5.734 (43) 
+CL/F (L/hr) 
+36.68 (43) 
+(42.7, 47.4)a 
+93.86 (18) 
+124.2 (29) 
+t1/2 (hr) 
+4.62 (42) 
+(2.35, 7.89)a 
+3.343 (61) 
+5.257 (96) 
+a n = 2; poor PK characterization of terminal phase in one subject with AUCextrap % > 20%. 
+Source: B7461001 Final Study Report; Table 14.4.4.3.1.1; Pages 3517-3520 
+ 
+Table 23 Geometric mean ratios of a single dose of midazolam before and after repeated 
+doses of lorlatinib 
+Exposure 
+Parameters 
+Geometric Mean Ratio (90% CI) 
+25 mg QD Lorlatinib 
+150 mg QD Lorlatinib 
+AUC0-inf (ng∙hr/mL) 
+0.37 (0.27 – 0.49) 
+NA 
+AUC0-24h (ng∙hr/mL) 
+0.39 (0.27 – 0.58) 
+NA 
+Cmax (ng/mL) 
+0.60 (0.35 – 1.04) 
+NA 
+NA (not available) due to number of subjects < 3 for comparison. 
+Drug Interactions with lorlatinib as a substrate (CYP3A inhibition) 
+The effect of itraconazole, a strong CYP3A inhibitor, on lorlatinib PK was evaluated a 2-period, 
+fixed-sequence, crossover study in 16 healthy subjects. The study consisted of 6 treatments: 
+single doses of lorlatinib 50 mg (n = 2), 75 mg (n = 2) or 100 mg (n = 12) in Period 1 and 
+lorlatinib 50 mg, 75 mg or 100 mg in combination with multiple dose itraconazole (200 mg QD 
+Days 1 to 11) in Day 5 of Period 2 after a washout period of at least 10 days between lorlatinib 
+doses in Periods 1 and 2. PK samples were collected from pre-dose to 168 hours post-dose. The 
+treatment was administered after an overnight fast of at least 10 hours. Administration of 
+repeated 200 mg QD doses of itraconazole resulted in significant increases in the AUC (1.42-
+fold) and Cmax (1.24-fold) of lorlatinib (Table 24). Similar increases in exposure were also seen in 
+the cohorts with 50 and 75 mg lorlatinib. 
+ 
+Reference ID: 4344794
+
+
+===== PAGE 96 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+95 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Table 24 PK Parameters of a single dose of lorlatinib with or without concomitant 
+itraconazole 
+Exposure 
+Parameters 
+Geometric Mean (%CV) 
+ 
+100 mg lorlatinib 
+dose 
+100 mg lorlatinib 
+dose + 200 mg 
+itraconazole QD 
+Geometric Mean 
+Ratio (90% CI) 
+AUC0-inf (ng∙hr/mL) 
+7338 (37) 
+10400 (31) 
+1.42 (1.29 – 1.56) 
+AUC0-168h (ng∙hr/mL) 
+7119 (36) 
+10180 (30) 
+1.43 (1.30 – 1.57) 
+Cmax (ng/mL) 
+413.6 (24) 
+514.4 (24) 
+1.24 (1.10 – 1.40) 
+CL/F (L/hr) 
+13.6 (37) 
+9.6 (31) 
+ 
+t1/2 (hr) 
+23.1 (4.9) 
+29.8 (6.3) 
+ 
+Source: B7461012 Final Study Report; Table 15; Page 65 
+ 
+However, given that lorlatinib has, time-dependent PK, possibly due to an auto-induction effect 
+on CYP3A, the effect of itraconazole on the steady state PK of lorlatinib is unknown. 
+Itraconazole is metabolized by CYP3A, and therefore autoinduction of CYP3A by lorlatinib at 
+steady state may affect itraconazole exposure and therefore its inhibitory effect on CYP3A.  
+Thus, the reviewer developed a PBPK model to evaluate the effect of concomitant itraconazole 
+and lorlatinib, both dosed to steady state, on the PK of lorlatinib at steady state. The PBPK 
+simulations predicted a 30% increase in steady state lorlatinib exposure after multiple doses of 
+100 mg QD lorlatinib and 200 mg QD itraconazole.  However, the steady state exposure of 
+lorlatinib with concurrent use of 75 mg QD lorlatinib and 200 mg QD itraconazole is predicted 
+to be equivalent to that of 100 mg QD lorlatinib alone (refer to Table 102 in the 19.4 OCP 
+Appendices).  Both the clinical PK data and the PBPK simulations therefore support the labeling 
+recommendation that the concomitant use of strong CYP3A inhibitors and lorlatinib should be 
+avoided.  If the concomitant use of a strong CYP3A inhibitor cannot be avoided, the starting 
+dose of lorlatinib should be reduced from 100 mg orally once daily to 75 mg orally once daily. 
+Refer to the PBPK review in the 19.4 OCP Appendices for details.  
+Drug Interactions as victim (CYP3A induction) 
+The effect of rifampicin, a strong CYP3A inducer, on lorlatinib PK was evaluated with a 2-period, 
+fixed-sequence, crossover study in 12 healthy subjects. PK samples were collected from pre-
+dose to 120 hours post-dose. The treatment was administered after an overnight fast of at least 
+10 hours. A single 100 mg dose of lorlatinib was administered on Day 1 and PK was collected 
+over the next 6 days. Subsequently, subjects were scheduled to receive 600 mg of rifampin 
+daily from Day 6 to 17 with a single 100 mg dose of lorlatinib administered concomitantly with 
+rifampicin on Day 13. Overall, the PK results showed that lorlatinib exposure (AUC0-inf) was 
+reduced by over 85% and Cmax was reduced by 76% in presence of rifampicin (Table 25).  
+However, following the single concomitant administration of lorlatinib and rifampicin on Day 
+13, the study treatment was terminated on Day 14 due to severe hepatotoxicity (≥ Grade 2) in 
+10 of 12 subjects, and no further rifampicin was administered. Subjects were followed until 
+hepatotoxicity resolved. 
+Reference ID: 4344794
+
+
+===== PAGE 98 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+97 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+hospitalized as a result; elevated liver test returned to normal levels at a median of 15 days (7 
+to 34 days) after the single dose of lorlatinib. 
+ 
+In Study B7461011, three patients received concomitant treatment with a moderate CYP3A 
+inducer, modafinil, during the lorlatinib treatment period. Modafinil is a low PXR activator, as 
+compared to rifampicin. The routine hepatic safety laboratory measurements that occurred 
+during the period of concomitant lorlatinib and modafinil treatment did not show significant 
+AST or ALT elevation (<50 IU/L) from baseline. 
+ 
+Currently, the mechanism of this hepatotoxicity is unknown. In Study B7461011, the change in 
+exposure of the main lorlatinib metabolite, M8 (PF-6895751), was minimal with an approximate 
+26% decrease in AUCinf 1 and a 1.3-fold increase in Cmax in the presence of rifampicin compared 
+to lorlatinib dosed alone (Table 26). Hence the liver enzyme increases observed in the study 
+were not due to substantially increased levels of lorlatinib or M8.  
+ 
+Table 26 PK Parameters of M8 (main lorlatinib metabolite) with or without concomitant 
+rifampicin 
+Exposure 
+Parameters 
+Geometric Mean (%CV) 
+100 mg lorlatinib 
+dose 
+100 mg lorlatinib 
+dose + 600 mg 
+rifampicin QD 
+AUC0-inf (ng∙hr/mL) 
+4453 (38) 
+3291 (60) 
+AUC0-120h (ng∙hr/mL) 
+4105 (33) 
+3169 (60) 
+Cmax (ng/mL) 
+59.02 (29) 
+76.45 (38) 
+t1/2 (hr) 
+29.14 
+18.43 
+Source: B7461011 Final Study Report; Table 16; Page 57 
+ 
+Likewise rifampicin steady state plasma exposure (AUC and Cmax) in the presence of lorlatinib in 
+Day 9 (Table 27) of the study were within the range of exposures reported in the literature for 
+600 mg QD rifampicin administered as a single agent [Burger et al. 2006, Ruslami et al. 2007, 
+Rifampicin (Rifadin®) Package Insert]. Similarly, plasma levels of the desacetyl metabolite of 
+rifampin in Day 9 were comparable to values reported in the literature. This indicates the 
+absence of a substantive direct effect of lorlatinib on the plasma PK of rifampin and its 
+metabolite. 
+ 
+Reference ID: 4344794
+
+
+===== PAGE 234 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+233 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+considered minor lorlatinib metabolites representing 4.5%, 8.0%, and 2.3% of the lorlatinib 
+dose, respectively, in plasma. The metabolite M8, resulting from the oxidative cleavage of the 
+amide and aromatic ether bonds of lorlatinib, was the most abundant human circulating 
+metabolite (21% of radioactivity in plasma). The M8 metabolite is pharmacologically inactive. 
+M8 formation was not observed in vitro, likely due to low metabolic turnover of lorlatinib, and 
+the formation of this metabolite involved multiple biotransformation steps. Radioactivity 
+recovery in feces and urine were 41% (9% unchanged lorlatinib) and 48% (<1% unchanged 
+lorlatinib), respectively.  
+ 
+In vitro, lorlatinib activates PXR (EC50 value of 2.85 µM and Emax value of 13.8) and induces 
+CYP3A4 mRNA (>40-fold), which is in within the range observed for the positive control 
+rifampin (45-fold) (Preclinical Study Report 125344).  Lorlatinib induces CYP3A4 activity, but it is 
+not comparable to rifampicin (Table 30). In human hepatocytes, lorlatinib demonstrates time-
+dependent inhibition characteristics (KI value of 7.92 µM and kinact value of 0.081 min-1, at 
+higher lorlatinib concentrations (Preclinical Study Report 145029).  
+ 
+In Phase 1 of Study B7461001, the steady-state lorlatinib maximum plasma concentration (Cmax) 
+and area under the curve (AUC) appeared to increase proportionally over the dose range from 
+10 mg to 200 mg orally once daily, and there was no accumulation at the recommended dosing 
+regimen (100 mg QD). The mean oral clearance (CL/F) was 11 L/h (35% CV) following a single 
+oral 100 mg dose and increased to 18 L/h (39% CV) at steady state, possibly due to an 
+autoinduction effect on CYP3A4. The mean plasma half-life (t1/2) of lorlatinib was 24 hours (40% 
+CV) after a single oral 100 mg dose of lorlatinib.  
+ 
+In drug-drug interaction studies, administration of repeated 150 mg QD doses of lorlatinib 
+resulted in significant decrease in the AUC (63%) and Cmax (40%) of the CYP3A index substrate 
+midazolam. Administration of repeated 200 mg QD doses of itraconazole, a strong CYP3A 
+inhibitor, resulted in a significant increase in the AUC (1.42-fold) and Cmax (1.24-fold) of 
+lorlatinib. Administration of repeated 600 mg QD doses of rifampicin, a strong CYP3A inducer, 
+resulted in a significant decrease in the AUC (85%) and Cmax (75%) of lorlatinib. Based on the 
+observed data from the clinical DDI studies, Pfizerproposed the following dosing 
+recommendations in the USPI: 
+• Avoid concomitant use of CYP3A substrates 
+• Avoid concomitant use of strong CYP3A inhibitors. If concomitant use cannot be 
+avoided, reduce the dose of lorlatinib 
+• Do not use strong CYP3A inducers 
+The dosing recommendation for concomitant use of strong CYP3A inhibitors was based on the 
+exposure increase of a single dose of lorlatinib, and not based on steady state lorlatinib 
+exposure changes. Thus, a PBPK model was developed to simulate DDI trials to assess the effect 
+of multiple dose itraconazole on the steady state PK of lorlatinib at the recommended dosage in 
+healthy subjects.   
+ 
+Reference ID: 4344794
+
+
+===== PAGE 235 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+234 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Methods 
+ 
+A population-based PBPK software (Simcyp® V16, release 1, Sheffield, UK) was used by FDA to 
+develop a PBPK model for lorlatinib. Parameters and their sources for lorlatinib are summarized 
+in Appendix Tables 1 -3.   
+ 
+The lorlatinib PBPK model was developed and verified using the physiochemical properties of 
+lorlatinib (in Module 3.2.S.1), in vitro data (in Module 4.2.2), including metabolic data using 
+human microsomes and hepatocytes, and clinical PK data (B7461001, B7461004, and 
+B7461007). A brief description of the workflow of model development follows below: 
+ 
+A full PBPK model was selected for lorlatinib based on the optimal comparison between 
+observed and predicted plasma concentration-time profiles following IV dose (absolute 
+bioavailability study B7461007). 
+ 
+The advanced dissolution, absorption, and metabolism (ADAM) model (SimCYP v16) was used 
+to describe lorlatinib absorption incorporating in vitro apparent permeability (Papp) and 
+dissolution data (Table 103).  
+ 
+In vitro, lorlatinib is metabolized to three main metabolites, M6, M1a, and M2a. The kinetic 
+parameters for formation of the metabolites M6, M2a, and M1a were incorporated into the 
+PBPK model (Table 103). Refer to the Supplemental Material for detailed information on the in 
+vitro the re-optimized kinetic parameters for M6 formation and the rational for assignment of 
+the apparent intrinsic clearances for M2a and M1a formation. M8 was not included in the 
+model due to the fact that M8 formation may involve multiple biotransformation steps, which 
+are not evaluated. 
+  
+Regarding the interaction parameters of lorlatinib towards CYP3A, the induction kinetics 
+obtained in vitro (preclinical report 125344) were incorporated in the PBPK model; whereas the 
+time-dependent inhibition kinetics (KI value of 7.92 µM and kinact value of 0.081 min-1 reported 
+in the preclinical report 145029) was not incorporated because it is unlike that Cmax (0.46 µM 
+unbound at 100 mg QD) would reach the KI value.  
+ 
+The Lorlatinib PBPK model was verified against the PK data following a single dose and multiple 
+doses of lorlatinib in Study B7461001 and from the drug interaction studies (B7461001, 
+B7461011, and B7461012).  
+ 
+Simulations were conducted for the following clinical trials: 
+• Study B7461001: Phase 1/2 study conducted in patients with ALK-positive or ROS1-
+positive NSCLC. 
+• Study B7461011: Phase 1, open-label, 2-period, 2-treatment, fixed-sequence, crossover 
+study to estimate the effect of multiple dose rifampin on the single dose PK of lorlatinib 
+in healthy volunteers (HV). 
+Reference ID: 4344794
+
+
+===== PAGE 238 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+237 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Table 98 Comparison of lorlatinib pharmacokinetic parameters between observed valuesa and 
+predicted values from PBPK model following a single 50 mg IV or 100 mg SD or MD oral 
+administration 
+PK parameters 
+Observed Value 
+Predicted Value 
+Vss (L/kg) 
+3.89 
+3.96 
+t1/2 (hr) 
+18-27 
+21.1 
+CLiv (L/hr) 
+9.713 
+10.51 
+CLpo or CL/F (L/hr) 
+12.05 
+12.87 
+EH 
+0.118 
+0.14 
+F 
+0.808 
+0.81 
+Single Dose Cmaxb (ng/mL) 
+595.5 (37% CV) 
+558.3 
+Single Dose AUCinf b (ng∙hr/mL) 
+8236 (25% CV) 
+6541 
+Steady State Cmaxc 
+550.2 (32% CV) 
+560.3 
+Steady State AUCssc 
+5121 (30% CV) 
+4266 
+a Source: B7461007 Final Study Report; Table 13, Page 48 
+b PK parameter in Table 96 following lorlatinib 100 mg single oral dose 
+c PK parameter in Table 97 following lorlatinib 100 mg multiple oral doses 
+ 
+Figure 12 The observed and simulated concentration-time profiles of 100 mg QD doses of 
+lorlatinib in NSCLC patients. Color circles denoted the individual observed values obtained 
+from Study B7461001; Black solid line denoted the simulated concentrations from PBPK 
+model with 95th percentile highlighted by gray shadow and red dash lines. 
+ 
+ 
+Dose proportionality was assessed between single doses ranging from 10 to 200 mg and 
+exposure of lorlatinib (Cmax and AUC). As shown in the Figure 13, the calculated R ratio 
+Reference ID: 4344794
+(b) (6)
+
+
+===== PAGE 239 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+238 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+(predicted/observed) demonstrated the model could predict the lorlatinib across different 
+doses. 
+ 
+Figure 13 Dose proportionality between dose and exposure (Cmax and AUC) and the calculated 
+R ratio. 
+ 
+ 
+ 
+ 
+ 
+ 
+The half-life of lorlatinib is about 24 hours and the anticipated accumulation ratio is about 2. 
+However, at 100 mg QD dose, the observed mean accumulation ratio (Rac or AUCtau,ss/AUCinf,first 
+dose) is about 1.1 , and the steady state accumulation ratio (Rss or AUCtau,ss/AUCtau,first dose) is 0.66 
+(Table 97), suggesting a net auto induction effect. The kinetic parameters for CYP3A induction is 
+incorporated in lorlatinib PBPK model (Table 103). To evaluate the model’s predictability on net 
+auto-induction, the mean accumulation ratio and steady state accumulation ratio were 
+compared between observed (study B7461001) and PBPK predicted values following multiple 
+oral doses (day 15). As shown in Table 99, accumulation ratios estimated by the model were 
+comparable to those observed.   
+ 
+Reference ID: 4344794
+
+
+===== PAGE 242 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+241 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ 
+Figure 14 Simulated lorlatinib concentration-time profiles with (multiple doses of lorlatinib 
+and itraconazole) or without itraconazole under steady state condition using PBPK modeling 
+ 
+ 
+Table 102 Steady state exposure of lorlatinib with (+) or without (-) CYP3A inhibitor 
+itraconazole (200 mg QD) and relative exposure ratios 
+CYP3A 
+Inhibitor 
+Lorlatinib 
+dose 
+(mg) 
+Steady state exposure of lorlatinib 
+Cmax,ss 
+AUCtau,ss 
+Cmax,ss(+)/Cmax,ss(-) AUCtau,ss(-)/AUCtau,ss(+) 
+ 
+100 
+560.26a 
+4266.28a 
+Itraconazole 
+50 
+362.06 
+3171.82 
+0.65 
+0.74 
+Itraconazole 
+75 
+525.02 
+4384.95 
+0.94 
+1.03 
+Itraconazole  
+100 
+684.83 
+5541.46 
+1.22 
+1.30 
+ 
+Conclusions 
+ 
+The FDA lorlatinib PBPK model was considered adequate to predict the lorlatinib steady-state 
+exposure in patients when a strong CYP3A inhibitor is co-administered. The model predicted a 
+30% increase in steady state lorlatinib AUC after multiple doses of 100 mg QD lorlatinib and 200 
+mg QD itraconazole but predicted comparable steady state lorlatinib AUC with the reduced 75 
+mg QD lorlatinib dose. These analyses are adequate to support Pfizer’s statement in the 
+proposed package insert as follows: “avoid concomitant use of strong CYP3A inhibitors. If 
+cannot be avoided, reduce the dose of lorlatinib”. 
+Reference ID: 4344794
+
+
+===== PAGE 249 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+248 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+OFFICE OF CLINICAL PHARMACOLOGY: 
+PHARMACOMETRIC REVIEW 
+NDA Number 
+210868 
+Drug Name 
+LORBRENA (Lorlatinib) 
+Dose Regimen 
+Oral 100 mg administered daily with or without 
+food  
+Indication 
+Treatment 
+of 
+patients 
+with 
+anaplastic 
+lymphoma kinase (ALK)-positive metastatic 
+non-small cell lung cancer (NSCLC) who have 
+progressed on alectinib as first-line therapy or 
+on crizotinib and at least one other ALK kinase 
+inhibitors 
+Pharmacometrics Reviewer 
+Xiaofeng Wang, Ph.D. 
+Pharmacometrics Team Lead 
+Jiang Liu, Ph.D. 
+Applicant 
+Pfizer Inc. 
+ 
+ 
+Applicant’s population pharmacokinetic analysis 
+Objective: 
+• To develop a pharmacokinetic (PK) model that describes lorlatinib plasma PK following 
+administration of the drug to subjects in various Phase 1 and 2 studies in patients with 
+anaplastic lymphoma kinase (ALK)-positive non-small cell lung cancer (NSCLC) and healthy 
+volunteers. 
+• To identify potential covariates that may be important predictors of variability in lorlatinib 
+absorption, distribution, and elimination. 
+• To provide individual predictions of lorlatinib exposure from the PK model that will be used 
+in a sequential pharmacokinetic-pharmacodynamic (PKPD) analyses described in separate 
+population modeling analysis plans (PMAPs). 
+Data: 
+The present population PK analysis was based on pooled data from studies B7461001, 
+B7461004, B7461005, B7461007, B7461008, B7461011, and B7461016. A brief description for 
+these studies is provided in Table 107. 
+Reference ID: 4344794
+
+
+===== PAGE 255 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+254 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Table 109 Summary of Categorical Covariates 
+ 
+ 
+Source: Applicant’s popPK study report PMAR-EQDD-B746-DP4-681, Table 8 on page 44 
+Lorlatinib PK was well characterized by a 2-compartment model, with mixed first order and zero 
+order absorption. The clearance was estimated using an initial clearance, CLI, and a time-
+dependent induced clearance after multiple dose. The time-dependent, induced clearance 
+increases with time, approaching its maximum value at steady-state, CLMX.  
+Reference ID: 4344794
+
+
+===== PAGE 259 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+258 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+(IIV) was only estimated for the overall CL. Thus, covariate assessments could only be done for 
+overall CL and not the separate components, CLI and CLMX. 
+In order to remove the confounding effect of BWT on sex, BWT was included a priori in the 
+base model, using allometric scaling exponents of 0.75 and 1 on CL and V2, respectively. 
+Individuals who had a BWT of 50 kg (10th percentile BWT of this analysis population) had a 
+decrease in CL of 22.3% and a decrease in V2 of 28.6% compared to the typical individual with 
+BWT of 70 kg. Individuals who had a BWT of 91.3 kg (90th percentile BWT of this analysis 
+population) had an increase in CL of 22.0% and an increase in V2 of 30.4% compared to the 
+typical individual with BWT of 70 kg. A sensitivity analysis was conducted comparing a 
+simulated typical individual with BWT of 50 kg and 91.3 kg, dosed at 100 mg QD compared to a 
+simulated typical 70 kg patient, dosed at 100 mg QD. The exposure for patients at 50 kg and 
+91.3 kg were within the 95% PI of the exposure of the typical 70 kg individual. 
+Lorlatinib total daily dose (TDOSE) was found to be statistically significant on CL. This was 
+consistent with lorlatinib exposure estimated from non-compartmental analysis (NCA). In Study 
+B7461001, the steady-state CL increased with increasing dose. In this POPPK analysis, 
+individuals who received the 10 mg QD dose had a 12.4% lower CL (both initial and time-
+dependent, induced clearance) compared to individuals receiving 100 mg QD lorlatinib. 
+Similarly, individuals receiving the 200 mg QD dose had a 13.8% higher CL compared to 
+individuals receiving 100 mg QD lorlatinib. This dose non-linearity is likely due to an increase in 
+potency of induction, with increasing dose, which was accounted for with TDOSE as a covariate 
+on CL. 
+Baseline albumin (BALB) was found to be statistically significant on CL. With every unit of 
+baseline albumin over 4 mg/dL, there was a 6.68% increase in CL. For individuals with a BALB 
+value of 3.2 mg/dL (the 10th percentile value of the analysis population), the clearance was 5.3% 
+lower compared to the typical patient with 4 mg/dL of BALB. At a BALB value of 4.6 mg/Dl (the 
+90th percentile value of the analysis population), the clearance was increased 4% compared to 
+the typical patient. While the exact reason for this relationship is unknown, it is not uncommon 
+that individuals with decreased BALB also have a decreased CL. A sensitivity analysis was 
+conducted comparing simulated typical individuals with BALB at 3.2 and 4.6 mg/dL, with a 
+typical simulated individual with BALB of 4 mg/dL, each dosed at 100 mg QD. The simulated 
+exposure for individuals at 3.2 and 4.6 mg/dL were within the 95% PI of the exposure of the 
+typical 4 mg/dL individual, suggesting that BALB does not have a meaningful impact on 
+lorlatinib PK that would warrant dose adjustment. 
+PPI use was found to be statistically significant on ka with a 67.5% decrease in ka. The 
+absorption of lorlatinib was characterized with mixed zero order and first order absorption. 
+Therefore, the impact of PPI was modeled only on the first order component of the absorption. 
+The effect of PPI use on absorption was consistent with the results of the B7461008 study. In 
+B7461008, PPI use decreased the Cmax by 30% without change in AUCinf. A sensitivity analysis 
+was conducted comparing simulated typical individuals with PPI use, with a typical individual 
+without PPI use, each dosed at 100 mg once daily (QD). Although, the median simulated 
+exposure was decreased with PPI use, it was still within the 95% PI of the exposure of the 
+Reference ID: 4344794
+
+
+===== PAGE 260 =====
+
+NDA Multi-disciplinary Review and Evaluation NDA 210868 
+Lorlatinib 
+ 
+ 
+ 
+259 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+typical individual without PPI use, suggesting that PPI use does not have a meaningful impact 
+on lorlatinib PK that would warrant dose adjustment. 
+The effect of hepatic and renal impairment on lorlatinib PK was also assessed. For the 
+assessment of hepatic impairment, neither of the baseline associated safety laboratory 
+measurements (BAST nor BBIL), were found to be statistically significant covariates in the final 
+model. For the assessment of renal impairment, baseline creatinine clearance was found to be 
+statistically significant on CL in the final model. The impact of renal and hepatic impairment on 
+lorlatinib PK was tabulated by summarizing the individual estimates of CL for each hepatic and 
+renal impairment grade. For hepatic impairment, there was no trend in the median and mean 
+individual estimates of lorlatinib clearance with worsening hepatic impairment. For renal 
+impairment, there was a trend of decrease in the median and mean individual estimates of 
+lorlatinib clearance with worsening renal impairment. However, there was only 1 patient in the 
+most severe renal impairment group at baseline. Furthermore, the range of post-hoc estimates 
+of lorlatinib clearance for patients with mild and moderate renal impairment, were largely 
+within the range of the patients with normal renal function. 
+ 
+Reviewer’s comments: 
+Pfizer’s population PK analysis is reasonable. The reviewer agrees with the Pfizer’s conclusion 
+that no dose adjustment is warranted for age, sex, race/ethnicity, body weight, mild to 
+moderate renal impairment, and mild hepatic impairment. 
+ 
+Applicant’s Exposure-Response Analysis for Efficacy 
+Objectives: 
+The primary objectives of this population modeling analysis were: 
+• To assess the potential relationship between lorlatinib pharmacokinetic (PK) exposure (such 
+as but not limited to, cumulative area under the concentration-time curve (cAUC)) and the 
+efficacy endpoints objective response (OR) and intracranial objective response (IC-OR). For 
+simplification, the endpoints will be referred to as objective response rate (ORR) and 
+intracranial objective response rate (IC-ORR), respectively, since this was the measurement 
+of the endpoints in the analysis dataset. 
+• To evaluate the effect of moderators (i.e., covariates) in the E-R relationship for the efficacy 
+endpoints ORR and IC-ORR as assessed by independent central review (ICR). 
+Data: 
+The E-R analysis for efficacy was based on data for Study B7461001.  
+This was a Phase 1/2, open label, multicenter, multiple dose, dose escalation, safety, PK, 
+pharmacodynamic (PD) and anti-cancer efficacy exploration study of lorlatinib as a single agent 
+in patients with advanced ALK-positive or ROS1-positive NSCLC. 
+The Phase 1 portion included evaluations to assess the safety and tolerability of lorlatinib as a 
+single agent at increasing dose levels in patients with advanced ALK-positive or ROS1-positive 
+NSCLC in order to estimate the maximum tolerated dose (MTD), select the recommended 
+Reference ID: 4344794

@@ -1,0 +1,2079 @@
+
+
+===== PAGE 9 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+8 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Table of Figures 
+ 
+Figure 1: Effect of Brigatinib on Downstream ALK Signaling in EML4-ALK positive NSCLC Cells . 33 
+Figure 2: Effect of Brigatinib on In Vitro Cellular and Anchorage-Independent Growth of ALK-
+Positive NSCLC Cells ...................................................................................................................... 34 
+Figure 3: IC90 Values Relative to “Effective” Cmax Values for Brigatinib ........................................ 36 
+Figure 4: Effect of Brigatinib on Downstream ALK Signaling in H3122 NSCLC Xenografts ........... 38 
+Figure 5: Effect of Brigatinib on Human NSCLC EML4-ALK Xenograft Growth in SCID Mice ........ 38 
+Figure 6: Effect of Brigatinib on Survival and Tumor Burden in a NSCLC Orthotopic Brain Tumor 
+Model in SCID Mice ....................................................................................................................... 40 
+Figure 7: Plot of Probability of Experiencing a ≥ Grade 3 AE by Mean Daily Exposure of the 
+Second Week ................................................................................................................................ 67 
+Figure 8: IRC-Assessed Systemic Progression-Free Survival and Overall Survival (ITT Population: 
+by Treatment Group) .................................................................................................................. 139 
+Figure 9: Plot of Probability of Experiencing a ≥ Grade 3 AE by Mean Daily Exposure of the 
+Second Week .............................................................................................................................. 141 
+Figure 10: The Effect of Organ Impairment on Brigatinib Clearance ......................................... 142 
+Figure 11: Graphical Representation of the Final Population PK Model .................................... 144 
+Figure 12: Conditional Weighted Residuals (CWRES) versus Predictions (PRED), Time and Time 
+after Dose for Final model .......................................................................................................... 145 
+Figure 13: Plot of Probability of Experiencing an Increased Glucose or Insulin AEs by Geometric 
+Mean of Trough Concentrations (ng/mL) ................................................................................... 150 
+Figure 14: Plot of Probability of Experiencing an Increased CPK AEs by Geometric Mean of 
+Trough Concentrations (ng/mL).................................................................................................. 150 
+Reference ID: 4090771
+
+
+===== PAGE 31 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+30 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+QTcB prolongation in a single-dose safety pharmacology study in cynomolgus monkeys or in the 
+6-month repeat-dose study in monkeys. Single oral administration of brigatinib at dose levels 
+≥300 mg/m2 resulted in an increased incidence of ptosis in Sprague-Dawley rats compared to 
+controls, but did not adversely affect central nervous system (CNS) parameters at dose levels 
+up to 600 mg/m2.  
+ 
+The Applicant conducted repeat-dose toxicology studies of up to 6 months in rats and monkeys 
+to investigate the safety of brigatinib. In the 6-month study, daily oral administration of 
+brigatinib (AP26113) to Sprague Dawley rats at dose levels of 7.5, 15, and 25 mg/kg/day daily 
+resulted in treatment-related mortalities in animals treated at doses ≥15 mg/kg (approximately 
+0.3 times the exposure measured by AUC at the 180 mg clinical dose) due to cardiac toxicity, 
+described as myocardial degeneration or acute hemorrhage or to chronic renal lesions 
+consisting of moderate to marked tubular dilation with degeneration and protein casts and 
+glomerulonephritis. Clinical observations noted in animals found dead and/or euthanized in 
+extremis included tonic convulsion, labored respiration, and hypoactivity. Additional target 
+organs included the liver (increased mean liver enzymes and necrosis), male reproductive 
+organs (testicular degeneration and reduced sperm), and pancreas (acinar atrophy). Ocular 
+toxicities including cataract (bilateral) and retinal degeneration occurred in dose- and time-
+dependent manner. Visual disturbances and pancreatic toxicity have been reported clinically.  
+ 
+In the 6-month toxicology study in monkeys, administration of brigatinib at the high dose of 15 
+mg/kg (with exposures below the clinical exposure at the 180 mg dose based on AUC) resulted 
+in mortality attributed to inflammation of the lungs and pericardium. Consistent with cardiac 
+effects seen in longer term studies, single dose oral administration of brigatinib in monkeys at 
+doses of 10, 20, and 30 mg/kg resulted in statistically significant decreases in mean heart rate 
+and pulse pressure at 1-6 hrs post-dose compared to controls; delayed effects, primarily at the 
+30 mg/kg dose level, included statistically significant increases in heart rate, blood pressure, 
+body temperature, and respiratory frequency compared to controls. The delayed effects were 
+generally seen at brigatinib exposures within ~0.6- to 2-fold of those achieved clinically at the 
+180 mg dose level (approximately 20276 ng*h/mL based on AUC). Bradycardia, hypertension, 
+and pulmonary toxicity have been observed clinically with brigatinib. Other drug-related 
+findings in the 6 month monkey study included reduced lymphocyte counts, reduced 
+reticulocyte counts, and lower spleen, testes, and pituitary gland weights. Additional target 
+organs included the kidneys (granular pigment), lymph nodes (reduced cellularity), thymus 
+(reduced cellularity and weight), and lungs (alveolar macrophages).  
+ 
+The Applicant did not conduct carcinogenicity studies and these studies are not required to 
+support a marketing application for a drug intended to treat patients with advanced cancer. 
+Brigatinib was not genotoxic in the Ames test or in vitro mammalian chromosome aberration 
+test in the absence or presence of S9 mix but showed dose-dependent chromosomal damage 
+(aneugenic effects) in the in vivo mammalian erythrocyte micronucleus test. Because of this 
+finding, FDA initially proposed that the brigatinib label include recommendations stating that 
+females of reproductive potential should use effective contraception during brigatinib 
+Reference ID: 4090771
+
+
+===== PAGE 36 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+35 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+In Study # ARP618, the Applicant investigated the in vitro activity of AP26113 in a panel of 
+Ba/F3 cell lines stably transduced with wild-type (WT) EML4-ALK or EML4-ALK expressing 
+secondary kinase domain ALK mutations that have been associated with resistance to crizotinib, 
+ceritinib, and/or alectinib. Untransformed Ba/F3 cells were used as a negative control. As 
+assessed using the MTS assay, incubation with AP26113 for 3 days inhibited the proliferation of 
+all 17 EML4-ALK mutant cell lines with IC50 values ranging from 9 nM to 184 nM (Table 4).  
+ 
+Table 4: Effect of Brigatinib and other ALK Inhibitors on the In Vitro Viability of Ba/F3 cells 
+Expressing WT or Mutant EML4-ALK Fusion Kinases 
+ 
+*: Untransformed Ba/F3 cells; Brigatinib = AP26113; (Applicant Figure reproduced from Study # ARP618) 
+ 
+The Applicant then conducted an exploratory analysis of these in vitro findings using clinical 
+pharmacology data from brigatinib and estimated Cmax levels based on publically available data 
+at the approved doses for crizotinib, ceritinib, and alectinib. As expected, using total Cmax values 
+for these products over-predicted their clinical activity against ALK mutants based on the values 
+in Table 4; however, the free Cmax levels calculated using human plasma protein binding data 
+generally under-predicted their activity against WT and/or mutant ALK. As a result, the 
+Applicant assessed the functional impact of plasma protein binding on drug activity by 
+comparing the IC50 values for inhibition of viability of Ba/F3 cells driven by ALK in the presence 
+or absence of physiological concentrations of human serum albumin and alpha 1-acid 
+glycoprotein. The analysis suggested the highest correlation with clinical activity when the 
+“effective” Cmax values corrected for the functional effects of protein binding were compared to 
+in vitro IC90 values rather than IC50 values. The calculated “effective” Cmax values following once 
+Reference ID: 4090771
+
+
+===== PAGE 37 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+36 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+daily dosing with 90 mg and 180 mg brigatinib were 473 nM and 1243 nM, respectively, which 
+exceed the IC90 values for WT ALK, 16/17 ALK mutants at 90 mg (not G1202R), and 17/17 ALK 
+mutations at 180 mg (see Figure 3). Brigatinib is also expected to inhibit WT ALK and the ALK 
+mutations tested at free drug concentrations achievable at the recommended dose of 
+brigatinib (free Cmax = 324 nM at 90 mg and 853 nM at 180 mg).  
+ 
+Figure 3: IC90 Values Relative to “Effective” Cmax Values for Brigatinib 
+ 
+ Horizontal lines represent “effective” Cmax values in patients; dotted line: 90 mg; solid line: 180 mg 
+(Applicant Figure reproduced from Study # ARP618) 
+ 
+The Applicant also investigated the effects of AP26113 on ROS1 signaling. As assessed using the 
+MTS assay, AP26113 inhibited the in vitro viability of Ba/F3 cells expressing one of three native 
+ROS1 fusion variants (CD74-ROS1, FIG-ROS1, or SDC4-ROS1) with IC50 values ranging from 16 to 
+31 nM and IC90 values ranging from 41 to 91 nM (Study # ARP622; data not shown). Western 
+blot analysis demonstrated that AP26113 induced concentration-dependent inhibition of 
+phosphorylated ROS1, AKT, and ERK1/2 in Ba/F3 cells expressing CD74-ROS1. Further, AP26113 
+retained its in vitro activity against CD74-ROS1 containing the secondary kinase domain gate 
+keeper mutation L2026M (IC50 of 17 nM vs 18 nM for WT; IC90 of 34 nM vs 71 nM for WT) in 
+growth assays, whereas the potency of crizotinib was reduced ≤5-fold compared to native 
+CD74-ROS1 (IC50 of 127 vs. 25 nM for WT; IC90 of 251 nM vs 93 nM for WT). In contrast, neither 
+AP26113 nor crizotinib was active against the secondary ROS1 kinase domain mutation G2032R, 
+which has been found in tumors that have progressed on crizotinib.  
+ 
+In Study # ARP205, the Applicant investigated the effects of AP26113 on in vitro signaling and 
+growth in NSCLC cell lines expressing WT or mutant EGFR compared to the EGFR inhibitor 
+erlotinib. NSCLC cell lines endogenously expressing WT EGFR (H358 cells), EGFR-Del (HCC827 
+cells), and L858R/T790M (H1975 cells) were used, along with HCC827 cells transduced with 
+EGFR-Del/T790M. As assessed by western blotting, pre-treatment with erlotinib for 2 hours 
+inhibited EGF-induced phosphorylation of endogenous WT EGFR at Tyr 1068 in H358 cells with 
+an IC50 value of 65 nM, whereas AP26113 was much less effective (IC50 >3000 nM). Measured by 
+ELISA, AP26113 inhibited phosphorylation of EGFR-Del, EGFR-Del/T790M, and EGFR-
+L858R/T790M with IC50 values ≤62 nM (see Table 5) while erlotinib inhibited phosphorylation of 
+EGFR-Del (IC50 = 5 nM) but was ineffective against EGFR T790M mutations (IC50 >3000 nM). 
+Consistent with these data, AP26113 inhibited phosphorylation of the downstream EGFR 
+Reference ID: 4090771
+
+
+===== PAGE 38 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+37 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+signaling proteins AKT, SHC, and ERK in HCC827 cells expressing EGFR-Del and EGFR-
+Del/T790M, as well as AKT and ERK1/2 (but not STAT3) in H1975 cells expressing L858R/T790M. 
+Further, as assessed using a CyQuant assay, incubation with AP26113 for 72 hours inhibited the 
+in vitro growth of HCC827 cells expressing EGFR-Del and EGFR-Del/T790M (see Table 5 for IC50 
+values), whereas erlotinib was only effective against EGFR-Del (IC50 = 13 nM). These data 
+suggest that AP26113 is selective for EGFR mutants tested compared to WT EGFR. The 
+Applicant also assessed the in vitro activity of AP26113 against Ba/F3 cells stably transduced 
+with EGFR mutations (Study # ARP624). As assessed using the MTS assay, incubation with 
+AP26113 for 3 days inhibited the growth of Ba/F3 cells expressing 4 EGFR mutations with IC50 
+and IC90 values ≤489 nM and ≤2968 nM, respectively (see Table 5). As expected, erlotinib 
+inhibited EGFR-Del (IC50 = 4.7 nM; IC90 = 29 nM) and L858R (IC50 = 13 nM; IC90 = 45 nM), but not 
+variants containing T790M (IC50 ≥6688 nM; IC90 >10,000 nM). WT EGFR was not assessed in this 
+study.  
+ 
+Table 5: Effect of Brigatinib on WT and Mutant EGFR in Kinase and Cellular In Vitro Assays 
+EGFR Variant 
+Kinase 
+Screen1 
+Cell Line 
+ph-EGFR 
+Cell Growth 
+IC50 (nM) 
+IC50 (nM)2 
+GI50 (nM)2 
+IC50 (nM)3 
+IC90 (nM)3 
+WT 
+67 
+H358 
+>3000 
+ND 
+ND 
+ND 
+Del 
+ND 
+HCC827 
+62 
+163 
+ND 
+ND 
+Ba/F3 
+ND 
+ND 
+95 
+314 
+Del/T790M 
+ND 
+HCC827 
+59 
+245 
+ND 
+ND 
+Ba/F3 
+ND 
+ND 
+272 
+2461 
+L858R/T790M 
+29 
+H1975 
+47 
+ND 
+ND 
+ND 
+Ba/F3 
+ND 
+ND 
+489 
+2968 
+L858R 
+1.5 
+Ba/F3 
+ND 
+ND 
+397 
+1201 
+(Reviewer generated table based on results from Study # ARP227
+1, Study # ARP205
+2, and Study # ARP624
+3) 
+ 
+B. In Vivo Studies 
+The Applicant investigated the effect of single oral administration of 0, 10, 25, or 50 mg/kg 
+AP26113 on downstream ALK signaling in EML4-ALK positive H3122 NSCLC cells implanted in 
+female severe combined immunodeficient (SCID) (Study # ARP199). Immunoprecipitation 
+and/or western blot analysis demonstrated that AP26113 inhibited in vivo phosphorylation of 
+ALK (Tyr 1604), STAT3, AKT, ERK1/2, and S6 in tumor lysates in a time- and dose-dependent 
+manner (see Figure 4). Inhibition occurred even at the low dose of 10 mg/kg (231 ng/mL Cmax, 
+2246 ng*hr/mL AUC). Study # ARP615 demonstrated that daily oral administration of ≥10 
+mg/kg AP26113 for 4 days also induced dose-dependent inhibition of ALK phosphorylation in 
+human KARPAS-299 ALCL tumors expressing NPM-ALK (data not shown). 
+Reference ID: 4090771
+
+
+===== PAGE 43 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+42 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+AP26113 on the CNS. FOB tests included 25 qualitative assessments (e.g. posture, convulsions, 
+rearing, pupillary response, gait, body tone, grooming, piloerection, tail pinch, reflexes), grip 
+strength, hind limb splay, and rectal body temperature. There was an increase in the incidence 
+of ptosis at 8 hours after administration of ≥50 mg/kg AP26113 compared to controls, although 
+there was no clear dose response at 24 hours. Single oral administration of AP26113 at dose 
+levels up to 100 mg/kg did not adversely affect any other CNS parameters.  
+  
+Table 9: Effect of Single Oral Administration of Brigatinib on CNS Function in Rats 
+Dose (mg/kg) 
+0 
+25 
+50 
+100 
+Ptosis: 8 hrs  
+             24 hrs 
+ 
+1 
+1 
+1 
+2 
+3 
+2 
+1 
+Forelimb grip strength: 4 hrs 
+                                          8 hrs 
+                                      24 hrs 
+ 
+8%↑ 
+12%↑ 
+17%↑ 
+8%↑ 
+16%↑ 
+21%↑* 
+13%↑ 
+19%↑* 
+15%↑ 
+Hindlimb grip strength: 4 hrs 
+                                           8 hrs 
+                                          24 hrs 
+ 
+14%↑ 
+20%↑ 
+14%↑ 
+8%↑ 
+5%↑ 
+8%↑ 
+22%↑ 
+29%↑** 
+25%↑ 
+Body temperature:        24 hrs 
+ 
+ 
+ 
+1%↓* 
+Ptosis data shown as rat incidence; % compared to controls; *, P < 0.05; **, P < 0.01 
+(Reviewer generated table based on results from Study # 6900915) 
+ 
+In GLP-compliant Study # 6900893, 8 male Sprague-Dawley rats/group were administered a 
+single oral dose of AP26113 at 0, 25, 50, or 100 mg/kg; clinical chemistry, urinalysis, and urine 
+chemistry parameters were measured at 10 and 24 hours post-dose to evaluate the effects of 
+AP26113 on the renal system. Single oral administration of AP26113 resulted in elevated urea 
+nitrogen, creatinine, glucose, creatine kinase, calcium, urine volume, and fractional 
+phosphorus/sodium/potassium/chloride excretion in the urine compared to controls, as well as 
+decreased phosphorous, sodium, chloride, urine creatinine, and creatinine clearance compared 
+to controls. These findings are indicative of renal toxicity and suggest that AP26113 may impair 
+renal function at dose levels ≥25 mg/kg. 
+ 
+Table 10: Effect of Single Oral Administration of Brigatinib on Renal Parameters 
+Parameters  
+Major findings compared to controls 
+Clinical 
+Chemistry 
+Dose-dependent increase in urea nitrogen up to 73% (10 hr PD) at HD; ≤45% increase at 24 hrs 
+PD. Dose-dependent increase in glucose up to 134% (10 hr PD) and 352% (24 hr PD) at HD. Dose-
+dependent increase in creatinine up to 62% (24 hr PD) at HD. Statistically significant increase in 
+creatine kinase (≥50 mg/kg), calcium (≥25 mg/kg), and globulin (≥25 mg/kg) at 24 hr PD. 
+Statistically significant decrease in triglycerides (≥25 mg/kg), phosphorus (≥50 mg/kg; 10 hr PD 
+only), sodium (≥50 mg/kg), and chloride (≥25 mg/kg) at 10 and 24 hr PD. 
+Urinalysis  
+Dose-dependent increase in specific gravity up to 2% (24 hr PD) at HD. Dose-dependent increase 
+in fractional phosphorous excretion up to 454% (10 hr PD) and 137% (24 hr PD) at HD. Statistically 
+significant increase in urine volume (≥50 mg/kg; 10 hr PD), fractional sodium excretion (50 mg/kg, 
+24 hr PD; 100 mg/kg 10 hr PD), fractional potassium excretion (≥25 mg/kg; 24 hr PD), and 
+fractional chloride excretion (≥25 mg/kg; 24 hr PD ). Statistically significant decrease in urine 
+creatinine (≥25 mg/kg; 10 hr PD) and creatinine clearance (≥25 mg/kg; 24 hr PD). 
+Reference ID: 4090771
+
+
+===== PAGE 45 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+44 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Type of Study 
+Major Findings 
+TK data from general toxicology studies 
+ 
+A 6-Month Oral Gavage Toxicity Study of 
+AP26113 in Sprague Dawley Rats with a 56-
+Day Recovery Period. 
+Study Number 
+-69505. 
+ 
+ 
+ 
+T1/2 could not be estimated 
+No accumulation 
+In rats, exposure was dose proportional between 7.5 and 15 
+mg/kg/day and less than dose proportional between 15 and 25 
+mg/kg/day. No apparent differences in exposure between males 
+and females.  
+ 
+Day 
+Dose 
+Mg/kg/day 
+Cmax (ng/mL) 
+AUC(0-t) (hr.ng/mL)- 
+Male 
+Female 
+Male 
+Female 
+0 
+7.5 
+1010 
+1030 
+12200 
+12100 
+15 
+1970 
+1490 
+23800 
+21600 
+25 
+1770 
+1810 
+26200 
+27300 
+29 
+7.5 
+903 
+1150 
+14300 
+17300 
+15 
+1590 
+1840 
+26700 
+29500 
+25 
+1620 
+2010 
+35300 
+39300 
+52 
+25 
+1950 
+2160 
+35800 
+39100 
+89 
+7.5 
+1300 
+1250 
+17600 
+17800 
+15 
+2180 
+1980 
+34300 
+32300 
+182 
+7.5 
+1100 
+1200 
+18200 
+19000 
+15 
+2020 
+1850 
+37600 
+32700 
+A 6-Month Oral (Nasogastric) Toxicity and 
+Toxicokinetic Study of AP26113 in 
+Cynomolgus Monkeys with a 56-Day Recovery 
+Period. 
+Study Number 
+-69506. 
+ 
+Day 
+Dose 
+(mg/kg/day) 
+Cmax (ng/mL) 
+AUC (0-t)(hr.ng/mL 
+Male 
+Female 
+Male 
+Female 
+0 
+5 
+248 
+555 
+2060 
+3140 
+10 
+707 
+944 
+5150 
+6780 
+15 
+999 
+1310 
+8350 
+9910 
+29 
+5 
+452 
+535 
+4050 
+3390 
+10 
+572 
+760 
+5890 
+6900 
+15 
+1710 
+844 
+24200 
+9100 
+89 
+5 
+429 
+446 
+4560 
+3780 
+10 
+937 
+926 
+9570 
+11400 
+15 
+- 
+1400 
+- 
+15900 
+181 
+5 
+301 
+291 
+3460 
+4300 
+10 
+480 
+489 
+7750 
+6080 
+15 
+- 
+805 
+- 
+10800 
+TK data from reproductive toxicology studies  
+An Embryo-fetal Development Study of 
+AP26113 by Oral Gavage in Rats. 
+ 
+ Study No. 9000674 
+ 
+Day 
+Dose 
+(mg/kg) 
+Cmax 
+(ng/mL) 
+Cmax/D 
+(ng/mL(mg
+/kg)) 
+AUC (0-t) 
+(hr*ng/mL) 
+6 
+5 
+791 
+158 
+9650 
+12.5 
+1330 
+107 
+20200 
+25 
+2200 
+88.1 
+34700 
+17 
+5 
+508 
+102 
+5290 
+12.5 
+952 
+76.2 
+14400 
+25 
+1530 
+61.3 
+25500 
+ 
+Reference ID: 4090771
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 58 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+57 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+PMC or 
+PMR 
+Key Issue(s) to be 
+Addressed 
+Rationale 
+Key Considerations for 
+Design Features 
+ PMC 
+ PMR 
+Determination of an 
+appropriate 
+brigatinib dose for 
+patients with 
+moderate to severe 
+hepatic impairment. 
+65% of the administered 
+dose (41% as unchanged 
+brigatinib) was 
+recovered in the feces, 
+indicating that hepatic 
+elimination is the major 
+elimination pathway. 
+ 
+ 
+ 
+ 
+ If severe hepatic 
+impairment has an effect, 
+moderate hepatic 
+impairment will be 
+evaluated. 
+ PMC 
+ PMR 
+Determination of an 
+appropriate 
+brigatinib dose for 
+patients with severe 
+renal impairment. 
+25% of the administered 
+dose (86% as unchanged 
+brigatinib) was 
+recovered in the urine. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ If severe 
+renal impairment has an 
+effect, moderate renal 
+impairment will be 
+evaluated. 
+ PMC 
+ PMR 
+Determination of an 
+appropriate 
+brigatinib dose for 
+patients with 
+concomitant use of a 
+moderate CYP3A4 
+inhibitor.  
+Coadministration of 
+itraconazole (a strong 
+CYP3A4 inhibitor) 
+increased brigatinib AUC 
+by 2-fold (90% CI: 1.8, 
+2.2) and Cmax by 21% 
+(90% CI: 13%, 30%) as 
+compared with 
+brigatinib alone. 
+Conduct a physiologically-
+based pharmacokinetic 
+modeling study of the 
+effect of repeat doses of a 
+moderate CYP3A4 inhibitor 
+on the single dose 
+pharmacokinetics of 
+brigatinib to assess the 
+potential for excessive drug 
+toxicity. 
+ PMC 
+ PMR 
+Determination of an 
+appropriate 
+brigatinib dose for 
+patients with 
+concomitant use of a 
+moderate CYP3A4 
+inducer. 
+Coadministration of 
+rifampin (a strong 
+CYP3A4 inducer) 
+decreased brigatinib 
+AUC by 80% (90% CI: 
+79%, 82%) and Cmax by 
+60% (90% CI: 56%, 63%) 
+as compared with 
+brigatinib alone. 
+Conduct a physiologically-
+based pharmacokinetic 
+modeling study of the 
+effect of repeat doses of a 
+moderate CYP3A4 inducer 
+on the single dose 
+pharmacokinetics of 
+brigatinib to assess the 
+magnitude of decreased 
+Reference ID: 4090771
+(b) (4)
+(b) (4)
+
+
+===== PAGE 59 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+58 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+drug exposure and to 
+determine appropriate 
+dosing recommendations. 
+ PMC 
+ PMR 
+Dose adjustment in 
+patients with 
+comedications of 
+CYP3A4 substrates 
+whose PK may be 
+affected by 
+brigatinib. 
+Brigatinib induces 
+CYP3A via activation of 
+the (pregnane X 
+receptor (PXR)) in vitro 
+and may decrease 
+concentrations of CYP3A 
+substrates. 
+Repeat doses of brigatinib 
+in patients with and 
+without coadministration 
+of a sensitive CYP3A4 
+substrate.  
+ 
+ Summary of Clinical Pharmacology Assessment  
+6.2.
+ Pharmacology and Clinical Pharmacokinetics 
+6.2.1.
+After a single dose and at steady-state, systemic exposure was dose proportional over the dose 
+range of 30 mg to 240 mg QD. The geometric mean (%CV) steady-state AUC0-tau was 8165 (57%) 
+and 20276 (56%) ng∙h/mL following brigatinib 90 mg and 180 mg QD, respectively. The 
+geometric mean (%CV) steady-state Cmax was 552 (65%) and 1452 (60%) ng/mL following 
+brigatinib 90 mg and 180 mg QD, respectively. The geometric mean accumulation ratio was 1.9 
+to 2.4 following brigatinib QD dosing.   
+ 
+Absorption 
+ 
+The median tmax is 2 hours following administration of brigatinib 90 or 180 mg QD. A high-fat 
+meal did not affect brigatinib AUC and Cmax. 
+ 
+Distribution  
+ 
+Brigatinib is 66% bound to human plasma proteins and binding is not concentration-dependent 
+in vitro. The blood-to-plasma concentration ratio is 0.7. The geometric mean (%CV) apparent 
+volume of distribution (Vd/F) of brigatinib at steady-state was 153 L (47%) following brigatinib 
+180 mg QD. 
+ 
+Metabolism 
+ 
+Brigatinib is primarily metabolized by CYP2C8 (72%) and CYP3A4 (28%) in vitro. N-
+demethylation and cysteine conjugation were the two major metabolic clearance pathways. 
+Following a single 180 mg oral dose of 14C-brigatinib, unchanged brigatinib (91.5%) and its 
+primary metabolite AP26123 (3.5%) were the major circulating radioactive components. 
+Steady-state AUC of AP26123 was <10% of brigatinib exposure in patients. AP26123 inhibited 
+ALK with approximately ≤4-fold lower potency than brigatinib. 
+Reference ID: 4090771
+
+
+===== PAGE 60 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+59 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ 
+Excretion 
+ 
+Following a single 180 mg oral dose of 14C-brigatinib in healthy subjects, 65% of the 
+administered dose (41% as unchanged brigatinib) was recovered in the feces and 25% of the 
+administered dose (86% as unchanged brigatinib) was recovered in the urine.  
+ 
+Dose- and Exposure-Response Relationships 
+ 
+Although there was a dose-efficacy relationship, the ER relationship for efficacy was relatively 
+flat between the two dosing regimen arms based on the geometric mean of the steady-state 
+trough concentrations. Considering the >30% dose interruption and dose reduction in both 
+arms, an exploratory sensitivity analysis for survival was conducted using simulated varying 
+daily exposure as a covariate. This analysis demonstrated a positive ER relationship for PFS and 
+OS, which is consistent with the observed DR relationship. DR relationships were observed for 
+dose modifications (including dose reduction and interruption) and some treatment-related 
+Grade 3-4 adverse events (increased creatinine phosphokinase, skin and subcutaneous tissue 
+disorders, rash), and serious adverse events (pneumonitis, pneumonia). The ER relationship for 
+safety based on predicted mean daily AUC of the second week is also consistent with the DR 
+relationship. The overall efficacy and safety profiles support the use of the proposed dose (90 
+mg for 7 days, then 180 mg QD) with dose modification in the event of adverse reactions to the 
+lowest dose of 60 mg.  
+ General Dosing and Therapeutic Individualization 
+6.2.2.
+General Dosing 
+The proposed dosing regimen of brigatinib is 90 mg orally QD for the first seven days, then 180 
+mg QD, with or without food. 
+Therapeutic Individualization 
+Results of a DDI study showed that coadministration of itraconazole (a strong CYP3A4 inhibitor) 
+increased brigatinib AUC by 2-fold (90% CI: 1.8, 2.2) and Cmax by 21% (90% CI: 13%, 30%) as 
+compared with brigatinib alone. Based on the dose-response relationship for safety showing 
+increased incidence of adverse reactions and dose reductions/interruptions due to adverse 
+reactions in Arm B (90 mg for 7 days, then 180 mg QD) compared to Arm A (90 mg QD) (Table 
+16) and exposure-response for safety (Figure 7), a 2-fold increase in exposure is clinically 
+meaningful; therefore, strong CYP3A inhibitors should be avoided. For patients requiring 
+concomitant use of a strong CYP3A inhibitor, the brigatinib once daily dose should be reduced 
+by approximately 50% (i.e., 180 mg to 90 mg or 90 mg to 60 mg). 
+Outstanding Issues 
+Reference ID: 4090771
+
+
+===== PAGE 61 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+60 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+The PK and safety of brigatinib in patients with severe renal impairment and moderate to 
+severe hepatic impairment have not been studied; therefore PMR studies are requested to 
+determine an appropriate brigatinib dose for patients with severe renal impairment and for 
+patients with moderate to severe hepatic impairment. The labeling recommends no dose 
+adjustment in patients with mild and moderate renal impairment and in patients with mild 
+hepatic impairment.  
+ 
+Given that the DDI study showed a 2-fold increase in brigatinib exposure with coadministration 
+of a strong CYP3A4 inhibitor and lack of clinical data in patients to inform the magnitude and 
+clinical relevance of a potential increase in exposure with coadministration of moderate 
+CYP3A4 inhibitors, the Applicant is requested to assess the effect of moderate CYP3A4 
+inhibitors on brigatinib PK and to determine dosing recommendations by conducting a 
+physiologically-based pharmacokinetic (PBPK) modeling under a PMR. If results of the 
+completed modeling study do not sufficiently inform the issue, the study results will be used as 
+new safety information to subsequently require a dedicated DDI PK study. The labeling 
+recommends avoidance of strong CYP3A inhibitors. If concomitant use of a strong CYP3A 
+inhibitor cannot be avoided, the brigatinib daily dose should be reduced by approximately 50%. 
+ 
+Given that the DDI study showed an 80% decrease in brigatinib exposure with coadministration 
+of a strong CYP3A4 inducer, the PK and potential decrease in efficacy of brigatinib in patients 
+requiring concomitant use of a moderate CYP3A4 inducer should be studied by a PBPK 
+modeling approach as a PMC to determine dosing recommendations in patients requiring 
+concomitant use of a moderate CYP3A4 inducer. 
+ 
+ 
+  The labeling recommends avoidance of strong 
+CYP3A4 inducers.  
+ 
+Brigatinib may induce CYP3A at clinically relevant concentrations based on the human 
+hepatocytes and PXR activation study in vitro; therefore, a PMC clinical trial is requested to 
+assess the effect of brigatinib on the magnitude of decreased exposure of a sensitive CYP3A4 
+substrate. The ability of brigatinib to induce CYP2C should be evaluated in vitro under the IND 
+for brigatinib as activation of the nuclear receptor, Pregnane X receptor (PXR), results in co-
+induction of CYP3A and CYP2C. 
+ 
+Summary of Labeling Recommendations 
+ 
+Drug-Drug Interactions 
+ 
+Coadministration of itraconazole (a strong CYP3A4 inhibitor) increased brigatinib AUC by 2-fold 
+(90% CI: 1.8, 2.2) and Cmax by 21% (90% CI: 13%, 30%) as compared with brigatinib alone. Based 
+on the dose-response relationship for safety showing increased adverse reactions and dose 
+reductions/interruptions due to adverse reactions in Arm B (90/180 mg QD) compared to Arm A 
+(90 mg QD) (Table 16) and exposure-response for safety (Figure 7), a 2-fold increase in 
+Reference ID: 4090771
+(b) (4)
+
+
+===== PAGE 62 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+61 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+exposure is clinically meaningful; therefore, the labeling recommendation should state to avoid 
+concomitant use of ALUNBRIG with strong CYP3A inhibitors. If concomitant use of a strong 
+CYP3A inhibitor is unavoidable, the once daily dose of ALUNBRIG should be reduced by 
+approximately 50% (i.e., 180 mg to 90 mg or 90 mg to 60 mg). After discontinuation of a strong 
+CYP3A inhibitor, the ALUNBRIG dose that was taken prior to initiating the strong CYP3A 
+inhibitor should be resumed. 
+ 
+Coadministration of rifampin (a strong CYP3A4 inducer) decreased brigatinib AUC by 80% (90% 
+CI: 79%, 82%) and Cmax by 60% (90% CI: 56%, 63%) as compared with brigatinib alone. Based on 
+the dose-response relationship for efficacy showing increased ORR and PFS in Arm B (90/180 
+mg QD) compared to Arm A (90 mg QD), a 80% decrease in exposure is clinically meaningful;  
+therefore, the labeling recommendation should state to avoid concomitant use of ALUNBRIG 
+with strong CYP3A inducers. Although 70% of the patient population presented with brain 
+metastases, an analysis of concomitant medications from Studies 201 and 101 showed that 
+patients were generally able to avoid antiepileptics that are strong CYP3A4 inducers such as 
+carbamazepine, phenytoin, and phenobarbital. Patients were able to receive other 
+antiepileptics that do not induce CYP3A4 such as levetiracetam, lamotrigine, lacosamide, 
+valproate sodium, zonisamide, gabapentin, and pregablin. The Applicant recommended 
+avoidance of moderate CYP3A inducers as well as strong inducers. No patients received a 
+moderate CYP3A4 inducer during brigatinib treatment in Study 201 and 101. Given the lack of 
+clinical data in patients and a dedicated DDI study to inform the magnitude and clinical 
+relevance of potential decrease in exposure with coadministration of moderate CYP3A4 
+inducers, it is not recommended to include the labeling statement to avoid moderate CYP3A 
+inducers. 
+ 
+Brigatinib may induce CYP3A at clinically relevant concentrations based on the human 
+hepatocytes and PXR activation study in vitro. Coadministration of ALUNBRIG with CYP3A 
+substrates can result in decreased concentrations and loss of efficacy of CYP3A substrates, 
+including hormonal contraceptives. 
+ 
+Contraception 
+ 
+The proposed patient population of ALK-positive NSCLC is generally younger than the average 
+NSCLC population (median age of 54 years) and has a higher percentage of females than in the 
+unselected population. Given that brigatinib is a teratogen and ALUNBRIG may cause decreased 
+concentrations and efficacy of hormonal contraceptives (primarily metabolized by CYP3A4 and 
+to a lesser extent by CYP2C9/CYP2C19), females of reproductive potential should be advised to 
+use effective non-hormonal contraceptives during treatment with ALUNBRIG and for at least 4 
+months after the final dose. 
+ 
+Reference ID: 4090771
+
+
+===== PAGE 63 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+62 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Organ Impairment 
+ 
+Following oral administration of a single 180 mg dose of radiolabeled brigatinib to healthy 
+subjects, 65% of the administered dose (41% as unchanged brigatinib) was recovered in the 
+feces, indicating that hepatic elimination is the major elimination pathway. Based on a popPK 
+analysis, brigatinib exposures were similar between 49 subjects with mild hepatic impairment 
+(total bilirubin within ULN and AST >ULN or total bilirubin >1 and up to 1.5 × ULN and any AST) 
+and 377 subjects with normal hepatic function (total bilirubin and AST within ULN). The PK and 
+safety of brigatinib in patients with moderate (total bilirubin >1.5 and up to 3 × ULN and any 
+AST) to severe (total bilirubin >3 × ULN and any AST) hepatic impairment have not been 
+studied.  
+ 
+Following oral administration of a single 180 mg dose of radiolabeled brigatinib to healthy 
+subjects, 25% of the administered dose (86% as unchanged brigatinib) was recovered in the 
+urine, indicating that renal excretion is also an important elimination pathway. Based on a 
+population pharmacokinetic analysis, brigatinib exposures were similar among 125 subjects 
+with mild (CLcr 60 to <90 mL/min) renal impairment, 34 subjects with moderate renal 
+impairment (CLcr 30 to <60 mL/min) and 270 subjects with normal renal function (≥90 mL/min), 
+suggesting that no dose adjustment is necessary in patients with mild to moderate renal 
+impairment. The PK and safety of brigatinib in patients with severe renal impairment (CLcr <30 
+mL/min) have not been studied. 
+ Comprehensive Clinical Pharmacology Review 
+6.3.
+ General Pharmacology and Pharmacokinetic Characteristics 
+6.3.1.
+Brigatinib (molecular weight of 584 g/mol) exhibits linear PK in the dose range of 30 to 240 mg. 
+Single and repeat dose brigatinib exposures at the approved recommended dosages are shown 
+in Table 14. A summary of general pharmacology and PK characteristics of brigatinib is shown in 
+Table 15.  
+ 
+Reference ID: 4090771
+
+
+===== PAGE 64 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+63 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Table 14: Brigatinib Exposures at Approved Recommended Dosages 
+ 
+Dosage, once daily 
+ 
+90 mg 
+180 mg 
+Single Dose  
+Geometric Mean AUC0-24h, ng∙h/mL (%CV) 
+4900 (61%) 
+n=50 
+11834 (51%) 
+n=44 
+Geometric Mean Cmax, ng/mL (%CV) 
+418 (64%) 
+n=50 
+1037 (57%) 
+n=44 
+Repeat Doses  
+Geometric Mean AUC0-Tau, ng∙h/mL (%CV) 
+8165 (57%) 
+n=15 
+20276 (56%) 
+n=63  
+Geometric Mean Cmax, ng/mL (%CV) 
+552 (65%) 
+n=15 
+1452 (60%) 
+n=63 
+Geometric Cmin, ng/mL (%CV) 
+226 (57%) 
+n=15 
+520 (61%) 
+n=63 
+ 
+Table 15: Summary of General Pharmacology and Pharmacokinetic Characteristics of 
+Brigatinib 
+Pharmacology 
+Mechanism of Action 
+ 
+Inhibited EML4-ALK with an IC50 of 14 nM and IC90 of 38 nM.    
+ 
+Inhibited 17 ALK secondary mutations associated with resistance to 
+crizotinib (IC50 ranging from 9-184 nM and IC90 ranging from 22-762 
+nM). 
+Active Moieties 
+Unchanged brigatinib (91.5%) and its primary metabolite AP26123 (3.5%, 
+<10% of AUC of brigatinib) were the major circulating components at 
+steady-state. AP26123 inhibited ALK with approximately ≤4-fold lower 
+potency than brigatinib in kinase and cellular assays in vitro. 
+QT Prolongation  
+Brigatinib inhibited hERG with IC50 >10 µM in vitro. The QT interval 
+prolongation potential of brigatinib was assessed in 123 patients with 
+advanced solid tumors following brigatinib 30 mg to 240 mg QD. The 
+maximum mean QTcF (corrected QT by the Fridericia method) change from 
+baseline was <10 ms. An exposure-QT analysis suggested no concentration-
+dependent QTc interval prolongation. 
+General Information 
+Bioanalysis 
+Brigatinib was measured using validated LC-MS/MS assay methods over the 
+single concentration range of 25 to 2500 ng/mL [Method BAC-AI-L004] and 
+dual ranges of 0.1 to 7.5 ng/mL (low range) and 5 to 500 ng/mL (high range) 
+[Method BAC-AI-L003]. The metabolite AP26123 was measured using 
+validated LC-MS/MS assay methods over the single concentration range of 2
+to 200 ng/mL [Method BAC-AI-L004] and dual ranges of 0.02 to 1.5 ng/mL 
+(low range) and 1 to 100 ng/mL (high range) [Method BAC-AI-L003]. 
+Accuracy (%RE) and precision (%CV) of the quality controls (QCs) for the 
+runs used in measuring brigatinib and AP26123 concentrations were ≤15%, 
+which are acceptable based on the current Bioanalytical Method Validation 
+Draft FDA Guidance for Industry. 
+Healthy vs. Patients 
+PK characteristics were similar between healthy subjects and the target 
+patient population. 
+Reference ID: 4090771
+
+
+===== PAGE 65 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+64 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Drug Exposure at Steady State 
+Following the Therapeutic Dosing 
+Regimen  
+ 
+Following brigatinib 90 mg QD in patients, geometric mean (%CV) AUC0-
+tau was 8165 ng∙h/mL (57%) and Cmax was 552 ng/mL (65%). 
+ 
+Following brigatinib 180 mg QD in patients, geometric mean (%CV) 
+AUC0-tau was 20276 ng∙h/mL (56%) and Cmax was 1452 ng/mL (60%). 
+Range of Effective Dose or Exposure 
+The minimally effective brigatinib dose resulting in mean steady-state 
+trough concentrations that exceed the IC50 for inhibition of EML4-ALK and 
+17 ALK secondary mutations associated with clinical resistance to crizotinib 
+is 60 mg. Following 60 mg QD, the steady-state maximum concentrations 
+exceed the IC90 for inhibition of EML4-ALK and 17 ALK secondary mutations 
+associated with clinical resistance to crizotinib. 
+Maximally Tolerated Dose or 
+Exposure 
+The maximum tolerated dose (MTD) was not reached at the highest 
+evaluated dose of 300 mg QD. 
+Dose Proportionality 
+After a single dose and at steady-state, brigatinib systemic exposure was 
+dose proportional over the range of 30 mg to 240 mg QD. After a single 
+dose of 30 to 300 mg, exposures were approximately dose proportional 
+with an estimated slope of 1.2 (90% CI: 1.0, 1.4) for AUC0-24h and 1.2 (90% 
+CI: 0.96, 1.3) for Cmax using a power model. After repeat doses of 30 to 240 
+mg, exposures were approximately dose proportional with an estimated 
+slope of 1.2 (90% CI: 1.0, 1.4) for AUCss and 1.2 (90% CI: 0.96, 1.4) for Cmax,ss. 
+Accumulation 
+The geometric mean accumulation ratio following brigatinib 180 mg QD was 
+1.9 to 2.4-fold. 
+Variability 
+ 
+Following brigatinib 90 mg QD, the inter-subject variability (CV%) of 
+steady-state AUC0-tau was 57% and Cmax was 65%. 
+ 
+Following brigatinib 180 mg QD, the CV% of steady-state AUC0-tau was 
+56% and Cmax was 60%. 
+Absorption 
+Bioavailability  
+The 30 mg and 90 mg tablet formulations for oral administration were 
+bioequivalent (geometric mean ratios and 90% CI for AUC and Cmax fell 
+within the boundaries of 80% to 125%).   
+Tmax  
+ 
+Following brigatinib 90 mg QD, the median tmax is 2 hours (range 1 to 8 
+hours). 
+ 
+Following brigatinib 180 mg QD, the median tmax is 2.1 hours (range 0.5 
+to 6.2 hours).    
+Food effect a 
+(Fed/fasted)  
+AUC0-∞ 
+Cmax 
+Tmax 
+Geometric Mean Ratio 
+[90% CI] 
+0.98  
+[0.894-1.07] 
+ Geometric Mean Ratio 
+[90% CI] 
+0.87  
+[0.783-0.968] 
+  
+Increased by a 
+median of 3 hours  
+a After a high-fat meal consisting of approximately 920 calories 
+and 57.8 grams carbohydrate (25%, ~230 calories), 58.9 grams fat 
+(58%, ~530 calories), and 39.5 grams protein (17%, ~160 calories). 
+Distribution 
+Volume of Distribution  
+Following brigatinib 180 mg QD, the geometric mean (%CV) apparent 
+volume of distribution (Vd/F) at steady-state was 153 L (47%). 
+Plasma Protein Binding 
+Brigatinib is 66% bound to human plasma proteins and the binding is not 
+concentration-dependent in vitro. 
+As Substrate of Transporters 
+ 
+ 
+Substrate of p-glycoprotein (P-gp) and breast cancer resistance protein 
+(BCRP).  
+ 
+Not a substrate of organic anion transporting polypeptide (OATP1B1, 
+Reference ID: 4090771
+
+
+===== PAGE 66 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+65 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+OATP1B3), organic anion transporter (OAT1, OAT3), organic cation 
+transporter (OCT1, OCT2), multidrug and toxin extrusion protein 
+(MATE1, MATE2K), or bile salt export pump (BSEP). 
+Elimination 
+Terminal Elimination Half-Life  
+The mean (%CV) elimination half-life (t1/2) of brigatinib at steady-state was 
+25 hours (30%). Following oral administration of brigatinib 180 mg once 
+daily, the mean (%CV) apparent oral clearance (CL/F) of brigatinib at steady-
+state is 12.7 L/h (70%). 
+Effective Elimination Half-Life  
+The effective t1/2 is similar to the terminal elimination t1/2. 
+Metabolism 
+Fraction Metabolized (% dose) 
+Based on the mean percentage of the dose recovered as metabolites in the 
+excreta, the fraction metabolized is 42%.  
+Primary Metabolic Pathway(s)  
+The major metabolic pathways of brigatinib is N-demethylation and cysteine 
+conjugation to form AP26123 by CYP2C8 (72%) and CYP3A4 (28%) in vitro. 
+Excretion 
+Primary Excretion Pathways 
+(% dose) ±SD 
+ 
+Feces: 65% ± 2.4% (41% unchanged brigatinib). 
+ 
+Urine: 25% ± 1.9% (86% unchanged brigatinib). 
+Interaction liability (Drug as Perpetrator) 
+Inhibition/Induction of Metabolism 
+ 
+Not an inhibitor of CYP1A2, 2B6, 2C8, 2C9, 2C19, 2D6, or 3A4/5 in vitro. 
+ 
+Brigatinib activated pregnane X receptor (PXR) in vitro, which may co-
+induce CYP3A and CYP2C; Induction of CYP3A4 mRNA (mean 6-fold change 
+at 1 µM), but no induction of CYP3A4 activity. 
+ 
+Not an inducer of CYP1A2 or CYP2B6 mRNA or activity. 
+ 
+Coadministration of itraconazole (a strong CYP3A4 inhibitor) 200 mg BID 
+with a single dose of 90 mg brigatinib increased brigatinib AUC by 2-fold 
+(90% CI: 1.8, 2.2) and Cmax by 21% (90% CI: 13%, 30%) as compared with 
+brigatinib alone. 
+ 
+Coadministration of rifampin (a strong CYP3A4 inducer) 600 mg QD with a 
+single dose of 180 mg brigatinib decreased brigatinib AUC by 80% (90% CI: 
+79%, 82%) and Cmax by 60% (90% CI: 56%, 63%) as compared with brigatinib
+alone. 
+ 
+Coadministration of gemfibrozil (a strong CYP2C8 inhibitor) 600 mg BID 
+with a single dose of 90 mg brigatinib decreased brigatinib AUC by 12% 
+(90% CI: 6%, 17%) and Cmax by 41% (90% CI: 35%, 46%) as compared with 
+brigatinib alone. 
+Inhibition/Induction of Transporter 
+Systems 
+ 
+Inhibitor of P-gp, BCRP, OCT1, MATE1 and MATE2K in vitro. 
+ 
+Not an inhibitor of OATP1B1, OATP1B3, OAT1, OAT3, OCT2, or BSEP in 
+vitro. 
+* PK parameters are presented as geometric mean (%CV) or median (minimum, maximum) unless otherwise noted. 
+   
+Reference ID: 4090771
+
+
+===== PAGE 70 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+69 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+healthy subjects resulted in no change in AUC and 13% decrease in Cmax and increased tmax by a 
+median of 3 hours as compared to fasted conditions (Table 17). A preliminary food effect study 
+in 8 healthy subjects administered the 30 mg tablet formulation (AP26113-13-103) showed 
+similar results; a high-fat meal resulted in no change in AUC and 24% decrease in Cmax. These 
+results support the labeling recommendation of administering brigatinib with or without food.    
+ 
+Table 17: PK Parameters of a Single Dose of Brigatinib after a High-Fat Meal as Compared 
+with a Fasted State  
+ 
+Exposure Parameter 
+Geometric Mean (%CV) 
+ 
+High-Fat Meal 
+ Fasted State  
+Geometric Mean Ratio* 
+(90% CI) 
+AUC0-168h (ng∙hr/mL) 
+  12742 (26.7) 
+n=24 
+13054 (30.1) 
+n=21 
+0.98  
+(0.894-1.07) 
+AUC0-inf (ng∙hr/mL) 
+12944 (26.6) 
+n=24 
+13261 (29.8) 
+n=21 
+0.98  
+(0.894-1.07) 
+Cmax (ng/mL) 
+605 (25.2) 
+n=24 
+ 701 (36.6) 
+n=21 
+0.87  
+(0.783-0.968) 
+* Brigatinib 90 mg (to-be-marketed tablet) administered with a high-fat meal (test) vs. a fasted state 
+(reference) 
+Source: AP26113-16-109 Final Study Report; Tables 7, 8; Pages 49, 50. 
+ 
+Drug-Drug Interactions 
+ 
+Effects of Other Drugs on Brigatinib 
+ 
+The effects of itraconazole (a strong CYP3A4 inhibitor), rifampin (a strong CYP3A4 inducer), and 
+gemfibrozil (a strong CYP2C8 inhibitor) on brigatinib PK were evaluated in a single dose, 
+randomized, crossover study with a washout period of 16 days in healthy subjects (Study 
+AP26113-15-105). PK samples for brigatinib were adequately collected from pre-dose to 120 
+hours post-dose. 
+ 
+Strong CYP3A Inhibitors: Coadministration of itraconazole 200 mg BID for 5 days with a single 
+dose of 90 mg brigatinib increased brigatinib AUC by 2-fold (90% CI: 1.8, 2.2) and Cmax by 21% 
+(90% CI: 13%, 30%) as compared with brigatinib alone (Table 18). Clearance (CL/F) of brigatinib 
+was decreased by 52% from 14 L/h to 6.7 L/h with coadministration of itraconazole. Based on 
+the dose-response relationship for safety showing increased incidence of adverse reactions and 
+dose reductions/interruptions due to adverse reactions in Arm B (90/180 mg QD) compared to 
+Reference ID: 4090771
+
+
+===== PAGE 71 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+70 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Arm A (90 mg QD) (Table 16) and exposure-response for safety (Figure 7), a 2-fold increase in 
+exposure is clinically meaningful; therefore, concomitant use of strong CYP3A inhibitors with 
+brigatinib should be avoided. For patients requiring concomitant use of a strong CYP3A 
+inhibitor, the brigatinib once daily dose should be reduced by approximately 50% (i.e., 180 mg 
+to 90 mg or 90 mg to 60 mg). Given the lack of clinical data in patients to inform the magnitude 
+and clinical relevance of a potential increase in exposure with coadministration of moderate 
+CYP3A4 inhibitors, the Applicant is requested to assess the effect of moderate CYP3A4 
+inhibitors on brigatinib PK and to determine dosing recommendations by conducting either a 
+PBPK modeling or dedicated DDI study under a PMR. 
+ 
+Table 18: Comparative Analysis of Brigatinib PK Parameters on Day 1 (Without Itraconazole) 
+and Day 21 (With Itraconazole)  
+ 
+ 
+Geometric Mean (%CV) 
+ 
+Exposure parameter 
+Brigatinib alone   (90 
+mg) 
+ Brigatinib (90 mg) with 
+itraconazole (200 mg 
+BID for 7 days) 
+Geometric Mean 
+Ratio* (90% CI) 
+AUC0-120h (ng∙hr/mL) 
+6139 (28.5) 
+n=20 
+11178 (31.2) 
+n=20 
+1.82  
+(1.72, 1.93) 
+AUC0-inf (ng∙hr/mL) 
+6452 (28.7) 
+n=20 
+13501 (35.6) 
+n=11 
+2.01  
+(1.84, 2.20) 
+Cmax (ng/mL) 
+331 (31.9) 
+n=20 
+401 (38.4) 
+n=20 
+1.21  
+(1.13, 1.30) 
+* Brigatinib 90 mg alone vs. brigatinib 90 mg and itraconazole 200 mg BID for 5 days 
+Source: AP26113-15-105 Final Study Report, Tables 14, 16, Pages 96, 100.  
+ 
+Strong CYP3A Inducers: Coadministration of rifampin 600 mg QD for 7 days with a single dose of 
+180 mg brigatinib decreased brigatinib AUC by 80% (90% CI: 79%, 82%) and Cmax by 60% (90% 
+CI: 56%, 63%) as compared with brigatinib alone (Table 19). Clearance (CL/F) of brigatinib was 
+increased by 4.1-fold from 11.5 L/h to 59 L/h with coadministration of rifampin; therefore, 
+concomitant use of strong CYP3A inducers with brigatinib should be avoided. Although 70% of 
+the patient population presented with brain metastases, an analysis of concomitant 
+medications from Study 201 and Study 101 showed that patients were generally able to avoid 
+antiepileptics that are strong CYP3A4 inducers such as carbamazepine, phenytoin, and 
+phenobarbital. Patients were able to receive other antiepileptics that do not induce CYP3A4 
+such as levetiracetam, lamotrigine, lacosamide, valproate sodium, zonisamide, gabapentin, and 
+pregablin. No patients received a moderate CYP3A4 inducer during brigatinib treatment in 
+Reference ID: 4090771
+
+
+===== PAGE 72 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+71 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Study 201 and Study 101. Given the lack of clinical data in patients to inform the magnitude and 
+clinical relevance of a potential decrease in exposure with coadministration of moderate 
+CYP3A4 inducers, the applicant is requested to assess the effect of moderate CYP3A4 inducers 
+on brigatinib PK and to determine dosing recommendations by conducting either a PBPK 
+modeling or dedicated DDI study under a PMC. 
+ 
+Table 19. Comparative Analysis of Brigatinib PK Parameters on Day 1 (Without Rifampin) and 
+Day 23 (With Rifampin)  
+ 
+Geometric Mean (%CV) 
+ 
+Exposure parameter 
+Brigatinib alone   (180 
+mg) 
+ Brigatinib (180 mg) 
+with rifampin (600 mg 
+QD for 7 days) 
+Geometric Mean 
+Ratio* (90% CI) 
+AUC0-120h (ng∙hr/mL) 
+15143 (33.8) 
+n=20 
+3019 (25.7) 
+n=19 
+0.20  
+(0.19, 0.22) 
+AUC0-inf (ng∙hr/mL) 
+15616 (34.4) 
+n=20 
+3042 (25.8) 
+n=19 
+0.20  
+(0.18, 0.21) 
+Cmax (ng/mL) 
+826 (31.2) 
+n=20 
+334 (29.2) 
+n=19 
+0.40  
+(0.37, 0.44) 
+* Brigatinib 180 mg alone vs. brigatinib 180 mg and rifampin 600 mg QD for 7 days 
+Source: AP26113-15-105 Final Study Report, Tables 10, 12, Pages 80, 84.  
+ 
+Strong CYP2C8 Inhibitors: Coadministration of gemfibrozil 600 mg BID for 5 days with a single 
+dose of 90 mg brigatinib decreased brigatinib AUC by 12% (90% CI: 6%, 17%) and Cmax by 41% 
+(90% CI: 35%, 46%) as compared with brigatinib alone (Table 20). Clearance (CL/F) of brigatinib 
+was increased by 20% from 13.1 L/h to 15.7 L/h with coadministration of gemfibrozil. The 
+unexpected decrease in AUC and expected increase in clearance with gemfibrozil 
+coadministration are not clinically meaningful. 
+ 
+Reference ID: 4090771
+
+
+===== PAGE 73 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+72 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Table 20. Comparative Analysis of Brigatinib PK Parameters on Day 1 (Without Gemfibrozil) 
+and Day 21 (With Gemfibrozil)  
+ 
+Geometric Mean (%CV) 
+ 
+Exposure parameter 
+Brigatinib alone   (90 
+mg) 
+ Brigatinib (90 mg) with 
+gemfibrozil (600 mg 
+BID for 5 days) 
+Geometric Mean 
+Ratio* (90% CI) 
+AUC0-120h (ng∙hr/mL) 
+6488 (34.2) 
+n=20 
+5340 (27.5) 
+n=19 
+0.85  
+(0.80, 0.91) 
+AUC0-inf (ng∙hr/mL) 
+6875 (33.9) 
+n=19 
+5742 (25.7) 
+n=19 
+0.88  
+(0.83, 0.94) 
+Cmax (ng/mL) 
+348 (40.5) 
+n=20 
+199 (35.8) 
+n=19 
+0.59  
+(0.54, 0.65) 
+* Brigatinib 90 mg alone vs. brigatinib 90 mg and gemfibrozil 600 mg BID for 5 days 
+Source: AP26113-15-105 Final Study Report, Tables 6, 8, Pages 64, 68.  
+ 
+P-gp and BCRP Inhibitors: In vitro studies indicated that brigatinib is a substrate of the efflux 
+transporters, P-gp and BCRP. Given that brigatinib exhibits high solubility and high permeability 
+in vitro, P-gp and BCRP inhibitors are unlikely to increase plasma concentrations of brigatinib. 
+According to the 2012 draft FDA DDI Guidance, intestinal absorption is not a rate-limiting step 
+for drugs that are highly permeable and highly soluble such as brigatinib; therefore, it is 
+acceptable to not conduct in vivo evaluation of brigatinib with a P-gp or BCRP inhibitor. 
+ 
+Other Transporters: Brigatinib is not a substrate of organic anion transporting polypeptide 
+(OATP1B1, OATP1B3), organic anion transporter (OAT1, OAT3), organic cation transporter 
+(OCT1, OCT2), multidrug and toxin extrusion protein (MATE1, MATE2K), or bile salt export 
+pump (BSEP). 
+ 
+Effects of Brigatinib on Other Drugs 
+ 
+CYP Substrates: Brigatinib and its primary metabolite, AP26123, did not inhibit CYP1A2, 2B6, 
+2C8, 2C9, 2C19, 2D6, or 3A4/5 at clinically relevant concentrations (R1 values ≤ 1.1, Table 21). 
+ 
+ 
+ 
+Reference ID: 4090771
+
+
+===== PAGE 75 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+74 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ 
+Due to potential of brigatinib to induce CYP3A at clinically relevant concentrations, 
+coadministration of brigatinib with CYP3A substrates can result in decreased concentrations 
+and loss of efficacy of CYP3A substrates, including hormonal contraceptives. Estrogen and 
+progestin hormonal contraceptives (including ethinyl estradiol, drospirenone, norgestimate, 
+levonorgestrel, desogestrel, norethindrone, gestodene, norgestrel, ethynodiol diacetate, 
+estradiol valerate, dienogest, ulipristal, etonogestrel, medroxyprogesterone acetate, 
+norelgestromin), administered orally or by other non-oral routes (e.g., vaginal ring, 
+intramuscular injection, transdermal patch, subdermal implant, hormone-releasing intrauterine 
+devices), are primarily metabolized by CYP3A4 and to a lesser extent by CYP2C9/CYP2C19.  
+ 
+The proposed patient population of ALK-positive NSCLC is generally younger than the average 
+NSCLC population (median age of 54 years) and has a higher percentage of females than in the 
+unselected population. Given that brigatinib is a teratogen and may cause decreased 
+concentrations and efficacy of hormonal contraceptives, females of reproductive potential 
+should be advised to use effective non-hormonal contraception during treatment with 
+brigatinib and for at least 4 months after the final dose of brigatinib. 
+ 
+Transporter Substrates: Brigatinib is an inhibitor of P-gp, BCRP, OCT1, and MATE1, MATE2K in 
+vitro (Cmax/IC50 ≥ 0.1, Table 23); therefore, brigatinib may have the potential to increase 
+concentrations of coadministered substrates of these transporters. 
+ 
+Table 23: IC50 and Calculated R values for Brigatinib Inhibition of Transporters 
+Transporter 
+Substrate 
+Brigatinib IC50 (μM) 
+Cmax
+a/IC50   
+P-gp 
+Digoxin 
+1.76 
+1.42 
+BCRP 
+Cladribine 
+10.1 
+0.25 
+OCT1 
+MPP+ 
+N/A b 
+N/A 
+MATE1 
+Metformin 
+0.832 
+3.00 
+MATE2K 
+ASP 
+N/A c 
+N/A 
+a Plasma maximal steady-state concentration (Cmax) of 1452 ng/mL or 2.5 μM   
+b IC50 not calculated; 89% inhibition at 65 µM 
+c IC50 not calculated; 60% inhibition at 20 µM         
+ 
+Source: 13ARIAP1R2 Final Study Report, Tables 47, 53, 67, Pages 45, 49, 60.                                   
+ 
+Reference ID: 4090771
+
+
+===== PAGE 131 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+130 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+12    Postmarketing Requirements and Commitments 
+This application is being approved under accelerated approval regulations 21 CFR 314.510 and 
+therefore contains one requirement to confirm clinical benefit. There are three trials to assess 
+specific safety concerns required under FDAAA 505(o) regulations. In addition there are three 
+agreed upon commitments that will provide additional useful characterization of clinical 
+responses and pharmacokinetic interaction data. The postmarketing requirements and 
+commitments are as follows: 
+Accelerated Approval Requirement under 21 CFR 314.510 Subpart H   
+PMR 3190-1: Conduct and submit the results of at least one multicenter, randomized 
+clinical trial that verifies and describes the clinical benefit of brigatinib in patients with 
+metastatic anaplastic lymphoma kinase positive non-small cell lung cancer (NSCLC). 
+Safety Requirements under FDAAA 505(o) 
+PMR 3190-2: Conduct a physiologically-based pharmacokinetic modeling study to evaluate 
+the effect of repeat doses of a moderate CYP3A4 inhibitor on the single dose 
+pharmacokinetics of brigatinib to address the potential for excessive drug toxicity. 
+PMR 3190-3: Complete a clinical pharmacokinetic trial to determine an appropriate dose of 
+brigatinib to minimize toxicity in patients with renal impairment. 
+PMR 3190-4: Complete a clinical pharmacokinetic trial to determine an appropriate dose of 
+brigatinib to minimize toxicity in patients with hepatic impairment. 
+Postmarketing commitments under 505B regulations  
+PMC 3190-5:  Submit the final analysis of intracranial response duration based upon 
+independent radiology reviewer assessment of imaging data collected for two years 
+following the date of enrollment of the last patient in Study AP26113-13-201.   
+PMC 3190-6: Conduct a physiologically-based pharmacokinetic modeling study to evaluate 
+the effect of repeat doses of a moderate CYP3A4 inducer on the single dose 
+pharmacokinetics of brigatinib to assess the magnitude of decreased drug exposure and to 
+determine appropriate dosing recommendations.   
+PMC 3190-7: Conduct a clinical pharmacokinetic trial to evaluate the effect of repeat doses 
+of brigatinib on the single dose pharmacokinetics of midazolam (a sensitive CYP3A4 
+substrate) to assess the magnitude of decreased exposures of a sensitive CYP3A4 substrate 
+and to determine appropriate dosing recommendations. 
+ 
+ 
+Reference ID: 4090771
+
+
+===== PAGE 143 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+142 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+The proposed dose reduction strategy in the event of adverse reactions to the lowest 
+acceptable dose of 60 mg QD is reasonable as the minimally effective brigatinib dose resulting 
+in mean steady-state trough concentrations that exceed the IC50 for inhibition of EML4-ALK and 
+17 ALK secondary mutations associated with clinical resistance to crizotinib is 60 mg. Following 
+60 mg QD, the steady-state maximum concentrations exceed the IC90 for inhibition of EML4-ALK 
+and 17 ALK secondary mutations associated with clinical resistance to crizotinib. In summary, 
+the overall safety profile and low incidence of dose modification (20%) observed in Arm B 
+support the use of the proposed higher dose (90/180 mg) with dose modification in the event 
+of adverse reactions. 
+2.1.2 Do the findings based on PopPK analysis support clinical pharmacology 
+labeling? 
+Yes, the PopPK analysis results support labeling the effect of hepatic/renal impairment on 
+brigatinib exposure.  
+ 
+The dedicated clinical pharmacology studies about the effect of renal/hepatic impairment on 
+brigatinib PK are ongoing, so the clinical pharmacological labeling about renal/hepatic 
+impairment on brigatinib pharmacokinetics for this review cycle is based on PopPK analysis 
+results shown in Figure 10. The figure indicated no clinically meaningful effect of mild to 
+moderate renal impairment or mild hepatic impairment on the exposure of brigatinib.  
+ 
+Figure 10: The Effect of Organ Impairment on Brigatinib Clearance 
+Note: Number of patients in each category of renal impairment is based on creatinine clearance (CrCL). 
+Source: FDA reviewer’s graphics based on applicant’s final population pharmacokinetics analysis run3001. 
+ 
+Reference ID: 4090771
+
+
+===== PAGE 144 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+143 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+3 
+Sponsor’s Population Pharmacokinetics and E-R Analysis 
+ 
+3.1 
+PopPK Analysis 
+Reviewer note: The information shaded in grey is copied from the Applicant’s NDA 
+submission. 
+Data: The analysis dataset comprised of data from 443 subjects in total (338 patients and 105 
+healthy subjects) who contributed 5875 pharmacokinetic (PK) observations. Patients (N = 137) 
+in study AP26113-11-101 received continuous daily doses of brigatinib in multiple 4-week 
+cycles. Brigatinib was administered according to three treatment regimens in this study: 
+continuous, once daily (QD) dosing (30-300 mg QD, with 300 mg only administered as a single 
+dose on Cycle 1 Day 1 (C1D1)); twice daily (BID) dosing (60-120 mg BID); or QD at 180 mg after a 
+lead in period of 7 days with 90 mg QD brigatinib. Dense PK sampling was carried out on Cycle 1 
+Day 1 (C1D1) up to 24 hours postdose and on Cycle 2 Day 1 (C2D1) up to 48 hours postdose, 
+and additional trough measurements were obtained prior to dosing on Cycle 1 Days 8, 15, and 
+22 (C1D8, C1D15, C1D22). In total, 2539 PK samples collected in Study AP26113-13-101 were 
+included in the analysis. In Study AP26113-13-102, subjects (N = 36) received single oral doses 
+of 90, 120, or 180 mg brigatinib with dense PK sampling up to 72 hours postdose. In total, 504 
+PK samples collected in Study AP26113-13-102 were included in the analysis. In Study AP26113-
+13-103, subjects (N = 9) received a single oral of 180 mg brigatinib under fasting condition 
+followed by dense PK sampling up to 72 hours postdose. Data obtained after intake of a high-
+fat meal was not included in this analysis. In total, 119 PK samples collected in Study AP26113-
+13-103 were included in the analysis. In Study AP26113-15-105, subjects (n = 60) received a 
+single dose of either 90 mg or 180 mg brigatinib followed by dense PK sampling up to 120 hours 
+postdose. Subjects were subsequently treated with brigatinib after coadministration with 
+gemfibrozil, rifampin or itraconazole. Only PK samples obtained in treatment period 1 after the 
+single dose of brigatinib alone were included in the analysis. In total, 1018 PK samples collected 
+in Study AP26113-13-105 were included in the analysis. In Study AP26113-13-201, patients (N = 
+190) received either continuous QD doses of 90 mg brigatinib (Arm A) or continuous QD doses 
+of 180 mg brigatinib after a 7 day lead in period with 90 mg brigatinib QD (Arm B). PK samples 
+were obtained on C2D1, C3D1, C4D1 and C5D1. In total, 1695 PK samples collected in Study 
+AP26113-13-201 were included in the analysis. 
+ 
+Methods: The pharmacokinetics (PK) of brigatinib was characterized by integrating all PK data 
+into a nonlinear mixed effects model, describing the absorption, disposition, and elimination of 
+brigatinib as well as the variability in PK between subjects and to examine the effect of 
+covariates on the PK. The PopPK analysis was carried out using NONMEM (Version 7.3.0, ICON 
+Development Solutions, Elicott City, MD, USA). The structural compartment model and random 
+effect models were built starting from simple models, increasing in complexity until the data 
+were adequately described without discernible lack of model fit or bias. Subject covariate 
+relationships were examined in a stepwise procedure (stepwise covariate modelling (SCM) in 
+Perl-speaks-Nonmem (PsN) (Lindbom et al., 2005)) to examine the impact of individual subject 
+characteristics (age, body weight (WT), gender, race, creatinine clearance (CLcr), albumin and 
+Reference ID: 4090771
+
+
+===== PAGE 145 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+144 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+alanine aminotransferase (ALT)) on PK model parameters. The final model was qualified by a 
+numerical and graphical assessment of the goodness-of-fit (Figure 12) as well as a visual 
+predictive check (VPC) and was subsequently used to derive exposure estimates for the patients 
+included in Study AP26113-13-201 to allow for future exposure-response analyses. 
+ 
+Results: The brigatinib PK was best described by a three-compartment model with delayed, 
+first-order absorption (Figure 11). A flexible transit compartment absorption model (TCAM) 
+model (Savic et al., 2007) was included to describe variable absorption between subjects. The 
+evaluation of possible effects of subject-specific characteristics on brigatinib PK showed that 
+WT, age and albumin concentration had an impact on the PK of brigatinib. Race, gender, CLcr 
+and ALT did not have an effect on brigatinib PK. There was also no difference observed in the 
+brigatinib PK between the different studies in patients and healthy subjects. 
+ 
+Figure 11: Graphical Representation of the Final Population PK Model 
+ 
+Source: Figure 2 of Applicant’s PopPK Report in Page 29. 
+ 
+The final PopPK parameters are listed in Table 55. Mean brigatinib apparent volume of 
+distribution (V1/F) was 236 L and was identified to increase by 0.97% for every kg increase in 
+WT. A subject of 100 kg is expected to have a 68.6% higher V1/F than a 50 kg subject. 
+ 
+Reference ID: 4090771
+
+
+===== PAGE 147 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+146 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ 
+Source: Figure 5 of Applicant’s PopPK Report in Page 32. 
+ 
+Conclusions: The brigatinib PK was best described by a three-compartment model with delayed, 
+first-order absorption. A flexible TCAM model (mean transit time (MTT) of 0.845 h and number 
+of transit compartments (NTR) equal to 2.74) was included to describe variable absorption 
+between subjects. The evaluation of possible effects of subject-specific characteristics on 
+brigatinib PK showed that WT, age and albumin concentration had an impact on the brigatinib 
+PK. Mean brigatinib V1/F was identified to increase with WT, while mean brigatinib CL/F was 
+identified to increase with WT and albumin concentration and decrease with age. Race, gender, 
+CLcr and ALT did not have an effect on brigatinib PK. There was also no difference observed in 
+the brigatinib PK between the different studies in patients and healthy subjects. Average 
+predicted brigatinib exposure (AUC0-24 and maximum concentration (Cmax)) on C2D1 after 
+administration of 90 or 180 mg brigatinib QD in Study AP26113-13-201 increased proportional 
+with dose and is comparable to the exposure observed in Study AP26113-11-101. 
+ 
+ 
+3.2 
+E-R Analysis  
+Reviewer note: The information shaded in grey is copied from the Applicant’s NDA 
+submission. 
+ 
+Objective: the objective of exposure–response analyses is to evaluate the relationship between 
+brigatinib exposure (represented by the geometric mean of trough concentrations at steady 
+state) and selected efficacy and safety outcomes. 
+ 
+Sample Size: Data from 202 of the 219 treated patients with at least one trough concentration 
+were available for the analysis geometric mean of the trough measurements with efficacy and 
+safety parameters, with the exception of analyses of intracranial efficacy, which are performed 
+on subsets of patients with brain metastases at baseline (see Section 3.2.2 for further detail on 
+these subsets). 
+ 
+Reference ID: 4090771
+
+
+===== PAGE 154 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+153 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+intrapatient variability in concentrations, and the timing of the sampling relative to the 
+outcome. 
+ 
+Overall, these results demonstrate high response rates and durable responses along with an 
+acceptable safety profile across the range of exposures seen with the two dose regimens in this 
+study. 
+ 
+Reviewer’s Comments: The clearance of brigatinib showed some extent of time-dependency as 
+indicated by the declining loess curve of CWRES-Time plot Figure 12; the brigatinib clearance 
+appeared to increase with time, resulted in a population CL of 3-5% higher at steady-state than 
+baseline. This may have introduced uncertainty or variation to the exposure-response analysis 
+when geometric mean trough concentration of Cycles 2-5 was used as exposure metrics. 
+The exposure-response results did not reflect the dose-response for either efficacy or safety 
+observed in Study 201. We conducted independent exploratory analyses to further investigate 
+the ER relationship (4.4.2).   
+ 
+4 
+Reviewer’s Analysis 
+4.1 
+Introduction 
+The PopPK dataset initially submitted by the Applicant had 2 defects: 
+1. Concentration data for 11 patients of Study 201 were missing without explanation.  
+2. Some patients of Study 201 received BID doses, but not reflected in the PopPK dataset. 
+ 
+After an information request, the Applicant submitted revised dataset “nm_pk_26oct2016.csv” 
+and corresponding final model “run3001”. The FDA reviewer’s PopPK analysis was conducted to 
+confirm the analysis, and evaluate the effect of renal/hepatic impairment on brigatinib 
+clearance by linking the output with “NPKOCT16.xpt” to provide information for labeling. 
+ 
+The Applicant’s exposure-efficacy relationship appeared to be inconsistent with the observed 
+dose response relationship. The FDA reviewer conducted exposure-efficacy analysis in two 
+ways: 
+1. Using the mean exposure from Day 1 to the response date for ORR, PFS and OS. 
+2. Using dynamic exposure (for a period of 1 day, 1 week or several weeks) immediately 
+prior to each study day. 
+4.2 
+Objectives 
+The FDA reviewer’s analyses were conducted to:  
+1. Confirm Applicant’s updated PopPK analysis and provide information for clinical 
+pharmacology labeling. 
+2. Explore the E-R relationship for efficacy using new exposure variables.  
+4.3 
+Methods 
+Reference ID: 4090771
+
+
+===== PAGE 156 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+155 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+result of Arm B. On the contrary, there were 8% more Asian patients in Arm A than Arm B (35% 
+vs 27%), which may have favored the efficacy result of Arm A to some extent. In general, ECOG 
+and study region are randomization factors in a non-small cell lung cancer (NSCLC) efficacy 
+study, but they were somehow not considered in Study 201 
+ of 
+brigatinib. 
+ 
+Factor 
+ARM A (90 MG) 
+ARM B (90/180 MG) 
+Asia-Pacific/Europe-North-America 
+35/65 
+26/74 
+White/Asian/Black-NA 
+64/35/1 
+69/27/4 
+Brain Tumor Y/N 
+29/71 
+33/67 
+ECOG 0/1-or-2 
+30/70 
+41/59 
+Crizotinib R/NR 
+62/38 
+65/35 
+BASETMR (mm) 
+66 ± 46 
+48 ± 35 
+NUMSITES 
+3.72 ± 1.47 
+3.39 ± 1.29 
+Source: FDA reviewer’s analysis. 
+ 
+Dynamic exposures-response analysis for PFS and OS 
+Using dynamic exposures, a positive exposure-efficacy relationship was found for PFS and OS. 
+Daily AUC was implemented based on daily dose from file “adexd.xpt” and patient clearance 
+from population PK analysis by simple calculation. 
+CL
+Dose
+Cumulative
+AUC
+dayN
+day
+_
+1
+
+
+ 
+dayi
+day
+i
+day
+day
+dayi
+AUC
+AUC
+AUC
+
+
+
+
+
+1
+)1
+(
+1
+ 
+The log value of daily AUC (i.e., lgAUC1D) was selected based on AIC value comparison of the 
+cox proportional hazard modeling on 10 exposure metrics. The 10 exposure metrics explored 
+were daily AUC (AUC1D), weekly AUC (AUC1W), AUC every 3 weeks (AUC2W), AUC every 3 
+weeks (AUC3W), AUC every 4 weeks (AUC4W), and their log transformed values (lgAUC1D, 
+lgAUC1W, lgAUC2W, lgAUC3W, lgAUC4W). The AIC value of lgAUC1D was the smallest among 
+the 10 metrics for both OS and PFS. 
+ 
+OS hazard ratio (95%CI) of Arm B vs Arm A was estimated to be 0.954 (0.936, 0.971) based on 
+model: 
+lgf1d<-coxph(Surv(START, STOP,EVENT )~lgAUC1D + ECOGBLN, data=dta) 
+ 
+The OS hazard ratio was estimated to be 0.956 (0.940, 0.972) based on univariate model: 
+lgf1d<-coxph(Surv(START, STOP,EVENT )~lgAUC1D, data=dta) 
+ 
+Reference ID: 4090771
+(b) (4)
+
+
+===== PAGE 157 =====
+
+NDA 208772 Multidisciplinary Review and Evaluation 
+ALUNBRIG (brigatinib) 
+ 
+ 
+ 
+156 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+PFS hazard ratio (95%CI) of Arm B vs Arm A was estimated to be 0.975 (0.969, 0.981) based on 
+model: 
+lgf1d<-coxph(Surv(START, STOP,EVENT)~lgAUC1D+NUMSITES+ BASEDIAM,, data=dta) 
+ 
+The PFS hazard ratio was estimated to be 0.976 (0.970, 0. 982) based on univariate model: 
+lgf1d<-coxph(Surv(START, STOP,EVENT )~lgAUC1D, data=dta) 
+ 
+Exposure-efficacy analysis based on accumulated dose 
+Mean daily AUC to response date (AUC2ResponseDate) was implemented based on daily dose from 
+file “adexd.xpt”, response data “adeff.xpt”, and patient clearance from population PK analysis 
+by simple calculation. 
+CL
+Date
+sponse
+to
+Dose
+Cumulative
+AUC
+sponseDate
+_
+Re
+_
+_
+_
+Re
+2
+
+ 
+The binominal logistic regression model was implemented to OR, and COXPH models were 
+implemented to OS/PFS data with covariates for study region (REGION and associated RACE) 
+and disease condition (DIAGBRN + PCBRESPN + ECOGBLN + NUMSITES + BASEDIAM) 
+considered. The results are listed in Table 53. DIAGBRN is the brain metastases at study entry 
+with values “Yes” or “No”; PCBRESPN is the best response to prior crizotinib regimen with value 
+1 for complete response or partial response and 0 for otherwise; ECOGBLN is the baseline ECOG 
+performance status with values of 0, 1 or 2; NUMSITES is the number of metastatic sites at 
+study entry with values of 1 to 9; and BASEDIAM is the sum of diameters (in mm) of target 
+lesions at baseline. 
+4.4.3 Exposure-Safety Analysis 
+Mean daily AUC to from Day 8 to Day 14 was implemented based on daily dose data from file 
+“adexd.xpt” and patient clearance (CL) from population PK analysis by simple calculation. 
+CL
+Day
+to
+Day
+from
+Dose
+Cumulative
+AUC
+Daily
+Mean
+*
+7
+14
+_
+_
+8
+_
+_
+_
+_
+_
+
+ 
+The binominal logistic regression model was implemented to adverse event (AE) data with 
+Mean_Daily_AUC as predictor. The result for Grade 3 and higher AE is shown in Figure 9. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 4090771
+
+
+===== PAGE 186 =====
+
+5 
+ 
+Filing Memo 
+ 
+The following Clinical pharmacology/Pharmacometrics information requests were conveyed to the Applicant:  
+1. 
+Submit the analysis datasets and analysis programs (if applicable) associated with the following reports:  
+a. 
+"Population Pharmacokinetic Analysis of Brigatinib Based on Phase 1 and Phase 2 PK Data" 
+b. 
+"Analyses of the Relationship between Brigatinib Exposure and Selected Safety and Efficacy 
+Outcomes"  
+c. 
+"Exposure Response Analyses of Brigatinib in the ALTA study (AP26113-13-201)" 
+2. 
+With regards to the effect of organ dysfunction on brigatinib exposure: 
+a. 
+Update the population pharmacokinetic dataset with the classification of renal and hepatic 
+function of patients: 
+• Normal renal function, mild, moderate, or severe renal impairment based on CLcr and/or 
+eGFR.  
+• Normal hepatic function, mild, moderate, or severe hepatic impairment based on NCI 
+criteria. 
+b. 
+Include available renal and hepatic function parameters such as SCr, CLcr calculated by the 
+Cockcroft Gault equation and/or eGFR calculated by MDRD, AST/ALT, total bilirubin, etc. for 
+each patient. 
+c. 
+Use boxplot to compare the population PK derived exposure (e.g., AUC, CL/F) between patients 
+with normal renal function and patients with mild, moderate, or severe (if any) renal impairment 
+with the sample size of each category listed below the box. 
+d. 
+Use boxplot to compare the population PK derived exposure (e.g., AUC, CL/F) between patients 
+with normal hepatic function and patients with mild, moderate, or severe (if any) hepatic 
+impairment (based on NCI criteria), with the sample size of each category listed below the box. 
+3. 
+With regards to the dose recommendation for concomitant use of moderate CYP3A4 inducers: 
+a. 
+Provide a comparison of brigatinib exposure between patients with and without concomitant use 
+of moderate CYP3A4 inducers (including dexamethasone) using data from Studies 101 and 201. 
+Identify the patients with concomitant use of moderate CYP3A4 inducers and include 
+information on the dose and duration of the moderate CYP3A4 inducer and time of 
+administration with respect to brigatinib.  
+b. 
+Provide justification for your proposed labeling recommendation to avoid concomitant use of 
+moderate CYP3A4 inducers supported by PBPK modeling and simulation.  
+c. 
+In the absence of PBPK analyses, propose a postmarketing study to assess the effect of moderate 
+CYP3A4 inducers on brigatinib systemic exposure.  
+Reference ID: 4003420

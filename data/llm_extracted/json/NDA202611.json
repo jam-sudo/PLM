@@ -1,0 +1,90 @@
+{
+  "nda": "NDA202611",
+  "drug_name": "mirabegron",
+  "pk_tuples": [
+    {
+      "dose_mg": 50.0, "dose_original": "50 mg",
+      "route": "oral",
+      "formulation": "ER",
+      "food": "fasted",
+      "population": "healthy_adult",
+      "n_subjects": 145, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 33.0, "tmax_h": null,
+      "auc_inf_ng_h_ml": 340.0, "auc_last_ng_h_ml": null,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 48, "confidence": "high", "notes": "Pooled analysis Table 2.3.1.1.1, 18-45 years, OCAS modified release film coated tablet"
+    },
+    {
+      "dose_mg": 50.0, "dose_original": "50 mg",
+      "route": "oral",
+      "formulation": "ER",
+      "food": "fasted",
+      "population": "elderly",
+      "n_subjects": 18, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 29.1, "tmax_h": null,
+      "auc_inf_ng_h_ml": 314.0, "auc_last_ng_h_ml": null,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 48, "confidence": "high", "notes": "Pooled analysis Table 2.3.1.1.1, 46-64 years"
+    },
+    {
+      "dose_mg": 50.0, "dose_original": "50 mg",
+      "route": "oral",
+      "formulation": "ER",
+      "food": "fasted",
+      "population": "elderly",
+      "n_subjects": 11, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 32.1, "tmax_h": null,
+      "auc_inf_ng_h_ml": 308.0, "auc_last_ng_h_ml": null,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 48, "confidence": "high", "notes": "Pooled analysis Table 2.3.1.1.1, 65-74 years"
+    },
+    {
+      "dose_mg": 50.0, "dose_original": "50 mg",
+      "route": "oral",
+      "formulation": "ER",
+      "food": "fasted",
+      "population": "healthy_adult",
+      "n_subjects": 35, "dose_schedule": "steady_state",
+      "cmax_ng_ml": 50.4, "tmax_h": null,
+      "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": null,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 48, "confidence": "high", "notes": "Multiple dose, 18-45 years; AUC for 100 mg dose column not 50 mg"
+    },
+    {
+      "dose_mg": 100.0, "dose_original": "100 mg",
+      "route": "oral",
+      "formulation": "ER",
+      "food": "fasted",
+      "population": "healthy_adult",
+      "n_subjects": null, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 46.6, "tmax_h": null,
+      "auc_inf_ng_h_ml": 550.0, "auc_last_ng_h_ml": null,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 57, "confidence": "high", "notes": "Study 178-CL-039 healthy controls matched to hepatic study"
+    },
+    {
+      "dose_mg": 100.0, "dose_original": "100 mg",
+      "route": "oral",
+      "formulation": "ER",
+      "food": "fasted",
+      "population": "hepatic_impaired",
+      "n_subjects": null, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 50.7, "tmax_h": null,
+      "auc_inf_ng_h_ml": 655.0, "auc_last_ng_h_ml": null,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 57, "confidence": "high", "notes": "Study 178-CL-039 mild hepatic impairment (Child-Pugh A)"
+    },
+    {
+      "dose_mg": 100.0, "dose_original": "100 mg",
+      "route": "oral",
+      "formulation": "ER",
+      "food": "fasted",
+      "population": "hepatic_impaired",
+      "n_subjects": null, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 87.1, "tmax_h": null,
+      "auc_inf_ng_h_ml": 699.0, "auc_last_ng_h_ml": null,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 57, "confidence": "high", "notes": "Study 178-CL-039 moderate hepatic impairment (Child-Pugh B)"
+    }
+  ]
+}

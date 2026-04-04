@@ -1,0 +1,1893 @@
+
+
+===== PAGE 6 =====
+
+ 
+NDA 202324 Review – Axitinib 
+2 
+4 
+Appendices.....................................................................................................................................63 
+4.1 
+PHARMACOMETRICS REVIEW...................................................................................63 
+4. 2 
+PHARMACOGEMOMICS Review..................................................................................79 
+4.3 
+NDA Filing and Review Form ..........................................................................................88 
+ 
+Index of Tables 
+Table 1. Progression free survival (PFS) in patients with advanced RCC (A4061032). ..............................8 
+Table 2. Overview of Clinical Pharmacology Related Studies Submitted in NDA......................................9 
+Table 3. Summary of Axitinib PK Parameters in Healthy Volunteers and Patients by Study and Treatment 
+Group Following a Single 5 mg Oral Dose of Axitinib in the Fed State. ..........................................16 
+Table 4. Pharmacokinetic Parameters for Axitinib 
+ after Administration of 
+single doses of 5 mg and multiple doses of 5 mg twice daily under Fed Conditions in Patients with 
+Cancer. ...............................................................................................................................................17 
+Table 5. Estimated Geometric Means and Ratios with Associated 90% CI for Pharmacokinetic Parameters 
+of Axitinib (total and unbound) Comparing Healthy Volunteers with Mild or Moderate Hepatic 
+Impairment to Volunteers without Hepatic Impairment in Study A4061036. ...................................28 
+Table 6. Geometric mean (CV%) Pharmacokinetic Parameters for Axitinib (total and unbound) after 
+Administration of 5 mg in Healthy Volunteers with Mild or Moderate Hepatic Impairment and 
+Volunteers without Hepatic Impairment in Study A4061036............................................................29 
+Table 7. Geometric mean (CV%) Pharmacokinetic Parameters for Axitinib (unbound) after 
+Administration of 5 mg in Healthy Volunteers with Mild or Moderate Hepatic Impairment and 
+Volunteers without Hepatic Impairment in Study A4061036............................................................29 
+Table 8. Estimated Geometric Means and Ratios with Associated 90% CI for Pharmacokinetic Parameters 
+of Axitinib (unbound) Comparing Healthy Volunteers with Mild or Moderate Hepatic Impairment to 
+Volunteers without Hepatic Impairment in Study A4061036............................................................29 
+Table 9. Ki values (µM) for axitinib inhibition of CYP activities in human liver microsomes (study PDM-
+020). ...................................................................................................................................................32 
+Table 10. Effect of increasing Axitinib (AG-013736) concentration on MDR1-MDCK permeability, 
+efflux and inhibition...........................................................................................................................33 
+Table 11. Digoxin Papp and net secretory flux values across Caco-2 cell monolayers in the presence of 
+increasing concentrations of axitinib..................................................................................................34 
+Table 12. Effect of increasing axitinib concentration on BCRP-MDCK permeability, efflux and 
+inhibition. ...........................................................................................................................................35 
+Table 13. Effect of increasing axitinib concentration on OATP efflux. .....................................................35 
+Table 14. Geometric mean (95% CI) pharmacokinetic parameters of axitinib with and without multiple 
+doses of ketoconazole.........................................................................................................................36 
+Table 15. Effect of multiple doses of ketoconazole on the pharmacokinetics of single dose of axitinib in 
+Study A40601004. Test = AG-013736 (axitinib) 5 mg + ketoconazole 400 mg qd (N=28); Reference 
+= axitinib 5 mg (AUC, N=31; Cmax: N=32). ....................................................................................36 
+Table 16. Geometric mean (CV%) pharmacokinetic parameters of axitinib with and without multiple 
+doses of rifampin................................................................................................................................37 
+Reference ID: 3072768
+(b) (4)
+
+
+===== PAGE 7 =====
+
+ 
+NDA 202324 Review – Axitinib 
+3 
+Table 17. Effect of multiple doses of rifampin (600 mg once daily) on the single-dose pharmacokinetic 
+parameters of axitinib.  Test = axitinib 5 mg + Rifampin 600 mg QD; Reference = axitinib 5 mg...38 
+Table 18. Mean (CV%) every 3 week paclitaxel plasma pharmacokinetic parameters for Cohorts 1-3. 
+Data from 2 subjects were excluded due to PK samples not being collected on Cycle 1 Day 1........39 
+Table 19. Mean (CV%) weekly paclitaxel plasma pharmacokinetic parameters for Cohort 4. Data from 1 
+subject excluded due to PK samples not being collected on Cycle 2 Day 1......................................39 
+Table 20. Comparison of Plasma Pharmacokinetics of axitinib in the presence and absence of rabeprazole.
+............................................................................................................................................................40 
+Table 21. Solubility of Axitinib in Aqueous Media as a Function of pH at 20°C for at least 24 Hours.....41 
+Table 22. Solubility of Axitinib in Organic Solvents after Equilibration for at least 24 hours at 20°C. ....41 
+Table 23. Composition of Axitinib Film-Coated Immediate Release 1 mg and 5 mg Tablets...................42 
+Table 24. Descriptive Summary of Pharmacokinetic Parameters of Axitinib 5 mg Administration under 
+Fasting Conditions, after administration with a Standardized Moderate-fat Meal, or a High-fat Meal 
+in Study A4061053.............................................................................................................................43 
+Table 25. Estimated Geometric Means and Ratios with Associated 90% CI for Pharmacokinetic 
+Parameters of Axitinib Comparing Administration of 5 mg under Fasting Conditions Versus 
+Administration with Standardized Moderate-fat or High-fat Meals in Study A4061053. .................43 
+Table 26. Summary of Bioanalytical Methods Used in Clinical Studies for Pharmacokinetic 
+Measurements of Axitinib..................................................................................................................46 
+ 
+Index of Figures 
+Figure 1. Structural Formula of axitinib. ......................................................................................................7 
+Figure 2. Exposure dependent increase in hypertension (left) and proteinuria (right). Reduction of Dose 
+from 5 to 3 mg bid will reduce the risk of hypertension and proteinuria...........................................13 
+Figure 3. Occurrence of Diarrhea and Fatigue Increases with Axitinib Exposures....................................13 
+Figure 4. Dose Titration Based on Tolerability Reduces Variability in Axitinib Exposures......................14 
+Figure 5. No effect of healthy vs. patients on the clearance of axitinib......................................................18 
+Figure 6. Median Cumulative Percent of Radioactive Dose Recovered in Urine and Feces at Specified 
+Intervals after a Single 5 mg (100 µCi) Oral Dose of [14C]-axitinib to Healthy Male Subjects in 
+Study A4061003 (N=6)......................................................................................................................20 
+Figure 7. Proposed In Vivo Axitinib Metabolic Schema.............................................................................21 
+Figure 8. Single dose Log AUCinf (ng*h/mL) vs. Log of Dose (mg) in the Dose Proportionality Studies 
+(A4060010, A4061044, and A4061050) in the Dose Range of 2 to 30 mg.......................................23 
+Figure 9. Steady-state Log AUC0-24 (ng*h/mL) vs. Log of the Total Daily Dose (mg) in the Dose 
+Proportionality Studies (A4060010 and A4061019) in the Dose Range of 1 to 20 mg Twice Daily.23 
+Figure 10. No effect of gender on the clearance of axitinib........................................................................24 
+Figure 11. Axitinib clearance in Japanese vs. non-Japanese patients from the popPK model. ..................25 
+Figure 12. No effect of weight on the clearance of axitinib........................................................................25 
+Figure 13. Axitinib clearance in <60 and >60 year subjects.......................................................................26 
+Figure 14. No effect of UGT1A1*28 (left) and CYP2C19 (right) genotype on axitinib clearance............26 
+Reference ID: 3072768
+
+
+===== PAGE 8 =====
+
+ 
+NDA 202324 Review – Axitinib 
+4 
+Figure 15. No effect of CrCL in axitinib clearance (left) and individual observed and median with 25th - 
+75th percentile range Axitinib Clearance (L/h) after Administration of 5 mg in Healthy Volunteers 
+and/or Patients with Normal (N=381), Mild (N=139), Moderate (N=64), Severe (N=5), or End-stage 
+(N=1) Renal Impairment (right).........................................................................................................27 
+Figure 16. Individual and Geometric mean with 95% CI Axitinib (total and unbound) AUClast (ng*h/ml) 
+after Administration of 5 mg in Healthy Volunteers with Mild or Moderate Hepatic Impairment and 
+Volunteers without Hepatic Impairment in Study A4061036............................................................28 
+Figure 17. Axitinib clearance in non-smokers, active-smokers and ex-smokers........................................31 
+Figure 18. The median time-concentration profiles of axitinib in healthy subjects on a semi-log scale, 
+following a  single 5 mg oral axitinib dose alone (N=31) or coadministered with 400 mg 
+ketoconazole once daily (N=28) in a 2-treatment, 2-period, 2-sequence crossover design. ..............37 
+Figure 19. The median time-concentration profiles of axitinib in healthy subjects on a semi-log scale, 
+following a  single 5 mg oral axitinib dose alone (N=40) or coadministered with 600 mg rifampin 
+once daily (N=39) in a 2-treatment, 2-period, 2-sequence crossover design. ....................................38 
+ 
+1 
+Executive Summary   
+ 
+Axitinib is a tyrosine kinase inhibitor of vascular endothelial growth factor (VEGFR)-1, -2, and -
+3. The current submission is the original NDA for axitinib for the treatment of advanced renal 
+cell carcinoma (RCC).  
+ 
+To support the efficacy in advanced renal cell carcinoma, the sponsor conducted one 
+randomized, controlled phase 3 trial. Patients in the phase 3 trial were randomized to receive 
+axitinib tablets 5 mg twice daily or sorafenib 400 mg twice daily. Progression free survival (PFS) 
+was the primary endpoint. The median PFS for the axitinib treatment arm was 6.7 months 
+compared to 4.7 months for patients receiving sorafenib. 
+ 
+Exposure-safety analysis demonstrated that there was exposure dependent increase in 
+hypertension, proteinuria, fatigue, and diarrhea. The proposed dose reduction strategy (5 to 3 to 2 
+mg bid) to manage hypertension and proteinuria is acceptable. Additionally, the dose titration 
+scheme, which is the same as that used in the phase 3 trial (5 to 7 to 10 mg based on tolerability), 
+is reasonable and can reduce variability in axitinib exposures based on observed pharmacokinetic 
+data. 
+ 
+The pharmacokinetics of axitinib has been evaluated in twenty studies in healthy volunteers and 
+cancer patients. Following oral administration, the median axitinib plasma Tmax ranges between 
+2.5 – 4.1 hours and the mean half-life ranges between 2.5 – 6.1 hours. The mean absolute 
+bioavailability of axitinib after an oral 5 mg dose is 58%. A clinically significant effect of food 
+was not observed; axitinib may be administered with or without food. 
+ 
+The results of the hepatic impairment study support the labeling recommendations of reducing 
+the axitinib dose by half for patients with moderate hepatic impairment. No dose adjustment is 
+warranted for patients with mild hepatic impairment. Patients with severe hepatic impairment 
+have not been studied.  Based on the population pharmacokinetic analysis, no adjustment to the 
+starting dose is needed for patients with pre-existing mild, moderate, or severe renal impairment. 
+As only one subject was enrolled with end-stage renal impairment, a definitive conclusion 
+Reference ID: 3072768
+
+
+===== PAGE 9 =====
+
+ 
+NDA 202324 Review – Axitinib 
+5 
+regarding the effect of end-stage renal impairment on axitinib exposure cannot be made.  
+ 
+In vitro data indicate that axitinib is primarily metabolized by CYP3A4/5. In drug-drug 
+interaction studies, ketoconazole (a strong CYP3A4/5 inhibitor) increased axitinib exposure by 
+106%, while rifampin (a strong CYP3A4/5 inducer) decreased axitinib exposure by 80%. 
+Therefore, concomitant use of strong inhibitors or inducers of CYP3A4/5 should be avoided. 
+However, if a strong CYP3A4/5 inhibitor must be co-administered, the axitinib dose should be 
+reduced by half.  
+ 
+1.1 
+Recommendations 
+ 
+The Office of Clinical Pharmacology Divisions of Clinical Pharmacology 5, Pharmacometrics, 
+and Pharmacogenomics have reviewed the information contained in NDA 202324.  This NDA is 
+considered acceptable from a clinical pharmacology perspective. 
+ 
+Labeling Recommendations 
+ 
+Please refer to Section 3 - Detailed Labeling Recommendations. 
+ 
+1.2 
+Phase IV Requirements 
+ 
+None. 
+ 
+1.3 
+Summary of Clinical Pharmacology Findings 
+ 
+Axitinib is a tyrosine kinase inhibitor of vascular endothelial growth factor (VEGFR)-1, -2, and -
+3. Axitinib is being developed for oral use in the treatment of advanced renal cell carcinoma 
+(RCC).  
+ 
+The applicant has conducted twenty studies in healthy volunteers, and patients with cancer to 
+evaluate the safety and pharmacokinetics of axitinib. The Tmax of axitinib typically occurs 2.5-4.1 
+hours following oral administration, and the concentrations of axitinib decreased over time with 
+a half-life of approximately 2.5-6.1 hours after a single 5 mg axitinib oral dose in the fed state. 
+No major deviation from dose proportionality was observed following multiple dosing in the 
+dose range of 1 to 20 mg twice daily. There are no significant differences between the 
+pharmacokinetics in healthy volunteers and patients with cancer. A moderate-fat meal decreased 
+the AUC of axitinib by 10%, while a high-fat increased the AUC of axitinib by 19%. 
+ 
+After administration of radio-labeled axitinib in healthy subjects, approximately 41% of the 
+radioactivity was recovered in feces and approximately 23% was recovered in urine. Unchanged 
+axitinib was not detected in urine, but was the major component identified in feces (12% of the 
+dose). In plasma, unchanged axitinib accounted for approximately 20% of the circulating 
+radioactivity. Two metabolites of axitinib have been detected in human blood and these 
+metabolites showed ≥400-times less activity than axitinib itself. A hepatic impairment study in 
+subjects with moderate hepatic impairment showed that the average AUC was 2-fold higher that 
+found in subjects with normal hepatic function. A dose reduction by 50% for patients with 
+Reference ID: 3072768
+
+
+===== PAGE 10 =====
+
+ 
+NDA 202324 Review – Axitinib 
+6 
+moderate hepatic impairment is recommended. 
+ 
+Axitinib is a substrate of CYP3A4/5, P-glycoprotein, and UGT1A1. Drug-drug interaction 
+studies indicate a 106% increase in axitinib exposure (AUC) when administered with 
+ketoconazole and an 80% reduction in axitinib AUC when administered with rifampin. Axitinib 
+inhibited CYP2C8 (I/Ki=0.15) and 1A2 (I/Ki=0.11) in vitro; however, in vivo, co-administration 
+of axitinib did not increase paclitaxel plasma concentrations, indicating a lack of CYP2C8 
+inhibition. Axitinib was not found to induce any cytochrome P-450 enzymes in vitro. The 
+aqueous solubility of axitinib is pH dependent. Drug-drug interaction studies indicate a 15% 
+decrease in axitinib AUC and 42% decrease in axitinib Cmax when administered rabeprazole. 
+ 
+Exposure-safety analysis was conducted by pooling data from three phase 2 and one phase 3 
+trial. There was exposure dependent increase in hypertension, proteinuria, fatigue, and diarrhea. 
+The proposed dose reduction strategy (5 to 3 to 2 mg bid) to manage hypertension and 
+proteinuria is acceptable since these adverse events are exposure related. Additionally, the dose 
+titration scheme proposed by the sponsor, which is the same as that used in the phase 3 trial (5 to 
+7 to 10 mg based on tolerability), is reasonable and would reduce variability in axitinib 
+exposures. 
+ 
+Signatures: 
+Reviewer:  Sarah J. Schrieber, PharmD  
+Division of Clinical Pharmacology 5 
+ 
+Team Leader:  Qi Liu, PhD 
+Division of Clinical Pharmacology 5 
+Reviewer:  Nitin Mehrotra, PhD  
+Division of Pharmacometrics 
+ 
+Team Leader:  Christine Garnett, PharmD 
+Division of Pharmacometrics 
+Reviewer:  Rosane Charlab-Orbach, PhD  
+Division of Pharmacogenomics 
+ 
+Team Leader:  Issam Zineh, PharmD 
+Division of Pharmacogenomics 
+Division Director, NAM Atiqur Rahman, PhD 
+Division of Clinical Pharmacology 5 
+Cc:  DDOP:  CSO - L Skarupa; MTL - J Johnson; MO - A McKee,  Safety MO -            
+ 
+DCP-
+5:   
+Reviewers - S Schrieber (CP),  N Mehrotra (PM) R Charlab-Orbach (GG) 
+CP TL - Q Liu , PM TL - C Garnett GG TL - I Zineh 
+DDD - B Booth  DD - A Rahman 
+ 
+2 
+QUESTION BASED REVIEW 
+2.1  
+GENERAL ATTRIBUTES 
+ 
+2.1.1  What are the highlights of the chemistry and physical-chemical properties of the 
+drug substance and the formulation of the drug product as they relate to clinical 
+pharmacology and biopharmaceutics review? 
+ 
+Axitinib has been developed as 1 mg and 5 mg film-coated tablets for oral administration. The 1 
+mg tablet is a red oval shaped tablet debossed with “Pfizer” on one side and “1 XNB” on the 
+other. The 5 mg tablet is a red triangular shaped tablet debossed with “Pfizer” on one side and “5 
+XNB” on the other. 
+ 
+Reference ID: 3072768
+
+
+===== PAGE 13 =====
+
+ 
+NDA 202324 Review – Axitinib 
+9 
+ 
+Clinical Pharmacology Reports of data from more than one study: 
+The axitinib plasma concentration data from several studies were used to develop a population 
+pharmacokinetic (popPK) model (reports PMAR-00075, PMAR-00079) to investigate the 
+potential influence of covariates that contribute significantly to between-patient variability in 
+pharmacokinetic parameters of axitinib.  The model was also used to characterize the exposure-
+safety relationships for select adverse events (population PK/PD).   
+ 
+Table 2. Overview of Clinical Pharmacology Related Studies Submitted in NDA. 
+Study 
+Number 
+Start/End 
+Date 
+Study Description/Design 
+Subjects Evaluated 
+Sex M/F 
+Age (yr): Mean (SD) 
+Race 
+(W/B/His/As/Other) 
+Treatment Regimen/ 
+Duration 
+Route of Administration 
+Batch Number 
+Bioavailability Studies 
+A4061007  
+02 Aug 2005/ 19 
+Aug 2005 
+ 
+Phase 1, randomized,  open-label, 
+single-dose, 3-treatment, 2-way 
+crossover study designed to 
+determine the absolute 
+bioavailability of axitinib tablets 
+vs. IV solution formulation in 
+healthy subjects. 
+Subjects: 16 
+Sex: 14 M / 2 F 
+Age (yr): 37.4 (14.9) 
+Race (W/B/Ot): 12/3/1  
+Axitinib 5 mg po with a 7-day washout between 
+each dosing period. Subjects were randomized to 1 
+of 2 treatments sequences (ABC or BAC). 
+Treatment Groups: 
+A: 1 mg axitinib IV fasted 
+B: 5 mg axitinib po fasted 
+C: 5 mg axitinib po fed  
+Formulation: 
+ solution for 
+IV administration 
+Comparative Bioavailability and Bioequivalence Studies 
+A4061021  
+06 Jul 2006/ 15 
+Aug 2006 
+ 
+Phase 1, open-label, randomized, 
+single-dose, 2-sequence, 3-period 
+crossover trial designed to 
+determine the relative 
+bioavailability of 5 mg
+ 
+in 
+fed healthy subjects. 
+Subjects: 40 
+Sex: 38 M / 2 F 
+Age (yr): 33.4 (13.3) 
+Race (W/B/As/Ot): 29/5/3/3 
+ 
+Axitinib 5 mg was administered under fed 
+conditions according to the treatment sequence 
+(ABB or BAA) with a 7 to 10-day washout period 
+between each single dose treatment. 
+Treatment Groups: 
+A: 5 mg axitinib 
+, fed 
+(Reference) 
+B: 5 mg axitinib 
+, fed  
+Formulations: 
+ 
+ 
+A4061033  
+02 Jan 2008/ 21 
+Feb 2008 
+ 
+Phase 1, open-label, single-dose, 
+randomized, 4-sequence, 4-period, 
+crossover study to determine the 
+relative bioavailability of 5 mg 
+ 
+in fed healthy 
+male subjects. 
+Subjects: 56 M 
+Age (yr): 34.6 (10.3) 
+Race (W/B/As/Ot): 27/2/25/2 
+ 
+Axitinib 5 mg was administered under fed 
+conditions according to the treatment sequence 
+(ABCD, BDAC, CADB, or DCBA) with a 7-day 
+washout period between each single dose treatment. 
+Treatment Groups: 
+A: 5 mg axitinib 
+ particle size, 
+fed (Reference) 
+B: 5 mg axitinib 
+ particle size, 
+fed  
+C: 5 mg axitinib 
+ particle size, 
+fed  
+D: 5 mg axitinib 
+, fed  
+Formulations: 
+ 
+ 
+A4061052 
+13 Jul 2009/ 02 
+Sep 2009 
+Phase 1, open-label, randomized, 
+single-dose, 2-sequence, 4-period 
+crossover to establish the 
+bioequivalence of test 5 x1 mg 
+axitinib tablet to reference 1 x 5 
+mg axitinib tablet in fasted healthy 
+male subjects. 
+Subjects: 60 M 
+Age (yr): 30.6 (7.0) 
+Race (As): 60 
+ 
+Axitinib 5 mg was administered under fasted 
+conditions according to the treatment sequence 
+(BABA or ABAB) with a 7-day washout period 
+between each single dose treatment. 
+Treatment Groups: 
+A: 5 mg x 1 axitinib 
+, fasted (Reference) 
+B: 1 mg x 5 axitinib 
+ fasted, 
+Formulation: 
+ 
+A4061053 
+01 Jul 2009/ 18 
+Jul 2009 
+ 
+Phase 1, open-label, randomized, 
+single-dose, 6-sequence, 3-period 
+crossover to assess the effect of 
+food vs. fasting on Form XLI 
+axitinib pharmacokinetics in 
+healthy male subjects. 
+Subjects: 30 M 
+Age (yr): 37.2 (9.5) 
+Race (W/B): 29/1 
+ 
+Axitinib 5 mg was administered under fasted and 
+fed conditions according to the treatment sequence 
+(ABC, ACB, BCA, BAC, CAB, or CBA) with a 7-
+day washout period between each single dose 
+treatment. 
+Treatment Groups: 
+Reference ID: 3072768
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 14 =====
+
+ 
+NDA 202324 Review – Axitinib 
+10 
+A: 5 mg axitinib, fasted (Reference) 
+B: 5 mg axitinib, fed, high-fat, high-calorie  
+C: 5 mg axitinib, fed, moderate-fat, moderate 
+calorie 
+Formulation: 
+ 
+A4061063 
+06 Jan 2010/ 26 
+Feb 2010 
+Phase 1, open-label, randomized, 
+single-dose, 2-sequence, 4-period, 
+replicate, cross-over to establish 
+the bioequivalence of test 5- 
+mg commercial tablets of axitinib 
+Form XLI to reference 5-mg 
+tablets of axitinib Form IV in fed 
+healthy male subjects. 
+Subjects: 42 M 
+Age (yr): 29.9 (6.1) 
+Race (As/Ot): 41/1 
+Axitinib 5 mg was administered under fed 
+conditions according to the treatment sequence 
+(AB) with a 7-day washout period between each 
+single dose treatment. 
+Treatment Groups: 
+A: 5 mg axitinib, Form IV, fed (Reference) 
+B: 5 mg axitinib, Form XLI, fed 
+Formulations: 
+ 
+ 
+Healthy Subject Pharmacokinetic and Initial Tolerability Studies 
+A4061050 
+05 Aug 2009/ 28 
+Aug 2009 
+Phase 1, open-label, single dose, 
+fixed sequence study designed to 
+evaluate PK of single oral doses of 
+5 mg, 7 mg, and 10 mg of axitinib 
+in Chinese healthy subjects 
+Subjects: 14 M 
+Age (yr): 28.9 (5.7) 
+Race (As): 14 
+Single dose of 5, 7, and 10 mg axitinib orally; 
+administered in the fed state.  
+Formulation: 
+ 
+A4061006  
+07 Dec 2004/ 14 
+Jan 2005 
+ 
+Phase 1, open-label, single dose, 
+3-treatment period, cross-over 
+study to assess the effect of a high-
+fat, high-calorie meal and fasting 
+on axitinib PK in healthy 
+volunteers. 
+ 
+Subjects: 42 
+Sex: 34 M; 8 F 
+Age (yr): 31.1 (13.3) 
+Race (W/B/His/As): 33/5/2/2 
+Axitinib 5 mg po with a 5-day washout between 
+each dosing period.  
+Treatment Groups: 
+A: 5 mg axitinib overnight fast and fast 4 hours 
+post dose 
+B: 5 mg axitinib, fed 
+C: 5 mg axitinib, fast 2 hours pre-dose, fast 2 hours 
+post–dose, 
+D: 5 mg axitinib, fast 1 hour pre- dose, fast 1 hour 
+post-dose 
+Formulation: 
+ 
+A4061003 
+10 Dec 2003/ 22 
+Dec 2003 
+Phase 1, open-label, single dose, 
+mass balance study of 14C labeled 
+axitinib in healthy male subjects. 
+Subjects: 8 M 
+Age (yr): 35.4 (8.4) 
+Race (W/B): 6/2 
+Each subject received 5 mg containing 100 μCi 14C-
+axitinib  
+Formulation: 
+ 
+A4061050 
+05 Aug 2009/ 28 
+Aug 2009 
+Phase 1, open-label, single dose, 
+fixed sequence study to evaluate 
+the plasma pharmacokinetics of 
+single oral doses of 5 mg, 7 mg, 
+and 10 mg of axitinib in healthy, 
+male Chinese subjects. 
+Subjects: 14 M 
+Age (yr): 28.9 (5.7) 
+Race (As): 14 
+Three single doses of axitinib at 5 mg, 
+7 mg (2x1 mg + 1x5mg tablets), and 10 mg (2x5 
+mg tablets) orally with a 7-day washout between 
+each dosing period.  
+Formulation: 
+ 
+Patient Pharmacokinetic and Initial Tolerability Studies 
+A4060010 
+03 Nov 2002/ 02 
+Nov 2003 
+Phase 1, open-label, dose-
+escalation study to determine the 
+maximum tolerated dose 
+(MTD) and plasma 
+pharmacokinetics of axitinib, as 
+well as assessing the drug-drug 
+interaction potential with in fasted 
+patients with advanced solid 
+tumors. 
+Subjects: 36 
+Sex: 16 M / 20 F 
+Age (yr): 56.9 (8.5) 
+Race (W/B/His/As): 30/1/2/3 
+Treatment Groups: 
+1: axitinib 10 mg qd, 10, 20, or 30 mg bid, fed 
+2: axitinib 20 mg bid, fed 
+3: axitinib 5 mg bid, fed 
+4: axitinib 15 mg qd, fed 
+5: axitinib 5 mg bid, fasted 
+6: axitinib 2 mg bid on the Day 1, then 5 mg bid, 
+fasted 
+Formulation: 
+ 
+A4060019 
+13 Dec 2005/ 31 
+Aug 2009 
+ 
+Phase 1, open-label, dose-finding 
+study to determine the MTD of 
+axitinib in combination with 
+paclitaxel + carboplatin or weekly 
+paclitaxel, as well as evaluate the 
+plasma PK of axitinib, paclitaxel 
+and carboplatin or weekly 
+paclitaxel when given in 
+combination to patients with 
+advanced solid tumors. 
+Subjects: 35 
+Sex: 25 M / 10 F 
+Age (yr): 37 – 75  
+Race (W/B/As): 32/2/1 
+Treatment Group: 
+1-3: axitinib po 1, 3, and 5 mg bid, fed + paclitaxel 
+IV 200 mg/m2 + carboplatin IV (AUC=6), fed 
+4: axitinib po 5 bid, fed + paclitaxel IV 90 mg/m2 
+qwk 
+Formulation: 
+ 
+A4061044 
+29 Jul 2008/ 26 
+Apr 2010 
+ 
+Phase 1, open-label, non-
+randomized study to evaluate 
+plasma pharmacokinetics of 
+axitinib following single doses of 
+5, 7, and 10 mg in fed Japanese 
+patients with advanced solid 
+tumors. 
+Subjects: 6  
+Sex: 3 M / 3 F 
+Age (yr): 53.8 (15.8)  
+Race (As): 6 
+Single doses of 5 mg, followed by 7 mg, and 
+subsequently 10 mg. After the single dose at each 
+dose level, subjects were monitored for at least 48 
+hours (no additional dosing during this time). 
+Following the single doses, 5 mg bid was 
+administered, fed. 
+Formulation: 
+ 
+Intrinsic Factor Pharmacokinetic Studies 
+Reference ID: 3072768
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 15 =====
+
+ 
+NDA 202324 Review – Axitinib 
+11 
+A4061036 
+16 May 2008/ 26 
+Oct 2008 
+ 
+Phase 1, open-label, single-dose, 
+parallel group study to evaluate the 
+effects of mild and 
+moderate hepatic impairment on 
+the single-dose pharmacokinetics 
+of axitinib in healthy subjects. 
+Subjects: 24  
+Sex: 20 M / 4 F 
+Age (yr): 39 – 60   
+Race (W/B): 21/3 
+Single dose of 5 mg axitinib, fed 
+Formulation: 
+ 
+Extrinsic Factor Pharmacokinetic Studies 
+A4061004 
+23 Jun 2004/ 14 
+Aug 2004 
+ 
+Phase 1 randomized, blinded, 2-
+way, cross-over study to 
+characterize the potential change in 
+axitinib plasma pharmacokinetics 
+when a single dose of axitinib is 
+co-administered with repeated 
+dosing of ketoconazole and to 
+characterize the effects of axitinib 
+on QTc and blood pressure when 
+given alone and when 
+coadministered with ketoconazole 
+in healthy subjects. 
+Subjects: 24  
+Sex: 32 M / 3 F 
+Age (yr): 35.5 (11.1)   
+Race (W/B/His/As/Ot): 
+9/4/10/1/1 
+Before the start of the 1st treatment period, there 
+was a 1 day lead-in baseline day and 1 day placebo 
+dose day. 
+Axitinib 5 mg was administered according to the 
+treatment sequence (AB or BA) with a 14-day 
+washout period between each single dose treatment. 
+Treatment Groups: 
+A: axitinib 5 mg, fasted 
+B: ketoconazole 400 mg qd x 7 + axitinib 5 mg on 
+Day 4, fasted 
+Formulation: 
+ 
+A4061026 
+18 Sep 2006/ 04 
+Feb 2007 
+Phase 1, open-label, 2-period, 2-
+treatment crossover study to 
+estimate the potential for 
+pharmacokinetic interaction 
+between axitinib and rifampin. 
+in Caucasian and Japanese healthy 
+male subjects. 
+Subjects: 40 M 
+Age (yr): 29.0 (7.6) 
+Race (W/As): 20/20 
+Axitinib 5 mg was administered according to the 
+treatment sequence (AB or BA) with a 7 day 
+washout between Day 1 of Treatment A and Day 1 
+of Treatment B for sequence 1 (AB), and at least a 
+21 day washout between Day 9 of Treatment B and 
+Day 1 of Treatment A for sequence 2 (BA). 
+Treatment Groups: 
+A: axitinib 5-mg, fasted 
+B: rifampin 600 mg qd x 9 + axitinib 5 mg on Day 
+8 , fasted 
+Formulation: 
+ 
+Efficacy and Safety Controlled Clinical Studies 
+A4061032 
+15 Sep 2008/ 31 
+Aug 2010 
+Phase 3, 2-arm, randomized, open-
+label study to compare the 
+Progression-Free Survival 
+(PFS) of patients with advanced 
+RCC receiving axitinib vs. 
+sorafenib following failure of one 
+prior systemic 1st-line regimen 
+containing ≥1 of the following: 
+sunitinib, bevacizumab + IFN α, 
+temsirolimus, or cytokine(s).  
+Randomized (ITT): 723 
+(Control Arm: 362) 
+Axitinib Arm: 361 
+Sex: 265 M / 96 F 
+Age (yr): 59.7 (10.5) 
+Race (W/B/As/Ot): 
+278/1/77/5 
+ 
+Treatment Groups: 
+A: Axitinib 5 mg bid as starting dose, fed 
+B: Sorafenib 400 mg bid, fasted 
+Formulation: 
+ 
+A4061046 
+Ongoing  
+(01 July 2010 
+cutoff for interim 
+PK reporting) 
+Phase 2, randomized, double-blind, 
+placebo-controlled, study to 
+compare the ORR in patients with 
+mRCC receiving axitinib with or 
+without dose titration. 
+To be randomized: ~70  
+Control Arm: 35  
+Axitinib Arm: 25 
+4 week lead-in period with axitinib 5 mg bid 
+dosing, fed 
+Treatment Groups: Randomized 1:1 to 
+A: Axitinib 5 mg bid + dose titration, fed  
+B: Axitinib 5 mg bid, fed + placebo dose titration 
+C: Axitinib 5 mg bid, fed; no dose titration 
+Formulation: 
+ 
+Efficacy and Safety Uncontrolled Clinical Studies 
+A4061012 
+05 Nov 2002/ 01 
+Feb 2007 
+ 
+Phase 2, open-label study to 
+determine the activity of axitinib in 
+patients with advanced RCC who 
+have received 1 prior cytokine-
+based therapy. 
+Subjects: 52 
+Sex: 40 M / 12 F 
+Age (yr): 58.8 (11.3) 
+Race (W/As/Ot): 50/1/1 
+Axitinib 5 mg BID, fasted 
+Formulation: 
+ 
+A4061023 
+08 Mar 2006/ 16 
+Jan 2009 
+ 
+Phase 2, open-label study to 
+determine the activity of axitinib in 
+patients with advanced and 
+refractory RCC as measured by 
+overall objective response rate. 
+Subjects: 62 
+Sex: 42 M / 20 F 
+Age (yr): 57.9 (9.4) 
+Race (W/As/Ot): 64/1/1 
+Axitinib 5 mg bid as starting dose, fed 
+Formulation: 
+ 
+A4061035 
+12 Dec 2007/ 26 
+Feb 2010 
+ 
+Phase 2, open-label, non-
+randomized study to investigate 
+objective tumor response of 
+axitinib in Japanese patients with 
+advanced RCC. 
+Subjects: 64 
+Sex: 44 M / 20 F 
+Age (yr): 61.8 (10.8) 
+Race (As): 64 
+Axitinib 5 mg bid as starting dose, fed 
+Formulation: 
+ 
+ 
+Reference ID: 3072768
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 16 =====
+
+ 
+NDA 202324 Review – Axitinib 
+12 
+2.2.2 What is the basis for selecting the response endpoints (i.e., clinical or surrogate 
+endpoints) or biomarkers (collectively called pharmacodynamics (PD)) and how are they 
+measured in clinical pharmacology and clinical studies? 
+ 
+The primary efficacy endpoint in the phase 3 protocol (A4061032) was progression free survival 
+(PFS). The secondary efficacy endpoints were:  
+• Overall survival 
+• Objective response rate 
+• Duration of response  
+ 
+2.2.3 Are the active moieties in the plasma (or other biological fluid) appropriately 
+identified and measured to assess pharmacokinetic parameters and exposure response 
+relationships? 
+ 
+Yes, all the submitted clinical pharmacology related studies analyzed plasma samples for the 
+parent compound axitinib.   
+ 
+In the mass balance study (A4061003), the mean plasma Cmax and AUC values were ~3.0 and 
+~6.6-fold higher for total radioactivity in plasma (mean Cmax 103 ng-eq/mL; AUC 997 ng-
+eq•h/mL) than for axitinib alone (mean Cmax 34 ng/mL; mean AUC 150 ng•h/mL), respectively. 
+These results indicate the presence of other circulating metabolic product(s) in plasma after 
+administration of [14C]-labeled axitinib. In the pooled plasma samples used for metabolic 
+profiling (study PDM-043), circulating radioactivity was assessed from pre-dose through 12 
+hours post-dose. During this time period, the glucuronide M7 represented the predominant 
+metabolite, accounting for ~50% of the circulating radioactivity. The sulfoxide M12 and 
+unchanged parent axitinib accounted for ~16% and ~22% of the circulating radioactivity, 
+respectively.  The M7 and M12 metabolites show ≥400-fold less in vitro potency against 
+VEGFR-2 compared to axitinib. See section 2.2.12. 
+ 
+2.2.4 What are the characteristics of the exposure-response relationships (dose-response, 
+concentration-response) for efficacy?   
+ 
+The applicant did an exploratory exposure-response analysis for PFS, the primary endpoint in the 
+pivotal phase 3 trial A4061032. There were insufficient exposure data collected in trial 
+A4061032 to support evidence of exposure-response for PFS. Pharmacokinetic data were 
+available for only 55/359 (15%) of the patients in trial A4061032. The applicant also conducted 
+exposure-efficacy analysis separately for the three phase 2 trials (cytokine refractory patients or 
+patients who failed prior treatment to sorafenib) which indicated that higher exposures were 
+related to partial response and associated with longer PFS. However, this exposure-efficacy 
+analysis from phase 2 trials was not reviewed since it does not contain sunitinib refractory 
+patients, which comprised of ~53% of the pivotal trial population.   
+ 
+2.2.5 What are the characteristics of the exposure-response relationships (dose-response, 
+concentration-response) for safety? 
+ 
+Reference ID: 3072768
+
+
+===== PAGE 19 =====
+
+ 
+NDA 202324 Review – Axitinib 
+15 
+ 
+ 
+2.2.6 Does this drug prolong the QT or QTc interval? 
+ 
+Dedicated QT study (study A40610014, PMAR-0074) 
+The potential for QTc prolongation with axitinib was evaluated a randomized, single-blinded, 2-
+way crossover ketoconazole drug-drug interaction study in 35 healthy subjects. No large changes 
+in mean QTc intervals (i.e., >20 ms) were detected in the first 3 hours post-dose (i.e., up to the 
+median Tmax of axitinib) following a single dose of 5 mg axitinib in the absence and presence of 
+400 mg ketoconazole. The largest upper bounds of the 2-sided 90% confidence intervals (CI) for 
+the mean changes from placebo (baseline-adjusted) were 5.2 and 8.4 ms in the absence and 
+presence of 400 ketoconazole, respectively. However, due to study design limitations (e.g., lack 
+of positive control), small increase in mean QTc interval (i.e., <10 ms) cannot be ruled out. 
+ 
+Please see IRT-QTc review by Dr. Hao Zhu for more information. 
+ 
+2.2.7 Is the dose and dosing regimen selected by the applicant consistent with the known 
+relationship between dose-concentration-response, and are there any unresolved dosing or 
+administration issues? 
+  
+The following support the selection of the 5 mg twice daily dose administered without regard to 
+food:  
+• The maximum tolerated dose (MTD) was determined to be 5 mg twice daily (Study 
+A40610010).  
+• The efficacy (i.e., PFS benefit) was demonstrated in the phase 3 trial (A4061032). 
+• The safety profile was considered manageable at the 5 mg dose level. 
+o The exposure response analyses for safety conducted by the pharmacometrics reviewer 
+support the selected dosage of axitinib. Despite the presence of an exposure response for 
+hypertension and proteinuria with axitinib treatment, the starting dose is acceptable.  
+• There was no marked food effect observed (Study A4061053).  
+ 
+ 
+2.2.8 Pharmacokinetic characteristics of the drug and its major metabolites 
+2.2.8.1 What are the single dose and multiple dose PK parameters? 
+ 
+The disposition of axitinib followed a biexponetial decline and included a lag time and first-order 
+absorption constant. The lag time from dose administration to the beginning of the first-order 
+absorption was estimated to be 0.454 hours. Based on the population PK model, the mean Cmax 
+and AUC0-24 in subjects 
+ in the fed state are 21 ng/mL and 274 ng*h/mL, 
+respectively, which is similar to what is obtained from the dedicated PK studies. The population 
+apparent clearance (CL/F) and apparent volume of distribution (Vc/F) for axitinib was estimated 
+to be 36.7 L/h and 119 L, respectively. Inter-individual variability (IIV) was estimated to be 60% 
+for CL/F and 40% for Vc/F.  Three covariates (age >60 years, smoking, and race) were found to 
+be significant for explaining the inter-individual variability on clearance. However, after 
+inclusion of the three covariates for clearance, the IIV for clearance reduced only by 4% (64% to 
+Reference ID: 3072768
+(b) (4)
+
+
+===== PAGE 20 =====
+
+ 
+NDA 202324 Review – Axitinib 
+16 
+60%).  The effect of these covariates and their relevance is discussed later in the sections 2.3 and 
+2.4. 
+ 
+The single 5 mg dose axitinib plasma PK in healthy subjects and patients with cancer is 
+presented in Table 3. Based on a combined population pharmacokinetic analysis, the clearance of 
+axitinib was similar between healthy volunteers and patients (Figure 5). The median axitinib 
+plasma Tmax ranges between 2.5 – 4.1 hours post-dose and the mean half-life ranges between 
+2.5 – 6.1 hours.  
+ 
+The multiple 5 mg dose axitinib plasma PK in patients with cancer is presented in  
+Table 4.  The single and multiple dosing axitinib plasma PK are similar. A geomean 
+accumulation ratio of ~1.4 was observed at steady-state ( 
+Table 4). Inter-subject variability was approximately 80% for both Cmax and AUC after multiple 
+dosing, which was similar to the variability observed after a single dose. Also see section 2.2.15. 
+ 
+Table 3. Summary of Axitinib PK Parameters in Healthy Volunteers and Patients by Study and 
+Treatment Group Following a Single 5 mg Oral Dose of Axitinib in the Fed State. 
+Reference ID: 3072768
+
+
+===== PAGE 22 =====
+
+ 
+NDA 202324 Review – Axitinib 
+18 
+Cmax Rac Geomean 
+(CV%) [90% CI] 
+1.26 (39) [0.87, 1.81] 
+n.a. 
+Tmax(h) 
+Median (Range) 
+4.1 
+(4.0 – 6.0) 
+4.0  
+(3.9 – 7.7) 
+2.0 (1.0 – 2.5) 
+AUC (ng*h/mL)a 
+Geomean (CV%) 
+100.4 (79) 
+137.6 (78) 
+265 (77) 
+AUC Rac Geomeanb 
+(CV%) [90% CI] 
+1.37 (28) [1.08, 1.74] 
+n.a 
+T1/2 (h) 
+Mean (CV%) 
+4.8 ( 59) 
+n.a. 
+4.1 (144) 
+CL/F (L/hr)  
+Geomean (CV%) 
+35.2 (56.9) 
+36.3 (45) 
+37.8 (31.4) 
+Vd/F (L) 
+Geomean (CV%) 
+206.4 (87.2) 
+n r. 
+160 (140) 
+Rac, accumulation ratio; n.r., not reported; n.a., not applicable  
+a A4061044: AUC0-12; A4061046: AUC0-24 
+ 
+2.2.8.2 How does the PK of the drug and its major active metabolites in healthy volunteers 
+compare to that in patients?  
+ 
+The PK of axitinib was similar between healthy volunteers and patients (Figure 5). Based on a 
+combined population pharmacokinetic analysis, the clearance of axitinib was similar between 
+healthy volunteers and patients. Furthermore, there was no effect of the patient population on 
+clearance of axitinib. The median Tmax values were between 2.5 – 4.1 hours in the fed state 
+(Table 3). High variability was observed in both the healthy subject and patient studies. See 
+sections 2.2.8.1 and 2.2.16 for more information. 
+ 
+Figure 5. No effect of healthy vs. patients on the clearance of axitinib.  
+CR (cytokine refractory) and SR (sorafenib refractory) 
+(Source: Sponsor’s pmar-00079 study report, Page 160) 
+ 
+ 
+ 
+ 
+Reference ID: 3072768
+
+
+===== PAGE 23 =====
+
+ 
+NDA 202324 Review – Axitinib 
+19 
+ 
+2.2.9 What are the characteristics of drug absorption? 
+After oral dosing, axitinib is absorbed with a median Tmax occurring between 2.5 – 4.1 hours. 
+The mean absolute bioavailability of a single dose of 5 mg oral axitinib is 58%. A single 1 mg 
+dose of axitinib administered via intravenous infusion (Study A4061007) was used as the 
+reference.  
+Compared to fasting conditions, a high-fat meal increased axitinib systemic exposure by ~19% 
+but a moderate-fat meal decreased exposure by ~11% (Study A4061053). Axitinib may be taken 
+with or without food. See section 2.5.4. 
+The aqueous solubility of axitinib is low over a wide range of pH values, and lower pH values 
+result in higher solubility (section 2.5.1), which raises the question about the potential for gastric 
+pH elevating agents (such as proton pump inhibitors (PPI), H2 blockers, or antacids) to alter the 
+solubility of axitinib. The sponsor conducted a PK sub-study within Study A40610010 to 
+evaluate the potential for drug-drug interactions with rabeprazole. In the presence of rabeprazole, 
+a 42% decrease in axitinib Cmax (i.e., reduction in absorption rate) was observed. However, 
+there were only a 15% decrease in AUC was observed, which is not considered clinical 
+significant. There were no differences in Tmax or T½ with or without rabeprazole. Therefore, no 
+axitinib dose adjustment is recommended. See section 2.4.8. 
+ 
+2.2.10 What are the characteristics of drug distribution? 
+ 
+Plasma Protein Binding 
+The mean binding of axitinib to proteins in human plasma was >99%, in a concentration-
+independent manner from 200 – 2000 ng/mL (Study AG13736-PDM-017).  
+Axitinib is highly bound to human serum albumin (HSA) in a concentration-independent manner 
+from 10 – 300 ng/mL (mean [range] 99.0% [98.9 – 99.1%]) (Study 8216659). 
+A definitive value for the binding to α-1 acid-glycoprotein (AAG) could not be determined due 
+to low recovery from the dialysis apparatus (≤ 46.1%) at the 10 – 100 ng/mL concentrations 
+tested. The results, however, suggest that axitinib is moderately bound to AAG (mean 68.6%), 
+with an unbound fraction between 0.291 – 0.342 (Study 8216659). 
+Protein binding analysis was conducted for plasma samples obtained from the hepatic 
+impairment trial (A4061036). The geometric mean (CV%) unbound fraction (fu) of axitinib in 
+the plasma of subjects with normal hepatic function, mild hepatic impairment, and moderate 
+hepatic impairment was 0.0041 (25), 0.0030 (50), and 0.0041 (134), respectively (Table 8). The 
+results of this analysis indicate that protein binding did not change based on mild and moderate 
+hepatic impairment. 
+ 
+Blood to Plasma Ratio 
+Axitinib was relatively equally distributed between plasma and blood cells (Study AG13736-
+PDM-017). The blood-to-plasma ratios of axitinib in vitro in humans were 0.81 and 0.79 at 
+concentrations of 0.39 μg/mL and 3.9 μg/mL, respectively. 
+ 
+In the human mass balance study A4061003, the mean whole blood to plasma AUC0-∞ ratio 
+Reference ID: 3072768
+
+
+===== PAGE 26 =====
+
+ 
+NDA 202324 Review – Axitinib 
+22 
+2.2.13 What are the characteristics of drug excretion?  
+ 
+Elimination 
+ 
+In Study A4061003, the median (range) total recovery of radioactivity in urine and feces 
+combined was approximately 65.2% (51.3% - 77.9%). The median (range) of dose recovered in 
+feces was 40.6% (29.8% - 60.2%); and 22.7% (17.7% - 28.2%) was recovered in urine through 
+the last collection interval.  
+ 
+Urine samples were collected at intervals of 0-4, 4-8, 8-12, 12-24, 24-36, 36-48, and then at 
+every 24 hour intervals through 168 hours (7 days) post-dose (discharge). Fecal samples were 
+collected ad libitum at 24 hour intervals from pre-dose through 168 hours (7 days) post-dose 
+(discharge). To be eligible for discharge on day 7 (168 hours post-dose), the radioactivity in 
+subjects urine and fecal sample was to contain <1% of the administered radiolabeled dose. 
+ 
+Clearance 
+ 
+The geometric mean clearance (CV%) of axitinib was 21 L/h (44%) following a 1 mg 
+intravenous dose in healthy volunteers (Study A4061007).  
+ 
+Volume of Distribution 
+ 
+The geometric mean volume of distribution (CV%) of axitinib was 68 L (23%) following a 1 mg 
+intravenous dose in healthy volunteers (Study A4061007). Also see section 2.2.10. 
+ 
+Half-life 
+ 
+Axitinib’s mean terminal elimination half-life ranges between 2.5 – 6.1 hours following single 
+doses of 5 mg in healthy subjects and patients (Table 3). This is consistent with twice daily 
+dosing proposed by the sponsor. Also see sections 2.2.8.1). 
+ 
+2.2.14 Based on PK parameters, what is the degree of linearity or non-linearity based in 
+the dose-concentration relationship? 
+ 
+The doses of 1, 3, 5, 7, 10, 15, 20, and 30 mg were evaluated in the fed state across 4 studies 
+(Studies A4060010, A4061019, A40601044, and A4061050). The PK of axitinib appears to 
+increase with an increase in dose. Although the analysis of dose proportionality is confounded 
+due to the presence of large inter-individual variability in exposure, there does not appear to be a 
+major deviation from dose proportionality for doses between 1 - 20 mg at steady-state.  
+Single dosing: Using AUCinf data from single dosing (studies A4060010, A4061044, 
+A4061050), a power model was applied to test dose proportionality (Figure 8). The slope for the 
+power model on logarithmic scale is 1.32 for AUCinf with a 90% confidence interval of (1.05, 
+1.55).  
+ 
+ 
+Reference ID: 3072768
+
+
+===== PAGE 28 =====
+
+ 
+NDA 202324 Review – Axitinib 
+24 
+2.2.16 What is the inter- and intra-subject variability of PK parameters in volunteers and   
+patients, and what are the major causes of variability? 
+ 
+Based on the population PK modeling, between-subject variability for clearance and volume of 
+distribution was 60% and 40%, respectively after adjusting for significant covariates. The 
+significant covariates from the model failed to explain the variability noted in axitinib 
+pharmacokinetic to any appreciable extent (<5%), see section 2.2.8.1. 
+ 
+2.3 
+INTRINSIC FACTORS 
+ 
+2.3.1 What intrinsic factors (age, race, weight, height, genetic polymorphisms and organ 
+dysfunction) influence exposure (PK usually) and/or response, and what is the impact of 
+any differences in exposure on efficacy or safety responses? 
+ 
+No formal studies have been conducted to assess the effect of age, gender, race, body weight, 
+BSA, or renal function on the pharmacokinetics of axitinib. The applicant’s population 
+pharmacokinetic (popPK) model did not identify any clinically relevant impact of these 
+covariates on clearance.  
+ 
+Relationship between Gender and Exposure 
+Based on the popPK analysis, there was no effect of gender on clearance of axitinib (Figure 10).   
+ 
+Figure 10. No effect of gender on the clearance of axitinib.  
+(Source: Sponsor’s pmar-00079 study report, Page 157) 
+ 
+ 
+ 
+Relationship between Race and Exposure  
+Based on the population pharmacokinetic analysis, it was observed that Japanese patients had 
+25% lower clearance than the non-Japanese patients (Figure 11). However, based on a dedicated 
+study (A4061026), in which PK of 20 Caucasians and 20 Japanese patients was compared using 
+intensive PK sampling, there was no difference observed in the Cmax and AUC. 
+ 
+ 
+Inter-Individual Variability for CL 
+Reference ID: 3072768
+
+
+===== PAGE 29 =====
+
+ 
+NDA 202324 Review – Axitinib 
+25 
+Figure 11. Axitinib clearance in Japanese vs. non-Japanese patients from the popPK model. 
+(Source: Sponsor’s pmar-00079 study report, Page 156) 
+ 
+ 
+Relationship between Weight and Exposure  
+Based on the population pharmacokinetic analysis, there was no effect of body weight on 
+clearance of axitinib (Figure 12). Weight was significant covariate on volume of distribution. 
+However, inclusion of weight reduced the inter-individual variability for volume of 
+distribution by only 4% (44 to 40%). 
+ 
+Figure 12. No effect of weight on the clearance of axitinib.  
+ (Source: Sponsor’s pmar-00079 study report, Page 162) 
+ 
+Relationship between Age and Exposure  
+Age was tested both as a continuous and binary (age <60 and age >60 years) covariate.  When 
+used as a binary covariate, age was found to affect axitinib exposures, such that subjects >60 
+years had a 21% decrease in clearance (Figure 13). This decrease in clearance is not considered 
+to be clinically relevant. 
+ 
+ 
+Inter-Individual Variability for CL 
+Reference ID: 3072768
+
+
+===== PAGE 30 =====
+
+ 
+NDA 202324 Review – Axitinib 
+26 
+Figure 13. Axitinib clearance in <60 and >60 year subjects.  
+(Source: Sponsor’s pmar-00079 study report, Page 165) 
+ 
+ 
+Relationship between Genotype and Exposure  
+The potential effect of selected polymorphisms in UGT1A1 and CYP2C19 on axitinib 
+pharmacokinetic variability  was evaluated using population pharmacokinetic analysis of pooled 
+data from 10 healthy volunteer phase 1 studies (n=337). For UGT1A1*28, the popPK dataset 
+included 35 subjects who were homozygous for the UGT1A1*28 allele. For CYP2C19, the 
+popPK dataset included 8 subjects categorized as ultra-rapid metabolizers, and 15 subjects 
+categorized as poor metabolizers. There was no apparent effect of these gene polymorphisms on 
+axitinib clearance (Figure 14). This is consistent with the in vitro observation that axitinib is 
+metabolized primarily by CYP3A4/5 and to a lesser extent by CYP1A2, CYP2C19 and 
+UGT1A1. 
+ 
+Figure 14. No effect of UGT1A1*28 (left) and CYP2C19 (right) genotype on axitinib clearance. 
+(Source: Sponsor’s pmar-00075 study report, Page 136, 138) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Inter-Individual Variability for CL 
+Reference ID: 3072768
+
+
+===== PAGE 43 =====
+
+ 
+NDA 202324 Review – Axitinib 
+39 
+Study A4061019 was conducted to assess the potential for drug-drug interaction with paclicaxel, 
+a CYP2C8 substrate, in patients with advanced solid tumors.  In this trial, Cohorts 1-3 evaluated 
+axitinib 5 mg bid in combination with paclitaxel 200 mg/m2 over 3 h + carboplatin AUC 6 
+mg.min/mL every 3 weeks (1 Cycle=21d). Cohort 4 evaluated axitinib 5 mg bid in combination 
+with paclitaxel 90 mg/m2 weekly over 1 hr (Days 1, 8, and 15 of 28 day cycles). Patients took 
+axitinib in the fed state orally every 12 hours.  
+For Cohorts 1-3 (paclitaxel/carboplatin), the pharmacokinetic profile of axitinib was 
+characterized without (Day -1) and with (Day 1) chemotherapy. In Cycle 2, axitinib dosing was 
+interrupted one day prior to chemotherapy so that the pharmacokinetic profile of chemotherapy 
+without axitinib could be characterized; axitinib dosing was resumed on day 3. Pharmacokinetic 
+parameters of paclitaxel (in combination with carboplatin) in Cohorts 1-3 were similar in the 
+presence and absence of axitinib ( 
+Table 18).  
+ 
+Table 18. Mean (CV%) every 3 week paclitaxel plasma pharmacokinetic parameters for Cohorts 1-3. 
+Data from 2 subjects were excluded due to PK samples not being collected on Cycle 1 Day 1.  
+a Dose normalized to Cycle 1 Day 1 dose. 
+For Cohort 4, the pharmacokinetic profile of axitinib in combination with paclitaxel was 
+evaluated on Day 8 with the second dose of paclitaxel. The pharmacokinetic profile of axitinib 
+alone was evaluated on Day 22. In Cycle 2, axitinib dosing was interrupted three days prior to 
+paclitaxel dosing so that the pharmacokinetic profile of paclitaxel without axitinib could be 
+characterized; axitinib dosing was resumed on day 3. Pharmacokinetic parameters of weekly 
+paclitaxel were similar in the presence and absence of axitinib (Table 19). 
+Table 19. Mean (CV%) weekly paclitaxel plasma pharmacokinetic parameters for Cohort 4. Data from 1 
+subject excluded due to PK samples not being collected on Cycle 2 Day 1.  
+a Dose normalized to Cycle 1 Day 8 dose. 
+ 
+Axitinib does not appear to alter paclitaxel pharmacokinetics. 
+Drug interaction with proton pump inhibitor 
+A pharmacokinetic sub-study within Study A40610010 evaluated the potential for drug-drug 
+interactions with rabeprazole. Study A40610010 was a Phase 1, open-label, dose-escalation 
+Reference ID: 3072768
+
+
+===== PAGE 44 =====
+
+ 
+NDA 202324 Review – Axitinib 
+40 
+study designed to evaluate the safety, tolerability, and pharmacokinetics of axitinib and to 
+determine the maximum tolerated dose when given twice daily to subjects with advanced solid 
+tumors. In the sub-study, six subjects received their morning axitinib 5 mg dose on Day 29 
+(Cycle 2, Day 1) followed by the collection of pharmacokinetic samples for 12 hours. For the 
+next 5 days (ie, on Day 30 [Cycle 2, Day 2] through Day 34 [Cycle 2, Day 6]), subjects received 
+rabeprazole, 20 mg once a day, approximately 3 hours before the axitinib 5 mg morning dose. 
+On Day 34 (Cycle 2, Day 6), pharmacokinetic samples were collected for 12 hours after the 
+axitinib 5 mg morning dose. Patients in the sub-study took axitinib in the fasted state (no food or 
+beverages 2 hours before through 2 hours after dosing); rabeprazole doses could be taken with or 
+without food. In the presence of rabeprazole, a 42% decrease in axitinib Cmax was observed. 
+However, there were only a 15% decrease in AUC0-24 was observed (Table 20). The axitinib 
+median Tmax was 2.0 hours with and without rabeprazole. The mean half-life was also similar 
+with (3.7 hours) and without (3.3 hours) rabeprazole. 
+ 
+Table 20. Comparison of Plasma Pharmacokinetics of axitinib in the presence and absence of 
+rabeprazole. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.5 
+GENERAL BIOPHARMACEUTICS 
+ 
+2.5.1 Based on BCS principles, in what class is this drug and formulation?  What 
+solubility, permeability and dissolution data support this classification? 
+Based on the data submitted, axitinib appears to be a Biopharmaceutics Classification System 
+Class 
+drug 
+ The sponsor may file a Biopharmaceutics 
+Classification System application with the FDA for an official determination to be made for 
+axitinib.  
+ 
+Solubility 
+Axitinib had low soluble in aqueous media over a wide range of pH value and lower pH values 
+resulted in higher solubility. Table 21 summarizes the solubility results in aqueous media as a 
+function of pH after equilibration for at least 24 hours at 20°C. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 3072768
+(b) 
+(4)
+(b) (4)
+
+
+===== PAGE 47 =====
+
+ 
+NDA 202324 Review – Axitinib 
+43 
+treatments. At 5 mg, while the fed vs fasted states did not meet the 0.8 – 1.25 bioequivalence 
+range, the differences between fed and fasted were not clinically significant. The median axitinib 
+Tmax and mean T1/2 were not affected by administration of food (Table 24). Compared with the 
+fasted state, the geometric mean for axitinib Cmax and AUC∞ decreased by approximately 16% 
+and 10%, respectively, when administered with a moderate-fat meal and increased by 
+approximately 11% and 19%, respectively, when administered with a high-fat meal ( 
+Table 25). 
+ 
+Table 24. Descriptive Summary of Pharmacokinetic Parameters of Axitinib 5 mg Administration under 
+Fasting Conditions, after administration with a Standardized Moderate-fat Meal, or a High-fat Meal in 
+Study A4061053. 
+ 
+ 
+ 
+Table 25. Estimated Geometric Means and Ratios with Associated 90% CI for Pharmacokinetic 
+Parameters of Axitinib Comparing Administration of 5 mg under Fasting Conditions Versus 
+Administration with Standardized Moderate-fat or High-fat Meals in Study A4061053. 
+ 
+ 
+ 
+During clinical development, axitinib was dosed in both the fasted and fed states within the 
+single and multiple dose studies. In the pivotal phase 3 clinical trial in patients with advanced 
+RCC (A4061032), axitinib was administered with food. Axitinib dosing without regards to food 
+is proposed by the applicant. 
+ 
+2.5.5 Has the applicant developed an appropriate dissolution method and specification 
+that will assure in vivo performance and quality of the product?  
+ 
+Reference ID: 3072768
+
+
+===== PAGE 61 =====
+
+ 
+NDA 202324 Review – Axitinib 
+69 
+ 
+1.1.2 
+Is it appropriate to titrate the dose up to 10 mg BID based on tolerability? 
+Yes, the dose titration scheme proposed by the sponsor based on tolerability is reasonable and 
+would reduce variability in axitinib exposures. 
+• There is considerable inter-individual variability (CV% =60%, after adjusting for 
+covariates) in AUC following axitinib dose of 5 mg BID, which provides an opportunity 
+to individualize the dose.   
+• It was observed that patients who were able to tolerate axitinib and required upward dose 
+titration had lower initial exposures (higher clearance).  This was consistent with our 
+finding that adverse events were exposure driven and patients with lower exposures were 
+likely to have lower adverse events. 
+The axitinib clinical starting dose is 5 mg BID. Patients who tolerate 5 mg BID may have the 
+dose increased to 7 mg twice daily, and further to a maximum of 10 mg twice daily if they meet 
+the following criteria: 
+• No Adverse drug reactions >Grade 2 for two consecutive weeks  
+• Normotensive  
+• Not receiving anti-hypertension medication 
+It is important to note that this dose titration scheme was implemented in the clinical 
+development program of axitinib, both in the phase 2 trials and the pivotal trial. Sponsor 
+conducted a retrospective analysis to evaluate the effect of dose titration on PK by pooling data 
+from three phase 2 trials (A4061012, A4061023 and A4061035). Patients who were able to 
+tolerate axitinib and received an increased dose appeared to have lower axitinib initial exposures 
+at the initial 5 mg BID dose prior to the dose titration. Axitinib exposures in those subjects 
+appeared to match those receiving a 5 mg BID dose following dose titrations to 6-7 mg (N=31) 
+or 8-10 mg (N=13) twice daily (Figure 3).  
+ 
+Figure 3. Dose titration based on tolerability reduces variability in axitinib exposures. 
+ 
+Prior to Dose Titration 
+0
+500
+1000
+1500
+2000
+Axitinib daily AUC (ng*h/mL) 
+At 5 mg BID Dose Level 
+5 mg 
+6-7 mg 
+8-10 mg 
+Highest BID Dose To Be Received 
+N=131 
+N=31 
+N=13 
+After Dose Titration 
+0
+500
+1000
+1500
+2000
+Axitinib daily AUC (ng*h/mL) 
+Highest BID Dose Received 
+5 mg 
+6-7 mg 
+8-10 mg 
+N=131 
+N=31 
+N=13 
+Reference ID: 3072768
+
+
+===== PAGE 62 =====
+
+ 
+NDA 202324 Review – Axitinib 
+70 
+ 
+Furthermore, the sponsor is evaluating the effect of dose titration on the PK, efficacy and safety 
+of axitinib in a prospectively designed trial (A4061046). 
+ 
+1.1.3 Is there an effect of gender, race, age, renal impairment or smoking status on 
+pharmacokinetics of axitinib? 
+The effect of these covariates was examined using population PK analysis and the results are 
+summarized below. 
+ 
+Gender 
+There was no effect of gender on clearance of axitinib (Figure 4). 
+ 
+Figure 4. No effect of  gender  on the clearance of axitinib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Source: Sponsor’s pmar-00079 study report, Page 157) 
+Race 
+Based on the population pharmacokinetic analysis, it was observed that Japanese patients had 
+25% lower clearance than the non-Japanese patients.  This decrease in clearance is not 
+considered to be clinically relevant given the high inter-individual variability observed in 
+clearance of axitinib. Furthermore, based on a dedicated study (A4061026), in which PK data 
+from 20 Caucasians and 20 Japanese patients were compared using intensive PK sampling, there 
+was no difference observed in the Cmax and AUC.  Thus, we can conclude that race does not 
+affect axitinib PK. 
+Inter-Individual Variability for CL 
+Reference ID: 3072768
+
+
+===== PAGE 63 =====
+
+ 
+NDA 202324 Review – Axitinib 
+71 
+Age 
+Age was tested both as a continuous and binary (age <60 and age >60 years) covariate.  When 
+used as a binary covariate, age was found to affect axitinib exposures such that subjects >60 
+years had 21% decrease in clearance. A 21% decrease in clearance is not considered to be 
+clinically relevant given the high inter-individual variability observed in clearance of axitinib. 
+Renal Impairment 
+The sponsor did not conduct a dedicated organ impairment trial to assess the effect of renal 
+impairment on axitinib exposure.  Based on the population PK analysis, mild, moderate or severe 
+renal impairment did not have a significant effect on the clearance of axitinib (Figure 5). The 
+baseline renal function data included in the analysis comprised of 381 subjects with normal renal 
+function (CrCL > 90 mL/min), and 139, 64, 5, and 1 subjects with mild (CrCL 60 - 89 mL/min), 
+moderate (CrCL 30 – 59 mL/min), severe (CrCL 15 – 29 mL/min), and end-stage (CrCL < 15 
+mL/min) pre-existing renal impairment, respectively.  Because only one subject had end-stage 
+renal impairment, a definitive conclusion cannot be made regarding the effect of end-stage renal 
+impairment on axitinib PK.   
+ 
+Figure 5. No effect of CrCL in axitinib clearance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Source: Sponsor’s pmar-00079 study report, Page 166) 
+ 
+Smoking Status 
+The clearance in active smokers was higher (102%); however, the smoking effect was not well 
+defined with a standard error of 40%.  The dataset included 434 non smokers, 19 active smokers 
+and 137 ex-smokers.  The number of current smokers in this dataset was only 19 (3%) and thus 
+the results should be interpreted with caution.  Sponsor mentions that the effect of smoking will 
+be adequately characterized in future NSCLC trials, where higher proportion of current smokers 
+is expected. 
+Inter-Individual Variability for CL 
+Reference ID: 3072768
+
+
+===== PAGE 64 =====
+
+ 
+NDA 202324 Review – Axitinib 
+72 
+ 
+1.1.4 Is there an effect of UGTA1A1 or CYP2C19 genotype on the pharmacokinetics of 
+axitinib? 
+There was no effect of UGT1A1 and CYP2C19 gene polymorphisms on axitinib clearance 
+(Figure 6). Effect of gene polymorphisms (UGT1A1 and CYP2C19) that are important for 
+metabolism of axinitib PK was analyzed using population PK analysis in healthy volunteers.  For 
+UGT1A1*28, the population pharmacokinetic dataset included 35 subjects who were 
+homozygous variant for the UGT1A1*28 genotype. For CYP2C19, the population 
+pharmacokinetic dataset included 8 subjects categorized as ultra metabolizers and 15 subjects 
+categorized as poor metabolizers. This finding is consistent with the observation that axitinib is 
+metabolized primarily by CYP3A4/5 and to a lesser extent by CYP1A2, CYP2C19 and 
+UGT1A1. 
+ 
+Figure 6. No effect of UGT1A1*28 (left) and CYP2C19 (right) genotype on axitinib clearance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Source: Sponsor’s pmar-00075 study report, Page 136, 138) 
+ 
+1.1 
+Recommendations 
+Division of Pharmacometrics finds the NDA acceptable from a clinical pharmacology 
+perspective.  
+ 
+1.2 
+Label Statements 
+Labeling statements to be removed are shown in red strikethrough font and suggested labeling to be 
+included is shown in underline blue font. 
+ 
+Section 8.7 
+Inter-Individual Variability for CL 
+Reference ID: 3072768
+(b) (4)
+
+
+===== PAGE 65 =====
+
+ 
+NDA 202324 Review – Axitinib 
+73 
+No dedicated renal impairment trial for axitinib has been conducted. Based on the population 
+pharmacokinetic analysis, no significant difference in axitinib clearance was observed in patients 
+with pre-existing mild to severe renal impairment (15 mL/min ≤ creatinine clearance (CLcr) < 89 
+mL/min). [see Clinical Pharmacology (12.3)] No adjustment to the starting dose is needed for 
+patients with pre-existing mild to severe renal impairment. Caution should be used in patients 
+with end-stage renal diseases (CLcr < 15 mL/min). 
+Section 12.3 
+Pharmacokinetics in Specific Populations 
+ Other Intrinsic Factors 
+Population pharmacokinetic analyses
+ 
+ indicate that there are no clinically relevant effects of age, gender, body weight, body 
+surface area, race, renal function, UGT1A1 genotype, or CYP2C19 genotype on the clearance of axitinib.  
+Renal Impairment 
+ 
+2 
+Pertinent Regulatory Background 
+Axitinib, a substituted indazole derivative, is an oral, potent, and selective tyrosine kinase 
+inhibitor (TKI) of vascular endothelial growth factor receptor (VEGFR) 1, 2, and 3. Sponsor is 
+seeking the indication for treatment of patients with advanced renal cell carcinoma (RCC). RCC 
+is the third leading orologic cancer. There are six approved therapies for the treatment of RCC in 
+US and other countries.  Sunitinib, bevacizumab, temsirolimus, pazopanib, sorafenib and 
+everolimus are approved for treatment of RCC with sorafenib and everolimus approved as 
+second line therapies. Table 1 below summarizes the mechanism of action of the approved 
+therapies, populations studied, along with the efficacy results. 
+ 
+ 
+ 
+Reference ID: 3072768
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 67 =====
+
+ 
+NDA 202324 Review – Axitinib 
+75 
+• Population PK analysis in healthy volunteers (pmar-00075). The primary objective was to 
+develop a model that describes axitinib PK in healthy volunteers with rich PK data and to 
+evaluate the potential effect of UGT1A1*28 polymorphism and CYP2C19 metabolizing 
+status on axitinib PK. 
+• Population pharmacokinetic analysis of axitinib in patients with metastatic renal cell 
+carcinoma (including patients with solid tumors) and healthy volunteers (pmar-00079). 
+The primary objective was to characterize axitinib PK in healthy volunteers and patients 
+simultaneously and to identify potential covariates that may explain variability in axitinib 
+PK. 
+3.1.1  Methods 
+The analysis was conducted based on the following strategy: base model development, random 
+effect model development, inclusion of covariates, final model development, assessment of 
+model adequacy (goodness of fit), and validation of the final model. NONMEM 7 Level 1.0 was 
+used for all model estimation with FOCEI. Inter-subject variability was modeled using 
+multiplicative exponential random effects of the form and residual variability was modeled using 
+log-transformed error model. In the base model, the effects of drug formulation and food were 
+initially tested on both bioavailability and absorption rate, to help characterize axitinib PK and to 
+improve model stability prior to covariate selection. 
+ 
+For the population pharmacokinetic study pmar-00075, data from 337 subjects from 10 clinical 
+studies was included. For the population pharmacokinetic study pmar-00079, data from 383 
+healthy volunteers and 207 patients were included.  
+3.1.2  Conclusions 
+The disposition of axitinib in healthy volunteers was described by a two compartmental model, 
+with a lag time and first order absorption rate constant.  For 
+ the rate of absorption and 
+absolute bioavailability was increased by approximately 2- and 1.3 fold, respectively. There was 
+no food effect observed for 
+ There was no effect of UGT1A1 and CYP2C19 genetic 
+polymorphisms on axitinib PK. 
+ 
+Similar to results from population pharmacokinetic model in healthy volunteers, the disposition 
+of axitinib was described by a two compartment model, which included a lag time and first 
+absorption rate constant. The lag time from dose administration to the beginning of the first-
+order absorption was estimated to be 0.454 hours. Systemic clearance (CL) was estimated to be 
+14.6 L/hr and a central volume of distribution (Vc) for the central compartment was estimated to 
+be 47.3 L. Inter-individual variability (IIV) was estimated to be 60% for CL and 40% for Vc.  
+ 
+When age was tested as a binary covariate (age < 60 and age > 60 years), it was observed that 
+subjects with age > 60 years had a 21% decrease in clearance which is not considered to be 
+clinically relevant. Japanese ethnicity was associated with 25% lower clearance based on the 
+population PK analysis. However, a dedicated study comparing PK of axitinib in Japanese and 
+Caucasians with intense PK sampling did not show any difference in axitinib PK. The population 
+pharmacokinetic analysis dataset included 383 healthy volunteers, 26 patients with advanced 
+Reference ID: 3072768
+(b) (4)
+(b) (4)
+
+
+===== PAGE 71 =====
+
+ 
+NDA 202324 Review – Axitinib 
+79 
+ 
+Reviewer’s Comments: 
+The population PK analysis and results provided by the sponsor are acceptable. Sponsor 
+followed a thorough approach in developing and validating the population PK model, evaluating 
+and interpreting the effect of relevant covariates.  The reviewer agrees with the sponsor’s 
+conclusion that there was no clinically relevant effect of age, race, gender, mild to severe renal 
+impairment, CYP2C19 and UGT1A1 genotype status on PK of axitinib. For further details 
+please refer to pmar-00075 and pmar-00079 study report. 
+3.2 
+Exposure-Response Analysis for Safety 
+3.2.1 Objectives 
+To conduct the exposure-response relationship for selected safety endpoints (diarrhea, fatigue, 
+hand-foot syndrome, hypertension, proteinuria, stomatitis). 
+3.2.2  Methods 
+Separate analysis was carried out for all the four trials mentioned below. 
+• Study A4061012, a Phase 2, single-arm, open-label, multi-center study of axitinib in 
+patients (US) with mRCC whose disease had failed one prior cytokine-based therapy. 
+Data available from 52 patients. 
+• Study A4061023, a Phase 2, single-arm, open-label, multi-center study of axitinib in 
+patients (US) with advanced RCC whose disease had failed at least one prior treatment 
+with sorafenib; most patients had additionally received prior treatment with sunitinib 
+and/or other agents. Data available from 62 patients. 
+• Study A4061035, a Phase 2, single-arm, open label, multi-center study of axitinib in 
+patients (Japanese) with mRCC whose disease had failed one prior cytokine-based 
+therapy as first line. Data available from 34 patients. 
+• Study A4061032, a 2-arm, randomized, open-label, multi-center Phase 3 study of 
+axitinib versus sorafenib in patients with advanced RCC after failure following one prior 
+systemic first-line regimen containing one or more of the following agents: sunitinib, 
+bevacizumab + IFN-α, temsirolimus, or cytokine(s). Data available from 55 patients. 
+ 
+Logistic regression analysis was conducted to establish relationship between exposure and the 
+safety endpoints. The final estimated posthoc PK parameters from the population PK model were 
+used to calculate individual subject predicted measures of exposure. Various exposure measures, 
+including dose or AUC over the previous day, week, month, and study, were screened by testing 
+their correlation with the highest AE Grade by patient.  
+3.2.3  
+Conclusions 
+The results showed that for each AE, the previous day measures, AUC before the adverse event 
+provided the best correlation. For AE Grade ≥ 1, only stomatitis and diarrhea showed exposure-
+AE relationships (p<0.05) across all three phase 2 studies. In study A4061035, the results 
+showed significant relationships for all AEs with last AUC and last dose, except for 
+hypertension. In all three phase 2 studies, there was no significant relationship between axitinib 
+Reference ID: 3072768
+
+
+===== PAGE 78 =====
+
+ 
+86
+According to the sponsor’s meta-analysis, there was no statistically significant correlation 
+between selected genetic polymorphisms in CYP2C19 and axitinib AUC 0-inf  after multiplicity 
+adjustment. However, a nominal difference in AUC between CYP2C19 EMs and PMs (95%CI 
+5-50% higher AUC0-inf in CYP2C19 PMs) was noted.  Significant overlap was observed across 
+phenotype groups (Figure 1).  The small numbers of subjects in some of these phenotypic 
+categories and lack of comprehensive genotyping make it difficult to assess whether the finding 
+in PMs is spurious or represents a biologically real difference in axitinib PK.  It is also not clear 
+whether PK differences by genotype exist for doses other than 5 mg BID.  Since axitinib may be 
+titrated based on tolerability, a priori dose adjustment based on CYP2C19 genotype is not 
+necessary based on the data available at this time. 
+ 
+In addition to the sponsor’s meta-analysis, the sponsor evaluated CYP2C19 variants in PopPK 
+analysis of pooled data from 10 healthy volunteer phase 1 studies (n=337).  In this analysis, 312 
+subjects were categorized as EMs, 8 as UMs and 15 as PMs, Tested CYP2C19 variants were not 
+considered to be a significant covariate on axitinib clearance (CL) based on sponsor analysis, 
+although CL did appear to be reduced in CYP2C19 PMs compared with other groups (Figure 2). 
+For details of this analysis, refer to Pharmacometrics review. 
+ 
+Figure 2: Axitinib clearance by CYP2C19 phenotype.  
+ 
+Source: Sponsor’s figure 12 - summary of clinical pharmacology 
+ 
+3.1.3 Additional Findings from Sponsor’s Meta-Analysis 
+According to the sponsor’s meta-analysis, there was not statistically significant correlation 
+between selected genetic polymorphisms in CYP3A4, CYP3A5, UGT1A1, ABCB1, ABCG2, 
+and SLCO1B1 and axitinib AUC 0-inf after multiplicity adjustment (Tables 2 and 3). Of note, the 
+genotype analyses were conducted over many years, and not every gene was assessed in each of 
+the 11 healthy volunteer studies. Conclusive results could not be drawn for gene variants for 
+which a limited number of patients were assayed (e.g., ABCB1, ABCG2, SLCO1B1). 
+ 
+ 
+Reference ID: 3072768
+
+
+===== PAGE 79 =====
+
+ 
+87
+Table 2: Polymorphisms used in the meta-analysis, and the total number of healthy 
+volunteers evaluated for these polymorphisms 
+Polymorphisms  
+Number of subjects 
+CYP3A4*1B 
+45 
+UGT1A*6 
+76 
+CYP3A5 (*3 and *6) 
+315 
+UGT1A1*28 
+293 
+UGT1A*60 
+222 
+UGT1A*93 
+222 
+ABCB1(G2677T/A) 
+145 
+ABCB1(C3435T) 
+145 
+ABCG2(C421A) 
+139 
+SLCO1B1(T521C) 
+145 
+ 
+Table 3: Fixed effects meta-analysis for each gene polymorphism 
+ 
+Source:  Sponsor’s table 3 - Pharmacokinetic Meta-Analysis Statistical Report 
+ 
+Additional exploratory analyses were conducted by the sponsor to assess the potential correlation 
+between genotype and exposure. Forest plots showing the genetic effect estimates and 
+confidence intervals from the fixed effects meta-analysis based on all studies with available 
+genotype data are displayed in Figure 3. For most gene polymorphisms/studies (except CYP3A5, 
+UGT1A1*28 and CYP2C19), two contrasts (log ratios) were analyzed (2/2 with 1/1 and 1/2 with 
+1/1). For CYP3A5, contrasts were computed depending on the model. For Models a and b, “fully 
+expressed – not expressed” and “intermediately expressed – not expressed” were computed; for 
+models c and d, “expressed – not expressed” was computed; for UGT1A1*28, two contrasts “7/7 
+– 6/6” and “6/7 – 6/6” were computed; for CYP2C19, two contrasts “UM – PM” (plot on the top 
+and “EM – PM” (plot on the bottom) were computed. UGT1A1*6 2/2 genotype had only one 
+subject and results were not reliable.  For ABCB1 (G2677T/A), AUC of the two genotypes 2/2 
+and 1/1 were statistically significantly different (P<0.05; 95% confidence that AUC0-inf 2/2 was 
+2% to 76% higher than AUC0-inf 1/1).  Of note, CYP1A2 polymorphisms were not assessed by 
+the sponsor.  CYP1A2 haplotypes have been associated with increased activity due to induction 
+of expression. The phenotype is only observed in the presence of inducers such as smoking or 
+heavy coffee intake. The effect of smoking status was evaluated using PopPK analysis, which 
+suggested a higher clearance in active smokers. However, just 3% of the dataset was of active 
+smokers (refer to Pharmacometrics review). The sponsor indicated that the effect of smoking will 
+be further characterized in future studies.  
+ 
+Reference ID: 3072768
+
+
+===== PAGE 80 =====
+
+ 
+88
+Figure 3: Forest plots with estimates and CI for the difference between genotypes 2/2 -1/1 
+(top) and 1/2-1/1 (bottom) for each gene 
+ 
+ 
+Source: Sponsor’s figure 1- Pharmacokinetic Meta-Analysis Statistical Report  
+ 
+3.1.4 Additional PopPK Analyses 
+The potential effect of selected polymorphisms in UGT1A1 and CYP2C19  in the axitinib 
+pharmacokinetic variability was evaluated using PopPK analysis of pooled data from 10 healthy 
+volunteer phase 1 studies (n=337). Data regarding CYP2C19 were presented in section 3.1.2 
+above.  Genotyping for UGT1A1 *28 was conducted using a Sequenom MassArray assay 
+developed at Pfizer. The number of subjects with UGT1A1 genotype is indicated in Table 4.  An 
+“unknown” category was assigned. UGT1A1 promoter polymorphisms other than TA6 and TA7 
+(e.g. TA5 or TA8) were assigned to the category “other” (Figure 4).  
+ 
+The UGT1A1*28 polymorphism was not considered to be a significant covariate on axitinib 
+clearance (CL) based on sponsor analysis (Figure 4), which was reproduced by the 
+Pharmacometrics reviewer.  For details of this analysis, refer to Pharmacometrics review. 
+ 
+ 
+Reference ID: 3072768

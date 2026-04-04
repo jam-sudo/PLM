@@ -1,0 +1,1927 @@
+[
+  {
+    "nda": "NDA021164",
+    "text_file": "data/llm_extracted/text/NDA021164.txt",
+    "chars": 57857
+  },
+  {
+    "nda": "NDA021977",
+    "text_file": "data/llm_extracted/text/NDA021977.txt",
+    "chars": 16039
+  },
+  {
+    "nda": "NDA022003",
+    "text_file": "data/llm_extracted/text/NDA022003.txt",
+    "chars": 14029
+  },
+  {
+    "nda": "NDA022006",
+    "text_file": "data/llm_extracted/text/NDA022006.txt",
+    "chars": 52632
+  },
+  {
+    "nda": "NDA022024",
+    "text_file": "data/llm_extracted/text/NDA022024.txt",
+    "chars": 8893
+  },
+  {
+    "nda": "NDA022063",
+    "text_file": "data/llm_extracted/text/NDA022063.txt",
+    "chars": 52283
+  },
+  {
+    "nda": "NDA022075",
+    "text_file": "data/llm_extracted/text/NDA022075.txt",
+    "chars": 64231
+  },
+  {
+    "nda": "NDA022343",
+    "text_file": "data/llm_extracted/text/NDA022343.txt",
+    "chars": 12361
+  },
+  {
+    "nda": "NDA022344",
+    "text_file": "data/llm_extracted/text/NDA022344.txt",
+    "chars": 3493
+  },
+  {
+    "nda": "NDA022345",
+    "text_file": "data/llm_extracted/text/NDA022345.txt",
+    "chars": 67261
+  },
+  {
+    "nda": "NDA022370",
+    "text_file": "data/llm_extracted/text/NDA022370.txt",
+    "chars": 46415
+  },
+  {
+    "nda": "NDA022372",
+    "text_file": "data/llm_extracted/text/NDA022372.txt",
+    "chars": 14003
+  },
+  {
+    "nda": "NDA022399",
+    "text_file": "data/llm_extracted/text/NDA022399.txt",
+    "chars": 49581
+  },
+  {
+    "nda": "NDA022405",
+    "text_file": "data/llm_extracted/text/NDA022405.txt",
+    "chars": 69414
+  },
+  {
+    "nda": "NDA022406",
+    "text_file": "data/llm_extracted/text/NDA022406.txt",
+    "chars": 53752
+  },
+  {
+    "nda": "NDA022411",
+    "text_file": "data/llm_extracted/text/NDA022411.txt",
+    "chars": 59391
+  },
+  {
+    "nda": "NDA022416",
+    "text_file": "data/llm_extracted/text/NDA022416.txt",
+    "chars": 58600
+  },
+  {
+    "nda": "NDA022434",
+    "text_file": "data/llm_extracted/text/NDA022434.txt",
+    "chars": 2362
+  },
+  {
+    "nda": "NDA022437",
+    "text_file": "data/llm_extracted/text/NDA022437.txt",
+    "chars": 28473
+  },
+  {
+    "nda": "NDA022439",
+    "text_file": "data/llm_extracted/text/NDA022439.txt",
+    "chars": 19397
+  },
+  {
+    "nda": "NDA022442",
+    "text_file": "data/llm_extracted/text/NDA022442.txt",
+    "chars": 13954
+  },
+  {
+    "nda": "NDA022445",
+    "text_file": "data/llm_extracted/text/NDA022445.txt",
+    "chars": 50732
+  },
+  {
+    "nda": "NDA022450",
+    "text_file": "data/llm_extracted/text/NDA022450.txt",
+    "chars": 45598
+  },
+  {
+    "nda": "NDA022453",
+    "text_file": "data/llm_extracted/text/NDA022453.txt",
+    "chars": 8185
+  },
+  {
+    "nda": "NDA022460",
+    "text_file": "data/llm_extracted/text/NDA022460.txt",
+    "chars": 62279
+  },
+  {
+    "nda": "NDA022483",
+    "text_file": "data/llm_extracted/text/NDA022483.txt",
+    "chars": 27119
+  },
+  {
+    "nda": "NDA022484",
+    "text_file": "data/llm_extracted/text/NDA022484.txt",
+    "chars": 54012
+  },
+  {
+    "nda": "NDA022485",
+    "text_file": "data/llm_extracted/text/NDA022485.txt",
+    "chars": 2783
+  },
+  {
+    "nda": "NDA022494",
+    "text_file": "data/llm_extracted/text/NDA022494.txt",
+    "chars": 15732
+  },
+  {
+    "nda": "NDA022496",
+    "text_file": "data/llm_extracted/text/NDA022496.txt",
+    "chars": 19059
+  },
+  {
+    "nda": "NDA022497",
+    "text_file": "data/llm_extracted/text/NDA022497.txt",
+    "chars": 37363
+  },
+  {
+    "nda": "NDA022501",
+    "text_file": "data/llm_extracted/text/NDA022501.txt",
+    "chars": 31368
+  },
+  {
+    "nda": "NDA022503",
+    "text_file": "data/llm_extracted/text/NDA022503.txt",
+    "chars": 46749
+  },
+  {
+    "nda": "NDA022504",
+    "text_file": "data/llm_extracted/text/NDA022504.txt",
+    "chars": 80497
+  },
+  {
+    "nda": "NDA050824",
+    "text_file": "data/llm_extracted/text/NDA050824.txt",
+    "chars": 2517
+  },
+  {
+    "nda": "NDA125527",
+    "text_file": "data/llm_extracted/text/NDA125527.txt",
+    "chars": 11398
+  },
+  {
+    "nda": "NDA200153",
+    "text_file": "data/llm_extracted/text/NDA200153.txt",
+    "chars": 37786
+  },
+  {
+    "nda": "NDA200175",
+    "text_file": "data/llm_extracted/text/NDA200175.txt",
+    "chars": 39090
+  },
+  {
+    "nda": "NDA200179",
+    "text_file": "data/llm_extracted/text/NDA200179.txt",
+    "chars": 61047
+  },
+  {
+    "nda": "NDA200327",
+    "text_file": "data/llm_extracted/text/NDA200327.txt",
+    "chars": 81287
+  },
+  {
+    "nda": "NDA200403",
+    "text_file": "data/llm_extracted/text/NDA200403.txt",
+    "chars": 4508
+  },
+  {
+    "nda": "NDA201110",
+    "text_file": "data/llm_extracted/text/NDA201110.txt",
+    "chars": 33779
+  },
+  {
+    "nda": "NDA201152",
+    "text_file": "data/llm_extracted/text/NDA201152.txt",
+    "chars": 20187
+  },
+  {
+    "nda": "NDA201153",
+    "text_file": "data/llm_extracted/text/NDA201153.txt",
+    "chars": 14938
+  },
+  {
+    "nda": "NDA201194",
+    "text_file": "data/llm_extracted/text/NDA201194.txt",
+    "chars": 14873
+  },
+  {
+    "nda": "NDA201195",
+    "text_file": "data/llm_extracted/text/NDA201195.txt",
+    "chars": 2379
+  },
+  {
+    "nda": "NDA201803",
+    "text_file": "data/llm_extracted/text/NDA201803.txt",
+    "chars": 25135
+  },
+  {
+    "nda": "NDA201917",
+    "text_file": "data/llm_extracted/text/NDA201917.txt",
+    "chars": 64652
+  },
+  {
+    "nda": "NDA201922",
+    "text_file": "data/llm_extracted/text/NDA201922.txt",
+    "chars": 30818
+  },
+  {
+    "nda": "NDA202245",
+    "text_file": "data/llm_extracted/text/NDA202245.txt",
+    "chars": 4686
+  },
+  {
+    "nda": "NDA202258",
+    "text_file": "data/llm_extracted/text/NDA202258.txt",
+    "chars": 62220
+  },
+  {
+    "nda": "NDA202270",
+    "text_file": "data/llm_extracted/text/NDA202270.txt",
+    "chars": 25833
+  },
+  {
+    "nda": "NDA202276",
+    "text_file": "data/llm_extracted/text/NDA202276.txt",
+    "chars": 75753
+  },
+  {
+    "nda": "NDA202292",
+    "text_file": "data/llm_extracted/text/NDA202292.txt",
+    "chars": 12033
+  },
+  {
+    "nda": "NDA202293",
+    "text_file": "data/llm_extracted/text/NDA202293.txt",
+    "chars": 61383
+  },
+  {
+    "nda": "NDA202324",
+    "text_file": "data/llm_extracted/text/NDA202324.txt",
+    "chars": 76655
+  },
+  {
+    "nda": "NDA202331",
+    "text_file": "data/llm_extracted/text/NDA202331.txt",
+    "chars": 18152
+  },
+  {
+    "nda": "NDA202342",
+    "text_file": "data/llm_extracted/text/NDA202342.txt",
+    "chars": 25445
+  },
+  {
+    "nda": "NDA202343",
+    "text_file": "data/llm_extracted/text/NDA202343.txt",
+    "chars": 43175
+  },
+  {
+    "nda": "NDA202344",
+    "text_file": "data/llm_extracted/text/NDA202344.txt",
+    "chars": 11177
+  },
+  {
+    "nda": "NDA202611",
+    "text_file": "data/llm_extracted/text/NDA202611.txt",
+    "chars": 57056
+  },
+  {
+    "nda": "NDA202992",
+    "text_file": "data/llm_extracted/text/NDA202992.txt",
+    "chars": 42463
+  },
+  {
+    "nda": "NDA203312",
+    "text_file": "data/llm_extracted/text/NDA203312.txt",
+    "chars": 50209
+  },
+  {
+    "nda": "NDA203340",
+    "text_file": "data/llm_extracted/text/NDA203340.txt",
+    "chars": 8097
+  },
+  {
+    "nda": "NDA203341",
+    "text_file": "data/llm_extracted/text/NDA203341.txt",
+    "chars": 71039
+  },
+  {
+    "nda": "NDA203388",
+    "text_file": "data/llm_extracted/text/NDA203388.txt",
+    "chars": 66522
+  },
+  {
+    "nda": "NDA203389",
+    "text_file": "data/llm_extracted/text/NDA203389.txt",
+    "chars": 17446
+  },
+  {
+    "nda": "NDA203414",
+    "text_file": "data/llm_extracted/text/NDA203414.txt",
+    "chars": 21694
+  },
+  {
+    "nda": "NDA203415",
+    "text_file": "data/llm_extracted/text/NDA203415.txt",
+    "chars": 77828
+  },
+  {
+    "nda": "NDA203697",
+    "text_file": "data/llm_extracted/text/NDA203697.txt",
+    "chars": 31244
+  },
+  {
+    "nda": "NDA203756",
+    "text_file": "data/llm_extracted/text/NDA203756.txt",
+    "chars": 48119
+  },
+  {
+    "nda": "NDA203791",
+    "text_file": "data/llm_extracted/text/NDA203791.txt",
+    "chars": 11857
+  },
+  {
+    "nda": "NDA203794",
+    "text_file": "data/llm_extracted/text/NDA203794.txt",
+    "chars": 5103
+  },
+  {
+    "nda": "NDA204061",
+    "text_file": "data/llm_extracted/text/NDA204061.txt",
+    "chars": 29134
+  },
+  {
+    "nda": "NDA204063",
+    "text_file": "data/llm_extracted/text/NDA204063.txt",
+    "chars": 51885
+  },
+  {
+    "nda": "NDA204096",
+    "text_file": "data/llm_extracted/text/NDA204096.txt",
+    "chars": 46169
+  },
+  {
+    "nda": "NDA204114",
+    "text_file": "data/llm_extracted/text/NDA204114.txt",
+    "chars": 42536
+  },
+  {
+    "nda": "NDA204141",
+    "text_file": "data/llm_extracted/text/NDA204141.txt",
+    "chars": 2359
+  },
+  {
+    "nda": "NDA204150",
+    "text_file": "data/llm_extracted/text/NDA204150.txt",
+    "chars": 13678
+  },
+  {
+    "nda": "NDA204153",
+    "text_file": "data/llm_extracted/text/NDA204153.txt",
+    "chars": 21596
+  },
+  {
+    "nda": "NDA204168",
+    "text_file": "data/llm_extracted/text/NDA204168.txt",
+    "chars": 44262
+  },
+  {
+    "nda": "NDA204200",
+    "text_file": "data/llm_extracted/text/NDA204200.txt",
+    "chars": 12133
+  },
+  {
+    "nda": "NDA204384",
+    "text_file": "data/llm_extracted/text/NDA204384.txt",
+    "chars": 67700
+  },
+  {
+    "nda": "NDA204516",
+    "text_file": "data/llm_extracted/text/NDA204516.txt",
+    "chars": 15919
+  },
+  {
+    "nda": "NDA204553",
+    "text_file": "data/llm_extracted/text/NDA204553.txt",
+    "chars": 2993
+  },
+  {
+    "nda": "NDA204569",
+    "text_file": "data/llm_extracted/text/NDA204569.txt",
+    "chars": 66209
+  },
+  {
+    "nda": "NDA204629",
+    "text_file": "data/llm_extracted/text/NDA204629.txt",
+    "chars": 27809
+  },
+  {
+    "nda": "NDA204760",
+    "text_file": "data/llm_extracted/text/NDA204760.txt",
+    "chars": 73230
+  },
+  {
+    "nda": "NDA204819",
+    "text_file": "data/llm_extracted/text/NDA204819.txt",
+    "chars": 18828
+  },
+  {
+    "nda": "NDA204820",
+    "text_file": "data/llm_extracted/text/NDA204820.txt",
+    "chars": 11942
+  },
+  {
+    "nda": "NDA204886",
+    "text_file": "data/llm_extracted/text/NDA204886.txt",
+    "chars": 26359
+  },
+  {
+    "nda": "NDA205266",
+    "text_file": "data/llm_extracted/text/NDA205266.txt",
+    "chars": 80395
+  },
+  {
+    "nda": "NDA205352",
+    "text_file": "data/llm_extracted/text/NDA205352.txt",
+    "chars": 15282
+  },
+  {
+    "nda": "NDA205353",
+    "text_file": "data/llm_extracted/text/NDA205353.txt",
+    "chars": 80274
+  },
+  {
+    "nda": "NDA205598",
+    "text_file": "data/llm_extracted/text/NDA205598.txt",
+    "chars": 41832
+  },
+  {
+    "nda": "NDA205649",
+    "text_file": "data/llm_extracted/text/NDA205649.txt",
+    "chars": 37339
+  },
+  {
+    "nda": "NDA205677",
+    "text_file": "data/llm_extracted/text/NDA205677.txt",
+    "chars": 61365
+  },
+  {
+    "nda": "NDA205718",
+    "text_file": "data/llm_extracted/text/NDA205718.txt",
+    "chars": 66660
+  },
+  {
+    "nda": "NDA205739",
+    "text_file": "data/llm_extracted/text/NDA205739.txt",
+    "chars": 14558
+  },
+  {
+    "nda": "NDA205750",
+    "text_file": "data/llm_extracted/text/NDA205750.txt",
+    "chars": 15774
+  },
+  {
+    "nda": "NDA205755",
+    "text_file": "data/llm_extracted/text/NDA205755.txt",
+    "chars": 74236
+  },
+  {
+    "nda": "NDA205776",
+    "text_file": "data/llm_extracted/text/NDA205776.txt",
+    "chars": 37708
+  },
+  {
+    "nda": "NDA205777",
+    "text_file": "data/llm_extracted/text/NDA205777.txt",
+    "chars": 71277
+  },
+  {
+    "nda": "NDA206038",
+    "text_file": "data/llm_extracted/text/NDA206038.txt",
+    "chars": 62243
+  },
+  {
+    "nda": "NDA206073",
+    "text_file": "data/llm_extracted/text/NDA206073.txt",
+    "chars": 21383
+  },
+  {
+    "nda": "NDA206088",
+    "text_file": "data/llm_extracted/text/NDA206088.txt",
+    "chars": 14509
+  },
+  {
+    "nda": "NDA206089",
+    "text_file": "data/llm_extracted/text/NDA206089.txt",
+    "chars": 74634
+  },
+  {
+    "nda": "NDA206099",
+    "text_file": "data/llm_extracted/text/NDA206099.txt",
+    "chars": 20677
+  },
+  {
+    "nda": "NDA206110",
+    "text_file": "data/llm_extracted/text/NDA206110.txt",
+    "chars": 1899
+  },
+  {
+    "nda": "NDA206111",
+    "text_file": "data/llm_extracted/text/NDA206111.txt",
+    "chars": 31027
+  },
+  {
+    "nda": "NDA206439",
+    "text_file": "data/llm_extracted/text/NDA206439.txt",
+    "chars": 10290
+  },
+  {
+    "nda": "NDA206488",
+    "text_file": "data/llm_extracted/text/NDA206488.txt",
+    "chars": 31735
+  },
+  {
+    "nda": "NDA206494",
+    "text_file": "data/llm_extracted/text/NDA206494.txt",
+    "chars": 16595
+  },
+  {
+    "nda": "NDA206500",
+    "text_file": "data/llm_extracted/text/NDA206500.txt",
+    "chars": 49426
+  },
+  {
+    "nda": "NDA206510",
+    "text_file": "data/llm_extracted/text/NDA206510.txt",
+    "chars": 32053
+  },
+  {
+    "nda": "NDA206544",
+    "text_file": "data/llm_extracted/text/NDA206544.txt",
+    "chars": 45638
+  },
+  {
+    "nda": "NDA206545",
+    "text_file": "data/llm_extracted/text/NDA206545.txt",
+    "chars": 44233
+  },
+  {
+    "nda": "NDA206843",
+    "text_file": "data/llm_extracted/text/NDA206843.txt",
+    "chars": 47796
+  },
+  {
+    "nda": "NDA206910",
+    "text_file": "data/llm_extracted/text/NDA206910.txt",
+    "chars": 28018
+  },
+  {
+    "nda": "NDA206911",
+    "text_file": "data/llm_extracted/text/NDA206911.txt",
+    "chars": 4583
+  },
+  {
+    "nda": "NDA206927",
+    "text_file": "data/llm_extracted/text/NDA206927.txt",
+    "chars": 1261
+  },
+  {
+    "nda": "NDA206940",
+    "text_file": "data/llm_extracted/text/NDA206940.txt",
+    "chars": 79181
+  },
+  {
+    "nda": "NDA207223",
+    "text_file": "data/llm_extracted/text/NDA207223.txt",
+    "chars": 39459
+  },
+  {
+    "nda": "NDA207233",
+    "text_file": "data/llm_extracted/text/NDA207233.txt",
+    "chars": 25475
+  },
+  {
+    "nda": "NDA207620",
+    "text_file": "data/llm_extracted/text/NDA207620.txt",
+    "chars": 35042
+  },
+  {
+    "nda": "NDA207621",
+    "text_file": "data/llm_extracted/text/NDA207621.txt",
+    "chars": 75887
+  },
+  {
+    "nda": "NDA207975",
+    "text_file": "data/llm_extracted/text/NDA207975.txt",
+    "chars": 26892
+  },
+  {
+    "nda": "NDA207981",
+    "text_file": "data/llm_extracted/text/NDA207981.txt",
+    "chars": 44227
+  },
+  {
+    "nda": "NDA207988",
+    "text_file": "data/llm_extracted/text/NDA207988.txt",
+    "chars": 70122
+  },
+  {
+    "nda": "NDA207997",
+    "text_file": "data/llm_extracted/text/NDA207997.txt",
+    "chars": 23695
+  },
+  {
+    "nda": "NDA207999",
+    "text_file": "data/llm_extracted/text/NDA207999.txt",
+    "chars": 69173
+  },
+  {
+    "nda": "NDA208010",
+    "text_file": "data/llm_extracted/text/NDA208010.txt",
+    "chars": 20512
+  },
+  {
+    "nda": "NDA208019",
+    "text_file": "data/llm_extracted/text/NDA208019.txt",
+    "chars": 7902
+  },
+  {
+    "nda": "NDA208025",
+    "text_file": "data/llm_extracted/text/NDA208025.txt",
+    "chars": 18870
+  },
+  {
+    "nda": "NDA208026",
+    "text_file": "data/llm_extracted/text/NDA208026.txt",
+    "chars": 5203
+  },
+  {
+    "nda": "NDA208032",
+    "text_file": "data/llm_extracted/text/NDA208032.txt",
+    "chars": 28729
+  },
+  {
+    "nda": "NDA208036",
+    "text_file": "data/llm_extracted/text/NDA208036.txt",
+    "chars": 4520
+  },
+  {
+    "nda": "NDA208042",
+    "text_file": "data/llm_extracted/text/NDA208042.txt",
+    "chars": 73310
+  },
+  {
+    "nda": "NDA208051",
+    "text_file": "data/llm_extracted/text/NDA208051.txt",
+    "chars": 47924
+  },
+  {
+    "nda": "NDA208054",
+    "text_file": "data/llm_extracted/text/NDA208054.txt",
+    "chars": 6882
+  },
+  {
+    "nda": "NDA208056",
+    "text_file": "data/llm_extracted/text/NDA208056.txt",
+    "chars": 63357
+  },
+  {
+    "nda": "NDA208065",
+    "text_file": "data/llm_extracted/text/NDA208065.txt",
+    "chars": 31782
+  },
+  {
+    "nda": "NDA208073",
+    "text_file": "data/llm_extracted/text/NDA208073.txt",
+    "chars": 30563
+  },
+  {
+    "nda": "NDA208078",
+    "text_file": "data/llm_extracted/text/NDA208078.txt",
+    "chars": 23656
+  },
+  {
+    "nda": "NDA208079",
+    "text_file": "data/llm_extracted/text/NDA208079.txt",
+    "chars": 18006
+  },
+  {
+    "nda": "NDA208081",
+    "text_file": "data/llm_extracted/text/NDA208081.txt",
+    "chars": 6364
+  },
+  {
+    "nda": "NDA208082",
+    "text_file": "data/llm_extracted/text/NDA208082.txt",
+    "chars": 62319
+  },
+  {
+    "nda": "NDA208277",
+    "text_file": "data/llm_extracted/text/NDA208277.txt",
+    "chars": 33032
+  },
+  {
+    "nda": "NDA208313",
+    "text_file": "data/llm_extracted/text/NDA208313.txt",
+    "chars": 15630
+  },
+  {
+    "nda": "NDA208341",
+    "text_file": "data/llm_extracted/text/NDA208341.txt",
+    "chars": 72810
+  },
+  {
+    "nda": "NDA208351",
+    "text_file": "data/llm_extracted/text/NDA208351.txt",
+    "chars": 5692
+  },
+  {
+    "nda": "NDA208379",
+    "text_file": "data/llm_extracted/text/NDA208379.txt",
+    "chars": 5541
+  },
+  {
+    "nda": "NDA208383",
+    "text_file": "data/llm_extracted/text/NDA208383.txt",
+    "chars": 15432
+  },
+  {
+    "nda": "NDA208398",
+    "text_file": "data/llm_extracted/text/NDA208398.txt",
+    "chars": 27948
+  },
+  {
+    "nda": "NDA208400",
+    "text_file": "data/llm_extracted/text/NDA208400.txt",
+    "chars": 26973
+  },
+  {
+    "nda": "NDA208401",
+    "text_file": "data/llm_extracted/text/NDA208401.txt",
+    "chars": 17735
+  },
+  {
+    "nda": "NDA208418",
+    "text_file": "data/llm_extracted/text/NDA208418.txt",
+    "chars": 8790
+  },
+  {
+    "nda": "NDA208424",
+    "text_file": "data/llm_extracted/text/NDA208424.txt",
+    "chars": 12979
+  },
+  {
+    "nda": "NDA208434",
+    "text_file": "data/llm_extracted/text/NDA208434.txt",
+    "chars": 69047
+  },
+  {
+    "nda": "NDA208437",
+    "text_file": "data/llm_extracted/text/NDA208437.txt",
+    "chars": 36165
+  },
+  {
+    "nda": "NDA208447",
+    "text_file": "data/llm_extracted/text/NDA208447.txt",
+    "chars": 34812
+  },
+  {
+    "nda": "NDA208462",
+    "text_file": "data/llm_extracted/text/NDA208462.txt",
+    "chars": 51510
+  },
+  {
+    "nda": "NDA208658",
+    "text_file": "data/llm_extracted/text/NDA208658.txt",
+    "chars": 8184
+  },
+  {
+    "nda": "NDA208711",
+    "text_file": "data/llm_extracted/text/NDA208711.txt",
+    "chars": 74201
+  },
+  {
+    "nda": "NDA208712",
+    "text_file": "data/llm_extracted/text/NDA208712.txt",
+    "chars": 76459
+  },
+  {
+    "nda": "NDA208716",
+    "text_file": "data/llm_extracted/text/NDA208716.txt",
+    "chars": 92305
+  },
+  {
+    "nda": "NDA208745",
+    "text_file": "data/llm_extracted/text/NDA208745.txt",
+    "chars": 8720
+  },
+  {
+    "nda": "NDA208772",
+    "text_file": "data/llm_extracted/text/NDA208772.txt",
+    "chars": 77002
+  },
+  {
+    "nda": "NDA208780",
+    "text_file": "data/llm_extracted/text/NDA208780.txt",
+    "chars": 26443
+  },
+  {
+    "nda": "NDA208791",
+    "text_file": "data/llm_extracted/text/NDA208791.txt",
+    "chars": 14711
+  },
+  {
+    "nda": "NDA208794",
+    "text_file": "data/llm_extracted/text/NDA208794.txt",
+    "chars": 30133
+  },
+  {
+    "nda": "NDA208798",
+    "text_file": "data/llm_extracted/text/NDA208798.txt",
+    "chars": 48239
+  },
+  {
+    "nda": "NDA208799",
+    "text_file": "data/llm_extracted/text/NDA208799.txt",
+    "chars": 48239
+  },
+  {
+    "nda": "NDA209080",
+    "text_file": "data/llm_extracted/text/NDA209080.txt",
+    "chars": 16161
+  },
+  {
+    "nda": "NDA209089",
+    "text_file": "data/llm_extracted/text/NDA209089.txt",
+    "chars": 12369
+  },
+  {
+    "nda": "NDA209090",
+    "text_file": "data/llm_extracted/text/NDA209090.txt",
+    "chars": 12369
+  },
+  {
+    "nda": "NDA209091",
+    "text_file": "data/llm_extracted/text/NDA209091.txt",
+    "chars": 994
+  },
+  {
+    "nda": "NDA209092",
+    "text_file": "data/llm_extracted/text/NDA209092.txt",
+    "chars": 76021
+  },
+  {
+    "nda": "NDA209115",
+    "text_file": "data/llm_extracted/text/NDA209115.txt",
+    "chars": 45175
+  },
+  {
+    "nda": "NDA209128",
+    "text_file": "data/llm_extracted/text/NDA209128.txt",
+    "chars": 48279
+  },
+  {
+    "nda": "NDA209176",
+    "text_file": "data/llm_extracted/text/NDA209176.txt",
+    "chars": 32696
+  },
+  {
+    "nda": "NDA209184",
+    "text_file": "data/llm_extracted/text/NDA209184.txt",
+    "chars": 21097
+  },
+  {
+    "nda": "NDA209449",
+    "text_file": "data/llm_extracted/text/NDA209449.txt",
+    "chars": 21068
+  },
+  {
+    "nda": "NDA209471",
+    "text_file": "data/llm_extracted/text/NDA209471.txt",
+    "chars": 50451
+  },
+  {
+    "nda": "NDA209478",
+    "text_file": "data/llm_extracted/text/NDA209478.txt",
+    "chars": 21646
+  },
+  {
+    "nda": "NDA209481",
+    "text_file": "data/llm_extracted/text/NDA209481.txt",
+    "chars": 5558
+  },
+  {
+    "nda": "NDA209482",
+    "text_file": "data/llm_extracted/text/NDA209482.txt",
+    "chars": 13073
+  },
+  {
+    "nda": "NDA209483",
+    "text_file": "data/llm_extracted/text/NDA209483.txt",
+    "chars": 2687
+  },
+  {
+    "nda": "NDA209500",
+    "text_file": "data/llm_extracted/text/NDA209500.txt",
+    "chars": 68081
+  },
+  {
+    "nda": "NDA209501",
+    "text_file": "data/llm_extracted/text/NDA209501.txt",
+    "chars": 27861
+  },
+  {
+    "nda": "NDA209510",
+    "text_file": "data/llm_extracted/text/NDA209510.txt",
+    "chars": 71884
+  },
+  {
+    "nda": "NDA209511",
+    "text_file": "data/llm_extracted/text/NDA209511.txt",
+    "chars": 49460
+  },
+  {
+    "nda": "NDA209512",
+    "text_file": "data/llm_extracted/text/NDA209512.txt",
+    "chars": 8292
+  },
+  {
+    "nda": "NDA209521",
+    "text_file": "data/llm_extracted/text/NDA209521.txt",
+    "chars": 42325
+  },
+  {
+    "nda": "NDA209529",
+    "text_file": "data/llm_extracted/text/NDA209529.txt",
+    "chars": 80268
+  },
+  {
+    "nda": "NDA209531",
+    "text_file": "data/llm_extracted/text/NDA209531.txt",
+    "chars": 16458
+  },
+  {
+    "nda": "NDA209777",
+    "text_file": "data/llm_extracted/text/NDA209777.txt",
+    "chars": 39763
+  },
+  {
+    "nda": "NDA209803",
+    "text_file": "data/llm_extracted/text/NDA209803.txt",
+    "chars": 62661
+  },
+  {
+    "nda": "NDA209805",
+    "text_file": "data/llm_extracted/text/NDA209805.txt",
+    "chars": 62661
+  },
+  {
+    "nda": "NDA209806",
+    "text_file": "data/llm_extracted/text/NDA209806.txt",
+    "chars": 62661
+  },
+  {
+    "nda": "NDA209816",
+    "text_file": "data/llm_extracted/text/NDA209816.txt",
+    "chars": 70815
+  },
+  {
+    "nda": "NDA209819",
+    "text_file": "data/llm_extracted/text/NDA209819.txt",
+    "chars": 65517
+  },
+  {
+    "nda": "NDA209830",
+    "text_file": "data/llm_extracted/text/NDA209830.txt",
+    "chars": 6475
+  },
+  {
+    "nda": "NDA209862",
+    "text_file": "data/llm_extracted/text/NDA209862.txt",
+    "chars": 12545
+  },
+  {
+    "nda": "NDA209863",
+    "text_file": "data/llm_extracted/text/NDA209863.txt",
+    "chars": 33389
+  },
+  {
+    "nda": "NDA209875",
+    "text_file": "data/llm_extracted/text/NDA209875.txt",
+    "chars": 20170
+  },
+  {
+    "nda": "NDA210115",
+    "text_file": "data/llm_extracted/text/NDA210115.txt",
+    "chars": 28026
+  },
+  {
+    "nda": "NDA210166",
+    "text_file": "data/llm_extracted/text/NDA210166.txt",
+    "chars": 74756
+  },
+  {
+    "nda": "NDA210192",
+    "text_file": "data/llm_extracted/text/NDA210192.txt",
+    "chars": 16906
+  },
+  {
+    "nda": "NDA210450",
+    "text_file": "data/llm_extracted/text/NDA210450.txt",
+    "chars": 82989
+  },
+  {
+    "nda": "NDA210455",
+    "text_file": "data/llm_extracted/text/NDA210455.txt",
+    "chars": 758
+  },
+  {
+    "nda": "NDA210491",
+    "text_file": "data/llm_extracted/text/NDA210491.txt",
+    "chars": 73657
+  },
+  {
+    "nda": "NDA210496",
+    "text_file": "data/llm_extracted/text/NDA210496.txt",
+    "chars": 70294
+  },
+  {
+    "nda": "NDA210498",
+    "text_file": "data/llm_extracted/text/NDA210498.txt",
+    "chars": 48902
+  },
+  {
+    "nda": "NDA210526",
+    "text_file": "data/llm_extracted/text/NDA210526.txt",
+    "chars": 11158
+  },
+  {
+    "nda": "NDA210557",
+    "text_file": "data/llm_extracted/text/NDA210557.txt",
+    "chars": 67957
+  },
+  {
+    "nda": "NDA210563",
+    "text_file": "data/llm_extracted/text/NDA210563.txt",
+    "chars": 18300
+  },
+  {
+    "nda": "NDA210793",
+    "text_file": "data/llm_extracted/text/NDA210793.txt",
+    "chars": 29765
+  },
+  {
+    "nda": "NDA210806",
+    "text_file": "data/llm_extracted/text/NDA210806.txt",
+    "chars": 81197
+  },
+  {
+    "nda": "NDA210807",
+    "text_file": "data/llm_extracted/text/NDA210807.txt",
+    "chars": 81197
+  },
+  {
+    "nda": "NDA210833",
+    "text_file": "data/llm_extracted/text/NDA210833.txt",
+    "chars": 19185
+  },
+  {
+    "nda": "NDA210850",
+    "text_file": "data/llm_extracted/text/NDA210850.txt",
+    "chars": 3223
+  },
+  {
+    "nda": "NDA210854",
+    "text_file": "data/llm_extracted/text/NDA210854.txt",
+    "chars": 22328
+  },
+  {
+    "nda": "NDA210861",
+    "text_file": "data/llm_extracted/text/NDA210861.txt",
+    "chars": 77170
+  },
+  {
+    "nda": "NDA210864",
+    "text_file": "data/llm_extracted/text/NDA210864.txt",
+    "chars": 19450
+  },
+  {
+    "nda": "NDA210867",
+    "text_file": "data/llm_extracted/text/NDA210867.txt",
+    "chars": 40491
+  },
+  {
+    "nda": "NDA210868",
+    "text_file": "data/llm_extracted/text/NDA210868.txt",
+    "chars": 75165
+  },
+  {
+    "nda": "NDA210872",
+    "text_file": "data/llm_extracted/text/NDA210872.txt",
+    "chars": 17302
+  },
+  {
+    "nda": "NDA210874",
+    "text_file": "data/llm_extracted/text/NDA210874.txt",
+    "chars": 18353
+  },
+  {
+    "nda": "NDA210875",
+    "text_file": "data/llm_extracted/text/NDA210875.txt",
+    "chars": 55300
+  },
+  {
+    "nda": "NDA210884",
+    "text_file": "data/llm_extracted/text/NDA210884.txt",
+    "chars": 11868
+  },
+  {
+    "nda": "NDA210923",
+    "text_file": "data/llm_extracted/text/NDA210923.txt",
+    "chars": 32353
+  },
+  {
+    "nda": "NDA211155",
+    "text_file": "data/llm_extracted/text/NDA211155.txt",
+    "chars": 77476
+  },
+  {
+    "nda": "NDA211192",
+    "text_file": "data/llm_extracted/text/NDA211192.txt",
+    "chars": 72656
+  },
+  {
+    "nda": "NDA211210",
+    "text_file": "data/llm_extracted/text/NDA211210.txt",
+    "chars": 41505
+  },
+  {
+    "nda": "NDA211225",
+    "text_file": "data/llm_extracted/text/NDA211225.txt",
+    "chars": 8699
+  },
+  {
+    "nda": "NDA211230",
+    "text_file": "data/llm_extracted/text/NDA211230.txt",
+    "chars": 19909
+  },
+  {
+    "nda": "NDA211241",
+    "text_file": "data/llm_extracted/text/NDA211241.txt",
+    "chars": 60185
+  },
+  {
+    "nda": "NDA211566",
+    "text_file": "data/llm_extracted/text/NDA211566.txt",
+    "chars": 11744
+  },
+  {
+    "nda": "NDA211580",
+    "text_file": "data/llm_extracted/text/NDA211580.txt",
+    "chars": 12390
+  },
+  {
+    "nda": "NDA211843",
+    "text_file": "data/llm_extracted/text/NDA211843.txt",
+    "chars": 16084
+  },
+  {
+    "nda": "NDA211855",
+    "text_file": "data/llm_extracted/text/NDA211855.txt",
+    "chars": 32387
+  },
+  {
+    "nda": "NDA211875",
+    "text_file": "data/llm_extracted/text/NDA211875.txt",
+    "chars": 4557
+  },
+  {
+    "nda": "NDA211882",
+    "text_file": "data/llm_extracted/text/NDA211882.txt",
+    "chars": 40415
+  },
+  {
+    "nda": "NDA212268",
+    "text_file": "data/llm_extracted/text/NDA212268.txt",
+    "chars": 55422
+  },
+  {
+    "nda": "NDA212269",
+    "text_file": "data/llm_extracted/text/NDA212269.txt",
+    "chars": 17213
+  },
+  {
+    "nda": "NDA212273",
+    "text_file": "data/llm_extracted/text/NDA212273.txt",
+    "chars": 74811
+  },
+  {
+    "nda": "NDA212279",
+    "text_file": "data/llm_extracted/text/NDA212279.txt",
+    "chars": 19617
+  },
+  {
+    "nda": "NDA212295",
+    "text_file": "data/llm_extracted/text/NDA212295.txt",
+    "chars": 64675
+  },
+  {
+    "nda": "NDA212327",
+    "text_file": "data/llm_extracted/text/NDA212327.txt",
+    "chars": 87476
+  },
+  {
+    "nda": "NDA212516",
+    "text_file": "data/llm_extracted/text/NDA212516.txt",
+    "chars": 23509
+  },
+  {
+    "nda": "NDA212526",
+    "text_file": "data/llm_extracted/text/NDA212526.txt",
+    "chars": 75393
+  },
+  {
+    "nda": "NDA212576",
+    "text_file": "data/llm_extracted/text/NDA212576.txt",
+    "chars": 80202
+  },
+  {
+    "nda": "NDA212593",
+    "text_file": "data/llm_extracted/text/NDA212593.txt",
+    "chars": 8786
+  },
+  {
+    "nda": "NDA212595",
+    "text_file": "data/llm_extracted/text/NDA212595.txt",
+    "chars": 35073
+  },
+  {
+    "nda": "NDA212608",
+    "text_file": "data/llm_extracted/text/NDA212608.txt",
+    "chars": 80166
+  },
+  {
+    "nda": "NDA212614",
+    "text_file": "data/llm_extracted/text/NDA212614.txt",
+    "chars": 31151
+  },
+  {
+    "nda": "NDA212801",
+    "text_file": "data/llm_extracted/text/NDA212801.txt",
+    "chars": 61370
+  },
+  {
+    "nda": "NDA212895",
+    "text_file": "data/llm_extracted/text/NDA212895.txt",
+    "chars": 8544
+  },
+  {
+    "nda": "NDA212904",
+    "text_file": "data/llm_extracted/text/NDA212904.txt",
+    "chars": 69039
+  },
+  {
+    "nda": "NDA212950",
+    "text_file": "data/llm_extracted/text/NDA212950.txt",
+    "chars": 79759
+  },
+  {
+    "nda": "NDA212994",
+    "text_file": "data/llm_extracted/text/NDA212994.txt",
+    "chars": 71306
+  },
+  {
+    "nda": "NDA213004",
+    "text_file": "data/llm_extracted/text/NDA213004.txt",
+    "chars": 40113
+  },
+  {
+    "nda": "NDA213006",
+    "text_file": "data/llm_extracted/text/NDA213006.txt",
+    "chars": 58842
+  },
+  {
+    "nda": "NDA213036",
+    "text_file": "data/llm_extracted/text/NDA213036.txt",
+    "chars": 78652
+  },
+  {
+    "nda": "NDA213217",
+    "text_file": "data/llm_extracted/text/NDA213217.txt",
+    "chars": 70265
+  },
+  {
+    "nda": "NDA213388",
+    "text_file": "data/llm_extracted/text/NDA213388.txt",
+    "chars": 77941
+  },
+  {
+    "nda": "NDA213400",
+    "text_file": "data/llm_extracted/text/NDA213400.txt",
+    "chars": 15611
+  },
+  {
+    "nda": "NDA213411",
+    "text_file": "data/llm_extracted/text/NDA213411.txt",
+    "chars": 75668
+  },
+  {
+    "nda": "NDA213591",
+    "text_file": "data/llm_extracted/text/NDA213591.txt",
+    "chars": 79651
+  },
+  {
+    "nda": "NDA213674",
+    "text_file": "data/llm_extracted/text/NDA213674.txt",
+    "chars": 29256
+  },
+  {
+    "nda": "NDA213687",
+    "text_file": "data/llm_extracted/text/NDA213687.txt",
+    "chars": 48377
+  },
+  {
+    "nda": "NDA213716",
+    "text_file": "data/llm_extracted/text/NDA213716.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA213721",
+    "text_file": "data/llm_extracted/text/NDA213721.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA213736",
+    "text_file": "data/llm_extracted/text/NDA213736.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA213756",
+    "text_file": "data/llm_extracted/text/NDA213756.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA214012",
+    "text_file": "data/llm_extracted/text/NDA214012.txt",
+    "chars": 28306
+  },
+  {
+    "nda": "NDA214070",
+    "text_file": "data/llm_extracted/text/NDA214070.txt",
+    "chars": 34242
+  },
+  {
+    "nda": "NDA214094",
+    "text_file": "data/llm_extracted/text/NDA214094.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA214096",
+    "text_file": "data/llm_extracted/text/NDA214096.txt",
+    "chars": 77880
+  },
+  {
+    "nda": "NDA214120",
+    "text_file": "data/llm_extracted/text/NDA214120.txt",
+    "chars": 40040
+  },
+  {
+    "nda": "NDA214133",
+    "text_file": "data/llm_extracted/text/NDA214133.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA214154",
+    "text_file": "data/llm_extracted/text/NDA214154.txt",
+    "chars": 71906
+  },
+  {
+    "nda": "NDA214187",
+    "text_file": "data/llm_extracted/text/NDA214187.txt",
+    "chars": 18634
+  },
+  {
+    "nda": "NDA214200",
+    "text_file": "data/llm_extracted/text/NDA214200.txt",
+    "chars": 43727
+  },
+  {
+    "nda": "NDA214231",
+    "text_file": "data/llm_extracted/text/NDA214231.txt",
+    "chars": 16153
+  },
+  {
+    "nda": "NDA214517",
+    "text_file": "data/llm_extracted/text/NDA214517.txt",
+    "chars": 35012
+  },
+  {
+    "nda": "NDA214522",
+    "text_file": "data/llm_extracted/text/NDA214522.txt",
+    "chars": 4975
+  },
+  {
+    "nda": "NDA214581",
+    "text_file": "data/llm_extracted/text/NDA214581.txt",
+    "chars": 11295
+  },
+  {
+    "nda": "NDA214621",
+    "text_file": "data/llm_extracted/text/NDA214621.txt",
+    "chars": 80357
+  },
+  {
+    "nda": "NDA214622",
+    "text_file": "data/llm_extracted/text/NDA214622.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA214900",
+    "text_file": "data/llm_extracted/text/NDA214900.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA214927",
+    "text_file": "data/llm_extracted/text/NDA214927.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA214952",
+    "text_file": "data/llm_extracted/text/NDA214952.txt",
+    "chars": 14016
+  },
+  {
+    "nda": "NDA214958",
+    "text_file": "data/llm_extracted/text/NDA214958.txt",
+    "chars": 74050
+  },
+  {
+    "nda": "NDA214985",
+    "text_file": "data/llm_extracted/text/NDA214985.txt",
+    "chars": 69405
+  },
+  {
+    "nda": "NDA214993",
+    "text_file": "data/llm_extracted/text/NDA214993.txt",
+    "chars": 4028
+  },
+  {
+    "nda": "NDA214998",
+    "text_file": "data/llm_extracted/text/NDA214998.txt",
+    "chars": 64698
+  },
+  {
+    "nda": "NDA215014",
+    "text_file": "data/llm_extracted/text/NDA215014.txt",
+    "chars": 75047
+  },
+  {
+    "nda": "NDA215019",
+    "text_file": "data/llm_extracted/text/NDA215019.txt",
+    "chars": 49494
+  },
+  {
+    "nda": "NDA215239",
+    "text_file": "data/llm_extracted/text/NDA215239.txt",
+    "chars": 76960
+  },
+  {
+    "nda": "NDA215341",
+    "text_file": "data/llm_extracted/text/NDA215341.txt",
+    "chars": 78802
+  },
+  {
+    "nda": "NDA215344",
+    "text_file": "data/llm_extracted/text/NDA215344.txt",
+    "chars": 14877
+  },
+  {
+    "nda": "NDA215383",
+    "text_file": "data/llm_extracted/text/NDA215383.txt",
+    "chars": 77895
+  },
+  {
+    "nda": "NDA215401",
+    "text_file": "data/llm_extracted/text/NDA215401.txt",
+    "chars": 60542
+  },
+  {
+    "nda": "NDA215413",
+    "text_file": "data/llm_extracted/text/NDA215413.txt",
+    "chars": 19201
+  },
+  {
+    "nda": "NDA215422",
+    "text_file": "data/llm_extracted/text/NDA215422.txt",
+    "chars": 16974
+  },
+  {
+    "nda": "NDA215423",
+    "text_file": "data/llm_extracted/text/NDA215423.txt",
+    "chars": 43280
+  },
+  {
+    "nda": "NDA215428",
+    "text_file": "data/llm_extracted/text/NDA215428.txt",
+    "chars": 20381
+  },
+  {
+    "nda": "NDA215430",
+    "text_file": "data/llm_extracted/text/NDA215430.txt",
+    "chars": 57197
+  },
+  {
+    "nda": "NDA215431",
+    "text_file": "data/llm_extracted/text/NDA215431.txt",
+    "chars": 12874
+  },
+  {
+    "nda": "NDA215446",
+    "text_file": "data/llm_extracted/text/NDA215446.txt",
+    "chars": 14431
+  },
+  {
+    "nda": "NDA215457",
+    "text_file": "data/llm_extracted/text/NDA215457.txt",
+    "chars": 33505
+  },
+  {
+    "nda": "NDA215760",
+    "text_file": "data/llm_extracted/text/NDA215760.txt",
+    "chars": 50474
+  },
+  {
+    "nda": "NDA215809",
+    "text_file": "data/llm_extracted/text/NDA215809.txt",
+    "chars": 3200
+  },
+  {
+    "nda": "NDA215814",
+    "text_file": "data/llm_extracted/text/NDA215814.txt",
+    "chars": 29122
+  },
+  {
+    "nda": "NDA215830",
+    "text_file": "data/llm_extracted/text/NDA215830.txt",
+    "chars": 67294
+  },
+  {
+    "nda": "NDA215833",
+    "text_file": "data/llm_extracted/text/NDA215833.txt",
+    "chars": 13858
+  },
+  {
+    "nda": "NDA215841",
+    "text_file": "data/llm_extracted/text/NDA215841.txt",
+    "chars": 21228
+  },
+  {
+    "nda": "NDA215842",
+    "text_file": "data/llm_extracted/text/NDA215842.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA215859",
+    "text_file": "data/llm_extracted/text/NDA215859.txt",
+    "chars": 69288
+  },
+  {
+    "nda": "NDA215866",
+    "text_file": "data/llm_extracted/text/NDA215866.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA215875",
+    "text_file": "data/llm_extracted/text/NDA215875.txt",
+    "chars": 782
+  },
+  {
+    "nda": "NDA215887",
+    "text_file": "data/llm_extracted/text/NDA215887.txt",
+    "chars": 38056
+  },
+  {
+    "nda": "NDA215888",
+    "text_file": "data/llm_extracted/text/NDA215888.txt",
+    "chars": 73270
+  },
+  {
+    "nda": "NDA215904",
+    "text_file": "data/llm_extracted/text/NDA215904.txt",
+    "chars": 29160
+  },
+  {
+    "nda": "NDA216203",
+    "text_file": "data/llm_extracted/text/NDA216203.txt",
+    "chars": 57775
+  },
+  {
+    "nda": "NDA216285",
+    "text_file": "data/llm_extracted/text/NDA216285.txt",
+    "chars": 6358
+  },
+  {
+    "nda": "NDA216318",
+    "text_file": "data/llm_extracted/text/NDA216318.txt",
+    "chars": 8023
+  },
+  {
+    "nda": "NDA216338",
+    "text_file": "data/llm_extracted/text/NDA216338.txt",
+    "chars": 17710
+  },
+  {
+    "nda": "NDA216340",
+    "text_file": "data/llm_extracted/text/NDA216340.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA216655",
+    "text_file": "data/llm_extracted/text/NDA216655.txt",
+    "chars": 22840
+  },
+  {
+    "nda": "NDA216660",
+    "text_file": "data/llm_extracted/text/NDA216660.txt",
+    "chars": 34017
+  },
+  {
+    "nda": "NDA216686",
+    "text_file": "data/llm_extracted/text/NDA216686.txt",
+    "chars": 5222
+  },
+  {
+    "nda": "NDA216718",
+    "text_file": "data/llm_extracted/text/NDA216718.txt",
+    "chars": 53410
+  },
+  {
+    "nda": "NDA216755",
+    "text_file": "data/llm_extracted/text/NDA216755.txt",
+    "chars": 10895
+  },
+  {
+    "nda": "NDA217150",
+    "text_file": "data/llm_extracted/text/NDA217150.txt",
+    "chars": 6102
+  },
+  {
+    "nda": "NDA217159",
+    "text_file": "data/llm_extracted/text/NDA217159.txt",
+    "chars": 70185
+  },
+  {
+    "nda": "NDA217171",
+    "text_file": "data/llm_extracted/text/NDA217171.txt",
+    "chars": 28601
+  },
+  {
+    "nda": "NDA217186",
+    "text_file": "data/llm_extracted/text/NDA217186.txt",
+    "chars": 32399
+  },
+  {
+    "nda": "NDA217188",
+    "text_file": "data/llm_extracted/text/NDA217188.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA217202",
+    "text_file": "data/llm_extracted/text/NDA217202.txt",
+    "chars": 29229
+  },
+  {
+    "nda": "NDA217470",
+    "text_file": "data/llm_extracted/text/NDA217470.txt",
+    "chars": 55628
+  },
+  {
+    "nda": "NDA217514",
+    "text_file": "data/llm_extracted/text/NDA217514.txt",
+    "chars": 32051
+  },
+  {
+    "nda": "NDA217564",
+    "text_file": "data/llm_extracted/text/NDA217564.txt",
+    "chars": 73719
+  },
+  {
+    "nda": "NDA217581",
+    "text_file": "data/llm_extracted/text/NDA217581.txt",
+    "chars": 15708
+  },
+  {
+    "nda": "NDA217603",
+    "text_file": "data/llm_extracted/text/NDA217603.txt",
+    "chars": 11553
+  },
+  {
+    "nda": "NDA217604",
+    "text_file": "data/llm_extracted/text/NDA217604.txt",
+    "chars": 17894
+  },
+  {
+    "nda": "NDA217639",
+    "text_file": "data/llm_extracted/text/NDA217639.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA217645",
+    "text_file": "data/llm_extracted/text/NDA217645.txt",
+    "chars": 23794
+  },
+  {
+    "nda": "NDA217651",
+    "text_file": "data/llm_extracted/text/NDA217651.txt",
+    "chars": 4187
+  },
+  {
+    "nda": "NDA217806",
+    "text_file": "data/llm_extracted/text/NDA217806.txt",
+    "chars": 26315
+  },
+  {
+    "nda": "NDA217927",
+    "text_file": "data/llm_extracted/text/NDA217927.txt",
+    "chars": 68349
+  },
+  {
+    "nda": "NDA218037",
+    "text_file": "data/llm_extracted/text/NDA218037.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA218230",
+    "text_file": "data/llm_extracted/text/NDA218230.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA218436",
+    "text_file": "data/llm_extracted/text/NDA218436.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA218466",
+    "text_file": "data/llm_extracted/text/NDA218466.txt",
+    "chars": 12429
+  },
+  {
+    "nda": "NDA218490",
+    "text_file": "data/llm_extracted/text/NDA218490.txt",
+    "chars": 59141
+  },
+  {
+    "nda": "NDA218527",
+    "text_file": "data/llm_extracted/text/NDA218527.txt",
+    "chars": 8289
+  },
+  {
+    "nda": "NDA218549",
+    "text_file": "data/llm_extracted/text/NDA218549.txt",
+    "chars": 20287
+  },
+  {
+    "nda": "NDA218550",
+    "text_file": "data/llm_extracted/text/NDA218550.txt",
+    "chars": 39550
+  },
+  {
+    "nda": "NDA218571",
+    "text_file": "data/llm_extracted/text/NDA218571.txt",
+    "chars": 64018
+  },
+  {
+    "nda": "NDA218585",
+    "text_file": "data/llm_extracted/text/NDA218585.txt",
+    "chars": 16842
+  },
+  {
+    "nda": "NDA218590",
+    "text_file": "data/llm_extracted/text/NDA218590.txt",
+    "chars": 46335
+  },
+  {
+    "nda": "NDA219008",
+    "text_file": "data/llm_extracted/text/NDA219008.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA219015",
+    "text_file": "data/llm_extracted/text/NDA219015.txt",
+    "chars": 26479
+  },
+  {
+    "nda": "NDA219016",
+    "text_file": "data/llm_extracted/text/NDA219016.txt",
+    "chars": 37336
+  },
+  {
+    "nda": "NDA219042",
+    "text_file": "data/llm_extracted/text/NDA219042.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA219070",
+    "text_file": "data/llm_extracted/text/NDA219070.txt",
+    "chars": 75494
+  },
+  {
+    "nda": "NDA219083",
+    "text_file": "data/llm_extracted/text/NDA219083.txt",
+    "chars": 69699
+  },
+  {
+    "nda": "NDA219097",
+    "text_file": "data/llm_extracted/text/NDA219097.txt",
+    "chars": 12142
+  },
+  {
+    "nda": "NDA219122",
+    "text_file": "data/llm_extracted/text/NDA219122.txt",
+    "chars": 14870
+  },
+  {
+    "nda": "NDA219132",
+    "text_file": "data/llm_extracted/text/NDA219132.txt",
+    "chars": 59069
+  },
+  {
+    "nda": "NDA219141",
+    "text_file": "data/llm_extracted/text/NDA219141.txt",
+    "chars": 18109
+  },
+  {
+    "nda": "NDA219285",
+    "text_file": "data/llm_extracted/text/NDA219285.txt",
+    "chars": 15651
+  },
+  {
+    "nda": "NDA219491",
+    "text_file": "data/llm_extracted/text/NDA219491.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA219616",
+    "text_file": "data/llm_extracted/text/NDA219616.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA219666",
+    "text_file": "data/llm_extracted/text/NDA219666.txt",
+    "chars": 73137
+  },
+  {
+    "nda": "NDA219685",
+    "text_file": "data/llm_extracted/text/NDA219685.txt",
+    "chars": 80000
+  },
+  {
+    "nda": "NDA219776",
+    "text_file": "data/llm_extracted/text/NDA219776.txt",
+    "chars": 72272
+  },
+  {
+    "nda": "NDA219792",
+    "text_file": "data/llm_extracted/text/NDA219792.txt",
+    "chars": 66973
+  },
+  {
+    "nda": "NDA219839",
+    "text_file": "data/llm_extracted/text/NDA219839.txt",
+    "chars": 78913
+  },
+  {
+    "nda": "NDA219840",
+    "text_file": "data/llm_extracted/text/NDA219840.txt",
+    "chars": 2847
+  },
+  {
+    "nda": "NDA219847",
+    "text_file": "data/llm_extracted/text/NDA219847.txt",
+    "chars": 38802
+  },
+  {
+    "nda": "NDA219876",
+    "text_file": "data/llm_extracted/text/NDA219876.txt",
+    "chars": 58634
+  }
+]

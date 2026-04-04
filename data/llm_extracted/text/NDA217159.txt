@@ -1,0 +1,1756 @@
+
+
+===== PAGE 13 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+xii
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 104. Summary of Trials Contributing Data to the Population PK and Exposure-
+Response Analyses of Motixafortide.........................................................................180
+Table 105. Summary Statistics of Subject Demographic Characteristics, Laboratory 
+Values, and Extrinsic Factors for the Pharmacokinetic Analysis Population of 
+Motixafortide, Presented by Study ............................................................................181
+Table 106. Parameter Estimates of the Final Population PK Model ...............................182
+Table 107. Summary Statistics of Individual Bayesian Pharmacokinetic Parameter 
+Estimates From the Final Population Pharmacokinetic Model for Motixafortide, 
+Stratified by Disease Status .......................................................................................194
+Table 108. Summary Statistics of Individual Bayesian Pharmacokinetic Parameter 
+Estimates From the Final Population Pharmacokinetic Model for Motixafortide, 
+Stratified by Dose ......................................................................................................195
+Table 109. Studies Included in the PK/PD Analyses.......................................................199
+Table 110. Demographics of Data in the PK/PD Analyses .............................................199
+Table 111. Summary Statistics of Subject Demographic Characteristics, Laboratory 
+Values, and Extrinsic Factors for the Analysis Population Receiving 
+Motixafortide Treatment Used for Development of the CD34+ 
+Pharmacokinetic/Pharmacodynamic Model, Presented by Study .............................200
+Table 112. Parameter Estimates and Standard Errors From the Final Structural 
+Population Pharmacokinetic/Pharmacodynamic Model for CD34+ Cell Counts .....202
+Table 113. Summary Statistics of Subject Demographic Characteristics, Laboratory 
+Values, and Extrinsic Factors Used for Development of the White Blood Cell 
+Pharmacokinetic / Pharmacodynamic Model, Presented by Study ...........................209
+Table 114. Parameter Estimates and Standard Errors From the Final Population 
+PK/PD Model of White Blood Cell Concentrations..................................................212
+Table 115. Summary of Exposure Measures Used in the Safety Adverse Event 
+Analysis by Dose .......................................................................................................222
+Table 116. Data Disposition for Exposure-Response Safety Analysis of Injection Site 
+Reaction and Systemic Reaction Adverse Events .....................................................224
+Table 117. Parameter Estimates and Standard Errors From the Final Exposure-
+Response Model for the Occurrence of Injection Site Reaction................................226
+Table 118. Parameter Estimates and Standard Errors From the Final Exposure-
+Response Model for the Occurrence of Systemic Reaction.......................................229
+Table 119. Data Disposition for Exposure-Response Safety Analysis of Treatment-
+Emergent Adverse Events..........................................................................................230
+Table 120. Parameter Estimates and Standard Errors From the Final Exposure-
+Response Model for the Occurrence of Any Grade Treatment-Emergent Adverse 
+Event ..........................................................................................................................232
+Reference ID: 5240812
+
+
+===== PAGE 17 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+xvi
+Integrated Review Template, version 3.0 (05/25/2022)
+Figure 38. Average Plasma Concentration-Time Curves: Motixafortide After Daily 
+SC Administration for 7 Days in Relapsed / Refractory AML Subjects, Study BL 
+8040.01.......................................................................................................................175
+Figure 39. Motixafortide ADA Assay Applied to Analysis of Samples From Phase 3 
+Study, GENESIS (SOP No. GCL-667) .....................................................................178
+Figure 40. Motixafortide Dose Schedule and ADA Sampling Scheme, GENESIS........178
+Figure 41. Goodness-of-Fit Plots for the Final Population PK Model for 
+Motixafortide .............................................................................................................184
+Figure 42. Prediction-Corrected Visual Predictive Check Plots for the Overall 
+Analysis Population Using the Final Population Pharmacokinetic Model for 
+Motixafortide .............................................................................................................185
+Figure 43. Prediction-Corrected Visual Predictive Check Plots Using the Final 
+Population Pharmacokinetic Model for Motixafortide, Stratified by Disease Status186
+Figure 44. Forest Plot of Model-Predicted AUC0-24h Following a Hypothetical 
+1.25 mg/kg Single Dose of Motixafortide in the Analysis Population......................189
+Figure 45. Forest Plot of Model Predicted Cmax Following a Hypothetical 1.25 mg/kg 
+Single Dose of Motixafortide in the Analysis Population .........................................191
+Figure 46. Boxplot of Individual Bayesian Estimates of Relative Bioavailability 
+Versus Weight-Based Dose, Stratified by Sex ..........................................................196
+Figure 47. Scatterplot of Individual Bayesian Estimates of Apparent Central Volume 
+of Distribution Versus Body Weight, Stratified by Sex ............................................197
+Figure 48. Schematic of Structural Pharmacokinetic/Pharmacodynamic Model for 
+CD34+ Cell Count .....................................................................................................201
+Figure 49. Goodness-of-Fit Plots for the Final Structural Population 
+Pharmacokinetic/Pharmacodynamic Model for CD34+ Cell Counts, Stratified by 
+Study ..........................................................................................................................203
+Figure 50. Prediction-Corrected Visual Predictive Check Plots for the Final 
+Population Pharmacokinetic/Pharmacodynamic Model for CD34+ Cell Counts .....204
+Figure 51. Line Plots of Observed CD34+ Cell Counts Versus Time Since First 
+Motixafortide Dose, Presented by Study and Stratified by Dose ..............................207
+Figure 52. Line Plots of Observed CD34+ Cell Counts Versus Time Since First 
+Motixafortide Dose for Multiple-Dose Studies, Presented by Dose Number ...........208
+Figure 53. Schematic of Structural PK/PD Model for White Blood Cell 
+Concentrations ...........................................................................................................211
+Figure 54. Goodness-of-Fit Plots for the Final Population PK/PD Model for White 
+Blood Cell Concentrations, Stratified by Study.........................................................213
+Figure 55. Prediction-Corrected Visual Predictive Check Plots for the Final 
+Population PK/PD Model for White Blood Cell Concentrations ..............................214
+Reference ID: 5240812
+
+
+===== PAGE 19 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+1
+Integrated Review Template, version 3.0 (05/25/2022)
+Glossary
+ADA
+antidrug antibody
+ADME
+absorption, distribution, metabolism, and excretion 
+AE
+adverse event
+AML
+acute myeloid leukemia
+ARA-C
+cytosine arabinoside
+ASCT
+autologous stem cell transplant
+AST
+aspartate aminotransferase
+ATP
+adenosine triphosphate
+AUC
+area under the concentration-time curve
+auto-HCT
+autologous hematopoietic stem cell transplantation
+BCRP
+breast cancer resistance protein
+BFU-E
+erythroid burst-forming unit
+BLA
+biologics license application
+BMI
+body mass index
+BSA
+body surface area
+BSEP
+bile salt export pump
+CD
+cluster of differentiation
+CDER
+Center for Drug Evaluation and Research
+CFR
+Code of Federal Regulations
+CFU
+colony forming unit
+CI
+confidence interval
+CLcr
+creatinine clearance
+Cmax
+maximum plasma concentration
+CMH
+Cochran-Mantel-Haenszel
+COVID-19
+coronavirus disease 2019
+CR
+complete response
+CRF
+case report form
+CRO
+clinician-reported outcome
+CSF
+colony-stimulating factor
+CSR
+clinical study report
+CXCL12
+C-X-C motif chemokine ligand 12
+CXCR4
+C-X-C motif chemokine receptor 4
+CYP
+cytochrome P450
+DGS
+DiGeorge syndrome
+DMC
+data monitoring committee
+DNA
+deoxyribonucleic acid
+EFD
+embryo-fetal development
+EOP2
+end-of-phase 2
+E-R
+exposure-response
+ESI
+electrospray ionization
+FBC
+fraction of test article distributed to the blood cells
+FDA
+Food and Drug Administration
+Reference ID: 5240812
+
+
+===== PAGE 33 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+15
+Integrated Review Template, version 3.0 (05/25/2022)
+Study/Trial 
+Identifier 
+(NCT#)
+Study/Trial 
+Population
+Study/Trial Design
+Regimen (Number 
+Treated), Duration
+Primary and Key 
+Secondary 
+Endpoints
+Number of 
+Subjects 
+Planned; 
+Actual 
+Randomized[2]
+Number of 
+Centers 
+and 
+Countries
+BL-8040.02 
+(NCT02073019)
+Healthy male 
+subjects; ages 18-
+45 years
+Control type: Part 1: 
+Placebo, Part 2: None
+Randomization: Part 1: 
+Randomized, Part 2: 
+None
+Blinding: Part 1: Double-
+blind, Part 2: Open-label
+Biomarkers: None
+Innovative design 
+features: None
+Drug: motixafortide
+Dosage: 0.5 mg/kg, 
+0.75 mg/kg or 
+1 mg/kg
+Number treated: 
+Part 1:18, Part 2:8
+Duration (quantity 
+and units): 2 d
+Primary: Safety and 
+tolerability
+Secondary: PD: 
+WBC, CD34+, 
+cellular subsets, PK: 
+Cmax, Tmax, AUC, etc.
+40; 32
+Centers: 1, 
+Countries: 
+srael
+201602037 
+(NCT02639559)
+Donors ages 18-
+70 years
+Control type: None
+Randomization: None
+Blinding: Open-label
+Biomarkers: None
+Innovative design 
+features: None
+Drug: motixafortide
+Dosage: 1 mg/kg 
+and 1.25 mg/kg
+Number treated: 25
+Duration (quantity 
+and units): 1 d
+Primary objective: 
+Assess the efficacy of 
+a single injection of 
+drug to mobilize 
+≥2×106 CD34+ 
+cells/kg after no more 
+than 2 collections 
+Secondary 
+objectives: Assess 
+safety, kinetics of 
+neutrophil and 
+platelet recovery. 
+Determine graft 
+failure, incidence of 
+grade 2-4 graft 
+versus host disease
+10+; 25
+Centers: 3, 
+Countries: 
+USA
+Reference ID: 5240812
+
+
+===== PAGE 42 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+24
+Integrated Review Template, version 3.0 (05/25/2022)
+Characteristic
+Drug Information
+General Information
+Bioanalysis
+Motixafortide was assayed in clinical studies 8040.02, BL-8040-SCM.301 (pivotal), and 8040.01 using solid-phase extraction 
+(SPE) and LC-MS/MS, a validated method with a calibration range of 5–2500 ng/mL. Motixafortide was assayed in clinical 
+study BKTSC001 using a validated protein precipitation and LC-MS/MS method with a calibration range of 20–1000 ng/mL. 
+Motixafortide was assayed in clinical studies 20162037 and TQT.103 using SPE and LC-MS/MS methods with a calibration 
+range of 5–1000 ng/mL. The methods were acceptable.
+Healthy subjects versus 
+patients
+Baseline disease status was not identified as a significant covariate for motixafortide exposure in the population PK/PD 
+analysis.
+Drug exposure at steady 
+state following the 
+therapeutic dosing regimen 
+(or single dose, if more 
+relevant for the drug)
+Parameter
+MeanSD
+Cmax
+1800 (SD: 694) ng/mL – Single dose to N=12 in part 1 of pivotal study
+1658 (SD: 563) ng/mL – Population PK analysis
+AUC0- last
+2790 (SD: 1170) ng*hour/mL – Single dose to N=12 in part 1 of the pivotal study
+AUC0-inf
+2830 (SD: 1170) ng*hour/mL – Single dose to N=12 in part 1 of the pivotal study
+Range of effective dose(s) or 
+exposure
+Not applicable because only one-dosage regimen, i.e., 1.25 mg/kg, was tested in the pivotal trial
+Maximally tolerated dose or 
+exposure
+Maximally tolerated dose was not reached. The highest administered dose was 2 mg/kg once daily for 7 consecutive days.
+Accumulation
+Not applicable for this single-dose regimen. No accumulation observed when a second dose was administered.
+Time to achieve steady-state
+Not applicable for this single-dose regimen.
+Bridge between to-be-
+marketed and clinical 
+trial/study formulations
+The commercial formulation differs by a small adjustment in the pH during compounding to improve drug product stability after 
+reconstitution. The target pH after reconstitution is 6.0 compared to the target of pH 6.5 for batches used in clinical trials. The 
+difference in target pH after reconstitution is small and does not require further bridging from a clinical pharmacology 
+perspective.
+Absorption
+Bioavailability
+No dedicated human bioavailability (BA) or bioequivalence (BE) studies were conducted.
+Tmax
+0.25–0.5 hours in the pivotal phase 3 study
+Food effect (fed/fasted)
+Geometric least square 
+mean and 90% CI
+Not applicable for this subcutaneously administered formulation
+Reference ID: 5240812
+
+
+===== PAGE 43 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+25
+Integrated Review Template, version 3.0 (05/25/2022)
+Characteristic
+Drug Information
+Distribution
+Volume of distribution
+Vc/F =30.3 L
+Plasma protein binding
+99% bound; fu =0.01; 84% bound to albumin; 65.5% bound to 1 acid glycoprotein
+Drug as substrate of 
+transporters
+In vitro interactions between motixafortide and the following 13 human transporters was assessed: MDR1, BCRP, BSEP, 
+MATE1, MATE2-K, OATP1B1, OATP1B3, OAT1, OAT3, OCT1, OCT2, PEPT1, and PEPT2. Motixafortide exhibited no 
+inhibition of OAT1, OATP1B1, PEPT1, or PEPT2 up to 10μM. Inhibitions <25% were observed for BSEP, MDR1, BCRP, 
+OAT3, and OATP1B3 (range 14.6–22.8%) at 10μM motixafortide. Motixafortide inhibited MATE1, MATE2-K, OCT1, and OCT2 
+with apparent IC50 values of 2.7, 26.9, 20.1, and 5.1μM, respectively. Maximal unbound motixafortide plasma concentrations 
+were 100-fold lower than the expected IC50 values.
+Elimination
+Mass balance results
+No mass balance study was performed in humans.
+Clearance
+46.2 L/hour
+Half-life
+1.9 hours elimination half-life; same in healthy volunteers and patients
+Metabolic pathway(s)
+16 metabolites were tentatively identified by LC/MS in rat, dog, and human liver microsomes incubation samples. All identified 
+metabolites were hydrolysis and/or disulfide bond cleavage products of motixafortide.
+Primary excretion pathways 
+(% dose)
+Catabolism is the primary path of elimination for motixafortide.
+Intrinsic Factors and Specific Populations
+Body weight
+In the population PK model, body weight was a significant predictor of bioavailability (F1) and Vc/F. Motixafortide is 
+administered using weight-based dosing.
+Age
+Age was not a statistically significant predictor of exposure.
+Renal impairment
+In the population PK model, renal function (normal [n=157], mild [n=55]. and moderately impairment [n=11]) was not found to 
+significantly impact motixafortide PK. Given that this is a single-dose drug and eliminated primarily by catabolism, it is not 
+anticipated that renal impairment would impact exposure to motixafortide
+Hepatic impairment
+In the population PK model, hepatic function (normal [n=212] and mild impairment [n=11]) was not found to significantly impact 
+motixafortide PK. The effect of moderate to severe hepatic impairment has not been evaluated, but the risk for adverse 
+reactions due to increased exposure is low because motixafortide is administered as a single dose.
+Reference ID: 5240812
+
+
+===== PAGE 44 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+26
+Integrated Review Template, version 3.0 (05/25/2022)
+Characteristic
+Drug Information
+Drug Interaction Liability (Drug as Perpetrator)
+Inhibition/induction of 
+metabolism
+The potential for motixafortide to inhibit seven human cytochrome P450 (CYP) isozymes (i.e., CYP 1A2, 2B6, 2C8, 2C9, 
+2C19, 2D6, and 3A4) was investigated in vitro using pooled human liver microsomes. The potential for motixafortide to induce 
+three CYP drug metabolizing enzymes, CYP 1A2, 2B6, and 3A4, was assessed using human hepatocytes (HH) from three 
+individual donors. In pooled human liver microsomes, apparent IC50 values ranged from 9.3 to 32.4μM. In pooled primary HH, 
+inhibition >25% was not seen at concentrations up to 50μM of motixafortide for CYP 2B6, 2C8, and 3A4. Motixafortide at 
+concentrations of up to 10μM showed no induction potential for CYP 1A2, 2B6, and 3A4. In vitro human hepatocyte and 
+human liver microsome results suggest low in vivo CYP inhibition potential for motixafortide.
+Inhibition/induction of 
+transporter systems
+See the section “Drug as substrate of transporters” above in this table.
+Immunogenicity (if Applicable)
+Bioanalysis
+Antibodies against motixafortide were to be detected in human serum samples using a validated electrochemiluminescence 
+immunoassay with sequential addition bridging format. The method had a limit of detection of 0.6 ng/mL at the screening cut 
+point.
+Incidence
+No pre-existing or treatment-emergent antidrug antibodies (ADAs) were detected using a suitably sensitive (0.6 ng/mL) and 
+drug-tolerant validated ADA assay.
+Clinical impact
+Treatment with 1 or 2 injections of motixafortide for stem cell mobilization is not associated with induction of ADA, or any ADA-
+mediated impact on PK, PD, safety, or effectiveness.
+Abbreviations: AUC, area under the concentration-time curve; BCRP, breast cancer resistance protein; BSEP, bile salt export pump; CI, confidence interval; Cmax, maximum plasma concentration; 
+CXCL12, C-X-C motif chemokine ligand 12; CXCR4, C-X-C motif chemokine receptor 4; HR, heart rate; LC-MS/MS, liquid chromatography mass spectrometry; MATE, multidrug and toxic compound 
+extrusion protein; MDR, multidrug resistance; OAT, organic anion transporter; OCT, organic cation transporter; PD, pharmacodynamics; PEPT, peptide transporter; PK, pharmacokinetics; SC, 
+subcutaneous; SD, standard deviation; SDF-1, stromal-derived factor-1
+Reference ID: 5240812
+
+
+===== PAGE 46 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+28
+Integrated Review Template, version 3.0 (05/25/2022)
+incorporating the potentiating effects of concomitant G-CSF treatment on mobilization and the 
+increased loss of CD34+ cells due to apheresis. The model-estimated value of the concentration 
+at which stimulation is half maximum (SC50; 18.1 ng/mL) relative to peak plasma motixafortide 
+concentrations (>1000 ng/mL) observed for doses ≥1 mg/kg supports near maximal stimulation 
+of CD34+ cell mobilization for at least 8 hours postdose. The area under the concentration-time 
+curve (AUC) of CD34+ levels in peripheral blood and successful mobilization rates increased 
+with dose. The most common adverse events (i.e., injection site reactions and systemic reactions) 
+increased with Cmax but reached a plateau at Cmax of 750 ng/mL, which corresponds to a dose of 
+0.71 mg/kg and above. 
+Evaluation of Proposed Dosing Regimen
+The proposed dosing regimen was evaluated in the pivotal trial (BL-8040.SCM.301 or 
+GENESIS) and the study met its primary endpoint.
+The Applicant’s modeling and simulations supports the proposed dose regimen.
+The Applicant’s population PK (PPK) and PK/PD models appear adequate to describe the 
+motixafortide serum concentration-time profiles and the PD response (CD34+ and WBC) 
+following the SC administration of motixafortide.
+The Applicant developed a PPK model for SC-administered motixafortide based on all phase 1 
+and 2 trials, and the phase 3 study in subjects with MM (BL-8040.SCM.301). Dose, sex, self-
+identified ethnicity, number of injections, site of injections, and time of start of apheresis since 
+previous motixafortide dose were considered as predictors of motixafortide PK. The Applicant’s 
+PPK analysis supports weight-based dosing. Neither renal function nor liver function was found 
+to significantly influence motixafortide exposure.
+The Applicant’s population PK/PD efficacy analysis of motixafortide was based on data from a 
+total of six clinical studies, including two phase 1 studies in healthy subjects (BL-8040.02 and 
+BL-8040.TQT.103), one phase 2 study in healthy stem cell donors (201602037), one phase 2 
+study in subjects with relapsed/refractory acute myeloid leukemia (AML; BL-8040.01), and one 
+phase 1/2a study and one phase 3 study in subjects with MM (BKTSC001 and BL-
+8040.SCM.301, respectively). The following covariates were evaluated in the PK/PD model: sex, 
+disease status, baseline age in years, baseline body weight, baseline body mass index, baseline 
+lean body mass, self-identified ethnicity, baseline CD34+ cell counts, number of apheresis 
+sessions, time of apheresis since previous dose, concomitant G-CSF use, concomitant 
+chemotherapy use, G-CSF dose, and time since previous G-CSF dose.
+The Applicant developed a PK/PD model to describe circulating WBC cell count response with 
+data from five clinical studies: BL-8040.02, BL-8040.TQT.103, BKTSC001, 201602037, and 
+BL-8040.SCM.301.
+The Applicant’s exposure-response (E-R) safety analysis with injection site reactions and 
+systemic reactions is considered adequate.
+The Applicant’s E-R for safety analysis included all participants who received motixafortide or 
+placebo, which includes data from six clinical trials. Exposure-response safety analyses included 
+selected treatment-emergent adverse events (TEAEs) using the safety analysis population, 
+including special interest adverse events (AEs; injection site reactions and systemic reactions), 
+any grade TEAE, any TEAE leading to dose interruption, any TEAE leading to dose reduction, 
+Reference ID: 5240812
+
+
+===== PAGE 76 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+58
+Integrated Review Template, version 3.0 (05/25/2022)
+
+In 28-day repeat-dose toxicology studies in rats and dogs, motixafortide was administered 
+subcutaneously at clinically relevant doses (HEDs corresponding to 0.16 to 1.62 mg/kg/day 
+based on BSA extrapolations). Motixafortide-related clinical signs included anaphylactoid 
+type reactions in rats and dogs that were severe at the highest doses tested. Anaphylaxis 
+reactions lessened in frequency after multiple motixafortide administrations, suggesting 
+increased immune tolerance after repeated dosing. Motixafortide exposures decreased 
+between days 14 and 28, which may also have contributed to this effect. The treatment-
+related histopathology findings in rats and dogs were limited to minimal to mild injection site 
+inflammation, necrosis, and hemorrhage, which resolved over time. Findings of 
+hypersensitivity and injection site reactions were also noted in clinical trials. Hematology 
+findings of increases in WBCs at 6 mg/kg (HED 1 mg/kg) in rats and ≥1 mg/kg (HED 
+0.5 mg/kg) in dogs were consistent with HSC mobilization and hematological changes and 
+were interpreted as nonadverse. The no-observed-adverse-effect-levels (NOAELs) were 
+determined to be mid doses of 3 (HED 0.5 mg/kg) and 1 mg/kg (HED 0.5 mg/kg) in rats and 
+dogs, respectively, following once-daily SC treatments for 28 days, based on anaphylaxis and 
+poor injection site tolerability at higher doses. Exposures (based on total plasma drug) at the 
+animal NOAELs were less than clinical exposures (0.4-fold in rats and 0.2-fold in dogs), but 
+margins based on total plasma drug likely underestimate safety due to significant differences 
+in plasma protein binding between species. Unbound, adjusted safety margins to the clinical 
+exposure are ~2-fold in rats and ~1-fold in dog, indicating than NOAEL doses in animals 
+approximate clinically relevant exposures. While not described in detail in this review, 
+clinical signs of hypersensitivity were also observed in single-dose toxicology studies in rats 
+and dogs administered motixafortide SC or intravenously.
+Table 18. Motixafortide Animal Systemic Exposure From the 28-Day Repeat Dose SC Studies and 
+Safety Margin Estimation[1]
+Total Exposure 
+Safety Margins
+Unbound Fraction 
+Exposure[2] 
+Safety Margins
+Species
+Dose Level
+(mg/kg) 
+HED
+(mg/kg)
+Cmax
+(ng/mL)
+AUC0-t
+(ng∙h/mL)
+Cmax
+AUC
+Cmax
+AUC 
+6 mg/kg
+LOAEL/
+highest
+dose
+1
+847
+2701
+0.5
+1
+2
+4
+Rat
+3 mg/kg
+NOAEL
+0.5
+365
+1201
+0.2
+0.4
+1
+2
+3 mg/kg
+LOAEL/
+highest
+dose
+1.62
+1399
+2228
+1
+1
+5
+5
+Dog
+1 mg/kg
+NOAEL
+0.5
+279
+447
+0.2
+0.2
+1
+1
+Source: Reviewer analysis 
+[1] The animal:human safety margins were calculated based on last dose exposures (Cmax and AUC) from GLP repeat dose SC 
+studies in rats and dogs and the clinical human dose of 1.25 mg/kg in subjects with multiple myeloma (Report BL8040-CP22-REP-
+01 GENESIS Study): Mean Cmax is 1800 (ng/mL) and mean AUClast is 2790 (h*ng/mL).
+[2] Motixafortide plasma protein binding in human, rat and dog plasma is 99.2%, 96.9% and 94.9%, respectively, unbound Cmax and 
+unbound AUC were calculated accordingly.
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration; HED, Human Equivalent Dose 
+(calculations are based on body surface area); LOAEL, lowest-observed-adverse-effect-level for severe clinical signs of 
+hypersensitivity including edema, swelling, erythema, decreased activity, and/or increased respiratory rate; NOAEL, no-observed-
+adverse-effect-level; SC, subcutaneous; t, 24 hours
+Reference ID: 5240812
+
+
+===== PAGE 139 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+121
+Integrated Review Template, version 3.0 (05/25/2022)
+Motixafortide pharmacokinetics/toxicokinetics was evaluated following single and/or repeated 
+subcutaneous (SC) dosing (up to 4 weeks) at a dose range of 1 mg/kg to 15 mg/kg (human 
+equivalent doses [HEDs] of 0.162 mg/kg to 2.4 mg/kg) in rats and 0.3 mg/kg to 18 mg/kg (HEDs 
+of 0.162 mg/kg to 9.7 mg/kg) in dogs. Motixafortide pharmacokinetics was predominantly dose-
+proportional in rats and dogs. The maximum plasma concentrations (Cmax) and area under the 
+curve (AUC) increased with dose after SC administration with no major difference between the 
+sexes. Following repeat-dose administration, the exposure appears to decrease particularly at mid 
+dose (rats) and high dose (rats and dogs) at the end of 4 weeks (day 27) compared to the end of 2 
+weeks (day 14). Following repeat-dose SC administration, motixafortide was absorbed rapidly to 
+maximum concentration (Cmax) from 0.25 to 2 hours (Tmax) postdose in rats and dogs. The 
+elimination half-life (T1/2) of motixafortide administered via the SC route of administration 
+ranged from 1 to 3 hours in rats and from 1 to 5 hours in dogs. The T1/2 of SC administered 
+motixafortide in human plasma was comparable to those observed in animals (1.76 to 2.02 
+hours). In rats, accumulation was observed at all doses upon repeated administrations. In dogs, 
+accumulation was not apparent in the repeat-dose studies with the exception of 9 mg/kg 
+following 5 days of repeat-dose administration.
+Table 55. PK Parameters (Combined for Male and Female) of Motixafortide in Rat, and Dog After 
+Repeated-Dose Administration
+Species
+Duration
+Dose 
+(mg/kg/day)
+Cmax(ng/mL)
+AUC0-t (ng∙h/mL)
+Tmax(hr)
+Study No.
+Rat
+14 days
+11/177/-090P
+Day 0
+15 
+168.5
+285
+0.75
+Day 2
+361.5
+1294
+1.5
+Day 6
+1667
+5826.5
+1
+Day 13
+2425
+840
+1
+Rat
+28 days
+09-215-120p
+Day 0
+1
+26
+60a
+0.25
+Day 0
+3
+62
+128a
+0.25
+Day 0
+6
+92
+164
+0.25
+Day 14
+1
+74.8
+164
+1
+Day 14
+3
+463
+1553
+1
+Day 14
+6
+1080.5
+3527
+1
+Day 27
+1
+85
+229
+0.5
+Day 27
+3
+365.3
+1200
+1
+Day 27
+6
+847
+2701
+1
+Dog
+7 days
+Day 1
+3
+582.5
+2534.5
+2
+07/494/028K
+Day 7
+676.5
+2622
+2
+Day 1
+9
+907
+4361
+2
+Day 7
+1833
+9807
+2
+Continued
+Reference ID: 5240812
+
+
+===== PAGE 140 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+122
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 55, continued
+Species
+Duration
+Dose 
+(mg/kg/day)
+Cmax(ng/mL)
+AUC0-t (ng∙h/mL)
+Tmax(hr)
+Study No.
+Dog
+28 days
+09-215-120k
+Day 0
+0.3
+35
+27
+0.54
+Day 0
+1
+198.5
+314
+0.75
+Day 0
+3
+1371
+2100
+0.81
+Day 14
+0.3
+26.7
+24
+0.50
+Day 14
+1
+209
+379
+0.56
+Day 14
+3
+1287
+2359
+0.72
+Day 27
+0.3
+29
+30
+0.65
+Day 27
+1
+279
+424
+0.57
+Day 27
+3
+1399
+2153
+0.56
+Source: Reviewer analysis 
+a Data considered less reliable (R2<0.80, AUC% extrapolated >20%)
+Abbreviations: AUC0-t, area under the curve from 0 hour to the time-point of the last quantifiable concentration; Cmax, maximum 
+plasma concentration; PK, pharmacokinetics; Tmax, time to maximum concentration
+The intravenous (IV) and SC absorption profiles of motixafortide were compared in beagle dogs 
+(1 male and 1 female per route of administration) at single ascending doses (0.9, 2.7, 9, and 
+18 mg/kg by IV or SC) and 5 daily repeated SC administrations of 9 mg/kg following a wash out 
+period of 7 days (study No. 07/494-028KE). At the highest IV dose (18 mg/kg), dogs died within 
+20 minutes of dose administration on day 9 due to the onset of severe clinical conditions that 
+were consistent with anaphylactic type hypersensitivity reactions. The pharmacokinetic (PK) 
+parameters demonstrated a linear kinetic profile based on AUC values; however, accumulation 
+was noted in dogs at the high dose (9 mg/kg) following repeated SC administration. The percent 
+(%) bioavailability of motixafortide by SC administration was not estimated due to AUC values 
+being similar or higher (1.7x at the HD) when compared to the IV route of administration.
+Table 56. TK Parameters of Motixafortide in Dogs After Single-Dose IV or SC Administration
+Parameter
+IV 0.9[1] mg/kg SC 0.9 mg/kg
+IV 2.7 mg/kg SC 2.7 mg/kg
+IV 9 mg/kg
+SC 9 mg/kg
+Tmax (hr)
+0.50
+1.0
+0.50
+1.0
+0.50
+1.0
+T1/2 (hr)
+1.80
+2.6
+1.40
+1.6
+1.05
+3.7
+Cmax(ng/mL)
+444
+111
+1156
+452
+3295
+1621
+AUC0-24hr 
+(ng∙hr/mL)
+599
+519
+1367
+1244
+4824
+8383
+Source: Applicant’s submission 
+[1] Only male PK parameters are represented as female samples were BLQ and not sufficient for PK analysis
+Abbreviations: AUC0-24hr, area under the curve from 0 hour to 24 hours; Cmax, maximum plasma concentration; IV, intravenous; SC, 
+subcutaneous; T1/2, half-life; TK, toxicokinetic; Tmax, time to maximum concentration
+Table 57. TK Parameters of Motixafortide in Dogs After Repeated SC Administration at 9 mg/kg
+Parameter
+Day 1
+Day 2
+Day 3
+Day 4
+Day 5
+Tmax (hr)
+2.00
+2.00
+2.00
+2.00
+2.00
+T1/2 (hr)
+3.9
+3.7
+3.5
+3.2
+3.2
+Cmax(ng/mL)
+1895
+2437
+1899
+2904
+3420
+AUC0-24hr (ng∙hr/mL)
+6276
+9017
+8536
+12720
+13497
+Source: Applicant’s submission
+Abbreviations: AUC0-24hr, area under the curve from 0 hour to 24 hours; Cmax, maximum plasma concentration; T1/2, half-life; TK, 
+toxicokinetic; Tmax, time to maximum concentration
+Reference ID: 5240812
+
+
+===== PAGE 142 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+124
+Integrated Review Template, version 3.0 (05/25/2022)
+labeled motixafortide was synthesized by using the natural amino acid tyrosine (Tyr) located in 
+the cyclic part of the peptide linked to citrulline with 14C-label inside the Tyr aromatic ring.
+
+Peak radioactive concentrations were generally observed between 8 hours and 24 hours 
+postdose, and elimination was protracted with measurable concentrations of radioactivity 
+remaining in the majority of tissues at 840 hours after dose administration.
+
+Some tissues, including the seminal vesicles, white fat, and eyes, showed a steady increase in 
+radioactivity up to and including 72 hours after dose administration.
+
+Tissues containing notable amounts of radioactivity included the injection site, glandular 
+tissues (both endocrine and exocrine), bone marrow, spleen, seminal vesicles, lymph nodes, 
+and tissues associated with excretion and/or elimination (liver, kidney, urinary bladder).
+
+Radioactivity was measurable in the brain from 0.5 hours through last time point assessed in 
+nonpigmented (72 hours postdose) and pigmented rats (840 hours postdose) indicating that 
+motixafortide and/or its metabolites may cross the blood brain barrier in nonpigmented and 
+pigmented rats.
+
+There was no evidence of selective retention or affinity of [14C]-Tyr-motixafortide -related 
+material to melanin containing tissues in partially pigmented rats. 
+
+In 48-hour pooled plasma samples, 2% of the [14C]-Tyr-motixafortide-related radioactivity 
+was extractable from the plasma, suggesting that the remaining portion (98%) was either 
+covalently bound or incorporated into plasma proteins matrix. This observation was only 
+made in this study and was likely due to recycling of labeled Tyr into biosynthesis of other 
+molecules.
+
+Distribution of radiolabeled motixafortide on an unnatural amino acid, Nal (naphthyl alanine 
+chain-3), was assessed using quantitative whole-body autoradiography in male pigmented 
+Long-Evans rats (C18081) and, unlike radiolabeling of the Tyr of motixafortide, labeling of 
+NaI resulted in lack of retention of the radioactivity in rats. For example, levels of 
+radioactivity were below the quantitation limit in most tissues at 840 hours postdose and 
+nearly complete recovery of radioactivity in excreta. 
+
+The highest tissue distribution of radioactivity was noted in the injection site, aorta, kidney, 
+urinary, bladder, pancreas, and ocular system following a single SC injection of 
+6 mg/100μCi/kg [14C Nal]-motixafortide-derived radioactivity.
+
+A minimal level of radioactivity was observed in the brain and spinal cord (central nervous 
+system).
+
+While there was extensive distribution of radioactivity to the melanin-containing uveal tract, 
+exposure (AUC) to [14C Nal] motixafortide-derived radioactivity in the pigmented skin was 
+comparable to that of the non-pigmented skin suggesting limited melanin binding in the skin.
+Metabolism
+In Vitro
+Motixafortide is relatively stable in whole blood and plasma derived from rats, dogs, and humans 
+when evaluated at a concentration representing the maximum anticipated plasma concentration 
+Reference ID: 5240812
+
+
+===== PAGE 151 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+133
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 64, continued
+Parameters
+Major Findings 
+Histopathology 
+Adequate battery: Yes 
+Minimal to mild, chronic, active subcutaneous inflammation associated 
+with necrosis of the skeletal muscle and/or hemorrhage was observed 
+in controls (12/20) and 6 mg/kg/high-dose animals (16/20) males and 
+females. These changes correlated with macroscopic observations.
+Since findings were observed in both motixafortide and control 
+animals, these observations were considered to be procedure-related 
+findings associated with the repeated subcutaneous injection.
+Recovery: Unremarkable.
+Toxicokinetics
+Systemic exposure (Cmax and AUC) to motixafortide increased with 
+increasing dose; the increase in exposure was significantly higher 
+from day 0 to 14 (7x to 13x) or 0 to 27 (9x to 20x), but not between 
+day 14 to day 27 (1x). 
+Drug accumulation was observed in males and females after 14 days 
+of dosing; however, no further accumulation was seen on day 28, 
+likely due to low rate of dissociation of motixafortide from its target 
+CXCR4. As a result, new administered motixafortide has no or fewer 
+receptors to bind to and stays in the plasma and can be detected.
+No apparent gender related differences were observed.
+Source: Applicant’s submission
+Abbreviations: AUC, area under the concentration-time curve; bw, body weight; Cmax,, maximum plasma concentration; F, female; 
+HD, high dose; M, male; MD, mid dose; WBC, white blood cells
+Table 67. Toxicokinetic Parameters in Rats After Treatment of Motixafortide for 28 Days
+Source: Applicant’s submission
+Reference ID: 5240812
+
+
+===== PAGE 155 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+137
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 69, continued
+Parameters
+Major Findings
+Histopathology 
+Adequate battery: Yes 
+Table 73. Histopathology Findings in Dogs After the Motixafortide 
+Treatment for 28 Days
+Index
+% Change From Control
+Nominal 
+(mg/kg/day
+0
+0.3
+1
+3
+Actual (mg/kg/day
+0
+0.22
+0.77
+2.31
+Gender
+M:3
+F:3
+M:3
+F:3
+M:3
+F:
+M
+F
+Study termination (day 28)
+Skeletal muscle 
+Chronic, active subcutaneous 
+inflammation with necrosis
+Minimal to mild
+1/3 
+(1/2) 
+-
+1/3
+-
+-
+-
+3/3
+(1/2)
+-
+Subcutaneous microgranuloma
+Present
+-
+-
+-
+-
+-
+-
+-
+1/3
+Subcutaneous inflammatory infiltrate
+Present
+-
+-
+-
+1/3
+-
+-
+-
+-
+Lungs
+Chronic interstitial or granulomatous inflammation
+Minimal
+-
+1/3
+(1/2)
+1/3
+(1/2)
+2/3
+2/3
+-
+2/3
+(2/2)
+1/3
+Spleen
+Extramedullary hematopoiesis
+Minimal
+-
+1/3
+-
+-
+-
+-
+(2/2)
+(1/2)
+Source: Applicant’s submission
+Recovery – unremarkable.
+Toxicokinetics
+Systemic exposure (Cmax and AUC) to motixafortide increased with increasing 
+dose. The increase was more than proportional for both parameters on all 
+days of evaluations at mid dose (up to 14x) compared low dose, and high 
+dose (up to 5x) compared to mid dose. 
+Drug accumulation was not observed in males and females after 28 days of 
+dosing. 
+No apparent gender related differences were observed.
+Source: Applicant’s submission
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration; ECG, electrocardiogram; F, 
+female, M, male
+Reference ID: 5240812
+
+
+===== PAGE 156 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+138
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 74. Toxicokinetic Parameters in Dogs After Treatment of Motixafortide for 0, 1, 7, 14 and 27 
+Days
+Source: Applicant’s submission
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration; T1/2, half-life; Tmax, time to 
+reach the maximum plasma concentration
+39.1.6. Genetic Toxicology
+Table 75. Genetic Toxicology
+Study No./ Study Title
+Key Study Findings
+07/494-007M/The Testing 
+of BKT-140 With Bacterial 
+Reverse Mutation Assay
+GLP compliance: Yes. 
+Hungarian GLP regulations 
+and OECD GLP, 
+ENV/MC/CHEM(98)17)
+Study is valid: Yes
+Bacterial reverse mutation assay with strains of Salmonella typhimurium 
+(TA98, TA100, TA1535 and TA1537), and Escherichia coli (WP2 uvrA) 
+were conducted up to 5000 µg/plate motixafortide in the presence or 
+absence of in vitro metabolic activation system (S9)-mix from rat liver. 
+Appropriate positive controls and negative (DMSO) controls were 
+included.
+Concentrations selected for the initial mutation assay (plate incorporation 
+method) and the confirmatory mutation assay (preincubation assay) were 
+based on bactericidal activity of motixafortide. Motixafortide was not 
+mutagenic in the bacterial mutation assay under the conditions tested in 
+either the presence or absence of S9-mix.
+07-494-020C/The Testing of 
+BKT-140 With In Vitro 
+Mammalian Chromosome 
+Aberration Test
+GLP compliance: Yes. 
+Hungarian GLP regulations 
+and OECD GLP, 
+ENV/MC/CHEM(98)17)
+Study is valid: Yes
+In vitro mammalian chromosome aberration test was conducted in 
+Chinese hamster lung (CHL) cells in presence or absence of S9-mix. CHL 
+cells were treated with motixafortide for 3 hours with or without S9-mix in 
+experiment A and 3 hours with S9 or 20 hours without S9-mix in 
+experiment B. The cells were harvested at 20 hours and 28 hours in 
+experiments A and B, respectively. Appropriate positive and negative 
+(PBS) controls were included. The highest concentration in the treatment 
+conditions were based on toxicity (<50% survival) compared to the 
+negative control evaluated in experiments A and B. 
+Experiment A with 3/20-hour treatment/sampling time without and with 
+S9-mix: 39.06, 78.12, 156.25, and 312.50 μg/mL.
+Experiment B with 20/28-hour treatment/sampling time without S9-mix: 
+19.53, 39.06, 78.12, and 156.25 μg/mL. 
+Continued
+Reference ID: 5240812
+
+
+===== PAGE 173 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+155
+Integrated Review Template, version 3.0 (05/25/2022)
+a 2-hour incubation, 81.2%, 95.4%, and 90.0% of 7-ethyxycoumarin was metabolized by rat, 
+dog, and human liver microsomes, respectively, demonstrating that the liver microsome 
+preparations in this study were enzymatically active. There was 51.9 to 70.8% of BL-8040 
+remaining after a 2-hour incubation in rat, dog, and human liver microsomes.
+Table 89 shows the half-life (t½) of BL-8040 after a 2-hour incubation with rat, dog, and human 
+liver microsomes.
+The t½ values of BL-8040 in human liver microsomes in the presence of NADPH were 1.93 
+hours (at 1μM) and 3.03 hours (at 10μM). In the absence of NADPH, the t½ values of BL-8040 
+in human liver microsomes were 2.82 hours (at 1μM) and 3.98 hours (at 10μM). 
+Biotransformation for both NADPH dependent and non-NADPH mechanisms showed slower 
+degradation at a higher concentration BL-8040 (i.e., 10μM).
+In addition to BL-8040, sixteen metabolites were tentatively identified by LC/MS in selected rat, 
+dog, and human liver microsomes incubation samples. All were hydrolysis and/or disulfide bond 
+cleavage products of BL-8040, and no other biotransformations (i.e., oxidation on the nonamino 
+acid moieties such as fluorophenyl or naphthalene moieties) were observed. 
+Table 89. Half-Life of BL-8040 After 2-Hour Incubation With Rat, Dog, and Human Liver 
+Microsomes
+Source: NDA 217159 (SDN 1; 9/9/2022) Section 4.2.2.4 Report for Study 15639: Page 10 of 79.
+a The percent of BL-8040 remaining (natural log scale) was plotted versus time. The t½ was calculated using ln2/k, in which k was 
+the elimination rate constant (gradient). The values >2 hours were extrapolated.
+Abbreviations: DLM: dog liver microsomes; HLM: human liver microsomes; RLM: rat liver microsomes; t½, half-life
+Reviewer comment: For 1μM BL-8040, t½ in the absence of NADPH was 50% greater (2.8 
+hours) than in the presence of NADPH (1.9 hours). This suggests that biotransformation of BL-
+8040 may occur through a combination of non-NADPH-dependent and NADPH-dependent (i.e., 
+P450s, FMOs, NADPH-P450 reductase, oxidases) mechanisms.
+Study 15631 – BL-8040: Evaluation of Cytochrome P450 Induction Potential in Human 
+Hepatocytes
+The potential for BL-8040 to induce three CYP drug metabolizing enzymes (CYP 1A2, 2B6, and 
+3A4) was assessed using HH from three individual donors. Induction of CYP enzymes was 
+measured with respect to expression levels of CYP mRNA. Human hepatocytes were treated 
+daily for 3 days with freshly prepared BL-8040 (0.1μM, 1μM, and 10μM), known inducers 
+(positive controls), or a known noninducer (negative control). The positive controls for induction 
+of CYP 1A2, 2B6, and 3A4 were omeprazole (50μM), phenobarbital (750μM), and rifampin 
+(25μM), respectively. Flumazenil (25μM) was used as the negative control (noninducer). At the 
+Reference ID: 5240812
+
+
+===== PAGE 180 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+162
+Integrated Review Template, version 3.0 (05/25/2022)
+Reviewer comment: 
+According to the in vitro drug interaction guidance (January 2020):
+The investigational drug has the potential to inhibit OCT and MATE transporters in vivo if the 
+Imax,u/IC50 value is ≥0.1, where Imax,u is the estimated unbound maximum plasma concentration 
+and IC50 is the half-maximal inhibitory concentration in vitro.
+The clinical Cmax for motixafortide is approximately 1.6M. The unbound Cmax is 0.01×Cmax or 
+0.016M. The lowest IC50 values were for MATE1 and OCT2 with 2.7μM and 5.1μM, 
+respectively.
+MATE
+Imax,u/IC50=0.016M / 2.7M =0.006, which is <0.1
+OCT2
+Imax,u/IC50=0.016M / 5.1M =003, which is <0.1
+Motixafortide exhibited no inhibition of OAT1, OATP1B1, PEPT1, or PEPT2 up to 10μM. 
+Inhibitions <25% were observed for BSEP, MDR1, BCRP, OAT3, and OATP1B3 (range 14.6 to 
+22.8%) at 10μM motixafortide. Motixafortide inhibited MATE1, MATE2-K, OCT1, and OCT2 
+with apparent IC50 values of 2.7, 26.9, 20.1, and 5.1μM, respectively. Maximal unbound 
+motixafortide plasma concentrations were ~100-fold lower than the expected IC50 values.
+40.2. In Vivo Studies
+The following table summarizes the dose administered in the studies that are a source of clinical 
+PK and pharmacodynamic (PD) data on motixafortide.
+Table 96. Summary of Administered Dosages
+PK and PD in Healthy Subjects (N=81)
+BL-8040.02
+Part 1: MTF once daily for 2 days at 0.5, 0.75, or 1 mg/kg
+Part 2: Single MTF dose 1 mg/kg
+BL-8040.TQT.103
+Single MTF dose 1.25 mg/kg
+201602037
+Single MTF dose 1 mg/kg or 1.25 mg/kg
+PK and PD in Multiple Myeloma (N=105)
+BKTSC001
+Day 0: chemotherapy mobilization regimen
+Days 5-10: G-CSF 5 g/kg once daily
+Day 10: Single MTF dose 0.006, 0.03, 0.1, 0.3, 0.9 mg/kg
+BL-8040.SCM.301
+Placebo-controlled Phase 3 with labeled dosing regimen:
+Days 1-8: G-CSF 10 g/kg once daily
+Day 4: 1.25 mg/kg MTF
+Day 6: 1.25 mg/kg MTF if target CD34+ cell count not met
+PK and PD in Acute Myeloid Leukemia (N=37)
+BL-8040.01
+Day 1, day 2: 0.5, 0.75, 1,1.25, 1.5, or 2 mg/kg
+Day 3 – 7: Cytarabine IV + MTF
+Source: Reviewer compiled from information in the NDA 217159 (SDN1) submission
+Abbreviations: IV, intravenous; G-CSF, granulocyte colony-stimulating factor; MTF, motixafortide PD, pharmacodynamics; PK, 
+pharmacokinetics
+Reference ID: 5240812
+
+
+===== PAGE 181 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+163
+Integrated Review Template, version 3.0 (05/25/2022)
+BL-8040.02: A Phase I, Two Part Study Exploring the Safety, Tolerability, 
+Pharmacodynamic and Pharmacokinetic Effect of Ascending Doses of BL-8040 in Healthy 
+Subjects
+This phase 1 study was conducted in two parts. Part 1 was a randomized, double-blind, placebo-
+controlled, dose-escalation study to explore the safety, tolerability, PK, and PD of ascending 
+doses of motixafortide. Part 2 was an open-label dose-expansion study to explore the safety, 
+tolerability, efficacy, and PD of a selected dose of motixafortide determined by the results of part 
+1. In part 1, six subjects received motixafortide (0.5, 0.75, or 1 mg/kg) and two received placebo 
+once daily for 2 consecutive days. In part 2, a single dose of 1 mg/kg was administered to eight 
+subjects followed by an apheresis procedure starting 4 hours after motixafortide injection. 
+Fifteen PK samples were collected in each subject in part 1, and none were collected in part 2. 
+PK samples were collected before dosing and on day 1 at 0.25, 0.5, 1, 2, 4, 8, and 23 hours after 
+the first administration of BL-8040, and on day 2 at 0.25, 0.5, 1, 2, 4, 8, and 24 hours after the 
+second administration of BL-8040. Samples for cluster of differentiation (CD) 34+ analysis were 
+collected prior to BL-8040 injection (time 0) and on day 1 at 2, 3.5, and 24 hours after 
+administration of BL-8040, and on day 3 at 48 hours after administration of BL-8040.
+Plasma concentrations of BL-8040 were measured using the validated method described in the 
+protocol “Solid phase extraction of human plasma samples followed by evaporation of the 
+extracts to dryness and analysis of the reconstituted samples by LC-MS/MS in MRM [multiple 
+reaction monitoring] positive mode using ESI [electrospray ionization] as the ionization 
+technique.” The limit of quantitation was 5.00 ng/mL. 
+Tables Table 97 and Table 98 show the PK parameter estimates for the first and second doses of 
+motixafortide.
+Table 97. PK Parameters for the First Dose of Motixafortide in Healthy Volunteers, Study BL-
+8040.02
+Source: NDA 217159 (SDN 1; 9/9/2022) Section 5.3.4.1  PK Report for Study BL-8040-02 (BL-8040-CP-22-REP-003): Page 17 of 
+75
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration; D, dose; PK, 
+pharmacokinetics; t1/2, half life
+Reference ID: 5240812
+
+
+===== PAGE 182 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+164
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 98. PK Parameters for the Second Dose of Motixafortide in Healthy Volunteers, Study BL-
+8040.02
+Source: NDA 217159 (SDN 1; 9/9/2022) Section 5.3.4.1  PK Report for Study BL-8040-02 (BL-8040-CP-22-REP-003): Page 18 of 
+75
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration; CV, coefficient of variation; D, 
+dose; PK, pharmacokinetics; SD, standard deviation; t1/2, half life
+Figure 31 shows CD34+ counts over time in participants in this study.
+Reference ID: 5240812
+
+
+===== PAGE 183 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+165
+Integrated Review Template, version 3.0 (05/25/2022)
+Figure 31. CD34+ Counts-Time Curves: Average Absolute Counts in Healthy Volunteers, Study 
+BL-8040.02
+Source: NDA 217159 (SDN 1; 9/9/2022) Section 5.3.4.1  PK Report for Study BL-8040-02 (BL-8040-CP-22-REP-003): Page 41 of 
+75
+Each point on day 1 represents the average of six subjects at each dose and error bars represent standard deviation.
+Abbreviations: CD, cluster of differentiation
+After subcutaneous administration of motixafortide on day 1, median Tmax was 0.25 to 0.5 hours, 
+and plasma concentrations declined monoexponentially, with a half-life of approximately 1 hour. 
+Dose-normalized Cmax, AUC0-24, and t½ values were comparable across the three dose groups, 
+suggesting dose proportionality in the 0.5 to 1.0 mg/kg dose range. Peripheral blood CD34+ cell 
+count and associated PD parameters increased following motixafortide administration. Maximum 
+CD34+ counts in peripheral blood averaged 9.31, 38.2, 43.7, and 45.5 IU/mL for the placebo, 
+0.5, 0.75, and 1 mg/kg arms, respectively. At 23 hours postdose, CD34+ levels had declined 
+slightly but were still 5 to 7-fold higher than at baseline. The mean number of cells collected in 
+the apheresis procedure 4 hours after a single 1 mg/kg motixafortide dose was 
+10.6±2.8×106 cells/kg. Upon administration of the second dose, an additional increase in CD34+ 
+cell counts was observed, with maximal counts obtained between 4 to 8 hours. The CD34+ 
+counts declined thereafter, reaching levels that were 1.7-, 2.2-, and 2.4-fold higher than baseline 
+48 hours after the second dose of 0.5, 0.75, and 1 mg/kg groups, respectively.
+BL-8040.TQT.103: Single-Dose, Randomized, Double-Blind, Placebo-Controlled, Positive-
+Controlled, Four-Way Crossover Study to Investigate the Effect of BL-8040 
+(Motixafortide) on the QTc Interval in Healthy Subjects
+Study BL-8040.TQT.103 was a randomized, double-blind, placebo- and positive-controlled, 4-
+period, 4-way crossover study to assess the effect of motixafortide on QTc interval and other PD 
+markers when administered at therapeutic and supratherapeutic dose levels (i.e., single doses of 
+Reference ID: 5240812
+
+
+===== PAGE 184 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+166
+Integrated Review Template, version 3.0 (05/25/2022)
+1.25 mg/kg and 2 mg/kg) to healthy subjects. Cardiodynamic readings, plasma PK samples, and 
+blood PD samples were collected prior to dosing and up to 24 hours postdose in each period. 
+Plasma motixafortide PK samples were collected predose and at 0.25, 0.5, 0.75, 1, 1.5, 2, 3, 4, 6, 
+8, 12, 16, and 24 hours postdose. Blood samples for the determination of CD34+ were collected 
+predose and at 0.75, 2, 4, 8, 12, 16, and 24 hours postdose.
+The impact of motixafortide on QT interval was reviewed by CDER’s interdisciplinary review 
+team for cardiac safety studies in a report dated March 2, 2023, in DARRTS. The impact of 
+motixafortide on QTc interval as described here was taken from that report.
+Following SC administration of 1.25 mg/kg and 2 mg/kg, median Tmax was 0.75 hours postdose 
+for both dose levels followed by a multiphasic decline. The median apparent terminal elimination 
+t½ values were 6.187 and 6.830 hours. Geometric mean Cmax values following 1.25 mg/kg and 
+2 mg/kg motixafortide SC were 2087 ng/mL and 2954 ng/mL, respectively. The highest dose 
+administered in this study (i.e., 2 mg/kg SC) resulted in a Cmax that was 1.7 times the Cmax 
+observed with the therapeutic dose (1.25 mg/kg SC) in subjects with MM. At 1.7-fold the Cmax of 
+the maximum approved recommended dose (1.25 mg/kg SC), the ΔΔQTcI was 11 msec (90% 
+confidence interval [CI]: 8 to 14 msec). The findings of the primary QTc analysis are further 
+supported by a by-time analysis and categorical analysis. Heart rate (HR) increase was observed 
+with the therapeutic and supratherapeutic doses, with peak ΔΔHR of 13 and 17 beats per minute 
+at 0.75 and 0.5 hours postdose, respectively.
+Administration of motixafortide resulted in an increase of mean CD34+ cells with maximum cell 
+count at 16 hours postdose. Mean baseline CD34+ counts were 2.32 and 1.87 cells/μL for the 
+1.25 and 2 mg/kg groups, respectively. Following motixafortide administration, average maximal 
+values were 45.42±23.1 and 56.78±27.65 cells/μL in the 1.25 and 2 mg/kg treatment groups, 
+respectively. CD34+ cell counts 24 hours after motixafortide administration were 35.7±14.00 
+and 49.72±24.82 cells on average for the 1.25 and 2 mg/kg dose groups, respectively.
+Figure 32 shows the mean plasma concentrations of motixafortide for single 1.25 mg/kg and 
+2 mg/kg doses administered to healthy subjects.
+Reference ID: 5240812
+
+
+===== PAGE 187 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+169
+Integrated Review Template, version 3.0 (05/25/2022)
+Figure 34. Mean CD34+ Cells/μL by Time and Dose Group, Study BKTSC001
+Source: NDA 217159 (SDN 1; 9/9/2022) Section 5.3.5.2  Report for Study BKTSC001: Page 43 of 98
+Abbreviations: CD, cluster of differentiation
+Motixafortide plasma levels were below the limit of quantification in the 0.024 mg/kg dose 
+group. At the 0.079 mg/kg dose, motixafortide was detectable in plasma only at the 30-minute 
+postdose time point. At the 0.24 and 0.71 mg/kg dose levels, Tmax occurred 30 minutes after 
+motixafortide administration. A 3-fold increase in dose, from 0.24 mg/kg to 0.71 mg/kg, resulted 
+in 2.6- and 4.2-fold increases in Cmax and AUC, respectively. Administration of motixafortide at 
+doses of 0.024, 0.079, 0.24, and 0.71 mg/kg resulted in mobilization of CD34+ cells in all dose 
+groups. Mean CD34+ counts increased following motixafortide dosing, with a peak at 4 to 8 
+hours postdose. The mean number of cells collected in the first apheresis session was 8.05, 8.55, 
+11.17, and 20.9 cells/kg×106 for the 0.024, 0.079, 0.24, and 0.71 mg/kg groups, respectively.
+BL-8040.SCM.301: A Phase III, Randomized, Double-Blinded, Placebo-Controlled, Multi-
+Centre Study Evaluating the Safety, Tolerability, and Efficacy of Combination Treatment 
+of BL-8040 and G-CSF as Compared to Placebo and G-CSF for the Mobilization of 
+Hematopoietic Stem Cells for Autologous Transplantation in Subjects with Multiple 
+Myeloma – The GENESIS Study
+Study BL-8040.SCM.301 (GENESIS) was a two-part, phase 3, randomized, double-blind, 
+placebo-controlled, multicenter trial evaluating the safety and efficacy of motixafortide + G-CSF 
+versus placebo + G-CSF on the mobilization of human stem cells for autologous transplantation 
+in subjects with MM. The study included a lead-in open-label phase (part 1) in 12 subjects 
+followed by a double-blind, randomized, placebo-controlled 2-arm phase (part 2) in 122 subjects. 
+In part 1, motixafortide was administered at a dose of 1.25 mg/kg on top of G-CSF 
+administration (10 μg/kg/day) with up to two apheresis sessions. In part 2, motixafortide + G-
+CSF (1.25 mg/kg and 10 μg/kg/day, respectively) was compared to placebo + G-CSF throughout 
+the process of autologous HSC transplantation, which included up to four apheresis sessions.
+The primary endpoint was the proportion of subjects with a cumulative collection of ≥6×106 
+CD34+ cells/kg in up to two apheresis sessions. In part 1, PK samples were collected before 
+dosing, and at 0.25, 0.5, 1, 2, 4, 8, and 12 hours after motixafortide administration. PK collection 
+was repeated on day 6 if the cumulative target apheresis goal of ≥6×106 CD34+ cells/kg was not 
+Reference ID: 5240812
+
+
+===== PAGE 188 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+170
+Integrated Review Template, version 3.0 (05/25/2022)
+achieved after two apheresis sessions. Sparse PK samples were collected in part 2 before dosing 
+on day 4, between 40 and 60 minutes after dosing, between 2 and 6 hours after dosing, and 
+between 10 and 14 hours after dosing (day 5 morning and before G-CSF administration). The PK 
+sampling schedule was repeated on days 6 and 7 if a second dose of motixafortide was 
+administered. Blood samples for the determination of CD34+ and WBC counts in peripheral 
+blood (cells/μL) were collected at baseline (day 0, predose), on the morning of day 4 before G-
+CSF administration, and on the morning of day 5 before G-CSF administration (and 12 hours 
+after motixafortide administration), and likewise repeated on days 6 to 8 if the target 
+mobilization goal in the apheresis product was not achieved. CD34+ was also measured in the 
+apheresis product in the morning of days 5 and, if applicable, on days 6, 7, and 8.
+In part 1, there was a 7.2- (SD: 4.7) fold increase in CD34+ cells from day 4 to day 5 in 
+peripheral blood. Eleven of twelve subjects achieved the CD34+ cell mobilization goal in up to 
+two apheresis sessions. The primary efficacy analysis showed that there was a statistically 
+significant greater proportion of subjects in the motixafortide arm mobilizing ≥6×106 CD34+ 
+cells/kg in up to two apheresis sessions after a single administration than in the placebo arm. In 
+part 2, the proportion of responders was 70.0% in the G-CSF + motixafortide arm versus 14.3%  
+in the G-CSF + placebo arm. On day 5 prior to the first apheresis (before G-CSF administration 
+and 12 hours after motixafortide administration), the mean fold change was 7.6 (±4.7) and 1.7 
+(±1.1) for the motixafortide and placebo arms, respectively.
+Table 99 shows a summary of PK parameters for motixafortide during the lead-in study (part 1).
+Table 99. Summary of PK Parameters of Motixafortide After SC Administration in Subjects With 
+Multiple Myeloma, GENESIS Part 1
+Source: NDA 217159 (SDN 1; 9/9/2022) Section 5.3.5.1. Supplementary Documentation to Report for Study BL-8040-SCM-301: 
+Page 261 of 678
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration; NC, not calculated; PK: 
+pharmacokinetic; SC, subcutaneous; t1/2, half life; tmax, time to maximum concentration
+Motixafortide had a Tmax of 0.25 to 0.5 hours and mean half-life of 2.3 hours. In the two subjects 
+whose dosing was repeated on day 6, the plasma concentration-time profiles and PK parameters 
+were similar on day 4 and day 6, indicating minimal accumulation. Variability (CV%) in Cmax 
+and AUC0-∞ for days 4 and 6 ranged from 30% to 43%.
+Further analysis included an assessment of exposure and renal impairment status. Figure 35 
+shows a plot of motixafortide exposure in part 1 of the study as a function of creatinine 
+clearance.
+Reference ID: 5240812
+
+
+===== PAGE 189 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+171
+Integrated Review Template, version 3.0 (05/25/2022)
+Seven subjects with mild to moderate renal impairment had similar exposure as the five subjects 
+with creatinine clearance greater than 90 mL/min. Exposure to motixafortide appeared not to be 
+correlated with the subjects’ renal function.
+Exposure-response analysis of data from the GENESIS trial is discussed in detail in the 
+pharmacometrics assessment of this review (Section 40.5).
+Figure 35. Motixafortide Exposure as a Function of Creatinine Clearance
+Source: NDA 217159 (SDN 1; 9/9/2022) Section 5.3.5.1. Supplementary Documentation for Study BL-8040-SCM-301: Page 268 of 
+678
+Creatinine clearance (CLcr) at baseline was calculated using the Cockcroft-Gault equation.
+Study 20162037: A Phase II Study Evaluating the Safety and Efficacy of BL-8040 for the 
+Mobilization of Donor Hematopoietic Stem Cells and Allogenic Transplantation in Patients 
+With Advanced Hematological Malignancies
+This was a phase 2 open-label evaluation of the efficacy and safety of single dose motixafortide 
+as a single agent in allogeneic hematopoietic cell transplantation. A cohort of donor/recipient 
+pairs were enrolled part 1 (N=14) and part 2 (N=11) of the study. The recipient in part 1 was a 
+sibling, whereas the recipient in part 2 did not have to be related to the donor. Donors received 
+one dose of motixafortide at 1 mg/kg (part 1) or 1.25 mg/kg (part 2) for mobilization and 
+apheresis of CD34+ cells to be infused into recipients with advanced hematological 
+malignancies.
+In both study parts, BL-8040 was administered as a single-dose on day 1. Donors were mobilized 
+as outpatients with SC BL-8040 (motixafortide) in the morning (day 1) followed by 
+leukapheresis approximately 3 hours after the injection. If the donor did not reach the collection 
+goal for mobilization (≥5.0×106 CD34+ cells/kg), a second leukapheresis was performed on day 
+Reference ID: 5240812
+
+
+===== PAGE 190 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+172
+Integrated Review Template, version 3.0 (05/25/2022)
+2 in an effort to reach a total of ≥5×106 cells/kg and at least 2×106 cells/kg from the combined 
+collections. Donors who could not mobilize ≥2×106 cells/kg after two apheresis section were to 
+be considered mobilization failures.
+Blood samples for the determination of motixafortide in plasma were collected from donors on 
+day 1 at 0, 0.25, 0.5, 1, 2, 4, 8, and 24 hours after motixafortide administration. Plasma 
+concentration-time data were available from 14 subjects at the 1 mg/kg dose and 11 subjects at 
+the 1.25 mg/kg dose. Table 100 shows the PK parameters for motixafortide.
+After SC administration of motixafortide, Tmax ranged from 0.5 to 1 hour, and average t½ was 2.2 
+hours for either dose level.
+Table 100. PK Parameters of Motixafortide After Single SC Administration in Healthy Donors, 
+Study 201602037
+Source: NDA 217159 (SDN 1; 9/9/2022) Section 5.3.5.2. PK/PD Report for Study 20162037: Page 12 of 64
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration; CV, coefficient of variation; PK: 
+pharmacokinetic; SC, subcutaneous; SD, standard deviation; t1/2, half life; tmax, time to maximum concentration
+Figure 36 shows motixafortide concentrations after a single dose was administered.
+Figure 36. Average Plasma Concentration-Time Curve of Motixafortide After Single Subcutaneous 
+Administration (Semilog), Study 201602037
+Source:  NDA 217159 (SDN 1; 9/9/2022) Section 5.3.5.2. PK/PD Report for Study 20162037: Page 22 of 64
+Reference ID: 5240812
+
+
+===== PAGE 192 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+174
+Integrated Review Template, version 3.0 (05/25/2022)
+motixafortide SC injections over 2 days (one per day) as monotherapy, followed by concurrent 
+daily administration of motixafortide with ARA-C standard salvage chemotherapy over 5 days. 
+During the combined period, motixafortide was administered 4 hours prior to chemotherapy.
+A total of 42 subjects received motixafortide at doses of 0.5 (N=3), 0.75 (N=3), 1.0 (N=6), 1.25 
+(N=4), 1.5 (N=6 escalation plus N=17 expansion), and 2.0 (N=3) mg/kg.
+Figure 38 shows the average plasma concentrations on days 1, 3, and 7. PK parameters are 
+summarized in Table 101 (days 1 and 7). Motixafortide had a Tmax between 0.25 to 1 hour after 
+dosing on day 1, and average t½ of 1 to 3 hours. Motixafortide did not accumulate with daily 
+dosing. Increases in the dose of motixafortide led to increases in systemic exposure (i.e., Cmax, 
+AUC0-t, AUC0-24, AUC0-∞). Trough concentrations were below limit of detection for doses up to 
+1 mg/kg. Dose-normalized Cmax and AUC0-24 were in general comparable across dose groups 
+with a trend of higher values at the 2 mg/kg dose.
+Reference ID: 5240812
+APPEARS THIS WAY ON ORIGINAL
+
+
+===== PAGE 195 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+177
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 101, continued
+Source: NDA 217159 (SDN 1; 9/9/2022) Section 5.3.5.2. Appendix 16.1.7 to Study BL-8040.01: Pages 33 of 158
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration; CV, coefficient of variation; D, 
+dose; PK: pharmacokinetic; rrAML, relapsed/refractory acute myeloid leukemia; SC, subcutaneous; SD, standard deviation; t1/2, half 
+life; Tmax, time to maximum concentration
+40.3. Bioanalytical Method Validation and 
+Performance
+Validated bioanalytical methods using LC-MS/MS for the detection of motixafortide in plasma 
+as well as electrochemiluminescence-based immunogenicity assays were developed. In the 
+pivotal study (BL-8040.SCM.301), motixafortide was assayed using solid-phase extraction 
+followed by LC-MS/MS. Table 102 summarizes details on the bioanalytical methods used to 
+detect motixafortide in clinical studies. The method is adequately validated to measure 
+motixafortide levels in human plasma.
+Table 102. Details on Bioanalytical Methods for Measuring Motixafortide (MTF)
+Trial
+8040.02
+BKTSC001
+SCM.301
+(Pivotal)
+8040.01
+20162037
+TQT.103
+Analyte
+MTF
+MTF
+MTF
+MTF
+MTF
+MTF
+Method
+14BASM056V1 SOP 
+09.309.01
+BKTHPP
+BKTHPP
+MET-062
+MET-062
+Site
+BioLineRx
+BioLineRx
+Matrix
+K2P
+K2P
+K2P
+K2P
+K2P
+K2P
+Platform
+SPE; LC-MS/ 
+MS MRM
+PP; LC-MS/ 
+MS, MRM
+SPE; LC-MS/ 
+MS; MRM
+SPE; LC-MS/ 
+MS; MRM
+SPE; LC-MS / 
+MS; MRM
+SPE; LC-MS / 
+MS; MRM
+Calibration 
+range 
+(ng/mL)
+5–2500
+20–1000
+5–2500
+5–2500
+5–1000
+5–1000
+Population
+Healthy
+MM
+MM
+rrAML
+AML
+Healthy
+Source:  Reviewer compiled information from 217159 (SDN 1; 9/9/2022) Section 2.7.1. Summary of Biopharmaceutical Studies and 
+Associated Analytical Methods: Pages 17-19 of 56
+Abbreviations: AHM, advanced hematological malignancies; 
+ K2P, K2EDTA plasma; LC-
+MS/MS, liquid chromatography-tandem mass spectrometry; MM, multiple myeloma; MRM, multiple reaction monitoring mode; PP, 
+protein precipitation; rrAML, relapsed/refractory acute myeloid leukemia; SPE, solid phase extraction
+The LC-MS/MS method developed to quantify motixafortide in dog plasma was validated in the 
+range of 10 to 1000 ng/mL. The LC-MS/MS method developed to quantify motixafortide in rat 
+plasma was validated in the range of 10 to 2000 ng/mL.
+Reference ID: 5240812
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 206 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+188
+Integrated Review Template, version 3.0 (05/25/2022)
+(AUC from 0 to 24 hours after dosing [AUC0-24h] and maximum plasma drug concentration 
+[Cmax]) in the female population are predicted to be approximately 10% higher than the male 
+population:
+Equation 1. Population PK Model for Bioavailability
+ 
+The impact of covariates on motixafortide exposure (AUC0-24h and Cmax) were assessed using 
+forest plot with all covariates (Figures Figure 44 and Figure 45). 
+Reference ID: 5240812
+
+
+===== PAGE 259 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+241
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 123. Motixafortide Clinical Efficacy and Effectiveness-Supporting Studies Endpoints, 
+Studies BKTSC001, BL-8040.02, 201602037, and BL-8040.TQT.103
+Study
+Endpoints
+BKTSC001 
+(NCT01010880)
+Primary Endpoint
+Safety was the primary endpoint as measured by:
+Systemic and local AEs 
+Use of concomitant medications
+Change in vital signs, physical examination, and ECG
+Changes in laboratory assessments: chemistry, hematology, coagulation 
+function, and urinalysis
+Secondary Endpoints
+PK and PD profile (exploratory efficacy) of motixafortide as measured by:
+Levels of motixafortide in the plasma before and after dosing
+WBC count before and after study therapy administration
+Platelet and RBC count
+Amount of progenitor stem cells (CD34+ cells) in the blood before and 
+after study therapy administration
+Amount of MM cells (CD138+ cells) in the blood before and after study 
+therapy administration
+Number of CD34+ stem cells collected in apheresis
+BL-8040.02
+Primary Endpoint
+Safety and tolerability evaluated on the basis of the following parameters:
+Vital signs, 12-lead ECG, and physical examination
+AEs
+Clinical laboratory profile
+Secondary Endpoints
+Pharmacodynamic endpoints:
+
+WBC total and differential counts in PB.
+
+CD34+ cell counts assessed by FACS analysis.
+
+Yields of hematopoietic progenitor cells, immune cells, and other 
+cellular subsets collected by leukapheresis assessed by FACS 
+analysis (part 2).
+Pharmacokinetic endpoints (noncompartmental PK parameters)
+
+Cmax - maximum motixafortide plasma concentration
+
+Tmax - time to reach the maximum motixafortide plasma 
+concentration
+
+AUC0-t - area under the motixafortide plasma concentration-time 
+curve from time of administration up to the last time point with a 
+measurable concentration post dose, calculated by linear up-
+logarithmic down trapezoidal summation
+
+AUC0-∞ - area under the motixafortide plasma concentration-time 
+curve extrapolated to infinity, calculated as: AUC0-∞ = AUC0-t + 
+Clast/λz, 
+Continued
+Reference ID: 5240812
+
+
+===== PAGE 260 =====
+
+NDA 217159
+APHEXDA (motixafortide) 
+242
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 123, continued
+Study
+Endpoints
+201602037
+Primary Endpoint
+Adequate allograft defined as a graft that contains ≥2.0×106 CD34+ cells/kg 
+of recipient weight collected from healthy donors in no more than two 
+leukapheresis sessions using motixafortide as the sole mobilizing agent.
+Secondary Efficacy Endpoints 
+Recipients based endpoints:
+Time to neutrophil engraftment
+Time to platelet engraftment
+Graft failure / Graft rejection
+CMV reactivation in CMV-seropositive recipients
+Time to disease relapse / progression transplantation of hematopoietic 
+cells mobilized with motixafortide
+Event-free survival
+Overall survival
+Donor-based secondary efficacy endpoints:
+Change from baseline to day 1 or day 2 (if a second leukapheresis is 
+required) in peripheral blood CD34+ cells concentration
+Proportion of subjects who collect 5×106 CD34+ cells/kg of weight in a 
+single leukapheresis and in two leukapheresis sessions
+Proportion of subjects who collect 2×106 CD34+ cells/kg of recipient 
+weight in a single leukapheresis (post hoc endpoint)
+Secondary Safety Endpoints
+Proportion of subjects with grade II to IV GvHD for the first year after 
+PBSC infusion in subjects who have undergone transplantation of 
+hematopoietic cells mobilized with motixafortide. 
+Proportion of subjects with chronic GvHD for the first year after PBSC 
+infusion in subjects who have undergone transplantation of 
+hematopoietic cells mobilized with motixafortide. 
+Proportion of subjects who died as results from a transplant procedure 
+related complication.
+BL-
+8040.TQT.103
+Safety
+Safety endpoints included AEs, 12-lead safety ECGs, vital signs, clinical 
+laboratory tests, and physical examinations.
+Pharmacokinetics
+The PK endpoints for motixafortide and moxifloxacin in plasma were 
+AUC0-t, AUC0-inf, AUC%extrap, Cmax, Tmax, Kel, t½, CL/F, and Vz/F.
+Source: Applicant CSRs for studies BKTSC001, BL-8040.02, 201602037, and BL-8040.TQT.103
+Abbreviations: AE, adverse event; CMV, cytomegalovirus; ECG, electrocardiogram; FACS, Fluorescence activated cell sorting 
+GvHD, graft vs host disease; MM, multiple myeloma; PB, peripheral blood,; PBSC, peripheral blood stem cell, PK, 
+pharmacokinetics; RBC, red blood cell; WBC, white blood cell,
+Reference ID: 5240812

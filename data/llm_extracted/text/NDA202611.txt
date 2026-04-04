@@ -1,0 +1,1538 @@
+
+
+===== PAGE 25 =====
+
+ 
+4
+1.0 Executive Summary 
+ 
+1.1 Recommendation 
+ 
+From the Clinical Pharmacology perspective, this NDA is acceptable. 
+ 
+1.2 Phase 4 Commitment 
+ 
+From the Clinical Pharmacology perspective, no post-marketing commitments are indicated for 
+this NDA. 
+ 
+1.3 Summary of Important Clinical Pharmacology Findings: 
+ 
+Mirabegron (also known as YM178) Oral Controlled Absorption System (OCAS) is modified 
+release film coated tablet to be available in two dosage strengths of 25 mg and 50 mg. This is a 
+new chemical entity and first-in-class compound as a selective agonist for human beta 3-
+adrenoceptor (beta 3-AR). It is being developed for the treatment of overactive bladder (OAB) 
+with symptoms of urge urinary incontinence, urgency and urinary frequency. The proposed 
+initial dose is 25 mg once daily for 8 weeks prior to titrating up to 50 mg daily with or without 
+food.  However, a dose of 25 mg is reserved for patients with severe renal or moderate hepatic 
+impairment with no increase to 50 mg.  
+ 
+The sponsor conducted 41 studies consisting of 29 Phase 1 and 2 clinical pharmacology studies 
+and 12 global safety and efficacy studies. The Phase 1 studies consist of 6 biopharmaceutics 
+studies and 23 human PK studies including extensive PK/PD modeling and simulation. The 
+primary/pivotal safety and efficacy studies are 178-CL-046, 047, and 074. In addition to the 
+standard clinical pharmacology studies, the sponsor conducted two thorough QT (TQT) studies 
+(# 178-CL-037 and 077). Additional analysis was performed to evaluate the cardiovascular 
+effects (e.g., blood pressure and heart rate). 
+ 
+In addition to human in vivo studies, the sponsor conducted numerous in vitro studies using 
+human biomaterials (e.g., microsomes and cell lines) to characterize the drug metabolic 
+pathways, potential drug-drug interaction (DDI), to identify the isoezymes responsible for the 
+metabolism of mirabegron, and transport mechanisms.   
+ 
+Basic PK Information: 
+ 
+While Mirabegron has a chiral center (R and S) the product under review is the R-enantiomer. It 
+should be noted that no chiral inversion was observed in vivo. The plasma protein binding is 
+71%. The drug binds to albumin and alpha-1 acid glycoprotein. Erythrocytes concentration is 2-
+fold higher than in the plasma (in-vitro data). The drug is widely distributed in the body with 
+large volume of distribution of approximately 1670 L. The terminal elimination half life of 
+mirabegron on average is approximately 50 hours.   
+ 
+The time to reach maximum concentration (Tmax) is 3-4 hours. Based on the Biopharmaceutics 
+Classification System (BCS) mirabegron may be considered Class 3 with high solubility and low 
+Reference ID: 3129601
+
+
+===== PAGE 26 =====
+
+ 
+5
+permeability (see ONDQA review). The absolute bioavailability is approximately 29% at 25 mg 
+dose and 35% at 50 mg dose (i.e., dose dependent). Also, the bioavailability appears to be higher 
+in females than in males. Overall, the exposure in females is approximately 40% to 50% higher 
+than in males (uncorrected for body weight). However, when corrected for body weight, the 
+difference is reduced to approximately 20% to 30%.  
+ 
+Absorption is dependent on the fat content of food; the effect being greater following a low fat 
+meal compared to a high fat meal. The maximum concentration (Cmax) and the area under the 
+concentration-time curve (AUC) were reduced by approximately 45% and 17% following high 
+fat meal compared to fasting, respectively. However, when low fat meal was consumed, the 
+Cmax was reduced by 75% and AUC was reduced by 51%.  This may cause potential day-to-day 
+fluctuation in mirabegron plasma concentration compared to fasting condition. 
+ 
+Irrespective of this unpredictability in mirabegron systemic exposure due to inconsistencies in 
+food contents and the associated dose dependency in bioavailability, the sponsor’s proposed 
+label states that the drug may be given with or without food. It should be noted that pivotal Phase 
+3 studies were conducted irrespective of food consumption. 
+ 
+Metabolism: 
+ 
+Approximately 55% of radioactivity (14C) is recovered in urine and 34% in feces. The drug is 
+extensively metabolized to approximately 10 metabolites. Approximately 25% of dose was 
+excreted unchanged in urine. None of these metabolites appears to be active in reference to 3-
+AR. There appear to be several metabolic pathways involved in the metabolism of mirabegron. 
+These include dealkylation, oxidation, and glucuronidation, and amid hydrolysis. Also, these 
+pathways involve several enzymes and isoenzymes such as butyrylcholinesterase, uridine 
+diphospho-glucuronosyltransferase (UGT), CYP3A4, and CYP2D6, and alcohol dehydrogenase. 
+However, CYP3A4 appears to be the primary responsible isoenzyme. 
+ 
+Dose-Exposure and Specific Population:   
+ 
+It appears, in general, that steady state plasma concentrations are reached within 7 days after 
+once daily (QD) dosing. There was no apparent difference in PK in relation to age (18-55 vs. 65-
+80 years). Cross study analysis reveals that the exposure in Japanese subjects appears to be 
+higher than that of Westerner subjects (Studies 178-CL-41 and 078). There were no apparent 
+differences in PK between Caucasians and African Americans. 
+ 
+In patients with mild, moderate, and severe renal impairment the AUC increased by 31%, 66%, 
+and 118% and the Cmax increased by 6%, 23%, and 92% compared to healthy subjects, 
+respectively. In patients with mild hepatic impairment (Child-Pugh Class A) the Cmax and AUC 
+were increased by 9% and 19% and in moderate (Child-Pugh Class B) they were increased by 
+175% and 65% compared to healthy subjects, respectively. No study was conducted in severe 
+hepatic impairment patients (Child-Pugh Class C). Based on these studies, the recommended 
+dose is only 25 mg QD in severe renal and moderate hepatic impairment with no titration up to 
+50 mg dose.  However, mirabegron is not recommended in patients with severe hepatic 
+impairment (Child-Pugh Class C). 
+Reference ID: 3129601
+
+
+===== PAGE 27 =====
+
+ 
+6
+ 
+Drug-Drug Interaction (DDI) Findings:  
+ 
+The sponsor conducted several in vivo and in-vitro drug-drug interaction studies to establish the 
+effect of other drugs on the PK of mirabegron and the effect of mirabegron on other drugs.  
+ 
+Ketoconazole, as a potent CYP3A4 and P-glycoprotein (P-gp) inhibitor, increased the Cmax and 
+AUC of mirabegron by 45% and 81% while rifampin as a potent enzyme inducer reduced the 
+Cmax and AUC by 35% and 44%, respectively. Other tested drugs such as metformin, 
+solifenacin, and tamsulosin had no effect on mirabegron PK. 
+ 
+From the genetic polymorphism perspective, there was no apparent difference in mirabegron 
+exposure between CYP2D6 poor metabolizers and extensive metabolizers. Based on these 
+findings, the sponsor did not conduct study with CYP2D6 inhibitors. Therefore, no dose 
+adjustment is needed when the drug is co-administered with CYP2D6 inhibitors or patients who 
+are CYP2D6 poor metabolizers.  
+ 
+Mirabegron increased the Cmax and AUC of two CYP2D6 substrates, metoprolol and 
+desipramine. The Cmax and AUC of metoprolol increased by 90% and 229% and of desipramine 
+by 79% and 241%, respectively. This shows that mirabegron is a moderate inhibitor of CYP2D6. 
+Therefore, metoprolol, desipramine, and other CYP2D6 substrates with a “narrow therapeutic 
+index” should be used with caution and will require titration when coadministered with 
+mirabegron.  
+ 
+The Cmax and AUC of tamsulosin (a CYP2D6 and CYP3A4 substrate) was increased by 60% 
+when co-administered with mirabegron. Other studies showed that mirabegron has minimal or no 
+effect on other drugs such as:  combined oral contraceptives (COC) containing ethinyl estradiol 
+and levonorgestrel or other in vivo probes of metabolism such as: solifenacin (CYP3A4 
+substrates), warfarin (probe substrate for CYP2C9), metformin, and digoxin.  
+ 
+Exposure-Response and Cardiovascular/QT Data:   
+ 
+An analysis of the data in reference to the effect on blood pressure was performed by the cardio-
+renal and the clinical pharmacology team. Based on this analysis, mirabegron shows 
+concentration dependent increase in systolic blood pressure (SBP) in healthy subjects from Phase 
+1 studies and specifically in TQT study (Study # 178-CL-077). This analysis is performed in 
+details in joint documents from the cardio-renal and clinical pharmacology team (reviews dated 
+January 20, 2012 and February 28, 2012). This issue was also discussed in details at the 
+Advisory Committee (AC) meeting held on April 5, 2012 (see background materials, 
+presentation slides, and transcript at  
+http://www.fda.gov/AdvisoryCommittees/Calendar/ucm291237.htm. 
+    
+As the dose of mirabegron increased from 50 mg to 200 mg, the observed increase in heart rate 
+over baseline was approximately 6.7 beats per minutes (bpm) to 17.3 bpm. PK/PD modeling 
+showed that heart rate and blood pressure increased with increasing mirabegron plasma 
+concentration, especially in TQT study (178-CL-077).  
+Reference ID: 3129601
+
+
+===== PAGE 31 =====
+
+ 
+10
+For metoprolol, the Cmax and AUC were increased by 90% and 229% (Study 178-CL-005) and 
+for desipramine by 79% and 241% (Study 178-CL-058) when co-administered with mirabegron, 
+respectively. There was minimal effect on COC and solifenacin (Study 178-CL-068). 
+ 
+In vitro studies showed no potential DDI between sulfonylurea hypoglycemic agents such as 
+glibenclamide, glipizide and tolbutamide and mirabegron in both directions. Mirabegron is not 
+an inducer of CYPs. In vitro data showed no chiral inversion. 
+ 
+2.1.4.2 What are the Highlights of Studies Conducted in Human (In Vivo Human Studies)? 
+ 
+The clinical development of mirabegron consisted of 41 studies. The clinical pharmacology 
+Phase 1 program consists of 29 studies as listed below:   
+ 
+• 18 clinical pharmacology studies which used the Oral Controlled Absorption System 
+(OCAS) formulation 
+• 5 clinical pharmacology studies which used an oral solution or immediate release (IR) solid 
+dosage formulations 
+• 6 biopharmaceutic (bioavailability, food effect and In-Vitro-In-Vivo Correlation [IVIVC]) 
+studies which used OCAS formulations with varying release rates. 
+ 
+In addition, there were 2 thorough QT (TQT) studies (# 178-CL-037 and 077) and PK/PD 
+modeling and simulation reports. 
+ 
+IR formulations of mirabegron were used in the initial studies. Subsequently, the development 
+was focused on modified release formulations leading to the development of mirabegron OCAS. 
+The proposed to-be-marketed formulation of mirabegron is the OCAS medium-release 
+formulation. In this NDA and throughout the review it has also been referred to as “OCAS-M”, 
+“OCAS target” or simply “OCAS”. 
+ 
+The safety and efficacy was evaluated in 6 global, 12 week Phase 2b and Phase 3 studies. The 
+following are the three pivotal efficacy studies in patients with OAB conducted in North 
+America and Europe: 178-CL-046, 047, and 074. The following Sections give the synopsis of the 
+clinical pharmacology studies per subjects:   
+ 
+2.1.4.2.1 PK Studies in Healthy Subjects: 
+ 
+The single- and multiple-dose PK of mirabegron were assessed in several phase 1 studies. Study 
+178-CL-001, the first-in-human study of mirabegron given as an IR formulation, was conducted 
+in 2 parts. The first part studied the PK of escalating single doses of mirabegron IR and also 
+assessed dose proportionality of the IR formulation. Part 2 of the study examined the effects of 
+food. Dose proportionality after single and multiple doses of the OCAS formulation was assessed 
+in several dose escalation studies (178-CL-031, 066, 034, 076, 077, and 072). 
+ 
+In Studies 033 and 076, the PK of mirabegron after intravenous administration was 
+characterized. The mass balance study conducted to determine the disposition of a 160 mg oral 
+dose as solution of 14C-labeled mirabegron in study 007. The effect of food on the PK of IR and 
+Reference ID: 3129601
+
+
+===== PAGE 45 =====
+
+ 
+24
+Figures 2.2.4.1.2: Mean Cmax and AUC of Mirabegron After IV Infusion Over 120 
+Minutes in 30 Human Subjects From Two Studies: Study 178-CL-076 Doses Were 7.5, 15, 
+and 30 mg Study 178-CL-033 Doses Were 15 mg and 50 mg. 
+A: Cmax 
+ 
+ 
+ 
+ 
+B: AUC 
+Mean Cmax of Mirabegron After IV Infusion in Two Separate 
+Studies (033 and 076)
+0
+50
+100
+150
+200
+250
+300
+0
+10
+20
+30
+40
+50
+Dose (mg)
+C m a x
+( n g / m L )
+Mean AUC of Mirabegron After IV Infusion From Two Separate 
+Studies 
+(033 and 076)
+0
+200
+400
+600
+800
+1000
+0
+10
+20
+30
+40
+50
+Dose (mg)
+A U C
+( n g
+h / m L )
+ 
+ 
+Unlike IV administration, the deviation from dose proportionality was more evident after oral 
+administration. For example, following oral administration of 10 to 340 mg single doses of the 
+IR tablet administered in the fasted state, a greater than proportional increase in mean AUC and 
+Cmax was observed (Figures 2.2.4.1.3, Study 178-CL-001). Similarly, greater than dose 
+proportional increase was observed after multiple dose administration of 40 mg to 240 mg doses 
+of IR tablets (Study 178-CK-002).   
+ 
+Figure 2.2.4.1.3 Mean (SD) Cmax and AUC of Mirabegron After Oral Administration of 
+IR Tablets (Study 178-CL-001) 
+A: Cmax 
+ 
+ 
+ 
+ 
+B: AUC 
+Mean (SD) of Mirabegron Cmax After Oral IR Tablets (Study # 
+178-CL-001)
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+0
+50
+100
+150
+200
+250
+300
+350
+Dose (mg)
+C m a x ( n g /m L )
+Mean AUC0-inf of Mirabegron After Oral Administration of IR 
+Tablets (Sudy # 178-CL-001)
+0
+1000
+2000
+3000
+4000
+5000
+6000
+0
+50
+100
+150
+200
+250
+300
+350
+Dose (mg)
+A U C ( n g .h /m L )
+ 
+Reference ID: 3129601
+
+
+===== PAGE 48 =====
+
+ 
+27
+Table 2.3.1.1.1. Across Studies Pooled Analysis for the Effect of Age on Mirabegron PK 
+After Multiple Doses of 50 mg and 100 mg (Pooled Data From Several Studies) 
+Dose 
+Parameter 
+18-45 years 
+46-64 years 
+65-74 years 
+>75 years 
+Single Dose 
+n 
+ 
+145 
+18 
+11 
+1 
+50 mg 
+Cmax (±SD) 
+(ng/ml) 
+33 (35.9) 
+29.1 (21.8) 
+32.1 (15.2) 
+51.5 
+ 
+AUC (±SD) 
+(ng.h/ml) 
+340 (237) 
+314 (165) 
+308 (79.4) 
+297 
+Multiple Dose 
+n 
+ 
+35 
+14 
+19 
+2 
+50 mg 
+Cmax (±SD) 
+(ng/mL) 
+50.4 (22.3) 
+58.1 (26.9) 
+41.7 (19.1) 
+50.1 (4.24) 
+100 mg 
+AUC (±SD) 
+(ng.h/mL) 
+401 (146) 
+410 (144) 
+318 (148) 
+494 (202) 
+ 
+Reviewer’s Comments: 
+ 
+Although the data from this NDA shows no clear trend on the influence of age on any of the PK 
+parameters, population PK analysis showed slight increase (~11%) in mirabegron exposure in 
+subjects with advanced age (Report # 178-PK-015).   
+ 
+2.3.1.2 Effect of Gender: 
+ 
+Overall, it was observed from this NDA that mirabegron Cmax and AUC are approximately 40% 
+to 50% higher, respectively, in females compared with males. However, when the data is 
+normalized for body weight, the difference becomes smaller ranging from 20% to 30% 
+(depending on the study). Therefore, the observed difference in exposure appears to be partially 
+associated with body weight and other unknown factors.  
+ 
+The study 178-CL-072 was conducted in healthy male and female subjects at doses of 25 mg, 50 
+mg, and 100 mg QD for 7 days (a loading dose as BID on day 1, then QD for 6 days). The data 
+from all three doses were consistent in which the exposure of mirabegron and its metabolites 
+were higher in females than in males. 
+ 
+For the 50 mg dose, the overall mean Cmax and AUC in young or elderly females were 
+numerically higher than that in the corresponding male subjects, the elderly subjects having a 
+more pronounced difference. Specifically, the observed mean Cmax was 54.4, 58.1 in young 
+males and females and 43.5, and 66.3 in elderly males and females, respectively. For AUC the 
+mean was 413, 471 in young males and females, and 341 and 512 in elderly males and females, 
+respectively.  In addition, the half life tended to be longer in females (mean values, 59.0 to 67.9 
+hr) compared with males (mean values, 56.3 to 60.0 hr).  
+ 
+As described earlier similar results were also obtained in the TQT study 178-CL-077 (Figure 
+2.2.3.2, Section 2.2.3).  After multiple doses of 50 mg to 200 mg QD, the observed AUC was 
+Reference ID: 3129601
+
+
+===== PAGE 49 =====
+
+ 
+28
+approximately 39% to 51% and the Cmax was approximately 32% to 63% higher in female 
+compared to male volunteers across all doses. 
+ 
+In one of the formulation development study, the sex difference in the PK of mirabegron was 
+shown to be more pronounced after oral administration compared with intravenous 
+administration (Study 178-CL-076). This study was conducted after single IV doses of 7.5 mg, 
+15 mg or 30 mg of mirabegron. The mean Cmax and AUC were approximately 20% and 27% 
+higher in female subjects compared to male subjects across all dose levels. However, after oral 
+administration of 25 mg, 50 mg or 100 mg of mirabegron, the mean Cmax and AUC were 
+approximately 49% and 64% higher in female subjects compared to male subjects across all dose 
+levels. The absolute bioavailability from this study was 35.0% and 53.0% in females and 24.6% 
+and 40.3% in males at 25 and 100 mg doses, respectively. No differences in bioavailability were 
+observed at the 50 mg dose.  
+ 
+The gender differences in exposure observed in these studies are consistent across studies 
+submitted in this NDA as illustrated from the Pop PK analysis of Phase 2 and 3 data (Report 
+#178-PK-015, Figure 2.3.1.2.1). From this analysis, females had a 38% higher AUC than males, 
+although the magnitude of the difference did differ with age and dose as shown above. 
+ 
+Figure 2.3.1.2.1 Influence of Sex on Typical Male and Female Subject’s Steady State 
+Plasma Concentration versus Time Profile after Receiving a 50 mg Dose of Mirabegron 
+(Pop PK Analysis, Report #178-PK-015) 
+ 
+ 
+Based on the overall drug safety and efficacy shown in Phase III studies in which the majority of 
+subjects enrolled in all these studies were females, no dose adjustment is needed based on 
+gender.  
+ 
+2.3.1.3 Effect of Race: 
+ 
+The influence of race on mirabegron plasma exposure was explored in the TQT study 178-CL-
+077. This study included a similar number of Caucasians and African American subjects. After 
+multiple doses of 50 mg, 100 mg or 200 mg, there were no notable differences in mean Cmax 
+and AUC between Caucasian subjects and African American subjects. The numbers of subjects 
+in other racial categories were too small for an informative analysis.  
+Reference ID: 3129601
+
+
+===== PAGE 50 =====
+
+ 
+29
+ 
+The influence of race on the PK of mirabegron was further explored in a pooled analysis across 
+phase 1 studies. In this analysis only healthy subjects receiving mirabegron OCAS alone at 
+single or multiple doses under fasted conditions were included. No consistent trend was seen 
+among all treatments between the subjects classified for race.  While numerical differences were 
+seen, these differences did not rise to the level of anticipated clinical significance.  
+ 
+Several single-dose and multiple-dose PK studies and food effect studies with mirabegron were 
+conducted in healthy Japanese subjects (178-CL-034, 066, 064 and 078). The food effect study 
+078 was of similar design as the food effect study 041 performed in Western (i.e. non-Asian) 
+subjects. This allows a direct comparison of single-dose PK parameters between Japanese and 
+Western subjects (Table 2.3.1.3.1). Mean Cmax and AUC values in Japanese subjects were 
+approximately 54% to 177% and 42% to 119% higher, respectively, than those observed in 
+Western subjects after single doses of mirabegron (50 mg and 100 mg) under fasted conditions.  
+ 
+This difference in exposure is largely related to differences in body weight. Weight-normalized 
+values for Cmax were about 14% to 64% higher in Japanese subjects compared to those in 
+Western subjects, whereas mean AUC values were 38% higher at the 50 mg dose and 5% lower 
+at the 100 mg dose. Half life was comparable for the Japanese and Western populations, 
+consistent with the comparable degree to which mirabegron accumulated in plasma after once 
+daily dosing in these subjects.  
+ 
+Similar results were obtained after multiple doses of mirabegron. Mean values for Cmax and 
+AUC in healthy young Japanese participants who received mirabegron 100 or 200 mg for 7 days 
+[Study 178-CL-034] were higher compared with healthy young Western subjects who received 
+mirabegron 50 to 300 mg qd for 10 days [Study 178-CL-031]. Mean Tmax and half life values 
+were similar between the 2 populations. 
+ 
+Further analysis of the data between Japanese and Westerners (North American) can be seen in 
+the Biopharmaceutics Section 2.5.3 (Effect of Food). 
+ 
+Table 2.3.1.3.1 Comparison of PK Parameters in Male Japanese and Western Subjects 
+after Single-Dose Administration of Mirabegron In Fasted Subjects (Studies 041 and 078) 
+ 
+ 
+Reference ID: 3129601
+
+
+===== PAGE 52 =====
+
+ 
+31
+2.3.1.5 Effect of Genetic Polymorphism: 
+ 
+The effect of CPY2D6 genetic polymorphism was studied as part of the TQT study following 50, 
+100, and 200 mg doses of OCAS formulation (Study 178-CL-077). At a dose of 50 mg the mean 
+AUC was approximately 30% lower in ultrarapid metabolizers (UM) and 8% higher in PM 
+compared to EM subjects (Table 2.3.1.5.1). A similar pattern was also seen for 100 mg and 200  
+mg. However the number of UMs and PMs was very small in comparison to EMs. Similar trends 
+were observed Phase 1 studies.  
+ 
+Table 2.3.1.5.1 Mirabegron PK Parameters in CYP2D6 Phenotyped Subjects After  
+Multiple-Dose Administration in TQT Study 178-CL-077 
+ 
+ 
+ 
+An additional analysis was conducted by pooling data from three multiple dose studies following 
+administration of OCAS tablets (Studies 178-CL-037, -072, -077). Based on this analysis there 
+was no difference in dose normalized Cmax and AUC based on CYP2D6 phenotype (Figure 
+2.3.1.5.1). 
+ 
+Reference ID: 3129601
+
+
+===== PAGE 55 =====
+
+ 
+34
+Mean mirabegron elimination half life was slightly increased from approximately 43 h in healthy 
+control to 52 h in severe renal impairment patients.  
+ 
+Renal impairment increased exposure of 8 major mirabegron metabolites, M5, M8, M11, M12, 
+M13, M14, M15 and M16. The extent of exposure was more pronounced in those metabolites 
+that appear to be CYP-mediated such as M8 and glucuronidated metabolites such as M14. For 
+example, the metabolic ratio (MR) as defined by the metabolite AUC divided by the parent AUC 
+for M8 and M14 was 13% and 62% in severe group compared to 2% and 16% in normal group, 
+respectively.  
+ 
+Urinary excretion of mirabegron appears to follow the same pattern of the plasma data. The 
+mean cumulative amounts of mirabegron excreted into urine over 120 hours post-dose were 
+comparable between the normal and mild groups but was much lower in moderate and severe 
+groups (Figure 2.3.1.6.2). 
+ 
+Figure 2.3.1.6.2. Mean (Standard Deviation) Cumulative Amounts of Mirabegron 
+Excreted Into Urine in Subjects with Varying Degrees of Renal Functions 
+ 
+ 
+Since mirabegron is extensively metabolized the urinary excretion of unchanged fraction is 
+expected to be small but with similar patterns as that of plasma relative to renal function. 
+Therefore, as expected, the average percentage of unchanged mirabegron excreted in urine was 
+5.7%, 6.3%, 3.9% and 2.3% of the administered dose in the normal, mild, moderate and severe 
+groups, respectively. From this data it shows that the amount excreted in urine is reduced with 
+the severity of renal function. 
+ 
+Based on these data, the sponsor’s proposed label is to reduce the dose to 25 mg in patients with 
+severe renal impairment.  
+ 
+2.3.1.7 Effect of Liver Function (Hepatic Impairment) 
+ 
+The sponsor conducted one study in patients with hepatic impairment that were matched to 
+healthy control subjects with respect of sex, age and body mass index (BMI). Two groups of 
+hepatic impairment were studied: mild (Child-Pugh Class A) and moderate Child-Pugh Class B). 
+No patients with severe hepatic impairment (Child-Pugh Class C) were included in this study. 
+All subjects received a single dose of 100 mg mirabegron (Study # 178-CL-039). 
+Reference ID: 3129601
+
+
+===== PAGE 57 =====
+
+ 
+36
+Tables 2.3.1.7.2 Summary of PK Statistical Analysis (90% CI) of Mirabegron in Subjects 
+with Varying Degrees of Hepatic Function (Study 178-CL-039) 
+Hepatic 
+Function 
+ 
+Least Square Meansa 
+ 
+ 
+ 
+ 
+Healthy 
+Impaired 
+Ratio 
+(Impaired/Healthy) 
+90% CI 
+Mild 
+Cmax ) 
+(ng/mL) 
+46.6 
+50.7 
+1.09 
+0.42, 2.80
+ 
+AUC 
+(ng.h/mL) 
+ 
+550 
+655 
+1.19 
+0.69, 2.05
+Moderate 
+Cmax ) 
+(ng/mL) 
+31.7 
+87.1 
+2.75 
+1.08, 6.98
+ 
+AUC 
+(ng.h/mL) 
+ 
+424 
+699 
+1.65 
+0.95, 2.85
+aLeast Square Means  
+ 
+The urinary excretion of unchanged mirabegron slightly increased in patients with hepatic 
+impairment compared to control. The percentage of unchanged mirabegron excreted in urine was 
+about 6.8% of the administered dose in controls, 6.3% in mild, and 9.3% in moderate hepatic 
+impairment. The difference between the normal and moderately impaired hepatic function 
+groups was statistically significant.  In addition, plasma concentrations of the eight known 
+metabolites were increased in both mild and moderate hepatic impairment, but as they are 
+considered to be inactive.  
+ 
+Reviewer’s Comments: 
+ 
+Given its metabolic profile, it would be expected that the exposure of mirabegron would be 
+increased in hepatic impairment patients. Based on these data, the sponsor’s proposed 
+recommendation is to reduce the dose to 25 mg once daily in patients with moderate hepatic 
+impairment. However, mirabegron is not recommended in patients with severe hepatic 
+impairment (Child-Pugh Class C) as it has not been studied in this population. 
+ 
+2.4 Extrinsic factors 
+ 
+2.4.1 What extrinsic factors such as drugs influence exposure and/or response and what is 
+the impact of any differences in exposure on pharmacodynamics? 
+ 
+The sponsor conducted several studies to characterize the effect of other drugs and food on 
+mirabegron PK profiles and also the effect of mirabegron on the PK of other drugs.  
+ 
+Ketoconazole, a potent CYP3A and P-gp inhibitor, causes increase in mirabegron exposure by 
+approximately 45% for Cmax and 80% for AUC (Table 2.4.1.1, Study 178-CL-036). However, 
+the co-administration of potent inducers of CYP3A and P-gp such as rifampin, the exposure for 
+Reference ID: 3129601
+
+
+===== PAGE 58 =====
+
+ 
+37
+mirabegron is decreased by approximately 35% for Cmax and 44% for AUC (Table 2.4.1.1, 
+Study 178-CL-070).  
+ 
+Table 2.4.1.1 Effect of Co-administered Drugs on the PK of mirabegron 
+ 
+ 
+The other significant drug-drug interaction studies in this NDA demonstrating mirabegron is a 
+moderate inhibitor of CYP2D6. In two studies, mirabegron increased the exposure of CYP2D6 
+substrates such as metoprolol and desipramine. For metoprolol, the exposure was increased by 
+90% for Cmax and 229% for AUC (Study 178-CL-005) and for desipramine the Cmax was 
+increased by 79% and AUC by 241% (Study 178-CL-058). 
+ 
+Food appears to decrease mirabegron Cmax by 45% to 75% and AUC by 17% to 51%.  
+However, this effect is dependent on the fat contents of food (see Section 2.5, Biopharmaceutics 
+for detail discussion) 
+ 
+The most relevant DDI studies are individually summarized below in this section under two 
+major sub-sections: 
+A: Effect of other drugs on mirabegron PK 
+B: Effect of mirabegron on the PK of other drugs 
+ 
+2.4.1.1 What is the Effect of Other Drugs on Mirabegron? 
+ 
+2.4.1.1.1 What is the Effect of CYP3A and P-gp Inhibitors on Mirabegron PK? 
+ 
+Study 178-CL-036 was conducted to evaluate the effect of ketoconazole as a potent CYP3A and 
+P-gp inhibitor on the PK of mirabegron. In this study, ketoconazole was administered daily at a 
+dose of 400 mg for 9 days prior to the administration of a single dose of 100 mg of mirabegron.  
+The coadministration of ketoconazole resulted in higher mirabegron plasma exposure (45% 
+higher Cmax and 81% higher AUC) than when given alone (Table 2.4.1.1.1.1 and Figure 
+2.4.1.1.1.1). 
+ 
+Reference ID: 3129601
+
+
+===== PAGE 60 =====
+
+ 
+39
+As consistently observed in this NDA, female subjects exhibited higher plasma concentrations 
+compared with male subjects. Mirabegron Cmax and AUC in females in the presence of 
+ketoconazole were increased by 66% and 100% compared to 28% and 65% in males, 
+respectively. 
+ 
+Reviewer’s Comments: 
+ 
+The study design was optimal to evaluate the effect of ketoconazole on the PK of mirabegron. 
+From this study, it does not appear that ketoconazole show dramatic effect on the PK of 
+mirabegron.  
+ 
+Considering the safety margins of mirabegron as demonstrated in several clinical trials and TQT 
+study, no dose adjustment is needed when mirabegron is co-administered with ketoconazole or 
+perhaps other CYP3A inhibitors  
+ 
+2.4.1.1.2 What is the Effect of CYP3A and P-gp Inducers on Mirabegron PK? 
+ 
+The sponsor conducted a study to assess the effect of repeat doses of the potent enzyme and 
+transporter inducer rifampin on the PK of mirabegron and its metabolites. In this study, rifampin 
+was administered daily at a dose of 600 mg for 11 days (Days 5 to 15). Mirabegron was 
+administered on Day 1 (alone) and on Day 12 (with rifampin) as a single dose of 100 mg each 
+time (Study 178-CL-070).  
+ 
+Rifampin decreased mirabegron Cmax by approximately 35% and AUC by 44% (Figures 
+2.4.1.1.2.1 and Tables 2.2.1.1.2.1). In addition, the urinary cumulative excretion of mirabegron 
+was also reduced on Day 12 compared to Day 1 (Figures 2.4.1.1.2.2). 
+ 
+The mechanism of this interaction appears to be associated with decrease in the bioavailability of 
+mirabegron when coadministered with rifampin. It should also be noted that due to the enzyme 
+induction, the exposure to mirabegron metabolites was markedly increased and in particular 
+CYP-mediated metabolite M8. Furthermore, rifampin appears to induce the glucuronidation 
+pathways. The exposure of some of mirabegron glucuronides such as M11, M13, and M14 were 
+increased. Other mechanisms may also be involved such as induction of intestinal P-gp efflux as 
+well as some effect on the renal secretion of the metabolites. 
+ 
+Reference ID: 3129601
+
+
+===== PAGE 63 =====
+
+ 
+42
+ 
+2.4.1.1.5 Interaction with Other Urologic Drugs 
+ 
+Interaction with Solifenacin: 
+ 
+Solifenacin is currently marketed by the same sponsor (Astellas Pharma) and was approved in 
+November 19, 2004 for the treatment of over active bladder (NDA 021518). Study 178-CL-069 
+was conducted with two main objects:  
+• To evaluate the effect of steady state concentrations of mirabegron on the single dose PK of 
+solifenacin. 
+• To evaluate the effect of steady state concentrations of solifenacin on the single dose PK of 
+mirabegron. 
+ 
+The rationales for this study are of two folds: 
+1. The sponsor is considering development of combination product of solifenacin and 
+mirabegron in the future. 
+2. Mechanistically, solifenacin is a muscarinic receptor antagonist. Therefore, it is 
+anticipated to inhibits GI motor activity and prolong gastric residence and transit 
+time. From these actions, solifenacin like other muscarnic antagonists, may increase 
+the bioavailability of mirabegron. Furthermore, solifenacin is predominantly 
+metabolized by CYP3A4. This will also assess the competitive interaction with 
+CYP3A4 mediated metabolism with both drugs.   
+ 
+Study Design:  
+ 
+Arm 1: Subjects received a single dose of 10 mg solifenacin on Day 1 and were discharged on 
+Day 9 with washout period until Day 15. Mirabegron was administered daily at a dose of 100 mg 
+as a film coated tablet for 9 consecutive days (Day 15 to Day 23). On Day 9th (Day 23) a single 
+dose of 10 mg solifenacin was administered together with 100 mg daily dose of mirabegron until 
+Day 38. 
+ 
+Arm 2: Subjects received a single dose of 100 mg mirabegron as a film coated tablet on Day 1 
+with a washout period of 6 days. Solifenacin was administered at a daily dose of 20 mg for 10 
+consecutive days (Day 7 to Day 16). On the 10th day of solifenacin dosing (Day 16) subjects 
+received a single dose of 100 mg as a film coated tablet of mirabegron together with solifenacin. 
+Solifenacin dosing continued until Day 20th. 
+ 
+The plasma concentration-time profiles and the PK parameters of mirabegron were almost 
+similar when administered alone or in combination with solifenacin. The AUC of mirabegron 
+was increased by 15% when administered with solifenacin. It should be noted there was minimal 
+effect of mirabegron on solifenacin PK as the Cmax and AUC increased by approximately 23% 
+and 26%, respectively. 
+ 
+Reference ID: 3129601
+
+
+===== PAGE 64 =====
+
+ 
+43
+Reviewer’s Comments: 
+ 
+From this study, it can be concluded that no dose adjustment is necessary for both drugs when 
+concomitantly administered. 
+ 
+Interaction with Tamsulosin: 
+ 
+Tamsulosin is an alpha-1 adrenoceptor antagonist for the treatment of benign prostatic 
+hyperplasia (BPH). The rationale for this study is that tamsulosin is eliminated by CYP2D6 and 
+mirabegron is a moderate inhibitor of CYP2D6. 
+ 
+The sponsor conducted a study to investigate the cardiovascular effect and the PK of mirabegron 
+and tamsulosin when coadministred together (Study 178-CL-080). The study was conducted in 
+48 healthy males as two arms (n=24 in each arm) as follows: 
+ 
+Arm 1:  Single doses of tamsulosin were given alone and after 9 days of dosing with 100 mg 
+doses of mirabegron. 
+Arm 2:  Single doses of mirabegron were given alone and after 5 days of dosing with tamsulosin 
+0.4 mg doses. 
+ 
+On the day of the combination dose, tamsulosin and mirabegron were administered together. 
+From this study there was no effect of tamsulosin on the plasma concentration-time profiles of 
+mirabegron or its PK Parameters. In terms of effect of mirabegron on tamsulosin PK, there was 
+about 1.6 fold increase in exposure (Cmax and AUC) of tamsulosin (Figure 2.4.1.1.5.1).   
+ 
+Figure 2.4.1.1.5.1. Mean Plasma Concentration Time Profiles of Tamsulosin Single Dose 
+and Combination Dosing with Mirabegron – Treatment Arm 1 (Study 178-CL-080) 
+ 
+Reviewer’s Comments: 
+ 
+From this study the effect of tamsulosin on mirabegron PK was minimal as the Cmax and AUC 
+decreased by approximately 15%. However, mirabegron increased the exposure of tamsulosin by 
+approximately 1.6 fold. Overall, there is no need for dose adjustment when mirabegron and 
+tamsulosin are administered together. 
+ 
+Reference ID: 3129601
+
+
+===== PAGE 73 =====
+
+ 
+52
+2.5 General Biopharmaceutics 
+2.5.1 What is the Effect of Food on the BA of Mirabegron? 
+ 
+The effect of food on the bioavailability of mirabegron was evaluated in 6 Phase 1 studies. The 
+focus of this review is on the pivotal two studies that were conducted in Western (Studies 178-
+CL-041) and Japanese (178-CL-078) subjects. The other studies are irrelevant as they were 
+conducted using IR tablets. Also, the focus of the review is on the highest recommended dose 
+strength of 50 mg tablet.   
+ 
+Overall, mirabegron OCAS tablets exhibited a decrease in plasma exposure when given with 
+food. However, the extent of absorption is dependent on meal composition and specifically the 
+fat contents (i.e., low-fat versus high-fat). Co-administration of a 50 mg tablet with a high-fat 
+meal reduced mirabegron Cmax and AUC by 45% and 17%, respectively. A low-fat meal 
+decreased mirabegron Cmax and AUC by 75% and 51%, respectively. Similar results were 
+obtained with a 100 mg dose of mirabegron. It should be noted that there was no food restrictions 
+in the primary Phase 3 studies to establish the safety and efficacy of mirabegron. 
+ 
+Study 178-CL-41 was a crossover designed at a dose of 50 mg or 100 mg administered under 
+fasted or fed conditions (high-fat and low-fat breakfasts). The study was conducted in 72 healthy 
+subjects where 18 men and 18 women were enrolled in each arm, 50 mg or 100 mg dose. From 
+this study it can be seen that food in general caused reduction in the bioavailability of 
+mirabegron, the highest effect was noted after taking the drug with low fat food content (Figures 
+2.5.1.1 and 2.5..12 and Tables 2.5.1.1). The same trend was also seen for urine excretion data 
+for mirabegron in the same study (Figure 2.5.1.2).  
+ 
+It should also be noted that food had similar effect in the Japanese study, but the mirabegron 
+plasma levels were higher than in Westerners (Compare scale in Figures, 2.5.1.3 vs 2.5.1.1, 178-
+CL-078). The study was also conducted after 50 mg and 100 mg OCAS tablets and of similar 
+design as that of the Westerners study (041). 
+ 
+Reference ID: 3129601
+
+
+===== PAGE 76 =====
+
+ 
+55
+Figure 2.5.1.4 Comparison of the Effect of Food on Cmax of Miragebron in Westerns 
+(Study 041) and Japanese (Study 078). Data is Expressed as Mean (±SD) of Observed 
+Cmax (Left) and Cmax Normalized by Weight-Adjusted Dose (Right)  
+A: Observed Cmax   
+ 
+B: Cmax normalized by Weight-Adjusted Dose  
+Mean (SD) Ratio of Weight Normalized Cmax in Japanese and 
+Westerners (Studies 41 and 078)
+0
+10
+20
+30
+40
+50
+60
+70
+Fasting
+Low Fat
+High Fat
+C m a x  (n g /m L )
+Japanese
+Westerners
+Observed Mean (SD) Cmax in Japanese and Westerners 
+(Studies 41 and 078)
+0
+10
+20
+30
+40
+50
+60
+70
+Fasting
+Low Fat
+High Fat
+C m a x  (n g /m L )
+Japanese
+Westerners
+ 
+ 
+Figure 2.5.1.5 Comparison of the Effect of Food on AUC of Miragebron in Westerns (Study 
+041) and Japanese (Study 078). Data is Expressed as Mean (±SD) of Observed AUC (Left) 
+and AUC Normalized by Weight-Adjusted Dose (Right)  
+A: Observed AUC   
+ 
+B: AUC Normalized by Weight-Adjusted Dose 
+ 
+Mean (SD) Ratio of Weight Normalized AUC in Japanese and 
+Westerners (Studuies 41 and 078)
+0
+100
+200
+300
+400
+500
+600
+Fasting
+Low Fat
+High Fat
+A U C (n g .h /m L )
+Japanese
+Westerners
+Observed Mean AUC (SD) In Japanese and Westerners 
+(Studies 41 and 078) 
+0
+100
+200
+300
+400
+500
+600
+Fasting
+Low Fat
+High Fat
+A U C (n g .h /m L )
+Japanese
+Westerners
+ 
+ 
+Reference ID: 3129601
+
+
+===== PAGE 78 =====
+
+ 
+57
+The mean Cmax and AUC were normalized by weight and dose using the observed data from 
+studies 41 and 078 following 50 mg dose in average normal body weight of 70 kg as follows:  
+ 
+Ratio A (weight-adjusted dose ratio centered at 70 kg) = 70/subject weight   
+Ratio B (exposure normalized by the weight-adjusted dose) = AUC or Cmax/Ratio A (i.e., 
+weight-adjusted dose ratio centered at 70 kg) 
+ 
+The analysis was performed as two sets. One set for the mean Cmax and AUC and mean body 
+weight in respective study and treatment. The second set was for individual observed Cmax and 
+AUC and individual weights at a respective treatment. It should be noted that the mean body 
+weight in Japanese study was 57.92 Kg ranging from 46.2-74.0 Kg and in Westerners study the 
+mean body weight was 77.31 Kg ranging from 55.2 to 103.6 kg.  
+ 
+By normalizing the mean Cmax for mean body weight adjusted dose in each study the difference 
+between Japanese and Westerners subjects became minimal for the mean and individual Cmax 
+and AUC data, especially after food. Based on this analysis, it appears that the observed 
+difference in exposure between Japanese and Westerners can be explained by weight difference 
+between the two populations. It should be noted that based on the pharmacogenomic review no 
+genetic factors were found to be associated with the PK and/or the metabolism of mirabegron 
+(Appendix II) 
+ 
+To conclude, in all studies the data is conclusive that food reduces the absorption of mirabegron. 
+Also it was consistently observed that low fat content appears to lower the bioavailability of 
+mirabegron at greater extent than high fat content. Overall, the exposure of mirabegron is 
+consistently higher in Japanese compared to Westerners following the same dose. It should be 
+noted that the pivotal Phase 3 studies were conducted irrespective food or food contents and the 
+sponsor proposed label states that mirabegron is to be taken with or without food.  
+ 
+2.5.2 Was the to-be-Marketed Formulation Used in the Clinical Trials? 
+ 
+Various dosage forms and formulations of mirabegron have been used through different stages of 
+clinical development.  
+ 
+The early clinical studies were conducted with immediate release (IR) capsules and tablets. An 
+aqueous solution was used for the human mass balance study. Since the IR formulations showed 
+a considerable decrease in plasma exposure with food and high peak-to-trough fluctuations in 
+plasma concentrations with once daily dosing, a modified release tablet using Oral Control 
+Absorption System (OCAS) technology was developed. OCAS modified release formulation is 
+also referred to as extended-release or prolonged-release. Several OCAS formulations, with 
+differing dissolution profiles were screened in one study (Study 178-CL-030). 
+ 
+Based on the data from 178-CL-30 study, an OCAS tablet with an intermediate dissolution rate 
+(OCAS-M) was selected for further development. The release rate of mirabegron from this 
+OCAS formulation resulted in a PK profile with a slower rate of absorption than the IR tablet, an 
+attenuated food effect with a high-fat meal and reduced fluctuations in plasma concentrations 
+compared with once daily mirabegron IR.  
+Reference ID: 3129601
+
+
+===== PAGE 92 =====
+
+ 
+78
+Figure 4.2.2.1 Mean Cmax (Study 034) 
+Mean Cmax After Single Doses of Mirabegron (Study 034)
+0
+100
+200
+300
+400
+500
+600
+700
+800
+0
+100
+200
+300
+400
+Dose (mg)
+Cmax (ng/mL)
+ 
+ 
+Figure 4.2.2.2 Mean AUC (Study 034) 
+Mean AUC After Single Doses of Mirabegron (Study 034)
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+0
+100
+200
+300
+400
+Dose (mg)
+AUC (ng.h/mL)
+ 
+Reference ID: 3129601
+
+
+===== PAGE 96 =====
+
+ 
+82
+Drug Administration: 
+ 
+Only on Day 1, subjects received the assigned oral dose of mirabegron twice, one in the morning 
+and one in the evening. Then, on Day 2 to Day 7 subjects received an oral dose of mirabegron 
+once daily. PK samples were collected over 168 hours after the last dose. 
+ 
+The study was conducted at three doses of 25, 50, and 100 mg as shows in the following scheme: 
+ 
+ 
+Results: 
+ 
+• The PK data from this study is summarized in Tables 4.2.3.1 to 4.2.3.3 and Figures 4.2.3.1 
+to 4.2.3.4. 
+• As shown in other studies, there was greater than dose proportional increase in Cmax and 
+AUC with increase in dose.  
+• Across the tested dose range, mean Cmax and AUC were 44% and 38% higher in females 
+compared with males. It appears that this observed difference between males and females 
+was more pronounced in elderly subjects ≥ 55 years of age compared with young subjects 
+(18-45 years of age) (see Figures 4.2.3.3 and 4.2.3.3) 
+• There were no age-related differences in mean Cmax and AUC of mirabegron.  
+ 
+Reference ID: 3129601
+
+
+===== PAGE 113 =====
+
+ 
+99
+Figure 4.2.6.1 Mean Plasma Concentration-Time Profiles of Mirabegron in PM and EM 
+Subjects (Study 0005) 
+ 
+Table 4.2.6.2 Mean Mirabegron Urine PK Parameters in PM and EM Subjects (Study 005) 
+ 
+ 
+Part II: 
+ 
+• The summary data from Part II study is shown in Figure 4.2.6.2 and Tables 4.2.6.3-4.2.6.5.  
+• The mean metoprolol Cmax was increased from 132 ng/mL to 247 ng/mL when co-
+administered with miraegron. Also, the AUC was increased from 439 ng.h/mL to 1389 
+ng.h/mL. Metoprolol half-life was also increased from the mean of 2.96 h to 4.11 h.  
+• As expected, the Cmax and AUC of metoprolol metabolite, α-hydroxymetoprolol, were 
+decreased (Cmax from 81.7 to 33.6 ng/mL and AUC from 540 to 260 ng.h/mL). 
+ 
+ 
+Reference ID: 3129601
+
+
+===== PAGE 118 =====
+
+ 
+104
+Figure 4.2.7.2 Mean (SD) Cmax of Desipramine With and Without Mirabegron (Study 058) 
+Mean (SD) Cmax of Desipramine With and Without 
+Mirabegron (Study 178-CL-058)
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Day1 (Alone)
+Day 18 (+
+Mirabegron)
+Day 38 (Alone)
+Treatments
+Cmax (ng/mL)
+ 
+ 
+Figure 4.2.7.3 Mean (SD) AUCof Desipramine With and Without Mirabegron (Study 058) 
+Mean (SD) AUC of Desipramine With and Without 
+Mirabegron (Study 178-CL-058)
+0
+500
+1000
+1500
+2000
+2500
+Day1 (Alone)
+Day 18 (+
+Mirabegron)
+Day 38 (Alone)
+Treatments
+AUC (ng.h/mL)
+ 
+Reference ID: 3129601
+
+
+===== PAGE 121 =====
+
+ 
+107
+Reviewer’s Comments: 
+ 
+• The administration of mirabegron as a single dose for 19 days resulted in a 3.41-fold (i.e., 
+241%) increase in desipramine AUC and 1.79-fold (i.e., 79%) increase in Cmax. 
+• As expected, the formation of desipramine, α-hydroxydesipramine is expected to be reduced. 
+In this case, the Cmax was reduced by 2-fold and AUC by 1.3 fold.  
+• Desipramine half-life was also increased from approximately 19.5 h to 35.8 h when co-
+administered with mirabegron. 
+Reference ID: 3129601
+
+
+===== PAGE 136 =====
+
+ 
+122
+Figure 4.2.10.2 Mean (SD) Cmax of Mirabegron in Fed and Fasted Condition after 50 mg 
+Dose (Study 041) 
+Effect of Food on Mean (SD) Cmax and AUC of Mirabegron 
+After 50 mg Dose  (Study 178-CL-41)
+0
+5
+10
+15
+20
+25
+30
+35
+Fasted
+Low-Fat
+High-Fat
+Cmax (ng/mL)
+ 
+Figure 4.2.10.3 Mean (SD) AUC of Mirabegron in Fed and Fasted Condition after 50 mg 
+Dose (Study 041) 
+Effect of Food on Mean (SD) Cmax and AUC After 50 mg Dose 
+(Study 178-CL-41)
+0
+50
+100
+150
+200
+250
+300
+350
+400
+Fasted
+Low-Fat
+High-Fat
+AUC (ng.h/mL)
+ 
+ 
+ 
+ 
+Reference ID: 3129601
+
+
+===== PAGE 158 =====
+
+ 
+144
+Appendix - Population PK Analyses of Mirabegron 
+6 Summary of Findings 
+The final population PK model for orally administered mirabegron was a three compartment 
+model with sequential zero- and first-order absorption processes. Mirabegron exposure was 
+influenced by covariates:  
+• weight and sex on CL and central volume of distribution  
+• dose on F1. 
+Other covariate influences affecting the exposure were age, co-administration of proton pump 
+inhibitors, co-administration of weak to moderate CYP3A4 inhibitors, creatinine clearance and 
+food conditions. Important effects based on simulations were found for the following covariates: 
+• Dose: AUCtau for doses of 25 to 200 mg increased by a factor 20 while the dose increased 
+only by a factor of 8. 
+• Body weight: AUCtau increased with decreasing body weight. From a body weight of 70 
+kg, AUCtau increased by 52.8 % for a body weight of 30 kg and decreased by 16.5% for a 
+body weight of 100 kg. 
+• Sex: AUCtau was 27.5% lower for male compared to female. 
+• Creatinine clearance: AUCtau increased with decreasing creatinine clearance. From a 
+creatinine clearance of 92 mL/min, AUCtau increased by 39.9 % for a creatinine 
+clearance of 25 mL/min and decreased by 10.6 % for a creatinine clearance of 142 
+mL/min. 
+• Age: AUCtau increased with increasing age. From a patient aged 60 years, AUCtau 
+decreased by 23.9 % for a patient aged 20 years and increased by 10.6 % for a patient 
+aged 90 years. 
+ 
+7 Results of Sponsor’s Analysis 
+The sponsor conducted a population pharmacokinetic analysis to: 
+1. Characterize the pharmacokinetics of mirabegron in OAB patients 
+2. Evaluate the effects of covariates on mirabegron exposure 
+3. Obtain individual post-hoc estimates of mirabegron exposure for exposure-response 
+analysis 
+ 
+The dataset consisted of plasma concentrations in OAB patients from 2 Phase 2 studies (178-CL-
+044, 178-CL-045) and four Phase 3 studies (178-CL-046, 178-CL-047, 178-CL-048 and 178-
+CL-074). In all studies, mirabegron was administered in OCAS formulation. Due to very sparse 
+information in these above 6 studies and in order to well characterize the disposition Phases of 
+mirabegron, a population structural PK model was first developed using only intravenous data 
+from Studies 178-CL-033 and 178-CL-076 in healthy subjects. Records for which concentrations 
+were missing or below the limit of quantification (BLQ) were removed from the database. 
+Further details of the dataset are provided in Table 4-Table 6. 
+Reference ID: 3129601
+
+
+===== PAGE 161 =====
+
+ 
+147
+ 
+Parameter 
+ 
+Estimate 
+1
+SE 
+(CV %)
+IIV 
+(%) 
+CL       L/h 
+50.5 
+2.2 
+14.5 
+V1       L 
+19.8 
+3.9 
+14.1 
+K12     1/h 
+2.39 
+4.3 
+/ 
+K21     1/h 
+0.0399 
+2.1 
+/ 
+K13     1/h 
+3.15 
+3.2 
+/ 
+K31     1/h 
+0.374 
+2.4 
+/ 
+Weight effect 
+0.50 FIX 
+/ 
+/ 
+Males effect 
++ 0.142 
+22 
+/ 
+Correlation (CL/V1)
+0.539 
+/ 
+/ 
+Residual error  (%)
+14.3 
+4.2 
+/ 
+Total 
+n=4081 
+Male       951 
+Female     3130 
+Caucasian         2969
+Black                   114
+Asian                     28
+Japanese             944
+Other                     26
+Total 
+n=15106 
+Fasting 
+Fed 
+4147
+10959
+ 
+1: n corresponds to the number of subjects 
+2: n corresponds to the number of mirabegron concentrations 
+3: missing RACE information was re-coded to race ‘Other’ 
+4: missing FOOD information was re-coded to Fed conditions 
+(Source: Sponsor’s Study Report: 178-PK-015, Table 9) 
+ 
+7.1 Pharmacokinetics Model 
+A three compartment structural model was first selected based on the IV data. The parameter 
+estimates for the final IV pharmacokinetic model are presented in Table 7. Based on goodness-
+of-fit plots (Figure 17), the model describes the data well. Inter-individual variability was fairly 
+low, being approximately 14% for both CL and central volume of distribution (V1). Covariates 
+entered the model in a way, as is illustrated in 
+2
+1
+θ
+θ
+⎟⎟
+⎠
+⎞
+⎜⎜
+⎝
+⎛
+•
+=
+COVAR
+i
+i
+TV
+COVAR
+PAR
+ for continuous 
+covariates and in 
+(
+)
+i
+i
+COVAR
+PAR
+•
++
+•
+=
+2
+1
+1 θ
+θ
+for categorical covariates. Both total CL and V1 
+increased with increasing Weight, 10% change in Weight leads to around 5% change in 
+parameters, and both parameters were higher in males (+14.2%). 
+ 
+Table 7. Estimated Population Pharmacokinetic Parameters of Mirabegron from the Final Pharmacokinetic 
+Model after IV Administration 
+ 
+ (Source: Sponsor’s Study Report: 178-PK-015, Table 20) 
+ 
+Reference ID: 3129601
+
+
+===== PAGE 162 =====
+
+ 
+148
+Figure 17.  Mirabegron Goodness-of-Fit Plots for the Final Three Compartment Model with Covariate 
+Influences after IV Administration of Mirabegron. The Red Lines Show the Observed Trend 
+Which Overlaid With the Identity Line (Blue Lines). 
+ 
+(Source: Sponsor’s Study Report: 178-PK-015, Figure 13) 
+For the oral data, a combination of zero-order and first order absorption model was chosen. The 
+disposition parameter values as obtained in the IV model were applied in the oral model. A 
+power model was selected to take into account the dose-dependency on F1. The parameter 
+estimates for the final oral pharmacokinetic model are presented inTable 7. Based on goodness-
+of-fit plots (Figure 18 - Figure 19), the model fitted well the data at the population level (PRED 
+and CWRES), but some minor trends could be observed at the individual level (IPRED). There 
+was no trend when looking at residuals as function of period (Week 4, 8 and 12). The influence 
+of the different covariates on the typical concentration-time profiles after oral administration in 
+OAB patients is illustrated in Figure 20.  Some covariates (e.g. co-administration of Proton 
+Pump inhibitors on total clearance, and Food condition and co-administration of Weak to 
+Moderate CYP3A4 inhibitors on central volume of distribution), in spite their statistical 
+significance, have little impact on the concentration-time profile of mirabegron and the exposure. 
+ 
+Table 8. Estimated Population Pharmacokinetic Parameters of Mirabegron from the Final Pharmacokinetic 
+Model after Oral Administration 
+ 
+Parameter 
+ 
+Estimate 
+ 
+SE 
+(CV %)
+IIV 
+(%) 
+IOV 
+(%) 
+Reference ID: 3129601
+
+
+===== PAGE 179 =====
+
+ 
+165
+Basic PK Information: 
+ 
+Chemistry: 
+ 
+• Mirabegron has a chiral center (R and S). However, it is developed as R-enantiomer 
+• No chiral inversion 
+ 
+Absorption, Effect of Food and Alcohol: 
+ 
+• Tmax = 3-4 h 
+• Based on the Biopharmaceutics Classification System (BCS) mirabegron is a Class 3 (High 
+solubility and Low permeability). 
+• Absolute bioavailability is 29% at 25 mg dose and 35% at 50 mg dose (i.e., dose dependent).  
+• Absolute bioavailability appears to be higher in females than males.  
+• Dose disproportional PK (i.e., more than dose proportional increase in exposure) 
+• Saturation of efflux transport mechanism (P-glycoprotein, P-gP) 
+• Solution exhibits higher bioavailability (~40%) than tablets (Modified Release Tablet with 
+Intermediate Dissolution Rate, OCAS-M). 
+• Food decrease exposure: 
+o Overall food decreases exposure: 
+ High-fat meals: reduces Cmax and AUC by 45% and 17%, respectively 
+ Low-fat meals: reduces Cmax and AUC by 75% and 51%, respectively 
+• Alcohol: 4% ethanol has no effect on in-vitro dissolution profiles. However, 40% ethanol 
+delays dissolution profiles. 
+ 
+Systemic PK: 
+ 
+Distribution: 
+ 
+• Protein binding: 71% (albumin and alpha-1 acid glycoprotein) 
+• Erythrocytes concentration is 2-fold higher than in the plasma (in-vitro data) 
+• Large volume of distribution (approximately 1670 L) 
+ 
+Elimination: 
+ 
+• Terminal half life = ~50 hours (effective half life = ~19 h) 
+• Excretion: primary renal and secondary biliary 
+• Renal clearance (CLr) appears to be independent of dose 
+• Primary excretion occurs via active tubular secretion and glomerular filtration 
+ 
+Metabolism:  
+• 10 metabolites (none appears to be active in reference to 3-AR activity) 
+• Extensively metabolized: ~6% to 9% unchanged in urine (dose-dependent).  
+• Approximately 55% of radioactivity (14C) recovered in urine and 34% in feces 
+• Pathways: Dealkylation, oxidation, and glucuronidation, and amid hydrolysis 
+Reference ID: 3129601
+
+
+===== PAGE 180 =====
+
+ 
+166
+• Enzymes and isoenzymes: butyrylcholinesterase, uridine diphospho-
+glucuronosyltransferase (UGT), CYP3A4, and CYP2D6, and alcohol dehydrogenase. 
+However, CYP3A4 is the primary responsible isoenzyme. 
+• Metabolites-to-parent AUC ratios were relatively constant over 25 to 200 mg (i.e,, 
+metabolism appears not to be saturable) 
+ 
+Dose-Exposure (Dose-Proportionality):  
+ 
+• Greater than dose-proportional increase in Cmax and AUC after oral administration (e.g., 2-
+fold increase in dose results in 2.9- and 2.6-fold increase in Cmax and AUC, respectively). 
+• Dose proportional after IV 
+• Steady-state: Reached within 7 days after once daily (QD) dosing 
+• Variability: There is considerable inter-subject variability with estimated %CV of 
+approximately 40% to 52% for Cmax and 39% to 45% for AUC. However, the intra-subject 
+variability is lower than inter-subject (%CV =  33% to 45% for Cmax and 19% to 31% for 
+AUC) 
+Special Population: 
+• Age: No apparent difference in PK in relation to age 
+• Gender: Cmax and AUC were approximately 40% to 50% higher in females compared to 
+males. 
+• Race: No apparent difference 
+• Body Weight: Based on Pop PK analysis the AUC appears to be approximately 53% higher 
+in subjects with small body weight of approximately 30 Kg compared to 70 kg. By contrast, 
+the AUC is approximately 17% lower in subject with body weight of 100 kg compared to 
+subjects with body weight of 70 kg. The reasons for these discrepancies are not clear at this 
+time (pending review and re-analysis). 
+• Renal Impairment:  
+ Mild renal impairment: Cmax and AUC increased by 6% and 31% compared 
+to healthy subjects, respectively. 
+ Moderate renal impairment: Cmax and AUC increased by 23% and 66% 
+compared to healthy subjects, respectively. 
+ Severe renal impairment: Cmax and AUC increased by 92% and 118% 
+compared to healthy subjects, respectively. 
+ ESRD: The sponsor recommends reduction in dose to 25 mg QD in severe 
+renal impairment and is not recommended in End Stage Renal Disease 
+(ESRD). However, no dose adjustment in mild and moderate.  
+• Hepatic Impairment:  
+ Mild (Child-Pugh Class A): Cmax and AUC increased by 9% and 19% 
+compared to healthy subjects, respectively. 
+ Moderate (Child-Pugh Class B): Cmax and AUC increased by 175% and 
+65% compared to healthy subjects, respectively. 
+ Severe (Child-Pugh Class C): Not studied. 
+ Sponsor’s recommendation: No dose adjustment in mild. Reduction in dose 
+to 25 mg QD in moderate hepatic impairment. It is not recommended in 
+severe hepatic impairment (child-Pugh C).  
+Reference ID: 3129601
+
+
+===== PAGE 213 =====
+
+ 
+39
+ 
+ 
+The criteria for internal predictability of the IVIVC are that the absolute %PE for each 
+formulation should not exceed 15% and the MAPPE should not exceed 10% for Cmax 
+and AUCinf. The criteria for external predictability of the IVIVC as acceptable are that 
+the absolute %PE for external formulation should not exceed 10% for Cmax and AUCinf.  
+ 
+The predicted Cmax and AUCinf values were obtained as in the internal validation. As 
+the observed Cmax and AUCinf values, the PK data of Phase 1 study (178-CL-076) were 
+used directly. The percent prediction error was estimated for each treatment as listed in 
+the reviewer’s analyses section (see pages 9-14 of this review). 
+ 
+In conclusion, a multiple “Level C” IVIVC was established, which is considered to be as 
+useful as the “Level A” IVIVC. 
+ 
+Reviewer’s Comment:  
+Although, the proposed “Level A” IVIVC model could not be validated, a “Level C” 
+IVIVC was established for mirabegron ER Tablets.  
+ 
+ 
+ 
+Reference ID: 3121195

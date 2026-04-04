@@ -1,0 +1,46 @@
+{
+  "nda": "NDA022497",
+  "drug_name": "bupropion",
+  "pk_tuples": [
+    {
+      "dose_mg": 450.0,
+      "dose_original": "450 mg",
+      "route": "oral",
+      "formulation": "ER",
+      "food": "fasted",
+      "population": "healthy_adult",
+      "n_subjects": 18,
+      "dose_schedule": "single_dose",
+      "cmax_ng_ml": 258.11,
+      "tmax_h": 5.0,
+      "auc_inf_ng_h_ml": 2708.42,
+      "auc_last_ng_h_ml": 2591.60,
+      "t_half_h": 21.22,
+      "cl_L_h": null,
+      "vd_L": null,
+      "source_page": 50,
+      "confidence": "high",
+      "notes": "FORFIVO XL (bupropion HCl ER) 450 mg tablet, single dose, fasted, healthy male subjects (food effect study). AUC0-t used for auc_last."
+    },
+    {
+      "dose_mg": 450.0,
+      "dose_original": "450 mg",
+      "route": "oral",
+      "formulation": "ER",
+      "food": "high_fat_meal",
+      "population": "healthy_adult",
+      "n_subjects": 18,
+      "dose_schedule": "single_dose",
+      "cmax_ng_ml": 344.44,
+      "tmax_h": 7.5,
+      "auc_inf_ng_h_ml": 3093.64,
+      "auc_last_ng_h_ml": 2948.59,
+      "t_half_h": 21.87,
+      "cl_L_h": null,
+      "vd_L": null,
+      "source_page": 50,
+      "confidence": "high",
+      "notes": "FORFIVO XL (bupropion HCl ER) 450 mg tablet, single dose, fed (high fat meal), healthy male subjects. AUC0-t used for auc_last."
+    }
+  ]
+}

@@ -1,0 +1,1948 @@
+
+
+===== PAGE 14 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+xiii 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 87. Statistical Analysis Summary, Effect of Esomeprazole on Rilzabrutinib 
+Pharmacokinetic Parameters ......................................................................................150 
+Table 88. Statistical Analysis Summary, Effect of Famotidine on Rilzabrutinib 
+Pharmacokinetic Parameters ......................................................................................152 
+Table 89. Statistical Analysis Summary, Effect of Ritonavir Coadministration on 
+Rilzabrutinib (100 mg) Pharmacokinetic Parameters, Part A ....................................153 
+Table 90. Statistical Analysis Summary, Effect of Ritonavir Coadministration on 
+Rilzabrutinib (400 mg) Pharmacokinetic Parameters, Part B ....................................153 
+Table 91. Statistical Analysis Summary, Effect of Quinidine on Rilzabrutinib 
+Pharmacokinetic Parameters ......................................................................................155 
+Table 92. Statistical Analysis Summary, Effect of Rifampin on Rilzabrutinib 
+Pharmacokinetic Parameters ......................................................................................155 
+Table 93. Bioanalytical Method Life Cycle Information of PK Assay Used To 
+Measure Rilzabrutinib and PRN834 (M45) in Plasma ..............................................156 
+Table 94. Bioanalytical Method Life Cycle Information of PK Assay Used To 
+Measure Rilzabrutinib in Urine .................................................................................157 
+Table 95. Bioanalytical Method Life Cycle Information of PK Assay Used To 
+Measure PRN4400 (M1) in Plasma ...........................................................................157 
+Table 96. Summary of Clinical Studies Included in Rilzabrutinib PopPK Analysis .......160 
+Table 97. Parameter Estimates for Final PopPK Model ..................................................161 
+Table 98. Inhibition Parameters of Rilzabrutinib and Its Metabolite for Various 
+Transporters ...............................................................................................................170 
+Table 99. Final Input Parameters in the Rilzabrutinib Model .........................................172 
+Table 100. Simulated and Observed Rilzabrutinib Plasma Concentrations Geometric 
+Mean With CV% for Cmax and AUC in Healthy Participants After Single Dose 
+Administration ...........................................................................................................174 
+Table 101. Simulated and Observed Rilzabrutinib Plasma Concentrations Geometric 
+Mean With CV% for Cmax and AUC in Healthy Participants After Multiple-Dose 
+Administration of Rilzabrutinib as Liquid Formulation ............................................175 
+Table 102. Simulated and Observed Effects of Rilzabrutinib on Midazolam Exposure 
+Following Single Doses of Rilzabrutinib Administration .........................................177 
+Table 103. Comparison of Simulated and Observed Rilzabrutinib Exposure in the 
+Midazolam Interaction Studies ..................................................................................177 
+Table 104. Predicted Effects of Rilzabrutinib on Midazolam Exposure Following 
+Administration of 400 mg Rilzabrutinib Twice Daily in ITP Participants ................177 
+Table 105. Comparison of Simulated Steady-State Rilzabrutinib Exposure With 
+Steady State Rilzabrutinib Exposure in ITP Participants ..........................................178 
+Reference ID: 5651700
+
+
+===== PAGE 40 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+22 
+Integrated Review Template, version 4.0 (11/1/23) 
+Characteristic 
+Drug Information 
+ 
+General Information 
+Bioanalysis 
+Plasma rilzabrutinib concentrations were measured using validated turbo ion spray liquid chromatography-mass 
+spectrometry (LC-MS/MS) methods. 
+Healthy subjects versus 
+patients 
+There is no clinically relevant difference in the pharmacokinetics of rilzabrutinib between patients with ITP and healthy 
+subjects, as evaluated by population pharmacokinetic (PopPK) analysis. 
+Drug exposure at steady 
+state following the 
+therapeutic dosing 
+regimen (or single dose, 
+if more relevant for the 
+drug) 
+Parameter: Mean (CV%) (400 mg, twice daily) 
+AUC,ss (ng⸱h/mL): 928 (45.6%) 
+Cmax,ss (ng/mL): 259 (48%) 
+(Simulated exposure for patients with ITP using PopPK model) 
+Range of effective 
+dose(s) or exposure 
+400 mg, twice daily (BID). 
+Maximally tolerated 
+dose or exposure 
+A maximum single dose of 1200 mg was studied in healthy subjects in Study PRN1008-001 (oral liquid formulation) 
+and Study PRN1008-014 (tablet formulation). 
+Dose proportionality 
+Rilzabrutinib exposure (Cmax and AUC) increased in a nearly dose proportional manner (50 – 600 mg) manner, 
+however, increasing the dose from 600 to 1200 mg did not change the exposure of rilzabrutinib. 
+Accumulation 
+Limited accumulation (1.5- to 1.8-fold) at steady state was observed after multiple dosing of 300 mg and 450 mg BID 
+and 600 mg once daily (QD) in healthy participants. In ITP population, accumulation of up to 1.3-fold was estimated 
+following dosing at 400 mg BID using PopPK analysis. 
+Time to achieve steady-
+state 
+Because there is no significant accumulation upon repeat dosing, along with the short elimination half-life, the steady 
+state exposures of rilzabrutinib can be expected to be achieved within 3 days. 
+Bridge between to-be-
+marketed and clinical 
+trial/study formulations 
+N/A. To-be-marketed tablets were used in the pivotal Phase 3 trial. 
+ 
+Absorption 
+Bioavailability 
+The absolute bioavailability of rilzabrutinib immediate release (IR) tablet is 4.7%. The relative bioavailability of 
+rilzabrutinib IR tablet is 70% compared to the liquid formulation. 
+Tmax 
+The median time to peak plasma concentrations of rilzabrutinib is approximately 1.5 hours in the fasted state (ranging 
+from 0.5 to 2 hours). 
+Food effect (fed/fasted) 
+Geometric least square 
+mean and 90% CI 
+The effect of a high-fat meal on rilzabrutinib pharmacokinetics was tested with 400 mg to-be-marketed tablets in Study 
+PRN1008-025. 
+Reference ID: 5651700
+
+
+===== PAGE 41 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+23 
+Integrated Review Template, version 4.0 (11/1/23) 
+Characteristic 
+Drug Information 
+Table 6. Effect of High-Fat Meal on Rilzabrutinib PK Parameters 
+Food 
+Effect 
+AUC0-last,  
+GMR (90% CIs) 
+Cmax,  
+GMR (90% CIs) 
+Tmax,  
+Median (Range) 
+Fed/Fasted 
+82% (90% CI: 69.4, 96.3) 
+69% (90% CI: 55.4, 86.1) 
+3 h (0.75, 6.1) 
+Source: Summary of Applicant’s analysis PRN1008-025 report 
+Abbreviations: AUC0-last, area under the concentration-time curve from time 0 to last measurable concentration of the drug; CI, confidence interval; 
+Cmax, maximum plasma concentration; GMR, geometric mean ratio; h, hours; PK, pharmacokinetic; Tmax, time to maximum concentration 
+The pivotal clinical study was conducted by administering the drug without regards to food. The product can be taken 
+without regards to food. 
+ 
+Distribution 
+Volume of distribution 
+The mean volume of distribution is 149 L. 
+Plasma protein binding 
+Rilzabrutinib is approximately 97.5% bound to human plasma proteins. 
+Drug as substrate of 
+transporters 
+Rilzabrutinib is a substrate of P-gp. 
+ 
+Elimination 
+Mass balance results 
+Following administration of 300 mg [14C]-rilzabrutinib, less than 5% of the dose is recovered in urine and 86% is 
+recovered in feces. Unchanged rilzabrutinib represented about 9% of the administered dose in feces and <1% in urine 
+(Study PRN1008-015). 
+Clearance 
+The clearance of rilzabrutinib is not time-dependent. Following multiple doses of 400 mg BID rilzabrutinib in patients 
+with ITP, mean CL/F ranged from 246 to 911 L/h. Based on the PopPK analysis in patients with ITP, the mean CL/F 
+was 516 L/h. 
+Half-life 
+Mean t1/2 of rilzabrutinib ranged from 1.5 to 4 hours after single dose administration of 50 or 1200 mg, and 3.8 and 4.5 
+hours after multiple dose administration of 300 or 600 mg. 
+Metabolic pathway(s) 
+Rilzabrutinib is primarily metabolized by CYP3A4, with minor contribution from CYP2D6. 
+Primary excretion 
+pathways (% dose) 
+Approximately 92.9% of the dose administered orally (300 mg liquid formulation) was recovered, in which 
+approximately 5% and 86% of the dose were recovered in the urine and the feces, respectively. 
+Reference ID: 5651700
+
+
+===== PAGE 42 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+24 
+Integrated Review Template, version 4.0 (11/1/23) 
+Characteristic 
+Drug Information 
+ 
+Intrinsic Factors and Specific Populations 
+Body weight 
+Based on PopPK analyses, body weight is a statistically significant covariate. However, the changes in rilzabrutinib 
+exposures due to body weight are not clinically significant. 
+Age 
+Based on PopPK analyses, age is not a statistically significant covariate on rilzabrutinib exposure. 
+Renal impairment 
+A dedicated renal impairment study was not conducted. Renal elimination is not expected to be the major elimination 
+pathway of rilzabrutinib. Less than 5% was recovered in urine in the mass balance study with unchanged rilzabrutinib 
+only in trace amounts. PopPK analysis showed no significant difference in systemic exposure of rilzabrutinib between 
+patients with mild or moderate renal impairment and normal renal function. The effect of severe renal impairment 
+including effect of dialysis is unknown. 
+Hepatic impairment 
+Mild hepatic impairment did not appear to significantly affect the total systemic exposure of rilzabrutinib. There was 
+approximately 4.5-fold higher exposure of total rilzabrutinib in participants with moderate hepatic impairment compared 
+to subjects with normal hepatic function. 
+ 
+Drug Interaction Liability (Drug as Perpetrator) 
+Inhibition/induction of 
+metabolism 
+In vitro studies show rilzabrutinib is an inhibitor and inducer of CYP3A4. 
+In vivo evaluation: 
+Coadministration of rilzabrutinib with midazolam, a CYP3A4 substrate, increased the exposure of midazolam by 2.4-
+fold (AUC) upon administration with a single dose of 600 mg rilzabrutinib. 
+PBPK simulation: 
+Modeling of coadministration of rilzabrutinib with midazolam also significantly increased the exposure of midazolam 
+upon administration with rilzabrutinib at 400 mg BID for 14 days. 
+Please see Section 14.5.3 for details. 
+Inhibition/induction of 
+transporter systems 
+In vitro studies show rilzabrutinib is a potential inhibitor of P-gp, BCRP and OATP1B3. 
+In vivo evaluation: 
+No clinical DDI studies were conducted to evaluate the inhibitory effect of rilzabrutinib towards P-gp, BCRP or 
+OATP1B3. 
+PBPK simulation: 
+PBPK analyses of transporter related drug interactions are considered inadequate. For risk assessment only, the 
+simulation results cannot rule out the potentially significant interactions of rilzabrutinib on the pharmacokinetics of 
+substrates of these transporters. 
+Pease see Section 14.5.3 for details. 
+Source: FDA Summary of Clinical Pharmacology Studies  
+Abbreviations: AUC, area under the concentration-time curve; AUC,ss, area under the concentration-time curve over a dosage interval at steady state; BCRP, breast cancer resistance 
+protein; CI, confidence interval; CL/F, apparent clearance at steady-state; Cmax, maximum plasma concentration; Cmax,ss, maximum plasma concentration at steady state; CV, 
+coefficient of variation; CYP2D6, cytochrome P450 2D6, CYP3A4, cytochrome P450 3A4; DDI, drug-drug interaction; ITP, immune thrombocytopenia; N/A, not available; OATP1B3, 
+organic anion transporting polypeptide 1B3; PBPK, Physiologically based pharmacokinetic; P-gp, P-glycoprotein; PopPK; population PK; QT, QT interval; QTc, corrected QT interval; 
+QTcF, corrected QT interval using Fridericia’s formula; t1/2, half-life 
+Reference ID: 5651700
+
+
+===== PAGE 95 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+77 
+Integrated Review Template, version 4.0 (11/1/23) 
+8.1.3. Other Intrinsic Factors 
+The covariate effect analyses in the PopPK model indicated that weight, age, race, and sex did 
+not have a significant effect on the pharmacokinetics of rilzabrutinib. Hence, dose adjustment is 
+not needed for these intrinsic factors. 
+8.2. Extrinsic Factors 
+8.2.1. Drug Interactions 
+8.2.1.1. Metabolic Pathway 
+Rilzabrutinib is predominantly metabolized by cytochrome P450 (CYP)3A4, with minor 
+contributions from CYP2D6, in vitro. Drugs that are inhibitors or inducers of CYP3A have the 
+potential to affect rilzabrutinib exposures. The Applicant conducted clinical drug-drug 
+interaction (DDI) studies to evaluate the impact of a strong CYP3A inhibitor and a strong 
+CYP3A inducer on the pharmacokinetics of rilzabrutinib. The effects of strong, moderate, and 
+weak CYP3A inhibitors as well as strong, moderate, and weak CYP3A inducers were evaluated 
+by PBPK modeling and simulations. 
+8.2.1.2. Effects of Other Drugs on Rilzabrutinib 
+8.2.1.2.1. Effects of CYP3A4 Inhibitors on Rilzabrutinib 
+Ritonavir, a strong CYP3A inhibitor, was dosed (100 mg, 2 doses) and its effect was evaluated 
+on single doses of 100 mg and 400 mg rilzabrutinib. Ritonavir increased the AUC and Cmax of 
+100 mg rilzabrutinib by approximately 18- and 8-fold, whereas increased the AUC and Cmax of 
+400 mg rilzabrutinib by approximately 8- and 5-fold. The effects of ritonavir, three moderate 
+CYP3A inhibitors, fluconazole, verapamil, and diltiazem, and one weak CYP3A inhibitor, 
+cimetidine, were also evaluated using PBPK modeling and simulations (see Section 14.5.3.4.3 
+for details). 
+PBPK simulations showed that ritonavir increased rilzabrutinib AUC and Cmax by 7.3- and 6.3-
+fold, respectively, following a single rilzabrutinib dose of 400 mg. Fluconazole increased 
+rilzabrutinib AUC and Cmax by 3.1- and 3.3-fold, respectively, following a single rilzabrutinib 
+dose of 400 mg. Verapamil increased rilzabrutinib AUC and Cmax by 2.8- and 3-fold, 
+respectively, following a single rilzabrutinib dose of 400 mg. Diltiazem increased both 
+rilzabrutinib AUC and Cmax by 1.5-fold, following a single rilzabrutinib dose of 400 mg. 
+Cimetidine increased rilzabrutinib AUC and Cmax by 1.4- and 1.6-fold, respectively, following a 
+single rilzabrutinib dose of 400 mg. 
+The review team agrees with the Applicant that the use of rilzabrutinib with strong and moderate 
+CYP3A inhibitors should be avoided due to the large increase in rilzabrutinib exposure. For use 
+with weak CYP3A inhibitors, the team does not propose any dose adjustment. 
+Reference ID: 5651700
+
+
+===== PAGE 96 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+78 
+Integrated Review Template, version 4.0 (11/1/23) 
+8.2.1.2.2. Effects of CYP3A4 Inducers on Rilzabrutinib 
+Rifampin, a strong CYP3A inducer, was dosed (600 mg QD for 11 days) and its effect was 
+evaluated on single dose of 400 mg rilzabrutinib. Rifampin decreased the AUC and Cmax of 
+rilzabrutinib by 77% and 80%, respectively, similar to the simulated results from using PBPK 
+modeling. The effects of a strong CYP3A inducer, carbamazepine, two moderate CYP3A 
+inducers, efavirenz and rifabutin, and one weak CYP3A inducer, dexamethasone, were also 
+evaluated using PBPK modeling and simulations (see Section 14.5.3.4.3 for details). 
+Based on the PBPK simulations, carbamazepine decreased rilzabrutinib AUC and Cmax by 
+approximately 75% and 81%, respectively, following a single rilzabrutinib dosage of 400 mg. 
+Efavirenz, a moderate CYP3A inducer, decreased both rilzabrutinib AUC and Cmax by 
+approximately 70%, following a single rilzabrutinib dosage of 400 mg. Rifabutin decreased 
+rilzabrutinib AUC and Cmax by approximately 60% and 66%, respectively, following a single 
+rilzabrutinib dosage of 400 mg. Dexamethasone, a weak CYP3A inducer, decreased both 
+rilzabrutinib AUC and Cmax by approximately 30%, following a single rilzabrutinib dosage of 
+400 mg. 
+Based on E-R analysis, 30% rilzabrutinib exposure decrease would lead to a reduction in platelet 
+count response by approximately 15%, compared to no change in rilzabrutinib exposure. This 
+degree of change is not likely clinically significant. 
+The review team agrees with the Applicant that the use of rilzabrutinib with strong and moderate 
+CYP3A inducers should be avoided due to the large decrease in rilzabrutinib exposure. The team 
+agrees with the Applicant that the use of rilzabrutinib with weak CYP3A inducers are allowed 
+without additional instructions or dose-adjustment (see Section 14.2.11 for details). 
+8.2.1.2.3. Effect of Acid Reducing Agents on Rilzabrutinib 
+Rilzabrutinib has pH-dependent solubility in the relevant physiological pH range. The solubility 
+of rilzabrutinib is >120 mg/mL at pH values less than 4, however, decreases significantly to 
+0.35 mg/mL at pH 4.5. Thus, rilzabrutinib is likely to have interactions with acid reducing agents 
+(ARAs). 
+Esomeprazole, a proton pump inhibitor (PPI), was dosed (40 mg QD, 5 doses) and its effect was 
+evaluated on single dose of 300 mg rilzabrutinib. Administering esomeprazole two hours before 
+rilzabrutinib decreased both its AUC and Cmax by approximately 50%. Famotidine, an H2 
+receptor antagonist (H2RA), was dosed (20 mg QD, 3 evening doses) and its effect was 
+evaluated on the administration of 400 mg rilzabrutinib on Day 3 (10 hours after the famotidine 
+dose on Day 2), as well as on the administration of evening dose of 400 mg rilzabrutinib on 
+Day 3 (2 hours before the famotidine dose on Day 3). Dosing rilzabrutinib in the morning 
+following administration of 20 mg famotidine the previous evening, resulted in a reduction in the 
+rilzabrutinib AUCinf and Cmax by 35.3% and 27.7%, respectively. However, when rilzabrutinib 
+was administered in the evening, two hours prior to the evening famotidine dose, AUC and Cmax 
+were reduced by only 2.4% and 9.5%, respectively. 
+The review team agrees with the Applicant that the use of rilzabrutinib with PPIs should be 
+avoided due to the large decrease in rilzabrutinib exposure. The team agrees with the Applicant 
+Reference ID: 5651700
+
+
+===== PAGE 99 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+81 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 34. Nonclinical Data Supporting Labeling on Fertility, Pregnancy, and Lactation 
+Labeling Section 
+Nonclinical Data 
+8.1 Pregnancy 
+Risk Summary 
+Based on animal data, rilzabrutinib may cause fetal harm when 
+administered to a pregnant woman. In animal reproduction studies, oral 
+administration of rilzabrutinib to pregnant rats and rabbits during 
+organogenesis at exposures 4 to 10 times the human exposure (based 
+on AUC) at the maximum recommended human dose (MRHD) of 
+400 mg twice daily did not cause adverse developmental effects. 
+However, adverse visceral and skeletal findings occurred in rat fetuses 
+at a maternally toxic dose at exposures 22 times the human exposure 
+(based on AUC) at the MRHD (see Animal Data). 
+ 
+Animal Data 
+Rilzabrutinib given to pregnant rats by oral gavage at 50, 150, or 
+300 mg/kg/day during the period of organogenesis (gestation day 7 to 
+17) did not cause adverse effects on embryo-fetal development at 
+exposures approximately 10 times the clinical exposure at the MRHD, 
+based on AUC. Increased incidence of postimplantation loss (25%), 
+delayed ossification associated with a markedly lower (24%) mean fetal 
+weight and increased skeletal (scoliosis) and visceral malformations 
+(abnormalities of major vessels, urogenital tract, and kidney) occurred in 
+a preliminary study in rats at a maternally toxic dose of 500 mg/kg/day 
+that resulted in exposures 22 times the clinical exposure at the MRHD, 
+based on AUC. 
+ 
+Rilzabrutinib given to pregnant rabbits by oral gavage at 10, 30, or 
+100 mg/kg/day during the period of organogenesis (gestation day 7 to 
+19) did not cause adverse effects on embryo-fetal development at 
+exposures approximately 4 times the clinical exposures at the MRHD, 
+based on AUC. Renal visceral malformations occurred in a single fetus 
+in a preliminary study in rabbits at 150 mg/kg/day that resulted in 
+exposures 5.6 times the clinical exposure at the MRHD, based on AUC. 
+ 
+In a pre- and postnatal developmental toxicity study, pregnant rats were 
+given rilzabrutinib by oral gavage at doses of 50, 150, or 300 mg/kg/day 
+during the periods of gestation, parturition, and lactation (gestation day 
+7 to lactation day 21). Decreased body weight was observed in pups in 
+the presence of maternal toxicity at 300 mg/kg/day, at exposures 
+approximately 18 times the MRHD based on AUC. There were no 
+effects of rilzabrutinib on the ability of F1 offspring to reproduce or on 
+subsequent F2 development at any dose. 
+8.2 Lactation 
+There are no data on the presence of rilzabrutinib or its metabolites in 
+either human or animal milk, the effects on the breastfed child, or the 
+effects on milk production. Due to the potential for adverse reactions in 
+a breastfed child from rilzabrutinib, advise lactating women not to 
+breastfeed while taking rilzabrutinib and for at least 1 week after the 
+final dose. 
+Source: PI labeling and FDA reviewer 
+Abbreviations: AUC, area under the concentration-time curve; MRHD, maximum recommended human dose; PI, prescribing 
+information; F1, first filial 
+Reference ID: 5651700
+
+
+===== PAGE 116 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+98 
+Integrated Review Template, version 4.0 (11/1/23) 
+Study No./ Study Title 
+Key Study Findings 
+Study DVR0176/ PRN10081: 
+Irwin Test Assessment 
+Following Oral Administration to 
+Rats. 
+GLP compliance: yes 
+Species/ Strain: rat, Han Wistar 
+Number/Sex/Group: 6 
+males/group. 
+A single oral (gavage) dose of rilzabrutinib to male Wistar Han rats at a 
+dose of 50, 150, or 500 mg/kg did not affect the gross behavioral, 
+physiological, or neurological state of the animals. 
+Study DVR0177/ PRN10081: 
+Cardiovascular, Respiratory and 
+Toxicokinetic Assessment 
+Following Oral Administration to 
+Conscious, Radiotelemetry 
+Instrumented Dogs. 
+GLP compliance: yes 
+Species/ Strain: beagle dog 
+Number/Sex/Group: 4 
+males/group. 
+The NOAEL for cardiovascular toxicity was 500 mg/kg, the highest dose 
+tested, based on the absence of rilzabrutinib-related effects on 
+electrocardiogram (ECG) waveform morphology, ECG intervals, body 
+temperature, or respiratory parameters (respiratory frequency, tidal 
+volume, or minute volume). This dose corresponded to mean AUClast, 
+Cmax, Tmax, and t1/2 values of 20,200 ng*h/mL, 3,760 ng/mL, 3.0 h, and 2.4 
+h, respectively. 
+Source: Applicant’s submission 
+1. PRN1008 denotes rilzabrutinib 
+2. SAR444671 denotes rilzabrutinib 
+Abbreviations: AUClast, area under the concentration-time curve to the last measurable concentration; BID, twice daily; Cmax, 
+maximum plasma concentration; GLP, good laboratory practice; IC50, half-maximal inhibitory concentration; NOAEL, no-observed-
+adverse-effect level; QT, QT interval; t1/2, half-life; Tmax, time to maximum concentration 
+13.1.4. ADME/Pharmacokinetics 
+13.1.4.1. Nonclinical Pharmacokinetic Parameters of 
+Rilzabrutinib 
+Rilzabrutinib is a small molecule combination of E (up to 90%) and Z isomers and R/S 
+enantiomers (predominantly R). The Z isomer is mostly converted to E isomer following oral 
+dosing in rats and humans. Both E and Z isomers have comparable pharmacological activity. The 
+R enantiomer has greater durability of pharmacological potency, but there is negligible 
+conversion of R to S in vivo. In addition, physiochemical properties of rilzabrutinib include high 
+hydrophobicity and pH-dependent solubility, which appear to dictate its absorption, distribution, 
+metabolism, and excretion (ADME) profile in both animals and humans, resulting in minimal 
+renal clearance. 
+The pharmacokinetic and toxicokinetic properties of rilzabrutinib were addressed primarily in 
+rats, dogs, mice, rabbits, and monkeys. Single oral/IV dose PK studies found rilzabrutinib to 
+have a rapid rate of absorption, metabolism, and clearance rate and variable bioavailability in all 
+test species. The half-life of rilzabrutinib in single dose studies ranged from 0.6 to 2.6 hrs. (Table 
+41). The shortest t1/2 in all test species occurred following IV and low oral doses and t1/2 
+appeared to be longer after larger oral doses. In single dose studies, a 5-fold increase in dose was 
+associated with a 10-fold increase in exposure (20 mg/kg versus 100 mg/kg) in rats. In contrast, 
+the increase in exposure was dose proportional in repeat dose studies. Rilzabrutinib 
+bioavailability in rats increased from 12.5% at 20 mg/kg to 52.7% at 100 mg/kg in single dose 
+Reference ID: 5651700
+
+
+===== PAGE 117 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+99 
+Integrated Review Template, version 4.0 (11/1/23) 
+PK studies. Similar findings were also seen in dogs where the bioavailability increased from 
+7.5% at 20 mg/kg to 28.2% at 100 mg/kg (Table 41). 
+Table 41. Pharmacokinetic Parameters of Rilzabrutinib After Single Oral or Intravenous 
+Administration of Rilzabrutinib in Rats, Dogs, and Monkeys 
+Species 
+Sex Route 
+Dose,
+mg/kg
+Tmax,
+h
+Cmax,
+ng/mL
+t1/2z,
+h
+AUC, 
+ng*h/mL
+Vz,
+L/kg
+CL,
+L/h.kg
+%F1
+Rat study 
+F 
+IV 
+2
+-
+1608 
+0.6
+505
+0.33
+66
+- 
+DVR0077 
+F 
+PO 
+20
+0.5
+270 
+1.5
+622
+12.3 
+F 
+PO 
+100
+1.0
+2795 
+2.6
+13310
+52.7 
+Dog study 
+M 
+IV 
+2
+-
+2066 
+0.7
+827 13.31
+40
+- 
+DVR0078 
+M 
+PO 
+20
+0.5
+378 
+2.2
+695
+7.5 
+M 
+PO 
+100
+4.0
+2050 
+2.0
+11667
+28.2 
+Monkey study M 
+IV 
+2
+-
+2790 
+0.4
+1464
+2.62
+23
+- 
+DVR0080 
+M 
+PO 
+20
+1.0
+181 
+1.0
+473
+3.2 
+M 
+PO 
+100
+4.0
+431 
+2.5
+2772
+3.8 
+Source: Applicant provided PK studies 
+1. %F denotes bioavailability 
+Abbreviations: AUC, area under the plasma concentration time curve; CL, clearance; Cmax, maximum plasma concentration; F, 
+female; IV, intravenous; M, male; NA, not applicable; PK, pharmacokinetic; PO, by mouth; t1/2Z, terminal half-life; Tmax, time to 
+maximum concentration; Vz, apparent volume of distribution during the terminal phase 
+The variability observed in the t1/2, plasma exposure, and bioavailability in single dose studies 
+from small to large doses of rilzabrutinib (20 versus 100 mg/kg) is likely reflective of limited 
+capacity of liver CYP enzymes to metabolize rilzabrutinib. Large doses of rilzabrutinib were 
+likely exceed the metabolizing capacity, which is not seen with low doses. Repeated 
+administration of rilzabrutinib resulted in adaptive hepatic increase in microsomal enzymes (liver 
+hypertrophy) leading to increase in liver CYP capacity, preventing rilzabrutinib accumulation 
+with large doses in repeat dose studies (Gilbert and Goldberg 1965). Whether greater absorption 
+occurred at higher doses is not clear. When rilzabrutinib was delivered intrajejunal route 
+bypassing the stomach, a significant increase in rilzabrutinib was observed at 50 mg/kg (2 to 3-
+fold) and 100 mg/kg (6 to 7-fold). Rilzabrutinib is an acidic compound, and it is possible that 
+larger doses allowed faster transit from the stomach than small doses. 
+Rilzabrutinib was highly protein bound in all species tested. Rilzabrutinib plasma protein binding 
+in rat, dog and human was ≥99%, 96% and 97.5%, respectively. As a small hydrophobic 
+molecule with minimal solubility in water or basic environment, rilzabrutinib is not expected to 
+readily enter red blood cells (RBCs). In vitro partitioning assays of rilzabrutinib to blood cells 
+versus plasma (Table 42) found rilzabrutinib had limited ability to bind RBCs and the plasma 
+concentration of rilzabrutinib was more than 2-fold greater than the concentration in RBCs. In 
+vivo partitioning of [14C] rilzabrutinib found blood to plasma ratio nearly equal (up to 4 hrs. 
+postdose). The blood to plasma ratio increased to 1.55 at 168 hrs. suggesting that slow release 
+from blood cells was one of the last reservoirs for rilzabrutinib. 
+Reference ID: 5651700
+
+
+===== PAGE 119 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+101 
+Integrated Review Template, version 4.0 (11/1/23) 
+thiocyanate exposure at maximum clinical dose of 400 mg BID rilzabrutinib. Thiocyanate has 
+the potential to interfere with iodine uptake by inhibiting thyroid sodium-iodide symporter (EPA 
+2006; Darrouzet et al. 2014), and be mildly neurotoxicant at very high concentration (60 µg/mL). 
+However, since thiocyanate levels formed from rilzabrutinib were within the normal range 
+reported in humans and similar thiocyanate levels were tested in rats, the overall safety risk is 
+considered to be negligible. 
+Table 43. Rilzabrutinib and M1 Thiocyanate Metabolite (PRN4400) in Rats 
+Study# 
+Duration 
+Dose, 
+mg/kg/Day 
+Rilzabrutinib (Parent) 
+PRN4400 (Thiocyanate, M1) 
+M1/Parent 
+Cmax 
+AUC 
+Cmax 
+AUC 
+Cmax 
+AUC 
+F/M 
+F/M 
+F/M 
+F/M 
+F/M 
+F/M 
+1281-21219 
+14-daya  
+150 
+1730/801 
+13200/5250 
+3170/4860 
+58100/96200 13/42 30/125 
+500 
+4070/1720 37300/18200 
+7160/8020b 
+149000/184000 12/32 
+27/69 
+Source: Derived from Study#1281-21219 
+a 14-day bridging study conducted in rats to determine the thiocyanate metabolite exposure (PRN4400) 
+b Thiocyanate exposure in rats at the highest dose level was comparable to clinical exposure at 400 mg BID 
+Abbreviations: AUC, area under the concentration-time curve; BID, twice daily; Cmax, maximum plasma concentration; F, female; M, 
+male 
+13.1.4.2. Toxicokinetic Parameters of Rilzabrutinib 
+The toxicokinetics of rilzabrutinib were evaluated following once daily oral administration in 
+chronic toxicity studies conducted in Sprague Dawley rats (Table 44) and beagle dogs (Table 
+45). Plasma concentrations of rilzabrutinib and its metabolites were measured by validated 
+HPLC tandem mass spectrometry. Oral administration of rilzabrutinib was associated with dose-
+proportional increases in AUC exposure with no evidence of accumulation (<2-fold) with 
+repeated exposures in rats and dogs. The increases with repeated dosing were lower than 
+normally anticipated at steady state. Low accumulation at stead-state was likely due to adaptive 
+increases in hepatic microsomal CYP enzyme (seen as hepatic hypertrophy) in rats. Rilzabrutinib 
+exposures in female rats was ~2-fold greater than in males. There was no notable sex-related 
+difference (<2-fold) in rilzabrutinib exposures in dogs. 
+Table 44. Toxicokinetic Parameters of Rilzabrutinib in the Rat Study 
+Study# 
+Duration 
+Cmax, 
+AUC 
+Dose, mg/kg/Day 
+NOAEL, 
+mg/kg/Day 
+15 
+50 
+150 
+300 
+500 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+DVR0174 
+4-week 
+Cmax 
+- 
+- 602 1650 
+1450 
+3460 
+- 
+- 2350 
+4270 
+ 
+ 
+AUC 
+- 
+- 1540 3490 
+5420 13600 
+- 
+- 23200 39900 
+500 
+500 
+DVR0207 
+13-week 
+Cmax 
+- 
+- 715 2690 
+1400 
+3220 
+- 
+- 2350 
+5730 
+ 
+ 
+AUC 
+- 
+- 2170 3120 
+8450 17000 
+- 
+- 21300 34700 
+150 
+150 
+DVR0376 
+6-month 
+Cmax 
+258 304 606 2010 
+1170 
+3440 2300 4950 
+- 
+- 
+ 
+ 
+AUC 
+394 721 2060 5760 
+6860 14100 17800 27200 
+- 
+- 
+150 
+50 
+Source: Applicant study #DVR0174, DVR0207, and DVR0376 
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration; F, female; M, male; NOAEL, 
+no-observed-adverse-effect level 
+Reference ID: 5651700
+
+
+===== PAGE 120 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+102 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 45. Toxicokinetic Parameters of Orally Administered Rilzabrutinib in Dogs 
+Dog Study# 
+Duration 
+Parameters 
+Dose, mg/kg/Day 
+15 
+30 
+50 
+100 
+300 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+DVR0184 
+4-week 
+Cmax 
+AUC 
+- 
+- 
+- 
+- 
+514 
+870 
+486 
+942 
+- 
+- 
+- 
+- 
+1500 
+5040 
+1450 
+3210 
+1440 
+4550 
+1380 
+7480 
+DVR0206 
+13-week 
+Cmax 
+AUC 
+- 
+- 
+- 
+- 
+592 
+1070 
+484 
+1040 
+- 
+- 
+- 
+- 
+736 
+1980 
+1670 
+4410 
+* 
+* 
+1780 
+7350 
+DVR0377 
+9-month 
+Cmax 
+AUC 
+65.7 
+248 
+202 
+377 
+257 
+689 
+339 
+751 
+593 
+2410 
+940 
+3250 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Source: Applicant study #DVR0184, DVR0206, and DVR0377 
+* High-dose males were euthanized prior to Day 91 due to clinical signs of toxicity. Values shown here represent those measured on 
+Day 25, Day 91/92, and Day 273 for studies DVR0184, DVR0206, and DVR0377, respectively. 
+NOAELs: in 4-week study 300 mg/kg/day for both, male and female dogs in 13-week study 30 mg/kg/day for male dogs (not 
+determined in females) in 9-month study 30 mg/kg/day for both, male and female dogs  
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration; F, female; M, male; NOAEL, 
+no-observed-adverse-effect level 
+13.1.5. General Toxicology 
+Study 1281-16101: Six-Month Oral GLP Toxicity Study of Rilzabrutinib in Rats 
+Key Study Findings 
+ Target organs of toxicity included brain and gastrointestinal tract. 
+ Rilzabrutinib-related mortality was noted in five females and 1 male at high dose (HD) but 
+cause of death was not determined except for a HD female that was linked to brain 
+inflammation at exposures 12x higher than the MRHD exposure. 
+ Microscopic findings included: 
+– Brain: Minimal to moderate mixed cell inflammation in meninges, neutrophilic 
+inflammation in neuropil, increased periventricular IBA-1 positivity (microgliosis) and 
+GFAP positivity (astrocyte increase) indicative of neurotoxicity that were partially 
+resolved at the end of recovery. Similar findings were observed in the 13-week 
+toxicology study in rats. 
+– Gastrointestinal system: Hemorrhage/inflammation in stomach, duodenum, and 
+esophagus (inflammation only at HD in two females) occurred at exposures that were 
+approximately 9 to 12 times higher than the MRHD exposure. 
+ Overall, administration of rilzabrutinib shows dose-dependent effects across multiple organ 
+systems. Brain findings suggest neurotoxicity with partial recovery, consistent with previous 
+13-week study in rats. Inflammatory changes (neutrophil infiltration, microglial activation) in 
+brains occurred without evidence of neuronal damage or degeneration. The occurrence of 
+microgliosis in the absence a direct effect on neurons is consistent with the reported BTK 
+expression pattern in the brain (higher microglial expression, lower neuronal expression). 
+– Thyroid changes indicate potential endocrine disruption, with some sex-specific effects. 
+Liver findings suggest adaptive responses even at lower doses. Gastrointestinal effects, 
+observed at high exposures, imply potential for mucosal irritation and/or damage. 
+Reference ID: 5651700
+
+
+===== PAGE 141 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+123 
+Integrated Review Template, version 4.0 (11/1/23) 
+Parameters 
+Major Findings 
+Necropsy 
+findings/ 
+offspring 
+Delayed ossification associated with a markedly lower (24%) mean fetal weight and 
+increased skeletal (scoliosis) and visceral malformations (abnormalities of major 
+vessels, urogenital tract, and kidney) occurred at a maternally toxic dose of 
+500 mg/kg/day. 
+Source: Applicant’s study (Study #AB20877-D) 
+Abbreviations: DRF, developmental reproductive toxicity; GD, gestation day 
+Toxicokinetics 
+ AUC exposure increased with increasing dose in a more than dose-proportional manner 
+between 50 and 150 mg/kg/day and in a less than dose-proportional manner between 150 and 
+500 mg/kg/day on both GD 6 and GD 17. Specifically, AUCinf increased approximately 4.3-
+fold when dose increased 3-fold (from 50 to 150 mg/kg/day) and only 1.5-fold when dose 
+increased 3.3-fold (from 150 to 500 mg/kg/day) on GD 6. There were no signs of 
+rilzabrutinib accumulation after repeated dosing. 
+ Tmax was consistently rapid, with maximum plasma concentrations observed between 0.25 
+and 0.5 hours after dosing across most treatment groups, except for females treated at 
+500 mg/kg/day on GD 6 (Tmax =1 hour). 
+Table 67. Mean Toxicokinetic Parameters in Female Rats After Administration of Rilzabrutinib 
+Parameter 
+Dose (mg/kg/Day) 
+50 
+150 
+500 
+GD 6 
+AUCinf (ng*h/mL) 
+3700 
+15800 
+24300 
+Cmax (ng/mL) 
+1280 
+2600 
+3010 
+Tmax (h) 
+0.5 
+0.5 
+1 
+GD 17 
+AUCinf (ng*h/mL) 
+4100 
+15300 
+33500 
+Cmax (ng/mL) 
+1080 
+2200 
+2760 
+Tmax (h) 
+0.25 
+0.5 
+0.25 
+Accumulation ratio 
+1.1 
+0.97 
+1.3 
+Source: Applicant’s study (Study #AB20877-D) 
+Abbreviations: AUCinf, area under the concentration-time curve estimated to infinity; Cmax, maximum plasma concentration; Tmax, time 
+to maximum concentration 
+Study 20131080: An Embryo-Fetal Development Study of Rilzabrutinib by Oral Gavage in 
+Rats 
+Key Study Findings 
+ Rilzabrutinib-related maternal toxicity in rats was associated with lower mean maternal body 
+weights (4%) and lower mean maternal food consumption (16%) at 300 mg/kg/day from the 
+GD 7 to GD 21 but did not induce fetal developmental or toxic effects. 
+ There were no rilzabrutinib-related macroscopic findings noted at maternal necropsy 
+examinations, and there were no rilzabrutinib-related effects on any ovarian and uterine 
+parameters. In addition, there were no rilzabrutinib-related external, visceral, or skeletal fetal 
+malformations or variations. 
+ The maternal NOAEL for rilzabrutinib is defined at 150 mg/kg/day (Cmax of 3470 and 
+2970 ng/mL and AUC(0-t) of 10600 and 18200 ng*h/mL on GD 7 and 17, respectively) based 
+Reference ID: 5651700
+
+
+===== PAGE 144 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+126 
+Integrated Review Template, version 4.0 (11/1/23) 
+Toxicokinetics 
+ AUC exposure increased with increasing dose in an approximately dose proportional manner 
+on GD 7 and in a less than dose proportional manner (4-fold across a 6-fold dose increase 
+from 50 to 300 mg/kg/day) on GD 17. Cmax exposure increased in a less than dose 
+proportional manner (approximately 1-fold increase across a 6-fold dose increase from 50 to 
+300 mg/kg/day) on both GD 7 and GD 17 days (Table 70). There were no signs of 
+rilzabrutinib accumulation after repeated dosing. 
+ T1/2 ranged from 2.67 to 7.07 hours. 
+Table 70. Mean Toxicokinetic Parameters in Female Rats After Administration of Rilzabrutinib 
+Parameter 
+Dose (mg/kg/Day) 
+50 
+150 
+300 
+GD 7 
+AUC(0-t) (ng*h/mL) 
+4280 
+10600 
+31200 
+Cmax (ng/mL) 
+2590 
+3470 
+3390 
+Tmax (h) 
+0.5 
+0.5 
+0.5 
+t1/2 (h) 
+2.71 
+3.42 
+NR 
+GD 17 
+AUC(0-t) (ng*h/mL) 
+3940 
+18200 
+15800 
+Cmax (ng/mL) 
+2300 
+2970 
+3260 
+Tmax (h) 
+0.5 
+1 
+0.5 
+t1/2 (h) 
+2.67 
+3.7 
+7.07 
+Accumulation ratio 
+0.9 
+1.7 
+0.5 
+Source: Applicant’s submission 
+NR = Not reportable due to values not meeting acceptance criteria 
+Abbreviations: AUC(0-t), area under the concentration-time curve from time zero to the last measurable concentration; Cmax, 
+maximum plasma concentration; GD, gestation day; Tmax, time to maximum concentration; t1/2, half-life 
+Study AB20878: Rilzabrutinib Free Base, Dose Range-Finding Study by the Oral Route 
+(Gavage) in the Pregnant Rabbit 
+A non-GLP dose range-finding study was conducted in pregnant New Zealand White rabbits to 
+evaluate the embryo-fetal development effects of rilzabrutinib administered orally at 50, 100, and 
+150 mg/kg/day during organogenesis (Days 6 to 19 of gestation). 
+Malformations observed in the rabbit dose range-finding study were considered equivocal and 
+not rilzabrutinib-related due to the lack of dose-response relationship and occurrence as isolated 
+findings in single fetuses from individual litters. Given the absence of clear rilzabrutinib-related 
+developmental effects, no further detailed discussion of malformation findings from this dose 
+range-finding study is included in this developmental toxicity assessment. 
+Study 20131081: An Embryo-Fetal Development Study of Rilzabrutinib by Oral Gavage in 
+Rabbits 
+Key Study Findings 
+ Rilzabrutinib-related maternal toxicity in rabbits was associated with lower mean maternal 
+body weight gains (29%) and lower mean maternal food consumption (11%) compared to 
+concurrent control at 100 mg/kg/day. 
+Reference ID: 5651700
+
+
+===== PAGE 146 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+128 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 72. Observations and Results of Oral Embryo-Fetal Developmental Study in Rabbits 
+Parameters 
+Major Findings 
+Mortality 
+All survived 
+Clinical signs 
+No rilzabrutinib-related clinical signs occurred 
+Body weight 
+Administration of rilzabrutinib resulted in lower mean maternal body weight gains 
+(29%), and lower mean maternal food consumption (11%) at 100 mg/kg/day for 
+the GD 7 to GD 20. There were no rilzabrutinib-related effects on mean maternal 
+body weights, mean maternal body weight gains, and lower mean maternal food 
+consumption in the 10 and 30 mg/kg/day dose groups. 
+Necropsy findings/ 
+cesarean section 
+data 
+There were no rilzabrutinib-related effects on any ovarian or uterine parameter in 
+dams at any dose level and falls within the historical control ranges. 
+Necropsy findings/ 
+offsprings 
+There were no rilzabrutinib-related fetal body weight changes or external, 
+visceral, or skeletal fetal malformations or variations observed. There were 
+statistically significant increases and decreases (p≤0.05) in the mean numbers of 
+thoracic and lumbar vertebrae, respectively at 100 mg/kg/day. This finding was 
+considered unrelated to rilzabrutinib because there was no effect on the total 
+number of presacral vertebrae, indicating a homeotic transformation rather than a 
+true malformation. A similar homeotic transformation was also observed in the rat 
+embryo-fetal development study at 300 mg/kg/day. 
+Source: Applicant’s submission 
+Abbreviation: GD, gestation day 
+Toxicokinetics 
+ Accumulation ratios were 2.9, 1.8, and 1.76 at the 10, 30 and 100 mg/kg/day dose levels, 
+respectively for the rilzabrutinib from GD 7 to GD 19. Accumulation ratio appeared to 
+decrease with increasing dose. 
+ T1/2 ranged from 0.6 to 0.8 hours. 
+Table 73. Mean Toxicokinetic Parameters in Female Rabbits After the Administration of 
+Rilzabrutinib 
+Parameter 
+Dose (mg/kg/Day) 
+10 
+30 
+100 
+GD 7 
+AUC(0-t) (ng*h/mL) 
+9.56 
+175 
+3980 
+Cmax (ng/mL) 
+10.7 
+232 
+2240 
+Tmax (h) 
+0.5 
+0.5 
+0.8 
+T1/2 (h) 
+NC 
+NC 
+0.61 
+GD 19 
+AUC(0-t) (ng*h/mL) 
+27.3 
+313 
+6920 
+Cmax (ng/mL) 
+35.1 
+340 
+5110 
+Tmax (h) 
+0.5 
+0.5 
+0.5 
+T1/2 (h) 
+NC 
+0.71 
+0.6 
+Accumulation ratio 
+2.9 
+1.8 
+1.76 
+Source: Applicant’s submission 
+1. denotes a value determined by N=1 
+Abbreviations: AUC(0-t), area under the concentration-time curve from time zero to the last measurable concentration; Cmax, 
+maximum plasma concentration; GD, gestation day; NC, not calculable; Tmax, time to maximum concentration; t1/2, half-life 
+Reference ID: 5651700
+
+
+===== PAGE 159 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+141 
+Integrated Review Template, version 4.0 (11/1/23) 
+24 hours postdose for the measurement of plasma concentrations of rilzabrutinib. Blood samples 
+were also drawn at 4, 12 and 24 hours postdose to measure BTK occupancy in peripheral blood 
+mononuclear cells (PBMCs). Part B contained a total of 40 healthy participants, 10 participants 
+per cohort (8 active/2 placebo) were treated with repeat doses of rilzabrutinib oral liquid 
+formulation (300 mg QD, 300 mg BID, 600 mg QD and 450 mg BID) or matching placebo QD 
+for 10 days. Blood samples were collected at predose and up to 24 hours postdose on dosing Day 
+-1, 1 and 10 for the measurement of plasma concentrations of rilzabrutinib. Blood samples were 
+also drawn at 4, 12, 24 and 36 hours postdose on Day 1 and Day 10 to measure BTK occupancy 
+in PBMCs. All doses were administered orally after a 10-hour fast, and participants continued to 
+fast until 4 hours postdose. 
+Results 
+In Part A, following single oral doses of a liquid formulation of rilzabrutinib, the mean plasma 
+Cmax and AUC0-∞ increased close to or more than dose-proportionally from 50 mg to 600 mg. 
+Increasing the dose from 600 mg to 1200 mg did not result in further increases in Cmax or 
+AUC0-∞, suggesting a plateau in absorption with doses greater than 600 mg with the liquid 
+formulation administered in this study. The median Tmax of rilzabrutinib increased from 0.5 to 
+2.5 hours as doses increased from 50 mg to 1200 mg. The mean apparent terminal elimination 
+half-life of rilzabrutinib was approximately 3 to 4 hours. Measurement of BTK occupancy 
+showed a dose-dependent increase of BTK occupancy. The maximum observed response was at 
+4 hours postdose and a plateau of response was reached with the 600 mg dose (mean of 92%). 
+In Part B, following multiple oral doses of rilzabrutinib on Day 10, the mean plasma AUC0-∞ of 
+rilzabrutinib in plasma increased in a dose-proportional fashion over a dose range of 300 mg to 
+600 mg. The mean apparent terminal elimination half-life ranged from 3.8 to 4.5 hours for all 
+cohorts on Day 10 and did not appear to change with the different dosing regimen. Minimal 
+accumulation (<2-fold) was observed after multiple oral dose administration. Following multiple 
+oral doses of rilzabrutinib, mean BTK occupancy in PBMCs of 91% was observed 4 hours after 
+the final dose for all but the 300 mg QD regimen, and approximately 55-60% was observed 24 
+hours later. 
+Table 78. Summary of Exposures After Single Dose of Rilzabrutinib as an Oral Liquid Formulation 
+in Part A, Study PRN1008-001 
+ 
+Source: Applicant’s analysis PRN1008-001 report 
+Abbreviations: AUCinf, area under the concentration-time curve estimated to infinity; Cmax, maximum plasma concentration; CV, 
+coefficient of variation 
+Reference ID: 5651700
+
+
+===== PAGE 161 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+143 
+Integrated Review Template, version 4.0 (11/1/23) 
+Maximum BTK occupancy (approximately 90%) was achieved with daily doses of 600 mg and 
+above. 
+14.2.2. Study PRN1008-015: a Two Part-Phase 1, 
+Open-Label Study of the Absorption, Metabolism, 
+Excretion and Absolute Bioavailability of 
+[14C]-PRN1008 in Healthy Male Participants 
+Study Design 
+This was a two-part study. In Part A, 8 participants received a single oral dose of 400 mg 
+rilzabrutinib immediate release tablet followed 2 hours later by an intravenous (IV) 
+administration of 100 μg [14C]-rilzabrutinib (containing about 1 μCi), as an IV push over 2 
+minutes. Blood samples were collected predose and up to 72 hours postdose for determination of 
+plasma concentrations of rilzabrutinib and [14C]-rilzabrutinib. In Part B, 10 participants received 
+a single oral dose of 300 mg [14C]-rilzabrutinib as a liquid formulation (containing about 
+1000 μCi). All participants had blood, urine, and feces collection. Two of the 10 participants also 
+had bile sample collected. All administrations were given after a 10-hour fast, and participants 
+continued to fast until 4 hours postdose. 
+Results 
+In Part A, after a 400 mg oral dose followed by an IV injection of 100 μg [14C]-rilzabrutinib, 
+rilzabrutinib clearance was estimated to be 58.1 L/h. Volume of distribution at terminal phase 
+after IV administration was estimated to be 149 L. Oral bioavailability of rilzabrutinib was 
+estimated to be 4.73%. The median tmax was approximately 2.0 hours and geometric mean t1/2 
+was 3.2 h. 
+In Part B, following oral administration of [14C]-rilzabrutinib, rapid absorption of rilzabrutinib 
+was observed with a median tmax value of 1.0 hour in plasma, while maximal levels of total 
+radioactivity in plasma and blood were reached with a median tmax of 3.5 hours postdose. After 
+reaching Cmax, plasma concentrations of rilzabrutinib declined in a biphasic manner, with a 
+geometric mean t1/2 of 2.5 hours (range: 1.2 to 9.0 hours). In contrast, for total radioactivity, the 
+terminal t1/2 in plasma and blood was 182 hours and 176 hours, respectively. The mean AUClast 
+of rilzabrutinib in plasma was approximately 0.3% of that of the total radioactivity in plasma. 
+Data of this study demonstrated that rilzabrutinib undergoes extensive metabolism, mediated 
+primarily by dealkylation, oxidative N‑dealkylation, and oxidation. The metabolism produced a 
+total of 46 radiolabeled components, of which, 25 metabolites were identified or characterized. 
+Rilzabrutinib was a trace radiolabeled component in plasma and accounted for 0.760% of total 
+radioactivity. PRN4400 (thiocyanate, M1) was identified as the primary circulating metabolite 
+representing 94.2% of total radioactivity exposure in plasma. PRN834 (M45), a previously 
+characterized metabolite, accounted for 1.09% of total plasma radioactivity exposure. The other 
+metabolites were identified as trace amount (<1%) metabolites in plasma. The overall mean 
+recoveries of radioactivity in urine, bile (as applicable), feces, and vomitus samples were 92.9% 
+(non-bile collection participants) and 87.6% (bile collection participants). [14C]-Rilzabrutinib-
+derived radioactivity was predominantly excreted in feces (approximately 86% of dose) and to a 
+lesser extent in urine (approximately 5% of dose, total radioactivity) and bile (approximately 6% 
+Reference ID: 5651700
+
+
+===== PAGE 162 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+144 
+Integrated Review Template, version 4.0 (11/1/23) 
+of dose). Rilzabrutinib was the most abundant radiolabeled component in feces, accounting for a 
+mean of 9.02% of the dose in non-bile collection participants. Approximately 0.03% of dose was 
+recovered as unchanged drug in urine. Rilzabrutinib metabolites accounted for approximately 
+3.8% of the dose in urine, approximately 4.2% of the dose in bile, and approximately 63.0% of 
+the dose in feces. The prevalence of metabolites in feces indicates that metabolism is the major 
+mechanism of elimination of rilzabrutinib in humans. 
+Summary 
+The mass balance data indicate that rilzabrutinib is rapidly absorbed and undergoes extensive 
+metabolism. Renal excretion is not the major elimination pathway for rilzabrutinib. 
+14.2.3. Study PRN1008-020: an Open-Label, Phase 1 
+Study To Evaluate the Effect of Mild to Moderate 
+Hepatic Impairment on the Single-Dose 
+Pharmacokinetics of Rilzabrutinib 
+Study Design 
+The primary objective of this study was to evaluate the PK profile of rilzabrutinib following a 
+single oral tablet dose of 400 mg rilzabrutinib in participants with mild and moderate HI relative 
+to control participants with normal hepatic function. The study population consisted of male and 
+female participants who were ≥18 to ≤75 years, with mild HI (Group 1; 8 participants, Child-
+Pugh Class A, score of 5 to 6), moderate HI (Group 2; 8 participants; Child-Pugh Class B, score 
+of 7 to 9) and normal hepatic function (Group 3; 13 participants). Participants with normal 
+hepatic function were to be matched by age (±10 years), sex and body mass index (BMI; ±15%) 
+to participants with HI. Rilzabrutinib tablet of 400 mg under fasted condition was administered 
+after a 10-hour fast, and participants continued to fast until 4 hours postdose. Blood samples for 
+analysis of rilzabrutinib in plasma were collected predose and up to 30 hours postdose. Blood 
+samples to determine unbound fraction of rilzabrutinib were collected predose and up to 24 hours 
+postdose. 
+Results 
+Following treatment with rilzabrutinib, the geometric least squares means (LSM) and the ratios 
+of HI/control group for the primary PK parameters, plasma AUC and Cmax, of total rilzabrutinib 
+are presented in Table 81. The geometric mean ratios (90% CI) expressed as percentages in mild 
+and moderate HI groups compared to control for Cmax were 153% (76%, 309%) and 423% 
+(224%, 798%); for AUC(0-t) were 153% (76%, 308%) and 484% (265%, 883%), and for 
+AUC(0-inf) were 135% (66%, 275%) and 448% (219%, 916%), respectively. Following a single 
+oral dose of 400 mg rilzabrutinib, Cmax, AUC(0-t), and AUC(0-inf) were modestly higher in the mild 
+HI group compared to the normal hepatic function group and significantly higher (>4-fold) in the 
+moderate HI group compared to the normal hepatic function group. 
+Rilzabrutinib was highly bound to plasma proteins across all cohorts, with mean percent 
+unbound (%fu) of <3% across the cohorts and did not increase significantly in participants with 
+HI (Table 82). Changes in rilzabrutinib exposure based on unbound rilzabrutinib is similar to 
+what was observed with total rilzabrutinib. 
+Reference ID: 5651700
+
+
+===== PAGE 163 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+145 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 81. Statistical Comparison of Total Rilzabrutinib Pharmacokinetic Parameters 
+HI 
+Parameter 
+Cmax (ng/mL) AUC0-t (ng*h/mL) 
+AUC0-inf (ng*h/mL) 
+Mild HI 
+Geometric LSM 
+64.38 
+513.0 
+548.7 
+Control for mild HI 
+Geometric LSM 
+49.57 
+424.0 
+450.1 
+GMR (%) 
+129.90 
+120.99 
+121.90 
+90% CI 
+79.16-213.14 
+72.21-202.71 
+72.54-204.85 
+Intrasubject CV% 
+60.99 
+64.01 
+64.45 
+Moderate HI 
+Geometric LSM 
+482.6 
+1997 
+2040 
+Control for moderate 
+HI 
+Geometric LSM 
+114.1 
+412.6 
+455.4 
+GMR (%) 
+423.06 
+484.00 
+447.98 
+90% CI 
+224.43-797.51 
+265.22-883.25 
+219.11-915.93 
+Intrasubject CV% 
+70.39 
+65.14 
+73.77 
+Source: Reviewer summary from Study PRM1008-020 
+Abbreviations:AUC0-inf; area under the concentration-time curve estimated to infinity; AUC0-t, area under the concentration-time curve 
+from dosing (time 0) to time t; CI, confidence interval; Cmax, maximum plasma concentration; CV, coefficient of variation; GMR, 
+geometric mean ratio; HI, hepatic impairment; LSM, least square mean 
+Table 82. Summary of Statistical Comparisons of Plasma Unbound Rilzabrutinib Pharmacokinetic 
+Parameters Following Administration of 400 mg Rilzabrutinib in Participants With Moderate HI vs. 
+Healthy-Matched Control Participants (PK Analysis Population) 
+Source: Clinical study report PRN1008-020. Table 11-7 on Page 54 
+Abbreviations: AUC0-inf; area under the concentration-time curve estimated to infinity; AUC0-t, area under the concentration-time 
+curve from dosing (time 0) to time t; Cmax, maximum plasma concentration; CV, coefficient of variation; HI, hepatic impairment; LSM, 
+least square mean; n, number of participants tested; PK, pharmacokinetic 
+Summary 
+Variability was relatively higher in the measurement of rilzabrutinib unbound concentrations. 
+Nevertheless, the changes in exposure of unbound rilzabrutinib was similar as seen with total 
+rilzabrutinib across the HI groups relative to control. There is no clinically significant impact of 
+mild HI on rilzabrutinib pharmacokinetics. Moderate HI had a significant impact with >4-fold 
+increase in rilzabrutinib exposure. 
+Reference ID: 5651700
+
+
+===== PAGE 165 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+147 
+Integrated Review Template, version 4.0 (11/1/23) 
+for administering rilzabrutinib in relation to meals for study participants (taken with or without 
+food). 
+14.2.5. Study PRN1008-022: a Phase 1, Single-Center, 
+Open-Label Study, To Evaluate the 
+Pharmacokinetics, Safety and Tolerability of 
+Rilzabrutinib in Chinese Healthy Male and 
+Female Participants 
+Study Design 
+Ten healthy Chinese male and female participants, aged between 18 to 45 years, enrolled in this 
+open-label study to investigate the PK, safety, and tolerability of a single dose of 400 mg 
+rilzabrutinib in the IR tablet formulation. Rilzabrutinib was given after an overnight fast. Blood 
+samples were collected at predose and 24 hours postdose for plasma quantitation of rilzabrutinib. 
+Results 
+Following a single oral administration of 400 mg rilzabrutinib, rilzabrutinib was absorbed with a 
+median tmax of 1.5 hours and eliminated with a mean t1/2 of 3.1 hours. The mean systemic 
+exposure parameters for rilzabrutinib, Cmax and AUClast, were 221 ng/mL and 614 h*ng/mL, 
+respectively. Note that the half-life in Chinese participants is shorter compared with participants 
+of other races. 
+Table 84. Summary of Studies To Evaluate Effects of Race 
+ 
+Source: Summary from Study PRN1008-022 and Study PRN1008-023 
+Abbreviations: AUCinf; area under the concentration-time curve estimated to infinity; AUClast, area under the concentration-time curve 
+to the last measurable concentration; Cmax, maximum plasma concentration; F, female; h, hour; ID, identification; M, male; max, 
+maximum; min, minimum; NA, not available; PK, pharmacokinetic; SD, standard deviation; tmax, time to maximum concentration; t1/2Z, 
+terminal half-life 
+Reference ID: 5651700
+
+
+===== PAGE 166 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+148 
+Integrated Review Template, version 4.0 (11/1/23) 
+Summary 
+Exposure in Chinese participants demonstrated similar exposure to the Caucasian population 
+from Study PRN1008-023 (Table 84). 
+14.2.6. Study PRN1008-023: a Phase 1, Single-Center, 
+Open-Label Study To Evaluate the 
+Pharmacokinetics and Tolerability of 
+Rilzabrutinib in Japanese and Caucasian Healthy 
+Male and Female Participants 
+Study Design 
+Eleven healthy Japanese male and female participants and 12 healthy Caucasian male and female 
+participants, aged between 18 to 45 years, enrolled in this open-label study to evaluate the PK of 
+rilzabrutinib following single and multiple doses. Japanese participants had three sequential 
+treatment periods separated by 4-day washout periods: 100 mg single dose on Day 1, 200 mg 
+single dose on Day 5 and 400 mg BID from Day 9 to 13, and Caucasian participants had one 
+treatment period (400 mg BID from Day 1 to 5). All doses were administered as IR tablets after 
+an overnight fast. Blood samples were collected at predose and for up to 24 hours postdose (for 
+100 mg and 200 mg) or up to 48 hours postdose (for 400 mg BID, on Day 13 in Japanese group 
+and Day 5 in Caucasian group) for plasma quantitation of rilzabrutinib. Additional blood samples 
+were collected predose and postdose after single dose and multiple doses, to assess the BTK 
+occupancy in PBMCs. 
+Results 
+Following administration of the first dose of 400 mg rilzabrutinib to Japanese and Caucasian 
+participants, slightly higher (16%) Cmax of rilzabrutinib was observed for Japanese participants, 
+while AUClast and AUCtau was slightly lower (6.5%) in Japanese participants versus Caucasian 
+participants (Table 85). Following multiple dose administration of 400 mg BID, Japanese 
+participants had lower Cmax and AUC values (16% and 25%) of rilzabrutinib compared to 
+Caucasian participants. 
+Table 85. Summary of PK Parameters for Japanese and Caucasian Groups on the First and Last 
+Day of 400 mg BID Rilzabrutinib Treatment 
+Parameter 
+Visit 
+Japanese (400 mg BID) Caucasian (400 mg BID) 
+Cmax (mean, CV%, ng/mL) 
+First Dose 
+228.8 (129.2%) 
+175.1 (96.3%) 
+Last (5th) Dose 
+319.8 (89.1%) 
+373.5 (81.8%) 
+tmax (median, h) 
+First Dose 
+2.0 
+2.0 
+Last (5th) Dose 
+1.5 
+2.3 
+AUC0-last (mean, CV%, h*ng/mL) 
+First Dose 
+545.1 (136.1%) 
+494.5 (84.6%) 
+Last (5th) Dose 
+848.8 (90.1%) 
+1173 (68.3%) 
+Source: Reviewer summary from Study PRN1008-023 
+Abbreviations: AUC0-last, area under the concentration-time curve to the last measurable concentration; BID, twice daily; Cmax, 
+maximum plasma concentration; CV, coefficient of variation; PK, pharmacokinetic; tmax, time to maximum concentration 
+At 400 mg BID, the mean BTK occupancies at steady state were comparable between the 
+Japanese and Caucasian participants. 
+Reference ID: 5651700
+
+
+===== PAGE 167 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+149 
+Integrated Review Template, version 4.0 (11/1/23) 
+Summary 
+Total variability for PK measurements was relatively high in both race groups, with CV% 
+generally >70%. Variability for PD measurements was also high for Japanese participants. 
+14.2.7. Study PRN1008-002: a Phase 1, Single-Center, 
+Open-Label, Fixed-Sequence Study To Assess the 
+Effects of Rilzabrutinib on the Pharmacokinetics 
+of Midazolam, a CYP3A4 Substrate, in Healthy 
+Adults 
+Study Design 
+This is a Phase 1, open-label study to evaluate DDI of rilzabrutinib with midazolam (a CYP3A4 
+substrate) in 12 healthy adult participants aged 18 to 55. 
+The primary objective was to assess the effect of a single oral dose of rilzabrutinib (600 mg, 
+liquid formulation) on the pharmacokinetics of a single oral dose of midazolam (2 mg). A single 
+2-mg oral dose of midazolam solution was administered alone on Day 1 under fasting condition, 
+and again following a three-day washout period, on Day 4, one hour after a single oral dose of 
+600 mg rilzabrutinib as a liquid formulation. Blood samples were obtained over a period of 24 
+hours post-midazolam dosing to characterize the PK profile of midazolam and 
+α-hydroxymidazolam and rilzabrutinib. 
+Results 
+Systemic exposure of midazolam was increased when coadministered with rilzabrutinib. 
+Statistical analysis comparing the effect of rilzabrutinib 600 mg on Cmax and AUC values of 
+midazolam are shown in Table 86. The geometric mean ratios for midazolam AUC(0-inf), 
+AUC(0-last), and Cmax when coadministered with rilzabrutinib compared to midazolam 
+administered alone were 314%, 360%, and 241%, respectively. 
+Table 86. Statistical Analysis Summary, Effect of Rilzabrutinib on Midazolam Pharmacokinetic 
+Parameters 
+ 
+Source: Applicant’s PRN1008-002 PK report. Table 2 on page 63 
+Abbreviations: AUC0-∞, area under the concentration-time curve estimated to infinity; AUC0-last, area under the concentration-time 
+curve to the last measurable concentration; CI, confidence interval; Cmax, maximum plasma concentration; w/, with; PK, 
+pharmacokinetic 
+Summary 
+Rilzabrutinib was not dosed to reach steady state in this study. However, the oral liquid 
+formulation of rilzabrutinib has higher bioavailability compared with the tablet formulation, and 
+Reference ID: 5651700
+
+
+===== PAGE 170 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+152 
+Integrated Review Template, version 4.0 (11/1/23) 
+midazolam was administered 2 hours post-rilzabrutinib dosing, the geometric mean ratios of 
+midazolam exposure for AUC0-inf and Cmax were 217% (90% CI: 187 to 252%) and 223% 
+(90% CI: 187 to 267%), respectively, compared to midazolam alone. 
+Dosing rilzabrutinib in the morning following 20 mg famotidine administered the previous 
+evening resulted in a reduction in the rilzabrutinib AUCinf and Cmax by 33.2% and 25.8%, 
+respectively. When rilzabrutinib was administered in the evening, two hours prior to the evening 
+famotidine dose, AUCinf and Cmax were reduced by only 2.5% and 8.1%, respectively (Table 88). 
+Table 88. Statistical Analysis Summary, Effect of Famotidine on Rilzabrutinib Pharmacokinetic 
+Parameters 
+Treatment 
+Cmax 
+(ng/mL) 
+AUC0-inf 
+(h*ng/mL) 
+AUC0-last 
+(h*ng/mL) 
+Cmax 
+%Ratio 
+AUC0-inf 
+%Ratio 
+AUC0-last 
+%Ratio 
+Rilzabrutinib alone 
+64.4 
+199 
+196 
+ 
+ 
+ 
+Morning dose with famotidine 
+47.8 
+133 
+131 
+74.2 
+66.8 
+66.8 
+Evening dose with famotidine 
+59.2 
+194 
+197 
+91.9 
+97.5 
+101 
+Source: Reviewer assessment 
+Abbreviations: AUC0-inf, area under the concentration-time curve estimated to infinity; AUC0-last, area under the concentration-time 
+curve to the last measurable concentration; Cmax, maximum plasma concentration 
+Summary 
+Rilzabrutinib was not dosed to steady state in this study. Even then, based on the result from this 
+study and study PRN1008-002, rilzabrutinib increases the exposure of midazolam. 
+Administration of famotidine two hours after the administration of evening dose rilzabrutinib did 
+not significantly impact the exposure of the next evening dose, however, could decrease 
+rilzabrutinib morning dose exposure by roughly 35%. 
+14.2.10. Study PRN1008-014: a Two-Part Study To 
+Assess the Effect of Ritonavir on Rilzabrutinib 
+Pharmacokinetics, and the Effects of 
+Rilzabrutinib on QTc Interval Compared to 
+Placebo and Moxifloxacin in Healthy Participants 
+Study Design 
+This is a single center, 2-part study in healthy participants. Part A was an open-label, 3-period 
+crossover study in 12 adult participants to assess the safety and pharmacokinetics of single oral 
+doses of rilzabrutinib when given alone (100 mg and 1200 mg, as 4x300 mg tablets) and when 
+coadministered with ritonavir (100 mg rilzabrutinib with concomitant 100 mg ritonavir, with 
+second dose of 100 mg ritonavir 12 hours later). Part B was a double-blind, placebo-controlled, 
+4-way crossover study with a 7-day washout between treatments. Thirty-nine participants 
+received the first 3 treatments in a blinded manner (placebo, rilzabrutinib 400 mg single dose, 
+and rilzabrutinib 400 mg single dose with two doses of 100 mg concomitant ritonavir 12 hours 
+apart), followed by the 4th treatment in an open-label manner (moxifloxacin 400 mg single 
+dose). Blood samples were collected for pharmacokinetics at predose and over 24 hours postdose 
+for the determination of rilzabrutinib and moxifloxacin (open-label treatment only) 
+concentrations. 
+Reference ID: 5651700
+
+
+===== PAGE 171 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+153 
+Integrated Review Template, version 4.0 (11/1/23) 
+The QT portion of this study is under review by the integrate review team, and report will be 
+uploaded accordingly. 
+Results 
+Part A: Coadministration with ritonavir with 100 mg rilzabrutinib increased rilzabrutinib plasma 
+AUC by approximately 18-fold, and Cmax by approximately 8-fold (Table 89). When 
+rilzabrutinib was administered alone at 1200 mg, three of the first four participants demonstrated 
+significant gastrointestinal adverse events, and further dosing was stopped. Therefore, the 
+1200 mg dose of rilzabrutinib was considered insufficient to obtain adequate supratherapeutic 
+exposures and coadministration of a lower dose of rilzabrutinib (400 mg) with ritonavir was 
+chosen for ECG assessments in Part B. 
+Table 89. Statistical Analysis Summary, Effect of Ritonavir Coadministration on Rilzabrutinib 
+(100 mg) Pharmacokinetic Parameters, Part A 
+ 
+Source: Applicant’s PRN1008-014 report. Table 14 on page 119 
+Abbreviations: AUC0-24, area under the concentration-time curve from time 0 to 24 h; AUC0-last, area under the concentration-time 
+curve to the last measurable concentration; AUC0-∞, area under the concentration-time curve estimated to infinity; CI, confidence 
+interval; Cmax, maximum plasma concentration; GLCSM, geometric least-squares mean 
+Part B: Coadministration of the therapeutic 400 mg rilzabrutinib dose with ritonavir increased 
+rilzabrutinib AUC by approximately 8-fold and Cmax by approximately 5-fold (Table 90). Results 
+showed that the mean rilzabrutinib exposure following 1200 mg dose was lower than the 
+exposure obtained following interaction with ritonavir (400 mg with 100 mg BID ritonavir), 
+further supporting the dosing strategy for the QT prolongation analysis. 
+Table 90. Statistical Analysis Summary, Effect of Ritonavir Coadministration on Rilzabrutinib 
+(400 mg) Pharmacokinetic Parameters, Part B 
+ 
+Source: Applicant’s PRN1008-014 report. Table 15 on page 120 
+Abbreviations: AUC0-24, area under the concentration-time curve from time 0 to 24 h; AUC0-last, area under the concentration-time 
+curve to the last measurable concentration; AUC0-∞, area under the concentration-time curve estimated to infinity; CI, confidence 
+interval; Cmax, maximum plasma concentration; GLCSM, geometric least-squares mean 
+Reference ID: 5651700
+
+
+===== PAGE 173 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+155 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 91. Statistical Analysis Summary, Effect of Quinidine on Rilzabrutinib Pharmacokinetic 
+Parameters 
+ 
+Source: Applicant’s PRN1008-024 report. Table 25 on page 95 
+Abbreviations: AUC0-last, area under the concentration-time curve to the last measurable concentration; AUC0-∞, area under the 
+concentration-time curve estimated to infinity; CI, confidence interval; Cmax, maximum plasma concentration; LS, least squares; n, 
+number of participants treated 
+Part B: Coadministration of rifampin, a strong CYP3A inducer, significantly decreased 
+rilzabrutinib exposure compared to rilzabrutinib alone, with ratio of the geometric means for 
+AUClast, AUCinf, and Cmax of 19.9%, 20.5%, and 19.5%, respectively. There was a 69.7% and 
+72.4% decrease in Cmax and AUCinf, respectively, of PRN834 (M45), similar to that observed 
+with the parent drug, rilzabrutinib. 
+Table 92. Statistical Analysis Summary, Effect of Rifampin on Rilzabrutinib Pharmacokinetic 
+Parameters 
+ 
+Source: Applicant’s PRN1008-024 report. Table 26 on page 96 
+AUC0-last, area under the concentration-time curve to the last measurable concentration; AUC0-∞, area under the concentration-time 
+curve estimated to infinity; CI, confidence interval; Cmax, maximum plasma concentration; LS, least squares; n, number of 
+participants treated 
+Summary 
+The effect of P-gp inhibitor, quinidine, on rilzabrutinib pharmacokinetics was modest and not 
+clinically significant. Rifampin, a strong CYP3A inducer, significantly decreased the exposure of 
+rilzabrutinib, confirming the involvement of CYP3A in the metabolism of rilzabrutinib. The 
+Reference ID: 5651700
+
+
+===== PAGE 187 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+169 
+Integrated Review Template, version 4.0 (11/1/23) 
+14.5.3.2. Background 
+Rilzabrutinib (PRN1008/SAR444671) is a reversible, covalent, potent BTKI in development for 
+the treatment of autoimmune and inflammatory diseases. The recommended dosing regimen of 
+rilzabrutinib is 400 mg taken orally twice daily with or without food. The 400 mg tablet is the 
+only dose strength available. 
+Following oral administration of single doses of rilzabrutinib (liquid formulation) in healthy 
+participants, AUCinf increased greater than dose proportionally up to 600 mg, but Cmax appeared 
+to increase proportionally to the dose up to 300 mg (PRN1008-001). Similar exposures were 
+observed from 600 to 1200 mg, indicating absorption with this formulation was dose limited. 
+Following oral administration of multiple doses of rilzabrutinib (liquid formulation), the mean 
+plasma AUC of rilzabrutinib increased approximately dose proportionality from 300 to 600 mg 
+(PRN1008-001). Steady state was achieved every 3rd and 4th dosing day each week with 
+approximately 2-fold accumulation. Compared to the fasted state, coadministration of 
+rilzabrutinib as a liquid formulation with a moderate fat meal reduced Cmax and AUCinf by 
+approximately 40% to 51%, respectively (PRN1008-001). Steady state rilzabrutinib exposures 
+are comparable between a typical healthy subject and ITP participants (Study POH1156). 
+Rilzabrutinib is primarily metabolized by CYP3A4 with minor contribution from CYP2D6 in 
+vitro. Following coadministration of a single dose of 400 mg rilzabrutinib with two doses of 
+100 mg ritonavir 12h apart in healthy participants, rilzabrutinib AUC and Cmax increased by 8- 
+and 5-fold, respectively (PRN1008-014). The results from the human ADME study in healthy 
+male participants (PRN1008-015), conducted with a single oral dose of 300 mg rilzabrutinib 
+(liquid formulation), showed that approximately 92.9% of the dose administered orally was 
+recovered, in which approximately 5% and 86% of the dose were recovered in the urine and the 
+feces, respectively, and unchanged drug was not detected in the urine and feces. Rilzabrutinib 
+and its metabolite PRN834 (M45) accounted for 0.76% and 1.09% of the total radioactivity 
+exposure in plasma, respectively, and the AUC of PRN834 was approximately 130% of its 
+parent AUC (PRN1008-015). The absolute bioavailability study, conducted with a single oral 
+dose of 400 mg rilzabrutinib (immediate release tablet) with an intravenous (IV) microdose of 
+rilzabrutinib (100 g), showed that rilzabrutinib had an oral bioavailability of 4.73%, and total 
+plasma clearance of 58.1 L/h. Following oral administration of 300 mg rilzabrutinib, it had a 
+renal clearance of 0.243 L/h (PRN1008-015). 
+Based on in vitro drug interaction studies, rilzabrutinib was not an inhibitor of most CYP 
+enzymes except CYP3A with IC50 of 1.09μM (ICH0140). The rilzabrutinib metabolite, PRN834, 
+was not identified as a reversible inhibitor of human CYPs but may be a time-dependent 
+inhibitor of CYP3A. Its KI and kinact values were not determined due to activation effect at low 
+concentration (ICH0140). A midazolam DDI study was conducted in healthy participants 
+following a single dose of 400 mg rilzabrutinib (PRN1008-011). Midazolam exposure was 
+increased by 1.7-fold when midazolam was given simultaneously with rilzabrutinib immediately 
+released tablet, and 2.2-fold when midazolam was given 2 hours after rilzabrutinib 
+administration (PRN1008-011). Midazolam exposure increased 3.14-fold when midazolam was 
+given 1 hour after a single dose of 600 mg rilzabrutinib (PRN1008-002, liquid formulation). In 
+vitro, rilzabrutinib is a CYP3A inducer and PRN834 is an inducer of CYP3A and CYP2B6 
+(IHH0096). However, at 50 times of unbound Cmax, rilzabrutinib and PRN834 induced CYP3A 
+mRNA less than 2-fold. 
+Reference ID: 5651700
+
+
+===== PAGE 193 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+175 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 101. Simulated and Observed Rilzabrutinib Plasma Concentrations Geometric Mean With 
+CV% for Cmax and AUC in Healthy Participants After Multiple-Dose Administration of Rilzabrutinib 
+as Liquid Formulation 
+ 
+Source: Table 1 in the FDA response, Oct 22, 2024 (seq0015) 
+PK parameters were rounded to 3 significant digits. Median tmax is given. The observed data are from PRN1008-001. AUCtau is 
+AUC0-24h for QD dosing and AUC0-12h for BID dosing. 
+Abbreviations: AUC, area under the concentration-time curve; AUC0-24h, area under the concentration-time curve from time 0 to 24 h; 
+AUCtau, area under the concentration-time curve during the dosing interval; BID, twice daily; Cmax, maximum plasma concentration; 
+N, number of participants in treatment arm; PK, pharmacokinetic; QD, once daily; tmax, time to maximum concentration 
+14.5.3.4.2. Can PBPK Analyses Be Used To Estimate the 
+Effects of Rilzabrutinib on Substrates of CYP3A, 
+OATP1B, and BCRP? 
+Effects of Rilzabrutinib on Midazolam 
+Rilzabrutinib was predicted to increase midazolam AUC and Cmax by 3.5- and 2.4-fold, 
+respectively, following administration of 400 mg rilzabrutinib twice daily in ITP participants. 
+Details are discussed as follows: 
+ In vitro, rilzabrutinib is an inhibitor and inducer of CYP3A. At 50 times of unbound Cmax 
+(0.3 to 0.6M for rilzabrutinib and 0.66M for PRN834), rilzabrutinib and its metabolite 
+PRN834 induced CYP3A mRNA by less than 2-fold, indicating that these compounds are not 
+considered as clinical inducers according to the ICH M12 guidelines. 
+Reference ID: 5651700
+
+
+===== PAGE 195 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+177 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 102. Simulated and Observed Effects of Rilzabrutinib on Midazolam Exposure Following 
+Single Doses of Rilzabrutinib Administration 
+ 
+Source:PRN1008-002, PRN1008-011, PBM0130 and reviewer’s analyses 
+The Applicant’s simulations were performed using Simcyp version 20, and the reviewer’s simulations were performed using Simcyp 
+version 22. 
+Abbreviations: AUC24h, area under the concentration-time curve from time 0 to 24 h; AUCinf, area under the concentration-time curve 
+estimated to infinity; Cmax, maximum plasma concentration; obs, observed; PK, pharmacokinetic; Pred, predicted; SD, single dose 
+Table 103. Comparison of Simulated and Observed Rilzabrutinib Exposure in the Midazolam 
+Interaction Studies 
+ 
+Source: PBM0130 and reviewer’s analyses 
+The Applicant’s simulations were performed using Simcyp version 20, and the reviewer’s simulations were performed using Simcyp 
+version 22. 
+Abbreviations: AUCinf, area under the concentration-time curve estimated to infinity; Cmax, maximum plasma concentration; SD, 
+single dose 
+Table 104. Predicted Effects of Rilzabrutinib on Midazolam Exposure Following Administration of 
+400 mg Rilzabrutinib Twice Daily in ITP Participants 
+ 
+Source: PBM0130 and reviewer’s analyses 
+Applicant’s simulation was performed using the CYP3A Ki =
+M and Simcyp version 20, and reviewer’s simulation was 
+performed using the CYP3A Ki =0.003M and Simcyp version 22. 700 mg BID was used in the simulation to reproduce the exposure 
+observed following 400 mg BID in ITP patients.  
+Abbreviations: AUCinf, area under the concentration-time curve estimated to infinity; BID, twice daily; Cmax, maximum plasma 
+concentration; CYP3A, cytochrome P450 3A, ITP, immune thrombocytopenia; Ki, inhibitory constant 
+CMax (ng/mL)
+AUC24h 
+(ng/mL.h)
+AUCINF 
+(ng/mL.h)
+CMax Ratio
+AUC24h Ratio
+AUCINF ratio
+Observed
+8.41
+19.30
+23.70
+2.41
+3.60
+3.14
+PRN1008-002
+Predicted
+Pred/obs
+Predicted
+7.25
+21.47
+21.95
+2.61
+3.26
+3.27
+Pred/obs
+0.86
+1.11
+0.93
+1.08
+0.91
+1.04
+Observed
+6.86
+16.20
+17.30
+2.23
+2.18
+2.18
+PRN1008-011
+Predicted
+Pred/obs
+Predicted
+7.75
+23.5
+23.93
+2.17
+2.45
+2.45
+Pred/obs
+1.13
+1.45
+1.38
+0.97
+1.12
+1.12
+Source
+Reviewer 
+analyses
+PBPK report 
+PBM0130
+Reviewer 
+analyses
+0.003
+0.003
+Rilzabrutinib 
+600 mg SD + 
+Midazolam 2 
+mg 1 h after
+Rilzabrutinib 
+400 mg SD + 
+Midazolam 2 
+mg 2 h after
+Midazolam PK without rilzabrutinib
+Midazolam PK with/without rilzabrutinib
+CYP3A4 Ki 
+(M)
+Dosing 
+regimens
+Trials
+CMax 
+(ng/mL)
+AUCINF  
+(ng/mL.h)
+CMax 
+(ng/mL)
+AUCINF  
+(ng/mL.h)
+Cmax
+AUCINF 
+600 mg SD
+Healthy
+PRN1008-002
+217
+603
+196
+734
+0.90
+1.22
+Reviewer
+400 mg SD
+Healthy
+PRN1008-011
+82
+223
+PBM0130
+Rilzabrutinib 
+dose regimens
+Source of 
+predicted 
+data
+Population
+Observed 
+Predicted
+Predicted/Observed
+Sources of 
+observed 
+data
+Rilzabrutinib 
+regimen
+Midazolam 
+regimen
+Cmax Ratio
+AUCinf Ratio
+Source
+comcomitant
+1h after
+2h after
+comcomitant
+2.41
+3.5
+1h after
+2.61
+3.54
+2h after
+2.4
+3.03
+400 mg BID 
+for 14 days
+700 mg BID 
+for 5 days
+Reviewer 
+analysis
+Applicant
+Reference ID: 5651700
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 196 =====
+
+NDA 219685 
+WAYRILZ (rilzabrutinib) 
+178 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 105. Comparison of Simulated Steady-State Rilzabrutinib Exposure With Steady State 
+Rilzabrutinib Exposure in ITP Participants 
+ 
+Source:PRN1008-010, EFC17093, FDA-response-22Oct2024, and reviewer’s analyses 
+700 mg BID was used in the simulation to reproduce the exposure observed following 400 mg BID in ITP patients. Median values 
+are reported for observed and predicted steady state rilzabrutinib.  
+Abbreviations: AUC0-12h, area under the concentration-time curve from time 0 to 12 h; AUC0-12h,ss,°area under the concentration-time 
+curve from time 0 to 12 h at steady state; BID, twice daily; Cmax, maximum plasma concentration; ITP, immune thrombocytopenia 
+Effects of Rilzabrutinib on OATP1B Substrate Pravastatin 
+Potential interaction between rilzabrutinib and the OATP1B1 substrate pravastatin cannot be 
+ruled out. Details are discussed as follows: 
+ Drug interactions of pravastatin with OATP1B1/3 inhibitors were often not predicted using 
+the pravastatin model in the Simcyp library even when the lowest in vitro transporter 
+inhibition parameters of the inhibitors in the Certara DDI Database were applied in the 
+simulations. The observed interactions with pravastatin could only be reproduced, within 0.8 
+-1.25 of clinical observations, when the lowest experimentally generated Ki or IC50 values of 
+OATP1B1/3 inhibitors were reduced approximately 10- to 100-fold (ISSX 2024). 
+Rilzabrutinib predicted to increase pravastatin AUC and Cmax by 1.4 and 1.8, respectively, 
+when Ki values for both OATP1B1 and OATP1B3 were reduced by 100-fold (Table 106), 
+when the rilzabrutinib exposure observed in ITP participants following administration of 
+rilzabrutinib 400 mg BID was applied in the simulation. In addition to the uncertainty about 
+the Ki value, it should be noted that this simulation didn’t account for the potential inhibitory 
+effects of the major circulating metabolite PRN834 on OATP1B1 and OATP1B3. 
+ PRN834 is the major metabolite of rilzabrutinib. Collectively, PRN834 and related 
+metabolites account for approximately 26% of the total radioactive material recovered in the 
+human ADME study and approximately 43% of total oxidative metabolites identified in the 
+urine and feces (PRN1008-015-POP17292). PRN834 is one of the major circulating 
+metabolites in human plasma. Following single and twice daily doses of 400 mg 
+rilzabrutinib, the PRN834 to rilzabrutinib AUC ratio ranged from 1.6- to 2.1-fold in Japanese 
+and Caucasian participants (PRN1008-023). Compared to rilzabrutinib, the in vitro IC50 
+value of PRN834 for OATP1B1 was approximately 2.7-fold lower, Therefore, potential 
+inhibitory effects of PRN834 on transporters cannot be ruled out. 
+CMax (ng/mL)
+ AUC0-12h,ss 
+(ng/mL.h)
+CMax (ng/mL)
+ AUC0-12h,ss 
+(ng/mL.h)
+Cmax
+ AUC0-12h
+400 mg BID
+ITP patient

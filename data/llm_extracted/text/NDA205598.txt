@@ -1,0 +1,963 @@
+
+
+===== PAGE 3 =====
+
+2
+1.2  Post Marketing Requirement
+None.
+1.3  Summary of Important Clinical Pharmacology Findings
+Pharmacokinetics (PK)
+Absorption
+Macimorelin Cmax was observed between 0.5 hour and 1.5 hours upon oral administration of 0.5 mg 
+macimorelin/kg body weight to AGHD patients who fasted for at least 8 hours.  The mean plasma macimorelin 
+concentrations are similar between patients with AGHD and healthy subjects for 1.5 hours following 
+administration of a single oral dose of 0.5 mg macimorelin/kg body weight.  The mean macimorelin terminal 
+exponential half-life (T1/2) was 4.1 hours for the dose of 0.5 mg macimorelin/kg body weight in healthy subjects 
+fasted for at least 8 hours.
+The PK of macimorelin is less than dose proportional for single oral doses from 0.5 mg/kg to 2 mg/kg in 
+healthy volunteers.
+The PK of 2 mg macimorelin/kg body weight is consistent between Study AEZS-130-054 (single ascending 
+dose study) and Study AEZS-130-055 (thorough QT study) in healthy subjects.
+The dose of 0.5 mg macimorelin/kg for the pivotal Study AEZS-130-052 is acceptable because this is the dose 
+previously examined in Study AEZS-130-047 of the original NDA.  
+The time for the peak serum growth hormone concentration is 0.75 – 1 hour after oral adminkistration of 
+macimorelin, wheras the time for the peak serum growth hormone concentration is 1 – 1.5 hours after 
+intravenous administration of the insulin tolerance test.  Macimorelin stimulation resulted in higher serum 
+growth hormone concentrations than those for the insulin tolerance test.  
+Formulation
+The macimorelin acetate formulation used in the pivotal clinical study (AEZS-130-052) is identical to the to-be-
+marketed macimorelin acetate formulation.
+Reference ID: 4185172
+
+
+===== PAGE 6 =====
+
+5
+the drug.  Thus, the sponsor conducted Study AEZS-130-054 to check the safety and tolerability of 2-fold and 
+4-fold higher than the proposed dose of 0.5 mg macimorelin/kg body weight for diagnosis of AGHD before 
+conducting the thorough QT study for macimorelin acetate (Study AEZS-130-055).
+Study AEZS-130-054 assessed the PK of single rising oral doses of macimorelin in a parallel fashion in healthy 
+subjects:
+
+0.5 mg macimorelin/kg body weight
+
+1 mg macimorelin/kg body weight
+
+2 mg macimorelin/kg body weight
+Each participant fasted for at least 8 hours predose.
+Serial plasma samples at pre-dose, 15, 30, 45, 60, 75, and 90 min as well as 2, 3, 4, 8, 12, and 24 hours after oral 
+administration of the 3 macimorelin doses were collected to determine the macimorelin concentrations via a 
+validated LC-MS/MS bioanalytical method to assess macimorelin pharmacokinetics.  Figure 1 shows the mean 
+plasma macimorelin concentration-time profiles for the 3 doses of Study AEZS-130-054.  Table 3 shows the 
+macimorelin PK parameters for the 3 doses of Study AEZS-130-054.
+Figure 1. Mean plasma macimorelin concentration-time profiles for Study AEZS-130-054
+Source: Modified from Study AEZS-130-054’s report Figure 1
+Table 3. Macimorelin PK parameters for Study AEZS-130-054
+Parameter
+0.5 mg/kg 
+macimorelin
+N=6
+1.0 mg/kg 
+macimorelin
+N=6
+2.0 mg/kg 
+macimorelin
+N=9
+AUC0-t [h*ng/mL]
+36.3 (40.9%)
+35.1 (57.6%)
+81.9 (38.8%)
+AUC0-inf [h*ng/mL]
+38.0 (41.6%)
+37.0 (58.0%)
+84.7 (39.1%)a
+Cmax [ng/mL]
+9.24 (40.4%)
+13.1 (57.1%)
+21.3 (49.6%)
+t1/2 [h]
+3.51 (66.7%)
+3.51 (106%)
+8.29 (17.8%)a
+λz [1/h]
+0.198 (66.7%)
+0.198 (106%)
+0.0837 (17.8%)a
+tmax [h]
+0.533 (0.250-0.750)
+0.534 (0.250-1.00)
+0.750 (0.517-1.50)
+Geometric mean and CV are presented, median and range for tmax; a n=8, due no reliable z in 1 subject
+Source: Modified from Study AEZS-130-054’s report Table 5
+Reference ID: 4185172
+
+
+===== PAGE 7 =====
+
+6
+The mean macimorelin terminal half-life is 4.119, 4.929, and 8.397 hours, respectively, for the 0.5, 1, and 2 
+mg/kg single oral doses.
+Per the power model to assess dose-proportionality for macimorelin (Cmax or AUC0-infinity  Oral Dose]; 
+where  depends on the subject and error;  is the dose-proportionality factor; after transformation, ln Cmax or ln 
+AUC0-infinity  ln  + ln Oral Dose;  = 1 when dose-proportional) (Gough et al. Drug Info J 1995;29:1039-48).  The 
+analyses of this power model for macimorelin PK show the following:
+
+The slope, , and its (90% CI) for the macimorelin ln Cmax vs. macimorelin ln Oral Dose plot was 
+0.5606 (0.2574 – 0.8638).
+
+The slope, , and its (90% CI) for the macimorelin ln AUC0-infinity vs. macimorelin ln Oral Dose plot, 
+was 0.6055 (0.2877 – 0.9233).
+
+The slope, , of the power model analyses were 0.5606 and 0.6055; all < 1.
+Thus, the PK of macimorelin is less than dose proportional for single oral doses from 0.5 mg/kg to 2 mg/kg in 
+healthy subjects.
+Study AEZS-130-055 is a double blind, randomized, single dose, 3-period crossover study in healthy subjects.  
+Study AEZS-130-055 aims to assess the effect of a single oral supra-therapeutic dose of macimorelin with 
+moxifloxacin and placebo as positive and negative control, respectively.  Study AEZS-130-055 had the 
+following oral treatments:
+
+2 mg macimorelin/kg body weight
+
+400 mg moxifloxacin
+
+placebo of macimorelin
+Each subject fasted at least 8 hours before (no food, no beverages, only water was allowed) until 5 hours after 
+drug administration.  Ingestion of water was not allowed between 1 hour predose and 1 hour postdose. Five 
+hours postdose, participants received a standard lunch.  Food intake may have an effect on the ECG parameters.  
+A washout of at least 3 days separated each treatment.  Figure 2 shows the mean plasma macimorelin 
+concentration-time profile of 2 mg macimorelin/kg body weight for Study AEZS-130-055.
+Figure 2. Mean plasma macimorelin concentration-time profiles for Study AEZS-130-055
+Source: Modified from Study AEZS-130-055’s report Figure 4
+Reference ID: 4185172
+
+
+===== PAGE 8 =====
+
+7
+Table 4. Macimorelin PK parameters for Study AEZS-130-055
+Parameter
+2.0 mg/kg macimorelin
+N=57
+AUC0-t [h*ng/mL]
+71.7 (43.7%)
+AUC0-inf [h*ng/mL]
+75.7 (43.9%)*
+Cmax [ng/mL]
+21.9 (37.9%)
+t1/2 [h]
+7.23 (47.6%)*
+λz [1/h]
+0.0958 (47.6%)*
+tmax [h]
+0.583 (0.300-1.233)
+Geometric mean and CV are presented, median and range for tmax; * n=54, due no reliable z in 3 participants
+Source: Modified from Study AEZS-130-055’s report Table 10
+According to Tables 3 and 4 as well as Figures 1 and 2, the PK of 2 mg macimorelin/kg body weight appears to 
+be consistent between Study AEZS-130-054 and Study AEZS-130-055 in healthy subjects.
+2.2.4  What are the pharmacodynamics (PD) effects of macimorelin for Study AEZS-130-054?
+Study AEZS-130-054 assessed the PD of single rising oral doses of macimorelin in a parallel fashion in healthy 
+subjects:
+
+0.5 mg macimorelin/kg body weight
+
+1 mg macimorelin/kg body weight
+
+2 mg macimorelin/kg body weight
+Each participant fasted for at least 8 hours predose.
+Serial serum samples at pre-dose, 15, 30, 45, 60, 75, and 90 minutes as well as 2, 3, 4, 8, 12, and 24 hours after 
+the oral administration of the 3 macimorelin doses were collected to determine the concentrations of GH, 
+thyroid stimulating hormone (TSH), cortisol, prolactin as PD measures in the clinical laboratory of 
+ 
+.  Serial plasma (K2-EDTA) samples were also collected at the same time as the other PD 
+measures to determine the concentrations of adrenocorticotropic hormone (ACTH) in the immunological 
+laboratory of 
+.
+The sponsor did not provide the bioanalytical and validation reports for measuring the concentrations of GH, 
+TSH, cortisol, prolactin, and ACTH.  Thus, the results of these PD measures are just for reference purposes.  
+However, this review discusses the mean serum GH concentration-time profile because GH is the marker of 
+interest for the diagnosis of AGHD.  Figure 3 shows the mean serum GH concentration-time profiles at 0.5, 1, 
+and 2 mg macimorelin/kg body weight for Study AEZS-130-054.
+Reference ID: 4185172
+(b) (4)
+(b) (4)
+
+
+===== PAGE 10 =====
+
+9
+
+A: High likelihood of GHD:
+o
+Structural hypothalamic or pituitary lesions and low insulin growth factor -1 (IGF-1), and or
+o
+3 or more pituitary hormone deficiencies (PHD) and low IGF-1, or
+o
+Childhood onset GHD with structural lesions and low IGF-1
+
+B: Intermediate likelihood of GHD:
+o
+Eligible subjects not qualifying for either high or low likelihood (Group A or C)
+
+C: Low likelihood of GHD:
+o
+1 risk factor for GHD only, such as history of distant traumatic brain injury or 1 PHD only with 
+otherwise normal pituitary function, or
+o
+Isolated idiopathic childhood onset GHD without additional pituitary deficits
+
+D: Healthy control:
+o
+Healthy subjects matching Group A subjects by sex, age, body mass index (BMI), and estrogen 
+status (females only).
+Subjects of these 4 groups also received the insulin tolerance test (ITT) as a crossover comparator to the 
+macimorelin treatment.  Subjects fasted for at least 8 hours before intravenously (IV) administered 0.1 U regular 
+human insulin/kg body weight (0.15 U/kg in subjects with a BMI > 30 kg/m2).  At the investigator’s discretion, 
+individual adaptions with lower or higher doses were allowed as clinically indicated treatment.  A 7 days to 1 
+month washout separated the macimorelin or ITT treatment.  The mean macimorelin terminal exponential half-
+life (T1/2) was 4.1 hours for the dose of 0.5 mg macimorelin/kg body weight (Question 2.2.3).  The half-life of 
+free GH is 7 minutes and the half-life for bound GH is 27 minutes (Laursen T. Clinical pharmacological aspects of growth 
+hormone administration. Growth Horm IGF Res. 2004;14:16-44).  Thus, the washout period for Study AEZS-130-052 is 
+acceptable.
+The sponsor collected plasma samples at predose, 0.25, 0.5, 0.75, 1, and 1.5 hours postdose to determine the 
+macimorelin concentrations via a validated LC/MS/MS bioanalytical assay.  Figure 4 shows the mean (standard 
+error) plasma macimorelin concentration-time profiles of Study AEZS-130-052 for 1.5 hours postdose.  Figure 
+4 shows that the mean (standard error) plasma macimorelin concentration-time profiles for the 4 groups of 
+Study AEZS-130-052 overlap with each other.  However, the high likelihood group shows:
+
+the largest variability of plasma macimorelin concentrations at 1 hour postdose than the other time 
+points
+
+larger variability of plasma macimorelin concentrations than the other 3 Groups
+These observations suggest that the mean plasma macimorelin concentrations are similar between patients with 
+AGHD and healthy subjects for 1.5 hours following administration of a single oral dose of 0.5 mg 
+macimorelin/kg body weight.
+Reference ID: 4185172
+
+
+===== PAGE 21 =====
+
+20
+Elimination
+  
+An in vitro human liver microsomes study showed that CYP3A4 is the major enzyme to metabolize 
+macimorelin.
+ 
+Macimorelin was eliminated with a mean terminal half-life (T1/2) of 4.1 hours following administration of a 
+single oral dose of 0.5 mg macimorelin/kg body weight in healthy subjects.
+According to the Clinical Pharmacology Labeling guidance  
+https://www.fda.gov/downloads/drugs/guidancecomplianceregulatoryinformation/guidances/ucm109739.pdf  
+Reference ID: 4185172
+
+
+===== PAGE 23 =====
+
+1
+CLINICAL PHARMACOLOGY REVIEW
+(Addendum to the original review dated July 16, 2014 and Addendum dated August 7, 2014)
+NDA 
+205-598; 0022; 0023
+Submission Dates
+September 2, 2014; September 8, 2014
+Brand Name
+MACRILEN®
+Generic Name
+Macimorelin acetate
+Reviewer
+S.W. Johnny Lau, R.Ph., Ph.D.
+Team Leader
+Immo Zadezensky, Ph.D. 
+OCP Division
+Clinical Pharmacology 2 
+OND Division
+Metabolism and Endocrinology Products 
+Sponsor
+Aeterna Zentaris
+Formulation; Strength
+Granules for oral solution; 0.5 mg/mL
+Relevant IND
+73,196
+Indication
+Diagnosis of adult growth hormone deficiency
+Background
+The purpose of this addendum is to review the sponsor’s additional response particularly to the growth hormone 
+(GH) concentrations measurement issue communicated to the sponsor with letter dated July 14, 2014, further 
+discussed in the Late Cycle Meeting on July 23, 2014, and specified in the Late-Cycle Meeting Minutes.  Also, 
+refer to the following in DARRTS:
+
+Clinical Pharmacology review for macimorelin dated July 16, 2014
+
+Late Cycle Review Meeting’s minutes dated August 15, 2014
+
+Addendum to the Clinical Pharmacology review dated August 7, 2014
+Findings and Recommendations
+In the Late-Cycle Meeting, the sponsor claimed that all GH concentrations were measured in serum samples for 
+Study AEZS-1300-047 (see Addendum to the Clinical Pharmacology review dated August 7, 2014).  
+ 
+ reviewed the database of Study AEZS-130-047 and found that the sponsor’s claim is incorrect.  
+Study AEZS-130-047 has 4 subjects that do not have serum samples for GH measurement for Visit 2 and Visit 3.  
+Thus, 
+ recommended the following statement for the bioanalytical report VR07-
+018:
+“Due to deviations from the protocol, serum samples are not available for either a Visit 2 or 3 on four subjects.”
+The sponsor clarified that Report VR07-
+018 does not identify the 4 subjects who had missing serum 
+samples and confirmed that the missing serum samples are not for Subjects 0105, 0306, 0304, and 0609 but for 
+Subjects 0802, 0801, 0604, and 0603 instead (see Attachment below).  The sponsor also confirmed that the GH 
+concentrations for Subjects 0105, 0306, 0304, and 0609 in Visits 2 and 3 are measured in serum.  However, the 
+sponsor used Report VR07
+-018 to justify the substitution of plasma pharmacokinetic backup samples 
+for the missed serum samples via the bioanalytical analyses of serum and plasma samples of Subjects 0105, 0306, 
+0304, and 0609 in Visit 3.  Again, this substitution is not acceptable due to the bias between the serum GH 
+concentration and plasma GH concentration ranges from -27.4% to 26.19% (see Clinical Pharmacology review for 
+macimorelin dated July 16, 2014).   This reviewer recommends the following:
+The substantiation to use lithium-heparinized plasma pharmacokinetic backup samples to substitute for the 
+missed serum samples of Study AEZS-130-047 on Visit 2 for Subjects 0802 and 0603 and Visit 3 for 
+Reference ID: 3638847
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 24 =====
+
+2
+Subjects 0801 and 0604 per Report VR07-
+018 is not acceptable due to the range of the percent 
+difference between plasma growth hormone concentration and serum growth hormone concentration for 
+the tested samples is -27.4% to 26.19%.  Thus, the reported serum growth hormone concentration results 
+on Visit 2 for Subjects 0802 and 0603 and Visit 3 for Subjects 0801 and 0604 of Study AEZS-130-047 are 
+not reliable.
+---------------------------------------------------------------------------------------------------------------
+Attachment starts here
+Please find below a response to the identified and not yet resolved review issues communicated to Aeterna 
+Zentaris with letter dated July 14, 2014 and further discussed in the Late Cycle Meeting on July 23, 2014.
+Clinical Pharmacology
+Late-Cycle Meeting Background package dated July 14, 2014:
+The substantiation to use lithium-heparinized plasma pharmacokinetic backup samples to substitute for
+the missed serum samples of Study AEZS-130-047 on Visit
+2 for 4 subjects per Report VR07
+018 is not acceptable due to the wide range of the percent 
+difference between plasma growth hormone concentration and serum growth hormone concentration for 
+the tested samples. Thus, the reported serum growth hormone concentration results on Visit 2 for 4 
+subjects of Study AEZS-130-047 are not reliable.
+Late-Cycle Meeting Minutes, received Aug 27, 2014:
+The applicant claimed that serum samples for the measurement of growth hormone for all patients were 
+available from Study AEZS-130-047. The applicant also claimed that there was a mistake in the 
+bioanalytical report (VR07
+018) when it stated that the serum samples were not available due to 
+a protocol deviation for Visit 2 from 4 subjects and that instead backup plasma samples had been used to 
+replace the missing serum samples for growth hormone measurement. The Agency asked the applicant to
+specifically confirm that the growth hormone concentration measurement for Subject 0609 was indeed
+determined from serum samples.
+Response
+On 01Aug2014, we have provided the FDA a statement issued by 
+ documenting that all 
+values for GH measurements in the database were done with serum samples (see Appendix 1).
+Upon completion of a database review by 
+, the above statement is incorrect. The database 
+review has brought up the following clarifications pertaining to the validation report VR07-
+018.
+1) Section 2 (entitled Summary), the 2nd sentence should read (change highlighted in bold):
+Due to deviations from the protocol, serum samples are not available for Visit 2 or
+Visit 3 on four subjects.
+The rational for this change is a typographical error, as indicated in the 29Aug2014 note to file provided by 
+ (see Appendix 2).
+2) The four subjects with no serum samples available for Visit 2 or Visit 3 had not been identified in the 
+validation report. They are 0603 (at Visit 2), 0604 (at Visit 3), 0801 (at Visit 3) and 0802 (at Visit 2), as 
+indicated in Appendix 2. At those visits, the four patients had received AEZS-130 treatment. Due to the 
+importance of knowing the GH concentrations following AEZS-130 treatment (the primary endpoint is 
+derived from this concentration), the GH concentrations were determined in plasma samples that had been 
+taken at the same time as scheduled for the serum samples, however, for the purpose of pharmacokinetic 
+analysis. Appendix 3 shows, for each of the 4 subjects in question, the laboratory reports on the GH 
+measurements as provided in the listing 16.2.6.1 of the clinical study report AEZS-130-047. Each laboratory 
+Reference ID: 3638847
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 29 =====
+
+3
+growth hormone concentrations that are necessary for validating a bioanalytical assay per the Bioanalytical 
+Guidance.
+4) Without acceptable plasma macimorelin concentration and serum growth hormone concentration data for 
+Study AEZS-130-IIT-1, the following data will be unacceptable:
+
+macimorelin pharmacokinetic dose proportionality data
+
+macimorelin exposure-response data
+
+macimorelin dose-response data
+
+optimal macimorelin dose data
+Reviewer’s comment: 
+ 
+ compliance to all formal requirements including long-term stability data is missing.
+Thus, no further action is necessary now.
+5) The substantiation to use lithium-heparinized plasma pharmacokinetic backup samples to substitute for the 
+missed serum samples of Study AEZS-130-047 on Visit 2 for 4 subjects per Report VR07
+018 
+is not acceptable due to the wide range of the percent difference between plasma growth hormone 
+concentration and serum growth hormone concentration for the tested samples. Thus, the reported serum 
+growth hormone concentration results on Visit 2 for 4 subjects of Study AEZS-130-047 are not reliable.
+Reviewer’s comment: The sponsor claimed that the statement in the validation Report VR07-
+-018 is 
+wrong and that the clinical study report (CSR) as well as 
+ (bioanalytical laboratory) database showed no 
+values for measurements of heparin plasma sample for growth hormone are included in the CSR.  See Attachment 
+for the e-mail for proof. The laboratory is currently rechecking their database and will come up with a formal 
+statement in due course. The sponsor will submit the respective document for further clarification as soon as they 
+have received it.  Thus, no further action is necessary now.
+Another August 1, 2014 submission pertains to 3 bioanalytical reports for plasma macimorelin concentrations after 
+intraduodenal administration for Study AEZS-130-IIT-1
+The sponsor submitted the following 3 bioanalytical reports for plasma macimorelin concentrations determination:
+
+Report no. EP01572/050016002, Date 05 April 2005
+
+Report no. EP01572/050016003, Date 29 June 2005
+
+Report no. EP01572/050016004, Date 18 Nov 2005
+However, these 3 reports did not identify which clinical study that they pertain to.  
+Reviewer’s comment: This reviewer identified that these 3 bioanalytical reports pertain to Study AEZS-130-IIT-1 
+because of the following:
+
+The sponsor placed these reports under the “Healthy Subjects PD and PK/PD Study Reports [Study ID –
+Study Title]” folder in the August 1, 2014 submission, which is consistent with the location and name of 
+folder for Study AEZS-130-IIT-1 in the original submission.
+
+The sponsor conducted only 1 macimorelin PK/PD study, which is Study AEZS-130-IIT-1.
+
+The subject ID number and plasma macimorelin concentrations are consistent with the subject ID, dose, 
+and intraduodenal route of administration in the electronic data file (SAS xpt file) for Study AEZS-130-IIT-
+1.
+
+Report no. EP01572/050016001, Date 19 Jan 2005 pertains to the 1st bioanalytical analysis for the plasma 
+macimorelin concentrations and Report no. EP01572/050016005, Date 18 Nov 2005 pertains to the 2nd
+Reference ID: 3606287
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 35 =====
+
+2
+1.1 Recommendations
+The Office of Clinical Pharmacology/Division of Clinical Pharmacology 2 (OCP/DCP2) has reviewed NDA 205-
+598’s Clinical Pharmacology data and recommends the following:
+
+The Clinical Pharmacology data for NDA 205-598 is acceptable.
+
+The substantiation to use lithium-heparinized plasma pharmacokinetic backup samples to substitute for the 
+missed serum samples of Study AEZS-130-047 on Visit 2 for Subjects 0105, 0306, 0304, and 0609 per 
+Report VR07
+018 is not acceptable due to the range of the percent difference between plasma 
+growth hormone concentration and serum growth hormone concentration for the tested samples is -27.4% 
+to 26.19%.  Thus, the reported serum growth hormone concentration results on Visit 2 for Subjects 0105, 
+0306, 0304, and 0609 of Study AEZS-130-047 are not reliable.
+1.2  Post Marketing Requirement
+None.
+1.3  Summary of Important Clinical Pharmacology Findings
+Pharmacokinetics (PK)
+Absorption
+Macimorelin Cmaxs were observed between 0.5 and 4 hours after oral administration of 0.5 mg/kg macimorelin to 
+AGHD patients who fasted for at least 6 hours.  The mean Cmax was 10.25 ng/mL and the mean terminal 
+exponential half-life (T1/2) was 3.56 hours in AGHD patients.  In vitro study shows that the mean Caco-2 
+permeability for macimorelin is 1.33 cm/s x10-6 for the apical to basolateral direction and 2.37 cm/s x10-6 for the 
+basolateral to apical direction. With concomitant administration of a liquid meal, macimorelin Cmax and AUCt
+decreased 54% and 49%, respectively, in healthy volunteers.
+Distribution
+In vitro study shows that macimorelin does not inhibit Pgp ATPase activity.
+Metabolism
+In vitro human biomaterials studies show that:
+
+CYP3A4 is a major enzyme to metabolize macimorelin in the liver.
+
+Macimorelin does not undergo conjugation type of biotransformation.
+
+Macimorelin does not inhibit CYPs 1A2, 2A6, 2C8, 2C9, 2C19, and 2D6.
+
+Macimorelin may be a CYP3A4 direct inhibitor.
+The sponsor did not submit information on macimorelin’s excretion, intrinsic and extrinsic factors, QT 
+prolongation potential, pharmacogenomics, and biopharmaceutics classification system.
+The macimorelin dose-response relationship cannot be determined due to lack of bioanalytical and validation 
+documentation for the determination of GH concentrations.
+The pharmacokinetics of macimorelin upon oral administration is not different between AGHD patients and 
+matched healthy controls.  Also, the pharmacokinetics of macimorelin is not different between females and males 
+in both AGHD patients as well as healthy volunteers.
+Formulation
+Refer to the review by the Office of New Drugs, Quality Assurance Biopharmaceutics for the biowaiver of the 
+clinically-tested formulation and the to-be-marketed formulation of macimorelin acetate.
+Reference ID: 3594224
+(b) (4)
+
+
+===== PAGE 38 =====
+
+5
+2.1.3  How does macimorelin work?
+Ghrelin is a 28-amino-acid peptide reported in 1999 (Howard et al. A receptor in pituitary and hypothalamus that functions in growth hormone 
+release. Science 1996;273:974-7; Kojima et al. Ghrelin is a growth-hormone-releasing acylated peptide from stomach. Nature 1999;402:656-60).  Upon 
+intravenous administration, ghrelin shows a dose-dependent stimulation of growth hormone (GH) release in the 
+pituitary.  Macimorelin is a peptidomimetic ghrelin receptor agonist with GH secretagogue activity.
+2.1.4  What are the sponsor’s proposed indication and dosage regimen for macimorelin acetate?
+Macimorelin acetate’s proposed indication is for the diagnosis of AGHD 
+.  The macimorelin acetate dose must be 
+calculated based on each patient’s body weight.  Patients should receive a single oral dose of 1 mL/kg by 
+bodyweight of the prepared 0.5 mg/mL macimorelin acetate solution, after fasting for at least
+hours.  Of note, 
+macimorelin is the 1st oral product that its sponsor is seeking this indication and other AGHD diagnostics are 
+parenteral products.
+2.2  General Clinical Pharmacology
+The following publications have clinical pharmacology information of growth hormone releasing hormone 
+analogs:
+
+Prakash A, Goa KL. Sermorelin: a review of its use in the diagnosis and treatment of children with idiopathic growth 
+hormone deficiency. BioDrugs 1999;12:139-57.
+
+Wang Y, Tomlinson B. Tesamorelin, a human growth hormone releasing factor analogue. Expert Opin Investig Drugs
+2009;18:303-10.
+For information on the diagnosis of AGHD:
+
+Glynn N, Agha A. Diagnosing growth hormone deficiency in adults. Int J Endocrinol 2012;2012:972617.
+2.2.1  What is macimorelin’s clinical pharmacokinetic (PK) characteristics?
+Absorption 
+Study 8100-2013-950 assessed the in vitro Caco-2 permeability of macimorelin acetate 21 days after seeding of 
+Caco-2 cells in transwell plates. The sponsor made the measurements in duplicate at 120 min after addition of 
+macimorelin acetate in the donor compartment. Bovine serum albumin concentrations were 0.25% in the donor 
+and 1% in the acceptor compartments. The sponsor used Lucifer Yellow and Rhodamine 123 as controls to verify 
+monolayer integrity and expression of the P-glycoprotein (Pgp)-efflux pump. They measured permeability over 
+the macimorelin concentration range of 2.5 – 1000 μM (0.0013 – 0.534 mg/mL).  Table 2 shows that the apparent 
+permeability (Papp) values for macimorelin are roughly similar over the studied concentration range. Mean (SD) 
+Papp values over the entire concentration range were 1.33 (0.19) cm/s x10-6 for the apical to basolateral (a→b)
+direction, and 2.37 (0.36) cm/s x10-6 for the basolateral to apical (b→a) direction. The mean (SD) efflux ratio of 
+Papp values (efflux/influx) is 1.8 (0.3).
+Table 2. Caco-2 permeability of macimorelin 2.5 – 1000 μM (Source: Study 8100-2013-950’s Table 3)
+Concentration
+[µM]
+2.5
+5
+10
+20
+30
+40
+50
+75
+100
+1000
+Mean
+(SD)
+Papp (a->b)
+[cm/s]x10-6
+1.38
+1.10
+1.15
+1.17
+1.33
+1.38
+1.53
+1.41
+1.10
+1.73
+1.33
+(0.19)
+Papp (b->a)
+[cm/s]x10-6
+2.08
+1.78
+2.00
+2.47
+2.75
+2.82
+2.66
+2.79
+2.28
+2.11
+2.37
+(0.36)
+Efflux ratio
+1.5
+1.6
+1.7
+2.1
+2.1
+2.0
+1.7
+2.0
+2.1
+1.2
+1.8 
+(0.3)
+Reference ID: 3594224
+(b) (4)
+(b) 
+(4)
+
+
+===== PAGE 40 =====
+
+7
+and 2D6.  [I] is 11 ng/mL, which is the Cmax upon single dose of 0.5 mg/kg macimorelin oral administration.  The 
+Ki is 12.5 M (IC50/2).  The R1 = 1 + [I]/Ki value practically equals to 1.  Thus, macimorelin is not a direct 
+inhibitor for CYPs 1A2, 2A6, 2C8, 2C9, 2C19, and 2D6 (R1 < 1.1).  
+For macimorelin’s inhibition of CYP3A4 via oral administration, Ralternate = 1 + Igut/Ki.  Igut is 0.5x60x1000/474.5
+µmoles/250 mL.  Ki = 15 µM (30 M/2).  Macimorelin Ralternate for CYP3A4 is 17.86 (Ralternate > 11).  Thus, 
+macimorelin may likely be a CYP3A4 direct inhibitor and needs to conduct a clinical study with an appropriate 
+probe substrate to confirm macimorelin’s CYP3A4 inhibition potential per the draft drug interaction guidance.  
+However, this reviewer sees that a clinical drug interaction study for macimorelin may be unnecessary since it is 
+for single dose use and the drug interaction potential may be managed via respective statements in the product 
+label.  
+In vitro Cytochrome P450 Induction 
+Study ADME-2013-01 assessed the ability of macimorelin to induce increases in the mRNA of the CYPs 1A2, 
+2B6, and 3A4/5 isozymes via primary cultures of cryopreserved human hepatocytes from a donor. The sponsor 
+treated cultures once daily for 2 consecutive days with DMSO, known human CYP inducers (omeprazole, 
+phenobarbital and rifampicin) as positive controls, an internal negative control (D-81050), and 3 concentrations of 
+macimorelin (3.16, 10 and 31.6 μM). 
+For CYP1A2, macimorelin showed negligible induction over the 3 concentrations, with maximum induction values 
+being below 2-fold of DMSO control. For CYPs 2B6 and 3A4, a concentration dependency and fold induction 
+values up to 4.4 and 3.7 were observed at 31.6 μM, respectively. These values were lower than the positive control 
+inducers (18.3% for CYP2B6 compared to phenobarbital and 12.5% for CYP3A4 compared to rifampicin).  The
+induction values at macimorelin 3.16 μM were below 2-fold (1.9 and 1.3).  Macimorelin 3.16 μM is about 150 
+times the mean macimorelin Cmax observed in the clinical phase III trial. 
+ 
+  
+Reviewer’s comment: Macimorelin’s CYP isozyme induction potential information may not be relevant for NDA 
+205-598 because macimorelin is intended for single dose administration to diagnose AGHD.  If macimorelin were 
+to have CYP isozyme induction potential, a single dose of macimorelin may not significantly induce CYP isozymes.  
+Moreover, the draft drug interaction guidance recommends the following 
+(http //www.fda.gov/downloads/Drugs/GuidanceComplianceRegulatoryInformation/Guidances/UCM292362.pdf):
+
+Assess cultured human hepatocytes from ≥ 3 donors, whereas Study ADME-2013-01 assessed 1 donor’s 
+hepatocytes.
+
+Use sufficient numbers of clinical inducers and non-inducers to determine a cutoff value; Study ADME-
+2013-01 assessed 1 known inducer per CYP isozyme and 1 negative control but did not prospectively 
+determine a cutoff value.
+This reviewer does not recommend macimorelin’s label to contain Study ADME-2013-01’s results.  Nevertheless, 
+the sponsor did not claim that macimorelin does not have induction potential of CYP isozymes in the label.
+Excretion
+The sponsor intended to study the of excretion macimorelin in Study ARD-0705-003.  Due to missed collection of 
+urine volume, the sponsor cannot quantify the urine excretion of macimorelin in Study ARD-0705-003.  See 
+Question 2.4.1 for details.
+Chiral Conversion
+Per the Clinical Pharmacology review dated June 18, 2007 for IND 73,196 Serial 004 in DARRTS, chiral 
+conversion does not occur in vivo for peptides.  
+Reference ID: 3594224
+(b) (4)
+
+
+===== PAGE 44 =====
+
+11
+2.2.5.2  Is there evidence of a dose-response for safety?
+Dose-response for safety cannot be established see Question 2.2.2.  See Dr. Lan Huang’s statistical review for the 
+efficacy analysis of macimorelin dated July 9, 2014 in DARRTS.
+2.2.6  What would be the recommended optimal oral macimorelin acetate dose?
+Without a valid dose-response relationship for macimorelin, one can only depend on the dose studied in the pivotal 
+clinical efficacy and safety study (AEZS-130-047), which is 0.5 mg/kg.
+2.2.7  Does macimorelin acetate prolong the QT or QTc interval?
+The sponsor did not conduct thorough QT prolongation study for macimorelin in humans.
+2.3  Intrinsic Factors
+2.3.1   How does hepatic impairment affect macimorelin PK?
+The sponsor did not conduct dedicated hepatic impairment study for macimorelin in humans.
+2.3.2   How does renal impairment affect macimorelin PK?
+The sponsor did not conduct dedicated renal impairment study for macimorelin in humans and renal excretion data 
+is unavailable (see Question 2.2.1).
+2.3.3  Do the intrinsic factors such as age, body mass index, gender, and race affect macimorelin PK?
+The sponsor conducted neither dedicated study nor population approach study for analysis of covariate intrinsic 
+factors that may affect macimorelin PK in humans.  Dr Jeffrey A. Quinn’s Pharmacology/Toxicology review dated 
+June 5, 2014 in DARRTS has the following comment for macimorelin:
+Gender-related differences in drug exposures were noted during the pivotal toxicity studies and may represent a 
+complication when using this compound as a diagnostic agent in human subjects.
+This reviewer analyzed the clinical pivotal Study AEZS-130-047’s macimorelin PK data for potential gender 
+difference.  Figure 6 shows the box plots for macimorelin Cmax between female and male AGHD patients.  
+Similarly, Figure 7 shows the box plots for macimorelin AUCt between female and male AGHD patients.  Median 
+values for both macimorelin Cmax and AUCt appear to differ between female and male but the 25th and 75th
+percentile values of macimorelin Cmax and AUCt for the female patients are within the range of those for the male 
+patients.  Moreover, the p value for the 2-sided t-test assuming unequal variance for macimorelin Cmax and AUCt
+among female and male patients are 0.2372 and 0.3511, respectively.  Thus, the macimorelin Cmax and AUCt for 
+the AGHD female patients are not significantly different from the macimorelin Cmax and AUCt for the male AGHD 
+patients.
+Reference ID: 3594224
+
+
+===== PAGE 46 =====
+
+13
+2.4  Extrinsic Factors
+2.4.1  How does food affect macimorelin’s bioavailability (BA)?
+Study ARD-0705-003 assessed the effect of food on the bioavailability of macimorelin acetate.  Sixteen more-
+than-10-hours-fasted healthy participants either received a single oral 0.5 mg macimorelin/kg dose alone or 
+received the dose with a concomitant liquid meal on Day 1.  In the same way, all participants orally received the 
+treatment on Day 4 that they did not receive on Day 1.  Serial plasma samples for the determination of 
+macimorelin as well as serial serum samples for the determination of GH and insulin growth factor-1 (IGF-1) were 
+collected.  A single urine sample for the determination of macimorelin was collected within 6 hours postdose.   The 
+sponsor used a validated bioanalytical method to determine the plasma macimorelin concentrations.
+The sponsor did not submit bioanalytical and validation reports for both GH and IGF-1 measurements to 
+substantiate the validity of serum GH and IGF-1 concentration data.  However, both GH and IGF-1 data are 
+unnecessary to assess the effect of food on the pharmacokinetics of macimorelin.  Thus, this reviewer did not 
+request the sponsor to submit Study ARD-0705-003’s GH and IGF-1 results.
+Table 4. Macimorelin PK parameters in the presence and absence of the liquid meal.
+Characteristic
+Variable
+With food
+Total
+N=16
+Without food
+Total
+N=16
+AUC(0-t)
+(h x ng/mL)
+Mean (SD)
+Median
+Min, max
+14.07 (5.545)
+13.16
+7.71, 24.89
+29.52 (17.172)
+22.79
+10.27, 76.21
+AUC(0-inf)
+(h x ng/mL)
+Mean (SD)
+Median
+Min, max
+15.90 (6.442)
+15.09
+8.42, 29.30
+31.95 (17.952)
+24.69
+11.36, 80.14
+Cmax
+(ng/mL)
+Mean (SD)
+Median
+Min, max
+4.41 (1.912)
+3.89
+2.18, 9.66
+10.58 (6.249)
+7.58
+3.32, 21.90
+Tmax
+(h)
+Mean (SD)
+Median
+Min, max
+1.09 (0.576)
+0.88
+0.25, 2.00
+0.78 (0.417)
+0.75
+0.25, 2.00
+t1/2
+(h)
+Mean (SD)
+Median
+Min, max
+3.80 (2.111)
+3.10
+1.34, 9.12
+3.87 (2.032)
+3.54
+1.82, 8.25
+Source: Study ARD-0705-003’s report’s Table 4.
+Table 5. Ratio of macimorelin PK parameters in the presence and absence of the liquid meal.
+Ratio (With food/ Without food)
+Outcome
+N
+Min
+Median
+Max
+Mean
+Geometric 
+mean
+90% CI*
+AUC(0-t)
+16
+0.288
+0.475
+0.970
+0.542
+0.510
+0.436, 0.596
+AUC(0-inf)
+16
+0.321
+0.496
+0.992
+0.556
+0.526
+0.454, 0.610
+Cmax
+16
+0.216
+0.461
+1.163
+0.486
+0.453
+0.386, 0.533
+* Based on two-sided paired t-test of log-transformed outcomes
+Source: Study ARD-0705-003’s report’s Table 5.
+Per the results in Table 5, macimorelin Cmax and AUCt decreased 54% and 49%, respectively, with concomitant 
+administration of a liquid meal.  Figure 10 shows the mean plasma macimorelin concentration – time profile upon 
+oral administration of macimorelin acetate with and without a liquid meal.
+Reference ID: 3594224
+
+
+===== PAGE 52 =====
+
+19
+plasma macimorelin concentration at 0 hour is > than 5 percent of the macimorelin Cmax value for 
+Participant 6.
+The sponsor responded on June 30, 2014 that “We are pursuing our investigation for an explanation and will 
+inform the agency of any significant findings.”
+Reviewer’s comment: This reviewer chose Participant 6’s macimorelin data (without meal) since this 
+participant’s time zero sample has the highest plasma macimorelin concentration (42.1% of Cmax).  The predose 
+plasma macimorelin concentrations will not affect the macimorelin Cmax assessment but may affect macimorelin 
+AUCt assessment.  This reviewer calculated the macimorelin AUCt via plasma macimorelin concentration of 2.49 
+ng/mL at time zero versus 0 ng/mL at time zero and 2.49 ng/mL at 5 minutes.  The difference of AUCt is < 1% 
+between these 2 approaches.  This reviewer recommends accepting the sponsor’s original macimorelin AUCt
+calculations (with predose quantifiable concentration). 
+Bioanalytical Report AEZS-130/110002181 for Study AEZS 130-047’s Tab 5 (Page 15 of 24) shows that the -
+0.25 and 0 hours plasma samples have quantifiable macimorelin concentrations for the following patients:
+
+Patient 1029 at -0.25 hour
+
+Patients 1032, 1142, 1702, 1703, 1704, 1705, 1706, 1714, and 1715 at 0 hour
+These predose plasma macimorelin concentrations are > than 5 percent of the macimorelin Cmax value in the 
+corresponding patient’s data except Patient 1032. Justify these predose plasma macimorelin concentrations.
+The sponsor responded on June 30, 2014 that:
+
+In general, there is a ± 2 minutes window for sampling plasma after dose administration.
+
+There may be a mixed up of -0.25 hour sample with the zero hour sample for Patient 1029.
+
+The 0 hour plasma macimorelin concentration of Patient 1032 is < 5% of the macimorelin Cmax and thus 
+is needless for explanation.
+
+Patient 1142’s 0 hour plasma sample was collected 5 minutes postdose.
+
+Patients 1702, 1703, and 1704’s 0 hour plasma samples were collected 7 – 10 minutes postdose.
+
+Patients 1705, 1706, 1714, and 1715’s 0 hour plasma samples have no additional information.
+Reviewer’s comment: The predose plasma macimorelin concentrations will not affect the macimorelin Cmax
+assessment but may affect macimorelin AUCt assessment.  This reviewer recommends accepting the sponsor’s 
+original macimorelin AUCt calculations (with predose quantifiable concentration) with the same reason as that for 
+Study ARD-0705-003 above.
+Measuring serum growth hormone concentration
+The sponsor used the following studies to substantiate the release of GH upon oral administration of macimorelin:
+
+Broglio et al. J Endocrinol Invest 2002;25:RC26-8
+
+AEZS-130-IIT-1 (single dose PK)
+
+ARD-0705-003 (food effect)
+
+AEZS-130-047 (efficacy and safety)
+Neither the Broglio article nor this NDA provided the bioanalytical validation for the assay used to measure 
+plasma GH concentrations.  Per the sponsor’s April 11, 2014 response for Study AEZS-130-IIT-1, the sponsor did 
+not prepare a bioanalytical report for GH measurements and no validation report for the bioanalytical report is
+Reference ID: 3594224
+
+
+===== PAGE 60 =====
+
+CLINICAL PHARMACOLOGY 
+FILING CHECKLIST FOR NDA 205-598
+NDA Number: 205-598
+Applicant: Aeterna Zentaris
+Pharmaceuticals
+Stamp Date: November 4, 
+2013
+Drug Name: Macimorelin 
+acetate
+NDA Type: Standard
+On initial overview of the NDA application for RTF:
+Content Parameter
+Yes
+No
+Comment
+Criteria for Refusal to File (RTF)
+1
+Has the applicant submitted bioequivalence data 
+comparing to-be-marketed product(s) and those used in 
+the pivotal clinical trials?
+No
+Submitted bioequivalence 
+study waiver request
+2
+Has the applicant provided metabolism and drug-drug 
+interaction information?
+Yes
+In vitro data only
+Criteria for Assessing Quality of an NDA
+        Data
+3
+Are the data sets, as requested during pre-submission 
+discussions, submitted in the appropriate format (e.g. 
+CDISC)? 
+Not applicable
+4
+If applicable, are the pharmacogenomic data sets 
+submitted in the appropriate format?
+Not applicable
+        Studies and Analyses
+5
+Has the applicant made an appropriate attempt to 
+determine the reasonable dose individualization strategy 
+for this product (i.e., appropriately designed and 
+analyzed dose-ranging or pivotal studies)?
+Yes
+6
+Did the applicant follow the scientific advice provided 
+regarding matters related to dose selection?
+Not applicable
+7
+Are the appropriate exposure-response (for desired and 
+undesired effects) analyses conducted and submitted in a 
+format as described in the Exposure-Response 
+guidance?
+Not applicable
+8
+Is there an adequate attempt by the applicant to use 
+exposure-response relationships in order to assess the 
+need for dose adjustments for intrinsic/extrinsic factors 
+that might affect the pharmacokinetic or 
+pharmacodynamics?
+Not applicable
+9
+Are the pediatric exclusivity studies adequately 
+designed to demonstrate effectiveness, if the drug is 
+indeed effective?
+No
+Exempt, orphan drug 
+designation 
+10
+Did the applicant submit all the pediatric exclusivity 
+data, as described in the WR?
+No
+Exempt, orphan drug 
+designation
+11
+Is the appropriate pharmacokinetic information 
+submitted?
+Yes
+12
+Is there adequate information on the pharmacokinetics 
+and exposure-response in the clinical pharmacology 
+section of the label?
+Yes
+        General
+13
+On its face, is the clinical pharmacology and 
+Yes
+Reference ID: 3419292

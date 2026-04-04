@@ -1,0 +1,46 @@
+{
+  "nda": "NDA204200",
+  "drug_name": "epinephrine",
+  "pk_tuples": [
+    {
+      "dose_mg": 0.3,
+      "dose_original": "0.3 mg (0.3 mL)",
+      "route": "SC",
+      "formulation": "injection",
+      "food": "not_specified",
+      "population": "pediatric",
+      "n_subjects": 9,
+      "dose_schedule": "single_dose",
+      "cmax_ng_ml": 1.802,
+      "tmax_h": 0.567,
+      "auc_inf_ng_h_ml": null,
+      "auc_last_ng_h_ml": null,
+      "t_half_h": 0.717,
+      "cl_L_h": null,
+      "vd_L": null,
+      "source_page": 21,
+      "confidence": "medium",
+      "notes": "Pediatric SC injection of 0.3 mg epinephrine; Cmax 1802 pg/mL = 1.802 ng/mL at 34 min (=0.567 h); t1/2 43 min = 0.717 h; published literature study (Simons et al.)"
+    },
+    {
+      "dose_mg": 0.3,
+      "dose_original": "0.3 mg (0.3 mL)",
+      "route": "IM",
+      "formulation": "injection",
+      "food": "not_specified",
+      "population": "pediatric",
+      "n_subjects": 8,
+      "dose_schedule": "single_dose",
+      "cmax_ng_ml": 2.136,
+      "tmax_h": 0.133,
+      "auc_inf_ng_h_ml": null,
+      "auc_last_ng_h_ml": null,
+      "t_half_h": 0.717,
+      "cl_L_h": null,
+      "vd_L": null,
+      "source_page": 21,
+      "confidence": "medium",
+      "notes": "Pediatric IM injection of 0.3 mg epinephrine (auto-injector); Cmax 2136 pg/mL = 2.136 ng/mL at 8 min (=0.133 h); t1/2 43 min = 0.717 h; published literature study"
+    }
+  ]
+}

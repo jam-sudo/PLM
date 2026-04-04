@@ -1,0 +1,1632 @@
+
+
+===== PAGE 13 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+xii 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 99. TK Parameters of the M1 Metabolite in the 6-Month Carcinogenicity Study 
+in Tg.rasH2 Mice ........................................................................................................191 
+Table 100. TK Parameters of the M3 Metabolite in the 6-Month Carcinogenicity 
+Study in Tg.rasH2 Mice..............................................................................................192 
+Table 101. TK Parameters of the M10 Metabolite in the 6-Month Carcinogenicity 
+Study in Tg.rasH2 Mice..............................................................................................192 
+Table 102. Study T-19.005 Information ..........................................................................193 
+Table 103. Methods, Study T-19.005 ..............................................................................194 
+Table 104. Maternal Exposure of Daridorexant in the Pre- and Postnatal Development 
+Toxicity Study in the Rat ...........................................................................................198 
+Table 105. Offspring Exposure of Daridorexant in the Pre- and Postnatal 
+Developmental Toxicity Study in the Rat ..................................................................199 
+Table 106. (Q)SAR Evaluation of Daridorexant-Related Impurities ..............................200 
+Table 107. Summary of Ames Studies Conducted With Process-Related Impurities .....201 
+Table 108. Impurity Content in the Nonclinical Batches Used in Nonclinical 
+Toxicology Studies ....................................................................................................203 
+Table 109. Qualification of Impurities: 
+ 203 
+Table 110. Study T-18.088 Information ..........................................................................204 
+Table 111. Methods, Study T-18.088 ..............................................................................205 
+Table 112. Study T-18.085 Information ..........................................................................206 
+Table 113. Methods, Study T-18.085 ..............................................................................206 
+Table 114. Summary of TK Parameters of ACT-699581 in the 4-Week Rat Study .......208 
+Table 115. PK Parameters of Daridorexant in Healthy Subjects After Administration 
+of Single Dose of 5-200 mg, Study AC-078-101 ......................................................215 
+Table 116. PK Parameters of Daridorexant in Healthy Subjects After Administration 
+of Single and Repeat Doses of 10 to 75 mg, Study AC-078-102 ..............................216 
+Table 117. Effect of Food on the PK of Daridorexant .....................................................223 
+Table 118. Summary of Bioanalytical Method Performance ..........................................234 
+Table 119. Observed and Simulated Daridorexant Geometric Mean Cmax and AUC 
+and Cmax and AUC Ratios Following a Single (IV or Oral) or Multiple Oral Dose 
+Administration of Daridorexant. ................................................................................242 
+Table 120. Predicted and Observed Effects of CYP3A4 Index Inhibitors and Inducers 
+on the Pharmacokinetics of 25 and 50 mg Daridorexant. ..........................................243 
+Table 121. Structural Parameter and Covariate Estimates for Selected Models (Model 
+831 is Final) ...............................................................................................................245 
+Table 122. Variability Parameter Estimates for Selected Models (Model 831 is Final) .245 
+Table 123. PK Simulations of Covariate Effects on Day 1 and Day 3 ............................247 
+Table 124. Previous Medical Conditions (Medical History) in Psychiatric Disorders 
+by Preferred Term, Trials ID-078A301 and ID-078A302, Safety Population ..........257 
+Reference ID: 4916689
+(b) (4)
+
+
+===== PAGE 20 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+1 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Glossary 
+ADME 
+absorption, distribution, metabolism, and excretion  
+AE 
+adverse event 
+AHI 
+apnea-hypopnea index 
+ALT 
+alanine aminotransferase 
+AUC 
+area under the concentration-time curve 
+BA 
+bioavailability 
+BID 
+twice daily 
+CI 
+confidence interval 
+Cmax 
+maximum plasma concentration 
+CMC 
+chemistry, manufacturing, and controls 
+COA 
+Clinical Outcome Assessment 
+COPD 
+chronic obstructive pulmonary disease 
+CPAP 
+continuous positive airway pressure 
+CPN 
+chronic progressive nephropathy 
+CSR 
+clinical study report 
+DDI 
+drug-drug interaction 
+DORA 
+dual orexin receptor antagonist 
+DSM-5 
+Diagnostic and Statistical Manual of Mental Disorders (5th edition) 
+EC50 
+half maximal effective concentration 
+ECAC 
+Executive Carcinogenicity Assessment Committee 
+eCDF 
+empirical cumulative distribution function 
+ECG 
+electrocardiogram 
+E-R 
+exposure-response 
+FeSSIF 
+fed state simulated intestinal fluid 
+FaSSIF 
+fasted state simulated intestinal fluid 
+FDA 
+Food and Drug Administration 
+FMQ 
+FDA MedDRA query 
+GGT 
+gamma-glutamyl transferase 
+GMR 
+geometric mean ratio 
+GLP 
+good laboratory practice 
+HAP 
+human abuse potential 
+HD 
+high dose 
+HDF 
+high dose females 
+HDM 
+high dose males 
+IC50 
+half maximal inhibitory concentration 
+ICE 
+intercurrent event 
+ICH 
+International Conference on Harmonisation 
+IDSIQ 
+Insomnia Daytime Symptoms and Impacts Questionnaire 
+IND 
+investigational new drug 
+IV 
+intravenous 
+LC-MS/MS 
+liquid chromatography with tandem mass spectrometry 
+LD 
+low dose 
+LPS 
+latency to persistent sleep 
+Reference ID: 4916689
+
+
+===== PAGE 38 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+19 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Trial Identifier  
+[NCT#] 
+Trial 
+Population 
+Trial Design 
+Regimen (Number. 
+Treated), Duration 
+Primary and Key 
+Secondary 
+Endpoints 
+Number of 
+Subjects, 
+Randomized 
+Number of 
+Centers and 
+Countries 
+ID-078-107 
+(HAP Study) 
+[NCT03657355] 
+Healthy 
+recreational 
+drug users 
+Control type:  
+Placebo and active controlled 
+Randomization: 
+Randomized, 6-way crossover 
+Blinding: 
+Double-blind 
+Biomarkers:  
+Reaction time, Rapid visual 
+information processing, Paired 
+Associates Learning 
+PK assessment: Cmax, tmax, 
+AUC, t½ 
+Innovative design features: N/A 
+Drug:  
+Daridorexant, 
+Suvorexant, Zolpidem, 
+Placebo 
+Dosage: 
+Daridorexant 50 mg, 
+100 mg, 150 mg 
+Suvorexant 150 mg 
+Zolpidem 30 mg 
+Number treated: 
+71 
+Duration (quantity and 
+units): 
+Single dose, 6-way, 
+crossover  
+Primary:  
+The Emax of the Drug 
+Liking VAS assessed 
+repeatedly over 24 h 
+postdose. 
+Secondary: 
+Balance of effects, 
+positive effects, 
+negative effects, 
+sedative effects, other 
+effects (drug similarity, 
+any effects), and 
+objective PD effects 
+(reaction time, five 
+choice error score, 
+paired associates 
+learning, and rapid 
+visual information 
+processing) 
+Planned: 80 
+Actual: 72 
+1 (US) 
+ID-078-108  
+(Driving 
+ study) 
+[NCT03892902] 
+Healthy 
+middle-aged 
+and elderly 
+subjects  
+Control type:  
+Placebo and active-controlled 
+Randomization: 
+Randomized, 4-way crossover 
+Blinding: 
+Double-blind 
+Biomarkers:  
+SDLP (derived from the MLP), 
+MLP, mean speed, SD of mean 
+speed, lapses,  
+PK assessment: C8h 
+Innovative design features: N/A 
+Drug:  
+Daridorexant, 
+Zopiclone, Placebo. 
+Dosage:  
+Daridorexant 50 and 
+100 mg. Zopiclone 
+7.5 mg.  
+Number treated:  
+60 
+Duration (quantity and 
+units): 
+Daridorexant 50 and 
+100 mg once daily for 
+4 days, Zopiclone 
+7.5 mg on Days 1 and 
+4 only. Placebo for 
+4 days. 
+Primary:  
+Driving performance 
+as measured by the 
+SDLP (difference from 
+placebo, cm) on Days 
+2 and 5 at 9 h post 
+dose. 
+Other endpoints: 
+Mean lateral position, 
+mean speed, SD of 
+mean speed, number 
+of lapses, subjective 
+driving quality and 
+effort. 
+Planned: 60 
+Actual: 60 
+1 (NED) 
+Reference ID: 4916689
+
+
+===== PAGE 39 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+20 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Trial Identifier  
+[NCT#] 
+Trial 
+Population 
+Trial Design 
+Regimen (Number. 
+Treated), Duration 
+Primary and Key 
+Secondary 
+Endpoints 
+Number of 
+Subjects, 
+Randomized 
+Number of 
+Centers and 
+Countries 
+ID-078-117  
+(TQT study) 
+[NCT04250506] 
+Healthy male 
+and female 
+subjects 
+Control type:  
+Placebo and active-controlled 
+Randomization:  
+Randomized, 4-way cross-over 
+Blinding:  
+Double-blind 
+(placebo/daridorexant) and 
+open-label (moxifloxacin) 
+Biomarkers:  
+Baseline QTcF, HR, PR, and 
+QRS intervals, ΔQTcF, ΔHR, 
+ΔPR, ΔQRS, ΔΔQTcF, ΔΔHR, 
+ΔΔPR, ΔΔQRS, U-waves, and 
+T-waves 
+PK assessment: Cmax, tmax, 
+AUC, t½ 
+Innovative design features: N/A 
+Drug:  
+Daridorexant, 
+Moxifloxacin, Placebo  
+Dosage: 
+Daridorexant 50 and 
+200 mg 
+Moxifloxacin 400 mg 
+Number treated:  
+36 
+Duration (quantity and 
+units):  
+Single dose, 4-way 
+crossover. 
+Primary:  
+Placebo-corrected 
+change from baseline 
+in the HR‑corrected 
+QTcF (ΔΔQTcF). 
+Secondary: 
+ - Central tendency 
+analysis of ΔΔQTcF 
+ - Change-from-
+baseline QTcF, HR, 
+PR, and QRS intervals 
+(ΔQTcF, ΔHR, ΔPR, 
+and ΔQRS) 
+ - Placebo-corrected 
+ΔHR, ΔPR, and ΔQRS 
+intervals (ΔΔHR, 
+ΔΔPR, and ΔΔQRS) 
+ - Categorical 
+analyses for HR, 
+QTcF, PR, and QRS 
+intervals 
+ - Treatment-emergent 
+changes in T-wave 
+morphology and U-
+wave presence. 
+Planned: 36  
+Actual: 36 
+1 (CZE) 
+Reference ID: 4916689
+
+
+===== PAGE 42 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+23 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Trial Identifier  
+[NCT#] 
+Trial 
+Population 
+Trial Design 
+Regimen (Number. 
+Treated), Duration 
+Primary and Key 
+Secondary 
+Endpoints 
+Number of 
+Subjects, 
+Randomized 
+Number of 
+Centers and 
+Countries 
+AC-078-102  
+(MAD study) 
+[NCT02571855] 
+Healthy male 
+and female 
+adult and 
+elderly 
+subjects 
+Control type:  
+Placebo controlled 
+Randomization: 
+Part A: Randomized MAD trial 
+Part B: Randomized SAD trial 
+Part C: Randomized, repeated 
+dose trial 
+Blinding:  
+Double-blind 
+Biomarkers:  
+Saccadic peak velocity, body 
+sway, adaptive tracking. 
+PK assessment: Cmax, tmax, 
+AUC, t½ 
+Innovative design features: N/A 
+Drug:  
+Daridorexant 
+Dosage: 
+Part A: 10, 25, and 
+75 mg  
+Part B: 5, 15, and 
+25 mg 
+Part C: 25 mg 
+Number treated:  
+85  
+Duration (quantity and 
+units): 
+Part A: 10, 25, or 
+75 mg once daily for 5 
+days 
+Part B: 1 Day (single 
+dose) 
+Part C: 25 mg once 
+daily for 7 days 
+(4 subjects had an 
+additional 8th day of 
+study drug 
+administration) 
+There were no primary 
+or key secondary 
+endpoints.  
+Objectives:  
+Investigating 
+tolerability, safety, PK, 
+and PD of 
+daridorexant: 
+Part A: Multiple-
+ascending doses in 
+healthy young adults 
+after morning 
+administration 
+Part B: Single-
+ascending doses in 
+healthy elderly 
+subjects after morning 
+administration 
+Part C: Repeated 
+doses in both healthy 
+young adults and 
+elderly subjects after 
+evening administration 
+Planned: 85 
+Actual: 85 
+1 (NED) 
+Source: 9/1/2021 Applicant response to IR, edited by clinical reviewer 
+1 Includes all submitted clinical trials, even if not reviewed in-depth, except for primarily pharmacokinetic studies. Phase 1 studies are included as they are the primary source of 
+information regarding the potential effects of doses exceeding the proposed recommended dose 
+2 If no randomization, then replace with “Actual Enrolled” 
+Abbreviations: ADME, absorption, distr bution, metabolism, and excretion; AHI, apnea-hypopnea index; AUC, area under the concentration-time curve; BEL, Belgium; BGR, Bulgaria; 
+BID, twice daily; CAN, Canada; CHE, Switzerland; Cmax, maximum plasma concentration; COPD, chronic obstructive pulmonary disease; CZE, Czech Republic; DB, double-blind; 
+DEU, Germany; DNK, Denmark; ECG, electrocardiogram; ESP, Spain; FIN, Finland; FRA, France; HUN, Hungary; IDSIQ, Insomnia Daytime Symptoms and Impacts Questionnaire; 
+ISR, Israel; IV, intravenous; KOR, South Korea; LPS, latency to persistent sleep; LTE, long-term extension study; MC, multicenter; MLP, mean lateral position; N, number of subjects; 
+Netherlands, NED; OL, open-label; OSA, obstructive sleep apnea; PC, placebo-controlled; PD, pharmacodynamic; PG, parallel group; PK, pharmacokinetic; POL, Poland; R, 
+randomized; REM, rapid eye movement; SAD, single-ascending dose; SD, standard deviation; SDLP, standard deviation of the lateral position; SEI, sleep efficiency index; sLSO, 
+subjective latency to sleep onset; sTST, subjective total sleep time; sWASO, subjective wake after sleep onset; SWE, Sweden; tmax, time to maximum concentration; TST, total sleep 
+time; US, United States; VAS, visual analog scale; WASO, wake after sleep onset 
+Reference ID: 4916689
+
+
+===== PAGE 45 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+26 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Characteristic 
+Drug Information 
+Bridge between to-be-
+marketed and clinical 
+trial formulations 
+The final to-be-marketed formulation was used in the both the pivotal phase 3 
+studies as well as all the key clinical pharmacology studies.  
+ 
+Absorption 
+Bioavailability 
+Daridorexant has an absolute bioavailability of 62%. 
+Tmax 
+Daridorexant is rapidly absorbed following oral administration and reaches 
+peak plasma concentrations within 1 to 2 hours. 
+Food effect (fed/fasted) 
+Geometric least square 
+mean and 90% CI 
+In healthy subjects, a high-fat and high-calorie meal had minor effects on the 
+PK of daridorexant. In fed state, there was ~10% decrease in AUC, ~16% 
+decrease in Cmax, and the tmax of daridorexant was delayed by 1.3 hours. 
+Thus, food had a minimal effect on the absorption and overall exposure of 
+daridorexant. Daridorexant can be administered with or without food, but its 
+sleep-promoting effect could be delayed when administered with or soon after 
+a meal, specifically when a high-fat high-calorie meal is consumed. 
+ 
+Distribution 
+Volume of distribution 
+Daridorexant has a volume of distribution of 31 L. 
+Plasma protein binding 
+Daridorexant is extensively bound (99.7%) to plasma proteins. 
+Drug as substrate of 
+transporters 
+Daridorexant is not a substrate of any major influx or efflux transporters. 
+Similarly, the three major circulating metabolites (M1, M3 and M10) were also 
+nonsubstrates. 
+ 
+Elimination 
+Mass balance results (% 
+excreted via different 
+routes) 
+The primary route of excretion is via feces (approximately 57%) and urine 
+(approximately 28%). Only traces of daridorexant were found in urine and 
+feces. 
+Clearance  
+3.7 to 4.1 L/h 
+Half-life  
+The terminal half-life of daridorexant is approximately 8 hours. 
+Metabolic pathway(s) 
+Daridorexant undergoes extensive metabolism and is primarily metabolized 
+by CYP3A4 (89%). 
+Other CYP enzymes are not of clinical relevance. All three major human 
+circulating metabolites (M1, M3 and M10) are unlikely to have any 
+pharmacological effect. 
+ 
+Intrinsic Factors and Specific Populations 
+Body weight 
+No clinically significant differences in the PK of daridorexant were detected 
+based on body weight 
+Age 
+No clinically significant differences in the PK of daridorexant were detected 
+based on age 
+Renal impairment 
+PK parameters of daridorexant were not impacted by renal impairment. 
+Exposure (Cmax and AUC) was similar in subjects with severe renal 
+impairment compared to healthy subjects. 
+Hepatic impairment 
+PK parameters of daridorexant were impacted by hepatic impairment. Though 
+mild hepatic impairment had minimal effect, moderate hepatic impairment led 
+to significant increases in exposure (1.6-fold for AUC and 2.1-fold for T1/2) 
+compared to healthy subjects. The effect of severe hepatic impairment was 
+not assessed. 
+Reference ID: 4916689
+
+
+===== PAGE 46 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+27 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Characteristic 
+Drug Information 
+ 
+Drug Interaction Liability (drug as perpetrator) 
+Inhibition/induction of 
+metabolism 
+Daridorexant was a noninhibitor for most cytochrome P450 enzymes. 
+However, it was a weak inhibitor of CYP3A4 with an IC50 of ~7µM. The 
+circulating metabolites were noninhibitors. 
+Daridorexant and its metabolites elicited a concentration-dependent activation 
+of human Pregnane X receptor (PXR) with EC50 values ~3µM. 
+Inhibition/induction of 
+transporter systems 
+Daridorexant and its metabolites were noninhibitors for most relevant 
+transporters. However, daridorexant was a weak inhibitor of BCRP with IC50 
+of ~3µM. 
+Daridorexant and its metabolites were noninducers of all transporters.  
+Abbreviations: AUC, area under the concentration-time curve; BCRP, breast cancer resistance protein; CI, confidence interval; Cmax, 
+maximum plasma concentration; PK, pharmacokinetic; PXR, pregnane X receptor; T½, terminal half-life; tmax, time to maximum 
+concentration 
+5.1. Nonclinical Assessment of Potential 
+Effectiveness 
+Daridorexant binds to and inhibits orexin receptors, OX1R and OX2R (Ki =0.47 and 0.93nM, 
+respectively).  
+In rats and dogs, oral administration of daridorexant at doses up to 300 and 100 mg/kg, 
+respectively, caused dose-dependent decreases in time awake and activities and increases in 
+rapid eye movement (REM) and nonREM sleep time.  
+6. Assessment of Effectiveness 
+6.1. Dose and Dose Responsiveness 
+Dose selection for the phase 3 studies was based on the findings from the phase 2 dose-finding 
+studies, Study 201 and Study 202. Both phase 2 studies were primarily designed to evaluate the 
+dose response of daridorexant in adult and elderly subjects with insomnia, in order to select the 
+doses to be further studied in phase 3. Each of these studies investigated daridorexant doses of 
+5 mg, 10 mg, 25 mg, and 50 mg, and assessed the acute effects of drug averaged over the first 
+two nights of treatment. Study 201 also assessed subjective effects on perceived latency to sleep 
+onset (sLSO) after four weeks of treatment. 
+Study 201 was a multicenter, randomized, double-blind, placebo-controlled, parallel-group, 
+dose-response phase 2 study conducted in adult subjects (aged 18 to 64 years at screening) with 
+insomnia disorder. The study also included a zolpidem (10 mg) arm as an active reference. The 
+study had a screening phase of 14 to 28 days, including a 7 to 14-day run-in period, during which 
+subjects received single-blind placebo treatment on 2 consecutive polysomnography (PSG) 
+nights, followed by 5 to 12 days at home with no treatment. The double-blind treatment phase 
+had a duration of 29 days and included 3 visits with 2 PSG nights each (Days 1/2, Days 15/16, 
+and Days 28/29). Double-blind study treatment was taken every night during this phase. Subjects 
+were randomized evenly to treatment with daridorexant 5 mg, 10 mg, 25 mg, 50 mg, placebo, or 
+10 mg zolpidem. The primary efficacy endpoint was the absolute change from baseline to Days 
+1/2 in wake after sleep onset (WASO). Secondary efficacy endpoints were the change from 
+baseline to Days 1/2 in latency to persistent sleep (LPS), and the change from baseline to Week 4 
+Reference ID: 4916689
+
+
+===== PAGE 83 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+64 
+Integrated Review Template, version 2.0 (04/23/2020) 
+qualify impurities. All pivotal toxicology studies were conducted under good laboratory practice 
+(GLP). The major human metabolites of daridorexant (M1, M3, and M10) are adequately 
+qualified in nonclinical studies as the exposure levels in the nonclinical species (general 
+toxicology studies in the rat and dog, carcinogenicity study in the rat, and embryofetal 
+development studies in the rat and rabbit) are equal to or higher than the clinical exposure at the 
+maximum recommended human dose (MRHD) of 50 mg.  
+The target organs in the nonclinical studies and their clinical relevance are summarized and 
+discussed below.  
+7.1.1. CNS 
+In animal studies (mouse, rat, and dog), daridorexant induced multiple CNS clinical signs, 
+ranging from decreased activity in all animal species at lower doses to intermittent head tremors 
+or head shaking and cataplexy-like clinical signs (sudden onset of muscle weakness in the 
+presence of positive stimulation) in the dog at high doses. The mild hypnotic-sedative effects at 
+lower doses are expected based on the pharmacology of orexin receptor antagonism and are not 
+considered to be adverse. The cataplexy-like effects at higher doses in the dog are due to the 
+exaggerated pharmacology of orexin receptor antagonists. Drug-related cataplexy was not 
+associated with long term neurological effects or microscopic brain lesions. Nevertheless, given 
+the nature of cataplexy, particularly the sudden onset, they are considered to be adverse.  
+The no observed adverse effect level (NOAEL)/no observed effect level for cataplexy is 
+20 mg/kg/day in the dog,1 which provides a 3-fold margin relative to the MRHD of 50 mg based 
+on both Cmax and AUC.2 Although the safety margin is relatively small, no cataplexy was 
+observed at the MRHD in phase 3 and long-term extension clinical studies. Therefore, the 
+potential risk of drug-related cataplexy at the proposed clinical doses appears to be relatively 
+low. 
+7.1.2. Liver  
+In the mouse, rat, and dog studies, repeat oral administration of daridorexant caused dose-
+dependent increases in hepatocellular hypertrophy or hepatomegaly at ≥100 mg/kg/day in the 
+mouse, ≥50 mg/kg/day in the rat, and ≥30 mg/kg/day in the dog. The histopathology changes 
+correlated with increased liver weight and elevations in liver enzymes (e.g., alanine 
+aminotransferase, aspartate aminotransferase, gamma-glutamyl transferase [GGT], and/or 
+glutamate dehydrogenase). At lower doses, these changes were generally mild and reversible and 
+ 
+1 This NOEAL is based on the 13-week dog study.  
+2 Because cataplexy is primarily Cmax driven, the safety margin for cataplexy was calculated by both Cmax and 
+AUC, which provided comparable safety margins. 
+Reference ID: 4916689
+
+
+===== PAGE 86 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+67 
+Integrated Review Template, version 2.0 (04/23/2020) 
+The increases in cholesterol levels are possibly related to the enzyme induction effect of 
+daridorexant via PXR activation and decreased thyroid hormone levels (due to increased 
+metabolism of thyroid hormones). The changes were generally mild and reversible and did not 
+correlate with any other serious histopathology findings.   
+Given the mild magnitude and monitorable nature of the changes, the increases in cholesterol 
+levels in the mouse and rat studies do not impose an unacceptable risk at therapeutically relevant 
+levels. 
+Table 25. Daridorexant-Related Increases in Plasma Cholesterol Level  
+Animal 
+Duration 
+(weeks) 
+Dose  
+(mg/kg/day) 
+Exposure Multiples 
+Relative to MRHD of 50 mg 
+(Based on AUC) a, b 
+% Change in 
+Cholesterol Levels 
+Male 
+Female 
+Mouse 
+(CByB6F1) 
+2 
+1000 
+--c 
+↑46% 
+↑47% 
+2000 
+--c 
+↑110% 
+↑98% 
+Rat 
+(Wistar) 
+2 
+600 
+~7x 
+-- 
+↑35% 
+1000 
+~10x 
+-- 
+↑42% 
+4 
+100 
+~2x 
+-- 
+↑42% 
+300 
+~7x 
+-- 
+↑63% 
+1000 
+~16 x 
+-- 
+↑100% 
+13 
+150 
+~4x 
+-- 
+↑23% 
+450 
+~8x 
+-- 
+↑77% 
+26 
+150 
+~4x 
+↓20% 
+↑30% 
+450 
+~8x 
+↓40% 
+↑90% 
+Source: Summarized from the Applicant’s Study Reports  
+a, human exposure levels are based on clinical Study AC-078-105, AUC of 6300 ng*hr/mL and Cmax of 1006 ng/mL 
+b, exposure multiples calculated based on female exposure levels in the animal studies because the effects were primarily in 
+females 
+c, exposure multiples could not be determined because only AUC0­7h (rather than AUC0­24h) values were available from this nonGLP 
+study; --, not available 
+Abbreviations: AUC, area under the concentration-time curve; MRHD, maximum recommended human dosage 
+7.2. Potential Risks or Safety Concerns Based on 
+Drug Class or Other Drug-Specific Factors 
+Daridorexant’s putative mechanism of action in promoting sleep and thus treating insomnia 
+disorder is through inhibition of arousal via antagonism of orexin receptors in the hypothalamus. 
+The orexin system affects a variety of homeostatic functions including arousal/sleep-wake 
+regulation, reward, and feeding (Harris and Aston-Jones 2006). Further, orexin system deficits 
+have been implicated in the pathoetiology of narcolepsy (Harris and Aston-Jones 2006), and 
+orexin is involved in regulating respiratory drive (Nattie and Li 2012).   
+Therefore, the primary pharmacologically-based risks that may be expected for daridorexant 
+relate to  
+• symptoms of hypo-arousal and destabilization of arousal states, including somnolence 
+and sedation, narcolepsy/cataplexy (intrusion of sleep into wakeful state), and complex 
+sleep behaviors (intrusion of wakeful state elements into sleep) 
+• respiratory suppression  
+• depressive symptoms related to reward-responsiveness such as anhedonia and suicidal 
+ideation  
+• potentially, changes in appetite or metabolism 
+Reference ID: 4916689
+
+
+===== PAGE 152 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+133 
+Integrated Review Template, version 2.0 (04/23/2020) 
+to increase with age, and because there is some evidence of increased risk for CNS depressant 
+AEs among older patients as well.  
+8. Therapeutic Individualization 
+8.1. Intrinsic Factors 
+Renal Impairment 
+In a dedicated renal impairment study (ID-078-115), single-dose administration of 25 mg 
+daridorexant in subjects with severe renal impairment versus healthy subjects led to similar Cmax, 
+tmax, and t½. Based on these results, daridorexant can be administered to patients with renal 
+impairment without the need for dose adjustment. 
+• Mild, moderate, and severe renal impairment = no dose-adjustment 
+Hepatic Impairment 
+In a dedicated hepatic impairment study (ID-078-112), the exposure of daridorexant was 
+compared in healthy subjects versus subjects with hepatic impairment (mild and moderate). The 
+exposure of daridorexant (i.e., unbound Cmax and AUC) was similar in subjects with mild hepatic 
+impairment compared to healthy controls. However, exposure was higher (i.e., 60% increase in 
+unbound Cmax) with a 2-fold increase in t1/2 in subjects with moderate hepatic impairment 
+compared to healthy controls. Subjects with severe hepatic impairment were not studied. Based 
+on these results, the following dose-adjustments are recommended: 
+• Subjects with mild hepatic impairment = no dose-adjustment 
+• Subjects with moderate hepatic impairment = maximum dose of 25 mg 
+• Subjects with severe hepatic impairment = daridorexant is not recommended  
+Reference ID: 4916689
+
+
+===== PAGE 154 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+135 
+Integrated Review Template, version 2.0 (04/23/2020) 
+are expected to result in daridorexant AUC increases greater than 5-fold. Based on these results, 
+the following dose-adjustments are recommended: 
+• Mild CYP3A4 inhibitor = no dose-adjustment 
+• Moderate CYP3A4 inhibitor = maximum dose of 25 mg 
+• Strong CYP3A4 inhibitor = daridorexant is not recommended  
+CYP3A4 inducers: In healthy subjects, coadministration with efavirenz (600 mg once daily), a 
+moderate CYP3A4 inducer, decreased daridorexant exposure parameters AUC and Cmax by 61% 
+and 35%, respectively. Based on the clinically observed effect of efavirenz (a moderate CYP3A 
+inducer) on daridorexant PK and the PBPK model predicted effect of strong CYP3A inducers on 
+daridorexant PK, the strong inducers are expected to result in daridorexant AUC ratios of less 
+than 0.5. Based on these results, the following dose-adjustments are recommended: 
+• Moderate and strong CYP3A4 inducer = daridorexant is not recommended  
+Citalopram: In healthy subjects, coadministration of 20 mg citalopram (a selective serotonin re-
+uptake inhibitor) did not have any clinically relevant effect on the PK of 50 mg daridorexant. No 
+dose adjustment is recommended when daridorexant is used concomitantly with citalopram.  
+Gastric pH Modulators: In healthy subjects, coadministration with 40 mg of famotidine (an 
+inhibitor of gastric acid secretion) caused no change in the AUC of daridorexant but decreased 
+the Cmax by approximately 39% and increased the Tmax by 0.5 hr. Because there was no change in 
+AUC coupled with clinically insignificant changes in Cmax and Tmax, no dose adjustment is 
+recommended when daridorexant is used concomitantly with drugs that reduce gastric acidity. 
+Reference ID: 4916689
+
+
+===== PAGE 158 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+139 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Based on the delay in sexual maturation in males and the liver findings, the NOAEL for juvenile 
+toxicity is 150 mg/kg/day in both sexes.6  
+8.4. Pregnancy and Lactation 
+Pregnancy 
+Pregnant women were excluded from clinical trials with daridorexant, and no pregnancy 
+exposure cases have been reported. Animal studies do not suggest an increased risk for embryo-
+fetal toxicity. Pregnancy labeling will include a statement that there are no available data on 
+daridorexant use in pregnant women to evaluate for a drug-associated risk of major birth defects, 
+miscarriage, or other adverse maternal or fetal outcomes.  
+Daridorexant will be indicated for a condition that would be expected to be seen in females of 
+reproductive potential and during pregnancy. Therefore, a postmarketing requirement (PMR) 
+will be issued for the applicant to conduct a pregnancy exposure registry and a complimentary 
+study of a different design. The pregnancy labeling will also include contact information for the 
+pregnancy exposure registry study.  
+8.4.1. Embryofetal Developmental Toxicity 
+Daridorexant was administered orally to pregnant rats during the period of organogenesis at 
+doses of 30, 100, and 300 mg/kg/day, which are approximately 1, 3, and 8 times the MRHD of 
+50 mg respectively, based on AUC. Daridorexant did not cause any maternal or embryofetal 
+toxicities or fetal malformation at doses up to 300 mg/kg/day. The NOAEL for maternal and 
+fetal toxicity is 300 mg/kg/day, which is approximately 8 times the MRHD of 50 mg, based on 
+AUC. 
+Daridorexant was administered orally to pregnant rabbits during the period of organogenesis at 
+doses of 30, 60, and 120 mg/kg/day, which are approximately 3, 4, and 10 times the MRHD of 
+50 mg, respectively, based on AUC. Daridorexant decreased maternal weight gain (-40%) and 
+food consumption (-15%) at the dose of 120 mg/kg/day but did not cause any fetal toxicities or 
+malformation at doses up to 120 mg/kg/day. The NOAELs for maternal and fetal toxicity are 60 
+and 120 mg/kg/day respectively, which are approximately 4 and 10 times the MRHD of 50 mg, 
+respectively, based on AUC.  
+8.4.2. Pre- and Postnatal Developmental Toxicity 
+Daridorexant was administered orally to pregnant rats during gestation and lactation at doses of 
+50, 100, and 300 mg/kg/day, which are approximately 1, 3, and 9 times the MRHD of 50 mg, 
+respectively, based on AUC. Daridorexant did not cause any maternal or developmental 
+toxicities at doses up to 300 mg/kg/day. Sexual maturation, learning and memory, and 
+reproductive performance in the offspring were not affected. The NOAEL for maternal and 
+developmental toxicity is 300 mg/kg/day, which is approximately 9 times the MRHD of 50 mg, 
+based on AUC. Daridorexant was present in the offspring plasma on postnatal days 4 and 20.  
+ 
+6 Safety margins for the juvenile study was not calculated because the pediatric clinical dose has not been 
+determined yet. 
+Reference ID: 4916689
+
+
+===== PAGE 175 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+156 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 54. Observations and Results, Study T-15.076 
+Major Drug-Related Findings a 
+Mortality 
+Potentially drug-related mortality at 450 mg/kg/day  
+CNS 
+Pharmacology-related, dose-dependent CNS depression (decreased activity) at 
+≥50 mg/kg/day.  
+Exaggerated-pharmacology-related, clinical signs of “lateral decubitus, 
+contraction/stiffness of limbs for approximately 30 seconds to a few minutes, then 
+the animal stand up but with a decreased activity for a few minutes” in one female at 
+450 mg/kg/day on multiple days, which led to early termination of this animal.  
+Liver 
+Dose-dependent increases in the incidence and/or severity of centrilobular 
+hepatocellular hypertrophy at ≥150 mg/kg/day with corelative increases in the liver 
+weight (↑~60% and 120% in HDM and HDF, respectively), cholesterol (↑86% in 
+HDF), triglycerides (↑29% and 91% in HDM and HDF, respectively), and GGT (↑4x 
+and 2x in HDM and HDF, respectively). Changes in the liver were partially reversible 
+and are likely due to the enzyme induction effects of the drug.  
+Thyroid 
+Dose-dependent increases in the incidence and/or severity of follicular cell 
+hypertrophy in the thyroid at ≥150 mg/kg/day with correlative increases in the thyroid 
+weight (↑~30% in HDM and HDF) and plasma TSH levels (↑2x in HDM and HDF). 
+These changes are likely secondary to the liver enzyme induction and increased 
+metabolism of thyroid hormones; nevertheless, the histopathology changes 
+persisted after recovery. 
+Kidney 
+Tubular hyaline casts in the kidney in HDF with correlative increases in the kidney 
+weight (↑~20% in HDF) and increased leucocytes and proteins in the urine (trace to 
+marked levels in HDF), which persisted after recovery.  
+Source: Summarized from the Applicant’s Study Reports 
+a, adequate histopathology evaluation conducted at the terminal and recovery necropsy without peer review 
+Abbreviations: CNS, central nervous system; GGF, gamma-glutamyl transferase; HDF, high dose female; HDM, high dose male; 
+TSH, thyroid-stimulating hormone 
+NOAEL and Safety Margin 
+Based on the cataplexy-like clinical signs and increased gamma-glutamyl transferase (GGT) 
+levels, the NOAEL is 150 mg/kg/day in both males and females in the 26-week rat study. The 
+corresponding exposure levels of daridorexant after 26 weeks of treatment were AUC of 16.8 
+and 26.5 µg*hr/mL and Cmax of 5.8 and 6.6 µg/mL in males and females, respectively, which 
+provide a safety margin of 6 and 3 relative to the MRHD of 50 mg, based on Cmax and AUC, 
+respectively (Table 55). 
+Table 55. Exposure Levels of Daridorexant and its Metabolites at the NOAEL in the 26-Week Rat 
+Study and Corresponding Safety Margins  
+Doses 
+(mg/kg/day) 
+Daridorexant 
+M1  
+(ACT-776537) 
+M3  
+(ACT-776063) 
+M10  
+(ACT-1016-3307) 
+Cmax 
+(µg/mL) 
+AUC 
+(µg.hr/mL) 
+Cmax 
+(µg/mL) 
+AUC 
+(µg.hr/mL) 
+Cmax 
+(µg/mL) 
+AUC 
+(µg.hr/mL) 
+Cmax 
+(µg/mL) 
+AUC 
+(µg.hr/mL) 
+Sex 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+NOAEL (150)  5.8 6.6 16.8 26.5 2.9 4.0 12.8 11.5 3.3 5.8 15.4 28.9 0.9 0.7 
+4.0 
+5.0 
+Human 
+exposure a 
+1 
+6.3 
+0.25 
+3.7 
+0.55 
+5.9 
+0.1 
+1.1 
+Safety Margin 
+b  
+6/60 x 
+3/30 x 12/120 x 
+ 3/30 x 
+6/60 x 
+3/30 x 
+7/70 x 
+4/40 x 
+Source:  Summarized from the Applicant’s Study Reports 
+a, human exposure levels are based on clinical study AC-078-105, AUC of 6300 ng*hr/mL and Cmax of 1006 ng/mL 
+b, safety margins calculated based on total exposures and the free fraction after adjustment for protein binding 
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration 
+Reference ID: 4916689
+
+
+===== PAGE 179 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+160 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 59. Observations and Results, Study T-16.017 
+Major Drug-Related Findings a 
+CNS 
+Exaggerated-pharmacology related, cataplexy-like clinical signs (lying down, loss of 
+balance, unsteady gait, clumsy movement, unable to stand, subdued and/or 
+immobility) after positive stimulation at ≥30 mg/kg/day 
+Liver 
+Hepatomegaly (increased size and volume of hepatocytes) at 100 mg/kg/day with 
+correlative increases in the liver weight (↑~30% and 65% in HDM and HDF, 
+respectively), liver enlargement, and increased ALT (↑10x), GLDH (↑19x), AST 
+(↑3x), GGT (↑3x), and ALP (↑3x) in some animals. These changes were reversible 
+after recovery. 
+Gallbladder 
+Dose-dependent increases in luminal secretory material in the gallbladder at 
+≥30 mg/kg/day. These changes were reversible after recovery. 
+Source: Summarized from the Applicant’s Study Reports 
+a, adequate histopathology evaluation conducted at the terminal and recovery necropsy without peer review 
+Abbreviations: ALP, alkaline phosphatase; ALT, alanine aminotransferase; AST, aspartate aminotransferase; CNS, central nervous 
+system; GGF, gamma-glutamyl transferase; GLDH glutamate dehydrogenase; HDF, high dose female; HDM, high dose male; TSH, 
+thyroid-stimulating hormone 
+NOAEL and Safety Margin 
+Based on the cataplexy-like clinical signs and increased liver enzyme levels, the NOAEL is 
+considered to be 10 mg/kg/day in both males and females in the 39-week dog study. The 
+corresponding exposure levels of daridorexant, after 39 weeks of treatment, were AUC of 9100 
+and 17500 ng*hr/mL and Cmax of 1830 and 3530 ng/mL in males and females, respectively, 
+which provided a safety margin of ~1.5 -fold relative to the proposed MRHD of 50 mg, based on 
+both Cmax and AUC.15 
+ 
+15 Because cataplexy is primarily Cmax driven whereas liver changes were AUC related, safety margin were 
+calculated based on both Cmax and AUC. At the MRHD of 50 mg, the exposure levels in humans were Cmax of 
+1004 (ng/ml) and AUC of 6300 ng*hr/mL. Exposure levels in male dogs at the NOAEL were used because they 
+provided a more conservative safety margin. 
+Reference ID: 4916689
+
+
+===== PAGE 181 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+162 
+Integrated Review Template, version 2.0 (04/23/2020) 
+3500 ng/mL in males and females, respectively, which provided a safety margin of ~3.5-fold 
+relative to the proposed MRHD of 50 mg, based on Cmax.17 
+13.1.3.2.3. Nonpivotal Studies in the Dog 
+The nonpivotal short-term (3 days to 4 weeks) studies in the dog primarily served as dose range 
+finding studies for pivotal studies during the course development. Findings were generally 
+similar to those observed in the pivotal studies and the CNS, liver, and gallbladder were the 
+primary target organs.  
+4-Week Repeat Dose Dog Study (Study T-13.220, GLP) 
+In a 4-week study, beagle dogs were orally treated with daridorexant at doses of 0 (vehicle 
+control, 0.5% w/v methylcellulose), 30 (LD), 100 (MD), and 300/200 (HD) mg/kg/day 
+(n=3/sex/group). A 4-week recovery period (n=2/sex) was included for control and HD groups. 
+TK analysis was conducted on Days 1 and 28 (n=6/sex/group) 
+The high dose of 300 mg/kg/day was not tolerated, caused severe weight loss, and led to a 5-day 
+dose cessation and subsequent dose reduction to 200 mg/kg/day from Day 11. However, 
+200 mg/kg/day also exceeded the MTD and caused repeated tremors in both sexes and continued 
+weight loss in females.  
+Other drug-related findings were largely similar to those observed in the 13- and 39-week dog 
+studies, including centrilobular hepatocellular hypertrophy in the liver with corelative increases 
+in the liver weight (~60%) and ALP levels (2x), follicular cell hypertrophy with correlative 
+increases in the thyroid weight at ≥100 mg/kg/day, and increased luminal secretory material in 
+the gallbladder at ≥300/200 mg/kg/day. 
+The NOAEL for the 4-week dog study is 30 mg/kg/day in both sexes. The corresponding 
+exposure levels of daridorexant after 4 weeks of treatment were Cmax of 7270 and 6110 ng/mL 
+and AUC of 41500 and 36700 ng*hr/mL in males and females, respectively, which provides a 
+~6-fold safety margin relative to the MRHD of 50 mg, based on AUC. 
+3-Day and 2-Week Dose Range Finding Study in the Dog (Study T-13.172, 
+nonGLP) 
+Beagle dogs were orally treated with daridorexant at increasing doses of 30, 100, 300, and 
+1000 mg/kg/day for 3 consecutive days with a 4-day washout period in between (n=1/sex). At 
+≥300 mg/kg/day, daridorexant caused dose-dependent vomiting, weight loss, and decreased food 
+consumption. 
+Beagle dogs were orally treated with daridorexant at 600 mg/kg/day for 2 weeks (n=2/sex). At 
+600 mg/kg/day, daridorexant caused weight loss and decreased food consumption, increased 
+inflammatory cell infiltrate and/or accumulation of secretory material in the gall bladder with 
+correlative bile duct hyperplasia, and inflammatory cell infiltration in the liver with increased 
+liver enzymes. 
+ 
+17 Because cataplexy is primarily Cmax driven, safety margin was calculated based on Cmax. 
+Reference ID: 4916689
+
+
+===== PAGE 202 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+183 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 88. Summary of TK Parameters of Daridorexant in the 2-Year Rat Carcinogenicity Study 
+ 
+Source: Study T16.060 
+Abbreviations: AUClast, area under the curve to last measurable collection; Cmax, maximum plasma concentration; tmax, time to 
+maximum concentration 
+M1 Metabolite (ACT-776537) 
+After oral administration of daridorexant, the Tmax of M1 ranged between 2 and 8 hours postdose. 
+The M1 exposure levels increased close to or slightly greater than dose proportionally. There 
+were no significant sex differences in M1 exposure levels. The exposure levels of M1 were 
+generally higher than that of the parent drug, with a metabolite-to-parent ratio of 1.2 to 2.5 in 
+females and 1.7 to 4.6 in males. Repeat administration of daridorexant led to increased M1 
+exposure levels in LD but not in MD or HD (Table 89). 
+M3 Metabolite (ACT-776063) 
+After oral administration of daridorexant, the Tmax of the M3 metabolite ranged between 1 and 5 
+hours postdose. The M3 exposure levels increased greater than dose proportionally. Females had 
+higher M3 exposure levels than males, with a female-to-male ratio of 1.6 to 2.4. The exposure 
+levels of M3 were similar to or slightly lower than that of the parent drug, with a metabolite-to-
+parent ratio of 0.6 to 1.2. Repeat administration of daridorexant led to slightly increased M3 
+exposure levels in LD and MD but not in HD (Table 90).  
+M10 Metabolite (ACT-1016-3307) 
+After oral administration of daridorexant, the Tmax of the M10 metabolite ranged between 1 and 8 
+hours postdose. The M10 exposure levels increased greater than dose proportionally. There were 
+no significant sex differences in M10 exposure levels. The M10 exposure levels were lower than 
+that of the parent drug, with a metabolite-to-parent ratio of 0.08 to 0.4. Repeat administration of 
+daridorexant led to increased M10 exposure levels (Table 91). 
+Reference ID: 4916689
+
+
+===== PAGE 203 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+184 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 89. Summary of TK Parameters of the M1 Metabolite (ACT-776537) in the 2-Year Rat 
+Carcinogenicity Study 
+ 
+Source: Study T16.060 
+Abbreviations: AUClast, area under the curve to last measurable collection; Cmax, maximum plasma concentration; tmax, time to 
+maximum concentration 
+Table 90. Summary of TK Parameters of the M3 Metabolite (ACT-776063) in the 2-Year Rat 
+Carcinogenicity Study 
+ 
+Source: Study T16.060 
+Abbreviations: AUClast, area under the curve to last measurable collection; Cmax, maximum plasma concentration; tmax, time to 
+maximum concentration 
+Reference ID: 4916689
+
+
+===== PAGE 210 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+191 
+Integrated Review Template, version 2.0 (04/23/2020) 
+M1, 0.05 to 0.7 for M3, and 0.04 to 0.3 for M10, which was likely due to enzyme induction and 
+increased metabolism/elimination of the drug. No significant sex differences in the exposure 
+levels were observed on Day 1; however, on Day 182, females had lower exposure levels of 
+daridorexant and the metabolites relative to males, with the female-to-male ratio of 0.4 to 0.6 for 
+daridorexant, 0.2 to 0.3 for M1 and M3, and 0.1 to 0.2 for M10 (Table 98, Table 99, Table 100, 
+and Table 101) 
+Table 98. TK Parameters of Daridorexant in the 6-Month Carcinogenicity Study in Tg.rasH2 Mice 
+ 
+Source: Study T-18.041 
+Abbreviations: AUClast, area under the curve to last measurable collection; Cmax, maximum plasma concentration; TK, toxicokinetic; 
+Tlast, time of last collection; Tmax, time to maximum concentration 
+Table 99. TK Parameters of the M1 Metabolite in the 6-Month Carcinogenicity Study in Tg.rasH2 
+Mice 
+ 
+Source: Study T-18.041 
+Abbreviations: AUClast, area under the curve to last measurable collection; Cmax, maximum plasma concentration; TK, toxicokinetic; 
+Tlast, time of last collection; Tmax, time to maximum concentration 
+Reference ID: 4916689
+
+
+===== PAGE 211 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+192 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 100. TK Parameters of the M3 Metabolite in the 6-Month Carcinogenicity Study in Tg.rasH2 
+Mice 
+ 
+Source: Study T-18.041 
+Abbreviations: AUClast, area under the curve to last measurable collection; Cmax, maximum plasma concentration; TK, toxicokinetic; 
+Tlast, time of last collection; Tmax, time to maximum concentration 
+Table 101. TK Parameters of the M10 Metabolite in the 6-Month Carcinogenicity Study in Tg.rasH2 
+Mice 
+ 
+Source: Study T-18.041 
+Abbreviations: AUClast, area under the curve to last measurable collection; Cmax, maximum plasma concentration; TK, toxicokinetic; 
+Tlast, time of last collection; Tmax, time to maximum concentration 
+Reference ID: 4916689
+
+
+===== PAGE 233 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+214 
+Integrated Review Template, version 2.0 (04/23/2020) 
+With the exception of CYP3A4, daridorexant and its metabolites showed no time-dependent 
+inhibition of any P450 enzyme. Small but consistent effects were elicited by daridorexant and 
+M1 on CYP3A4 activity, which were NADPH-dependent and increased with rising 
+concentrations and pre-incubation time. Enzyme kinetic parameters for CYP3A4 inactivation, 
+i.e., KI and the maximal rate of inactivation, were determined for both compounds. 
+14.2. In Vivo Studies 
+14.2.1. Single-Ascending Dose (SAD) Study (AC-078-
+101) 
+This was a single-center, double-blind, randomized, placebo-controlled study to evaluate the PK, 
+PD, safety, and tolerability of single-ascending dose (SAD) of daridorexant in healthy male 
+subjects. Daridorexant at single oral doses of 5, 25, 50, 100, and 200 mg or placebo was 
+administered in the morning to 40 healthy male subjects (6:2 active:placebo, at each dose level). 
+PK assessments of daridorexant included the determination of Cmax, tmax, t½, AUC, and the 
+assessment of dose proportionality across daridorexant doses. PD included objective 
+measurements (saccadic peak velocity [SPV], speed of eye movements), adaptive tracking 
+(hand-eye coordination task measuring vigilance and attention), body sway (postural stability), 
+and subjective measurements (Bond and Lader visual analog scale [VAS] for subjective 
+alertness, mood, and calmness). Safety evaluations comprised the collection of AEs and serious 
+adverse events (SAEs), physical examination, vital signs, body weight, body temperature, 
+clinical laboratory tests, 12-lead ECG, and narcolepsy questionnaires. 
+Results 
+PK: Across doses, daridorexant was absorbed with a median tmax of 0.80 to 2.75 h, and the 
+geometric mean t½ was between 5.9 and 8.8 h. Results from the power model showed that the 
+exposure increased less than proportionally to the dose administered (i.e., neither for Cmax [0.61 
+to 0.77] nor for AUC0­inf [0.77 to 0.98] was the 90% CI for the slope completely within the 
+critical interval of 0.81 to 1.19). However, at the lower doses (25 and 50 mg) the increase in 
+exposure parameters was dose proportional. 
+PD: At doses of 25 mg and higher, the PD assessments revealed reduced vigilance and attention, 
+reduced visuomotor coordination indicated by decreased SPV and adaptive tracking 
+performance, and reduced postural stability indicated by increased body sway. The onset of 
+effect started within 1 h after administration and the maximum effect occurred around tmax (i.e., 
+1.5 h following treatment intake for doses up to 100 mg). At 200 mg, the maximum effect 
+generally occurred after 2 h. 
+Safety: No SAEs, severe AEs, or AEs leading to study discontinuation were reported. The most 
+frequently reported AEs (in >10% of subjects) were: somnolence, (23/40 subjects), fatigue 
+(9/40), disturbance in attention (7/40), and headache (6/40). The incidence of somnolence 
+increased with increasing dose. 
+Reference ID: 4916689
+
+
+===== PAGE 234 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+215 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 115. PK Parameters of Daridorexant in Healthy Subjects After Administration of Single Dose 
+of 5-200 mg, Study AC-078-101 
+ 
+Source: Summary of Clinical Pharmacology (2.7.2), 6.3, Page- 150. 
+Conclusions 
+The PK of daridorexant were characterized by quick absorption and elimination in the 
+anticipated clinical dose range up to 50 mg, and dose-related effects on the CNS were observed, 
+indicating a suitable PK/PD profile for a sleep-promoting agent. The dose-dependent incidence 
+of somnolence as the most common AE was consistent with the observed PD effects and the 
+pharmacological class of orexin receptor antagonists. Taken together, the results of the first-in-
+human study provided good indications about the therapeutic dose range of daridorexant and 
+supported the design of the subsequent multiple-ascending dose (MAD) study in healthy male 
+and female subjects, in which a dose range of 10 to 75 mg was explored. 
+14.2.2. Multiple-Ascending Dose Study (AC-078-102) 
+This was a single-center, double-blind, randomized, placebo-controlled study to evaluate the PK, 
+PD, safety, and tolerability of daridorexant in healthy male and female subjects. MAD oral doses 
+of daridorexant (10, 25, and 75 mg) or placebo were administered once daily for 5 days in the 
+morning to 31 healthy male or female adults (8:2 active:placebo at each dose level, 1:1 sex ratio). 
+PK assessments of daridorexant included the determination of Cmax, tmax, t½, and AUC as well as 
+the assessment of dose proportionality and accumulation across daridorexant doses. PD 
+assessments included objective measurements (SPV, adaptive tracking, body sway, digit symbol 
+substitution [assesses visual perception and other cognitive functions including attention, short-
+term memory, and psychomotor speed] and simple reaction time to measure reaction time) and 
+subjective measurements (Leeds sleep evaluation questionnaire, Bond and Lader VAS, Bowdle 
+VAS [for psychedelic effects], and Karolinska Sleepiness Scale to assess next-day alertness). 
+The study also evaluated PK differences between healthy young adults and healthy elderly 
+subjects after multiple doses. 
+Reference ID: 4916689
+
+
+===== PAGE 235 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+216 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Safety evaluations comprised the collection of AEs and SAEs, physical examination, vital signs, 
+body weight, body temperature, clinical laboratory tests, 12-lead ECG, and narcolepsy 
+questionnaires. 
+Results 
+PK: Across doses, daridorexant in healthy adult subjects was absorbed with a median tmax of 
+1.00 to 1.98 h, and t½ on Day 5 was between 5.6 and 8.5 h. Results from the power model 
+showed that the exposure increased proportionally to the dose administered, while Cmax showed a 
+less than dose-proportional increase. Based on AUC0­24 Day 5/Day 1, the accumulation index 
+was 1.1 across all 3 doses tested. 
+Table 116. PK Parameters of Daridorexant in Healthy Subjects After Administration of Single and 
+Repeat Doses of 10 to 75 mg, Study AC-078-102 
+ 
+Source: Summary of Clinical Pharmacology (2.7.2), Table 3-2, Page- 77 
+Abbreviations: AUC0-24h, area under the curve from 0 to 24 hours; Cmax, maximum plasma concentration; N, number of subjects; T½, 
+terminal half-life; Tmax, time to maximum concentration 
+Safety: No SAEs, severe AEs, or AEs leading to study treatment discontinuation were reported. 
+The most frequently reported AE across active dose groups was somnolence, reported by 1, 5, 
+and 6 subjects (out of 8 per dose group) treated with 10, 25, and 75 mg, respectively. Other 
+reported AEs in the MAD part included headache, sudden onset of sleep, and dizziness. 
+Conclusions 
+The PK of daridorexant was characterized by quick absorption and elimination with no or 
+minimal accumulation after multiple dosing. Elimination was slightly prolonged in the elderly 
+compared to young adults, reflected by a t½ of approximately 6 to 8 h and 8 to 10 h in adults and 
+elderly, respectively. Dose-related effects on the CNS were observed following multiple dosing 
+to healthy young adults. 
+14.2.3. PK of Daridorexant in Japanese vs. Caucasian 
+Subjects (ID-078-105) 
+This was a single-center, double-blind, placebo-controlled, randomized study to evaluate the PK, 
+PD, tolerability, and safety of single- and repeated-dose daridorexant in Caucasian and Japanese 
+healthy male and female subjects. Repeated oral doses of daridorexant (25 or 50 mg) were 
+Reference ID: 4916689
+
+
+===== PAGE 240 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+221 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Results 
+When administered concomitantly at citalopram steady state, the daridorexant geometric mean 
+ratio (GMR) (90% CI) for Cmax, AUC0­24, and t½ was 1.12 (1.04 to 1.20), 1.10 (1.04 to 1.17), and 
+1.14 (1.08 to 1.20), respectively, while tmax remained unchanged. At citalopram steady state, 
+single-dose daridorexant did not affect the Cmax and AUC0­24 of citalopram as indicated by GMR 
+(90% CI) of 1.02 (0.96 to 1.07) and 1.00 (0.96 to 1.03), respectively. 
+Figure 23. Effect of Single or Multiple Dose of Citalopram on the PK of Daridorexant 
+ 
+Source: Clinical Study Report (ID-078-114), Fig 11-1, page 95 
+Abbreviations: PK, pharmacokinetic 
+Conclusions 
+The PK of daridorexant was not affected in a relevant way by coadministration with citalopram. 
+The effects on objective and subjective PD assessments following coadministration of 
+daridorexant and citalopram were mainly driven by the expected CNS effects of daridorexant. 
+While the incidence of AEs was highest when both drugs were coadministered, as expected 
+based on the known safety profile of both daridorexant and citalopram, the overall tolerability 
+was acceptable. In summary, the results show that doses up to 50 mg of daridorexant can be 
+administered concomitantly with citalopram without dose adjustment. 
+Reference ID: 4916689
+
+
+===== PAGE 241 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+222 
+Integrated Review Template, version 2.0 (04/23/2020) 
+14.2.6. PK and PD Interactions Between Daridorexant 
+and Ethanol (ID-078-111) 
+This was a single-center, double-blind, randomized, placebo-controlled, double-dummy, 4-way 
+crossover study to evaluate the PK and PD interaction between single-dose daridorexant (tablet) 
+and single-dose ethanol in healthy male and female subjects. In addition, the safety and 
+tolerability of daridorexant, ethanol, and their concomitant administration were assessed. A total 
+of 22 healthy male and female subjects (1:1 sex ratio) were randomized. 
+Results 
+When administered concomitantly with ethanol, daridorexant Cmax, AUC0­inf, and t½ remained 
+unchanged, i.e., GMR (90% CI) was 0.96 (0.86 to 1.08), 1.08 (0.98 to 1.19), and 1.09 (1.01 to 
+1.18), respectively, compared to daridorexant alone. Absorption of daridorexant was delayed as 
+indicated by a median difference (90% CI) for tmax of 1.25 h (0.51 to 1.78). Daridorexant did not 
+alter the total dose of ethanol required to maintain the 0.6 g/L clamp compared to ethanol 
+administered alone as indicated by GMR (95% CI) of 1.00 (0.97, 1.02). Daridorexant 
+administered together with ethanol did not lead to marked differences compared to the 
+administration of either daridorexant or ethanol alone for VAS mood and calmness. Similarly, 
+coadministration did not further decrease smooth pursuit or VAS alcohol intoxication compared 
+to ethanol alone. However, coadministration led to a numerically greater impairment on SPV, 
+body sway, VAS alertness, and adaptive tracking compared to daridorexant alone.  
+Figure 24. Effect of Ethanol on the PK of Daridorexant 
+ 
+Source: Clinical Study Report (ID-078-111), Fig 11-1, page 87 
+Abbreviations: PK, pharmacokinetic 
+Conclusions 
+No relevant changes in daridorexant PK parameters were observed following coadministration 
+with ethanol, apart from a shift in tmax. Coadministration of daridorexant and ethanol led to 
+Reference ID: 4916689
+
+
+===== PAGE 242 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+223 
+Integrated Review Template, version 2.0 (04/23/2020) 
+reinforced drug actions, which were at most indicative of an additive effect. No supra-additive 
+effects of daridorexant and ethanol were found on any of the PD parameters. All treatments were 
+generally well tolerated, considering the expected occurrence of CNS-related AEs following 
+morning administration of daridorexant and/or ethanol. 
+14.2.7. Food Effect Study (ID-078-113) 
+In the food effect Study ID-078-113, subjects received a single oral dose of 50 mg daridorexant 
+in the formulation used in the clinical phase 3 studies and intended to be commercially used 
+(film-coated tablets). This was a single-center, open-label, randomized, two-way crossover, 
+phase 1 study to investigate the effect of food (high-fat and high- calorie meal) on the PK of 
+Daridorexant after administration of a single dose. This study included 20 healthy male subjects.  
+Results 
+The high-fat and high-calorie meal had a minimal effect on the PK of daridorexant with ~10% 
+decrease in AUC and ~16% decrease in Cmax. The results of this study were in line with a 
+previous food effect study performed with daridorexant (AC-078-104, 25 mg, administered as a 
+HGC), in which a similar decrease in Cmax and prolongation in tmax, and no modification of t½ and 
+AUC was reported, indicating matching PK properties between the two formulations. 
+Table 117. Effect of Food on the PK of Daridorexant 
+ 
+Source: Summary of Clinical Pharmacology (2.7.2), Table 3-14, Page- 96 
+Abbreviations: PK, pharmacokinetic 
+Conclusions  
+Food had a minimal effect on the absorption and the overall exposure of daridorexant. Thus, 
+daridorexant can be administered with or without food, but its sleep-promoting effect could be 
+delayed when administered with or soon after a meal, specifically when a high-fat high-calorie 
+meal is consumed. 
+Reference ID: 4916689
+
+
+===== PAGE 249 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+230 
+Integrated Review Template, version 2.0 (04/23/2020) 
+14.2.12. Effect of Daridorexant on the PK of the 
+CYP3A4 Sensitive Index Substrate Midazolam 
+(AC-078-104) 
+This was a single-center, open-label study to evaluate the effect of single-dose (CYP3A4 
+inhibition) and repeated-dose (CYP3A4 induction) daridorexant on the PK of single-dose 
+midazolam and its metabolite 1-OH midazolam in healthy male subjects. A total of 20 healthy 
+male subjects were included and received the treatments in the following fixed sequence: 
+• Treatment A: Single oral dose of midazolam 2 mg under fasted conditions on Day 1. 
+• Treatment B: Single oral dose of daridorexant 25 mg (Treatment B1) followed 1 h later 
+by a single oral dose of midazolam 2 mg under fasted conditions on Day 2 (Treatment 
+B2). 
+Results 
+When administered concomitantly with single-dose daridorexant, midazolam Cmax, AUC0­24, and t½ 
+were slightly higher when compared to midazolam alone with a GMR (90% CI) of 1.20 (1.07 to 
+1.34), 1.11 (1.03 to 1.19), and 1.05 (0.93 to 1.20), respectively. The median difference (90% CI) 
+for tmax was 0.00 h (–0.13 to –0.00). Results were similar for 1-OH midazolam. When 
+administered concomitantly with repeated-dose daridorexant, midazolam Cmax, AUC0­24, and t½ 
+were slightly lower when compared to midazolam alone with a GMR (90% CI) of 0.94 (0.83 to 
+1.05), 0.98 (0.91 to 1.05), and 0.88 (0.78 to 0.98), respectively. The median difference (90% CI) 
+for tmax was 0.00 h (0.00 to 0.13). Results were similar for 1-OH midazolam 
+Reference ID: 4916689
+
+
+===== PAGE 256 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+237 
+Integrated Review Template, version 2.0 (04/23/2020) 
+14.4. Physiologically Based Pharmacokinetic 
+(PBPK) Analysis Review 
+Executive Summary 
+The objective of this review is to evaluate the adequacy of the Applicant’s PBPK report, entitled 
+“Daridorexant (Daridorexant): PBPK modeling to predict pharmacokinetic drug-drug 
+interactions” to support the intended uses. 
+The Division of Pharmacometrics has reviewed the PBPK report and supporting modeling files 
+and concluded the following.  
+• The daridorexant model is adequate to predict the daridorexant PK profiles following a 
+single intravenous administration of 2 µg, which was given simultaneously with an oral 
+dose of 100 mg, a single oral dose administration (5, 25 and 50 mg), or multiple oral dose 
+administration (10 mg QD, 25 mg QD, and 75 mg QD) of daridorexant in healthy 
+subjects. 
+• The daridorexant model is adequate to predict the effect of cimetidine or ranitidine on 
+daridorexant PK following a single or multiple oral dose administration of daridorexant 
+(25 mg or 50 mg) and multiple dose administration of cimetidine (400 mg BID) or 
+ranitidine (150 mg BID) in healthy subjects. Model predicted daridorexant geometric 
+mean AUC ratios were approximately 1.15 and 1.50 when coadministered with 
+cimetidine or ranitidine in healthy subjects, respectively. 
+• The daridorexant model is adequate to predict the effect of verapamil, erythromycin, or 
+fluconazole on daridorexant PK following a single or multiple oral dose administration of 
+daridorexant (25 mg or 50 mg) and multiple dose administration of verapamil (80 mg 
+three times a day), erythromycin (500 mg four times a day), or fluconazole (200 mg QD) 
+in healthy subjects. Model predicted daridorexant geometric mean AUC ratios were 
+approximately 2.90, 3.60 and 3.00 when coadministered with verapamil, erythromycin, or 
+fluconazole in healthy subjects, respectively. 
+• The daridorexant model can be used to support the evaluation of the effect of strong 
+CYP3A inhibitors (itraconazole 200 mg QD and ketoconazole 200 mg BID) on the PK of 
+daridorexant. Based on the clinically observed inhibitory effect of diltiazem (a moderate 
+CYP3A inhibitor) on daridorexant PK and the evaluation of DDI potential of 
+daridorexant with strong CYP3A inhibitors using PBPK models, the strong CYP3A 
+inhibitors are expected to result in daridorexant AUC ratios of greater than 5. 
+• The daridorexant model can be used to support the evaluation of the effect of strong 
+CYP3A inducers (carbamazepine 400 mg BID and rifampicin 600 mg QD) on the PK of 
+daridorexant. Based on the clinically observed induction effect of efavirenz (a moderate 
+CYP3A inducer) on daridorexant PK and the evaluation of DDI potential of daridorexant 
+with strong CYP3A inducers using PBPK models, the strong inducers are expected to 
+result in daridorexant AUC ratios of less than 0.5. 
+Reference ID: 4916689
+
+
+===== PAGE 261 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+242 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 119. Observed and Simulated Daridorexant Geometric Mean Cmax and AUC and Cmax and 
+AUC Ratios Following a Single (IV or Oral) or Multiple Oral Dose Administration of Daridorexant.  
+Dose, Route 
+AUC (ng*h/mL) 
+Observed/Predicted/ 
+RPred/Obs 
+Cmax (ng/mL) 
+Observed/Predicted/ 
+RPred/Obs Study # 
+2 mg, IV, SD1 
+0.31/0.33/1.06 
+0.15/0.14/0.93 
+AC-078-
+101 
+5 mg, oral, SD, fasted 
+971/873/0.90 
+160/138/0.86 
+25 mg, oral, SD, fasted 
+2703/4300/1.59 
+632/640/1.01 
+50 mg, oral, SD, fasted 
+7417/7329/0.99 
+1231/1011/0.82 
+100 mg, oral, SD, fasted 
+12338/9076/0.74 
+1557/1065/0.68 
+200 mg, oral, SD, fasted 
+22906/12171/0.53 
+1869/1204/0.64 
+25 mg, oral, SD, fasted 
+4252/4146/0.98 
+716/667/0.93 AC-078-
+104 
+25 mg, oral, SD, fed 
+4388/4780/1.09 
+542/598/1.10 
+50 mg, oral, SD, fed 
+6858/8004/1.16 
+800/1088/1.36 
+10 mg, Oral, QD, fasted, day 1 
+1156/1864/1.61 
+256/286/1.12 
+AC-078-
+102 
+10 mg, Oral, QD, fasted, day 5 
+1293/1986/1.54 
+280/301/1.08 
+25 mg, Oral, QD, fasted, day 1 
+3502/4565/1.30 
+614/679/1.11 
+25 mg, Oral, QD, fasted, day 5 
+3805/4725/1.24 
+616/708/1.15 
+75 mg, Oral, QD, fasted, day 1 
+8583/7647/0.89 
+1225/997/0.81 
+75 mg, Oral, QD, fasted, day 5 
+8940/7868/0.88 
+1308/1046/0.80 
+Source: Simulated data were from the Applicant’s PBPK report (B-20.042). Observed data were from Study AC-078-101, AC-078-
+104 and AC-078-102. 
+1 Given simultaneously with an oral dose of 100 mg daridorexant 
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration; IV, intravenous; QD, once 
+daily; SD, single dose 
+Reference ID: 4916689
+
+
+===== PAGE 263 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+244 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Population PK Model 
+Applicant’s modeling approach utilized the rich PK data from phase 1 studies to generate the 
+structural model and covariate selection (univariate forward inclusion, backward elimination). 
+Next, the phase 1 data were pooled with phase 2 and phase 3 data for (re)estimation of model 
+parameters. Applicant indicates that parameters for which phase 2 and phase 3 (sparse) data did 
+not provide additional information (i.e., absorption parameters, intercompartmental drug transfer, 
+related between subject variability and related covariate effects) were kept fixed according to the 
+estimates from phase 1 data. Otherwise, the Applicant then assessed covariates once more on the 
+pooled PK dataset of phase 1, phase 2, and phase 3 studies.  
+The final structural model utilized two compartments, first-order absorption, absorption lag, and 
+nonlinear (Michaelis–Menten) elimination. The model is parameterized in terms of oral 
+absorption rate constant (ka), absorption lag (tlag), volume of distribution of the central 
+compartment (Vc), volume of distribution of the peripheral compartment (Vp), inter 
+compartmental clearance (Q), maximum rate of elimination (Vm), concentration at which the rate 
+of elimination is half the maximum rate (Km), and oral bioavailability (F). 
+Allometric scaling: Vc and Km scale with lean body weight normalized to 55 kg. Vp and Q scale 
+with fat mass normalized to 20 kg. Km scales with age normalized to 30 years. The normalization 
+value originals from the typical covariate values in the phase 1 studies. In all allometry cases, a 
+power model was utilized, and the coefficient was estimated.  
+Inter-individual variability: exponential 
+Inter-occasion variability: F, ka, tlag 
+Residual variability: Multiplicative (a.k.a. proportional) and additive 
+Covariates: Dose is a covariate on F. Food status is a covariate on tlag and ka. Time of day 
+(morning versus evening) is a covariate on ka. Lean body weight is a covariate on Vc and Km. Fat 
+mass is a covariate on Vp and Q. Age and alkaline phosphatase (ALP) are covariates on Km. 
+The parameter estimates for the final model are shown in the tables below. Model 831 is the final 
+model. Earlier models (lower model numbers) reflect the model development steps. 
+Reference ID: 4916689
+
+
+===== PAGE 318 =====
+
+505(b)1 NME NDA 214985  
+Daridorexant (Quviviq) for Insomnia 
+299 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 136. PK Parameters of Single Oral Doses of Daridorexant at 50, 100, and 150 mg in HAP 
+Study ID-078-107 
+PK Parameters 
+Dose of Daridorexant (mg) 
+50 
+100 
+150 
+Cmax (ng/mL) 
+1115.1 
+1653.4 
+1958.4 
+Tmax (h) 
+1.1 
+1.1 
+1.1 
+AUC0­inf (ng∙h/mL) 
+7692.4 
+13847.6 
+18983.2 
+T1/2 (h) 
+7.2 
+8.4 
+8.6 
+Source:  Reviewer generated table from study report for Study ID-078-107 
+Abbreviations: AUC0-inf, area under the concentration-time curve extrapolated to infinity; Cmax, maximum plasma concentration; PK, 
+pharmacokinetic; T1/2, terminal half-life; tmax, time to maximum concentration 
+17.3.1.4. Conclusion 
+The data from HAP Study ID-078-107 indicate that the abuse potential of daridorexant is similar 
+to that of zolpidem and suvorexant, both of which are controlled in Schedule IV of the 
+Controlled Substances Act. The data from the study indicate that the 50-mg dose of daridorexant 
+produced significantly lower PD measures compared to the positive comparators, however, they 
+were significantly greater than placebo. Notably, the 50-mg dose is the highest therapeutic dose 
+of daridorexant, and it was compared to 3-fold and 7.5-fold supratherapeutic doses of the 
+positive comparators, 30 mg zolpidem and 150 mg suvorexant, respectively, the highest 
+therapeutic doses approved by FDA. The daridorexant supratherapeutic doses of 100 and 150 mg 
+(2- to 3-fold the highest proposed therapeutic dose) produced PD measures that were not 
+significantly different from those of the positive comparators used in this study. As a result, 
+Study ID-078-107 is supportive evidence that daridorexant has abuse potential similar to the 
+Schedule IV drugs zolpidem and suvorexant.  
+Reference ID: 4916689

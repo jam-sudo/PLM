@@ -1,0 +1,78 @@
+{
+  "nda": "NDA205718",
+  "drug_name": "netupitant/palonosetron",
+  "pk_tuples": [
+    {
+      "dose_mg": 100, "dose_original": "100 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": 8, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 111, "tmax_h": null, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 1360,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 11, "confidence": "high",
+      "notes": "Netupitant 100 mg, Day 1, daily dosing study; AUC(0-23.5)"
+    },
+    {
+      "dose_mg": 300, "dose_original": "300 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": 8, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 599, "tmax_h": null, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 6400,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 11, "confidence": "high",
+      "notes": "Netupitant 300 mg, Day 1, daily dosing study; AUC(0-23.5)"
+    },
+    {
+      "dose_mg": 450, "dose_original": "450 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": 8, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 720, "tmax_h": null, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 9670,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 11, "confidence": "high",
+      "notes": "Netupitant 450 mg, Day 1, daily dosing study; AUC(0-23.5)"
+    },
+    {
+      "dose_mg": 100, "dose_original": "100 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": 8, "dose_schedule": "multiple_dose",
+      "cmax_ng_ml": 269, "tmax_h": null, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 4160,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 11, "confidence": "high",
+      "notes": "Netupitant 100 mg, Day 7, daily dosing; AUC(0-23.5)"
+    },
+    {
+      "dose_mg": 300, "dose_original": "300 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": 8, "dose_schedule": "multiple_dose",
+      "cmax_ng_ml": 1060, "tmax_h": null, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 17100,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 11, "confidence": "high",
+      "notes": "Netupitant 300 mg, Day 7, daily dosing; AUC(0-23.5)"
+    },
+    {
+      "dose_mg": 450, "dose_original": "450 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": 8, "dose_schedule": "multiple_dose",
+      "cmax_ng_ml": 1790, "tmax_h": null, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 28800,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 11, "confidence": "high",
+      "notes": "Netupitant 450 mg, Day 7, daily dosing; AUC(0-23.5)"
+    },
+    {
+      "dose_mg": 450, "dose_original": "450 mg",
+      "route": "oral", "formulation": "capsule", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 18, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 650.2, "tmax_h": null, "auc_inf_ng_h_ml": 25927, "auc_last_ng_h_ml": null,
+      "t_half_h": 71.81, "cl_L_h": null, "vd_L": null,
+      "source_page": 22, "confidence": "high",
+      "notes": "Study NETU-06-27, netupitant 450 mg alone, crossover DDI study"
+    },
+    {
+      "dose_mg": 300, "dose_original": "300 mg",
+      "route": "oral", "formulation": "capsule", "food": "fed",
+      "population": "healthy_adult", "n_subjects": null, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 596.4, "tmax_h": null, "auc_inf_ng_h_ml": 20039, "auc_last_ng_h_ml": 17150,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 12, "confidence": "high",
+      "notes": "Netupitant 300 mg from FDC 300/0.5, young adults fasted reference (R); PE from age-effect study"
+    }
+  ]
+}

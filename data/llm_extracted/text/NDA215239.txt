@@ -1,0 +1,1735 @@
+
+
+===== PAGE 8 =====
+
+NDA 215239
+Agamree (vamorolone)
+vii
+Integrated Review Template, version 3.0 (05/25/2022)
+Table of Tables
+Table 1. Application Information .........................................................................................i
+Table 2. Benefit-Risk Framework........................................................................................3
+Table 3. Clinical Studies/Trials Submitted in Support of Efficacy and/or Safety 
+Determinations1 for Vamorolone.................................................................................11
+Table 4. Patient Experience Data Submitted or Considered..............................................14
+Table 5. Summary of Clinical Pharmacology and Pharmacokinetics................................16
+Table 6. Effect of Food on Vamorolone Pharmacokinetics...............................................17
+Table 7. Summary of Partial AUC(0-6h)a and Cmax for Vamorolone 6 mg/kg by Age 
+Groups..........................................................................................................................21
+Table 8. Baseline Demographics and Clinical Characteristics, Safety-1 Population, 
+Study VBP15-004........................................................................................................29
+Table 9. Subject Screening and Enrollment, Study VBP15-004 .......................................30
+Table 10. Subject Disposition Through Week 24 by Group in Period 1, Study VBP15-
+004................................................................................................................................30
+Table 11. Primary Efficacy Endpoint: TTSTAND Velocity Change From Baseline to 
+Week 24 in mITT-1 Population (Vamorolone 6.0 mg/kg Versus Placebo) ................31
+Table 12. Sensitivity Analyses for Primary Efficacy Endpoint: TTSTAND Velocity 
+(Vamorolone 6.0 mg/kg Versus Placebo)....................................................................33
+Table 13. Secondary Efficacy Endpoint: TTSTAND Velocity Change From Baseline 
+to Week 24 in mITT-1 Population (Vamorolone 2.0 mg/kg Versus Placebo) ............35
+Table 14. Secondary Efficacy Endpoint: 6MWT Distance Change From Baseline to 
+Week 24 in mITT-1 Population (Vamorolone 6.0 mg/kg Versus Placebo) ................37
+Table 15. Secondary Efficacy Endpoint: 6MWT Change From Baseline to Week 24 
+in mITT-1 Population (Vamorolone 2.0 mg/kg Versus Placebo)................................39
+Table 16. Secondary Efficacy Endpoint: TTRW Velocity Change From Baseline to 
+Week 24 in mITT-1 Population (Vamorolone 6.0 mg/kg Versus Placebo) ................41
+Table 17. Secondary Efficacy Endpoint: TTRW Velocity Change From Baseline to 
+Week 24 in mITT-1 Population (Vamorolone 2.0 mg/kg Versus Placebo) ................43
+Table 18. Recoded Translations of Verbatim Terms to Medical Dictionary for 
+Regulatory Activities (MedDRA) Preferred Terms for Study 004..............................46
+Table 19. Duration of Exposure, Controlled Safety Population, Study VBP15-004.........48
+Table 20. Duration of Exposure, All Vamorolone-Treated Safety Population..................48
+Table 21. Overview of Treatment-Emergent Adverse Events, Placebo-Controlled 
+Period 1 of Study 004 ..................................................................................................49
+Table 22. Subjects With Common Treatment-Emergent Adverse Events1 Occurring in 
+at Least Two Subjects in the Vamorolone 6 mg/kg Group, Sorted by Greatest 
+Positive Risk Difference From Placebo in the Placebo-Controlled Period 1 of 
+Study 004 .....................................................................................................................50
+Reference ID: 5267554
+
+
+===== PAGE 13 =====
+
+NDA 215239
+Agamree (vamorolone)
+xii
+Integrated Review Template, version 3.0 (05/25/2022)
+Figure 5. TTSTAND Velocity Changes From Baseline Through Week 24 in mITT-1 
+Population (Vamorolone 2.0 mg/kg Versus Placebo)..................................................36
+Figure 6. 6MWT Distance Changes From Baseline Through Week 24 in mITT-1 
+Population (Vamorolone 6.0 mg/kg Versus Placebo)..................................................38
+Figure 7. 6MWT Distance Changes From Baseline Through Week 24 in mITT-1 
+Population (Vamorolone 2.0 mg/kg Versus Placebo)..................................................40
+Figure 8. TTRW Velocity Changes From Baseline Through Week 24 in mITT-1 
+Population (Vamorolone 6.0 mg/kg Versus Placebo)..................................................42
+Figure 9. TTRW Velocity Changes From Baseline Through Week 24 in mITT-1 
+Population (Vamorolone 2.0 mg/kg Versus Placebo)..................................................44
+Figure 10. Mean Change From Baseline in Gamma Glutamyl Transferase in Study 
+004................................................................................................................................56
+Figure 11. Mean Change From Baseline in Glutamate Dehydrogenase in Study 004 ......57
+Figure 12. Mean Change From Baseline in Hemoglobin Levels in the Safety 
+Population, Study VBP15-LTE ...................................................................................64
+Figure 13. Mean and 95% Confidence Interval of Diastolic Blood Pressure Over 
+Time by Treatment Arm (2 mg/kg or 6 mg/kg), Safety Population, Study VBP15-
+LTE ..............................................................................................................................65
+Figure 14. Mean and 95% Confidence Interval of Diastolic Blood Pressure Over 
+Time by Treatment Arm (0.25 mg/kg or 0.75 mg/kg), Safety Population, Study 
+VBP15-LTE.................................................................................................................66
+Figure 15. Mean and 95% Confidence Interval of Systolic Blood Pressure Over Time 
+by Treatment Arm (2 mg/kg or 6 mg/kg), Safety Population, Study VBP15-LTE.....66
+Figure 16. Mean and 95% Confidence Interval of Systolic Blood Pressure Over Time 
+by Treatment Arm (0.25 mg/kg or 0.75 mg/kg), Safety Population, Study VBP15-
+LTE ..............................................................................................................................67
+Figure 17. Schematic Representation of Vamorolone PopPK Model .............................124
+Figure 18. General Goodness-of-Fit Plots for Vamorolone From the Final PopPK 
+Model.........................................................................................................................125
+Figure 19. Visual Predictive Check for the Final PopPK Model for Vamorolone..........126
+Figure 20. Plasma Vamorolone PK Profiles by Dose Levels..........................................128
+Figure 21. Individual Random Effects Versus Covariate for Volume of Distribution of 
+Vamorolone................................................................................................................129
+Figure 22. Individual Random Effects Versus Covariate for Relative Bioavailability 
+of Vamorolone ...........................................................................................................130
+Figure 23. Individual Random Effects Versus Covariate for Duration of Zero Order 
+Absorption of Vamorolone ........................................................................................131
+Figure 24. Visual Predictive Check of the Final Exposure Response Analysis for 
+Efficacy......................................................................................................................134
+Figure 25. Visual Predictive Check of the Final Longitudinal BMI Z-Score Model ......137
+Reference ID: 5267554
+
+
+===== PAGE 15 =====
+
+NDA 215239
+Agamree (vamorolone)
+xiv
+Integrated Review Template, version 3.0 (05/25/2022)
+Glossary
+6MWT
+6-minute walk test
+ADME
+absorption, distribution, metabolism, and excretion
+AE
+adverse event
+ALT
+alanine aminotransferase
+AST
+aspartate aminotransferase
+AUC
+area under the concentration-time curve
+BA
+bioavailability
+BMD
+bone mineral density
+BMI
+body mass index
+BPCA
+Best Pharmaceuticals for Children Act
+BRF
+Benefit-Risk Framework
+BTM
+bone turnover markers
+CI
+confidence interval
+Cmax
+maximum plasma concentration
+CMC
+chemistry, manufacturing, and controls
+CUP
+compassionate use program
+DBP
+diastolic blood pressure
+DDI
+drug-drug interaction
+DMD
+Duchenne muscular dystrophy
+DMEPA
+Division of Medication Error Prevention and Analysis
+DPMH
+Division of Pediatric and Maternal Health
+EAP
+expanded access program
+EPC
+established pharmacologic class
+E-R
+exposure-response
+FDA
+Food and Drug Administration
+FMQ
+Food and Drug Administration Medical Dictionary for Regulatory Activities 
+query
+GGT
+gamma-glutamyl transferase
+GLP
+good laboratory practice
+GLDH
+glutamate dehydrogenase
+GMR
+geometric mean ratio
+IC50
+half maximal inhibitory concentration
+ICH
+International Council for Harmonisation
+IND
+investigational new drug
+ISS
+integrated summary of safety
+ITT
+intention-to-treat
+LTE
+long-term extension
+MAR
+missing at random
+MedDRA
+Medical Dictionary for Regulatory Activities
+mITT
+modified intention-to-treat
+MMRM
+mixed model for repeated measures
+MNAR
+missing not at random
+MR
+mineralocorticoid receptor
+Reference ID: 5267554
+
+
+===== PAGE 16 =====
+
+NDA 215239
+Agamree (vamorolone)
+xv
+Integrated Review Template, version 3.0 (05/25/2022)
+NDA
+new drug application
+NSAA
+North Star Ambulatory Assessment
+OPQ
+Office of Pharmaceutical Quality
+PD
+pharmacodynamic
+PI
+Prescribing Information
+PK
+pharmacokinetic
+PP
+per protocol
+SAE
+serious adverse event
+SBP
+systolic blood pressure
+SOC
+system organ class
+Tmax
+time to maximum concentration
+TRiNDS
+Therapeutic Research in Neuromuscular Disorders Solutions
+TTSTAND
+time to stand test
+TTRW
+time to run/walk
+ULN
+upper limit of normal
+Reference ID: 5267554
+
+
+===== PAGE 32 =====
+
+NDA 215239 
+Agamree (vamorolone)
+16
+Integrated Review Template, version 3.0 (05/25/2022)
+5.2. Clinical Pharmacology/Pharmacokinetics
+Table 5. Summary of Clinical Pharmacology and Pharmacokinetics
+Characteristic
+Drug Information
+Pharmacologic Activity
+Established pharmacologic 
+class (EPC)
+Vamorolone is a steroidal anti-inflammatory drug.
+Mechanism of action
+The precise mechanism by which vamorolone exerts its therapeutics effects in patients with DMD is unknown. Vamorolone 
+acts as an agonist of the glucocorticoid receptor to reduce NF-κB mediated gene transcription.
+Active moieties
+Vamorolone
+QT prolongation
+Vamorolone does not cause a mean increase in the QTc interval > 20 milliseconds (ms) at 1.6 times the approved 
+recommended dose.
+General Information
+Bioanalysis
+Plasma concentrations of vamorolone were measured by using a validated UPLC-MS/MS. The bioanalytical method was 
+validated in compliance with the standards set forth in the FDA Bioanalytical Method Validation Guidance.
+Healthy subjects versus 
+patients
+Clinically relevant differences in PK are not expected between healthy subjects versus patients.
+Drug exposure at steady state 
+following the therapeutic 
+dosing regimen (6 mg/kg)
+Parameter
+                 MeanSD
+AUCinf (ng.hr/mL)
+3606±897
+Cmax (ng/mL)        
+970±270
+Range of effective dose(s) or 
+exposure
+Two dose-levels, 2 mg/kg and 6 mg/kg administered orally once daily were studied in pivotal phase 2 (VBP15-004) and 
+supportive phase 2 (VBP15-003) studies.
+Maximally tolerated dose or 
+exposure
+A maximum tolerated dose in humans was not identified. The highest dose evaluated in healthy adult subjects and DMD 
+patient is 20 mg/kg and 6 mg/kg, respectively.
+Dose proportionality
+Vamorolone Cmax and AUCinf increased in a dose proportional manner in the dose range of 0.15 to 20 mg/kg in healthy 
+subjects and 0.25 to 6 mg/kg in DMD patients following single or multiple dose administrations.
+Accumulation
+No accumulation of vamorolone in plasma following with repeated daily administration. Single dose to steady state 
+accumulation.
+Time to achieve steady-state
+Due to the short half-life (~2 h) of vamorolone, steady state is achieved after the first dose.
+Bridge between to-be-
+marketed and clinical 
+trial/study formulations
+The drug substance in the to-be-marketed formulation was produced using a different 
+ 
+ formulation used in the pivotal clinical study (VBP15-004). The sponsor conducted VBP15-PK-FORM 
+and VBP15-PK-FORM-002 relative bioavailability and food effect studies to bridge the to-be-marketed formulation with the 
+clinical trial formulation. Under fed conditions (low-fat or high fat meal), no significant differences in the total vamorolone 
+exposures were noted for both the formulations and the to-be-marketed formulation was comparable to the clinical trial 
+formulation. The bridging was considered adequate as the two formulations show similar overall PK profiles under food 
+conditions that are comparable to the recommendation given to pediatric subjects with DMD in the pivotal study VBP15-004 
+(Refer to Sections 8.2.1 and 14.2).
+Reference ID: 5267554
+(b) (4)
+(b) (4)
+
+
+===== PAGE 33 =====
+
+NDA 215239 
+Agamree (vamorolone)
+17
+Integrated Review Template, version 3.0 (05/25/2022)
+Characteristic
+Drug Information
+Absorption
+Bioavailability
+Absolute bioavailability was not evaluated.
+Tmax
+Median Tmax is ~2 hours (range 0.5 to 5 hours)
+Food effect (fed/fasted)
+Geometric least square mean 
+and 90% CI
+Table 6. Effect of Food on Vamorolone Pharmacokinetics
+Meal Type
+AUCt GMR (%) (90% CI)
+Cmax GMR (%) (90% CI)
+Tmax
+Low-fat meal vs. 
+Fasted
+114 (101.9, 127.7)
+96.1 (77.9, 118.7)
+Tmax prolonged from 1 h 
+(fasted) to 2 h (fed)
+High-fat meal vs. 
+Fasted
+113 (100.3, 127.2)
+81.9 (63.7, 105.3)
+Tmax prolonged from 1 h 
+(fasted) to 2 h (fed)
+Source: Reviewer generated table
+Abbreviations: CI, confidence interval; GMR, geometric mean ratio; h, hour; vs, versus
+No significant differences in the total vamorolone exposures were noted when the to-be-marketed formulation was 
+administered with a low-fat meal or a high-fat meal compared to the fasted conditions, indicating that the to-be-marketed 
+formulation is not sensitive to food effects. These findings together with the lack of gastrointestinal side effects from the 
+clinical studies VBP15-003 and VBP15-004 suggest that vamorolone can be taken without regards to food. However, 
+prednisolone, a corticosteroid that is commonly used as an off-label drug in clinical practice for DMD subjects, is advised to 
+be taken with food to avoid gastrointestinal irritation. To avoid dosing errors and provide a convenient administration when 
+switched between prednisolone and vamorolone or vice versa, the review team recommends that vamorolone should be 
+taken “preferably with a meal” (Refer to Sections 8.2.1 and 14.2). 
+A low-fat meal was comprised of approximately 421 kcal with 25% kcal from fat; a high-fat meal was comprised of 
+approximately 920 kcal, with 57% from fat, 16.1% from carbohydrates, and 16% from protein.
+Distribution
+Volume of distribution
+162 L (apparent volume of distribution)
+Plasma protein binding
+88.1%
+Drug as substrate of 
+transporters
+Not a substrate for BSEP, BCRP, P-gp, MATE1, MATE2-K, OAT1, OAT3, OCT2, OATP1B1and OATP1B3 transporters.
+Elimination
+Mass balance results
+Following a single oral dose of 6 mg/kg vamorolone administered after a high-fat meal, 76% of the dose was recovered with 
+approximately 48% and 28% excreted in urine and feces, respectively. Major metabolites accounted for 95% of the signal in 
+plasma and 36% of the total dose excreted in urine. Unchanged vamorolone represented 4.4% of the signal in plasma and 
+0.4% of dose in urine. 
+Clearance
+58 L/h (apparent clearance)
+Half-life
+Approximately 2 hours (terminal elimination half-life)
+Metabolic pathway(s)
+Vamorolone undergoes metabolism through oxidation, hydrogenation, direct glucuronidation as well as hydrogenation with 
+subsequent glucuronidation mediated by CYP3A4, CYP3A5, CYP2C8, UGT1A3, UGT2B7, and UGT2B17.
+Reference ID: 5267554
+
+
+===== PAGE 34 =====
+
+NDA 215239 
+Agamree (vamorolone)
+18
+Integrated Review Template, version 3.0 (05/25/2022)
+Characteristic
+Drug Information
+Intrinsic Factors and Specific Populations
+Body weight
+The impact of body weight (13.5 to 99.6 kg) on the PK of vamorolone was adequately captured with allometric scaling of CL/F 
+and V/F.
+Age
+Age (2 to 64 years) does not affect the PK of vamorolone.
+Renal impairment
+Not evaluated. Based on hAME study, <1% of vamorolone is excreted unchanged via the kidney.
+Hepatic impairment
+Moderate hepatic impairment increases vamorolone exposure and therefore, dose reductions are proposed in patients with 
+mild and moderate hepatic impairment. Vamorolone exposures are expected to increase in patients with severe hepatic 
+impairment and as there is no clinical experience with vamorolone in patients with severe hepatic impairment, a dosing 
+recommendation cannot be provided.
+Drug Interaction Liability (Drug as Perpetrator)
+Inhibition/induction of 
+metabolism
+Vamorolone is an inducer of CYP3A4 but not CYP1A2 and CYP2B6. Appropriate dose adjustments of concomitant CYP3A4 
+substrates cannot be made until additional clinical DDI studies are conducted. The magnitude of CYP3A4 induction is not 
+known and a PMR will be issued to evaluate the extent of CYP3A4 induction and propose dose adjustments as required. 
+Vamorolone is an inhibitor of CYP2B6, CYP2C8, CYP2C9, CYP2D6, CYP3A4/5, and UGT1A1 in-vitro. However, at observed 
+clinical concentrations up to 250 ng/mL for 2 mg/kg and 970 ng/mL for 6 mg/kg, significant DDIs are not expected.
+Inhibition/induction of 
+transporter systems
+Vamorolone is an inhibitor of P-gp, OAT3, OATP1B1, and OATP1B3, but not BCRP, OAT1, OCT2, MATE1, MATE2-K, and 
+BSEP in-vitro. However, at observed clinical concentrations of 250 ng/mL for 2 mg/kg and 970 ng/mL for 6 mg/kg, significant 
+DDIs are not expected.
+Induction of metabolic 
+enzymes
+Drug Interaction Liability (Drug as Victim)
+Vamorolone is metabolized by multiple phase I and phase II enzymes and therefore, non-specific induction of enzymes 
+involved in vamorolone metabolism by concomitantly administered drugs may result in a decreased vamorolone exposure. 
+However, as doses down to 2 mg/kg have shown to be efficacious, the hypothetical reduction in exposure of the 6 mg/kg 
+dose by 66% is unlikely to compromise efficacy.
+Inhibition of transporter 
+systems
+Vamorolone is not a substrate for BSEP, BCRP, P-gp, MATE1, MATE2-K, OAT1, OAT3, OCT2, OATP1B1 and OATP1B3. 
+Based on these data, the potential for vamorolone to be affected by concomitant medications through the inhibition or efflux of 
+solute-linked carrier (SLC) transporters is low.
+Source: compiled data from 2.7.1 Summary of Biopharmaceutics Studies and Associated Analytical Methods and 2.7.2 Summary of Clinical Pharmacology Studies
+Abbreviations: AUC, area under the curve; AUCinf, area under the curve to infinity; AUCt, area under the curve from time 0 to the last sample with a concentration above the limit of quantitation; 
+BCRP, breast cancer resistance protein; BSEP, bile salt export pump; CI, confidence interval; CL/F, apparent clearance; Cmax, maximum plasma concentration; CV, coefficient of variation; CYP, 
+cytochrome P450; DDI, drug-drug interaction; DMD, Duchenne Muscular Dystrophy; EPC, established pharmacologic class; FDA, Food and Drug Administration; GMR, geometric mean ratio; h, hour; 
+hrs, hours; kcal, kilocalorie; MATE, multidrug and toxin extrusion protein; MS, mass spectrometry; ms, milliseconds; MTD, maximum tolerated dose; NF-κB, Nuclear factor kappa-light-chain-enhancer 
+of activated B cells; OAT, Organic anion transporter; OATP, organic anion transporting polypeptide; P-gp, P-glycoprotein; PK, pharmacokinetic; QTc, QT corrected for heart rate; SD, standard 
+deviation; SLC, solute-linked carrier; Tmax, time to maximum plasma concentration; TQT, thorough QT; UGT, Uridine 5'-diphospho-glucuronosyl transferase; UPLC, Ultra Pressure liquid 
+chromatography; V/F, apparent volume
+Reference ID: 5267554
+
+
+===== PAGE 37 =====
+
+NDA 215239 
+Agamree (vamorolone)
+21
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 7. Summary of Partial AUC(0-6h)a and Cmax for Vamorolone 6 mg/kg by Age Groups
+2 to <4
+4 to <7
+7 to <18
+PK Parameter 
+(N=5)
+(N=10)
+(N=6)
+pAUC6 (ng.h/mL)
+Mean (SD)
+2900 (1480)
+3100 (1020)
+3260 (1020)
+Median [Min, Max]
+3250 [1330, 4790]
+3160 [1520, 4530]
+3320 [1870, 4530]
+Cmax (ng/mL)
+Mean (SD)
+817 (426)
+969 (299)
+839 (345)
+Median [Min, Max]
+835 [315, 1310]
+935 [556, 1600]
+883 [355, 1260]
+Source: Reviewer’s Analysis
+a Plasma samples for PK analysis were collected until 6 hours post-dose in subjects aged 2 to <4 years with <3 samples in the 
+terminal elimination phase. Therefore, non-compartmental analysis could not be conducted and given that the half-life of 
+vamorolone was ~2 hours, partial AUC(0-6 h) was used to compare the exposures across different age groups.
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration; h, hour; Max, maximum; Min, 
+minimum; N, number of subjects; pAUC6, partial AUC(0-6h); SD, standard deviation
+6.1.3. Modeling and Simulation Data Supporting 
+Vamorolone Dosing Regimen 
+The proposed dosing regimen for vamorolone is 6 mg/kg for individuals with a body weight of 
+less than or equal to 50 kg and 300 mg for individuals weighing greater than 50 kg. Different 
+dosing regimens were investigated, involving varying doses for higher body weight patients. 
+These results were compared against simulated AUCss estimated for the 4 to under 7 years age 
+group (age group evaluated in the pivotal VBP15-004 efficacy study) and the results are depicted 
+in Figure 2. 
+These results indicate that a substantial number of subjects using the selected dosing regimen 
+achieve exposures (AUCss) within the 95th (upper) and 5th (lower) percentiles of simulated 
+AUCss range for the 4 to <7 years group. This trend held even for subjects with body weights 
+exceeding 100 kg: 65% of the subjects had exposures (AUCss) within the 95th (upper) and 5th 
+(lower) percentiles of simulated AUCss in the 4 to <7 years group and all the subjects had 
+exposures greater than the median simulated AUCss in the 4 to <7 years age group following 
+2 mg/kg dose. Given that both the 6 mg/kg and 2 mg/kg doses were shown to be effective, the 
+review team agrees with the proposed dosing regimen. 
+Reference ID: 5267554
+
+
+===== PAGE 38 =====
+
+NDA 215239 
+Agamree (vamorolone)
+22
+Integrated Review Template, version 3.0 (05/25/2022)
+Figure 2. AUC,ss Distributions Shown by Box Plots Per Dosing Regimen and Body Weight Group
+ 
+Source: Reviewer’s analysis
+Dashed yellow lines: 5th and 95th percentiles of simulated AUCss in the 4 to <7 years group, defined as target. 
+Dashed blue line: simulated median AUCss following 2 mg/kg in the 4 to <7 years age group.
+The numbers below each box plot are the percentage of the individuals that are within the target marked as yellow dashed lines.
+Abbreviations: AUCss, area under the concentration-time curve at steady state; kg, kilogram
+6.2. Clinical Studies/Trials Intended to 
+Demonstrate Efficacy
+6.2.1. Study VBP15-004
+6.2.1.1. Design, Study VBP15-004
+Study 004 was a randomized, double-blind, parallel group, placebo- and active-controlled study 
+with double-blind extension to assess the efficacy and safety of vamorolone in ambulant boys 
+with Duchenne muscular dystrophy (DMD).
+The first primary objective was to compare the efficacy of vamorolone administered orally at a 
+daily dose of 6.0 mg/kg over a 24-week treatment period versus placebo in ambulant boys ages 
+Reference ID: 5267554
+
+
+===== PAGE 87 =====
+
+NDA 215239 
+Agamree (vamorolone)
+71
+Integrated Review Template, version 3.0 (05/25/2022)
+TEAEs in Studies VBP15002 and VBP15-003 by Cmax level below or above 950 ng/mL 
+(median Cmax value for Study VBP15-002 Day 14). Although interpretation is limited by a small 
+population size of 10, there is no pattern to indicate a causal relationship for increased TEAEs as 
+a function of vamorolone Cmax above the threshold value of 950 ng/mL.
+Table 34. TEAEs in Studies VBP15-002 and VBP15-003 by Cmax Level on VBP15-002 Day 14 
+(6 mg/kg Treatment Group)
+System Organ Class
+Vamorolone 6mg/kg with TEAEs
+N=10
+n (%); f
+Preferred term
+Vamorolone Cmax <950ng/mL
+Vamorolone Cmax ≥950ng/mL
+Investigations
+2 (40.0); 2
+1(20.0); 1
+Weight increased
+1 (20.0); 1
+1 (20.0); 1
+Cortisol abnormal
+1 (20.0); 1
+0; 0
+Metabolism and nutrition 
+disorders
+2(40.0); 2
+0; 0
+Hypoglycaemia
+1(20.0); 1
+0;0
+Vitamin D deficiency
+1(20.0); 1
+0;0
+Musculoskeletal and connective 
+tissue disorders
+2(40.0);4
+0;0
+Myalgia
+1(20.00;2
+0;0
+Pain in extremity
+1(20.0);2
+0;0
+Nervous system disorders
+1(20.0);1
+0;0
+Presyncope
+1(20.0);1
+0;0
+Psychiatric disorders
+2(40.0);2
+2(40.0);3
+Agitation
+0;0
+1(20.0);1
+Emotional disorder
+0;0
+1(20.0);1
+Irritability
+0;0
+1(20.0;1
+Anxiety
+1(20.0);1
+0;0
+Personality change
+1 (20.0); 1
+0;0
+Reproductive system and breast 
+disorders
+0;0
+1(20.0); 1
+Testicular torsion
+0;0
+1(20.0);1
+Respiratory, thoracic and 
+mediastinal disorders
+1(40.0);5
+2(40.0);4
+Asthma
+0;0
+1(20.0);1
+Cough
+2(40.0);3
+1(20.0);1
+Hypoxia
+0;0
+1(20.0);1
+Productive cough
+0;0
+1(20.0);1
+Nasal congestion
+1(20.0);1
+0;0
+Rhinorrhoea
+1(20.0);1
+0;0
+Skin and subcutaneous tissue 
+disorders
+2(40.0);2
+1(20.0);1
+Urticaria
+0;0
+1(20.0);1
+Hypertrichosis
+2(40.0);2
+0;0
+Source: ISS, table 118, p. 470
+Abbreviations: AE, adverse event; Cmax, maximum plasma concentration; f, event count; ISS, integrated summary of safety; N, 
+patient count; n, number of patients with event; TEAE, treatment emergent adverse event
+7.6.3. Safety Results, Study VBP15-006 
+One ongoing clinical study, Study VBP15-006, started recruitment after the NDA data cutoff. 
+The study is entitled “A Phase II Open-label, Multiple Dose Study to Assess the Safety, 
+Tolerability, Pharmacokinetics, Pharmacodynamics, and Exploratory Efficacy of Vamorolone in 
+Reference ID: 5267554
+
+
+===== PAGE 110 =====
+
+NDA 215239 
+Agamree (vamorolone)
+94
+Integrated Review Template, version 3.0 (05/25/2022)
+reported with vamorolone up to 6 mg/kg and given that DMD affects pediatric population where 
+renal impairment is not common, the review team does not propose any dose adjustment 
+recommendations in subjects with renal impairment.
+Other intrinsic factors
+Based on population PK analysis, only body weight was identified to affect vamorolone 
+exposures but not either race, age, or time since DMD diagnosis. However, as vamorolone is 
+administered per body weight basis (mg/kg), no additional effect of body weight on vamorolone 
+PK is expected. 
+8.2. Extrinsic Factors
+8.2.1. Effect of Food
+8.2.1.1. Effect of Food for Clinical Trial Formulation 
+The applicant evaluated the effect of food (high-fat meal) on the PK of vamorolone after 
+administration of the clinical trial formulation 
+in a parallel group Study VBP15-001 
+(n = 6). The geometric mean Cmax and AUC of vamorolone increased by approximately 2.5-fold 
+compared to when administered under fasted conditions. The effect of meal type (low-fat meal 
+and high-fat meal) on the PK of vamorolone after administration of the clinical trial formulation 
+ was further evaluated in the Study VBP15-PK-FORM-002. Fifteen healthy adult 
+subjects received 2.0 mg/kg vamorolone after ingestion of a low-fat/low calorie meal (11 grams 
+of fat, 391 kcal) or after ingestion of a high-fat/high calorie meal (55 to 65 grams of fat, 800 to 
+1000 kcal) in a cross-over design. The geometric mean Cmax and median Tmax are the same after 
+coadministration with low-fat or high-fat meal and AUC0-inf is approximately 9% higher with the 
+high-fat meal compared to the low-fat meal. Overall, these results indicate that clinical trial 
+formulation 
+ has improved bioavailability (BA) in the presence of food without regards 
+to the meal type. 
+An evaluation of the type of food taken together with clinical trial formulation 
+ in pivotal 
+Study VBP15-004 on the day of PK sampling confirmed that more than 90% (75/83) of the 
+pediatric subjects ages 4 to 7 years took the medication as recommended with a meal that 
+contained at least 8 g fat. Even though age-appropriate meal sizes for pediatric patients do not 
+exist, it is reasonable to assume that the low-fat meal used in the BA study (11 grams of fat in 
+adults) is a good approximation of the clinical meal condition. Based on the above, it’s fair to 
+assume that the bridging of the to be marketed formulation should be conducted under fed 
+conditions.
+8.2.1.2. Effect of Food for To-Be-Marketed Formulation 
+The applicant evaluated the effect of food (low-fat meal and high-fat meal) on the PK of 
+vamorolone after administration of the to-be-marketed formulation 
+ in the relative 
+BA and food effect Study VBP15-PK-FORM-002. Fifteen healthy adult subjects received 2.0 
+Reference ID: 5267554
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 111 =====
+
+NDA 215239 
+Agamree (vamorolone)
+95
+Integrated Review Template, version 3.0 (05/25/2022)
+mg/kg vamorolone after an overnight fast and after ingestion of a low-fat/low calorie meal 
+(11 grams of fat, 391 kcal) or after ingestion of a high-fat/high calorie meal (55 to 65 
+grams of fat, 800 to 1000 kcal) in a cross-over design. The GMR of vamorolone Cmax was 
+decreased by 4% and AUCinf was increased by 14% when vamorolone was administered with a 
+low-fat meal compared to when vamorolone was administered under fasted conditions. The 
+GMR of vamorolone Cmax was decreased by 18% and AUCinf was increased by 13% when 
+vamorolone was administered with a high-fat meal compared to when vamorolone was 
+administered under fasted conditions. The median Tmax was increased by one hour when 
+administered with a low-fat meal or a high-fat meal compared to fasted conditions. Overall, these 
+results indicated that vamorolone to-be-marketed formulation was less sensitive to concomitant 
+administration with food. 
+The Applicant evaluated the food effect on vamorolone PK for the to-be-marketed formulation at 
+only 2 mg/kg. Although the applicant did not specifically evaluate the food effect at the highest 
+proposed dose (6 mg/kg), the review team considered certain factors to extrapolate the observed 
+food effect at a lower dose (2 mg/kg) to the highest proposed dose as indicated below:
+1. Dose proportionality – Dose proportional increases in vamorolone exposure in the presence 
+of food were observed with the clinical trial formulation in the dose range of 0.75 to 6 mg/kg. 
+Since dose proportionality is established for the clinical trial formulation (the formulation 
+more sensitive to food) under fed conditions, it is expected that the dose proportionality and 
+hence the food effect will be the same across doses for the market formulation. Furthermore, 
+dose proportional increases in vamorolone exposure under fasted conditions were observed 
+with the to-be-marketed formulation in the dose range of 2 to 6 mg/kg. Since the to-be-
+marketed formulation was shown to be not sensitive to food effects, it is expected that similar 
+dose proportional increases in vamorolone exposure would be observed when administered 
+under fed conditions.
+2. Proportional similarity – The active pharmaceutical ingredients and excipients in the to-be-
+marketed formulation have similar proportions in both the 2 mg/kg and 6 mg/kg doses. For 
+example, in a 20 kg DMD patient, the 6 mg/kg dose would be 3 mL, while the 2 mg/kg dose 
+would be 1 mL. The difference in volume administered is small, indicating that it is unlikely 
+to have a significant impact on the BA of vamorolone when taken with food.
+In summary, although the specific food effect at the highest proposed dose of vamorolone was 
+not directly evaluated, the review team considered available ADME and PK information of the 
+clinical trial and the to-be-marketed formulations to support the assumption that the observed 
+food effect at the lower dose would be similar at the higher dose.
+8.2.1.3. Comparison of Clinical Formulation 
+and To-
+Be-Marketed Formulation 
+ Under 
+Different Meal Types
+Vamorolone PK for the two formulations was evaluated in the relative BA and food effect study 
+VBP15-PK-FORM-002. When given with a low-fat meal, the GMR of vamorolone Cmax was 
+increased by 35% and AUCinf was increased by 14% for the to-be-marketed formulation 
+compared to the clinical trial formulation. When given with a high-fat meal, the GMR of 
+vamorolone Cmax was increased by 14% and AUCinf was increased by ~4% for the to-be-
+marketed formulation compared to the clinical trial formulation. These results indicate that the 
+Reference ID: 5267554
+(b) (4)
+(b) (4)
+
+
+===== PAGE 112 =====
+
+NDA 215239 
+Agamree (vamorolone)
+96
+Integrated Review Template, version 3.0 (05/25/2022)
+vamorolone AUC, but not Cmax was comparable between the clinical trial formulation and the to-
+be-marketed formulation when administered with food irrespective of the meal type. The 
+differences in vamorolone Cmax (35% and 14% higher vamorolone Cmax with the to-be-marketed 
+formulation compared to the clinical trial formulation when given with a low-fat or high-fat 
+meal, respectively) is not considered clinically relevant as vamorolone does not appear to cause 
+any acute AEs that would potentially be driven by Cmax increases of this magnitude (Refer to 
+Section 7.6.2.9.1).
+In summary, the results of the two BA/food effect Studies (VBP15-PK-FORM and VBP15-PK-
+FORM-002) support the change from the clinical trial formulation 
+ to the to-be-marketed 
+Formulation
+. The two formulations show similar AUC profiles under different food 
+conditions that are comparable to the recommendation given to pediatric subjects with DMD in 
+the pivotal study VBP15-004.
+Overall, vamorolone to-be-marketed formulation is less sensitive to food effects and is not 
+associated with gastrointestinal adverse events. These findings suggest that vamorolone can be 
+taken without regards to food. However, prednisolone, a corticosteroid that is commonly used as 
+an off-label drug in clinical practice for DMD subjects, is advised to be taken with food to avoid 
+gastrointestinal irritation. To avoid dosing errors and provide a convenient administration when 
+switched between prednisolone and vamorolone or vice versa, the review team recommends that 
+vamorolone should be taken “preferably with a meal”.
+8.2.2. Drug Interactions
+Effect of Other Drugs on Vamorolone
+CYP3A4 Inhibitors
+In a clinical drug-drug interaction (DDI) Study (VBP15-DDI) conducted with itraconazole to 
+evaluate the effect of CYP3A4 inhibition, on the PK of vamorolone, the GMR of Cmax and 
+AUCinf have increased by 8% and 44%, respectively, when vamorolone suspension was co-
+administered with itraconazole compared to when vamorolone suspension was administered 
+alone. 
+The review team disagrees with the applicant's proposed labeling
+. 
+In the multiple ascending dose study, dose proportionality of vamorolone was established in the 
+range of 1 to 20 mg/kg. Based on this dose proportionality, co-administration of vamorolone 
+with strong CYP3A4 inhibitors would result in increased exposures equivalent to approximately 
+9 mg/kg. Considering that vamorolone has demonstrated dose-dependent adverse events (refer to 
+Section 7.6), the review team recommends reducing the vamorolone daily dose to 4 mg/kg/day, 
+with a maximum daily dose of 200 mg, when it is co-administered with strong CYP3A4 
+inhibitors. The dose can be decreased based on individual tolerability. Clinical DDI studies with 
+moderate and weak CYP3A4 inhibitors were not conducted. However, due to a modest effect 
+(increase in exposures by less than 1.5-fold) with strong CYP3A4 inhibitor, the expected 
+increase in the vamorolone exposures with moderate and weak CYP3A4 inhibitors are not 
+considered to be clinically relevant. 
+Reference ID: 5267554
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 113 =====
+
+NDA 215239 
+Agamree (vamorolone)
+97
+Integrated Review Template, version 3.0 (05/25/2022)
+CYP3A4 Inducers
+Based on the results of VBP15-DDI study, CYP3A4 may be a minor pathway in the elimination 
+of vamorolone. Therefore, clinically significant drug-drug interaction of vamorolone with 
+CYP3A4 enzyme inducers is unlikely. As vamorolone doses up to 2 mg/kg have shown to be 
+efficacious (refer to Sections 6.1 and 6.2), the review team does not recommend any dose 
+adjustments when co-administered with CYP3A4 inducers.
+Non-Specific Enzyme Inducers
+Vamorolone is metabolized by multiple phase I and phase II enzymes, including CYP3A4, 
+CYP3A5, CYP2C8, UGT1A3, and UGT2B7. Therefore, non-specific induction of enzymes 
+involved in vamorolone metabolism by concomitantly administered drugs may result in a 
+decreased vamorolone exposure. However, as doses down to 2 mg/kg have shown to be 
+efficacious (Refer to Sections 6.1 and 6.2), the potential reduction in exposure of the 6 mg/kg 
+dose by 66% is unlikely to compromise efficacy. Therefore, the review team does not 
+recommend any dose adjustments or avoiding the use with inducers of these enzymes.
+Effect of Vamorolone on Other Drugs
+Induction of CYP Enzymes
+In vitro Studies (ADME-VBP-161118-Induction and nbaa-0002-dv-da) evaluating the induction 
+potential of various CYP enzymes have shown vamorolone to induce CYP3A4 in a dose-
+dependent manner, but not CYP1A2, CYP2B6, CYP2C8, and CYP2C9. However, the Applicant 
+indicates that the concentrations required to induce CYP3A4 are approximately 5-fold above the 
+maximum therapeutic concentration and therefore, does not propose any dose adjustments may 
+for concomitantly administered CYP3A4 substrates.
+The review team does not agree with the applicant's proposal. Vamorolone Cmax at the highest 
+therapeutic dose of 6 mg/kg in subjects with DMD is 970 ng/mL (2.72 μM; 
+Cmax,unbound = 0.327 μM). Assuming an expected hepatic drug concentration of ~10µM (30-
+fold of mean unbound maximal steady-state plasma concentration at 6 mg/kg dose from 
+Study VBP15-002), vamorolone may induce CYP3A4 enzymes and reduce the concentrations of 
+concomitantly administered CYP3A4 substrates (Kenny et al. 2018). Furthermore, the to-be-
+marketed formulation had higher Cmax compared to the clinical trial formulation which may 
+further increase the expected hepatic drug concentrations. Therefore, a post-marketing 
+requirement study will be requested to assess the magnitude of CYP3A4 induction and propose 
+appropriate dose adjustments for concomitantly administered CYP3A4 substrates.
+Inhibitor of CYPs and UGTs
+Based on the in vitro studies (
+0399-r35 and adme-vbp-161118-ugt-inhibition), vamorolone is 
+a weak inhibitor of CYP2B6, CYP2C8, CYP2C9, CYP2D6, CYP3A4/5, and UGT1A1 
+(IC50 >50µM) and a clinically significant drug interaction is unlikely.
+Reference ID: 5267554
+(b) (4)
+
+
+===== PAGE 118 =====
+
+NDA 215239 
+Agamree (vamorolone)
+102
+Integrated Review Template, version 3.0 (05/25/2022)
+On November 23, 2020, Type C written responses were provided to discuss the clinical 
+development program to support a planned NDA submission. The Agency informed the Sponsor 
+that their statistical analysis plan appeared reasonable. The Agency gave advice on the proposed 
+CYP3A4 inhibitor study using itraconazole and recommended adding to evaluate CYP3A4 
+inducers with exposure to vamorolone. The Agency agreed the reduced-design hepatic 
+impairment study appeared reasonable and the results from the Study should be submitted with 
+their NDA. 
+On April 29, 2021, a Type C teleconference was held between the Agency and ReveraGen to 
+discuss clinical aspects of the vamorolone development program. The Agency stated 
+comparative dissolution data would not be adequate to bridge Formulations 1,2, and 3, because a 
+suitable dissolution testing method has not been established for the oral suspension product. The 
+statistical review team noted that the sponsor would need to provide justification from literature 
+for using mixed model repeated measures (MMRM) for multiple parameters and should explain 
+how this model is applicable to their case for interpreting 6-minute walk test (6MWT) missing 
+data in Study VBP15-004. 
+On October 19, 2021, a Type B Pre-NDA teleconference was held to discuss the sufficiency and 
+adequacy of clinical data to support a marketing application. The data package would include 
+one controlled phase 2b clinical Study (VBMP15-004, Period 1), three uncontrolled phase 2a 
+Studies (VBP15-002, VBP15-003, and VBP15-LTE), and one controlled study in progress with a 
+longer-duration (VBP15-004, Period 2). The Agency agreed that the efficacy of vamorolone 
+shown in Study VBMP15-004, Period 1, was likely reasonable to support the filing of an NDA. 
+As previously discussed, the need for an adequate pharmacokinetic bridging bioequivalence 
+study would be needed to demonstrate an acceptable bridge between the clinical study 
+formulation and the to-be-marketed formulation. The Agency agreed with the Sponsor’s four-
+month safety update, to include additional safety data from their expanded access program 
+(VBP15-EAP), and from the pharmacokinetic and safety study in an expanded pediatric age 
+group (VBP15-006). 
+On November 22, 2021, the Agency provided written responses to a Type C meeting request to 
+further discuss clinical pharmacology topics from the April 29, 2021, meeting. Based on the 
+Sponsor’s submitted data, the Agency stated the studies conducted may be sufficient to compare 
+the pharmacokinetics between the clinical trial formulation and the to-be-marketed formulation 
+under fed and fasted conditions. The Agency stated that a formal pharmacokinetic bridging 
+bioequivalence study may not be needed, and no additional metabolic characterization would be 
+needed to support the to-be-marketed formulation.
+On December 6, 2021, the Agency issued a Deny Breakthrough Therapy Designation 
+determination because based on the data provided in the request, vamorolone did not 
+demonstrate substantial clinical improvement or safety over existing therapies.  
+On January 20, 2022, a Type B, Pre-NDA, CMC-only, teleconference was held to obtain 
+feedback and agreement on the adequacy of ReveraGen’s quality data to support their planned 
+NDA submission. The Agency reiterated their recommendation that the NDA submission include 
+a minimum of 12 months stability data for three registration batches representative of the 
+commercial process to support the proposed retest date. Since the product is proposed for orphan 
+indications, a limited quantity of drug product for commercialization and concurrent release of 
+Reference ID: 5267554
+
+
+===== PAGE 121 =====
+
+NDA 215239 
+Agamree (vamorolone)
+105
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 44. Exposure Margins at NOEL for Adverse Findings Overall NOAEL and HD
+Target tissue and finding(s)
+NOEL (mg/kg)
+AUC (ng*hr/mL)
+Exposure Margin
+Liver (degeneration/necrosis)
+Mouse **
+10
+2280
+0.6
+Dog *
+10
+2320
+0.6
+Juvenile Mouse *
+15
+5090
+1.4
+Liver (elevated liver enzymes)
+Mouse *
+10
+2280
+0.6
+Dog *
+2
+269
+0.08
+Juvenile Mouse *
+15
+5090
+1.4
+Adrenal (atrophy)
+Mouse **
+<5
+<1000
+<0.3
+Dog **
+2
+269
+0.07
+Juvenile Mouse **
+<15
+<5090
+<1.4
+Lymphoid Tissues & Circulation 
+(lymphocyte depletion)
+Mouse *
+<5
+<1000
+<0.3
+Dog *
+2
+214
+0.06
+Juvenile Mouse *
+<15
+<5090
+<1.4
+Ovaries (absence of corpora lutea)
+Dog **
+<2
+<269
+<0.06
+Testes (Oligospermia)
+Dog **
+10
+2320
+0.6
+Skeletal Muscle (atrophy)
+Dog **
+10
+2320
+0.6
+High Dose Tested
+Mouse
+100
+28150
+7.8
+Dog
+50
+9860
+2.7
+Juvenile Mouse
+100
+19200
+5.5
+Bone (decreased tibial length ~5%)
+Juvenile Mouse
+30
+7960
+2.2
+Overall NOAEL
+Mouse
+<5
+<1000
+<0.3
+Dog
+2 (M)
+<2 (F)
+269
+<269
+0.06
+<0.06
+Juvenile Mouse
+<15
+<5090 
+<1.4
+Source: Reviewer analysis
+Summary Table: Exposure margins at NOEL for adverse findings, overall NOAEL, and HD. Clinical exposure (AUC) used to 
+calculate margins was 3606 ng*hr/mL (exposure at 6 mg/kg; study VBP15-002).
+*= completely revers ble, **= decreased severity and/or incidence at end of recovery period.
+Abbreviations: AUC, area under the concentration time curve; F, female; HD, high dose; hr, hour; M, male; NOEL, no-observed-
+effect level; NOAEL, no-observed-adverse-effect level
+Many vamorolone-related adverse effects observed in the nonclinical studies were consistent 
+with known adverse effects associated with long-term use and/or high doses of corticosteroids, 
+such as cortical atrophy, lymphoid depletion, skeletal muscle atrophy, and suppression of bone 
+formation (Quarles 1992; McKay and Cidlowski 2003; Bodine and Furlow 2015; Stewart and 
+Newell-Price 2016). Other findings included liver necrosis, which was reversible in both mouse 
+and dog; this finding was also monitorable given the elevation of liver function enzymes, such as 
+ALT and GGT, at the end of the dosing period and reversal at the end of the recovery period. 
+The semi-reversible effects on the reproductive tissues in the adult dog, oligospermia in male and 
+absence of corpora lutea in female, are considered to be vamorolone-related. These findings 
+occurred at systemic exposures that were lower than the expected clinical exposure in humans at 
+the recommended clinical dose of 6 mg/kg. The finding of oligospermia is adequately described 
+Reference ID: 5267554
+
+
+===== PAGE 130 =====
+
+NDA 215239 
+Agamree (vamorolone)
+114
+Integrated Review Template, version 3.0 (05/25/2022)
+Source: Summary of Clinical Pharmacology, Table 1
+Abbreviations: DMD, Duchenne muscular dystrophy; ID, Identification; MAD, multiple ascending dose; n, number of patients; PK, 
+pharmacokinetic; PD, pharmacodynamic; QD, once a day; SAD, single ascending dose
+Study VBP15-001 to Evaluate the Safety and Tolerability, and Pharmacokinetics After 
+Single Ascending Dose and Multiple Ascending Doses in Healthy Adult Subjects
+Single Ascending Doses
+The Study evaluated six dose levels (0.1, 0.3, 1, 3, 8, and 20 mg/kg) of vamorolone administered 
+under fasted conditions and one dose level (8 mg/kg) of vamorolone administered under high-fat 
+fed condition. Serial blood samples for the PK analysis were conducted up to 72-hours post-dose. 
+Vamorolone Cmax and AUC increased in a dose proportional manner (Table 53). Administration 
+of vamorolone with a high calorie/high fat meal increased the extent of absorption (Table 54). 
+Single doses of 8 mg/kg showed signs of adrenal suppression.
+Reference ID: 5267554
+
+
+===== PAGE 131 =====
+
+NDA 215239 
+Agamree (vamorolone)
+115
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 53. Plasma PK Parameters of Vamorolone on Day 1 – SAD PK Population
+Dose
+Cmax (ng/mL)
+Mean (%CV)
+AUC0-t (ng.h/mL)
+Mean (%CV)
+Tmax (h)
+Median (Range)
+0.1 mg/kg (N=6)
+13.1 (12.8)
+41.9 (16.8)
+1.5 (1.50 – 2.03)
+0.3 mg/kg (N=6)
+50.8 (16.5)
+161 (15.9)
+1.5 (1.00 – 3.00)
+1 mg/kg (N=6)
+122 (32.8)
+486 (19.7)
+1.75 (1.00 – 3.00)
+3 mg/kg (N=6)
+305 (24.4)
+1,577 (20.7)
+1.75 (1.00 – 2.00)
+8 mg/kg (N=6)
+718 (42.5)
+3,997 (55.0)
+1.78 (1.00 – 2.00)
+20 mg/kg (N=6)
+1,648 (16.7)
+8,545 (29.5)
+1.5 (1.00 – 3.03)
+Source: Adapted from Clinical Study Report VBP15-001, Table 10
+Abbreviations: AUC0-t, area under the concentration-time curve from 0 to last evaluable time point; Cmax, maximum plasma 
+concentration; CV, Coefficient of variation; h, hour; N, number of patients; PK, pharmacokinetic; SAD, single ascending dose; Tmax, 
+time to achieve maximum concentration
+Table 54. Plasma PK Parameters of 8 mg/kg Vamorolone Under Fed and Fasted Conditions
+Dose
+Cmax (ng/mL)
+Mean (%CV)
+AUC0-t (ng.h/mL)
+Mean (%CV)
+Tmax (h)
+Median (range)
+Fasted (N=6)
+718 (42.5)
+3,997 (55.0)
+1.78 (1.00 – 2.00)
+Fed (N=6)
+1,817 (31.4)
+10,139 (25.1)
+4.00 (2.00 – 6.00)
+Source: Adapted from Clinical Study Report VBP15-001, Table 11
+Abbreviations: AUC0-t, area under the concentration-time curve from 0 to last evaluable time point; Cmax, maximum plasma 
+concentration; CV, Coefficient of variation; h, hour; N, number of patients; PK, pharmacokinetic; Tmax, time to achieve maximum 
+concentration
+Multiple Ascending Doses
+The Study evaluated four dose levels (1, 3, 9, and 20 mg/kg) of vamorolone administered under 
+fasting conditions once-daily for 14 days. Serial blood samples for the PK analysis were 
+conducted up to 24 hours on Day 1 and Day 14. Plasma Cmax and AUC increased in an 
+approximately dose-proportional manner (Table 55). No accumulation of vamorolone was 
+observed after multiple doses relative to a single dose.
+Table 55. Plasma PK Parameters of Vamorolone on Day 14 – MAD PK Population
+Dose
+Cmax (ng/mL)
+Mean (%CV)
+AUC0-24 (ng.h/mL)
+Mean (%CV)
+Tmax (h)
+Median (Range)
+1 mg/kg (N=6)
+203 (30.1)
+795 (22.4)
+3.00 (1.00 – 3.00)
+3 mg/kg (N=6)
+276 (35.6)
+1,494 (18.6)
+2.50 (1.00 – 4.00)
+9 mg/kg (N=6)
+935 (48.3)
+4,366 (20.2)
+1.25 (0.55 – 3.00)
+20 mg/kg (N=5)
+2,491 (27.9)
+9,309 (38.8)
+2.00 (1.00 – 2.00)
+Source: Adapted from Clinical Study Report VBP15-001, Table 12
+Abbreviations: AUC0-24, area under the concentration-time curve from 0 to 24 hours; Cmax, maximum plasma concentration; CV, 
+coefficient of variation; h, hour; N, number of patients; PK, pharmacokinetic; MAD, multiple ascending dose ; Tmax, time to achieve 
+maximum concentration
+Study VBP15-MB 
+Study VBP15-MB was an open-label study to assess the absorption, metabolism, excretion, and 
+mass balance of 6 mg/kg (~100 microcuries) [14C]-vamorolone in six healthy adult male 
+subjects administered after a high-fat breakfast. Approximately, 76% of administered dose was 
+recovered with 48.2% and 27.9% excreted in urine and feces, respectively. Four major 
+circulating glucuronide metabolites were identified accounting for 95.2% of signal in plasma and 
+a total of 36% of dose excreted in urine. The major vamorolone metabolites in plasma over 
+24 hours is the direct glucuronide M5 (M532/M533 based on mass), representing 32.5% of the 
+Reference ID: 5267554
+
+
+===== PAGE 132 =====
+
+NDA 215239 
+Agamree (vamorolone)
+116
+Integrated Review Template, version 3.0 (05/25/2022)
+signal in the sample. The second most abundant metabolite in plasma is M10 (M534/M535 based 
+on mass), which is formed from vamorolone by hydrogenation and glucuronidation and 
+represents 23.3% of the signal in the sample. M10 is further hydrogenated to yield two 
+glucuronides with a mass of 537: M6 represents 18.8% of signal and M8 represents 20.6% of 
+signal. Unchanged vamorolone represented 4.4% of the signal in plasma and 0.4% of dose 
+excreted in urine.
+Study VBP15-DDI
+Study VBP15-DDI was an open-label, drug interaction study to evaluate the effect of 
+itraconazole, a strong CYP3A4 inhibitor, on the pharmacokinetics of vamorolone in healthy male 
+and female subjects. 2 mg/kg/day of vamorolone was administered under fasting conditions. Cmax 
+and AUCinf of vamorolone increased by 8% and 44% in the presence of itraconazole when 
+compared to vamorolone administered alone (Table 56).
+ Table 56. Effect of Itraconazole on Vamorolone Pharmacokinetics
+PK Parameter
+LS GMR (90% CI)
+Cmax
+1.080 (0.948,1.230)
+AUC0-tlast
+1.454 (1.309,1.615)
+AUC0-inf
+1.443 (1.303,1.599)
+Source: Adapted from Clinical Study Report VBP15-DDI, Table 9
+Abbreviations: AUC0-inf, area under the plasma concentration-time curve from time 0 to infinity; AUC0-tlast, area under the plasma 
+concentration-time curve from time 0 to the final time with a concentration above the limit of quantitation; CI, confidence interval; 
+Cmax, maximum observed plasma concentration; GMR, geometric mean ratio; LS, least squares; PK, pharmacokinetic
+Study VBP15-HI
+Study VBP15-HI was an open-label, parallel-group study to evaluate the effect of moderate 
+hepatic impairment (Child-Pugh B) on the pharmacokinetics of vamorolone. The Study 
+enrolled eight subjects with moderate hepatic impairment (HI) and eight healthy subjects 
+matched for age, sex, and weight. A single vamorolone dose of 2 mg/kg was given within 30 
+minutes after giving a low-fat meal. Vamorolone exposure in subjects with moderate HI was 
+higher than in healthy subjects given the same dose. The average Cmax (geometric mean) was 
+approximately 1.7-fold higher and AUC0-inf was increased by approximately 2.6-fold (Table 57). 
+The vamorolone half-life was higher in subjects with moderate HI compared to matched 
+healthy subjects (3.87 hours versus 2.25 hours).
+Table 57. Effect of Moderate Hepatic Impairment on Vamorolone Pharmacokinetics
+PK Parameter
+LS GMR (90% CI)
+Cmax
+1.653 (1.214,2.253)
+AUC0-tlast
+2.571 (1.837,3.598)
+AUC0-inf
+2.555 (1.828,3.598)
+Source: Reviewer’s Analysis
+Abbreviations: AUC0-inf, area under the plasma concentration-time curve from time 0 to infinity; AUC0-tlast, area under the plasma 
+concentration-time curve from time 0 to the final time with a concentration above the limit of quantitation; CI, confidence interval; 
+Cmax, maximum observed plasma concentration; GMR, geometric mean ratio; LS, least squares; PK, pharmacokinetic
+Study VBP15-FORM
+Study VBP15-FORM was an open label, cross-over, relative bioavailability study that compared 
+the vamorolone pharmacokinetics of two intended to-be-marketed formulations with different 
+particle sizes 
+ compared to the clinical trial formulation. The clinical trial 
+Formulation and the intended to-be-marketed Formulations also differed in the route of 
+Reference ID: 5267554
+(b) (4)
+
+
+===== PAGE 133 =====
+
+NDA 215239 
+Agamree (vamorolone)
+117
+Integrated Review Template, version 3.0 (05/25/2022)
+synthesis. A single dose of 6 mg/kg of vamorolone was administered to 12 healthy subjects 
+under fasted conditions in each treatment period. Cmax and AUCinf of vamorolone for the to-be-
+marketed Formulation with 
+ particle size were 32% and 43% lower, respectively compared 
+to the clinical trial Formulation (Table 58). Cmax and AUCinf of vamorolone for the to-be-
+marketed Formulation with 
+ particle size were 94% and 179% higher, respectively compared 
+to the clinical trial Formulation (Table 59). These results indicated that vamorolone exposures 
+were higher with the intended to-be-marketed Formulation with 
+ particle size and lower with 
+the intended to-be-marketed Formulation with 
+ particle size when compared to the clinical 
+trial Formulation under fasted conditions.
+Table 58. Effect of To-Be-Marketed Formulation With
+ Particle Size on Vamorolone PK 
+Compared to Clinical Trial Formulation
+PK Parameter
+% LS GMR (90% CI)
+Cmax
+68.32 (56.02,83.31)
+AUC0-tlast
+57.31 (48.53,67.69)
+AUC0-inf
+57.09 (48.27,67.53)
+Source: Adapted from Clinical Study Report VBP15-FORM, Table 10
+Abbreviations: AUC0-inf, area under the plasma concentration-time curve from time 0 to infinity; AUC0-tlast, area under the plasma 
+concentration-time curve from time 0 to the final time with a concentration above the limit of quantitation; CI, confidence interval; 
+Cmax, maximum observed plasma concentration; GMR, geometric mean ratio; LS, least squares; PK, pharmacokinetic
+Table 59. Effect of To-Be-Marketed Formulation With
+ Particle Size on Vamorolone PK 
+Compared to Clinical Trial Formulation
+PK Parameter
+% LS GMR (90% CI)
+Cmax
+279.00 (224.88,346.13)
+AUC0-tlast
+194.38 (164.99,229.01)
+AUC0-inf
+191.98 (163.35,225.63)
+Source: Adapted from Clinical Study Report VBP15-FORM, Table 10
+Abbreviations: AUC0-inf, area under the plasma concentration-time curve from time 0 to infinity; AUC0-tlast, area under the plasma 
+concentration-time curve from time 0 to the final time with a concentration above the limit of quantitation; CI, confidence interval; 
+Cmax, maximum observed plasma concentration; GMR, geometric mean ratio; LS, least squares; PK, pharmacokinetic
+Study VBP15-FORM-002
+Study VBP15-FORM was an open label, relative bioavailability and food effect study that 
+compared the to-be-marketed Formulation 
+ with the clinical trial Formulation 
+under various food conditions (low-fat and high-fat meal) along with the effect of food on the 
+proposed to-be-marketed Formulation. A single dose of 2 mg/kg of vamorolone was 
+administered to 15 healthy male subjects in each treatment period. The low-fat meal was 
+comprised of approximately 421 kcal with 25% kcal from fat and the high-fat meal was 
+comprised of approximately 920 kcal, with 57% from fat, 16.1% from carbohydrates, and 16% 
+from protein. Serial blood samples for PK analysis were collected up to 24 hours. When given 
+with a low-fat meal, the Cmax and AUCinf of vamorolone for the to-be-marketed Formulation 
+were approximately 35% and 14% higher, respectively compared to the clinical trial Formulation 
+(Table 60). When given with a high-fat meal, the Cmax and AUCinf of vamorolone for the to-be-
+marketed Formulation were approximately 14% and 4% higher, respectively compared to the 
+clinical trial Formulation (Table 61).
+When given with a low-fat meal, vamorolone Cmax decreased by 4% and AUCinf increased by 
+14% for the to-be-marketed Formulation when compared with fasted conditions (Table 62). 
+When given with a high-fat meal, vamorolone Cmax decreased by 18% and AUCinf increased by 
+13% for the to-be-marketed Formulation when compared with fasted conditions (Table 63). 
+Reference ID: 5267554
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 134 =====
+
+NDA 215239 
+Agamree (vamorolone)
+118
+Integrated Review Template, version 3.0 (05/25/2022)
+Overall, when the marketed Formulation of vamorolone was given at a dose of 2 mg/kg, along 
+with food (either a low-fat meal or a high-fat meal), it resulted in a decrease in the maximum 
+concentration (Cmax) of the drug, but did not affect the overall amount of drug absorbed into the 
+body, as indicated by the values of AUC0-tlast and AUC0-inf. In summary, concomitant 
+administration of food had a small effect on the proposed to-be-marketed Formulation compared 
+to fasting administration, regardless of whether it was administered after a low-fat or high-fat 
+meal.
+The Office of Study Integrity and Surveillance inspected the clinical site where the Study was 
+conducted and found that the study drug was administered in less than 30 minutes after the start 
+of their meal as opposed to 30 minutes after the start of the meal as stated in the protocol. This 
+deviation was reported in 14 subjects who received the study drug in less than 30 minutes after 
+the start of the meal, ranging from 19 to 29 minutes after the start of the meal. However, this 
+deviation is not expected to have significant impact on the interpretation of the results from the 
+Study VBP15-FORM-002.
+Table 60. Vamorolone Pharmacokinetics of the To-Be-Marketed Formulation When Given With a 
+Low-Fat Meal Compared to the Clinical Trial Formulation
+PK Parameter
+% LS GMR (90% CI)
+Cmax
+134.78 (118.39,153.44)
+AUC0-tlast
+114.23 (104.00,125.47)
+AUC0-inf
+114.11 (103.90,125.31)
+Source: Adapted from Clinical Study Report VBP15-FORM-002, Table 11
+Abbreviations: AUC0-inf, area under the plasma concentration-time curve from time 0 to infinity; AUC0-tlast, area under the plasma 
+concentration-time curve from time 0 to the final time with a concentration above the limit of quantitation; CI, confidence interval; 
+Cmax, maximum observed plasma concentration; GMR, geometric mean ratio; LS, least squares; PK, pharmacokinetic
+Table 61. Vamorolone Pharmacokinetics of the To-Be-Marketed Formulation When Given With a 
+High-Fat Meal Compared to the Clinical Trial Formulation
+PK Parameter
+% LS GMR (90% CI)
+Cmax
+113.77 (97.36,132.95)
+AUC0-tlast
+103.75 (95.30,112.93)
+AUC0-inf
+103.50 (95.19,112.53)
+Source: Adapted from Clinical Study Report VBP15-FORM-002, Table 11
+Abbreviations: AUC0-inf, area under the plasma concentration-time curve from time 0 to infinity; AUC0-tlast, area under the plasma 
+concentration-time curve from time 0 to the final time with a concentration above the limit of quantitation; CI, confidence interval; 
+Cmax, maximum observed plasma concentration; GMR, geometric mean ratio; LS, least squares; PK, pharmacokinetic
+Table 62. Effect of Low-Fat Meal on Vamorolone Pharmacokinetics Given as To-Be-Marketed 
+Formulation Compared to Fasted Conditions
+PK Parameter
+% LS GMR (90% CI)
+Cmax
+96.14 (77.89,118.67)
+AUC0-tlast
+114.23 (101.68,128.32)
+AUC0-inf
+114.07 (101.89,127.70)
+Source: Adapted from Clinical Study Report VBP15-FORM-002, Table 12
+Abbreviations: AUC0-inf, area under the plasma concentration-time curve from time 0 to infinity; AUC0-tlast, area under the plasma 
+concentration-time curve from time 0 to the final time with a concentration above the limit of quantitation; CI, confidence interval; 
+Cmax, maximum observed plasma concentration; GMR, geometric mean ratio; LS, least squares; PK, pharmacokinetic
+Reference ID: 5267554
+
+
+===== PAGE 135 =====
+
+NDA 215239 
+Agamree (vamorolone)
+119
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 63. Effect of High-Fat Meal on Vamorolone Pharmacokinetics Given as To-Be-Marketed 
+Formulation Compared to Fasted Conditions
+PK Parameter
+% LS GMR (90% CI)
+Cmax
+81.92 (63.73,105.31)
+AUC0-tlast
+113.09 (100.03,127.86)
+AUC0-inf
+112.96 (100.32,127.21)
+Source: Adapted from Clinical Study Report VBP15-FORM-002, Table 12
+Abbreviations: AUC0-inf, area under the plasma concentration-time curve from time 0 to infinity; AUC0-tlast, area under the plasma 
+concentration-time curve from time 0 to the final time with a concentration above the limit of quantitation; CI, confidence interval; 
+Cmax, maximum observed plasma concentration; GMR, geometric mean ratio; LS, least squares; PK, pharmacokinetic
+Study VBP15-002
+Study VBP15-002 was an open-label, multiple ascending dose study that evaluated the safety, 
+tolerability, pharmacokinetics, pharmacodynamics, and exploratory efficacy of vamorolone in 
+boys ages 4 to <7 years with Duchenne muscular dystrophy. Twelve subjects in each of the 
+evaluated four dose levels (0.25, 0.75, 2, and 6 mg/kg) completed the Study. Vamorolone was 
+administered as an oral suspension, with 8 ounces of whole milk (or its equivalent in fat) once-
+daily for 14 days. Serial blood samples for the PK analysis were conducted up to 8 hours on 
+Day 1 and Day 14. The Cmax and AUCinf values increased in a linear manner with increasing 
+doses on Day 1 and Day 14 (Table 64). Minimal or no accumulation of vamorolone in plasma 
+was observed with once-daily dosing. The AUCinf and Cmax values were slightly higher for 
+Day 14 compared to Day 1 PK, with moderate inter-subject variability. The analysis of 
+metabolites showed that two significant glucuronide metabolites were present in the plasma, 
+which were the primary components related to the drug. These metabolites were found to be 
+similar to the ones identified in the mass balance Study (VBP15-MB). 
+Table 64. Plasma PK Parameters of Vamorolone on Day 14 – MAD PK Population
+Dose
+Cmax (ng/mL)
+Mean (SD)
+AUC0-inf (ng.h/mL)
+Mean (SD)
+Tmax (h)
+Median (Range)
+0.25 mg/kg (N=12)
+32.2 (15.2)
+164 (61)
+4 (2-8)
+0.75 mg/kg (N=12)
+124.7 (42.5)
+544 (155)
+3 (1-8)
+2 mg/kg (N=12)
+252.5 (96)
+1138 (467)
+2 (2-4)
+6 mg/kg (N=12)
+970 (270)
+3606 (897)
+2 (1-4)
+Source: Adapted from Clinical Study Report VBP15-001, Table 12
+Abbreviations: AUC0-inf, area under the concentration-time curve from 0 to infinity; Cmax, maximum plasma concentration; h, hour; 
+MAD, multiple ascending dose; N, number of patients; PK, pharmacokinetic; SD, Standard Deviation; Tmax, time to achieve 
+maximum concentration
+Study VBP15-006
+Study VBP15-006 was a phase 2 open-label, multiple dose study that evaluated the safety, 
+tolerability, pharmacokinetics, pharmacodynamics, clinical efficacy, behavior and 
+neuropsychology, and physical functioning of vamorolone 2 and 6 mg/kg administered daily 
+over a treatment period of 12 weeks in boys ages 2 to <4 years and 7 to <18 years with DMD. 
+Body weight and age distribution of the subjects who have completed dosing for 2 weeks as of 
+the cut-off date are presented in Table 65. To-be-marketed vamorolone Formulation was 
+administered as an oral suspension in the morning with breakfast. Serial blood samples for the 
+PK analysis were conducted up to 6 or 8 hours on Day 1 and Day 14. The Cmax and partial AUCs 
+(AUC0-6h) observed across both age groups are presented in Section 6.1.2. Similar to 
+Study VBP15-002 study, minimal or no accumulation of vamorolone in plasma was observed 
+with once-daily dosing.
+Reference ID: 5267554
+
+
+===== PAGE 139 =====
+
+NDA 215239 
+Agamree (vamorolone)
+123
+Integrated Review Template, version 3.0 (05/25/2022)
+with the first-order conditional estimation with interaction method in NONMEM, version 7.5.0 
+ was used for the PopPK analysis. Data management and further 
+processing of NONMEM output were performed using R version 3.5.3.
+Table 68. Summary of Studies Included in the PopPK Analysis
+Protocol 
+Title 
+Subjects 
+No. of Subjects
+Dose
+VBP15-001
+Phase 1 SAD and 
+MAD study to 
+evaluate safety 
+and tolerability
+Healthy adult 
+subjects
+66
+0.1, 0.3, 1, 3, 8, 9, 
+and 20 mg/kg
+VBP15-002
+Phase 2 MAD 
+study to evaluate 
+safety and 
+tolerability
+DMD pediatric 
+subjects
+47
+0.25. 0,75, 2, and 
+6 mg/kg
+VBP15-004
+Pivotal Phase 2 
+randomized, 
+double-blind, 
+parallel group, 
+placebo and 
+active-controlled 
+study to evaluate 
+efficacy, safety, 
+PD and PK
+DMD pediatric 
+subjects
+71
+2 and 6 mg/kg
+Source: Reviewer generated table.
+Abbreviations: DMD, Duchenne muscular dystrophy; MAD, multiple ascending dose; PD, pharmacodynamic; PK, pharmacokinetic: 
+PopPK, population pharmacokinetic; SAD, single ascending dose
+Table 69. Summary of Baseline Demographic Data in the Primary Analysis: Continuous Variables
+Overall (N=184)
+Covariate (Unit)
+Mean (SD)
+Median (Min, Max)
+Bodyweight (kg)
+41.5 (29.8)
+22.5 (13.5, 99.6)
+Age (years)
+16.6 (17.2)
+6.00 (4.00, 64.0)
+Estimated GFR (ml/min/1.73 m2)a
+130 (44.1)
+113 (69.6, 238)
+Body mass index (kg/m2)
+19.9 (4.89)
+17.6 (13.6, 31.7)
+Body surface area (m2)
+1.21 (0.593)
+0.850 (0.590, 2.26)
+Dose (mg/kg)
+4.64 (4.84)
+3.00 (0.100, 20.0)
+Months since DMD diagnosisb
+33.9 (19.7)
+32.0 (1.00, 78.0)
+Source: Adapted from applicant’s PopPK report rep-1-snt-vam-phm-1, Page 14, Table 2
+a Includes data from 66 subjects in VBP15-001, 27 subjects in VBP15-002 and 1 subject in VBP15-004
+b Includes data from subjects enrolled in studies VBP15-002 and VBP15-004
+Abbreviations: DMD, Duchenne muscular dystrophy; GFR, glomerular filtration rate; Max, maximum; Min, minimum; min, minute; N, 
+number of patients; PopPK, population pharmacokinetic; SD, standard deviation
+Reference ID: 5267554
+(b) (4)
+
+
+===== PAGE 140 =====
+
+NDA 215239 
+Agamree (vamorolone)
+124
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 70. Summary of Baseline Demographic Data in the Primary Analysis: Categorical Variables
+Covariate
+Levels
+N (Percentage)
+Fasted
+60 (32.6)
+Fed light meal
+118 (64.1)
+Fasted or Fed
+Fed heavy meal
+6 (3.3)
+White
+138 (75)
+Black or African American
+29 (15.8)
+Multiple
+5 (2.7)
+Asian
+7 (3.8)
+Native Hawaiian or other Pacific Islander
+2 (1.1)
+Unknown
+2 (1.1)
+Race
+American Indian or Alaska Native
+1 (0.5)
+Source: Adapted from applicant’s PopPK report rep-1-snt-vam-phm-1, Page 15, Table 3
+Abbreviations: N, number of patients; PopPK, population pharmacokinetic
+Pop PK Model
+A Pop PK approach was used to evaluate the PK of vamorolone in normal healthy subjects and 
+DMD patients. The analysis was performed using two Studies (VBP15-001 and VBP15-002) 
+with intensive PK sampling and one Study (VBP15-004) where sparse PK plasma concentration 
+data was collected after oral dosing.
+The final Pop PK model consisted of one compartment with zero order absorption followed by 
+first order absorption and linear elimination, as illustrated in Figure 17. Bodyweight was 
+included as a predictor of V/F and CL/F with fixed exponents of 1 and 0.75, respectively. Inter-
+individual variability was estimated for the volume of distribution, duration of zero order 
+absorption, and relative bioavailability. An additive residual error model on the log scale was 
+utilized. 
+Figure 17. Schematic Representation of Vamorolone PopPK Model
+Source: Applicant’s PopPK report rep-1-snt-vam-phm-1, Page 26, Figure 11
+Abbreviations: CL/F, the apparent clearance; D1, the duration of zero order absorption; MAT, the mean absorption time; PopPK, 
+population pharmacokinetic; V, volume; V/F, the apparent volume of distribution
+The model building was performed in a stepwise manner. Model development for vamorolone 
+was started with a one-compartment model with zero order absorption and first order 
+elimination. Interindividual variability (IIV) was included on the all the parameters. 
+Later IIV was not supported on CL/F and therefore, was removed from the model. An alternate 
+absorption model with sequential zero order followed by first order absorption significantly 
+improved the estimation of the model parameters and therefore was retained as the base model. 
+Reference ID: 5267554
+
+
+===== PAGE 142 =====
+
+NDA 215239 
+Agamree (vamorolone)
+126
+Integrated Review Template, version 3.0 (05/25/2022)
+Figure 19. Visual Predictive Check for the Final PopPK Model for Vamorolone
+ 
+Source: Applicant’s PopPK report rep-1-snt-vam-phm-1, Page 27, Figure 12
+Notes: The solid line represents the median of the observed data. Shaded regions encompass 90% of the simulated values of the 
+predicted medians and the 5th and 95th percentiles. 
+Abbreviations: CI, confidence interval; DMD, Duchenne muscular dystrophy; h, hour; PopPK, population pharmacokinetic
+Parameter estimates for the final Pop PK model are presented in Table 71. For a typical DMD 
+patient with a body weight of 20 kg following doses of 2 mg/kg or 6 mg/kg in the fed state, the 
+estimated CL/F was 57.89 L/h and V/F was 162.4 L. 
+Table 71. Summary Statistics of Parameter Estimates for the Final PopPK Model
+Source: Applicant’s PopPK report rep-1-snt-vam-phm-1, Page 27, Table 5
+Abbreviations: CV, coefficient of variation; CL/F, apparent clearance; D1, duration of zero order absorption; Frel, relative 
+bioavailability; IIV, interindividual variability; MAT, mean absorption time; OFV, objective function value; PopPK. Population 
+pharmacokinetic; RSE, relative standard error; RUV, residual unexplained variability; SD, standard deviation; SHR, shrinkage; V/F, 
+apparent volume of distribution; WT, weight
+Reference ID: 5267554
+
+
+===== PAGE 149 =====
+
+NDA 215239 
+Agamree (vamorolone)
+133
+Integrated Review Template, version 3.0 (05/25/2022)
+Method: Nonlinear mixed effect PK/PD modeling was conducted using NONMEM v7.5. 
+Maximum effect (Emax) models were applied to all exposure-response (E-R) analysis for efficacy 
+endpoints. Vamorolone’s AUC,t,ss was used as a measure of PK exposures. The efficacy 
+endpoints were analyzed as a change from baseline at 24 weeks in the analysis. The final model 
+was qualified by goodness-of-fit checks and visual predictive checks (VPCs). 
+Results: The Emax models adequately described the vamorolone response, with the Emax 
+parameter estimated separately for each endpoint. A sigmoid Emax model was supported for 
+TTCLIMB. In addition to the effect of vamorolone, there was a placebo response, or disease 
+progression, estimated for TTSTAND and TTCLIMB. The parameter estimates from the final 
+exposure-response models are provided in Table 74. The models were able to reasonably 
+characterize the observed data, as shown in Figure 24.
+Table 74. Population Parameter Estimates of the Final Exposure Response Analysis for Efficacy
+Source: PK-PD report dated May 4, 2022, Table 10
+Abbreviations: AUCss; area under the curve at steady-state; CV, coefficient of variation; NSAA, North Star Ambulatory Assessment; 
+PD, pharmacodynamic; PK, pharmacokinetic; RSE, relative standard error; SHR, shrinkage; TTCLIMB, Time to climb 4-steps test; 
+TTRW, Time to run/walk 10 meters; TTSTAND, Time to stand test; 6MWT, 6-minute walk test
+Reference ID: 5267554
+
+
+===== PAGE 150 =====
+
+NDA 215239 
+Agamree (vamorolone)
+134
+Integrated Review Template, version 3.0 (05/25/2022)
+Figure 24. Visual Predictive Check of the Final Exposure Response Analysis for Efficacy
+Source: PK-PD report dated May 4, 2022, Figure 11
+Abbreviations: CI, confidence interval; Max, maximum; Min, minimum; NSAA, North Star Ambulatory Assessment; PD, 
+pharmacodynamic; PK, pharmacokinetic; TTCLIMB, Time to climb 4-steps test; TTRW, Time to run/walk 10 meters; TTSTAND, 
+Time to stand test; 6MWT, 6-minute wa k test
+Reviewer’s Comments
+Reviewer was able to reproduce the exposure-response models for all efficacy endpoints. The 
+current model kept half maximal effective concentration same for all efficacy endpoints to reduce 
+parameter uncertainty. Overall, the E-R model was reasonable. The E-R model suggested that 
+daily dose of 2 mg/kg (median AUC is ~1000 ng.h/mL) and 6 mg/kg 
+(median AUC ~3200 ng.h/mL) would provide 70% and 90% of the maximal effect respectively. 
+This supported the efficacy at vamorolone dose of 2mg/kg/day. 
+14.5.3. Population PK/PD analysis for Weight Gain 
+14.5.3.1. Applicant’s Analysis
+Objectives: To develop a longitudinal population PK/PD model characterizing the relationship 
+between time varying vamorolone AUCt ,ss and body mass index (BMI) z-score
+Reference ID: 5267554
+
+
+===== PAGE 151 =====
+
+NDA 215239 
+Agamree (vamorolone)
+135
+Integrated Review Template, version 3.0 (05/25/2022)
+Data: The data of 166 subjects from 4 Studies (VBP15-002, VBP15-003, VBP15-LTE and 
+VBP15-004) was used for the analysis. The covariate characteristics of the data is provided in 
+Table 75. 
+Table 75. Summary Statistics of the Subjects of the Final PK/PD Modeling Dataset for Weight Gain
+Source: PK-PD report dated May 4, 2022, Table 5
+Abbreviations: BMI, body mass index; Max, maximum; Min, minimum; MWT6, 6-minute wa k test; N, number of patients; NSAA, 
+North Star Ambulatory Assessment; PD, pharmacodynamic; PK, pharmacokinetic; SD, standard deviation; TTCLIMB, Time to climb 
+4-steps test; TTRW, Time to run/walk 10 meters; TTSTAND, Time to stand test; 6MWT, 6-minute walk test
+Method: Nonlinear mixed effect PK/PD modeling was conducted using NONMEM v7.5. 
+Vamorolone’s AUC,t,ss was used as a measure of PK exposures. Weight gain was measured as 
+BMI Z-scores. Covariate explored included baseline age, TTSTAND, time since diagnosis at 
+baseline, geographical region. Covariate testing was done using stepwise covariate model 
+building procedure (forward selection [p<0.01] and backward elimination [p<0.001]) with 
+adaptive scope reduction (p<0.01). The final model was qualified by goodness-of-fit checks and 
+VPCs. 
+Results: An indirect response model with a linear increase in Kin with increasing vamorolone 
+AUCt,ss best described the longitudinal BMI z-scores. A placebo response was estimated as an 
+increase in Kout t1/2. The impact of prednisone was described as an increase in Kin.
+The parameter estimates of the final longitudinal BMI z-score model are provided in Table 76. 
+The models were able to reasonably characterize the observed data, as shown in Figure 25. 
+Reference ID: 5267554
+
+
+===== PAGE 154 =====
+
+NDA 215239 
+Agamree (vamorolone)
+138
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 77. Summary Statistics of the Subjects of the Final Exposure-Response Analysis for 
+Adverse Events Analysis
+Source: PK-PD report dated May 4, 2022, Table 8
+Abbreviations: BMI, body mass index; Max, maximum; Min, minimum; MWT6, 6-minute wa k test; N, number of patients; NSAA, 
+North Star Ambulatory Assessment; PD, pharmacodynamic; PK, pharmacokinetic; SD, standard deviation; TTCLIMB, Time to climb 
+4-steps test; TTRW, Time to run/walk 10 meters; TTSTAND, Time to stand test; 6MWT, 6-minute walk test
+Method: The analysis was conducted using NONMEM v7.5. Key adverse effects explored 
+included behavior and socialization disturbances, cushingoid features, gastrointestinal disorders, 
+growth hormone deficiency, skin, and weight gain. Vamorolone’s AUC,t,ss was used as a measure 
+of PK exposure. Due to high shrinkage in absorption related parameters in the model, it was not 
+considered feasible to estimate Cmax,ss for use in the exposure response analyses. Out of these 
+adverse events, exposure-response relationships were observed for cushingoid features and 
+weight gain (Figure 26). Weight gain was described previously using BMI Z-score model. 
+Cushingoid feature is explored using logistic regression model here. The final model was 
+qualified by VPCs. 
+Reference ID: 5267554
+
+
+===== PAGE 155 =====
+
+NDA 215239 
+Agamree (vamorolone)
+139
+Integrated Review Template, version 3.0 (05/25/2022)
+Figure 26. Distribution of Vamorolone AUCt ,ss Across AE Severity Grade
+Source: PK-PD report dated May 4, 2022, Figure 10
+Abbreviations: AUCt,ss, Area Under Curve in a dosing interval at steady state; AE, adverse event; PD, pharmacodynamic; PK, 
+pharmacokinetic
+Results: A linear relationship with AUCt,ss best described the effect of vamorolone on the risk 
+developing cushingoid features. The parameter estimates of the final exposure-response model 
+for cushingoid features are provided in Table 78. The models were able to reasonably 
+characterize the observed data, as shown in Figure 27. 
+Table 78. Population Parameter Estimates of the Final Exposure-Response Model for Cushingoid 
+Features
+Source: PK-PD report dated May 4, 2022, Table 12
+Abbreviations: PD, pharmacodynamic; PK, pharmacokinetic; RSE, relative standard error; SHR, shrinkage
+Reference ID: 5267554

@@ -1,0 +1,2135 @@
+
+
+===== PAGE 10 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+9
+Table 89: Final Population PK Parameters of Full model of Binimetinib. ...................................235
+Table 90: Summary of Exposure Metrics of Binimetinib Administered in Combination with 
+Encorafenib in COLUMBUS study. ..............................................................................................240
+Table 91: Baseline Characteristics in Part 1 and Part 2 of Study CMEK162B2301......................242
+Table 92: HRs of Dose Comparison and Significant Baseline Covariates of Final D-R Model of PFS.
+....................................................................................................................................................244
+Table 93: HRs of Dose Comparison and Significant Baseline Covariates of Final D-R Model of OS.
+....................................................................................................................................................247
+Table 94: Parameter Estimates of Final D-R Model of General Safety Events Comparing Combo 
+450 to Mono (P1), Combo 400 to Mono (P2) and Combo 450 to Combo 300...........................249
+Table 95: Parameter Estimates of Final Encorafenib E-R Model of ORR. ...................................253
+Table 96: Crude ORR Rates in Patients with Different Encorafenib Exposure Quartiles. ...........254
+Table 97: Parameter Estimates of Final Encorafenib E-R Model of Time to PFS. .......................254
+Table 98: Parameter Estimates of Final Encorafenib E-R Model of Time to OS. ........................256
+Table 99: Parameter Estimates of Final Encorafenib E-R Model of Time to Evaluated General 
+Safety Event................................................................................................................................258
+Table 100: Parameter Estimates of Final Encorafenib E-R Model of Time to Evaluated Safety 
+Event of Special Interest.............................................................................................................259
+Table 101: The Rates of Evaluated Safety Events in Patients with Low or High Encorafenib 
+Exposure and the HR in Risks Comparing Patients with Low Exposure to Patients with High 
+Exposure.....................................................................................................................................260
+Table 102: Parameter Estimates of Final Binimetinib E-R Model of ORR...................................261
+Table 103: Crude ORR Rates in Patients with Different Binimetinib Exposure Quartiles...........261
+Table 104: Parameter Estimates of Final Binimetinib E-R Model of Time to PFS.......................262
+Table 105: Parameter Estimates of Final Binimetinib E-R Model of Time to OS. .......................264
+Table 106: Parameter Estimates of Final Binimetinib E-R Model of Time to Evaluated General 
+Safety Event................................................................................................................................266
+Table 107: Parameter Estimates of Final Binimetinib E-R Model of Time to Evaluated Safety 
+Event of Special Interest.............................................................................................................267
+Table 108: The Rates of Evaluated Safety Events in Patients with Low or High Binimetinib 
+Exposure and the HR in Risks Comparing Patients with Low Exposure to Patients with High 
+Exposure.....................................................................................................................................268
+Table 109. Summary of the predicted vs. observed AUC and Cmax ratios with or without the 
+presence of posaconazole, a strong CYP3A4 inhibitor. PE: prediction error..............................275
+Table 110. Summary of the predicted vs. observed AUC and Cmax ratios with or without the 
+presence of diltiazem, a moderate CYP3A4 inhibitor. PE: prediction error. ..............................276
+Table 111. Predicted effect of CYP3A4 inhibitors on encorafenib exposures in cancer patients
+....................................................................................................................................................276
+Table 112. Key physicochemical and biopharmaceutical parameters for encorafenib used in 
+GastroPlus simulations ...............................................................................................................277
+Table 113. Predicted versus observed DDI effects of posaconazole on midazolam...................279
+Table 114. Predicted versus observed DDI effects of diltiazem on midazolam..........................279
+Table 115: Patient Disposition in Part 2 of COLUMBUS, including pooled Encorafenib Group..280
+Reference ID: 4282494
+
+
+===== PAGE 17 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+16
+Glossary 
+ADaM
+Analysis Data Model
+ACAT™
+Advanced Compartmental Absorption and Transit Model
+ADME
+absorption, distribution, metabolism, excretion 
+ADR
+adverse drug reaction
+AE
+adverse event
+AESI
+adverse event of special interest
+AJCC
+American Joint Committee on Cancer
+ALP
+alkaline phosphatase
+ALT
+alanine aminotransferase
+AR
+adverse reaction
+AST
+aspartate aminotransferase
+AUC
+area under the curve
+BID
+twice daily
+BIRC
+blinded independent review committee
+BLA
+biologics license application
+BORR
+best objective response rate  
+BP
+blood pressure
+BPM
+beats per minute
+CDRH
+Center for Devices and Radiological Health
+CDTL
+Cross-Discipline Team Leader
+CFR
+Code of Federal Regulations
+CI
+confidence interval
+Cmax
+maximum concentration
+CMC
+chemistry, manufacturing, and controls
+CNS
+central nervous system
+CORR
+confirmed objective response rate
+CP
+cross point
+CPK
+creatine phosphokinase
+CR
+complete response
+CRF
+case report form
+CRO
+contract research organization
+CSR
+clinical study report
+CuSCC
+cutaneous squamous cell carcinoma
+DCR
+disease control rate
+DDI
+drug-drug Interaction
+DHOT
+Division of Hematology Oncology Toxicology
+DMC
+data monitoring committee
+DOR
+duration of response
+D-R
+dose-response
+ECG
+electrocardiogram
+ECHO
+echocardiography
+Reference ID: 4282494
+
+
+===== PAGE 19 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+18
+OSI
+Office of Scientific Investigation
+PBPK
+physiologically based pharmacokinetic
+PD
+progressive disease
+PD
+pharmacodynamics
+PEAR
+population estimates for age-related
+PFS
+progression free survival
+PI
+prescribing information
+PK
+pharmacokinetics
+PMA
+premarket approval
+PMC
+postmarketing commitment
+PMR
+postmarketing requirement
+popPK
+population PK
+PP
+per protocol
+PPI
+patient package insert
+PPS
+per protocol set
+PREA
+Pediatric Research Equity Act
+PRO
+patient reported outcome
+PT
+Preferred Term
+QD
+once daily
+RECIST
+Response Evaluation Criteria in Solid Tumors
+REMS
+risk evaluation and mitigation strategy
+RPED
+retinal pigment epithelium detachment
+RVO
+retinal vein occlusion
+SAE
+serious adverse event
+SAP
+statistical analysis plan
+SAS
+Statistical Analysis Software
+SD
+stable disease
+SDTM
+study data tabulation model
+SMQ
+Standardized MedDRA Query
+SOC
+ system organ class
+TEAE
+treatment emergent adverse event
+TGI
+tumor growth inhibition
+TK
+toxicokinetics
+Tmax
+time drug is present at maximum concentration
+TTD
+time to 10% deterioration
+TTR
+time to objective response
+ULN
+upper limit of normal
+VAI
+voluntary action indicated
+Reference ID: 4282494
+
+
+===== PAGE 36 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+35
+5 Nonclinical Pharmacology/Toxicology
+5.1.
+Executive Summary 
+Encorafenib (LGX818) is an ATP-competitive small molecule kinase inhibitor that has activity 
+against BRAFV600E, and wild type (wt) BRAF and CRAF. In non-cellular biochemical assays, 
+encorafenib prevented BRAFV600E, and wt BRAF and CRAF-mediated activation of MEK1 with 
+inhibitory concentrations (IC50) of approximately 0.35, 0.47, and 0.30 nM, respectively. In 
+cellular anti-proliferation assays, encorafenib inhibited growth of cell lines expressing 
+BRAFV600E with EC50 values of approximately 4 nM, and inhibited phosphorylation of 
+downstream targets ERK1/2 and MEK1/2 with EC50 values of approximately 3 and 2 nM, 
+respectively, greater than 1000-fold lower than the average peak total (bound + unbound) 
+maximum concentration (Cmax) of 3760 ng/mL (6963 nM) in patients treated at the once daily 
+oral dose of 450 mg when used in combination with binimetinib, and ≥ 300-fold lower than the 
+Cmax of approximately 1 μM accounting for 86% human plasma protein binding. Incubation 
+with encorafenib also reduced cellular proliferation in cell lines with BRAF(V600) D and K 
+mutations. In mouse tumor models expressing BRAF(V600E), encorafenib in combination with 
+binimetinib inhibited tumor growth at a greater rate compared to encorafenib or binimetinib 
+alone. In addition, treatment with the combination of encorafenib and binimetinib in a mouse 
+model of implanted BRAFV600E tumors resulted in longer term inhibition of tumor growth 
+compared to either drug alone.
+To assess the safety of encorafenib, the applicant conducted GLP-compliant toxicology studies 
+of up to 13-weeks in Wistar Hannover rats and cynomolgus monkeys. In general, the target 
+organs and toxicities observed in rats and monkeys during the one month and chronic toxicity 
+studies were similar. In the long-term (13-week) rat study, animals received encorafenib once 
+daily by oral gavage at doses of 6, 20, and 60 mg/kg. No test article related deaths occurred. 
+Clinical observations included skin abnormalities (scabbed, dry, flaking, red/white spots, 
+swelling of hind and forepaws and tail) at all dose levels, including the lowest dose of 6 mg/kg 
+(approximately 11 times the clinical exposure of 13.9 μg*h/mL achieved clinically at the 450 mg 
+encorafenib dose in combination with binimetinib). These findings were also present in the 60 
+mg/kg recovery animals after 4-weeks off encorafenib. Skin toxicity is the most common 
+adverse event noted clinically with encorafenib treatment. Minor increases in hematology 
+parameters and clinical chemistry parameters occurred in the 20 and 60 mg/kg doses. The 
+largest change was limited to increased ALT and AST in the 60 mg/kg group of 125-165% 
+compared to controls; liver function test abnormalities were also observed clinically. The male 
+reproductive organs (testis and epididymis) were targets of encorafenib with findings of tubular 
+degeneration, oligospermia, and cellular debris with a trend towards increased severity at the 
+20 and 60 mg/kg doses. The nonglandular stomach was another target organ with epithelial 
+hyperplasia and hyperkeratosis that persisted during the recovery period observed in both male 
+and female animals, at the 60 mg/kg dose. This finding was added to Section 13.2 of the label.
+Reference ID: 4282494
+
+
+===== PAGE 42 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+41
+1932 nM). Synergy score measurements for the LGX818 and MEK162 combination indicated 
+that the combination was more active in BRAF mutants than wt cell lines (median synergy 
+scores of 1.94 vs. 0.91, respectively).
+Figure 2: Anti-proliferative activity of the combination of encorafenib and binimetinib in 
+melanoma and colorectal cancer derived cell lines
+(Excerpted from Study # RD-2011-50576)
+B. In Vivo Studies
+In Study # RD-2011-50045, the applicant evaluated the anti-tumor, pharmacokinetic (PK), and 
+pharmacodynamic (PD) activity of LGX818 in mice bearing human melanoma tumors with 
+BRAF(V600E) mutations. Briefly, female adult nude mice bearing A375 tumors were treated 
+with single oral LGX818 doses of 0.6, 6, or 60 mg/kg then analyzed for both plasma exposure 
+and activity in tumor tissue including levels of pMEK, pERK, and mRNA of downstream 
+transcriptional targets DUSP6 and SPRY4, at different time points. Maximum target inhibition 
+occurred approximately 6 hours post-dose.
+Figure 3: Pharmacokinetic activity of LGX818 in mice A375 tumors
+(Excerpted from Study #RD-2011-50045)
+In an anti-tumor activity study, female nude mice bearing subcutaneous A375 tumors were 
+treated twice daily with LGX818 at 0.6, 6, 60, or 300 mg/kg for 14 days. No mortalities or 
+significant changes in body weight occurred during the study. Tumor regression occurred at all 
+Reference ID: 4282494
+
+
+===== PAGE 47 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+46
+In GLP-compliant Study #PCS-R1170383, radiotelemetry-instrumented male cynomolgus 
+monkeys received single oral doses of LGX818 at 50, 100, and 200 mg/kg using a 4x4 crossover 
+paradigm and a 7-day washout between each dose to assess the effects of LGX818 on 
+cardiovascular parameters. Clinical signs, mortality, systemic blood pressures, heart rate, body 
+temperature, and ECG duration/intervals (PR, RR, QRS< QT, and QTc) were measured prior to 
+each dose and at approximately 30 minutes, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, and 24 hours post 
+dose. Consistent with the in vitro hERG data, treatment with LGX818 at dose levels up to 200 
+mg/kg did not result in QT or QTc prolongation. In addition, doses up to 200 mg/kg did not 
+affect QRS, body temperature, or systemic blood pressure. There were no mortalities and 
+clinical signs were limited to salivation in 2 out of 4 animals at the 200 mg/kg high dose level. 
+Post-dose heart rate increases with maximum differences of 75 bpm (73%) at 11 hours, 82 bpm 
+(82%) at 12.5 hours, and 68 bpm (68%) at 12.75 hours occurred in animals at the 50, 100, and 
+200 mg/kg dose levels, respectively, relative to the concurrent controls, with no dose 
+relationship.
+In GLP-compliant Study #PCS-R1170382, the applicant assessed LGX818 for the potential to 
+induce CNS and respiratory toxicity by administering a single LGX818 dose of 100 mg/kg to male 
+Sprague-Dawley rats followed by completing functional observation batter (FOB) testing (n=10) 
+and respiratory minute volume (RMV) testing (n=5). The FOB was conducted pre-dose, 1, 3, and 
+24 hours post dose. RMV assessment was conducted for 30 minutes pre-dose, continuously 
+from immediate post dose to 1 hour post dose, and for a 30 minute period at 3, 7, and 24 hours 
+post dose. Forelimb grip strength was reduced by 28% 24 hours post dose in LGX818 treated 
+animals compared to controls (p≤0.01, t-test), but not at any other time point.  A single oral 
+dose of LGX818 at 100 mg/kg did not affect other FOB parameter or any respiratory function 
+measures up to 24 hours post dose. 
+5.4.
+ADME/PK 
+Type of Study
+Major Findings
+Absorption
+Study #R1000227: 
+Absorption, metabolism, 
+and excretion in intact 
+and bile duct-cannulated 
+rats after a single 
+intravenous (5 mg/kg) or 
+oral dose (50 mg/kg) of 
+[14C]LGX818
+
+LGX818 elimination occurred primarily through 
+oxidative metabolism and parent drug excretion 
+after IV or oral dosing
+
+LGX818 accounted for 85% of the total plasma 
+AUC
+
+Oral bioavailability was 40-50% in the mouse, rat, 
+and dog and 22% in monkey
+LGX818 in plasma
+Parameter
+Intravenou
+s
+Oral
+Cmax (ng/mL)
+43500
+36400
+Reference ID: 4282494
+
+
+===== PAGE 48 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+47
+Type of Study
+Major Findings
+Study #R1000210: In 
+vitro binding of 
+[14C]LGX818 to blood 
+cells, and serum and 
+plasma proteins in the 
+mouse, rat, dog, monkey 
+and human
+AUCinf
+(h*ng/mL)
+58900
+24500
+0
+Tmax (h)
+0.083
+2-4
+T1/2 (h)
+62
+7.6
+% dose radioactivity recovery 0-168 
+h
+99
+97.4
+Plasma protein binding
+Parameter
+Mean % binding
+Range % binding
+Mouse
+98.6
+98.5-98.7
+Rat
+98.1
+96.4-99
+Dog 
+82.7
+79.3-85.8
+Monkey
+74.6
+65.4-82.2
+Human
+86.1
+84.4-86.8
+Distribution
+Study #R1100588: Tissue 
+distribution following a 
+single oral (50 mg/kg) or 
+intravenous (5 mg/kg) 
+dose of [14C]LGX818 in 
+the rat
+Oral 
+
+Little to no distribution to the CNS
+
+LGX818 rapidly and extensively distributed to the 
+tissues
+
+Cmax was 0.25-2 hours post dose
+
+Highest exposures occurred in bile and liver
+
+All other tissue was below or close to blood values
+
+At 168 h post dose most tissue were below the lower 
+limit of detection except the liver
+Intravenous
+
+Tissue distribution patter was similar to that observed 
+in oral administration
+Cmax ~0.05 hours
+Metabolism
+Study #R1000081: In 
+vitro metabolism of 
+[14C]LGX818 in rat, dog, 
+monkey, and human 
+hepatocytes
+
+Two predominant metabolites occurred in rat and 
+dog: 1) M32.7 (loss of the isopropyl group via N 
+dealkylation); 2) M23.8 (loss of the isopropyl group 
+and the isopropyl-carbamic acid methyl ester side 
+chains via N-dealkylations)
+
+Additional metabolites occurred in monkey: 1) M36.5 
+(monohydroxylated LGX818); 2) M42.5A (LHY746, 
+AR00492720) (loss of the isopropyl-carbamic acid 
+methyl ester side chain via N-dealkylation); 3) M30.6 
+(further oxidation of monohydroxylated LGX818 to a 
+carboxylic acid)
+5 unique human metabolites identified: Significant 
+amounts (<7% of total radioactivity used in the assay) of 
+metabolites M46.3 (monohydroxy LGX818), M38 
+Reference ID: 4282494
+
+
+===== PAGE 68 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+67
+Postmarketing Requirements and Commitments 
+The applicant is requested to conduct the following clinical pharmacology studies as 
+postmarketing commitments (PMC). The PMC studies will be included in the Approval Letter 
+with milestones agreed upon after negotiation with the Applicant.
+PMC or 
+PMR
+Key Issue(s) to be 
+Addressed
+Rationale
+Key Considerations for 
+Design Features
+ PMC
+ PMR
+Determination of an 
+appropriate 
+encorafenib dose for 
+patients with 
+concomitant use of a 
+moderate CYP3A4 
+inducer.
+Physiologically-based 
+pharmacokinetic (PBPK) 
+modeling was used to predict 
+the effect of rifampin (a strong 
+CYP3A4 inducer) on 
+encorafenib steady-state AUC. 
+There was no adequate data 
+to validate this drug-drug 
+interaction model. Labeling 
+recommendation is to avoid 
+concomitant administration 
+of strong or moderate 
+CYP3A4 inducers. The 
+magnitude of decrease in  
+encorafenib systemic 
+exposures by strong  CYP3A4 
+inducers is predicted to be 
+too large to allow for a 
+feasible dose adjustment; 
+therefore, avoidance of 
+coadministration with strong  
+CYP3A4 inducers with 
+encorafenib is 
+recommended. The PMC 
+study results will determine 
+dosage modification when 
+coadministration of a 
+moderate CYP3A4 is 
+unavoidable. 
+Multiple dose encorafenib 
+with and without 
+coadministration of repeat 
+doses of a moderate CYP3A4 
+inducer in patients. 
+ PMC
+ PMR
+Dose adjustment in 
+patients with 
+comedications of CYP 
+substrates whose PK 
+may be affected by 
+encorafenib.
+Based on in vitro studies, 
+encorafenib is an inhibitor of 
+CYP1A2, CYP2B6, CYP2C8, 
+CYP2C9, CYP2D6, and CYP3A 
+and an inducer of CYP2B6, 
+CYP2C9, and CYP3A at 
+clinically relevant plasma 
+concentrations. 
+Repeat doses of encorafenib 
+in patients with and without 
+coadministration of sensitive 
+CYP1A2, CYP2B6, CYP2C9, 
+CYP2C19, CYP2D6, and 
+CYP3A substrates. 
+Reference ID: 4282494
+
+
+===== PAGE 69 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+68
+6.2.Summary of Clinical Pharmacology Assessment
+6.2.1.
+Pharmacology and Clinical Pharmacokinetics
+After a single dose administration of encorafenib, systemic exposure was dose proportional 
+over the dose range of 50 mg to 800 mg. After repeat once a day (QD) doses, systemic exposure 
+was less than dose proportional over the dose range of 50 mg to 800 mg QD. Following 
+encorafenib 450 mg QD, the geometric mean (%CV) steady-state AUC0-tau was 13.1 (35%) 
+mcg∙h/mL and Cmax was 4.0 (49%) mcg/mL with accumulation ratio of 0.4 (52%).  
+Absorption
+The median tmax is 2 hours (range: 0.5-2 hours) following administration of encorafenib 450 mg 
+QD. A standard high-fat meal did not affect encorafenib AUC and Cmax.
+Distribution 
+Encorafenib is 86% bound to human plasma proteins and binding is not concentration-
+dependent. The blood-to-plasma concentration ratio is 0.6. The geometric mean (%CV) 
+apparent volume of distribution (Vd/F) at steady-state is 157 (39%) L.
+Elimination 
+The geometric mean (CV%) apparent clearance of encorafenib is 14 (54%) L/h after a single 
+dose and increases to 32 (59%) L/h at steady-state. The mean terminal half-life (t1/2) is 3.5 (17%) 
+hours. 
+Metabolism
+Encorafenib is primarily metabolized by CYP3A4 (83%) and to a lesser extent by CYP2C19 (16%) 
+and CYP2D6 (1%) in vitro. N-dealkylation was the major metabolic pathway for encorafenib. 
+Following a single 100 mg oral dose of 14C-encorafenib, unchanged encorafenib (27.5%) and its 
+metabolite M42.5A (15.5%) were the major circulating radioactive components. M42.5A 
+inhibited BRAF V600E, wild-type BRAF, and CRAF with 30-fold lower potency than encorafenib 
+in vitro. 
+Excretion
+Following a single 100 mg oral dose of 14C-encorafenib, 39% of the administered dose (5% as 
+unchanged) was recovered in the feces and 47% of the administered dose (1.8% as unchanged) 
+was recovered in the urine. 
+Dose Selection Rationale and Dose- and Exposure-Response Relationships
+Encorafenib 450 mg QD in combination with binimetinib 45 BID (Combo 450) was selected as 
+the recommended Phase 2 dose (RP2D) in the dose escalation trial (Study CMEK162X2110). At 
+encorafenib 600 mg QD with binimetinib 45 mg BID, 3 cases of drug-related grade 3 serum 
+Reference ID: 4282494
+
+
+===== PAGE 71 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+70
+Figure 8), a 2.8-fold increase in exposure is clinically meaningful; therefore, strong CYP3A 
+inhibitors should be avoided. When concomitant use of a strong CYP3A inhibitor is unavoidable, 
+the encorafenib once daily dose should be reduced by approximately two-thirds (i.e., 450 mg to 
+150 mg, 300 mg to 100 mg, or 200 mg to 75 mg). 
+Coadministration of repeat doses of diltiazem (a moderate CYP3A4 inhibitor) with a single dose 
+encorafenib 50 mg increased encorafenib AUC by 1.8-fold (90% CI: 1.6, 2.0) and Cmax by 1.4-fold 
+(90% CI: 1.2, 1.7) as compared with encorafenib administered alone. Based on the D-R 
+relationship for safety (
+Figure 8), a 1.8-fold increase in encorafenib exposure is clinically meaningful; therefore, 
+moderate CYP3A inhibitors should also be avoided. When concomitant use of a moderate 
+CYP3A inhibitor is unavoidable, the encorafenib QD dose should be reduced by approximately 
+one-half (i.e., 450 mg to 225 mg, 300 mg to 150 mg, or 200 mg to 100 mg).
+Outstanding Issues
+The PK and potential decrease in efficacy of encorafenib in patients requiring concomitant use 
+of a strong or moderate CYP3A4 inducer have not been studied clinically. PBPK modeling was 
+used to predict the effect of rifampin (a strong CYP3A4 inducer) on encorafenib steady-state 
+AUC; however, there was no adequate data to validate this DDI model. Given the likelihood that 
+coadministration of strong CYP3A4 inducers would need to be avoided due to the expected 
+magnitude of exposure decrease, a PMC clinical trial is requested to determine dosing 
+recommendations in patients requiring concomitant use of a moderate CYP3A4 inducer. Before 
+the PMC study results become available, the labeling recommends avoidance of both strong 
+and moderate CYP3A inducers.
+Based on in vitro studies, encorafenib is an inhibitor of CYP1A2, CYP2B6, CYP2C8, CYP2C9, 
+CYP2D6, and CYP3A and an inducer of CYP2B6, CYP2C9, and CYP3A at clinically relevant plasma 
+concentrations. A PMC clinical trial is requested to assess the effect of encorafenib on the 
+magnitude of decreased exposures of sensitive CYP1A2, CYP2B6, CYP2C9, CYP2C19, CYP2D6, 
+and CYP3A substrates.    
+Summary of Labeling Recommendations
+Drug-Drug Interactions
+Coadministration of repeat doses of posaconazole (a strong CYP3A4 inhibitor) with a single 
+dose encorafenib 50 mg increased encorafenib AUC by 2.8-fold (90% CI: 2.5, 3.2) and Cmax by 
+1.7-fold (90% CI: 1.5, 1.8) as compared with encorafenib administered alone. Coadministration 
+of repeat doses of diltiazem (a moderate CYP3A4 inhibitor) with a single dose encorafenib 50 
+mg increased encorafenib AUC by 1.8-fold (90% CI: 1.6, 2.0) and Cmax by 1.4-fold (90% CI: 1.2, 
+1.7) as compared with encorafenib administered alone. Based on the D-R for safety (
+Figure 8), both 2.8-fold and 1.8-fold increase in exposure are clinically meaningful; therefore, 
+avoidance of concomitant use of BRAFTOVI with strong or moderate CYP3A inhibitors is 
+Reference ID: 4282494
+APPEARS THIS WAY ON ORIG NAL
+
+
+===== PAGE 72 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+71
+recommended. If concomitant administration of a strong CYP3A inhibitor is unavoidable, the 
+recommended dose reduction is by approximately two-thirds of the once daily BRAFTOVI dose 
+(i.e., 450 mg to 150 mg, 300 mg to 100 mg, or 200 mg to 75 mg). If concomitant administration 
+of a moderate CYP3A inhibitor is unavoidable, the recommended dose reduction is by 
+approximately one-half of the once daily BRAFTOVI dose (i.e., 450 mg to 225 mg, 300 mg to 150 
+mg, or 200 mg to 100 mg). Following discontinuation of a strong or moderate CYP3A inhibitor 
+and after 3-5 half-lives of the CYP3A inhibitor, resume the BRAFTOVI dose that was used before 
+starting the CYP3A4 inhibitor.
+Based on in vitro studies, encorafenib may inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2D6, 
+and CYP3A and induce CYP2B6, CYP2C9, and CYP3A at clinically relevant plasma concentrations. 
+Coadministration of BRAFTOVI with sensitive CYP3A substrates may result in increased toxicity 
+or decreased efficacy of these agents.
+Contraception
+Given that encorafenib has teratogenic potential and BRAFTOVI may cause decreased exposure 
+and efficacy of hormonal contraceptives (primarily metabolized by CYP3A4 and to a lesser 
+extent by CYP2C9/CYP2C19), females of reproductive potential should be advised to use 
+effective non-hormonal contraception during treatment with BRAFTOVI and for 2 weeks after 
+the last dose of BRAFTOVI.
+Organ Impairment
+Following oral administration of a single 100 mg dose of radiolabeled encorafenib to healthy 
+subjects, 47% of the administered dose (5% as unchanged encorafenib) was recovered in the 
+feces and 47% of the administered dose (1.8% as unchanged encorafenib) was recovered in the 
+urine, indicating that encorafenib is eliminated by both hepatic and renal elimination pathways. 
+Encorafenib AUC following a single 50 mg dose was 25% higher in otherwise healthy subjects 
+with mild hepatic impairment (Child-Pugh Class A, n=6) as compared with that in healthy 
+subjects with normal hepatic function (n=6); this magnitude of change in AUC is not considered 
+clinically meaningful. Based on a popPK analysis, encorafenib exposures were similar between 
+59 patients with mild hepatic impairment (total bilirubin within ULN and AST >ULN or total 
+bilirubin >1 and up to 1.5 × ULN and any AST) and 640 patients with normal hepatic function 
+(total bilirubin and AST within ULN), suggesting that no dose adjustment is necessary in patients 
+with mild hepatic impairment. The PK and safety of encorafenib in patients with moderate 
+(total bilirubin >1.5 and up to 3 × ULN and any AST) or severe (total bilirubin >3 × ULN and any 
+AST) hepatic impairment have not been studied. 
+Based on a popPK analysis, encorafenib exposures were similar among 159 patients with mild 
+(CLcr 60 to 89 mL/min) renal impairment, 33 patients with moderate renal impairment (CLcr 30 
+to 59 mL/min), and 508 patients with normal renal function (≥90 mL/min), suggesting that no 
+dose adjustment is necessary in patients with mild to moderate renal impairment. The PK and 
+Reference ID: 4282494
+
+
+===== PAGE 73 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+72
+safety of encorafenib in patients with severe renal impairment (CLcr <30 mL/min) have not 
+been studied.
+6.3.Comprehensive Clinical Pharmacology Review
+6.3.1.
+General Pharmacology and Pharmacokinetic Characteristics
+Over the range of 50 mg to 800 mg, encorafenib (molecular weight of 540 g/mol) exhibits dose 
+proportional exposure after a single dose and less than dose proportional following repeat QD 
+doses. Encorafenib exposures after single and repeat dose are shown in Table 8 and Table 9. A 
+summary of general pharmacology and PK characteristics of encorafenib is shown in Table 10. 
+Table 8. Encorafenib Exposures after a Single Dose and Repeat Doses as a Single Agent in 
+Study CLGX818X2101
+Single Dose
+Repeat Doses
+Geometric Mean 
+AUC0-24h, ng∙h/mL 
+(%CV)
+Geometric Mean 
+Cmax, ng/mL (%CV)
+Geometric Mean 
+AUC0-24h,ss ng∙h/mL 
+(%CV)
+Geometric Mean 
+Cmax,ss ng/mL (%CV)
+50 mg  
+5360 
+n=1
+970
+n=1
+2660
+n=1
+465
+n=1
+100 mg 
+7610 (83%)
+n=5
+1630 (42%)
+n=5
+5330 (37%)
+n=4
+959 (25%)
+n=4
+150 mg 
+9400 (20%)
+n=5
+1570 (29%)
+n=5
+4750 (12%)
+n=5
+1300 (29%)
+n=5
+200 mg 
+9860 (26%)
+n=4 
+1850 (28%)
+n=4
+5060 (36%)
+n=3
+1300 (31%)
+n=3
+300 mg 
+20300 (29%)
+n=5 
+3310 (42%)
+n=5
+10100 (53%)
+n=4
+2920 (34%)
+n=4
+450 mg 
+32800 (69%)
+n=6
+5970 (56%)
+n=6
+13100 (35%)
+n=6
+3950 (49%)
+n=6
+550 mg 
+31700 (45%)
+n=5
+5360 (37%)
+n=5
+15300 (36%)
+n=3
+4170 (49%)
+n=3
+700 mg 
+63900 (1.4%)
+n=2
+8980 (14%)
+n=2
+Not studied 
+Not studied
+Source: CLGX818X2101 Study Report; Tables 11-10 and 11-11; Pages 129-132.
+Reference ID: 4282494
+
+
+===== PAGE 74 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+73
+Table 9. Encorafenib Exposures after a Single Dose and Repeat Doses in Combination with 
+Binimetinib in Study CMEK162X2110
+Single Dose
+Repeat Doses
+Geometric Mean 
+AUC0-24h, ng∙h/mL 
+(%CV)
+Geometric Mean 
+Cmax, ng/mL (%CV)
+Geometric Mean 
+AUC0-24h,ss ng∙h/mL 
+(%CV)
+Geometric Mean 
+Cmax,ss ng/mL (%CV)
+50 mg  
+2890 (105%) 
+n=6
+704 (88%) 
+n=6
+2340 (59%) 
+n=6
+498 (76%) 
+n=6
+100 mg 
+10400 (55%)
+n=5
+1850 (33%)
+n=5
+5370 (27%)
+n=5
+1140 (34%)
+n=5
+200 mg 
+20500 (43%)
+n=4
+3580 (44%)
+n=4
+4470 (38%)
+n=4
+1050 (18%)
+n=4
+400 mg 
+35500 (64%)
+n=5 
+6740 (27%)
+n=5 
+10100 (21%)
+n=5 
+3610 (35%)
+n=5 
+450 mg 
+32200 (54%)
+n=13
+7040 (42%)
+n=13
+13900 (59%)
+n=13
+3760 (63%)
+n=13
+600 mg 
+52200 (46%)
+n=8
+9880 (32%)
+n=8
+23200 (69%)
+n=8
+6970 (123%)
+n=8
+800 mg 
+34300 (42%)
+n=6
+5840 (58%)
+n=6
+23800 (28%)
+n=6
+6110 (47%)
+n=6
+Source: CMEK162X2110 Study Report; Table 12; Page 116.
+Table 10. Summary of General Pharmacology and Pharmacokinetic Characteristics of 
+Encorafenib
+Pharmacology
+Mechanism of Action
+
+Targets kinases in the RAS/RAF/MEK/ERK pathway.
+
+Encorafenib inhibited BRAF V600E, wild-type BRAF, and CRAF with IC50 
+of 0.35, 0.47 and 0.30 nM, respectively. 
+Active Moieties
+Unchanged encorafenib (27.5%) and its active metabolite M42.5A (15.5%) 
+were the major circulating radioactive components following a single 100 
+mg oral dose of 14C-encorafenib; however, M42.5A inhibited BRAF V600E, 
+wild-type BRAF, and CRAF with approximately 30-fold lower potency than 
+encorafenib in vitro.
+QT Prolongation 
+Encorafenib is associated with dose-dependent QTc interval prolongation. 
+In Study CLGX818X2101, 2 hours post-dose on day 15, the mean QTcF 
+change from baseline (ΔQTcF) was 13 ms (90% CI: 7, 19 ms) in patients 
+administered encorafenib 300 mg QD as a single agent (n=13); 20 ms (90% 
+CI: 13, 26 ms) in patients administered encorafenib 450 mg QD as a single 
+agent (n=19). Following administration of encorafenib 450 mg QD in 
+combination with binimetinib 45 mg BID (n=66, Study CLGX818X2109), the 
+mean QTcF change from baseline (ΔQTcF) on day 1 of week 6, 1.5 hours 
+post-dose was 18 ms (90% CI: 14, 22 ms).
+General Information
+Bioanalysis
+Encorafenib was measured using validated LC-MS/MS assay methods over 
+the range of 1 to 5000 ng/mL [Report DMPK R1300047]. Accuracy (%RE) and 
+precision (%CV) of the quality controls (QCs) for the runs used in measuring 
+encorafenib were ≤15%, which are acceptable based on the current 
+Bioanalytical Method Validation Draft FDA Guidance for Industry.
+Reference ID: 4282494
+
+
+===== PAGE 75 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+74
+Healthy vs. Patients
+Based on a popPK analysis, PK between healthy subjects and the target 
+patient population were similar (14% lower clearance in patients).
+Drug Exposure at Steady State 
+Following the Therapeutic Dosing 
+Regimen 
+Coadministration of binimetinib has no effect of encorafenib exposure. The 
+geometric mean (%CV) steady-state AUC0-tau was 13100 (35%) ng∙h/mL 
+following encorafenib 450 mg QD as a single agent, and the AUC0-tau was 
+13900 (59%) ng∙h/mL following encorafenib 450 mg QD in combination with 
+binimetinib.
+Range of Effective Dose or Exposure
+The minimally effective encorafenib dose resulting in mean steady-state 
+trough concentrations that exceed the IC50 for inhibition of BRAF V600E is 
+50 mg. 
+Maximally Tolerated Dose or 
+Exposure
+The maximum tolerated dose (MTD) of encorafenib as a single agent is 300 
+mg QD. The MTD of encorafenib in combination with binimetinib is 450 mg 
+QD.
+Dose Proportionality
+After a single dose of 50 to 800 mg of encorafenib as a single agent, 
+encorafenib exposures were approximately dose proportional with an 
+estimated slope of 0.96 (90% CI: 0.80, 1.12) for AUC0-24h and 0.90 (90% CI: 
+0.76, 1.04) for Cmax using a power model. After repeat doses of 50 to 800 mg 
+QD, exposures were less than dose proportional with an estimated slope of 
+0.75 (90% CI: 0.52, 0.99) for AUCss and 0.85 (90% CI: 0.54, 1.15) for Cmax,ss.
+Accumulation
+The geometric mean (%CV) accumulation ratio following encorafenib 450 
+mg QD was 0.4 (52%).
+Variability
+
+Following encorafenib 450 mg QD as a single agent in patients, the 
+inter-subject variability (CV%) of steady-state AUC0-tau was 35% and Cmax 
+was 49%.
+
+Following encorafenib 450 mg QD in combination with binimetinib in 
+patients, the inter-subject variability (CV%) of steady-state AUC0-tau was 
+59% and Cmax was 63%.
+Absorption
+Bioavailability 
+The extent of oral absorption of encorafenib was 86% based on the 
+radioactive dose recovered in the urine (47%) and the total radioactive dose 
+recovered in the feces as metabolites (39%). 
+Tmax 
+Following encorafenib 450 mg QD, the median tmax is 2 hours (range: 0.5-2 
+hours).
+The food effect study showed that administration of a single 100 mg dose of 
+encorafenib with a high-fat meal does not affect the AUC of encorafenib, 
+supporting the labeling recommendation of taking encorafenib without 
+regards to food. 
+AUC0-∞
+Cmax
+Tmax
+Geometric Mean Ratio 
+[90% CI]
+0.959
+[0.916, 1.0]
+ 
+Geometric Mean Ratio 
+[90% CI]
+0.64
+[0.577, 0.701]
+Increased by a 
+median of 2 hours 
+Food effect a
+(Fed/fasted) 
+a After a high-fat meal consisting of approximately 1000 calories 
+(150 calories from protein, 350 calories from carbohydrates, and 
+500 calories from fat).
+Distribution
+Volume of Distribution 
+Following encorafenib 450 mg QD, the geometric mean (%CV) apparent 
+volume of distribution (Vd/F) of encorafenib at steady-state was 157 (39%) L.
+Reference ID: 4282494
+
+
+===== PAGE 81 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+80
+Based on a popPK analysis, age (19 to 89 years), sex, body weight (41.9 to 167.9 kg), mild 
+hepatic impairment (Child-Pugh Class A), and mild or moderate renal impairment (CLcr 30 to 89 
+mL/min) do not have a clinically meaningful effect on the exposure of encorafenib; therefore, 
+dose adjustments based on these intrinsic factors are not necessary. The effects of 
+race/ethnicity, moderate or severe hepatic impairment (Child-Pugh Class B or C), and severe 
+renal impairment (CLcr ≤ 29 mL/min) on encorafenib PK have not been studied. 
+Are there clinically relevant food-drug or drug-drug interactions, and what is the appropriate 
+management strategy?
+Food-Drug Interactions 
+The effect of food on encorafenib PK was evaluated in a single 100 mg dose, randomized, two 
+period crossover study with a 7-day washout period in 30 healthy subjects who received the 
+100 mg to-be-marketed capsule formulation (Study ARRAY-818-102). The composition of the 
+high-fat meal was consistent with the recommendations in the FDA Food Effect Guidance for 
+Industry (approximately 150 calories from protein, 350 calories from carbohydrates, and 500 
+calories from fat). PK samples were collected from pre-dose to 72 hours post-dose. 
+Administration of a single encorafenib 100 mg dose with a high-fat, high-calorie meal in healthy 
+subjects resulted in no change in AUC and 36% decrease in Cmax and a 2-hour increase in 
+median Tmax as compared to fasted conditions (Table 12). These results support the labeling 
+recommendation of administering encorafenib with or without food.   
+Table 12. PK Parameters of a Single Dose of Encorafenib after a High-Fat Meal as Compared 
+with a Fasted State 
+Geometric Mean (%CV)
+Exposure Parameter
+High-Fat Meal
+ Fasted State 
+Geometric Mean Ratio* 
+(90% CI)
+AUC0-72h (ng∙hr/mL)
+  3129 (42%)
+n=31
+3018 (39%)
+n=31
+0.96
+(0.92, 1.0)
+AUC0-inf (ng∙hr/mL)
+3121 (42%)
+n=30
+3034 (38%)
+n=31
+0.96
+(0.916, 1.0)
+Cmax (ng/mL)
+961.5 (33%)
+n=31
+621.0 (45%)
+n=31
+0.64
+(0.57, 0.70)
+* Encorafenib 100 mg (to-be-marketed capsule formulation) administered with a high-fat meal (test) vs. a 
+fasted state (reference)
+Source: ARRAY-818-102 Final Study Report; Tables 11-2, 11-3; Pages 43, 44.
+Reference ID: 4282494
+
+
+===== PAGE 82 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+81
+Drug-Drug Interactions (DDI)
+Effects of Other Drugs on Encorafenib
+Binimetinib: In vitro studies did not indicate potential for binimetinib to be a DDI perpetrator of 
+encorafenib. Comparison of PK data from Study CMEK162X2110 with those obtained in Study 
+CLGX818X2101 showed that coadministration of encorafenib with binimetinib has no effect on 
+encorafenib exposure (Table 18).
+Strong and Moderate CYP3A Inhibitors: The effects of posaconazole (a strong CYP3A4 inhibitor) 
+and diltiazem (a moderate CYP3A4 inhibitor) on encorafenib PK were evaluated in a single dose, 
+randomized, crossover study with a washout period of 7 days in healthy subjects (Study ARRAY-
+818-105). PK samples for encorafenib were collected from pre-dose to 72 hours post-dose. Of 
+note, subjects received posaconazole oral suspension within 30 minutes of a meal as 
+recommended in the posaconazole labeling with the exception of the day when posaconazole 
+was coadministered with encorafenib in the fasted state. The results showed that 
+coadministration of posaconazole 400 mg BID for 7 days with a single dose of 50 mg 
+encorafenib increased encorafenib AUC by 2.8-fold (90% CI: 2.5, 3.2) and Cmax by 1.7-fold (90% 
+CI: 1.5, 1.8) as compared with encorafenib administered alone (Table 13). Clearance (CL/F) of 
+encorafenib was decreased by 65% from 26 L/h to 9 L/h with coadministration of posaconazole. 
+Based on the dose-response for safety (
+Figure 8), a 2.8-fold increase in encorafenib exposure is clinically significant; therefore, 
+concomitant strong CYP3A inhibitors should be avoided. For patients requiring concomitant use 
+of a strong CYP3A inhibitor, reduce the encorafenib once daily dose by approximately two-
+thirds (i.e., 450 mg to 150 mg, 300 mg to 100 mg, or 200 mg to 75 mg). 
+Reference ID: 4282494
+APPEARS THIS WAY ON ORIGINAL
+
+
+===== PAGE 83 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+82
+Table 13. Comparative Analysis of Encorafenib PK Parameters on Day 1 (Without 
+Posaconazole) and Day 7 (With Posaconazole) 
+Geometric Mean (%CV)
+Exposure parameter
+Encorafenib alone (50 
+mg)
+ Encorafenib (50 mg) 
+with posaconazole (400 
+mg BID for 7 days)
+Geometric Mean 
+Ratio* (90% CI)
+AUC0-72h (ng∙hr/mL)
+2035 (40%) 
+n=16
+5785 (38%)
+n=16
+2.84
+(2.55, 3.17)
+AUC0-inf (ng∙hr/mL)
+2051 (40%)
+n=16
+5812 (38%)
+n=16
+2.83
+(2.54, 3.16)
+Cmax (ng/mL)
+553.5 (33%)
+n=16
+932.1 (31%)
+n=16
+1.68
+(1.54, 1.85)
+* Posaconazole 400 mg BID for 7 days and a single encorafenib 50 mg dose vs. a single encorafenib 50 
+mg dose alone.
+Source: ARRAY-818-105 Final Study Report; Tables 11-3, 11-4; Pages 53, 54. 
+Coadministration of diltiazem XR 240 mg (2 doses on days 1 and 7) with a single dose of 50 mg 
+encorafenib increased encorafenib AUC by 1.8-fold (90% CI: 1.6, 2.0) and Cmax by 1.4-fold (90% 
+CI: 1.2, 1.7) as compared with encorafenib administered alone (Table 14). Clearance (CL/F) of 
+encorafenib was decreased by 45% from 29 L/h to 16 L/h with coadministration of diltiazem. 
+Based on the dose-response for safety (
+Figure 8), a 1.8-fold increase in exposure is clinically significant; therefore, moderate CYP3A 
+inhibitors should also be avoided. For patients requiring concomitant use of a moderate CYP3A 
+inhibitor, reduce the encorafenib once daily dose by approximately one-half (i.e., 450 mg to 225 
+mg, 300 mg to 150 mg, or 200 mg to 100 mg).
+Reference ID: 4282494
+APPEARS THIS WAY ON ORIGINAL
+
+
+===== PAGE 84 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+83
+Table 14. Comparative Analysis of Encorafenib PK Parameters on Day 1 (Without Diltiazem) 
+and Day 7 (With Diltiazem) 
+Geometric Mean (%CV)
+Exposure parameter
+Encorafenib alone (50 
+mg)
+ Encorafenib (50 mg) 
+with diltiazem (240 mg 
+× 2 doses on days 1 and 
+7)
+Geometric Mean 
+Ratio* (90% CI)
+AUC0-72h (ng∙hr/mL)
+1895 (40%) 
+n=16
+3495 (47.9%)
+n=16
+1.84
+(1.68, 2.03)
+AUC0-inf (ng∙hr/mL)
+1882 (42%)
+n=14
+3511 (49.5%)
+n=15
+1.83
+(1.64, 2.03)
+Cmax (ng/mL)
+482.3 (38%)
+n=16
+697.7 (40.5%)
+n=16
+1.45
+(1.24, 1.68)
+* Diltiazem XR 240 mg × 2 doses on days 1 and 7 and a single encorafenib 50 mg dose alone vs. a single 
+encorafenib 50 mg dose alone.
+Source: ARRAY-818-105 Final Study Report; Tables 11-5, 11-6; Pages 57, 58.
+Acid Reducing Agents: The effect of rabeprazole (a proton pump inhibitor) on encorafenib PK 
+were evaluated in a single dose, randomized, crossover study with a washout period of 7 days 
+in 10 healthy subjects (Study ARRAY-162-105). Coadministration of rabeprazole 20 mg QD for 5 
+days with a single dose of 100 mg encorafenib did not change encorafenib AUC or Cmax (Table 
+15). 
+Reference ID: 4282494
+
+
+===== PAGE 88 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+87
+Drug Interactions Associated with Combination Treatment
+Binimetinib is primarily metabolized (61%) by glucuronidation (UGT1A1, UGT1A3, UGT1A9) and 
+to a lesser extent by CYP1A2 and CYP2C19. Encorafenib is an inhibitor of UGT1A1, CYP1A2 and 
+CYP2C19 in vitro. The PK of encorafenib and binimetinib administered in combination in Study 
+CMEK162X2110 were compared with those obtained in the respective single agent studies 
+(Study CLGX818X2101 for encorafenib and Study CMEK162X2201 for binimetinib). Binimetinib 
+steady-state AUC was 15% higher following combination treatment as compared with 
+binimetinib alone, which is not considered clinically meaningful. Binimetinib does not affect the 
+PK of encorafenib.
+Table 18. Comparison of Encorafenib and Binimetinib Exposures Following Combination 
+Treatment and Single Agents
+Single Dose
+Repeat Doses
+Geometric Mean 
+AUCtau, ng∙h/mL 
+(%CV)
+Geometric Mean 
+Cmax, ng/mL 
+(%CV)
+Geometric Mean 
+AUCtau,ss ng∙h/mL 
+(%CV)
+Geometric Mean 
+Cmax,ss ng/mL 
+(%CV)
+Encorafenib Exposures
+Encorafenib 450 QD + 
+Binimetinib 45 mg BID 
+(Study CMEK162X2110)
+32200 (54%)
+n=13
+7040 (42%)
+n=13
+13900 (59%)
+n=13
+3760 (63%)
+n=13
+Encorafenib 450 mg QD 
+(Study CLGX818X2101)
+32800 (69%)
+n=6
+5970 (56%)
+n=6
+13100 (35%)
+n=6
+3950 (49%)
+n=6
+Binimetinib Exposures
+Binimetinib 45 mg BID 
++ Encorafenib 450 mg 
+QD (Study 
+CMEK162X2110)
+2390 (48%)
+n=13
+735 (45%)
+n=13
+2420 (34%)
+n=13
+595 (39%)
+n=13
+Binimetinib 45 mg BID 
+(Study CMEK162X2201)
+ 1648 (35%)
+n=7
+458 (46%)
+n=23 
+2103 (38%) 
+n=7 
+438 (54%)
+n=22 
+Source: CMEK162X2110 Study Report; Tables 12 and 13; Pages 116 and 117; CLGX818X2101 Study Report; Tables 
+11-10 and 11-11; Pages 129-132; CMEK162X2201 Study Report; Table 11-11, Page 101.
+Youwei Bi, PhD
+Jiang Liu, PhD
+Ruby Leong, PharmD
+Hong Zhao, PhD
+Clinical Pharmacology
+Clinical Pharmacology
+Primary Reviewers
+Team Leaders
+Reference ID: 4282494
+
+
+===== PAGE 237 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+236
+Figure 24: Prediction-corrected Visual Predictive Check for Encorafenib PK profile in Study 
+CMEK162B2301
+Black solid lines are 5th, median and 95th percentiles for observed data. Orange and blue solid lines are 5th, median and 95th 
+percentiles for simulated data. Light orange and blue areas are the 95% confidence interval (CI) around the simulated median, 
+5th and 95th percentiles.
+Source: Reviewer’s analysis based on popPK dataset “allpkdat.xpt”
+Table 88: Summary of Steady-State Exposure Metrics of Encorafenib Administered as 
+Monotherapy or in Combination with Binimetinib in COLUMBUS study.
+ARM
+PARA
+Geom_Mean
+CV
+Min
+Max
+Combo MEK162 at 45 mg LGX818 at 300 mg
+AUCinf
+10.952
+133.23
+2.56
+152.25
+Combo MEK162 at 45 mg LGX818 at 450 mg
+AUCinf
+16.716
+191.46
+4.71
+594.46
+Monotherapy LGX818 at 300 mg (Part 1)
+AUCinf
+8.559
+134.57
+2.74
+125.72
+Monotherapy LGX818 at 300 mg (Part 2)
+AUCinf
+9.598
+112.51
+3.58
+98.81
+Combo MEK162 at 45 mg LGX818 at 300 mg
+Cmax
+2.545
+47.57
+0.8
+10.44
+Combo MEK162 at 45 mg LGX818 at 450 mg
+Cmax
+3.775
+66.86
+0.91
+26.73
+Monotherapy LGX818 at 300 mg (Part 1)
+Cmax
+2.17
+46.19
+0.47
+9.64
+Monotherapy LGX818 at 300 mg (Part 2)
+Cmax
+2.24
+45.21
+0.54
+7.58
+Combo MEK162 at 45 mg LGX818 at 300 mg
+Half.life
+3.959
+50.59
+2.53
+16.99
+Reference ID: 4282494
+
+
+===== PAGE 257 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+256
+19.2.3.
+Exposure Response Analyses
+The population of ER analysis between encorafenib exposure and efficacy and safety endpoints 
+includes a total of 449 patients among whom 192 patients were treated with Combo 450 in part 
+1 and 257 patients were treated with Combo 300 in Part 2. Model-predicted steady-state 
+exposure metrics (SS Cavg, SS Ctrough and SS AUC) at day 15 were selected for the primary 
+analyses of E-R. Pre-specified baseline covariates tested in dose-response analyses listed in 
+section 19.4.2.1 were first added to the full models to adjust for potential confounding effects. 
+The covariates with p-value larger than 0.05 were removed from the full model after backward 
+elimination.
+19.2.3.1 Encorafenib Exposure and Efficacy
+The relationship between encorafenib exposure and objective response rate was characterized 
+using logistic regression. The parameter estimates of the final logistic regression relating 
+predicted steady state exposure metrics as continuous variable to ORR was provided in Table 
+95. The crude rates of objective response rates (ORRs) were also compared among patients in 
+different exposure quartiles (Table 96). Overall, no associations were found between 
+encorafenib exposure and ORR in 449 patients in study CMEK162B2301. Crude rates of ORR are 
+found comparable between patients with low encorafenib exposure and patients with high 
+encorafenib exposure.
+Table 95: Parameter Estimates of Final Encorafenib E-R Model of ORR.
+Covariate
+Estimate
+Lower 95% CI
+Higher 95% CI
+P-value
+Intercept
+5.17
+2.619
+7.84
+0
+Age
+-0.017
+-0.032
+-0.003
+0.021
+AUCinf
+0.001
+-0.004
+0.006
+0.804
+STAGE IIIC
+-0.325
+-1.373
+0.811
+0.552
+STAGE IV M1A
+-0.893
+-1.519
+-0.272
+0.005
+STAGE IV M1B
+-0.041
+-0.621
+0.555
+0.892
+STAGE IV M1C WITH ELEVATED LDH
+0.251
+-0.41
+0.931
+0.462
+Log(Baseline LDH)
+-0.642
+-1.122
+-0.181
+0.007
+Intercept
+5.182
+2.629
+7.851
+0
+Age
+-0.017
+-0.032
+-0.003
+0.021
+CMIN
+0.079
+-0.253
+0.457
+0.648
+STAGE IIIC
+-0.339
+-1.382
+0.791
+0.534
+STAGE IV M1A
+-0.891
+-1.517
+-0.27
+0.005
+STAGE IV M1B
+-0.042
+-0.622
+0.554
+0.889
+STAGE IV M1C WITH ELEVATED LDH
+0.251
+-0.409
+0.931
+0.462
+Log(Baseline LDH)
+-0.644
+-1.124
+-0.183
+0.007
+Intercept
+5.161
+2.611
+7.828
+0
+Age
+-0.017
+-0.032
+-0.002
+0.028
+CMAX
+-0.017
+-0.108
+0.074
+0.701
+STAGE IIIC
+-0.261
+-1.317
+0.887
+0.636
+Reference ID: 4282494
+
+
+===== PAGE 258 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+257
+STAGE IV M1A
+-0.893
+-1.519
+-0.272
+0.005
+STAGE IV M1B
+-0.036
+-0.616
+0.56
+0.905
+STAGE IV M1C WITH ELEVATED LDH
+0.255
+-0.405
+0.936
+0.454
+Log(Baseline LDH)
+-0.633
+-1.114
+-0.173
+0.008
+Source: Reviewer’s analysis based on dataset “adtte.xpt”
+Table 96: Crude ORR Rates in Patients with Different Encorafenib Exposure Quartiles.
+Exposure
+Group
+N
+Responders (95% CI) (%)
+HR (95% CI)
+P-value
+<Median
+225
+69.3 (62.8, 75.2)
+AUC
+>Median
+224
+60.3 (53.5, 66.7)
+1.30 (0.86, 1.96)
+0.211
+<Median
+224
+69.2 (62.6, 75.1)
+CMIN
+>Median
+225
+60.4 (53.7, 66.8)
+1.31 (0.87, 1.97)
+0.198
+<Median
+224
+67.4 (60.8, 73.4)
+CMAX
+>Median
+225
+62.2 (55.5, 68.5)
+1.12 (0.75, 1.68)
+0.587
+Source: Reviewer’s analysis based on dataset “adtte.xpt”
+In addition, the relationship between encorafenib exposure and PFS was characterized using 
+cox proportional hazard models. The final parameter estimates for relationship between 
+encorafenib exposure as continuous variable and time to PFS were provided in Table 97 
+separately for each evaluated exposure metric. The baseline covariates retained in the final 
+model after backward elimination were also provided in Table 97. No statistically significant 
+relationship was found between encorafenib exposure and time to PFS.
+The effect of encorafenib exposure on PFS was also examined via Kaplan-Meier curves stratified 
+by predicted SS encorafenib exposure quartiles (Figure 34). After adjusting for significant 
+covariate effects, the patients with low encorafenib exposure were estimated to have similar 
+risks of progression or death compared to patients with high encorafenib exposure, although 
+the median PFS is numerically longer in patients with low exposure (14.9 months vs 11.1 
+months). 
+Table 97: Parameter Estimates of Final Encorafenib E-R Model of Time to PFS.
+Covariate
+HR
+Lower 95% CI
+Upper 95% CI
+P-value
+ECOG Score: 1
+1.42
+1.07
+1.89
+0.0145
+Male vs Female
+1.46
+1.11
+1.9
+0.00589
+AUCinf
+0.999
+0.996
+1
+0.53
+Log(Baseline LDH)
+2.81
+2.3
+3.44
+0
+ECOG Score: 1
+1.42
+1.07
+1.89
+0.0145
+Male vs Female
+1.46
+1.12
+1.9
+0.00574
+Cmin
+0.937
+0.771
+1.14
+0.515
+Log(Baseline LDH)
+2.81
+2.3
+3.44
+0
+ECOG Score: 1
+1.42
+1.07
+1.88
+0.0156
+Male vs Female
+1.45
+1.11
+1.9
+0.00614
+Cmax
+0.99
+0.94
+1.04
+0.692
+Reference ID: 4282494
+
+
+===== PAGE 265 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+264
+different exposure quartiles (Table 103). Overall, no associations were found between 
+binimetinib exposure and ORR in 449 patients in study CMEK162B2301. And crude rates of ORR 
+were found comparable between patients with low binimetinib exposure and patients with 
+high binimetinib exposure.
+Table 102: Parameter Estimates of Final Binimetinib E-R Model of ORR.
+Covariate
+Estimate
+P-value
+Lower 95% CI
+Higher 95% CI
+Intercept
+5.036
+0
+2.441
+7.748
+Age
+-0.018
+0.02
+-0.034
+-0.003
+AUCinf
+0.059
+0.627
+-0.176
+0.302
+STAGE IIIC
+-0.338
+0.535
+-1.38
+0.791
+STAGE IV M1A
+-0.898
+0.005
+-1.525
+-0.277
+STAGE IV M1B
+-0.041
+0.891
+-0.621
+0.555
+STAGE IV M1C WITH ELEVATED LDH
+0.246
+0.471
+-0.415
+0.926
+Log(Baseline LDH)
+-0.632
+0.008
+-1.113
+-0.172
+Intercept
+5.052
+0
+2.493
+7.726
+Age
+-0.019
+0.015
+-0.034
+-0.004
+CMIN
+3.643
+0.36
+-4.006
+11.679
+STAGE IIIC
+-0.361
+0.507
+-1.403
+0.765
+STAGE IV M1A
+-0.906
+0.004
+-1.533
+-0.284
+STAGE IV M1B
+-0.035
+0.908
+-0.615
+0.562
+STAGE IV M1C WITH ELEVATED LDH
+0.247
+0.468
+-0.413
+0.928
+Log(Baseline LDH)
+-0.639
+0.007
+-1.118
+-0.179
+Intercept
+5.321
+0
+2.607
+8.166
+Age
+-0.016
+0.04
+-0.032
+-0.001
+CMAX
+-0.284
+0.737
+-1.95
+1.383
+STAGE IIIC
+-0.28
+0.608
+-1.323
+0.851
+STAGE IV M1A
+-0.894
+0.005
+-1.521
+-0.274
+STAGE IV M1B
+-0.031
+0.917
+-0.613
+0.566
+STAGE IV M1C WITH ELEVATED LDH
+0.261
+0.446
+-0.402
+0.945
+Log(Baseline LDH)
+-0.653
+0.007
+-1.141
+-0.186
+Source: Reviewer’s analysis based on dataset “adtte.xpt”
+Table 103: Crude ORR Rates in Patients with Different Binimetinib Exposure Quartiles.
+Exposure
+Group
+N
+Responders (95% CI) (%)
+HR (95% CI)
+P-value
+AUC
+<Median
+225
+64.9 (58.2, 71.0)
+>Median
+224
+64.7 (58.0, 70.9)
+0.9 (0.6, 1.36)
+0.622
+Cmin
+<Median
+224
+67 (60.3, 73.0)
+>Median
+225
+62.7 (56.0, 68.9)
+1.23 (0.81, 1.86)
+0.341
+Cmax
+<Median
+224
+67.4 (60.8, 73.4)
+>Median
+225
+62.2 (55.5, 68.5)
+1.12 (0.74, 1.69)
+0.579
+Source: Reviewer’s analysis based on dataset “adtte.xpt”
+Reference ID: 4282494
+
+
+===== PAGE 267 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+266
+Figure 36: The Kaplan-Meier (KM) Curve of Time to PFS Stratified by Predicted Binimetinib 
+Exposure Metrics. 
+Source: Reviewer’s analysis based on dataset “adtte.xpt”
+Similarly, the association between binimetinib exposure and OS was evaluated with cox 
+proportional hazard models. The final parameter estimates for relationship between 
+binimetinib exposure as continuous variable and time to OS were provided in Table 105 
+separately for each evaluated exposure metric. A statistically significant relationship was found 
+between time to OS and binimetinib Cmax, but such relationships were not observed on Cmin 
+and AUC. The Kaplan-Meier curves of time to OS in patients with low and high binimetinib 
+exposure were provided in Figure 37. After adjusting for significant covariate effects, patients 
+with low binimetinib exposure were estimated to have similar risks of death compared to 
+patients with high binimetinib exposure, although the median OS is numerically longer in 
+patients with high AUC or Cmax (Not reached vs 26 months). 
+Reference ID: 4282494
+
+
+===== PAGE 273 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+272
+binimetinib based on preliminary analyses. Therefore, there is insufficient evidence that Combo 
+300 is as effective as Combo 450. Cross-part comparison of safety profile between Combo 300 
+and Combo 450 did not indicate a clinically significant safety concern for Combo 450 relative to 
+Combo 300 which would outweigh the potential for improved efficacy in higher dose. The ER 
+relationships were consistent with DR relationships, and they both support the use of the 
+proposed encorafenib dose of 450 mg QD with dose modification in the event of adverse 
+reactions to the lowest dose of 200 mg. 
+19.2.4.
+Physiological-based Pharmacokinetic Modeling Review
+19.2.4.1.
+Objectives
+To evaluate the adequacy of applicant’s physiologically-based pharmacokinetic (PBPK) model to 
+predict the steady state drug-drug interaction (DDI) between posaconazole or itraconazole (two 
+strong CYP3A inhibitors) and encorafenib (a CYP3A substrate) at the therapeutic dose levels in 
+cancer patients.  
+19.2.4.2.
+Background
+Encorafenib is a selective BRAF kinase inhibitor that is primarily eliminated by CYP3A4 
+metabolism. In vitro data suggested that encorafenib is both a time-dependent inhibitor and an 
+inducer of CYP3A4. In Study CMEK162X2110, the geometric mean ratios on encorafenib Cmax 
+and AUC between Day 15 and Day 1 values were 0.63 and 0.45, respectively, suggesting a net 
+effect of auto-induction on CYP3A4 across the dose range of 50 and 600 mg QD. In Study 
+ARRAY-818-105, co-administration of strong (posaconazole) and moderate (diltiazem) CYP3A4 
+inhibitors with a single dose of 50 mg encorafenib resulted in 3- and 2-fold increase in AUC and 
+1.7 and 1.5-fold increase in Cmax. Even though encorafenib is a P-gp substrate, the contribution 
+of P-gp inhibition by posaconazole and diltiazem was difficult to assess in Study ARRAY-818-
+105. The Tmax values in different treatment arms in the study were similar, suggesting that the 
+observed DDIs were not due to differences in absorption rates, but due to inhibition of CYP3A4 
+metabolism. Study ARRAY-818-102 indicated a lack of food effect on the extent of exposure to 
+encorafenib following a single oral 100 mg dose. The applicant developed an encorafenib PBPK 
+model to describe the PK profiles of encorafenib based on in silico, in vitro, and clinical PK data.  
+On November 3 and November 22, 2017, two information requests (IRs) were issued, 
+requesting a revision of the submitted PBPK model to better describe the observed encorafenib 
+exposure after repeated doses of encorafenib between 200 and 550 mg dose level, to conduct 
+the DDI simulations with posaconazole and itraconazole in fed condition, and to improve model 
+performance in predicting the food effect on encorafenib.  
+This review evaluates the adequacy of the applicant’s final PBPK model to predict the steady 
+state DDI effect of CYP3A inhibitors on encorafenib at 450 mg QD levels in cancer patients.  
+Reference ID: 4282494
+
+
+===== PAGE 274 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+273
+19.2.4.3.
+Method
+Summary of Clinical Studies Used in Encorafenib Model Development and Verification
+Study
+N*
+Relevant Study Features
+CLGX818A2101 
+4 
+ADME study: Single oral dose of 100 mg [14C]encorafenib given as a micro-emulsion 
+ARRAY-162-105 
+15 DDI study: Single dose of 300 mg encorafenib alone, and single dose of 100 mg 
+encorafenib alone or in combination with 20 mg rabeprazole.  PK data from single agent 
+encorafenib treatments were used.
+CLGX818X2101 
+54 Phase 1, dose-escalation study in patients: Oral encorafenib administered as micro-
+emulsion solution or as capsules.  PK data for capsules were used. 
+ARRAY-818-102 
+31 Food effect: Single dose of 100 mg encorafenib under fasted and fed conditions 
+ARRAY-818-105 
+32 DDI study: Single dose of 50 mg encorafenib alone or in combination with posaconazole or 
+diltiazem. Only encorafenib PK data were collected in the study.
+* N refers to the number of patients in the study with encorafenib PK data; for Study CLGX818X2101 it refers to 
+patients with PK data in the dose escalation phase although there was also PK data in the dose expansion phase.
+Source: adapted from cp17-002-a3-report-body.pdf, Table 2
+Reviewer’s Comment: In model verification, the sponsor compared the PBPK predicted steady 
+state exposure to the population PK (popPK) predicted steady state Cmax and AUC for the 300 
+mg QD and 450 mg QD treatments in Study CMEK162B2301. Comparison to popPK model 
+prediction is not considered a valid qualification especially when the encorafenib PBPK model 
+was developed and refined based on popPK model estimates.  Simulation results for Study 
+CMEK162B2301 will not be discussed in this review.  
+Software
+GastroPlusTM (Version 9.0) was used to develop the PBPK model. The ADMET Predictor™ 
+module was used to obtain in silico estimates of physicochemical and biopharmaceutical 
+properties from structure if experimentally determined values were not available, or to provide 
+an objective alternative to experimental data. The PBPKPlusTM module was used to simulate the 
+pharmacokinetic distribution and systemic clearance of encorafenib. The Parameter Sensitivity 
+Analysis mode was used to assess the importance of a variety of parameters in predicting 
+absorption and pharmacokinetics. The DDI module was used to predict the effect of 
+encorafenib auto induction of CYP3A4 on its own PK and to predict the effect of CYP3A 
+inhibitors on encorafenib.
+Encorafenib Model Development
+The Advanced Compartmental Absorption and Transit (ACATTM) model was used to describe the 
+drug disposition in each region of the intestinal tract.  The default Johnson model was used to 
+model drug dissolution. Intestinal absorption was modeled as passive diffusion. The human 
+jejunal Peff was optimized to match clinical observation. The absorption rate coefficients in 
+individual intestinal compartments are calculated from Peff and absorption scale factors (ASFs).  
+The intestinal first-pass metabolism of encorafenib by CYP2C19 and CYP3A4 enzymes was 
+modeled using Michaelis-Menten kinetics with the same Km and Vmax values for liver 
+metabolism (described below).
+A PBPK model was developed with all perfusion-limited tissues.  Human organ weights, 
+volumes, and blood perfusion rates specific to subjects in each study (gender, age, and body 
+Reference ID: 4282494
+
+
+===== PAGE 275 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+274
+weight) were generated by GastroPlus internal Population Estimates for Age-Related (PEAR) 
+Physiology™ Module. Drug tissue:plasma partition coefficients (Kps) were estimated using the 
+Lukacova method using drug-specific and system-specific parameters. Kps were further 
+adjusted by using a lower logP value to better match the shape of PK profiles in Study ARRAY-
+818-102.  An adjusted Fup, 12.76%, instead of the in-vitro reported value 13.9%, was used in 
+the PBPK model to account for possible drug binding to plasma lipids as may occur with more 
+lipophilic compounds.  
+Systemic clearance of encorafenib was limited to CYP2C19 and CYP3A4 metabolism using 
+Michaelis-Menten kinetics. In the initial model, Km were set to in-vitro measurements and 
+Vmax values were fitted to in vivo plasma concentration-time profiles for 100 mg doses in 
+healthy subjects and 50-700 mg doses in cancer patients in the fasted state.  In model 
+refinement, sponsor conducted sensitivity analysis on CYP3A4 Km to improve model prediction 
+of food effect.  For each Km value, Vmax was fitted to match observed fasted AUC for a single 
+100 mg dose from the ARRAY-818-102 study, and subsequently used to simulate exposure for a 
+single 100 mg dose in fed state.  A CYP3A4 Km, 213.9 µg/mL, 10-fold higher than reported in-
+vitro Km was used in the final PBPK model.  Vmax values in patient population were lower to 
+88.6% of those in healthy subjects based on differences between the two populations from the 
+encorafenib population PK model.
+To account for changes in encorafenib metabolism after multiple doses, the effect of 
+encorafenib on CYP3A4 activity was modeled as a concentration-independent induction with 
+parameters EC50 and Emax fitted to clinical observations in Studies CLGX818X2101 and ARRAY-
+818-102.  Time-dependent inhibition, as evident in in vitro assays, was not included in the final 
+PBPK model.
+Table 112 in Appendix provides a summary of drug-specific parameters in the encorafenib 
+model. 
+Reviewer’s comment:
+a. Sponsor’s encorafenib PBPK model was developed based on the following assumptions: 1) 
+Tissue distribution of encorafenib was limited by blood flow to tissues; 2) Encorafenib 
+permeability is through the passive route only; and 3) the effect of P-gp on absorption was 
+negligible.  These assumptions were supported by the high logP and hence high 
+permeability.
+b. Sponsor’s encorafenib PBPK model was developed based on the assumption that 1) the 
+metabolism of encorafenib was limited to CYP3A4 and CYP2C19; and 2) renal elimination of 
+encorafenib was minimal.  These assumptions were supported by data from Study 
+CLGX818A2101.
+c.
+It should be noted that the effect of encorafenib as a CYP3A4 modulator has not been 
+qualified with any probe drug for CYP3A substrate. The prediction of DDI potential between 
+encorafenib and a modulator drug which is also a CYP3A substrate should be interpreted 
+with caution.
+Reference ID: 4282494
+
+
+===== PAGE 277 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+276
+adequate clinical data to verify these assumptions. The PBPK analysis was not adequate to 
+predict DDI potential between encorafenib and rifampin. 
+Posaconazole and Diltiazem Models
+Sponsor developed a posaconazole and a diltiazem PBPK model using clinical data from 
+literature.  The posaconazole-midazolam DDI simulation settings and the diltiazem-midazolam 
+DDI simulation settings were not submitted.  Based on the summary of model predictions, the 
+posaconazole and diltiazem PBPK models appear adequate in terms of their capacity to predict 
+posaconazole / diltiazem PK as a single agent and to predict their effect as a strong or moderate 
+CYP3A inhibitor on midazolam PK (Table 113 and Table 114 in Appendix).   
+19.2.4.4.
+Result
+Can PBPK model capture encorafenib exposure under different dosing scenario as a single 
+agent? 
+Yes.  Sponsor’s PBPK model were developed, refined, and verified based on results of: (1) 
+single-dose PK data on encorafenib in healthy subjects from Studies CLGX818A2101, ARRAY-
+818-105, and ARRAY-162-105 (Figure 38); (2) single- and multiple-dose PK data on encorafenib 
+in cancer patients in Study CLGX818X2101 (Figure 39); and (3) food effect on a single-dose of 
+100 mg encorafenib in healthy subjects in Study ARRAY-818-102 (Figure 40).  The prediction 
+errors in Cmax and AUC, across all doses in healthy volunteers and in cancer patients (on both 
+days), are within 2-fold in all the simulations, except for the first day treatment with 50 mg 
+encorafenib in Study CLGX818X2101. The Cmax and AUC after a single dose of 50 mg 
+encorafenib in cancer patients were under-predicted with a predicted / simulated AUC ratio 
+(AUCR) of 0.44 and Cmax ratio (CmaxR) of 0.46.  Only one subject provided PK data in the 50 mg 
+treatment group in Study CLGX818X2101.  Consistent with minimal food effect observed in 
+Study ARRAY-818-102, the final model predicted a 4% decrease in AUCinf when a single dose of 
+100 mg encorafenib was administered in the fed state than in a fasted state.  Model 
+performance in capturing encorafenib exposure when encorafenib was administered alone is 
+acceptable.
+It is noted that the simulated Day 15/Day 1 AUC ratios (between 0.66-0.71) are higher than that 
+based on observation (approximately 0.5).  There does not appear to be a correlation between 
+dose and the Day 15/Day 1 AUC ratio in the range of 50-550 mg, based on either simulation or 
+observation. 
+Reference ID: 4282494
+
+
+===== PAGE 279 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+278
+Figure 40. Observed (points) and PBPK-predicted (lines) plasma-time profiles of encorafenib 
+in healthy subjects taking a single dose of 100 mg encorafenib the fasted (left) and fed (right) 
+status.  
+Source: PBPK report (cp17-002-a3-report-body.pdf), Figure 2 and 3
+Can PBPK model capture encorafenib exposure under the effect of posaconazole, a 
+strong CYP3A inhibitor? 
+Yes. Sponsor’s encorafenib PBPK model was verified based on the results of single-dose PK data 
+(Figure 41) and fold change (Table 109) in encorafenib exposure in Study ARRAY-818-105 with 
+posaconazole.  
+Figure 41. Observed (points) and PBPK-predicted (lines) plasma-time profiles of encorafenib 
+in healthy subjects taking a single dose of 50 mg encorafenib with posaconazole.  
+Source: PBPK report (cp17-002-a3-report-body.pdf), Figure 19
+Table 109. Summary of the predicted vs. observed AUC and Cmax ratios with or without the 
+presence of posaconazole, a strong CYP3A4 inhibitor. PE: prediction error.
+Cmax (ng/mL)
+AUCinf (ng-h/mL)
+Observed
+Simulated b
+PE
+Observed
+Simulated
+PE
+Single-agent encorafenib a
+460.2
+380.8
+0.83
+2006
+1891
+0.94
+Combination encorafenib/diltiazem a
+872.5
+1098.0
+1.26
+5775
+6232
+1.08
+Ratio [combination/single-agent]
+1.90
+2.88
+1.52
+2.88
+3.30
+1.14
+a The PK data are for encorafenib when administered as a single oral dose of 50 mg administered on Day 1 or for 
+the same dose co-administered with posaconazole (oral suspension).
+b PBPK model representing an average subject in the study (42-year-old male, 77kg) was used in simulation.
+Source: adapted from PBPK report (cp17-002-a3-report-body.pdf), Table 6
+Reference ID: 4282494
+
+
+===== PAGE 280 =====
+
+Multi-Disciplinary Review and Evaluation NDA 210496
+BRAFTOVI™ (encorafenib)
+279
+Can PBPK model capture encorafenib exposure under the effect of diltiazem, a 
+moderate CYP3A inhibitor?
+No. The encorafenib-diltiazem PBPK model significantly under-estimated the DDI effect by 
+diltiazem on encorafenib exposure after a single dose of encorafenib (Table 110).
+Removing encorafenib auto-induction from the encorafenib-diltiazem DDI simulation would 
+increase encorafenib AUC by 123% (without vs with auto induction AUCR=2.23) and increase 
+diltiazem AUC by 26% (AUCR=1.26).  Removing encorafenib auto-induction from the simulation 
+of encorafenib as a single agent would increase the predicted (steady state) AUC by 
+approximately 40% (AUCR=1.41) at the same dose level.  The impact of auto-induction is 
+significantly higher in the DDI simulations, suggesting that a 26% increase in diltiazem exposure 
+is clinically relevant in terms of inhibitory effect on CYP3A4 and on encorafenib PK.    
+Table 110. Summary of the predicted vs. observed AUC and Cmax ratios with or without the 
+presence of diltiazem, a moderate CYP3A4 inhibitor. PE: prediction error.
+Cmax (ng/mL)
+AUCinf (ng-h/mL)
+Observed
+Simulated 
+PE
+Observed
+Simulated
+PE
+Single-agent encorafenib 
+482
+381
+0.79
+1882
+1892
+1.01
+Combination encorafenib/diltiazem 
+698
+411
+0.59
+3511
+2054
+0.59
+Ratio [combination/single-agent]
+1.45
+1.08
+0.74
+1.87
+1.09
+0.58
+Source: Reviewer’s analysis using sponsor’s diltiazem and encorafenib PBPK models.
+Can PBPK model predict encorafenib exposure change when the drug is co-
+administered with strong CYP3A inhibitors, posaconazole and itraconazole, at the 
+300 mg QD or 450 mg QD dose levels?
+PBPK model can be used to predict posaconazole effect on 450 mg QD doses of encorafenib.  
+The encorafenib PBPK model was verified using clinical DDI study with posaconazole, a strong 
+CYP3A inhibitor. While encorafenib parameters on CYP3A metabolism, inhibition, and induction 
+were fitted to clinical observations, PK data from the encorafenib-posaconazole treatment in 
+the DDI study was not used in encorafenib model building.  The model predicted a 2.8-fold and 
+3.6-fold increase in single day and steady state AUC, when 450 mg QD encorafenib is co-
+administered with 400 mg BID posaconazole (Table 111).      
+The predicted DDI effect by itraconazole on encorafenib is associated with uncertainty.  The 
+encorafenib PBPK model has not been verified for its induction/inhibitory effect on a probe 
+drug for CYP3A4 substrate (such as midazolam). Itraconazole is primarily eliminated by CYP3A4.  
+The effect of encorafenib auto-induction and competitive inhibition on itraconazole exposure 
+and consequently, itraconazole effect on encorafenib exposure may not be predicted with 
+confidence.  
+Table 111. Predicted effect of CYP3A4 inhibitors on encorafenib exposures in cancer patients
+Day 1
+Steady State
+CmaxR
+AUCR
+CmaxR
+AUCR
+Posaconazole (400 mg BID)
+2.60
+2.77
+3.27
+3.60
+Itraconazole (200 mg QD)
+2.60
+2.79
+3.19
+3.47
+Reference ID: 4282494

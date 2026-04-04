@@ -1,0 +1,881 @@
+
+
+===== PAGE 10 =====
+
+ 
+NDA 22-437 Clinical Pharmacology Review – Trelstar 
+ 
+1 
+Clinical Pharmacology Review 
+NDA 
+   
+ 
+ 
+22-437  
+ 
+Brand Name:  
+ 
+TRELSTAR
+ 
+Generic Name: 
+ 
+Triptorelin Pamoate Injectable Suspension 
+Dosage Form/Strength: 
+22.5 mg of Triptorelin (Free Base) in Single-Dose Vial 
+Dosing regimen: 
+ 
+A Single-Dose Vial Injected Intramuscularly every 6 Months 
+Indication  
+ 
+ 
+Palliative Treatment of Advanced Prostate Cancer 
+Submission Date: 
+ 
+September 12, 2008 
+Submission Type: 
+ 
+Original NDA; 000 
+Applicant: 
+ 
+ 
+Watson Laboratories Inc.  
+OCP Reviewer: 
+ 
+Sophia Abraham., Ph.D. 
+OCP Team Leader: 
+ 
+Brian Booth, Ph.D. 
+OCP Division:  
+ 
+Division of Clinical Pharmacology 5 
+OODP Division: 
+ 
+Division of Drug Oncology Products 
+Table of contents 
+1 
+Executive Summary .........................................................................................................................3 
+1.1 
+Recommendations ...............................................................................................................4 
+1.2 
+Phase IV commitments........................................................................................................4 
+1.3 
+Clinical Pharmacology Summary........................................................................................4 
+2 
+Question Based Review ...................................................................................................................6 
+2.1 
+General Attributes...............................................................................................................6 
+2.1.1 
+What are the highlights of the chemistry and physical-chemical 
+properties of the drug substance and the formulation of the drug product 
+as they relate to clinical pharmacology and biopharmaceutics review? ...........6 
+2.1.2 
+What are the proposed mechanisms of action and therapeutic 
+indications? .......................................................................................................7 
+2.1.3 
+What are the proposed dosage and route of administration? ............................7 
+2.2 
+General Clinical Pharmacology ..........................................................................................7 
+2.2.1 
+What are the design features of the clinical pharmacology and clinical 
+studies used to support dosing or claims?.........................................................7 
+2.2.2 
+What is the basis for selecting the response endpoints or biomarkers and 
+how are they measured in clinical pharmacology and clinical studies?............9 
+2.2.3 
+Are the active moieties in the plasma (or other biological fluid) 
+appropriately identified and measured to assess pharmacokinetic 
+parameters and exposure response relationships?...........................................10 
+2.2.4 
+Exposure-response ..........................................................................................10 
+2.2.5 
+Pharmacokinetic characteristics of the drug and its major metabolites..........14 
+2.3 
+Intrinsic Factors.................................................................................................................19 
+2.3.1 
+What intrinsic factors (age, gender, race, weight, height, disease, genetic 
+polymorphism, pregnancy, and organ dysfunction) influence exposure 
+(PK usually) and/or response, and what is the impact of any differences 
+in exposure on efficacy or safety responses?..................................................19 
+2.3.2 
+Based upon what is known about exposure-response relationships and 
+their variability and the groups studied, healthy volunteers vs. patients 
+vs. specific populations, what dosage regimen adjustments, if any, are 
+recommended for each of these groups?  If dosage regimen adjustments 
+are not based upon exposure-response relationships, describe the 
+(b) (4)
+(b) (4)
+
+
+===== PAGE 12 =====
+
+ 
+NDA 22-437 Clinical Pharmacology Review – Trelstar 
+ 
+3 
+Table 9   Number of Patients Participated in Clinical Studies 301, 201, and TRI-01..........................14 
+Table 10   Mean±SD (%CV) PK Parameters of Triptorelin after the First Injection Following the IM 
+Injection of the current 6-Month and approved 3-Month and 1-Month Formulations ................16 
+Table 11   Mean SD (%CV) PK Parameters after IM Injection of Triptorelin in Study 201...............18 
+Table 12  Composition of Triptorelin Pamoate 6-Month Formulations...............................................21 
+Table 13  Geometric Means, Geometric Mean Ratios, and 90% Confidence Intervals (CI) for Log-
+Transformed Cmax of Triptorelin..................................................................................................21 
+Table 14   Geometric Mean, Geometric Mean Ratios, and 90% Confidence Intervals (CI) for Log-
+Transformed AUC1-169 days of Triptorelin .....................................................................................21 
+Table 15  Geometric Means, Geometric Mean Ratios, and 90% Confidence Intervals for Log-
+Transformed Cmax of Testosterone...............................................................................................21 
+Table 16  Geometric Means, Geometric Mean Ratios, and 90% Confidence Intervals for Log-
+Transformed Cmax of Testosterone...............................................................................................22 
+Table 17   Composition of the TRELSTAR 6-MONTH Formulation used in the Pivotal Phase 3 Stud 
+301................................................................................................................................................22 
+Table 18   Summary of Bioanalytical Methods Used for Triptoreon and Testosterone in the Clinical 
+Pharmacology Studies..................................................................................................................23 
+ List of Figures 
+FIGURE 1:  Testosterone and PSA Serum Levels during Study 301 (N=120)....................................10 
+FIGURE 2:  Testosterone Serum Concentrations versus Triptorelin Serum Concentrations at Day 29 
+from Study 301.............................................................................................................................11 
+FIGURE 3:  Testosterone Serum Concentrations versus Tripotrelin Serum Concentrations on Days 
+57-337 from Study 301 ................................................................................................................12 
+FIGURE 4:  Mean (SD) Testosterone Serum Concentration versus Time Profiles Following IM 
+Injection of TRELSTAR 1-Month (N=163), 3-Month (N=170), and 6-Month (N=120) Sustained 
+Release Formulations...................................................................................................................14 
+FIGURE 5:  Mean (SD) Triptorelin Serum Concentration versus Time Profiles in 15 Patients from 
+Study 301 .....................................................................................................................................15 
+FIGURE 6:  Mean (SD) Testosterone Serum Concentration versus Time Profiles in 15 Patients from 
+Study 301 .....................................................................................................................................15 
+FIGURE 7:  Relationship between Mean Cmax and Dose of Triptorelin...............................................16 
+FIGURE 8:  Mean (SD) Triptorelin serum Concentration versus Time (N=8/Formulation) from Study 
+201................................................................................................................................................17 
+FIGURE 9:  Mean (SD) Testosterone Concentration versus Time (N=8/Formulation) from Study 201
+......................................................................................................................................................18 
+FIGURE 10:  Mean Percent of Patients with Castration Testosterone Serum Levels of > or= 0.5 
+ng/Ml (Study 201)........................................................................................................................18 
+  
+1 EXECUTIVE SUMMARY 
+The Applicant seeks approval of NDA 22-437 for TRELSTAR 
+ (triptorelin pamoate 
+injectable suspension) 22.5 mg (6-month sustained-release formulation) to be used as a palliative 
+treatment of advanced prostate cancer. TRELSTAR 
+ has the same indication, dosage 
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 13 =====
+
+ 
+NDA 22-437 Clinical Pharmacology Review – Trelstar 
+ 
+4 
+form (injection), and route of administration (intramuscular) as for the approved triptorelin 3.75 mg 
+(1-Month) and 11.25 mg (3-Month) sustained-release formulations. 
+In support of the efficacy and safety of TRELSTAR 
+ (22.5 mg triptorelin injectable 
+suspension) in the advanced prostate cancer indication, the Applicant submitted a pivotal Phase 3 
+study in 120 patients (Study 301). In this study, all patients were given two intramuscular injections 
+of triptorelin pamoate 22.5 mg at an interval of 6 months. The primary efficacy endpoint was to 
+determine the percentage of patients who achieved castration levels of ≤ 0.5 ng/mL on Day 29 and 
+the percentage of patients who maintained these levels from Day 57 through Day 337. The results of 
+the study showed that for the intent-to-treat (ITT) population, 97% (117/120) achieved castration 
+levels of testosterone on Day 29 and 93% (107/115) maintained these throughout study treatment. 
+The pharmacokinetics (PK: serum triptorelin) and the pharmacodynamics (PD: serum testosterone) 
+were evaluated in a subset of 15 patients in the pivotal Study 301 after the 6-month formulation. 
+Fourteen patients (14/15, 93%) achieved castration testosterone serum levels of ≤0.5 ng/mL at Day 
+29 and maintained these levels at Days 57-337. One patient did not maintain castration testosterone 
+levels during this period. The 6-Month formulation of triptorelin was found to be at least as effective as 
+the approved 1-month and the 3-Month formulations in achieving and maintaining castration level of 
+testosterone. 
+1.1 
+RECOMMENDATIONS 
+The Office of Clinical Pharmacology has reviewed the information contained in NDA 22-437 and 
+found it acceptable from the clinical pharmacology perspective. 
+Labeling Recommendations 
+Please refer to Section 3 - OCP Labeling Recommendations. 
+1.2 
+PHASE IV COMMITMENTS 
+[None] 
+1.3 
+CLINICAL PHARMACOLOGY SUMMARY 
+Triptorelin is a synthetic decapetpide agonist analogue of naturally occurring luteinizing hormone-
+releasing hormone (LHRH). LHRH is also known as gonadotropin releasing hormone (GnRH). It acts 
+as a potent inhibitor of gonadotropin secretion, initially producing a transient rise in LH, FSH, and 
+testosterone levels. Continuous triptorelin pamoate administration desensitizes pituitary LHRH 
+receptors and inhibits LH and FSH secretion, resulting in chemical castration within ~ 2-4 weeks.  
+ 
+Triptorelin, like other GnRH agonists, has a short half-life in vivo (t½=5 hours). Therefore, 
+sustained-release dosage forms for intramuscular administration (IM) have been developed by 
+combining triptorelin with a 
+ 
+Triptorelin 1-month (3.75 mg) and 3-month (11.25 mg) sustained-release IM formulations have been 
+approved for marketing in the United States on 15-Jun-2000 under NDA #20-715 and 29-Jun-2001 
+under NDA #21-288, respectively, as a palliative treatment of advanced prostate cancer. 
+In the current NDA 22-437 submission, the Applicant proposes to market a new formulation for 
+Trelstar® (Viz., 6-Month 22.5 mg triptorelin sustained-release formulation), which has the same 
+indication (advanced prostate cancer), dosage form (injection), and route of administration (IM) as 
+for the approved Trelstar® 1-Month 3.75 mg and 3-Month 11.25 mg sustained-release 
+formulations.  
+In the pivotal Phase 3 Study 301, more than 90% of 120 patients had castration serum testosterone 
+levels of ≤0.5 ng/mL in the first month of the study and maintained these levels over the study period.   
+At Day 29, the mean percentage of patients who had castration serum testosterone levels of ≤0.5 
+ng/mL after the 6-Month formulation in Study 301 was roughly comparable to that obtained after the 
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 14 =====
+
+ 
+NDA 22-437 Clinical Pharmacology Review – Trelstar 
+ 
+5 
+3-Month and 1-Month formulations in Study TRI-01 (previous NDA 21-288 submission) ( mean 
+%=97.5%, 98%, and 93%, respectively). At Day 169, the mean percentage of patients was 98%, 
+98%, and 100%, respectively. This suggests that the 6-Month formulation of triptorelin is at least as 
+effective as the approved 1-month and the 3-Month formulations in achieving and maintaining castration 
+level of testosterone. 
+The pharmacokinetics (PK: serum triptorelin) and the pharmacodynamics (PD: serum testosterone) 
+were evaluated in a subset of 15 patients in the pivotal Study 301 after the 6-month formulation.   
+After the first injection of the 6-month triptorelin formulation, the mean Cmax and AUC1-169 days for 
+triptorelin were 44.1±20.2 ng/mL and 111.5±43.3 ng.d/mL, respectively. The median Tmax was 3 days 
+(range=2-12 days).   
+The PK parameters for triptorelin following the second injection of the 6-month formulation 
+averaged 39.2±19.2 ng/mL, 115.2±31.9 ng.d/mL, and 0.19±0.26 ng/mL for Cmax, AUC1-169 days, and 
+Co, respectively. The median Tmax was 4 hours (range=1-24 hours). No accumulation was observed 
+between the first and second injection. The accumulation ratio calculated as AUC1-169 days (second 
+injection/first injection) averaged 1.13±0.26.  
+Fourteen patients (14/15, 93%) achieved castration testosterone serum levels of ≤0.5 ng/mL at Day 
+29 and maintained these levels at Days 57-337. One patient (Patient #12603) did not maintain 
+castration testosterone levels during this period (testosterone serum levels ranged from 0.52-0.82 
+ng/mL).  
+The 6-Month formulation proposed for marketing was used in the pivotal Phase 3 Study 301. The 
+mean Cmax and AUC1-169 days for testosterone after this formulation were 7.9±2.9 ng/mL and 
+76.9±26.7 ng.d/mL, respectively in the 15 patients. The median Tmax and time to castration (Tcast) 
+were 3 days (range=2-5 days) 19 days (range=13-25 days).  
+The following issues have not been addressed in the current NDA 22-437 submission or previous 
+NDA 20-715 and 21-288 submissions for Triptorelin: 
+ 
+No in vitro screening CYP450 isozyme studies for triptorelin have been performed. However, 
+published data indicate that triptorelin is degraded by peptidases into inactive fragments and 
+not likely to be metabolized by CYP450 isozymes [Barron et al., Metabolic clearance and 
+plasma half-disappearance time of D-Trp6 and exogenous luteinizing-hormone releasing 
+hormone. J Clin Endocrinol Metab 54:1169-1173, 1982]. No additional metabolism studies 
+should be required. 
+ 
+No in vitro CYP450 isozyme studies for inhibition or induction by triptorelin for have been 
+performed for triptorelin. There is no need to conduct such studies as the post marketing data 
+for the approved triptorelin 1- and 3-Month formulations since 22 years did not report 
+any clinically significant interactions of triptorelin with any other coadministered 
+medication. 
+ 
+No in vitro studies for interactions with P-glycoprotein (P-gp) have been performed for 
+triptorelin. However, it was reported that no active efflux transport by Pglycoprotein was 
+demonstrated in Caco-2 for another GnRH peptide agonist (leuprolide) [Guo et al., 
+Transport of leuprolide across rat intestine, rabbit intestine and Caco-2 cell 
+monolayer. Int J of Pharmaceutics. 278:415-422, 2004). 
+ 
+ 
+(b) (4)
+
+
+===== PAGE 25 =====
+
+ 
+NDA 22-437 Clinical Pharmacology Review – Trelstar 
+ 
+16 
+Mean PK parameters obtained in Studies 301 and TRI-01 for both triptorelin and testosterone are 
+listed in Table 11.   
+In Study TRI-01, mean Cmax values were determined following the injection at the beginning of each 
+84-day period (~ 3 months). Mean AUC 1-85d, AUC 85-169d values were only determined for the 3-
+month formulation and AUC 169-253d for both formulations. Each of these 84-day periods represented 
+one injection of the 3-month formulation or 3 injections of the 1-month formulation. 
+Table 11   Mean±SD (%CV) PK Parameters of Triptorelin and Testosterone after the First Injection 
+Following the IM Injection of the current 6-Month and approved 3-Month and 1-Month Formulations 
+PK Parameters 
+Study 301 
+Study TRI-01* 
+Formulation 
+6-Month, 22.5 mg 
+(N=15) 
+3-Month, 11.25 mg 
+(N=13) 
+1-Month, 3.75 mg 
+(N=14) 
+ 
+Triptorelin  
+Cmax (ng/mL) 
+44.1±20.2 
+(46%) 
+38.5±10.5 
+(27%) 
+15.8±4.9 
+(31%) 
+**AUC1-T 
+(ng*d/mL) 
+112±43.3 
+(49%) 
+105±30.2 
+(27%) 
+105±43.2 
+(41%) 
+***Tmax (days) 
+3.0  
+(2.0-12) 
+2.0 
+(2.0-6.0) 
+2.0 
+(2.0-4.0) 
+ 
+Testosterone 
+Cmax (ng/mL) 
+7.9±2.9 
+(37%) 
+7.8±2.3 
+(30%) 
+6.7±2.3 
+(34%) 
+&AUC1-T 
+(ng*days/mL) 
+76.9±26.7  
+(35%) 
+37.2±11.7 
+(32%) 
+32.9±11.2 
+(34%) 
+***Tmax (days) 
+3.0  
+(2.0-5.0) 
+2.0 
+(1.0-4.0) 
+4.0 
+(1.0-6.0) 
+***Tcast (days) 
+19.6  
+(12.8-24.9) 
+ND 
+ND 
+*Original NDA 21-288 
+**AUC1-169 days for the 6-Month formulation and AUC 169-253d for the 3- and 1-Month formulations 
+&AUC1-169 days for the 6-Month formulation and AUC1-144 days for the 6-Month formulation  
+ ***Median (range) 
+ 
+ 
+After the first injection of the 6-month triptorelin formulation, the mean Cmax and AUC1-169 days for 
+triptorelin were 44.1±20.2 ng/mL and 111.5±43.3 ng.d/mL, respectively. The median Tmax was 3 days 
+(range=2-12 days).  A non-linear relationship was noted between each of mean Cmax and triptorelin 
+dose 
+FIGURE 7:  Relationship between Mean Cmax and Dose of Triptorelin  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+y = 16.237Ln(x) - 4.3056
+R2 = 0.9583
+0
+10
+20
+30
+40
+50
+60
+70
+0
+4
+8
+12
+16
+20
+24
+Dose (mg)
+Mean Triptorelin Cmax (ng/mL)
+(b) (4)
+
+
+===== PAGE 26 =====
+
+ 
+NDA 22-437 Clinical Pharmacology Review – Trelstar 
+ 
+17 
+The PK parameters for triptorelin following the second injection of the 6-month formulation 
+averaged 39.2±19.2 ng/mL, 115.2±31.9 ng.d/mL, and 0.19±0.26 ng/mL for Cmax, AUC1-169 days, and 
+Co, respectively. The median Tmax was 4 (range=1-24 hours). No accumulation was observed between 
+the first and second injection. The accumulation ratio calculated as AUC1-169 days (second injection/first injection) 
+averaged 1.13±0.26. In general, the variability in PK parameters was moderate, < 50%. 
+ 
+The mean Cmax and AUC1-169 days for testosterone after the 6-month formulation were 7.9±2.9 ng/mL 
+and 76.9±26.7 ng.d/mL, respectively. The median Tmax and time to castration (Tcast) were 3 days 
+(range=2-5 days) 19 days (range=13-25 days). Comparable Cmax values for serum testosterone were 
+between the 6- and 3-Month formulations. Cmax was 14% lower after the 1-Month formulation than 
+after the other formulations. 
+ 
+ 
+Study 201 
+This was a Phase 2, randomized, single-blind, parallel-group, single dose, study in 24 patients. Three 
+different triptorelin pamoate 6-month formulations were tested in 8 patients each. For each patient, 
+the duration of the treatment period was 169 days (~ 6 months), with a single IM injection of study 
+drug given on Day 1 and the final laboratory testing on Day 169. Blood samples for triptorelin PK 
+were drawn just prior to injection (time 0) and at 1, 2, 3, 4, 6, 8, and 10 hours after the injection on 
+Day 1, then on Days 2, 3, 4, 8, 15, 29, 57, 85, 113, 141, and 169. Triptorelin serum levels were 
+measured using a validated radioimmunoassay method. Testosterone levels were measured at t0 
+(prior to injection) on Day 1 and on Days 2, 3, 4, 8, 15, 29, 57, 85, 113, 141 and 169. Serum 
+testosterone levels were measured using a validated radioimmunoassay method. 
+The mean concentration-time profiles for triptorelin and testosterone from Study 201 following IM 
+injection of three different formulation are presented in Figures 10 and 11, respectively. Mean 
+percent of patients achieved castration testosterone levels of ≤0.5 ng/mL over the study period is 
+shown in Figure 12. The PK parameters are summarized in Table 11. 
+FIGURE 8:  Mean (SD) Triptorelin serum Concentration versus Time (N=8/Formulation) 
+from Study 201 
+ 
+ 
+Triptorelin
+0
+10
+20
+30
+40
+50
+60
+70
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+Days
+M e a n Triptos e rum  C onc e ntra tion (ng/m L)
+Formulation A
+Formulation B
+Formulation C
+Triptorelin
+0
+10
+20
+30
+40
+50
+60
+70
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+22
+24
+26
+28
+30
+Days
+M ean Triptorelin Serum  concentration 
+(ng/m L)
+Formulation A
+Formulation B
+Formulation C
+(b) (4)
+
+
+===== PAGE 27 =====
+
+ 
+NDA 22-437 Clinical Pharmacology Review – Trelstar 
+ 
+18 
+FIGURE 9:  Mean (SD) Testosterone Concentration versus Time (N=8/Formulation) from 
+Study 201  
+ 
+FIGURE 10:  Mean Percent of Patients with Castration Testosterone Serum Levels of > or= 
+0.5 ng/Ml (Study 201) 
+Study 201
+0
+20
+40
+60
+80
+100
+0
+25
+50
+75
+100
+125
+150
+Days
+Mean % of Patients with 
+Castrate Testosterone Level of 
+< or = 0.5 ng/mL
+Formulation A
+Formulation B
+Formulation C
+ 
+Table 12   Mean SD (%CV) PK Parameters after IM Injection of Triptorelin and Testosterone (Study 201) 
+ 
+Formulation 
+PK Parameters 
+A 
+(N=8) 
+B 
+(N=8) 
+C 
+(N=8) 
+ 
+Triptorelin 
+Cmax  
+(ng/mL) 
+81.1±17.1 
+(21%) 
+77.1±12.6 
+(16%) 
+67.3±19.1 
+(28%) 
+AUC1-169 days 
+(ng*d/mL) 
+98.2±30.9 
+(31%) 
+105±38.3 
+(36%) 
+108±22.9 
+(21%) 
+*Tmax (days) 
+3.5 
+(3.0-10) 
+3.5 
+(3.0-6.0) 
+4.0 
+(3.0-6.0) 
+ 
+Testosterone 
+Cmax (ng/mL) 
+8.25±2.2 
+(27%) 
+7.17±2.8 
+(38%) 
+7.48±2.0 
+(26%) 
+AUC1-169 days 
+(ng*days/mL) 
+106±21.0 
+(20%) 
+82.5±32.8 
+(40%) 
+105±25.2 
+(24%) 
+*Tmax (days) 
+2.0 
+3.0 
+2.0 
+Testosterone
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+Days
+Mean Testosterone Serum Concentration 
+(ng/mL)
+Formulation A
+Formulation B
+Formulation C
+Testoserone
+0
+2
+4
+6
+8
+10
+12
+0
+5
+10
+15
+20
+25
+30
+35
+Days
+Mean Testosterone SErum Concentration
+(ng/mL)
+Formulation A
+Formulation B
+Formulation C
+(b) (4)
+
+
+===== PAGE 28 =====
+
+ 
+NDA 22-437 Clinical Pharmacology Review – Trelstar 
+ 
+19 
+ 
+Formulation 
+PK Parameters 
+A 
+(N=8) 
+B 
+(N=8) 
+C 
+(N=8) 
+(1.0-3.0) 
+(1.0-3.0) 
+(1.0-3.0) 
+*Tcast (days) 
+24 
+(16-26) 
+20 
+(9.0-26) 
+24.5 
+(20-26) 
+    *Median (range) 
+As seen in the Table and Figures above, the formulations tested in the pilot Study 201 showed 
+comparable serum triptorelin and serum testosterone profiles. However, because 2 of the 8 patients 
+who received Formulation C had testosterone levels above castration levels at Day 169, the 
+Applicant discarded Formulation C for further development. Another formulation similar to 
+Formulation A was developed and was used in the pivotal Phase 3 Study 301. This formulation was 
+also proposed for marketing (see Section 2.5.3. of this review). Bioequivalence testing was performed 
+on Formulations A, B, and C (see Section 2.5.2. of this review). 
+There was no need to perform any bioequivalence testing between Formulation A and the one used 
+in Study 301. The formulation used in Study 301 was also the one proposed for marketing. From 
+Tables 10 and 11, it is noted that the mean AUC1-269 values were comparable between the two 
+formulations. However, mean Cmax was 1.8-fold higher after Formulation A than after the proposed 
+for marketing formulation. Mean Cmax for serum testosterone was comparable between the two 
+formulations, 7.9 ng/mL and 8.25 ng/mL, respectively.  
+Please refer to the original NDA 20-715 and 21-288 submissions for the following issues 
+2.2.5.2 
+How does the PK of the drug and its major active metabolites in healthy volunteers 
+compare to that in patients? 
+2.2.5.3 
+What are the characteristics of drug absorption? 
+2.2.5.4 
+What are the characteristics of drug distribution? 
+2.2.5.5 
+Does the mass balance study suggest renal or hepatic as the major route of 
+elimination?  
+2.2.5.6 
+What are the characteristics of drug metabolism?   
+2.2.5.7 
+What are the characteristics of drug excretion?  
+2.2.5.8 
+Based on PK parameters, what is the degree of linearity or non-linearity based in the 
+dose-concentration relationship? 
+2.2.5.9 
+How do the PK parameters change with time following chronic dosing? 
+2.2.5.10 What is the inter- and intra-subject variability of PK parameters in volunteers and 
+patients, and what are the major causes of variability? 
+2.3 
+ INTRINSIC FACTORS 
+2.3.1 What intrinsic factors (age, gender, race, weight, height, disease, genetic 
+polymorphism, pregnancy, and organ dysfunction) influence exposure (PK 
+usually) and/or response, and what is the impact of any differences in exposure 
+on efficacy or safety responses? 
+ 
+(b) (4)
+
+
+===== PAGE 30 =====
+
+ 
+NDA 22-437 Clinical Pharmacology Review – Trelstar 
+ 
+21 
+Table 13  Composition of Triptorelin Pamoate 6-Month Formulations 
+ 
+Formulations A, B, and C were used in the pilot Phase 2 Study 201. There was no statistically 
+significant difference between the three formulations in terms of log-transformed AUC and Cmax of 
+either triptorelin or testosterone (see Tables 14-16).   
+ 
+Table 14  Geometric Means, Geometric Mean Ratios, and 90% Confidence Intervals (CI) for Log-
+Transformed Cmax of Triptorelin 
+Formulation 
+Geometric Mean 
+Cmaxs 
+(ng/mL) 
+Test/ 
+Reference 
+Ratio (%) 
+90% CI 
+p-value 
+A 
+81.1 
+A/B 
+104 
+88-124 
+0.666 
+B 
+77.1 
+A/C 
+1.23 
+98-154 
+0.137 
+C 
+67.3 
+B/C 
+117 
+95-145 
+0.197 
+Table 15   Geometric Mean, Geometric Mean Ratios, and 90% Confidence Intervals (CI) for Log-
+Transformed AUC1-169 days of Triptorelin   
+Formulation 
+Geometric Mean 
+AUC1-169 days 
+(ng.d/mL) 
+Test/ 
+Reference 
+Ratio (%) 
+90% CI 
+p-value 
+A 
+94.4 
+A/B 
+95 
+70-128 
+0.753 
+B 
+99.7 
+A/C 
+89 
+71-111 
+0.368 
+C 
+106.3 
+B/C 
+94 
+72-122 
+0.672 
+Table 16  Geometric Means, Geometric Mean Ratios, and 90% Confidence Intervals for Log-
+Transformed Cmax of Testosterone 
+Formulation 
+Geometric Mean 
+Cmaxs 
+(ng/mL) 
+Test/ 
+Reference 
+Ratio (%) 
+90% CI 
+p-value 
+A 
+7.97 
+A/B 
+123 
+84-184 
+0.354 
+B 
+6.45 
+A/C 
+110 
+87-138 
+0.491 
+C 
+7.28 
+B/C 
+89 
+60-130 
+0.586 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 40 =====
+
+ 
+2
+ 
+The IVIVR is not acceptable because the formulations used to develop the 
+relationships did not have different release rates.  The IVIVR did not predict the entire 
+profile for the two phases of drug release. The IVIVR was able to predict only the AUC 
+but not the Cmax.  Additionally, the IVIVR did not meet the criteria for internal and 
+external predictability.  Therefore, this IVIVR can not be used to support any post-
+approval changes.   
+           
+Background 
+ 
+Triptorelin is a synthetic decapeptide agonist analogue of the naturally occurring 
+gonadotropin-releasing hormone (GnRH).  Triptorelin was originally developed as a 
+soluble acetate salt, formulated as a conventional solution for immediate release 
+(triptorelin acetate).  Triptorelin was further developed as an insoluble pamoate salt, 
+formulated as microgranules designed to deliver 3.75 mg of the active moiety over 28 
+days (1-month formulation), and then as microgranules to deliver 11.25 mg of the 
+active moiety over 84 days (3-month formulation).   
+ 
+Triptorelin was approved for the first time in 1986 in France for the treatment of 
+advanced prostate cancer.  In 2000, a 1-month formulation (3.75 mg) of triptorelin 
+(Trelstar® Depot) was approved in the United States for this indication under NDA 20-
+715.  A 3-month formulation (Trelstar® LA) was subsequently approved in 2001 under 
+NDA 21-288.   
+ 
+Watson is submitting NDA 22-437 for a new sustained release formulation (Trelstar® 
+) designed to release 22.5 mg of triptorelin over a period of 168 days (6 
+months).  This is achieved by 
+  This 
+ is primarily responsible for maintaining the 
+plasma concentration of triptorelin in the later months.  Watson is seeking approval for 
+the palliative treatment of advanced prostate cancer, 
+ 
+ 
+   This indication is the same as the one approved for the 
+1- and 3-month formulations.  
+ 
+Triptorelin pamoate 22.5 mg is a sterile, lyophilized, biodegradable microgranule 
+formulation supplied as a single-dose vial.  When 2 mL Sterile Water for Injection is 
+added to the vial containing the lyophilized microgranule formulation and mixed, a 
+suspension is formed which is intended as an intramuscular injection to be 
+administered every 168 days (i.e., every 24 weeks).  The triptorelin pamoate salt is 
+relatively insoluble in aqueous media (60µg/mL in water), which is critical for the 
+prolonged release.   
+ 
+ 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)

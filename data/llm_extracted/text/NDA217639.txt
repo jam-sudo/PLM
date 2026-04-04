@@ -1,0 +1,2151 @@
+
+
+===== PAGE 7 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation NDA: 217639 
+ORSERDU; elacestrant 
+6 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+Table of Tables 
+ 
+Table 1: Epidemiology of ER+/HER2- Breast Cancer (× 1,000) ..................................................... 25 
+Table 2: Summary of Pre-Submission Regulatory Activities ........................................................ 30 
+Table 3. Summary of key review issues and recommendations for NDA 217639 ....................... 77 
+Table 4. Rationale and description of post-marketing requirements for NDA 217639 ............... 78 
+Table 5: Logistic regression parameters for Exposure-Safety analysis ........................................ 83 
+Table 6: Odds Ratio for Nausea - Models for Concentration at 4 h post-dose and Covariates .... 84 
+Table 7: Summary of Non-Parametric Survival Analyses with Average Daily AUC ...................... 85 
+Table 8: Summary of Parametric Survival Analyses with Average Daily AUC .............................. 85 
+Table 9: General Pharmacology and Pharmacokinetic Highlights ............................................... 91 
+Table 10. Statistical Analysis of Pharmacokinetic Parameters (Hepatic Function Assessment) for 
+Elacestrant Following Single Oral Doses for Protocol RAD1901-117 ........................................... 97 
+Table 11. Most Frequently Observed ESR1 Mutations in Study RAD1901-308 ........................... 98 
+Table 12. ESR1 Mutations and Elacestrant PFS in Patients with ESR1 Mutated Population in 
+Study RAD1901-308 (N=228) ...................................................................................................... 98 
+Table 13: Listing of Clinical Studies ........................................................................................... 102 
+Table 14: All Protocol Versions .................................................................................................. 120 
+Table 15: Enrollment to Study RAD1901-308 By Region ........................................................... 124 
+Table 16: Major Protocol Deviations (Intent-to-Treat Population) ........................................... 125 
+Table 17: Major Protocol Deviations, ITT Population ................................................................ 126 
+Table 18: Demographic and Baseline Characteristics (Intent-to-Treat Population) .................. 128 
+Table 19: Race Information for Patients Enrolled to Study RAD1901-308 ................................ 129 
+Table 20: Baseline Disease Characteristics (Intent-to-Treat Population) .................................. 130 
+Table 21: Prior Therapies for Patients Enrolled To Study RAD1901-308 ................................... 131 
+Table 22: Blinded Imaging Review Committee Assessment of Progression-free Survival (Intent-
+to-Treat Population) .................................................................................................................. 135 
+Table 23 BICR Assessment of PFS in ESR1-mut-nd subpopulation ............................................ 136 
+Table 24 Restricted Mean Survival Time (RMST) Analysis of PFS per BICR ................................ 138 
+Table 25 Concordance and Discordance of IRC and INV Assessment of PFS in All Patients ...... 138 
+Table 26 Sensitivity Analysis of PFS per INV by Considering Palliative RT as Event ................... 140 
+Table 27 Number of Patients Censored for PFS per BICR within 2 Months ............................... 140 
+Table 28 Censoring Reason for PFS per BICR ............................................................................. 141 
+Table 29 PFS Sensitivity Analyses .............................................................................................. 143 
+Table 30: Overall Survival (Intent-to-Treat Population) ............................................................ 147 
+Table 31: Blinded Imaging Review Committee Assessment of Progression-free Survival in ESR1-
+mut-nd subjects (Population) .................................................................................................... 148 
+Table 32: Overall Survival in ESR1-mut-nd Subjects (Intent-to-Treat Population) ..................... 150 
+Table 33: Investigator Assessment of Progression-free Survival (Intent-to-Treat Population) .. 152 
+Table 34: Investigator Assessment of Progression-free Survival in ESR1-mut-nd Subjects (Intent-
+to-Treat Population) .................................................................................................................. 153 
+Table 35: Blinded Imaging Review Committee Assessment of Objective Response Rate 
+(Response Evaluable Population) .............................................................................................. 154 
+Reference ID: 5116375
+
+
+===== PAGE 12 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation NDA: 217639 
+ORSERDU; elacestrant 
+11 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+- Glossary 
+ADME  
+absorption, distribution, metabolism, and excretion 
+ADR 
+ 
+adverse drug reaction 
+AE 
+ 
+adverse event 
+AI 
+ 
+aromatase inhibitor 
+AUC 
+ 
+area under the plasma concentration-time curve 
+BBB 
+ 
+blood brain barrier 
+BCRP  
+breast cancer resistance protein 
+BLA 
+ 
+biologics license application 
+CB 
+ 
+clinical benefit 
+CBR 
+ 
+clinical benefit rate 
+CDK4/6 
+cyclin-dependent kinase 4/6 
+CL/F 
+ 
+central apparent clearance 
+Cmax  
+ 
+maximum plasma concentration 
+CMC 
+ 
+chemistry, manufacturing, and controls 
+CNS 
+ 
+central nervous system 
+CSR 
+ 
+clinical study report 
+CTCAE  
+Common Terminology Criteria for Adverse Event 
+CYP3A4 
+cytochrome P450 3A4 
+DDI 
+ 
+drug-drug interaction 
+DoR 
+ 
+duration of response 
+E2 
+ 
+17β-estradiol 
+ECG 
+ 
+electrocardiogram 
+ECOG  
+Eastern Cooperative Oncology Group 
+EPAR  
+European Public Assessment Report 
+E-R 
+ 
+Exposure response 
+ER+ 
+ 
+estrogen receptor positive 
+ERα 
+ 
+estrogen receptor-alpha 
+ESR1  
+estrogen receptor 1 gene 
+ESR1-mut 
+ESR1 mutation 
+ESR1-mut-nd ESR1 mutation not detected 
+FDA 
+ 
+Food and Drug Administration 
+FES 
+ 
+18F-fluoro-17β-estradiol 
+FES-PET/CT 
+16α-18F-fluoro-17β-estradiol positron emission tomography with low-dose 
+computed tomography 
+GCP 
+ 
+Good Clinical Practice 
+GLP 
+ 
+Good Laboratory Practice 
+HER2-  
+human epidermal growth factor receptor 2 negative 
+HR 
+ 
+hormone receptor 
+HRQOL 
+health-related quality of life 
+ICH 
+ 
+International Council for Harmonisation 
+IM 
+ 
+intramuscular 
+Reference ID: 5116375
+
+
+===== PAGE 13 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation NDA: 217639 
+ORSERDU; elacestrant 
+12 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+IND 
+ 
+Investigational New Drug 
+IQR 
+ 
+interquartile range 
+IRC 
+ 
+Imaging Review Committee 
+ISE 
+ 
+integrated summary of efficacy 
+ISS 
+ 
+integrated summary of safety 
+ITT 
+ 
+intent-to-treat 
+IV 
+ 
+intravenous 
+LH 
+ 
+luteinizing hormone 
+mBC 
+ 
+metastatic breast cancer 
+MedDRA 
+Medical Dictionary for Regulatory Activities 
+MTD 
+ 
+maximum tolerated dose 
+NCI 
+ 
+National Cancer Institute 
+NDA 
+ 
+new drug application 
+NOAEL  
+no observed adverse effect level 
+OR 
+ 
+objective response 
+ORR 
+ 
+objective response rate 
+OS 
+ 
+overall survival 
+OVX 
+ 
+ovariectomized 
+PBPK  
+physiologically-based PK 
+PD 
+ 
+pharmacodynamics 
+PFS 
+ 
+progression-free survival 
+P-gp 
+ 
+P-glycoprotein 
+PI 
+ 
+prescribing information 
+PK 
+ 
+pharmacokinetics 
+PopPK  
+population PK 
+PP 
+ 
+per protocol 
+PRO 
+ 
+patient reported outcome 
+PS 
+ 
+performance status 
+PT 
+ 
+preferred term 
+QD 
+ 
+once daily 
+Q/F 
+ 
+apparent intercompartmental clearance 
+QTc 
+ 
+heart rate-corrected QT interval 
+QTcF  
+QT interval corrected with Fridericia’s method 
+RECIST  
+Response Evaluation Criteria in Solid Tumors 
+RP2D  
+recommended Phase 2 dose 
+SAE 
+ 
+serious adverse event 
+SAP 
+ 
+statistical analysis plan 
+SCS 
+ 
+Summary of Clinical Safety 
+SERD  
+selective estrogen receptor degrader 
+SERM  
+selective estrogen receptor modulator 
+SOC 
+ 
+standard of care 
+t1/2 
+ 
+elimination half-life 
+TK 
+ 
+toxokinetics 
+TEAE  
+treatment-emergent adverse event 
+Reference ID: 5116375
+
+
+===== PAGE 40 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+39 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+elacestrant decreased serum LH concentration and bone mineral density (BMD) loss suggesting 
+elacestrant may have estrogen-like activity over LH levels and provide protection against 
+menopause related bone loss. 
+ 
+The Applicant conducted stand-alone GLP-compliant safety pharmacology studies with 
+elacestrant including an in vitro hERG assay and in vivo central nervous, cardiovascular, and 
+respiratory system assessments. Although per ICH S9 guidance stand-alone safety 
+pharmacology studies are not warranted to support a marketing application for oncology, the 
+studies were conducted as elacestrant was initially investigated for the treatment of 
+menopause-related vasomotor symptoms. Consequently, the studies were conducted using 
+female animals only. Elacestrant blocked the hERG channel up to approximately 87% at 1 µM 
+(IC50= 0.41 µM) and led to a complete block of the cardiac action potential of rabbit Purkinje 
+fibers at 10 µM. In vivo, following a single oral dose of 100 mg/kg or human equivalent dose 
+(HED) of 1200 mg/m2 (Cmax: 219 ng/mL [0.47 µM]) led to an increase in blood pressure (<10% to 
+control) and heart rate (<25% to control) up to 4 hours post dose but did not lead to QTc 
+prolongation in cynomolgus monkeys. Adverse cardiovascular effects were not observed in 
+patients with ER+HER2- advanced or metastatic breast cancer who received elacestrant at the 
+recommended dose. A single oral dose of elacestrant (≤100 mg/kg) in cynomolgus monkeys did 
+not have adverse effects on central nervous and respiratory systems.  
+ 
+The Applicant conducted GLP-compliant studies assessing the effect of elacestrant on bleeding 
+time and wound healing and non-GLP compliant studies evaluating gastrointestinal effects in 
+ferrets. Despite an increase in prothrombin time in rat toxicology studies and the 4-week 
+monkey toxicology study, daily oral administration of elacestrant at ≤50 mg/kg (300 mg/m2 
+HED) to rats led to a non-significant increase in mean clotting time and no effects on wound 
+healing. Administration of elacestrant to male ferrets up to 100 mg/kg (700 mg/m2 HED) via 
+daily oral gavage for 7 days led to dose-dependent adverse gastrointestinal effects such as low 
+food consumption, body weight loss, emesis, and abnormal feces at mean maximum plasma 
+concentrations (Cmax) ≥4.6 times the human Cmax at the recommended dose. Adverse 
+gastrointestinal effects were among the most common in patients administered elacestrant at 
+the recommended dose.  
+ 
+In vitro, elacestrant demonstrated high plasma protein binding (≥98%) in rat, monkey, and 
+human plasma. Following a single oral administration of elacestrant, exposures (Cmax and area 
+under the curve [AUC0-t]) increased greater than dose proportionally, and the bioavailability 
+was dose-dependent ranging from approximately 14% to 22% in rats and 7% to 18% in monkeys 
+for the dose range of 1 to 10 mg/kg. In repeat dose toxicology studies up to 26 weeks in rats 
+and 39 weeks in monkeys, exposures (Cmax and AUC0-24) generally increased greater than dose 
+proportionally with higher exposures (1.5 to 2.4-fold) observed in females rats compared to 
+male rats and no observed sex differences in monkeys. Accumulation ratios up to 3-fold were 
+noted in rats and <2-fold in monkeys, suggesting accumulation in rats but no to minimal in 
+monkeys following repeated administration of elacestrant. The time to reach maximum 
+Reference ID: 5116375
+
+
+===== PAGE 41 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+40 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+concentration (Tmax) was in the range of 2 to 12 hours in rats and 2 to 9 hours in monkeys, and 
+the terminal half-life was in the range of 3.5 to 12 hours in rats and 8 to 11 hours in monkeys. 
+Animal to human exposure margins were calculated using the mean steady state clinical Cmax 
+(119 ng/mL) and AUCtau (2440 ng.h/mL).  
+ 
+In vitro, approximately 50% of elacestrant was metabolized by human hepatocytes mainly 
+through N-dealkylation and glucuronidation with no human specific metabolites detected. 
+Following a single oral administration of elacestrant in rats, radiolabeled elacestrant was 
+detected in the majority of tissues, including ocular melanin containing tissues (eye uveal tract 
+of Long Evans rats), but not in the brain, eye lens, spinal cord, and testes, with maximum 
+exposures observed in tissues within 4 to 8 hours post-dose. Excretion was mainly via feces, 
+bile, and to a lesser extent in urine with the majority of administered elacestrant excreted 
+within 48 hours post-dose. 
+ 
+Repeat dose toxicology studies were conducted with elacestrant in rats and monkeys for up to 
+26 and 39 weeks, respectively, administered via daily oral gavage up to 50 mg/kg/day or 300 
+mg/m2 HED (4.1 times the human AUC at the recommended dose) in rats and up to 30 
+mg/kg/day or 360 mg/m2 HED (1.3 times the human AUC at the recommended dose) in 
+monkeys. In 4-week studies, elacestrant was administered via daily oral gavage up to 120 
+mg/kg/day or 720 mg/m2 HED (6.7 times the human AUC at the recommended dose) in rats and 
+up to 100 mg/kg/day or 1200 mg/m2 HED (3.3 times the human AUC at the recommended 
+dose) in monkeys. Early mortalities occurred at ≥100 mg/kg/day (4.3 times the human AUC at 
+the recommended dose) in rats (4- and 13-week studies) with signs of abnormal respiration and 
+at ≥50 mg/kg/day (2.1 times the human AUC at the recommended dose) in monkeys (4-week 
+study) with observations of body weight loss, decreased food consumption, excessive 
+salivation, vomitus, and diarrhea, leading to moribund conditions.  
+ 
+In surviving rats, abnormal respiration was observed at ≥50 mg/kg/day (2 times the human AUC 
+at the recommended dose) in ≤13-week studies and abnormal feces at ≥20 mg/kg/day (0.7 
+times the human AUC at the recommended dose) with microscopic correlates of inflammation 
+and foamy macrophage infiltration in the gastrointestinal tract at 100 mg/kg/day (4.3 times the 
+human AUC at the recommended dose). Clear oral discharge and/or salivation were noted in 
+rats (≥50 mg/kg/day) and monkeys (30 mg/kg/day), while decreased mean body weight and 
+mean body weight gain was generally limited to male rats (≥10 mg/kg/day) with corresponding 
+decrease in food consumption. Vomiting, diarrhea, and decreased appetite were common 
+adverse events in postmenopausal women and men with ER+HER2- advanced or metastatic 
+breast cancer receiving elacestrant. 
+ 
+Reversible hematological changes across the rat studies were generally comparable and were 
+limited to doses ≥50 mg/kg/day in monkeys. Changes included increase in red blood cell 
+parameters in rats (decrease in monkeys), increase in prothrombin time and white blood cell 
+Reference ID: 5116375
+
+
+===== PAGE 42 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+41 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+parameters (generally neutrophils and monocytes), and decrease in reticulocytes. Reversible 
+clinical chemistry changes in both rats and monkeys included increased liver enzymes (ALT 
+and/or AST), decrease in total protein, albumin, and cholesterol. Additional changes in rats 
+generally included decreases in glucose and albumin/globulin ratio. An increase in cholesterol 
+and triglyceride levels was observed in 30% and 27% of patients, respectively. The label 
+includes hypercholesterolemia and hypertriglyceridemia under Warnings and Precautions.  
+ 
+Histopathology changes in rats and monkeys, other than those of the male and female 
+reproductive organs (discussed below under fertility studies), were generally observations of 
+increase in macrophage and/or neutrophilic infiltrates in mesenteric lymph node, lung, small 
+and large intestines and mammary gland atrophy or hypertrophy/hyperplasia. Additionally in 
+the 26-week rat study, minimal alteration (females) and increase (males) in trabecular bone in 
+femur, slight increase in granulocytes in glandular stomach and increased vacuolation in non-
+glandular stomach were observed. 
+ 
+In genetic toxicology studies, elacestrant was not mutagenic in an in vitro bacterial reverse 
+mutation (Ames) assay or, clastogenic in either in vitro chromosome aberration assays or an in 
+vivo rat bone marrow micronucleus assay. Carcinogenicity studies were not conducted with 
+elacestrant in accordance with ICH S9 guidance; however, of note, in the rat 26-week repeat 
+dose toxicology study B-granulosa cell tumor was observed at ≥25 mg/kg/day (2.6 times the 
+human AUC at the recommended dose) in approximately 40 to 50% of female rats and B-
+luteoma at 50 mg/kg/day (5.6 times the human AUC at the recommended dose) in 10% of 
+female rats. Additionally, elacestrant did not demonstrate phototoxicity up to 31.6 µg/mL in an 
+in vitro GLP-compliant study.  
+ 
+Dedicated fertility, early embryonic development, pre- and postnatal development studies were 
+not conducted with elacestrant in accordance with ICH S9 guidance and the intended indication 
+for the treatment of patients with advanced cancer. The Applicant assessed the effects of 
+elacestrant on reproductive organs in the rat and monkey as part of the GLP-compliant repeat-
+dose toxicology studies and provided results from a GLP-compliant embryofetal development 
+(EFD) study in rats. Toxicities to female reproductive organs from the 26-week (rat) and 39-
+week (monkey) general toxicology studies included vaginal, cervical, and uterine atrophy, 
+increased vaginal epithelium mucification (rat), ovarian follicular cysts, increased ovarian 
+stroma (monkey), and granulosa cell hyperplasia (rat) in the ovaries at ≥10 mg/kg/day (≥0.3 
+times the human AUC at the recommended dose). Toxicities to male rat reproductive organs 
+included decreased cellularity of Leydig cells and degeneration/atrophy of the seminiferous 
+epithelium in the testis at 50 mg/kg/day (2.6 times the human AUC at the recommended dose).  
+ 
+Elacestrant was embryo lethal and teratogenic when administered to pregnant rats at ≤30 
+mg/kg via daily oral gavage during the period of organogenesis on gestational days 6 through 
+17 followed by cesarean section on gestational day 21. Elacestrant-related maternal toxicity 
+Reference ID: 5116375
+
+
+===== PAGE 49 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+48 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+mean plasma concentration was 557 ng/mL and 973 ng/mL at 4 to 8 hours post dose at 30 and 
+100 mg/kg on Day 7. 
+#16RAD231 – Administration of elacestrant to male ferrets (n=6/group) at 0, 30, or 60 mg/kg 
+via either 
+ film or 
+ coated tablets for 7 days generally led to low food 
+consumption in 30% to 60% of the animals given ≥30 mg/kg/day 
+ film tablets and 60 
+mg/kg/day 
+ coated tablets without any adverse effects on body weight. Emesis was 
+noted in 80% to 100% of the animals at ≥30 mg/kg/day 
+ film tablets on all observational 
+days (1, 2, 3, 7) without a clear dose relationship, while a lower incidence of emesis occurred in 
+animals given the 
+ coated tablets namely on Day 3.  
+5.4. ADME/PK 
+The Applicant’s Position: 
+Absorption 
+After single-dose oral administration of elacestrant, the mean time to reach maximum concentration (Tmax) 
+ranged from 1.75 to 24 hours in rats and from 1 to 8 hours in monkeys. The oral bioavailability of elacestrant at 
+doses ranging from 1 to 10 mg/kg was dose-dependent in rats and monkeys, ranging from 14.0% to 22.3% in 
+rats and from 7.6% to 18.1% in monkeys. 
+Distribution 
+Elacestrant was highly bound to the proteins in rat, monkey, and human plasma (approximately 99% binding). 
+The percent unbound values were similar across the species and did not show the concentration dependence 
+over the tested concentration range. 
+After oral administration of radiolabeled elacestrant in in a tissue distribution study in nonpigmented Sprague 
+Dawley and partially pigmented Long Evans rats. In a tissue distribution study, elacestrant-derived radioactivity 
+was readily distributed to most tissues, with the highest exposures of radioactivity (excluding the 
+gastrointestinal tract and contents) in the exorbital lacrimal gland, adrenal gland, liver, spleen, and intraorbital 
+lacrimal gland for nonpigmented Sprague Dawley rats and in the uveal tract, eye, pituitary gland, liver, and 
+Harderian gland for partially pigmented Long Evans rats. Poor distribution to the brain was noted. Tmax was 
+reached by 2 to 4 hours postdose in blood and plasma and by 4 to 8 hours postdose in the majority of tissues. 
+Mean blood:plasma radioactivity concentration ratios ranged from 0.899 to 1.55.  
+Metabolism 
+Elacestrant metabolism was assessed in an in vitro study using rat, monkey, and human hepatocytes, and 
+additional metabolite profiling and identification were assessed in rat plasma, urine, and feces collected from 
+an in vivo absorption, distribution, metabolism, and excretion (ADME) study following a single oral dose of 14C-
+elacestrant. 
+Elacestrant was extensively metabolized in rats, both in vitro in hepatocytes (< 25% parent remaining) and in 
+vivo (yielding 53 metabolites), and in vitro in monkey hepatocytes (< 33% parent remaining). Less extensive 
+metabolism was observed in human hepatocytes (approximately 40% to 50% parent remaining). No human-
+specific metabolites were detected in hepatocyte incubations. In vitro, N-dealkylation and glucuronidation were 
+common metabolic pathways in all species. In vivo in rats, metabolism occurred primarily by oxidative N-
+dealkylation. 
+Excretion 
+In rats, the predominant route of excretion was biliary-fecal. Following oral administration of 14C-elacestrant, 
+radioactivity was excreted as elacestrant parent form in feces from both intact and bile duct-cannulated rats, as 
+metabolites in feces and urine (to a lesser extent) from intact rats, and predominantly as conjugated 
+metabolites in bile from bile duct-cannulated rats. No urinary or biliary excretion of elacestrant parent form was 
+observed. Radioactivity was excreted quickly, with most of the administered dose recovered within 48 hours 
+postdose. Minor sex-dependent differences in excretion of radioactivity were observed. 
+Summary PK parameters from pharmacokinetic studies 
+Reference ID: 5116375
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 50 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+49 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+Single-dose PK and toxokinetics of elacestrant were investigated following intravenous (IV) bolus, oral, or 
+subcutaneous administration to rats and following IV, oral, or nasogastric intubation administration to 
+monkeys; doses ranged from 1 to 900 mg/kg in rats and from 0.85 mg/kg to 200 mg/animal in monkeys. 
+Clearance of elacestrant following a single IV dose of 1 mg/kg was approximately 2.12 ± 0.168 L/h/kg in female 
+rats and 1.53 ± 0.431 L/h/kg in female cynomolgus monkeys, representing approximately 64% and 59% of liver 
+blood flow in rats (3.31 L/h/kg) and monkeys (2.61 L/h/kg), respectively (Davies and Morris, 1993). The volume 
+of distribution in female rats and cynomolgus monkeys was 19.1 ± 2.39 L/kg and 23.8 ± 5.36 L/kg, respectively. 
+Repeat-dose oral toxokinetics (TK) of elacestrant was evaluated in rats and monkeys at doses ranging from 3 to 
+300 mg/kg/day. 
+Increases in maximum plasma concentration (Cmax) and area under the plasma concentration-time curve (AUC) 
+were dose proportional or slightly greater than dose proportional up to doses of 100 mg/kg/day but were 
+generally less than dose proportional at doses higher than 100 mg/kg/day. Female exposures were higher than 
+in males for the 13- and 26-week rat studies, but in other studies no marked (> 2-fold) sex differences were 
+observed in rats or monkeys. 
+Accumulation ratios ranged from 0.722 to 3.47 in the 13- and 26-week repeat-dose studies in rats but no 
+accumulation or slight accumulation (< 2-fold) was observed in rats and monkeys following repeated 
+administration in other studies. 
+Integrative summary table of Cmax and AUC parameters across toxicology studies (general, 
+reproductive, and carcinogenicity, if conducted).  
+A summary of Cmax and AUC parameters can be found in Table 3 and Table 4 of Module 2.6.4.  
+Tabulation of any exposure margins used in proposed labeling. 
+Exposure margins will be calculated by FDA. (As per comments to the AAid) 
+The FDA’s Assessment: 
+The FDA generally agrees with the Applicant’s position. See the clinical pharmacology Section 6 
+for information regarding human data and drug interaction studies.  
+ 
+Data (presented by the FDA): 
+Reference ID: 5116375
+
+
+===== PAGE 51 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+50 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+Type of Study 
+Major Findings 
+Absorption 
+ 
+Collection of Samples for 
+Determination of the 
+Bioavailability of RAD-1901 
+After Single Oral and 
+Intravenous Doses to 
+Female Rats  
+(Study# 7801-122) 
+Rat  
+Following a single oral administration of elacestrant:  
+• 
+Cmax and AUC0-t generally increased greater than dose proportionally  
+• 
+Tmax was reached at 4 hours post dose and the half-life was approximately 6 
+hours 
+• 
+Bioavailability was dose dependent and ranged from 14 to 22.3% 
+ 
+Mean PK parameters of elacestrant in female rats  
+Dose* 
+(mg/kg) 
+Cmax 
+(ng/mL) 
+Tmax (hr) 
+AUC0-t 
+(ng.h/mL) 
+T1/2 (hr) 
+Bioavailability (%)  
+0.87 
+5.81 
+4 
+40 
+6.10 
+14 
+2.60 
+17.1 
+4 
+204 
+5.79 
+17.8 
+9.85 
+80.5 
+4 
+948 
+6.43 
+22.3 
+*Intended doses were 1, 3, and 10 mg/kg  
+ 
+Collection of Samples for 
+Determination of the 
+Bioavailability of RAD-1901 
+After Single Oral and 
+Intravenous Doses to 
+Female Monkeys 
+(Study# 7801-121) 
+Monkey  
+Following a single oral administration of elacestrant:  
+• 
+Cmax and AUC0-t increased greater than dose proportionally  
+• 
+Tmax ranged from 1 to 4 hours post dose, and the half-life ranged from 
+approximately 9 to 11 hours  
+• 
+Bioavailability was dose dependent and ranged from 7.6 to 18.1% 
+ 
+Mean PK parameters of elacestrant in female monkeys 
+Dose* 
+(mg/kg) 
+Cmax (ng/mL) 
+Tmax (hr) 
+AUC0-t 
+(ng.h/mL) 
+T1/2 (hr) 
+Bioavailability (%)  
+0.96 
+3.85 
+4 
+35.2 
+11.1 
+7.6 
+3.06 
+25.5 
+1 
+226 
+9.74 
+12.8 
+10.6 
+87.2 
+2 
+1052 
+10.3 
+18.1 
+*Intended doses were 1, 3, and 10 mg/kg  
+ 
+Distribution 
+ 
+In Vitro Binding of RAD-1901 
+to Rat, Monkey, and Human 
+Plasma Proteins  
+(Study# 7801-132) 
+The protein binding of elacestrant in rat (n=3 females), monkey (n=3 females), 
+and human (n=3 females) pooled plasma was determined by equilibrium dialysis 
+for 1 hour at concentrations of 20, 50, 100, 1,000, and 10000 ng/mL. 
+• 
+Plasma protein binding was not dose or species dependent at the tested 
+concentrations.  
+• 
+RAD-1901 was 100% protein bound to plasma proteins from rat, monkey, 
+and human plasma at ≥20 ng/mL.  
+Determination of In Vitro 
+Protein Binding of 
+Elacestrant (RAD1901) in 
+Sprague Dawley Rat, 
+Cynomolgus Monkey, and 
+Human Plasma Using 
+Ultracentrifugation 
+The protein binding of RAD-1901 in rat, monkey, and human pooled plasma 
+(n=3/sex/species) was determined by ultracentrifugation for 6 hours, 37°C, at 
+concentrations of 0.2, 2, and 20 μM. Samples were analyzed using LC-MS/MS. 
+• 
+RAD-1901 bound ≥98% to the proteins in rat, monkey, and human plasma at 
+≥0.2 µM. 
+Reference ID: 5116375
+
+
+===== PAGE 53 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+52 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+Study with RAD1901 in Rats 
+with a 4-Week Recovery 
+Phase (Study # 15RAD215) 
+Drug/Exposure Relationship: Cmax and AUC0-24 generally increased greater than 
+dose proportionally with 1.5 to 2.4-fold higher exposures in females compared to 
+males upon repeated dosing 
+Accumulation:  1.3 to 2.4x (Day 88 vs. Day 1) and 1.5 to 3.1x (Day 178 vs. Day 1); 
+accumulation ratios higher in females correlating to the higher exposures 
+observed in females 
+T1/2 and/or Tmax:  5.75 to 12 hours (T1/2; Day 1), and 2 to 6 hours (Tmax) 
+independent of dose 
+ 
+Mean plasma TK parameters of elacestrant in rat (26-week dosing) 
+Study 
+Day 
+Dose 
+(mg/kg) 
+Sex  
+Cmax 
+(ng/mL) 
+Cmax Ratio 
+AUC0-24 
+(ng.h/mL) 
+AUC0-24 
+Ratio 
+Day 1 
+ 
+10 
+M 
+46.8 
+1.0 
+546 
+1.0 
+F 
+54.8 
+1.0 
+782 
+1.0 
+25 
+M 
+184 
+3.9 
+2180 
+4 
+F 
+163 
+3 
+2100 
+2.7 
+50 
+M 
+447 
+10 
+4370 
+8 
+F 
+505 
+9.2 
+5700 
+7.3 
+Day 
+88 
+ 
+10 
+M 
+115 
+1.0 
+942 
+1.0 
+F 
+173 
+1.0 
+1500 
+1.0 
+25 
+M 
+266 
+2.3 
+2840 
+3 
+F 
+399 
+2.3 
+4970 
+3.3 
+50 
+M 
+323 
+2.8 
+5570 
+5.9 
+F 
+653 
+3.8 
+11500 
+7.7 
+Day 
+178 
+ 
+ 
+ 
+ 
+10 
+M 
+125 
+1.0 
+1180 
+1.0 
+F 
+190 
+1.0 
+1890 
+1.0 
+25 
+M 
+275 
+2.2 
+3800 
+3.2 
+F 
+415 
+2.2 
+6460 
+3.4 
+50 
+M 
+414 
+3.3 
+6470 
+5.5 
+F 
+982 
+5.2 
+13600 
+7.2 
+13-Week Oral Gavage 
+Toxicity and Toxicokinetic 
+Study with RAD-1901 in 
+Rats with a 4-Week 
+Recovery Phase (Study# 
+7801-130) 
+Rat  
+Dosing schedule: once daily  
+Drug/Exposure Relationship: Cmax increased dose proportionally and AUC0-24 
+greater than dose proportionally with approximately 2-fold higher exposures in 
+females compared to males  
+Accumulation: 1.2 to 1.7x (Day 90 vs. Day 1) 
+T1/2 and/or Tmax:  3.5 to 6 hours (T1/2; Day 1), and 2 to 12 hours (Tmax) independent 
+of dose 
+ 
+Mean plasma TK parameters of elacestrant in rat (13-week dosing) 
+Study 
+Day 
+Dose 
+(mg/kg) 
+Sex  
+Cmax 
+(ng/mL) 
+Cmax Ratio 
+AUC0-24 
+(ng.h/mL) 
+AUC0-24 
+Ratio 
+Day 1 
+ 
+20 
+M 
+85.3 
+1.0 
+788 
+1.0 
+F 
+114 
+1.0 
+1270 
+1.0 
+50 
+M 
+215 
+2.5 
+2558 
+3.2 
+F 
+277 
+2.4 
+4379 
+3.4 
+100 
+M 
+523 
+6.1 
+6888 
+8.7 
+F 
+588 
+5.2 
+9889 
+7.8 
+Day 
+90 
+ 
+20 
+M 
+78.5 
+1.0 
+1099 
+1.0 
+F 
+157 
+1.0 
+2176 
+1.0 
+50 
+M 
+217 
+2.8 
+3259 
+3 
+F 
+411 
+2.6 
+6592 
+3 
+100 
+M 
+435 
+5.5 
+7934 
+7.2 
+F 
+852 
+5.4 
+13231 
+6 
+Reference ID: 5116375
+
+
+===== PAGE 54 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+53 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+39-Week Toxicity and 
+Toxicokinetic Oral Gavage 
+Study with RAD1901 in 
+Cynomolgus Monkeys with 
+a 4-Week Recovery Phase 
+(Study#15RAD216) 
+Monkey  
+Dosing schedule: once daily  
+Drug/Exposure Relationship: Cmax and AUC0-24 generally increased greater than 
+dose proportionally, with no apparent gender differences 
+Accumulation: ≤1.7x (Day 89 vs. Day 1) and ≤1.3x (Day 270 vs. Day 1) 
+T1/2 and/or Tmax:  8 to 11 hours (T1/2; Day 1), approximately 3 to 6 hours (Tmax)  
+ 
+Mean plasma TK parameters of elacestrant in monkey (39-week dosing) 
+Study 
+Day 
+Dose 
+(mg/kg) 
+Sex  
+Cmax  
+(ng/mL) 
+Cmax 
+Ratio 
+AUC0-24 
+(ng.h/mL) 
+AUC0-24 
+Ratio 
+Day 1 
+ 
+10 
+M 
+38.4 
+1.0 
+518 
+1.0 
+F 
+40.6 
+1.0 
+527 
+1.0 
+20 
+M 
+118 
+3.1 
+1650 
+3.2 
+F 
+97 
+2.4 
+1270 
+2.4 
+30 
+M 
+228 
+5.9 
+3120 
+6 
+F 
+214 
+5.3 
+3080 
+5.8 
+Day 89 
+ 
+10 
+M 
+47.1 
+1.0 
+731 
+1.0 
+F 
+69.7 
+1.0 
+886 
+1.0 
+20 
+M 
+134 
+2.8 
+1920 
+2.6 
+F 
+101 
+1.5 
+1480 
+1.7 
+30 
+M 
+245 
+5.2 
+3780 
+5.2 
+F 
+257 
+3.7 
+4110 
+4.6 
+Day 
+270  
+10 
+M 
+44.6 
+1.0 
+645 
+1.0 
+F 
+49 
+1.0 
+700 
+1.0 
+20 
+M 
+111 
+2.5 
+1910 
+3 
+F 
+105 
+2.1 
+1640 
+2.3 
+30 
+M 
+152 
+3.4 
+2840 
+4.4 
+F 
+211 
+4.3 
+3520 
+5 
+13-week Nasogastric 
+Intubation Toxicity and 
+Toxicokinetic Study in 
+Monkeys with a 4-week 
+Recovery Phase 
+(Study#7801-134) 
+Monkey  
+Dosing schedule: once daily  
+Drug/Exposure Relationship: Cmax and AUC0-24 generally increased dose 
+proportionally, with no apparent gender differences 
+Accumulation: ≤1.3x (Day 90 vs. Day 1)  
+T1/2 and/or Tmax:  8 to 11 hours (T1/2; Day 1), approximately 2 to 8 hours (Tmax)  
+ 
+Mean plasma TK parameters of elacestrant in monkey (13-week dosing) 
+Study 
+Day 
+Dose 
+(mg/kg) 
+Sex  
+Cmax 
+(ng/mL) 
+Cmax Ratio 
+AUC0-24 
+(ng.h/mL) 
+AUC0-24 
+Ratio 
+Day 1 
+ 
+10 
+M 
+80.5 
+1.0 
+823 
+1.0 
+F 
+52.6 
+1.0 
+671 
+1.0 
+20 
+M 
+162 
+2 
+1956 
+2.4 
+F 
+111 
+2.1 
+1582 
+2.4 
+30 
+M 
+296 
+3.7 
+3838 
+4.7 
+F 
+168 
+3.2 
+2562 
+3.8 
+Day 
+90 
+ 
+10 
+M 
+61.9 
+1.0 
+775 
+1.0 
+F 
+79.1 
+1.0 
+914 
+1.0 
+20 
+M 
+131 
+2.1 
+1882 
+2.4 
+F 
+135 
+1.7 
+2099 
+2.3 
+30 
+M 
+253 
+4 
+4124 
+5.3 
+F 
+239 
+3 
+3250 
+3.6 
+TK data from reproductive 
+toxicology studies 
+An Oral Gavage Embryo-
+Fetal Developmental 
+Rat  
+Dosing schedule: once daily  
+Drug/Exposure Relationship: Cmax and AUC0-24 generally increased greater than 
+dose proportionally  
+Reference ID: 5116375
+
+
+===== PAGE 55 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+54 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+5.5. Toxicology  
+5.5.1. 
+General Toxicology 
+The Applicant’s Position 
+Integration of multiple toxicology studies demonstrates that elacestrant was generally well 
+tolerated at doses and exposure levels that exceeded the anticipated therapeutic levels in 
+humans. 
+Single-Dose Toxicity Studies 
+Single-dose oral toxicity studies have been conducted in Sprague-Dawley female rats at doses 
+up to 1200 mg/kg and in female cynomolgus monkeys at doses up to 500 mg/kg. 
+In 2 single-dose studies in female rats, the oral maximum tolerated dose (MTD) was 900 mg/kg 
+(GLP Study 7801-113; 7801-111). There were elacestrant-related clinical observations at > 900 
+mg/kg, body weight decreases at > 600 mg/kg, clinical pathology changes at > 100 mg/kg, thus 
+the NOAEL was set at 100 mg/kg. 
+In the single escalating-dose monkey study, the oral MTD was > 500 mg/kg (GLP Study 7801-
+112). No adverse finding was recorded following a single IV dose (MTD at 0.85 mg/kg) in 
+monkeys (GLP Study 7801-136). 
+Repeat-Dose Toxicity Studies 
+Elacestrant has been dosed up to 26 weeks in rats (GLP studies 7801-114, 16RAD206, 7801-130, 
+and 15RAD215) and up to 39 weeks in monkeys (GLP studies 7801-115, 7801-134, and 
+15RAD216) in repeat-dose toxicity studies. Initial studies were performed in female animals 
+only, but a 28-day rat study and all longer-duration toxicity studies in rats and monkeys 
+included both sexes of animals to reflect clinical use that will include both men and women. 
+Overall, the most relevant toxicological effects were adverse macroscopic and microscopic 
+findings (atrophy of uterus, vagina and cervix and ovary cysts) in female reproductive organs at 
+Toxicity and Toxicokinetic 
+Study of RAD1901 
+(Elacestrant) in Crl:CD (SD) 
+Rats (Study#19RAD230) 
+ 
+Accumulation: Minimal, 1.5 to 2x (GD 17 vs.GD 6)  
+T1/2 and/or Tmax:  4 to 8 hours (Tmax)  
+ 
+Mean TK parameters of elacestrant in maternal rat plasma 
+Study 
+Day 
+Dose 
+(mg/kg) 
+Cmax 
+(ng/mL) 
+Tmax (h) 
+AUC0-24 
+(ng.h/mL) 
+T1/2 (h) 
+GD 6 
+ 
+3 
+9.67 
+8 
+121 
+NR 
+10 
+40.2 
+8 
+600 
+NR 
+30 
+181 
+8 
+2750 
+NR 
+GD 17 
+3 
+13.2 
+4 
+188 
+NR 
+10 
+76.3 
+4 
+1220 
+8.72 
+30 
+299 
+8 
+5110 
+NR 
+GD: gestational day; NR: not reported due to inability to calculate the elimination phase   
+ 
+Note: On GD 6 and 17, the 0.3 mg/kg/day group received approximately 54% to 
+79% of the intended dose and the concentrations were generally below the 
+lower limit of quantitation (<5.00 ng/mL); therefore, the group was excluded 
+from the TK analysis. No assessments were made in amniotic fluid or fetal serum. 
+ 
+Reference ID: 5116375
+
+
+===== PAGE 81 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+80 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+dependent, with a trend for decreasing CL/F with increasing dose after single and repeat dose 
+administration. 
+Excretion: Elacestrant and its metabolites are mainly excreted in the feces (81.5%) after oral 
+administration. Excretion in the urine is minor (7.53%), with only a small fraction of the dose 
+being excreted as unchanged elacestrant.  
+Clinical Pharmacokinetics: 
+Elacestrant Cmax and AUC increased with increasing oral dose in a greater than dose-
+proportional manner after a single dose (> 43 mg) and after repeated dosing (> 22 mg orally 
+once daily [QD]). This may be ascribed to saturation of intestinal first-pass metabolism 
+mediated by CYP3A4. Accumulation was observed, with an accumulation ratio (Rac) of 
+approximately 2 (for both Cmax and AUC) after 7 days of QD oral administration. In the final 
+PopPK analysis, elacestrant was absorbed following linear kinetics with a lag time (Tlag) of 0.81 
+hours. 
+Elacestrant elimination half-life (t1/2) was approximately 30 hours independent of dose. After 
+repeated oral administration, elacestrant t1/2 tended to be longer (up to 47 hours). 
+In vitro victim DDI risk: Elacestrant is mainly metabolized by CYP3A4. Elacestrant is not a 
+substrate of efflux transporters, renal transporters, or hepatic transporters with the exception 
+of OATP2B1. 
+In vitro perpetrator DDI risk: The DDI potential of elacestrant was assessed in vitro with all 
+common metabolic enzymes and transporters. Elacestrant does not induce or inhibit CYP450 at 
+therapeutic concentrations. Elacestrant does not inhibit renal and hepatic transporters, 
+however it is a relevant inhibitor of P-gp and BCRP transporters. 
+Summary of the Effect of Intrinsic Factors 
+Special Population 
+Hepatic impairment: 
+Elacestrant exposure and t1/2 tended to increase with increasing severity of hepatic impairment. 
+Exposure in subjects in the mild hepatic impairment group was similar to that of the normal 
+hepatic function group. The AUCs of the moderate hepatic impairment group were 
+considerably higher (76% to 83%) than those of the normal hepatic function group. Based on 
+PBPK model simulations, elacestrant exposure in subjects with severe hepatic impairment 
+would increase considerably (about 3-fold for AUC and 2-fold for Cmax) compared to subjects 
+with normal hepatic functions. 
+Demographic factors: 
+During the final PopPK analysis, several intrinsic factors (e.g., body weight, sex, clinical 
+laboratory values) were investigated and statistically tested in order to characterize their effect 
+on elacestrant PK variability across studied populations. Baseline body weight was a significant 
+covariate on all volumes and clearances, which increased with increasing body weight; CL/F was 
+also found to decrease with age and apparent intercompartmental clearance (Q/F) was higher 
+for male subjects. 
+Reference ID: 5116375
+
+
+===== PAGE 82 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+81 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+Health status, time-varying body weight, and clinical laboratory parameters were explored and 
+did not reveal any trends on major PK parameters. Based on the magnitude of the covariate 
+effects, no dose adjustment due to weight, age, or sex appeared to be necessary. 
+Summary of the Effect of Extrinsic Factors 
+Effect of food: 
+Administration of elacestrant with food (high-fat meal) increased systemic exposure of 
+elacestrant compared to fasted conditions. Elacestrant AUC was increased by 22% (12% to 34%) 
+and Cmax by 42% (26% to 60%) when elacestrant 400-mg commercial tablet was administered in 
+the fed state compared to administration when fasted. 
+Drug-drug interactions: 
+Coadministration of elacestrant with itraconazole (a strong CYP3A4 inhibitor) increased the 
+elacestrant Cmax by 4.4-fold (3.95- to 4.38-fold) and AUC by 5.3-fold (4.7- to 5.9-fold). 
+Coadministration of elacestrant with rifampin (a strong CYP3A4 inducer) decreased the 
+elacestrant Cmax by 73% (69% to 77%) and AUC by 86% (84% to 88%). 
+Simulations using a PBPK model predicted that inhibitors of CYP3A4 increase elacestrant 
+exposure (AUC increase ≥ 5-fold, ≥ 2-fold and < 5-fold, and < 2-fold for strong, moderate, and 
+weak inhibitors, respectively) and moderate inducers of CYP3A4 decrease elacestrant exposure 
+(AUC decrease ≥ 50% and < 80%). 
+Coadministration of elacestrant with an acid-reducing agent (omeprazole) had no significant 
+effect on elacestrant PK. 
+Coadministration of elacestrant with warfarin (both very highly protein-bound drugs) showed 
+no significant effect on either elacestrant or warfarin PK. The PD of warfarin were also 
+unaffected by the presence of elacestrant. 
+Summary of Exposure-Response Analyses 
+Exposure-efficacy relationship: 
+In an initial exposure-efficacy analysis performed using data from Phase 1 studies (Studies 
+RAD1901-005 and RAD1901-106) in the dose range 200 to 600 mg QD, no relationship was 
+identified between various elacestrant exposure metrics (AUC, Cmax, and Cmin) metrics and 
+efficacy endpoints (objective response [OR] and Clinical Benefit [CB]). 
+In the final E-R analysis for efficacy performed using data from the Phase 3 Study RAD1901-308, 
+in both the nonparametric and the parametric survival analysis for PFS, elacestrant exposure 
+(AUCav) did not achieve the predefined significance level of p < 0.001. This indicates no 
+difference in PFS across the observed range of elacestrant exposures. 
+The results of both analyses support the fact that maximum efficacy is achieved for doses ≥ 173 
+mg QD, in line with the high target engagement (i.e., mean percentage reduction from baseline 
+of 18F-fluoro-17β-estradiol [FES] uptake ≥ 75%) observed in Study RAD1901-106. Despite some 
+trends of survival associated with some covariates, no statistically significant (p > 0.001) 
+differences in response to treatment were observed among subpopulations (e.g., visceral 
+metastasis, estrogen receptor 1 [ESR1] gene mutational status, and prior lines of therapy). 
+Reference ID: 5116375
+
+
+===== PAGE 88 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+87 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+aged 65 years old. This reduction in clearance with age translates in a negligible increase in 
+elacestrant AUC at steady state (AUCss) for all age groups, as shown in Figure 3. Therefore, no 
+dose adjustment appears to be necessary for age. 
+Gender 
+Gender was found to affect elacestrant intercompartmental clearance (Q/F). The increase in 
+Q/F for males with respect to females (1.28-fold) translates into a slightly higher mean AUCss 
+for females. However, as shown in Figure 4, the interquartile ranges and whiskers of the AUCss 
+distribution overlap, thus indicating that no dose adjustment is required based on gender. 
+Body Weight 
+Body weight was found to affect all elacestrant PK parameters (i.e., CL/F, apparent volume of 
+distribution of the central compartment [Vc/F], Q/F, and apparent volume of distribution of the 
+peripheral compartment [Vp/F]). Nevertheless, the combined effect of body weight on 
+elacestrant PK parameters does not translate into a significant change in AUCss in the explored 
+range of body weight (41.3 kg to 142.6 kg) (Figure 5). Therefore, no dose adjustment is 
+warranted based on body weight. 
+Hepatic Impairment 
+The effect of mild and moderate hepatic impairment on elacestrant PK was evaluated in a 
+clinical study (Study RAD1901-117). The effect of hepatic impairment on elacestrant exposure 
+and t1/2 tended to increase with increasing severity of hepatic impairment. Significant increase 
+in AUC0–t (76%) and AUC0–∞ (83%) was observed in the moderate hepatic impairment group 
+compared to the normal hepatic function group, while Cmax, AUC0–t, and AUC0-∞ values were 
+similar between subjects in the mild hepatic impairment group and the normal hepatic function 
+group. 
+A PBPK model for elacestrant was developed based on in vitro and in vivo data (Study RADI-2B 
+Ad Hoc; Module 2.7.2, Section 2.2.3.1.2). The changes in elacestrant exposures as a result of 
+hepatic impairment were predicted and verified using data from Study RAD1901-117, 
+suggesting that the PBPK model is able to well predict elacestrant PK in subjects with hepatic 
+impairment. The model was used to predict steady-state exposures following 173, 259, and 345 
+mg QD in subjects with mild, moderate, and severe hepatic impairment. 
+A comparison between PBPK simulated steady-state AUC(0-24)ss following 14 days of 173, 259, 
+and 345 mg QD in mild, moderate, and severe hepatic impairment groups and nominal steady-
+state AUC(0-24)ss for the subjects in Study RAD1901-308 is reported in Figure 6. 
+Based on the PBPK model-predicted elacestrant exposure, no dose adjustment is required for 
+subjects with mild hepatic impairment, 
+ 
+ 
+Renal Impairment 
+The renal excretion of elacestrant is minimal, therefore no renal impairment studies have been 
+conducted. The negligible role of renal function on elacestrant elimination was confirmed by 
+the PopPK analysis, where creatinine clearance was found to have no effect on elacestrant 
+clearance (Module 2.7.2, Section 3.1.5.5). Therefore, no dose adjustments are required in 
+subjects with renal impairment. 
+Reference ID: 5116375
+(b) (4)
+
+
+===== PAGE 89 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+88 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+Extrinsic Factors 
+Drug-drug interactions: 
+Coadministration of elacestrant with itraconazole (strong CYP3A4 inhibitor) increased 
+elacestrant Cmax by 4.4-fold and AUC by 5.3-fold (Study RAD1901-110). Coadministration of 
+elacestrant with rifampin (strong CYP3A4 inducer) decreased elacestrant Cmax by 73% and AUC 
+by 86% (Study RAD1901-113). 
+The PBPK model predicted an increase in elacestrant AUC between ≥ 2- and < 5-fold when 
+elacestrant is coadministered with moderate CYP3A4 inhibitors (i.e., fluconazole and 
+erythromycin). 
+The PBPK model predicted a decrease in elacestrant AUC between ≥ 50% and < 80% when 
+elacestrant is coadministered with moderate CYP3A4 inducer (i.e., efavirenz). 
+Overall, coadministration of elacestrant with a strong or moderate CYP3A4 inducer may 
+decrease elacestrant activity, and coadministration of elacestrant with a strong or moderate 
+CYP3A4 inhibitor may increase adverse reactions. Therefore, concomitant use of moderate or 
+strong CYP3A4 inhibitors and/or inducers should be avoided. However, no dose modifications 
+are required for mild CYP3A4 inducers and inhibitors. 
+Coadministration of the proton pump inhibitor omeprazole (40 mg QD) had no effect on the 
+single oral dose PK profile of elacestrant in healthy men and postmenopausal women 
+(Study RAD1901-115). Therefore, no dose adjustments are required when elacestrant is 
+administered with acid-reducing agents. 
+Coadministration of elacestrant with warfarin (both very highly protein-bound drugs) showed 
+no significant effect on either elacestrant or warfarin PK. The PD of warfarin were also 
+unaffected by the presence of elacestrant (Study RAD1901-114). Therefore, no dose 
+adjustments are required when elacestrant is administered with highly protein-bound drugs. 
+Food effect: 
+The presence of food (high-fat meal) increased systemic exposure of elacestrant compared to 
+fasted conditions. Elacestrant AUC was increased by 22% and Cmax by 42% when elacestrant 345 
+mg commercial tablet was administered in the fed state compared to administration when 
+fasted. In the pivotal clinical Study RAD1901-308, elacestrant was administered with a light 
+meal. 
+Model-based simulations were carried out to assess the impact of fasting on exposure and the 
+risk of not achieving the threshold Cmin (Cmin > 20 ng/mL) associated with high target 
+engagement (mean FES uptake above 75%). 
+No difference was observed in terms of target exposure attainment between fed and fasted 
+conditions at doses of 259 and 345 mg QD. Therefore, the effect of food on elacestrant 
+exposure is not deemed clinically relevant 
+ 
+ Food intake was found to improve gastrointestinal tolerability in Study RAD1901-116. 
+Reference ID: 5116375
+(b) (4)
+
+
+===== PAGE 91 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+90 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+Abbreviations: AUCss = area under the plasma concentration-time curve at steady state; IQR=interquartile range. 
+Black center line represents median. Top and base of the box represent first and third quartiles (IQR). Whiskers 
+represent 1.5*IQR. Outliers beyond upper or lower 1.5*IQR are represented by circles. 
+Source: Module 2.5, Figure 3 
+Figure 6: Boxplot of Nominal Steady State AUC(0-24) for the Subjects in Study RAD1901-308 
+and PBPK Simulated Steady State AUC(0-24) Following 14 Days of 173, 259, and 345 mg QD in 
+Mild, Moderate, and Severe Hepatic Impairment Groups 
+ 
+Abbreviations: AUC(0-24)=area under the plasma concentration-time curve from time zero to 24 hours postdose; 
+HI=hepatic impairment; PBPK = physiologically-based pharmacokinetic; QD=once daily. 
+Black dashed line represents median nominal steady state AUC(0-24) for the subjects in Study RAD1901-308. 
+Source: Module 2.5, Figure 4 
+The Applicant’s Position: 
+No therapeutic individualization is needed for the proposed indication based on demographic 
+factors (age, gender, body weight, etc.), in patients with renal impairment or mild hepatic 
+impairment. 
+Dose reduction is necessary in patients with concomitant moderate 
+ hepatic 
+impairment as outlined above and in the proposed labeling due to elacestrant metabolism by 
+the liver. 
+In addition, concomitant use of elacestrant with a strong or moderate CYP3A4 inhibitors and/or 
+inducers should be avoided. However, no dose modifications are required for mild CYP3A4 
+inducers or inhibitors, acid-reducing agents, or highly protein-bound drugs. 
+The FDA’s Assessment: 
+FDA agrees with the proposed dosing therapeutic individualization strategies 
+ 
+ See the FDA’s Assessment for Sections 
+6.3.2.3 for details. 
+Reference ID: 5116375
+(b) (4)
+(b) (4)
+
+
+===== PAGE 93 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+92 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+Dose 
+Proportionality 
+Elacestrant exposure (AUC and Cmax) increased with increasing oral dose in a greater than 
+dose-proportional manner after a single dose (> 50 mg) and after repeated dosing (> 25 mg 
+QD). Additional details are provided in section 19.4.2. 
+Accumulation 
+The mean accumulation ratio at steady state is 1.95 (CV%=15) at 200 mg QD administered for 7 
+days in healthy post-menopausal women in Study RAD1901-001. 
+Variability 
+%CV for Cmax (Conc4hr) steady state = 43.6% 
+%CV AUCtau steady state = 44.3% 
+No clinically significant differences in the PK of elacestrant were predicted based on age, 
+gender, and body weight, therefore no dose adjustment is warranted based on these 
+covariates. Creatinine clearance was not found to affect elacestrant PK. 
+Absorption 
+Oral absolute 
+bioavailability  
+Absolute bioavailability was determined in Study RAD1901-001 by comparing treatment with 1 
+mg IV to treatment with 100 mg PO, both under fasted condition:  
+Estimated ratio of Ln-transformed AUC0-last: 0.10 (90% CI 0.08-0.13)  
+Bioequivalent 
+(BE) or relative 
+Bioavailability 
+(BA) 
+GMR (90% CI) 
+BE study RAD1901-116 (commercial vs. clinical tablet formulation) 
+Cmax 
+AUClast 
+AUCINF 
+99.24 (89.48-110.06) – 400 mg 
+100.29 (94.04-106.95) - 100 mg 
+95.45 (88.34-103.14) – 400 mg 
+98.47 (92.73-104.57) – 100 mg 
+95.50 (88.53-103.01) – 400 mg 
+98.52 (92.81-104.58) – 100 mg 
+Oral Tmax 
+Following oral administration, elacestrant was rapidly absorbed, reaching Tmax within 1-4 
+hours. 
+Elacestrant absorption is not affected by the concomitant administration of gastric pH-altering 
+drugs. 
+Food effect for 
+Tablets 
+formulation XX 
+Fasted/fed GMR 
+(90% CI) 
+Food effect study RAD1901-116   
+Cmax 
+AUClast 
+AUCINF 
+141.89 (126.02-159.75) - 400 
+mg 
+122.28 (111.84-133.68) -400 
+mg 
+121.82 (111.64-132.92) -400 
+mg 
+Substrate 
+transporter 
+systems [in vitro] 
+The volume of distribution from the final popPK analysis was 422 L for central volume (Vc/F) 
+and 5411 L for peripheral volume (Vp/F).  
+Distribution 
+Volume of 
+Distribution  
+The volume of distribution from the final popPK analysis was 422 L for central volume (Vc/F) 
+and 5411 L for peripheral volume (Vp/F).   
+Plasma Protein 
+Binding 
+In vitro, elacestrant was highly bound to human plasma proteins (protein binding > 99%). 
+In Study RAD1901-117 the lowest mean percent unbound was 0.601% and the highest was 
+4.48%; the majority of samples ranged from 1% to 2.5%. 
+Elacestrant can be coadministered without the need for dose adjustment in subjects receiving 
+highly protein-bound drugs.  
+Blood to Plasma 
+Ratio 
+In a human mass balance study RAD1901-111, arithmetic mean blood to plasma concentration 
+ratios ranged from 0.607 to 0.794.  
+Elimination 
+Reference ID: 5116375
+
+
+===== PAGE 97 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+96 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+Special populations 
+Renal impairment: 
+The renal excretion of elacestrant is minimal, therefore no renal impairment studies were 
+conducted, which was agreed upon by the Agency (Food  and Drug administration [FDA] 
+Meeting Minutes, 17 June 2019). The negligible role of renal function on elacestrant elimination 
+was confirmed by the PopPK analysis, where creatinine clearance was found to have no effect 
+on elacestrant clearance. Therefore, no dose adjustments are required in subjects with renal 
+impairment. 
+Hepatic impairment: 
+Based on the results of the clinical study in subjects with mild and moderate hepatic 
+impairment and PBPK analysis, no dose adjustment is required for subjects with mild hepatic 
+impairment, whereas elacestrant dose should be reduced from 345 to 258 mg QD in subjects 
+with moderate hepatic impairment 
+ 
+ 
+The FDA’s Assessment: 
+FDA agrees with the Applicant’s population PK analysis, where no alternative dosing strategies 
+are needed based on age (24 to 89 years), sex, body weight (41 to 143 kg). See the FDA’s 
+Assessment in Section 19.4.3 for details. 
+ 
+Renal Impairment: 
+No alternative dosing strategies are needed for renal impairment. Renal excretion is not a 
+major clearance pathway for elacestrant. Following a single radiolabeled oral dose of 345 mg in 
+Study RAD1901-111, the renal excretion of elacestrant was minimal (< 1% unchanged 
+elacestrant recovered in urine). The renal clearance (≤ 0.14 L/hr) of elacestrant was low 
+compared to overall clearance (CL/F approximately 186 L/hr and F approximately 10%).  
+ 
+Hepatic Impairment: 
+The effect of mild (Child-Pugh A) or moderate hepatic impairment (Child-Pugh B) on the PK of 
+elacestrant has been evaluated in Study RAD1901-117, Table 10. For participants with mild 
+(Child-Pugh A), Cmax and AUC0-inf increased to approximately 1.11 and 1.28-fold, respectively.  
+The increase in Cmax and AUC in participants with mild hepatic impairment is not clinically 
+relevant. For participants with moderate (Child-Pugh B), Cmax and AUC0-inf increased to 
+approximately 1.14 and 1.83-fold, respectively.  FDA agrees with the reduction of elacestrant 
+dosage to 258 mg QD in patients with moderate (Child-Pugh B) hepatic impairment. The 
+reduction of elacestrant dosage to 258 mg QD from 345 mg QD is expected to decrease 
+elacestrant AUC by approximately 50%. The dose reduction is also supported by a PBPK 
+modeling approach in patients with moderate hepatic impairment.   
+The Applicant used a PBPK model to assess the effect of severe hepatic impairment on the 
+exposure of elacestrant.  FDA does not agree that the severe hepatic impairment PBPK model, 
+without validation by clinical data in severe hepatic impairment, is adequate.  Refer to the 
+FDA’s Assessment in Section 19.4.5 for details regarding PBPK model.  A PMR was issued to 
+Reference ID: 5116375
+ 
+(b) (4)
+
+
+===== PAGE 100 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+99 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+6.3.2.1 Are there clinically relevant food-drug or drug-drug interactions, and what is the 
+appropriate management strategy? 
+The Applicant’s Position: 
+Effect of Food 
+A slightly higher but not clinically relevant exposure was observed with high-fat compared to 
+low-fat meals as described in Section 6.2.2.2. Therefore, elacestrant can be taken without 
+regard to food. However, improved gastrointestinal tolerability was observed when tablets 
+were taken with food. 
+Coadministration with CYP3A4 Inhibitors 
+Coadministration of elacestrant with itraconazole (strong CYP3A4 inhibitor) increased 
+elacestrant Cmax by 4.4-fold and AUC by 5.3-fold (Study RAD1901-110). The PBPK model 
+predicted an increase in elacestrant AUC between ≥ 2- and < 5-fold when elacestrant is 
+coadministered with moderate CYP3A4 inhibitors (i.e., fluconazole and erythromycin). 
+Coadministration of elacestrant with a strong or moderate CYP3A4 inhibitor may increase 
+adverse reactions and should be avoided. No dose modifications are required for mild CYP3A4 
+inhibitors. 
+Coadministration with CYP3A4 Inducers 
+Coadministration of elacestrant with rifampin (strong CYP3A4 inducer) decreased the 
+elacestrant Cmax by 73% and AUC by 86% (Study RAD1901-113). The PBPK model predicted a 
+decrease in elacestrant AUC between ≥ 50% and < 80% when elacestrant is coadministered 
+with moderate CYP3A4 inducer (i.e., efavirenz). Coadministration of elacestrant with a strong or 
+moderate CYP3A4 inducers may decrease elacestrant activity and should be avoided. No dose 
+modifications are required for mild CYP3A4 inducers. 
+Coadminstration with Acid-Reducing Agents 
+Coadministration of the proton pump inhibitor omeprazole (40 mg QD) had no effect on the 
+single oral dose PK profile of elacestrant in healthy men and postmenopausal women 
+(Study RAD1901-115). Therefore, no dose modifications are needed with coadministration with 
+acid-reducing agents. 
+Coadministration with Highly Protein-Bound Drugs 
+Coadministration of elacestrant with warfarin (both very highly protein-bound drugs) showed 
+no significant effect on either elacestrant or warfarin PK. The PD of warfarin were also 
+unaffected by the presence of elacestrant (Study RAD1901-114). No dose modifications are 
+necessary with coadministration of highly protein-bound drugs. 
+Coadministration with P-gp Substrates 
+Use of elacestrant with digoxin (P-gp substrate) slightly increased digoxin exposure by 27% for 
+Cmax and 13% for AUC. Monitor digoxin administration and reduce digoxin dose as necessary. 
+Coadministration with BCRP Substrates 
+Use of elacestrant with rosuvastatin (BCRP substrate) slightly increased rosuvastatin exposure 
+by 45% for Cmax and 23% for AUC. Monitor rosuvastatin administration and reduce rosuvastatin 
+dose as necessary. 
+Reference ID: 5116375
+
+
+===== PAGE 249 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+ 
+ 
+253 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+Table 34: 
+Summary Statistics of the Pharmacokinetic Parameters of elacestrant in 
+Plasma, MAD Part 
+ 
+(Source: Table 10 in Applicant’s Study Report RAD1901-001) 
+The arithmetic mean Tmax after single dosing with elacestrant under fasted conditions was 
+between 1.64 and 3.93 h post-dose and was similar to Tmax after multiple dosing on Day 7 
+(between 0.97 – 3.31 h). 
+After 7 days of dosing with 10 to 173 mg elacestrant, accumulation was observed, with 
+accumulation Rac values ranging between 1.86 and 2.22 across the dose range studied. After 
+single dosing with elacestrant, the half-life ranged between 27.4 and 32.5 h and tended to 
+increase after multiple dosing, ranging between 31.1 and 47.3 h. 
+According to the exploratory statistical analysis, the SAD part of the study indicated dose 
+proportionality for AUC0-inf and Cmax values at dose levels up to 50 mg and a more than dose 
+proportional increase at dose levels of more than 50 mg. Data for AUC0-last showed a more than 
+dose proportional increase across the dose range studied (90% CI interval of the estimated 
+slopes >1, Table 35). The MAD part of the study showed dose proportionality at dose levels up 
+to 25 mg QD and a more than dose proportional increase at dose levels higher than 25 mg QD 
+for both AUC0-τ and Cmax (90% CI of the estimated slopes was >1, Table 36). 
+Reference ID: 5116375
+
+
+===== PAGE 253 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+ 
+ 
+257 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+(Table 38). Geometric mean Cmax and AUC0-tau at steady state of elacestrant indicated that the 
+systemic exposure increased with dose in a more than dose proportional manner over the dose 
+range tested. These results are supported by the exploratory analysis of dose proportionality 
+(slope of power model). For dose-normalized Cmax and AUC0-tau, point estimates of 1.46 (90% 
+CI: 1.32 - 1.59) and 1.53 (90% CI: 1.38 - 1.68), respectively, were calculated, and for both 
+parameters the lower limit of the 90% CI stayed above the limit of 1.00 for dose proportionality 
+(Table 38) 
+Table 38: 
+Exploratory Analysis of Dose Proportionality 
+ 
+(Source: Table 13 in Applicant’s Study Report RAD1901-004) 
+ 
+The FDA’s Assessment: 
+FDA agrees with the Applicant’s position.  
+ 
+19.4.3. 
+Population PK Analysis 
+19.4.3.1. 
+Executive Summary 
+The FDA’s Assessment: 
+The Applicant submitted a population PK report entitled “Population Pharmacokinetic and 
+Exposure Response Analysis for Elacestrant” to support the application of elacestrant for the 
+treatment of women and men with mBC. The population PK model in this report was developed 
+using data from multiple Phase I studies and one Phase 3 study (RAD1901-308). With derived 
+exposures, exposure-response analyses were conducted to explore the relationships between 
+elacestrant exposure and efficacy and safety. 
+ 
+The final PopPK model was a two-compartment model with linear elimination and first-order 
+absorption (Ka) with a lag time (Tlag). The effect of dose on relative bioavailability (F1) was 
+included as part of the structural model. Apart from the estimated allometric effect of baseline 
+ body weight on clearance and volume terms, CL/F was also found to decrease with age and  
+Q/F to be higher for male subjects. None of those covariate effects suggests any dose  
+adjustments are necessary. The final model was adequate to characterize the PK profile of  
+elacestrant in healthy volunteers or patients with mBC. The Applicant’s population PK analysis is  
+acceptable. 
+Reference ID: 5116375
+
+
+===== PAGE 262 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+ 
+ 
+266 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+12.3 PK 
+Pharmacokinetics 
+The elacestrant oral bioavailability is approximately 10%. Steady state is reached 
+by Day 6 following once daily dosing. Cmax and AUC increase slightly more than 
+proportional to dose for doses ≥ 50 mg (salt form). 
+Absorption 
+Following oral administration, elacestrant was rapidly absorbed, reaching tmax 
+within 1-4 hours.  
+Effect of Food 
+Administration of elacestrant 345mg tablet with a heavy meal increased Cmax by 
+42% and increased AUC0-∞ by 22%, respectively, compared to fasted 
+administration.
+ 
+Distribution 
+The estimated volume of distribution was 422 L for central volume (Vc/F) and 
+5411 L for peripheral volume (Vp/F). Plasma protein binding of elacestrant is 
+>99% and independent of concentration and hepatic impairment status. 
+Elacestrant penetrates the blood brain barrier in a dose-dependent manner. 
+Elimination 
+The half-life of elacestrant is predicted to be approximately 30 hours. The mean 
+(% CV) clearance of elacestrant is predicted to be 186 L/hr (43.5%). 
+Metabolism 
+Elacestrant is primarily metabolized by CYP3A4 with a potential small 
+contribution by CYP2A6 and CYP2C9. Elacestrant exposure in plasma 
+represented only 2%-3% of plasma total radioactivity, suggesting the presence 
+of circulating metabolites. Only 1 metabolite (4 [2 (ethylamino)ethyl] benzoic 
+acid glucuronide) represented > 10% of radiolabeled components in plasma. 
+Excretion 
+Following a single oral dose of 345 mg radiolabeled elacestrant, 81.5% (majority 
+as unchanged) was recovered in feces and 7.53% (trace as unchanged) was 
+recovered in urine. Elacestrant renal clearance is very low (≤ 2.3 mL/min) and it 
+was eliminated by oxidative metabolism and fecal excretion. 
+Specific Populations 
+No clinically significant differences in the pharmacokinetics of elacestrant were 
+predicted based on age (24 to 89 years), sex, and body weight (41 to 143 kg). 
+The population PK analysis confirmed the negligible contribution of renal 
+excretion on elacestrant elimination. 
+Hepatically Impaired  
+The Cmax and AUC values were similar between subjects in the mild hepatic 
+impairment group (Child-Pugh A) and the normal hepatic function group. There 
+were significant increases in AUC0–t (76%) and AUC0–inf(83%) in the moderate 
+hepatic impairment group (Child-Pugh B) compared to the normal hepatic 
+function group. The Cmax values were similar between the normal and moderate 
+impairment groups. 
+The geometric mean t1/2 tended to increase with increasing severity of hepatic 
+impairment. Elacestrant has not been studied in subjects with severe hepatic 
+impairment (Child-Pugh C). 
+In physiologically-based pharmacokinetic modeling, elacestrant exposure in 
+subjects with severe hepatic impairment (Child-Pugh C) exhibited a 3.02-fold 
+increase in AUC and a 1.88-fold increase in Cmax than subjects with normal 
+hepatic function. 
+No dose adjustment is required for patients with mild hepatic impairment 
+whereas elacestrant dose should be reduced to 258 
+ mg QD in patients 
+Reference ID: 5116375
+(b) (4)
+(b) (4)
+
+
+===== PAGE 263 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+ 
+ 
+267 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+with moderate 
+ hepatic impairmen
+ 
+Drug Interaction Studies 
+Effect of Strong CYP3A4 Inhibitors on Elacestrant (Clinical Study): 
+Coadministration of ORSERDU with a strong CYP3A4 inhibitor (e.g., itraconazole) 
+increases elacestrant total plasma exposure by 5.27-fold. 
+Effect of Moderate or Weak CYP3A4 Inhibitors on Elacestrant (Model-Based-
+Approach): Coadministration of elacestrant (single dose 345 mg) with the 
+following CYP3A4 inhibitors predicted the following effects: 
+Moderate inhibitors (i.e., fluconazole and erythromycin) will increase 
+elacestrant AUC between 2- and 5-fold; 
+Weak inhibitors (i.e., cimetidine), will increase elacestrant AUC < 2-fold. 
+Effect of Strong CYP3A4 Inducers on Elacestrant (Clinical Study): 
+Coadministration of ORSERDU with a strong CYP3A4 inducer (e.g., rifampin) 
+decreases elacestrant total plasma exposure by 86%. 
+Effect of Moderate CYP3A4 Inducers on Elacestrant (Model-Based Approach): 
+Coadministration of elacestrant (single dose 345 mg) with moderate CYP3A4 
+inducer, efavirenz (600 mg QD) is predicted to decrease elacestrant AUC 
+between 50% and 80%. 
+Effect of Gastric Acid Reducing Agents on Elacestrant (Clinical Study): Use of 
+omeprazole and other commonly used acid-reducing agents had no effect on 
+elacestrant PK. 
+Effect of Highly Protein-Bound Drugs on Elacestrant (Clinical Study): Use of 
+warfarin and other commonly used drugs had no impact on elacestrant PK. 
+P-gp and BCRP Substrates (Clinical Study): Use of elacestrant with digoxin 
+slightly increases digoxin exposure by 27% for Cmax and 13% for AUC. 
+Use of elacestrant with rosuvastatin slightly increases rosuvastatin exposure by 
+45% for Cmax and 23% for AUC. 
+Effect of Elacestrant on CYP Enzymes (in vitro Studies): Elacestrant does not 
+induce cytochromes P450 (CYP)1A2, CYP2A6, CYP2B6, CYP2C9, CYP2C19, and 
+CYP3A in human hepatocytes. Elacestrant does not inhibit CYP1A2, CYP2A6, 
+CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A at therapeutic 
+plasma concentrations. 
+Elacestrant is not a substrate of efflux transporters (e.g., P-gp), but it is 
+potentially a relevant inhibitor of P-gp and BCRP. 
+Elacestrant is not a substrate or clinically relevant inhibitor of the renal 
+transporters OAT1, OAT3, OCT2, MATE1, and MATE2-K, or the hepatic 
+transporters OCT1, OATP1B1, and OATP1B3. Elacestrant is a substrate for 
+OATP2B1, but it does not inhibit this transporter. 
+ 
+The FDA’s Assessment: 
+The Applicant’s population PK analysis is acceptable. Overall, the final population PK model 
+appeared adequate to characterize the PK profile of elacestrant as indicated in the Applicant’s 
+goodness-of-fit plots and VPC plots. The reviewer was able to repeat and verify the Applicant’s 
+analysis with no significant discordance identified. The reviewer agrees with the sponsor’s 
+conclusions regarding the effect of covariates on elacestrant exposure. No formulations effect 
+was found to be statistically significant on elacestrant PK.  FDA accepted the labeling language 
+in 12.3 related to PK parameters and effect of covariates (age, sex, and body weight) estimated 
+by population PK analysis.  
+Reference ID: 5116375
+(b) (4)
+(b) (4)
+
+
+===== PAGE 264 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+ 
+ 
+268 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+19.4.4. 
+Exposure-Response Analysis 
+19.4.4.1. 
+ER (Efficacy) Executive Summary 
+The FDA’s Assessment: 
+FDA deemed the ER analysis for efficacy was limited due to the narrow exposure from one dose 
+in the pivotal study. The Applicant conducted exposure-response analysis for efficacy and safety 
+using data from Study RAD1901-308. No significant relationships between elacestrant exposure 
+and PFS and clinical benefit rate were identified. However, the results of this analysis should be 
+interpreted with caution. The E-R relationship for efficacy was not fully characterized as the 
+analysis was limited by the range of therapeutic exposure. Only one dose 345 mg was tested in 
+the pivotal study RAD1901-308. Dose modifications could also confound the results of these ER 
+analyses.  
+19.4.4.2. 
+ER (Efficacy) Assessment Summary 
+The Applicant’s Position: 
+General Information 
+Goal of ER analysis 
+To perform E-R analyses of the efficacy endpoints of Progression Free Survival 
+(PFS) and Clinical Benefit (CB) rate from Study RAD1901-308. 
+Study Included 
+Study RAD1901-308 
+Endpoint 
+Primary: PFS 
+Secondary: Clinical Benefit (CB) 
+No. of Patients (total, and 
+with individual PK) 
+Total: 232 
+PFS: 232 
+CB: 224 
+Population 
+Characteristic
+s (Table XX) 
+General 
+Age: median: 63 yrs (range 24 – 89 yrs) 
+Weight: median: 70 kg (42 – 135 kg) 
+Gender: male n = 5 (2%) 
+Race: 
+Caucasian: n = 163 (70%) 
+● 
+Black: n = 5 (2%) 
+● 
+Asian: n = 16 (7%) 
+● 
+Other: n = 1 (0%) 
+● 
+Missing: n = 47 (20%) 
+Pediatric
+s 
+(if any) 
+Not applicable 
+Dose(s) Included 
+345 mg QD 
+Exposure Metrics Explored 
+(range) 
+AUCss (μg*hr/mL): median = 2.19 (range: 0.461-8.47) 
+AUCav (μg*hr/mL): median = 2.06 (range: 0.429-8.07) 
+AUCav PFS (μg*hr/mL): median = 2.03 (range: 0.00-8.07) 
+AUCss: nominal steady-state daily AUC (Dose/CL/F); AUCav: average daily AUC 
+derived from cumulative AUC until the last dose; AUCav PFS: average daily AUC 
+derived from cumulative AUC until PFS  
+Covariates Evaluated 
+Visceral disease; ESR1 mutational status; Prior fulvestrant; Prior aromatase 
+inhibitors; Lines of therapy. 
+Reference ID: 5116375
+
+
+===== PAGE 271 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+ 
+ 
+275 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+A combination of in vitro data and clinical PK data of single ascending doses (i.e., 1 mg 
+intravenous dose, 9, 22, 43, 86, and 173 mg oral doses) of elacestrant in healthy subjects was 
+used to develop the PBPK model. The contribution of CYP3A4 in metabolism (fraction 
+metabolised, fmCYP3A4 = 87%) was determined using an itraconazole clinical drug-drug 
+interaction (DDI) study. Elacestrant exhibited non-linear PK across 9 mg to 863 mg oral doses in 
+clinical studies. The area under the curve from time zero to infinity (AUC0-inf) and maximal 
+drug concentration (Cmax) of elacestrant increased more than dose proportionally above 50 mg 
+following single doses. Supra-proportional increases were also manifested in elacestrant AUC0-
+tau and Cmax above 25 mg following once-daily (QD) multiple doses. 
+Simulated PK profiles, elacestrant exposures following single intravenous or oral doses (1 mg to 
+173 mg) and repeat oral doses (9 mg to 863 mg) to healthy subjects were in reasonable 
+agreement with observed data (all AUC0-last, AUC0-inf and Cmax within 1.5-fold; Clinical 
+Studies RAD-1901-001 and RAD-1901-004). The AUC0-tau ratios (AUCR) and Cmax ratios 
+(CmaxR) following repeated administration of elacestrant in the presence and absence of 
+itraconazole were consistent with the observed values from Clinical Study RAD1901-110 
+(observed vs. simulated AUCR = 5.27 vs. 5.23 and CmaxR = 4.37 vs. 3.87). The AUC0-last and 
+Cmax geometric mean ratios (GMRs) following a single dose of elacestrant in the presence and 
+absence of rifampicin were consistent with the observed values from Clinical Study RAD1901-
+113 (observed vs. simulated AUC0-last GMR = 0.142 vs. 0.168 and Cmax GMR = 0.270 vs. 
+0.301). 
+Prospective use of the model to predict the likely outcomes of interaction of elacestrant with 
+itraconazole (strong CYP3A4 inhibitor; 173 mg QD), fluconazole (moderate CYP3A4 inhibitor; 
+173 mg QD), erythromycin (CYP3A4 mechanism-based inhibitor (MBI); 500 mg four times daily 
+(QID)), and cimetidine (weak CYP3A4 inhibitor; 400 mg twice daily (BID)) following single 173 
+mg and 345 mg doses of elacestrant in healthy subjects indicated increases in elacestrant 
+exposure, as summarised in Table 39. In addition, prospective prediction of interaction of 
+elacestrant with efavirenz (moderate CYP3A4 inducer; 600 mg QD) following single 345 mg and 
+800 mg doses of elacestrant in healthy subjects indicated decreases in elacestrant exposure, 
+also included in  Table 39. 
+Table 39: 
+Summary of simulated geometric mean AUC0-336h and Cmax ratios for 
+elacestrant in the presence and absence of CYP3A4 inhibitors and inducers in healthy subjects 
+following single oral dosing of 173, 345 and 690 mg elacestrant. 
+ 
+In conclusion, simulations with itraconazole predicted strong inhibition (AUC GMR ≥ 5), 
+simulations with fluconazole and erythromycin predicted moderate inhibition (AUC GMR ≥ 2 
+Reference ID: 5116375
+
+
+===== PAGE 275 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+ 
+ 
+279 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+PBPK Results 
+Results of model development 
+● The simulated profile of elacestrant 
+was comparable to the clinical data 
+(SAD part of RAD1901-001; 1 (IV), 9, 22, 
+43, 86 and 173 mg (oral)). The 
+simulated geometric mean of AUC0-
+last and Cmax values for elacestrant 
+administered to healthy 
+postmenopausal females were within 
+0.794 – 1.39-fold of the observed 
+values.  
+● The simulated profiles of elacestrant 
+before and after co-administration with 
+itraconazole were comparable to the 
+clinical data (RAD1901-110). The 
+simulated geometric mean AUC0-tau, 
+Cmax, and AUC0-tau and Cmax ratios 
+for elacestrant administered to healthy 
+subjects were within 0.885 – 1.13-fold 
+of the observed values.  
+Results of model verification 
+● The simulated profile of elacestrant 
+was comparable to the clinical data 
+(MAD part, RAD1901-001; 9, 22, 43, 86 
+and 173 mg QD). The simulated 
+geometric mean AUC0-tau, Cmax, and 
+Rac for elacestrant administered to 
+healthy subjects were within 0.826 – 
+1.21-fold of the observed values. 
+● The simulated profile of elacestrant 
+was comparable to the clinical data 
+(RAD1901-004; 173, 431, 647 and 863 
+mg QD). The simulated geometric 
+mean AUC0-tau and Cmax for 
+elacestrant administered to healthy 
+subjects were within 0.784 – 1.19-fold 
+of the observed values. 
+Results of model application 
+The model was then used prospectively to 
+predict the likely outcome of DDI with 
+CYP3A4 inhibitors, including itraconazole 
+(strong CYP3A4 inhibitor; 173 mg QD), 
+fluconazole (moderate CYP3A4 inhibitor; 173 
+mg QD), erythromycin (moderate CYP3A4 
+MBI; 500 mg QID) and cimetidine (weak 
+ 
+Reference ID: 5116375
+
+
+===== PAGE 277 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+ 
+ 
+281 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+when coadministered with cimetidine following multiple dose administration of elacestrant 
+(400 mg QD) in healthy subjects. 
+ο The elacestrant PBPK model is inadequate to predict the effect of efavirenz (a moderate 
+CYP3A inducer) on elacestrant PK following multiple dose administration of elacestrant (400 
+mg QD) in healthy subjects. However, the modeling analysis provided supporting 
+information that the elacestrant exposure would likely be reduced about 55 to 80% when 
+administered with efavirenz following multiple dose administration of elacestrant (400 mg 
+QD) in healthy subjects. 
+ο The elacestrant PBPK model, validated using clinical PK data in patients with mild and 
+moderate hepatic impairment (HI), and healthy subjects following a single dose 
+administration of elacestrant (200 mg) was considered to be acceptable for simulating the 
+steady-state PK of elacestrant in patients with mild and moderate HI. The total AUC ratios of 
+elacestrant were 1.35 and 1.51 in mild and moderate HI patients following multiple dose 
+administration of 400 mg QD and 300 mg QD elacestrant, respectively, when compared to 
+the total AUC value in healthy subjects following multiple dose administration of 400 mg QD 
+elacestrant. 
+ο The elacestrant PBPK model is inadequate to predict the effects of severe HI on the PK of 
+elacestrant since no clinical PK data were available for HI model validation. 
+ 
+Applicant’s PBPK Modeling Effort 
+ 
+PBPK software 
+Simcyp V20 (Simcyp Ltd, UK) was used to develop the PBPK models and predict the effects of 
+itraconazole, fluconazole, erythromycin, cimetidine and efavirenz on the PK of elacestrant in 
+healthy subjects.  
+Part A: DDI Assessment  
+Model development 
+Absorption was described using a first order absorption model. The fraction absorbed (fa=0.429) 
+was estimated based on mass balance study (light meal) (Study RAD1901-111) and relative 
+bioavailability study (fasted vs. low-fat meal) (Study RAD1901-109). The absorption rate constant 
+(ka) of 0.22 h-1 was optimized based on clinical data in Study RAD1901-001. 
+A minimal PBPK model was used to simulate the distribution phase of elacestrant PK profiles.  
+The volume of distribution at steady state (Vss) (17.17 L/kg) and single adjusting compartment 
+parameter values (kin=5.65 h-1, kout=0.14 h-1 and Vsac=16.84 L/kg) were optimized to recover 
+the elacestrant distribution profile following intravenous administration of 1 mg elacestrant in 
+Study RAD 1901-001. The fraction unbound in plasma (fu) and blood and plasma ratio were 0.01 
+and 0.69, respectively. 
+Elacestrant was primarily metabolized by CYP3A4 based on in vitro phenotyping study (study 
+7801-109). Total intrinsic clearance (CLint) and fraction metabolized by CYP3A4 (fmCYP3A4) were 
+refined based on the total clearance (CL/F=31.75 L/h) reported in the clinical PK study RAD1901-
+001 and clinical DDI study results with itraconazole (Study RAD1901-110), respectively. For the 
+Reference ID: 5116375
+
+
+===== PAGE 278 =====
+
+NDA/BLA Multi-Disciplinary Review and Evaluation {NDA: 217639} 
+{ORSERDU; elacestrant} 
+ 
+ 
+282 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+CYP3A4 kinetics parameter value, Km (=0.255 mM) was optimized based on elacestrant PK data 
+in Study RAD 1901-001, and Vmax (=0.517 pmol/min/pmol) was calculated based on CLint, Km 
+and fraction unbound in liver microsomes (fumic). CYP3A4 CLint was calculated using retrograde 
+approach based on total clearance and fmCYP3A4. The fumic value was predicted using Simcyp. 
+Following oral administration, the unchanged parent drug accounted for 0.0487% and 34.5% of 
+the dose administered in urine (7.53% of total administered radioactivity) and feces (81.5% of 
+total administered radioactivity), respectively. The absolute bioavai

@@ -1,0 +1,46 @@
+{
+  "nda": "NDA022445",
+  "drug_name": "granisetron",
+  "pk_tuples": [
+    {
+      "dose_mg": 10.0,
+      "dose_original": "APF530 500 mg (10 mg granisetron ER) SC abdomen",
+      "route": "SC",
+      "formulation": "injection",
+      "food": "not_specified",
+      "population": "healthy_adult",
+      "n_subjects": 113,
+      "dose_schedule": "single_dose",
+      "cmax_ng_ml": 9.78,
+      "tmax_h": 24.55,
+      "auc_inf_ng_h_ml": 669.27,
+      "auc_last_ng_h_ml": 673.78,
+      "t_half_h": 25.15,
+      "cl_L_h": null,
+      "vd_L": null,
+      "source_page": 24,
+      "confidence": "high",
+      "notes": "Study C2014-01: SUSTOL (APF530) ER granisetron 10mg SC abdomen (reference route), arithmetic means"
+    },
+    {
+      "dose_mg": 10.0,
+      "dose_original": "APF530 500 mg (10 mg granisetron ER) SC upper arm",
+      "route": "SC",
+      "formulation": "injection",
+      "food": "not_specified",
+      "population": "healthy_adult",
+      "n_subjects": 113,
+      "dose_schedule": "single_dose",
+      "cmax_ng_ml": 10.69,
+      "tmax_h": 21.03,
+      "auc_inf_ng_h_ml": 716.48,
+      "auc_last_ng_h_ml": 709.44,
+      "t_half_h": 23.30,
+      "cl_L_h": null,
+      "vd_L": null,
+      "source_page": 24,
+      "confidence": "high",
+      "notes": "Study C2014-01: SUSTOL (APF530) ER granisetron 10mg SC upper arm (test route), arithmetic means"
+    }
+  ]
+}

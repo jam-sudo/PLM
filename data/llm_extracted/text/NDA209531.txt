@@ -1,0 +1,362 @@
+
+
+===== PAGE 6 =====
+
+5 
+ 
+formulations:  
+ 
+1.2 Post-Marketing Requirements and Commitments 
+None. 
+ 
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT 
+ 
+2.1 Pharmacology and Clinical Pharmacokinetics 
+Mechanism of Action:  Nusinersen in an 18-mer 2’-MOE phosphorothioate antisense 
+oligonucleotide that is intrathecally injected.  Nusinersen acts as a splice-altering 
+oligonucleotide designed to displace heterogeneous ribonucleoproteins (hnRNPs) at the 
+intronic splice silencing site-1 (ISS-1) on the SMN2 pre-mRNA to enhance production of full 
+length SMN protein.   
+Absorption:  Nusinersen is administered as an intrathecal injection. 
+Distribution:  Nusinersen distributes rapidly to the CNS and the plasma.  Plasma 
+concentrations peak at 1-6 hours and decline rapidly due to extensive tissue distribution.   
+Metabolism:  Nusinersen is metabolized by exonucleases primarily at the 3’ end of the 
+oligonucleotide.  N-1 metabolites were found in the cerebrospinal fluid (CSF), while N-1,2,3 
+metabolites were found in the plasma.  
+Elimination:  The mean terminal half-life in the CSF ranges from 135-177 days.  It is 
+mainly excreted in the urine as chain-shortened metabolites (N-1,2,3) that are not 
+considered active.  Urinary excretion of intact nusinersen represented only a small fraction 
+of the dose (0.5%) at day 85 following a third dose of the drug. 
+ 
+2.2 Dosing and Therapeutic Individualization 
+2.2.1 General dosing 
+The review team, after discussion with the sponsor, is recommending a fixed dose for all 
+patients.  This will result in nusinersen exposures that are similar, but higher than those 
+evaluated (on an average ~25% higher in 0-3 months age group) in the clinical studies.  
+This recommendation is supported by consideration of the projected increases in 
+nusinersen exposures (Cmax, AUC) in various age groups, inter-patient variability, 
+exposure/response relationship from Phase 2, and overall safety profile of nusinersen. 
+Additional details on age-based and fixed dose of nusinersen are provided in Section 3.3.2.  
+2.2.2 Therapeutic individualization 
+No therapeutic individualization is required for extrinsic factors regarding nusinersen 
+because of the intrathecal route of administration and lack of its drug-drug interaction 
+potential. Intrinsic factors like hepatic/renal impairment are not expected to affect 
+Reference ID: 4020804
+
+
+===== PAGE 10 =====
+
+9 
+ 
+Absorption 
+Bioavailability  
+100% bioavailable in the CSF with direct intrathecal injection 
+Tmax 
+Plasma: 1.7-6.0 hours 
+Distribution 
+Volume of Distribution  CSF: 0.4 L  Plasma: 29 L 
+Protein Binding  
+CSF: < 25%  Plasma: >94% 
+Substrate of 
+transporter systems  
+Nusinersen is not a substrate or inhibitor for BCRP, P-gp, OAT1, 
+OAT3, OCT1, OCT2, OATP1B1, OATP1B3, and BSEP in vitro. 
+Elimination 
+Mean Terminal 
+Elimination half-life  
+CSF: 135-177 days, Plasma: 85 days 
+Metabolism 
+Primary metabolic 
+pathway(s)  
+Slow metabolism by exonuclease activity (N-1, 3’)                              
+Inhibitor/Inducer  
+Nusinersen is not an inhibitor or inducer for any of the major 
+CYP enzymes or transporters.  
+Excretion 
+Primary excretion 
+pathways  
+Excreted by the kidney as chain-shortened oligonucleotides, 
+which are not considered pharmacologically active. 
+ 
+3.3 Clinical Pharmacology Review Questions 
+3.3.1 To what extent does the available clinical pharmacology information provide 
+pivotal or supportive evidence of effectiveness? 
+The evidence of effectiveness of nusinersen is supported primarily by the double-blind, 
+sham-controlled portion of the pivotal efficacy study CS3B. The study was stopped early 
+after a planned interim analysis detected a statistically significant (p < 0.0001) greater 
+percentage of subjects achieving a motor milestone response on the primary efficacy 
+endpoint for the nusinersen-treated group compared to the control group (41% vs. 0% 
+Reference ID: 4020804
+
+
+===== PAGE 14 =====
+
+13 
+ 
+The sponsor’s simulated data (See Section 4.3 for more details) show that for Cmax in CSF 
+there is substantial overlap and > 90% of subjects receiving a 12 mg dose are predicted to 
+have Cmax values below the 95th percentile for an age based 9.6 mg dose (Figure 5).  
+Moreover, CSF AUCinf values shown in Figure 6 also, demonstrate the substantial overlap, 
+where at least 87.5% of subjects receiving the 12 mg dose are predicted to have AUCinf 
+values below the 95th percentile for the age based 9.6 mg dose. These findings are expected 
+considering the large inter-individual variability in the volume of distribution in the CSF 
+and moderate variability in CSF clearance.  
+Figure 5. Simulated Cmax Values in CSF Illustrating the Overlap Between Nusinersen 
+Doses of 12 mg (fixed dose) and 9.6 mg (adjusted for age) in Patients < 3 Months of 
+Age          
+ 
+Source: Figure 1-A sponsor’s response to IR dated 11/10/16 
+ 
+ 
+ 
+ 
+Reference ID: 4020804
+
+
+===== PAGE 20 =====
+
+19 
+ 
+Results 
+The subject demographics for the pooled dataset and individual studies is shown in Table 
+1. 
+Table 1.  Subject Demographics for the Pooled Dataset and Individual Studies 
+ 
+ 
+Source : Table 2 on page 26 in sponsor’s report (is11-pop-pk-report.pdf) 
+ 
+The base model is shown in Figure 7.  The model consisted of a total of four compartments, 
+with two compartments representing the central nervous system (CNS) (a CSF 
+compartment and a CNS tissue compartment) and two compartments representing the 
+plasma. The model was defined in terms of the following parameters: CLp represents the 
+plasma clearance, CLcsf represents the CSF clearance (rate of transport into the plasma), 
+Qcsf and Qp represent the inter-compartmental clearances within the CSF and plasma, 
+respectively, and V1, V4, V2 and V3 represent the model-estimated apparent volumes in 
+the first CSF compartment, the CNS tissue compartment, the central plasma compartment 
+and the peripheral plasma compartment, respectively. All clearance rate constants in the 
+model were assumed to be linear. 
+ 
+ 
+Reference ID: 4020804
+
+
+===== PAGE 23 =====
+
+22 
+ 
+model may have contributed to this bias, which may include bioanalytical assay variability 
+or variability associated with the IT route of administration and/or sampling.  No such bias 
+was observed for plasma data.  The full model was used to simulate the CSF concentration-
+time profiles of the individual subjects in the study ISIS 396443-CS3A population and the 
+partial CSF AUC values were calculated based on linear trapezoidal method.  CSF beta half-
+life (terminal half-life based on the assumption of a two compartment model) values was 
+calculated based on the Empirical Bayes Estimates (EBEs) of the microconstants of the CSF 
+compartments. The median terminal half-life for the overall population (n=72) was 163 
+days.  Half-life values do not seem to differ significantly between age groups. 
+Figure 8.  Diagnostic Plots for (Top) Plasma (Bottom) CSF Data from the Full Model 
+ 
+ 
+Source : Figures 4, 5 on page 34-35 in sponsor’s report (is11-pop-pk-report.pdf) 
+ 
+Reference ID: 4020804
+
+
+===== PAGE 24 =====
+
+23 
+ 
+The sponsor also calculated the terminal half-life of nusinersen based on post-dose 
+concentrations in Study CS1 and pre-dose concentrations in Study CS10.  Study CS1 was an 
+open-label, escalating dose study to assess the safety, tolerability and dose-range finding of 
+a single intrathecal dose of nusinersen in patients with SMA.  Study CS10 was an open-label 
+study to evaluate the safety, tolerability, and PK of a single dose of nusinersen administered 
+as an IT injection by lumbar puncture (LP) in subjects who previously participated in CS1. 
+Subjects who had received 3 mg, 6 mg, or 9 mg in CS1 and had successfully completed the 
+study were eligible for screening at 9 months (270 days) and before 15 months (450 days) 
+after dosing in CS1. 
+The apparent terminal half-life in CSF was calculated estimated for each patient using the 
+7- or 28-day postdose concentrations observed in ISIS 396443-CS1 and the predose 
+concentrations observed in ISIS 396443-CS10, and the following equation: 
+ 
+where t is the time between the postdose ISIS 396443-CS1 sample collection and the 
+predose CS10 sample collection. Since the apparent terminal half-life was calculated using 
+only 2 time points the values should be interpreted with caution. The mean apparent 
+terminal half-life in CSF was estimated to be 135 to 177 days (Table 3), which is consistent 
+with values observed in monkeys and suggests that a long dosing interval of 4 to 6 months 
+could be employed to maintain CSF concentrations at a steady-state level. 
+Table 3.  Summary Statistics of Predose CSF Concentrations and Estimated Terminal 
+Half-Life of Nusinersen (ng/mL) in Patients Receiving Intrathecal Administration(s) 
+of Nusinersen 
+ 
+Source : Table 10 on page 38 in report-body.pdf (Study CS 10) 
+ 
+Reference ID: 4020804
+
+
+===== PAGE 25 =====
+
+24 
+ 
+Reviewer’s Comments: The sponsor’s structural model is based on prior experience with AONs 
+with a phosphorothioate backbone.  Although the data is limited to estimate all parameters 
+(including interindividual variabilities), the reviewer finds the structural model acceptable.  
+No covariates were identified that would necessitate the need for changes in dosing regimen.  
+The estimate of half-life derived from the population pharmacokinetic analyses (163 days) is 
+similar to that derived from model independent methods (135-177 days).  The reviewer also 
+looked at the data excluded from analysis.  In some patients, for reasons not clear, on certain 
+occasions very high CSF nusinersen levels were observed at pre-dose visit.  These values are 
+beyond the range of variability in CSF levels of nusinersen.  The exclusion of these unexpected 
+high values is reasonable. 
+Reviewer’s Analysis 
+ 
+Aim 
+• To verify labeling statements proposed by the sponsor.  This involved executing the 
+final population pharmacokinetic model. 
+• What would be the changes in nusinersen CSF and plasma concentrations with the 
+simplified fixed dosing regimen (12 mg/5 mL for all) that would administer a 25% 
+higher dose in a 0-3 month old patient?  Will it have any implications for safety? 
+Data 
+The dataset submitted by the sponsor (finalnm.xpt) was used for the analysis.  The analysis 
+was conducted using NONMEM® (Version 7). 
+ 
+Findings 
+Verification of proposed labeling statements 
+The reviewer was able to run the final model and derive similar estimates to those 
+reported by the sponsor.   The estimates of BWT effect on V1 (BWT on V1) and V2 (BWT on 
+V2) in Table 2 should be 0.596 and 0.0478 based on sponsor’s report.  Based on the 
+analyses, sponsor proposed the following labeling statement in Section 12.3 
+Pharmacokinetics section: 
+Elimination 
+ 
+ 
+.
+Reviewer’s Comments: The estimate of half-life derived based on population pharmacokinetic 
+analyses or calculated as shown in Table 3 is dependent on the amount of data.  The 
+available data (one post dose and one pre-dose across studies in the same patient) allows for 
+Reference ID: 4020804
+(b) (4)
+
+
+===== PAGE 26 =====
+
+25 
+ 
+an approximate estimate of terminal elimination half-life.  The proposed labeling statement is 
+acceptable.  It is also reasonable to add a sentence in the label that “The derived estimate of 
+elimination half-life should be interpreted with caution since it is based on limited post-dose 
+and pre-dose concentrations”. 
+What would be the changes in nusinersen CSF and plasma concentrations with the 
+simplified dosing regimen that would administer 25% higher dose in a 0-3 month old 
+patient? 
+The reviewer conducted simulations using the population pharmacokinetic model 
+developed by the sponsor.  Berkeley Madonna® software was used for simulation purposes.  
+Simulations were conducted for a typical patient (Age 0-3 month and total body weight 5.5 
+kg).  The choice of typical patient was based on the relationship between age and total body 
+weight as shown in Figure 9.  Simulations show that the plasma Cmax on Day 1, in the 
+chosen typical patient, would be 268 ng/mL after administration of 12 mg dose in 
+comparison to 215 ng/mL after administration of 9.6 mg dose.  The clinical relevance of a 
+25% higher nusinersen peak concentrations is not clear.  The AUC would be expected to 
+increase by a similar margin.  Similar relative changes are expected for CSF nusineren 
+levels. 
+Figure 9 .  (Top, Left) Relationship Between Total Body Weight and Age in SMA 
+Patients (Top, Right) Plasma and CSF Concentrations After 9 or 12 mg Nusinersen on 
+Day 1 (Bottom) Plasma and CSF Concentrations After 9 or 12 mg Nusinersen Every 
+15 days. 
+ 
+ 
+Reference ID: 4020804
+
+
+===== PAGE 27 =====
+
+26 
+ 
+ 
+ 
+The sponsor 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+, 
+and provided the following supportive rationale: 
+• The median simulated Cmax and AUCinf in CSF after age-based dosing (up to 2 years of 
+age) was more comparable across all subjects than fixed dosing (Figure 19. 
+Population Simulations Showing AUCInf Relative to Age Following a Single Fixed 
+Dose (12mg for all virtual subjects, n=1000) (Figure 10, Figure 11, Figure 12 and 
+Figure 13). 
+• The range of simulated Cmax values in CSF presented for children between birth and 
+2 years of age with fixed doses were similar to those in 2 to 6 years old children 
+(Figure 12). 
+• The range of simulated AUCinf values in CSF were generally consistent in children 
+between 3 months and 6 years with fixed doses with higher AUCinf values in those 
+between birth and 3 months of age but the numbers of subjects simulated were very 
+low (n=7) in that age group (Figure 10). 
+• The inter-individual variability (IIV) in the volume of distribution in the CSF (VCSF) 
+was high (88.1%), while the IIV and inter-occasion variability in clearance from the 
+CSF (CLCSF) were lower (24.4% and 38.1%, respectively), suggesting substantial 
+overlap in exposure with varying doses. 
+Reference ID: 4020804
+(b) (4)
+
+
+===== PAGE 31 =====
+
+30 
+ 
+Figure 13. Population Simulations Showing Cmax Relative to Age Following a Single 
+Age-Based Dose (in subjects up to 2 years old) and a Fixed Dose in Subjects Over 2 
+Years of Age 
+ 
+Source: Figure 11 sponsor’s pop PK analysis report 
+Reviewer’s Comments: The reviewer focused on understanding the impact of dose changes on 
+Cmax and AUC in the lower end of age group (<3 months).  In this age group, the maximum 
+impact on AUC and Cmax due to changes in dose will be seen.  The findings reported by the 
+sponsor for the age group (<3 months) are in agreement with the findings reported by the 
+reviewer (Figure 9 vs Figure 12).  In other age groups (> 3 months to 2 years), the projected 
+mean increases in Cmax and AUC will be less than 25% with the flat dosing compared to age-
+based dosing.   
+ 
+ 
+Reference ID: 4020804
+
+
+===== PAGE 32 =====
+
+31 
+ 
+4.4 Exposure-Response Analyses 
+Efficacy 
+Exposure-response analysis evaluated whether there was a relationship between 
+nusinersen CSF concentrations or partial CSF AUC values (0-3, 0-6, and 0-12 months) and 
+response (defined as SMN protein levels in CSF or various clinical endpoints) in Study ISIS 
+396443- CS3A, a study of infants under 7 months of age at screening. 
+Continuous Responses (CHOP-INTEND, CMAP, and SMN Protein) 
+Model 
+Response = 𝑏0 + 𝑏1 × PK Exposure, 
+where “PK Exposure” was AUC0-3months, AUC0-6months, AUC0-12months in the CSF or the predicted 
+CSF concentration at 253 days, “Response” was the change from baseline in the efficacy 
+measurements (CHOP-INTEND (Children’s Hospital of Philadelphia Infant Test of 
+Neuromuscular Disorders), CMAP (Compound Muscle Action Potential), CSF SMN (Survival 
+Motor Neuron) protein levels) at 6 or 12 months, and b0 and b1 were the linear regression 
+model parameter estimates.  
+Findings 
+An increasing trend in the change from baseline CHOP-INTEND was observed in ISIS 
+396443-CS3A as time progressed (Figure 14). The linear model of the early partial AUC 
+and the change from CHOP-INTEND baseline at six months (Day 169) and in a year (Day 
+337) was statistically significantly different than the “no improvement” model. 
+An increasing trend of change from baseline CMAP was also observed in infants in ISIS 
+396443-CS3A, although the increase of the change from baseline CMAP was more 
+pronounced from the tibialis anterior CMAP data than that from the ulnar CMAP data. 
+ 
+ 
+Reference ID: 4020804

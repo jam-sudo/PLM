@@ -1,0 +1,1666 @@
+
+
+===== PAGE 6 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+v 
+Version date: October 12, 2018 
+ 
+ 
+ Table of Tables 
+ 
+ 
+Table 1. Summary of Prophylaxis Treatment Armamentarium for HAE ....................................... 13 
+Table 2. Summary of Pre-Submission Regulatory Activity ............................................................ 14 
+Table 3. Summary of Nonclinical Studies Conducted to Support the 
+ Acceptable Intake 
+Limit of 
+ ng/Day ..................................................................................................................... 18 
+Table 4. Recommended Weight-Based Dosing of Berotralstat Oral Pellets in Patients 2 to <12 
+Years of Age With HAE .................................................................................................................. 20 
+Table 5. Summary of Berotralstat PK Parameters According to Treatment Regimen and Dosage 
+Form on Day 1 and Day 7 (Trial 114; PK Population) .................................................................... 23 
+Table 6. Relative BA Statistical Analysis of Berotralstat for Oral Pellet vs. Oral Capsule Dosage 
+Forms Following 150 mg QD Dosing (Trial 114; PK Population).................................................... 25 
+Table 7. Dose Cohorts and Weight Bands for Pediatric Subjects (Trial 304a) ............................... 26 
+Table 8. Summary of Baseline Demographics (Trial 304, Safety Population) ............................... 28 
+Table 9. Plasma PK Sampling Scheme (Trial 304) .......................................................................... 28 
+Table 10. Observed Pediatric Berotralstat PK Parameters Compared to Adult Reference Range30 
+Table 11. Summary of Plasma Berotralstat Concentrations (ng/mL) Following Dose Modification 
+. ...................................................................................................................................................... 32 
+Table 12. Recommended Weight-Based Dosing of Berotralstat Oral Pellets in Patients 2 to <12 
+Years of Age With HAE .................................................................................................................. 33 
+Table 13. Comparison of Simulated Berotralstat Exposures Across Dosing Scenarios Considered 
+for Children 2 to <12 Years of Age and Weighing 
+, Using the Final Population PK Model 41 
+Table 14. Simulated Berotralstat Ctrough,ss and Cmax,ss for Pediatric Subjects 2 to <12 Years of Age 
+Relative to Adult Reference Range Using the Final Population PK Model (Final Proposed Dosing) 
+. ...................................................................................................................................................... 43 
+Table 15. Summary of Estimated Cmax,ss and AUC0-24h,ss Based on Individual PK Parameters 
+Derived From the Final Population PK Model, Stratified by Renal Impairment Categorya ................ 45 
+Table 16. Listing of Clinical Trials Relevant to this NDA ................................................................ 47 
+Table 17. Schedule of Assessments (Trial 304) ............................................................................. 50 
+Table 18. Trial Disposition by Treatment Group (Trial 304) .......................................................... 58 
+Table 19. Subject Demographics (Trial 304, Safety Population) ................................................... 59 
+Table 20. Past Prophylactic Medications for HAE (Trial 304, Safety Population) ......................... 61 
+Reference ID: 5709978
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 8 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+vii 
+Version date: October 12, 2018 
+ 
+ 
+ Table of Figures 
+ 
+ 
+Figure 1. Arithmetic Mean (SD) Berotralstat Plasma Concentration-Time Profile on Day 1/Day 7 
+(Trial 114; PK Population) .............................................................................................................. 24 
+Figure 2. Overall Trial Design for Trial 304 .................................................................................... 25 
+Figure 3. Comparison of Observed Berotralstat Cmax (ng/mL; Top Panel)a AUC0-6h (ng*h/mL; 
+Middle Panel)b, and Ctrough (ng/mL; Bottom Panel)c in Pediatric Patients vs. Adult Reference 
+Populationd,e,f .............................................................................................................................................................................................. 31 
+Figure 4. Final Population PK Model-Predicted Berotralstat Ctrough,ss (Top Panel) and Cmax,ss 
+(Bottom Panel) at Dosing Administered in Trial 304 .................................................................... 37 
+Figure 5. Final Population PK Model-Predicted Berotralstat Ctrough,ss (Top Panel) and Cmax,ss 
+(Bottom Panel) at Applicant’s Proposed Dosing at Time of NDA Submission .............................. 39 
+Figure 6. Boxplots of Estimated Cmax,ss (Left Panel) and AUC0-24h,ss (Right Panel) Based on 
+Individual PK Parameters Derived From the Final Population PK Model, Stratified by Renal 
+Impairment Categorya .......................................................................................................................................................................... 45 
+Figure 7. Proposed Metabolic Pathways of 
+ in Human Liver Microsomes ................... 81 
+Figure 8. Schematic of Final Population PK Model for Berotralstat .............................................. 87 
+Figure 9. GoF Plots for the Final Population PK Model ................................................................. 91 
+Figure 10. GoF Plots for Final Population PK Model, Stratified by Trial 304 Cohort ..................... 92 
+Figure 11. Prediction-Corrected VPC of Berotralstat PK vs. Time Across All Studies Using the 
+Final Population PK Model for Intensive PK (Left) and Sparse PK (Right) Data ............................ 93 
+Figure 12. Prediction-Corrected VPC of Berotralstat PK Versus Time in Trial 304 Using the Final 
+Population PK Model for Intensive PK (Left) and Sparse PK (Right) Data .................................... 94 
+Figure 13. Covariate Effects on Predicted Berotralstat PK Parameters (Ctrough,ss, Cmax,ss, and 
+AUC24h,ss) Relative to Reference Subjects Using the Final Population PK Model ......................... 95 
+Figure 14. Simulated Body Weights for Pediatric HAE Subjects Based on CDC Growth Charts 
+Overlaid With Observed Body Weights From Trial 304 Compared to Observed Body Weights of 
+Adults and Adolescents ≥12 Years of Age ..................................................................................... 97 
+Figure 15. Simulated Steady-State Berotralstat PK Parameters for Pediatric Subjects 2 to <12 
+Years of Age Compared to Adult Reference Range Using the Final Population PK Model (Trial 
+304 Dosing) ................................................................................................................................... 99 
+Figure 16. Simulated Berotralstat PK Parameters for Pediatric Subjects 2 to <12 Years of Age 
+Relative to Adult Reference Range Using the Final Population PK Model (Initially Proposed 
+Dosing at Time of Current NDA Submission) .............................................................................. 100 
+Reference ID: 5709978
+(b) (4)
+
+
+===== PAGE 14 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+1 
+Version date: October 12, 2018 
+ 
+ 
+ 
+ Glossary 
+ 
+ 
+AE 
+adverse event 
+AI 
+acceptable intake 
+ALT 
+alanine aminotransferase 
+AST 
+aspartate aminotransferase 
+AUC 
+area under the concentration-time curve 
+BA 
+bioavailability 
+BW 
+body weight 
+C1-INH 
+C1-esterase inhibitor 
+CDC 
+Centers for Disease Control and Prevention 
+CI 
+confidence interval 
+Cmax 
+maximum plasma concentration 
+CSR 
+clinical study report 
+Ctrough 
+trough plasma concentration 
+CYP 
+cytochrome P450 
+DAIDS 
+Division of AIDS 
+DARRTS 
+Document Archival, Reporting & Regulatory Tracking System 
+DPACC 
+Division of Pulmonology, Allergy, and Critical Care 
+ECG 
+electrocardiogram 
+eGFR 
+estimated glomerular filtration rate 
+FDA 
+Food and Drug Administration 
+GI 
+gastrointestinal 
+GLP 
+good laboratory practice 
+GMR 
+geometric mean ratio 
+HAE 
+hereditary angioedema 
+HS9 
+hamster liver homogenate (s9 fraction) 
+hprt 
+hypoxanthine guanine phosphoribosyl transferase 
+IND 
+investigational new drug 
+IRT-CS 
+Interdisciplinary Review Team for Cardiac Safety 
+LC-MS/MS 
+liquid chromatography with tandem mass spectrometry 
+LLN 
+lower limit of normal 
+MedDRA 
+Medical Dictionary for Regulatory Activities 
+NCA 
+noncompartmental analysis 
+NDA 
+new drug application 
+OCP 
+Office of Clinical Pharmacology 
+PD 
+pharmacodynamics 
+P-gp 
+P-glycoprotein 
+PK 
+pharmacokinetics 
+Reference ID: 5709978
+
+
+===== PAGE 30 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+17 
+Version date: October 12, 2018 
+ 
+ 
+5 Nonclinical Pharmacology/Toxicology 
+ 
+ 
+5.1 Executive Summary 
+A full nonclinical program for berotralstat was reviewed for the approval of NDA 214094. The 
+program consisted of pharmacology (in vitro and in vivo), PK, and toxicology (general toxicology 
+in rats and monkeys, genetic toxicology, carcinogenicity, and reproductive and developmental 
+toxicology) studies. To support the current NDA for the approval in pediatric patients aged 2 
+years and older, the Applicant submitted a juvenile animal toxicology study in rats. In addition, 
+the Applicant provided study reports to support the safety of a nitrosamine impurity. A 
+summary of these studies is included below. 
+5.2 Juvenile Animal Toxicology Study 
+In a juvenile animal toxicity study in Wistar Han rats, pups (10/sex/dose) were dosed by oral 
+gavage with 0, 5, 20, or 50 mg/kg/day berotralstat (C, LD, MD, and HD, respectively) in water 
+once daily for 49 days. Pups were 21 days old (postnatal day 21) when the dosing started. 
+Additional rats were included to evaluate the lesion recovery and toxicokinetics (10 and 9 
+rats/sex/dose, respectively). The mean area under the concentration-time curve (AUC) at the 
+end of the treatment period (postnatal day 69) was 764, 5080, and 16800 ng.h/mL in the LD, 
+MD, and HD groups, respectively. The MD and HD groups showed macrophage vacuolation in 
+multiple organs and hepatocellular hypertrophy in the liver. Organs with macrophage 
+vacuolation included the liver, adrenal glands, lymph nodes, small intestine, and spleen. All the 
+findings were fully reversible after a recovery period of 3 weeks. Similar findings were observed 
+in adult rats. The LD group did not show any treatment-related findings. The no-observed-
+adverse-effect level was 5 mg/kg/day, corresponding to an AUC0-24 of 764 ng.h/mL. 
+5.3 Studies to Support Safety of the Nitrosamine Impurity 
+Regulatory History 
+In the filing review letter dated May 9, 2025, the Applicant was reminded that the complete 
+study reports of the in vitro mammalian cell mutation assay and in vitro metabolism assay with 
+human hepatocytes or microsomes are needed to support the 
+ acceptable intake limit of 
+ ng/day. In addition, this information may be 
+considered as a major amendment to the NDA. Subsequently, the final reports of the in vitro 
+metabolism assay and in vitro cell mutation assay were submitted to the NDA on May 22, 2025, 
+and June 11, 2025, respectively. The latter submission constituted a major amendment to this 
+application, and this was communicated to the Applicant on June 23, 2025. Therefore, the goal 
+date was extended by three months to provide time for a full review of the submission. The 
+extended user fee goal date is December 12, 2025. 
+Reference ID: 5709978
+(b) (4)
+(b) (4)
+
+
+===== PAGE 33 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+20 
+Version date: October 12, 2018 
+ 
+ 
+Table 4. Recommended Weight-Based Dosing of Berotralstat Oral Pellets in Patients 2 to <12 
+Years of Age With HAE 
+Weight 
+Dosage (Oral Pellets) 
+Administration Instructions 
+12 to <24 kg 
+72 mg once daily 
+Pour directly in mouth and swallow immediately with 
+non-acidic liquid, or, sprinkle over 1 tablespoon 
+(15 mL) of non-acidic soft food and consume 
+immediately. 
+A meal should be consumed just before or after 
+administration. 
+24 kg to <32 kg 
+96 mg once daily 
+32 kg to <40 kg 
+108 mg once daily 
+≥40 kg 
+132 mg once daily 
+Source. Adapted from Applicant’s proposed labeling, dated November 26, 2025 (Highlights of Prescribing Information, pg. 1) 
+Abbreviations: HAE, hereditary angioedema 
+ 
+Major Clinical Pharmacology Review Findings 
+The clinical pharmacology review for this NDA focused on analysis of the berotralstat PK data 
+derived from Trials 114 and 304, adequacy of the population PK model which supported the 
+proposed weight-based dosing, and the Applicant’s proposed dose adjustments in the pediatric 
+population based on intrinsic/extrinsic factors. The major clinical pharmacology findings for this 
+submission are summarized below: 
+• In Trial 304, the observed berotralstat systemic exposure (as defined by maximum plasma 
+concentration [Cmax], trough plasma concentration [Ctrough], and AUC0-6h) following 
+administration of the weight-based oral pellet dosage regimens for pediatric Cohort 2 
+(108 mg oral pellet; 32 to <40 kg), Cohort 3 (96 mg oral pellet; 24 to <32 kg), and Cohort 4 
+(78 mg oral pellet; 12 to <24 kg) was within the 5th to 95th percentile reference range of 
+observed adult values. Berotralstat systemic exposure observed for Cohort 1 (150 mg oral 
+capsule; ≥40 kg) exceeded the adult reference range, indicating the need for a lower to-be-
+marketed dosage for pediatric subjects weighing ≥40 kg. 
+• Based on population PK modeling and simulation, the recommended weight-based oral 
+pellet dosing in pediatric patients is predicted to result in a 1% lower to 18% higher median 
+Ctrough,ss, and a 17 to 24% higher median Cmax,ss, relative to adults receiving the approved 
+dosage of berotralstat oral capsule 150 mg once daily (QD). Under the proposed pediatric 
+dosing, less than 6% of children 2 to <12 years of age are predicted to have a Ctrough,ss below 
+the 5th percentile of adults, while less than 15% are predicted to have a Cmax,ss exceeding the 
+95th percentile of adults. Overall, these data support comparable berotralstat systemic 
+exposure between pediatrics and adults at the proposed dosing. 
+• The proposed dose adjustments based on renal (avoid use in patients with severe renal 
+impairment) and hepatic impairment (avoid use for moderate or severe hepatic 
+impairment) are reasonable to support safety in the target patient population. 
+Reference ID: 5709978
+
+
+===== PAGE 35 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+22 
+Version date: October 12, 2018 
+ 
+ 
+were taken with 240 mL of water following an overnight fast of 10 hours, and participants were 
+instructed not to chew the pellets. 
+The trial enrolled healthy male and female adult subjects 18 to 55 years of age (inclusive) with 
+body mass index of 18 to 32 kg/m2 (inclusive). Subjects with creatinine clearance ≤80 mL/min or 
+aspartate aminotransferase (AST)/alanine aminotransferase (ALT) value ≥2 times the upper 
+limit of normal (ULN) were excluded. Additionally, all prescription medications were prohibited 
+within 14 days of Day 1, along with all over-the-counter medications, vitamins, or herbal 
+products within 7 days of Day 1. Participants were permitted to continue to take prescribed 
+contraceptive medications. 
+Subject Disposition and Demographics 
+In Part 2, a total of 18 subjects were randomized to berotralstat treatment sequences D-E or E-
+D in Periods 1 and 2, followed by Period 3. All subjects completed the entire trial and there 
+were no major protocol deviations. There were an equal number of males and females enrolled 
+(N=9 each). Mean (SD) age and body weight were 39.7 (9.6) years and 79.2 (12.7) kg, 
+respectively. 
+PK Sampling and Analysis 
+The PK population consisted of subjects who received berotralstat in both Periods 1 and 2 and 
+for whom sufficient concentration data were available for the calculation of PK parameters, 
+which included all 18 enrolled subjects. Mean berotralstat plasma concentration-time profiles 
+were plotted on both linear and semi-logarithmic scales according to treatment regimen. PK 
+parameters were estimated using noncompartmental analysis (NCA) and summarized 
+descriptively according to treatment regimen. Log-transformed berotralstat PK parameters 
+(AUCtau and Cmax) were analyzed using an analysis of variance model, which included treatment, 
+period, and sequence as fixed effects and subject as a random effect. Results from these 
+analyses were back-transformed to obtain a point estimate with 90% confidence interval (CI) 
+for the geometric mean ratios (GMRs) for comparison of Regimen E to Regimen D for both 
+AUCtau and Cmax. 
+The PK sampling scheme for each treatment period was completed as follows: 
+• PK samples were collected at pre-dose and at 0.5, 1, 2, 3, 4, 5, 6, 8, 10, 12, 16, and 24 h 
+post-dose on both Days 1 and 7. 
+All plasma samples for determination of berotralstat concentrations were analyzed using a 
+previously validated liquid chromatography with tandem mass spectrometry (LC-MS/MS) assay 
+(Report 171354
+), which was reviewed and found to be acceptable under NDA 
+214094 (Refer to the NDA Multidisciplinary Review and Evaluation, dated December 3, 2020 
+[DARRTS Reference ID: 4711626]). Additionally, the in-study bioanalysis results for Trial 114 met 
+acceptance criteria. 
+Reference ID: 5709978
+(b) (4)
+
+
+===== PAGE 36 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+23 
+Version date: October 12, 2018 
+ 
+ 
+Summary of PK Results 
+Overall, berotralstat PK parameters were similar between the oral capsule and oral pellet 
+formulations on both Day 1 and Day 7 (Table 5). Berotralstat systemic exposure was slightly 
+lower for the oral pellet relative to the oral capsule, although terminal half-life and apparent 
+clearance were comparable between dosage forms on both Day 1 and Day 7. A greater than 
+dose proportional increase in systemic exposure was observed between Treatments E (150 mg 
+oral pellet) and F (300 mg oral pellet), corresponding to a 2.5- to 3-fold increase in both AUC 
+and Cmax for this 2-fold dose increase, which is consistent with known berotralstat PK from the 
+currently approved labeling. Arithmetic mean (SD) concentration-time profiles were similar and 
+overlapped at all timepoints, with approximately 2.6- to 4-fold accumulation observed for both 
+formulations following QD dosing for 7 days (Figure 1). 
+Table 5. Summary of Berotralstat PK Parameters According to Treatment Regimen and 
+Dosage Form on Day 1 and Day 7 (Trial 114; PK Population) 
+Treatment Regimen (N=18) 
+Regimen D (150 mg Oral Capsule) 
+Regimen E (150 mg Oral Pellet) 
+PK Parametera 
+Day 1 
+Day 7 
+Day 1 
+Day 7 
+AUCinf (ng*h/mL) 
+954.7 (44.1) 
+4663.7 (35.0) 
+858.4 (47.6) 
+4370.5 (31.9) 
+AUCtau (ng*h/mL) 
+717.4 (39.7) 
+2823.7 (31.8) 
+656.6 (45.3) 
+2653.7 (32.5) 
+Cmax (ng/mL) 
+67.2 (41.9) 
+164.4 (32.4) 
+57.9 (41.7) 
+150.7 (36.0) 
+CL/F (L/h) 
+209.1 (39.7) 
+53.1 (31.8) 
+228.5 (45.3) 
+56.5 (32.5) 
+t1/2 (h) 
+11.1 (28.1) 
+16.2 (21.2) 
+10.6 (21.7) 
+16.1 (15.9) 
+Tmax (h) 
+2.0 (1.0, 5.0) 
+6.0 (1.0, 8.0) 
+2.0 (0.5, 5.0) 
+5.0 (1.0, 8.0) 
+Vz/F (L) 
+3350 (44.3) 
+1240 (36.0) 
+3490 (48.7) 
+1310 (37.8) 
+Source. Reviewer’s analysis based on adpp.xpt for Trial 114 
+a All PK parameters reported as geometric mean (CV%), except for Tmax, which is reported as median (min, max) 
+Abbreviations: AUCin, area under the plasma concentration-time curve from 0 to infinity; AUCtau, AUC from 0 to the end of the dosing 
+interval; CL/F, apparent clearance; Cmax, maximum plasma concentration; CV, coefficient of variation; Min, minimum; Max, 
+maximum; N, number of subjects; PK, pharmacokinetic; t1/2, terminal half-life; Tmax, time of Cmax; Vz/F, apparent volume of 
+distribution during the terminal phase 
+Reference ID: 5709978
+
+
+===== PAGE 37 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+24 
+Version date: October 12, 2018 
+ 
+ 
+Figure 1. Arithmetic Mean (SD) Berotralstat Plasma Concentration-Time Profile on Day 1/Day 
+7 (Trial 114; PK Population) 
+Source. Reviewer’s analysis based on adpc.xpt for Trial 114 
+Abbreviations: SD, standard deviation 
+ 
+Relative BA Assessment (Oral Capsule Versus Oral Pellet) 
+The statistical analysis of relative BA between dosage forms based on Cmax and AUCtau in Trial 
+114 is shown below in Table 6. This reviewer’s statistical analysis was conducted using a 
+univariate analysis of variance model to determine the GMRs and associated 90% CIs of Cmax 
+and AUCtau. The GMRs and 90% CIs for Cmax and AUCtau when comparing the oral pellet (test) to 
+the oral capsule (reference) were 86.2 (79.2, 93.8) and 91.5 (83.8, 100), respectively, on Day 1, 
+and 91.7 (86.8, 96.9) and 94.0 (90.0, 98.1), respectively, on Day 7. Based on these data, 
+bioequivalence criteria were met between dosage forms for AUCtau at both Day 1 and Day 7, 
+although bioequivalence criteria for Cmax were only met on Day 7. On Day 1, Cmax was 
+approximately 14% lower for the oral pellet relative to the oral capsule and the lower bound of 
+the 90% CI of the GMR fell slightly below the no effect boundary of 80 to 125%. 
+Overall, these data are sufficient to establish a formulation bridge between the proposed oral 
+pellet and approved oral capsule. 
+Reference ID: 5709978
+
+
+===== PAGE 38 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+25 
+Version date: October 12, 2018 
+ 
+ 
+Table 6. Relative BA Statistical Analysis of Berotralstat for Oral Pellet vs. Oral Capsule Dosage 
+Forms Following 150 mg QD Dosing (Trial 114; PK Population) 
+Trial Day 
+PK Parameter 
+150 mg Oral Capsule 
+(N=18) 
+150 mg Oral Pellet 
+(N=18) 
+Oral Pellet/Oral Capsule 
+Geo LS Mean 
+Geo LS Mean 
+GMR 
+90% CI of GMR 
+Day 1 
+Cmax (ng/mL) 
+67.2 
+58.0 
+86.2 
+(79.2, 93.8) 
+AUCtau (ng*h/mL) 
+717.4 
+656.6 
+91.5 
+(83.8, 100.0) 
+Day 7 
+Cmax (ng/mL) 
+164.4 
+150.7 
+91.7 
+(86.8, 96.9) 
+AUCtau (ng*h/mL) 
+2823.7 
+2653.7 
+94.0 
+(90.0, 98.1) 
+Source. Reviewer’s analysis based on adpp.xpt for Trial 114 
+Abbreviations: AUCtau, area under the plasma concentration-time curve from 0 to the end of the dosing interval; BA, bioavailability; 
+CI, confidence interval; Cmax, maximum plasma concentration; Geo, geometric; GMR, geometric mean ratio; LS Mean, least-squares 
+mean; N, number of subjects; PK, pharmacokinetic; QD, once daily 
+ 
+6.2.2.2 Trial 304 (Phase 3 Pediatric PK and Safety Trial) 
+Trial Design 
+Trial 304 was a phase 3, single-arm, open-label, sequential, 3-part clinical trial in pediatric 
+subjects 2 to <12 years of age and weighing ≥12 kg with HAE. The primary objective was to 
+characterize the PK in pediatric subjects following oral administration of the oral pellet dosage 
+form, with assessments of safety and effectiveness included as secondary objectives. Following 
+a 12-week run-in period during which enrolled participants received standard-of-care (SOC) 
+treatment, subjects received open-label berotralstat treatment for up to a total of 144 weeks in 
+a 3-part treatment period (Figure 2). 
+Figure 2. Overall Trial Design for Trial 304 
+ 
+Source. CSR for Trial 304 (Figure 1, pg. 27) 
+Abbreviations: BSLN, baseline; CSR, clinical study report; DC, discontinue; Enr, enrollment; EOS, end of study; P/C, parents and/or 
+caregivers; PK, pharmacokinetic; Q4wk: every 4 weeks; QD, once daily; SOC, standard of care; Wk, week 
+ 
+Participants and primary caregivers were instructed that the pellets were to be swallowed 
+whole and should not be chewed. The pellets were to be either (1) sprinkled on the 
+Reference ID: 5709978
+
+
+===== PAGE 40 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+27 
+Version date: October 12, 2018 
+ 
+ 
+berotralstat clinical trials conducted in 876 adult and adolescent subjects 12 years of age and 
+older under NDA 214094. This model was used to generate steady-state PK profiles of 
+simulated pediatric subjects for the proposed weight groups of 12 to <24 kg, 24 to <32 kg, 32 to 
+<40 kg, and ≥40 kg, after which pediatric doses were selected with the goal of matching steady 
+state berotralstat exposure (Cmax and Ctrough) to that found to be safe and efficacious in adults 
+and adolescents at the approved berotralstat oral capsule dosage of 150 mg QD. For the 
+purposes of berotralstat exposure-matching, Ctrough was the primary PK parameter associated 
+with efficacy, while Cmax was the primary PK parameter for safety (due to the known risk of 
+concentration-dependent corrected QT interval [QTc] prolongation). 
+Dose modifications were permitted throughout the trial based on PK/safety findings and/or 
+changes in patient body weight to maintain pediatric exposure within the adult reference 
+range. For additional details regarding the Applicant’s population PK modeling and simulation 
+approach to dose selection, refer to Section 14.3.1. 
+Subject Disposition and Demographics 
+A total of 29 subjects were enrolled according to their body weight on Part 1/Day 1, including 7 
+participants in Cohort 1, 9 participants each in Cohorts 2 and 3, and 4 participants in Cohort 4. 
+As of the interim data cutoff date (September 11, 2024), all subjects had completed Part 1 of 
+the trial (through Week 12), 90% (N=26) had completed all visits through Week 24, and 59% 
+(N=17) had completed all visits through Week 48. Across all cohorts, 14% (N=4) of participants 
+had discontinued the trial, including 10% (N=3) due to perceived lack of efficacy and 3% (N=1) 
+due to withdrawal following lack of berotralstat treatment compliance. A total of 86% (N=25) of 
+enrolled subjects were still ongoing, including 10 and 15 subjects in Part 2 and Part 3, 
+respectively. No subjects in Cohort 4 had completed Part 2 of the trial as of the interim data 
+cutoff date. 
+A summary of baseline demographics across dose cohorts is provided in Table 8. Overall, 
+enrollment of males and females was approximately even across cohorts (52% and 48%, 
+respectively). The age of the trial population ranged from 3 to 11 years, with the youngest 
+patients enrolled in Cohort 4, and baseline body weight ranged from 14.9 to 69.7 kg across 
+cohorts. Body weight distribution within Cohorts 1, 2, and 3 was generally well-balanced across 
+the range of the respective weight bands. However, given the low enrollment in Cohort 4, the 
+body weights of subjects were slightly skewed towards the mid to upper range of the weight 
+band. 
+Reference ID: 5709978
+
+
+===== PAGE 43 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+30 
+Version date: October 12, 2018 
+ 
+ 
+Table 10. Observed Pediatric Berotralstat PK Parameters Compared to Adult Reference Range 
+PK Parameter 
+Dose 
+Cohorta 
+Cmax,ss (ng/mL)b 
+AUC0-6h,ss (ng*h/mL)c 
+Ctrough,ss (ng/mL)d 
+GeoMean 
+(P5 – P95) 
+Ratio 
+(Ped:Adults) 
+GeoMean 
+(P5 – P95) 
+Ratio 
+(Peds:Adults) 
+GeoMean 
+(P5 – P95) 
+Ratio 
+(Peds:Adults) 
+Cohort 1 
+(N=7) 
+271.4 
+(150 – 453) 
+1.73 
+1605 
+(1320 – 2010) 
+2.09 
+114.5 
+(68.8 – 193) 
+1.25 
+Cohort 2 
+(N=9) 
+181.1 
+(128 – 266) 
+1.15 
+874.3 
+(630 – 1420) 
+1.14 
+105.6 
+(61.7 – 253) 
+1.16 
+Cohort 3 
+(N=9) 
+180.4 
+(128 – 315) 
+1.15 
+911.2 
+(654 – 1560) 
+1.19 
+83.3 
+(54.9 – 160) 
+0.91 
+Cohort 4 
+(N=4)e 
+NC 
+NC 
+NC 
+NC 
+88.1 
+(35.8 – 154) 
+0.96 
+Adults 
+(N=50)f 
+156.9 
+(91.3 – 248) 
+Reference 
+768.9 
+(421 – 1250) 
+Reference 
+91.4 
+(53.8 – 162) 
+Reference 
+Source: Adapted from Summary of Clinical Pharmacology Trials (Table 4, pg. 17); Corroborated by reviewer’s analysis based on 
+adpc.xpt and adpp.xpt for Trials 304, 106, and 116 
+a Trial 304 enrolled subjects into dose cohorts according to baseline weight as follows: Cohort 1, ≥40 kg; Cohort 2, 32 to <40 kg; 
+Cohort 3, 24 to <32 kg; and Cohort 4, 12 to <24 kg. Data are summarized by cohort at baseline, although participants may have had 
+dose modifications from the dose administered at Week 2 
+b Based on N=7 (Cohort 1), N=8 (Cohort 2), and N=9 (Cohort 3) 
+c Based on N=4 (Cohort 1), N=3 (Cohort 2), and N=8 (Cohort 3) 
+d Based on N=11 (Cohort 1), N=12 (Cohort 2), N=17 (Cohort 3), and N=6 (Cohort 4) 
+e Per protocol, reduced PK sampling was performed in Cohort 4, thereby precluding calculation of PK parameters 
+f Adult reference range defined as the 5th to 95th percentiles of observed steady state values derived from Trials 106 and 116 (N=50) 
+Abbreviations: AUC0-6h,ss, area under the plasma concentration-time curve from 0 to 6 hours at steady state; Cmax,ss, maximum 
+plasma concentration at steady state; Ctrough,ss, trough plasma concentration at steady state; GeoMean, geometric mean; N, number 
+of subjects; NC, not calculated; P5, 5th percentile; P95, 95th percentile; Peds, pediatrics; PK, pharmacokinetic 
+Reference ID: 5709978
+
+
+===== PAGE 44 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+31 
+Version date: October 12, 2018 
+ 
+ 
+Figure 3. Comparison of Observed Berotralstat Cmax (ng/mL; Top Panel)a AUC0-6h (ng*h/mL; 
+Middle Panel)b, and Ctrough (ng/mL; Bottom Panel)c in Pediatric Patients vs. Adult Reference 
+Populationd,e,f 
+ 
+Source: Summary of Clinical Pharmacology Trials (Figure 1, pg. 18; Figure 4, pg. 21; Figure 3, pg. 20) 
+a Based on N=7 (Cohort 1), N=8 (Cohort 2), and N=9 (Cohort 3) 
+b Based on N=4 (Cohort 1), N=3 (Cohort 2), and N=8 (Cohort 3) 
+c Based on N=11 (Cohort 1), N=12 (Cohort 2), N=17 (Cohort 3), and N=6 (Cohort 4) 
+d Trial 304 enrolled subjects into dose cohorts according to baseline body weight as follows: Cohort 1, ≥40 kg; Cohort 2, 32 to 
+<40 kg; Cohort 3, 24 to <32 kg; and Cohort 4, 12 to <24 kg; Data are summarized by cohort at baseline, although participants may 
+have had dose modifications from the dose administered at Week 2 
+e Adult reference range defined as the 5th to 95th percentiles of observed steady state values derived from Trials 106 and 116 (N=50) 
+f Boxes represent Q1, median, and Q3 of the distribution. Whiskers represent the 5th and 95th percentile values. The mean is 
+represented by the circle point. Outliers are presented when they exist, and values are higher or lower than the upper and lower 
+whiskers, respectively. 
+Abbreviations: AUC0-6h, area under the plasma concentration-time curve from 0 to 6 hours; Cmax, maximum plasma concentration; 
+Ctrough, trough plasma concentration; N, number of subjects; Q1, Quartile 1; Q3, Quartile 3 
+Reference ID: 5709978
+
+
+===== PAGE 45 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+32 
+Version date: October 12, 2018 
+ 
+ 
+Regarding Cmax and AUC0-6h, observed pediatric values across Cohorts 1, 2, and 3 were 
+consistently higher than those observed in the adult reference population. Most notably, a 73% 
+and 109% higher geometric mean Cmax and AUC0-6h, respectively, were observed for Cohort 1 
+relative to the adult population, with the geometric mean pediatric values for both PK 
+parameters falling above the 95th percentile of the adult reference range. Regarding Ctrough, 
+geometric mean values for Cohorts 1 and 2 were 25% and 16% higher, respectively, than those 
+observed in adults. Conversely, geometric mean Ctrough values for Cohorts 3 and 4 were 9% and 
+4% lower, respectively, than those observed in adults. Across all pediatric cohorts, geometric 
+mean Ctrough fell within the 5th to 95th percentile of the adult reference range. 
+Dose Modifications 
+As of the interim data cutoff date, there were a total of twelve dose modifications across eleven 
+subjects. Two subjects in Cohort 1 
+ had a dose reduction from 150 mg to 
+108 mg due to Week 2 plasma concentrations which were substantially higher than the 95th 
+percentile of adult Cmax values. There were seven dose increases due to weight gain, including 
+five subjects in Cohort 2 (i.e., 108 mg to 150 mg) and two subjects in Cohort 3 (i.e., 96 mg to 
+108 mg). One of these subjects 
+, whose dose was increased from 108 mg to 150 mg 
+due to weight gain, was subsequently dose reduced back to 108 mg following a treatment-
+emergent adverse event (TEAE) of Grade 2 affect lability. There were also two dose increases in 
+Cohort 3 (from 96 mg to 108 mg), for which no reason for was recorded for dose modification. 
+Collection of plasma PK samples following dose modifications was implemented beginning with 
+Protocol Version 3.0. As a result, PK data following dose modification are unavailable for the 
+two subjects in Cohort 1 who received PK-based dose reductions prior to Protocol Version 3.0. 
+Additionally, PK data following dose modifications are unavailable for subject 
+ due to a 
+major protocol deviation, and for subjects 
+ and 
+, as the dose modification PK 
+sampling window for these subjects was after the interim cutoff date of September 11, 2024. 
+Therefore, a summary of berotralstat PK following dose modification for the remaining six 
+subjects, all of whom received dose increases due to weight gain, is provided below in Table 11. 
+Mean berotralstat plasma concentrations following dose modifications were generally 
+comparable to those observed for Cohort 1 at the Week 2 PK visit. This is expected, as most 
+subjects (N=4/6) received the 150 mg capsules after the dose modification. 
+Table 11. Summary of Plasma Berotralstat Concentrations (ng/mL) Following Dose 
+Modification 
+Timepoint (Approximately 2 Weeks Following Dose Modification) 
+Cohort 
+Statistic 
+20 to 24 h Post-Dosea 
+2 to 4 h Post-Doseb 
+N 
+6 
+6 
+All cohorts 
+ArithMean (SD) 
+135.5 (72.7) 
+200.0 (100.8) 
+GeoMean (CV%) 
+121.6 (52.3) 
+179.0 (56.2) 
+Source. Reviewer’s analysis based on adpc.xpt for Trial 304 
+a The 20-to-24-hour post-dose draw was relative to the modified dose taken on the day prior to the clinic visit 
+b The 2-to-4-hour post-dose draw was relative to the dose administered at the clinic visit 
+Abbreviations: ArithMean, arithmetic mean; CV, coefficient of variation; GeoMean, geometric mean; N, number of subjects; 
+SD, standard deviation 
+Reference ID: 5709978
+(b) (6)
+(b) (6)
+(b) (6)
+(b) (6)
+(b) (6)
+
+
+===== PAGE 48 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+35 
+Version date: October 12, 2018 
+ 
+ 
+following internal discussion across review disciplines, it was ultimately concluded that the 
+currently approved dosing recommendations for adolescents 12 to <18 years of age are most 
+appropriate based on several factors. 
+First, there was unexplained inter-individual variability in berotralstat PK based on observed PK 
+data derived from Cohort 1 in Trial 304. Specifically, two pediatric subjects received dose 
+reductions from 150 mg oral capsule to 108 mg oral pellets due to substantially higher Week 2 
+exposures compared to the adult reference range, including the following participants: 
+• Subject 
+ (body weight [BW] of 64.6 kg) had an observed Cmax of 453 ng/mL, which 
+was the highest concentration observed across all subjects in Trial 304 
+• Subject 
+ (BW of 49.8 kg) had a Cmax of 399 ng/mL, which was the second-highest 
+Cmax observed across all subjects in Trial 304 
+Conversely, Subject 
+ (BW of 40.2 kg) had a Cmax of 150 ng/mL at Week 2. Although this 
+subject had the lowest body weight among those receiving the 150 mg oral capsule, the 
+resulting Cmax value fell within the adult reference range and was notably lower compared to 
+those observed for subjects 
+ and 
+. The population PK analyses submitted with 
+the current application clearly demonstrate that body weight is a significant covariate affecting 
+berotralstat exposure and are supportive of the proposed weight-based dosing paradigm for 
+children 2 to <12 years of age based on an exposure-matching approach. However, the 
+observed PK data in Trial 304 suggest that (1) body weight may not adequately explain all of the 
+variability in drug exposure in any given patient, and (2) a subject having lower body weight 
+does not guarantee a higher exposure compared to a subject with higher body weight. 
+Additionally, in the original NDA submission for berotralstat oral capsules (NDA 214094), 
+population PK analyses included PK data from 16 adolescents from Trials 302 and 204 with 
+body weights ranging from 40.1 to 88.5 kg, which supported the recommendation for no body 
+weight-based dosage adjustment for adolescents 12 to <18 years of age. 
+Therefore, while is it acknowledged that berotralstat PK is significantly affected by a patient’s 
+body weight, there are insufficient PK data available to make a clear recommendation for 
+weight-based dosing in adolescent subjects, especially considering the established safety and 
+efficacy profile of berotralstat 150 mg oral capsule in adolescents based on both observed 
+clinical data and prior population PK analyses under NDA 214094. As a result, no modification of 
+the recommended dosing regimen for pediatric patients 12 years of age and older is 
+recommended. 
+Reference ID: 5709978
+(b) (6)
+(b) (6)
+(b) (6)
+(b) (6)
+(b) (6)
+
+
+===== PAGE 49 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+36 
+Version date: October 12, 2018 
+ 
+ 
+6.3 Comprehensive Clinical Pharmacology Review 
+6.3.1 Clinical Pharmacology Questions 
+Is the proposed dosing regimen appropriate for the general patient population for which the 
+indication is being sought? 
+Assessment of Initial Dose Selection for Trial 304 
+Initial pediatric doses for Trial 304 were derived based on an exposure-matching approach 
+using simulations of predicted pediatric berotralstat exposure generated from the Applicant’s 
+previously developed population PK model for adults and adolescents. The reference 
+population consisted of adults who received the approved dosage regimen of berotralstat oral 
+capsule 150 mg QD. Briefly, in Trial 304, the observed geometric mean Cmax,ss for pediatric 
+subjects in Cohorts 1, 2, and 3 exceeded that of the adult population. However, while geometric 
+mean Cmax,ss for Cohorts 2 and 3 fell within the adult reference range (5th to 95th percentile), 
+geometric mean Cmax,ss for Cohort 1 exceeded the 95th percentile of the adult population. 
+Regarding Ctrough,ss, observed geometric means for all pediatric cohorts fell within the adult 
+reference range (Refer to Section 6.2.2.2 for detailed discussion of Trial 304 results). After 
+finalizing the population PK model by incorporating the observed pediatric PK data derived 
+from Trial 304, updated simulations were conducted to predict pediatric berotralstat exposure 
+(Ctrough,ss and Cmax,ss) at the doses administered in Trial 304 (Figure 4). 
+Reference ID: 5709978
+
+
+===== PAGE 50 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+37 
+Version date: October 12, 2018 
+ 
+ 
+Figure 4. Final Population PK Model-Predicted Berotralstat Ctrough,ss (Top Panel) and Cmax,ss 
+(Bottom Panel) at Dosing Administered in Trial 304 
+ 
+Source: Summary of Clinical Pharmacology Trials (Figure 6, pg. 32) 
+Note: Red horizontal lines correspond to 5th, 50th, and 95th percentiles of the simulated Ctrough,ss and Cmax,ss for adults following 
+steady-state dosing with 150 mg commercial capsule; Grey points correspond to simulated Ctrough,ss and Cmax,ss for pediatric patients 
+following the dose levels specified in the grey boxes above each group, which are summarized with 5th, 50th, and 95th percentiles 
+presented in blue; Grey shaded rectangles at the top represent the dosing regimen (oral pellets formulation) for each weight bands; 
+Light grey rectangles summarize the number and percent of simulated values for each weight band; Top red rectangle represents 
+the percent of simulated pediatric values >95th percentile of adults; Green rectangle represents the percent of simulated pediatric 
+values within 5th and 95th percentiles of adults; Lower red rectangle represents the percent of simulated pediatric values <5th 
+percentile of adults; Bottom purple rectangle represents the ratio of 50th percentile of pediatric values to 50th percentile of adults; 
+Green circle symbols represent the observed pre-dose plasma concentrations (i.e., Ctrough) at Week 2 or the observed Cmax at Week 
+2. 
+Abbreviations: Cmax,ss, maximum plasma concentration at steady state; Ctrough,ss, trough plasma concentration at steady state; 
+N, number of subjects; PK, pharmacokinetic; QD, once daily 
+ 
+Based on the final model, berotralstat systemic exposure for the 96 mg QD and 108 mg QD oral 
+pellet dosages for children weighing 24 to <32 kg and 32 to <40 kg, respectively, align well with 
+the adult reference range. For both weight bands, median Ctrough,ss is predicted to be 
+Reference ID: 5709978
+
+
+===== PAGE 54 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+41 
+Version date: October 12, 2018 
+ 
+ 
+patient population due to elevated berotralstat exposures, particularly in subjects with body 
+weights falling in the lower range of the weight band. A comprehensive review of the simulated 
+dosing scenarios investigated by the Applicant for various body weight bands and berotralstat 
+dosages, as discussed in the Applicant’s Modeling and Simulation Report (BCX7353-MS-002), 
+was completed to identify potential appropriate alternative dosing regimens for these subjects. 
+A summary of the berotralstat dosages and weight bands which were considered throughout 
+the review cycle, along with the corresponding model-predicted simulated exposures, is 
+provided below in Table 13. 
+Table 13. Comparison of Simulated Berotralstat Exposures Across Dosing Scenarios 
+Considered for Children 2 to <12 Years of Age and Weighing 
+, Using the Final 
+Population PK Model 
+PK Parameter 
+Ctrough,ss (ng/mL) 
+Cmax,ss (ng/mL) 
+Berotralstat 
+Dosea 
+BW (kg) 
+Median 
+(P5 – P95) 
+Ratio 
+(Peds:Adults) 
+% < Adult 
+P5 
+Median 
+(P5 – P95) 
+Ratio 
+(Peds:Adults) 
+% > Adult 
+P95 
+150 mg QD Adultsb 
+78 
+(31 – 180) 
+Reference Reference 
+133 
+(70 – 251) 
+Reference Reference 
+78 mg QD 
+12 to <24 
+83 
+(31 – 198) 
+1.06 
+5.0 
+178 
+(96 – 331) 
+1.34 
+18.3 
+15 to <24 
+80 
+(31 – 188) 
+1.02 
+5.5 
+168 
+(93 – 304) 
+1.26 
+13.0 
+72 mg QD 
+12 to <24 
+77 
+(29 – 182) 
+0.99 
+6.1 
+164 
+(88 – 306) 
+1.23 
+13.3 
+66 mg QD 
+12 to <24 
+70 
+(27 – 167) 
+0.90 
+7.9 
+150 
+(81 – 280) 
+1.13 
+8.5 
+Source: Compiled by reviewer based on Summary of Clinical Pharmacology Trials (Table 9, pg. 35), Population PK Modeling and 
+Simulation Report BCX7353-MS-002 (Table 22, pg. 237), and Applicant’s response to Agency request for information, dated 
+October 14, 2025 (Table 1, pg. 4) 
+a 150 mg QD given as commercial oral capsule dosage form; All other doses (78 mg, 72 mg, and 66 mg QD) represent 
+administration as the oral pellet dosage form 
+b Adult reference range defined as the 5th to 95th percentiles of observed steady state values derived from Trials 106 and 116 (N=50) 
+Abbreviations: BW, body weight; Cmax,ss, maximum plasma concentration at steady state; Ctrough,ss, trough plasma concentration at 
+steady state; N, number of subjects; P5, 5th percentile; P95, 95th percentile; PK, pharmacokinetic; QD, once daily 
+ 
+For pediatric patients weighing 12 to <24 kg and receiving the lower 72 mg QD and 66 mg QD 
+oral pellet doses, 13.3% and 8.5% of subjects would have predicted Cmax,ss exceeding the adult 
+reference range, respectively, compared with more than 18% for 78 mg QD. Similarly, the 
+median predicted Cmax,ss would be up to 23% and 13% higher at these respective doses, 
+compared to up to 34% higher for the Applicant’s proposed dose of 78 mg QD. Regarding 
+efficacy considerations, although median predicted Ctrough,ss is slightly lower for the 72 and 66-
+mg doses (0.99- and 0.9-fold lower compared to adult reference range, with 6.1 and 7.9% 
+falling below the adult 5th to 95th percentile, respectively), maintenance of efficacy is justifiable 
+given that a lower dosage of 110 mg QD was approved for use in adults experiencing persistent 
+GI intolerability. Given these considerations, the Agency strongly recommended that the 
+Applicant consider a lower berotralstat dosage of either 66 mg QD or 72 mg QD for pediatric 
+Reference ID: 5709978
+(b) (4)
+(b) (4)
+
+
+===== PAGE 56 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+43 
+Version date: October 12, 2018 
+ 
+ 
+Table 14. Simulated Berotralstat Ctrough,ss and Cmax,ss for Pediatric Subjects 2 to <12 Years of 
+Age Relative to Adult Reference Range Using the Final Population PK Model (Final Proposed 
+Dosing) 
+PK Parameter 
+Ctrough,ss (ng/mL) 
+Cmax,ss (ng/mL) 
+Berotralstat 
+Dosea 
+BW (kg) 
+Median 
+(P5 – P95) 
+Ratio 
+(Peds:Adults) 
+% < Adult 
+P5 
+Median 
+(P5 – P95) 
+Ratio 
+(Peds:Adults) 
+% > Adult 
+P95 
+150 mg QD Adultsb 
+78 
+(31 – 180) 
+Reference Reference 
+133 
+(70 – 251) 
+Reference Reference 
+132 mg QD ≥40 
+92 
+(38 – 202) 
+1.18 
+2.8 
+158 
+(87 – 290) 
+1.19 
+10.6 
+108 mg QD 32 to <40 
+84 
+(35 – 188) 
+1.08 
+3.7 
+156 
+(87 – 274) 
+1.17 
+8.9 
+96 mg QD 
+24 to <32 
+84 
+(33 – 200) 
+1.08 
+3.8 
+165 
+(91 – 289) 
+1.24 
+10.4 
+72 mg QD 
+12 to <24 
+77 
+(29 – 182) 
+0.99 
+6.1 
+164 
+(88 – 306) 
+1.23 
+13.3 
+Source. Compiled by reviewer based on Applicant’s response to Agency request for information, dated October 14, 2025 (Table 1, 
+pg. 4) 
+a 150 mg QD given as commercial oral capsule dosage form; All other doses (132, 108, 96, and 72 mg QD) given as oral pellet 
+dosage form 
+b Adult reference range defined as the 5th to 95th percentiles of observed steady state values derived from Trials 106 and 116 (N=50) 
+Abbreviations: BW, body weight; Cmax,ss, maximum plasma concentration at steady state; Ctrough,ss, trough plasma concentration at 
+steady state; N, number of subjects; P5, 5th percentile; P95, 95th percentile; PK, pharmacokinetic; QD, once daily 
+ 
+Additionally, regarding the lowest weight band of 12 to <24 kg, according to the weight-for-age 
+growth charts from the CDC, the 3rd to 97th percentiles of expected body weight for 2-year-olds 
+in the United States are approximately 10.4 to 15.7 kg and 10.0 to 15.1 kg for boys and girls, 
+respectively.10 Based on these data, the majority of the youngest U.S. children are expected to 
+have a body weight within 5 kg of the lowest body weight pediatric subject enrolled in Trial 304, 
+supporting the applicability of the observed data to the expected real-world patient population. 
+Given these considerations, the final proposed dosing for children 2 to <12 years of age is 
+acceptable from a clinical pharmacology perspective. Refer to Section 8.3 for additional 
+discussion of the supportive pediatric safety data available from Trial 304. Refer to 
+Section 14.3.1 for details pertaining to the adequacy of the Applicant’s population PK model. 
+Are the proposed dose adjustments based on intrinsic/extrinsic factors reasonable? 
+Age/Body Weight 
+Based on population PK analyses, age was not identified as a significant covariate affecting 
+berotralstat PK. All differences in observed berotralstat exposure between the adult/adolescent 
+and pediatric populations are explained by differences in body weight, which was identified as a 
+statistically significant modifier of berotralstat PK. 
+• Therefore, no dose adjustment is recommended based on age and the Applicant has 
+proposed a weight-based dosing paradigm for pediatric subjects 2 to <12 years of age with 
+HAE receiving berotralstat oral pellets (Table 12; Section 6.2.3). 
+Reference ID: 5709978
+
+
+===== PAGE 57 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+44 
+Version date: October 12, 2018 
+ 
+ 
+Renal Impairment 
+Berotralstat has not been evaluated in pediatric subjects 2 to <12 years of age with any degree 
+of renal impairment. In adults with severe renal impairment, berotralstat Cmax was increased by 
+47% compared to those with normal renal function, which was not considered clinically 
+meaningful and for which no dose adjustment was recommended.11 However, given that 
+pediatric subjects are predicted to have up to a 24% higher Cmax compared to adults at the 
+proposed berotralstat oral pellet dosing, the clinical relevance of the potential additional 
+increase in berotralstat systemic exposure in the setting of severe renal impairment is 
+unknown. Therefore, it is recommended to avoid use of berotralstat in pediatric patients 2 to 
+<12 years of age with severe renal impairment. 
+The impact of mild and moderate renal impairment on berotralstat PK was not studied in 
+adults, although a total of 23 and 2 adult HAE patients with mild and moderate renal 
+impairment, respectively, were enrolled across two long-term prophylactic trials (Trials 204 and 
+302). The safety profile in these 25 subjects was similar to that of the overall trial population 
+(Refer to the NDA Multidisciplinary Review and Evaluation, dated December 3, 2020 [DARRTS 
+Reference ID: 4711626]). 
+The potential impact of renal impairment on berotralstat systemic exposure was also assessed 
+using population PK modeling, which included a total of 199 subjects with renal impairment, 
+comprising 192 adults with mild renal impairment (eGFR 61 to 89 mL/min/1.73m2) and 7 adults 
+with moderate renal impairment (eGFR 49 to 59 mL/min/1.73m2). According to the final model, 
+baseline eGFR was not identified as a statistically significant covariate affecting apparent 
+clearance of berotralstat. As shown below in Figure 6 and Table 15, there is large degree of 
+overlap in predicted Cmax,ss and AUC0-24h,ss between mild renal impairment, moderate renal 
+impairment, and normal renal function subjects. Specifically, for mild renal impairment, the 
+predicted geometric mean Cmax,ss and AUC0-24h,ss were 7% and 9% lower, respectively, relative to 
+normal renal function. For moderate renal impairment, the predicted geometric mean Cmax,ss 
+and AUC0-24h,ss were 3% and 10% higher, respectively, compared to normal renal function. 
+Furthermore, per the current USPI, urinary excretion of berotralstat following oral dosing is low 
+(approximately 9%), providing additional support that impaired renal function is unlikely to 
+result in a clinically significant increase in systemic exposure.11 
+Therefore, based on the totality of available data, the Applicant’s proposal to permit dosing in 
+pediatric subjects with mild to moderate renal impairment is considered acceptable. 
+Reference ID: 5709978
+
+
+===== PAGE 58 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+45 
+Version date: October 12, 2018 
+ 
+ 
+Figure 6. Boxplots of Estimated Cmax,ss (Left Panel) and AUC0-24h,ss (Right Panel) Based on 
+Individual PK Parameters Derived From the Final Population PK Model, Stratified by Renal 
+Impairment Categorya 
+ 
+Source. Applicant’s response to Agency request for information, dated May 22, 2025 (Figure 2, pg. 8) 
+a Estimated PK parameters assuming administration of the approved berotralstat oral capsule dosage of 150 mg QD 
+Abbreviations: AUC0-24h,ss, area under the plasma concentration-time curve from 0 to 24 hours; Cmax,ss, maximum plasma 
+concentration at steady state; PK, pharmacokinetic; QD, once daily 
+ 
+Table 15. Summary of Estimated Cmax,ss and AUC0-24h,ss Based on Individual PK Parameters 
+Derived From the Final Population PK Model, Stratified by Renal Impairment Categorya 
+Renal Function Group 
+Parameter 
+Normal Renal 
+Function 
+Mild Renal 
+Impairment 
+Moderate Renal 
+Impairment 
+N 
+554 
+192 
+7 
+Range of baseline eGFR (mL/min/1.73m2) 
+90 – 177 
+61 – 89 
+49 – 59 
+Cmax,ss (ng/mL)b 
+128 (42.7) 
+119 (51.3) 
+132 (30.9) 
+AUC0-24h,ss (ng*h/mL)b 
+2260 (49.9) 
+2060 (62.3) 
+2500 (35.3) 
+GMR 
+Cmax,ss 
+Reference 
+0.93 
+1.03 
+AUC0-24h,ss 
+Reference 
+0.91 
+1.10 
+Source. Adapted from Applicant’s response to Agency request for information, dated May 22, 2025 (Table 2, pg. 7) 
+a Estimated PK parameters assuming administration of the approved berotralstat oral capsule dosage of 150 mg QD 
+b Reported as geometric mean (CV%) 
+Abbreviations: AUC0-24h,ss, area under the plasma concentration-time curve from 0 to 24 hours; Cmax,ss, maximum plasma 
+concentration at steady state; CV, coefficient of variation; eGFR, estimated glomerular filtration rate; GMR, geometric mean ratio; 
+N, number of subjects; PK, pharmacokinetic; QD, once daily 
+ 
+Hepatic Impairment 
+Berotralstat has not been evaluated in pediatric subjects 2 to <12 years of age with any degree 
+of hepatic impairment. In adults with mild hepatic impairment, berotralstat PK was unchanged 
+compared to those with normal hepatic function. In adults with moderate hepatic impairment, 
+Reference ID: 5709978
+
+
+===== PAGE 59 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+46 
+Version date: October 12, 2018 
+ 
+ 
+Cmax and AUCinf were 77% and 78% higher, respectively, whereas in subjects with severe 
+impairment, Cmax was increased by 27%, while AUClast was decreased by 5%.11 Given that 
+pediatric subjects are predicted to have up to a 24% higher Cmax compared to adults at the 
+proposed berotralstat oral pellet dosing, the clinical relevance of the potential additional 
+increase in berotralstat systemic exposure in the setting of moderate to severe hepatic 
+impairment is unknown. 
+• Therefore, use of berotralstat is not recommended for pediatric patients 2 to <12 years of 
+age with moderate or severe hepatic impairment. 
+The proposed dosage adjustments based on intrinsic/extrinsic factors are reasonable from a 
+clinical pharmacology perspective. 
+Reference ID: 5709978
+
+
+===== PAGE 63 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+50 
+Version date: October 12, 2018 
+ 
+ 
+Table 17. Schedule of Assessments (Trial 304) 
+ 
+Source: Trial Report Body: Table 3 (pg. 30-31) 
+a Participants who discontinued berotralstat either at the Week 144 visit or earlier were required to attend an EOS follow-up visit 3 
+weeks (±3 days) after trial intervention discontinuation. Participants who discontinued the trial but continued to receive berotralstat 
+via another mechanism had EOS assessments performed at their last regularly scheduled visit. 
+b Screening assessments were conducted at the screening visit although, if necessary, the assessments may have taken place over 
+a screening period not to exceed 14 days without prior consent of the sponsor. Participants were considered enrolled into the trial as 
+of the date of the screening visit if all available results satisfied the inclusion and exclusion criteria as of that date. If, after the 
+screening visit, screening results were returned that indicated the participant no longer met the inclusion and exclusion criteria, the 
+participant was considered a screen failure. 
+c The Day 1 visit occurred 12 weeks ±4 days after enrollment. If extenuating circumstances prevailed, this timeframe may have been 
+extended with medical monitor approval (see Section 9.3.1 of the Protocol, Appendix 16.1.1). 
+d At Week 9, the site contacted the P/C to assess participant status including AEs and concomitant medications. 
+Abbreviations: ACE, angiotensin-converting enzyme; AE, adverse event; ALP, alkaline phosphatase; ALT, alanine 
+aminotransferase; AST, aspartate aminotransferase; BMI, body mass index; Cmax, maximum plasma concentration; C1-INH, C1 
+esterase inhibitor; CRF, case report form; CYP2D6/CYP3A4, cytochrome P450 (CYP)2D6/3A4; ECG, electrocardiogram; 
+Enr., enrollment; EOS, end of study; EOT, end of treatment; GGT, gamma-glutamyl transferase; HAE, hereditary angioedema; hr, 
+hour; LDH, lactate dehydrogenase; LLN, lower limit of normal; P/C, parents and/or caregivers; PK, pharmacokinetic(s); 
+QTc, corrected QT interval; Scr., screening; SOC, standard of care; Wk(s), week(s) 
+Reference ID: 5709978
+
+
+===== PAGE 95 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+Parameter 
+Details 
+86 
+Version date: October 12, 2018 
+ 
+ 
+Table 29. Covariate-PK Parameter Relationships Evaluated in the Population PK Analyses 
+Category 
+Covariate 
+PK Parameter 
+Rationale 
+Population 
+HAE vs healthy adult; pediatric vs. adult 
+CL/F 
+Clinical interest 
+Dose 
+Berotralstat dose (mg) 
+CL/F, Vc/F, Frel, 
+Ka 
+Clinical interest, prior knowledge of 
+dose effect; assessed as part of 
+structural model development 
+Food Status 
+Food (fasted/with food) 
+Frel, Ka, Tlag 
+Clinical interest; assessed as part of 
+structural model development 
+Formulation 
+Formulation 
+capsule, 
+capsule, oral pellets) 
+Frel, Ka, Tlag 
+Clinical interest, prior knowledge of 
+formulation effect; assessed as part 
+of structural model development 
+Demographic 
+Baseline and time-varying body weight and 
+other body size metrics (IBW, BMI) 
+CL/F, Vc/F, 
+Q/F, Vp/F 
+Clinical interest, prior knowledge of 
+body weight effect; assessed as part 
+of structural model development 
+Baseline age, sex, race, ethnicity 
+CL/F, Vc/F 
+Clinical interest 
+Region 
+Japan vs. non-Japan 
+CL/F, Vc/F 
+Clinical interest 
+Hepatic Function 
+Baseline albumin, ALT, AST, and total 
+bilirubin 
+CL/F 
+Clinical interest 
+Renal Function 
+Baseline eGFR 
+CL/F 
+Clinical interest 
+Source. Applicant’s Population PK Modeling and Simulation Report BCX7353-MS-002 (Table 2, pg. 38) 
+Abbreviations: ALT, alanine aminotransferase; API, active pharmaceutical ingredient; AST, aspartate aminotransferase; BMI, body mass index; CL/F, 
+apparent clearance; eGFR, estimated glomerular filtration rate; Frel, relative bioavailability; HAE, hereditary angioedema; IBW, ideal body weight; Ka, 
+absorption rate constant; PK, pharmacokinetic; Q/F, apparent intercompartmental clearance; Tlag, lag time in absorption; Vc/F, apparent volume of 
+distribution in the central compartment; Vp/F, apparent volume of distribution in the peripheral compartment 
+Final Model 
+Summary 
+Software and version Exploratory data analysis, plotting, simulations, and table generation to support population PK analysis were performed 
+using R version 4.3.3 and RStudio version 2023.12.1 (Build 402). Population PK modeling was conducted using NONMEM 
+software version 7.5.1. The first-order conditional estimation method with eta-epsilon interaction (FOCEI) was used for 
+parameter estimation during model development. Perl-speaks-NONMEM (PsN) version 4.9.0 was used for post-modeling 
+analysis, including prediction-corrected VPCs and bootstrap procedures. The mrgsolve package in R was used for 
+simulations. 
+Reference ID: 5709978
+(b) (4)
+(b) (4)
+
+
+===== PAGE 96 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+Parameter 
+Details 
+87 
+Version date: October 12, 2018 
+ 
+ 
+Model structure 
+The final model was a two-compartment model with dual lagged parallel first-order absorption processes (rapid and slow) 
+and linear elimination from the central compartment, which included parameters for apparent clearance from the central 
+compartment (CL/F) and between compartments (Q/F), as well as for apparent volume of distribution in both the central 
+and peripheral compartments (Vc/F, Vp/F; Figure 8). Following covariate investigation, the Applicant retained the following 
+covariates in the final population PK model: 
+• Time-varying body weight on all apparent clearances and volumes of distribution (CL/F, Q/F, Vc/F, Vp/F) 
+• Formulation on the rate of absorption, lag-time, and relative bioavailability 
+• Dose on the rate of absorption and relative bioavailability for patients 12 years of age and older 
+ 
+Figure 8. Schematic of Final Population PK Model for Berotralstat 
+ 
+ 
+ 
+ 
+Model parameter 
+estimates 
+Source. Applicant’s Population PK Modeling and Simulation Report BCX7353-MS-002 (Figure 5, pg. 59) 
+Abbreviations: CL/F, apparent clearance; Frel, relative bioavailability; Ka1-2, absorption rate constants; PK, pharmacokinetic; Q/F, apparent 
+intercompartmental clearance; Tlag1-2, lag time in absorption; Vc/F, apparent volume of distribution in the central compartment; Vp/F, apparent volume of 
+distribution in the peripheral compartment 
+Model parameter estimates from the final model are shown below in Table 30. 
+ 
+Table 30. Model Parameter Estimates for the Final Population PK Model for Berotralstat 
+Parameter 
+Unit 
+Estimate 
+Variability (%)a 
+RSE (%) 
+Shrinkage (%) 
+Fixed parameters (θ) 
+Apparent (oral) clearance (CL/F) 
+L/h 
+134 
+- 
+2.53 
+- 
+Apparent volume of the central compartment (Vc/F) 
+L 
+177 
+- 
+7.65 
+- 
+Apparent intercompartmental clearance (Q/F) 
+L/h 
+189 
+- 
+3.58 
+- 
+Apparent volume of the peripheral compartment (Vp/F) 
+L 
+5040 
+- 
+3.56 
+- 
+Fractional decrease in CL/F after 24 hr 
+- 
+0.437 
+- 
+2.78 
+- 
+Exponent of body weight on CL/F 
+- 
+0.582 
+- 
+11.11 
+- 
+Exponent of body weight on Vc/F 
+- 
+0.649 
+- 
+40.58 
+- 
+ 
+Reference ID: 5709978
+
+
+===== PAGE 99 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+90 
+Version date: October 12, 2018 
+ 
+ 
+ 
+Parameter 
+Details 
+Vc/F 
+0.4429 
+0.2660 
+0.4426 
+0.6905 
+Q/F 
+0.1427 
+0.1072 
+0.1422 
+0.1854 
+Vp/F 
+0.1533 
+0.0918 
+0.1509 
+0.1978 
+Kab 
+0.0409 
+0.0253 
+0.0409 
+0.0584 
+Inter-occasion variability (ξ) 
+CL/F 
+0.0745 
+0.0610 
+0.0738 
+0.0923 
+Vc/F 
+0.8008 
+0.6284 
+0.8150 
+1.0145 
+Residual error (σ) 
+Additive error 
+4.291 
+2.125 
+4.248 
+6.007 
+Proportional error, Phase 1 
+0.175 
+0.160 
+0.175 
+0.193 
+Proportional error, Phase 2/3 serial 
+0.174 
+0.147 
+0.172 
+0.203 
+Proportional error, Phase 2/3 sparse 
+0.294 
+0.278 
+0.294 
+0.315 
+Source. Adapted from Applicant’s Population PK Modeling and Simulation Report BCX7353-MS-002 (Table 20, pg. 185) 
+a Data was stratified by pediatric (2 to <12 years of age) and all others (≥12 years of age) 
+b There was a single inter-individual variability term for both Ka1 and Ka2 
+Abbreviations: API, active pharmaceutical ingredient; CL/F, apparent clearance; Frel, relative bioavailability; Ka1, rapid absorption rate constant; Ka2, slow 
+absorption rate constant; PK, pharmacokinetic; Q/F, apparent intercompartmental clearance; Tlag1, lag time in absorption for rapid absorption 
+compartment; Tlag2, lag time in absorption for slow absorption compartment; Vc/F, apparent volume of distribution in the central compartment; 
+Vp/F, apparent volume of distribution in the peripheral compartment 
+ 
+Goodness-of-Fit, 
+VPC 
+Goodness-of-fit (GoF) plots are provided below for all trials and stratified by Trial 304 cohort (intensive and sparse PK 
+sampling) in Figure 9 and Figure 10, respectively. Overall, good agreement was demonstrated between observed and 
+predicted berotralstat concentrations. 
+ 
+Reference ID: 5709978
+
+
+===== PAGE 103 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+94 
+Version date: October 12, 2018 
+ 
+ 
+ 
+Parameter 
+Details 
+Figure 12. Prediction-Corrected VPC of Berotralstat PK Versus Time in Trial 304 Using the Final Population PK 
+Model for Intensive PK (Left) and Sparse PK (Right) Data 
+ 
+Source. Applicant’s Population PK Modeling and Simulation Report BCX7353-MS-002 (Figure 9, pg. 67) 
+Note: Points are observed plasma concentrations. Time is time since first dose administration in hours. Gold dashed lines are the 50th, 5th, and 95th 
+percentile of measured concentrations. Blue lines are the 50th, 5th, and 95th percentile of 1000 simulated subjects 
+Abbreviations: PK, pharmacokinetic; VPC, visual predictive check 
+Significant 
+Covariates and 
+Clinical Relevance 
+Forest plots depicting the effects of retained covariates on berotralstat PK parameters (Ctrough,ss, Cmax,ss, and AUC0-24h,ss) 
+compared to a typical adult reference subject are presented below in Figure 13. Based on these plots, dose, formulation 
+(i.e., oral capsule versus oral pellet), and age group (i.e., adult versus pediatric) did not have a significant impact on 
+berotralstat exposure. However, body weight ≤40 kg appeared to contribute to significantly higher berotralstat exposure 
+based on Ctrough,ss, Cmax,ss, and AUC0-24h,ss. 
+Reference ID: 5709978
+
+
+===== PAGE 104 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+95 
+Version date: October 12, 2018 
+ 
+ 
+ 
+Parameter 
+Details 
+Figure 13. Covariate Effects on Predicted Berotralstat PK Parameters (Ctrough,ss, Cmax,ss, and AUC24h,ss) Relative 
+to Reference Subjects Using the Final Population PK Model 
+ 
+Source. Applicant’s Population PK Modeling and Simulation Report BCX7353-MS-002 (Figure 10, 11, and 12 [pg. 69-71]) 
+Note: Reference subject defined as a 70 kg adult who received 150 mg QD capsule at steady state. Blue dot and horizontal bar represent the fold-change 
+(median and 90% CI) of the covariate effect. Gray shaded region corresponds to fold-change of 0.8 to 1.2. 
+Abbreviations: AUC0-24h,ss, area under the plasma concentration-time curve from 0 to 24 hours at steady state; CI, confidence interval; Cmax,ss, maximum 
+plasma concentration at steady state; Ctrough,ss, trough plasma concentration at steady state; DOSE, dose in mg; FORM, formulation (0 = oral capsule, 2 = 
+oral pellet); PEDS, pediatric population; PK, pharmacokinetic; WT, body weight 
+Monte-Carlo 
+Simulations to 
+In order to inform the adult exposure-matching approach to pediatric dose selection, the covariate effect of body weight on 
+berotralstat PK was characterized further. The Applicant performed a series of Monte-Carlo simulations using the final 
+Reference ID: 5709978
+
+
+===== PAGE 108 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+99 
+Version date: October 12, 2018 
+ 
+ 
+ 
+Parameter 
+Details 
+Figure 15. Simulated Steady-State Berotralstat PK Parameters for Pediatric Subjects 2 to <12 Years of Age 
+Compared to Adult Reference Range Using the Final Population PK Model (Trial 304 Dosing) 
+ 
+Source. Applicant’s Population PK Modeling and Simulation Report BCX7353-MS-002 (Figure 14, pg. 80) 
+Note: Red horizontal lines correspond to 5th, 50th, and 95th percentiles of the simulated Ctrough,ss, Cmax,ss, AUC0-24h,ss, and Cave,ss for adults following steady-
+state dosing with 150 mg commercial capsule; Grey points correspond to simulated Ctrough,ss, Cmax,ss, AUC0-24h,ss, and Cave,ss for pediatric patients following 
+the dose levels specified in the grey boxes above each group, which are summarized with 5th, 50th, and 95th percentiles presented in blue; Grey shaded 
+rectangles at the top represent the dosing regimen (oral pellets formulation) for each weight bands; Light grey rectangles summarize the number and 
+percent of simulated values for each weight band; Top red rectangle represents the percent of simulated pediatric values >95th percentile of adults; Green 
+rectangle represents the percent of simulated pediatric values within 5th and 95th percentiles of adults; Lower red rectangle represents the percent of 
+simulated pediatric values <5th percentile of adults; Bottom purple rectangle represents the ratio of 50th percentile of pediatric values to 50th percentile of 
+adults; Green circle symbols represent the observed pre-dose plasma concentrations (i.e., Ctrough) at Week 2 or the observed Cmax at Week 2 
+Abbreviations: AUC0-24h,ss, area under the plasma concentration-time curve from 0 to 24 hours at steady state; Cave,ss, average plasma concentration at 
+steady state; Cmax,ss, maximum plasma concentration at steady state; Ctrough,ss, trough plasma concentration at steady state; N, number of subjects; PK, 
+pharmacokinetic; QD, once daily 
+Reference ID: 5709978
+
+
+===== PAGE 112 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+103 
+Version date: October 12, 2018 
+ 
+ 
+ 
+Parameter 
+Details 
+difference is not considered to be clinically 
+ significant [see Dosage and Administration (2.2) and Use in Special 
+Populations (8.4)].” 
+Source. Applicant’s Population PK Modeling and Simulation Report BCX7353-MS-002; Applicant response to Agency request for information, dated May 22, 2025; Proposed Labeling 
+Abbreviations: ADME, absorption, distribution, metabolism, and excretion; ALT, alanine aminotransferase; API, active pharmaceutical ingredient; AST, aspartate aminotransferase; 
+AUC0-24h,ss, area under the plasma concentration-time curve from 0 to 24 hours at steady state; BLQ, below the limit of quantitation; BMI, body mass index; Cave,ss, average plasma 
+concentration at steady state; CI, confidence interval; CL/F, apparent clearance; Cmax,ss, maximum plasma concentration at steady state; Ctrough,ss, trough plasma concentration at 
+steady state; CDC, Centers for Disease Control and Prevention; CWRES, conditional weighted residuals; DDI, drug-drug interaction; eGFR, estimated glomerular filtration rate; 
+FOCEI, first-order conditional estimation with interaction; Frel, relative bioavailability; GoF, goodness-of-fit; HAE, hereditary angioedema; IBW, ideal body weight; IPRED, individually 
+predicted concentrations; IWRES, individual weighted residuals; Ka, absorption rate constant; Max, maximum; Min, minimum; N, number of subjects; NDA, new drug application; 
+NONMEM, nonlinear mixed effects modeling; P5, 5th percentile; P95, 95th percentile; PK, pharmacokinetic; PRED, population predicted concentrations; PsN, perl-speaks-nonmem; 
+QD, once daily; Q/F, apparent intercompartmental clearance; RSE, relative standard error; SD, standard deviation; Tlag, lag time in absorption; Vc/F, apparent volume of distribution in 
+the central compartment; VPC, visual predictive check; Vp/F, apparent volume of distribution in the peripheral compartment 
+Reference ID: 5709978
+(b) (4)
+
+
+===== PAGE 115 =====
+
+NDA 219776 ORLADEYO (berotralstat) 
+NDA Multidisciplinary Review and Evaluation 
+106 
+Version date: October 12, 2018 
+ 
+ 
+Summary of PK Results 
+A summary of steady state berotralstat PK parameters at Day 13 according to dose cohort is 
+provided below in Table 35. Additionally, overlayed arithmetic mean (SD) concentration-time 
+profiles for each cohort are provided below in Figure 18. Berotralstat systemic exposure in 
+Cohort 3 was slightly lower than that observed for Cohorts 1 and 2, although concentrations 
+were similar to those observed across other clinical trials and are within the typical range of 
+variability. 
+Table 35. Summary of Berotralstat PK Parameters on Day 13 According to Dose Cohorta 
+Berotralstat Dose Cohortb 
+PK Parameter 
+Cohort 1 (N=12) 
+Cohort 2 (N=12) 
+Cohort 3 (N=12)c 
+AUCtau (ng*h/mL) 
+2932 (31.2) 
+2911 (34.6) 
+2528 (40.1) 
+Cmax (ng/mL) 
+167.0 (36.3) 
+164.3 (36.2) 
+139.5 (40.1) 
+Ctrough (ng/mL) 
+94.3 (30.0) 
+93.1 (39.0) 
+79.2 (46.0) 
+Tmax (h) 
+4.5 (2.0, 8.0) 
+2.0 (1.0, 12.0) 
+3.0 (1.0, 8.0) 
+Source. Reviewer’s analysis based on adpp.xpt for Trial 116 
+a All PK parameters reported as geometric mean (CV%), except for Tmax, which is reported as median (min, max) 
+b All dose cohorts received berotralstat 150 mg oral capsule QD from Days 1 through 13 
+c Although 13 subjects were enrolled in Cohort 3, subject 
+ withdrew on Day 9; Therefore, PK parameters for Cohort 3 are 
+calculated based on N=12 
+Abbreviations: AUCtau, area under the plasma concentration-time curve from 0 to the end of the dosing interval; Cmax, maximum 
+plasma concentration; Ctrough, trough plasma concentration; CV, coefficient of variation; Max, maximum; Min, minimum; N, number of 
+subjects; PK, pharmacokinetic; QD, once daily; Tmax, time of maximum plasma concentration 
+ 
+Figure 18. Arithmetic Mean (SD) Berotralstat Plasma Concentration-Time Profile on Day 13 
+Following Administration of the Approved Oral Capsule Dosage of 150 mg QD 
+ 
+Source. Reviewer’s analysis based on adpc.xpt for Trial 116 
+Abbreviations: QD, once daily; SD, standard deviation 
+ 
+Relevance to the Current NDA Submission 
+The adult reference range, upon which the Applicant’s exposure-matching pediatric 
+extrapolation approach was based, included adult PK data obtained from 50 subjects across 
+Trials 106 and 116. The adult reference population was defined as those who were dosed to 
+steady state with the approved berotralstat oral capsule dosage of 150 mg QD, and for whom 
+sufficient serial PK sampling was conducted to derive PK parameters via NCA. In Trial 116, adult 
+steady state PK data from a total of 36 subjects (N=12 from each cohort) at Day 13 were 
+Reference ID: 5709978
+(b) (6)

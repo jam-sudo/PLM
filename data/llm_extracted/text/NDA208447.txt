@@ -1,0 +1,861 @@
+
+
+===== PAGE 4 =====
+
+ 
+9 
+Nonclinical Pharmacology/Toxicology ............................................................................................... 9‐1 
+9.1. 
+Executive Summary .................................................................................................................... 9‐2 
+9.2. 
+Referenced NDAs, BLAs, DMFs .................................................................................................. 9‐5 
+9.3. 
+Pharmacology ............................................................................................................................ 9‐5 
+9.4. 
+ADME/PK .................................................................................................................................. 9‐13 
+9.5. 
+Toxicology ................................................................................................................................ 9‐16 
+9.5.1.  General Toxicology ........................................................................................................... 9‐17 
+9.5.2.  Genetic Toxicology ........................................................................................................... 9‐28 
+9.5.3.  Carcinogenicity ................................................................................................................. 9‐31 
+9.5.4.  Reproductive and Developmental Toxicology ................................................................. 9‐31 
+9.5.5.  Other Toxicology Studies ................................................................................................. 9‐31 
+10  Clinical Pharmacology ...................................................................................................................... 10‐1 
+10.1. 
+Executive Summary .............................................................................................................. 10‐4 
+10.2. 
+Summary of Clinical Pharmacology Assessment .................................................................. 10‐6 
+10.2.1. 
+Pharmacology and Clinical Pharmacokinetics .................................................................. 10‐7 
+Absorption ....................................................................................................................................... 10‐7 
+Distribution ...................................................................................................................................... 10‐7 
+Metabolism ...................................................................................................................................... 10‐7 
+Excretion .......................................................................................................................................... 10‐7 
+10.2.2. 
+General Dosing and Therapeutic Individualization .......................................................... 10‐7 
+Organ dysfunctions .......................................................................................................................... 10‐7 
+Effects of BRCA/HRD status ............................................................................................................. 10‐8 
+10.3. 
+Comprehensive Clinical Pharmacology Review ................................................................... 10‐9 
+10.3.1. 
+General Pharmacology and Pharmacokinetic Characteristics ......................................... 10‐9 
+10.3.2. 
+Clinical Pharmacology Questions ................................................................................... 10‐12 
+Clinical Pharmacology Appendices (Technical documents supporting OCP recommendations) ...... 10‐22 
+10.3.3. 
+Summary of Bioanalytical Method Validation and Performance .................................. 10‐22 
+10.3.4. 
+Clinical Pharmacokinetics Characteristics ...................................................................... 10‐23 
+10.3.5. 
+Population PK analysis ................................................................................................... 10‐31 
+11  Statistical and Clinical and Evaluation .............................................................................................. 11‐1 
+Reference ID: 4074987
+
+
+===== PAGE 30 =====
+
+9-3
+heart rate was measured and no effects were reported.  The unbound plasma concentration at the 
+highest dose tested in repeat-dose studies in dogs at the time when heart rate was assessed was 
+approximately 101 nM.  The unbound Cmax at steady-state in patients was between 510 and 850 nM, so 
+it is possible that exposures in repeat-dose studies in dogs did not achieve plasma concentrations high 
+enough to inhibit DAT, NET or SERT or cause hypertension or increased heart rate.  It is possible that any 
+effects of niraparib on heart rate or blood pressure would not be as great in non-vagotamized dogs 
+compared to the vagotimized dogs used in the single-dose IV study.  Based on all available information, 
+it is likely that niraparib has off-target pharmacological activity on DAT, NET and SERT at plasma 
+concentrations achieved in patients receiving the recommended dose, contributing to the hypertension, 
+palpitations and increased pulse rates and blood pressures observed in patients.  
+Niraparib was a low-potency hERG blocker and there were no adverse effects on ECG parameters in 
+repeat-dose studies in dogs receiving oral niraparib at doses up to 15 mg/kg (300 mg/m2).  In the initial 
+screen for potential off-target binding, niraparib bound to the rat L-type calcium channel with a 
+maximum IC50 of 3220 nM.  The only ECG changes observed in dogs following niraparib administration 
+was an increase in QRS interval (6% compared to predose) at the highest dose level (10 mg/kg or 200 
+mg/m2) in the single-dose IV cardiovascular safety study in anesthetized, vagotomized dogs.   The 
+exposure of unbound drug at that dose was about 8 times higher than the unbound Cmax at steady-state 
+in patients.  Evaluation of available nonclinical data suggests the potential for niraparib to cause cardiac 
+arrhythmias is low.   
+Niraparib crossed the blood-brain barrier in rats and monkeys following oral administration.  The 
+cerebrospinal fluid (CSF): plasma Cmax ratios of niraparib administered at 10 mg/kg (120 mg/m2) orally to 
+two Rhesus monkeys were 0.10 and 0.52.  In vivo studies in mice following IP injection of niraparib at up 
+to 25 mg/kg (75 mg/m2) did not result in binding of niraparib to DAT or a change in total dopamine 
+levels, but did result in increased intracellular dopamine levels in the striatum, suggesting niraparib is 
+active in brain.  In a separate study, locomotor activity was not affected in mice following IP injection of 
+niraparib at up to 40 mg/kg (120 mg/m2) compared to d-amphetamine (10 mg/kg or 30 mg/m2).  
+Toxicokinetics were not assessed in these studies, thus it is not known whether the plasma 
+concentrations were high enough to inhibit the DAT, NET or SERT transporters in the brain.  No clinical 
+signs indicating effects on the CNS were reported in rats or dogs in repeat-dose toxicology studies 
+following oral niraparib administration, although plasma concentrations in dogs were not likely high 
+enough to inhibit DAT, NET or SERT based on their IC50 values.  In the repeat-dose rat studies, plasma 
+concentrations may have been high enough to inhibit DAT, NET or SERT, but it is not clear that these 
+studies included assessments to adequately detect any resulting effects on the CNS specific to 
+catecholamine modulation.  Therefore, available nonclinical data do not rule out the potential for CNS 
+effects of niraparib in patients.
+General toxicology studies were conducted to evaluate the effects of daily oral niraparib in rats and dogs 
+for up to 90 days.  In rats, daily administration of niraparib at 30/20 mg/kg (180/120 mg/m2) for 77-85 
+days resulted in early deaths due to bone marrow toxicity.  Decreases in red blood cell mass 
+Reference ID: 4069009
+Reference ID: 4074987
+
+
+===== PAGE 40 =====
+
+9-13
+administration of niraparib was an increase in QRS interval (6% compared to predose) at the highest 
+dose level (10 mg/kg).
+Table 9-5 Cardiovascular effects of MK-4827 following IV dose in anesthetized dogs
+Dose 
+(mg/kg)
+Heart rate 
+increase 
+(mean % 
+above 
+baseline)
+Range of % 
+change 
+above 
+baseline
+Arterial 
+pressure 
+increase 
+(mean % 
+above 
+baseline)
+Range of % 
+change 
+above 
+baseline
+Plasma 
+concentration 
+(µM)
+Free drug 
+concentration 
+(µM) based 
+on 72% 
+binding in 
+dogs
+1
+5
+13-20
+16
+2-11
+1.2
+0.336
+3
+9
+18-27
+21
+4-17
+3.9
+1.09
+10
+17
+19-25
+20
+12-16
+15.3
+4.28
+Study Title/Number: Effect of MK-4827 on neurological function in conscious mice/TT#07-
+5362
+Methods: In a non-GLP study, male conscious CD-1 mice (n=5) were used to assess neurological function 
+using a functional battery of tests including behavior, neural reflexes, spontaneous activity, and 
+thermoregulation at 0.5, 1, 2, 5, and 24-hour postdose.  Mice were administered either a single oral 
+dose of vehicle (0.5% (w/v) methylcellulose) or 100 mg/kg niraparib.
+Results: Niraparib had no effect on neurological function during the 24-hour postdose period.
+9.4.
+ADME/PK 
+Type of Study
+Major Findings
+Absorption
+Study Title/Number: Pharmacokinetics of 
+MK-4827 in Sprague Dawley rats and 
+Beagle dogs following intravenous and oral 
+administration/ PK001
+Male Sprague-Dawley rats (n=4), Single IV 
+at 3 mg/kg and oral gavage at 5 mg/kg 
+Rat Tmax= 2 hours;  Vdss =6.9 L/kg; Orally 
+bioavailability= 27%; T1/2=3.4 hours; Clearance = 28 
+mL/min/kg; IV AUC0-inf=5.7 µM•hr; OralAUC0-inf: 2.5 
+µM•hr
+Reference ID: 4069009
+Reference ID: 4074987
+
+
+===== PAGE 41 =====
+
+9-14
+Type of Study
+Major Findings
+Male Beagle dogs (n=3), Single IV at 1 
+mg/kg and oral gavage at 3 mg/kg 
+Dog Tmax= 0.5 hour; Vdss= 12.3 L/kg; Orally 
+bioavailability= 57%; T1/2= 5.7 hours; Clearance = 
+31 mL/min/kg; IV AUC0-inf= 1.8 µM•hr; Oral AUC0-
+inf= 3.0 µM•hr
+Distribution
+Study Title/Number: In vitro studies with 
+MK-4827/PK002
+Plasma protein binding in rat, dog, human 
+and monkey plasma
+Study Title/Number: In vivo CNS 
+penetration of MK-4827 and in vitro drug 
+metabolism studies in monkeys/PK004
+Male Rhesus monkeys (n=2) were orally 
+administered single-dose of 10 mg/kg (5 
+mL/kg) niraparib.
+The mean values for unbound fraction in rat, dog, 
+monkey and human plasma were 16, 28, 17 and 
+17%, respectively.
+Niraparib exhibited CNS penetration with a 
+mean CSF to plasma ratio of 18% for AUC and 
+31% (1 monkey with 10% and 1 monkey with 
+52%) for Cmax) in Rhesus monkeys.  The Cmax in 
+CSF was 0.23 µM with an AUC0-inf of 1.9 
+µM•hr.  The Cmax and AUC0-inf in plasma were 
+0.77 µM and 10.8 µM•hr, respectively.
+Metabolism
+Study Title/Number: In vitro studies with 
+MK-4827/PK002
+The in vitro metabolism characteristics of 
+niraparib were assessed in human liver 
+microsomes.  The oxidative metabolism of 
+[14C]MK-4827 in liver microsome from rats, 
+dogs and human were also evaluated.
+o
+In human liver microsomes and 
+hepatocytes, the turnover of niraparib was 
+very slow (<10%) over an incubation 
+period of 2 hours.
+o
+All human metabolites of niraparib were 
+observed in rats.  
+Rat
+Dog
+Human
+M1
+M1
+M1
+M2
+M2
+M2
+M3
+M4
+M3
+M5
+M5
+M8
+M6
+M6
+M10
+M7
+M7
+M8
+M9
+M10
+M10
+Reference ID: 4069009
+Reference ID: 4074987
+
+
+===== PAGE 42 =====
+
+9-15
+Type of Study
+Major Findings
+Excretion
+Study Title/Number: In Vivo excretion and 
+metabolism of [14C]MK-4827/ PK003
+Excretion of niraparib was evaluated in 
+vivo following IV administration of [14C]-
+MK-4827 to bile duct-cannulated rats (3 
+mg/kg) and dogs (2 mg/kg). 
+o
+In rats, the total radioactivity recovered in 
+the excreta represented 79% of the dose 
+with similar amounts of radioactivity 
+recovered in bile, urine, and feces (24-
+30%, respectively) over a 120 hour 
+collection period.  Numerous oxidative and 
+conjugated metabolites (i.e., M1, M2, M4-
+M6, M8, and M10-M22) were observed in 
+the excreta, with no single metabolite 
+accounting for more than 5% of the dose.
+o
+In dogs, the total radioactivity recovered in 
+the excreta represented 80% of the dose 
+with 53% excreted in urine, 18% in bile, 
+and 9% feces over a 120 hour collection 
+period.  The most prevalent metabolite 
+(M1) is a carboxylic acid generated from 
+amide hydrolysis, and accounted for 52% 
+of the recovered dose.  In addition, 
+metabolites M10 and M20 were also 
+observed in the excreta.
+o
+The major circulating metabolites in both 
+rats and dogs were the acid metabolite 
+(M1) and its glucuronide conjugate (M10).
+TK data
+Rat: 90-Day repeat-dose toxicology study 
+(oral gavage administration once daily 
+(Study Number 12-2328)
+Dose levels: 0, 5, 10, or 30/20 mg/kg at 
+dose volume 5 mL/kg (final concentrations 
+at 0, 1, 2 or 6/4 mg/mL)
+Sample analysis: on Days 1 and 90 at 1, 2, 
+4, 6, 8, and 24 hours post dose and at 2 
+hours post dose for control group.
+Rat 
+Tmax: 4-6 hours in males; 2-8 hours in females
+Day
+Sex
+Dose 
+level
+(mg/kg)
+Cmax
+(ng/mL)
+AUCall
+(ng•h/mL)
+1
+M
+5
+89.7
+1100
+10
+399
+4100
+30/20
+1430
+16600
+1
+F
+5
+259
+2020
+10
+484
+4700
+30/20
+1240
+17700
+90
+M
+5
+235
+3030
+10
+530
+6830
+30/20
+1320
+15800
+90
+F
+5
+364
+3170
+10
+417
+3920
+30/20
+1920
+20500
+Reference ID: 4069009
+Reference ID: 4074987
+
+
+===== PAGE 43 =====
+
+9-16
+Type of Study
+Major Findings
+Dog: 90-Day repeat-dose toxicity study 
+(oral gavage administration once daily 
+(Study Number 12-3110)
+Dose levels: 0, 1.5, 4.5, or 12 mg/kg at 
+dose volume 5 mL/kg (final concentrations 
+at 0, 0.3, 0.9, or 2.4 mg/mL)
+Sample analysis: on Days 1 and 90 at 0.5, 
+1, 2, 4, 6, 8, and 24 hours post dose and at 
+1 hours post dose for control group.
+Accumulation: Slight accumulation of niraparib 
+(< 3-fold).  
+Gender difference: Females had slightly higher 
+AUCs for niraparib than males.
+Dose proportionality: Cmax and AUC of niraparib 
+were greater than dose proportional with each 
+dose escalation in males.  In females, Cmax and AUC 
+of niraparib were slightly less than dose 
+proportional from 5 to 30 mg/kg.
+Dog
+Tmax: 2-4 hours in males; 1-2 hours in females
+Day
+Sex
+Dose 
+level
+(mg/kg)
+Cmax
+(ng/mL)
+AUCall
+(ng•h/mL)
+1
+M
+1.5
+31.5
+234
+4.5
+101
+721
+12
+378
+2690
+1
+F
+1.5
+38.3
+274
+4.5
+137
+918
+12
+361
+2580
+90
+M
+1.5
+33.3
+261
+4.5
+111
+855
+12
+276
+2410
+90
+F
+1.5
+34.3
+285
+4.5
+94.2
+857
+12
+246
+2180
+Accumulation: None.  
+Gender difference: None.
+Dose proportionality: Generally, dose proportional 
+increases in Cmax and AUC.
+Reference ID: 4069009
+Reference ID: 4074987
+
+
+===== PAGE 61 =====
+
+10-1 
+ 
+10 Clinical Pharmacology 
+Contents 
+10 
+Clinical Pharmacology .................................................................................................................. 10-1 
+10.1. 
+Executive Summary .............................................................................................................. 10-4 
+10.2. 
+Summary of Clinical Pharmacology Assessment .................................................................. 10-6 
+10.2.1. 
+Pharmacology and Clinical Pharmacokinetics .................................................................. 10-7 
+Absorption ....................................................................................................................................... 10-7 
+Distribution ...................................................................................................................................... 10-7 
+Metabolism ...................................................................................................................................... 10-7 
+Excretion .......................................................................................................................................... 10-7 
+10.2.2. 
+General Dosing and Therapeutic Individualization .......................................................... 10-7 
+Organ dysfunctions .......................................................................................................................... 10-7 
+Effects of BRCA/HRD status ............................................................................................................. 10-8 
+10.3. 
+Comprehensive Clinical Pharmacology Review ................................................................... 10-9 
+10.3.1. 
+General Pharmacology and Pharmacokinetic Characteristics ......................................... 10-9 
+10.3.2. 
+Clinical Pharmacology Questions ................................................................................... 10-12 
+Clinical Pharmacology Appendices (Technical documents supporting OCP recommendations) ...... 10-22 
+10.3.3. 
+Summary of Bioanalytical Method Validation and Performance .................................. 10-22 
+10.3.4. 
+Clinical Pharmacokinetics Characteristics ...................................................................... 10-23 
+10.3.5. 
+Population PK analysis ................................................................................................... 10-31 
+ 
+ 
+Reference ID: 4068706
+Reference ID: 4074987
+
+
+===== PAGE 62 =====
+
+10-2 
+ 
+List of Figures 
+Figure 10-1. Metabolic pathways of niraparib in humans ..................................................................... 10-11 
+Figure 10-2. Niraparib dose level by treatment month ......................................................................... 10-13 
+Figure 10-3. KM estimates of PFS by maximum duration on dose for all treated patients .................. 10-14 
+Figure 10-4. Mean (±SE) hemoglobin (g/L) by cycle (all patients on the final dose, safety population; 
+n=546) .................................................................................................................................................... 10-15 
+Figure 10-5. Predicted probability of any grade thrombocytopenia by AUC (Left Panel) and box plots of 
+AUC by AE status (Right Panel) .............................................................................................................. 10-17 
+Figure 10-6. Percent PARP inhibition in PBMC across time for each dose level (mean ± SE) ............... 10-25 
+Figure 10-7. Dose normalized AUC0-24h (A) and Cmax (B) on Day Last following multiple dose 
+administration of niraparib to cancer patients ...................................................................................... 10-26 
+Figure 10-8. Log-log plot of niraparib AUC0-24(A), Cmax (B) on day 1 from 30 to 400 mg .................. 10-27 
+Figure 10-9. Log-log plot of AUC0-24(A), and Cmax (B) from 30 to 400 mg daily after 21 days of repeated 
+daily dosing of niraparib ........................................................................................................................ 10-27 
+Figure 10-10. Semi-logarithmic plot of niraparib trough concentrations from over 21 days of 300 mg 
+daily dosing ............................................................................................................................................ 10-28 
+Figure 10-11. Notch boxplot comparing the single dose AUCinf and steady state AUC0-24 after 21 days 
+of repeated daily dosing of 300 mg niraparib ........................................................................................ 10-29 
+Figure 10-12. Goodness-of-fit Plot for the Niraparib Final Model ......................................................... 10-36 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 4068706
+Reference ID: 4074987
+
+
+===== PAGE 66 =====
+
+10-6 
+ 
+mediated drug-drug interactions with niraparib 
+also appears low. 
+Labeling 
+Overall, the proposed label is acceptable after 
+Applicant agreed to the FDA’s revisions. Clinical 
+pharmacology labeling recommendations are 
+highlighted in section 10.1 
+ 
+Post-Marketing Requirements (PMR)  
+PMC or PMR 
+Key Issue(s) to be 
+Addressed 
+Rationale 
+Key Considerations for Design 
+Features 
+ PMC 
+ PMR 
+A safe starting dose in 
+patients with 
+moderate hepatic 
+impairment 
+There were 
+insufficient data to 
+characterize the 
+exposure and safety 
+of niraparib in 
+patients with 
+moderate hepatic 
+impairment. 
+The trial should be an open-label, 
+non-randomized, phase 1 design of 
+a single oral dose of 300 mg 
+niraparib in sufficient number of 
+patients with healthy liver and 
+moderate hepatic impairment. The 
+PK parameters along with safety 
+data will be used to determine the 
+appropriate starting dose for this 
+patient subpopulation 
+ 
+10.2. 
+Summary of Clinical Pharmacology Assessment  
+Niraparib is a small molecule (MW: 510.6 g/mol) inhibitor of the PARP-1, -2 at IC50 values of 0.82 ng/mL, 
+and 0.67 ng/mL, respectively. All dedicated clinical pharmacology trials included in this application were 
+conducted exclusively in oncology patients.  
+Niraparib exhibited a linear PK in terms of dose proportionality and time-invariant properties at dose 
+levels ranging from 30 up to 400 mg administered once daily, with an average terminal half-life of 
+approximately 36 hours. The mean accumulation ratio is 2.4 at the clinical dose following three weeks of 
+repeated daily dosing.  At the clinical dose, the geometric mean [% coefficient of variation (CV)] at 
+steady state Cmax and AUCtau were 1.28 [41.2] µg/mL and 19.7 [40.6] µg*hr/mL, respectively.   
+Reference ID: 4068706
+Reference ID: 4074987
+
+
+===== PAGE 67 =====
+
+10-7 
+ 
+10.2.1. Pharmacology and Clinical Pharmacokinetics 
+Absorption: Niraparib is extensively absorbed within three hours following oral administration at the 
+proposed dose with an absolute bioavailability of approximately 73%. The median [range] time to 
+maximal plasma concentration, Tmax for niraparib was 3.5 hours [2.0-4.2] for patients treated at the 
+indicated dose of 300 mg following 21 days of repeated daily administration. No clinically impactful food 
+effect was observed. The PK of niraparib is unlikely to be altered in the presence of gastric acid reducing 
+agents, since its aqueous free base solubility ranges from 0.7 to 1.1 mg/mL in media with pH ranging 
+from 1.1 to 9.0.   
+Distribution: Niraparib exhibits concentration-independent binding to human plasma proteins with 
+an average fraction unbound of 0.17 at concentrations ranging from 1 to 50 µM.  In vivo, niraparib and 
+its metabolites partition more into plasma compared to erythrocytes as indicated by a blood to plasma 
+ratio of 0.6. The apparent volume of distribution (Vd/F) was estimated as 1074 L using population 
+pharmacokinetic (popPK) analysis. 
+Metabolism: In humans, niraparib is primarily metabolized via amide hydrolysis by carboxylesterases 
+forming the inactive metabolite M1, a carboxylic acid derivative of the parent drug. M1 is subsequently 
+glucuronidated by UGTs to form M10, which has three isomers. It is unknown which isoform of 
+carboxylesterase (e.g., CES1 primarily expressed in the liver vs CES2 expressed both in the intestine and 
+liver) hydrolyzes niraparib. In serum, unchanged niraparib accounts for 2.4% of the exposure of the total 
+circulating radioactive moieties.  
+Excretion: The average steady state terminal half-life was approximately 36 hours. After a single oral 
+dose, the estimated mean [%CV] renal and apparent systemic clearance of unchanged niraparib was 
+1.41 [23.1] and 17.2 [26.1] L/hr, respectively. Overall, the amount of radioactive niraparib-derived 
+materials excreted in urine and feces account for 40% and 32% of the administered dose, respectively, 
+over a 144-hour collection period. There was approximately 19% and 11% of the administered dose 
+recovered as unchanged niraparib in feces and urine, respectively.   
+10.2.2. General Dosing and Therapeutic Individualization 
+General Dosing 
+The proposed dosage regimen of niraparib 300 mg administered by mouth once daily without regard to 
+food is acceptable.  Please refer to section 6.3.2 for details. 
+Organ dysfunctions 
+Based on popPK results, no starting dose adjustment is needed in patients with mild to moderate renal 
+impairment or patients with mild hepatic impairment.  PopPK analyses suggested that there are no 
+difference in the exposure among 221 patients with mild (CrCL between 60 and 89 mL/min), 81 with 
+moderate renal impairment (CrCL between 30 and 59 mL/min), and 210 patients with normal renal 
+Reference ID: 4068706
+Reference ID: 4074987
+
+
+===== PAGE 77 =====
+
+10-17 
+ 
+relationship between niraparib AUC and any grade thrombocytopenia (Figure 10-5).  The delayed effect 
+on anemia precludes a meaningful ER analysis for this AE. Results from ER analysis for safety should be 
+interpreted with caution as thrombocytopenia often occurred earlier than other AEs. The subsequent 
+dose reduction caused by thrombocytopenia may confound the ER relationships for other safety events. 
+Figure 10-5. Predicted probability of any grade thrombocytopenia by AUC (Left Panel) and 
+box plots of AUC by AE status (Right Panel) 
+ 
+Source: Applicant’s response to information request (Jan 23, 2017, sequence number: 0020), page 3 
+Although the proposed dosing regimen appears initially high, its potential effects on the efficacy results 
+cannot be ruled out. There were no reported treatment-related deaths in the trial. Given the 
+demonstrated benefit and manageable safety profile, a PMR trial to investigate alternative dosing 
+regimen is not warranted despite the high frequency of dose modifications over the first few treatment 
+cycles.   
+Is an alternative dosing regimen or management strategy required for subpopulations based 
+on intrinsic patient factors? 
+No. Based on the applicant’s popPK results, an alternative dosing regimen or management strategy is 
+not required to adjust for the effects of intrinsic factors such as age, sex, ethnicity, genetics, body 
+weight, and organ impairment (mild to moderate renal impairment, mild hepatic impairment). However, 
+there are uncertainties regarding the starting dose for patients with moderate hepatic impairment. The 
+metabolism of niraparib can potentially be altered by both genetic polymorphism in carboxylesterase 
+and hepatic impairment. A PMR will be requested to determine the starting dose in this patient 
+subpopulation.  Refer to section 6.2.2 for further details. 
+ 
+Reference ID: 4068706
+Reference ID: 4074987
+
+
+===== PAGE 85 =====
+
+10-25 
+ 
+Figure 10-6. Percent PARP inhibition in PBMC across time for each dose level (mean ± SE) 
+ 
+Source: Study PN001 CSR, Appendix 16.2.5.2, page 768 
+Dose linearity, proportionality, and stationary PK assessment 
+Niraparib exhibits approximate dose proportional pharmacokinetics properties for doses ranging from 
+30 to 400 mg administered daily. Using a power model, the slope estimate (90%CI) for single dose Cmax 
+and AUC were both approximately 1.1 (0.9, 1.2). Similar results were obtained for the steady state Cmax 
+and AUC, 0.8 (0.6, 1.1) (based on the applicant’s analysis results from a Clinical Pharmacology 
+Information Request (IR), also verified by reviewer). Although the 90% CI obtained for the single and 
+multiple dose PK parameters did not fall within the pre-specified criteria, the PK of niraparib cannot be 
+(statistically) declared more or less than dose proportional. Both 90% CI ranges contains unity, which 
+does suggest dose proportionality; although more samples would be required per dose levels to 
+explicitly substantiate this claim. Exploratory plots of dose normalized AUC at steady state, and double 
+logarithmic plots of Cmax or AUC vs Dose in Figure 10-7. Dose normalized AUC0-24h (A) and Cmax (B) on 
+Day Last following multiple dose administration of niraparib to cancer patients (Figure 10-7, Figure 10-8, 
+Figure 10-9) further illustrate the dose linearity and proportionality PK properties from 30 to 400 mg. In 
+the trial, the applicant has proposed dose reductions from 300 to 100 mg to mitigate clinical adverse 
+events. This proposed dose modification is justified as the exposure of niraparib decreases linearly with 
+reduction in dose (Figure 10-8, Figure 10-9).     
+ 
+ 
+ 
+Reference ID: 4068706
+Reference ID: 4074987
+
+
+===== PAGE 86 =====
+
+10-26 
+ 
+Figure 10-7. Dose normalized AUC0-24h (A) and Cmax (B) on Day Last following multiple dose 
+administration of niraparib to cancer patients 
+ 
+Source: PN001 CSR MK-4827-001 Pharmacokinetic Analysis Figures 26 and 28. 
+This figure was supplied by the sponsor to illustrate the dose linearity properties of niraparib at steady 
+state across daily doses ranging from 30 to 400 mg.  
+ 
+ 
+Reference ID: 4068706
+Reference ID: 4074987
+
+
+===== PAGE 87 =====
+
+10-27 
+ 
+Figure 10-8. Log-log plot of niraparib AUC0-24(A), Cmax (B) on day 1 from 30 to 400 mg 
+  
+Light blue shaded areas reflect the confidence interval around the linear regression line overlaid onto 
+individual exposures (light blue points) at the following dose levels (30, 40, 60, 80, 110,150, 210, 290, 
+300, and 400 mg) 
+Figure 10-9. Log-log plot of AUC0-24(A), and Cmax (B) from 30 to 400 mg daily after 21 days of 
+repeated daily dosing of niraparib 
+ 
+Reference ID: 4068706
+Reference ID: 4074987
+
+
+===== PAGE 88 =====
+
+10-28 
+ 
+Light blue shaded areas reflect the confidence interval around the linear regression line overlaid onto 
+individual exposures (light blue points) at the following dose levels (30, 40, 60, 80, 110,150, 210, 290, 
+300, and 400 mg) 
+ 
+Niraparib exhibits stationary PK properties as illustrated in figures 5 and 6. The trough concentration at 
+the proposed dosage regimen reaches and remains at steady state from day 5 to day 21 (Figure 10-10). 
+The single dose AUC extrapolated to infinity, AUCinf (n=30) compared to the steady state AUC measured 
+over a single dosing interval, AUC0-24 (n=10) appear to be similar, albeit there is a trend toward a higher 
+AUCinf (Figure 10-11).  Overall, niraparib appears to exhibit approximately dose proportional, linear, and 
+stationary (time-independent) pharmacokinetic characteristics.  
+   
+Figure 10-10. Semi-logarithmic plot of niraparib trough concentrations from over 21 days of 
+300 mg daily dosing 
+  
+Boxplots illustrating the distribution of trough observations (jittered points) of all subjects treated at 300 
+mg from the dose escalation study PN001 on all available collection days.  
+ 
+ 
+ 
+ 
+ 
+Reference ID: 4068706
+Reference ID: 4074987
+
+
+===== PAGE 89 =====
+
+10-29 
+ 
+Figure 10-11. Notch boxplot comparing the single dose AUCinf and steady state AUC0-24 after 
+21 days of repeated daily dosing of 300 mg niraparib 
+ 
+Boxplots illustrating estimated AUC extrapolated to infinity (using food effect data and study PN001), 
+and steady state AUC at the 300 mg dose. 
+In vitro characterization of niraparib PK  
+Following a two-hour incubation in human liver microsomes and hepatocytes, minimal turnover was 
+observed with niraparib. Subsequent cytochrome P450 phenotyping studies suggest that the oxidative 
+metabolism of niraparib primarily occurred via CYP1A2 and CYP3A4/5 as well as a minor involvement of 
+CYP2D6. However, in vivo, the metabolites formed did not fully support the in vitro results. Niraparib 
+primarily undergoes amide hydrolysis by carboxylesterase and glucuronidation via UGTs.   
+Drug-drug interaction potential 
+Niraparib exhibited mild induction potential toward CYP1A2 (Table 10-8) at clinically irrelevant 
+concentrations (20 µM to generate 50% of the positive control, omeprazole 50 µM). Niraparib did not 
+exhibit inhibition or induction (besides CYP1A2) potential towards any of the cytochrome P450 enzyme 
+isoforms.  
+ 
+ 
+Reference ID: 4068706
+Reference ID: 4074987
+
+
+===== PAGE 92 =====
+
+10-32 
+ 
+Table 10-9: Demographics of Subjects in the Population PK Dataset 
+ 
+Sources: Applicant’s report: Population Pharmacokinetic and Pharmacodynamic Modeling of Niraparib, Page 35 
+Population PK Model Development 
+Base Model: The concentration-time data of niraparib was best described with a two-compartment 
+model with first order absorption and first order elimination. The model was parameterized with 
+apparent oral clearance (CL/F), apparent central (V2/F) and peripheral (V3/F) volumes, 
+Reference ID: 4068706
+Reference ID: 4074987
+
+
+===== PAGE 93 =====
+
+10-33 
+ 
+intercompartmental clearance (Q/F) and absorption rate constant (KA). Inter-subject variability (ETA) 
+was determinable on all parameters except KA and a proportional error model was used to describe the 
+residual variability. 
+The base PK model estimates are summarized in Table 10-10 . According to the base model, the typical 
+value for niraparib CL/F was estimated to be 16.2 L/h and the V2/F was estimated to be 290 L. The 
+typical value estimates for Q/F and V3/F were 53.5 L/h and 784 L, respectively. The typical value of KA 
+was estimated to be 0.288 hr-1. Inter-subject variability (IIV) was moderate to high and was 58.1% for 
+V2/F, 52.6% for CL/F, 138% for V3/F and 51.1% for Q/F. IIV was not estimated for KA. A proportional 
+residual error was implemented and was estimated as 37.8% CV. 
+Table 10-10: Pharmacokinetic Parameters in the Base Population Model 
+ 
+Source: Applicant’s report: Population Pharmacokinetic and Pharmacodynamic Modeling of Niraparib, Page 36 
+ 
+ 
+ 
+Reference ID: 4068706
+Reference ID: 4074987
+
+
+===== PAGE 244 =====
+
+5
+Criteria for Assessing Quality of an NDA (Preliminary Assessment of Quality) Checklist
+Data 
+1. Are the data sets, as requested during pre-
+submission discussions, submitted in the 
+appropriate format (e.g., CDISC)? 
+Yes ☐No ☐N/A
+2. If applicable, are the pharmacogenomic data 
+sets submitted in the appropriate format?
+Yes ☐No ☐N/A
+Studies and Analysis 
+3. Is the appropriate pharmacokinetic information 
+submitted?
+Yes ☐No ☐N/A
+4. Has the applicant made an appropriate attempt 
+to determine reasonable dose individualization 
+strategies for this product (i.e., appropriately 
+designed and analyzed dose-ranging or pivotal 
+studies)?
+Yes ☐No ☐N/A
+5. Are the appropriate exposure-response (for 
+desired and undesired effects) analyses conducted 
+and submitted as described in the Exposure-
+Response guidance?
+Yes ☐No ☐N/A
+6. Is there an adequate attempt by the applicant to 
+use exposure-response relationships in order to 
+assess the need for dose adjustments for 
+intrinsic/extrinsic factors that might affect the 
+pharmacokinetic or pharmacodynamics?
+Yes ☐No ☐N/A
+7. Are the pediatric exclusivity studies adequately 
+designed to demonstrate effectiveness, if the drug 
+is indeed effective?
+Yes ☐No ☐N/A
+General 
+8. Are the clinical pharmacology and 
+biopharmaceutics studies of appropriate design 
+and breadth of investigation to meet basic 
+requirements for approvability of this product?
+Yes ☐No ☐N/A
+9. Was the translation (of study reports or other 
+study information) from another language needed 
+and provided in this submission?
+Yes ☐No ☐N/A
+Reference ID: 4028283

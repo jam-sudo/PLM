@@ -1,0 +1,229 @@
+
+
+===== PAGE 5 =====
+
+4
+Sun did not conduct clinical studies, including bioequivalence studies to support approval of the 
+application. For approval, Sun relies on FDA’s finding of safety and effectiveness for the listed drug, 
+Gemzar® (gemcitabine for injection), (NDA 20509) as well as supportive literature data. In addition, Sun 
+submitted simulated pharmacokinetic data (SDN 1 and SDN 20) using a population pharmacokinetic 
+modeling approach.  Specifically, a virtual 2-way crossover trial was submitted to provide additional 
+supportive evidence of bioequivalence between the listed product, Gemzar®, and Infugem. Based on 
+several prior clinical pharmacology reviews (Reference ID: 3836375, 4148463, and 4177469 that did not 
+rely on the PK simulation data found in SDN 1, 20 and 25), the recommendation for this application was 
+approval. The purpose of the current clinical pharmacology review is to review the submitted PK 
+simulation data (SDN 1 and SDN 20 and SDN 25), and literature data which serve an additional 
+supportive role for the approval of the Sun product. 
+In the current submission (SDN 23 and SDN 25), the pharmacokinetics of gemcitabine as reported in the 
+literature (refs) and population pharmacokinetic data submitted by Sun (SDN 1, 20 and 25) are reviewed 
+to further provide supportive evidence that a difference in the absolute dose between Gemzar® and 
+Infugem of up to 5% would not lead to clinical meaningful differences in efficacy and safety. After 
+thorough review of the pharmacokinetic (PK) data from the listed product and published literature, FDA 
+determined that the proposed formulation, that requires the dose to be rounded to the nearest intended 
+dose, results in a maximum difference in dose of 5% compared to Gemzar®.  This difference in absolute 
+dose is determined not to result in clinically relevant differences in gemcitabine exposure when 
+comparing Gemzar® and Infugem. This conclusion is based the following:  
+1.
+Gemcitabine is a cytotoxic anticancer agent, which is dosed at or near the maximum tolerated 
+dose (MTD) to maximize efficacy. Studies have shown that the MTD1 is defined at 1800 mg/m2 
+and the efficacious dose range is between 800 to 1250 mg/m2,2,3 which is within the 
+recommended approved dose range. Therefore, if the difference in the absolute dose is 5% higher 
+for Infugem vs Gemzar®, there is not expected to be a clinically relevant safety concern.  
+1 Mavroudis D, Pappas P, Kouroussis C, Kakolyris S, Agelaki S, Kalbakis K, Androulakis N, Souglakos J, Vardakis 
+N, Nikolaidou M, Samonis G, Marselos M, Georgoulias V (2003) A dose-escalation and pharmacokinetic study of 
+gemcitabine and oxaliplatin in patients with advanced solid tumors. Ann Oncol. 14(2):304-12.
+2 Carmichael J, Fink U, Russell RC, Spittle MF, Harris AL, Spiessi G, Blatter J (1996) Phase II study of gemcitabine 
+in patients with advanced pancreatic cancer. Br J Cancer. 73(1):101-5.
+3 FDA drug product label, Gemzar®, Revised: 9/2017, 
+https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/020509s079lbl.pdf
+Reference ID: 4280811
+(b) (4)
+
+
+===== PAGE 6 =====
+
+5
+Gemcitabine is administered intravenously and has linear pharmacokinetic characteristics,3 which 
+mean that a change in dose (e.g., 5% change as proposed) is proportional to the change in drug 
+exposure. 
+2.
+In addition, gemcitabine has moderate to high variability in clearance,4,5,6,7,8 which results in 
+higher variability than the proposed maximum difference in dose between Gemzar® and Infugem 
+of 5%.  Therefore, based on the inter-occasion variability in clearance, the proposed 5% 
+difference in absolute dose will not result in a clinically meaningful change in gemcitabine 
+exposure. 
+Sun has conducted additional supportive PK simulations using a gemcitabine population pharmacokinetic 
+(PopPK) model from the literature5,7 to provide additional support for the intended dosage form that 
+results in a maximum 5% difference in the absolute gemcitabine dose compared to Gemzar®. The 
+objective of the simulation was to demonstrate that a maximum difference in dose of 5% compared to 
+Gemzar would not result in clinically meaningful differences in exposure. The pharmacokinetic 
+simulations were performed using a two-compartment model with linear distribution and elimination, 
+both for gemcitabine and for its metabolite, dFdU. The model code can be found in the submission under 
+Module 5.3.1.2 bioequivalence simulation study report. The model parameter estimates (Table 3) were 
+selected for the simulations. A gender effect was included in the PopPK model for the simulations. In 
+order to properly simulate a crossover trial, an intra-occasion variability (IOV) was added to clearance 
+parameter to be consistent with the literature. One thousand virtual simulation trials for a two-period 
+crossover study design with 120 subjects were performed under the worst-case scenarios as follows:
+1.
+Group 1: Male, BSA: 2.1 m2: IOV of 30% in clearance
+2.
+Group 2: Female, BSA: 1.7 m2: IOV of 30% in clearance
+3.
+Group 3: Female, BSA: 1.4 m2: IOV of 30% in clearance
+4 Jiang X, Galettis P, Links M, Mitchell PL, and McLachlan AJ (2008) Population pharmacokinetics of gemcitabine 
+and its metabolite in patients with cancer: effect of oxaliplatin and infusion rate. Br J Clin Pharmacol 65:326-333.
+5 Joerger M, Huitema AD, Koeberle D, Rosing H, Beijnen JH, Hitz F, Cerny T, Schellens JH, and Gillessen S 
+(2014) Safety and pharmacology of gemcitabine and capecitabine in patients with advanced pancreatico-biliary 
+cancer and hepatic dysfunction. Cancer Chemother Pharmacol 73:113-124.
+6 Nieto Y, Aldaz A, Rifon J, Perez-Calvo J, Zafra A, Zufia L, Viudez A, Viteri S, Aramendia JM, Aristu J, Centeno 
+C, Moreno M, Sayar O, and Hernandez M (2007) Phase I and pharmacokinetic study of gemcitabine administered at 
+fixed-dose rate, combined with docetaxel/melphalan/carboplatin, with autologous hematopoietic progenitor-cell 
+support, in patients with advanced refractory tumors. Biol Blood Marrow Transplant 13:1324-1337.
+7 Ramon-Lopez A, Escudero-Ortiz V, Duart-Duart MJ, Perez-Ruixo JJ, and Valenzuela B (2012) [Population 
+pharmacokinetics of gemcitabine applied to personalize the dosage used in cancer patients]. Farm Hosp 36:194-206.
+8 Sugiyama E, Kaniwa N, Kim SR, Hasegawa R, Saito Y, Ueno H, Okusaka T, Ikeda M, Morizane C, Kondo S, 
+Yamamoto N, Tamura T, Furuse J, Ishii H, Yoshida T, Saijo N, and Sawada J (2010) Population pharmacokinetics 
+of gemcitabine and its metabolite in Japanese cancer patients: impact of genetic polymorphisms. Clin 
+Pharmacokinet 49:549-558.
+Reference ID: 4280811
+
+
+===== PAGE 7 =====
+
+6
+Table 3: summary of compartmental PK parameters used for simulations
+Source: Module 5.3.1.2 Bioequivalence simulation study report, Table 3, page 15
+The simulation results demonstrated that the 90% confidence interval (CI) of the geometric mean ratios 
+(GMR) of AUC and Cmax remained within the confidence limits of 80% to 125% under the worst-case 
+scenarios. Sun’s simulation and bioequivalence analyses appear acceptable. 
+Table 4: Bioequivalence Passing rate under worst-case scenarios in 1000 virtual trials 
+Scenarios
+Conditions
+Percent dose difference 
+between Gemzar and 
+Infugem
+Trials that passed 
+bioequivalence for 
+Cmax and AUC  (80-
+125%)
+Group 1
+120 subjects, Male, BSA: 2.1 m2: 
+IOV of 30% in clearance
+-4.8%
+97%
+Group 2
+120 subjects, Female, BSA: 1.7 m2: 
+IOV of 30% in clearance
++3.5%
+98%
+Group 3
+120 subjects, BSA: 1.4 m2: IOV of 
+30% in clearance
++2.9%
+98%
+Source: Module 5.3.1.2 Addendum to Bioequivalence simulation study report, pages 11-13
+A minor limitation of the simulation and bioequivalence analyses was that the model did not include 
+evaluation of a ±5% dose difference scenario. However, even if under this condition, the virtual trial 
+simulations will still be able to demonstrate bioequivalence by using the same number of subjects, or by 
+increasing the number of subjects in the virtual trial. Given the fact that both gemcitabine drug products 
+are given as a solution intravenously to patients and that gemcitabine PK is linear, the bioequivalence 
+criteria are deemed to be met for a maximum difference in dose of 5% with a sufficient sample size. From 
+a clinical pharmacology perspective, the maximum difference in gemcitabine dose of 5% will not lead to 
+clinically meaningful changes in gemcitabine exposure based on the PK characteristics of gemcitabine 
+and the rationale summarized above.   The additional simulated data provided with the submitted PK 
+Reference ID: 4280811
+
+
+===== PAGE 13 =====
+
+3
+1. EXECUTIVE SUMMARY
+Sun Pharmaceutical Industries Ltd. submitted a response to the FDA Complete Response letter 
+(DARRT on 05/23/2017; ID: 4101806) for Gemcitabine in Sodium Chloride Injection. 
+Specifically, Sun clarified that the introduction of up to 5% deviation from the calculated dose 
+with the Sun formulation would result in gemcitabine exposure changes that are within the 
+bioequivalence margins.
+Sun developed new ready-to-use gemcitabine solution packages intended for the same 
+indications as the listed product, Gemzar. The dosing instructions for the Sun drug product 
+requires a combination of different filled volume packages, and the dose may be rounded to the 
+nearest intended dose (“dose banding”) within specified BSA ranges. Thus, this may result in a 
+maximum 5% absolute dose difference as compared to the intended dose. 
+During the second Pre-NDA meeting for Gemcitabine in Sodium Chloride Injection held
+on October 31, 2014 (final minutes dated November 5, 2014), FDA recommended that Sun 
+submits a pharmacokinetic model for review to support that dose banding of the Sun drug 
+product would not result in either increased toxicity or compromised efficacy as compared to the 
+listed drug.
+On November 24, 2015, the FDA issued a Complete Response letter to Sun with major 
+inspection site and CMC deficiencies. On November 23, 2016, Sun submitted a response to the 
+Complete Response letter with additional population pharmacokinetic model results to support 
+that the 5% deviation in dose would be within the bioequivalence margins for exposure. 
+However, the FDA reissued a Complete Response letter on May 23, 2017, identifying major 
+inspection site deficiencies. In addition, justification was needed to address the potential effects 
+of the inherent approximation of the recommended dose with the Sun drug production the safety 
+and efficacy of gemcitabine.
+In the current submission (letter date August 23, 2017), Sun provided a response indicating that 
+the 5% deviation in dose would still be within the bioequivalence margin. During the previous 
+clinical pharmacology review of the original submission (SDN14), the review team determined 
+that a maximum 5% difference in dose with the Sun formulation may not result in clinically 
+significant differences in exposure (See clinical pharmacology review for detail; ID: 4148463; 
+10/04/2017).
+Sponsor’s Questions and FDA Response Submitted in the Current Submission
+1. Because the introduction of up to 5% deviation from the calculated dose is expected to 
+result in exposure to gemcitabine that is within the accepted bioequivalence bounds, 
+safety and efficacy would not be affected. Does the Division agree? If not, SPIL wishes to 
+discuss what other information should be included in the forthcoming Complete 
+Response.
+FDA Response: FDA agrees that up to a 5% deviation of the administered dose from the 
+calculated dose appears unlikely to affect the safety and efficacy of gemcitabine.
+Reference ID: 4177469
+
+
+===== PAGE 18 =====
+
+3
+1. EXECUTIVE SUMMARY
+In accordance with Section 505(b)(2) of the Federal Food, Drug, and Cosmetic Act, Sun 
+Pharmaceuticals Ltd. submitted an original New Drug Application (NDA 208313/S-0000) for 
+Infugem (Gemcitabine Hydrochloride for Injection). Sun Pharmaceuticals Ltd. proposed that 
+Infugem has the same active ingredient, route of administration (intravenous infusion), and 
+indications as the listed drug product, Gemcitabine HCl for injection (Gemzar®). 
+Unlike the listed product, Gemzar®, which is formulated as a lyophilized powder, Sun 
+Pharmaceutical Industries Ltd. developed a ready-to-use formulation drug product package with 
+10 available volume presentations, (fill volumes of 120, 130, 140, 150, 160, 170, 180, 190, 200, 
+ and 220 mL), which are already dissolved in 0.9% saline solution. The intend of this new 
+drug product package presentation is to provide the intended 1000 mg/m2 dose for body surface 
+areas (BSAs) of 1.2 to 2.6 m2 (or higher if needed) with one or two packages for convenience. 
+For this same range of BSAs, the intended 1250 mg/m2 dose can be achieved within ± 5%. Thus, 
+some rounding to the nearest intended dose may occur (“dose banding”) within specified BSA 
+ranges. In order words, patients with certain BSA range may receive Infugem with a maximum 
+of 5% absolute dose difference as compared to the intended dose. 
+Sun Pharmaceutical Industries Ltd. has submitted population pharmacokinetic analyses, 
+supporting that a 5% difference in dose may not affect the overall exposure and clinical outcome 
+in the general population. However, FDA did not review the data as the pharmacokinetic 
+parameters used in the model were not from data generated by Sun Pharmaceutical Industries 
+Ltd.
+After review of PK data from the listed product and published literature, FDA determined that 
+the proposed formulation that requires the dose to be rounded to the nearest intended dose, 
+resulting in a maximum of 5% difference in dose, may not result in clinically significant 
+differences in exposure. This is based on the fact that gemcitabine pharmacokinetics is linear1, 
+and the variability in clearance is high2,3,4,5,6. Thus, a maximum of 5% difference in gemcitabine 
+dose will not lead to clinically meaningful changes in gemcitabine exposure. gemcitabine.
+1 FDA drug product label, Gemzar®, Revised: 6/2014, 
+https://www.accessdata.fda.gov/drugsatfda docs/label/2014/020509s075lbl.pdf
+2 Jiang X, Galettis P, Links M, Mitchell PL, and McLachlan AJ (2008) Population pharmacokinetics of gemcitabine 
+and its metabolite in patients with cancer: effect of oxaliplatin and infusion rate. Br J Clin Pharmacol 65:326-333.
+3 Joerger M, Huitema AD, Koeberle D, Rosing H, Beijnen JH, Hitz F, Cerny T, Schellens JH, and Gillessen S 
+(2014) Safety and pharmacology of gemcitabine and capecitabine in patients with advanced pancreatico-biliary 
+cancer and hepatic dysfunction. Cancer Chemother Pharmacol 73:113-124.
+4 Nieto Y, Aldaz A, Rifon J, Perez-Calvo J, Zafra A, Zufia L, Viudez A, Viteri S, Aramendia JM, Aristu J, Centeno 
+C, Moreno M, Sayar O, and Hernandez M (2007) Phase I and pharmacokinetic study of gemcitabine administered at 
+fixed-dose rate, combined with docetaxel/melphalan/carboplatin, with autologous hematopoietic progenitor-cell 
+support, in patients with advanced refractory tumors. Biol Blood Marrow Transplant 13:1324-1337.
+5 Ramon-Lopez A, Escudero-Ortiz V, Duart-Duart MJ, Perez-Ruixo JJ, and Valenzuela B (2012) [Population 
+pharmacokinetics of gemcitabine applied to personalize the dosage used in cancer patients]. Farm Hosp 36:194-206.
+6 Sugiyama E, Kaniwa N, Kim SR, Hasegawa R, Saito Y, Ueno H, Okusaka T, Ikeda M, Morizane C, Kondo S, 
+Yamamoto N, Tamura T, Furuse J, Ishii H, Yoshida T, Saijo N, and Sawada J (2010) Population pharmacokinetics 
+of gemcitabine and its metabolite in Japanese cancer patients: impact of genetic polymorphisms. Clin 
+Pharmacokinet 49:549-558.
+Reference ID: 4148463
+(b) (4)

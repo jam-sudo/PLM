@@ -1,0 +1,3276 @@
+
+
+===== PAGE 4 =====
+
+3 
+Abbreviations 
+Ae, cumulative amount excreted in urine 
+AUC, area under plasma concentration-time curve 
+AUC24, area under plasma concentration-time curve over 24 hours 
+AUCinf, area under plasma concentration-time curve from time 0 to infinity 
+AUCtau, area under plasma concentration-time curve over dosing interval 
+AZT, aztreonam 
+Cmax, maximum observed plasma concentration 
+Ctr, trough plasma concentration 
+CABP, community-acquired bacterial pneumonia 
+CART, classification and regression tree analysis 
+CE, clinically evaluable analysis population 
+CI, confidence interval 
+CL, plasma clearance 
+CLNon-R, non-renal clearance 
+CLR, renal clearance 
+CLSI, Clinical and Laboratory Standards Institute 
+CrCL, creatinine clearance 
+CRO, ceftriaxone 
+cSSSI, complicated skin and skin structure infections 
+CV, coefficient of variation 
+CYP450, cytochrome P450 
+DC-TEAE, discontinuation due to treatment-emergent adverse event 
+ESBL, extended-spectrum β-lactamase 
+ESRD, end-stage renal disease 
+f, free unbound (i.e., microbiologically active) drug 
+fT>MIC, time of free drug concentrations above the minimum inhibitory concentration 
+HD, hemodialysis 
+HPLC, high performance liquid chromatography 
+IM, intramuscular 
+IRT, Interdisciplinary Review Team for QT Studies 
+IV, intravenous 
+LC-MS/MS, liquid chromatography with tandem mass spectrometry 
+LLOQ, lower limit of quantification 
+MIC, minimum inhibitory concentration 
+MIC50, minimum inhibitory concentration for 50% of bacterial population 
+MIC90, minimum inhibitory concentration for 90% of bacterial population 
+MITT, modified intent-to-treat analysis population 
+MITTE, modified intent-to-treat efficacy analysis population 
+MRSA, methicillin-resistant Staphylococcus aureus 
+MSSA, methicillin-susceptible Staphylococcus aureus 
+NDA, new drug application 
+P-gp, P-glycoprotein 
+PAE, post-antibiotic effect 
+PBP, penicillin-binding protein 
+PD, pharmacodynamics 
+
+
+===== PAGE 8 =====
+
+7 
+Ceftaroline had minimal effect on intestinal microflora (as change in median bacterial counts or 
+new colonizing organisms with increased ceftaroline MIC) in a Phase 1 study of healthy adults 
+(n=12) following multiple 1-hour IV infusions of ceftaroline fosamil 600 mg Q12h for 7 days 
+(P903-14).  However, the possibility of Clostridium difficile-associated diarrhea (known risk for 
+nearly all antibacterial agents) cannot be excluded.   
+ 
+No significant QT prolongation was detected at the supratherapeutic dose of ceftaroline fosamil 
+(1500 mg as single 1-hour IV infusion) in a thorough QT study of 54 healthy adults (P903-05).  
+The largest upper bound of the two-sided 90% confidence interval for mean difference between 
+ceftaroline fosamil 1500 mg and placebo was below the threshold for regulatory concern (10 
+msec).   
+ 
+1.3.2 Pharmacokinetics 
+ 
+General Pharmacokinetics:  Ceftaroline fosamil (prodrug) is rapidly converted during IV 
+infusion by in vivo phosphatase enzymes to the active ceftaroline.  Ceftaroline is the predominant 
+circulating compound in plasma, and exhibits linear pharmacokinetics with approximately dose-
+proportional increase in exposure over the studied single dose range of 50-1000 mg (P903-01).  
+The β-lactam ring of ceftaroline undergoes hydrolysis to form the inactive, open-ring metabolite, 
+ceftaroline M-1.   
+ 
+Pharmacokinetic parameters of ceftaroline and ceftaroline M-1 following single and multiple 1-
+hour IV infusions of ceftaroline fosamil 600 mg Q12h in healthy adults are summarized in Table 
+1.3.2-1 (P903-01).  Due to rapid biotransformation, concentrations of ceftaroline fosamil were 
+generally measurable only during IV infusion.   
+ 
+Table 1.3.2-1  Mean ± SD pharmacokinetic parameters following single and multiple 1-h IV infusions of 
+ceftaroline fosamil in healthy adults 
+600 mg Q12h (n=6) 
+Parameter 
+Ceftaroline 
+(active)  
+Ceftaroline M-1  
+(open-ring metabolite)
+Single Dose (Day 1) 
+Cmax (µg/mL) 
+18.97 ± 0.71 
+2.72 ± 0.77 
+Tmax (h)a 
+1.00 (0.92-1.25) 
+1.00 (0.67-5.00) 
+AUCinf (µg*h/mL) 
+56.79 ± 9.31 
+15.80 ± 3.21 
+t1/2 (h) 
+1.60 ± 0.38 
+3.50 ± 1.36 
+CL (L/h) 
+9.58 ± 1.85 
+35.63 ± 6.60 
+Vz (L) 
+21.97 ± 5.43 
+177.1 ± 60.5 
+Multiple Dose (Day 14) 
+Cmax (µg/mL) 
+21.33 ± 4.10 
+3.58 ± 0.62 
+Tmax (h)a 
+0.92 (0.92-1.08) 
+1.08 (0.92-1.53) 
+AUCtau (µg*h/mL) 
+56.25 ± 8.90 
+18.95 ± 4.62 
+t1/2 (h) 
+2.66 ± 0.40 
+6.84 ± 0.59 
+CL (L/h) 
+9.60 ± 1.40 
+30.05 ± 6.40 
+Vz (L) 
+35.30 ± 7.40 
+221.5 ± 73.1 
+Accumulation Ratio  
+1.03 ± 0.12 
+1.46 ± 0.10 
+a Tmax reported as median (minimum-maximum) 
+Accumulation ratio, AUCtau ratio of Day 14 to Day 1; AUCinf, area under concentration-time curve from time 0 to infinity; AUCtau, 
+area under concentration-time curve over dosing interval; Cmax, maximum observed concentration; CL, plasma clearance; t1/2, 
+elimination half-life; Tmax, time of maximum observed concentration; Vz, apparent volume of distribution of terminal phase  
+
+
+===== PAGE 28 =====
+
+27 
+single dose range of 50-1000 mg.  Pharmacokinetic parameters of ceftaroline and ceftaroline M-
+1 did not vary significantly with repeat Q12h or Q24h dosing, and only minor accumulation 
+(based on ratios of AUC over the dosing interval [AUCtau]) was observed.  Mean estimates of 
+elimination half-life (t1/2) appeared to trend higher with increasing dose but was generally 2-3 
+hours for ceftaroline across doses and 3.5-5 hours for ceftaroline M-1 except at 1000 mg.   
+ 
+Table 2.2.5.1-1  Mean ± SD pharmacokinetic parameters following single 1-h IV infusions of ceftaroline 
+fosamil in healthy adults 
+Parameter 
+50 mg 
+(n=6) 
+100 mg 
+(n=6) 
+250 mg 
+(n=6) 
+500 mg 
+(n=6) 
+750 mg 
+(n=6) 
+1000 mg 
+(n=6) 
+Ceftaroline fosamil (prodrug) 
+Cmax (µg/mL) 
+0.18 ± 0.03 
+0.34 ± 0.16 
+1.12 ± 0.27 
+1.67 ± 0.45 
+3.41 ± 1.18 
+4.36 ± 1.02 
+Tmax (h)a 
+0.33  
+(0.32-0.92) 
+0.33  
+(0.33-0.92) 
+0.50  
+(0.33-0.92) 
+0.67  
+(0.33-0.67) 
+0.33  
+(0.33-0.67) 
+0.80  
+(0.33-0.93) 
+Ceftaroline (active) 
+Cmax (µg/mL) 
+1.51 ± 0.25 
+3.08 ± 0.96 
+10.05 ± 1.68 
+16.64 ± 2.11 
+23.38 ± 4.92 
+30.49 ± 4.32 
+Tmax (h)a 
+0.92  
+(0.90-1.08) 
+0.92  
+(0.92-1.10) 
+0.92  
+(0.92-1.25) 
+1.08  
+(0.92-1.08) 
+1.00  
+(0.92-1.08) 
+0.92  
+(0.92-1.02) 
+AUCinf 
+(µg*h/mL) 
+3.95 ± 0.73 
+6.72 ± 1.67 
+23.41 ± 5.38 
+44.82 ± 2.86 
+57.60 ± 9.75 
+80.89 ± 8.63 
+t1/2 (h) 
+2.03 ± 0.15 
+2.23 ± 0.42 
+2.33 ± 0.26 
+2.53 ± 0.28 
+2.62 ± 0.29 
+2.90 ± 0.14 
+CL (L/h) 
+11.53 ± 2.33 
+13.73 ± 2.94 
+9.87 ± 2.35 
+9.89 ± 0.63 
+11.79 ± 2.07 
+11.02 ± 1.17 
+Vz (L) 
+33.35 ± 4.46 
+42.88 ± 4.19 
+32.78 ± 7.17 
+35.87 ± 3.45 
+44.40 ± 8.08 
+45.97 ± 5.23 
+Ceftaroline M-1 (open-ring metabolite) 
+Cmax (µg/mL) 
+0.16 ± 0.04 
+0.68 ± 0.10 
+0.72 ± 0.26 
+2.23 ± 0.65 
+2.85 ± 0.59 
+2.95 ± 0.36 
+Tmax (h)a 
+2.24  
+(0.92-3.02) 
+0.92  
+(0.92-1.10) 
+1.25  
+(1.08-2.00) 
+1.08  
+(0.92-1.27) 
+1.08  
+(0.92-1.50) 
+0.98  
+(0.92-1.50) 
+AUCinf 
+(µg*h/mL) 
+1.32 ± 0.32 
+3.39 ± 0.72 
+5.88 ± 1.37 
+13.72 ± 1.39 
+19.30 ± 4.76 
+21.29 ± 3.57 
+t1/2 (h) 
+3.55 ± 0.72 
+3.85 ± 1.15 
+4.04 ± 0.27 
+4.92 ± 1.31 
+4.98 ± 0.69 
+6.98 ± 1.65 
+CL (L/h) 
+35.95 ± 7.93 
+27.65 ± 4.99 
+40.25 ± 8.42 
+33.39 ± 3.06 
+37.26 ± 9.51 
+43.88 ± 8.45 
+Vz (L) 
+185.0 ± 61.6 
+155.3 ± 61.0 
+233.2 ± 44.4 
+239.3 ± 75.0 
+260.4 ± 36.2 
+436.2 ± 98.6 
+AUCinf Ratio  
+to Ceftaroline 
+0.34 ± 0.06 
+0.52 ± 0.10 
+0.25 ± 0.03 
+0.31 ± 0.02 
+0.33 ± 0.06 
+0.26 ± 0.03 
+a Tmax expressed as median (minimum-maximum) 
+Note:  Created from Module 5.3.3, Study P903-01, Pharmacokinetic Report, Appendix 7A 
+
+
+===== PAGE 29 =====
+
+28 
+Table 2.2.5.1-2  Mean ± SD pharmacokinetic parameters following multiple 1-h IV infusions of ceftaroline 
+fosamil in healthy adults 
+300 mg Q12h 
+(n=6) 
+600 mg Q12h 
+(n=6) 
+800 mg Q24h 
+(n=6) 
+Parameter 
+Day 1 
+Day 14 
+Day 1 
+Day 14 
+Day 1 
+Day 7 
+Ceftaroline fosamil (prodrug) 
+Cmax (µg/mL) 
+1.49 ± 0.33 
+1.44 ± 0.49 
+3.44 ± 1.18 
+3.23 ± 1.06 
+3.08 ± 0.47 
+4.16 ± 1.03 
+Tmax (h)a 
+0.70  
+(0.67-0.92) 
+0.67  
+(0.33-0.92) 
+0.33  
+(0.33-0.67) 
+0.45  
+(0.33-0.92) 
+0.67  
+(0.32-0.97) 
+0.68  
+(0.33-0.93) 
+Ceftaroline (active) 
+Cmax (µg/mL) 
+9.98 ± 0.76 
+8.55 ± 1.85 
+18.97 ± 0.71 
+21.33 ± 4.10 
+29.66 ± 4.97 
+31.51 ± 2.39 
+Tmax (h)a 
+1.00  
+(0.92-1.13) 
+0.92  
+(0.92-1.08) 
+1.00  
+(0.92-1.25) 
+0.92  
+(0.92-1.08) 
+0.92  
+(0.65-1.08) 
+1.08  
+(0.92-1.08) 
+Ctr (µg/mL) 
+0 
+0.21 ± 0.09 
+0 
+0.41 ± 0.15 
+0 
+0.02 ± 0.01 
+AUCinf 
+(µg*h/mL) 
+25.79 ± 3.84 
+– 
+56.79 ± 9.31 
+– 
+72.37 ± 8.66 
+– 
+AUCtau 
+(µg*h/mL) 
+– 
+24.32 ± 3.66 
+– 
+56.25 ± 8.90 
+– 
+74.15 ± 14.22 
+t1/2 (h) 
+2.56 ± 0.47 
+2.62 ± 0.41 
+1.60 ± 0.38 
+2.66 ± 0.40 
+2.16 ± 0.15 
+2.63 ± 0.24 
+CL (L/h) 
+10.47 ± 1.62 
+11.10 ± 1.62 
+9.58 ± 1.85 
+9.60 ± 1.40 
+9.88 ± 1.13 
+9.86 ± 2.11 
+Vz (L) 
+38.22 ± 6.14 
+39.98 ± 5.05 
+21.97 ± 5.43 
+35.30 ± 7.40 
+30.80 ± 4.34 
+37.03 ± 5.45 
+Accumulation 
+Ratio 
+– 
+0.98 ± 0.17 
+– 
+1.03 ± 0.12 
+– 
+1.01 ± 0.12 
+Ceftaroline M-1 (open-ring metabolite) 
+Cmax (µg/mL) 
+1.09 ± 0.20 
+1.27 ± 0.13 
+2.72 ± 0.77 
+3.58 ± 0.62 
+2.57 ± 0.27 
+2.97 ± 0.68 
+Tmax (h)a 
+1.18  
+(0.97-1.50) 
+1.17  
+(1.08-2.00) 
+1.00  
+(0.67-5.00) 
+1.08  
+(0.92-1.53) 
+1.38  
+(0.92-2.00) 
+1.08  
+(0.92-1.25) 
+Ctr (µg/mL) 
+0 
+0.28 ± 0.06 
+0 
+0.67 ± 0.26 
+0 
+0.09 ± 0.02 
+AUCinf 
+(µg*h/mL) 
+7.95 ± 0.95 
+– 
+15.80 ± 3.21 
+– 
+18.13 ± 1.72 
+– 
+AUCtau 
+(µg*h/mL) 
+– 
+8.10 ± 1.16 
+– 
+18.95 ± 4.62 
+– 
+20.64 ± 3.41 
+t1/2 (h) 
+4.62 ± 0.65 
+6.94 ± 1.10 
+3.50 ± 1.36 
+6.84 ± 0.59 
+4.04 ± 0.71 
+6.87 ± 0.41 
+CL (L/h) 
+34.72 ± 4.23 
+34.23 ± 4.69 
+35.63 ± 6.60 
+30.05 ± 6.40 
+40.42 ± 3.78 
+36.12 ± 6.39 
+Vz (L) 
+230.7 ± 37.2 
+256.0 ± 45.0 
+177.1 ± 60.5 
+221.5 ± 73.1 
+233.3 ± 32.4 
+338.7 ± 60.1 
+Accumulation 
+Ratio 
+– 
+1.24 ± 0.14 
+– 
+1.46 ± 0.10 
+– 
+1.12 ± 0.14 
+AUC Ratio to 
+Ceftaroline 
+0.31 ± 0.02 
+0.33 ± 0.03 
+0.28 ± 0.03 
+0.33 ± 0.03 
+0.25 ± 0.03 
+0.28 ± 0.04 
+a Tmax expressed as median (minimum-maximum) 
+Note:  Created from Module 5.3.3, Study P903-01, Pharmacokinetic Report, Appendix 7B 
+ 
+
+
+===== PAGE 41 =====
+
+40 
+Table 2.3.2.2-1  Mean ± SD pharmacokinetic parameters following single 1-h IV infusion of ceftaroline 
+fosamil in adolescents versus healthy adults 
+Parameter 
+Adults 
+600 mg 
+(n=6) 
+P903-01 
+Adolescent 
+8 mg/kg 
+(n=7)a 
+P903-15 
+Ceftaroline 
+Cmax (µg/mL) 
+18.97 ± 0.71 
+17.03 ± 3.63 
+Tmax (h)b 
+1.00 (0.92-1.25) 
+0.95 (0.48-1.00)
+AUCinf (µg*h/mL) 
+56.79 ± 9.31 
+43.57 ± 10.11 
+t1/2 (h) 
+1.60 ± 0.38 
+1.86 ± 0.17 
+CL (L/h) 
+9.58 ± 1.85 
+9.36 ± 2.15 
+Vss (L) 
+– 
+25.27 ± 7.13 
+Vz (L) 
+21.97 ± 5.43 
+19.74 ± 6.05 
+Ceftaroline M-1 
+Cmax (µg/mL) 
+2.72 ± 0.77 
+1.25 ± 0.52 
+Tmax (h)b 
+1.00 (0.67-5.00) 
+1.30 (0.92-3.00)
+AUCinf (µg*h/mL) 
+15.80 ± 3.21 
+8.47 ± 1.57 
+t1/2 (h) 
+3.50 ± 1.36 
+3.41 ± 0.39 
+CL (L/h) 
+35.63 ± 6.60 
+49.13 ± 10.18 
+Vss (L) 
+– 
+240.57 ± 53.55 
+Vz (L) 
+177.1 ± 60.5 
+244.8 ± 58.9 
+a Excludes 1 outlier with unusually low concentrations of ceftaroline and unusually high concentrations of M-1 
+b Tmax expressed as median (minimum-maximum) 
+Note:  Adapted from Module 5.3.3, Study P903-15, Table 11.2-2 
+ 
+2.3.2.3 
+Gender 
+ 
+Pharmacokinetics of ceftaroline and ceftaroline M-1 were evaluated in healthy elderly males and 
+females and healthy young adult males and females following single 1-hour IV infusion of 
+ceftaroline fosamil 600 mg (P903-11).  There were no significant differences in ceftaroline or 
+ceftaroline M-1 exposures across age/gender cohorts of elderly males (n=10) versus elderly 
+females (n=6) and young adult males (n=6) versus young adult females (n=10), although there 
+was a trend for slightly higher Cmax and AUCinf in females.  Mean Cmax and AUCinf for 
+ceftaroline were 17% and 6-15% higher, respectively, in females versus males across age groups.  
+For ceftaroline M-1, mean Cmax and AUCinf were 20-24% and 7-13% higher, respectively, in 
+females versus males across age groups.  For both ceftaroline and ceftaroline M-1, mean 
+estimates of CL and Vss were 6-12% and 19-24% lower, respectively, in females versus males 
+across age groups.  Modest differences in ceftaroline and ceftaroline M-1 exposure could be 
+partly attributed to lower body weight in females, based on relationships between CL and Vss 
+with weight for ceftaroline (Figure 2.3.2.3-1 and Figure 2.3.2.3-2, respectively) and ceftaroline 
+M-1 (Figure 2.3.2.3-3 and Figure 2.3.2.3-4, respectively).   
+ 
+In population PK analyses, no significant difference in ceftaroline AUCtau was observed between 
+male and female patients in the cSSSI PK population (n=51, 53.2 ± 16.3 µg*h/mL versus n=41, 
+58.1 ± 18.1 µg*h/mL) and in the CABP PK population (n=77, 69.1 ± 20.8 µg*h/mL versus 
+n=50, 74.9 ± 22.4 µg*h/mL).  (See Pharmacometrics Review under Section 4, Appendices.)   
+ 
+No dose adjustment based on gender is necessary.   
+
+
+===== PAGE 46 =====
+
+45 
+Table 2.3.2.5-1  Mean ± SD pharmacokinetic parameters following single 1-h IV infusion of ceftaroline fosamil in subjects with mild, moderate, or 
+severe renal impairment, and ESRD subjects on HD versus subjects with normal renal function 
+P903-02 
+P903-04 
+P903-18 
+Parameter 
+Normal 
+600 mg 
+(n=6) 
+Mild 
+600 mg 
+(n=6) 
+Moderate 
+600 mg 
+(n=6) 
+Normal 
+400 mg 
+(n=6) 
+Severe 
+400 mg 
+(n=6) 
+Normal 
+400 mg 
+(n=6) 
+ESRD 
+400 mg, Post-HD
+(n=6) 
+CrCL (mL/min)a 
+109.2  
+(91.7-133.8) 
+60.2  
+(51.8-71.0) 
+35.0  
+(30.1-42.5) 
+99.5  
+(80.2-139.0) 
+23.0  
+(15.0-30.0) 
+119.3 
+(101.4-168.9) 
+–  
+Ceftaroline 
+Cmax (µg/mL) 
+28.35 ± 6.95
+28.17 ± 5.42 
+30.83 ± 4.86 
+14.75 ± 1.82 
+17.87 ± 2.86 
+16.48 ± 3.36 
+29.10 ± 8.49 
+Tmax (h)a 
+1.00  
+(0.67-1.25) 
+0.92  
+(0.92-1.25) 
+1.13  
+(0.92-1.27) 
+1.08  
+(0.33-1.25) 
+1.25  
+(0.92-1.58) 
+0.98  
+(0.97-1.08) 
+0.98  
+(0.98-0.98) 
+AUCinf (µg*h/mL) 
+75.56 ± 9.66
+92.27 ± 25.29
+114.84 ± 14.09
+52.81 ± 10.51 
+113.32 ± 20.48
+48.63 ± 9.17 
+128.58 ± 12.68 
+t1/2 (h) 
+2.87 ± 0.43 
+3.67 ± 0.74 
+4.60 ± 1.11 
+3.02 ± 0.43 
+5.05 ± 1.22 
+2.75 ± 0.22 
+6.16 ± 0.81 
+CL (L/h) 
+7.11 ± 0.89 
+6.12 ± 1.69 
+4.68 ± 0.66 
+6.90 ± 1.44 
+3.22 ± 0.67 
+7.47 ± 1.35 
+2.77 ± 0.29 
+CLR (L/h) 
+3.36 ± 0.83 
+1.87 ± 0.32 
+1.20 ± 0.38 
+4.38 ± 1.13 
+0.71 ± 0.26 
+4.55 ± 1.01 
+–  
+Vz (L) 
+29.27 ± 5.22
+32.87 ± 13.31
+30.48 ± 5.59 
+29.53 ± 3.79 
+22.77 ± 3.57 
+29.59 ± 5.05 
+24.58 ± 3.67 
+Vss (L) 
+– 
+– 
+– 
+22.91 ± 3.97 
+20.74 ± 3.17 
+21.30 ± 4.32 
+20.69 ± 3.92 
+Ae (%) 
+46.77 ± 6.12
+32.19 ± 8.29 
+25.83 ± 8.22 
+62.32 ± 4.02 
+22.88 ± 9.03 
+60.40 ± 5.98 
+–  
+Ceftaroline M-1 
+Cmax (µg/mL) 
+1.88 ± 0.47 
+2.39 ± 0.63 
+3.48 ± 0.61 
+0.97 ± 0.18 
+2.12 ± 0.35 
+0.89 ± 0.15 
+2.64 ± 0.93 
+Tmax (h)a 
+0.92  
+(0.67-3.00) 
+1.56  
+(0.92-5.00) 
+6.91  
+(2.00-9.00) 
+1.08  
+(0.33-5.00) 
+7.05  
+(5.00-9.08) 
+4.00  
+(2.00-4.00) 
+8.00  
+(6.00-8.00) 
+AUCinf (µg*h/mL) 
+16.93 ± 3.50
+29.10 ± 9.33 
+54.81 ± 12.24 
+10.54 ± 2.38 
+40.34 ± 7.73 
+8.92 ± 2.13 
+60.48 ± 17.39 
+t1/2 (h) 
+5.74 ± 0.93 
+6.43 ± 0.75 
+9.41 ± 1.79 
+4.40 ± 0.55 
+7.05 ± 1.14 
+4.15 ± 0.36 
+8.23 ± 0.70 
+CL (L/h) 
+33.66 ± 8.42
+20.81 ± 8.25 
+10.32 ± 2.05 
+35.88 ± 8.10 
+9.31 ± 1.86 
+42.95 ± 11.58 
+6.36 ± 1.51 
+CLR (L/h) 
+2.27 ± 0.63 
+1.01 ± 0.27 
+0.42 ± 0.24 
+2.47 ± 1.04 
+0.37 ± 0.17 
+2.52 ± 0.54 
+–  
+Vz (L) 
+271.9 ± 40.1
+190.7 ± 66.8 
+138.1 ± 29.7 
+224.52 ± 39.47 
+93.98 ± 19.18 
+256.22 ± 69.36
+75.97 ± 19.66 
+Vss (L) 
+– 
+– 
+– 
+265.40 ± 38.05 
+130.54 ± 23.36
+299.10 ± 67.29
+104.59 ± 27.29 
+Ae (%) 
+6.75 ± 1.24 
+5.06 ± 0.98 
+3.96 ± 1.98 
+6.29 ± 1.53 
+3.83 ± 1.47 
+5.84 ± 1.22 
+–  
+AUC Ratio to 
+Ceftaroline 
+0.22 ± 0.04 
+0.31 ± 0.04 
+0.48 ± 0.10 
+0.20 ± 0.02 
+0.37 ± 0.14 
+0.18 ± 0.02 
+0.47 ± 0.11 
+a CrCL and Tmax expressed as median (minimum-maximum) 
+Note1:  Created using Module 5.3.3, Study P903-02, Pharmacokinetic Report, Appendices 7.2 & 7.3 
+Note2:  Created using Module 5.3.3, Study P903-04, Tables 14.1-8, 14.1-9, 14.1-26, & 14.1-27 
+Note3:  Created using Module 5.3.3, Study P903-18, Tables 14.2-17, 14.2-18, 14.2-20, & 14.2-21
+
+
+===== PAGE 86 =====
+
+107 
+• 
+AUCτ, area under the curve during a dosing interval 
+• 
+Tmax, corresponding time of Cmax 
+• 
+Cmin, pre-dose trough plasma concentration 
+• 
+t1/2, elimination half-life 
+• 
+CL, plasma clearance (adjusted for molecular weight for respective metabolite:  PPI-
+0903M/PPI-0903 = 604.70/684.68 = 0.883; PPI-0903M-1/PPI-0903 = 622.72/684.68 = 
+0.909) 
+• 
+CLr, renal clearance 
+• 
+% Urinary Recovery, percent of dose excreted in urine (adjusted for molecular weight for 
+respective metabolite:  PPI-0903M/PPI-0903 = 604.70/684.68 = 0.883; PPI-0903M-1/PPI-
+0903 = 622.72/684.68 = 0.909) 
+• 
+Vss, steady-state volume of distribution 
+• 
+Vz, volume of distribution of terminal phase (adjusted for molecular weight for respective 
+metabolite:  PPI-0903M/PPI-0903 = 604.70/684.68 = 0.883; PPI-0903M-1/PPI-0903 = 
+622.72/684.68 = 0.909) 
+• 
+Accumulation Ratio, ratio of last dose AUCτ to first dose AUCτ 
+ 
+Statistical Methods:  Geometric mean and geometric coefficient of variation (geometric %CV) 
+were computed for pertinent pharmacokinetic parameters by treatment group.   
+ 
+RESULTS 
+Study Population:  In total, 72 healthy adults were enrolled; 54 of which were administered 
+active drug (36, single dose; 18, multiple dose).  All 72 subjects were male, 67/72 (93.1%) were 
+Caucasian, mean age per treatment group ranged 21-31 years, and mean weight per treatment 
+group ranged 78-84 kg.   
+ 
+Pharmacokinetics:  Several protocol deviations with potential implications on pharmacokinetic 
+results were identified (Table 5 and Table 6).   
+ 
+Table 5.  Protocol deviations for Part 1 (single-dose) 
+Part 1 (Single-dose) 
+Deviation 
+N 
+Comment 
+Dosing 
+ 
+ 
+ 
+Infusion time 
+61 min  
+1 occurrence each 
+in 5/36 subjects 
+Acceptable 
+Sampling - Plasma 
+ 
+ 
+ 
+Sampling time 
+deviation 
+Many 
+Acceptable 
+• 
+Most deviated by ≤5 min; actual sample times used 
+in pharmacokinetic analysis 
+ 
+Missing  
+collection time 
+8 samples total 
+from 7/36 subjects 
+Acceptable 
+• 
+Concentrations reported for 4/8 samples; scheduled 
+times (24, 36, or 48 h) used in pharmacokinetic 
+analysis 
+• 
+Results not significantly different from other subjects 
+in the same dosing group at the same time points 
+Bioanalytical - Plasma 
+ 
+ 
+ 
+Missing results 
+2 samples total 
+from 2/18 subjects 
+Acceptable 
+• 
+Missing results not anticipated to have significant 
+impact 
+ 
+
+
+===== PAGE 88 =====
+
+109 
+Pharmacokinetic parameters of PPI-0903, PPI-0903M, and PPI-0903M-1 following single and 
+multiple dose administration are listed in Table 7 and Table 8, respectively.  (Note:  Estimates 
+of Vss were not provided for PPI-0903M or PPI-0903M-1 by the Sponsor.)  Concentration-time 
+profiles of PPI-0903M and PPI-0903M-1 are displayed in Figures 1-2 for single doses and 
+Figures 3-4 for multiple doses.   
+ 
+Table 7.  Geometric mean (geometric %CV) pharmacokinetic parameters of PPI-0903, PPI-0903M, and 
+PPI-0903M-1 following single doses of PPI-0903 as 1-hour IV infusions 
+Parameter 
+50 mg 
+(n=6) 
+100 mg 
+(n=6) 
+250 mg 
+(n=6) 
+500 mg 
+(n=6) 
+750 mg 
+(n=6) 
+1000 mg 
+(n=6) 
+PPI-0903 
+Cmax (µg/mL) 
+0.18 (16.7) 
+0.31 (68.3) 
+1.09 (27.0) 
+1.61 (36.9) 
+3.24 (41.7) 
+4.27 
+(23.2) 
+Tmax (h) 
+0.44 (58.8) 
+0.44 (58.2) 
+0.52 (67.7) 
+0.60 (33.5) 
+0.42 (44.2) 
+0.63 
+(63.4) 
+AUCinf 
+(µg*h/mL) 
+0.14 (16.9) 
+0.25 (71.6) 
+0.82 (27.2) 
+1.17 (30.5) 
+2.90 (34.2) 
+3.29 
+(20.8) 
+t1/2 (h) 
+0.07 
+(–)a 
+0.10 (77.9) 
+0.11 
+(–)a 
+0.12 (43.0) 
+3.60 (23.7) 
+0.76 
+(90.0) 
+Vss (L) 
+34.6 
+(–)a 
+38.9 (59.5) 
+37.0 
+(–)a 
+55.0 (25.6) 
+233.7 (48.4) 
+72.1 
+(75.7) 
+CL (L/h) 
+350.5 (16.9) 
+396.8 (71.6) 
+305.6 (27.2) 
+429.3 (30.5) 
+258.7 (34.2) 304.4 (20.8) 
+CLr (L/h) 
+0 
+(–) 
+0 
+(–) 
+0 
+(–) 
+0 
+(–) 
+0.012 (27.6) 0.012 (38.8) 
+% Urinary 
+Recovery 
+0 
+(–) 
+0 
+(–) 
+0 
+(–) 
+0 
+(–) 
+0.0 
+(0.2) 
+0.0 
+(22.4) 
+PPI-0903M 
+Cmax (µg/mL) 
+1.49 (18.1) 
+2.94 (40.8) 
+9.92 (19.8) 
+16.53 (13.7) 
+22.96 (23.1) 
+30.23 (15.8) 
+Tmax (h) 
+0.97 
+(9.0) 
+0.97 
+(9.2) 
+0.99 (13.8) 
+1.02 
+(8.6) 
+1.00 
+(9.2) 
+0.94 
+(4.2) 
+AUCinf 
+(µg*h/mL) 
+3.89 (21.5) 
+6.57 (26.1) 
+22.9 (26.4) 
+44.7 
+(6.6) 
+56.9 (18.8) 
+80.5 (11.3) 
+t1/2 (h) 
+2.02 
+(7.9) 
+2.20 (20.1) 
+2.31 (12.8) 
+2.51 (11.4) 
+2.61 (11.6) 
+2.89 
+(4.9) 
+Vz
+b (L) 
+33.11 
+– 
+42.71 
+– 
+32.15
+– 
+35.73
+– 
+43.74 
+– 
+45.71
+– 
+CL (L/h) 
+11.34 (21.5) 
+13.45 (26.1) 
+9.65 (26.4) 
+9.87 
+(6.6) 
+11.64 (18.8) 
+10.97 (11.3) 
+CLr (L/h) 
+5.4 
+(39.0) 
+5.52 (40.1) 
+4.40 (42.5) 
+5.56 (15.6) 
+6.29 (27.7) 
+7.75 (17.9) 
+% Urinary 
+Recovery 
+47.5 (28.2) 
+41.1 (35.9) 
+45.7 (42.9) 
+56.3 (10.2) 
+54.1 (25.0) 
+70.7 (10.4) 
+PPI-0903M-1 
+Cmax (µg/mL) 
+0.15 (26.3) 
+0.67 (17.2) 
+0.69 (40.6) 
+2.17 (28.4) 
+2.79 (24.6) 
+2.93 (13.5) 
+Tmax (h) 
+1.85 (73.7) 
+0.97 
+(9.2) 
+1.29 (25.2) 
+1.05 (12.9) 
+1.14 (18.1) 
+1.04 (20.8) 
+AUCinf 
+(µg*h/mL) 
+1.29 (26.1) 
+3.34 (21.6) 
+5.76 (25.0) 
+13.67 (10.1) 
+18.80 (28.8) 
+21.02 (19.8) 
+t1/2 (h) 
+3.49 (21.3) 
+3.71 (35.2) 
+4.03 
+(6.8) 
+4.78 (30.4) 
+4.94 (15.1) 
+6.83 (25.4) 
+Vz
+b (L) 
+177.1 (33.3) 
+145.6 (39.3) 
+229.5 (19.1) 
+229.2 (31.3) 
+258.5 (13.9) 
+425.9 (22.6) 
+CL (L/h) 
+35.18 (26.1) 
+27.23 (21.6) 
+39.46 (25.0) 
+33.26 (10.1) 
+36.28 (28.8) 
+43.27 (19.8) 
+CLr (L/h) 
+2.82 (22.7) 
+1.84 (42.6) 
+2.68 (35.0) 
+2.70 (17.8) 
+2.59 (43.8) 
+3.61 (20.6) 
+% Urinary 
+Recovery 
+7.8 
+(4.6) 
+6.7 
+(36.0) 
+6.8 
+(22.1) 
+8.1 
+(22.3) 
+7.1 
+(31.2) 
+8.3 
+(14.8) 
+a no SD estimate because N=1 
+b Geometric means for Vz calculated by the Reviewer 
+Bolded blue font indicates geometric %CV value greater than 50% 
+Bolded red font indicates geometric %CV value greater than 75%
+
+
+===== PAGE 89 =====
+
+110 
+Table 8.  Geometric mean (geometric %CV) pharmacokinetic parameters of PPI-0903, PPI-0903M, and 
+PPI-0903M-1 following single (Day 1) and multiple doses (Day 14 or 7) of PPI-0903 as 1-hour IV 
+infusions 
+Parameter 
+300 mg Q12 
+(n=6) 
+600 mg Q12 
+(n=6) 
+800 mg Q24 
+(n=6) 
+ 
+Day 1 
+Day 14 
+Day 1 
+Day 14 
+Day 1 
+Day 7 
+PPI-0903 
+Cmin (µg/mL) 
+– 
+0 
+(–) 
+– 
+0 
+(–) 
+– 
+0 
+(–) 
+Cmax (µg/mL) 
+1.46 (27.6) 
+1.37 (43.8) 
+3.25 
+(48.4) 
+3.08 (40.1) 
+3.05 (16.8) 
+4.05 (29.2) 
+Tmax (h) 
+0.76 (16.7) 
+0.57 (54.3) 
+0.42 
+(44.2) 
+0.51 (65.8) 
+0.56 (56.1) 
+0.57 (52.0) 
+AUCinf or AUCτ 
+(µg*h/mL) 
+1.11 (39.7) 
+1.10 (44.3) 
+3.01 
+(87.6) 
+2.41 (42.5) 
+2.38 (12.9) 
+2.90 (39.2) 
+t1/2 (h) 
+0.18 (122.3) 
+0.18 (51.1) 
+0.29 
+(26.1) 
+0.15 (71.3) 
+0.20 (57.4) 
+0.20 (54.2) 
+Vss (L) 
+44.6 (55.3) 
+32.8 (48.2) 
+47.0 (219.2) 
+29.3 (39.7) 
+49.0 (63.3) 
+34.2 (64.9) 
+CL (L/h) 
+270.3 (39.7) 
+273.1 (44.3) 199.2
+(87.6) 
+248.7 (42.5) 336.1 (12.9) 275.6 (39.2) 
+CLr (L/h) 
+0 
+(–) 
+0 
+(–) 
+0 
+(–) 
+0 
+(–) 
+0 
+(–) 
+0 
+(–) 
+% Urinary 
+Recovery 
+0 
+(–) 
+0 
+(–) 
+0 
+(–) 
+0 
+(–) 
+0 
+(–) 
+0 
+(–) 
+Accumulation 
+Ratio 
+– 
+0.99 (21.4) 
+– 
+0.80 (99.1) 
+– 
+1.21 (40.6) 
+PPI-0903M 
+Cmin (µg/mL) 
+– 
+0.19 (54.4) 
+– 
+0.39 (40.7) 
+– 
+0.02 (47.2) 
+Cmax (µg/mL) 
+9.96 
+(7.7) 
+8.39 (22.9) 18.96
+(3.9) 
+21.02 (20.1) 29.30 (19.1) 31.43 (8.2) 
+Tmax (h) 
+1.00 (10.2) 
+0.97 (8.6) 
+1.02 
+(13.4) 
+0.97 
+(8.6) 
+0.92 (20.4) 
+1.02 (8.6) 
+AUCinf or AUCτ 
+(µg*h/mL) 
+25.54 (16.4) 
+24.10 (16.0) 56.08
+(19.5) 
+55.69 (16.4) 71.96 (12.4) 72.94 (22.5) 
+t1/2 (h) 
+2.52 (18.2) 
+2.60 (16.1) 
+1.57 
+(25.4) 
+2.63 (18.0) 
+2.16 (7.2) 
+2.62 (10.2) 
+Vz
+a (L) 
+37.76 
+– 
+39.72
+– 
+21.38
+– 
+34.64
+– 
+30.56 
+– 
+36.69
+– 
+CL (L/h) 
+10.37 (16.4) 
+11.00 (16.0) 
+9.45 
+(19.5) 
+9.52 (16.4) 
+9.82 (12.4) 
+9.68 (22.5) 
+CLr (L/h) 
+3.65 (64.7) 
+4.37 (33.7) 
+3.96 
+(40.2) 
+6.74 (47.2) 
+4.51 (35.8) 
+3.80 (37.5) 
+% Urinary 
+Recovery 
+34.6 (59.6) 
+39.8 (25.5) 
+40.9 
+(32.3) 
+69.0 (25.9) 
+45.0 (22.1) 
+39.3 (24.7) 
+Accumulation 
+Ratio 
+– 
+0.97 (18.5) 
+– 
+1.02 (12.5) 
+– 
+1.00 (12.6) 
+PPI-0903M-1 
+Cmin (µg/mL) 
+– 
+0.27 (26.4) 
+– 
+0.63 (44.7) 
+– 
+0.08 (26.7) 
+Cmax (µg/mL) 
+1.08 (20.0) 
+1.26 (10.7) 
+2.63 
+(32.0) 
+3.54 (18.2) 
+2.56 (11.4) 
+2.90 (26.3) 
+Tmax (h) 
+1.22 (20.2) 
+1.30 (28.3) 
+1.25 (103.4) 
+1.11 (21.5) 
+1.31 (34.2) 
+1.05 (12.1) 
+AUCinf or AUCτ 
+(µg*h/mL) 
+7.91 (12.8) 
+8.03 (15.0) 15.55
+(21.4) 
+18.53 (25.5) 18.06 (9.9) 
+20.39 (18.7) 
+t1/2 (h) 
+4.58 (14.8) 
+6.85 (19.7) 
+3.31 
+(43.5) 
+6.82 
+(8.8) 
+3.98 (19.5) 
+6.86 (5.9) 
+Vz
+a (L) 
+228.1 (16.1) 
+252.9 (17.6) 167.3
+(34.1) 
+211.4 (33.0) 231.3 (13.9) 334.3 (17.7) 
+CL (L/h) 
+34.51 (12.8) 
+33.96 (15.0) 35.09
+(21.4) 
+29.44 (25.5) 40.27 (9.9) 
+35.67 (18.7) 
+CLr (L/h) 
+2.00 (55.7) 
+1.56 (34.6) 
+1.60 
+(84.6) 
+1.84 (41.2) 
+1.41 (91.6) 
+1.27 (44.0) 
+% Urinary 
+Recovery 
+4.8 
+(39.4) 
+4.6 (24.4) 
+3.7 
+(62.8) 
+6.1 
+(7.2) 
+3.0 (81.8) 
+3.5 (29.8) 
+Accumulation 
+Ratio 
+– 
+1.24 (12.1) 
+– 
+1.45 
+(7.6) 
+– 
+1.11 (13.0) 
+a Geometric means for Vz calculated by the Reviewer 
+Bolded blue font indicates geometric %CV value greater than 50% 
+Bolded red font indicates geometric %CV value greater than 75%
+
+
+===== PAGE 93 =====
+
+114 
+(i) Single-Dose, PPI-0903 (prodrug):  Geometric mean values for Cmax and AUCinf increased 
+relatively in a dose-proportional manner.  Tmax for PPI-0903 occurred during the 1 hour IV 
+infusion, although values were variable between subjects.  Conversion to the active PPI-0903M 
+was rapid, as the elimination t1/2 for PPI-0903 was ≤15 minutes or otherwise undeterminable for 
+doses 50-500 mg.  The t1/2 for the highest dose of 1000 mg ranged approximately 0.5-2 hours, 
+while values were unexpectedly higher at the lower 750 mg dose with 2.5-4.5 hours for all 
+subjects in this group.  Vss could only be determined in several subjects for doses 50-250 mg, 
+while geometric means were 55.0 L for 500 mg and 72.1 L for the highest dose of 1000 mg.  For 
+the 750 mg group, all subjects had the highest Vss values of all other doses, ranging 150-260 L.  
+CL did not appear to vary with dose, with geometric means ranging 258.7-429.3 L/h.  CLr for 
+PPI-0903 could not be calculated as no PPI-0903 was recovered in urine.  (Note:  Due to rapid 
+biotransformation of prodrug, pharmacokinetic parameters that involve proper characterization 
+of the terminal phase were interpreted with caution.)   
+ 
+Reviewer Comment:  High geometric %CV (i.e., >50% and >75%) observed with PPI-0903 
+following single dose administration is acceptable because 1) variability was a product of 
+missing data from several subjects for the lower dosing groups, and 2) variability is reasonable 
+as PPI-0903 is rapidly converted to PPI-0903M, making certain pharmacokinetic parameters 
+difficult to determine.   
+ 
+Reviewer Comment:  It is unclear why the PPI-0903 t1/2 and Vss for the 750 mg group was 
+uncharacteristically and consistently the highest of all other doses, including the highest dose of 
+1000 mg.  It should be noted that concentrations were detectable up to 6 hours post-dose for 
+subjects in the 750 mg group, while PPI-0903 was generally BLQ at ≤1 hour post-dose for all 
+other dosing groups.  Regardless, this discrepancy with the 750 mg group is inconsequential as 
+PPI-0903 is simply the prodrug, and t1/2 and Vss data for PPI-0903 is not pertinent.   
+ 
+(ii) Single-Dose, PPI-0903M (active metabolite):  Geometric means for Cmax and AUCinf of the 
+active PPI-0903M increased proportionally with dose in a linear fashion, and Tmax occurred 
+around the end of 1-hour IV infusion.  Elimination t1/2 appeared to trend higher with increasing 
+dose, but was generally between 2-3 hours.  Both geometric mean Vz and CL did not vary with 
+dose, and ranged 32.15-45.71 L and 9.65-13.45 L/h, respectively.  Geometric mean Clr was 
+approximately 5 L/h for doses 50-500 mg, increasing to 6.29-7.25 L/h for doses 750-1000 mg.  
+Similarly, approximately 50% of PPI-0903M was recovered in urine, with 70.7% at the highest 
+dose of 1000 mg.  Variability (as geometric %CV) for all single-dose pharmacokinetic 
+parameters were <50%.   
+ 
+(iii) Single-Dose, PPI-0903M-1 (inactive, open-ring metabolite of PPI-0903M):  Geometric 
+mean Cmax and AUCinf of the major metabolite M-1 increased relatively in proportion with dose, 
+and Tmax occurred generally between 1-2 hours across doses.  Elimination t1/2 of M-1 similarly 
+trended higher with increasing dose, ranging 3.49-6.83 hours for doses 50-1000 mg.  Both 
+geometric mean Vz and CL did not vary significantly with dose, and ranged 145.6-425.9 L and 
+27.23-43.27 L/h, respectively.  CLr for M-1 was minimal, comparatively to the active PPI-
+0903M, ranging 2.84-3.61 across doses with 6.7-8.3% recovered in urine.  AUCinf ratio to the 
+active PPI-0903M (calculated by the Reviewer) did not vary with dose and is reported as 
+geometric mean for 50, 100, 250, 500, 750, and 1000 mg, respectively:  0.33, 0.51, 0.25, 0.31, 
+
+
+===== PAGE 94 =====
+
+115 
+0.33, and 0.26.  There were no single-dose pharmacokinetic parameters with geometric %CV 
+>75%.   
+ 
+(iv) Multiple-Dose, PPI-0903 (prodrug):  Cmax and AUC (i.e., AUCinf for single dose and AUCτ 
+for multiple dose) did not change significantly with repeat dosing (Day 14 or Day 7 versus Day 
+1), with minor accumulation (geometric mean, 21%) observed for the 800 mg Q24 regimen.  
+Tmax was variable among subjects but generally occurred during the 1-hour IV infusion for all 
+dosing regimens.  Estimates of elimination t1/2 did not vary with multiple doses but were also 
+variable, particularly for the 300 mg Q12 regimen on Day 1 due to Subject 1008 (3 minutes 
+versus approximately 10-20 minutes for all other subjects).  Geometric mean Vss and CL were 
+not significantly different between single and repeat doses, although Vss trended lower on Day 14 
+or 7 versus Day 1.  Estimates for Vss and CL were also variable, particularly for the 600 mg Q12 
+regimen (the proposed therapeutic regimen) on Day 1 due to Subject 2004 and Subject 2008.  
+PPI-0903 was not recovered in urine and CLr was non-existent.  (Note:  Due to rapid 
+biotransformation of prodrug, pharmacokinetic parameters that involve proper characterization 
+of the terminal phase were interpreted with caution.)   
+ 
+Subject 2004 had PPI-0903 concentrations for Day 1 that were lower than others in the same 
+dosing group at nearly every time point, which resulted in low AUCinf of 1.15 (versus geometric 
+mean, 3.01 µg*h/mL) and high CL of 521.5 L/h (versus geometric mean, 199.2 L/h).  Subject 
+2008 unusually had additional peaks in PPI-0903 concentrations on Day 1 at later time points, 4 
+and 12 hours post-dose (1.92 and 0.09 µg/mL, respectively), after previously undetectable levels.  
+This considerably impacted estimates of AUCinf (7.87 versus geometric mean 3.01 µg*h/mL), 
+CL (75.96 versus geometric mean 199.2 L/h), and Vss (265.8 versus geometric mean 47.0 L) for 
+Subject 2008.  Because of the outliers in AUCinf from Subject 2004 and Subject 2008, the 
+geometric %CV for the accumulation ratio for the 600 mg Q12 regimen (Subject 2004, 2.37; 
+Subject 2008, 0.30) was particularly high (i.e., >75%).   
+ 
+(v) Multiple-Dose, PPI-0903M (active metabolite):  Cmax and AUC did not change 
+significantly with repeat dosing, with minimal accumulation (geometric mean, <5%) for all 
+dosing regimens.  Similarly, Cmin (i.e., trough concentration) did not vary significantly with each 
+repeat dose, and geometric means for the final dose were 0.19 and 0.39 µg/mL for 300 and 600 
+mg Q12, respectively, while considerably lower with 0.02 µg/mL for 800 mg Q24 due to less 
+frequent dosing.  Tmax generally occurred around the end of 1-hour IV infusion for both single 
+and multiple doses across regimens.  Geometric mean t1/2, Vz, and CL were not significantly 
+different between single and multiple dosing, and ranged 2.60-2.63 hours, 34.64-39.72 L, and 
+9.52-11.00 L/h, respectively, across regimens for Day 14 or 7.  Variability (as geometric %CV) 
+for all multiple-dose pharmacokinetic parameters were <75%.   
+ 
+Reviewer Comment:  In light of the considerable number of protocol deviations that occurred 
+with urine sampling for each multiple-dose regimen in combination with higher than acceptable 
+geometric %CV for assay of urine samples, urinary pharmacokinetic results of PPI-0903M for 
+multiple-dose regimens will be disregarded.   
+ 
+(vi) Multiple-Dose, PPI-0903M-1 (inactive, open-ring metabolite of PPI-0903M):  Cmax and 
+AUC appeared to trend higher with repeat dosing, with geometric means for accumulation of 11-
+
+
+===== PAGE 100 =====
+
+121 
+Table 3.  Bioanalytical results of radioactivity for metabolic profiling of [14C] ceftaroline fosamil 
+Criterion 
+Plasma
+Urine 
+Feces 
+Recovery (Sample Preparation) 
+80.3% 
+– 
+79.8-82.7%
+Recovery (HPLC) 
+90.8% 
+98.8-102.1%
+82.2-84.0%
+Radioactivity Count Efficiency 
+50.2% (mean of triplicate) 
+Range 
+0.027-3.646 µCi/mL 
+LLOQ 
+607.1 dpm 
+Linearity 
+R2 = 0.9961 
+Accuracy 
+Within ±10.3% 
+ 
+Pharmacokinetic Assessment:  Pharmacokinetic parameters for ceftaroline fosamil, ceftaroline, 
+ceftaroline M-1, and total radioactivity were determined using non-compartmental methods.  
+Since doses were expressed in terms of anhydrous, acetate-free ceftaroline fosamil (MW, 
+684.68), corrections were made to the dose when calculating parameters for ceftaroline (MW, 
+604.70; 0.883 × ceftaroline fosamil dose) and ceftaroline M-1 (MW, 622.72; 0.909 × ceftaroline 
+fosamil dose).  Parameters included the following:   
+• 
+Cmax, peak observed plasma concentration 
+• 
+AUC0-t, area under the curve up to time corresponding to the last measurable concentration 
+• 
+AUC0-∞, area under the curve from time 0 to infinity 
+• 
+Tmax, corresponding time of Cmax 
+• 
+t1/2, elimination half-life 
+• 
+CL, plasma clearance 
+• 
+Vss, steady-state volume of distribution 
+• 
+Ae0-t, cumulative amount of drug excreted during entire urine collection period from time 0 
+to time t 
+• 
+CLr, renal clearance 
+ 
+Statistical Methods:  Descriptive statistics (n, mean, standard deviation, median, minimum, and 
+maximum) were provided for continuous variables and frequency distribution (counts and 
+percentages) were for categorical variables.   
+ 
+RESULTS 
+Study Population:  All subjects were male (3 white, 3 black), 23-45 years of age, of 22.2-28.0 
+kg/m2, and creatinine clearance (CrCL) 86.6-148.6 mL/min.  The Sponsor indicates although 
+some deviations from the study protocol did occur, they were few in number and were not 
+related to study inclusion/exclusion criteria, conduct of the trial, subject management, or subject 
+assessment; deviations were not considered significant or to have had a meaningful effect.   
+ 
+Pharmacokinetics:  Pharmacokinetic parameters for ceftaroline fosamil, ceftaroline, ceftaroline 
+M-1, and total radioactivity are listed in Table 4.  Plasma concentration-time profiles of 
+ceftaroline fosamil, ceftaroline, ceftaroline M-1, and total radioactivity are shown in Figure 1.  
+Values for coefficient of variation (%CV) were <25% for all pharmacokinetic parameters, except 
+Tmax estimates for ceftaroline fosamil (34%).   
+ 
+
+
+===== PAGE 102 =====
+
+123 
+(i) Ceftaroline fosamil (prodrug):  Mean Cmax was 2.02 µg/mL, occurring during the 1-hour IV 
+infusion.  Ceftaroline fosamil was rapidly converted to the active ceftaroline, and subsequently, 
+parameters like AUC0-∞, t1/2, Vss, and CL could not be calculated since the terminal phase of the 
+prodrug could not be characterized.  No subject had measurable plasma concentrations after the 
+1.25 hour time point (i.e., 15 minutes after end of infusion).  The prodrug was also not detected 
+in any of the urine samples collected.  These data are consistent with pharmacokinetic data 
+obtained from the single- and multiple-dose pharmacokinetic study, P903-01.   
+ 
+(ii) Ceftaroline (active metabolite):  Mean Cmax was 27.35 µg/mL and Tmax occurred around the 
+end of 1-hour IV infusion.  Ceftaroline was the predominant compound in plasma, with mean 
+Cmax 10 times that of the prodrug and an AUC0-∞ of 64.22 µg*h/mL.  Mean elimination t1/2 was 
+2.60 hours; mean CL and Vss were 8.68 L/h and 20.12 L, respectively.  These data are consistent 
+with the single- and multiple-dose pharmacokinetic study, P903-01.   
+ 
+Ceftaroline was also the predominant compound in urine, with approximately 65% of the 
+administered dose recovered in urine and mean Clr of 5.56 L/h.  These results are higher than 
+those reported from the single- and multiple-dose pharmacokinetic study, P903-01, however 
+urinary pharmacokinetic data from P903-01 were considered underestimates due to a significant 
+number of missing urine samples from most subjects, including single-dose urinary results for 
+the 600 mg Q12 group.   
+ 
+(iii) Ceftaroline M-1 (inactive, open-ring metabolite of ceftaroline):  Mean Cmax was 2.16 
+µg/mL, approximately 8% of the Cmax for active ceftaroline.  M-1 was the second most prevalent 
+compound in plasma, with mean AUC0-∞ of 13.67 µg*h/mL, approximately 20% of that for 
+ceftaroline.  Tmax similarly occurred around the end of 1-hour IV infusion, while the elimination 
+t1/2 was slightly longer than ceftaroline with mean of 4.22 hours.  Mean estimates of CL and Vss 
+were also greater than those for ceftaroline, with 41.77 L/h and 248.18 L, respectively.  M-1 was 
+minimally excreted in urine, composing of 5.66% of the administered dose and Clr of 2.47 L/h.  
+These data are consistent with pharmacokinetic data obtained from the single- and multiple-dose 
+pharmacokinetic study, P903-01 (not including urinary results from P903-01, which were 
+underestimated).   
+ 
+(iv) Total radioactivity:  Unchanged ceftaroline represented the majority of total radioactivity in 
+plasma, as total radioactivity followed the time-course profile of ceftaroline.  However, AUC0-t 
+estimation for total radioactivity was considerably higher than that of ceftaroline (432.20 versus 
+63.79 µg*h/mL, respectively) due to the long terminal t1/2 relative to the extended collection 
+period for radioactivity (concentrations were measurable in all subjects through last time point of 
+168 hours versus 18 hours for ceftaroline), which also impacted estimations of CL and Vss.  
+Plasma concentrations of total radioactivity were also 1.7-2.5 times that of whole blood (Figure 
+2), suggesting minimal penetration into red blood cells.   
+ 
+Mean recovery of radioactivity in urine and feces was 93.4 ± 3.1% (range, 87.5-95.9%) of the 
+administered dose.  Excretion was predominantly renal, as an average of 87.5 ± 3.9% was 
+recovered in urine and 5.95 ± 2.93% in feces (Figure 3).  Most of the administered radioactivity 
+was recovered in the first 48 hours (~90%), and concentrations were quantifiable in urine and 
+feces through the final collection in all subjects (maximum, 216 hours post-dose).   
+
+
+===== PAGE 110 =====
+
+131 
+ceftaroline.  Best-fit standard curves were obtained by linear regression, and intra- and inter-
+assay precision were <10%.   
+ 
+Aerobic and anaerobic bacteria in fecal samples were determined by culturing, isolating, and 
+quantifying specific strains.  The lower limit of detection was 102 colony-forming units 
+(CFU)/gram.  Change in log number of intestinal aerobic and anaerobic bacteria before and after 
+study drug administration was calculated.   
+ 
+Ceftaroline susceptibility was tested on fecal samples from bacterial culture by using the agar 
+dilution method.  For purposes of this study, a provisional breakpoint of 4 mg/L for ceftaroline 
+was used.  The minimum inhibitory concentrations (MIC) for 50% and 90% of tested strains 
+(MIC50 and MIC90) were calculated.   
+ 
+Pharmacokinetic Assessment:  Pharmacokinetic parameters for ceftaroline fosamil, ceftaroline, 
+ceftaroline M-1 were determined using non-compartmental methods.  Since doses were 
+expressed in terms of anhydrous, acetate-free ceftaroline fosamil (MW, 684.68), corrections 
+were made to the dose when calculating parameters for ceftaroline (MW, 604.70; 0.883 × 
+ceftaroline fosamil dose) and ceftaroline M-1 (MW, 622.72; 0.909 × ceftaroline fosamil dose).  
+Parameters included the following:   
+• 
+Cmax, maximum observed plasma concentration 
+• 
+AUC0-t, area under the curve up to time corresponding to the last measurable concentration 
+• 
+AUC0-∞, area under the curve from time 0 to infinity 
+• 
+Tmax, corresponding time of Cmax 
+• 
+t1/2, elimination half-life 
+• 
+CL, plasma clearance 
+• 
+Vss, steady-state volume of distribution 
+ 
+RESULTS 
+Study Population:  In total, 12 subjects were enrolled with an equal number of males and 
+females.  All subjects were white and mean age was 24.7 ± 5.9 years.  Weight ranged 60.0-90.5 
+kg and BMI ranged 21.3-28.1 kg/m2.  Two female subjects were enrolled with baseline CrCL of 
+78.1 and 78.4 mL/min (due to error in Cockcroft-Gault calculation for female gender), despite 
+the inclusion criteria of CrCL >80 mL/min.  As such, CrCL of enrolled subjects ranged 78.1-
+121.8 mL/min.   
+ 
+Pharmacokinetics:  Several protocol deviations with potential implications on pharmacokinetic 
+results were identified (Table 3).   
+ 
+Plasma pharmacokinetic parameters of ceftaroline fosamil, ceftaroline, and ceftaroline M-1 in 
+healthy elderly and healthy young adult subjects are listed in Table 4.  Mean estimates were 
+similar to those from the single- and multiple-ascending dose study, P903-01, in which 6 healthy 
+adults received multiple 1-hour IV infusions of ceftaroline fosamil 600 mg Q12 for 14 days.   
+
+
+===== PAGE 111 =====
+
+132 
+Table 3.  Protocol deviations for multiple 1-hour IV infusions of ceftaroline fosamil 600 mg Q12 for 7 days 
+in healthy adults 
+Deviation 
+N 
+Comment 
+Dosing 
+ 
+Full dose  
+not received 
+1 occurrence in 
+1/12 subjects 
+Acceptable 
+• 
+Subject 4501-14001 received 552 mg instead of 600 
+mg for PM infusion on Day 3 
+• 
+Deviation not anticipated to have significant impact 
+ 
+Infusion time  
+>60 ± 10 min 
+1 occurrence each 
+in 4/12 subjects 
+Acceptable 
+• 
+Occurred with intensive sampling in only 1 subject 
+• 
+Deviation not anticipated to have significant impact 
+Sampling – Plasma 
+ 
+Missing sample / 
+sampling time 
+deviation 
+5 samples total 
+from 4/12 subjects 
+Acceptable 
+• 
+Deviation not anticipated to have significant impact 
+Sampling – Feces 
+ 
+Improper storage 
+2 samples total 
+from 2/12 subjects 
+Acceptable 
+• 
+Only 1 sample analyzed and used after being left at 
+room temperature for several hours 
+• 
+Deviation not anticipated to have significant impact 
+ 
+ 
+Table 4.  Mean ± SD pharmacokinetic parameters of ceftaroline fosamil, ceftaroline, and ceftaroline M-1 
+following 1-hour IV infusions of ceftaroline fosamil 600 mg Q12 for 7 days in healthy adults 
+Parameter 
+Healthy Adults 
+600 mg Q12 × 7 days
+(n=12) 
+Ceftaroline fosamil 
+Cmax (µg/mL) 
+2.82 ± 0.74 
+Tmax (h)a 
+0.63 (0.50-1.03) 
+AUC0-τ (µg*h/mL) 
+2.21 ± 0.60 
+t1/2 (h) 
+0.09 ± 0.03b 
+Vss (L) 
+58.25 ± 14.38b 
+CL (L/h) 
+251.84 ± 45.17b 
+Ceftaroline 
+Cmax (µg/mL) 
+22.67 ± 3.67 
+Tmax (h)a 
+1.03 (0.98-1.10) 
+AUC0-τ (µg*h/mL) 
+61.33 ± 9.16 
+t1/2 (h) 
+2.00 ± 0.21 
+Vss (L) 
+19.54 ± 2.98 
+CL (L/h) 
+8.68 ± 1.33 
+Ceftaroline M-1 
+Cmax (µg/mL) 
+1.52 ± 0.29 
+Tmax (h)a 
+2.41 (1.32-3.03) 
+AUC0-τ (µg*h/mL) 
+12.27 ± 2.84 
+t1/2 (h) 
+4.55 ± 0.30 
+Vss (L) 
+243.62 ± 45.82 
+CL (L/h) 
+36.69 ± 7.83 
+a Reported as median (minimum-maximum) 
+b Data from n=3 
+ 
+
+
+===== PAGE 120 =====
+
+141 
+Pharmacokinetic Assessment:  Pharmacokinetic parameters for PPI-0903, PPI-0903M, and 
+PPI-0903M-1 were determined using non-compartmental methods.  Parameters included the 
+following:   
+• 
+Cmax, peak observed plasma concentration 
+• 
+AUCt, area under the curve from time 0 to the last measured concentration 
+• 
+AUCinf, area under the curve from time 0 to infinity 
+• 
+Tmax, corresponding time of Cmax 
+• 
+t1/2, elimination half-life 
+• 
+CL, plasma clearance (adjusted for molecular weight for respective metabolite:  PPI-
+0903M/PPI-0903 = 604.70/684.68 = 0.883; PPI-0903M-1/PPI-0903 = 622.72/684.68 = 
+0.909) 
+• 
+CLr, renal clearance 
+• 
+% Urinary Recovery, percent of dose excreted in urine (adjusted for molecular weight for 
+respective metabolite:  PPI-0903M/PPI-0903 = 604.70/684.68 = 0.883; PPI-0903M-1/PPI-
+0903 = 622.72/684.68 = 0.909) 
+• 
+Vss, steady-state volume of distribution 
+• 
+Vz, volume of distribution of terminal phase (adjusted for molecular weight for respective 
+metabolite:  PPI-0903M/PPI-0903 = 604.70/684.68 = 0.883; PPI-0903M-1/PPI-0903 = 
+622.72/684.68 = 0.909) 
+ 
+Concentrations occurring after Cmax and after two or more consecutive BLQ results were 
+excluded from pharmacokinetic analysis.  Outlier concentrations (e.g., those that did not decrease 
+in a manner consistent with the exponential decline of surrounding concentrations) were also 
+excluded.   
+ 
+Statistical Methods:  Geometric mean and geometric coefficient of variation (geometric %CV) 
+were computed for pertinent pharmacokinetic parameters by renal function and dose.   
+ 
+RESULTS 
+Study Population:  In total, 18 subjects were enrolled with an equal number of male and female 
+subjects, and an equal number of black and white subjects.  Mean ± SD age were 34.2 ± 8.3, 69.3 
+± 5.8, and 49.0 ± 15.6 years for normal, mild, and moderate renal groups, respectively.  Weights 
+ranged 56.4-113.2 kg across renal cohorts, with 76.9 ± 9.2, 80.2 ± 12.8, and 85.7 ± 18.1 kg, for 
+normal, mild, and moderate groups, respectively.  BMI ranged 19.4-36.9 kg/m2 across renal 
+cohorts, with 26.3 ± 3.9, 28.0 ± 4.4, and 29.3 ± 4.5 kg/m2 for normal, mild, and moderate groups, 
+respectively.  CrCL ranged 91.7-133.8 mL/min for the normal renal function group, 51.8-71.0 
+mL/min for the mild renal impairment group, and 30.1-42.5 mL/min for the moderate renal 
+impairment group.  Demographic characteristics (other than CrCL) were similar across renal 
+cohorts except for age, with 5/6 subjects in the mild group >65 years old versus 0/6 subjects in 
+the normal group and 1/6 subjects in the moderate group.   
+ 
+Pharmacokinetics:  Several protocol deviations with potential implications on pharmacokinetic 
+results were identified (Table 3).   
+ 
+
+
+===== PAGE 122 =====
+
+143 
+Unchanged PPI-0903 was not detected in urine, except for trace amounts in 5/6 subjects with 
+moderate renal impairment, resulting in high geometric %CV (i.e., >75%) for CLr (range, 0.00-
+0.47 L/h) and urinary recovery (range, 0.01-0.18%).   
+ 
+(ii) PPI-0903M (active metabolite):  Cmax for the active PPI-0903M did not appear to vary with 
+renal function (Figure 3) and similarly Tmax occurred around the end of 1-hour IV infusion 
+regardless of the renal cohort.  However, AUCinf was greater in mild and more significantly so in 
+moderate renal impairment versus those with normal renal function (Figure 4), with geometric 
+means that were 19% and 52% greater, respectively.  CL and CLr expectedly decreased with 
+decreasing renal function (as CrCL) (Figure 5 and Figure 6, respectively), as did % urinary 
+recovery; Vz appeared unchanged.  Accordingly, geometric mean t1/2 was extended in mild (3.61 
+hours) and moderate (4.49 hours) renal impairment versus normal renal function (2.84 hours) 
+with corresponding slower elimination profiles.  There were no pharmacokinetic parameters with 
+geometric %CV >50%.   
+ 
+(iii) PPI-0903M-1 (inactive, open-ring metabolite of PPI-0903M):  Cmax and AUCinf for major 
+metabolite M-1 both increased with decreasing renal function (i.e., from normal function to mild 
+and moderate impairment) (Figure 7 and Figure 8, respectively).  Geometric mean Cmax was 
+26% and 88% greater, respectively, for mild and moderate impairment versus normal renal 
+function.  Exposure for M-1 was significantly impacted by renal impairment (more so than the 
+active PPI-0903M), with geometric mean AUCinf that was 67% greater for mild impairment, 
+while the value for moderate renal impairment was 3.24 times that of normal renal function.  
+Consequently, AUCinf ratios to active PPI-0903M (calculated by the Reviewer) were greater for 
+mild (0.31) and moderate (0.47) impairment versus normal renal function (0.22).   
+ 
+Similarly to PPI-0903M, CL and CLr decreased with decreasing renal function (as CrCL) 
+(Figure 9 and Figure 10, respectively), as did % urinary recovery.  Accordingly, geometric 
+mean t1/2 was extended in mild (6.39 hours) and moderate (9.26 hours) renal impairment versus 
+normal renal function (5.68 hours) with corresponding slower elimination profiles.  Unlike the 
+active PPI-0903M, Vz also appeared to decrease with worsening renal function.  For the 
+moderately impaired group, geometric %CV for CLr and urinary recovery were >50% due to a 
+single outlier with a higher % dose recovered in urine (7.13%).   
+ 
+Tmax was variable for each renal cohort with geometric %CV >50%, and ranged 0.67-3.00, 0.92-
+5.00, and 2.00-9.00 hours for normal, mild, and moderate groups, respectively.  This was largely 
+due to the profile of declining M-1 concentrations (Figure 11), in which two peaks were 
+observed.  One peak occurred near the end of 1-hour IV infusion, as expected, for those with 
+normal renal function, while a later peak occurred up to 4 and 8 hours following completion of 
+infusion for those with mild and moderate impairment, respectively.   
+ 
+Reviewer Comment:  Occurrence of this higher and delayed peak in M-1 concentrations for 
+subjects with mild and moderate renal impairment can be theorized as attributable to a 
+combination of the following:  1) greater circulating concentrations of the active PPI-0903M in 
+mild and moderate renal impairment versus normal renal function, which translates to more 
+PPI-0903M that is available for conversion/degradation into the open-ring metabolite, M-1, and 
+
+
+===== PAGE 123 =====
+
+144 
+2) longer elimination t1/2 of M-1 versus the active PPI-0903M that contributes to additional and 
+delayed accumulation of M-1 concentrations.   
+ 
+ 
+Table 4.  Geometric mean (geometric %CV) pharmacokinetic parameters of PPI-0903, PPI-0903M, and 
+PPI-0903M-1 following single 1-hour IV infusion of PPI-0903 600 mg in subjects with normal renal 
+function, and mild and moderate renal impairment 
+Parameter 
+Renal Function 
+ 
+Normal 
+600 mg 
+(n=6) 
+Mild 
+600 mg 
+(n=6) 
+Moderate 
+600 mg 
+(n=6) 
+PPI-0903 
+Cmax (µg/mL) 
+3.56 (26.2) 
+3.80 
+(27.7) 
+3.26 
+(28.9) 
+Tmax (h) 
+0.67 
+(0.0) 
+0.51 
+(65.0) 
+0.70 
+(48.2) 
+AUCinf (µg*h/mL) 
+2.53 (29.4) 
+2.49 
+(29.0) 
+2.28 
+(12.1) 
+t1/2 (h) 
+0.21 (39.7) 
+0.19 
+(49.8) 
+0.23 
+(60.9) 
+Vss (L) 
+28.3 (43.8) 
+32.5 (104.4) 
+28.3 
+(79.3) 
+CL (L/h) 
+237.5 (29.4) 
+240.6
+(29.0) 
+262.9
+(12.1) 
+CLr (L/h) 
+0.0 
+(0.0) 
+0.0 
+(0.0) 
+0.08 (174.1) 
+% Urinary Recovery 
+0.0 
+(0.0) 
+0.0 
+(0.0) 
+0.1 
+(487.7) 
+PPI-0903M 
+Cmax (µg/mL) 
+27.6 (29.0) 
+27.7 
+(22.7) 
+30.5 
+(17.5) 
+Tmax (h) 
+0.97 (24.5) 
+0.99 
+(14.0) 
+1.12 
+(12.7) 
+AUCinf (µg*h/mL) 
+75.1 (13.5) 
+89.4 
+(31.9) 
+114.1
+(14.1) 
+t1/2 (h) 
+2.84 (16.6) 
+3.61 
+(21.1) 
+4.49 
+(29.2) 
+Vz (L) 
+28.9 (19.4) 
+30.9 
+(46.1) 
+30.1 
+(20.4) 
+CL (L/h) 
+7.06 (13.5) 
+5.93 
+(31.9) 
+4.64 
+(14.1) 
+CLr (L/h) 
+3.28 (27.0) 
+1.85 
+(19.6) 
+1.16 
+(33.4) 
+% Urinary Recovery 
+46.4 (13.7) 
+31.2 
+(32.8) 
+24.9 
+(34.4) 
+PPI-0903M-1 
+Cmax (µg/mL) 
+1.82 (29.8) 
+2.30 
+(37.3) 
+3.44 
+(19.2) 
+Tmax (h) 
+1.15 (71.1) 
+1.90 (123.1) 
+5.70 
+(81.1) 
+AUCinf (µg*h/mL) 
+16.6 (25.7) 
+27.7 
+(42.5) 
+53.8 
+(23.4) 
+t1/2 (h) 
+5.68 (17.8) 
+6.39 
+(12.7) 
+9.26 
+(22.2) 
+Vz (L) 
+269.3 (16.7) 
+181.4
+(41.3) 
+135.5
+(24.2) 
+CL (L/h) 
+32.9 (25.7) 
+19.7 
+(42.5) 
+10.2 
+(23.4) 
+CLr (L/h) 
+2.19 (33.7) 
+0.98 
+(30.7) 
+0.36 
+(87.9) 
+% Urinary Recovery 
+6.6 
+(22.6) 
+5.0 
+(23.9) 
+3.6 
+(67.4) 
+Bolded blue font indicates geometric %CV value greater than 50% 
+Bolded red font indicates geometric %CV value greater than 75%
+
+
+===== PAGE 131 =====
+
+152 
+The PPI-0903M-equivalent of the prodrug dose that was administered (0.883 × PPI-0903 dose, 
+or 529.8 mg) and actual infusion times were used.  Although numerous plasma samples deviated 
+from scheduled times, since most deviated only by ≤5 minutes, scheduled time points were used 
+and time points with zero concentration values after dose administration were omitted.   
+ 
+Once fitted, individual pharmacokinetic parameters were used to simulate PPI-0903 regimens in 
+subjects with normal renal function (n=6) and moderate renal impairment (n=6) (Table 5).  To 
+check the accuracy of the 2-compartmental model, the Reviewer first simulated single 1-hour IV 
+infusions of PPI-0903 600 mg (as done in Study P903-02), and compared simulated 
+pharmacokinetic parameters of PPI-0903M against those reported using the Sponsor’s non-
+compartmental analysis (Table 6).  Simulated results by the Reviewer were found to be similar 
+to reported results by the Sponsor.   
+ 
+ 
+Table 5.  Median (min-max) estimates of PPI-0903M pharmacokinetic parameters used as input 
+parameters for Reviewer simulations 
+Input Parameter 
+Normal Renal Function 
+(n=6) 
+Moderate Renal Impairment 
+(n=6) 
+V1 (L) 
+14.92 (9.50-24.04) 
+15.60 (12.52-19.68) 
+k10 (1/h) 
+0.48 (0.31-0.86) 
+0.29 (0.23-0.47) 
+k12 (1/h) 
+0.10 (0.02-0.71) 
+0.15 (0.08-0.26) 
+k21 (1/h) 
+0.35 (0.16-0.74) 
+0.32 (0.21-0.46) 
+k10, elimination rate constant; k12 and k21, microtransfer rate constants between central and 2nd 
+compartments; V1, apparent volume of distribution of central compartment 
+ 
+ 
+Table 6.  PPI-0903M pharmacokinetic parameters by Sponsor’s non-compartmental analysis versus 
+Reviewer’s 2-compartmental analysis for subjects with normal renal function and moderate renal 
+impairment following single 1-hour IV infusions of PPI-0903 600 mg 
+Normal Renal Function 
+Subject No. 
+01-151 
+01-152 
+01-153
+02-151
+02-152
+02-153
+Cmax (µg/mL) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sponsor 
+26.69 
+27.04 
+39.61 
+28.59 
+18.01 
+30.17 
+ 
+Reviewer 
+22.21 
+30.13 
+36.60 
+27.89 
+18.86 
+27.09 
+AUCinf (µg*h/mL) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sponsor 
+64.98 
+65.91 
+90.15 
+74.91 
+74.94 
+82.49 
+ 
+Reviewer 
+64.39 
+64.71 
+84.95 
+72.99 
+72.15 
+80.50 
+t1/2 (h) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sponsor 
+3.07 
+2.26 
+2.70 
+2.56 
+3.40 
+3.20 
+ 
+Reviewer 
+3.21 
+2.15 
+2.45 
+2.54 
+4.67 
+3.88 
+Moderate Renal Impairment 
+Subject No. 
+01-351 
+01-352 
+01-353
+01-354
+02-351
+02-352
+Cmax (µg/mL) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sponsor 
+32.78 
+32.97 
+37.87 
+28.94 
+28.79 
+23.60 
+ 
+Reviewer 
+30.55 
+32.57 
+31.71 
+24.78 
+23.70 
+23.07 
+AUCinf (µg*h/mL) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sponsor 
+89.16 
+116.05 
+127.43
+114.99
+127.95
+113.45
+ 
+Reviewer 
+90.12 
+111.06 
+124.29
+114.22
+121.93
+111.79
+t1/2 (h) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sponsor 
+3.02 
+3.72 
+4.33 
+5.58 
+5.83 
+5.14 
+ 
+Reviewer 
+3.11 
+3.48 
+3.95 
+5.14 
+6.16 
+5.14 
+
+
+===== PAGE 137 =====
+
+158 
+Pharmacokinetic Assessment:  Pharmacokinetic parameters for ceftaroline fosamil, ceftaroline, 
+ceftaroline M-1 were determined using non-compartmental methods.  Since doses were 
+expressed in terms of anhydrous, acetate-free ceftaroline fosamil (MW, 684.68), corrections 
+were made to the dose when calculating parameters for ceftaroline (MW, 604.70; 0.883 × 
+ceftaroline fosamil dose) and ceftaroline M-1 (MW, 622.72; 0.909 × ceftaroline fosamil dose).  
+Parameters included the following:   
+• 
+Cmax, maximum observed plasma concentration 
+• 
+AUC0-t, area under the curve up to time corresponding to the last measurable concentration 
+• 
+AUC0-∞, area under the curve from time 0 to infinity 
+• 
+Tmax, corresponding time of Cmax 
+• 
+t1/2, elimination half-life 
+• 
+CL, plasma clearance 
+• 
+Vss, steady-state volume of distribution 
+• 
+Ae0-t, cumulative amount of drug excreted during entire urine collection period from time 0 
+to time t 
+• 
+CLr, renal clearance 
+ 
+Statistical Methods:  Pharmacokinetic parameters for subjects with normal renal function and 
+severe renal impairment were compared using Statistical Analysis System (SAS) Version 9.1.3.  
+The paired difference between each subject with severe renal impairment and the matched 
+subject with normal renal function in log-transformed Cmax, AUC0-t, AUC0-∞, t1/2, CL, Ae0-t, and 
+CLr was analyzed using the one-sample t-test, while Tmax was analyzed using the Wilcoxon 
+Signed-Rank test.  The 90% confidence interval (CI) was constructed for the geometric mean 
+ratio for Cmax, AUC0-t, AUC0-∞, CL, Ae0-t, and CLr between impaired subjects and matched 
+normal subjects.  The relationships between pharmacokinetic parameter estimates and CrCL 
+were investigated using simple linear regression analysis.   
+ 
+RESULTS 
+Study Population:  In total, 12 subjects were enrolled, and subjects with normal renal function 
+were well matched to those with severe renal impairment by age, gender, and weight as intended.  
+Mean ± SD age was 63.5 ± 9.1 and 65.2 ± 8.4 years, respectively, for normal and severe renal 
+groups.  All study subjects were male, except for 1 female in each renal cohort.  Subjects in the 
+normal group were all white, while the renally impaired group consisted of 2/6 White, 2/6 Black, 
+and 2/6 Asian/Pacific Islander.  Weight ranged 63.5-114.8 kg across renal cohorts, with 88.4 ± 
+12.8 and 84.8 ± 19.1 kg for normal and severe groups, respectively.  BMI ranged 23.5-36.3 
+kg/m2 across renal cohorts, with 27.4 ± 2.8 and 29.9 ± 4.2 kg/m2 for normal and severe groups, 
+respectively.  CrCL ranged 80.2-139 mL/min for the normal renal function group and 15-30 
+mL/min for the severe renal impairment group.   
+ 
+Pharmacokinetics:  Pharmacokinetic parameters of ceftaroline fosamil, ceftaroline, and 
+ceftaroline M-1 in subjects with normal renal function and severe renal impairment are listed in 
+Table 3.  Concentration-time profiles of ceftaroline and ceftaroline M-1 are displayed in Figures 
+1 and 2, respectively.  There were no pharmacokinetic parameters with coefficient of variation 
+(%CV) >50% except for ceftaroline fosamil due to its rapid bioconversion to active ceftaroline, 
+making determination of certain parameters difficult.   
+
+
+===== PAGE 138 =====
+
+159 
+Reviewer Comment:  Plasma protein binding was not investigated in the different renal function 
+groups, however, any changes in protein binding with renal impairment is unlikely to have a 
+significant impact on the fraction unbound as ceftaroline is minimally bound to plasma proteins 
+(~20%).   
+ 
+(i) Ceftaroline fosamil (prodrug):  Unlike mild and moderate renal impairment (from Study 
+P903-02), both Cmax and AUC0-t were significantly greater in subjects with severe renal 
+impairment than in those with normal renal function at the same dose, with geometric mean 
+ratios of 1.65 and 2.04, respectively.  Tmax expectedly occurred during the 1-hour IV infusion 
+regardless of the renal cohort, due to rapid conversion to the active ceftaroline.  Because of this 
+rapid biotransformation, parameters like AUC0-∞, t1/2, Vss, and CL could not be calculated since 
+the terminal phase of the prodrug could not be characterized.  Unchanged ceftaroline fosamil was 
+not detected in urine, except for trace amounts in 0-2 hour samples for 4/6 subjects with severe 
+renal impairment.   
+ 
+(ii) Ceftaroline (active metabolite):  Both Cmax and AUC0-∞ for ceftaroline were also 
+significantly greater in subjects with severe renal impairment than in those with normal renal 
+function, with geometric mean ratios 1.21 and 2.15, respectively.  Tmax generally occurred 
+around the end of 1-hour IV infusion and did not differ between renal cohorts.  Ceftaroline CL 
+and CLr decreased with decreasing renal function (as CrCL) in a relatively linear fashion (Figure 
+3 and Figure 4), and Ae0-t in urine was similarly lower in impaired subjects (22.88% versus 
+62.32%), while Vss appeared unchanged.  Accordingly, mean t1/2 was extended in severe renal 
+impairment (5.05 hours) versus normal renal function (3.02 hours), with corresponding slower 
+elimination profiles.   
+ 
+(iii) Ceftaroline M-1 (inactive, open-ring metabolite of ceftaroline):  Exposures Cmax and 
+AUC0-∞ for M-1 were significantly impacted by renal impairment (more so than ceftaroline or 
+ceftaroline fosamil), with geometric mean ratios of 2.20 and 3.85, respectively.  Consequently, 
+AUC0-∞ ratios to the active ceftaroline (calculated by the Reviewer) were greater for the severe 
+renal cohort (0.28-0.65) than the normal renal cohort (0.16-0.23).  Similarly to ceftaroline, CL 
+and CLr for M-1 decreased with decreasing renal function (as CrCL) in a relatively linear fashion 
+(Figure 5 and Figure 6), with lower Ae0-t recovered in urine for impaired subjects (3.83% versus 
+6.29%).  Accordingly, mean t1/2 was extended in severe renal impairment (7.05 hours) versus 
+normal renal function (4.40 hours), with corresponding slower elimination profiles.  However, 
+unlike ceftaroline, mean Vss for M-1 appeared to be lower in subjects with severe impairment 
+(130.5 L) than in those with normal function (265.4 L).   
+ 
+As observed with mild and moderate renal impairment (from Study P903-02), Tmax of M-1 was 
+delayed in subjects with severe renal impairment, occurring between 5-9 hours post-dose versus 
+approximately 1 hour for those with normal renal function (Figure 7).   
+ 
+Reviewer Comment:  Occurrence of this higher and delayed peak in M-1 for renally impaired 
+subjects is theorized as attributable to a combination of:  1) greater circulating concentrations of 
+the active ceftaroline in impaired subjects, which translates to more ceftaroline available for 
+conversion/degradation into the open-ring metabolite, M-1, and 2) longer elimination t1/2 of M-1 
+versus ceftaroline that contributes to additional and delayed accumulation of M-1.   
+
+
+===== PAGE 139 =====
+
+160 
+Table 3.  Mean ± SD pharmacokinetic parameters of ceftaroline fosamil, ceftaroline, and ceftaroline M-1 
+following single 1-hour IV infusion of ceftaroline fosamil 400 mg in subjects with normal renal function and 
+severe renal impairment 
+Renal Function 
+Parameter 
+Normal 
+400 mg 
+(n=6) 
+Severe 
+400 mg 
+(n=6) 
+Geometric Mean Ratio
+(90% CI) 
+p-value 
+Ceftaroline fosamil 
+Cmax (µg/mL) 
+1.29 ± 0.48 
+2.13 ± 1.00 
+1.65 (1.32-2.06) 
+0.0063 
+Tmax (h)a 
+0.67  
+(0.33-1.35) 
+0.50  
+(0.33-0.67) 
+– 
+– 
+AUC0-t (µg*h/mL) 
+0.94 ± 0.43 
+1.86 ± 0.96 
+2.04 (1.45-2.86) 
+0.0081 
+AUC0-∞ (µg*h/mL) 
+–b 
+–b 
+– 
+– 
+t1/2 (h) 
+–b 
+–b 
+– 
+– 
+Vss (L) 
+–b 
+–b 
+– 
+– 
+CL (L/h) 
+–b 
+–b 
+– 
+– 
+CLr (L/h) 
+0.00 
+0.25 ± 0.27 
+– 
+– 
+Ae0-t (% of dose) 
+0.00 
+0.10 ± 0.09 
+– 
+– 
+Ceftaroline 
+Cmax (µg/mL) 
+14.75 ± 1.82 
+17.87 ± 2.86 
+1.21 (1.10-1.32) 
+0.0091 
+Tmax (h)a 
+1.08  
+(0.33-1.25) 
+1.25  
+(0.92-1.58) 
+– 
+– 
+AUC0-t (µg*h/mL) 
+52.26 ± 10.54 
+112.4 ± 20.33
+2.16 (1.99-2.34) 
+<0.0001 
+AUC0-∞ (µg*h/mL) 
+52.81 ± 10.51 
+113.3 ± 20.48
+2.15 (1.99-2.33) 
+<0.0001 
+t1/2 (h) 
+3.02 ± 0.43 
+5.05 ± 1.22 
+– 
+– 
+Vss (L) 
+22.91 ± 3.97 
+20.74 ± 3.17 
+– 
+– 
+CL (L/h) 
+6.90 ± 1.44 
+3.22 ± 0.67 
+– 
+– 
+CLr (L/h) 
+4.38 ± 1.13 
+0.71 ± 0.26 
+– 
+– 
+Ae0-t (% of dose) 
+62.32 ± 4.02 
+22.88 ± 9.03 
+– 
+– 
+Ceftaroline M-1 
+Cmax (µg/mL) 
+0.97 ± 0.18 
+2.12 ± 0.35 
+2.20 (1.96-2.46) 
+<0.0001 
+Tmax (h)a 
+1.08  
+(0.33-5.00) 
+7.05  
+(5.00-9.08) 
+– 
+– 
+AUC0-t (µg*h/mL) 
+9.86 ± 2.37 
+39.64 ± 7.87 
+4.06 (3.08-5.34) 
+0.0002 
+AUC0-∞ (µg*h/mL) 
+10.54 ± 2.38 
+40.34 ± 7.73 
+3.85 (3.00-4.95) 
+0.0001 
+t1/2 (h) 
+4.40 ± 0.55 
+7.05 ± 1.14 
+– 
+– 
+Vss (L) 
+265.4 ± 38.05 
+130.5 ± 23.36
+– 
+– 
+CL (L/h) 
+35.88 ± 8.10 
+9.31 ± 1.86 
+– 
+– 
+CLr (L/h) 
+2.47 ± 1.04 
+0.37 ± 0.17 
+– 
+– 
+Ae0-t (% of dose) 
+6.29 ± 1.53 
+3.83 ± 1.47 
+– 
+– 
+a Reported as median (minimum-maximum) 
+b Not able to be calculated 
+
+
+===== PAGE 145 =====
+
+166 
+group (Subject 0092-04004) failed to receive the entire dose of study drug (244 of 250 mL 
+administered) due to air block in the infusion line, and was therefore excluded from the 
+Reviewer’s pharmacokinetic analysis.   
+ 
+Once fitted, individual pharmacokinetic parameters were used to simulate ceftaroline fosamil 
+regimens in subjects with normal renal function (n=5) and severe renal impairment (n=6) (Table 
+4).  To check the accuracy of the 2-compartmental model, the Reviewer first simulated single 1-
+hour IV infusions of ceftaroline fosamil 400 mg (as done in Study P903-04), and compared 
+simulated pharmacokinetic parameters of ceftaroline against those reported using the Sponsor’s 
+non-compartmental analysis (Table 5).  Simulated results by the Reviewer were found to be 
+similar to reported results by the Sponsor.   
+ 
+ 
+Table 4.  Median (min-max) estimates of ceftaroline pharmacokinetic parameters used as input 
+parameters for Reviewer simulations 
+Input Parameter 
+Normal Renal Function 
+(n=5)a 
+Severe Renal Impairment 
+(n=6) 
+V1 (L) 
+15.30 (14.76-19.25) 
+12.25 (7.61-17.56) 
+K10 (1/h) 
+0.40 (0.37-0.69) 
+0.26 (0.16-0.42) 
+K12 (1/h) 
+0.44 (0.19-0.92) 
+0.80 (0.22-1.94) 
+K21 (1/h) 
+0.68 (0.53-1.27) 
+1.14 (0.41-1.60) 
+k10, elimination rate constant; k12 and k21, microtransfer rate constants between central and 2nd 
+compartments; V1, apparent volume of distribution of central compartment 
+a Excludes Subject 0092-04004 who received 244 of 250 mL of study drug  
+ 
+ 
+Table 5.  Ceftaroline pharmacokinetic parameters by Sponsor’s non-compartmental analysis versus 
+Reviewer’s 2-compartmental analysis for subjects with normal renal function and severe renal impairment 
+following single 1-hour IV infusions of ceftaroline fosamil 400 mg  
+Normal Renal Function 
+Subject No. 
+0090-04002 
+0091-04006
+0091-04007
+0091-04008
+0092-04001 
+0092-04004
+Cmax (µg/mL) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sponsor 
+15.36 
+13.61 
+16.56 
+12.42 
+16.95 
+13.61 
+ 
+Reviewer 
+16.98 
+14.54 
+16.78 
+11.66 
+15.33 
+–a 
+AUC0-∞ (µg*h/mL) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sponsor 
+67.10 
+37.86 
+61.56 
+47.86 
+54.26 
+48.22 
+ 
+Reviewer 
+61.92 
+34.42 
+57.22 
+45.72 
+50.07 
+–a 
+t1/2 (h) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sponsor 
+3.74 
+2.45 
+2.98 
+3.25 
+2.82 
+2.91 
+ 
+Reviewer 
+3.65 
+2.35 
+2.94 
+3.23 
+2.87 
+–a 
+Severe Renal Impairment 
+Subject No. 
+0090-04001 
+0090-04003
+0091-04001
+0091-04002
+0091-04003 
+0092-04002
+Cmax (µg/mL) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sponsor 
+20.53 
+17.67 
+16.61 
+21.87 
+14.15 
+16.37 
+ 
+Reviewer 
+21.83 
+19.73 
+17.52 
+23.77 
+15.17 
+17.14 
+AUC0-∞ (µg*h/mL) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sponsor 
+133.26 
+105.43 
+111.22 
+115.99 
+79.20 
+134.80 
+ 
+Reviewer 
+128.56 
+100.18 
+105.06 
+110.83 
+75.82 
+129.28 
+t1/2 (h) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sponsor 
+5.19 
+5.16 
+4.78 
+4.06 
+3.83 
+7.26 
+ 
+Reviewer 
+5.17 
+5.16 
+4.89 
+4.07 
+3.80 
+7.39 
+a Subject 0092-04004 received 244 of 250 mL of study drug; excluded from Reviewer’s analysis 
+
+
+===== PAGE 151 =====
+
+172 
+ceftaroline fosamil dose) and ceftaroline M-1 (MW, 622.72; 0.909 × ceftaroline fosamil dose).  
+Parameters included the following:   
+• 
+Cmax, maximum observed plasma concentration 
+• 
+AUC0-t, area under the curve up to time corresponding to the last measurable concentration 
+• 
+AUC0-∞, area under the curve from time 0 to infinity 
+• 
+Tmax, corresponding time of Cmax 
+• 
+t1/2, elimination half-life 
+• 
+CL, plasma clearance 
+• 
+Vss, steady-state volume of distribution 
+• 
+Ae0-t, cumulative amount of drug excreted during entire urine collection period from time 0 
+to time t 
+• 
+CLr, renal clearance 
+ 
+Statistical Methods:  Pharmacokinetic parameters for healthy elderly subjects and healthy 
+young adult subjects were compared using Statistical Analysis System (SAS) Version 9.1 by 
+analysis of covariance (ANCOVA), with age group as a factor.  In order to evaluate the 
+contribution of reduced renal function in elderly subjects to increases in ceftaroline and M-1 
+systemic exposure, additional analyses were performed by ANCOVA, with age group, CrCL, 
+and age group by CrCL interaction as factors.  The interaction term of age group by CrCL was 
+not significant for all analyses and was later dropped from the model.   
+ 
+RESULTS 
+Study Population:  In total, 33 subjects were enrolled, 17 healthy elderly and 16 healthy young 
+adult subjects.  One elderly subject (0001-11109) did not receive the full dose, and was 
+subsequently replaced with an additional subject.  There were 17 females and 16 males; 7 elderly 
+females, 10 elderly males, 10 young adult females, and 6 young adult males.  Mean ± SD age 
+was 72.2 ± 6.0 years in the elderly group and 30.6 ± 7.0 years in the young adult group.  Weight 
+ranged 49.1-107.1 kg across age groups, with 70.8 ± 10.0 and 71.4 ± 16.6 kg for elderly and 
+young adults, respectively.  BMI ranged 20.2-34.8 kg/m2 across age groups, with 27.5 ± 2.7 and 
+25.8 ± 3.9 kg/m2 for elderly and young adults, respectively.  CrCL ranged 61.2-106.9 mL/min 
+for elderly subjects and 106.1-159.4 mL/min for young adults; 9/17 elderly subjects had mild 
+renal impairment defined as CrCL >50 and ≤80 mL/min.   
+ 
+There were 8 elderly subjects ≥75 years old; age ranging 75-81 years.  CrCL for these subjects 
+ranged 61.2-85.9 mL/min; 6/8 subjects had mild renal impairment defined as CrCL >50 and ≤80 
+mL/min.   
+ 
+Pharmacokinetics:  Pharmacokinetic parameters of ceftaroline fosamil, ceftaroline, and 
+ceftaroline M-1 in healthy elderly and healthy young adult subjects are listed in Table 3.  
+Concentration-time profiles of ceftaroline and ceftaroline M-1 are displayed in Figures 1 and 2, 
+respectively.  There were no pharmacokinetic parameters with coefficient of variation (%CV) 
+>50% except for M-1 Tmax for the healthy young adult group.   
+ 
+(i) Ceftaroline fosamil (prodrug):  Both Cmax and AUC0-t were only slightly greater in elderly 
+subjects than in young adults, with geometric mean ratios of 1.12 and 1.14, respectively.  Tmax 
+expectedly occurred during the 1-hour IV infusion regardless of age group due to rapid 
+
+
+===== PAGE 152 =====
+
+173 
+conversion to active ceftaroline.  Because of this rapid biotransformation, parameters like AUC0-
+∞, t1/2, Vss, and CL could not be accurately calculated for all subjects since the terminal phase of 
+the prodrug could not be characterized.  Unchanged ceftaroline fosamil was not detected in urine 
+in any subject.   
+ 
+When grouped by elderly males and females versus young adult males and females (by the 
+Reviewer), there was trend for slightly higher mean Cmax (19-25%) and AUC0-t (12-31%) in 
+females.   
+ 
+(ii) Ceftaroline (active metabolite):  Ceftaroline Cmax was unaffected by age with a geometric 
+mean ratio of 1.02, while AUC0-∞ was greater in elderly subjects than young adults with a 
+geometric mean ratio of 1.33.  Tmax generally occurred around the end of 1-hour IV infusion and 
+did not differ between groups.  Ceftaroline CL and CLr were expectedly lower (by 25% and 
+32%, respectively) in elderly subjects due to lower CrCL in the older cohort (half with mild renal 
+impairment), as was Ae0-t in urine, while mean Vss appeared to be greater instead (elderly, 17.86 
+L; young adult, 15.84 L).  Accordingly, mean t1/2 was extended by 41% in elderly subjects (3.1 
+hours) than in young adults (2.2 hours), with corresponding slower elimination profiles.   
+ 
+In the ANCOVA analysis with CrCL as a factor, p-values for ceftaroline Cmax and AUC0-∞ were 
+0.0554 and 0.0047, respectively, whereas those with age as a factor were 0.1751 and 0.2606, 
+respectively.  CrCL was a significant factor in accounting for greater systemic exposures of 
+ceftaroline in elderly subjects, while age, by itself, was not.  Thus, modest increases in 
+ceftaroline AUC0-∞ in healthy elderly subjects are largely due to decreased renal function versus 
+healthy young adults.   
+ 
+When grouped by elderly males and females versus young adult males and females (by the 
+Reviewer), there was a trend for slightly higher mean Cmax (17%) and AUC0-∞ (6-15%) of 
+ceftaroline in females (Figures 3 and 4).  Mean estimates of ceftaroline CL and Vss were 6-12% 
+and 20-21% lower, respectively, in females versus males across age groups, and differences in 
+exposures could be partly attributed to lower body weight in females based on relationships with 
+CL and Vss (Figures 5 and 6).   
+ 
+(iii) Ceftaroline M-1 (inactive, open-ring metabolite of ceftaroline):  Exposures Cmax and 
+AUC0-∞ for M-1 were impacted by elderly age more so than ceftaroline or ceftaroline fosamil, 
+with geometric mean ratios of 1.11 and 1.48, respectively.  Consequently, AUC0-∞ ratios to 
+active ceftaroline (calculated by the Reviewer) were greater in the elderly cohort (0.21 ± 0.03) 
+than the young adult cohort (0.19 ± 0.03).  As observed with renal impairment (from Studies 
+P903-02, P903-04, and P903-18), Tmax of M-1 was slightly delayed in elderly subjects, occurring 
+at 3 hours post-dose versus ~1 hour for young adults.  Similarly to ceftaroline, CL and CLr for 
+M-1 were lower (by 32% for both) in elderly subjects due to lower CrCL in the older cohort (half 
+with mild renal impairment), while mean Ae0-t in urine was similar between groups.  (It should 
+be noted that % of dose renally excreted as M-1 was variable in young adults.)  Accordingly, 
+mean t1/2 was extended by 24% in elderly subjects (4.6 hours) than in young adults (3.7 hours), 
+with corresponding slower elimination profiles.  However, unlike ceftaroline, mean Vss for M-1 
+appeared to be lower in elderly subjects (226.1 L) than in young adults (252.8 L).   
+ 
+
+
+===== PAGE 154 =====
+
+175 
+Table 3.  Mean ± SD pharmacokinetic parameters of ceftaroline fosamil, ceftaroline, and ceftaroline M-1 
+following single 1-hour IV infusions of ceftaroline fosamil 600 mg in healthy elderly and healthy young 
+adult subjects 
+Parameter 
+Healthy Elderly 
+600 mg 
+(n=16) 
+Healthy Young Adult
+600 mg 
+(n=16) 
+Geometric Mean Ratioa 
+(90% Confidence Interval) 
+p-value 
+Ceftaroline fosamil 
+Cmax (µg/mL) 
+3.43 ± 0.81 
+3.07 ± 0.70 
+1.12 (0.97-1.29) 
+– 
+Tmax (h)b 
+0.38 (0.33-1.02) 
+0.67 (0.33-0.92) 
+– 
+– 
+AUC0-t (µg*h/mL) 
+2.58 ± 0.51 
+2.33 ± 0.53 
+1.12 (0.98-1.28) 
+– 
+AUC0-∞ (µg*h/mL) 
+3.03 ± 0.45c 
+2.66 ± 0.42d 
+1.14 (0.95-1.37) 
+– 
+t1/2 (h) 
+0.06 ± 0.03c 
+0.06 ± 0.01d 
+– 
+– 
+Vss (L) 
+21.98 ± 9.71c 
+20.96 ± 6.48d 
+– 
+– 
+CL (L/h) 
+201.3 ± 28.65c 
+230.9 ± 38.89d 
+– 
+– 
+CLr (L/h) 
+– 
+– 
+– 
+– 
+Ae0-t (% of dose) 
+– 
+– 
+– 
+– 
+Ceftaroline 
+Cmax (µg/mL) 
+31.82 ± 4.58 
+31.00 ± 3.79 
+1.02 (0.94-1.11) 
+0.6326 
+Tmax (h)b 
+1.01 (0.93-1.1) 
+1.02 (0.88-1.1) 
+– 
+– 
+AUC0-t (µg*h/mL) 
+94.05 ± 13.64 
+70.49 ± 10.09 
+1.33 (1.23-1.45) 
+<0.0001
+AUC0-∞ (µg*h/mL) 
+94.06 ± 13.60 
+70.49 ± 10.09 
+1.33 (1.23-1.45) 
+<0.0001
+t1/2 (h) 
+3.1 ± 0.4 
+2.2 ± 0.4 
+– 
+– 
+Vss (L) 
+17.86 ± 2.95 
+15.84 ± 2.73 
+– 
+– 
+CL (L/h) 
+5.74 ± 0.81 
+7.64 ± 0.90 
+– 
+– 
+CLr (L/h) 
+3.29 ± 0.76 
+4.86 ± 1.40 
+– 
+– 
+Ae0-t (% of dose) 
+57.4 ± 11.7 
+64.5 ± 9.9 
+– 
+– 
+Ceftaroline M-1 
+Cmax (µg/mL) 
+1.75 ± 0.33 
+1.57 ± 0.29 
+1.11 (1.00-1.24) 
+0.1057 
+Tmax (h)b 
+3.00 (1.03-4.00) 
+1.08 (1.00-4.00) 
+– 
+– 
+AUC0-t (µg*h/mL) 
+19.26 ± 3.64 
+12.92 ± 2.53 
+1.49 (1.33-1.67) 
+<0.0001
+AUC0-∞ (µg*h/mL) 
+19.35 ± 3.65 
+13.07 ± 2.46 
+1.48 (1.32-1.66) 
+<0.0001
+t1/2 (h) 
+4.6 ± 0.6 
+3.7 ± 0.5 
+– 
+– 
+Vss (L) 
+226.1 ± 48.94 
+252.8 ± 46.48 
+– 
+– 
+CL (L/h) 
+29.11 ± 5.34 
+43.09 ± 7.96 
+– 
+– 
+CLr (L/h) 
+1.69 ± 0.52 
+2.47 ± 0.76 
+– 
+– 
+Ae0-t (% of dose) 
+5.7 ± 1.1 
+5.8 ± 2.0 
+– 
+– 
+a Reference population = Young Adults 
+b Reported as median (minimum-maximum) 
+c Data from n=4 
+d Data from n=7
+
+
+===== PAGE 163 =====
+
+184 
+Pharmacokinetic Assessment:  Pharmacokinetic parameters for ceftaroline fosamil, ceftaroline, 
+ceftaroline M-1 were determined using non-compartmental methods.  Since doses were 
+expressed in terms of anhydrous, acetate-free ceftaroline fosamil (MW, 684.68), corrections 
+were made to the dose when calculating parameters for ceftaroline (MW, 604.70; 0.883 × 
+ceftaroline fosamil dose) and ceftaroline M-1 (MW, 622.72; 0.909 × ceftaroline fosamil dose).  
+Parameters included the following:   
+• 
+Cmax, maximum observed plasma concentration 
+• 
+AUC0-t, area under the curve up to time corresponding to the last measurable concentration 
+• 
+AUC0-∞, area under the curve from time 0 to infinity 
+• 
+Tmax, corresponding time of Cmax 
+• 
+t1/2, elimination half-life 
+• 
+CL, plasma clearance 
+• 
+Vss, steady-state volume of distribution 
+• 
+Vz, volume of distribution of terminal phase 
+• 
+Ae0-t, cumulative amount of drug excreted during entire urine collection period from time 0 
+to time t 
+• 
+CLr, renal clearance 
+ 
+Statistical Methods:  Descriptive statistics were provided for pertinent pharmacokinetic 
+parameters.   
+ 
+RESULTS 
+Study Population:  In total, 9 subjects were enrolled, of which 8 received the full dose.  Subject 
+0003-15001 refused further infusion after receiving 80% of the total dose because of 
+extravasation at the infusion site, and was subsequently excluded from pharmacokinetic analysis.  
+Based on dose preparation instructions for ceftaroline fosamil according to body weight, median 
+dose administered (excluding Subject 0003-15001) was 393.5 mg and ranged 320-600 mg; only 
+1 subject received 600 mg.  Of those enrolled, there were 5 males and 4 females, and 6/9 were 
+white, 2/9 black, and 1/9 classified as other.  Mean age of subjects was 13.7 ± 1.8 years.  Weight 
+ranged 40.6-79.1 kg and BMI ranged 16.9-26.3 kg/m2.  When estimated by Schwartz equation, 
+CrCL ranged 87.0-308.0 mL/min.   
+ 
+Using the Schwartz equation, CrCL was greatly overestimated for some adolescent subjects due 
+to low serum creatinine (SCr) values.  As such, the Reviewer estimated renal function as CrCL 
+(in mL/min) or glomerular filtration rate (GFR) (in mL/min/1.73 m2) using various equations 
+including Cockcroft-Gault, the 4-variable equation from the Modification of Diet in Renal 
+Disease Study (MDRD4), and the equation from the Chronic Kidney Epidemiology 
+Collaboration (CKD-EPI) (Table 3).  Of these, the CKD-EPI formula provided the least 
+overestimated measure of renal function in adolescent subjects (Table 4).  However, regardless 
+of the various estimations, all subjects may be considered as having normal renal function.   
+ 
+
+
+===== PAGE 165 =====
+
+186 
+Pharmacokinetic parameters of ceftaroline fosamil, ceftaroline, and ceftaroline M-1 in healthy 
+elderly and healthy young adult subjects are listed in Table 6.  Concentration-time profiles of 
+ceftaroline and ceftaroline M-1 are displayed in Figures 1 and 2, respectively.   
+ 
+One subject (Subject 0004-15002) had unusually low plasma concentrations of ceftaroline 
+fosamil and ceftaroline and unusually high concentrations of M-1.  Prodrug Cmax and AUC0-t for 
+Subject 0004-15002 was 9% and 8%, respectively, of the mean value for all other subjects, while 
+ceftaroline Cmax and AUC0-∞ was 18% and 14%, respectively.  For M-1, Cmax and AUC0-∞ for 
+Subject 0004-15002 were 6.6 and 3.5 times, respectively, the mean value for all others subjects.  
+Excluding this subject, there were no pharmacokinetic parameters with coefficient of variation 
+(%CV) >50% except Cmax and AUC0-t for ceftaroline fosamil, and Tmax and Ae0-t for M-1.   
+ 
+Table 6.  Mean ± SD pharmacokinetic parameters of ceftaroline fosamil, ceftaroline, and ceftaroline M-1 
+following single 1-hour IV infusions of ceftaroline fosamil 8 mg/kg in adolescents receiving antibiotics 
+Adolescents 
+(Subject 0004-15002 Excluded)b
+Adults 
+Parameter 
+8 mg/kg 
+(n=7)  
+P903-15 
+600 mg 
+(n=6) 
+P903-01 
+Ceftaroline fosamil 
+Cmax (µg/mL) 
+3.69 ± 3.41 
+3.44 ± 1.18 
+Tmax (h)a 
+0.50 (0.48-0.92) 
+0.33 (0.33-0.67) 
+AUC0-t (µg*h/mL) 
+2.59 ± 2.52 
+3.53 ± 2.31 
+Ceftaroline 
+Cmax (µg/mL) 
+17.03 ± 3.63 
+18.97 ± 0.71 
+Tmax (h)a 
+0.95 (0.48-1.00) 
+1.00 (0.92-1.25) 
+AUC0-t (µg*h/mL) 
+43.05 ± 9.92 
+55.31 ± 8.94 
+AUC0-∞ (µg*h/mL) 
+43.57 ± 10.11 
+56.79 ± 9.31 
+t1/2 (h) 
+1.86 ± 0.17 
+1.60 ± 0.38 
+Vss (L) 
+25.27 ± 7.13 
+– 
+Vz (L) 
+19.74 ± 6.05 
+21.97 ± 5.43 
+CL (L/h) 
+9.36 ± 2.15 
+9.58 ± 1.85 
+CLr (L/h) 
+4.95 ± 1.69 
+(results underestimated) 
+Ae0-t (% of dose) 
+54.76 ± 18.49 
+(results underestimated) 
+Ceftaroline M-1 
+Cmax (µg/mL) 
+1.25 ± 0.52 
+2.72 ± 0.77 
+Tmax (h)a 
+1.30 (0.92-3.00) 
+1.00 (0.67-5.00) 
+AUC0-t (µg*h/mL) 
+7.63 ± 1.29 
+12.88 ± 2.51 
+AUC0-∞ (µg*h/mL) 
+8.47 ± 1.57 
+15.80 ± 3.21 
+t1/2 (h) 
+3.41 ± 0.39 
+3.50 ± 1.36 
+Vss (L) 
+240.57 ± 53.55 
+– 
+Vz (L) 
+244.8 ± 58.9 
+177.1 ± 60.5 
+CL (L/h) 
+49.13 ± 10.18 
+35.63 ± 6.60 
+CLr (L/h) 
+2.15 ± 0.94 
+(results underestimated) 
+Ae0-t (% of dose) 
+4.35 ± 2.28 
+(results underestimated) 
+a Reported as median (minimum-maximum) 
+b Outlier due to unusually low concentrations of ceftaroline fosamil and ceftaroline and unusually high concentrations of M-1
+
+
+===== PAGE 174 =====
+
+195 
+Table 2.  Bioanalytical results of ceftaroline fosamil, ceftaroline, and ceftaroline M-1 in plasma, urine, and 
+dialysate fluid 
+Criterion 
+Ceftaroline fosamil 
+Ceftaroline 
+Ceftaroline M-1 
+Comments
+PLASMA 
+Range 
+0.05-10 µg/mL 
+(1:10 dilution tested with 
+8 µg/mL)  
+0.05-20 µg/mL 
+(1:10 dilution tested with 
+16 µg/mL)  
+0.05-10 µg/mL 
+(1:10 dilution tested with 
+8 µg/mL) 
+Satisfactory
+LLOQ 
+0.05 µg/mL 
+0.05 µg/mL 
+0.05 µg/mL 
+Satisfactory
+Linearity 
+R2 ≥0.9934 
+R2 ≥0.9963 
+R2 ≥0.9882 
+Satisfactory
+Accuracy 
+Within ±5.6% 
+Within ±9.2% 
+Within ±12.6% 
+Satisfactory
+Precision 
+≤3.2 %CV 
+≤2.8 %CV 
+≤4.2 %CV 
+Satisfactory
+Stability 
+• 
+Study Dates:  18 Oct 2007 – 31 Jan 2008 
+• 
+Analysis Dates:  19 Feb 2008 – 17 Mar 2008 
+• 
+Stability:  526 days at -70 ºC 
+Satisfactory
+URINE 
+Range 
+0.5-5 µg/mL 
+(1:5 dilution tested with 
+3.8 µg/mL) 
+0.5-50 µg/mL 
+(1:9 dilution tested with 
+38 µg/mL)a 
+0.5-50 µg/mL 
+(1:5 dilution tested with 
+38 µg/mL) 
+Satisfactory
+LLOQ 
+0.5 µg/mL 
+0.5 µg/mL 
+0.5 µg/mL 
+Satisfactory
+Linearity 
+R2 = 0.9957 
+R2 ≥0.9944 
+R2 ≥0.9923 
+Satisfactory
+Accuracy 
+Within ±2.8% 
+Within ±5.5% 
+Within ±11.2% 
+Satisfactory
+Precision 
+≤7.0 %CV 
+≤3.4 %CV 
+≤5.6 %CV 
+Satisfactory
+Stability 
+• 
+Study Dates:  18 Oc

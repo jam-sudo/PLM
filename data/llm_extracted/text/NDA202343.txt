@@ -1,0 +1,2050 @@
+
+
+===== PAGE 3 =====
+
+Final Recommendation: 
+The Office of Clinical Pharmacology / Division of Clinical Pharmacology II (OCP/DCP-
+II) has reviewed NDA 202343 for Juvisync™. Data presented in the submission and the 
+analysis of data indicates that the proposed FDC formulations meet the bioequivalence 
+criteria and the results are acceptable. However, the findings of OSI inspection indicate 
+that there were compliance issues at the clinical study site related to the authenticity of 
+the test and reference formulations. The issues identified are not related to the validity of 
+analytical methods or data presented in the NDA but may be legal or regulatory in nature 
+and are being addressed by the OSI. 
+ 
+Phase IV Commitments: 
+The sponsor has agreed to develop the FDC with sitagliptin 50 mg to permit dosing of 
+patients with moderate renal impairment. The new strengths needs to be developed and 
+data to support its approval (e.g., in vivo and/or in vitro study) should be submitted to the 
+Agency per the schedule specified in the approval letter. 
+ 
+ 
+Reviewer’s Comment: 
+ 
+Comments on the OSI recommendation from the clinical pharmacology perspective 
+The main issue raised by the OSI was that drug product was not randomly chosen to be 
+administered to the volunteers, but pre-specified by the sponsor, which raised the 
+authenticity question (refer the OSI memo in Attachment 1). To evaluate the impact of 
+this issue, this reviewer looked at additional information available in the NDA as follows: 
+ 
+1. All pivotal studies were open-label and not blinded. Further, reference drug was 2 
+tablets and test product was 1 tablet. Therefore, it would be obvious if authenticity 
+was being compromised, i.e., the person administering the treatment to volunteers 
+would have known if the treatment is test or a reference. 
+ 
+2. In the NDA, additional pilot BE study (Study 153, Part I, n=24) study had been 
+submitted. The product used in this study was manufactured from the same bulk lot as 
+the pivotal BE study (Study 153, Part II)  but different packaging lot (refer the 
+detailed information in Attachment 2). The results from pilot BE study indicated that 
+among the 3 components, sitagliptin and simvastatin acid met the BE criteria.  On the 
+other hand, while simvastatin AUC met the BE criteria, its Cmax was marginally 
+outside the BE limits (i.e., upper bound 1.26 instead of 1.25). Therefore both the 
+studies, pilot and pivotal, showed similar results, i.e., the products are BE. The above 
+conclusions are also supported by the following analysis conducted by this reviewer; 
+• 
+Means of pharmacokinetic parameters of sitagliptin, simvastatin, and 
+simvastatin acid from Part I are not significantly different (p>0.05) compared to 
+those of Part II according to the ANOVA test using SAS 9.2. In addition, 
+variances of those pharmacokinetic parameters from Part I are not significantly 
+different (p>0.05) from those of Part II according to Levene's test for 
+homogeneity (equality) of variances using SAS 9.2. 
+ 
+Reference ID: 3016071
+
+
+===== PAGE 4 =====
+
+3. All the pharmacokinetic parameters met the BE criteria with tight confidence interval 
+(CI) even though there was significant variability in simvastatin and simvastatin 
+exposure (Table 1 and 2). Therefore, potential difference among kits/packaging lots 
+of the test formulation may not affect the BE conclusion 
+4. During the drug development, site, equipment and scale changes for the to-be-
+marketed product was bridged to the biobatch using dissolution comparison data. The 
+difference among packaging lots/kits within the same bulk lot of biobatch would be 
+smaller than the difference between biobatch and to-be-marketed.   
+ 
+ 
+ 
+ 
+Table 1 Summary Statistics and Statistical Comparisons for the Plasma PK Parameters of Sitagliptin, 
+Simvastatin and Simvastatin Acid 
+ 
+P153, Part I 
+MK-0431D  
+Simvastatin + Sitagliptin   
+Pharmacokinetic Parameter  
+N  
+AM* 
+SD (CV%) 
+N  
+AM* 
+SD (CV%)  
+Sitagliptin  
+AUC0-∞ ‡ (nM*hr)  
+24  
+7395 
+1295 (17) 
+24 
+7625 
+1419 (18)  
+AUC0-last ‡ (nM*hr)  
+24  
+7296 
+1236 (17)  
+24 
+7532 
+1389 (17)  
+Cmax ‡ (nM)  
+24  
+951 
+321 (31)  
+24 
+913 
+261 (27)  
+Simvastatin  
+AUC0-last ‡ (ng/mL*hr)  
+Cmax ‡ (ng/mL)  
+24 
+24  
+105.89 
+20.34 
+53.59  (73) 
+15.30 (81) 
+24 
+24 
+102.45  
+19.84 
+44.72 (55)  
+15.97 (81)  
+Simvastatin Acid  
+AUC0-last ‡ (ng/mL*hr)  
+Cmax ‡ (ng/mL)  
+24 
+24 
+52.07  
+4.88 
+27.11 (58) 
+2.81 (58) 
+24 
+24 
+57.46 
+5.66  
+39.08 (61) 
+5.17 (73) 
+AM = Arithmetic Mean 
+SD: Standard Deviation 
+CV% = 100 x sqrt( exp(s2) - 1), where s2 is the observed variance on the natural log-scale 
+P153, Part II 
+MK-0431D  
+Simvastatin + Sitagliptin   
+Pharmacokinetic Parameter  
+N  
+AM* 
+SD (CV%) 
+N  
+AM* 
+SD (CV%)  
+Sitagliptin  
+AUC0-∞ ‡ (nM*hr)  
+99  
+7994  
+1469 (18) 
+99  
+8128  
+1451 (17)  
+AUC0-last ‡ (nM*hr)  
+99  
+7907  
+1455 (18)  
+99  
+8036 
+1431 (17)  
+Cmax ‡ (nM)  
+99  
+948 
+268 (28)  
+99  
+975 
+287 (30)  
+Simvastatin  
+AUC0-last ‡ (ng/mL*hr)  
+Cmax ‡ (ng/mL)  
+99 
+99  
+123.11 
+17.46 
+70.13  (59) 
+10.94 (60) 
+99 
+99  
+124.7 
+18.41  
+68.31 (57)  
+12.45 (68)  
+Simvastatin Acid  
+AUC0-last ‡ (ng/mL*hr)  
+Cmax ‡ (ng/mL)  
+99 
+99  
+60.70 
+4.86  
+39.59 (66) 
+3.14 (65) 
+99 
+99  
+55.54 
+5.16  
+40.61 (69) 
+3.38 (66) 
+AM = Arithmetic Mean 
+SD: Standard Deviation 
+CV% = 100 x sqrt( exp(s2) - 1), where s2 is the observed variance on the natural log-scale 
+ 
+Reference ID: 3016071
+
+
+===== PAGE 9 =====
+
+ 
+NDA 202343  
+ 
+3 
+• one trial for the food effect on 
+™ using the highest strength (100/80 mg) 
+• two relative bioavailability trials to explore preliminary formulations 
+• two trials for the drug-drug interaction assessment 
+Biowaiver was requested for middle strengths (100/20, 100/40) and has been granted by 
+the ONDQA-Biopharmaceutic review team (refer Dr. John Z. Duan’s review). 
+The BE of FDC was concluded referencing Januvia™+Zocor™ because the primary PK 
+parameters (AUC and Cmax) of sitagliptin, simvastatin and simvastatin acid following 
+the FDC met the regulatory BE goal post of 90% confidence interval (90% CI) (Table 1). 
+ 
+Table 1 Summary of statistical analysis on the BE.  
+ 
+Tablet Strength 
+100/80  
+100/10  
+PK Parameter  
+GMR* 
+90% CI 
+GMR 
+90% CI 
+Sitagliptin  
+AUC0-last (nM*hr)  
+0.99 
+(0.98, 1.00) 
+1.01 
+(0.99, 1.02) 
+Cmax  (nM)  
+0.98 
+(0.94, 1.02) 
+1.03 
+(0.98, 1.07) 
+Simvastatin  
+AUC0-last (ng/mL*hr)  
+Cmax (ng/mL)  
+0.99 
+0.98 
+(0.93, 1.05) 
+(0.92, 1.06) 
+1.07 
+1.13 
+(0.99, 1.16) 
+(1.05, 1.21) 
+Simvastatin Acid  
+AUC0-last (ng/mL*hr)  
+Cmax (ng/mL) 
+0.93 
+0.95 
+(0.87, 0.98)  
+(0.88, 1.02) 
+1.03 
+1.04 
+(0.96, 1.11) 
+(0.97, 1.12) 
+*: geometric mean ratio (FDC / (Simvastatin + Sitagliptin)) 
+ 
+A high-fat breakfast did not affect sitagliptin exposure following 
+™ (Table 2). 
+Meanwhile, simvastatin AUC decreased by 24% and its Cmax increased by 20% with the 
+high-fat breakfast. In addition, simvastatin acid AUC and Cmax increased by 37% and 
+116%, respectively, with the breakfast (Table 2). While, the clinical significance of the 
+above exposure change in simvastatin and simvastatin acid is not known, 
+™ is 
+recommended to be taken in the evening as indicated in the simvastatin labeling. 
+ 
+Table 2 Summary of statistical analysis for the effect of food on the exposure of sitagliptin, 
+simvastatin, and simvastatin acid after administration of 
+™ 
+ 
+Fed/Fasted  
+Pharmacokinetic Parameter  
+GMR*  
+90% CI  
+Sitagliptin 
+AUC0-last  
+1.00  
+(0.98, 1.02)  
+Cmax  
+0.94  
+(0.87, 1.03)  
+Simvastatin 
+AUC0-last  
+Cmax  
+0.76  
+1.20 
+(0.64, 0.90)  
+(0.97, 1.48)  
+Simvastatin acid 
+AUC0-last  
+Cmax  
+1.37  
+2.16  
+(1.16, 1.63)  
+(1.84, 2.55)  
+*: geometric mean ratio 
+ 
+Reference ID: 3009851
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 14 =====
+
+ 
+NDA 202343  
+ 
+8 
+2.2 
+Extrinsic Factors 
+2.2.1 What extrinsic factors influence exposure and/or response, and what is the 
+impact of any differences in exposure on efficacy or safety responses? 
+2.2.1.1 Drug-Drug Interaction 
+ 
+Effect of simvastatin on sitagliptin 
+ 
+The effect of simvastatin 80 mg QD for 7 days on sitagliptin 100 mg was evaluated in an 
+open-label, randomized, 2-period, 2-treatment, crossover study design in healthy male 
+(n=5) and female (n=5) subjects (Study P168).  The following two treatments were 
+administered after an overnight fasting condition with a minimum 5-day washout: 
+• Treatment A: sitagliptin 100 mg 
+• Treatment B: simvastatin 80 mg once daily in the morning Days 1 through 7 and 
+sitagliptin 100 mg on Day 5 
+ 
+Formulations used for the study are as follows: 
+ 
+Drug  
+Potency  
+Lot Number  
+Dosage Form  
+Expiration 
+Date  
+Sitagliptin† 
+ 100-mg  
+Y1909  
+Tablet  
+Sep-2011  
+Simvastatin‡ 
+ 80-mg  
+X5768  
+Tablet  
+Sep-2010  
+† JANUVIA™ is manufactured by Merck  
+‡ ZOCOR® is manufactured by Merck  
+ 
+The primary endpoints were sitagliptin AUC0-∞, AUC0-last, and Cmax. The effect of 
+simvastatin on sitagliptin was evaluated using the BE approach for the comparability 
+between Treatment A and B. sitagliptin PK parameters and results of statistical analysis 
+are summarized in Table 6. Sitagliptin plasma concentration-time profiles and individual 
+ratios of PK parameters are shown in Figure 1. The results indicate that there is no 
+significant impact of simvastatin 80 mg QD for 7 days on sitagliptin 100 mg. 
+ 
+Table 6 Summary statistics for plasma sitagliptin PK parameters and statistical analysis (P168) 
+ 
+Simvastatin + Sitagliptin  
+Sitagliptin  
+(Simvastatin + Sitagliptin) /  
+Sitagliptin  
+Pharmacokinetic 
+Parameter  
+N  
+GM  
+95% CI  
+N  
+GM  
+95% CI  
+GMR  
+90% CI  
+AUC0-∞ ‡ (nM hr)  
+10  
+7302  
+(6426, 8297)  
+10  
+7217  
+(6351, 8201)  
+1.01  
+(0 97, 1 05)  
+AUC0-last ‡ (nM hr)  
+10  
+7222  
+(6346, 8219)  
+10  
+7134  
+(6269, 8119)  
+1.01  
+(0 97, 1 05)  
+Cmax ‡ (nM)  
+10  
+913  
+(787, 1059)  
+10  
+816  
+(704, 946)  
+1.12  
+(1 00, 1 26)  
+Tmax ║ (hr)  
+10  
+2 5  
+(0 5, 5 0)  
+10  
+2 0  
+(0 5, 5 0)  
+ 
+ 
+Apparent t1/2 § (hr)  
+10  
+10 4  
+1 6  
+10  
+11 5  
+1 2  
+ 
+ 
+‡ Back-transformed least-squares mean and CI from linear mixed effects model performed on natural log-transformed values;  
+GMR = Geometric least-squares mean ratio ([Simvastatin + Sitagliptin]/Sitagliptin)   
+║ Median (min, max) reported for Tmax   
+§ Harmonic mean, jack-knife standard deviation reported for apparent t1/2   
+GM = Geometric Least-Squares Mean;  
+CI: Confidence Interval   
+ 
+Reference ID: 3009851
+
+
+===== PAGE 15 =====
+
+ 
+NDA 202343  
+ 
+9 
+ 
+ 
+ 
+Figure 1 
+Mean plasma concentration-time profiles (left) and individual GMR of PK 
+parameters (right) 
+ 
+ 
+Effect of sitagliptin+simvastatin on digoxin 
+ 
+The effect of sitagliptin 100 mg + simvastatin 80 mg QD for 9 days on digoxin 0.5 mg 
+was evaluated in an open-label, randomized, 2-period, 2-treatment, crossover study 
+design in healthy male (n=8) and female (n=6) subjects (Study P169).  The following two 
+treatments were administered after an overnight fasting condition with a minimum 5-day 
+washout: 
+• Treatment A: digoxin 0.5 mg 
+• Treatment B: sitagliptin 100 mg + simvastatin 80 mg once daily in the morning 
+Days 1 through 9 and digoxin 0.5 mg on Day 5 
+ 
+Formulations used for the study are as follows: 
+ 
+Drug 
+Potency 
+Dosage 
+Form 
+Expiration 
+Date 
+Lot Number 
+Manufacturer 
+Simvastatin 
+(ZOCOR®) 
+80-mg 
+Tablet 
+1-Apr-2011 
+Y2107 
+Merck & Co  Inc  
+Sitagliptin 
+(JANUVIA 
+100-mg 
+Tablet 
+1-Sep-2011 
+Y1911 
+Merck & Co  Inc  
+Digoxin 
+(Lanoxin®) 
+0 25-mg 
+Tablet 
+1-May-2011 
+A38580 
+GlaxoSmithKline 
+ 
+ 
+The primary endpoints were digoxin AUC0-∞, AUC0-last, and Cmax. The effect of 
+simvastatin+sitagliptin on digoxin was evaluated using the BE approach for the digoxin 
+exposure comparability between Treatment A and B. Digoxin PK parameters and results 
+of statistical analysis are summarized in Table 7. Digoxin plasma concentration-time 
+profiles and individual ratios of digoxin PK parameters are shown in Figure 2. The results 
+indicate that sitagliptin 100 mg + simvastatin 80 mg increase digoxin AUC by 26% and 
+Cmax by 41% compared to those of digoxin alone.  
+Reference ID: 3009851
+
+
+===== PAGE 16 =====
+
+ 
+NDA 202343  
+ 
+10 
+The impact of co-administration of sitagliptin and simvastatin on digoxin is greater than 
+that of sitagliptin alone (refer the following Januvia™ labeling on digoxin). 
+ 
+Digoxin: Sitagliptin had a minimal effect on the pharmacokinetics of digoxin. Following 
+administration of 0.25 mg digoxin concomitantly with 100 mg of JANUVIA daily for 10 
+days, the plasma AUC of digoxin was increased by 11%, and the plasma Cmax by 18%. 
+ 
+Therefore, the co-administration should be done with caution in patients with digoxin 
+therapy. 
+ 
+ 
+Table 7 Summary statistics for plasma digoxin PK parameters and statistical analysis (P169) 
+ 
+Digoxin + Simvastatin + 
+Sitagliptin  
+Digoxin 
+(Digoxin + Simvastatin + 
+Sitagliptin) /  
+Sitagliptin  
+Pharmacokinetic 
+Parameter  
+N  
+GM  
+95% CI  
+N  
+GM  
+95% CI  
+GMR  
+90% CI  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AUC0-last ‡ (nM hr)  
+12 
+40 10 
+(35 47, 45 33) 
+13 
+31 76 
+(28 18, 35 79) 
+1.26 
+(1 13, 1 41) 
+Cmax ‡ (nM)  
+12 
+3 57 
+(3 03, 4 21) 
+13 
+2 52 
+(2 15, 2 96) 
+1.41 
+(1 20, 1 66) 
+Tmax ║ (hr)  
+12 
+1 0 
+(0 5, 2 0) 
+13 
+1 0 
+(1 0, 2 0) 
+ 
+ 
+Apparent t1/2 § (hr)  
+12 
+34 4 
+13 5 
+13 
+44 9 
+19 2 
+ 
+ 
+‡ Back-transformed least-squares mean and CI from linear mixed effects model performed on natural log-transformed values;  
+GMR = Geometric least-squares mean ratio ([Simvastatin + Sitagliptin]/Sitagliptin)   
+║ Median (min, max) reported for Tmax   
+§ Harmonic mean, jack-knife standard deviation reported for apparent t1/2   
+GM = Geometric Least-Squares Mean;  
+CI: Confidence Interval   
+rMSE: Root mean square error on log-scale from linear mixed effect model  When multiplied by 100, provides estimate of the 
+pooled within-subject coefficient of variation  
+ 
+ 
+ 
+ 
+Figure 2 Mean digoxin plasma concentration-time profiles (left) and individual GMR of PK 
+parameters (right) 
+ 
+ 
+ 
+ 
+Reference ID: 3009851
+BEST AVAILABLE 
+COPY
+
+
+===== PAGE 18 =====
+
+ 
+NDA 202343  
+ 
+12 
+2.2.1.2 Food Effect 
+ 
+The effect of food on the final market composition (FMC) of fixed-dose combination 
+tablet was evaluated using an open-label, randomized, 2-period, 2-treatment, single-dose, 
+crossover study in healthy subjects (n=18 male and 14 female) (Study P155). The 
+following two treatments were administered with a minimum 5-day washout: 
+• Treatment A: MK-0431D 100/80 mg administration under fasted condition 
+• Treatment B: MK-0431D 100/80 mg administration under a standard high-fat 
+breakfast 
+ 
+Formulations used for the study are as follows: 
+ 
+ 
+Drug 
+ 
+Potency 
+Formulation 
+Number 
+Dosage 
+Form 
+Control 
+Number 
+Assay Potency 
+Mean % of Claim (n=2) 
+Sitagliptin 
+Simvastatin 
+MK-0431D 
+(sitagliptin/simvastatin) 
+100-mg 
+/ 80-mg 
+WL00033417 
+Tablet 
+WL00037796 
+95 8 
+100 2 
+ 
+The primary endpoints were sitagliptin, simvastatin, and simvastatin acid AUC0-∞, AUC0-
+last, and Cmax. The effect of food was evaluated using the BE approach for the 
+comparability of exposure between Treatment A and B. Plasma concentration-time 
+profiles of sitagliptin, simvastatin, and simvastatin acid are shown in Figure 3 and their 
+PK parameters with statistical analysis are summarized in Table 9. Individual GMR are 
+shown in Figure 4. The results indicate that there is no significant impact of food on 
+sitagliptin. However, simvastatin AUC decreased by 24% and its Cmax increased by 20% 
+with the high-fat breakfast. In addition, simvastatin acid AUC and Cmax increased by 
+37% and 116%, respectively, with the breakfast (Table 9). While, the clinical significance 
+of the above exposure change in simvastatin and simvastatin acid is not known, 
+™ 
+is recommended to be taken in the evening as indicated in simvastatin labeling. 
+ 
+ 
+Reference ID: 3009851
+(b) (4)
+
+
+===== PAGE 19 =====
+
+ 
+NDA 202343  
+ 
+13 
+  
+ 
+ 
+Figure 3 Mean plasma concentration-time profiles: sitagliptin (upper), simvastatin (lower left) and 
+simvastatin acid (lower right) 
+ 
+Table 9 Summary Statistics and Statistical Comparisons of Plasma Sitagliptin, Simvastatin, and 
+Simvastatin Acid Pharmacokinetic Parameters (P155) 
+ 
+MK-0431D Fed  
+MK-0431D Fasted  
+MK-0431D Fed/Fasted  
+Pharmacokinetic Parameter  
+N  
+GM  
+95% CI  
+N  
+GM  
+95% CI  
+GMR 
+90% CI  
+Sitagliptin  
+AUC0-∞ ‡ (nM•hr)  
+32  
+7266  
+(6907, 7643)  
+32  
+7263  
+(6904, 7640)  
+1 00  
+(0 98, 1 02)  
+AUC0-last ‡ (nM•hr)  
+32  
+7163  
+(6808, 7536)  
+32  
+7165  
+(6810, 7539)  
+1 00  
+(0 98, 1 02)  
+Cmax ‡ (nM)  
+32  
+764  
+(689, 846)  
+32  
+809  
+(731, 897)  
+0 94  
+(0 87, 1 03)  
+Tmax || (hr)  
+32  
+2 3  
+(0 5, 6 0)  
+32  
+2 0  
+(0 5, 5 0)  
+ 
+ 
+Apparent Terminal t1/2 § (hr)  
+32  
+12 9  
+2 7  
+32  
+12 6  
+2 8  
+ 
+ 
+Simvastatin  
+AUC0-last ‡ (ng/mL•hr)  
+Cmax ‡ (ng/mL)  
+Tmax || (hr)  
+32 
+32 
+32  
+67 39 
+16 89 
+2 0  
+(55 76, 81 45) 
+(13 61, 20 97) 
+(0 5, 6 0)  
+32 
+32  
+32  
+88 76 
+14 08 
+1 5  
+(73 44, 107 27) 
+(11 35, 17 48) 
+(0 5, 5 0)  
+0 76 
+1 20  
+(0 64, 0 90) 
+(0 97, 1 48)  
+Simvastatin Acid  
+AUC0-last ‡ (ng/mL•hr)  
+Cmax ‡ (ng/mL)  
+Tmax || (hr)  
+32 
+32 
+32  
+67 67 
+9 33 
+5 0  
+(54 36, 84 23) 
+(7 44, 11 70) 
+(2 3, 8 0)  
+32  
+32  
+32  
+49 27 
+4 31 
+4 0  
+(39 58, 61 33) 
+(3 44, 5 41) 
+(2 0, 12 0)  
+1 37 
+2 16  
+(1 16, 1 63) 
+(1 84, 2 55)  
+† rMSE: Root mean square error on log-scale from linear mixed effect model  When multiplied by 100, provides estimate of the pooled 
+within-subject coefficient of variation  ‡ Back-transformed least-squares mean and CI from mixed effect model performed on natural 
+log-transformed values; GMR = Geometric least-squares mean ratio (MK-0431D Fed/MK-0431D Fasted)  || Median (min, max) 
+reported for Tmax  § Harmonic mean, jack-knife standard deviation reported for apparent terminal t1/2  GM = Geometric Least-Squares 
+Mean; CI = Confidence Interval   
+Reference ID: 3009851
+BEST AVAILABLE 
+COPY
+
+
+===== PAGE 21 =====
+
+ 
+NDA 202343  
+ 
+15 
+(part of Table 5 for drug interaction of Simcor™ labeling) 
+ 
+ 
+2.3 
+General Biopharmaceutics 
+2.3.1 Is the proposed to-be-marketed fixed dose formulation bioequivalent to the 
+co-administration of sitagliptin and simvastatin formulations?  
+ 
+The sponsor conducted an exploratory BE for FMC of MK-0431D 100/80 mg using a 
+small number of subject (Part I; n=24) before the formal study (Part II). The preliminary 
+results indicate that pharmacokinetics of sitagliptin and simvastatin acid following 
+MK0431D 100/80 mg met the BE criteria compared to those of Januvia™ 100 mg + 
+Zocor™ 80 mg (see the individual study synopsis for PK parameters and statistical 
+analysis in Appendix 4.2) . Meanwhile, simvastatin AUC following MK0431 met the BE 
+criteria, but upper 90% CI of simvastatin Cmax (1.26) was out of the BE goal post (1.25). 
+Lack of statistical power with insufficient number of subject for its variability appears to 
+lead the BE failure for Cmax. 
+ 
+BE demonstration of MK-0431D 100/80 mg 
+ 
+The exposure comparability of sitagliptin, simvastatin and simvastatin acid following the 
+FMC of MK-0431D 100/80 mg tablet was assessed in an open-label, randomized, 2-part, 
+2-period, 2-treatment, single dose, crossover study referencing that of Januvia™ 100 mg 
++ Zocor™ 80 mg after an overnight fasting condition in healthy subjects (n=61 male, 39 
+female) (Study P153). 
+ 
+Formulations used for the study are as follows: 
+ 
+Drug 
+Potency 
+Formulation 
+No. 
+Dosage 
+Form 
+Control 
+No. 
+Assay Potency 
+(%) 
+(n=2) 
+Sitagliptin 
+Assay Potency 
+(%) 
+(n=2) 
+Simvastatin 
+MK-0431D  
+100 mg/80 mg  
+WL00033417  
+Tablet  
+WL00035429  
+95.8  
+100.2  
+Sitagliptin  
+Phosphate  
+100 mg  
+WL00032275  
+Tablet  
+WL00035431  
+100.9  
+- 
+Simvastatin  80 mg  
+WL00036141  
+Tablet  
+WL00035430  
+- 
+100.1  
+Reference ID: 3009851
+
+
+===== PAGE 23 =====
+
+ 
+NDA 202343  
+ 
+17 
+Table 10 Summary Statistics and Statistical Comparisons for the Plasma PK Parameters of 
+Sitagliptin, Simvastatin and Simvastatin Acid (P153, Part II) 
+ 
+MK-0431D  
+Simvastatin + Sitagliptin  
+MK-0431D /  
+(Simvastatin + Sitagliptin)  
+Pharmacokinetic Parameter  
+N  
+GM  
+95% CI  
+N  
+GM  
+95% CI  
+GMR  
+90% CI  
+Sitagliptin  
+AUC0-∞ ‡ (nM*hr)  
+99  
+7882  
+(7611, 8162)  
+99  
+7991  
+(7716, 8275)  
+0 99  
+(0 98, 1 00)  
+AUC0-last ‡ (nM*hr)  
+99  
+7795  
+(7527, 8073)  
+99  
+7900  
+(7629, 8181)  
+0 99  
+(0 98, 1 00)  
+Cmax ‡ (nM)  
+99  
+916  
+(865, 969)  
+99  
+934  
+(882, 988)  
+0 98  
+(0 94, 1 02)  
+Tmax ║ (hr)  
+99  
+2 0  
+(0 5, 6 0)  
+99  
+2 0  
+(0 5, 6 0)  
+  
+ 
+Apparent terminal t1/2 § (hr)  
+99  
+11 4  
+3 3  
+99  
+12 1  
+3 3  
+  
+ 
+Simvastatin  
+AUC0-last ‡ (ng/mL*hr)  
+Cmax ‡ (ng/mL)  
+Tmax ║ (hr)  
+99 
+99 
+99  
+106 82  
+14 96  
+1 5  
+(95 93, 118 96) 
+(13 31, 16 81) 
+(0 5, 12 0)  
+99 
+99 
+99  
+108 04  
+15 19  
+2 0  
+(97 02, 120 31) 
+(13 52, 17 07) 
+(0 5, 8 0)  
+0 99  
+0 98 
+(0 93, 1 05) 
+(0 92, 1 06)  
+Simvastatin Acid  
+AUC0-last ‡ (ng/mL*hr)  
+Cmax ‡ (ng/mL)  
+Tmax ║ (hr)  
+99 
+99 
+99  
+51 15  
+4 08  
+4 0  
+(45 30, 57 74) 
+(3 62, 4 60) 
+(2 5, 12 0)  
+99 
+99 
+99  
+55 20  
+4 30  
+4 0  
+(48 90, 62 32) 
+(3 82, 4 84) 
+(2 0, 12 0)  
+0 93  
+0 95 
+(0 87, 0 98) 
+(0 88, 1 02)  
+‡ Back-transformed least-squares mean and confidence interval from linear mixed effects model performed on natural log-transformed 
+values; GMR = Geometric least-squares mean ratio (MK-0431D / [Simvastatin + Sitagliptin])  ║ Median (min, max) reported for Tmax  § 
+Harmonic mean, jack-knife standard deviation reported for apparent terminal t1/2  GM = Geometric Least-Squares Mean, CI: Confidence 
+Interval   
+(ID=448 terminated after treatment B prior period 2 because of a protocol violation with alcohol 
+consumption and ID=478 terminated after treatment A because of positive drug screen prior period 2.) 
+ 
+ 
+ 
+ 
+Figure 6 individual GMR of PK parameters: sitagliptin (upper), simvastatin (lower left) and 
+simvastatin acid (lower right) 
+Reference ID: 3009851
+BEST AVAILABLE COPY
+
+
+===== PAGE 24 =====
+
+ 
+NDA 202343  
+ 
+18 
+ 
+BE demonstration of 100/10 mg 
+ 
+The exposure comparability of sitagliptin, simvastatin and simvastatin acid following the 
+FMC of MK-0431D 100/10 mg tablet was assessed in an open-label, randomized, 2-part, 
+2-period, 2-treatment, single dose, crossover study referencing that of Januvia 100 mg + 
+Zocor 10 mg after an overnight fasting condition in healthy subjects (n=41 male, 59 
+female) (Study P255).  
+ 
+Formulations used for the study are as follows: 
+ 
+Assay Potency  
+(Mean % of Claimed)  
+(n=X)†  
+ 
+ 
+ 
+Drug 
+ 
+ 
+ 
+Potency 
+ 
+ 
+Formulation 
+No. 
+ 
+ 
+Dosage 
+Form 
+ 
+ 
+ 
+Control No. 
+Sitagliptin  
+Simvastatin  
+MK-0431D  
+100-mg/10-mg  
+WL00033441  
+Tablet  
+WL00038476  
+100.1  
+100.2  
+Sitagliptin Phosphate 
+(Januvia)  
+100-mg  
+WL00037058  
+Tablet  
+WL00038476  
+100.5  
+-- 
+Simvastatin (Zocor) 
+10-mg 
+WL00038441 
+Tablet 
+WL00038476 
+-- 
+99.4 
+N=2 for FMX MK-0431D tablet; n=78 for 100-mg sitagliptin tablet, n=2 for simvastatin (Zocor) tabelt 
+ 
+Plasma concentration-time profiles of sitagliptin, simvastatin and simvastatin acid are 
+shown in Figure 7. Their pharmacokinetic parameters are summarized with statistical 
+analysis for the BE assessment in Table 11 and individual GMR of each PK parameters 
+in Figure 8. The results indicate that pharmacokinetic parameters of sitagliptin, 
+simvastatin and simvastatin acid following MK-0431D 100/10 mg met the BE criteria 
+referencing those of Januvia™ 100 mg + Zocor™ 10 mg. 
+ 
+Reference ID: 3009851
+
+
+===== PAGE 25 =====
+
+ 
+NDA 202343  
+ 
+19 
+ 
+ 
+ 
+Figure 7 Mean plasma concentration-time profiles: sitagliptin (upper), simvastatin (lower left) and 
+simvastatin acid (lower right) 
+ 
+Table 11 
+Summary Statistics and Statistical Comparisons for the PK Parameters of 
+Sitagliptin, Simvastatin and Simvastatin Acid (P255) 
+MK-0431D  
+Simvastatin + Sitagliptin  
+MK-0431D / (Simvastatin + 
+Sitagliptin)  
+Pharmacokinetic Parameter  
+N  
+GM  
+95% CI  
+N  
+GM  
+95% CI  
+GMR  
+90% CI  
+Sitagliptin  
+AUC0-∞ ‡ (nM*hr)  
+94  
+8052  
+(7789, 8324)  
+97  
+7978  
+(7718, 8246)  
+1 01  
+(0 99, 1 02)  
+AUC0-last ‡ (nM*hr)  
+94  
+7959  
+(7698, 8229)  
+97  
+7876  
+(7618, 8142)  
+1 01  
+(1 00, 1 03)  
+Cmax ‡ (nM)  
+95  
+897  
+(850, 946)  
+97  
+872  
+(827, 920)  
+1 03  
+(0 98, 1 07)  
+Tmax ║ (hr)  
+95  
+2 5  
+(0 5, 4 1)  
+97  
+2 5  
+(0 5, 6 0)  
+  
+ 
+Apparent Terminal t1/2 § (hr)  
+94  
+11 6  
+3 2  
+97  
+11 7  
+3 4  
+  
+ 
+Simvastatin  
+AUC0-last ‡ (ng/mL*hr)  
+Cmax ‡ (ng/mL)  
+Tmax ║ (hr)  
+95 
+95 
+95  
+8 55 
+2 25 
+1 5  
+(7 49, 9 77) 
+(1 98, 2 55) 
+(0 5, 6 0)  
+97 
+97 
+97  
+7 98 
+1 99 
+1 5  
+(6 99, 9 10) 
+(1 75, 2 26) 
+(0 5, 12 0)  
+1 07 
+1 13 
+(0 99, 1 16) 
+(1 05, 1 21)  
+Simvastatin Acid  
+AUC0-last ‡ (ng/mL*hr)  
+Cmax ‡ (ng/mL)  
+Tmax ║ (hr)  
+95 
+95 
+95  
+7 08 
+0 77 
+6 0  
+(6 25, 8 03) 
+(0 69, 0 87) 
+(3 0, 10 0)  
+97 
+97 
+97  
+6 86 
+0 74 
+6 0  
+(6 06, 7 77) 
+(0 66, 0 83) 
+(3 0, 12 0)  
+1 03 
+1 04 
+(0 96, 1 11) 
+(0 97, 1 12)  
+‡ Back-transformed least-squares mean and confidence interval from linear mixed effects model performed on natural log-
+transformed values; GMR = Geometric least-squares mean ratio (MK-0431D / [simvastatin + sitagliptin])  ║ Median (min, max) 
+reported for Tmax  § Harmonic mean, jack-knife standard deviation reported for apparent terminal t1/2  GM = Geometric Least-Squares 
+Mean, CI: Confidence Interval   
+AN0023 (treatment B only), AN0024 (treatment A only), AN0030 (treatment B only), AN0046 (treatment B only), 
+AN0095 (treatment B only), AN0100 withdrew consent and AN0094 (treatment A only) was removed from the study 
+due to a protocol violation (Positive Urine Drug Screen). GMR was based on the balanced data only. 
+ 
+Reference ID: 3009851
+
+
+===== PAGE 27 =====
+
+ 
+NDA 202343  
+ 
+21 
+ 
+Formulations used for the study are as follows: 
+ 
+Drug  
+Part  
+Potency  
+Formulation  
+Number  
+Assay  
+Potency  
+(%)  
+(n=2)  
+Sitagliptin  
+Assay  
+Potency  
+(%)  
+(n=2)  
+Simvastatin  
+Dosage  
+Form  
+Control 
+Number  
+MK-0431D D1  
+I  
+100-mg /10-mg  
+DL 00012660  
+101 1  
+102 9  
+Tablet  
+DL00013087  
+MK-0431D D1  
+I  
+100-mg /80-mg  
+DL00012661  
+100  
+103 4  
+Tablet  
+DL00013088  
+MK-0431D D2  
+II  
+100-mg/10-mg  
+DL00013044  
+99 8  
+99 7  
+Tablet  
+WL00032799  
+MK-0431D D2  
+II  
+100-mg/80-mg  
+DL00013045  
+98 3  
+100 9  
+Tablet  
+WL00032800  
+ 
+Drug  
+Potency  
+Lot Number  
+Dosage 
+Form  
+Expiration 
+Date  
+Manufacturer 
+Simvastatin  
+80-mg  
+WM0808008  
+Tablet  
+01-Mar-2010 
+Aurobindo  
+Pharma Limited  
+Simvastatin  
+10-mg  
+WM0108013  
+Tablet  
+01-Feb-2010  
+Aurobindo  
+Pharma Limited  
+Sitagliptin  
+100-mg  
+X4875  
+Tablet  
+01-Sep-2010  
+Merck & Co Inc  
+ 
+Pharmacokinetic parameters of sitagliptin, simvastatin and simvastatin acid are 
+summarized in Table 12 with statistical comparisons. Both preliminary formulation show 
+significantly higher bioavailability for simvastatin and simvastatin acid compared to 
+those of co-administration (Table 12 for D1 and Table 13 for D2). The sponsor suspected 
+that the higher bioavailability of preliminary formulations was related to simvastatin 
+generic formulations. Based on these results, the sponsor selected FMC (D2 formulation) 
+and assessed its BE through the pivotal studies of P153 and P255. 
+ 
+ 
+Table 12 
+Summary Statistics and Statistical Comparisons for the PK Parameters of 
+Sitagliptin, Simvastatin and Simvastatin Acid (P154, Part I) 
+ 
+100-mg/10-mg 
+MK-0431D D1  
+Simvastatin + Sitagliptin  
+MK-0431D D1/ 
+(Simvastatin + Sitagliptin)  
+Pharmacokinetic Parameter  
+N  
+GM  
+95% CI  
+N  
+GM  
+95% CI  
+GMR  
+90% CI  
+Sitagliptin  
+AUC0-∞ † (nM.hr)  
+16  
+7869  
+(7313, 8467)  
+18  
+7597  
+(7069, 8164) 
+1.04  
+(1.00, 1.08)  
+AUC0-last † (nM.hr)  
+16  
+7801  
+(7254, 8389)  
+18  
+7534  
+(7015, 8091) 
+1.04  
+(1.00, 1.08)  
+Cmax † (nM)  
+16  
+928  
+(810, 1064)  
+18  
+872  
+(766, 993)  
+1.06  
+(0 95, 1.19)  
+Tmax ‡ (hr)  
+16  
+1.8  
+(1.0, 6.0)  
+18  
+2 5  
+(1.0, 4.0)  
+.  
+ 
+Apparent terminal t1/2 ║ (hr)  
+16  
+12.2  
+2.3  
+18  
+11.3  
+1.5  
+.  
+ 
+Simvastatin  
+AUC0-last † (ng/mL.hr)  
+Cmax † (ng/mL)  
+Tmax ‡ (hr)  
+16 
+16 
+16  
+12.93 
+3.22 
+1.5  
+(10.05, 16.63) 
+(2.48, 4.17) 
+(0 5, 4.0)  
+18 
+18 
+18  
+9 24 
+2.83 
+1.0  
+(7.23, 11.80) 
+(2.21, 3.62) 
+(0 5, 3.0)  
+1.40 
+1.14 
+(1 18, 1.65) 
+(0 90, 1.43)  
+Simvastatin Acid  
+AUC0-last † (ng/mL.hr) Cmax 
+† (ng/mL)  
+Tmax ‡ (hr)  
+16 
+16 
+16  
+5.08 
+0.56 
+4.0  
+(3.78, 6.83) 
+(0.43, 0.74) 
+(3.0, 8.0)  
+18 
+18 
+18  
+4 14 
+0.44 
+4.0  
+(3.09, 5.54) 
+(0.33, 0.57) 
+(3.0, 8.1)  
+1.23 
+1.29 
+(1.05, 1.44) 
+(1.09, 1.52)  
+† Back-transformed least-squares mean and confidence interval from linear mixed effects model performed on natural log-transformed values; 
+GMR = Geometric least-squares mean ratio (MK-0431D D1/ [Simvastatin + Sitagliptin])  ‡ Median (min, max) reported for Tmax  ║ Harmonic 
+mean, jack-knife standard deviation reported for apparent terminal t1/2  GM = Geometric Least-Squares Mean, CI: Confidence Interval   
+Reference ID: 3009851
+
+
+===== PAGE 28 =====
+
+ 
+NDA 202343  
+ 
+22 
+100-mg/80-mg 
+MK-0431D D1  
+Simvastatin + Sitagliptin  
+MK-0431D D1 /  
+(Simvastatin+Sitagliptin)  
+Pharmacokinetic Parameter  
+N  
+GM  
+95% CI  
+N  
+GM  
+95% CI  
+GMR  
+90% CI  
+Sitagliptin  
+AUC0-∞ † (nM.hr)  
+17  
+7727  
+(7186, 8309)  
+19  
+7771  
+(7236, 8347)  
+0.99  
+(0 96, 1 03)  
+AUC0-last † (nM.hr)  
+17  
+7666  
+(7133, 8238)  
+19  
+7702  
+(7175, 8267)  
+1.00  
+(0 96, 1 03)  
+Cmax † (nM)  
+17  
+974  
+(853, 1113)  
+19  
+974  
+(857, 1106)  
+1.00  
+(0 90, 1 12)  
+Tmax ‡ (hr)  
+17  
+2.0  
+(1.0, 4.0)  
+19  
+2.0  
+(0.5, 3.0)  
+.  
+ 
+Apparent terminal t1/2 ║ (hr)  
+17  
+12.1  
+2.0  
+19  
+12.4  
+3.7  
+.  
+ 
+Simvastatin  
+AUC0-last † (ng/mL.hr)  
+Cmax † (ng/mL)  
+Tmax ‡ (hr)  
+17 
+17 
+17  
+107.23 
+23.39 
+1.0  
+(83.63, 137.47) 
+(18.16, 30 13) 
+(1.0, 6.0)  
+19 
+19 
+19  
+78.51 
+16.08 
+1.0  
+(61.63, 100.02) 
+(12.63, 20.49) 
+(0.5, 2.5)  
+1.37 
+1.45 
+(1 16, 1 60)  
+(1 16, 1 82)  
+Simvastatin Acid  
+AUC0-last † (ng/mL.hr)  
+Cmax † (ng/mL)  
+Tmax ‡ (hr)  
+17 
+17 
+17  
+42.95  
+4.25  
+6.0  
+(32.01, 57.63)  
+(3.23, 5.58)  
+(3.0, 10.0)  
+19 
+19 
+19  
+30.81 
+3.02  
+4.0  
+(23.08, 41.14) 
+ (2 31, 3.94) 
+(2.5, 6.0)  
+1.39 
+1.41 
+(1 19, 1 63)  
+(1 20, 1 65)  
+† Back-transformed least-squares mean and confidence interval from linear mixed effects model performed on natural log-transformed values; GMR = 
+Geometric least-squares mean ratio (MK-0431D D1/ [Simvastatin + Sitagliptin])  ‡ Median (min, max) reported for Tmax  ║ Harmonic mean, jack-knife 
+standard deviation reported for apparent terminal t1/2  GM = Geometric Least-Squares Mean, CI: Confidence Interval   
+ 
+ 
+Table 13 
+Summary Statistics and Statistical Comparisons for the Plasma PK Parameters of 
+Sitagliptin, Simvastatin and Simvastatin Acid (P154, Part II) 
+ 
+100-mg/10-mg 
+MK-0431D D2  
+Simvastatin + Sitagliptin  
+MK-0431D D2 / 
+(Simvastatin + Sitagliptin)  
+Pharmacokinetic Parameter  
+N  
+GM  
+95% CI  
+N  
+GM  
+95% CI  
+GMR  
+90% CI  
+Sitagliptin  
+AUC0-∞ † (nM hr)  
+17  
+8386  
+(7703, 9129)  
+19  
+8350  
+(7677, 9081)  
+1 00  
+(0 97, 1 04)  
+AUC0-last † (nM hr)  
+17  
+8313  
+(7638, 9047)  
+19  
+8256  
+(7593, 8977)  
+1 01  
+(0 97, 1 05)  
+Cmax † (nM)  
+17  
+992  
+(863, 1142)  
+19  
+965  
+(842, 1107)  
+1 03  
+(0 94, 1 13)  
+Tmax ‡ (hr)  
+17  
+1 5  
+(0 5, 4 0)  
+19  
+2 0  
+(1 0, 4 0)  
+  
+ 
+Apparent terminal t1/2 ║ (hr)  
+17  
+11 8  
+2 9  
+19  
+13 7  
+2 9  
+  
+ 
+Simvastatin  
+AUC0-last † (ng/mL hr)  
+Cmax † (ng/mL)  
+Tmax ‡ (hr)  
+17 
+17 
+17  
+8 07 
+2 04 
+1 0  
+(6 38, 10 20) 
+(1 61, 2 59) 
+(0 5, 6 0)  
+19 
+19 
+19  
+6 51 
+1 82 
+1 5  
+(5 18, 8 19) 
+(1 45, 2 30) 
+(0 5, 4 0)  
+1 24 
+1 12   
+(1 07, 1 44) 
+(0 93, 1 34)  
+Simvastatin Acid  
+AUC0-last † (ng/mL hr)  
+Cmax † (ng/mL)  
+Tma ‡ (hr)  
+17 
+17 
+17  
+6 24 
+0 61 
+6 0  
+(4 58, 8 50) 
+(0 44, 0 85) 
+(3 0, 10 0)  
+19 
+19 
+19  
+5 19 
+0 55 
+4 0  
+(3 83, 7 05) 
+(0 40, 0 77) 
+(2 5, 10 0)  
+1 20 
+1 11   
+(1 03, 1 40) 
+(0 92, 1 34)  
+† Back-transformed least-squares mean and confidence interval from linear mixed effects model performed on natural log-
+transformed values; GMR = Geometric least-squares mean ratio (MK-0431D D2/ [Simvastatin + Sitagliptin])  ‡ Median (min, max) 
+reported for Tmax  ║ Harmonic mean, jack-knife standard deviation reported for apparent terminal t1/2  GM = Geometric Least-
+Squares Mean, CI: Confidence Interval   
+ 
+Reference ID: 3009851
+
+
+===== PAGE 29 =====
+
+ 
+NDA 202343  
+ 
+23 
+100-mg/80-mg 
+MK-0431D D2  
+Simvastatin + Sitagliptin  
+MK-0431D D2 / 
+(Simvastatin + Sitagliptin)  
+Pharmacokinetic Parameter  
+N  
+GM  
+95% CI  
+N  
+GM  
+95% CI  
+GMR  
+90% CI  
+Sitagliptin  
+AUC0-∞ † (nM hr)  
+19  
+8436  
+(7757, 9175)  
+17  
+8340  
+(7661, 9079)  
+1 01  
+(0 97, 1 05)  
+AUC0-last † (nM hr)  
+19  
+8360  
+(7688, 9090)  
+17  
+8287  
+(7614, 9019)  
+1 01  
+(0 97, 1 05)  
+Cmax † (nM)  
+19  
+966  
+(843, 1108)  
+17  
+1097  
+(954, 1262)  
+0 88  
+(0 80, 0 97)  
+Tmax ‡ (hr)  
+19  
+1 5  
+(0 5, 4 0)  
+17  
+2 0  
+(0 5, 3 0)  
+  
+ 
+Apparent terminal t1/2 ║ (hr)  
+19  
+13 1  
+1 9  
+17  
+12 4  
+1 7  
+  
+ 
+Simvastatin  
+AUC0-last † (ng/mL hr)  
+Cmax † (ng/mL)  
+Tmax ‡ (hr)  
+19 
+19 
+19  
+79 39 
+13 25 
+1 0  
+(63 11, 99 85) 
+(10 53, 16 69) 
+(0 5, 6 0)  
+17 
+17 
+17  
+54 69 
+10 33 
+1 0  
+(43 27, 69 13) 
+(8 14, 13 09) 
+(0 5, 3 0)  
+1 45 
+1 28 
+(1 25, 1 68) 
+(1 07, 1 54)  
+Simvastatin Acid  
+AUC0-last † (ng/mL hr)  
+Cmax † (ng/mL)  
+Tmax ‡ (hr)  
+19 
+19 
+19  
+47 49 
+4 15 
+4 0  
+(34 99, 64 46) 
+(2 98, 5 78) 
+(3 0, 10 0)  
+17 
+17 
+17  
+31 58 
+2 59 
+4 0  
+(23 17, 43 03) 
+(1 85, 3 63) 
+(3 0, 10 0)  
+1 50 
+1 60 
+(1 29, 1 75) 
+(1 33, 1 92)  
+† Back-transformed least-squares mean and confidence interval from linear mixed effects model performed on natural log-
+transformed values; GMR = Geometric least-squares mean ratio (MK-0431D D2/ [Simvastatin + Sitagliptin])  ‡ Median (min, max) 
+reported for Tmax  ║ Harmonic mean, jack-knife standard deviation reported for apparent terminal t1/2  GM = Geometric Least-
+Squares Mean, CI: Confidence Interval   
+ 
+2.4 
+Analytical 
+2.4.1 Are bioanalytical studies acceptable? 
+ 
+Concentrations of sitagliptin, simvastatin, and simvastatin acid in plasma were 
+determined using liquid chromatography-tandem mass spectrometric detection 
+(LCMS/MS) methods. Bioanalytical methods to general the clinical pharmacology 
+information are summarized as follows: 
+ 
+Summary of the bioanalytical methods for MK-0431D studies 
+Clinical Study Title  
+Clinical Study 
+Number  
+Analytical 
+Protocols  
+Anticoagulants  
+Probe formulation comparison and 
+definitive bioequivalence study  
+153  
+ANI 9784.01a  
+ANI 9287.04b  
+K2EDTAc  
+Sodium Heparind  
+Probe formulation comparison study  
+154  
+ANI 9520.04a  
+ANI 9287.04b  
+K2EDTAc  
+Sodium Heparind  
+Food effect study  
+155  
+ANI 9784.01a  
+ANI 9287.04b  
+K2EDTAc  
+Sodium Heparind  
+Simvastatin interaction study  
+168  
+ANI 9784.01a  
+K2EDTAc  
+Digoxin interaction study  
+169  
+ANI 9784.01a  
+K2EDTAc  
+a Analytical method for MK-0431D.  
+b Analytical method for simvastatin and simvastatin acid.  
+c The anticoagulant used for sitagliptin sample collection.  
+d The anticoagulant used for Simvastatin/Simvastatin acid sample collection.  
+ 
+Representative data related to the bioanalytical studies are summarized in Table 14 and 
+15, and the quality of the data is acceptable. 
+ 
+ 
+Reference ID: 3009851
+
+
+===== PAGE 54 =====
+
+CLINICAL PHARMACOLOGY  
+ FILING FORM/CHECKLIST FOR NDA/BLA or Supplement 
+ 
+File name: 5_Clinical Pharmacology and Biopharmaceutics Filing Form/Checklist for NDA_BLA or Supplement 
+090808 
+ 
+MK-0431D tablets used in the pivotal bioequivalence (BE) studies (P153 Part II and P255) are 
+identical to the final market image (FMI) tablet except for a change in the film coating color, 
+which is not expected to affect the in vivo performance of FMI MK-0431D tablets. 
+ 
+The sponsor conducted a total of 7 clinical pharmacology studies (Table 2). The highest and 
+lowest strengths (100/80 and 100/10) of FDC were bioequivalent to those of 
+sitagliptin+simvastatin. The sponsor proposes a biowaiver for the middle strengths (i.e., 100/40 
+and 100/20).  
+ 
+Two issues were discussed through the EOP2 and pre-NDA meeting as follows (see the 
+Attachment): 
+• The pivotal clinical pharmacology studies were conducted using the highest strength (i.e., 
+100/80). However, the highest strength will not be marketed because of safety issue with 80 
+mg simvastatin. The Agency concurred that the issue is not related to filing because 1) safety 
+issue with 80 mg simvastatin evolved after the BE study using 100/80 was finished and 2) the 
+situation can be potentially addressed using biowaiver. However, the Agency notified the 
+sponsor that it can be a review issue.  
+• The sponsor proposed 100 mg sitagliptin strength with proper labeling related to renal 
+impairment because lower strengths (i.e., 50 and 25 mg) of sitagliptin are only for moderate 
+and severe renal impairment. The Agency recommended including the lower strength in the 
+original NDA or providing details of development plan for subsequent supplemental 
+submission. The sponsor provided that the tablet strengths containing 50 mg sitagliptin (i.e., 
+50/10, 50/20, and 50/40 mg/mg) are currently in development targetting for filing by Dec-
+2011. 
+ 
+Food effect on FDC (100/80) was consistent to its known effect on individual compounds. Drug 
+interaction between sitagliptin and simvastatin was not clinically significant. The effect of 
+sitagliptin+simvastatin on digoxin exposure was additive of known individual component effect 
+on digoxin. 
+ 
+The sponsor requested a pediatric study waiver because they do not plan to develop MK-0431D for 
+pediatric populations. The sponsor is conducting a pediatric development program for Januvia and Zocor 
+is indicated for the use in adolescent patients with heterozygous familial hypercholesterolemia. 
+ 
+Table 2 Summary of clinical pharmacology studies (Source: \\Cdsesub1\evsprod\NDA202343) 
+ 
+Study 
+Design 
+Conclusions 
+P025 
+(n=12) 
+This was a single-center, randomized, open-label, 
+two-period, crossover study in healthy male and 
+female subjects (n=12), 18 to 45 years of age, to 
+investigate the effect of multiple doses of 
+sitagliptin 200 mg QD for 5 days on the single 
+dose pharmacokinetics of simvastatin 20 mg. 
+No statistical or clinically meaningful differences in the 
+plasma AUC0-last, Cmax or Tmax of total HMG-CoA 
+reductase inhibitors, simvastatin, or simvastatin acid 
+were observed after administration of a single oral 20-
+mg dose of simvastatin with or without co 
+administration of sitagliptin 
+P168 
+(n=10) 
+This was a single-center, open-label, randomized, 
+2-period, crossover study in healthy male and 
+female subjects (n=10), 18 to 55 years of age, to 
+investigate the effect of multiple-doses of 
+Multiple-dose administration of simvastatin had no 
+clinically meaningful effect on the single dose 
+pharmacokinetics of 
+sitagliptin. 
+Reference ID: 2904933
+
+
+===== PAGE 55 =====
+
+CLINICAL PHARMACOLOGY  
+ FILING FORM/CHECKLIST FOR NDA/BLA or Supplement 
+ 
+File name: 5_Clinical Pharmacology and Biopharmaceutics Filing Form/Checklist for NDA_BLA or Supplement 
+090808 
+simvastatin 80 mg QD for 7 days on the 
+pharmacokinetics of sitagliptin 100 mg. 
+P169 
+(n=13) 
+This was a single-center, open-label, randomized, 
+2-period, crossover study in 
+healthy male and female subjects (n=14), 18 to 55 
+years of age, to determine the effect of co-
+administration of sitagliptin and simvastatin (to 
+steady state; 100 mg+80 mg QD for 9 days) on 
+the single-dose plasma concentrations of digoxin 
+0.5 mg. 
+Relative to digoxin administration alone, the AUC0-last 
+GMR ([sitagliptin + simvastatin + digoxin]/digoxin) was 
+1.26 with a corresponding 90% CI of (1.13, 1.41), and 
+the Cmax GMR was 1.41 with a corresponding 90% CI 
+of (1.20, 1.66). 
+P154 
+(n=20/part) 
+This was a 2-part, open-label, randomized, 4-
+period crossover study to evaluate the 
+pharmacokinetics of sitagliptin and simvastatin 
+(generic) after administration of MK-0431D 100-
+mg/10-mg and 100-mg/80-mg probe formulations 
+and co-administration of corresponding doses of 
+sitagliptin and simvastatin as individual tablets in 
+healthy male and female subjects. 
+The pharmacokinetics (AUC and Cmax) of sitagliptin 
+and simvastatin after administration of MK-0431D 100-
+mg/10-mg and 100-mg/80-mg probe formulation D1 
+and D2 tablets, or co-administration of corresponding 
+doses of sitagliptin and simvastatin, are similar. 
+P153 
+(n=24 for 
+Part I, 99 
+for Part II) 
+This was an open-label, randomized, 2-part, 2-
+period, single dose, crossover study to evaluate 
+the pharmacokinetics of sitagliptin and 
+simvastatin in a probe fashion (Part I) 
+and to demonstrate bioequivalence (Part II) after 
+administration of the FMC MK-0431D 100-
+mg/80-mg tablet and co-administration of 
+corresponding doses of sitagliptin and simvastatin 
+innovator products as individual tablets in healthy 
+male and female subjects. 
+(Part I) The FMC MK-0431D 100-mg/80-mg tablet and 
+corresponding doses of innovator sitagliptin and 
+simvastatin, co-administered as individual tablets, are 
+similar with respect to AUC0-∞ and Cmax of sitagliptin 
+and AUC0-last and Cmax of simvastatin and simvastatin 
+acid. 
+(Part II) The FMC MK-0431D 100-mg/80-mg tablet 
+and corresponding doses of innovator sitagliptin and 
+simvastatin, co-administered as individual tablets, are 
+bioequivalent with respect to AUC0-∞ and Cmax of 
+sitagliptin and AUC0-last and Cmax of simvastatin and 
+simvastatin acid. 
+P255 
+(n=94-97) 
+This was an open-label, randomized, 2-period, 
+single dose, crossover study to 
+demonstrate definitive bioequivalence between 
+the FMI MK-0431D 100-mg/10-mg 
+tablets and co-administration of corresponding 
+doses of sitagliptin and simvastatin innovator 
+products as individual tablets in healthy male and 
+female subjects. 
+The FMC MK-0431D 100-mg/10-mg tablet and 
+corresponding doses of sitagliptin 
+and simvastatin, co-administered as individual tablets, 
+are bioequivalent with respect 
+to AUC0-∞ and Cmax of sitagliptin and AUC0-last and 
+Cmax of simvastatin and 
+simvastatin acid. 
+P155 
+(n=32) 
+This was an open-label, randomized, two-period, 
+single-dose, crossover study to evaluate the 
+pharmacokinetics of sitagliptin and simvastatin 
+after administration of the FMC MK-0431D 100-
+mg/80-mg tablet fasted (Treatment A) and after 
+consumption of a highfat breakfast (Treatment B) 
+in healthy male and female subjects. 
+1) The administration of the FMC MK-0431D 100-
+mg/80-mg tablet after a standard high-fat meal does not 
+meaningfully affect the AUC0-last of simvastatin and 
+simvastatin acid compared to administration in the 
+fasted state. 
+2) Administration of the FMC MK-0431D 100-mg/80-
+mg tablet after a standard high-fat 
+meal increases the Cmax of both simvastatin and 
+simvastatin acid by 20% and 116%, respectively, 
+compared to administration in the fasted state. 
+3) Administration of the FMC MK-0431D 100-mg/80-
+mg tablet after a standard high-fat meal does not affect 
+the pharmacokinetics of sitagliptin compared to 
+administration in the fasted state. 
+ 
+Reference ID: 2904933

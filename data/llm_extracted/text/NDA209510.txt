@@ -1,0 +1,1851 @@
+
+
+===== PAGE 4 =====
+
+ 
+ 
+ 
+According to the January 24, 2020 review by Dr. Garnett, 10 mg of amisulpride infused 
+intravenously over 1 minute has a maximal predicted (95% upper predication interval) ∆∆QTcF 
+of 13.4 (15.1) milliseconds.  Concentration-dependent prolongation of the QTc interval for 
+ondansetron was established in the TQT study #S3A115458 under NDA 020007, (see October 
+15, 2012 and December 15, 2012 QT-IRT Reviews by Dr. Jeffry Florian).  Based on the 
+concentration-QT relationship established by in study #S3A115458, the maximum mean (95% 
+upper predication interval) ∆∆QTcF for a Cmax of 90 mg/ml of ondansetron was predicted to be 
+3.7 (4.4) milliseconds.  In study #DP10022, the mean Cmax from a 4 mg intravenous dose of 
+ondansetron infused over 1 minute was 85.3 ng/ml.  The maximal predicted prolongation from a 
+4 mg intravenous dose of ondansetron infused over 1 minute (the approved dose for PONV) was 
+approximated to be 3.6 milliseconds based on the mean Cmax from study #DP10022 (85.3 
+ng/ml) relative to the Cmax from study #S3A115458 (90 ng/ml) and the established 
+concentration-response relationship.   
+ 
+Using the predicted values, the total effect of a 10 mg dose of amisulpride given with a 4 mg 
+dose of ondansetron, each infused intravenously over 1 minute, would be approximately 17 
+milliseconds (13.4 milliseconds from amisulpride and 3.6 milliseconds from ondansetron).  As 
+per the October 2015 Guidance for Industry:  E14 Clinical Evaluation of QT/QTc Interval 
+Prolongation and Proarrhythmic Potential for Non-Antiarrhythmic Drugs, “The data on drugs 
+that prolong the mean QT/QTc interval by more than around 5 and less than 20 ms are 
+inconclusive, but some of these compounds have been associated with proarrhythmic risk.  
+Drugs that prolong the mean QT/QTc interval by >20 ms have a substantially increased 
+likelihood of being proarrhythmic, and might have clinical arrhythmic events captured during 
+drug development.”  Given the limited anticipated contribution of ondansetron to the total 
+maximal predicted ∆∆QTcF, ECG monitoring during co-administration of ondansetron and 
+amisulpride infusion should be adequate; 
+ 
+.  For additional 
+details regarding the estimation and assessment of the impact of co-administration of amisulpride 
+and ondansetron on the QTc interval, please see the February 21, 2020 Clinical Pharmacology 
+review by Dr. Dilara Jappar. 
+ 
+The recommendation to conduct ECG monitoring in patients with pre-existing 
+arrhythmias/cardiac conduction disorders, electrolyte abnormalities (e.g., hypokalemia or 
+hypomagnesemia), congestive heart failure, and in patients taking other medicinal products (e.g., 
+ondansetron) or with other medical conditions known to prolong the QT interval was retained in 
+both the Highlights of Prescribing Information and section 5, Warnings and Precautions of the 
+label.  ECG monitoring was also maintained as a recommendation for patients taking other drugs 
+known to prolong the QT interval in section 7, Drug Interactions, of the label.  
+  
+Additionally, Acacia Pharma proposed a labeling revision 
+ 
+ in section 6.2, Postmarketing 
+Experience.  To assist with the evaluation of this request, the Office of Surveillance and 
+Epidemiology/Division of Pharmacovigilance was consulted.  Office of Surveillance and 
+Epidemiology/Division of Pharmacovigilance recommended 
+ 
+Reference ID: 4566208
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 9 =====
+
+2
+Effects on QT Prolongation:
+In the 1st cycle submission dated 10/05/2017, the Applicant conducted a thorough QT (tQT) 
+study (Study DP10013) in which amisulpride prolonged the QT interval in a concentration-
+dependent manner.  In the tQT study, amisulpride at the 5-mg dose proposed for the prevention 
+of PONV did not have a significant effect of amisulpride on the QT interval (ΔΔQTcF 90% CI 
+upper bound: 7.1 ms). On the other hand, at a supra-therapeutic dose (40 mg infused over 8 min, 
+mean Cmax of 1305 ng/mL), a significant effect on the QT interval was observed with the 
+largest ΔΔQTcF of 23.4 ms (90% CI upper bound: 25.5 ms). The effects of amisulpride 10 mg 
+on the QT interval were not studied in the tQT study but were predicted to be 12.6 ms (90% 
+upper CI: 14.1 ms) based on the QT-IRT team’s concentration-QT relationship analysis.
+In this current submission, QT-IRT team was consulted to review the QT data from the newly 
+submitted study DP10022 which evaluated the effect of 10 mg IV amisulpride infused over 1 
+minute on QT interval, with and without 4 mg ondansetron infused over 1 minute.  Please refer 
+to the QT-IRT consult review dated 12/16/2019 and the addendum dated 1/24/2020 by Dr. Girish 
+Bende for further details. According to the QT-IRT team’s review, the effects on the QTc 
+interval are not appropriately characterized as the study did not include a positive control or had 
+a sufficiently large exposure margin to waive the requirement for a positive control. 
+ 
+Instead, the QT-IRT team predicted the ΔΔQTcF of 10 mg amisulpride infused over 1 minute 
+based on the newly obtained observed PK data in Study DP10022 using the concentration-QT 
+relationship model developed in previous review (QT-IRT Review dated 01/12/2018) with non-
+linear Emax model. The predicted ΔΔQTcF of 10 mg amisulpride infused over 1 minutes was 
+13.4 msec at the Cmax (451 ng/mL) and predicted to return to <5 msec within 10 min after 10 
+mg dose (Table 1). However, there was an approximlatey of 5-10 minutes delay observed 
+between the peak amisulpride concentration and the maximum increase in the QT interval; 
+therefore, it may take longer than 10 min from the completion of dosing (Figure1) for ΔΔQTcF 
+to return to <5 msec. 
+Table 1: Predicted ΔΔQTcF for 10 mg amisulpride infused over 1 minute in study DP10022 
+(FDA analysis)
+ECG
+parameter
+Time Post Dose
+(min)
+Mean Plasma Concentration
+(ng/mL)
+∆∆QTcF
+(msec)
+90% CI
+(msec)
+QTc
+Tmax (3.18 min)
+451
+13.4
+(11.7 to 15.1)
+QTc
+10 min
+140
+4.9
+(3.9 to 6.0)
+QTc
+20 min
+86
+2.8
+(2.0 to 3.7)
+QTc
+30 min
+68
+2.0
+(1.3 to 2.9)
+QTc
+60 min
+43
+0.9
+(0.2 to 1.8)
+QTc
+120 min
+34
+0.5
+(-0.2 to 1.4)
+Source:
+
+CSR study DP10022, Table 14.2.3.1 and Table 14.2.3.3 for time course & plasma concentration 
+
+QT-IRT consult review dated 12/16/2019 and addendum dated 1/24/2020 by Dr. Girish Bende
+
+Predicted based on an Emax model as described in the QT-IRT review of the thorough QT study DP10013 (Dt: 
+01/12/2018).
+Reference ID: 4564822
+(b) (4)
+(b) (4)
+
+
+===== PAGE 10 =====
+
+3
+In this study, when 4 mg IV ondansetron was infused over 1 minute with simultaneous 
+infusion of 10 mg IV amisulpride over 1 minute, ondansetron mean Cmax was 85.3 ng/mL, 
+which was similar to the Cmax of 8 mg IV ondansetron infused over 15 minutes (90 ng/mL) 
+(Refer to Pharmacometric review of NDA 20007 by Dr. Jeffry Florian dated 12/15/2012).  The 
+maximum mean (95% upper confidence bound) ΔΔQTcF was 5.6 (7.4) msec for 8 mg IV 
+ondansetron infused over 15-minute (Refer to Zofran Injection label), and was predicted to be 
+3.7 (4.4) msec at 90 ng/mL based on the conc.-QT relationship (Refer to Pharmacometric 
+review of NDA 20007 by Dr. Jeffry Florian dated 12/15/2012).  
+When ondansetron is simultaneously administered with amisulpride, the additive effects of QT 
+prolongation from ondansetron component is anticipated to be less than 5.6 msec.  As  the 
+potential QT prolongation from 10 mg amisulpride is expected to be approximately 13.4 msec, 
+ECG monitoring is recommended when patients taking amisulpride with other medicinal 
+products known to prolong the QT interval such as ondansetron.  
+RECOMMENDATION:
+From the clinical pharmacology standpoint, there is no remaining issue that preclude the 
+approval provided a mutual agreement is reached for the labeling.  
+The proposed labeling in Section 12.3 regarding the PK data on 10 mg IV amisulpride infused 
+over 1 minute is acceptable.  
+ 
+ 
+(per QT-IRT consult. The labeling language is under negotiation. 
+INDIVIDUAL STUDY REVIEW
+Study DP10022
+Title:  A randomised, double-blind, placebo-controlled, crossover study in healthy adult subjects 
+to investigate the effect of intravenous APD421, with and without ondansetron, on cardiac 
+conduction
+Clinical Site:
+ Early Phase Clinical Unit (EPCU) London 
+Study Date:          
+07/04/2018 to 08/13/2018
+Objective: 
+
+To assess the effect of a rapid infusion of 10 mg intravenous (IV) APD421 on the corrected 
+QT (QTcF) interval
+
+To assess the effect of a single IV dose of 10 mg APD421 when coadministered with a single 
+IV dose of 4 mg ondansetron on the QTcF interval
+Reference ID: 4564822
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 13 =====
+
+6
+Parameter
+C1max
+ng/mL
+T1max
+hr
+C2max
+ng/mL
+T2max
+hr
+AUC(0-2)
+h*ng/mL
+AUC(0-inf)
+h*ng/mL
+t½
+h
+CL
+L/h
+Vss
+L
+Mean
+451.03
+0.053
+515.90
+2.049
+135.87
+545.13
+2.619
+39.02
+156.8
+SD
+229.635
+0.0337
+234.321
+0.0339
+27.948
+150.395
+0.4956
+9.498
+36.74
+Geometric mean
+411.24
+0.041
+475.33
+2.049
+133.16
+527.94
+2.577
+37.88
+151.7
+Median
+335.00
+0.083
+443.00
+2.017
+134.2
+512.22
+2.464
+39.05
+149.2
+Range
+277-1120 0.02-0.08
+261-1260 2.02-2.08 96.0-192.2 319.2-1075.9 2.03-3.89 18.6-62.7
+50-230
+Treatment B: 10 mg APD421+4 mg Ondansetron, both infused over 1 min (n=30): ADP421 administered once.
+Parameter
+Cmax
+ng/mL
+T1max
+hr
+AUC(0-inf)
+h*ng/mL
+t½
+h
+CL
+L/h
+Vss
+L
+Mean
+463.03
+0.037
+289.10
+3.798
+35.65
+149.7
+SD
+256.565
+0.0311
+51.391
+0.9413
+6.315
+40.23
+Geometric mean
+409.17
+0.027
+284.76
+3.689
+35.12
+144.5
+Median
+389.00
+0.017
+278.19
+3.724
+35.95
+143.7
+Range
+164.0- 1170.0
+0.02-0.08
+202.4-398.0
+2.05-6.36
+25.1-49.4
+79-261
+C1max and C2max refer to the Cmax for phase 1 (time 0:00 to 2:00) and phase 2 (time 2:00 to 6:00), respectively. Cmax: peak plasma concentration; 
+AUC(0-inf): area under concentration curve from time zero to infinity; t½: half-life; CL: clearance; Vss: volume of distribution at steady state 
+Source:  CSR study DP10022, Table 15, (page 66)
+Ondansetron PK:  When IV ondansetron 4 mg was infused over 1 minute with simultaneous 
+infusion of IV APD421 10 mg over 1 minute, ondansetron mean (SD) Cmax was 85.3 (81.08 ) 
+ng/mL and AUC0-inf was 142.24 (46.59) ngh/ml with a half-life of 4.52 (1.6) hr.
+APPENDIX:
+Bioanalytical Assay Method:
+Amisulpride
+Concentrations of amisulpride in human plasma (K2 EDTA) were measured by a validated 
+LC/MS/MS at 
+ according to the validation report titled “Validation 
+of an LC-MS/MS method for the measurement of amisulpride in human plasma” (Project No: 
+115501QB02).  This was the same bioanalytical method that was used in the previous clinical 
+pharmacology studies for NDA 209150.  Please refer to Multidisciplinary Review and Evaluation 
+for NDA 209510 dated 0/5/18 for further details on the bioanalytical method validation report. 
+Plasma samples were stored frozen at -20oC until analysis.  Samples were stored for a maximum 
+of 29 days between the date of collection and the date of sample extraction. This is within the 
+validated sample storage period of 259 days when stored in a freezer set at -20°C.
+Table 4: Bioanalytical assay of APD421 (amisulpride)  
+Lower limit of quantification
+2.00 ng/mL
+Standard Curve:
+2.00-2000 ng/mL with linear regression (1/X2 weight)
+Quality Control (QC) levels
+6.00 ng/mL, 60.0 ng/mL, 1500 ng/mL
+Analytical method
+Liquid-liquid extraction with LC-MS/MS detection
+Reference ID: 4564822
+(b) (4)
+(b) (4)
+
+
+===== PAGE 38 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+15
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+Glossary 
+AC
+advisory committee
+ADME
+absorption, distribution, metabolism, excretion 
+AE
+adverse event
+AUC
+area under the curve
+BCRP
+breast cancer resistance protein
+BLA
+biologics license application
+BRF
+Benefit Risk Framework
+BW
+body weight 
+CDER
+Center for Drug Evaluation and Research
+CDRH
+Center for Devices and Radiological Health
+CFR
+Code of Federal Regulations
+CG
+control group
+CI
+confidence interval
+CL
+clearance
+CMC
+chemistry, manufacturing, and controls
+CMH
+Cochran-Mantel-Haenszel
+COSTART
+Coding Symbols for Thesaurus of Adverse Reaction Terms
+CR
+complete response
+CRF
+case report form
+Crl: WI
+Charles River Wistar
+CRO
+contract research organization
+CRT
+clinical review template
+CSR
+clinical study report
+CV
+coefficient of variation
+CYP
+cytochrome P
+D2
+dopamine type 2
+DARRTS
+Document Archiving, Reporting, and Regulatory Tracking System
+DGIEP
+Division of Gastroenterology and Inborn Errors Products
+DHOT
+Division of Hematology Oncology Toxicology
+DMC
+data monitoring committee
+DRISK
+Division of Risk Management
+ECG
+electrocardiogram
+eCTD
+electronic common technical document
+eGFR
+estimated glomerular filtration rate
+EPS
+extrapyramidal symptoms
+ETA(CL)
+interindividual variability of clearance
+ETASU
+elements to assure safe use
+FDA
+Food and Drug Administration
+FDASIA
+Food and Drug Administration Safety and Innovation Act
+GCP
+good clinical practice
+Reference ID: 4331437
+
+
+===== PAGE 49 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+26
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+Dimension
+Evidence and Uncertainties
+Conclusions and Reasons
+Guideline E14 (10 ms). However, the QT interval is predicted to return to <5 
+ms within 30 minutes after the 10-mg dose (see Section 6.3.2.2.3 QT 
+Prolongation of this Multidisciplinary Review). Thus, we recommend waiting 
+at least 30 minutes after Barhemsys 10 mg to administer ondansetron 4 mg in 
+light of the QT effects of both Barhemsys and ondansetron. Furthermore, we 
+recommend waiting at least 10 minutes after a 4-mg dose of ondansetron to 
+administer Barhemsys 10 mg because the QTc increase will fall below 5 ms 
+within a short time (10 minutes).   
+Extrapyramidal symptoms (EPS) and neuroleptic malignant syndrome are 
+known AEs associated with this class of drugs (D2 antagonists). Based on the 
+SMQ “Extrapyramidal syndrome,” which comprises four SMQs (akathisia, 
+dyskinesia, dystonia, and Parkinson-like events), the following eight AEs have 
+been reported in the Barhemsys clinical trial program: Restlessness, 
+laryngospasm, muscle spasms, muscle spasticity, muscle tightness, hypertonia, 
+dysphonia, and tremor. The frequency of possible EPS appears to be similar 
+for placebo and for both doses of amisulpride. There was no event of 
+neuroleptic malignant syndrome identified in the Barhemsys clinical 
+development program.
+The effects of severe renal impairment on Barhemsys pharmacokinetics 
+were not adequately characterized. Barhemsys pharmacokinetics data 
+were only available from one patient with severe renal impairment 
+(AUC∞ in that patient was 2.1-fold higher than that observed in patients 
+with normal renal function). 
+
+ 
+Because the effects of severe renal impairment 
+on Barhemsys pharmacokinetics has not been 
+adequately characterized, we recommend that 
+the Applicant conduct the following study:  
+
+A pharmacokinetic study following a single 
+dose of Barhemsys (amisulpride injection) 
+in patients with severe renal impairment 
+(i.e., eGFR <30 mL/min/1.73 m2) and 
+healthy subjects as a control group.
+It is especially important that the potential 
+increase in systemic exposure in patients with 
+severe renal impairment is adequately 
+characterized because amisulpride is known to 
+cause concentration-dependent prolongation of 
+the QT interval. The results of the proposed 
+study may be used to develop safe dosing 
+recommendations for patients with severe renal 
+impairment.
+Reference ID: 4331437
+(b) (4)
+
+
+===== PAGE 50 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+27
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+Dimension
+Evidence and Uncertainties
+Conclusions and Reasons
+Although the benefit-risk profile of Barhemsys 
+(amisulpride injection) is favorable for the 
+indications sought, this New Drug Application 
+(NDA) will not be approved during this review 
+cycle because of the deficiencies identified at 
+the manufacturing facility in 
+ 
+. The Applicant does not have an 
+alternative drug substance manufacturing 
+facility for this NDA; therefore, satisfactory 
+resolution of the deficiencies at the 
+manufacturing facility is required before this 
+NDA may be approved.
+5-HT3 = 5-hydroxytryptamine (serotonin) type 3; AUC = area under the curve; CR = Complete Response; eGFR = estimated glomerular filtration rate; MedDRA = Medical Dictionary for 
+Regulatory Activities; PI = prescribing information; PK = pharmacokinetics; PMR = postmarketing requirement; PONV = postoperative nausea and vomiting; SA = standard anti-emetic; 
+SAE = serious adverse event; SMQ = standard medical query
+Reference ID: 4331437
+(b) (4)
+(b) (4)
+
+
+===== PAGE 63 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+40
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+In another experiment, hERG tail current inhibition was assessed for amisulpride and 
+ondansetron alone, or in combination of amisulpride and ondansetron at their IC10 concentrations 
+(2.82μM and 135nM). The levels of hERG channel inhibition were 18±1% and 5±0.2% at IC10 
+of ondansetron and amisulpride, respectively. When amisulpride and ondansetron were used in 
+combination, the inhibition of hERG channels was increased from 5±0.2% to 15±0.5% and 
+18±1% to 26±0.9%. The result showed that there was an additive effect of the combination of 
+amisulpride and ondansetron at their IC10 values. The hERG channel inhibition was 100% with 
+cisapride. 
+In conclusion, amisulpride caused hERG channel inhibition alone or in combination with 
+ondansetron, but the finding is not suggestive of a high risk for QT prolongation because the 
+effects on the hERG channel were small and observed at very high concentrations compared to 
+therapeutic plasma concentrations. 
+5.4. ADME/PK 
+Table 3. ADME Studies
+Type of Study
+Major Findings
+Absorption
+No absorption studies were submitted.
+Distribution
+[14C] amisulpride: 
+Preclinical enabling 
+studies for clinical 
+metabolism 
+programme (Study 
+Number # APL/03).
+Radiolabelled amisulpride was administered to male rats at a single IV dose of 10 
+mg/kg (3.7 MBq/kg). amisulpride was widely distributed into tissues following a 
+single IV dose. At 6 hours after dosing, the highest concentrations of radioactivity 
+were observed in components of the gastrointestinal tract, contents of the urinary 
+bladder, liver, uveal tract, small intestinal mucosa, whole eye, pigmented skin, 
+urinary bladder wall, kidney medulla, seminal vesicles, epididymis, pituitary and 
+kidney as a whole. At 336 hours or 14 days after dosing, low to moderate levels of 
+radioactivity were detected at the uveal tract, eye and meninges. By 840 hours or 
+35 days after dosing, radioactivity was detected in the uveal tract (0.402 µg/g 
+tissue) and whole eye (0.133 µg/g tissue). The levels of radioactivity detected in 
+the meninges up to 336 hours and uveal tract up to 840 hours post-dose suggest 
+an affinity of amisulpride for the melanin pigmented tissues.
+Metabolism
+No metabolism studies were submitted.
+Excretion
+[14C] amisulpride: 
+Preclinical enabling 
+studies for clinical 
+metabolism 
+programme (Study 
+Number # APL/03).
+After a single intravenous dose of [14C] amisulpride to male rats, approximately 
+55% of radioactivity was detected in urine and 40% in feces. Elimination was 
+rapid, with more than 90% of urinary excretion within 12 hours. More than 90% of 
+fecal elimination was within 24 hours. 
+Reference ID: 4331437
+
+
+===== PAGE 64 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+41
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+Type of Study
+Major Findings
+Toxicokinetic data from general toxicology studies
+Amisulpride: 
+intravenous (slow 
+bolus) 28-day toxicity 
+study in the rat with a 
+14-day treatment free 
+period (Study # 
+BGX0002).
+Rat
+T1/2: (days 1 and 28; M/F, all doses)
+     0.7 to 3.3 hours 
+Tmax (days 1 and 28; M/F, all doses)
+    0.083 hours in males and females
+AUCinf (day 1; M/F)
+     2 mg/kg/day: 538/521 ng.h/mL
+      5 mg/kg/day: 1560 ng.h/mL (males)
+     10 mg/kg/day: 3870/3350 ng.h/mL
+AUCinf (day 28; M/F)
+     2 mg/kg/day: 635/643 ng.h/mL
+      5 mg/kg/day: 1840/2010 ng.h/mL
+     10 mg/kg/day: 4200/3700 ng.h/mL
+Cmax (day 1; M/F)
+    2 mg/kg/day: 735/771 ng/mL
+    5 mg/kg/day: 2140/2260 ng/mL
+    10 mg/kg/day: 4920/4920 ng/mL
+Cmax (day 28; M/F)
+    2 mg/kg/day: 848/704 ng/mL
+    5 mg/kg/day: 2280/2420 ng/mL
+    10 mg/kg/day: 5410/4580 ng/mL
+      
+Accumulation: No evidence of accumulation. 
+Dose proportionality: Increased dose-related, but not dose proportional. A five-fold 
+increase in dose caused more than 5-fold increase in exposure. 
+Toxicokinetic data from reproductive toxicology studies
+Amisulpride: Oral 
+(Gavage) Fertility and 
+Early Embryonic 
+Development Study 
+in the Rat with 
+Toxicokinetic 
+Sampling (Study # 
+BGX0009).
+Rat
+T1/2: (days 1 and 14; M/F, all doses)
+     1.6 to 4.1 hours 
+Tmax: (days 1 and 14; M/F, all doses)
+    1 to 3 hours
+AUCinf (day 1; M/F)
+    60 mg/kg/day: 1890/1410 ng.h/mL
+    100 mg/kg/day: 5970/3370 ng.h/mL
+    160 mg/kg/day: 11500/8940 ng.h/mL
+AUCinf (day 14; M/F)
+    60 mg/kg/day: 2540/NA ng.h/mL
+    100 mg/kg/day: 7000/3890 ng.h/mL
+    160 mg/kg/day: 13400/13600 ng.h/mL
+Cmax (day 1; M/F)
+    60 mg/kg/day: 542/342 ng/mL
+    100 mg/kg/day: 1350/774 ng/mL
+    160 mg/kg/day: 2540/2060 ng/mL
+Cmax (day 14; M/F)
+    60 mg/kg/day: 691/246 ng/mL
+    100 mg/kg/day: 1430/490 ng/mL
+    160 mg/kg/day: 2110/1610 ng/mL
+      
+Accumulation: There was no accumulation over the 14-day period in males and 
+females at low and mid doses. Slight accumulation was noticed in females at HD 
+(1.5-fold). 
+Dose proportionality: Cmax and AUC increased generally more than dose-
+proportionally in both sampling days (days 1 and 14). 
+Reference ID: 4331437
+
+
+===== PAGE 65 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+42
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+Type of Study
+Major Findings
+Amisulpride: Oral 
+(Gavage) Embryo-
+Fetal Development 
+Study in the Rat 
+(Study # BGX0012).
+Rat
+T1/2: (days 6 and 17; F, all doses)
+    2.5 to 3.3 hours 
+Tmax: (days 6 and 17; F, all doses)
+    3 hours
+AUCinf (day 6; F)
+    60 mg/kg/day: 2670 ng.h/mL
+    100 mg/kg/day: 7380 ng.h/mL
+    160 mg/kg/day: 16400 ng.h/mL
+AUCinf (day 17; F)
+    60 mg/kg/day: 4280 ng.h/mL
+    100 mg/kg/day: 12100 ng.h/mL
+    160 mg/kg/day: 17300 ng.h/mL
+Cmax (day 6; F)
+    60 mg/kg/day: 642 ng/mL
+    100 mg/kg/day: 1760 ng/mL
+    160 mg/kg/day: 3050 ng/mL
+Cmax (day 17; F)
+    60 mg/kg/day: 997 ng/mL
+    100 mg/kg/day: 2150 ng/mL
+    160 mg/kg/day: 3150 ng/mL
+      
+Accumulation: There was slight accumulation of amisulpride over the 12-day 
+dosing period in female rats in 60 and 100 mg/kg/day dose groups, but no 
+accumulation in the 160 mg/kg/day dose group.
+Dose proportionality: Exposures increased more than the dose-proportionally. 
+Oral (Gavage) 
+Embryo-Fetal 
+Development Study 
+in the Rabbit with 
+Toxicokinetic 
+Sampling (Study # 
+BGX0011).
+Rabbit
+T1/2: (days 16; F, all doses)
+     2.3 to 4.9 hours 
+Tmax: (day 16; F, all doses)
+    0.5 to 1 hours
+AUCinf (day 16; F)
+    50 mg/kg/day: 7500 ng.h/mL
+    100 mg/kg/day: 39600 ng.h/mL
+    210 mg/kg/day: 184000 ng.h/mL
+Cmax (day 16; F)
+    50 mg/kg/day: 4230 ng/mL
+    100 mg/kg/day: 16000 ng/mL
+    210 mg/kg/day: 38400 ng/mL
+      
+Dose proportionality: Exposures increased more than dose-proportionally.
+AUC = area under the curve; HD = high dose
+Reference ID: 4331437
+
+
+===== PAGE 82 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+59
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+commonly used 
+antiemetic for PONV
+Per the ondansetron labeling, ECG monitoring is 
+recommended in patients taking other medicinal 
+products that lead to QT prolongation. As such, we 
+recommend ECG monitoring when patients 
+received ondansetron.
+PD = pharmacodynamics; PK = pharmacokinetics; PONV = postoperative nausea and vomiting; ECG = electrocardiogram
+6.2. Summary of Clinical Pharmacology Assessment 
+6.2.1. Pharmacology and Clinical Pharmacokinetics
+Mechanism of Action: amisulpride inhibits the dopamine D2 receptor. 
+QT prolongation: amisulpride prolongs QT interval in a concentration-dependent manner. A 
+thorough QT study was conducted at 5 mg infused over 1 to 2 min and at the supratherapeutic 
+dose of 40 mg infused over 8 min. A dose- and concentration-dependent prolongation of QT 
+interval was observed. At the 5-mg dose proposed for the prevention of PONV, no significant 
+effect of amisulpride on the QT interval was observed with the largest ΔΔQTcF of 5.0 ms (90% 
+CI upper bound: 7.1 ms). On the other hand, at a supra-therapeutic dose (40 mg infused over 8 
+min), a significant effect on the QT interval was observed with the largest ΔΔQTcF of 23.4 ms 
+(90% CI upper bound: 25.5 ms). Because 10 mg was not studied in the tQT study, the QT 
+prolongation at 10 mg was predicted based on the exposure-ΔΔQTcF relationship. Based on the 
+IRT-QT’s concentration-QTc analysis, at the highest recommended dose, i.e., 10 mg infused 
+over 1 min, the largest mean (90% upper confidence bound) difference in QTcF from placebo 
+after baseline-correction (ΔΔQTcF) is predicted to be 12.6 ms (90% upper CI: 14.1 ms). 
+Clinical Pharmacokinetics: After an intravenous infusion, the peak plasma concentration of 
+amisulpride is achieved at the end of the infusion period and the plasma concentrations decrease 
+about 50% of the peak value within about 15 minutes. The AUCinf increases proportionally in the 
+dose range from 5 mg to 40 mg amisulpride. 
+
+Distribution: Following intravenous administration, the mean volume of distribution of 
+amisulpride is estimated to be 127 to 144 L in surgical patients and 171 L in healthy 
+subjects. Plasma protein binding is 25% to 30%.
+
+Elimination: The mean elimination half-life is approximately 4 to 5 hours. The plasma 
+clearance of amisulpride is 20.6 L/h in surgical patients and 24.1 L/h in healthy subjects.
+Reference ID: 4331437
+(b) (4)
+
+
+===== PAGE 83 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+60
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+o
+Metabolism: No metabolite was detectable in plasma whereas four metabolites (C1, 
+C2, C3, and C4) were identified in urine and feces. Each metabolite is accounted for 
+<7% of dose. The metabolism of amisulpride is not mediated by major cytochrome P-
+450 enzymes.
+o
+Excretion: amisulpride was excreted approximately 74% in urine (58% as unchanged) 
+and 23% in feces (20% as unchanged). Renal clearance was estimated to be 20.5 L/h 
+(342 mL/min) in healthy subjects suggesting that amisulpride undergoes active renal 
+secretion.
+6.2.2. General Dosing and Therapeutic Individualization
+General Dosing
+The proposed general dosing regimen of amisulpride is as follows:
+
+Prevention of PONV: 5 mg as a single intravenous injection infused over 1 to 2 minutes 
+at the time of induction of anesthesia, either alone or in combination with other anti-
+emetics
+
+Treatment of PONV in patients who have received antiemetic prophylaxis with an agent 
+of a different class or no prior prophylaxis: 10 mg as a single intravenous injection 
+infused over 1 to 2 minutes in the event of nausea and/or vomiting after a surgical 
+procedure
+, we 
+recommend 1 to 2 min infusion for amisulpride 10 mg, which is consistent with how the clinical 
+studies were conducted. Of note, in the proposed labeling submitted later (EDR 23, 4/23/2018), 
+ the infusion rate for amisulpride 10 mg to 1 to 2 min.
+Table 15. Indication, Regimen, and Recommendation
+Indication
+Studied Regimen
+Proposed Regimen
+Recommendation
+Prevention of PONV
+5 mg over 1 to 2 min
+5 mg over 1 to 2 min
+5 mg over 1 to 2 min
+Treatment of PONV
+10 mg over 1 to 2 min
+(
+ 10 mg 
+over 1 to 2 min)
+10 mg over 1 to 2 min
+Therapeutic Individualization
+Specific Populations: Patients with Renal Impairment 
+The effects of renal impairment on PK of amisulpride was studied in surgical patients in phase 3 
+trials. In patients with mild or moderate renal impairment (eGFR 30 to 89 mL/min/1.73 m2), the 
+mean AUCinf of amisulpride was 1.3-fold higher than in patients with normal renal function. In 
+phase 2 and 3 trials, only eight patients with severe renal impairment received amisulpride. 
+PK of amisulpride in severe renal impairment was only available in one patient (eGFR 8.2 
+mL/min/1.73 m2), whose AUCinf was 2.1-fold higher than those in patients with normal renal 
+function. However, no clear trend in terms of the Cmax was observed in patients with impaired 
+renal function compared to with normal renal function. Therefore, no dose adjustment is 
+necessary in patients with mild to moderate renal impairment. Administration to patients with 
+Reference ID: 4331437
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 86 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+63
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+6.3. Comprehensive Clinical Pharmacology Review
+6.3.1. General Pharmacology and Pharmacokinetic Characteristics
+Table 17. Summary of the General Pharmacology and PK of Amisulpride
+Pharmacology
+Mechanism of Action
+Dopamine D2 receptor antagonist
+Dopamine D2 receptors are in the chemoreceptor trigger zone (CTZ) and 
+respond to the dopamine released from the nerve endings. Activation of CTZ 
+relays stimuli to the vomiting center which is involved in emesis.
+Active moieties
+Amisulpride
+QT prolongation
+Amisulpride prolongs QTc in concentration-dependent manner.
+The estimated maximum ∆∆QTcF for various doses is as follows:
+- 5 mg/2 min IV infusion: 5.0 ms (90% upper CI: 7.1 ms)
+- 40 mg/8 min IV infusion (4-fold of the maximum recommended dose, i.e., 10 
+mg): 23.4 ms (90% upper CI: 25.5 ms) 
+In addition, the concentration-∆∆QTc model predicted the largest ∆∆QTcF as 
+12.6 ms (90% upper CI: 14.1 ms) at 10 mg infused over 1 min (the maximum 
+proposed dose). 
+ 
+Bioanalysis
+Racemic amisulpride was measured using adequately validated LC-MS/MS 
+methods. When R- and S-amisulpride was measured separately, concentrations 
+of two isomers were virtually the same in human plasma.
+Healthy Volunteers 
+vs. Patients
+Population PK analysis estimated the plasma clearance of 20.6 L/h in surgical 
+patients, which is 15% lower than 24.1 L/h in healthy subjects.
+Dose Proportionality
+Mean AUCinf increased dose proportionally after single 5-mg and 40-mg doses in 
+healthy subjects. 
+AUCinf and Cmax increased dose-proportionally after single 5-mg and 10-mg 
+doses infused over 1 to 2 min in surgical patients.
+PK variability
+After a 5 or 10 mg single IV administration in surgical patients, CV% for Cmax: 55 
+to 156% and AUCinf: 37 to 46%.
+PK model
+A three-compartment linear model with first-order elimination following IV 
+administration adequately described the PK of amisulpride.
+Stereoisomer
+Amisulpride is a racemic drug containing 50% each of R- and S-amisulpride. The 
+PK profiles of two enantiomers are similar in healthy subjects.
+Distribution
+Volume of distribution: 127 to 171 L which indicates amisulpride distributes into 
+tissues.
+Plasma protein binding: 25 to 30% at 37 to 1850 ng/mL of amisulpride
+Blood to plasma ratio: 0.9 to 1.1
+Elimination
+Half-life: 4 to 5 hours in healthy subjects and surgical patients
+Clearance: 20.6 L/hr in surgical patients, slightly lower than 24.1 L/hr in healthy 
+subjects
+Metabolism
+No metabolites were detectable in plasma while four minor metabolites, formed 
+by oxygenation, N-dealkylation, dehydrogenation or methylation, were identified 
+in urine and feces. In vitro study suggests that the metabolism of amisulpride is 
+not mediated by major cytochrome P-450 enzymes.
+Excretion
+Following administration of a radiolabeled amisulpride, approximately 74% of 
+amisulpride was excreted in urine (58% as unchanged) and 23% in feces (20% 
+as unchanged). 
+Renal clearance was estimated to be 20.5 L/hr (342 mL/min) in healthy subjects, 
+suggesting that amisulpride undergoes active renal secretion. Active renal 
+secretion may be mediated by MATE1 and/or MATE2-K, for which amisulpride is 
+a substrate in in vitro study.
+Reference ID: 4331437
+
+
+===== PAGE 87 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+64
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+Pharmacology
+Inhibition/Induction
+In vitro, amisulpride does not inhibit or induce CYP enzymes at concentrations 
+higher than plasma concentrations observed in humans. 
+In vitro, amisulpride inhibits MATE1 and MATE2-K at concentrations higher than 
+plasma concentrations observed in humans, but not other transporters.
+AUC = area under the curve; CV = coefficient of variation; CYP = cytochrome P; IV = intravenous; LC-MS/MS = liquid 
+chromatography-coupled tandem mass spectrometry; MATE = multidrug and toxin extrusion protein; PK = pharmacokinetics
+ADME in healthy volunteers (mass balance study, DP10020)
+Elimination predominantly occurred via kidney as the 56% of the dose was excreted unchanged 
+amisulpride in urine. In a mass balance study, 97% of the administered dose was excreted in 
+urine and feces over 144 hours (74% of the dose was recovered in urine and 23% was recovered 
+in feces). The 85.6% of the dose was excreted within 48 hours. The 15% and 6.1% of the dose 
+was recovered as metabolites in urine and feces over 48 hours, respectively (Table 18). 
+Table 18. Proportion (%) of Dose Excreted in Urine and Feces Following 10 mg Infused over 4 
+Minutes
+Compound
+Urine (0 to 48 h)
+Feces (0 to 96 h)
+Amisulpride (parent)
+57.5
+20.6
+C1 (Oxygenation)
+4.9
+2.1
+C2 (N-Dealkylation)
+3.6
+2.0
+C3 (Oxygenation + di-dehydrogenation or 
+methylation + dehydrogenation)
+1.5
+Not detected
+C4 (Oxygenation + dehydrogenation)
+5.0
+2.0
+Total
+72.5
+26.7
+Source: 5.3.3.1. DP10020 Study Report
+Pharmacokinetics in Healthy Subjects and Surgical Patients
+Following single dose intravenous administration of amisulpride, the systemic exposure 
+increased dose-proportionally in the dose range from 5 to 40 mg of amisulpride in healthy 
+subjects and surgical patients. Table 19 shows the summary of PK parameters from clinical 
+studies.
+Table 19. Summary of Key PK Parameters from Clinical Studies of Amisulpride
+Mean (SD)
+Population
+Study
+N Dose
+(mg)
+Infusion
+(min)
+Cmax
+(ng/mL)
+AUCinf
+(ng*h/mL)
+T1/2
+(h)
+CL
+(L/h)
+Vss
+(L)
+DP10013
+39
+5
+2 200 (139)
+154 (30)
+4.1 (0.8) 26.0 (3.8)*
+218 (54)*
+DP10013
+39
+40
+8 1305 (329) 1374 (239) 5.0 (0.7) 27.8 (4.6)*
+128 (24)*
+Healthy
+DP10020
+6
+10
+4 357 (149)
+228 (19)
+3.7 (0.5)
+43.5 (3.2)
+171 (26)
+DP10014
+26
+5
+~1
+161 (58)
+260 (65)
+4.9 (1.0)
+20.4 (4.9)
+131 (38)
+22
+5
+~2
+127 (64)
+204 (94)
+4.6 (2.3) 28.6 (10.7)
+144 (76)
+Surgical 
+Patients
+DP10018/ 
+DP10019
+29
+10
+~2 285 (446)
+401 (149)
+3.8 (1.6)
+28.0 (9.5)
+127 (45)
+*The value is from reviewer’s analysis because the Applicant did not provide.
+AUC = area under the curve; CL = clearance; PK = pharmacokinetics; SD = standard deviation; NA = not available
+Source: 2.7.2. Summary of Clinical Pharmacology, Table 2.7.2-20.
+Reference ID: 4331437
+
+
+===== PAGE 94 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+71
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+6.3.2.3.1. Renal Impairment
+A dedicated renal impairment study for amisulpride was not conducted. The effect of renal 
+impairment on PK was investigated in a subset of patients from three phase 3 studies, DP10014, 
+DP10018 and DP10019. In study DP10014, 15 of the 26 subjects with a full PK profile had renal 
+impairment, and in studies DP10018 and DP10019, 12 out of 21 patients in the 5-mg dose group 
+and 13 out of 27 in the 10-mg group had impaired renal function which was estimated by 
+glomerular filtration rate (eGFR) calculated using the Modification of Diet in Renal Disease 
+(MDRD) Study equation.
+Patients with mild to moderate renal impairment showed higher AUCinf up to around 1.3-fold, 
+and one patient with severe renal impairment (eGFR 8.2 mL/min/1.73 m2) showed 2.1-fold 
+higher AUCinf compared to patients with normal renal function (Table 22, Figure 9). However, 
+no clear trend in terms of differences in Cmax was observed in patients with impaired renal 
+function compared to with normal renal function. 
+Table 22. Mean (SD) PK Parameters for Amisulpride by Degree of Renal Impairment
+DP10014
+DP10018/DP10019
+5 mg
+5 mg
+10 mg
+Pooled
+Renal 
+Impairment
+N
+Cmax
+AUCinf
+N
+Cmax
+AUCinf
+N
+Cmax
+AUCinf
+N
+Cmax/Dose
+AUCinf/Dose
+Normal
+11
+145
+(30)
+259
+(68)
+9
+134
+(78)
+189
+(73)
+14
+357
+(639)
+365
+(86)
+34
+31 (41)
+41 (14)
+Mild
+12
+177
+(76)
+254
+(65)
+10
+114
+(57)
+211
+(111)
+12
+232
+(95)
+411
+(169)
+34
+27 (13)
+45 (17)
+Moderate
+3
+154
+(61)
+286
+(77)
+2
+172
+(52)
+252
+(154)
+-
+-
+-
+5
+32 (10)
+54 (19)
+Severe
+-
+-
+-
+-
+-
+-
+1
+275
+781
+1
+28
+78
+Cmax in ng/mL; AUCinf in ng*h/mL; AUC = area under the curve; SD = standard deviation
+Normal function: eGFR ≥90 mL/min/1.73 m2
+Mild impairment: eGFR =60 to 89 mL/min/1.73 m2
+Moderate impairment: eGFR =30 to 59 mL/min/1.73 m2
+Severe impairment: eGFR =15 to 29 mL/min/1.73 m2
+Source: Response to information request, SDN 28 dated 5/25/2018
+Reference ID: 4331437
+
+
+===== PAGE 96 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+73
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+PK model. Amisulpride clearance in surgical patients was estimated to be 15% lower than that of 
+healthy volunteers, i.e., 20.6 L/h versus 24.1 L/h. 
+The effect of body weight was incorporated into the clearance and the volume of distribution in 
+the final population PK model with an allometric exponent fixed to 0.75. For a population with a 
+range of body weights between 45 kg and 160 kg, this means that compared to the median 
+weight of 70 kg, subjects with the lowest body weight were projected to have 28% lower 
+clearance, while subjects at the highest body weight were projected to have 86% higher 
+clearance. However, this effect was not sufficient to recommend dose adjustment because body 
+weight only accounted for a small portion of between-subject variability (e.g., 7% out of 28% 
+variability in the systemic clearance). Refer to the Pharmacometrics assessment in the Appendix 
+16.2.2 for more details. 
+6.3.2.4. Are There Clinically Relevant Drug-Drug Interactions, and What Is 
+the Appropriate Management Strategy?
+Yes, given that amisulpride prolongs the QTc interval concentration-dependently, caution needs 
+to be exercised when amisulpride with other medications known to cause significant QT 
+prolongation is concomitantly used. In particular, amisulpride will be used concomitantly with 
+other antiemetics per the proposed indication; concomitant use with QT-prolonging antiemetics 
+such as ondansetron is a concern. 
+Given a minimal risk of QT prolongation at amisulpride 5 mg, amisulpride 5 mg for prevention 
+of PONV can be simultaneously administered with ondansetron 4 mg. However, as QT 
+prolongation is anticipated at amisulpride 10 mg, when amisulpride 10 mg for treatment of 
+PONV is concomitantly used with ondansetron 4 mg, 
+ 
+ we recommend a 30-min 
+interval 
+ when ondansetron is administered after amisulpride 10 mg 
+6.3.2.4.1. Pharmacodynamic Drug Interaction Between Amisulpride 
+and Ondansetron
+During the phase 3 trial of amisulpride, ondansetron was the most frequently (about 50% of 
+patients) used concomitant antiemetic as a prophylaxis of PONV as well as a rescue medication. 
+The approved adult dosing regimen of ondansetron for PONV is a single IV dose of 4 mg over 
+>30 sec, preferably 2 to 5 min, at induction of anesthesia, or after surgery if the patient did not 
+receive prophylactic antiemetics and experiences PONV. 
+Per the labeling of ondansetron, ondansetron 8 mg infused over 15 min has no effect on QT 
+interval (i.e., the largest ΔΔQTcF (90% upper CI) was 5.6 ms (7.4 ms)) whereas 32 mg infused 
+over 15 min significantly prolongs QTc interval (ΔΔQTcF was 19.5 ms (21.8 ms)). Thus, the 
+ondansetron labeling recommends ECG monitoring in patients taking other medication that lead 
+to QT prolongation in Section 5, Warning and Precaution. On the other hand, based on data from 
+Reference ID: 4331437
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 98 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+75
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+Amisulpride 10 mg and Ondansetron 4 mg (Scenario 3)
+The Applicant postulated that the QT prolongation associated with an amisulpride 10-mg dose 
+would fall below 5 ms within 8 min subsequently proposing to administer amisulpride 10 mg and 
+ondansetron 4 mg with a 10-min interval in between. However, given the difference between the 
+Applicant’s amisulpride concentration-QT model and the QT-IRT’s model, we recommend 
+having at least a 30-min interval between two drugs when ondansetron is administered after 
+amisulpride dosing 
+ 
+While no clinical QT studies were performed with 10 mg amisulpride and 4 mg ondansetron in 
+combination and alone to evaluate whether the effect of the combination is additive, synergistic, 
+or antagonistic, it is anticipated that each drug will cause a certain degree of QT prolongation. 
+For ondansetron, following ondansetron 16 mg infused over 15 min followed by two doses of 8 
+mg over 30 sec, the Cmax was predicted as 203.8 ng/mL (Zuo et al. 2014), so ondansetron 4 mg 
+infused over 30 sec might lead to Cmax around 100 ng/mL assuming dose-proportional Cmax 
+increase. On the other hand, per the ondansetron labeling, ondansetron 4 mg infused over 5 min 
+resulted in Cmax, 42.9 ng/mL. The concentration-QTc analysis of ondansetron by Zuo et al 
+(2014), the largest ΔΔQTcF values at Cmax 90 ng/mL and 141 ng/mL were 4.1 ms (90% upper 
+CI: 6.0) and 6.5 ms (8.3), respectively. Also, in the same publication, the length of time that the 
+90% CI of ΔΔQTcF was above >10 ms was short (<2 min) following ondansetron 8 mg with 30 
+sec infusion which prolonged QTc up to 10.8 ms (13.4). As such, based on data from Zuo et al, 
+2014 and the ondansetron label, ondansetron 4 mg infused over 30 sec to 5 min (Cmax 42.9 to 
+around 100 ng/mL), which is approved dose for PONV, is unlikely to cause a QTc interval 
+increase >10 ms. Also, the QT increase will fall below 5 ms within a short time (10 min). 
+For amisulpride 10 mg infused over 1 min, the mean Cmax is predicted to be 390 ng/mL by the 
+Applicant’s population PK model simulations. The 390 ng/mL translates to a ΔΔQTcF of 12.6 
+ms (90% upper CI: 14.1) based on the QT-IRT’s concentration-QTc model (Table 21). Further 
+analysis using the Applicant’s population PK model for amisulpride yields a mean plasma 
+amisulpride concentration of 116 ng/mL in 30 min after dosing 10 mg over 1 min. This translates 
+to a ΔΔQTcF of 4.5 ms (90% upper CI: 5.3). Thus, we recommend waiting at least 30 min after a 
+10-mg dose of amisulpride to administer ondansetron in light of the QT effects of both 
+ondansetron and amisulpride.
+In addition, in DP10018 and DP10019, phase 3 trials for treatment of PONV, ondansetron was 
+used as either prophylaxis (DP10019 only) or further rescue medication in about 50% of the 
+patient population. In those two trials, further rescue medication was planned to be given at least 
+in 30 min after amisulpride, so the majority of patients who received further rescue took 
+ondansetron in >30 min after amisulpride dosing. However, some patients received ondansetron 
+as either prophylaxis or further rescue medication within 5 to 30 min before or after amisulpride 
+5 or 10 mg dosing. The safety review for DP10018 and DP10019 particularly in patients who 
+used both amisulpride 10 mg and ondansetron is deferred to the clinical review. See Section 8 for 
+detail of safety evaluation of DP10018 and DP10019. 
+Reference ID: 4331437
+(b) (4)
+(b) (4)
+
+
+===== PAGE 166 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+143
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+8.1 
+(continued)
+Animal Data
+Reproduction studies of amisulpride were 
+conducted in pregnant rats administered oral 
+doses up to 160 mg/kg per day (43 times the 
+exposure based on area under the cure 
+(AUC) at the highest recommended dose of 
+10 mg) throughout the period of 
+organogenesis. No adverse embryo-fetal 
+developmental effects were observed at any 
+dose level. Maternal animals exhibited a 
+dose-related decrease in overall mean body 
+weight gain. In rabbits administered 
+amisulpride throughout the period of 
+organogenesis, oral doses up to 
+210 mg/kg/day (645 times the exposure 
+based on AUC at the highest recommended 
+dose of 10 mg) had no adverse 
+developmental effects on the fetus. Maternal 
+animals exhibited reduced mean body weight 
+gain at doses of 100 and 210 mg/kg/day and 
+reduced food intake was observed at 
+210 mg/kg/day.
+The prenatal and postnatal developmental 
+effects of amisulpride were assessed in rats 
+administered oral doses of 60, 100, or 160 
+mg/kg/day during the periods of 
+organogenesis and lactation. At 160 
+mg/kg/day (43 times the exposure based on 
+AUC at the highest recommended dose of 10 
+mg), maternal animals exhibited a reduction in 
+mean body weight gain and decrease in food 
+intake during lactation. Amisulpride had no 
+effect on maternal pregnancy parameters, 
+litter survival or pup growth, development or 
+maturation at any dose tested.
+8.3
+Amisulpride is excreted in breast milk. 
+Caution should therefore be exercised when 
+BARHEMSYS is administered to a nursing 
+woman. [2.7.4.5.4]
+Infertility
+In animal fertility studies, administration of 
+repeated doses of amisulpride over a 10-day 
+period to female rats resulted in infertility that 
+was reversible [see Nonclinical Toxicology 
+(13.1)]. 
+Reference ID: 4331437
+
+
+===== PAGE 175 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+152
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+16.2.1. Individual Clinical Pharmacology Study Review
+16.2.1.1. Study DP10020: An open label, single dose, single period study to 
+assess the mass balance recovery, metabolite profile and metabolite 
+identification of [14C]-amisulpride administered via the intravenous 
+route to healthy male subjects (A mass balance study) 
+DP10020 was an open-label investigation of the metabolism and elimination of 14C-radiolabelled 
+amisulpride in six healthy, adult, male subjects. A single IV 10-mg dose of [14C]-amisulpride, 
+containing 1.784 MBq of radioactivity, was infused over 4 minutes. Blood samples were 
+collected at pre-dose, and 4, 8, 30 min, 1, 1.5, 2, 3, 4, 6, 8, 12, 24, 36, 48, 72, 96 hours after dose. 
+Cumulative urine samples were collected for the following intervals: pre-dose, 0 to 12 h, 12 to 24 
+h, and then daily until 168 h post-dose. Cumulative feces samples were collected at pre-dose and 
+then daily until 168 h post-dose.
+As a result, more than 96% of the radioactivity was recovered in urine and feces within 144 
+hours after dosing, indicating no significant retention of amisulpride in the body. Elimination 
+was predominantly in urine (73.6% of dose) and to a lesser extent in feces (22.8% of dose) 
+(Table 79). Elimination was biphasic, primarily urinary phase over the first 12 to 24 hours, 
+followed by a slower phase mainly in feces, almost completely by 96 hours. 
+Table 79. Cumulative Total Radioactivity Excretion Over Time After Single Intravenous 10-mg 
+Dose of [14C]-Amisulpride 
+Source: Study DP10020 study report, Tables 10
+Renal clearance of amisulpride was not specifically calculated in our PK studies. However, in 
+response to the information request dated 4/26/2018, renal clearance was provided based on total 
+radioactivity (SDN 24, 4/30/2018). Even though the radioactivity measured includes the extent 
+of all metabolites as well as parent form, the estimated renal clearance seems to be close 
+approximation given the low extent of metabolism of amisulpride. 
+The 20.5 L/hr (=341.6 mL/min) is greater than a typical GFR value, 125 mL/min, which suggests 
+that amisulpride undergoes active renal secretion. The clearance by active renal secretion is 
+expected to be approximately 254 mL/min based on the equation, i.e., active secretion = renal 
+clearance – (fu,p × GFR). Given that the total systemic clearance in healthy subjects is 24.1 L/h 
+(=401.6 mL/min), active renal secretion accounts for around 50% of the total clearance assuming 
+there is no re-absorption. 
+Reference ID: 4331437
+
+
+===== PAGE 177 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+154
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+16.2.1.2. Study DP10013: A Randomized, Double-blind, Four-period 
+Crossover Study to Investigate the Effect of Intravenous amisulpride on 
+Cardiac Conduction as Compared to Placebo and Moxifloxacin in 
+Healthy Adult Subjects (thorough QT study)
+DP10013 was a randomized, double blind, placebo- and positive-controlled, crossover design, to 
+assess the effect of intravenous amisulpride on the QTc interval at single dose of amisulpride 5 
+mg and 40 mg in 40 healthy subjects. For detailed review of Study DP10013, a thorough QT 
+study, please see the QT-IRT review dated January 12, 2018, by Lars Johannsen, PhD et al.
+16.2.1.3. Effect of Renal Impairment on Pharmacokinetics of Amisulpride: a 
+subset study of Study DP10014, DP10018, and DP10019
+The effect of renal impairment on PK was investigated using a PK subset population in phase 3 
+studies DP10014 and DP10018/19. Originally, patients were classified by the severity of renal 
+impairment differently between DP10014 and DP10018/19. In other words, in DP10014, 
+creatinine clearance calculated (CrCL) using the Cockcroft-Gault (C-G) formula was used 
+whereas in DP10018/19, estimated glomerular filtration rate (eGFR) calculated using the 
+abbreviated Modification of Diet in Renal Disease (MDRD) Study equation was used. 
+In DP10014, 13 of the 26 patients with a full PK profile had a degree of renal impairment 
+determined by estimated creatinine clearance, calculated using the C-G formula. In DP10018 and 
+DP10019, 11 out of 21 patients in the 5-mg dose group and 10 out of 27 in the 10-mg group had 
+impaired renal function by eGFR, calculated using the abbreviated MDRD (Table 82).
+Overall, no clear trend in terms of mean Cmax was observed between patients with normal, mildly 
+impaired or moderately impaired renal function. However, patients with mild to moderate renal 
+impairment showed slightly higher AUCinf up to around 1.3-fold whereas one patient with severe 
+renal impairment (eGFR 8.2 mL/min/1.73 m2) showed 2.1-fold higher AUCinf compared to 
+patients with normal renal function. 
+Table 82. Geometric Mean PK Parameters for Amisulpride by Degree of Renal Impairment 
+DP10014
+(C-G formula)
+DP10018/DP10019
+(MDRD)
+5 mg
+5 mg
+10 mg
+Renal Impairment
+N
+Cmax
+AUCinf
+N
+Cmax
+AUCinf
+N
+Cmax
+AUCinf
+Normal
+13
+141
+230
+11
+117
+178
+20
+195
+360
+Mild
+10
+168
+275
+8
+99
+192
+6
+227
+382
+Moderate
+3
+147
+280
+2
+168
+227
+-
+-
+-
+Severe
+-
+-
+-
+-
+-
+-
+1
+275
+781
+Normal function: CLcr ≥90 mL/min or eGFR ≥90 mL/min/1.73 m2
+Mild impairment: CLcr =60 to 89 mL/min or eGFR =60 to 89 mL/min/1.73 m2
+Moderate impairment: CLcr =30 to 59 mL/min or eGFR =30 to 59 mL/min/1.73 m2
+Severe impairment: CLcr =15 to 29 mL/min or eGFR =15 to 29 mL/min/1.73 m2
+Source: 2.7.2. Summary of Clinical Pharmacology, Table 2.7.2-22
+Originally, the abbreviated MDRD equation that used by the Applicant was slightly different 
+from the equation quoted in FDA guidance:
+The equation that the Applicant originally used:
+Reference ID: 4331437
+
+
+===== PAGE 179 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+156
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+determined based on the finding in nine patients with renal impairment compared to 6 healthy 
+subjects following a single 50 mg intramuscular injection; a 2-fold increase in the AUC of 
+amisulpride was shown in moderate renal impairment (CrCL 30 to 60 mL/min) while patients 
+with severe renal impairment (CrCL 12 to 29 mL/min) showed almost 4-fold increase in the 
+AUC compared to subjects with normal renal function. However, from the review of MHRA, 
+any individual data or the exact values was not available. Also, another product label of oral 
+amisulpride with 50 to 400 mg strengths which is approved by UK agency describes that the 
+AUC of amisulpride in moderate renal impairment (CrCL 30 to 60 mL/min) increase 2-fold and 
+almost 10-fold in severe renal impairment (CrCL 10 to 30 mL/min).
+16.2.1.4. In Vitro Drug Interaction Studies
+Substrate of Transporters
+Amisulpride was assessed for its potential to be a substrate for the panel of transporters by
+measuring its efflux or uptake (Study CYP1369 R3). P-gp and BCRP were studied using MDR1-
+MDCK cells and Caco-2 cells, respectively. All other transporters were investigated using 
+human embryonic kidney HEK293 cells transiently transfected with individual transporters. 
+Amisulpride was a substrate of P-gp, BCRP, MATE1, and MATE2-K, with weak uptake also 
+observed with OCT1 but no significant uptake was seen with OATP1B1, OATP1B3, OAT1, 
+OAT3 and OCT2 (Table 84).
+Given that amisulpride undergoes active renal excretion,  MATE1 and/or MATE2-K seems to 
+contribute to active renal secretion.
+Table 84. Substrate Identification Data for Amisulpride
+Reference ID: 4331437
+
+
+===== PAGE 184 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+161
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+Antipsychotic
+Amisulpride in oral or intramuscular formulation has been used as an anti-psychotic in other 
+countries at a dose range between 50 and 1200 mg/day, typically 400 to 800 mg/day for acute 
+psychosis and 50 to 300 mg/day for schizophrenia with primarily negative symptoms. Although 
+any relative bioavailability study between IV and oral formation was not conducted in this 
+submission, based on between-study comparison, the Cmax and AUC of amisulpride delivered by 
+the proposed doses of amisulpride in PONV, i.e., 5 and 10 mg IV, are generally lower than those 
+delivered by a typical 200 to 400 mg oral dose in psychiatric practice (Table 89). Per published 
+literature (Rosenzweig et al. 2002), oral bioavailability is around 50%. Of note, although mean 
+Cmax after 10 mg amisulpride was lower than that of 200 mg in the cross-study comparison, due 
+to the significant variability (%CV: 156%) of Cmax noted with IV amisulpride 10 mg, we cannot 
+conclude that Cmax would be lower with the proposed 10 mg IV than oral amisulpride at 200 mg.
+Table 89. Comparison of Mean (SD) Pharmacokinetic Parameters of Amisulpride Between IV 
+Infusion at 5 and 10 mg Versus Oral Administration at 200 mg and 400 mg
+Single IV infusion for 2 min
+(DP10018/DP10019)
+Single oral tablet
+(MHRA Report*)
+PK parameters
+5 mg
+10 mg
+200 mg
+400 mg
+Cmax (ng/mL)
+127 (64)
+285 (446)
+424 (200)
+1269 (512)
+AUCinf (ng*h/mL)
+204 (94)
+401 (149)
+3549 (959)
+8808 (1962)
+*Pharmaceutical Assessment Report PL 19364 (UKPAR on amisulpride 50, 100, 200 and 400 mg oral tablets) issued by MHRA to 
+support the approval of a generic amisulpride product
+Bergemann et al (2004) reported that the mean trough plasma levels of amisulpride at steady-
+state was 424.4 ng/mL (range: 20 to 1904 ng/mL) following the maintenance dose ranged from 
+150-1600 mg/day (Bergemann et al. 2004). In a similar study, Muller et al (2007) indicated that 
+the mean trough plasma levels of amisulpride at steady state was 315 ng/mL (range: 10 to 1682 
+ng/mL) at 100 to 1550 mg/day dose (Muller et al. 2007). From the two published studies, the 
+mean trough levels were around 300 to 400 ng/mL in chronic use for antipsychotic indication, so 
+peak plasma levels are expected to be much higher than the peak levels were observed, i.e., about 
+200-400 ng/mL, following single IV dose of amisulpride 5 to 10 mg for PONV indication. The 
+Applicant proposed that published safety data on oral amisulpride as an antipsychotic can be 
+extrapolated to intravenous amisulpride, especially when it comes to dose- or exposure-
+dependent safety concerns. 
+16.2.2. Population Pharmacokinetics Review
+16.2.2.1. Applicant’s Population PK Analyses and Simulation
+16.2.2.1.1. Final Population PK Model 
+The Applicant’s population PK analysis was performed with PK data from four studies outlined 
+in Table 90.
+Reference ID: 4331437
+
+
+===== PAGE 186 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+163
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+Figure 14. Observed Amisulpride Plasma Concentrations Over Time by Subject and Treatment.
+(Source: Applicant’s Population PK Report – 13Feb2018, Figure 1)
+The Applicant’s conclusions regarding the structural modeling and covariate modeling are as 
+follows:
+Structural Model Development:
+The data from added studies DP10018 and DP10019 looked consistent with the data from the 
+two studies already analyzed. The starting point was therefore the previously developed model as 
+described in Applicant’s Population PK Report submitted on Aug 3, 2018. A three-
+compartmental model with BW and renal function (RF) as covariates, without a non-renal 
+clearance component.
+As in the previous analysis estimating BSV for V3 did not decrease the objective function (OF) 
+and the parameter was poorly estimated.
+A two-compartmental model increased the OF by 374.
+Removal of RF as covariate increased the OF by 55. RF was kept.
+Estimating both a non-renal and renal clearance, with RF as a covariate on the renal clearance, 
+decreased the OF by 15 and AIC by 12. This model seemed modestly better and both clearance 
+components could be estimated, although they were highly correlated. This model was further 
+developed and the same covariates were identified as for the renal clearance only model (as 
+described below for the latter). The final two clearances model had an OF 34 lower than the final 
+renal clearance model. However, the clearances were still highly correlated (0.98) and less well 
+estimated (RSE of about 30% compared to 4% in the other model). The estimate for the renal 
+and non-renal clearance was about the same in this model and somewhat dependent on the initial 
+Reference ID: 4331437
+
+
+===== PAGE 187 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+164
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+values. No differences in overall model t was observed between the two models. The model with 
+renal clearance only was selected as base model, since it was simpler, more robust and more 
+conservative when considering the potential impact of renal failure, even if there is some support 
+for a non-renal clearance component.
+Covariate Model Analysis:
+The univariate covariate analysis (added to the model including BW and RF) is summarized in 
+Table 91. The effect of study population, age, sex and race were evaluated on clearance (CL), 
+initial volume of distribution (V1) and inter compartmental clearance 1 (Q), since these 
+parameters are important in determining the Cmax and had reasonable data to support their 
+estimation in most subjects. In addition, the effect of study population on the between subject 
+variability (BSV) in these parameters was also evaluated.
+Table 91. Objective Function Changes When Adding a Covariate to the Base Model
+(Source: Applicant’s Population PK Report – 13Feb2018, Table 3)
+A full model was generated including the covariate effects of population on CL and on the BSV 
+of both CL and Q, as well as race on CL. Backward deletion of race on CL increased the OF by 
+only 5. Race was removed from the model. Subsequently removal POP on CL increased the OF 
+by 9. Although borderline, this covariate was kept in the model, since the effect was considered 
+relevant and plausible, even if modest.
+Reference ID: 4331437
+
+
+===== PAGE 190 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+167
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+clearance was evaluated, this misspecification disappeared. This misspecification was not 
+considered a concern but it will result in a potential underprediction of the CL for subjects with 
+severe renal function.
+Final PK Model:
+The FINAL population pharmacokinetic model for amisulpride was a three-compartmental 
+model with body weight as a fixed covariate on the clearances and volumes of distribution. In 
+addition, the clearance was related to the standardized renal function. The model included 
+proportional between subject variability on most of the disposition parameters. The residual error 
+was described by a proportional model. The clearance as well as the between subject variability 
+in clearance and inter compartmental clearance 1 were different for the surgical patients in 
+studies DP10014, DP10018 and DP10019, compared to healthy subjects (study DP10013) (Table 
+92).
+Table 92. Parameter Estimates for the Final Population PK Model.
+(Source: Applicant’s Population PK Report, 13Feb2018, Table 4)
+Reference ID: 4331437
+
+
+===== PAGE 191 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+168
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+Figure 16. Final Model Observed Versus Predicted by Study Population
+(Source: Applicant’s Population PK Report – 13Feb2018, )
+The Applicant’s conclusions regarding their final Population PK model are as follows:
+
+Since the maximal predicted QT prolongation is based on the either the maximal mean 
+amisulpride concentration or the mean amisulpride Cmax, the model should describe Cmax 
+(end of infusion) well.
+
+The population PK of amisulpride was consistent and very similar to the previously 
+developed model. But with the new (patient) data, a modestly lower clearance in surgical 
+patients under general anesthesia compared to healthy subjects could be identified (20.6 
+L/hr vs 24.1 L/hr for a 70 kg subject with RF=1). This is not so surprising (it may be 
+related to reduced blood flow) but unlikely to be of any clinical relevance, since, apart 
+from being modest, for such rapid infusion Cmax will not be much dependent on the 
+clearance. In addition, part of the difference in between subject variability in exposures 
+between patients and healthy subjects could be identified. The patients had a considerably 
+larger between subject variability in both clearance and inter compartmental clearance 1 
+(Q).
+
+There was some suggestion that there may be a non-renal component of the clearance, 
+which is not inconsistent with what is known about amisulpride (section 2.2). About 25% 
+of unchanged amisulpride was found in the feces. However, the fraction of non-renal 
+clearance could not be reliably estimated and it was considered prudent to select the more 
+robust model assuming all clearance to be renal (and thus affected by renal impairment).
+
+The final population PK model described the mean and individual profiles very well and 
+was considered adequate for evaluation of Cmax (dose ranges 5 to 40 mg).
+Reference ID: 4331437
+
+
+===== PAGE 192 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+169
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+
+The developed population pharmacokinetic model was considered appropriate to be used 
+in future evaluations of the risk of QTc prolongation for various dosing regimens for 
+amisulpride between 5 and 40 mg in a generally healthy adult subject population.
+
+Some differences in PK between healthy subjects and surgical patients under general 
+anesthesia could be characterized.
+The Applicant’s population PK model is acceptable for evaluating renal function, BW, and 
+patient population as covariates on CL and for describing the PK of amisulpride for labeling 
+purposes.
+16.2.2.1.2. Applicant’s Simulation of Cmax Values for different Infusion 
+Durations with the 10-mg dose
+The Applicant conducted additional simulation work utilizing their final population PK model to 
+evaluate the Cmax after short infusion durations (1, 2, and 4 minutes) of the high dose (10 mg) 
+amisulpride. 
+The simulations and all subsequent calculations were performed using R (version 3.2.3 (2015-
+11-30), The R Foundation for Statistical Computing, Platform: x86 64-pc-linux-gnu (64-bit)) and 
+R-Studio (version 1.1.442 2009-2018 RStudio, Inc.).
+
+Simulations:
+The simulation was performed for surgical patients receiving general anesthesia.
+
+N=1000 subjects per dosing regimen
+
+Each subject (their covariate vector) was randomly sampled from the surgical patient part 
+of the original popPK dataset (104 patients). The population in the simulations therefore 
+represents a similar patient population as the one used in the popPK analysis.
+
+The pharmacokinetic profile for each subject was simulated using the population PK 
+model.
+o
+The time point resolution for the simulation ranged from 0.001 hr in the first 0.1 hr to 
+2-hrs at the end of the 24 hr time interval.
+o
+The PK simulations included between subject variability in the parameters but not 
+param-eter uncertainty or residual variability.
+
+Cmax and Concentration at t=24 hr (C24) were observed directly from the simulated 
+individual PK profiles.
+
+AUC(0-24) was calculated for each simulated individual PK profile using the trapezoidal 
+rule based on a reduced selection of time points:
+o
+Every minute for the first 15 minutes
+o
+Every 5 minutes from 0.25 to 1 hr
+o
+Every 0.1 hr from 1 to 2 hr
+o
+After 2 hr all simulated time points
+
+The estimated exposures, Cmax, AUC(0-24) and C24, were summarized by dosing 
+regimen.
+Reference ID: 4331437
+
+
+===== PAGE 194 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+171
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+distribution (29%), the simulation work for representing Cmax values is acceptable. The nature of 
+the IV infusion model combined with 3 compartments allows for more curvature in the time 
+course to accurately capture the Cmax. Additionally, there was minimal bias in the data for the 
+high concentrations as indicated by the GOF plots in Figure 16.
+16.2.2.2. Reviewer’s Population PK Analysis
+16.2.2.2.1. Introduction
+The Applicant’s model did not converge in our version of Monolix or NONMEM as they had 
+indicated. A review of the model was performed to ensure covariate effects could be resolved 
+properly and the effect of changing the infusion duration on Cmax were evaluated.
+16.2.2.2.2. Objectives
+Analysis objectives are:
+1. Perform sensitivity analyses to evaluate if covariate effects are appropriately identified
+2. Simulate the effect of increasing infusion duration to limit Cmax to avoid unnecessary QT 
+prolongation
+16.2.2.2.3. Methods
+Data sets used are summarized in Table 94.
+Table 94. Analysis Data Sets
+Study Number
+Name 
+Link to EDR
+Population PK 
+Update
+Apd421-update-
+3.csv
+\\cdsesub1\evsprod\NDA209510\0016\m5\datasets\apd421-
+pop-pk\misc 
+Monolix and NONMEM version 7.3 were utilized to run and evaluate the model structure. The 
+statistical software R was utilized to create diagnostic plots and Berkeley Madonna was utilized 
+to simulate the effect of different infusion duration on peak amisulpride concentrations.
+16.2.2.2.4. Results
+Population PK Covariate Analysis:
+The exclusion of either renal function, body weight and patient status were each evaluated to 
+determine the relevance of the parameter on to the PK of amisulpride. A sensitivity analysis was 
+performed for each covariate by removing the parameter from the model and refitting the data. 
+Then the eta(CL) for each individual were plotted against the covariate of interest for both before 
+and after the covariate was removed. If the covariate is relevant a trend in the ETA(CL) values 
+should be evident when plotted against the tested covariate. Figure 18 through Figure 20 indicate 
+just this. The panel on the right evidences a trend with the covariate compared to the panel on the 
+left (Applicant’s final model). The lack of bias in the left panel indicates the mathematical 
+Reference ID: 4331437
+
+
+===== PAGE 196 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+173
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+Figure 20. ETA(CL) Versus Patient Status
+Before (left panel) and after (right panel) removing patient status as a covariate in the model. Red and blue boxes indicate healthy 
+subjects and patients, respectively.
+Table 95. Diagnostics of Covariate Relevance and Model Robustness Before and After Removing 
+Body Weight, Renal Function, and Patient Status
+RF = renal function
+Allowing the exponents of the BW on CL and V to be estimated yielded a much more significant 
+OF decrease (32 points) and a value of -1584. Shrinkage on clearance was 27% and 29% for V1. 
+Between subject variability was 22.5% CV for clearance. The allometric coefficients were 
+estimated to be 0.61 instead of 0.75 for clearance and 0.433 instead of 1.0 for volume 
+parameters. Given that the Applicant’s model appeared to capture the central tendency of the 
+Reference ID: 4331437
+
+
+===== PAGE 197 =====
+
+NDA Multi-Disciplinary Review and Evaluation
+NDA 209510 Barhemsys (amisulpride)
+174
+Version date: September 8, 2017 for initial rollout (NME/original BLA reviews)
+data, along with the high value of shrinkage and minimal reduction in BSV, the reviewer did not 
+alter the model to estimate the allometric coefficients and the Applicant’s values were accepted.
+Cmax Simulation with Patient Demographics and Post Hoc Bayesian Parameters
+The Applicant simulated Cmax values by creating a population by resampling the demographics 
+of the relevant covariates from the existing population and then simulating based on this new 
+dataset. Their results are shown in Table 93. Given that the shrinkage around the CL and V 
+parameters is not small the reviewer sought a simulation that may more closely capture the 
+behavior of the studied patients. Thus, the reviewer simulated Cmax values for demographics of 
+the studied population based on the Applicant’s final model structure estimated in NONEM. The 
+estimates of Cmax came up lower despite using the same model structure (Table 96). It should be 
+noted that despite the same model structure, the NONEM estimates for the model were a bit 
+different than the Applicants (Table 97). Despite this difference, the Applicant’s values were 
+utilized for the QTcF assessment for the 10-mg dose as this is a more conservative when 
+considering potential adverse effects of the drug (i.e., QT prolongation).
+Table 96. Simulated Cmax Values at the End of Infusion for Healthy Subjects and Patients 
+Receiving 10 mg Amisulpride with Three Different Infusion Durations
+Table 97. Theta Parameter Estimates for the NONMEM Fitting of the Applicant’s Final Model 
+Structure
+Theta
+Description
+Estimate
+FIX
+1
+CL
+16
+-
+2
+V1
+30.9
+-
+3
+Q2
+73
+-
+4
+V2
+85.9
+-
+5
+Q3
+15.9
+-
+6
+V3
+991
+-
+7
+BWonCL
+0.75
+FIX
+8
+BWonV
+1
+FIX
+9
+error
+0.277
+-
+10
+Patient
+0.582
+-
+The FOCE w. Interaction estimation algorithm was utilized.
+Reference ID: 4331437

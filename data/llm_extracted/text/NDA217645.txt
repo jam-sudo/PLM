@@ -1,0 +1,590 @@
+
+
+===== PAGE 5 =====
+
+NDA 217645 
+Onyda XR (clonidine hydrochloride extended-release oral suspension) 
+ 
+ 
+4 
+Version date: October 12, 2018  
+Table of Tables 
+Table 1. Summary Statistics of Clonidine Pharmacokinetic Parameters for Treatment B versus 
+Treatment C .................................................................................................................................. 26 
+Table 2. Summary of Clonidine Pharmacokinetic Parameters for Treatment A vs Treatment B . 27 
+Table 3. Summary Statistics of Clonidine Pharmacokinetic Parameters for Treatment A versus 
+Treatment B .................................................................................................................................. 29 
+Table 4. Comparison of Simulated Ctrough,ss For the Test Drug (Onyda XR) and the Listed Drug 
+(Kapvay) in Subjects with Varying Bodyweights ........................................................................... 33 
+Table 5. Listing of Clinical Trials Relevant to this NDA217645 ..................................................... 35 
+Table 6. Exposure to Clonidine HCl ER OS .................................................................................... 39 
+Table 7. Demographic Profile of Subjects Who Completed Study 20-VIN-0304 .......................... 40 
+Table 8. Demographic Profile of Subjects Who Completed Single-dose Study 2021-5094 ......... 41 
+Table 9. Demographic Profile of Subjects Who Completed Multiple Dose Study 2021-5095 ..... 42 
+Table 10. Incidence of Adverse Events in Study 2021-5094 ......................................................... 45 
+Table 11. Incidence of Significant Adverse Events in Study 2021-5095 ....................................... 46 
+Table 12. Electrocardiogram of Subject 
+ after Clonidine HCL ER OS in the Fasted State ......... 48 
+Table 13. Subject Disposition ........................................................................................................ 64 
+Table 14. Descriptive Statistics for Plasma Clonidine Pharmacokinetic Parameters ................... 65 
+Table 15. Summary of Clonidine Pharmacokinetic Parameters for Treatment B vs Treatment C 66 
+Table 16. Summary of Clonidine Pharmacokinetic Parameters for Treatment B vs Treatment C 66 
+Table 17. Summary of Clonidine Pharmacokinetic Parameters for Treatment A vs Treatment B67 
+Table 18. Summary of Clonidine Pharmacokinetic Parameters for Treatment A vs Treatment B67 
+Table 19. Subject Disposition ........................................................................................................ 71 
+Table 20. Descriptive Statistics for Plasma Clonidine Pharmacokinetic Parameters ................... 72 
+Table 21. Summary of Clonidine Pharmacokinetic Parameters for Treatment A vs Treatment B72 
+Table 22. Statistical Analysis of Pre-dose Plasma Clonidine Concentration- Treatment A .......... 73 
+Table 23. Statistical Analysis of Pre-dose Plasma Clonidine Centration- Treatment B ................ 73 
+ 
+ 
+ 
+Reference ID: 5387147
+(b) 
+(6)
+
+
+===== PAGE 23 =====
+
+NDA 217645 
+Onyda XR (clonidine hydrochloride extended-release oral suspension) 
+ 
+ 
+22 
+Version date: October 12, 2018  
+6 Clinical Pharmacology 
+ 
+Executive Summary 
+The LD was approved for the treatment of ADHD as monotherapy or as adjunctive therapy to 
+stimulant medications in pediatric patients 6 to 17 years of age under NDA 022331. The 
+Applicant is seeking approval of clonidine ER OS via the 505(b)(2) route for the same indication 
+as the LD. The Applicant stated that this ER OS formulation of clonidine is intended to offer 
+additional flexibility for the dose titration. Clonidine ER OS will be administered once-daily while 
+the LD is given twice-daily. This application relies on the Agency’s previous findings of safety 
+and effectiveness of the LD. 
+ 
+The clinical pharmacology program in this current submission consists of a pilot relative 
+bioavailability (BA) study to select the optimal formulation (this study was not reviewed) and 
+two pivotal relative BA studies (2021-5094 and 2021-5095) after single- and multiple-dose 
+administration to establish an acceptable PK bridge between clonidine ER OS formulation and 
+the LD. The effect of food on clonidine ER OS was also evaluated as part of the single-dose 
+relative BA study. In addition, the Applicant included a modeling and simulation report to 
+support the PK difference (i.e., slightly lower Ctrough at steady-state for the proposed clonidine 
+ER OS formulation compared to the LD) would not affect the efficacy in pediatric patients.  
+ 
+OCP reviewed the pivotal relative bioavailability studies and the modeling and simulation report 
+submitted in this application and finds that the exposures (peak plasma concentrations (Cmax) 
+and area under the plasma concentration-time curve (AUC)) from equal total doses of clonidine 
+ER OS were comparable to that of the LD after both single- and multiple-dose administration. 
+However, Ctrough at steady-state (Ctrough,ss) was approximately 26% lower than that of the 
+LD. This difference is not expected to be clinically meaningful in treatment naïve patients who 
+are initially being treated with Clonidine ER OS. Therefore, the proposed product, clonidine ER 
+OS can rely on safety and effectiveness of the LD. Patients stabilized on other IR or ER clonidine 
+formulations cannot be switched on a mg-per-mg basis to clonidine ER OS due to potential 
+differences in the PK shape between the formulations and lower Ctrough,ss at steady state. A 
+high-fat meal did not significantly affect the PK of clonidine after administration of clonidine ER 
+OS under fed conditions compared to fasting conditions.  
+ 
+Per recommendation from OSIS, the clinical and bioanalytical sites for the pivotal relative BA 
+studies (2021-5094 and 2021-5095) are acceptable. OCP recommends the approval of clonidine 
+ER OS for the treatment of ADHD. 
+ 
+Summary of Clinical Pharmacology Assessment 
+In a single-dose relative BA study in healthy subjects under fasting conditions, the PK of 
+clonidine was compared between clonidine ER OS and the LD. The effect of food on clonidine 
+ER OS was also evaluated. In this open-label, randomized, three-period, three-treatment, 
+Reference ID: 5387147
+
+
+===== PAGE 24 =====
+
+NDA 217645 
+Onyda XR (clonidine hydrochloride extended-release oral suspension) 
+ 
+ 
+23 
+Version date: October 12, 2018  
+crossover study, 0.2 mg of clonidine ER OS was administered after a high-fat meal under fasting 
+conditions and the LD was given in divided doses (0.1 mg at 0 and 12 hours) under fasting 
+conditions. The three periods were separated by a washout period of at least 7 days.  The 
+results indicated that Cmax and AUCinf were comparable to those of the LD. The 90% 
+confidence intervals (CIs) for the geometric mean ratio of Cmax and AUCinf were contained 
+within the acceptable range (80% to 125%) to conclude that the products are comparable.  
+ 
+Compared to fasted conditions, a high-fat meal did not significantly affect the exposures of 
+clonidine. The median time to reach Cmax (Tmax) was slightly reduced from 7.5 hours to 7 
+hours. Because clonidine ER OS is intended for chronic administration, a shorter reduction in 
+Tmax was deemed clinically not meaningful. Therefore, clonidine ER OS can be given with or 
+without food. 
+ 
+In a multiple-dose (steady state) relative BA study in healthy subjects, the PK at steady state 
+was compared between clonidine ER OS and the LD.  In this open-label, multiple-dose, 
+randomized, two-period, two-treatment, crossover study, subjects were administered clonidine 
+ER OS or the LD under fasting conditions according to the randomization schedule. Clonidine ER 
+OS 0.2 mg was administered once daily for 5 days, or 0.2 mg of LD was administered (given as 
+0.1 mg twice daily) for 5 days. The washout period between the drug administration from the 
+first dose of period 1 to the first dose of period 2 was at least 14 days. The results indicated that 
+Cmax and AUC at steady state were comparable. The 90% CI of the geometric mean ratios of 
+plasma clonidine for AUCt,ss and Cmax,ss for Clonidine ER OS and LD were within 80% to 125%. 
+However, the 90% CI of C24h,ss (Ctrough, ss) of clonidine ER OS was not within 80% to 125% of 
+the LD.  The geometric mean Ctrough, ss after drug administration at steady state for clonidine 
+ER OS was 26% (90% CI: 21-31%) lower than that of the LD. Given that clonidine ER OS is 
+administered as a titration-based regimen, the efficacy of the LD was similar between 0.2 
+mg/day and 0.4 mg/day dosing regimens following 5 weeks of treatment and 0.1 mg/day 
+regimen showed significant efficacy following 1 week of treatment, the slightly lower C24hr, ss 
+with clonidine ER OS is considered to be clinically not meaningful for the treatment naïve 
+patients. The difference in shape of the plasma concentration time profile between Clonidine 
+ER OS and the LD is also not expected to clinically meaningful in treatment naïve patients.  
+ 
+Because the PK profiles of other IR or ER formulations of clonidine could be different from that 
+of clonidine ER OS formulation and efficacy is expected to be lower in patients who switch from 
+other clonidine ER products to clonidine ER OS, it is not recommended to substitute with 
+clonidine ER OS on a mg-per-mg basis in patients who are stabilized with other clonidine 
+formulations. 
+ 
+Pharmacology and Clinical Pharmacokinetics 
+The pharmacology and clinical PK information are based on the approved label for the LD.  
+ 
+Reference ID: 5387147
+
+
+===== PAGE 25 =====
+
+NDA 217645 
+Onyda XR (clonidine hydrochloride extended-release oral suspension) 
+ 
+ 
+24 
+Version date: October 12, 2018  
+Absorption 
+Following a single 0.2-mg dose of Onyda XR in 20 healthy adult subjects under fasting 
+conditions in a crossover study, the median (range) time to peak plasma concentrations (Tmax) 
+for clonidine was 7.50 (4 to 17) hours after dosing. Peak concentration (Cmax) was 95.6% of the 
+Cmax of Clonidine ER tablet 0.1 mg administered at 0 and 12 hours under fasting conditions. 
+The relative BA of ONYDA XR compared with an equal dose of Clonidine ER tablet was 96.1%.  
+After oral administration of 0.2 mg of Onyda XR once-daily over 5 days under fasted conditions 
+in healthy adult subjects, the peak steady state plasma concentration (Cmax.ss) was 107.9%, 
+and steady state relative BA (AUCt, ss) was 97.7% compared with 0.1 mg of clonidine extended-
+release tablet administered twice-daily under fasting conditions. The minimum concentration at 
+steady state (Cmin,ss) of ONYDA XR was about 26% lower than that of the equal dose of 
+clonidine extended-release tablet. 
+ 
+Following oral administration of an IR formulation, plasma clonidine concentration peaks in 
+approximately 3 to 5 hours. 
+ 
+A comparison across studies suggests that the Cmax is 50% lower for ER clonidine 
+hydrochloride compared to IR clonidine hydrochloride. 
+Food Effect 
+High-fat meal (900 Kcal) did not affect the PK of clonidine ER OS.  
+Distribution 
+The volume of distribution (V/F) is approximately 330 L/h. 
+Elimination 
+Metabolism 
+About 50% of the absorbed dose of clonidine is metabolized in the liver.  
+Excretion 
+Following oral administration, approximately 40 to 60% of the absorbed dose is recovered in 
+the urine as unchanged drug in 24 hours.  The mean (± SD) plasma half-life of clonidine ER OS 
+after single-dose administration under fasting conditions was about 13.54 (± 3.40) hours. 
+Although studies of the effect of renal impairment and studies of clonidine excretion have not 
+been performed with clonidine ER OS, results are expected to be similar to those of the IR 
+formulation.  
+ 
+ 
+General Dosing and Therapeutic Individualization 
+Because the exposures (Cmax and AUC) of clonidine after administration of clonidine ER OS 
+compared to the LD tablets are contained within the 80 to 125% bioequivalence limits of the LD 
+under fasted conditions, the information relevant to dosing and therapeutic individualization of 
+clonidine ER OS can rely on the LD.  However, patients cannot switch on a mg-per-mg basis 
+Reference ID: 5387147
+
+
+===== PAGE 27 =====
+
+NDA 217645 
+Onyda XR (clonidine hydrochloride extended-release oral suspension) 
+ 
+ 
+26 
+Version date: October 12, 2018  
+Figure 1. Mean Plasma Clonidine Concentration-Time Profile following a Single Oral 0.2 mg 
+Clonidine ER OS (Treatment A—Fed (red line) and Treatment B—Fasting (blue line)) and 0.1 
+mg Kapvay ER Tablet (Treatment C) Administered at 0 hour and 12 hours under Fasting 
+Conditions (green line) 
+ 
+Source: Study 2021-5094 p. 41 
+ 
+Table 1. Summary Statistics of Clonidine Pharmacokinetic Parameters for Treatment B versus 
+Treatment C 
+ 
+Source: Study 2021-5094 p. 39 
+The PK parameters (Cmax and AUCinf) are comparable after administration of clonidine ER OS 
+and the LD. The 90% CI for the geometric mean ratio of Cmax and AUC are contained within the 
+Reference ID: 5387147
+
+
+===== PAGE 28 =====
+
+NDA 217645 
+Onyda XR (clonidine hydrochloride extended-release oral suspension) 
+ 
+ 
+27 
+Version date: October 12, 2018  
+acceptable regulatory interval of 80 to 125%. The results suggest that clonidine ER OS can rely 
+on the Agency’s previous findings of safety and efficacy of the LD. 
+What is the effect of food on the exposures of clonidine ER OS? Does this product require 
+specific dosing instruction regarding food? 
+There is no clinically meaningful difference in exposures when clonidine ER OS is administered 
+under fed or fasting conditions.  Clonidine ER OS can be administered with or without food. 
+ 
+Table 2. Summary of Clonidine Pharmacokinetic Parameters for Treatment A vs Treatment B 
+ 
+Source: Study 2021-5094 p. 39 
+ 
+The exposures (Cmax and AUCinf) are comparable when clonidine ER OS is administered under 
+both fed and fasting conditions (Table 2). The 90% CI for the geometric mean ratio of Cmax and 
+AUC are contained within 80 to 125%, the acceptable regulatory limit indicating that Cmax and 
+AUC are comparable. Tmax is reduced from 7.5 hours to 7 hours when administered under fed 
+conditions compared to fasting conditions. Given that clonidine ER OS is intended for chronic 
+administration, slightly lower Tmax is not expected to be clinically meaningful. 
+Are the exposures to clonidine after clonidine ER OS 0.2 mg daily similar to the LD, Kapvay 0.1 
+mg, twice-daily after multiple dose administration? 
+Yes, the exposures (Cmax and AUC) after multiple-dose administration of 0.2 mg clonidine ER 
+OS once-daily and Kapvay (LD) 0.1 mg twice-daily are comparable. However, the geometric 
+mean Ctrough, ss was approximately 26% lower as compared to the LD. In a randomized, 
+double-blind, placebo-controlled phase 3 efficacy and safety study in pediatric patients with 
+ADHD 6 to 17 years of age (CLON-301), the LD showed similar efficacy at 0.2 mg/day and 0.4 
+mg/day dosing regimens following 5 weeks treatment and lower (but statistically significant) 
+efficacy was observed at 0.1 mg/day at Week 1. As the efficacy of 0.1 mg/day regimen at Week 
+5 was not studied, the efficacy of 0.1 mg/day at Week 5 is not known. Given that clonidine ER 
+OS is administered as a titration based regimen, the efficacy of the LD was similar between 0.2 
+mg/day and 0.4 mg/day dosing regimens and 0.1 mg/day regimen showed significant efficacy at 
+Reference ID: 5387147
+
+
+===== PAGE 36 =====
+
+NDA 217645 
+Onyda XR (clonidine hydrochloride extended-release oral suspension) 
+ 
+ 
+35 
+Version date: October 12, 2018  
+Table 5. Listing of Clinical Trials Relevant to this NDA217645 
+Trial 
+Identity 
+Trial Design 
+Regimen/ schedule/ route 
+Study Endpoints 
+Treatment 
+Duration/ 
+Follow Up 
+No.  
+patients 
+enrolled 
+Study 
+Population 
+No. 
+Centers 
+and 
+Countries 
+2021-5094 
+Single-center, 
+open-label, 
+single dose, 
+randomized, 
+three periods, 
+three-
+treatment, 
+three 
+sequence, 
+crossover 
+Test: Clonidine Hydrochloride 
+(HCl) Extended-Release (ER) 
+Oral Suspension (OS) 0.1 
+mg/mL (equivalent to 0.09 
+mg Clonidine base per mL); a 
+single dose of 2 mL (0.2 mg) 
+(0.1 mg/ ml) under both fed 
+and fasting conditions 
+ 
+Reference: 0.1 mg (one 
+extended -release tablet of 
+Kapvay (clonidine 
+hydrochloride)) administered 
+at 0- and 12-hours under 
+fasted conditions (total dose 
+= 0.2 mg (two extended- 
+release tablets)).  
+ 
+Pharmacokinetic 
+(PK) Parameters 
+Cmax 
+AUCt 
+AUCinf 
+Single Dose 
+23 (19 
+completed) 
+Healthy 
+Subjects 
+One 
+Canada 
+2021-5095 
+Open-label, 
+multiple-dose, 
+randomized, 
+two periods, 
+twp-treatment, 
+two-sequence, 
+crossover 
+Test Product: 0.2 mg (2 mL 
+clonidine hydrochloride 
+extended -release oral 
+suspension, 0.1 mg/mL) self-
+administered at 0, 24, 48, 72, 
+and 96 hours. Subjects fasted 
+for at least 10 hours prior to, 
+and at least 4 hours after, the 
+96-hour drug administration. 
+ 
+ 
+PK Parameters 
+Cmax,ss 
+AUCt,ss 
+Cmin,ss 
+ 
+5 days 
+20 (19 
+completed) 
+Healthy 
+Subjects 
+One 
+Canada 
+Reference ID: 5387147
+
+
+===== PAGE 67 =====
+
+NDA 217645 
+Onyda XR (clonidine hydrochloride extended-release oral suspension) 
+ 
+ 
+66 
+Version date: October 12, 2018  
+Table 15. Summary of Clonidine Pharmacokinetic Parameters for Treatment B vs Treatment C 
+ 
+Source: Study 2021-5094 p. 39 
+ 
+Table 16. Summary of Clonidine Pharmacokinetic Parameters for Treatment B vs Treatment C 
+Parameter 
+Treatment 
+Geometric 
+LSMean 
+Contrast 
+Ratio (%) 
+90% CI 
+AUCt 
+(hr.pg/mL) 
+B 
+10207.48 
+B vs C 
+97.32 
+92.72 – 102.10 
+C 
+10488.50 
+AUCinf 
+(hr.pg/mL) 
+B 
+11600.31 
+B vs C 
+96.20 
+90.72 – 102.01 
+C 
+12059.10 
+Cmax 
+(pg/mL) 
+B 
+394.21 
+B vs C 
+95.44 
+90.08 – 101.12 
+C 
+413.03 
+Source: Reviewer’s Analysis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 5387147
+
+
+===== PAGE 68 =====
+
+NDA 217645 
+Onyda XR (clonidine hydrochloride extended-release oral suspension) 
+ 
+ 
+67 
+Version date: October 12, 2018  
+Table 17. Summary of Clonidine Pharmacokinetic Parameters for Treatment A vs Treatment B 
+ 
+Source: Study 2021-5094 p. 39 
+ 
+Table 18. Summary of Clonidine Pharmacokinetic Parameters for Treatment A vs Treatment B  
+Parameter 
+Treatment 
+Geometric 
+LSMean 
+Contrast 
+Ratio (%) 
+90% CI 
+AUCt 
+(hr.pg/mL) 
+A 
+10207.48 
+A vs B 
+95.92 
+91.33 – 100.74 
+B 
+9791.01 
+AUCinf 
+(hr.pg/mL) 
+A 
+11330.96 
+A vs B 
+97.68 
+91.99 – 103.72 
+B 
+11600.31 
+Cmax 
+(pg/mL) 
+A 
+386.50 
+A vs B 
+98.05 
+92.42 – 104.02 
+B 
+394.21 
+Source: Reviewer’s Analysis 
+ 
+Pharmacokinetic Summary 
+The reviewer’s BE analysis is consistent with the Sponsor’s analysis. The PK parameters (Cmax, 
+AUCinf) of clonidine HCl ER OS are within the bioequivalence (BE) limit 80 to 125% of the LD 
+under fasting conditions. Furthermore, the exposures (Cmax and AUC) are equivalent when 
+clonidine ER OS is administered under both fed and fasting conditions. Median Tmax was about 
+10.5 hours shorter after administration of clonidine ER OS compared to the LD. 
+ 
+OCP Reviewer’s Comments:  The reviewer agrees with the Sponsor’s evaluation that 
+after single-dose administration, the PK parameters of 0.2 mg of clonidine ER OS are 
+equivalent to those of 0.2 mg of clonidine ER oral tablet (Kapvay) administered as 0.1 mg 
+twice daily. Therefore, clonidine ER OS can rely on the Agency’s previous findings of 
+safety and efficacy of the LD, Kapvay. 
+ 
+Reference ID: 5387147
+
+
+===== PAGE 70 =====
+
+NDA 217645 
+Onyda XR (clonidine hydrochloride extended-release oral suspension) 
+ 
+ 
+69 
+Version date: October 12, 2018  
+Dose: 0.2 mg daily for 5 days (2 mL of 0.1 mg/mL self-administered at 0, 24, 48, 72, and 96 
+hours).  
+Subjects fasted for at least 10 hours prior to, and at least 4 hours after, the 96-hour drug 
+administration. 
+Treatment B (Reference): Kapvay (Clonidine HCl), ER Tablets, 0.1 mg (equivalent to 0.087 mg of 
+the free base in 0.1 mg tablet; Concordia Pharmaceuticals, USA) 
+Dose: 0.2 mg daily for 5 days (0.1 mg administered at 0, 12, 24, 36, 48, 60,72, 84, 96 and 108 
+hours 
+Subjects fasted for at least 10 hours prior to and at least 4 hours after the 96-hour drug 
+administration.  Subjects fasted for at least 2 hours prior to and at least 2 hours after, the 108-
+hour drug administration. 
+The washout period between the drug administration from the first dose of period 1 to the first 
+dose of period 2 was at least 14 days corresponding to more than 5 half-lives. 
+ 
+PK Sampling:  PK blood samples for the determination of plasma clonidine PK parameters were 
+collected prior to Treatment A dosing at 0, 24, 48, 72, 96 hours, and at 97, 98, 99, 100, 101, 
+101.5, 102, 102.5, 103, 104, 105, 106, 109, 110, 111, 112, 113, 114, 115, 116, 118, and 120 
+hours after Treatment A dosing; and prior to Treatment B dosing at 0, 24, 48, 72 , 84, 96, and 
+108 hours, and at 97, 98, 99, 100, 101, 101.5, 102, 102.5, 103, 104, 105, 106, 109, 110, 111, 
+112, 113, 114, 115, 116, 118, and 120 hours after Treatment B dosing. The PK parameters, 
+AUCt,ss, Cmin,ss, Cmax,ss, C24,ss, Cavg, Tmax,ss, %Swing and %Fluctuation were estimated 
+using a non-compartmental approach. 
+ 
+Bioanalytical Analysis: Plasma concentrations of clonidine in subject samples were measured 
+utilizing liquid chromatographic tandem mass spectrometric detection (LC-MS/MS) method. 
+The standard calibration range was from 10.0 to 800 pg/mL using a plasma sample volume of 
+0.300 mL.  
+Reference ID: 5387147
+
+
+===== PAGE 73 =====
+
+NDA 217645 
+Onyda XR (clonidine hydrochloride extended-release oral suspension) 
+ 
+ 
+72 
+Version date: October 12, 2018  
+Table 20. Descriptive Statistics for Plasma Clonidine Pharmacokinetic Parameters 
+ 
+Source: Applicant  
+ 
+Table 21. Summary of Clonidine Pharmacokinetic Parameters for Treatment A vs Treatment B 
+ 
+Source: Study 5095 page 41 
+ 
+ 
+ 
+ 
+Reference ID: 5387147
+
+
+===== PAGE 74 =====
+
+NDA 217645 
+Onyda XR (clonidine hydrochloride extended-release oral suspension) 
+ 
+ 
+73 
+Version date: October 12, 2018  
+Table 22. Statistical Analysis of Pre-dose Plasma Clonidine Concentration- Treatment A 
+ 
+Source: Study 5095 p. 44 
+ 
+Table 23. Statistical Analysis of Pre-dose Plasma Clonidine Centration- Treatment B 
+ 
+Source: Study 5095 p. 44 
+ 
+Pharmacokinetic Summary 
+The evaluation of the pre-dose concentration appears to suggest steady state was achieved 
+after 48 hours pose dose. The 90% confidence intervals (CIs) of the geometric mean ratios of 
+plasma clonidine PK parameters, AUCt,ss and Cmax,ss of the Test were within 80 to 125% of the 
+LD. However, the 90% CI of C24 h, ss of the Test was not within 80 to 125% of the LD.  
+ 
+The test product, clonidine hydrochloride, ER OS, 0.1 mg/mL (equivalent to 0.09 mg clonidine 
+base/mL; Tris Pharma, Inc., USA), self-administered in 0.2 mg doses once daily for 5 days, exhibited 
+equivalent peak and total exposure compared to the reference product Kapvay (clonidine HCl), ER 
+tablets, 0.1 mg (equivalent to 0.087 mg of the free base in 0.1 mg tablet; Concordia 
+Pharmaceuticals, USA), administered in 0.1 mg doses twice daily for 5 days at steady state, in 
+healthy subjects. The C24 hr, ss of the oral suspension was 26% lower compared to that of the 
+LD. The difference in C24h is not expected to be clinically meaningful for treatment naïve 
+patients when treated with clonidine ER OS. However, patients stabilized on other formulations 
+should not be switched on a mg-per-mg basis.  
+ 
+OCP Reviewer’s Comments: The reviewer agrees with the Sponsor’s analyses. Following 
+once-daily administration of 0.2 mg clonidine ER OS (clonidine ER OS) at steady state, 
+peak exposures (Cmax) and total exposure (AUC) of clonidine were equivalent to the LD, 
+0.1 mg clonidine ER tablets (Kapvay) administered twice daily. C24, ss was 26% lower 
+after daily administration of clonidine ER OS compared to twice daily administration of 
+Kapvay tablets and such lower magnitude of decrease in systemic exposures is deemed 
+Reference ID: 5387147

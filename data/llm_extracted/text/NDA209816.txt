@@ -1,0 +1,1383 @@
+
+
+===== PAGE 9 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+ 
+ 
+8 
+ 
+                              Table of Tables 
+ 
+Table 2-1 Pneumonia PORT Risk Classification and Scoring Interpretation for the Prediction of 
+30-day mortality ............................................................................................................................ 35 
+Table 6-1 Summary of OCP’s Recommendations & Comments on Key Review Issues ................ 83 
+Table 6-2: General Pharmacology and Pharmacokinetic Characteristics ..................................... 86 
+Table 6-3: Geometric Mean Ratio Comparison of and 90% Confidence Intervals for Primary PK 
+Parameters (Hepatic Impaired Subjects/Healthy Subjects) ......................................................... 92 
+Table 6-4: Statistical Comparison of Pharmacokinetic Parameters for ESRD Subjects on Stable 
+Hemodialysis vs Matched Healthy Control Subjects .................................................................... 92 
+Table 6-5: Statistical Comparison of Pharmacokinetic Parameters for ESRD Subjects on Stable 
+Hemodialysis for dosing before dialysis (Test) vs dosing after dialysis (Reference) .................... 93 
+Table 6-6: Geometric mean ratio (Fed/Fasted) and 90% confidence intervals for PK parameters
+....................................................................................................................................................... 93 
+Table 6-7: Applicant Proposed Susceptibility Breakpoints for Omadacycline ............................. 95 
+Table 6-8: Summary of AUC0-24/MIC ratio associated with stasis for omadacycline against S. 
+aureus, Streptococcus. pneumoniae and E. coli ........................................................................... 96 
+Table 6-9: Percent Probabilities of PK-PD Target Attainment by MIC .......................................... 96 
+Table 6-10: Summary of AUC0-24/MIC ratio associated with 1-log CFU kill for omadacycline 
+against S. pneumoniae and H. influenza....................................................................................... 97 
+Table 6-11: Percent Probabilities of PK-PD Target Attainment by MIC ........................................ 97 
+Table 7-1 Table Listing of Clinical Trials Relevant to omadacycline ........................................... 100 
+Table 7-2 Demographic and Baseline Characteristics Study ABSI-1108 and ABSI-16301 Trials 
+(mITT Population) ....................................................................................................................... 111 
+Table 7-3 ABSSSI Relevant Medical History in Study ABSI-1108 and Study ABSI-16301 (m-ITT 
+Population) .................................................................................................................................. 112 
+Table 7-4 Table Primary Efficacy Analysis: ECR in Study ABSI-1108 (mITT population) ............. 114 
+Table 7-5 Primary Efficacy Analysis: ECR in Study ABSI-16301 (mITT population) ..................... 115 
+Table 7-6 Overall Clinical Response at the PTE Visit Based on Investigator’s Assessments for the 
+mITT Population: Study ABSI-1108 ............................................................................................. 116 
+Table 7-7 Overall Clinical Response at the PTE Visit Based on Investigator’s Assessments for the 
+mITT Population: Study ABSI-16301 ........................................................................................... 116 
+Table 7-8 Clinical response at ECR for Study ABSI-1108 (micro-mITT population) .................... 117 
+Table 7-9 Clinical response at ECR for Study ABSI-16301 (micro-mITT population) .................. 117 
+Table 7-10 Clinical success at ECR in selected Subgroups: Study ABSI-1108 (mITT population) 118 
+Table 7-11 Clinical success at ECR in selected Subgroups: Study ABSI-16301 (mITT population)
+..................................................................................................................................................... 119 
+Table 7-12 Clinical Success at ECR and PTE in patients with Bacteremia in ABSSSI trials (mITT 
+Population) .................................................................................................................................. 120 
+Table 7-13 Demographic characteristics of the primary efficacy analysis population (ITT)- Study 
+CABP1200 .................................................................................................................................... 126 
+Table 7-14 Baseline Pathogen Characteristics- Study CABP 1200 (micro-ITT population) ........ 127 
+Table 7-15 Bacteremia at Baseline-Study CABP 1200 (micro-ITT Population) ........................... 128 
+Reference ID: 4329339
+
+
+===== PAGE 12 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+ 
+ 
+11 
+ 
+Table 9-18 Summary of Infusion Site Reaction TEAEs by PT Study ABSI-1108 and Study CABP-
+1200 (safety population) ............................................................................................................. 205 
+Table 9-19 Hepatic Events reported as TEAEs in phase 3 trials by preferred term .................... 205 
+Table 9-20 Hepatic Enzyme elevations in patients with ‘Normal Baseline Values’ (safety 
+population) .................................................................................................................................. 208 
+Table 9-21 Summary of HR and Cardiac Events of Interest by PT- Pooled Phase 3 Trials (Safety 
+Population) .................................................................................................................................. 211 
+Table 9-22 Leucocytes and Platelets -Absolute and Change from Baseline (Safety population)
+..................................................................................................................................................... 213 
+Table 15-1 Summary statistics of subject demographics, clinical laboratory measures, and 
+disease-related indices for the overall PK analysis population. ................................................. 232 
+Table 15-2 Population PK parameter estimates for the final population PK model. ................. 233 
+Table 15-3 Pharmacokinetic parameter estimates of omadacycline stratified by route of 
+administration and dosing period. .............................................................................................. 235 
+Table 15-4 Percent Probabilities of PK-PD Target Attainment by MIC and Overall Based on 
+Randomly Assigned Total-Drug ELF AUC:MIC Targets Associated with a 1-log10 CFU Reduction 
+from Baseline for S. pneumoniae Among Simulated Patients after Administration of IV to PO or 
+PO Omadacycline Dosing Regimensa . ........................................................................................ 240 
+Table 15-5 Percent Probabilities of PK-PD Target Attainment by MIC Based on total-drug ELF 
+AUC:MIC Targets Associated with a 1-log10 CFU Reduction from Baseline for S. pneumoniae 
+Among Simulated Patients after Administration of IV to PO or PO Omadacycline Dosing 
+Regimens. .................................................................................................................................... 240 
+Table 15-6 Percent Probabilities of PK-PD Target Attainment by MIC Based on free-drug plasma 
+AUC:MIC Targets Associated with a 1-log10 CFU Reduction from Baseline for S. pneumoniae 
+Among Simulated Patients after Administration of IV to PO or PO Omadacycline Dosing 
+Regimens. .................................................................................................................................... 240 
+Table 15-7 Percent Probabilities of PK-PD Target Attainment by MIC and Overall Based on 
+Randomly Assigned Total-Drug ELF AUC:MIC Targets Associated with a 1-log10 CFU Reduction 
+from Baseline for H. influenzae Among Simulated Patients after Administration of IV to PO or 
+PO Omadacycline Dosing Regimensa . ........................................................................................ 241 
+Table 15-8 Percent Probabilities of PK-PD Target Attainment by MIC Based on total-drug ELF 
+AUC:MIC Targets Associated with a 1-log10 CFU Reduction from Baseline for H. influenzae 
+Among Simulated Patients after Administration of IV to PO or PO Omadacycline Dosing 
+Regimens. .................................................................................................................................... 241 
+Table 15-9 Percent Probabilities of PK-PD Target Attainment by MIC Based on Free-Drug Plasma 
+AUC:MIC Targets Associated with a 1-log10 CFU Reduction from Baseline for H. influenzae 
+Among Simulated Patients after Administration of IV to PO or PO Omadacycline Dosing 
+Regimens. .................................................................................................................................... 242 
+Table 15-10 Percent Probabilities of PK-PD Target Attainment by MIC Based on Randomly 
+Assigned Free-Drug Plasma AUC:MIC Ratio Targets Associated with Net Bacterial Stasis for S. 
+aureus Among Simulated Patients after Administration of IV to PO or PO Omadacycline Dosing 
+Regimensa . .................................................................................................................................. 243 
+Reference ID: 4329339
+
+
+===== PAGE 13 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+ 
+ 
+12 
+ 
+Table 15-11 Percent Probabilities of PK-PD Target Attainment by MIC Based on Free-Drug 
+Plasma AUC:MIC Targets Associated with a Net Bacterial Stasis for S. aureus Among Simulated 
+Patients after Administration of IV to PO or PO Omadacycline Dosing Regimens. ................... 243 
+Table 15-12 Percent Probabilities of PK-PD Target Attainment by MIC Based on Randomly 
+Assigned Free-Drug Plasma AUC:MIC Ratio Targets Associated with Net Bacterial Stasis for 
+Streptococcus sp. Among Simulated Patients after Administration of IV to PO or PO 
+Omadacycline Dosing Regimensa . .............................................................................................. 244 
+Table 15-13 Percent Probabilities of PK-PD Target Attainment by MIC Based on Free-Drug 
+Plasma AUC: MIC Targets Associated with a Net Bacterial Stasis for Streptococcus sp. Among 
+Simulated Patients after Administration of IV to PO or PO Omadacycline Dosing Regimens. .. 244 
+Table 15-14 Percent Probabilities of PK-PD Target Attainment by MIC Based on Randomly 
+Assigned Free-Drug Plasma AUC:MIC Ratio Targets Associated with Net Bacterial Stasis for 
+E.Coli Among Simulated Patients after Administration of IV to PO or PO Omadacycline Dosing 
+Regimensa ................................................................................................................................... 245 
+Table 15-15 Percent Probabilities of PK-PD Target Attainment by MIC Based on Free-Drug 
+Plasma AUC:MIC Targets Associated with a Net Bacterial Stasis for E. Coli Among Simulated 
+Patients after Administration of IV to PO or PO Omadacycline Dosing Regimens. ................... 245 
+ 
+ 
+Reference ID: 4329339
+
+
+===== PAGE 47 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+ 
+ 
+46 
+ 
+ 
+Type of 
+Study 
+Major Findings 
+Absorption 
+ 
+ 
+Study no. 1000137A compared PK of a single IV dose of 5 mg/kg (base-
+equivalent) to that of a single oral dose of 90 mg/kg (base-equivalent) in 
+rats: 
+Following a 5 mg/kg IV dose of [14C]omadacycline: 
+x
+At 5 min, mean total radioactivity concentrations in blood was 
+4110 ngEq/mL (3170 ngEq/mL in plasma), followed by a rapid 
+decline to ~18% at 4 hours and ~3% at 24 hours.  The decline in 
+plasma concentrations was similar, but, blood radioactivity 
+concentrations declined more slowly at later time points. 
+x
+Terminal elimination half-life was  ~118 hours in blood and ~119 
+hours in plasma 
+x
+PK analysis of omadacycline plasma concentration-time data 
+resulted in a CL value of 1200 mL/h/kg with a Vss of 6.89 L/kg and 
+a 4.6 hour half-life 
+Following a 90 mg/kg PO dose of [14C]omadacycline: 
+x
+The radioactivity Cmax (172 ngEq/mL) was attained between 0.25 
+and 2 hours.  Mean Cmax of unchanged compound (47.5 ng/mL) 
+was reached 0.5 hours post PO dose.  
+x
+The rate of absorption was rapid and extent of absorption was 
+estimated to be 2.93% based on PO to IV ratio of dose-
+normalized AUCt of radioactivity in plasma. The absolute 
+bioavailability (unchanged drug) was estimated to be 0.23%. 
+ 
+Study no. PH-34172 examined the plasma pharmacokinetics of a single 
+IV dose (30 minute infusion) of 2.58 or 9.03 mg/kg omadacycline in 
+cynomolgus monkeys: 
+x
+After single IV infusion (duration: 30 min) of 2.58 and 9.03 mg/kg 
+ŽŵĂĚĂĐǇĐůŝŶĞ ƚŽ ĨĂƐƚĞĚ ŵĂůĞ ĐǇŶŽŵŽůŐƵƐ ŵŽŶŬĞǇƐ͕ ŵĞĂŶ hь
+values for unchanged compound were 9.18 and 30.5 mgڄh/L, 
+respectively.  
+x
+At the end of IV infusion, mean Cmax values were 1.86 and 6.86 
+mg/L.  
+x
+The mean (of the 2 doses) CL was 0.289 L/h/kg and mean Vss was 
+5.65 L/kg.  
+x
+The terminal plasma elimination t½ values were 20.7 hours (2.58 
+mg/kg) and 13.5 hours (9.03 mg/kg). 
+ 
+Study no. R1000204 examined the pharmacokinetics following a single 
+oral dose of 5 mg/kg omadacycline in cynomolgus monkeys: 
+Reference ID: 4329339
+
+
+===== PAGE 48 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+ 
+ 
+47 
+ 
+Type of 
+Study 
+Major Findings 
+x
+Following a single 5 mg/kg PO dose of omadacycline to monkeys, 
+the mean (±SD) Cmax was 113 ± 42 ng/mL, occurring at 3 h 
+(ƚŵĂǆͿ͕ ĂŶĚ hь ǁĂƐ ϭϰϲϬ ц ϲϮϰ ;ŶŐΎŚͬŵ>Ϳ͘ 
+ 
+In Study no. 07-3735-G2, comparison of single 10 mg/kg nasogastric 
+doses of omadacycline HCl and omadacycline tosylate demonstrated 
+similar PK parameters between male and female monkeys and no 
+significant exposure differences between the two salts administered. 
+ 
+Study no. R1000159 compared pharmacokinetic parameters following 
+single oral 90 mg/kg doses in rats under fed and fasting conditions.  
+Exposure in fed animals was approximately twice that in fasted animals, 
+but due to the small number of animals and the high degree of 
+variability, no definitive conclusions could be drawn. 
+Distribution 
+ 
+ 
+Study no. R1000512:  Plasma protein binding was low in vitro, 
+independent of concentration (10-10000 ng/mL), with no major species 
+differences observed.  Mean free unbound values in plasma were:  rat 
+;ϳϯ͘ϵ ц ϭϮ͘ϭйͿ ч ŵŽŶŬĞǇ ;ϳϴ͘ϴ ц ϳ͘ϮϲйͿ у ŚƵŵĂŶ ;ϳϴ͘ϳ ц ϵ͘ϳϮйͿ ч ŵŽƵƐĞ
+(84.7 ± 5.31%). 
+ 
+QWBA studies in Long-Evans (pigmented) rats (Study no. 1000137b and 
+Study no. PH-33888): 
+Following a single PO 90 mg/kg dose of [14C] omadacycline to pigmented 
+rats, radioactivity in blood and tissues was low, presumably due to poor 
+absorption.  
+x
+Peak tissue concentrations were observed at 1-7 h post dose in 
+tissues which showed measurable radioactivity.  Concentrations 
+in tissues were higher than in blood, except in brain, spinal cord 
+and eye. At 24 h post dose, the radioactivity in blood and most 
+tissues were all below the LLOQ, but substantial radioactivity 
+remained in bone mineral.  
+x
+The highest tissue-to-blood (t/b) ratios calculated using AUC 
+values (t/b > 5) were reported in bone mineral, harderian gland, 
+liver, spleen and salivary gland.  
+x
+Lower radioactivity (t/b of 1-5) was observed in bone marrow, 
+kidney (cortex, pelvis and medulla), thymus, heart, adrenal 
+cortex, lung, thyroid gland and pancreas. 
+After a 5 mg/kg IV dose in pigmented rats, drug-related radioactivity 
+widely and rapidly distributed into most tissues.  
+x
+The radioactivity concentration in most tissues was higher than 
+Reference ID: 4329339
+
+
+===== PAGE 53 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+52 
+ 
+Type of 
+Study 
+Major Findings 
+Monkey 
+Study no. 30205 - 13-week IV toxicology study in cynomolgus monkeys 
+T1/2:  9.51-12.85 hr on Day 1, increased with dose and on Day 91 
+Accumulation:  Slight accumulation at all doses (5, 15, 30 mg/kg/day) 
+Dose-proportionality:  AUC0-24 hr increased approximately proportional to 
+dose, but Cmax values increased in a greater than dose-proportional 
+manner 
+ 
+ 
+ 
+Study no. 0970655 - 13-week oral toxicology study in cynomolgus 
+monkeys 
+T1/2:  not provided 
+Accumulation:  Exposure was considered to be similar on Day 1 and on 
+later sampling days, however, inter-animal variability was high and may 
+have masked any accumulation effect. 
+Dose-proportionality:  Exposure was approximately dose-proportional 
+between 50 and 200 mg/kg/day but was less than dose-proportional 
+between 200 and 600 mg/kg/day. 
+ 
+Reference ID: 4329339
+
+
+===== PAGE 54 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+53 
+ 
+Type of 
+Study 
+Major Findings 
+ 
+ 
+There were no significant gender differences in either species. 
+ 
+TK data 
+from 
+reproductiv
+e toxicology 
+studies 
+Rat 
+AUC:  17.10 mcg*hr/mL on Day 1 and 16.04 mcg*hr/mL on Day 14 in 
+males in a separate study (AUC0-inf; Study no. 22206, 14-day IV toxicology 
+study) at the 20 mg/kg/day dose that was the male NOAEL in the rat 
+fertility study, but did show reduced sperm counts and motility 
+ 
+AUC: 13.81 mcg*hr/mL on Day 1 and 12.71 mcg*hr/mL on Day 14 in non-
+pregnant females in a separate study (AUC0-inf; Study no. 22206) at the 
+20 mg/kg/day dose that was the female NOAEL for fertility, but did show 
+significantly lower numbers of corpora lutea, implantation sites, and 
+average number of viable embryos 
+ 
+AUC: 6.80 mcg*hr/mL on Day 1 and 5.77 mcg*hr/mL on Day 14 in non-
+pregnant females in a separate study (AUC0-inf; Study no. 22206) at the 
+10 mg/kg/day dose that was associated with delayed ossification in the 
+rat embryo-fetal development study (no fetal NOAEL was demonstrated)
+Reviewer’s comment:  This study was not performed using the tosylate 
+salt of omadacycline and was not performed in pregnant females, which 
+could demonstrate different pharmacokinetics. 
+ 
+Rabbit 
+AUC:  14.1 mcg*hr/mL on Gestation Day (GD) 7 and 14.8 mcg*hr/mL on 
+GD 19 at 5 mg/kg/day (the fetal NOAEL, although there were 2 litters at 
+that dose with one fetus each that had vertebral alterations) 
+Reference ID: 4329339
+
+
+===== PAGE 55 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+ 
+ 
+54 
+ 
+ 
+5.3.  Toxicology   
+5.3.1.  General Toxicology  
+General toxicology studies were reviewed under INDs 73431 and IND 75928.  Thirteen-week 
+studies are summarized here, and shorter-term toxicology studies and are summarized below 
+under “General toxicology; additional studies.”  The test article in the four 13-week studies was 
+the tosylate salt of omadacycline. 
+ 
+Study no. 70668:  PTK 0796 Tosylate: A 13-Week Intravenous Infusion Toxicity Study Followed 
+by a 4-Week Recovery Period in Wistar Rats 
+(Reviewed by Dr. Kelly Brant) 
+PTK 0796 Tosylate was administered by intravenous infusion (over a 15-min period) daily for 
+13-consecutive weeks with a 4-week recovery period to Wistar rats (10 rats/sex/group Main 
+Study Group; 5 rats/sex/group Recovery Group) at doses of 0 (vehicle), 5, 15, and 45 
+mg/kg/day.  No treatment-related changes in body weight, feed consumption, ocular findings, 
+or urinary parameters were reported.  Administration of PTK 0796 Tosylate at a dose level of 5 
+mg/kg/day was well tolerated and did not result in any noteworthy findings.  Administration of 
+PTK 0796 Tosylate at doses of 15 and/or 45 mg/kg/day produced clinical signs (salivation and 
+yellow/brown discoloration of teeth), changes in hematology, clinical chemistry and organ 
+weights. The majority of these changes were dose-related and correlated with microscopic 
+findings consisting of atrophy of the seminiferous tubular epithelium in the testes; 
+oligospermia/aspermia in the epididymides (at 45 mg/kg/day); deposition of iron-containing 
+brown pigment in the liver and kidneys consistent with increased erythrocyte turnover; and 
+non-iron containing brown pigment consistent with a possible metabolite of PTK 0796 in the 
+proximal tubular epithelium of the kidney, follicular epithelium and lumen of the thyroid gland, 
+and macrophages in the thymus and lymph nodes and Kupffer cells of the liver.  Increased 
+hematopoiesis in the spleen and bone marrow hypercellularity (at 15 and/or 45 mg/kg/day) 
+were considered to be compensatory to increased erythrocyte turnover.  All changes, except 
+for those observed in the testes, were either completely or partially reversible at the end of the 
+4-week recovery period.  
+ 
+No sex-related differences in TK parameters were noted following administration of PTK 0796 
+at any of the dose levels.  Following the 1st dose, Cmax for PTK 0796 was reached approximately 
+7 minutes post-start of the 15-minute infusion with values ranging from 2.86 to 54.1 mcg/mL 
+for males and from 3.55 to 31.2 mcg/mL for females, with AUC0-24h ranging between 8.41 to 
+75.9 mcg·h/mL (males) and 4.93 to 82.9 mcg·h/mL (females). Over the entire dose range, 
+exposure (AUC0-24h and Cmax) to PTK 0796 generally increased in a dose-related and slightly 
+more than dose-proportional manner following the 1st and 91st doses.  There were no 
+indications of PTK 0796 Tosylate accumulation from Day 1 to Day 91. 
+ 
+Based on the parameters evaluated in this study, the No-Observed-Adverse-Effect Level 
+(NOAEL) of PTK 0796 Tosylate administered to rats for 13-weeks was considered to be 5 
+mg/kg/day.  At that dose, AUC was 4.93 mcg*hr/mL in females and 8.41 mcg*hr/mL in males on 
+Day 1 and 3.74 mcg*hr/mL in females and 8.61 mcg*hr/mL in males on Day 91.    
+Reference ID: 4329339
+
+
+===== PAGE 60 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+ 
+ 
+59 
+ 
+Findings were similar between the two salts, consisting of: 
+x
+increased reticulocytes on Day 15 at 15 and 45 mg/kg/day for both test articles 
+x
+increased total bilirubin on Day 15 at 45 mg/kg/day for both test articles 
+x
+pale material at the infusion sites at all doses of PTK0796 Tosylate and at the high dose 
+of PTK0796 HCl 
+x
+dark discoloration of the thyroid at 15 and 45 mg/kg/day PTK0796 Tosylate and at 45 
+mg/kg/day PTK0796 HCl (previously noted to be consistent with effects of minocycline) 
+ 
+Toxicokinetics (Day 1 and 14):  Tmax was 0.117 h for nearly all doses for both test articles, only 
+females treated with 45 mg/kg/day tosylate salt showed a different value (0.750 h).  Cmax and 
+AUC increased in a dose dependent manner without significant accumulation seen with 
+multiple dosing with either compound.  Exposures were not significantly different between 
+males and females. The table below summarized concentrations measured for each of the two 
+test articles: 
+ 
+ 
+ 
+The safety and pharmacokinetic profiles for the two PTK0796 salts were considered to be 
+similar.  The reviewer concluded that the NOAEL was the mid-dose, 15 mg/kg/day. 
+ 
+ 
+Other studies described in the application as using the tosylate salt of omadacycline as 
+the test article included: 
+x
+a single dose IV infusion (15 minutes) toxicity study in the Wistar rat  
+x
+a non-GLP 4-day dose escalation oral toxicology study (“sighting cycle”) in cynomolgus 
+monkeys (Study no. 1070481) 
+x
+a 2-week non-GLP oral toxicology study in rats (Study no. 1070326); the test article is 
+not specified in the report as being the tosylate salt 
+x
+a 2-week non-GLP oral toxicology DRF study in cynomolgus monkeys (Study no. 
+1070051); the test article is not specified in the report as being the tosylate salt 
+Reference ID: 4329339
+
+
+===== PAGE 80 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+ 
+ 
+84 
+ 
+Bridge between 
+the to-be-
+marketed and 
+clinical trial 
+formulations 
+ 
+The to-be-marketed tablet formulation was used in Phase 3 trials (ABSI-1108, 
+ABSI-16301, CABP-1200).  
+Source: NDA 209816 and 209817 
+ 
+6.2.  Summary of Clinical Pharmacology Assessment  
+6.2.1.  Pharmacology and Clinical Pharmacokinetics 
+Summary of the clinical pharmacokinetics of omadacycline 
+Absorption 
+The absolute bioavailability of a single 300 mg dose of omadacycline tablets (2 × 
+150 mg) was 34.5 %. Omadacycline exposure (AUC) following administration of a 
+single 300 mg oral tablet dose was comparable to that following a single 100 mg 
+IV dose. Peak plasma concentrations are achieved within about 2.5 hours after 
+oral administration. Rate and extent of absorption (Cmax and AUC) of 
+omadacycline is reduced under fed conditions. 
+ 
+Distribution 
+Mean (SD) plasma protein binding is 21.3 (9.7) %. The mean (%CV) steady state 
+volume of distribution of omadacycline is 190 (27.7) L.  
+Elimination 
+ 
+Estimated mean (%CV) half-life is 16 (21.7) h.  
+ 
+Mean (%CV) systemic clearance is 9 (25.2) L/h. The renal clearance across studies 
+ranged from 2.4 to 3.3 L/h. 
+ 
+Metabolism 
+No metabolism in vitro in human liver microsomes and hepatocytes. 
+ 
+No major systemic metabolites observed in plasma, urine or feces up to 7 days 
+following oral administration. 
+Excretion  
+Following administration of 300-mg oral [14C] omadacycline, biliary excretion 
+was the dominant route of elimination, with 77.5% to 84.0% radioactivity 
+recovered in feces and approximately 10.7 to 17.4% of the radioactivity excreted 
+in urine as unchanged omadacycline.  
+ 
+ 
+Lung 
+Penetration 
+Following IV administration of 100 mg omadacycline to healthy subjects, at 
+steady state the AUC of omadacycline in alveolar cells (AC) was 26-fold higher 
+than plasma AUC and the AUC of omadacycline in epithelial lining fluid (ELF) was 
+1.47-fold higher than plasma AUC. 
+Reference ID: 4329339
+
+
+===== PAGE 81 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+ 
+ 
+85 
+ 
+ 
+6.2.2.  General Dosing and Therapeutic Individualization 
+General Dosing 
+Applicant’s proposed dosage regimen for ABSSSI and CABP patients, shown below, is supported 
+by the PK, efficacy, and safety data from the clinical trials submitted in the application. 
+ 
+200-mg of omadacycline for injection administered by IV infusion over 60 minutes on day 1 (or 
+100-mg administered by IV infusion over 30 minutes 
+ for the first two doses on 
+day 1), followed by 100-mg administered intravenously once daily or 300-mg administered 
+orally once daily. 
+450-mg of omadacycline tablets orally, once a day for the first 2 days, followed by 300-mg 
+orally once daily.  
+ 
+Treatment duration is 7 to 14 days. Note that for ABSSSI, the proposed IV to oral and oral only 
+dosage regimens were shown to be adequately effective. For CABP, only the proposed IV to oral 
+dosage regimen was evaluated and was shown to be adequately effective; the oral only dosage 
+regimen was not evaluated. 
+ 
+see also section 6.3.2 for further details. 
+Patients should fast for at least 4 hours before oral dosing. After oral dosing, no food or drink 
+(except water) is to be consumed for 2 hours and no dairy products, antacids, or multivitamins 
+for 4 hours. 
+Therapeutic Individualization 
+Extrinsic Factors (Effect of Food): 
+Relative to administration of omadacycline under fasting conditions, ingestion of a standard 
+high-fat nondairy meal (855 calories; 59% calories from fat) and standard high-fat meal 
+including dairy (985 calories; 60% calories from fat) 2-hours before administration of 
+omadacycline decreased the rate (Cmax) and extent of absorption (AUC) by 40% and 42%, and 
+60% and 63%, respectively. However, the rate and extent of absorption of omadacycline were 
+not substantially decreased when a high-fat nondairy meal (800-1000 calories; 50% calories 
+from fat) was ingested 4 hours pre-dose.  
+ 
+Following ingestion of either a light non-fat (300-ϯϱϬ ĐĂůŽƌŝĞƐ͖ чϱй ĐĂůŽƌŝĞƐ ĨƌŽŵ ĨĂƚͿ͕ Žƌ Ă
+standard low-fat (800-1000 calories; 30% calories from fat), or a standard high fat (800-1000 
+calories; 50% calories from fat) meal 2 hours post-dose, the AUC was 10 to 13% lower 
+compared to fasted conditions, and Cmax was not substantially altered. In addition, the Tmax 
+(range of 1.0-6.0 hours) in the fed state was comparable to that in fasted state (range of 1.5-4.0 
+hours). In general, regardless of the types of meal, Cmax and AUC were affected by the timing of 
+the meals. 
+ 
+Reference ID: 4329339
+(b) (4)
+(b) (4)
+
+
+===== PAGE 87 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+ 
+ 
+91 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6-1: Exposure (AUC) comparison with 450 mg PO LD vs 200 mg IV LD  
+Source: Reviewer’s analysis  
+ 
+The AUC of omadacycline at Day 1 following 200-mg IV LD is not comparable to omadacycline 
+AUC with the 450 mg PO LD on Days 1 and 2.  Therefore, the oral only dosage regimen with the 
+450 mg oral LD is not acceptable. 
+Is an alternative dosing regimen or management strategy required for subpopulations based 
+on intrinsic patient factors? 
+Based on the population pharmacokinetic analysis, the pharmacokinetics of omadacycline are 
+not significantly impacted by age, sex, race, weight, or body mass index (see section 15.2) for 
+details). 
+Hepatic Impairment 
+In a dedicated hepatic impairment Study # CPTK796A2201, omadacycline (PTK0796) exposures 
+were similar between the subjects with hepatic impairment (regardless of Child-Turcotte-Pugh 
+score) and the matched healthy subjects following IV or oral administration. The geometric 
+mean ratio and 90% confidence intervals of AUClast, AUCinf, and Cmax for all treatment groups are 
+presented in Table 6-3 below.  Hepatic impairment did not significantly impact omadacycline 
+clearance following either IV or oral administration. We agree with the Applicant that no dose 
+adjustment is needed for patients with mild, moderate and severe hepatic impairment. 
+Reference ID: 4329339
+
+
+===== PAGE 89 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+93 
+ 
+Cohort 1 Period 1 (Test): ESRD subjects on stable hemodialysis (dosing after dialysis).  
+Cohort 2 (Reference): Healthy subjects. 
+Table 6-5: Statistical Comparison of Pharmacokinetic Parameters for ESRD Subjects on Stable 
+Hemodialysis for dosing before dialysis (Test) vs dosing after dialysis (Reference) 
+Source: Table 14.2.3.2 CSR: PTK0796-RENL-15102, page 49 
+Cohort 1 Period 1 (Reference): Omadacycline 100 mg ESRD subjects on stable hemodialysis (dosing after dialysis); 
+Cohort 1 Period 2 (Test): Omadacycline 100 mg ESRD subjects on stable hemodialysis (dosing before dialysis). 
+Based on comparison of exposures, renal impairment did not have a significant effect on the 
+overall extent of exposure (AUC0-last and AUC0-inf) of omadacycline, nor on its CL, Vss, or t1/2. 
+During dialysis, 7.9% of the omadacycline dose was recovered in the dialysate. 
+The review team concurs with the Applicant’s proposal that no dose adjustment of 
+omadacycline is needed in patients with renal impairment and ESRD patients on hemodialysis.  
+Are there clinically relevant food-drug or drug-drug interactions, and what is the appropriate 
+management strategy? 
+The Applicant evaluated the effect of food content and timing on the relative bioavailability of 
+omadacycline following single oral dose administration with the to-be marketed oral tablet 
+formulation in Study CPTK796A2103 and Study PTK0796-FDEF-15101 (Table 6-6). 
+ 
+Table 6-6: Geometric mean ratio (Fed/Fasted) and 90% confidence intervals for PK 
+parameters 
+ 
+AUC0-ь 
+Cmax  
+Tmax (h) 
+aHigh-fat (nondairy) meal 
+4 hours before dosing 
+83.3 
+(74.9, 92.7) 
+84.5 
+(75.8, 94.1) 
+Fasted: Tmax (median) = 2.5 (1.5 to 4.0 hours) 
+Fed: Tmax (median) = 2.9 (1-6 hours) 
+aHigh-fat (nondairy) meal 
+2 hours before dosing 
+57.7 
+(51.8, 64.1) 
+60.1 
+(53.9, 66.9) 
+Fasted: Tmax (median) = 2.5(1.5 to 4.0 hours)  
+Fed: Tmax (median) = 2.9 (1-6 hours) 
+aHigh-fat meal including 
+dairy 2 hours before 
+dosing
+37.3 
+(33.6, 41.5) 
+40.6 
+(36.5, 45.2) 
+Fasted: Tmax (median) = 2.5(1.5 to 4.0 hours); 
+Fed: Tmax (median) = 2.9 (1-6 hours) 
+aHigh fat meal 2 hours 
+post-dose
+87 (82, 92) 108 (100, 
+116) 
+Fasted: Tmax (median) = 2.5 (1.5 to 4 hours); 
+Fed: Tmax (median) = 2.5 (1-3 hours) 
+Reference ID: 4329339
+
+
+===== PAGE 90 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+ 
+ 
+94 
+ 
+b Low-fat meal 2 hours 
+post-dose 
+88 
+(83, 93) 
+113 (106, 
+122) 
+Fasted: Tmax (median) = 2.5 (1.5 to 4 hours); 
+Fed: Tmax (median) = 2.5 (1-3 hours) 
+cLight non-fat meal 2 
+hours post-dose 
+90 
+(85, 96) 
+108 
+(100, 116) 
+Fasted: Tmax (median) = 2.5 (1.5 to 4 hours); 
+Fed: Tmax (median) = 2.5 (1-2.5 hours) 
+a= Approximately 150, 250, and 500 calories from protein, carbohydrate, and fat, respectively; b = low-fat meal (800-
+1000 calories; 30% calories from fat); c= light non-fat (300-ϯϱϬ ĐĂůŽƌŝĞƐ͖ чϱй ĐĂůŽƌŝĞƐ ĨƌŽŵ ĨĂƚͿ͖ Tmax: median 
+(range) 
+In a study evaluating the relative bioavailability of a single 300 mg PO dose of omadacycline 
+under fasted and fed conditions in healthy subjects, omadacycline rate (Cmax) and extent of 
+absorption (AUC) was reduced by 15% and 17% by a high-fat nondairy meal 4 hours before 
+dosing, 40% and 42% by a high-fat nondairy meal 2 hours before dosing, and 59% to 63% for a 
+high-fat dairy meal 2 hours before dosing compared to dosing in the fasted state. In another 
+food effect study, the extent of absorption (AUC) of omadacycline was marginally reduced by 
+10 to 13%, while the rate of absorption (Cmax) was not substantially altered by low-fat, standard 
+non-fat, and the FDA high-fat meals when ingested 2-hours post-dose. 
+The exposure of omadacycline declines with food intake 4 hours before, or less than 2 hours 
+after dosing. Therefore, to minimize the food effect omadacycline tablets should be taken in a 
+fasting state for at least 4 hours prior to dosing and for at least 2 hours after dosing. 
+ 
+Drug-Drug Interactions (DDI) 
+ 
+CYP Enzyme Mediated DDIs: 
+In vitro metabolism studies have shown that omadacycline is not a substrate, inhibitor, or 
+inducer of human metabolizing enzymes. Omadacycline does not inhibit CYP1A2, 2A6, 2B6, 
+Ϯϴ͕ Ϯϵ͕ Ϯϭϵ͕ Ϯϲ͕ Ϯϭ͕ Žƌ ϯϰͬϱ ĂĐƚŝǀŝƚŝĞƐ Ăƚ ĚƌƵŐ ĐŽŶĐĞŶƚƌĂƚŝŽŶƐ ;ϱϬ ʅDͿ ƚŚĂƚ ĂƌĞ ǁĞůů
+above the Cmax achieved at recommended dose. 
+ 
+In vitro studies showed that omadacycline was not a time dependent inhibitor of CYP1A1, 
+CYP2A6, CYP2D6 and CYP3A4/5.  Therefore, clinically significant DDIs due to inhibition of CYP-
+mediated metabolism of co-administered drugs by omadacycline are unlikely in humans. Please 
+refer to section 15.2 for details. 
+In vitro, omadacycline was shown to be a weak inducer of CYP2C19 at a concentration 5 -fold 
+higher than Cmax, but not of CYP1A2, CYP2B6, CYP1B1, CYP2C8, CYP2C9 and UGT1A1 expression. 
+Therefore, potential DDIs due to increased metabolism of co-administered drugs by 
+omadacycline seems unlikely in humans. Please refer to section 15.2 for details. 
+ 
+Transporter-Mediated DDIs: 
+Based on results from in vitro studies, omadacycline is not an inhibitor of human BCRP, MRP2, 
+OAT1, OAT3, OCT2, OATP1B1 and OATP1B3-mediated transport; omadacycline is not a 
+substrate of the transporters BCRP, MRP2, OAT1, OAT3 and OCT2 but is a potential substrate of 
+P-gp. Omadacycline was not an OATP1B1 or OATP1B3 substrate at supra-therapeutic 
+concentrations (5-13 fold higher than clinically relevant concentrations) tested in in vitro 
+studies. 
+ 
+Reference ID: 4329339
+
+
+===== PAGE 91 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+ 
+ 
+95 
+ 
+In study PTK0796-DDI-17106 the Applicant investigated the effect of a single, 240 mg po dose of 
+verapamil extended release, a P-gp inhibitor, on the absorption of 300 mg po dose of 
+omadacycline.  Verapamil dosing increased the omadacycline AUC by approximately 18% and 
+the Cmax by 14%. The small increase in omadacycline exposure suggests that no dose 
+adjustment is necessary when omadacycline is given with a known P-gp inhibitor. 
+Does the clinical pharmacology information support the proposed breakpoint? 
+The clinical pharmacology information submitted in this NDA cannot support the Applicant’s 
+ƉƌŽƉŽƐĞĚ ƐƵƐĐĞƉƚŝďŝůŝƚǇ ďƌĞĂŬƉŽŝŶƚ ŽĨ
+ 
+in ABSSSI patiĞŶƚƐ͕ ĂŶĚ
+ in CABP patients.  
+For the susceptibility breakpoints of other pathogens (not listed in Table 6-7) 
+ 
+ the reviewers defer to Clinical/Clinical Microbiology reviewers because 
+there were no relevant clinical pharmacology data for these pathogens. 
+Table 6-7: Applicant Proposed Susceptibility Breakpoints for Omadacycline 
+ 
+Minimum Inhibitory 
+Concentrations (μg/mL) 
+Pathogen 
+S 
+I 
+R 
+ 
+The results of our (probability of target attainment) PTA analyses in ABSSSI patients support the 
+susceptibility breakpoint of 0.12 mcg/mL, 0.12 mcg/mL and 0.03 mcg/mL for S. aureus, 
+Streptococcus pneumoniae, and E. coli, respectively. The results of our PTA analyses in CABP 
+patients support the susceptibility breakpoint of 0.5 and 1 mcg/mL for S. pneumoniae and H. 
+influenzae using ELF AUC, while the susceptible breakpoint of 0.12 and 0.5 mcg/mL for S. 
+pneumoniae and H. influenzae using free-drug plasma AUC. 
+ 
+Probability of Target Attainment (PTA) for S. aureus, S. pneumoniae and Enterobacteriaceae  
+The PK/PD index for omadacycline is free AUC0-24/MIC which is closely correlated to 
+omadacycline antibacterial activity for S. aureus, S. pneumoniae, and E. coli based on 
+neutropenic murine thigh infection models. The results from PK/PD studies in the neutropenic 
+murine thigh infection model indicated mean values of AUC0-24/MIC of 23.7, 33.3, and 64.3 
+Reference ID: 4329339
+(b) (4)
+(b) (4)
+(b) 
+(4)
+(b) (4)
+
+
+===== PAGE 213 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+ 
+ 
+217 
+ 
+(n=12, age 65 to 77 years) and younger patients (n=12, age 20 to 43 years) receiving a single 
+oral dose of 50-mg or 200-mg of omadacycline. 
+Across phase 3 trials, omadacycline patients who reported at least 1 TEAE was comparable 
+between all age groups.  The most notable events between omadacycline patients aged 18 to 
+65, > 65 to 75, and > 75 years of age for any treatment group were nausea, which occurred in 
+the slightly higher percentage of omadacycline patients 18 to 75 years of age versus who were 
+> 75 years of age. 
+Clinical Reviewer’s Comments: Although higher mortality and lower cure rates were observed in 
+patients >65 years of age in CABP trial, review of non-fatal adverse events indicates that 
+increased age does not correlate with a higher rate of adverse events.  
+Racial or Ethnic Groups 
+Population pharmacokinetic analysis, which included 12 Asian patients, 105 Black patients, 
+433 White patients, and 63 patients classified as “other” was performed across studies.  No 
+significant influence of race on the pharmacokinetics of omadacycline was found. Across phase 
+3 trials, omadacycline patients who reported at least 1 TEAE was similar between patients who 
+were non-white than those who were white (61% versus 46%, respectively).   
+Clinical Reviewer’s Comments: There were similar rates of TEAEs other than nausea amongst 
+different racial groups in omadacycline -treated patients and comparator-treated patients.  
+However, it should be noted ƚŚĂƚ ŵŝŶŽƌŝƚŝĞƐ ƌĞƉƌĞƐĞŶƚĞĚ ůĞƐƐ ƚŚĂŶ ϭϬй ŽĨ ƚŚĞ ƚŽƚĂů ƐĂĨĞƚǇ
+population. Thus, firm conclusions regarding a possible interaction of race and safety cannot be 
+determined based on this data. 
+ 
+Body Mass Index 
+No differences in safety were observed between different BMI categories across phase 3 trials. 
+History of Diabetes 
+Other than some differences in the frequency of the TEAEs of nausea and vomiting, only 1 
+notable difference was observed between patients with or without a history of diabetes in the 
+omadacycline group. TEAEs of diarrhea was reported by a higher percentage of patients with a 
+history of diabetes (11%) than those without diabetes (3%) in the pooled ABSSSI trials.   
+History of Liver Disease 
+Hepatic impairment does not impact omadacycline elimination. No apparent trend of 
+omadacycline exposures was observed for both intravenous and oral administration routes in 
+patients with varying degrees of hepatic impairment.   
+Creatinine Clearance 
+Reference ID: 4329339
+
+
+===== PAGE 214 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+ 
+ 
+218 
+ 
+Other than some differences in the frequency of the TEAEs of nausea and vomiting, few notable 
+differences or consistent trends were observed between patients by the rate of creatinine 
+clearance in the omadacycline group.  TEAEs of ‘wound infection’ was reported by higher 
+percentages of omadacycline patients (9.5%) with the lowest creatinine clearance (< 60 
+mL/min) than those with higher clearance (1.6% for patients with CrCL 60 to 89 mL/min; and 
+4.5% for patients with CrCL > 89 mL/min) in the ABSSSI trials. 
+History of Asthma/COPD 
+The percentage of patients who had at least 1 TEAE was higher in omadacycline patients with a 
+history of asthma/COPD (57%) compared to patients without a history of asthma/COPD (37%).  
+TEAEs of nausea, vomiting, and constipation occurred in the higher percentage of patients with 
+a history of asthma/COPD compared to patients without a history of asthma/COPD across 
+phase 3 trials. 
+By Geographical Region 
+Adverse events were reported more frequently in omadacycline patients enrolled in the US and 
+Rest of World (55% and 54%, respectively) compared to omadacycline patients in Eastern 
+Europe (32%). The most notable events between omadacycline patients by geographic region 
+were nausea and vomiting.   
+ 
+9.7.13.   Additional Safety Explorations  
+Human Carcinogenicity or Tumor Development 
+ 
+There are no concerns with human carcinogenicity with omadacycline, given its 
+antibacterial class and short treatment duration. There are no human data available for 
+carcinogenicity or tumor development with omadacycline. 
+ 
+Clinical Reviewers’ Comment: Based on the available data from all Phase 3 trials, there is no 
+clinical evidence of carcinogenicity for the omadacycline. In CABP trial, eight (8) patients in 
+omadacycline group and ten (10) patients in moxifloxacin comparator group in overall safety 
+population, experienced an event within the SOC of Neoplasms, Benign, Malignant, and 
+Unspecified. No events from this SOC were reported in ABSSSI trials. Majority of patients (7 of 8) 
+in omadacycline group had lung neoplasms, and 1 patient was reported to have a thyroid 
+neoplasm during the study period.  None of the events were considered related to the study 
+drug.   
+Human Reproduction and Pregnancy 
+ 
+Animal studies indicate that administration of omadacycline during the period of organogenesis 
+resulted in a fetal loss and congenital malformations in pregnant rats and rabbits at 7 times and 
+Reference ID: 4329339
+
+
+===== PAGE 233 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+237 
+ 
+ 
+Figure 15-6 Plasma omadacycline concentration-time data for subjects in Study PTK0796-
+RENL-15102 stratified by renal impairment category. 
+Source: Applicant’s population PK report, Figure 2, Page 48. 
+ 
+Effect of sex 
+Sex was a statistically significant covariate on multiple parameters. Specifically, the 
+relationships resulted in a 15.6% lower clearance, a 50% higher CLd1, a 17.6% lowerVp1, and a 
+27.1% lower Vp2 for females relative to males. The applicant conducted simulations of typical 
+male and female subjects using the final model which showed that Cmax was lower by 9%, 
+Cmin higher by 25%, and AUC0-inf was 15.6% higher for females relative to males following IV 
+administration of a single 100 mg omadacycline dose. Similar findings were found for oral 
+administration of the tosylate tablet. Based on the estimates of AUC, no dose adjustment is 
+needed.   
+ 
+Clin-Pharm Reviewer’s comment: Applicant’s population PK analysis reasonably described the 
+population pharmacokinetics of omadacycline as shown in the visual predictive checks based on 
+ƚŚĞ ĂďŝůŝƚǇ ŽĨ ƚŚĞ ŵŽĚĞů͛Ɛ ƐŝŵƵůĂƚĞĚ ϵϬй W/ ĂŶĚ ŵĞĚŝĂŶƐ ƚŽ ďĞ ĂůŵŽƐƚ ŝĚĞŶƚŝĐĂů ƚŽ ŽďƐĞƌǀĞĚ ϵϬй
+PI and medians. The submitted final population PK model is reproducible and FDA reviewer 
+agrees with the identified covariates, which supports applicant’s labeling claims. It is worth 
+noting that patient population is not a covariate on PK based on the population PK model.  
+The AUC on Day 3 appears to be lower for PO administration compared to IV administration 
+with PO switch based on proposed dosing regimen by Applicant. The exposure of oral loading 
+dose and IV loading dose was simulated by population PK model in CABP population or 
+generated by non-compartmental analysis in healthy subjects or uUTI patients. Based on the 
+comparison, the exposure of oral loading dose of 450 mg once daily for two days was relatively 
+lower than that of IV loading doses as shown in Figure 15-7. 
+ 
+ 
+Reference ID: 4329339
+
+
+===== PAGE 234 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+238 
+ 
+ 
+Figure 15-7 Comparison of AUCs following different loading doses for CABP population. 
+Source: FDA analysis. 
+ 
+15.2.3. Exposure-response analysis  
+ 
+CABP 
+The Applicant did not conduct exposure-response analysis for CABP due to limited number of 
+evaluable omadacycline-treated patients with CABP that had PK data from Study PTK0796-
+CABP-1200. Of the 101 and 98 omadacycline-treated patients in the microbiologically evaluable 
+– end of treatment (ME-EOT) and microbiologically evaluable - post-therapy evaluation (ME-
+PTE) populations of Study PTK0796-CABP-1200 with appropriate source of pathogen and MIC 
+data, only 11 and 10 patients had PK data, respectively. Given the limited number, the 
+Applicant stated that successful clinical and microbiological responses were observed for all 
+patients at EOT and PTE and for all but one patient at Early Clinical Response (ECR). Also, total-
+drug ELF and free-drug plasma AUC:MIC ratios exceeded nonclinical targets associated with a 1-
+log10 CFU reduction from baseline for S. pneumoniae in the three patients with S. Pneumoniae 
+at baseline who had PK data. Among the seven patients with H. influenzae or H. parainfluenzae, 
+total-drug ELF AUC:MIC ratios exceeded non-clinical targets associated with a 1-log10 CFU 
+reduction for H. influenzae for six of the seven patients.  
+ 
+ABSSSI 
+The PK-PD analyses for efficacy were based on data from patients with sufficient PK data in the 
+ME populations of each study and the subset of patients with S. aureus at baseline (n=182 and 
+128, respectively).  The PK-PD results from the Applicant are summarized in Figure 15-8and 
+were included in PTA analysis: 
+The probability of clinical success at ECR increased as free-drug plasma AUC:MIC ratio 
+increased. At a free-drug plasma AUC:MIC ratio that approached 0, the percent probability of 
+clinical success  at ECR was approximately 80%. At a free-drug plasma AUC:MIC ratio of 14.7, 
+the percent probability was 90%. 
+PK-PD relationships for clinical response at ECR of greater statistical significance were also 
+evident when free-drug plasma AUC:MIC ratio was evaluated as two- and three group variables.  
+ 
+Reference ID: 4329339
+
+
+===== PAGE 235 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+239 
+ 
+ 
+Figure 15-8  Univariable Relationships Between the Percent Probability of a Successful ECR 
+and Free-Drug AUC:MIC Evaluated as a Continuous (A), Two-Group (B), or Three-Group 
+Variable (C) Based on Data from all Patients.  
+Source: Applicant’s summary of Clinical Pharmacology report 3, Figure 31 Page 229. 
+ 
+Clin-Pharm Reviewer’s comment: The exposure-response analysis performed by the Applicant is 
+acceptable, the reviewer agrees with conclusions reached by the Applicant. 
+ 
+Pharmacokinetics/Pharmacodynamic Target Attainment Assessment 
+CABP:  
+Monte Carlo Simulation to assess probability of target attainment (PTA) 
+Omadacycline dose fractionation studies performed by the Applicant show that AUC:MIC was 
+correlated to efficacy in an in vitro H. influenzae model and a S. pneumoniae pneumonia model. 
+The mean AUC/MIC targets associated with 1-log10 CFU reduction from baseline for S. 
+pneumoniae using total-drug ELF and free-drug plasma AUCs were 12.3 and 13.6, respectively. 
+For H. influenza, the mean in vitro AUC/MIC target associated with 1-log10 CFU reduction from 
+baseline was 8.3.  The Applicant conducted the PTA analysis based on AUC:MIC ratio targets 
+associated with a 1-log10 CFU reduction from baseline for S. pneumoniae and H. influenza using 
+ELF derived from the population PK model. The Applicant used AUC:MIC ratio targets which 
+were randomly assigned based on an estimated log normal distribution of AUC:MIC ratio 
+targets. The FDA reviewer conducted an analysis using both free-drug plasma AUC and total-
+drug ELF AUC of omadacycline derived from population PK model, and corresponding mean 
+AUC/MIC targets.   
+ 
+S. pneumoniae 
+Table 15-4 show Applicant’s PTA results while Table 15-5 and  
+Table 15-6 summarizes the results by FDA reviewer, for S. pneumoniae. The FDA reviewer and 
+the Applicant’s results are comparable when total-drug ELF is used. Using free-drug plasma 
+AUC, the FDA reviewer found that the percent probabilities of PK-PD target attainment for S. 
+pneumoniae ш ϵϬй Ăƚ Ă D/ ǀĂůƵĞ ŽĨ Ϭ͘ϭϮ ʅŐͬŵ> ǁĞƌĞ achieved for both IV to PO and PO dosing 
+regimens. 
+ 
+Reference ID: 4329339
+(b) (4)
+
+
+===== PAGE 242 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+246 
+ 
+Loading dose given as 100 mg infused over 30 min twice daily on day 1, or 200 mg infused over 60 min once a day 
+on day 1, followed by 300 mg q24h from day 2. b - Loading dose given as 450 mg given orally once a day 1 and day 
+2 followed by 300 mg q24h from day 3. 
+ Source: FDA analysis 
+ 
+Clin-Pharm Reviewer’s conclusions: 
+ 
+. The FDA Reviewer provided PTA analysis using both total-drug ELF AUCs 
+and free-drug plasma AUCs. According to the Reviewer’s analysis, PTA supports breakpoints of 
+0.5 and 1 μg/mL for S. pneumoniae and H. influenza using ELF AUC, respectively, while the 
+breakpoints were 0.12 and 0.5 μg/mL using free-drug plasma AUC. For ABSSSI, similar 
+breakpoint of 0.12 and 0.12 μg/mL were obtained by the FDA reviewer and Applicant for S. 
+aureus and Streptococcus species, based on nonclinical data. For E. coli, our PTA analysis 
+supports a breakpoint of 0.03 μg/mL. 
+ 
+ Furthermore, the Applicant used AUC: MIC ratio targets which were randomly assigned 
+based on an estimated log normal distribution of AUC: MIC ratio targets. Even though the 
+Applicant’s approach was different from the FDA reviewer where mean AUC/MIC targets were 
+used, it is acceptable and comparable results were obtained from the Applicant and the 
+Reviewer.  
+ 
+ 
+15.2.4.  Review of Individual Study Reports 
+ 
+The following clinical pharmacology related individual studies of PTK0796 (omadacycline) were 
+ reviewed. 
+Study # PTK 0796-SDES-0501 
+ 
+Study Title: A Placebo-Controlled, Randomized, Double-Blind, Phase I Study in Healthy Male 
+Subjects to Investigate the Safety, Tolerability and Pharmacokinetics of Ascending Single and 
+Multiple Intravenous Doses of PTK 0796 
+ 
+STUDY OBJECTIVES: 
+The primary objective of this study was to determine the safety and tolerability of a range of 
+single doses of PTK 0796 in healthy young male volunteers. The secondary objective of the 
+study was to determine the pharmacokinetic profiles of single doses of PTK 0796 in healthy, 
+young male subjects. 
+ 
+STUDY DESIGN: 
+Test Product, Dose, Mode of Administration: PTK 0796 HCL for Injection, 25 to 600 mg by i.v. 
+infusion over 30 or 60 minutes. This is not to-be-marketed formulation. 
+Duration of Treatment: Single dose 
+Within each dose level, subjects were randomized on a 3: 1 basis to receive either PTK 0796 or 
+placebo. Overall, a total of 55 subjects were dosed 41 who received a single dose of PTK 0796 
+and 14 who received placebo. Among the 41 subjects who received PTK 0796, a total of 6, 6, 5, 
+Reference ID: 4329339
+(b) (4)
+(b) (4)
+
+
+===== PAGE 243 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+247 
+ 
+and 6 subjects received single doses of 25, 50, 100 and 200 mg at 0.5 mg/mL, respectively, and 
+5, 5, 6, and 2 subjects received single doses of 200, 300, 400, and 600 mg at 1.0 mg/mL, 
+respectively. 
+200 mg dose was given in two cohorts to confirm that increasing the concentration of the 
+infusion from 0.5 to 1.0 mg/ml was not associated with adverse effects.  
+PK Sample Collection: Blood samples obtained pre-dose, and 17 PK samples over 72 hours 
+post-dose. 
+Bioanalytical Method Description: 
+Plasma samples of omadacycline were analyzed by a validated LC/MS/MS method. Analytical 
+method using sodium heparin as the anticoagulant was used for Study # PTK 0796-SDES-0501. 
+The sample preparation, stability, analysis accuracy, and precision in this clinical pharmacology 
+study were reviewed by the Clinical Pharmacology reviewer and met the acceptance criteria. 
+Please refer to summary of bioanalytical method validation section   for details of validation 
+methods. 
+RESULTS: 
+Summary of pharmacokinetics: 
+A summary of pharmacokinetic parameters obtained following single i.v. doses of PTK 0796 
+ranging from 25 to 600 mg is provided in Table 1. Figure 1 and Figure 2 present results of linear 
+regression analysis of dose proportionality for mean AUCinf and Cmax. respectively.  
+ 
+Table 1. Summary of mean (SD) pharmacokinetic parameters (PTK0796-SDES-0501) 
+ 
+Source: Table 11-1, CSR PTK 0796-SDES-0501 page 48 
+Figure 1. Linear regression for dose proportionality for mean AUC0-inf following a single dose 
+of PTK 0796 - All Dose Groups
+ 
+Reference ID: 4329339
+
+
+===== PAGE 247 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+251 
+ 
+Duration of Treatment: Once daily doses of omadacycline were administered on Day 1 through 
+Day 5 of Period 1, Period 2, and Period 3, with a washout of at least 5 days between the last 
+dose in 1 period and the first dose in the next period. 
+ 
+PK Sample Collection: Blood samples for PK assessments of omadacycline were collected from 
+all subjects at the following time points: 0 (pre-dose) and 12 PK samples were collected over 24 
+hours after dosing on Day 1 and Day 5 in each period. The 24-hour blood sample for Day 1 was 
+collected before dosing on Day 2 for each period. 
+Urine samples for PK assessments of omadacycline were collected and pooled from a subset of 
+subjects at the following intervals: pre-dose, 0 to 4, 4 to 8, 8 to 12, and 12 to 24 hours after the 
+Day 5 dose in Period 2 and after the Day 1 and Day 5 doses in Period 3. The 12- to 24-hour urine 
+sample for Day 1 was collected before dosing on Day 2. 
+Bioanalytical Method Description: 
+Plasma and urine samples of omadacycline were analyzed by a validated LC/MS/MS method. 
+The sample preparation, stability, analysis accuracy, and precision in this clinical pharmacology 
+study were reviewed by the Clinical Pharmacology reviewer and met the acceptance criteria. 
+Please refer to section 15.2.1 for details of validation methods. 
+RESULTS: 
+Summary of pharmacokinetics (Tables 1 & 2): 
+Omadacycline AUC and Cmax increased in a less than proportional manner as omadacycline 
+dose increased from 300 to 600 mg on both Day 1 and Day 5. The mean t1/2 was similar across 
+the 3 dose levels, ranging from 13.03 to 13.66 hours on Day 1 and from 15.49 to 16.83 hours on 
+Day 5. 
+Table 1. Mean (CV) Plasma Pharmacokinetic Parameters of Omadacycline by Treatment – Day 1 
+ 
+Source: Table 11-2. Clinical Study Report PTK0796-MDPO-16105, page 66 
+Table 2 Mean (CV) Plasma Pharmacokinetic Parameters of Omadacycline by Treatment - Day 5  
+Reference ID: 4329339
+
+
+===== PAGE 251 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+255 
+ 
+Ae0-24 Cumulative amount of unchanged drug excreted in urine from 0-24 hours. 
+Fe0-24 Fraction of the dose excreted unchanged in urine from 0 to 24 hours. 
+CLr Renal clearance 
+Source: Table 14.2.10. Clinical Study Report PTK0796-MDPO-16105, page 72 
+Table 9. Mean (CV) Urine Pharmacokinetic Parameters of Omadacycline by  Treatment - Day 5 
+Source: Table 14.2.10. Clinical Study Report PTK0796-MDPO-16105, page 72 
+Ae0-24 Cumulative amount of unchanged drug excreted in urine from 0-24 hours. 
+Fe0-24 Fraction of the dose excreted unchanged in urine from 0 to 24 hours. 
+CLr Renal clearance 
+Clin-Pharm Reviewer’s assessment and conclusions: 
+Omadacycline exposure increased in a less that proportional manner with the increase in once-
+daily oral dose from 300 mg to 600 mg. Statistical analyses showed that both AUC and Cmax 
+exhibited less than dose-proportional increases over this dose range. 
+The accumulation ratios for AUC0-24 ranged from 1.40 to 1.62, and the accumulation ratios for 
+Cmax ranged from 1.24 to 1.35. Thus, plasma accumulation of omadacycline is deemed to be 
+moderate by the reviewer, and this extent of accumulation is to be expected based on the 
+reported half-life (t1/2) of approximately 13 to 16 hours.   
+The mean t1/2 was similar across the 3 dose levels, ranging from approximately 13.0 to 13.7 
+hours on Day 1 and from 15.5 to 16.8 hours on Day 5.  
+At steady state, the mean fraction of the total oral omadacycline dose excreted unchanged in 
+urine rangĞĚ ĨƌŽŵ ϲ͘ϵ ƚŽ ϴ͘ϳй ĂŶĚ ƚŚĞ >ƌ Ăƚ ƐƚĞĂĚǇ-state, ranged from 2.38 to 3.28 L/h, 
+although there was limited number of subjects that provided urinary excretion data. 
+ 
+ 
+ 
+ 
+Reference ID: 4329339
+
+
+===== PAGE 252 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+ 
+256 
+ 
+Study # CPTK796A2101 
+Study title: An open-label study to assess the absorption, distribution, metabolism, and 
+elimination of [14C]-labeled omadacycline (PTK796) in healthy male subjects following a single 
+oral dose of 300 mg PTK796 
+Study center: 
+ 
+STUDY OBJECTIVES: 
+Primary objective  
+The primary objective of the study was to determine PTK796 pharmacokinetics and total 
+radioactivity and its metabolites in plasma following a single 300 mg dose. 
+ 
+Secondary objective 
+The secondary objectives of the study were to identify and quantify the metabolites of PTK796 
+in plasma, urine and feces, to elucidate key biotransformation pathways and clearance 
+mechanisms of PTK796 and to assess the safety and tolerability of PTK796, and its metabolites, 
+in healthy male subjects following a single oral dose of C-14 labeled 300 mg PTK796. 
+ 
+STUDY DESIGN: 
+This was an open-label, single-dose, absorption, distribution, metabolism and excretion (ADME) 
+study conducted in 6 healthy male subjects. 
+The study consisted of a screening period (Day -21 to -2), a baseline visit (Day -1), an eight-day 
+period which included 168 hours (h) of in-house observation (Days 1 to 7). The study 
+completion evaluation was done on the day of discharge (Day 8). Subjects were required to fast 
+overnight prior to the dose and until 4 hours after dose administration. 
+ 
+Test Product, Dose, Mode of Administration: The radiolabeled study drug was provided as 
+individually packaged doses of 2 x 150 mg oral capsules with planned specific activity of 4.33 
+ŬƋͬŵŐ ;ƚŽƚĂů ĚŽƐĞ ϭ͘ϯϬ DƋ͕ ϯϱ ʅŝ͖ ĂĐƚƵĂů ǁĂƐ ϭ͘ϯϱ DƋ Žƌ ϯϲ͘ϲ ʅŝͿ ΀14C]PTK796 
+(omadacycline tosylate 
+) in 
+ capsules. Each subject received an oral 
+dose of 300 mg [14C]PTK796 on day 1. 
+ 
+Duration of Treatment: The minimum stay of the subjects in this study was 8 days. 
+ 
+PK Sample Collection: 
+After administration of the 14C-PTK796 dose, plasma samples were collected for total 
+radioactivity, PK analysis and metabolite profiling/identification at the following time points: 0 
+(pre-dose), 17 PK samples were collected over 144 hours post dose, additional sample was 
+collected in event of discontinuation from the study. During the entire in-patient observation 
+period, all urine was collected (Day 1 through morning of Day 8). The urine collected from each 
+subject was pooled by time period post-dose (0-4, 4-8, 8-12, 12-24, 24-48, 48-72, 72-96, 96-120, 
+120-144, and 144-168 h). One pre-dose fecal sample was collected from each subject during the 
+Screening Visit (Day -2 or -1). After the 14C-PTK796 dose administration, all feces were collected 
+completely, and the collection identified with the appropriate 24 hour sample numbering 
+including all toilet paper used, during the entire phase (Day 1 through morning of Day 8). 
+Reference ID: 4329339
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 262 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+266 
+ 
+ 
+Table 3. Geometric mean ratio (Fed/Fasted) and 90% confidence intervals for PK parameters 
+Source: PT-Table 14.2-1.1 CSR study number CPTK796A2103, page 56  
+Clin-Pharm Reviewer’s Conclusions:  
+Regardless of the types of meal (light non-fat, standard low-fat, or FDA high fat), when the 
+meals were given at 2 hours post-ĚŽƐĞ͕ ƚŚĞ hŝŶĨ ǁĂƐ ϭϬ ƚŽ ϭϯй ůŽǁĞƌ ĐŽŵƉĂƌĞĚ ƚŽ ĨĂƐƚĞĚ
+conditions, and Cmax was not substantially altered. Of note, the lower limŝƚƐ ŽĨ ƚŚĞ ϵϬй /͛Ɛ ĨŽƌ
+the GMR of AUCinf were either at or just slightly below 0.80 for the light non-fat, standard non-
+fat, and FDA high-fat meals ingested at 2 hours post-dose. When a light non-fat meal was given 
+at 1-hour post-ĚŽƐĞ͕ ƚŚĞ hŝŶĨ ǁĂƐ Ϯϱй ůŽǁĞƌ ĂŶĚ ŵĂǆ ǁĂƐ ƌĞĚƵĐĞĚ ďǇ ϵй͕ ǁŚĞŶ ĐŽŵƉĂƌĞĚ
+to fasted conditions. 
+ 
+In summary, the extent of absorption (AUCinf) of omadacycline was marginally reduced to a 
+similar extent, while the rate of absorption (Cmax) was not substantially altered by low-fat, 
+standard fat, and the FDA high-fat meals when ingested 2 hours post-dose. The extent of 
+absorption was deemed by the reviewer to be significantly reduced when the light non-fat meal 
+was ingested at 1-hour post dose; it would be expected that ingestion of either the standard 
+low-fat or the FDA high-fat meal at 1 hour post dose would result in an even greater reduction 
+of the extent of absorption, and possibly the rate of absorption, of omadacycline.  
+Therefore, food / meals should not be ingested until at least 2 hours post-dose administration of 
+omadacycline to minimize the food effect on bioavailability with the to-be-marketed tablet 
+formulation. 
+ 
+Reference ID: 4329339
+
+
+===== PAGE 271 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+275 
+ 
+Table 3. Geometric Mean Ratio Comparison of and 90% Confidence Intervals for Primary PK 
+Parameters (Hepatic Impaired Subjects/Healthy Subjects) 
+Source: PT-Table 14.2-1.5 and PT-Table 14.2-1.6. CSR Study No. CPTK796A2201, page 49 
+ 
+Similar clearance was observed for the different cohorts; geometric means for CL were10.45, 
+14.14, 11.21, 9.00, and 12.06 L/hour for mild hepatic impairment, moderate hepatic 
+impairment, severe hepatic impairment, healthy subjects matched to mild hepatic impairment, 
+and healthy subjects matched to moderate impairment, respectively. 
+For oral PTK796, the rate of absorption of PTK796 was similar across the cohorts, with median 
+Tmax of 1.75 hours for the mild and moderate hepatic impaired subjects, and 1.5 to 2.0 hours 
+for the healthy cohorts. Generally, higher inter-subject variability was observed with oral dose 
+treatment arms compared to the IV infusion.  
+The statistical analysis of the key PK parameters showed that PTK796 exposure (AUC) and Cmax 
+were comparable between the hepatic impaired subjects with the matching healthy subjects. 
+For the mild hepatic impairment cohort, while a higher Cmax was observed compared to healthy 
+subjects in the 100 mg IV infusion arm (geometric mean ratio 1.42), this trend was not observed 
+in the moderate or severe hepatic impairment subjects.  
+The pooled analysis of dose normalized omadacycline AUC or Cmax across all study groups after 
+IV administration showed no clear relationship between exposure to omadacycline and Child-
+Turcotte-Pugh score (Figure 1). 
+Figure 1. Dose-Normalized AUClast and Cmax of PTK796 vs. Child-Turcotte-Pugh score Following 
+IV Administration, Healthy Subjects Were Assigned a Score of Zero 
+ 
+ 
+Source: PT-Figure 14.2-1.2. CSR Study No. CPTK796A2201, page 45 
+ 
+Reference ID: 4329339
+
+
+===== PAGE 275 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+279 
+ 
+Table 2. Summary of Urine Pharmacokinetic Parameters following single IV doses of 
+omadacycline 
+Ae =cumulative amount of drug excreted in urine, Feu =fraction of the dose renally eliminated 
+Source: Table 14.2.2.3, CSR: PTK0796-RENL-15102, page 47 
+Mean (SD) are shown 
+Table 3. Summary of Dialysate Pharmacokinetic Parameters 
+AR=amount recovered in dialysate, CLhd=hemodialysis clearance, Fr=fraction of total elimination occurring by 
+dialysis  
+Source: Table 14.2.2.4 CSR: PTK0796-RENL-15102, page 47 
+Mean (SD) are shown 
+භdŚĞ ŵĞĂŶ ƚ1/2 following IV administration of 100 mg of omadacycline ranged from 17.1 to 
+18.9 hours across the cohorts and periods. 
+භdŚĞ ŵĞĂŶ > ƌĂŶŐĞĚ ĨƌŽŵ ϭϬ͘ϭ ƚŽ ϭϬ͘ϲ >ͬŚƌ͘ The percent of the omadacycline dose in the 
+dialysate during dialysis was 7.89% (7.89 mg).
+The results of the statistical comparison of PK parameters for ESRD subjects on stable 
+hemodialysis vs matched healthy control subjects are presented in Table 4. The results of the 
+statistical comparison of PK parameters for ESRD subjects on stable hemodialysis for Period 2 
+(Test) vs Period 1 (Reference) are presented in Table 5. 
+Table 4. Statistical Comparison of Pharmacokinetic Parameters for ESRD Subjects on Stable 
+Hemodialysis (dosing after dialysis, Period 1) vs Matched Healthy Control Subjects 
+Source: Table 14.2.3.1 CSR: PTK0796-RENL-15102, page 48 
+Cohort 1 Period 1 (Test): ESRD subjects on stable hemodialysis (dosing after dialysis). Cohort 2 (Reference): Healthy 
+subjects. 
+Reference ID: 4329339
+
+
+===== PAGE 276 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+280 
+ 
+ 
+Table 5. Statistical Comparison of Pharmacokinetic Parameters for ESRD Subjects (cohort 1) 
+on Stable Hemodialysis for Period 2 (Test- dosing before dialysis) vs Period 1 (Reference- 
+dosing after dialysis) 
+ 
+Source: Table 14.2.3.2 CSR: PTK0796-RENL-15102, page 49 
+Cohort 1 Period 1 (reference): Omadacycline 100 mg ESRD subjects on stable hemodialysis (dosing after dialysis); 
+Cohort 1 Period 2 (Test): Omadacycline 100 mg ESRD subjects on stable hemodialysis (dosing before dialysis). 
+The effect of RI was evaluated by calculating the relative bioavailability of the 100 mg IV dose 
+administered in ESRD subjects and healthy control subjects. The results are presented in Table 4 
+and indicate that RI did not have an impact on the overall extent of exposure (AUC0-last and 
+AUC0-inf) and CL. 
+ 
+The effect of hemodialysis was evaluated by calculating the relative bioavailability of the 100 
+mg IV dose administered in ESRD subjects before and after hemodialysis. The results are 
+presented in Table 5 indicate that hemodialysis did not have an effect on the overall extent of 
+exposure (AUC0-last and AUC0-inf) and CL. However, 90% CI for the Cmax was wide for ESRD 
+subjects on stable hemodialysis vs matched healthy control. 
+ 
+Clin-Pharm Reviewer’s assessment: 
+The results indicate that RI did not have a significant effect on the overall extent of exposure 
+(AUC0-last and AUC0-inf) of omadacycline, nor on its CL, Vss, or t1/2. 
+There was a slight increase in mean Cmax in ESRD patients when dosed before vs. after 
+ŚĞŵŽĚŝĂůǇƐŝƐ ;ĂƉƉƌŽǆŝŵĂƚĞůǇ Ϯϯй ŝŶĐƌĞĂƐĞͿ ǁŚŝĐŚ ĐĂŶŶŽƚ ďĞ ĂƚƚƌŝďƵƚĞĚ ƚŽ ŚĞŵŽĚŝĂůǇƐŝƐ ŝƚƐĞůĨ ĂƐ
+the tmax occurred prior to the initiation of hemodialysis. 
+There was also high inter-subject variability in Cmax in ESRD subjects either with dosing before 
+;йsсϰϯ͘ϳйͿ Žƌ ĂĨƚĞƌ ĚŝĂůǇƐŝƐ ;йsс ϯϳ͘ϴйͿ͘ 
+The Reviewer agrees with the Applicant that dose adjustment of IV omadacycline does not 
+appear warranted for patients with ESRD who are on hemodialysis. 
+Conclusions: 
+Based on the results of this study, no dose adjustment is needed for ESRD subjects on 
+hemodialysis when omadacycline is given by the IV route of administration. 
+Reference ID: 4329339
+
+
+===== PAGE 278 =====
+
+NDA Multi-Disciplinary-Review and Evaluation – NDAs 209816 and 209817  
+282 
+ 
+reviewed by the Clinical Pharmacology reviewer and met the acceptance criteria. Please refer 
+to section 15.2.1 for details of validation methods. 
+RESULTS: 
+ Plasma PK parameters of omadacycline are summarized by treatment in Table 1. 
+Table 1. Summary of Plasma Pharmacokinetic Parameters of Omadacycline by Treatment 
+Source: Table 14.2.3. CSR Study No. PTK0796-DDI-17106, page 
+The Sponsor notes that AUC(0-ŝŶĨͿ ĞƐƚŝŵĂƚĞƐ ĂƌĞ ŶŽƚ ƉƌĞĐŝƐĞ ƐŝŶĐĞ ƚŚĞ йh;ĞǆƚƌĂƉͿ ǁĂƐ ŐƌĞĂƚĞƌ
+ƚŚĂŶ ϮϬй ŝŶ Ăůů ŝŶƐƚĂŶĐĞƐ͘ dŚƵƐ͕ ƚŚĞ ZĞǀŝĞǁĞƌ ǁŝůů ƵƐĞ h;Ϭ-t) estimates for interpretation of 
+extent of omadacycline absorption results.   
+Table 2 Statistical Analysis of Plasma Pharmacokinetic Parameters for Omadacycline  
+ 
+Source: Table 14.2.5.2. CSR Study Number PTK0796-DDI-17106, Page 64 
+Clin-Pharm Reviewer’s assessment and conclusions: 
+Following a single oral dose of verapamil (P-gp inhibitor), the rate (Cmax) and extent (AUC0-t) of 
+ŽŵĂĚĂĐǇĐůŝŶĞ ĂďƐŽƌƉƚŝŽŶ ǁĞƌĞ ŝŶĐƌĞĂƐĞĚ ďǇ ĂƉƉƌŽǆŝŵĂƚĞůǇ ϭϰй ĂŶĚ ϭϴй͕ ƌĞƐƉĞĐƚŝǀĞůǇ͕ ĂƐ
+compared to that when omadacycline was administered alone. The increase in exposure of 
+omadacycline is not deemed to be clinically significant by the reviewer and does not warrant a 
+dose adjustment of omadacycline when co-administered with a P-glycoprotein inhibitor. 
+ 
+The rate (Cmax) and extent of absorption (AUC0-t) of omadacycline were reduced by 
+ĂƉƉƌŽǆŝŵĂƚĞůǇ ϮϬ ƚŽ Ϯϱй ǁŚĞŶ Ă ůŝŐŚƚ ŶŽŶĚĂŝƌǇ ŵeal was ingested 1.5 hours pre-dose.  Similar 
+to the other food effect study, the results from this study also indicates that patients need to be 
+fasted prior to taking omadacycline.   
+Reference ID: 4329339

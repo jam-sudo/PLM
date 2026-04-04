@@ -1,0 +1,2507 @@
+
+
+===== PAGE 13 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+xii 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 94. In Vitro Assessment of Zoliflodacin as Substrate, Inhibitor, or Inducer of 
+Human Uptake and Efflux Transporters ....................................................................148 
+Table 95. Zoliflodacin Formulation Development History .............................................150 
+Table 96. Summary Statistics of Plasma Zoliflodacin Pharmacokinetic Parameters by 
+Treatment ...................................................................................................................154 
+Table 97. Statistical Analysis of Plasma PK Parameters for Zoliflodacin Test and 
+Reference Formulations .............................................................................................155 
+Table 98. Statistical Analysis To Assess the Effect of Food on Plasma 
+Pharmacokinetic Parameters of Zoliflodacin .............................................................158 
+Table 99. Statistical Analysis To Assess the Effect of Coadministration of 
+Itraconazole on Plasma Pharmacokinetic Parameters of Zoliflodacin ......................158 
+Table 100. Summary Statistics of Plasma Zoliflodacin Pharmacokinetic Parameters 
+by Treatment ..............................................................................................................161 
+Table 101. Statistical Analysis To Assess the Effect of Food on Plasma 
+Pharmacokinetic Parameters of Zoliflodacin .............................................................161 
+Table 102. Summary Statistics of Plasma Zoliflodacin Pharmacokinetic Parameters ....163 
+Table 103. Summary Statistics of Zoliflodacin (ZoliAZ PFOS Fasted) 
+Pharmacokinetic Parameters by Treatment (Part A SAD) ........................................166 
+Table 104. Summary Statistics of Zoliflodacin Pharmacokinetic Parameters by 
+Treatment (Part B FE) ................................................................................................167 
+Table 105. Statistical Analysis To Assess the Effect of Food on Plasma 
+Pharmacokinetic Parameters of Zoliflodacin (Part B FE) .........................................167 
+Table 106. Summary Statistics of Plasma Zoliflodacin PK Parameters ..........................171 
+Table 107. Summary Statistics of Zoliflodacin Pharmacokinetic Parameters by 
+Treatment, Study DMID 16-0110 ..............................................................................174 
+Table 108. Summary of Bioanalytical Method Validation and Performance for 
+Zoliflodacin ................................................................................................................178 
+Table 109. Anticipated Model Risk for PopPK Analysis ................................................179 
+Table 110. Description of Studies Included in the PopPK Analysis ...............................180 
+Table 111. Summary Statistics of Participant Characteristics for PopPK Population .....182 
+Table 112. Parameter Estimates for Final PopPK Model ................................................184 
+Table 113. Simulated Total-Drug Cmax Following 3 g in Fasted State (Assuming 
+Phase 3 BA) ...............................................................................................................188 
+Table 114. Simulated Total-Drug Cmax Following 3 g in Fed State (Assuming Phase 3 
+BA) .............................................................................................................................189 
+Table 115. Simulated Free-Drug AUC Following Zoliflodacin 3 g in a Fasted State 
+(Assuming Phase 1 BA) .............................................................................................190 
+Reference ID: 5710355
+
+
+===== PAGE 17 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+1 
+Integrated Review Template, version 4.0 (11/1/23) 
+Glossary 
+ACKR1 
+atypical chemokine receptor 1 
+ADME 
+absorption, distribution, metabolism, and excretion 
+AE 
+adverse event 
+ALT 
+alanine aminotransferase 
+AST 
+antimicrobial susceptibility testing 
+AUC 
+area under the concentration-time curve 
+AUC0-∞ 
+area under the concentration-time curve estimated to infinity 
+BA 
+bioavailability 
+BCRP 
+breast cancer resistance protein 
+CI 
+clinical inspection 
+CL 
+clearance 
+CLSI 
+Clinical Laboratory and Standards Institute 
+Cmax 
+maximum plasma concentration 
+CMC 
+chemistry, manufacturing, and controls 
+COVID-19 
+coronavirus disease of 2019 
+CYP 
+cytochrome P450 
+DANC 
+Duffy-null associated neutrophil count 
+DARRTS 
+Document Archiving, Reporting and Regulatory Tracking System 
+DDI 
+drug-drug interaction 
+DMID 
+Division of Microbiology and Infectious Diseases 
+DNDi 
+Drugs for Neglected Diseases initiative 
+DUOG 
+Division of Urology, Obstetrics and Gynecology 
+ECG 
+electrocardiogram 
+EFD 
+embryo-fetal development 
+EOS 
+end-of-study 
+EPC 
+established pharmacologic class 
+f 
+free-drug 
+F1 
+first generation 
+F2 
+second generation 
+Fa 
+fraction absorbed 
+FDA 
+Food and Drug Administration 
+FE 
+food effect 
+FEFD 
+fertility and embryo-fetal development 
+Fg 
+fraction available 
+GABAA 
+gamma-aminobutyric acid A 
+GARDP 
+Global Antibiotic Research and Development Partnership 
+GCP 
+good clinical practice 
+GD 
+gestation day 
+GFOS 
+granules for oral suspension 
+GMR 
+geometric mean ratio 
+hERG 
+human ether-a-go-go related gene 
+HFIM 
+hollow fiber infection model 
+IC50 
+half-maximal inhibitory concentration 
+Reference ID: 5710355
+
+
+===== PAGE 41 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+25 
+Integrated Review Template, version 4.0 (11/1/23) 
+Characteristic 
+Drug Information 
+ 
+Elimination 
+Mass balance results 
+Following a single 3 g radiolabeled (~500 μCi) zoliflodacin dose, the mean cumulative radioactivity recovery was 
+98% over the 192-hour collection period. Cumulative radiolabeled excretion data indicate that elimination is primarily 
+nonrenal, with the majority of the radioactive dose recovered in the feces. Ratios of blood to plasma total 
+radioactivity were approximately 0.7, and zoliflodacin was the most abundant circulating component (57.5% of total 
+radioactivity by AUC0-∞) in plasma. 
+Apparent clearance 
+The geometric mean (%GCV) is 19.1 L/h (28.8) when administered under fasted conditions and 12.5 L/h (27.8) 
+under fed conditions. 
+Half-life 
+Zoliflodacin demonstrated a monophasic pharmacokinetic profile. Based on the terminal/elimination phase, the 
+estimated geometric mean (%GCV) half-life is 6.4 hrs (20.4) when administered under fasted conditions and 5.5 hrs 
+(14.0) under fed conditions. 
+Metabolic pathway(s) 
+The major clearance mechanism for zoliflodacin is metabolism, as approximately 5% of unmetabolized parent drug 
+was observed in the urine and feces in a radiolabeled mass balance study. Zoliflodacin is metabolized by CYP- and 
+non-CYP-mediated pathways. CYP-mediated metabolism is predominantly via CYP 3A4/5 enzymes, with lesser 
+contributions from CYP1A2, CYP2C9, CYP2C8, and CYP2C19. 
+Primary excretion 
+pathways (% dose 
+recovered in 192 hours 
+post dose) 
+Following a single 3 g radiolabeled (~500 μCi) zoliflodacin dose, 18.2% of the dose was recovered in urine, 2.5% of 
+which was recovered as unchanged zoliflodacin; 79.6% of the dose was recovered in feces, 1.5% of which was 
+recovered as unchanged zoliflodacin. 
+ 
+Intrinsic Factors and Specific Populations 
+Body weight 
+The available information suggests no dosage adjustments are required in patients weighing 35 kg or greater. 
+ 
+A population PK analysis based on the PK data from phase 1 studies and the phase 3 trial show that weight is a 
+significant covariate of zoliflodacin pharmacokinetics in participants with an inverse relationship between body weight 
+and zoliflodacin exposure. The weights of participants in the population PK database ranged from 48.2 to 112 kg. No 
+PK data were available in participants <48.2 kg. However, participants enrolled in the phase 3 trial receiving a single 
+3 g dose of zoliflodacin weighed between 36.5 to 138.6 kg. 
+Age 
+Age (19 to 55 years old) was not a significant predictor of the variability in pharmacokinetics of zoliflodacin. The 
+available information suggests that after body weight was considered, no dosage adjustments are required in 
+adolescent patients aged 12 to <18 years of age or elderly patients aged >65 years of age. 
+Renal impairment 
+Zoliflodacin is eliminated primarily by a nonrenal route. Less than 25% of the parent drug and metabolites are 
+detected in urine in a mass balance study of radiolabeled zoliflodacin. Additionally, NUZOLVENCE is a single-dose 
+drug product, therefore no dosage adjustments are recommended for patients with renal impairment. 
+Hepatic impairment 
+Zoliflodacin clearance is mainly via metabolism by CYP- and non-CYP-mediated pathways. Based on the totality of 
+data and considering NUZOLVENCE is a single-dose drug product, no dosage adjustments are recommended for 
+patients with hepatic impairment. See Section 8.1 for additional details. 
+Reference ID: 5710355
+
+
+===== PAGE 42 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+26 
+Integrated Review Template, version 4.0 (11/1/23) 
+Characteristic 
+Drug Information 
+ 
+Drug Interaction Liability (Drug as Perpetrator) 
+Inhibition/induction of 
+metabolism 
+Zoliflodacin demonstrated inhibition potential of CYPs 2C8, 2C9, and 2C19 in vitro. However, based on mechanistic 
+static model predictions, zoliflodacin has a low risk of a clinically relevant drug interaction as a direct inhibitor of 
+CYPs 2C8, 2C9, and 2C19 in vivo. 
+ 
+No reversible or time-dependent inhibition of CYP3A4/5 was observed in the in vitro drug-drug interaction (DDI) 
+studies at <500µM (50× maximum clinical concentration). The anticipated maximum zoliflodacin concentration in the 
+GI tract is estimated to be 1538 µM after considering maximum reported solubility. However, zoliflodacin’s potential 
+to inhibit intestinal CYP3A4/5 is considered to be transient, if any, due to rapid absorption and administration as a 
+single dose. See Section 8.2 for additional details. 
+ 
+Zoliflodacin demonstrated induction of CYP1A2 in vitro. However, the drug interaction potential is unlikely to be 
+clinically significant as NUZOLVENCE is a single-dose drug product. 
+Inhibition/induction of 
+transporter systems 
+Zoliflodacin demonstrated inhibition of P-gp, BCRP, OATP1 B1/B3, OAT1/3, MATE1, and MATE2K drug transporters 
+in vitro. However, as NUZOLVENCE is a single-dose drug product (with a short half-life of 5.5 hrs to 6.4 hrs), the 
+overall DDI risk is low. 
+Source: FDA reviewer’s summary and assessment 
+AUC, area under the concentration-time curve; AUC0­∞/MIC, area under the concentration-time curve estimated to infinity relative to MIC; BCRP, breast cancer resistance protein; CI, 
+confidence interval; Cmax, maximum plasma concentration; C-QTc, concentration-QTc; CYP, cytochrome P-450; GCV, geometric coefficient of variation; GM, geometric mean; hERG, 
+human ether-à-go-go-related gene; HPLC-MS/MS, high pressure liquid chromatography with tandem mass spectrometry; ICH, International Council for Harmonisation; MATE, 
+multidrug and toxin extrusion transporter; max, maximum; MIC, minimum inhibitory concentration; min, minimum; mITT, microbiologic intent-to-treat; OAT, organic anion transporter; 
+OATP, organic anion transporting polypeptide; P-gp, P-glycoprotein; PK, pharmacokinetic; PO, by mouth 
+Reference ID: 5710355
+
+
+===== PAGE 121 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+105 
+Integrated Review Template, version 4.0 (11/1/23) 
+Study/Study No. 
+Key Methods Highlights and Findings 
+Study No. 611626 
+Study Title: AZD0914 
+Renal Function-Diuresis 
+and Electrolyte Excretion 
+in the Han Wistar Rat 
+following Single 
+Intravenous (1h) Infusion 
+Administration 
+Male Han Wistar rats were administered 0 (vehicle control), 25, 100, or 
+250 mg/kg AZD0914 by 1 hour IV infusion or 30 mg/kg furosemide by oral 
+gavage (positive control) and renal function parameters were measured in 
+urine samples for 0 to 4 hours and 4 to 24 hours, water consumption was 
+measured, and blood samples were collected 2 days before dosing, and 4 
+and 24 hours postdosing (N=8/group). 
+ 
+• 0 to 4 hours: 
+250 mg/kg: urinary pH, plasma glucose, and rate of water consumption 
+increased. Decreased urinary calcium excretion, and decreased plasma 
+calcium and total protein were observed. 
+100 mg/kg and above: decreased urinary potassium excretion, decreased 
+renal potassium clearance and decreased plasma sodium 
+All treated groups: decreased urinary potassium expressed as a ratio with 
+creatinine 
+ 
+• 4 to 24 hours: 
+250 mg/kg: decreased urinary calcium excretion and decreased renal 
+clearance, increased plasma creatinine, decreased plasma sodium. 
+100 mg/kg and above: increased water consumption and free water 
+clearance. 
+ 
+All treated groups: increased urinary rate and decreased urine osmolality, 
+decreased urine creatinine. 
+ 
+Furosemide at both time points showed a diuretic effect, as expected. 
+ 
+Conclusion: 
+AZD0914 induced diuresis at all 3 doses tested in this study, especially 
+during the 4- to 24-hour period. The diuretic effect was dose related. 
+Source: Reviewer table from Applicant’s study report data 
+Abbreviations: AZ13420914, zoliflodacin; 
+, zoliflodacin; AZD0914, zoliflodacin; CHO, Chinese hamster ovary; Cmax, 
+maximum plasma concentration; ECG, electrocardiogram; hERG, human ether-à-go-go-related gene; HP-β-CD, 2-Hydroxypropyl-β-
+cyclodextrin; IV, intravenous; QTc, corrected QT interval; Tmax, time to maximum concentration 
+13.1.4. Absorption, Distribution, Metabolism, 
+Excretion/Pharmacokinetics 
+Absorption 
+Bioavailability of orally administered zoliflodacin was calculated to be about 46% in CD-1 mice, 
+58% in cynomolgus monkeys, 28% in Han Wistar rats, and 42% to 95% in Beagle dogs 
+(depending on the formulation). 
+In vitro apparent permeability of zoliflodacin across human jejunum and Caco-2 confluent cell 
+layers were tested in vitro with tissues from two donors. There was variability in the 
+permeability by donor across the jejunum tissue with apical to basal transport (i.e., gut to 
+bloodstream absorption) of zoliflodacin characterized as moderate in tissue from one donor 
+and high in the other. The permeability of zoliflodacin in basal to apical transport (i.e., active 
+efflux back into the gut lumen) was generally higher than apical to basal in both test systems 
+and was dose dependent. 
+Reference ID: 5710355
+(b) (4)
+
+
+===== PAGE 131 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+115 
+Integrated Review Template, version 4.0 (11/1/23) 
+Toxicokinetics 
+AZ13420914 was below the limit of quantitation (0.02 µmol/L) in control animals. 
+Similar toxicokinetics were observed between males and females. 
+Increases in exposure were less than dose proportional. 
+Exposure (Cmax and AUC) was between 1.1- to 2.2-fold greater on Day 28 than Day 1, with the 
+difference slightly larger at the high dose compared to the low dose. 
+Table 56. TK Parameters, Study 523980 
+Parameter 
+Sex 
+Dose (mg/kg/day) 
+200 
+500 
+1000 
+Day 1 
+Day 28 
+Day 1 
+Day 28 
+Day 1 
+Day 28 
+AUC0-t (µg*h/mL) 
+Male 
+834 
+1068 
+1813 
+2364 
+2096 
+3485 
+Female 
+990 
+1082 
+1818 
+2569 
+2510 
+4158 
+Cmax (µg/mL) 
+Male 
+83.8 
+94.6 
+128.7 
+173.0 
+113.1 
+229.1 
+Female 
+95.5 
+118.9 
+124.3 
+161.3 
+127.2 
+283.2 
+Tmax (h) 
+Male 
+2 
+2 
+4 
+4 
+4 
+4 
+Female 
+2 
+2 
+2 
+2 
+6 
+6 
+Source: Reviewer table from Applicant’s study report data 
+Abbreviations: AUC, area under the concentration-time curve; Cmax: maximum plasma concentration; TK, toxicokinetic; Tmax, time to 
+maximum concentration 
+Study 523996/AZ13420914: 28 Day Oral (Gavage) Toxicity Study With a 3 Month 
+Assessment of Recovery in Dogs (Good Laboratory Practice) 
+Key Study Findings 
+One male dog administered 500 mg/kg/day AZ13420914 was euthanized early for low feed 
+consumption and body weight loss. The cause of morbidity in this animal appeared to be due 
+to marked necrosis and inflammation of the ileum and gut-associated lymphoid tissue. 
+Dose-related increases in incidences of vomiting and salivation were seen in drug-treated 
+animals (all groups). 
+Treatment with AZ13420914 was associated with increased heart rate (all groups), but not QTc 
+prolongation. 
+Mean reticulocyte counts were higher in all groups treated with drug compared to pretreatment 
+values and controls. Red blood cell (RBC) parameters were reduced slightly in mid- and 
+high-dose groups and mean bilirubin levels were slightly increased in these groups. These 
+values recovered by the end of a 3-month drug-free period. 
+Microscopic changes comprised of moderate testicular degeneration and cellular debris in the 
+epididymis of a high-dose dog and mild testicular degeneration in a mid-dose dog were 
+observed. Hypospermatogenesis was observed in 2 dogs in the high-dose group at the end of 
+the recovery period. 
+The NOAEL in this study was the low dose of 100 mg/kg/day, based on the reduced RBC 
+parameters, increased bilirubin, and testicular degeneration seen in the mid dose group 
+(200 mg/kg/day). 
+Reference ID: 5710355
+
+
+===== PAGE 133 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+117 
+Integrated Review Template, version 4.0 (11/1/23) 
+Parameter 
+Major Findings 
+Histopathology 
+Adequate battery: 
+Yes 
+At the end of dosing: 
+1 high dose male had moderate testicular degeneration and moderate cellular 
+debris in the epididymis 
+1 mid-dose male had mild testicular degeneration 
+At the end of recovery: 
+Hypospermatogenesis was observed in 2 high dose males at the end of recovery. 
+This finding can be a background finding or could be a delay of recovery from a 
+drug effect. 
+Source: Reviewer table from Applicant’s study report data 
+Abbreviations: AZ13420914, zoliflodacin, QTc, corrected QT interval; RBC, red blood cell 
+Toxicokinetics 
+Toxicokinetic parameters were similar between sexes. 
+The increase in exposure was less than dose proportional, especially between 200 and 
+500 mg/kg/day, suggesting that the high dose may be beyond the plateau for absorption. 
+There was evidence of drug accumulation between Days 1 and 28 of dosing, particularly in the 
+mid- and high-dose groups. 
+Table 59. TK Parameters, Study 523996 
+Parameter 
+Sex 
+Dose (mg/kg/day) 
+100 
+200 
+500 
+Day 1 
+Day 28 
+Day 1 
+Day 28 
+Day 1 
+Day 28 
+AUC0-t (µg*h/mL) 
+Male 
+405 
+751 
+1111 
+2457 
+1146 
+2608 
+Female 
+600 
+946 
+809 
+1862 
+1102 
+2954 
+Cmax (µg/mL) 
+Male 
+41.7 
+90.7 
+94.6 
+210.1 
+93.6 
+203.3 
+Female 
+55.6 
+90.2 
+79.5 
+216.9 
+98.5 
+244.7 
+Tmax (h) 
+Male 
+1 
+1.5 
+2 
+4 
+4 
+3 
+Female 
+4 
+2 
+2 
+2 
+2 
+4 
+Source: Reviewer table from Applicant’s study report data 
+Abbreviations: AUC, area under the concentration-time curve; Cmax: maximum plasma concentration; TK, toxicokinetic; Tmax, time to 
+maximum concentration 
+Study 611830/AZD0914: 14 Day Intravenous (1 h) Infusion Toxicity Study With 
+Assessment of 1 Month Recovery in Rats (Good Laboratory Practice) 
+Study Summary and Key Findings 
+Wistar Han rats were administered 0 (vehicle), 75, 150, or 250 mg/kg/day AZD0914 by IV 
+infusion over one hour once daily for 14 days (n=10/sex/group [main group], n=3/sex/group 
+[PK group], and n=5/sex/group for high dose and controls recovery groups to assess 
+reversibility). 
+Dose-dependent increased water consumption was reported; this was statistically significant for 
+mid- and high-dose females and high-dose males. Water consumption was similar across 
+groups in recovery animals. 
+Body weight gains were reduced about 40% in test article-administered males. During the 
+recovery period the high-dose animals gained more weight than controls. 
+Reference ID: 5710355
+
+
+===== PAGE 142 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+126 
+Integrated Review Template, version 4.0 (11/1/23) 
+Toxicokinetics 
+Toxicokinetics were assessed on Day 32 from animals that did not have blood drawn for 
+hematology samples (n=3). 
+Exposures increased with increasing dose. 
+Cmax increased less than dose-proportionately. 
+AUC0-24 increased less than dose proportionately from 200 to 500 mg/kg/day and roughly dose-
+proportionately between 500 and 1000 mg/kg/day. 
+Half-lives increased with increasing dose (2.7, 4.0, and 7.6 hours for 200, 500 and 
+1000 mg/kg/day, respectively). 
+Table 69. TK Parameters, Study 497076 
+Parameter 
+Dose (mg/kg/day) 
+200 
+Day 32 
+500 
+Day 32 
+1000 
+Day 32 
+AUC0-t (µg*h/mL) 
+795 
+1287 
+2608 
+Cmax (µg/mL) 
+62 
+123 
+178 
+Tmax (h) 
+6 
+4 
+6 
+Source: Reviewer table from Applicant’s study report data 
+Abbreviations: AUC, area under the concentration-time curve; Cmax: maximum plasma concentration; TK, toxicokinetic; Tmax, time to 
+maximum concentration 
+Study 496884/AZD0914: Oral (Gavage) Fertility and Embryofetal Development Study in 
+the Female Rat (Good Laboratory Practice) 
+Key Study Findings 
+Female rats were administered AZD0914 at doses of 0, 200, 500, or 1000 mg/kg/day by oral 
+gavage for 2 weeks prior to mating until gestation day (GD) 16. 
+Clinical signs in the 1000 mg/kg dose group included salivation and ploughing behavior. Two 
+females in this group had scabbing or reddened skin on muzzle, ears, tail, or extremities at 
+the end of gestation which resolved when dosing stopped before termination. 
+No significant differences in estrus cycles, mating, or precoital index were reported. In the 500 
+and 1000 mg/kg/day dose groups, the number of early intrauterine deaths increased. Mean 
+gravid uterine weights were 24% lower in the 1000 mg/kg dose group compared to controls. 
+Mean litter weights were significantly lower in the 200 and 1000 mg/kg dose groups (18% 
+and 29%, respectively). 
+No test article-related external or visceral fetal abnormalities were reported. In all dose groups, 
+an increase in litters with skeletal variations and a decrease in skeletal ossification was 
+reported. 
+The no-observed-effect level for maternal toxicity was 200 mg/kg/day. No NOAEL for fetal 
+development could be determined in this study based on the change in litter weights. 
+Reference ID: 5710355
+
+
+===== PAGE 148 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+132 
+Integrated Review Template, version 4.0 (11/1/23) 
+Toxicokinetics 
+Exposure as Cmax and AUC0-24h increased generally greater than dose-proportionately from 50 to 
+100 mg/kg/day and roughly dose-proportionately from 100 to 200 mg/kg/day during 
+gestation. 
+Exposures were similar on GD 6 and GD 14 for all three doses. Exposures were lower on 
+lactation day 21 compared to during gestation. The reason for the decrease in exposure 
+during lactation was unclear as reduced exposure with continued dosing was not seen in other 
+repeat dose rat studies. Possible mechanisms include excretion of test article into milk, 
+increased metabolism, or increased excretion via the feces or urine. 
+Table 79. F0 Dams TK Parameters, Study G19182 
+Parameter 
+Dose (mg/kg/day) 
+50 
+100 
+200 
+GD6 
+GD14 
+LD21  
+GD6 
+GD14 
+LD21 
+GD6 
+GD14 
+LD21 
+AUC0-24h 
+(µg*h/mL) 
+55 
+59.7 
+42.2 
+459 
+416 
+79.3 
+801 
+774 
+240 
+Cmax (µg/mL) 
+10.6 
+17.0 
+12.2 
+39.0 
+45.8 
+22.5 
+55.4 
+67.2 
+45 
+Tmax (h) 
+2 
+1 
+1 
+2 
+1 
+0.5 
+6 
+4 
+0.5 
+Source: Reviewer table from Applicant’s study report data 
+Abbreviations: AUC, area under the concentration-time curve; Cmax: maximum plasma concentration; GD, gestation day; LD, 
+Lactation day; TK, toxicokinetic; Tmax, time to maximum concentration 
+13.1.5.5. Impurities 
+Summary of Safety of Specified Impurities in Zoliflodacin 
+Four impurities in zoliflodacin, which are 
+ of zoliflodacin, were identified as 
+having the potential to be above the qualification limit and were evaluated for safety as 
+impurities of concern (summarized in Table 80 below). Details on the studies used to qualify the 
+impurities are included following the table. 
+Reference ID: 5710355
+(b) (4)
+
+
+===== PAGE 150 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+134 
+Integrated Review Template, version 4.0 (11/1/23) 
+ 
+ 
+Toxicokinetics were measured for zoliflodacin and for only one impurity as representative of the 
+other impurities 
+ 
+No test article-related adverse effects were reported in this study. The NOAEL was 
+500 mg/kg/day with or without added impurities. This dose corresponded to Day 14 mean 
+Cmax values for zoliflodacin of 92.1 μg/mL in males and 102 μg/mL in females. The AUClast 
+values of zoliflodacin in males was 1320 μg*hr/mL and in females 1500 μg*hr/mL. The Cmax 
+values of Impurity 
+ in males was 
+ μg/mL and in females was 
+ μg/mL, respectively. The AUClast values of Impurity 
+ in 
+males was 
+ μg*hr/mL and in females
+μg*hr/mL, respectively. 
+Toxicokinetics 
+Tmax ranged from 1 to 6 hours. 
+Generally, with increasing dose, exposure (Cmax and AUClast) increased, though in males the 
+increase was more than dose proportional and in females it was less than dose proportional. 
+Sex differences in exposure were only greater than 2-fold on both study days in 
+200 mg/kg/day groups where females had higher exposures than males. 
+Accumulation was not seen. 
+Table 81. Zoliflodacin TK Parameters, Study G19181 
+Day 
+Treatment 
+Sex 
+Dose 
+(mg/kg/day) 
+Tmax 
+(h) 
+Cmax 
+(μg/mL) 
+AUClast 
+(μg*hr/mL) 
+T½ 
+(h) 
+1 
+Zoliflodacin 
+without impurity 
+Male 
+200 
+2 
+61.2 
+313 
+NC 
+Male 
+500 
+4 
+111 
+1550 
+NC 
+Female 
+200 
+6 
+85.9 
+1190 
+NC 
+Female 
+500 
+2 
+123 
+1590 
+6.9 
+14 
+Zoliflodacin 
+without impurity 
+Male 
+200 
+1 
+70.6 
+675 
+2.2 
+Male 
+500 
+4 
+92.1 
+1320 
+NC 
+Female 
+200 
+1 
+60.9 
+776 
+3.32 
+Female 
+500 
+1 
+102 
+1500 
+7.39 
+1 
+Zoliflodacin 
+with impurity 
+Male 
+200 
+Male 
+500 
+Female 
+200 
+Female 
+500 
+14 
+Zoliflodacin 
+with impurity 
+Male 
+200 
+Male 
+500 
+Female 
+200 
+Female 
+500 
+Source: Reviewer constructed table derived from the table on page 578 of the study report. 
+NC: not calculated due to improper elimination phase. 
+Abbreviations: AUC, area under the concentration-time curve; Cmax; maximum plasma concentration; T½, half-life; TK, toxicokinetic; 
+Tmax, time to maximum concentration 
+Reference ID: 5710355
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 151 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+135 
+Integrated Review Template, version 4.0 (11/1/23) 
+ Impurity Toxicokinetics 
+Tmax ranged from 
+ hours. 
+Generally, with increasing dose, exposure (Cmax and AUClast) increased, roughly dose-
+proportionally. 
+Accumulation was not seen. 
+Exposure was about 
+ compared to zoliflodacin and did not affect zoliflodacin 
+exposures. 
+Table 82. Zoliflodacin 
+ Impurity, TK Parameters 
+Day Treatment 
+Sex 
+Group 
+Dose 
+(mg/kg 
+/day) 
+Tmax 
+(h) 
+Cmax 
+(μg/mL) 
+AUClast 
+(μg*hr/mL) 
+Clast 
+(μg/mL) 
+Tlast 
+(h) 
+T½ 
+(h) 
+1 
+Zoliflodacin 
+without 
+impurity 
+Male 
+G2BTK 
+200 
+1 
+1.72 
+5.7 
+0.558 
+6 
+NC 
+Male 
+G3BTK 
+500 
+2 
+3.04 
+16.1 
+0.0743 
+24 5.21 
+Female 
+G2BTK 
+200 
+2 
+4.26 
+15.9 
+1.35 
+6 
+NC 
+Female 
+G3BTK 
+500 
+1 
+5.44 
+46.2 
+0.197 
+24 5.02 
+14 
+Zoliflodacin 
+without 
+impurity 
+Male 
+G2BTK 
+200 
+0.5 
+0.89 
+3.52 
+0.427 
+6 
+NC 
+Male 
+G3BTK 
+500 
+2 
+3.32 
+27.7 
+0.0209 
+24 3.02 
+Female 
+G2BTK 
+200 
+0.5 
+3.44 
+7.89 
+0.784 
+6 
+NC 
+Female 
+G3BTK 
+500 
+1 
+6.41 
+44 
+0.34 
+24 7.93 
+Source: Reviewer constructed table 
+Abbreviations: AUC, area under the concentration-time curve; Cmax; maximum plasma concentration; Clast, last measurable plasma 
+concentration; T½, half-life; NC, not calculated; TK, toxicokinetic; Tmax, time to maximum plasma concentration, Tlast, time to last 
+measurable plasma concentration 
+Genetic Toxicology Testing for 
+ 
+Table 83. Genetic Toxicology, In Vitro Reverse Mutation Assay in Bacterial Cells (Ames) of 
+ 
+Study Features and 
+Methods 
+Details 
+Study no. 
+G19179 
+Study title 
+: Bacterial Reverse Mutation Test 
+Conducting laboratory 
+ 
+GLP compliance 
+Yes 
+Drug, lot #, % purity 
+ CZOF/CZOF10-202-0373218, 97.9% 
+Strains 
+Salmonella typhimurium TA98, TA100, TA102, TA1535, and TA1537 
+E. coli WP2uvrA (pKM101) 
+Concentrations in the 
+definitive study/method 
+0.3, 1, 3, 10, 31 and 100 µg/plate 
+Basis of concentration 
+selection 
+Excessive cytotoxicity at 200 µg/plate 
+Formulation/vehicle 
+DMSO 
+Reference ID: 5710355
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 162 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+146 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 93. In Vitro Assessment of Zoliflodacin as Substrate, Inhibitor, or Inducer of CYP Enzymes 
+Enzyme 
+In Vitro Findings 
+In Vivo Potential Predictionsf 
+% Drug 
+Consumed 
+After 
+Incubationa 
+IC50b,c 
+(µM) 
+Induction 
+FCd 
+(%Positive 
+Control) 
+Basic Model 
+Predictions R1 
+and/or Rgut 
+(Reviewer 
+Analysis) 
+Mechanistic Static 
+Model Predictions 
+Liver AUCR 
+(Reviewer 
+Analysis) 
+Interpretation 
+(Substrate/ 
+Inhibitor/ 
+Inducer) 
+CYP1A2 
+14 
+>500 
+14.4e 
+(10.63) 
+R1<1.02 
+ 
+Inducer 
+CYP2B6 
+NT 
+>500 
+NI 
+R1<1.02g 
+ 
+ 
+CYP2C8 
+11 
+137 
+ 
+R1=1.073 
+1.084 
+ 
+CYP2C9 
+14 
+239 
+ 
+R1=1.042 
+1.048 
+ 
+CYP2C19 
+10 
+282 
+ 
+R1=1.035 
+1.041 
+ 
+CYP2D6 
+9 
+>500 
+ 
+R1<1.02g 
+ 
+ 
+CYP3A4/5 
+17 
+>500 
+NI 
+R1<1.02g 
+Rgut <50.241g 
+ 
+Inhibitor at GI 
+site 
+Source: Reviewer’s analysis. Reviewer compiled data from Table 8-1 Study SN-000914-2016-01 (page 14), Table 1 of Study 
+ADME-AZS-Wave3-130613 report (page 6), Table 1 of Study ADME-AZS-Wave3-120914 report (page 7), Table 1 of Study 
+00005CYP tNH LCMS 2 AZ13420914 report (page 7), Table 3 of Study PR11157/CC0383 report (page 12), and Table A2 of Study 
+PR11157/CC0383 report (page 16). 
+a Determined by 100% − (%drug remaining at 25 min). 
+b Highest concentration evaluated was 500μM (50× maximum clinical concentration). 
+c No evidence of time-dependent metabolism (IC50, 30 min incubation / IC50, 30 min incubation + NADPH <2). 
+d Human hepatocytes (mRNA expression); 3 cell lots up to 500μM zoliflodacin (anticipated unbound zoliflodacin 
+concentration =85μM). 
+e Fold change (FC) observed at 500μM (50× Cmax,u); concentration dependent increase in CYP450 enzyme mRNA observed over 
+range of 2 to 500μM. 
+f Predictions based on equations and thresholds specified in the 2024 ICH M12 guidance document using 
+ 
+/ Accessed September 25, 2025. 
+g Estimate (R1 or Rgut) calculated with an assumed IC50 value of 500µM. 
+Abbreviations: ADME, absorption, distribution, metabolism, and excretion; AUCR, ratio of the area under the concentration versus 
+time curve of the substrate drug in the presence and absence of the precipitant drug; Cmax,u, maximum unbound plasma 
+concentration; CYP, cytochrome P450; DDI, drug-drug interaction; FC, fold change; GI, gastrointestinal; IC50, half-maximal inhibitory 
+concentration; ICH, International Council for Harmonisation; mRNA, messenger ribonucleic acid; NADPH, nicotinamide adenine 
+dinucleotide phosphate; NI: no induction; R1, ratio using basic model of reversable inhibition in liver; Rgut, ratio using basic model of 
+reversable inhibition in intestine 
+Overall, zoliflodacin has no or low potential as a direct inhibitor of CYPs 1A2, 2B6, or 2D6, and 
+zoliflodacin has a low risk of a clinically relevant interaction as a direct inhibitor of CYPs 2C8, 
+2C9, and 2C19. Although zoliflodacin demonstrated induction of CYP1A2 in vitro, the risk of a 
+clinically relevant interaction is unlikely as NUZOLVENCE is a single-dose drug product and 
+zoliflodacin has a median t1/2 of approximately 6 hours. 
+Zoliflodacin theoretically has the potential to inhibit intestinal CYP3A4/5 at concentrations 
+>500µM, the highest concentration evaluated in the in vitro studies. No reversible or time-
+dependent inhibition of CYP3A4/5 was observed in the in vitro studies at <500µM (50× 
+maximum clinical concentration). The potential risk associated with zoliflodacin inhibition of 
+intestinal CYP3A4/5 could be transient as its inhibition effect (if any) may be restricted to the 
+time when the zoliflodacin concentration in intestinal fluid is >500µM. Zoliflodacin has been 
+shown to be rapidly absorbed with a median Tmax of 2.5 and 4 hours under fasted and fed 
+conditions, respectively, and a t1/2 of approximately 6 hours (see Section 14.2.2). While we 
+cannot rule out zoliflodacin’s potential to inhibit intestinal CYP3A4/5 based on the data 
+submitted, we will not pursue further studies of the DDI of zoliflodacin as an inhibitor of 
+intestinal CYP3A4/5 considering the available in vitro DDI data up to 500µM concentrations and 
+potential solubility related limitations. 
+Reference ID: 5710355
+(b) (4)
+
+
+===== PAGE 164 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+148 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 94. In Vitro Assessment of Zoliflodacin as Substrate, Inhibitor, or Inducer of Human Uptake 
+and Efflux Transporters 
+Transporter 
+In Vitro Findings 
+In Vivo Potential Predictionse 
+Maximum 
+Flux Rate 
+Ratio 
+Range 
+IC50 (µM) 
+Basic Model Predictions (Reviewer 
+Analysis) 
+Interpretation 
+(Substrate/ 
+Inhibitor/ 
+Inducer) 
+BCRP 
+3.56 to 32.2 
+55.5 I1b/IC50=0.179, ≥0.02 cut-off limit 
+Igutc/ C50=443.611, ≥10 cut-off limit 
+Substrate 
+Inhibitor 
+P-gp 
+19.7 to 373 
+299 I1b/IC50=0.033, ≥0.02 cut-off limit 
+Igutc/IC50=82.343, ≥10 cut-off limit 
+Substrate 
+Inhibitor 
+OATP1B1 
+<2 
+7.7 Iind/IC50=1.291, ≥0.1 cut-off limit 
+Inhibitor 
+OATP1B3 
+<2 
+9.23 Iind/IC50=1.077, ≥0.1 cut-off limit 
+Inhibitor 
+OAT1 
+NTa 
+47.7 I1b/ C50=0.208, ≥0.1 cut-off limit 
+Inhibitor 
+OAT3 
+NTa 
+13.5 I1b/IC50=0.736, ≥0.1 cut-off limit 
+Inhibitor 
+OCT2 
+NTa 
+-  
+ 
+MATE1 
+NTa 
+>100 I1b/IC50=0.099, ≥0.02 cut-off limit 
+Inhibitor 
+MATE2 
+NTa 
+>100 I1b/ IC50=0.099, ≥0.02 cut-off limit 
+Inhibitor 
+Source: Reviewer’s analysis. Reviewer compiled from Table 1 Study 13ASTRUKP7R7S13 (page 11), Table 1 
+Study13072012_OATP1B1_inhib_AZ13420914 (page 6), Table 1 Study ADME-AZS-Wave3-150213 (page 5), and Table 1 Study 
+INF.000-133-903 (pages 6 to 7). 
+a Renal clearance of parent drug zoliflodacin is <25% of total zoliflodacin clearance. 
+b I1 = Cmax,u is estimated unbound maximum plasma concentration of an inhibitor, Cmax,u = fu,p × Cmax. The Cmax 28.5 μg/mL or 
+10μM and fu,p 0.17 were used in estimation. 
+c Igut = Dose/250 mL. 
+d Iin = Cmax,inlet,u is estimated unbound maximum plasma concentration of an inhibitor at liver inlet. Cmax,inlet,u = fu,p × (Cmax + 
+(Fa×Fg×ka×Dose)/Qh/RB) The Cmax 28.5 μg/mL and fu,p 0.17 were used in estimation. Assumptions Fa =1, Fg =1 and 
+k =0.1/minute were used as a worst-case estimates. 
+max =1.7μM; estimated max unbound plasma concentration of inhibitor at the inlet to the liver. 
+e Predictions based on equations and thresholds specified in the 2024 ICH M12 guidance document using 
+ 
+ Accessed September 26, 2025. 
+Abbreviations: BCRP, breast cancer resistance protein; DDI, drug-drug interaction; IC50, half-maximal inhibitory concentration; 
+Imax, u, maximum unbound plasma concentration of interacting drug at steady-state; MATE, multidrug and toxin extrusion 
+transporter; NT, not tested; OAT, organic anion transporter, OATP, organic anion transporting polypeptide; OCT, organic cation 
+transporter; R, ratio using basic model of reversable inhibition in liver and Iin, max; P-gp, P-glycoprotein; (-), not significant 
+To assess zoliflodacin’s inhibition potential following administration of a single 3-g dose, PBPK 
+modeling was used prospectively to predict the likely outcomes of zoliflodacin DDIs with 
+substrates of the following transporters: P-gp, BCRP, OAT1, OAT3, OATP1B1, OATP1B3, 
+OATP1B, and MATE. See Section 14.5.2 for details on PBPK modeling review. 
+No clinical studies were conducted to further evaluate zoliflodacin DDIs as either a victim or 
+inhibitor of transporters. 
+14.2. In Vivo Studies 
+14.2.1. Formulation Development 
+Formulation Development History 
+The original formulation developed and manufactured by Astra Zeneca was a zoliflodacin 
+powder for oral suspension (ZoliAZ PFOS) formulation. The phase 2 trial evaluated the efficacy 
+of the ZoliAZ PFOS formulation. 
+The original formulation, ZoliAZ PFOS, was replaced by a zoliflodacin granules for oral 
+suspension formulation manufactured by Patheon (ZoliPa GFOS). The Applicant did not conduct 
+Reference ID: 5710355
+(b) (4)
+
+
+===== PAGE 169 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+153 
+Integrated Review Template, version 4.0 (11/1/23) 
+withdrew from the study after receiving one dose of study medication and experiencing an 
+adverse event (rash) related to the study medication. 
+Cohort 2 enrolled 18 participants (including 3 (16.7%) females) with a mean (range) age of 42.3 
+(25 to 55) years and the mean ± standard deviation weight of 78.19±11.332 kg. All 18 
+participants received all planned doses of study medication and completed the study. 
+The descriptive statistics of selected plasma zoliflodacin PK parameters following a single oral 
+dose of the treatment administered under either fasted or fed conditions are summarized in 
+Table 96. The statistical comparison of zoliflodacin’s exposure parameters is summarized in 
+Table 97. 
+As shown in Table 97, the to-be-marketed formulation ZoliDr GFOS (test product) and the 
+formulation used in the phase 3 efficacy trial ZoliPa GFOS (reference product) demonstrated 
+comparable zoliflodacin BA under fasting and fed conditions. The GMR and corresponding 90% 
+CIs were wholly contained within the bioequivalence range criteria of 80.00% to 125.00% for 
+the pharmacokinetic parameters Cmax, and AUC0-∞. The two formulations demonstrated similar 
+pharmacokinetic profiles (Figure 5 [fasted state] and Figure 6 [fed state]) as well as similar Tmax 
+and t1/2 estimates (Table 96). 
+With respect to the FE on zoliflodacin pharmacokinetics, zoliflodacin BA was significantly 
+increased due to FE, as shown in Table 97 below. The GMRs (fed/fasted) for both formulations 
+evaluated were approximately 1.5 for both the Cmax and AUC0-∞ and the 90% CIs of the GMRs 
+were not contained within the range of 80.00% to 125.00%. Additionally, food also delayed 
+absorption by approximately 1.5 hr for both formulations evaluated (Table 96). 
+With respect to the DDI findings, the administration of zoliflodacin with the strong CYP3A4 
+inhibitor, itraconazole, at steady state did increase the exposure of zoliflodacin with the GMRs 
+(+itraconazole/alone) of approximately 1.03 and 1.38 for Cmax and AUC0-∞, respectively, when 
+administered under fasted conditions (Table 99). 
+ 
+Reference ID: 5710355
+
+
+===== PAGE 170 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+154 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 96. Summary Statistics of Plasma Zoliflodacin Pharmacokinetic Parameters by Treatment 
+Parameter (Unit) 
+Geometric Mean (%GCV) 
+Cohort 1 
+Cohort 2 
+Treatment A 
+ZoliPa GFOS 
+(Fasted) 
+N=31 
+Treatment B 
+ZoliDr GFOS 
+(Fasted) 
+N=31 
+Treatment C 
+ZoliPa GFOS 
+(Fed) 
+N=32 
+Treatment D 
+ZoliDr GFOS 
+(Fed) 
+N=31 
+ZoliPa GFOS 
+alone (fasted) 
+Day 1 
+N=18 
+ZoliPa GFOS + 
+Itraconazole 
+(fasted) 
+Day 9 
+N=18 
+Cmax (ng/mL) 
+19400 (24.3) 
+17900 (29.4) 
+28900 (26.2) 
+26700 (25.4) 
+17600 (31.1) 
+18100 (34.3) 
+Tmax (h)^ 
+3.0 (1.0 to 9.0) 
+2.5 (1.0 to 4.0) 
+4.5 (3.0 to 5.5) 
+4.0 (3.0 to 5.5) 
+2.5 (2.0 to 3.5) 
+3.3 (2.0 to 5.0) 
+t1/2 (h) 
+6.17 (16.3) 
+6.43 (20.4) 
+5.44 (12.2) 
+5.49 (14.0) 
+7.26 (19.6) 
+9.09 (22.9) 
+AUC0- ∞ (h*ng/mL) 
+166000 (25.6) 
+157000 (28.8) 
+250000 (28.8) 
+241000 (27.8) 
+164000 (33.7) 
+226000 (31.6) 
+CL/F (L/h) 
+18.1 (25.6) 
+19.1 (28.8) 
+12.0 (28.8) 
+12.5 (27.8) 
+18.3 (33.7) 
+13.3 (31.6) 
+Vz/F (L) 
+161 (31.8) 
+177 (26.6) 
+94.1 (22.6) 
+98.7 (24.1) 
+192 (30.6) 
+174 (32.7) 
+Source: Reviewer compiled from Table 12 STI_Zoli003 CSR (page 64) and Table 13 STI_Zoli003 CSR (page 66) 
+^Median (minimum to maximum). 
+Abbreviations: AUC0- ∞, area under the time-concentration curve from zero to infinity; CL/F, apparent clearance; Cmax, maximum plasma concentration; GCV, geometric coefficient of 
+variation; N, number of participants in treatment arm; t1/2, Half-life; Tmax: time to maximum plasma concentration; Vz/F, apparent volume of distribution; ZoliPa GFOS, zoliflodacin 
+granules for oral suspension manufactured by Patheon; ZoliDr GFOS, zoliflodacin granules for oral suspension manufactured by Dr. Reddy’s Laboratories, Ltd 
+ 
+Reference ID: 5710355
+
+
+===== PAGE 174 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+158 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 98. Statistical Analysis To Assess the Effect of Food on Plasma Pharmacokinetic 
+Parameters of Zoliflodacin 
+Formulation 
+Parameter 
+(Unit) 
+Test 
+Fed 
+GM (90% CI), n 
+Reference 
+Fasted 
+GM (90% CI), n 
+Ratio (%)  
+(Fed/Fasted) 
+GMR 
+(90% CI) 
+Intra 
+CV% 
+p-Value 
+ZoliPa GFOS Cmax 
+(ng/mL) 
+28200 
+(26800, 29600), 
+n=31 
+19400 
+(18400, 20300), 
+n=31 
+145.667 
+(135.81, 
+156.24) 
+16.3 
+<0.0001 
+AUC0- ∞ 
+(h*ng/mL) 
+246000 
+(236000, 
+257000), 
+n=31 
+165,000 
+(158000, 172000), 
+n=31 
+149.060 
+(140.38, 
+158.27) 
+13.9 
+<0.0001 
+ZoliDr GFOS Cmax 
+(ng/mL) 
+26700 
+(25300, 28200), 
+n=31 
+17900 
+(17000, 18900), 
+n=31 
+149.182 
+(138.48, 
+160.71) 
+17.3 
+<0.0001 
+AUC0- ∞ 
+(h*ng/mL) 
+241000 
+(232000, 
+250000), 
+n=31 
+157000 
+(152000, 163000), 
+n=31 
+152.901 
+(145.20, 
+161.01) 
+12.0 
+<0.0001 
+Source: Table 15 STI_Zoli003 CSR (page 69) 
+Abbreviations: AUC0- ∞, area under the time-concentration curve from zero to infinity; CI, Confidence Interval; Cmax, maximum 
+concentration; CV, Coefficient of Variation; GM, Geometric Mean; GMR, Geometric Mean Ratio; n, number of participants with a 
+specific parameter for a treatment; ZoliPa GFOS, zoliflodacin granules for oral suspension manufactured by Patheon; ZoliDr GFOS, 
+zoliflodacin granules for oral suspension manufactured by Dr. Reddy’s Laboratories, Ltd. 
+Table 99. Statistical Analysis To Assess the Effect of Coadministration of Itraconazole on Plasma 
+Pharmacokinetic Parameters of Zoliflodacin 
+Parameter 
+(Unit) 
+Test 
+ZoliPa GFOS + 
+Itraconazole/ 
+GM (90% CI), n 
+Reference 
+ZoliPa GFOS Alone 
+GM (90% CI), n 
+Ratio (%)  
+(ZoliPa GFOS + Itraconazole/ 
+/ZoliPa GFOS alone) 
+GMR (90% CI) 
+Intra CV% 
+Cmax (ng/mL) 
+18100 
+(15900, 20600), 
+n=18 
+17600 
+(15400, 20000), 
+n=18 
+103.159 
+(94.46, 112.66) 
+15.3 
+AUC0- ∞ (h*ng/mL) 
+226000 
+(198000, 257000), 
+n=18 
+164000 
+(144000, 186000), 
+n=18 
+137.845 
+(126.64, 150.04) 
+14.7 
+Source: Table 16 STI_Zoli003 CSR (page 70) 
+Abbreviations: AUC0- ∞, area under the time-concentration curve from zero to infinity; CI, Confidence Interval; Cmax, maximum 
+concentration; CV, Coefficient of Variation; GM, Geometric Mean; GMR, Geometric Mean Ratio; n, number of participants with a 
+specific parameter for a treatment; ZoliPa GFOS, zoliflodacin granules for oral suspension manufactured by Patheon 
+Assessment of Study STI_Zoli003 
+The Applicant’s overall findings from this study are consistent with the reviewer’s analysis. 
+An inspection of the clinical and bioanalytical sites was requested for Study STI_Zoli003. 
+With respect to the analytical sites, the Office of Study Integrity and Surveillance (OSIS) 
+declined to conduct an inspection for the bioanalytical site (see memo dated June 12, 2025 
+(archived in DARRTS June 17, 2025)). OSIS determined that an inspection was not needed for 
+the site, as OSIS had conducted an inspection for the analytical site in 
+. OSIS noted 
+two observations of objectionable conditions during the inspection, but after review of the 
+objectionable conditions and the written response from the site, OSIS determined that the 
+Reference ID: 5710355
+(b) (4)
+
+
+===== PAGE 177 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+161 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 100. Summary Statistics of Plasma Zoliflodacin Pharmacokinetic Parameters by Treatment 
+Parameter (Unit) 
+Geometric Mean (%GCV), n 
+Cohort 1 
+Cohort 2 
+Treatment A 
+ZoliPa GFOS 
+(3 g Fasted) 
+N=24 
+Treatment B 
+ZoliPa GFOS 
+(3 g Fed) 
+N=23 
+Treatment A 
+ZoliPa GFOS 
+(4 g Fasted) 
+N=24 
+Treatment B 
+ZoliPa GFOS 
+(4 g Fed) 
+N=24 
+Cmax (ng/mL) 
+17600 (21.3), 
+n=24 
+27100 (24.7), 
+n=23 
+19900 (28.1), 
+n=24 
+37500 (24.7), 
+n=24 
+Tmax (h)^ 
+3.0 (1.0 to 9.0), 
+n=24 
+6.0 (3.0 to 12.0), 
+n=24 
+2.5 (1.0 to 12.0), 
+n=24 
+4.0 (2.5 to 9.0), 
+n=24 
+t1/2 (h) 
+6.474 (16.7), 
+n=24 
+6.015 (13.5), 
+n=22 
+6.945 (23.9), 
+n=22 
+5.838 (13.4), 
+n=23 
+AUC0- ∞ (h*ng/mL) 
+171000 (29.4), 
+n=24 
+343000 (21.2), 
+n=22 
+224000 (36.6), 
+n=22 
+486000 (24.0), 
+n=23 
+CL/F (mL/min) 
+292 (29.4), 
+n=24 
+146 (21.2), 
+n=22 
+298 (36.6), 
+n=22 
+137 (24.0), 
+n=23 
+Vz/F (L) 
+163 (30.0), 
+n=24 
+75.8 (15.6), 
+n=22 
+179 (44.6), 
+n=22 
+69.3 (24.1), 
+n=23 
+Source: Reviewer compiled from Table 8 of STI_Zoli002 CSR (pages 35 to 39)  
+^Median (Minimum to Maximum). 
+Abbreviations: AUC0- ∞: area under the time-concentration curve from zero to infinity; CL/F: apparent clearance; Cmax: maximum 
+concentration; GCV: geometric coefficient of variation; N: The number of participants included in the pharmacokinetic population for 
+each treatment; n: the number of participants with a specific parameter; t1/2: Half-life; Tmax: time Cmax observed; Vz/F: apparent 
+volume of distribution; ZoliDr GFOS: zoliflodacin granules for oral suspension manufactured by Dr. Reddy’s Laboratories, Ltd; 
+ZoliPa GFOS: zoliflodacin granules for oral suspension manufactured by Patheon 
+Table 101. Statistical Analysis To Assess the Effect of Food on Plasma Pharmacokinetic 
+Parameters of Zoliflodacin 
+Formulation and Dose 
+Parameter 
+(Unit) 
+Test: 
+Fed 
+GM, n 
+Reference: 
+Fasted 
+GM, n 
+Ratio (%) (Fed/Fasted) 
+GMR (90% CI) Intra CV% p-Value 
+ZoliPa GFOS 3 g 
+Cmax (ng/mL) 
+27100 
+n=23 
+17800 
+n=23 
+152.39 
+(139.30, 166.71) 
+17.8 
+<0.001 
+AUC0- ∞ 
+(h*ng/mL) 
+345000 
+n=22 
+172000 
+n=22 
+200.87 
+(185.10, 217.99) 
+15.8 
+<0.001 
+ZoliPa GFOS 4 g 
+Cmax (ng/mL) 
+37500 
+n=24 
+19900 
+n=24 
+188.72 
+(166.42, 214.00) 
+26.4 
+<0.001 
+AUC0- ∞ 
+(h*ng/mL) 
+480000 
+n=21 
+225000 
+n=21 
+213.61 
+(182.03, 250.66) 
+30.6 
+<0.001 
+Source: Reviewer compiled from Table 9 of STI_Zoli002 CSR (page 41) and Table 10 of STI_Zoli002 CSR (page 43) 
+Abbreviations: AUC0- ∞, area under the time-concentration curve from zero to infinity; CI: Confidence Interval; Cmax: maximum 
+concentration; CV, Coefficient of Variation; GM, Geometric Mean; GMR, Geometric Mean Ratio; n, number of participants with a 
+specific parameter for a treatment; ZoliPa GFOS, zoliflodacin granules for oral suspension manufactured by Patheon 
+Assessment of Study STI_Zoli002 
+The Applicant’s overall findings from this study are consistent with the reviewer’s analysis. 
+Study STI_Zoli002 Cohorts 1 and 2, both Periods, collected standard 12-lead electrogram 
+predose (at screening) in triplicate approximately 2 min apart after the participant was in the 
+supine position for a minimum of 10 minutes at the predose time point. Additionally, Study 
+STI_Zoli002 Cohorts 1 and 2, both Periods, collected continuous 12-lead Holter electrogram 1 hr 
+before dosing until 24-hr postdose for all treatments administered. The continuous 12-lead Holter 
+electrogram was recorded after at least 20 minutes in the supine or semi-supine position. The 
+analysis of the electrocardiogram data included an evaluation of QT prolongation. Data from this 
+Reference ID: 5710355
+
+
+===== PAGE 179 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+163 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 102. Summary Statistics of Plasma Zoliflodacin Pharmacokinetic Parameters 
+Parameter (Unit) 
+Geometric Mean (%GCV), n 
+ZoliPa GFOS (4 g Fasted) 
+N=8 
+Cmax (ng/mL) 
+19857 (34), n=8 
+Tmax (h)^ 
+4 (2 to 12), n=8 
+t1/2 (h) 
+6.5 (10), n=8 
+AUC0- ∞ (h*ng/mL) 
+213505 (38), n=8 
+CL/F (L/h) 
+18.7 (38), n=8 
+Vz/F (L) 
+174.4 (37), n=8 
+Source: Table 18 DMID 16-0118 CSR (page 74) 
+^Median (minimum to maximum) 
+Abbreviations: AUC0- ∞, area under the time-concentration curve from zero to infinity; CL/F, apparent clearance; Cmax: maximum 
+concentration; GCV, geometric coefficient of variation; N, The number of participants included in the pharmacokinetic population for 
+each treatment; n, the number of participants with a specific parameter; t1/2, half-life; Tmax:,time time to maximum plasma 
+concentration; Vz/F, apparent volume of distribution; ZoliPa GFOS, zoliflodacin granules for oral suspension manufactured by 
+Patheon 
+Assessment of Study DMID 16-0118 
+The Applicant’s overall findings from this study are consistent with the reviewer’s analysis. 
+Study DMID 16-0118 collected standard 12-lead electrogram and a 10-second rhythm strip 
+predose (at screening and within 1 hour prior to dosing) and at 1, 2, and 4 hours postdose on Day 
+1 and on Day 4. The electrogram was recorded after at least 5 minutes in the supine position. The 
+analysis of the electrocardiogram data included an evaluation of QT prolongation. Data from this 
+study were used in analysis that evaluated QTc prolongation risk for a single oral dose of 3 g of 
+zoliflodacin administered with or without food to patients weighing 35 kg or more (See Section 
+14.2.9). 
+14.2.5. Single Ascending Dose Studies and Dose 
+Proportionality 
+Study D4930C00001 
+Study Design 
+The study was a phase 1, first-in-human, randomized, placebo-controlled, single-site, sequential 
+Cohort study conducted in healthy participants in two parts. The first part, Part A, evaluated the 
+study’s primary objective, to assess the safety and tolerability of zoliflodacin powder for oral 
+suspension, ZoliAZ PFOS, in healthy adult male and female participants. Part A evaluated a 
+single ascending dose (SAD), ranging from 200 mg to 4000 mg, under fasted conditions in 
+Cohort 1. A secondary objective included to assess the SAD PK parameters in healthy 
+participants under fasted conditions. For fasted conditions, participants fasted overnight for at 
+least 10 hours prior to treatment administration. Cohort 1 participants at each dose level were 
+randomized in a 6:2 ratio to receive ZoliAZ PFOS or placebo.  
+The second part, Part B, evaluated a secondary objective of evaluating the FE on zoliflodacin 
+pharmacokinetics in healthy participants in Cohort 2. Cohort 2 had two arms evaluating two 
+different doses, and a two-way crossover design within each arm. Participants were randomized 
+to receive a single dose of zoliflodacin (ZoliAZ PFOS) under either fed or fasted conditions, with 
+a 4-day washout between periods. For fed conditions, participants were administered a high-fat 
+Reference ID: 5710355
+
+
+===== PAGE 182 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+166 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 103. Summary Statistics of Zoliflodacin (ZoliAZ PFOS Fasted) Pharmacokinetic Parameters by Treatment (Part A SAD) 
+Parameter (Unit) 
+Geometric Mean (Geometric CV%) 
+200 mg 
+N=6 
+400 mg 
+N=6 
+800 mg 
+N=6 
+1600 mg 
+N=6 
+3000 mg 
+N=6 
+4000 mg 
+N=6 
+Plasma 
+Cmax (ng/mL) 
+2010 (12.1) 
+4870 (14.4) 
+10000 (18.7) 
+13400 (36.7) 
+20200 (19.0) 
+26100 (46.4) 
+tmax (h)^ 
+2.26 (1.03 to 3.02) 2.00 (1.50 to 2.50) 2.00 (1.02 to 3.00) 1.50 (1.02 to 6.02) 2.25 (1.02 to 4.02) 2.04 (1.50 to 4.02) 
+t1/2 (h) 
+5.58 (11.8) 
+5.22 (16.6) 
+6.25 (15.3) 
+5.81 (18.9) 
+6.11 (7.0) 
+5.99 (15.7) 
+AUC0- ∞ (h*ng/mL) 
+14600 (10.5) 
+31300 (13.9) 
+68300 (22.5) 
+108000 (25.3) 
+183000 (17.5) 
+209000 (44.7) 
+CL/F (L/h) 
+13.7 (10.6) 
+12.8 (13.8) 
+11.7 (22.5) 
+14.8 (25.3) 
+16.4 (17.4) 
+19.1 (44.8) 
+Vz/F (L) 
+110 (12.2) 
+96.5 (28.3) 
+106 (14.5) 
+124 (37.7) 
+145 (21.9) 
+165 (34.6) 
+Urine 
+Cumulative Ae (mg) 
+9.11 (15.1) 
+16.5 (28.9) 
+32.4 (34.2) 
+46.4 (24.5) 
+106 (23.7) 
+104 (44.1) 
+Cumulative fe (%) 
+4.56 (15.2) 
+4.12 (28.9) 
+4.05 (34.0) 
+2.90 (24.5) 
+3.54 (23.8) 
+2.59 (44.3) 
+CLr (L/h) 
+0.625 (18.0) 
+0.527 (25.1) 
+0.474 (47.1) 
+0.430 (30.8) 
+0.582 (12.8) 
+0.496 (11.1) 
+Source: Table 11.2.3 D4930C00001CSR (pages 108 to 113) and Table 11.2.9 D4930C00001CSR (pages 138 to 140) 
+^Median (minimum to maximum). 
+Abbreviations: Ae, amount excreted; AUC0- ∞, area under the time-concentration curve from zero to infinity; CL/F, apparent clearance; CLr, renal clearance; Cmax: maximum plasma 
+concentration; fe, fraction excreted; N, number of participants in treatment arm; t1/2, half-life; tmax, time to maximum plasma concentration; SD, standard deviation; Vz/F, apparent 
+volume of distribution; ZoliAZ PFO,: zoliflodacin powder for oral suspension manufactured by Astra Zeneca 
+Reference ID: 5710355
+
+
+===== PAGE 183 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+167 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 104. Summary Statistics of Zoliflodacin Pharmacokinetic Parameters by Treatment 
+(Part B FE) 
+Parameter (Unit) 
+Geometric Mean (Geometric CV%) 
+1500 mg ZoliAZ 
+PFOS (Fasted) 
+N=8 
+1500 mg ZoliAZ 
+PFOS (Fed) 
+N=8 
+3000 mg ZoliAZ 
+PFOS (Fasted) 
+N=10 
+3000 mg ZoliAZ 
+PFOS (Fed) 
+N=10 
+Plasma 
+Cmax (ng/mL) 
+15100 (18.2) 
+12100 (14.8) 
+22900 (31.6) 
+24000 (27.2) 
+tmax (h)^ 
+2.50 (2.00 to 
+4.00) 
+4.00 (4.00 to 4.00) 
+2.50 (1.50-4.00) 4.00 (1.50 to 8.02) 
+t1/2 (h) 
+5.41 (20.3) 
+5.53 (18.3) 
+6.14 (5.9) 
+6.17 (6.6) 
+AUC0- ∞ (h*ng/mL) 
+109000 (19.1) 
+129000 (21.5) 
+195000 (36.4) 
+281000 (22.9) 
+CL/F (L/h) 
+13.8 (19.1) 
+11.6 (21.5) 
+15.4 (36.4) 
+10.7 (23.1) 
+Vz/F (L) 
+107 (15.3) 
+92.5 (16.0) 
+136 (34.3) 
+94.8 (23.3) 
+Urine 
+Cumulative Ae 
+(mg) 
+52.7 (48.5) 
+76.5 (36.3) 
+107 (37.1) 
+157 (21.1) 
+Cumulative fe (%) 
+3.51 (48.5) 
+5.10 (36.2) 
+3.56 (37.0) 
+5.24 (21.1) 
+CLr (L/h) 
+0.484 (36.9) 
+0.592 (24.4) 
+0.548 (27.2) 
+0.559 (23.1) 
+Source: Table 11.2.4 D4930C00001CSR (pages 114 to 117) and Table 11.2.10 D4930C00001CSR (pages 141 to 142) 
+^Median (minimum to maximum). 
+Abbreviations: Ae, amount excreted; AUC0- ∞, area under the time-concentration curve from zero to infinity; CL/F, apparent 
+clearance; CLr, renal clearance; Cmax, maximum plasma concentration; fe, fraction excreted; N, The number of participants included 
+in the pharmacokinetic population for each treatment and the number of participants with a specific parameter; t1/2, half-life; tmax, time 
+to maximum plasma concentration; SD, standard deviation; Vz/F, apparent volume of distribution; ZoliAZ PFOS, zoliflodacin powder 
+for oral suspension manufactured by Astra Zeneca 
+Table 105. Statistical Analysis To Assess the Effect of Food on Plasma Pharmacokinetic 
+Parameters of Zoliflodacin (Part B FE) 
+Formulation and Dose Parameter (Unit) 
+Test: 
+Fed 
+GM, n 
+Reference: 
+Fasted 
+GM, n 
+Ratio (%) (Fed/Fasted) 
+GMR (90% CI) Intra CV% p-Value 
+ZoliAZ PFOS 1.5 g 
+Cmax (ng/mL) 
+12080 
+n=8 
+15080 
+n=8 
+80.11 
+(70.62, 90.88) 
+NR 
+NR 
+AUC0- ∞ 
+(h*ng/mL) 
+129300 
+n=8 
+108900 
+n=8 
+118.78 
+(111.43, 126.62) 
+NR 
+NR 
+ZoliAZ PFOS 3 g 
+Cmax (ng/mL) 
+23960 
+n=10 
+22870 
+n=10 
+104.74 
+(86.30, 127.12) 
+NR 
+NR 
+AUC0- ∞ 
+(h*ng/mL) 
+281400 
+n=10 
+194700 
+n=10 
+144.57 
+(122.34, 170.85) 
+NR 
+NR 
+Source: Table 18 D4930C00001CSR (page 60) 
+Abbreviations: AUC0- ∞, area under the time-concentration curve from zero to infinity; CI, Confidence Interval; Cmax, maximum 
+concentration; CV, Coefficient of Variation; GM, Geometric Mean; GMR, Geometric Mean Ratio; n, number of participants with a 
+specific parameter for a treatment; NR, not reported; ZoliAZ PFOS, zoliflodacin powder for oral suspension manufactured by Astra 
+Zeneca 
+Assessment of Study D4930C00001 
+The Applicant’s overall findings from this study are consistent with the reviewer’s analysis. 
+Study D4930C00001 Cohort 1 collected standard 12-lead electrogram (paper) predose (at 
+screening and prior to dosing on Day 1), and 1, 2, 3, 4, 6, 12, and 24 hours postdose on Day 1, 
+and on Days 2, 3, 4, and between Day 7 to 11 days, and collected standard 12-lead electrogram 
+(digital) predose (prior to dosing on Day 1), and 1, 2, 3, 4, 6, 12, and 24 hours postdose on Day 
+1, and on Day 2. Study D4930C00001 Cohort 2, both Periods, collected standard 12-lead 
+Reference ID: 5710355
+
+
+===== PAGE 187 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+171 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 106. Summary Statistics of Plasma Zoliflodacin PK Parameters 
+Parameter (Unit) 
+Geometric Mean (%GCV) 
+ZoliPa GFOS (3 g Fed) 
+N=23 
+Cmax (ng/mL) 
+31800 (27.3) 
+tmax (h)^ 
+4.62 (2.03 to 11.3) 
+tlast (h)^ 
+24.4 (24.0 to 26.9) 
+AUC0- last (h*ng/mL) 
+330000 (26.5) 
+CL/F (L/h) 
+9090 (26.4) 
+Vz/F (L) 
+85.4 (24.5) 
+Source: Table 6 PK report B3231901P1-PK (page 19) 
+^Median (minimum to maximum). 
+Abbreviations: AUC0- last, area under the time-concentration curve from zero to last timepoint collected; CL/F, apparent clearance; 
+Cmax, maximum concentration; GCV, geometric coefficient of variation; N, number of participants included in the PK population for 
+each treatment; PK, pharmacokinetic; t1/2, half-life; tlast, time to last PK sample collected with a quantifiable zoliflodacin plasma 
+concentration; tmax, time to maximum plasma concentration; Vz/F, apparent volume of distribution; ZoliPa GFOS, zoliflodacin 
+granules for oral suspension manufactured by Patheon 
+Assessment of Trial STI_Zoli001 
+The Applicant’s overall findings from this PK substudy are consistent with the reviewer’s 
+analysis. See discussion in Section 6.1 regarding efficacy of the proposed dosage. Additional 
+assessments regarding the proposed dosage with respect to efficacy and safety data from 
+Trial STI_Zoli001 are discussed below. 
+Trial STI_Zoli001 Data Assessment Related to the Applicant’s Proposal to Dose Patients 
+Between >35 to <50 kg in the Fasted State To Mitigate Potential QT Prolongation Risk 
+Trial STI_Zoli001 participants weight range was 36.5 to 138.6 kg. All participants with a 
+reported baseline weight of <50 kg (n=35) received the assigned study treatment under fed 
+conditions (n=24 zoliflodacin arm, n=11 ceftriaxone-azithromycin arm). Per the proposed 
+zoliflodacin dosing instructions, patients weighing <50 kg would have been dosed under fasted 
+conditions rather than fed conditions. Only one of these participants (Participant 
+, 
+weight of 48.2 kg) was enrolled in the PK substudy. This participant had an observed Cmax of 
+42.7 μg/mL at 2.03 hours, which exceeds the TQT threshold of 42.1 μg/mL determined in the 
+TQT study (See Section 14.2.9). None of the participants weighing below 50 kg reported any 
+cardiac-associated adverse events. 
+Data Assessment of Need to Dose Patients Between >50 kg in the Fed State To Ensure an 
+Efficacious Dose 
+For the phase 3 trial, participants with uncomplicated suspected or confirmed urogenital 
+gonorrhea received a single 3 g dose of zoliflodacin under either fed conditions (n=555/621, 
+89%), fasted conditions (n=64/621, 10%), or unknown conditions with respect to food status 
+(n=2/621, 0.3%). No clear trend was observed between the food status and the primary endpoint, 
+microbiological cure at test of cure (Day 6±2 days) for this study. 
+The PTA analysis discussed in Section 14.5.1 below predicted >90% target attainment for a PK-
+PD target associated with efficacy for patients weighing <175 kg received a single 3 g dose of 
+zoliflodacin under fasted conditions for MICs of <0.25 mg/L. 
+Reference ID: 5710355
+(b) (6)
+
+
+===== PAGE 190 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+174 
+Integrated Review Template, version 4.0 (11/1/23) 
+participants were randomized (6 per sequence) and all participants were included in the safety 
+population. Nine participants terminated early or voluntarily withdrew for the following reasons: 
+failure to meet eligibility criteria (two participants), lost to follow-up (three participants), 
+voluntary withdrawal (one participant), noncompliance with protocol required procedures (two 
+participants), and physician decision (one participant). Sixty-four participants completed all four 
+periods of study (n=69 Treatment A, n=67 Treatment B, n=70 Treatment C, and n=71 Treatment 
+D). One participant who did not receive zoliflodacin was excluded from ECG analysis 
+population and PK-ECG analysis population. One additional participant was excluded from PK-
+ECG analysis population due to protocol deviation of not having at least one ECG and PK 
+concentration at the same nominal time point. 
+Summaries of the descriptive statistics of selected plasma zoliflodacin PK parameters following 
+a single oral 2 g or 4 g dose administered under fasted conditions are presented in Table 107. 
+Table 107. Summary Statistics of Zoliflodacin Pharmacokinetic Parameters by Treatment, 
+Study DMID 16-0110 
+Parameter (Unit) 
+Geometric Mean (%GCV) 
+2 g ZoliPa GFOS (Fasted) 
+N=68 
+4 g ZoliPa GFOS (Fasted) 
+N=66 
+Cmax (ng/mL) 
+11770 (25), n=68 
+19360 (31), n=66 
+tmax (h)^ 
+3.02 (1.1-6.0), n=68 
+3.02 (1.1-12.0), n=66 
+t1/2 (h) 
+5.49 (12), n=49 
+5.92 (12), n=41 
+AUC0- ∞ (h*ng/mL) 
+103500 (30), n=49 
+174900 (29), n=41 
+CL/F (L/h) 
+19.32 (30), n=49 
+22.86 (29), n=41 
+Vz/F (L) 
+153.01 (32), n=49 
+195.23 (29), n=41 
+Source: Table 55 and 56 DMID 16-0110 CSR (page 394) 
+^Median (minimum to maximum). 
+Abbreviations: AUC0- ∞, area under the time-concentration curve from zero to infinity; CL/F, apparent clearance; Cmax, maximum 
+concentration; GCV, geometric coefficient of variation; N, number of participants included in the pharmacokinetic population for each 
+treatment; n, number of participants with a specific parameter; t1/2, half-life; tmax, time to maximum plasma concentration; Vz/F, 
+apparent volume of distribution; ZoliPa GFOS, zoliflodacin granules for oral suspension manufactured by Patheon 
+The primary analysis in this TQT study demonstrated that the estimated mean ΔΔQTcF at the 
+geometric mean plasma concentrations for the zoliflodacin doses had CI upper bounds of 
+<10 msec. The highest least square mean value of ΔΔQTcF (msec) was 1.42 (upper confidence 
+limit of 3.044, timepoint Day 1 3 hr) and 3.04 (upper confidence limit of 4.674, timepoint Day 1, 
+4 hr) for the 2 g and 4 g treatment groups, respectively. 
+Assessment of Study DMID 16-0110 
+The Applicant’s overall findings from this study are consistent with the reviewer’s analysis. See 
+associated June 26, 2025, memo from Interdisciplinary Review Team for Cardiac Safety Studies 
+related to the review of zoliflodacin QT prolongation risk, and the conclusion that the totality of 
+data adequate to exclude clinically significant QTc prolongation for a single dose of 3 g of 
+zoliflodacin administered with or without food to patients weighing 35 kg or more. 
+It was noted in the initial interdisciplinary review team (IRT) review of TQT study (July 9, 2020, 
+memo from Interdisciplinary Review Team for Cardiac Safety Studies under IND 
+ that 
+Applicant’s ΔΔQTcF results are consistent with results from reviewer’s analysis. Additionally, 
+none of the events identified to be of clinical importance per the ICH E14 guidelines (i.e., 
+Reference ID: 5710355
+(b) (4)
+
+
+===== PAGE 210 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+194 
+Integrated Review Template, version 4.0 (11/1/23) 
+transporter (i.e., P-gp, BCRP, OAT1, OAT3, OATP1B1, OATP1B3, MATEs) substrates was 
+also assessed. 
+The Division of Pharmacometrics has reviewed the submitted PBPK reports, modeling and 
+simulation files, and response to the FDA’s IR received on July 2, 2025 to conclude the 
+following: 
+The PBPK model of zoliflodacin adequately described observed plasma PK profile and 
+parameters of single dose zoliflodacin in healthy adult participants under fasted and fed 
+conditions. 
+DDI simulations of strong CYP3A inhibition under fasted condition show zoliflodacin AUC 
+would increase by ~1.4-fold with coadministration with itraconazole. Food is not expected to 
+impact the magnitude of DDI. 
+DDI simulations of strong and moderate CYP3A induction indicate zoliflodacin AUC would 
+decrease 56% and 41% with coadministration of rifampin (strong) or efavirenz (moderate) 
+CYP3A4 inducer, respectively. 
+The likelihood of interaction with P-gp, BCRP, MATEs, OAT1, OAT3, OATP1B1, and 
+OATP1B3 substrates cannot be ruled out. However, due to zoliflodacin’s single dose 
+administration and short t1/2, the overall DDI risk is considered low and no dose adjustments 
+have been proposed when zoliflodacin is coadministered. 
+The hepatic impairment simulations were not reviewed due to limited relevancy; hepatic 
+impairment is not considered a significant clinical risk for this single dose administration 
+drug. 
+Background 
+Zoliflodacin inhibits bacterial deoxyribonucleic acid type II topoisomerase and is active in vitro 
+against N. gonorrhoeae. Zoliflodacin is indicated for the treatment of uncomplicated gonorrhea. 
+The Applicant proposed the following dosage: 3 g administered as a single oral dose with food in 
+patients weighing ≥50 kg or 3 g administered as a single oral dose on an empty stomach (1 hour 
+before or 2 hours after food) in patients weighing ≥35 to <50 kg. 
+Zoliflodacin is a biopharmaceutics classification system class II compound (i.e., high 
+permeability and low solubility). Zoliflodacin exposure was shown to increase in a dose-
+proportional manner up to 800 mg and less than dose-proportionally between 800 mg and 4 g. 
+Zoliflodacin was rapidly absorbed with a median Tmax of 1.50 to 4.00 hours in the fasted state. 
+The effect of food on the absorption of zoliflodacin was evaluated in three clinical studies: Study 
+D4930C00001 (high-fat, high-calorie meal), Study STI_Zoli002 (high-fat, high-calorie meal), 
+and Study STI_Zoli003 (moderate-fat, moderate-calorie meal). A consistent trend was observed 
+across all studies when zoliflodacin 3 g was administered in a fed or fasted state; food generally 
+increased zoliflodacin Cmax by approximately 1.5-fold and AUC by approximately 1.5- to 2-fold 
+and delayed Tmax. Population PK analysis showed that clinically relevant covariates included 
+body weight and prandial state. 
+The geometric mean apparent volume of distribution ranged from 76 to 94 L under fed 
+conditions and 161 to 163 L under fasted conditions in healthy participants, suggesting 
+distribution to the extravascular space. In vitro human plasma protein binding was 83% (17% 
+unbound). In vitro blood-to-plasma ratio was 0.69. 
+Reference ID: 5710355
+
+
+===== PAGE 211 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+195 
+Integrated Review Template, version 4.0 (11/1/23) 
+In healthy participants, the geometric mean elimination t1/2 of zoliflodacin was approximately 6 
+hours and the geometric mean apparent clearance was approximately 17 L/h. In patients with 
+gonorrhea, the geometric mean elimination t1/2 of zoliflodacin was similar (5.36 hours) and the 
+geometric mean apparent clearance was approximately 14 L/h. 
+In the human ADME Study D4930C00003, following administration of a single oral 3 g dose of 
+[14C]-zoliflodacin, 18.2% of total radioactive dose was recovered in urine (with 2.5% as parent 
+drug) and 79.6% of the dose was recovered from feces (with approximately 1.5% as parent 
+drug). Zoliflodacin is minimally renally eliminated. Zoliflodacin undergoes extensive 
+biotransformation to 31 metabolites. The primary systemic routes of biotransformation were 
+CYP-mediated oxidation and non-CYP mediated hydrolysis. Because these pathways produce 
+the same metabolites, the exact contribution of each to the overall metabolic clearance is not 
+clear. Metabolites formed via reduction in the intestine, likely by gut microflora, were present in 
+feces. 
+In vitro, zoliflodacin is predominately metabolized by CYP3A4/5 (68.4%), with lesser 
+contributions from CYPs 1A2, 2C9, 2C8, and 2C19. 
+Zoliflodacin is an in vitro inhibitor of P-gp (IC50=299μM), BCRP (IC50=55.5μM), OATP1B1 
+(IC50=7.7μM), OATP1B3 (IC50=9.23μM), OAT1 (IC50=47.7μM), and OAT3 (IC50=13.5μM). 
+Zoliflodacin showed limited inhibition of MATE1 and MATE2K, with IC50 values >100μM. 
+Zoliflodacin is not an inhibitor of OCT2. 
+Study STI_Zoli003 included a DDI evaluation (Cohort 2) to investigate the effect of strong 
+CYP3A4 inhibition by itraconazole on the pharmacokinetics of zoliflodacin 3 g single dose. 
+Itraconazole increased zoliflodacin AUC0-last and AUC0-∞ by 1.39- and 1.38-fold, respectively. 
+Zoliflodacin Cmax was nearly unchanged (1.03-fold increase). 
+No additional clinical studies were conducted with CYP3A4 inducers, as well as P-gp, BCRP, 
+OATP1B1/3, OAT1/3, or MATEs substrates. 
+Methods 
+The Applicant submitted four PBPK reports (AZD0914-MS-002, SN-000914-2016-03, SN-
+000914-2016-04, PC0914-2024-0015). The final PBPK model and simulations are described in 
+report PC0914-2024-0015 which is the focus of this review. 
+Model Development 
+The Applicant used Simcyp® PBPK Simulator Version 22 (Certara UK Ltd., Sheffield, UK) for 
+all final PBPK modeling and simulation. The final model input parameters used for the 
+simulations of zoliflodacin pharmacokinetics are presented in Table 118 and described briefly 
+below. 
+Physicochemical and Binding Properties 
+Zoliflodacin is a diprotic acid. See Table 119 for the physicochemical and binding parameters. 
+Absorption 
+The advanced dissolution, absorption and metabolism model was used to describe zoliflodacin’s 
+absorption. The mechanistic Peff (MechPeff) model was used to predict the effective human 
+Reference ID: 5710355
+
+
+===== PAGE 212 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+196 
+Integrated Review Template, version 4.0 (11/1/23) 
+jejunum I permeability (Peff,man) value (7.75×10-4 cm/s). The diffusion layer model, specifically 
+the particle (size) population balance model, was used to describe the intrinsic dissolution rate of 
+zoliflodacin. 
+Distribution 
+The whole-body full PBPK model was used to describe zoliflodacin’s distribution. Using 
+Method 2, the initial predicted value of the volume of distribution at steady state (Vss) was 0.3 
+L/kg, which was lower than the Vss observed in all nonclinical species and resulted in the 
+overprediction of Cmax in healthy participants administered single 3 g oral dose of zoliflodacin 
+(Study STI_Zoli003). Therefore, the predicted tissue-to-plasma partition coefficient (Kp) for 
+adipose tissue was adjusted to recover the observed Cmax and the final predicted Vss value was 
+0.56 L/kg. 
+Elimination 
+The total human liver microsomes Clint was calculated from the apparent oral clearance (18.3 
+L/h) reported in Study STI_Zoli003 using the retrograde model. The proportion of human liver 
+microsomes Clint mediated by CYP3A4 was determined based on the observed 1.4-fold increase 
+in zoliflodacin AUC0-last due to itraconazole. The remaining clearance mediated by non-CYP3A 
+pathways were grouped under a generic hepatic clearance pathway, accounting for 
+approximately 68% of the total hepatic clearance (i.e., CYP and non-CYP mediated pathways). 
+The Applicant estimated that non-CYP metabolism contributed to at least 30% of hepatic 
+clearance (Study SN-000914-2016-02). Renal clearance was estimated to be 0.45 L/h based on 
+Study D4930C00001. 
+Metabolism 
+The fmCYP3A value (0.31) was estimated from one DDI study with itraconazole (Study 
+STI_Zoli003). 
+Food Effect 
+For the simulations conducted under fed conditions, the following settings in the Substrate and 
+Trial Design tabs were active: 
+“Substrate” (zoliflodacin): “Absorption” → “GI Tract” → “Permeability” → See “Fed” row for 
+predicted advanced dissolution, absorption and metabolism model regional permeabilities 
+“Substrate” (zoliflodacin): “Absorption” → “GI Tract” → “Formulation” → “Transit Times” → 
+See “Segregated Transit Times (Mean Residence Time [MRT]) (h)” for predicted MRT 
+values in “Fine Particles” 
+Trial Design: Dosing → See “Fed” selected 
+Reference ID: 5710355
+
+
+===== PAGE 215 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+199 
+Integrated Review Template, version 4.0 (11/1/23) 
+for a single oral dose of 3 g. The simulated geometric mean AUC0-∞, Cmax, and Tmax values were 
+then within 0.8- to 1.25-fold of the observed data. 
+In the response to the IR received on July 2, 2025, the Applicant provided a rationale for 
+adjusting the adipose tissue Kp parameter to address the overprediction of Cmax. Since adipose 
+tissue has one of the largest physiological volumes in the whole-body full PBPK model 
+implemented in Simcyp® PBPK Simulator, it can be used as an empirical tool to influence the 
+extent and rate of distribution. The Applicant stated “It is a common empirical approach in 
+PBPK modelling to adjust the adipose tissue Kp value to improve the fit of plasma concentration-
+time profiles, particularly for parameters such as Cmax and Tmax. Another widely used approach is 
+to adjust the global Kp scalar, which scales all tissue Kp values uniformly.” Applicant stated that 
+both approaches were assessed for zoliflodacin and adjustment of the adipose tissue Kp value to 
+1.257 provided a better recovery of both observed Cmax and Tmax. 
+The adipose Kp value was increased by 4-fold from the default predicted value, and it is possible 
+that other factors may have contributed to the initial overpredicted Cmax. Nevertheless, the 
+predicted PK profile using the adjusted adipose Kp fit the observed pharmacokinetics adequately. 
+The final PBPK model reasonably describes the observed plasma concentration-time profiles of 
+zoliflodacin following single oral doses of 800 mg up to 4 g in healthy participants under fasted 
+conditions. The simulated PK parameters (AUC0-∞, Cmax, Tmax) were mostly within 1.5-fold of 
+the observed data (Table 120). The observed and predicted plasma zoliflodacin concentration-
+time profiles following administration of a single oral 3-g dose under fasted condition is shown 
+in Figure 10. 
+Table 120. Summary of Observed and Predicted PK Parameters of Zoliflodacin Following Single 
+Oral Dose in Healthy Participants Under Fasted Conditions 
+Dose 
+Parameter 
+Predicted 
+Observed 
+Pred/Obs 
+Ratio 
+800 mga 
+AUC0-∞ (h*ng/mL) 
+Cmax (ng/mL) 
+tmax (h) 
+72630 (68844-76624) 
+11684 (11094-12306) 
+1.91 (0.54-3.31) 
+68300 
+10000 
+2 
+1.06 
+1.17 
+0.95 
+1.5 gb 
+AUC0-∞ (h*ng/mL) 
+Cmax (ng/mL) 
+tmax (h) 
+118781 (110393-127806) 
+15096 (13914-16380) 
+2.59 (0.54-4.90) 
+109000 
+15100 
+2.50 
+1.09 
+1.00 
+1.04 
+1.6 ga 
+AUC0-∞ (h*ng/mL) 
+Cmax (ng/mL) 
+tmax (h) 
+120453 (113769-127530) 
+15100 (14145-16120) 
+2.52 (0.54-5.04) 
+108000 
+13400 
+1.5 
+1.12 
+1.13 
+1.68 
+2 gc 
+AUC0-∞ (h*ng/mL) 
+Cmax (ng/mL) 
+tmax (h) 
+155588 (151527-159757) 
+16537 (16016-17075) 
+2.73 (0.35-5.98) 
+103500 
+11770 
+3.02 
+1.50 
+1.41 
+0.90 
+Reference ID: 5710355
+
+
+===== PAGE 216 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+200 
+Integrated Review Template, version 4.0 (11/1/23) 
+Dose 
+Parameter 
+Predicted 
+Observed 
+Pred/Obs 
+Ratio 
+3 ga,b,e,f 
+AUC0-∞ (h*ng/mL)a 
+Cmax (ng/mL)a 
+tmax (h)a 
+162403 (152357-173111) 
+17527 (16192-18971) 
+2.95 (0.54-5.83) 
+183000 
+20200 
+2.25 
+0.82 
+0.74 
+1.21 
+AUC0-∞ (h*ng/mL)b 
+Cmax (ng/mL)b 
+tmax (h)b 
+160263 (149356-171966) 
+16916 (15523-18434) 
+3.02 (0.54-5.83) 
+195000 
+22900 
+2.50 
+0.89 
+0.87 
+1.31 
+AUC0-∞ (h*ng/mL)e 
+Cmax (ng/mL)e 
+tmax (h)e 
+187691 (177326-198662) 
+18494 (17399-19657) 
+2.87 (0.43-5.91) 
+171000 
+17600 
+3.00 
+1.10 
+1.05 
+0.96 
+AUC0-∞ (h*ng/mL)f 
+Cmax (ng/mL)f 
+tmax (h)f 
+174234 (167015-181766) 
+18852 (17874-19883) 
+2.94 (0.43-5.83) 
+165000 
+19400 
+3.00 
+1.06 
+0.97 
+0.98 
+4 ga,c,d,e 
+AUC0-∞ (h*ng/mL)a 
+Cmax (ng/mL)a 
+tmax (h)a 
+177338 (165438-190095) 
+18172 (16727-19742) 
+3.11 (0.54-6.12) 
+209000 
+26100 
+2.04 
+0.85 
+0.70 
+1.53 
+AUC0-∞ (h*ng/mL)d 
+Cmax (ng/mL)d 
+tmax (h)d 
+213521 (206597-220676) 
+19033 (18331-19762) 
+3.18 (0.36-6.95) 
+174900 
+19360 
+3.02 
+1.22 
+0.98 
+1.05 
+AUC0-∞ (h*ng/mL)d 
+Cmax (ng/mL)d 
+tmax (h)d 
+190393 (174688-207510) 
+18378 (16539-20421) 
+3.38 (0.54-6.23) 
+213505 
+19857 
+4.00 
+0.89 
+0.93 
+0.85 
+AUC0-∞ (h*ng/mL)e 
+Cmax (ng/mL)e 
+tmax (h)e 
+237469 (220723-255484) 
+19667 (18413-21007) 
+3.05 (0.46-6.24) 
+224000 
+19900 
+2.50 
+1.06 
+0.99 
+1.22 
+Source: Report PC0914-2024-0015 Table 7, Table 9, Table 10, Table 11, and Table 12  
+Data are presented as geometric mean and 90% confidence interval, except for tmax which is expressed as median (minimum, 
+maximum). 
+a Study D4930C00001 Part A 
+b Study D4930C00001 Part B 
+c Study NIAID-16-0110 
+d Study NIAID-16-0118 
+e Study STI_Zoli002 
+f Study STI_Zoli003 
+Abbreviations: AUC0-∞, area under the concentration-time curve estimated to infinity; Cmax, maximum plasma concentration; obs, 
+observed; PK, pharmacokinetic; pred, predicted; tmax, time to maximum plasma concentration 
+Reference ID: 5710355
+
+
+===== PAGE 218 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+202 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 121. Summary of Observed and Predicted PK Parameters of Zoliflodacin Following Single 
+Oral Dose in Healthy Participants Under Fed Conditions 
+Dose 
+Parameter 
+Predicted 
+Observed 
+Pred/Obs Ratio 
+1.5 ga 
+AUC0-∞ (h*ng/mL) 
+Cmax (ng/mL) 
+tmax (h) 
+143285 (133327-153987) 
+16426 (15502-17404) 
+2.20 (0.97-6.05) 
+129000 
+12100 
+4.00 
+1.11 
+1.36 
+0.55 
+3 ga,b,c 
+AUC0-∞(h*ng/mL)a 
+Cmax (ng/mL)a 
+tmax (h)a 
+257741 (242194-274286) 
+24002 (22603-25488) 
+4.18 (0.94-8.82) 
+281000 
+24000 
+4.00 
+0.92 
+1.00 
+1.04 
+AUC0-∞ (h*ng/mL)b 
+Cmax (ng/mL)b 
+tmax (h)b 
+271283 (259921-283141) 
+24095 (23143-25085) 
+4.28 (0.84-8.76) 
+343000 
+27100 
+6.00 
+0.79 
+0.89 
+0.71 
+AUC0-∞ (h*ng/mL)c 
+Cmax (ng/mL)c 
+tmax (h)c 
+270300 (260796-280150) 
+24702 (23858-25577) 
+4.39 (0.94-10.27) 
+249000 
+28900 
+4.50 
+1.09 
+0.85 
+0.98 
+4 gb 
+AUC0-∞ (h*ng/mL) 
+Cmax (ng/mL) 
+tmax (h) 
+327937 (313472-343068) 
+26698 (25570-27875) 
+4.90 (0.82-9.79) 
+486000 
+37500 
+4.00 
+0.67 
+0.71 
+1.22 
+Source: Report PC0914-2024-0015 Table 7, Table 9, Table 10, Table 11, and Table 12 
+Note: Data are presented as geometric mean and 90% confidence interval, except for tmax which is expressed as median (minimum, 
+maximum). 
+a Study D4930C00001 Part B 
+b Study STI_Zoli002 
+c Study STI_Zoli003 Cohort 1 
+Abbreviations: AUC0-∞, area under the concentration-time curve estimated to infinity; Cmax, maximum plasma concentration; obs, 
+observed; PK, pharmacokinetic; pred, predicted; tmax, time to maximum plasma concentration 
+Figure 10. Predicted and Observed PK Profile of Zoliflodacin After Single Oral Dose of 3 g in 
+Healthy Participants Under Fed Conditions 
+ 
+Source: Report PC0914-2024-0015 Figure 16 (panel D), Figure 17 (panel B), Figure 18 (panel B) 
+Note: Lines and circles represent simulated and observed data, respectively. Grey lines represent 5th and 95th percentiles and solid 
+black line represents mean data for the simulated population. 
+Panel A:Study D4930C00001 Part B; panel B: Study STI_Zoli002; panel C: Study STI_Zoli003 Cohort 1 
+Abbreviation: PK, pharmacokinetic 
+Q2. Can PBPK Analyses Predict the Effect of a CYP3A Inhibitor on Zoliflodacin 
+Pharmacokinetics? 
+Yes, the PBPK model is adequate to simulate the effect of a CYP3A inhibitor on a single oral 
+dose of zoliflodacin. The Applicant performed a manual sensitivity analysis to estimate the 
+median fraction metabolized by CYP3A4 (fmCYP3A4) required to recover the observed interaction 
+Reference ID: 5710355
+
+
+===== PAGE 219 =====
+
+NDA 219491 
+NUZOLVENCE (zoliflodacin) 
+203 
+Integrated Review Template, version 4.0 (11/1/23) 
+of zoliflodacin with strong CYP3A inhibitor itraconazole. The simulated trial design and 
+participant demographics were based on Study STI_Zoli003 (Cohort 2), which included 18 
+participants (25 to 55 years of age, 16.7% female). Accordingly, 10 virtual trials of 18 healthy 
+participants were simulated. The predicted median fmCYP3A4 value was 0.31. Non-CYP3A4 
+pathways contributing to potential DDIs were not evaluated but the individual-pathway risk is 
+expected to be low, based on in vitro reaction phenotyping study results indicating lesser 
+contributions of other CYP enzymes (e.g., CYP1A2, 2C9, 2C8, and 2C19) to the clearance of 
+zoliflodacin compared to CYP3A4. The derived fmCYP3A4 value using the observed DDI effect 
+with itraconazole is acceptable. 
+The simulated and observed AUC0-∞ and Cmax values and corresponding ratios following a single 
+oral dose of zoliflodacin 3 g in the absence and presence of itraconazole are listed in Table 122. 
+Table 122. Summary of Predicted and Observed Zoliflodacin PK Parameters and Ratios in the 
+Absence and Presence of Itraconazole in Healthy Participants Under Fasted Condition 
+Parameter 
+Zoliflodacin 
+Zoliflodacin + Itraconazole 
+Ratio 
+Simulated Observed 
+Simulated 
+Observed 
+Simulated Observed 
+AUC0-∞ 
+(h*ng/mL) 
+175599 
+(165813-185961) 
+164000 
+245141 
+(230532-260676) 
+226000 
+1.40 
+(1.38-1.41) 
+1.38 
+Cmax (ng/mL) 
+18838 
+(17565-20203) 
+17600 
+22383 
+(20906-23964) 
+18100 
+1.19 
+(1.18-1.20) 
+1.03 
+Source: Report PC0914-2024-0015 Table 6  
+Data are presented as geometric mean and 90% confidence interval. 
+Simulation: Ten virtual trials of 18 healthy participants (16.7% female) a

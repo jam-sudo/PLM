@@ -1,0 +1,1010 @@
+
+
+===== PAGE 9 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218550} 
+{ROZLYTREK, entrecrinib} 
+ 
+ 
+8 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table 26 Serious Adverse Events by System Organ Class and Preferred Term .......................... 102 
+Table 27 Safety Summary of Selected Adverse Events .............................................................. 106 
+dĂďůĞ Ϯϴ ĚǀĞƌƐĞ ZĞĂĐƚŝŽŶƐ ;ш ϭϬйͿ ŝŶ WĂƚŝĞŶƚƐ ZĞĐĞŝǀŝŶŐ ZK>zdZ< ŝŶ ><͕ ^dZdZ<-1, 
+STARTRK-2, and STARTRK-NG ................................................................................................... 108 
+Table 29 ĚǀĞƌƐĞ ZĞĂĐƚŝŽŶƐ ;шϮϬйͿ ŝŶ WĞĚŝĂƚƌŝĐ WĂƚŝĞŶƚƐ tŚŽ ZĞĐĞŝǀĞĚ ŶƚƌĞĐƚŝŶŝď ŝŶ ^dZdZ<-
+NG, TAPISTRY and STARTRK-2 ................................................................................................... 111 
+Table ϯϬ Laboratory Abnormalities (ш ϮϬй) torsening from Baseline in Patients Receiving 
+ROZLYTREK in ALKA, STARTRK-1, STARTRK-Ϯ, and STARTRK-NG ............................................. 113 
+Table 31 Summary of Baseline Characteristics in the Dataset, Stratified by Population (Adults vs 
+Pediatrics). ................................................................................................................................ 141 
+Table 32 Parameter Estimates and uncertainty from Final Population PK Model (Run 11). ..... 142 
+Table 33 Parameter Estimates from logistic regression Model of bone fractures. .................... 153 
+Table 34 Recommended Dosing in adult and pediatric patients 12 years and older ................. 158 
+Table 35 Recommended dose modifications of entrectinib for concomitant used with moderate 
+or strong CYP3A inhibitors for adults and pediatric patients 2 years and older ........................ 159 
+Table 36 Final input parameters in the entrectinib model ........................................................ 160 
+Table 37 Final input parameters in the M5 model .................................................................... 161 
+Table 38: Ontogeny function used in this study ........................................................................ 162 
+Table 39 Summary of PK parameters of entrectinib and M5 following oral administration of 
+single doses of entrectinib in adult Caucasian subjects ............................................................ 164 
+Table 40 Simulated and observed geometƌŝĐ ŵĞĂŶ ǁŝƚŚ sй ĨŽƌ max and AUC of entrectinib 
+plasma concentrations after multiple-dose administration in adult Caucasian subjects .......... 165 
+dĂďůĞ ϰϭWƌĞĚŝĐƚĞĚ ŐĞŽŵĞƚƌŝĐ ŵĞĂŶ ǁŝƚŚ ϵϬй ĐŽŶĨŝĚĞŶĐĞ ŝŶƚĞƌǀĂů ;ϵϬй /Ϳ ĨŽƌ max and AUC ratio 
+of entrectinib and M5 following coadministration of strong CYP3A perpetrators in healthy 
+adults ........................................................................................................................................ 166 
+Table 42 Pharmacokinetic parameters of entrectinib and M5 after multiple oral administration 
+of entrectinib at steady state in adults and pediatrics older than 2 years of age ...................... 167 
+Table 43 Predicted and observed pharmacokinetic parameters of entrectinib and M5 after 
+multiple oral administration of entrectinib at steady state in pediatrics less than 2 years of age
+ .................................................................................................................................................. 168 
+Table 44 Predicted Exposure of entrectinib and M5 following ora administration of multiple-
+dose entrectinib with strong or moderate CYP3A inhibitors for 2 weeks in pediatrics ............. 169 
+Table 45  Simulated and observed PK parameters of the CYP3A inhibitors in pediatric subjects
+ .................................................................................................................................................. 170 
+ 
+Reference ID: 5262585
+
+
+===== PAGE 13 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218550} 
+{ROZLYTREK, entrecrinib} 
+ 
+ 
+12 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+3 Glossary  
+ADME  
+absorption, distribution, metabolism, excretion  
+AEs 
+ 
+adverse events 
+AESIs  
+adverse events of special interest 
+BICR 
+ 
+blinded Independent Central Review 
+BLA 
+ 
+biologics license application 
+BOR 
+ 
+best overall response  
+PBPK  
+physiologically-based pharmacokinetic 
+CBR 
+ 
+clinical benefit rate 
+CCOD  
+clinical cutoff date  
+CFR 
+ 
+Code of Federal Regulations 
+CIOMS  
+Council for International Organizations of Medical Sciences 
+CNS 
+ 
+central nervous system 
+CRF 
+ 
+case report form 
+CR 
+ 
+complete response 
+CSR 
+ 
+clinical study report 
+CYP 
+ 
+cytochrome P450 
+ECG 
+ 
+electrocardiogram 
+eCTD  
+electronic common technical document 
+EGFR  
+epidermal growth factor receptor  
+FDA 
+ 
+Food and Drug Administration 
+GCP 
+ 
+good clinical practice 
+GLP 
+ 
+good laboratory practice 
+ICH 
+ 
+International Conference on Harmonization 
+IND 
+ 
+Investigational New Drug 
+ITT 
+ 
+intent to treat 
+KM 
+ 
+Kaplan-Meier 
+MedDRA 
+Medical Dictionary for Regulatory Activities 
+NCI-CTCAE 
+National Cancer Institute-Common Terminology Criteria for Adverse Event 
+NDA 
+ 
+new drug application 
+NGS 
+ 
+next-generation sequencing 
+NME  
+new molecular entity 
+NSCLC  
+non-small cell lung cancer 
+NTRK  
+neurotrophic tyrosine receptor kinase 
+OPQ 
+ 
+Office of Pharmaceutical Quality 
+OR 
+ 
+objective response 
+ORR 
+ 
+Objective Response Rate 
+OS 
+ 
+Overall Survival  
+Reference ID: 5262585
+
+
+===== PAGE 34 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218550} 
+{ROZLYTREK, entrecrinib} 
+ 
+ 
+33 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Absorption 
+Pharmacokinetics of entrectinib and M5 in plasma, brain and tumor for a follow-up study on entrectinib in the 
+treatment of KM12-luc subcutaneous tumor model on nude mice / 1098459 / Module 4.2.2.2 
+Study type / test system: PK in plasma, brain, and tumor / mouse (Nu/Nu), KM12-luc SC tumor model 
+Dose / route of administration: 5 mg/kg twice daily / oral 
+Key results: Highest exposure of entrectinib was observed in tumor, followed by plasma and brain. 
+Distribution 
+No new information is provided in the current submission. 
+Metabolism 
+Human cytochrome P450 (CYP) 3A reaction phenotyping for the metabolism of entrectinib and its M5 
+metabolite / 1116011 / Module 4.2.2.4 
+Study type / test system: CYP3A reaction phenotyping / HLM (including pediatric liver donor at 16 months old 
+and CYP3A5 genotyped liver) and recombinant human CYP 3A4, 3A5, and 3A7 
+Dose: 0.1-0.3 μM 
+Key results: CYP3A4 is the main CYP3A isoform involved in the metabolism of entrectinib and M5 in both adult 
+and pediatric HLM. 
+Excretion 
+No new information is provided in the current submission. 
+Pharmacokinetic drug interactions 
+Effect of CYP-selective chemical inhibitors on metabolism of RO7102212 (entrectinib) by human liver 
+microsomes / 1095945 / Module 4.2.2.6 
+Study type / test system: CYP inhibition / HLM for CYP 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, and 3A4/5 
+ŽƐĞ͗ ϭ͕ ϭϬ ʅD 
+Key results: Ketoconazole was the most effective inhibitor (50-ϴϬй ŝŶŚŝďŝƚŝŽŶͿ, indicating an important role for 
+CYP3A enzymes in the oxidative pathways, especially demethylation (to M5). 
+Determination of the time-dependent inhibition of CYP3A4 by RO7102122 / 1092511 / Module 4.2.2.6 
+Study type / test system: time-dependent inhibition of CYP3A4 / HLM for CYP3A4 
+Dose: 0.156-10 PM 
+Key results: Entrectinib showed weak time-dependent inhibition potential on CYP3A4 in HLM. 
+Evaluation of the induction potential of cytochrome P450 2B6 isoform by RO7102122 in cultured human 
+hepatocytes / 1095573 / Module 4.2.2.6 
+Study type / test system: CYP2B6 induction / cultured human hepatocytes 
+Dose: 0.1-3 μM (enzyme activity), 0.1-5 μM (mRNA expression) 
+Key results: Entrectinib did not show meaningful induction of CYP2B6. 
+Summary PK parameters from pharmacokinetic studies 
+Refer to Study 1098459, Module 4.2.2.2 Absorption 
+Integrative summary table of Cmax and AUC parameters  across toxicology studies (general, 
+reproductive, and carcinogenicity, if conducted). 
+No new information is provided in the current submission. 
+Tabulation of any exposure margins used in proposed labeling. 
+No new information is provided in the current submission. 
+ 
+The FDA’s Assessment: 
+In general, the FDA agrees with the Applicant’s assessment. In Study 1098459, the 
+exposure of both entrectinib and its major metabolite, M5, was highest in tumor, then 
+plasma, and then brain in mice bearing subcutaneous tumors and treated orally with 5 
+mg/kg twice daily. 
+Reference ID: 5262585
+
+
+===== PAGE 41 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218550}
+{ROZLYTREK, entrecrinib}
+40
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA. 
+Review Issue
+Recommendations and Comments
+ 
+ 
+ 
+Dosing in 
+patient 
+subgroups 
+(intrinsic and 
+extrinsic 
+factors)
+No dosage adjustment is needed according to sex, race, mild 
+to moderate renal impairment, or mild hepatic impairment. 
+The effects of severe hepatic impairment (total bilirubin > 3x 
+ULN, any AST) and severe renal impairment (creatinine 
+clearance < 30 mL/min) are unknown.
+Body weight was found to influence clearance and volume 
+of distribution of entrectinb and M5.
+Drug-drug 
+interactions
+Avoid coadministration of entrectinib with moderate or 
+strong CYP3A inhibitors. If coadministration is unavoidable, 
+reduce the dosage as proposed below with concomitant use 
+of strong and moderate CYP3A inhibitors for pediatric 
+patients 2 years and older.
+Starting dose*
+Moderate CYP3A
+Strong CYP3A
+200 mg
+50 mg QD
+50 mg on alternate days
+300 mg
+100 mg QD
+50 mg QD
+400 mg
+200 mg QD
+50 mg QD
+600 mg
+200 mg QD
+100 mg QD
+* For pediatric patients with a starting dose <200 mg, avoid 
+coadministration with moderate or strong CYP3A inhibitors
+Avoid coadministration of entrectinib with moderate or 
+strong CYP3A inhibitors for pediatric patients <2 years.
+Avoid coadministration of strong and moderate CYP3A 
+inducers with entrectinib.
+Scientific 
+Bridge
+The results of relative bioavailability studies and exposures 
+in clinical studies established an adequate scientific bridge 
+between coated granules and capsules, and between 
+capsules as suspension administered orally or via nasogastric 
+tube and intact capsules. 
+Labeling
+Overall, the proposed labeling recommendations are 
+acceptable upon the Applicant’s agreement with the FDA 
+recommended revisions to the labeling.
+Summary of Clinical Pharmacology Assessment 
+Pharmacology and Clinical Pharmacokinetics
+Reference ID: 5262585
+(b) (4)
+
+
+===== PAGE 42 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218550} 
+{ROZLYTREK, entrecrinib} 
+ 
+ 
+41 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+The Applicant’s Position: 
+The key findings from the evaluation of the clinical pharmacology and PK of entrectinib in a 
+pediatric population are as follows (Module 2.7.2): 
+Characterization of Pharmacokinetics 
+Non-compartmental analyses: 
+x Individual systemic exposure in patients dosed with 300 mg/m2 using the commercial 
+formulation capsules and coated granules is within the range of systemic exposure in 
+patients dosed with F1 (containing no pH-modifier) at doses !300 mg/m2 (400 mg/m2 and 
+550 mg/m2). This is consistent with previous reports showing the sensitivity of entrectinib to 
+gastrointestinal conditions when administered with the formulation without a pH-modifier 
+(F1; Report 1091111).  
+x Entrectinib systemic exposure was comparable in pediatric patients ! 1-year-old following a 
+300 mg/m2 regardless of the form of administration (capsule or coated granules). 
+x Overall, pediatric patients  d 1 year old showed lower systemic entrectinib exposure and 
+higher metabolite-to-parent (M/P) ratios compared to older pediatric patients and adults 
+regardless of the form of administration (nasogastric administration (F06) or coated 
+granules). 
+x The available systemic exposure of entrectinib from patients receiving coated granules (F17 
+ was comparable to patients receiving coated granules (F15 –
+and capsule 
+(F06). 
+x No obvious trends or bias was observed in the distribution of exposures for entrectinib and 
+sum (entrectinib  M5), across the age and body size ranges tested (2 months to 20 years, 
+and 0.2 to 2 m2). Although lower exposure of entrectinib and the sum (entrectinib  M5) 
+was observed in the lower age range (  1 year old).  
+x Population pharmacokinetics: 
+x Based on simulations from the popPK model, the entrectinib starting doses of 300, 400 and 
+600 mg once daily (QD) (based on the recommended dose of 300 mg/m2), given in the 
+pediatric body surface area (BSA) categories III, IV, and V, respectively, are expected to 
+generate exposures (sum of entrectinib and M5 area under the plasma concentration-time 
+curve [AUC] at steady state) within the adult range. Of note, adolescents  ! 12 years old 
+mainly belong to categories IV and V. 
+x Based on simulations from the popPK model, the starting dose of 200 mg QD for BSA 
+category II (0.51-0.80 m2) 
+ (based on the 
+recommended dose of 300 mg/m2), are expected to generate a median sum 
+(entrectinib  M5) exposures of ĂďŽƵƚ ϱϴй
+ŽĨ ĂĚƵůƚ ĞǆƉŽƐƵƌĞƐ͕ ƌĞƐƉĞĐƚŝǀĞůǇ͘ dŚĞƐĞ
+lower exposures are mainly driven by the currently unexplained age effect on the 
+bioavailability of entrectinib. 
+ 
+Reference ID: 5262585
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 43 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218550} 
+{ROZLYTREK, entrecrinib} 
+ 
+ 
+42 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Effect of Intrinsic Factors on the Pharmacokinetics of Entrectinib 
+x Body weight was found to influence volume of distribution and clearance for both 
+entrectinib and M5 in a popPK model.  
+x Based on the popPK model, pediatric cancer patients had lower bioavailability compared to 
+adults. Entrectinib bioavailability ŝŶ ƉĞĚŝĂƚƌŝĐ ƉĂƚŝĞŶƚƐ ǁĂƐ ĞƐƚŝŵĂƚĞĚ ƚŽ ďĞ Ϯϵй͕ ϲϮй͕ ĂŶĚ
+ϴϰй ŽĨ ƚŚĞ ĂĚƵůƚ ǀĂůƵĞ͕ ƌĞƐƉĞĐƚŝǀĞůǇ Ăƚ ƚŚĞ ĂŐĞ ŽĨ ϭ͕ ϲ, or 12 years. 
+x Based on the popPK model, the apparent clearance of M5 increased with age in pediatric 
+patients. M5 clearance was estimated to be ϱϬй ŽĨ ĂĚƵůƚƐ Ăƚ ƚŚĞ ĂŐĞ ŽĨ ϭ ǇĞĂƌ͕ ϴϲй Ăƚ ϲ
+years, and 92й of adults at 12 years.  
+x Race did not have a marked effect on entrectinib PK following administration of the F06 
+capsule or F15 coated granules to a pediatric population. 
+ 
+Effect of Extrinsic Factors on the Pharmacokinetics of Entrectinib 
+x Increasing gastric pH with a proton pump inhibitor (PPI) lansoprazole did not lower the 
+bioavailability of entrectinib when given as an oral suspension in water indicating the 
+effectiveness of the pH-modifier when entrectinib is given as an oral suspension in water. 
+Increasing gastric pH by co-administration of the PPI (lansoprazole) increased entrectinib 
+overall exposure (area under the plasma concentration-time curve from time zero to infinity 
+[AUCinf]Ϳ ďǇ ϭϱй ĂŶĚ ƌĞĚƵĐĞĚ Dϱ ŽǀĞƌĂůů ĞǆƉŽƐƵƌĞ ďǇ ϭϯй (Section 3.5.1; see details in 2.7.1 
+SBP, Section 2.3.2 [Study GP44192]). 
+Based upon PBPK simulations, co-administration of a range of cytochrome P450 (CYP) 3A4 
+inhibitors with entrectinib significantly increased entrectinib exposure across an age range of 
+2 to 18 years (Section3.5.2). 
+Based upon the simulated effects of co-administration of entrectinib with CYP3A4 inhibitors, 
+doƐĞ ĂĚũƵƐƚŵĞŶƚƐ ĂƌĞ ƌĞĐŽŵŵĞŶĚĞĚ ĨŽƌ ƉĞĚŝĂƚƌŝĐ ƉĂƚŝĞŶƚƐ ш Ϯ ǇĞĂƌƐ ŽůĚ ĚĞƉĞŶĚŝŶŐ ŽŶ ƚŚĞ
+starting dose defined in the corresponding BSA range and the availability of dose strengths 
+(Section 3.5.2).  
+ 
+Effect of Entrectinib on the Pharmacokinetics of Other Medicinal Products 
+The effect of entrectinib on the pharmacokinetics of other medicinal products has previously 
+been described in the initial 2.7.2 SCP.  
+Population Pharmacokinetics 
+The existing popPK model was updated based on data from five Phase I/II studies in 343 
+patients with solid malignancies, of which 73 were pediatric patients:  Study GO40784 (also 
+known as RXDX-101-01, and STARTRK-1; N   57), Study GO40782 (also known as RXDX-101-02, 
+and STARTRK-2; N   203), Study  CO40778 (also known as RXDX-101-03, and STARTRK-NG; 
+N   67), Study GO40785 (also known as RXDX-101-14; N   12), and Study BO41932 (also known 
+Reference ID: 5262585
+
+
+===== PAGE 44 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218550} 
+{ROZLYTREK, entrecrinib} 
+ 
+ 
+43 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+as TAPISTRY; N   4; popPK Report 1121816). These analyses were performed to quantitatively 
+describe the PK of entrectinib and M5 in adult and pediatric patients.  
+x Evaluations of E-R relationships for clinical efficacy and selected clinical safety events were 
+conducted for entrectinib and/or M5 in the pediatric population. Specific objectives of the 
+exposure-efficacy and -safety analyses were:  
+x To investigate the exposure-efficacy relationships in the pediatric population for entrectinib 
+and M5 using graphical analyses in: 
+x NTRK –fusion-positive tumors and 
+x ROS1 –fusion-positive tumors.  
+x To investigate whether the variability in responder status (as assessed by best overall 
+response (BOR), with responders defined as complete response (CR) or partial response 
+(PR), and non-responders as stable disease, progressive disease (PD), and non-CR/non-PD 
+patients) could be attributed to the variability in the sum (entrectinib + M5) exposure in 
+both NTRK and ROS1 fusion-positive tumors. 
+x To characterize: 
+x the relationship between exposure of entrectinib, M5, and the sum (entrectinib  M5) and 
+treatment-emergent Grade  t 3 adverse events (AEs). 
+x the relationship between exposure of entrectinib, M5, and the sum (entrectinib  M5) and 
+serious adverse events (SAEs; any Grade). 
+x the relationship between exposure of entrectinib, M5, and the sum (entrectinib  M5) and 
+bone fractures. 
+ 
+Characterization of Pharmacodynamics 
+x Characterization of pharmacodynamics has previously been described in the initial 2.7.2 
+SCP.  
+Physiologically-Based Pharmacokinetic Simulations 
+Physiologically-based pharmacokinetic (PBPK) modelling has been utilized to integrate available 
+in vitro nonclinical and clinical data and to support the development of entrectinib by assisting 
+the interpretation of clinical studies (for full details refer to the PBPK GastroPlus Report 
+1113585 and PBPK Simcyp Report 1119857).  
+The two models developed using the GastroPlus and Simcyp software (previously described in 
+the initial 2.7.2 SCP) have been updated to predict the outcomes of clinical pharmacology 
+studies and have been used further to explore the impact of various intrinsic and extrinsic 
+factors on entrectinib PK in pediatric patients.  
+The updated GastroPlus absorption model(s) integrate measured physicochemical and 
+formulation-related data and has been employed:  
+x To support the absence of food effect with the coated granule formulation, by extrapolating 
+the lack of food effect in capsules (GastroPlus Report 1113585).  
+ 
+Reference ID: 5262585
+
+
+===== PAGE 146 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218550}
+{ROZLYTREK, entrecrinib}
+145
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA. 
+Figure 10 Simulation results for sum AUCss of entrectinib and M5 in pediatric patients aged 6 
+months or older (top) for the starting dose (left), first dose reduction (middle) and second 
+dose reduction (right), and in patients aged 1-6 months following the starting dose (bottom).
+AUCss, area under the plasma concentration-time curve at steady state; BSA, body surface area. BSA categories were defined as follow: I, 0.43-
+0.50 m2; II, 0.51-0.80 m2; III, 0.81-1.10 m2; IV, 1.11-1.50 m2; V, шϭ͘ϱϭ m2. Grey shaded areas represent the kernel distributions of AUCss obtained 
+from simulations from the updated population pharmacokinetic model. Individual predicted AUCss for patients treated with the recommended 
+dosing regimen are shown as symbols, colored by formulation (top). The vertical dashed lines represent the 5th and 95th percentiles of the 
+simulated exposures in adults. Source: Applicant’s PopPK report (Report 1121816) , Figures 33-34, 37, 40.
+The FDA’s Assessment:
+Population PK analysis was used to propose 
+ 
+FDA generally agrees with doses proposed for all evaluable groups based on PK 
+simulation except for pediatrics over 6 months old with BSA of 
+ 
+ FDA recommended a dosage of 300 mg/m2 for pediatrics over 6 months old 
+with BSA of 0.5 m2 and less based on evaluations of PK, efficacy, and safety (refer to 
+19.4.1.3 for details). Labeling for the recommended dosages was updated accordingly.  
+PPK Review Issues
+Underprediction of the model identified in pediatrics >1 to 6 months
+Reference ID: 5262585
+(b) (4)
+(b) (4)
+
+
+===== PAGE 152 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218550}
+{ROZLYTREK, entrecrinib}
+154
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA. 
+Figure 1Ϯ ER Curves of treatment emergent AEs Grade 3 or higher (top left), SAEs (top right), 
+and bone fracture vs exposure in pediatric Patients.
+AE, adverse event; AUC, area under the concentration-time curve, nM, nanomolar; h, hour. Symbols: observed data. Solid yellow line and grey 
+ƐŚĂĚĞĚ ĂƌĞĂ͗ ƐŵŽŽƚŚĞĚ ůŝŶĞ ĨŝƚƚĞĚ ƚŽ ƚŚĞ ĚĂƚĂ ƵƐŝŶŐ Ă ůŽŐŝƐƚŝĐ ƌĞŐƌĞƐƐŝŽŶ ĂŶĚ ŝƚƐ ĐŽƌƌĞƐƉŽŶĚŝŶŐ ϵϱй ĐŽŶĨŝĚĞŶĐĞ ŝŶƚĞƌǀĂů͘ ZĞĚ dashed line: spline 
+fitted to the observed data. Source: Applicant’s PopPK report (Report 1121816) , Figures 24, 26.
+Average concentrations of entrectinib (left), M5 (middle), and their sum (right) were calculated from the first entrectinib dose up to the time of 
+the event (first bone fracture or censoring) using the updated population pharmacokinetic model. Blue symbols: observed data. Solid yellow 
+ůŝŶĞ ĂŶĚ ŐƌĞǇ ƐŚĂĚĞĚ ĂƌĞĂ͗ ƐŵŽŽƚŚĞĚ ůŝŶĞ ĨŝƚƚĞĚ ƚŽ ƚŚĞ ĚĂƚĂ ƵƐŝŶŐ Ă ůŽŐŝƐƚŝĐ ƌĞŐƌĞƐƐŝŽŶ ĂŶĚ ŝƚƐ ĐŽƌƌĞƐƉŽŶĚŝŶŐ ϵϱй ĐŽŶĨŝĚĞŶĐĞ interval. Red 
+dashed line: spline fitted to the observed data. Source: Applicant’s PopPK report (Report 1121816) , Figure 29.
+The FDA’s Assessment:
+FDA agrees with the Applicant’s position.
+ER Review Issues
+Evaluation of bone fracture for alternative doses for pediatrics over 6 months with BSA of 0.5m2
+Univariate and multivariate analyses were both conducted to predict increase in bone fracture 
+risk for alternative doses. The representative subset for prediction is pediatrics over 6 months 
+whose BSA is exactly 0.5m2 which is intended to capture the largest possible difference in 
+exposure between flat dose and BSA based dose.
+Reference ID: 5262585
+
+
+===== PAGE 155 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218550}
+{ROZLYTREK, entrecrinib}
+157
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA. 
+adult systemic exposure may increase the risk of bone fractures, (popPK Report 1121816; 2.7.4 
+SCS, Section 2.1.8.1). 
+Hence, the current available clinical safety and efficacy data in the pediatric population confirm 
+the adequacy of the recommended dose(s) to maintain a positive benefit risk ratio. 
+The FDA’s Assessment:
+FDA generally agrees except for the dose proposed for the patients 
+ 
+due to efficacy concern (refer to 19.4.1 for details). The labeling was 
+updated to reflect the change in the recommended dosage for this subgroup.
+Physiologically Based PK Analysis
+Executive Summary
+The objective of this review is to evaluate the adequacy of the Applicant’s physiologically based 
+pharmacokinetic (PBPK) analyses to:
+predict the pharmacokinetic (PK) profile of entrectinib and its major circulating 
+metabolite M5 in pediatrics
+evaluate the drug-drug interaction (DDI) potential of entrectinib and M5 as victims of 
+strong and moderate CYP3A inhibitors at steady state in pediatrics ш 2-year-old
+The Division of Pharmacometrics has reviewed the PBPK report (report 1119857), FDA IR 
+Clinical Pharmacology Response Documents (seq 0021, 0022, 0031, and 0033), and the 
+modeling supporting files, and concluded that 
+PBPK models of entrectinib and M5 are inadequate 
+ 
+PBPK analyses are adequate to predict the effects of strong and moderate CYP3A 
+inhibitors on the exposure of entrectinib and M5 in pediatric patients ш 2 years old. 
+Strong and moderate CYP3A inhibitors were predicted to increase the combined 
+exposure of entrectinib and M5 approximately 6- and 3-fold, respectively.  However, the 
+effect of itraconazole may be overestimated because the concentrations of itraconazole 
+and its hydroxy metabolite reported in the literature were much lower than that 
+predicted in pediatric patients < 12 years old.
+Background
+Entrectinib (RO7102122; ROZLYTREK; formerly known as RXDX-101, NMS-1191372, and 
+NMSE628) is a kinase inhibitor and was approved in 2019 for the treatment of adult patients 
+with ROS1-positive metastatic non-small cell lung cancer and for adults and pediatric patients 
+12 years of age and older with solid tumors that have neurotrophic tyrosine receptor kinase 
+(NTRK) gene fusion. The 100 and 200 mg capsules are approved dosage strength and form. The 
+Reference ID: 5262585
+(b) (4)
+(b) (4)
+
+
+===== PAGE 163 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218550}
+{ROZLYTREK, entrecrinib}
+165
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA. 
+Each individual data is represented by closed circles (PK using F01 formulation: n=11-22; PK using F2A formulation: n=4-19). Green solid lines 
+are simulated mean plasma concentration profiles of 100 virtual subjects (n=10 × 10 trials). Broken lines represent the respective 95th/5th 
+percentiles.
+Source: Figure 1 in the response-fda-ir-pbpk-20230831 (seq0022)
+Table 40 Simulated and observed geometric mean with CVй for Cmax and AUC of entrectinib plasma 
+concentrations after multiple-dose administration in adult Caucasian subjects 
+Geometric means were reported. †Study 1090209 (RXDX-101-01). ‡ Study 1096318 (RXDX-101-14)
+Source: Table 1 in the response-fda-ir-pbpk-20230831 (seq0022)
+Ϯ. Can PBPK analyses predict the effects of CYP3A perpetrators on the PK of entrectinib 
+and M5?
+Yes. The entrectinib PBPK models could be used to predict the effects of CYP3A inhibitors. The 
+ability of the updated models to reproduce the effects of the strong CYP3A inhibitor 
+itraconazole and strong CYP3A inducer rifampin has been verified (Table 41). In addition, the 
+predicted effects of moderate inhibitors erythromycin and fluconazole using these updated 
+models were similar to that predicted using the original model (data not shown, Table 2 in the 
+response-fda-ir-pbpk-20230831).
+Entrectinib
+M5
+Entrectinib
+M5
+simulated
+ϭϵϬϯ ;ϱϬйͿ
+ϯϳϵ ;ϱϮйͿ
+ϮϴϰϮϭ ;ϲϬйͿ
+ϳϳϳϯ ;ϲϭйͿ
+F01
+observed†
+ϮϭϳϬ ;ϱϬйͿ
+ϱϯϱ ;ϱϲйͿ
+ϯϮϲϬϬ ;ϳϳйͿ
+ϵϬϮϬ ;ϰϲйͿ
+sim/obs
+0.88
+0.71
+0.87
+0.86
+F2A
+observed‡
+ϮϲϲϬ ;ϲϰйͿ
+ϳϬϯ ;ϴϯйͿ
+ϮϲϱϬϬ ;ϭϱϴйͿ
+ϳϰϬϬ ;ϮϮϱйͿ
+sim/obs
+0.72
+0.54
+1.07
+1.05
+F06
+observed‡
+ϯϲϰϰ ;ϯϴйͿ
+ϵϯϭ ;ϴϵйͿ
+ϲϭϮϳϴ ;ϰϱйͿ
+ϭϳϬϰϯ ;ϵϲйͿ
+sim/obs
+0.52
+0.41
+0.46
+0.46
+AUC0-t,ss (nM*h)              
+at Day Ϯ8 or Day 14
+ the last dose 
+of 600 mg QD, 
+28 days
+the last dose 
+of 600 mg QD, 
+14 days
+Entrectinib 
+dose (p.o.)
+Formulation
+Trials
+Cmax,ss (nM)                  
+at Day Ϯ8 or Day 14
+Reference ID: 5262585
+
+
+===== PAGE 164 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218550}
+{ROZLYTREK, entrecrinib}
+166
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA. 
+Table 41WƌĞĚŝĐƚĞĚ ŐĞŽŵĞƚƌŝĐ ŵĞĂŶ ǁŝƚŚ ϵϬй ĐŽŶĨŝĚĞŶĐĞ ŝŶƚĞƌǀĂů ;ϵϬй /Ϳ for Cmax and AUC ratio 
+of entrectinib and M5 following coadministration of strong CYP3A perpetrators in healthy 
+adults
+Source: Table 4 in the PBPK report 1119857
+Reviewer’s comments:
+x
+In the previous submission, the fraction metabolized by CYP3A (fm,CYP3A) in the 
+entrectinib PBPK model was optimized to 0.76 using the data from the clinical DDI study 
+with itraconazole (report 1091399). Since then, a new reaction phenotyping study was 
+conducted (report 1095945). CYP3A4 was involved in the formation of all the 
+ŵĞƚĂďŽůŝƚĞƐ ƐƚƵĚŝĞĚ ĞǆĐĞƉƚ ĨŽƌ ƚŚĞ ŐůƵĐƵƌŽŶŝĚĞ Dϭϭ͕ ǁŚŝĐŚ ƌĞƉƌĞƐĞŶƚĞĚ фϬ͘ϱй ŽĨ ƚŚĞ
+administered dose in the human ADME study (CSR RXDX-101-05). In the updated 
+entrectinib model, the fm,CYP3A value was optimized to 0.92, in the meanwhile, the fu, gut
+value was 
+ 0.0022 
+ in the original model to reproduce the observed 
+effects of itraconazole on the exposure of entrectinib. This adjustment to the fu, gut value 
+appears to be reasonable because entrectinib is highly bound to plasma protein with 
+fraction unbound in plasma close to 0.00022. This model is verified by its ability to 
+reproduce the effect of rifampin on entrectinib exposure (Table 41).
+x
+The updated models underpredicted the induction effects of rifampin on the Cmax of M5 
+by approximately 2-fold. The Applicant stated that this was likely because one subject 
+had an extremely high exposure. However, the geometric mean Cmax ratio excluding this 
+subject was 0.32 and the predicted Cmax ƌĂƚŝŽ ǁĂƐ ϳϯй ŚŝŐŚĞƌ ƚŚĂŶ ƚŚŝƐ ƌĞĐĂůculated 
+value. Therefore, the reasons for this underprediction remain unclear. Considering that 
+Cmax is not the metric for dose adjustment and the predicted effect (0.18) of rifampin on 
+the combined exposure of entrectinib and M5 was similar to the observed effect (0.21), 
+Reference ID: 5262585
+(b) (4)
+(b) (4)
+
+
+===== PAGE 165 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218550}
+{ROZLYTREK, entrecrinib}
+167
+Version date: June 2022 (ALL NDA/ BLA reviews)
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA. 
+the models of entrectinib and M5 are considered adequate to evaluate the effects of 
+CYP3A inhibitors.
+3. Can PBPK analyses be used to simulate the pharmacokinetics of entrectinib and M5 in 
+pediatric patients?
+The models could reasonably well describe the PK profiles (data not shown) and PK parameters 
+of entrectinib and M5 following single and multiple oral doses in pediatric patients older than 4 
+years old (Table 4Ϯ) . For pediatrics aged 2-4 years old, entrectinib AUC and Cmax were 
+overpredicted though still within 2-fold of the observed exposure (Table 4Ϯ). For pediatrics 
+younger than 2 years old, the predicted PK profiles and PK parameters of entrectinib and M5 
+were compared with the observed in (Table 43) and Figure 17.  Most of the observed 
+concentrations were around or below the 5th percentile of the predicted concentration-time 
+profiles of entrectinib. Entrectinib exposure was 2- to 4-fold overpredicted and M5 exposure 
+was underpredicted up to 2.5-fold. Given the performance of the entrectinib and M5 models 
+and knowledge gap in the gut physiology in infants, it is inappropriate to use these models to 
+Table 4Ϯ Pharmacokinetic parameters of entrectinib and M5 after multiple oral administration of 
+entrectinib at steady state in adults and pediatrics older than Ϯ years of age
+Source: Table 5 in the response-fda-ir-pbpk-20230831 (seq0022)
+Reference ID: 5262585
+(b) (4)
+
+
+===== PAGE 167 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218550} 
+{ROZLYTREK, entrecrinib} 
+ 
+ 
+169 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+entrectinib and M5 in adults and the exposure of entrectinib and M5 PK in patients older than 2 
+years. Moderate CYP3A inhibitors erythromycin and fluconazole were predicted to increase the 
+combined exposure of entrectinib and M5 by 2- to 3-fold (Table 44), which were similar to that 
+predicted in adults (data not shown). The predicted exposure of entrectinib and M5 were 
+within the observed efficacious exposure in adults. Strong CYP3A inhibitors modeled using the 
+itraconazole PBPK model were predicted to increase approximately 6- to 7-fold of the 
+combined exposure of entrectinib and M5, which was similar to the predicted effect of 
+itraconazole in adults. Except for the 2- to 4-year-old, the combined AUC values of entrectinib 
+and M5 at the steady state in pediatric patients following administration of entrectinib at the 
+reduced doses with itraconazole approximated the steady state exposure of entrectinib and M5 
+in adults following administration of entrectinib 600 mg once daily, which is also the maximal 
+tolerated exposure observed in adult patients 
+(https://www.accessdata.fda͘ŐŽǀͬĚƌƵŐƐĂƚĨĚĂͺĚŽĐƐͬŶĚĂͬϮϬϭϵͬϮϭϮϳϮϱKƌŝŐϭƐϬϬϬ͕йϮϬϮϭϮϳϮϲKƌŝ
+g1s000MultidisciplineR.pdf). For the 2- to 4-year-old, the combined exposure of entrectinib and 
+M5 was within the efficacious exposure in adults when the AUCs of entrectinib and M5 were 
+normalized to the 24-hour dosing interval. Therefore, these simulation results support the 
+proposed dose reduction scheme (Table 35) in the proposed label.  
+It should be noted that the ability of these PBPK models to predict the effect of CYP3A 
+inhibitors is also dependent on whether the inhibitor models could predict the inhibitor 
+concentrations in different age groups. At the reviewer’s request (FDA-IR dated August 9th, 
+2023), the applicant compared the simulated plasma concentration-time profiles and PK 
+parameters of the strong CYP3A inhibitor itraconazole, and moderate CYP3A inhibitors 
+fluconazole and erythromycin with that reported in the literature (PMID: 17517842, 9527794, 
+8070441, and 7313575). The PBPK models of erythromycin and fluconazole could reasonably 
+capture the erythromycin PK profiles in patients aged 0.5 – 6 years old (Figure 18) and 
+fluconazole PK parameters in patients aged 2 -16 years old (Table 45 ). However, the PBPK 
+models of itraconazole and its hydroxyl metabolite significantly overpredicted their plasma 
+exposure in patients aged 2-12 years old. Compared to the observed, the predicted AUC and 
+Cmax were overpredicted up to 11- and 6-fold, respectively, for itraconazole and up to 7.4- and 
+5-fold, respectively, for its major metabolite hydroxyl itraconazole (Table 45). The observed 
+concentrations of itraconazole and hydroxyl itraconazole approximated the 5th percentile of the 
+predicted concentrations (Figure 18).  At these concentrations observed in patients < 12 years 
+old, assuming that the effects of itraconazole on entrectinib and M5 were equivalent to the 5th 
+percentile of the predicted effects of itraconazole on entrectinib, itraconazole was predicted to 
+increase entrectinib exposure around 3-fold and increase M5 exposure 1- to 1.5-fold. If the 
+proposed 6- to 8-fold dose reduction for strong CYP3A inhibitors is applied when itraconazole is 
+co-administered, the exposure of entrectinib and M5 in pediatric patients would be below the 
+efficacious exposure unless dose adjustment is made to the itraconazole dose. 
+Table 44 Predicted Exposure of entrectinib and M5 following ora administration of multiple-dose 
+entrectinib with strong or moderate CYP3A inhibitors for Ϯ weeks in pediatrics 
+Reference ID: 5262585
+
+
+===== PAGE 168 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 218550} 
+{ROZLYTREK, entrecrinib} 
+ 
+ 
+170 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+ 
+AUCss,adults = combined steady-state AUC of entrectinib and M5 in adult following entrectinib 600 mg QD under the fed state = maximal tolerated 
+exposure; AUCped and AUCi,ped, AUC0-24h in the absence  and presence of an inhibitor; AUC0-48h was reported for entrectinib given in alternate 
+day. qd, once daily; q2d, every other day; yr, years old; +inh, in the presence of an inhibitor; Ent, entrectinib 
+Source: Tables 7- 9 in the PBPK report 1119857, Table 10 in the response-fda-ir-pbpk-20230831 (seq0022), and reviewer’s analysis 
+ 
+Table 45  Simulated and observed PK parameters of the CYP3A inhibitors in pediatric subjects 
+AUCi,ped/ AUCped
+AUCi,ped/AUCss, adults
+Ent
+M5
+Ent+M5
+Ent+M5
+Ent+M5
+2-4 yr
+50 mg q2d
+13318
+3346
+16669
+50 mg q2d+Inh
+108399
+16246
+130060
+6.8
+1.8
+4-7 yr
+50 mg q2d
+10573
+2666
+13239
+50 mg q2d+Inh
+72469
+9877
+82346
+6.2
+1.1
+50 mg qd
+10612
+2709
+13305
+50 mg qd+Inh
+95135
+12116
+111026
+6.5
+1.6
+7-10 yr
+50 mg qd
+8754
+2182
+10923
+50 mg qd+Inh
+79058
+8673
+92657
+6.6
+1.3
+100 mg q2d
+15510
+3908
+19424
+100 mg q2d+inh
+146371
+15459
+168059
+6.6
+2.4
+10-12 yr
+50 mg qd
+7493
+1877
+9370
+50 mg qd+Inh
+53664
+6122
+59786
+6.4
+0.8
+100 mg qd
+13610
+3450
+17010
+100 mg qd+Inh
+127284
+11644
+134640
+6.9
+1.9
+12-18 yr
+100 mg qd
+11055
+2758
+13814
+100 mg qd+Inh
+93739
+7770
+100153
+6.1
+1.4
+2-4 yr
+50 mg qd
+19299
+4874
+16600
+50 mg qd+Inh
+61775
+15075
+52560
+3.0
+0.7
+4-7 yr
+50 mg qd
+10612
+2709
+13301
+50 mg qd+Inh
+33593
+8286
+41880
+2.9
+0.6
+7-10 yr
+100 mg qd
+15462
+3895
+19357
+100 mg qd+Inh
+48017
+11815
+59832
+2.9
+0.8
+10-12 yr
+200 mg qd
+21703
+5582
+27305
+200 mg qd+Inh
+72899
+17920
+91064
+2.9
+1.3
+12-18 yr
+200 mg qd
+19299
+4874
+24177
+200 mg qd+Inh
+61775
+15075
+76932
+2.8
+1.1
+2-4 yr
+50 mg qd
+13275
+3328
+16600
+50 mg qd+Inh
+31297
+7108
+38787
+2.2
+0.5
+4-7 yr
+50 mg qd
+10612
+2707
+13288
+50 mg qd+Inh
+26021
+6166
+32162
+2.2
+0.5
+7-10 yr
+100 mg qd
+15462
+3897
+19356
+100 mg qd+Inh
+37618
+8900
+46496
+2.3
+0.7
+10-12 yr
+200 mg qd
+21703
+5576
+27318
+200 mg qd+Inh
+54540
+13105
+67661
+2.3
+1.0
+12-18 yr
+200 mg qd
+19299
+4803
+24157
+200 mg qd+Inh
+46384
+10728
+57118
+2.3
+0.8
+Predicted AUC,ped  or AUCi,ped 
+Inhibitor 
+Dose
+Itraconazole 
+(5 mg/kg)
+Erythromycin 
+(7.5 mg/kg)
+Fluconazole 
+(3 mg/kg)
+ doses in 
+the inhibited state
+Age 
+Groups
+Reference ID: 5262585
+(b) (4)

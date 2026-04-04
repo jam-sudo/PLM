@@ -1,0 +1,186 @@
+{
+  "nda": "NDA202293",
+  "drug_name": "dapagliflozin",
+  "pk_tuples": [
+    {
+      "dose_mg": 2.5, "dose_original": "2.5 mg single",
+      "route": "oral", "formulation": "solution", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 32, "tmax_h": 0.5, "auc_inf_ng_h_ml": 81, "auc_last_ng_h_ml": null,
+      "t_half_h": 1.67, "cl_L_h": null, "vd_L": null,
+      "source_page": 40, "confidence": "high",
+      "notes": "Table 6, Study MB102001 single ascending dose, early formulation"
+    },
+    {
+      "dose_mg": 5, "dose_original": "5 mg single",
+      "route": "oral", "formulation": "solution", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 67, "tmax_h": 0.5, "auc_inf_ng_h_ml": 185, "auc_last_ng_h_ml": null,
+      "t_half_h": 2.52, "cl_L_h": null, "vd_L": null,
+      "source_page": 40, "confidence": "high",
+      "notes": "Table 6, Study MB102001"
+    },
+    {
+      "dose_mg": 10, "dose_original": "10 mg single",
+      "route": "oral", "formulation": "solution", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 116, "tmax_h": 1.0, "auc_inf_ng_h_ml": 368, "auc_last_ng_h_ml": null,
+      "t_half_h": 3.0, "cl_L_h": null, "vd_L": null,
+      "source_page": 40, "confidence": "high",
+      "notes": "Table 6, Study MB102001"
+    },
+    {
+      "dose_mg": 20, "dose_original": "20 mg single",
+      "route": "oral", "formulation": "solution", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 269, "tmax_h": 1.0, "auc_inf_ng_h_ml": 977, "auc_last_ng_h_ml": null,
+      "t_half_h": 8.51, "cl_L_h": null, "vd_L": null,
+      "source_page": 40, "confidence": "high",
+      "notes": "Table 6, Study MB102001"
+    },
+    {
+      "dose_mg": 50, "dose_original": "50 mg single",
+      "route": "oral", "formulation": "solution", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 600, "tmax_h": 1.0, "auc_inf_ng_h_ml": 2004, "auc_last_ng_h_ml": null,
+      "t_half_h": 11.96, "cl_L_h": null, "vd_L": null,
+      "source_page": 40, "confidence": "high",
+      "notes": "Table 6, Study MB102001"
+    },
+    {
+      "dose_mg": 100, "dose_original": "100 mg single",
+      "route": "oral", "formulation": "solution", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 1112, "tmax_h": 1.25, "auc_inf_ng_h_ml": 4363, "auc_last_ng_h_ml": null,
+      "t_half_h": 15.93, "cl_L_h": null, "vd_L": null,
+      "source_page": 41, "confidence": "high",
+      "notes": "Table 6, Study MB102001"
+    },
+    {
+      "dose_mg": 250, "dose_original": "250 mg single",
+      "route": "oral", "formulation": "solution", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 5, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 2510, "tmax_h": 1.5, "auc_inf_ng_h_ml": 13337, "auc_last_ng_h_ml": null,
+      "t_half_h": 17.33, "cl_L_h": null, "vd_L": null,
+      "source_page": 41, "confidence": "high",
+      "notes": "Table 6, Study MB102001"
+    },
+    {
+      "dose_mg": 500, "dose_original": "500 mg single",
+      "route": "oral", "formulation": "solution", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 4734, "tmax_h": 1.5, "auc_inf_ng_h_ml": 25518, "auc_last_ng_h_ml": null,
+      "t_half_h": 19.04, "cl_L_h": null, "vd_L": null,
+      "source_page": 41, "confidence": "high",
+      "notes": "Table 6, Study MB102001"
+    },
+    {
+      "dose_mg": 2.5, "dose_original": "2.5 mg QD Day 14",
+      "route": "oral", "formulation": "solution", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "steady_state",
+      "cmax_ng_ml": 30, "tmax_h": 1.0, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 126,
+      "t_half_h": 13.72, "cl_L_h": null, "vd_L": null,
+      "source_page": 43, "confidence": "high",
+      "notes": "Table 7, Study MB102002 Day 14 multiple dose, healthy subjects; AUC is AUCtau"
+    },
+    {
+      "dose_mg": 10, "dose_original": "10 mg QD Day 14",
+      "route": "oral", "formulation": "solution", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "steady_state",
+      "cmax_ng_ml": 119, "tmax_h": 1.0, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 506,
+      "t_half_h": 14.38, "cl_L_h": null, "vd_L": null,
+      "source_page": 43, "confidence": "high",
+      "notes": "Table 7, Study MB102002 Day 14; AUCtau"
+    },
+    {
+      "dose_mg": 20, "dose_original": "20 mg QD Day 14",
+      "route": "oral", "formulation": "solution", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "steady_state",
+      "cmax_ng_ml": 202, "tmax_h": 1.0, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 910,
+      "t_half_h": 13.72, "cl_L_h": null, "vd_L": null,
+      "source_page": 43, "confidence": "high",
+      "notes": "Table 7, Study MB102002 Day 14; AUCtau"
+    },
+    {
+      "dose_mg": 50, "dose_original": "50 mg QD Day 14",
+      "route": "oral", "formulation": "solution", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "steady_state",
+      "cmax_ng_ml": 728, "tmax_h": 1.0, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 2543,
+      "t_half_h": 16.55, "cl_L_h": null, "vd_L": null,
+      "source_page": 43, "confidence": "high",
+      "notes": "Table 7, Study MB102002 Day 14; AUCtau"
+    },
+    {
+      "dose_mg": 100, "dose_original": "100 mg QD Day 14",
+      "route": "oral", "formulation": "solution", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "steady_state",
+      "cmax_ng_ml": 1237, "tmax_h": 1.0, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 5599,
+      "t_half_h": 16.55, "cl_L_h": null, "vd_L": null,
+      "source_page": 43, "confidence": "high",
+      "notes": "Table 7, Study MB102002 Day 14; AUCtau"
+    },
+    {
+      "dose_mg": 10, "dose_original": "10 mg single",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 7, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 143, "tmax_h": 1.03, "auc_inf_ng_h_ml": 628, "auc_last_ng_h_ml": 598,
+      "t_half_h": 13.7, "cl_L_h": null, "vd_L": null,
+      "source_page": 45, "confidence": "high",
+      "notes": "Table 9/24 MB102059 absolute BA study, Phase 3 tablet formulation, F=78%"
+    },
+    {
+      "dose_mg": 0.08, "dose_original": "80 μg IV infusion over 1 min",
+      "route": "IV", "formulation": "injection", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": 7, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 10.2, "tmax_h": 0.03, "auc_inf_ng_h_ml": 6.78, "auc_last_ng_h_ml": 6.43,
+      "t_half_h": 12.2, "cl_L_h": 12.42, "vd_L": 118,
+      "source_page": 45, "confidence": "high",
+      "notes": "14C-dapagliflozin 80 μg IV; CL 207 mL/min = 12.42 L/h; Vss 118 L; microdose"
+    },
+    {
+      "dose_mg": 50, "dose_original": "50 mg single",
+      "route": "oral", "formulation": "tablet", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": 5, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 745, "tmax_h": 1.5, "auc_inf_ng_h_ml": 2888, "auc_last_ng_h_ml": null,
+      "t_half_h": 13.0, "cl_L_h": 17.28, "vd_L": null,
+      "source_page": 53, "confidence": "high",
+      "notes": "Table 13 healthy normal renal function, CLT/F 288 mL/min=17.28 L/h; single dose"
+    },
+    {
+      "dose_mg": 50, "dose_original": "50 mg single",
+      "route": "oral", "formulation": "tablet", "food": "not_specified",
+      "population": "patient", "n_subjects": 9, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 674, "tmax_h": 1.0, "auc_inf_ng_h_ml": 2632, "auc_last_ng_h_ml": null,
+      "t_half_h": 12.6, "cl_L_h": 18.96, "vd_L": null,
+      "source_page": 53, "confidence": "high",
+      "notes": "Table 13 T2DM normal renal function, CLT/F 316 mL/min"
+    },
+    {
+      "dose_mg": 50, "dose_original": "50 mg single",
+      "route": "oral", "formulation": "tablet", "food": "not_specified",
+      "population": "renal_impaired", "n_subjects": 9, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 788, "tmax_h": 1.5, "auc_inf_ng_h_ml": 3433, "auc_last_ng_h_ml": null,
+      "t_half_h": 15.6, "cl_L_h": 14.52, "vd_L": null,
+      "source_page": 53, "confidence": "high",
+      "notes": "Table 13 T2DM mild renal impairment, CLT/F 242 mL/min"
+    },
+    {
+      "dose_mg": 50, "dose_original": "50 mg single",
+      "route": "oral", "formulation": "tablet", "food": "not_specified",
+      "population": "renal_impaired", "n_subjects": 8, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 814, "tmax_h": 1.0, "auc_inf_ng_h_ml": 4215, "auc_last_ng_h_ml": null,
+      "t_half_h": 17.6, "cl_L_h": 11.82, "vd_L": null,
+      "source_page": 53, "confidence": "high",
+      "notes": "Table 13 T2DM moderate renal impairment"
+    },
+    {
+      "dose_mg": 50, "dose_original": "50 mg single",
+      "route": "oral", "formulation": "tablet", "food": "not_specified",
+      "population": "renal_impaired", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 901, "tmax_h": 1.0, "auc_inf_ng_h_ml": 6082, "auc_last_ng_h_ml": null,
+      "t_half_h": 35.5, "cl_L_h": 8.22, "vd_L": null,
+      "source_page": 53, "confidence": "high",
+      "notes": "Table 13 T2DM severe renal impairment"
+    }
+  ]
+}

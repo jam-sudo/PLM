@@ -1,0 +1,2246 @@
+
+
+===== PAGE 3 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+2 
+Table 4. The IC50 values of parent (ZD6474), N-desmethyl metabolite, and N-oxide metabolite (from Dr. 
+Brenda Gehrke’s pharmacology/toxicology review). ........................................................................10 
+Table 5. QTc prolongation predicted for various dose levels.....................................................................13 
+Table 6. Single dose PK parameters following 300-mg dose of vandetanib in different studies. ..............15 
+Table 7. Multiple dose PK parameters in patients following 300-mg dose of vandetanib in different 
+studies.................................................................................................................................................16 
+Table 8. Single dose PK parameters of 300-mg vandetanib in healthy volunteers.....................................18 
+Table 9. The percent exposure to N-desmethyl vandetanib and vandetanib-N-oxide relative to that to 
+vandetanib. .........................................................................................................................................18 
+Table 10. Ratios of Geometric means (test/reference) and 90% confidence intervals for primary PK 
+parameters (N=10)..............................................................................................................................19 
+Table 11. Summary of the metabolites identified following HPLC-MS analysis of plasma, urine, and fecal 
+extract (N=4). .....................................................................................................................................21 
+Table 12. Categorical Analysis for ∆QTcF and QTcF Based on Gender (IRT review) .............................24 
+Table 13. Creatinine clearance values used for grouping, actual mean creatinine clearances in each renal 
+function group, and the values used in the applicant’s AUC calculation...........................................25 
+Table 14.  Geometric mean ratio for Cmax and AUC of total vandetanib in healthy subjects and subjects 
+with renal impairment (N: Normal = 10, Mild = 6, Moderate = 8, Severe = 6).................................25 
+Table 15. Categorical analysis for ∆QTcF and QTcF based on renal function ..........................................28 
+Table 16 .  Mean ratio for Cmax and AUC in healthy subjects and subjects with hepatic impairment........30 
+Table 17. Permeability of vandetanib in MDCKII-MDR1 cells.................................................................33 
+Table 18. Permeability of vandetanib in MDCKII-control and MDCKII-MDR1 cell ...............................33 
+Table 19. The effect of vandetanib on the permeability of the model substrate [3H]-digoxin across 
+MDCKII-control and MDCKII-MDR1 cell monolayers. ..................................................................34 
+Table 20. Drug-Drug interaction studies.....................................................................................................36 
+Table 21. Effect of itraconazole on the vandetanib PK ..............................................................................37 
+Table 22. Effect of rifampicin on the vandetanib PK .................................................................................38 
+Table 23. Effect of itraconazole on the N-desmethyl vandetanib PK.........................................................39 
+Table 24. Solubility of vandetanib (in aqueous media) ..............................................................................40 
+Table 25. Permeability Coefficient (Peff) of vandetanib in Caco-2 monolayers (N = 3).............................40 
+Table 26. Dissolution results for vandetanib 300 mg dispersed tablets compared to intact vandetanib 300 
+mg tablets (n=3) .................................................................................................................................41 
+Table 27 Quantitative composition of vandetanib 100 and 300 mg white film-coated tablets...................42 
+Table 28. Ratios of Geometric means (Fed (N=8)/Fasted (N=7); FDA analysis). .....................................44 
+ 
+List of Figures 
+Figure 1. Kaplan-Meier curve of progression free survival for the vandetanib arm (N=226) by quartiles of 
+Css, Day 56 and for the placebo arm (N=100) of the study 58.  Quartile of Css, Day 56 was expressed as 
+Reference ID: 2874467
+
+
+===== PAGE 4 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+3 
+median (range) in the legend. All patients (N = 100) in the placebo arm are included in the Kaplan-
+Meier curve, regardless follow-up to Day 56 or not. .........................................................................11 
+Figure 2. The relationship between Css, Day 56 and the incidence of grade 2 or higher diarrhea (left) and 
+fatigue (right).  Solid black symbols represent the observed proportion of patients experiencing ≥ 
+grade 2 AEs in each quartile of Css, Day56.  The vertical black bars represent the 95% confidence 
+interval.  The solid red line and shaded area represent the predicted mean and 95% confidence 
+interval for the probability of ≥ grade 2 adverse events.  The exposure range in each quartile of Css, 
+Day 56 is denoted by the horizontal black line along with the number of patients with AEs/total 
+number of patients in each quartile. ...................................................................................................12 
+Figure 3. QTc prolongation observed in Study 58 using 300-mg dose; N=231. ........................................13 
+Figure 4. QTc prolongation observed (symbols) in Study 58 using 300-mg dose; N=231. The solid line 
+represents the mean prediction using an Emax model. ......................................................................13 
+Figure 5: Δ QTcF  versus Time in Study 21 ...............................................................................................14 
+Figure 6. Mean plasma concentrations of vandetanib after a single oral dose in malignant tumor patients 
+(A-from Study 1, 85.7% was Caucasian; B- from Study 43, 100% was Japanese). ..........................16 
+Figure 7. Mean plasma concentrations of vandetanib after 28-day multiple oral doses of 300 mg/day (A-
+from Study 1) and 100 to 400 mg/day (B- from Study 43)................................................................17 
+Figure 8:  Proposed metabolic pathways of vandetanib in humans (Sponsor’s figure)..............................20 
+Figure 9. Cmax (Left) and AUC (Right) values of vandetanib after daily administration for 14 days 
+(multiple doses)..................................................................................................................................22 
+Figure 10. Plasma trough concentration profiles of vandetanib (mean ± SD) in Japanese patients during 
+28-day multiple oral doses of 100 to 400 mg/day (Study 43)............................................................22 
+Figure 11.  The fixed effect of body weight on the clearance (left) and central volume of distribution 
+(right) of vandetanib for male (in red) and female (in black).  The body weight quartiles are denoted 
+by the horizontal black line.  The clearance and central volume of distribution are the post-hoc 
+estimates for 231 patients in the pivotal trial Study 58......................................................................24 
+Figure 12. The vandetanib AUC versus the baseline creatinine clearance. The creatinine clearance was 
+estimated using the Cockcroft-Gault equation. ..................................................................................26 
+Figure 13. Estimated plasma vandetanib clearance vs creatinine clearance in patients (N=231) with MTC 
+in the vandetanib arm of Study 58.  The plasma vandetanib clearance is presented in red for females 
+and black blue for males.  The renal function was classified as normal (> 90 mL/min), mild 
+impairment (60-90 mL/min), moderate impairment (30-60 mL/min), and severe impairment (< 30 
+mL/min)..............................................................................................................................................27 
+Figure 14. Box-plots for model-predicted AUCs with a 300 mg oral daily dose (left) and with a 200 mg 
+oral daily dose of vandetanib (right) in patients with moderate renal impairment.  AUCs were based 
+on post-hoc estimates of clearance for patients (N=231) in the vandetanib arm of Study 58.  In 
+patients with mild impairment or normal renal function, the dose of vandetanib is 300 mg oral daily.
+............................................................................................................................................................28 
+Figure 15. The inverse relationship between frem and Vu (frem : the amount of drug in the body removed) 29 
+Figure 16. No effect of baseline total bilirubin on AUC of vandetanib......................................................30 
+Figure 17. Representative concentration-time profiles from four subjects (ID 5, 8, 9, and 14; FDA 
+Analysis). ...........................................................................................................................................43 
+Reference ID: 2874467
+
+
+===== PAGE 7 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+6 
+ 
+1.2 
+CLINICAL PHARMACOLOGY SUMMARY 
+Vandetanib is a receptor tyrosine kinase inhibitor that inhibits VEGFR-2, RET receptor tyrosine 
+kinase, VEGF receptor-3, and epidermal growth factor receptor (EGF) tyrosine kinases. 
+In the pivotal study, the primary endpoint was progression free survival. No clear exposure-
+response relationship for efficacy based on PFS was identified, although 
+ beat 
+placebo. Significant exposure-response relationships were identified for diarrhea and fatigue, but 
+not for hypertension or rash.  
+Substantial and sustained QTc prolongation was observed. The QTc prolongation is 
+concentration-dependant. Based on the exposure-response relationship, the expected mean (90% 
+CI) ∆QTcF at a dose of 300 mg was 35 (33-36) ms.  
+The applicant has conducted several phase 1 studies in healthy volunteers and patients with 
+malignant tumors to evaluate the safety and pharmacokinetics of vandetanib. The Tmax of 
+vandetanib occurs 6 hours (range 4-10 hours) after the dose. The PK of vandetanib is linear over 
+the range of 100 – 600 mg once daily dosing. A high-fat meal did not change the vandetanib 
+exposure. 
+In the pivotal study, the clearance was 13 L/h, volume of distribution was 7450 L, and half-life 
+was 19 days. There was high inter-individual variability. Vandetanib is 94% bound to human 
+serum albumin and α1-acid-glycoprotein. Two metabolites – N-desmethyl vandetanib (active) 
+and N-oxide vandetanib (inactive) - were identified in plasma, urine and feces. N-desmethyl 
+vandetanib, which is produced by CYP3A4, is present at concentrations between 7 and 17% of 
+vandetanib. N-desmethyl and N-oxide vandetanib have the potential to prolong QTc based on the 
+human ether-a-go-go gene (hERG) assay with IC50 values that were 3- and 10-fold greater, 
+respectively than that for vandetanib.  
+There was no clinically significant effect on exposure to vandetanib in the presence of the potent 
+CYP3A4 inhibitor itraconazole in healthy volunteers. However, the potent CYP3A4 inducer 
+rifampicin reduced exposure to vandetanib by 48% but increased exposure to the active N-
+desmethyl metabolite. Therefore, the effect of CYP3A4 inducers on the QTc effect is unclear. 
+Patients receiving vandetanib should avoid the use of potent inducers of CYP3A4.  After 
+administration of radio-labeled vandetanib in healthy male subjects, both urine (25%) and fecal 
+(44%) excretion are the major routes of elimination of vandetanib. Data from a single dose 
+pharmacokinetic study in healthy volunteers with renal impairment resulted in a 40% increase in 
+the mean AUC of vandetanib in patients with moderate and severe renal impairment. Also, 
+higher proportions of patients with ΔQTc > 60 ms, or QTc > 480 ms or QTc > 500 ms were 
+observed in patients with mild to moderate renal impairment as compared to patients with 
+normal renal function in the pivotal study. A dose reduction to 200 mg for patients with 
+moderate and severe renal impairment is recommended.  
+Single dose pharmacokinetic data from healthy volunteers with hepatic impairment suggests that 
+there were no differences in pharmacokinetics compared to subjects with normal hepatic 
+function. There is limited data in patients with hepatic impairment (serum bilirubin greater than 
+1.5 times the upper limit of normal). 
+ is not recommended for use in patients with 
+hepatic impairment, as safety and efficacy have not been established.  
+Reference ID: 2874467
+(b) (4)
+(b) (4)
+
+
+===== PAGE 16 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+15 
+2241 ng/mL). Since free drug in plasma is 6% of the total drug (see 2.2.5.4), the free drug 
+concentration is about 51 ng/mL (≡ ~100 nM), which is higher than IC50 for VEGFR2 inhibition, 
+similar to IC50 for RET receptor and VEGFR-3 inhibition, and lower than IC50 for EGFR 
+inhibition. 
+ 
+The sponsor selected 300 mg daily dose to maximize the efficacy. However, at the expense of 
+efficacy, patients in vandetanib arm experienced serious adverse events. 
+ 
+2.2.5 Pharmacokinetic characteristics of the drug and its major metabolites 
+2.2.5.1 What are the single dose and multiple dose PK parameters?  
+Single dose 
+The single dose PK data of vandetanib in malignant tumor patients were found in Study 1, 4, 43, 
+and 50. Study 1, 4, and 43 were phase 1, dose escalation study conducted in U.S. and Australia 
+(Study 1, 50 - 600 mg QD), in Japan (Study 43, 100 - 400 mg QD), and in China (Study 4, 100 
+mg QOD - 300 mg QD). The drug was given orally as a single dose and when given daily until 
+tumor progression. Study 50 is a phase 1, randomized study to assess the effect of vandetanib on 
+vascular permeability in patients with advanced colorectal cancer and liver metastases. Table 6 
+shows the single dose PK parameters following 300-mg dose of vandetanib. 
+Table 6. Single dose PK parameters following 300-mg dose of vandetanib in different studies. 
+  
+Study 1 
+Study 43 
+Study 4 
+Study 50 
+Study  
+Dose rising 
+Dose rising 
+Dose rising 
+PK/PD for permeability 
+Subjects 
+Malignant tumors 
+Malignant 
+tumors 
+Malignant tumors 
+Colorectal cancer and  
+liver metastases 
+Race 
+Caucasian 85.7% 
+Black 6.5% 
+Asian 2.6% 
+Other 5.2% 
+Japanese 
+Chinese 
+Caucasian 
+Formulation  
+Phase I formulation 
+Phase I 
+formulation 
+Commercial 
+ (100 mg X 3) 
+Commercial  
+(300 mg x 1) 
+Sampling 
+dense 
+dense 
+dense 
+dense 
+Food 
+intake 
+fast from midnight 
+feed (before 
+breakfast)  
+no restriction 
+not shown 
+N 
+6-8 
+5-6 
+12 
+12 
+Tmax (Median, 
+(range)), h 
+7.5 (4-24) 
+5 (4-6) 
+8 (2-10) 
+4 (4 - 24) 
+Cmax (Gmean) 
+ng/mL (CV%) 
+213 (40.4) 
+392 (50.5) 
+330 (70.0) 
+269 (53.7) 
+T1/2     
+109 ±  29.8 h 
+90.2 ± 13.7   
+h 
+⎯ 
+⎯ 
+AUC, 
+ng⋅h/mL (CV%) 
+13929a  (98.84) 
+29400b (40.1) 
+⎯ 
+⎯ 
+AUC0-24h, 
+ng⋅h/mL (CV%) 
+3019 (43.6) 
+5580 (44.4) 
+5643 (58.8) 
+4913  (55.5) 
+a: 50% of AUC was extrapolated; b: 40% of AUC was extrapolated; 
+  ⎯: values are not reported 
+ 
+In Study 1, following a single dose of vandetanib, absorption was slow, with median tmax times 
+across the doses ranging from 4 to 7.5 hours (Figure 6); individual patients had a prolonged 
+absorption phase with a Cmax occurring as late as 24 hours after dosing. Following the peak, 
+Reference ID: 2874467
+
+
+===== PAGE 17 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+16 
+plasma concentrations declined very slowly, such that by Day 7 post dose, levels had only fallen 
+between one-third and one-half of the Cmax. Because up to 50% of the total AUC was 
+extrapolated beyond Day 7, the exact terminal half-life is unknown.  
+A
+B
+A
+B
+Figure 6. Mean plasma concentrations of vandetanib after a single oral dose in malignant tumor 
+patients (A-from Study 1, 85.7% was Caucasian; B- from Study 43, 100% was Japanese).  
+ 
+Following single, oral doses of vandetanib ranging between 300 mg to 1200 mg in healthy 
+volunteers, less than 5% of the dose was excreted in the urine as unchanged vandetanib over the 
+first 72 hours post-dose. The geometric mean CLR ranged from 0.89 L/h to 1.60 L/h (Study 12). 
+ 
+Multiple doses 
+Table 7 shows the multiple dose PK parameters in patients following 300-mg dose of 
+vandetanib. The accumulation index showed a median value of about 5-fold (range 3- to 10-fold) 
+for 300 mg once-daily dosing on Day 29. Mean plasma concentrations of vandetanib after 28 day 
+multiple doses are shown in Figure 7.  
+ 
+Table 7. Multiple dose PK parameters in patients following 300-mg dose of vandetanib in 
+different studies 
+  
+Study 1 
+Study 43 
+Study 4 
+Study 50 
+Race 
+Caucasian 85.7% 
+Black 6.5% 
+Asian 2.6% 
+Other 5.2% 
+Japanese 
+Chinese 
+Caucasian 
+N 
+9-10 (Day 29) 
+3 (Day 29) 
+7 (Day 43) 
+7 (Day 56) 
+Tmax (Median, range), h 
+5 (0-24) 
+6 
+4 (0-24) 
+4 (4 - 24) 
+Cmax (Gmean), ng/mL 
+(CV%) 
+919.8 (60.70) 
+1580 (19.1) 
+2024 (39.1) 
+853 (38.5) 
+T1/2, day  
+⎯ 
+⎯ 
+7.6 ± 1.76a 
+⎯ 
+AUC0-24h,  
+ng⋅h/mL (CV%) 
+17926 (58.35) 
+29900 (15.4) 
+38611 (38.4) 
+18260 (41.4)  
+Accumulation 
+5 (3-10) 
+5.3 (4.1-6.5) 
+8.1 
+4.5 (3.2-8.4) 
+adata from population PK analysis;  ⎯: values are not reported 
+ 
+Reference ID: 2874467
+
+
+===== PAGE 19 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+18 
+ 
+Table 8. Single dose PK parameters of 300-mg vandetanib in healthy volunteers 
+  
+Study 12 
+Study 15 
+Study 24 
+Study 26 
+Study 30  
+Study  
+Dose rising 
+DDI with 
+itraconazole 
+Food effect  
+(fast/fed) 
+DDI with 
+rifampicin 
+Relative BA 
+Subject 
+HV 
+HV 
+HV 
+HV 
+HV 
+Race 
+Caucasian 
+Caucasian 
+Caucasian 
+Caucasian 
+Caucasian 
+Formulation  
+Phase I 
+formulation 
+commercial 
+commercial 
+commercial 
+commercial 
+Sampling 
+dense 
+dense 
+dense 
+dense 
+dense 
+Food  
+intake 
+fast from 
+midnight 
+fast from 8 
+hours before 
+fast from midnight/ 
+30 min after meal 
+not shown 
+fast from 
+midnight 
+N 
+6 
+14 
+15 
+12-13 
+10 
+Tmax  
+(Median, 
+range), h 
+6 (4-8) 
+5 (4-7) 
+6 (5-18)/8 (3-18) 
+6 (3-10) 
+8 (6 -18) 
+Cmax (Gmean), 
+ng/mL (CV%) 
+130 (27.9) 
+194 (33.5) 
+131 (29.4)/117(30.9) 
+170 (23.3) 
+184 (29.4) 
+T1/2 (h) (CV%) 
+204 (14.0) 
+208 (31.0) 
+204 (20.1) /215 (20.0)  
+218 (37.1) 
+228 (18.4) 
+AUC, 
+ng⋅h/mL (CV%) 
+22030 
+(8.42) 
+28314 (19.8) 
+20880 (18.6)/20860 
+(19.9) 
+28450 (30.2) 
+34530 (23.0) 
+AUC0-t, 
+ng⋅h/mL (CV%) 
+2170 (24ha) 
+(22.0) 
+22449 (504ha) 
+(19.9) 
+5437 (21.4)/ 5313 (22.8) 
+(72ha) 
+23010 (504ha) 
+(22.5) 
+31560 (864ha) 
+(22.5) 
+a:last sampling time point 
+ 
+Mean Cmax values from healthy volunteers in different studies (Table 8) appear consistently 
+lower than the values in cancer patients (Table 6). Mean AUC0-24 in healthy volunteers (2170 
+ng⋅h/mL) was also lower than AUC0-24 in patients. Multiple dose data were not obtained from the 
+healthy volunteers.  
+N-desmethyl vandetanib and vandetanib-N-oxide were measured in healthy volunteers (Study 16, 
+22, and 26; Table 9) and NSCLC patients (Study 57), but not in MTC patients.  
+Table 9. The percent exposure to N-desmethyl vandetanib and vandetanib-N-oxide relative to 
+that to vandetanib. 
+  
+Study 16 
+Study 22 
+ 
+Study 26 
+ 
+Study  57 
+Study,  
+Dose  
+Hepatic imp, 
+800 mg 
+Renal imp, 
+800 mg 
+DDI with rifampicin, 
+300 mg 
+Phase 3 in NSCLC, 
+300 mg 
+N-desmethyl/ 
+parent 
+8% 
+10% 
+7% 
+ 
+17.1% 
+N-oxide/ 
+parent 
+1.40% 
+1.50% 
+1.80% 
+ 
+2.2% 
+ 
+The appearance and subsequent disposition of N-desmethyl-vandetanib and vandetanib-N-oxide 
+was similar to vandetanib. The apparent half-lives of N-desmethyl-vandetanib and vandetanib-
+N-oxide were similar to that for vandetanib itself, suggesting formation-rate limited metabolism.  
+ 
+2.2.5.3 What are the characteristics of drug absorption?   
+Following oral administration of vandetanib absorption is slow with peak plasma concentration 
+achieved at a median of 6 hours, range 4 to 10 hours after dosing.  
+Reference ID: 2874467
+
+
+===== PAGE 22 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+21 
+(Study KMX038) and to an N-oxide metabolite by FMO1 and FMO3 (Study KMX046). A 
+human ADME study (Study 25) indicated that vandetanib was eliminated unchanged, as an N-
+desmethyl metabolite, as an N-oxide metabolite, and as a glucuronide. In this study, it was not 
+possible to quantify the metabolites due to the long half-life of vandetanib and the radioactive 
+dose.  
+Metabolism of vandetanib by UGT was very limited with the formation of two minor metabolites 
+(Study KMN091). Metabolite 1 formation was catalyzed by UGT1A1, 1A3, and 1A9 and 
+metabolite 2 formation was catalyzed by UGT1A4 and 2B4.  
+ 
+The levels of radioactivity in plasma, urine and feces were very low and did not allow the use of 
+standard methods for metabolite profiling based on radioactivity detection. However, qualitative 
+analysis was carried out by HPLC-MS on a single quadrupole Micromass ZQ mass spectrometer. 
+Unchanged vandetanib and 2 known metabolites (vandetanib N-oxide and N-desmethyl 
+vandetanib) were detected in plasma. The same metabolites were found in both urine and feces, 
+where an additional minor metabolite was also present. This was shown by mass spectroscopy to 
+be a glucuronide conjugate of vandetanib.  
+ 
+Thin layer chromatography (TLC) of the fecal extract showed that there were 2 major 
+component; vandetanib and N-desmethyl vandetanib in the ratio 5:1. The N-oxide of vandetanib 
+was only detected in 1 sample, the 3-9 day sample from one subject. Vandetanib glucuronide 
+was not detected using TLC, suggesting that it is a minor metabolite which is only detectable by 
+the more sensitive technique of mass spectrometry (MS). The results of the analysis are 
+summarized in Table 11. 
+Table 11. Summary of the metabolites identified following HPLC-MS analysis of plasma, urine, 
+and fecal extract (N=4). 
+  
+Time 
+(hr) 
+Vandetanib 
+N-desmethyl 
+N-oxide 
+Vandetanib-glucuronide 
+Plasma 
+ 
+6, 24 
+9 
+9 
+9 
+Not detected 
+Urine 
+0-3 
+3-9 
+9-15 
+15-21 
+9 
+9 
+9 
+9 (trace amount) 
+Feces 
+ 
+0-3 
+3-9 
+9-15 
+15-21 
+9 
+9 
+9 
+9 (trace amount) 
+ 
+2.2.5.7 What are the characteristics of drug excretion?  
+Both urine and fecal excretion are the major routes of elimination of vandetanib. In the human 
+ADME study (Study 25), 44.1 ± 11.5 % and 25.2 ± 3.2 % of the administered radioactive dose 
+(800 mg 14C-vandetanib) were recovered in feces and urine, respectively. 
+Population PK analysis showed that vandetanib has a long half-life (~19 days) and an apparent 
+oral clearance of ~ 13.2 L/h in MTC patients (Study 58).  
+ 
+Reference ID: 2874467
+
+
+===== PAGE 23 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+22 
+2.2.5.8 Based on PK parameters, what is the degree of linearity or non-linearity based in 
+the dose-concentration relationship?  
+The PK of vandetanib is linear between 50 to 600 mg single dose, and 50 to 300 mg daily dose in 
+cancer patients.  
+0
+200
+400
+600
+800
+1000
+1200
+1400
+0
+50
+100
+150
+200
+250
+300
+350
+Dose ( mg)
+0
+5000
+10000
+15000
+20000
+25000
+30000
+0
+50
+100
+150
+200
+250
+300
+350
+Dose (mg)
+AUC0-24 (ng.h/mL)
+Figure 9. Cmax (Left) and AUC (Right) values of vandetanib after daily administration for 
+14 days (multiple doses).   
+ 
+Following single, oral doses of vandetanib of 300 mg to 1200 mg in healthy volunteers, mean 
+AUC and Cmax both increased with dose in a dose-proportional manner and, at each dose level. 
+Oral clearance of vandetanib appeared to be independent of dose. 
+ 
+2.2.5.9 How do the PK parameters change with time following chronic dosing?   
+After multiple daily doses, the AUC and Cmax of vandetanib increased and achievement of steady 
+state exposure to vandetanib on once-daily dosing required a minimum of 95 days of dosing.  
+ 
+Figure 10. Plasma trough concentration profiles of vandetanib (mean ± SD) in Japanese patients 
+during 28-day multiple oral doses of 100 to 400 mg/day (Study 43) 
+ 
+Please see Section 2.2.5.1 for more information on the pharmacokinetics of vandetanib following 
+multiple doses. 
+Reference ID: 2874467
+
+
+===== PAGE 24 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+23 
+ 
+2.2.5.10 What is the inter- and intra-subject variability of PK parameters in volunteers and 
+patients, and what are the major causes of variability?  
+In healthy subjects the inter-subject variability (CV%) for AUC ranged from 8.4% to 25.8%, 
+with a similar CV range for Cmax.  The observed within-subject variability (CV%) of the primary 
+PK parameters was within 20% for AUC and within 10% for Cmax.  In patients with cancer 
+patients there was a higher inter-subject variability compared to healthy subjects in CV% of 40% 
+to 77% for Cmax and 57.44% to 175.9% % for AUC at a single dose, and 60.7% for Cmax and 
+58.4% for AUC at Day 29 in Study 1.  
+Vandetanib is metabolized by CYP3A4, FMO1 and FMO3, and UGTs (minor). The expression 
+of CYP3A4 is known to be highly variable between individuals (Forrester et al., 1992). FMO1 is 
+known to be polymorphic and could account for up to a 2- to 3-fold decrease in FMO1 
+expression. The expression of FMO1 and FMO3 is also known to be highly variable between 
+individuals.  
+2.3 
+INTRINSIC FACTORS 
+2.3.1 What intrinsic factors (age, gender, race, weight, height, disease, genetic 
+polymorphism, pregnancy, and organ dysfunction) influence exposure (PK usually) 
+and/or response, and what is the impact of any differences in exposure on efficacy or 
+safety responses?  
+Race  
+The PK of vandetanib in the phase 1 dose escalation studies conducted in US and Australia 
+(Study 01), Japanese (Study 43), and Chinese (Study 4) patients with solid tumors were 
+evaluated using a non-compartmental analysis approach. Based on a cross-study comparison in a 
+limited number of patients, Japanese and Chinese patients had on average exposures that were up 
+to two-fold higher than other patients receiving the same dose, following single (Table 6) and 
+multiple (Table 7) doses of vandetanib.  In the pivotal trial, no conclusion could be reached on 
+the effect of race on PK, as 95% of the patients were Caucasians. 
+ 
+Weight 
+The body weight was included as a significant covariate for clearance and central volume of 
+distribution (Figure 11) in the final population PK model. The inclusion of the covariates 
+resulted in a decrease in the inter-individual variability in the clearance, central and total volume 
+of distribution from 32.9, 54.9, and 106% to 30.9, 52.0, and 101%, respectively. However, given 
+a narrow range of BSA (1.2–2.5 m2) and small magnitudes of decrease of inter-individual 
+variability in the final model, the reviewer agrees to the applicant’s conclusion that the effects of 
+body weight are not clinically important.  
+ 
+ 
+Reference ID: 2874467
+
+
+===== PAGE 26 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+25 
+2.3.2.2 Renal impairment 
+Dedicated study 
+A study (Study 22) was conducted in healthy subjects with normal function (N = 10; estimated 
+creatinine clearance >80 mL/min), mild (N = 6; ≥50 to ≤80 mL/min), moderate (N = 8; ≥30 to 
+<50 mL/min) and severe renal impairment (N = 6; <30 mL/min) according to their creatinine 
+clearance at screening, estimated using the Cockcroft-Gault equation. All subjects received a 
+single 800 mg dose of vandetanib. AUC was modeled using linear regression, fitting measured 
+creatinine clearance as a variable. The creatinine clearance values of 10, 30, 50, and 125 mL/min 
+were used in the applicant’s calculations to represent the severe, moderate, mild, and normal 
+groups, respectively (Table 13). These are extreme values and do not represent the mean 
+creatinine clearance of each group in this study (23.0, 39.6, 62.4, and 98.9 mL/min in severe, 
+moderate, mild and normal group, respectively). Therefore, the reviewer re-analyzed the data 
+(Table 14).  
+ 
+Table 13. Creatinine clearance values used for grouping, actual mean creatinine clearances in 
+each renal function group, and the values used in the applicant’s AUC calculation.  
+creatinine clearance (mL/min) 
+group 
+grouping based on creatinine 
+clearance 
+actual mean values in 
+each group (range) 
+applicant’s values used for 
+AUC calculation 
+normal 
+> 80 
+98.9 (83-128.8) 
+125 
+mild 
+≥50 to ≤80 
+62.4 (54.1-69.9) 
+50 
+moderat
+e 
+≥30 to <50 
+39.6 (30.4-49.5) 
+30 
+severe 
+<30 
+23.0 (18.6-27.9) 
+10 
+ 
+There was no significant effect of renal function on the Cmax; in addition there was no apparent 
+difference in the time to Cmax observed in any of the subject groups with renal impairment. For 
+the moderate and severe renal impairment groups there were significant increases in AUC of 
+39% and 41%, respectively (Table 14). Mean CL/F for vandetanib was slower in subjects with 
+mild, moderate and severe renal impairment compared to in subjects with normal renal function 
+(Table 14). Figure 12 shows the AUC of vandetanib versus the calculated creatinine clearance.  
+ 
+Table 14.  Geometric mean ratio for Cmax and AUC of total vandetanib in healthy subjects and 
+subjects with renal impairment (N: Normal = 10, Mild = 6, Moderate = 8, Severe = 6). 
+ 
+Mild/Normal 
+Moderate/Normal 
+Severe/Normal 
+Cmax  
+1.02 
+1.18 
+0.93 
+AUC  
+1.14 
+1.39 
+1.41 
+CL/F  
+0.88 
+0.72 
+0.71 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 2874467
+
+
+===== PAGE 27 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+26 
+40000
+60000
+80000
+100000
+120000
+20
+40
+60
+80
+100
+120
+Creatinine Clearance (mL/min)
+AUC (ng.h/mL)
+40000
+60000
+80000
+100000
+120000
+20
+40
+60
+80
+100
+120
+Creatinine Clearance (mL/min)
+AUC (ng.h/mL)
+ 
+Figure 12. The vandetanib AUC versus the baseline creatinine clearance. The creatinine 
+clearance was estimated using the Cockcroft-Gault equation. 
+ 
+There was no apparent difference in the volume of distribution of vandetanib. Plasma protein 
+binding assessed ex vivo in subjects with normal renal function was 94%, and this was unaltered 
+in subjects with renal impairment. 
+ 
+Exposure to the N-desmethyl and N-oxide metabolites increased in subjects with renal 
+impairment, by up to 2-fold and 4-fold respectively in subjects with severe renal impairment. 
+This increased exposure may be a consequence of a shift to an increased metabolic clearance of 
+vandetanib, which compensates for some of the reduced intrinsic clearance due to renal 
+impairment. It may also be due to the fact that renal impairment also compromises the intrinsic 
+clearance, as both metabolites have been shown to be eliminated by the renal route.  
+In conclusion, a dose reduction to 200 mg for patients with moderate and severe hepatic 
+impairment is recommended.  
+ 
+Population PK analysis 
+Population pharmacokinetic analysis of the pivotal trial also supports the conclusion of the 
+dedicated study. Clearance in each patient in the pivotal trial was estimated using population 
+pharmacokinetic modeling. Clearance values in patients with moderate renal impairment were 
+lower compared to the ones in patients with normal renal function or mild renal impairment 
+(Figure 13). In this study, patients with severe renal impairment were excluded. 
+Reference ID: 2874467
+
+
+===== PAGE 28 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+27 
+Creatinine Clearance (mL/min)
+CL(L/h)
+0
+50
+100
+150
+200
+5
+10
+15
+20
+25
+30
+30
+60
+90
+Severe
+Moderate
+Mild
+Normal
+Male
+Female
+ 
+Figure 13. Estimated plasma vandetanib clearance vs creatinine clearance in patients 
+(N=231) with MTC in the vandetanib arm of Study 58.  The plasma vandetanib clearance 
+is presented in red for females and black blue for males.  The renal function was 
+classified as normal (> 90 mL/min), mild impairment (60-90 mL/min), moderate 
+impairment (30-60 mL/min), and severe impairment (< 30 mL/min).   
+ 
+ 
+Using the estimated clearance, the steady state AUCs following 300 mg daily dose were 
+calculated, and shown in the left panel of Figure 14. When 200 mg daily dose is given to the 
+patients with moderate renal impairment, the AUCs in these patients will become similar as 
+those with normal renal function (Figure 14, right).  No dose reduction is needed for patients 
+with mild renal impairment.  
+ 
+ 
+ 
+ 
+ 
+10000
+20000
+30000
+40000
+50000
+Moderate
+Mild
+Normal
+Renal function
+AUC(ng/mL*h)
+10000
+20000
+30000
+40000
+50000
+Moderate
+Mild
+Normal
+Renal function
+AUC(ng/mL*h)
+Reference ID: 2874467
+
+
+===== PAGE 29 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+28 
+Figure 14. Box-plots for model-predicted AUCs with a 300 mg oral daily dose (left) and with a 
+200 mg oral daily dose of vandetanib (right) in patients with moderate renal impairment.  AUCs 
+were based on post-hoc estimates of clearance for patients (N=231) in the vandetanib arm of 
+Study 58.  In patients with mild impairment or normal renal function, the dose of vandetanib is 
+300 mg oral daily.   
+ 
+QT data also support a dose reduction in patients with renal impairment. A higher proportion of 
+patients with ΔQTcF > 60 ms, or QTcF > 480 ms or QTcF > 500 ms was observed in patients 
+with mild to moderate renal impairment as compared to patients with normal renal functions 
+(Table 15). 
+Table 15. Categorical analysis for ∆QTcF and QTcF based on renal function 
+ 
+N 
+∆QTcF >60 (ms) 
+QTcF >480 (ms) 
+QTcF >500 (ms) 
+Normal 
+(CRCL ≥ 80) 
+167 
+57 (34.1 %) 
+25 (15 %) 
+6 (3.6 %) 
+Mild 
+(50 ≥ CRCL < 80) 
+56 
+21 (37.5 %) 
+12 (21.4 %) 
+ 3 (5.4 %) 
+Moderate 
+(30 ≥ CRCL < 50) 
+7 
+4 (57.1 %) 
+2 (28.6 %) 
+1 (14.3 %) 
+ 
+Dialysis 
+On 05 November 2010, the FDA sent the following request for information to the sponsor: 
+We are concerned that the prolonged half-life of vandetanib may make the treatment of 
+patients with marked prolongations in their QTc interval difficult. Please develop a plan to 
+assess the ability to remove vandetanib, through hemodialysis, etc., from the patient's 
+circulation. Please provide a timeline for development and completion of this plan (in vitro, in 
+vivo, or patient testing, as needed) within 2 weeks. 
+ 
+The sponsor’s response to the request is as follows: 
+It is AstraZeneca’s belief that dialysis would not be an effective or rapid means of removing vandetanib 
+from patients’ circulation. 
+ 
+Based on the pharmacokinetic properties of vandetanib (protein binding of 90% and volume of 
+distribution of 7450L) and estimating the fraction of drug that could be dialyzed using the method 
+evaluated by Tang and Mayersohn 2004 (AAPS poster abstract), we estimate that approximately 0.05% 
+of the drug would be removed in a 6‐hour dialysis session. 
+ 
+Substituting into the formula 1/Fr = 1.3Vu + 2.14, where Vu is (7450L/50 kg)/ 
+0.10 and simplifying Fr = 0.05%. 
+  
+When using this formula for drugs that are reliably removed by hemodialysis a value for Fr is typically > 
+30%. Based on the value obtained from this predictive formula, we conclude that there is no additional 
+benefit to experimentally determining (either non‐clinically or clinically) whether vandetanib clearance 
+can be increased from the circulation by hemodialysis. Other methods of removal of drug from the 
+circulation, such as hemoperfusion, would also be predicted to be ineffective. 
+ 
+Reference ID: 2874467
+
+
+===== PAGE 30 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+29 
+Reviewer’s comments 
+The formula was derived in another abstract (Tang and Mayersohn, 2004 AAPS poster abstract). 
+The formula 1/Fr = 1.3Vu + 2.14 was obtained from the data of 20 drugs which have Vu (L/kg) 
+values ranged from 0 to ~22 (Figure 15). However, Vu of vandetanib is much larger (1064 L/kg).  
+ 
+ 
+ 
+Figure 15. The inverse relationship between frem and Vu (frem : the amount of drug in the body 
+removed) 
+ 
+To decide the appropriateness of this extrapolation, the reviewer searched literature data. A drug 
+with a large volume of distribution is distributed widely throughout tissues and is present in 
+relatively small amounts in the blood. Drugs with a high degree of protein binding will have a 
+small plasma concentration of unbound drug available for dialysis. Therefore, given that high 
+volume of distribution, long half-life, and high protein binding of vandetanib, it is concluded that 
+in vivo dialysis of vandetanib is unlikely to be successful.  
+References 
+1. 
+Johnson and Simmons, 2000 Dialysis of drugs. Nephrology Pharmacy Associates, Inc. 
+2. 
+Tomita et al, 2004. Clin Pharmacokinet 43 (8): 515-527 
+3. 
+John Francis Maher, 1989. Replacement of renal function by dialysis  
+ 
+2.3.2.3 Hepatic impairment 
+Dedicated study 
+A study (study 16) was conducted in healthy subjects (N = 5) and subjects with mild (N = 8), 
+moderate (N = 7) and severe renal impairment (N = 6) were included. All subjects received a 
+single 800 mg dose of vandetanib. The subjects were classified using the Child-Pugh system. 
+There was no significant effect of hepatic function on the Cmax and AUC (Table 16). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 2874467
+
+
+===== PAGE 31 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+30 
+Table 16 .  Mean ratio for Cmax and AUC in healthy subjects and subjects with hepatic 
+impairment  
+ 
+Mild/Normal 
+Moderate/Normal 
+Severe/Normal 
+Cmax  
+0.868 
+0.909 
+0.709 
+AUC  
+1.04 
+0.943 
+0.930 
+CL/F 
+0.96 
+1.06 
+1.08 
+ 
+ 
+Exposure to the N-desmethyl metabolite decreased (~2-fold to 6-fold) in subjects with hepatic 
+impairment; an increase in the exposure to the N-oxide metabolite was observed (~2-fold) only 
+in subjects with severe hepatic impairment. 
+ 
+0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+80000
+90000
+0
+20
+40
+60
+80
+100
+120
+total bilirubin (μmol/L)
+AUC (ng.h/mL)
+ 
+Figure 16. No effect of baseline total bilirubin on AUC of vandetanib 
+ 
+ 
+Reviewer’s comment 
+• In the applicant’s proposed label, 
+ is not recommended for use in patients 
+with hepatic impairment, even though dedicated hepatic impairment study showed no 
+difference in AUC and Cmax between subjects with hepatic impairment and subject with 
+normal hepatic function. Therefore, Information Request was sent on September 10, 2010 
+and September 24, 2010 to ask the sponsor’s justification. The applicant’s response is as 
+follows:  
+ 
+There is limited data in cancer patients with liver impairment (serum bilirubin greater than 1.5 
+times the upper limit of normal). Vandetanib is not recommended for use in patients with 
+hepatic impairment, as safety and efficacy have not been established. 
+ 
+We would be willing to discuss specific labeling statements to provide further guidance to 
+patients, given our finding in the volunteer study that PK are not affected by hepatic impairment.  
+ 
+Reference ID: 2874467
+(b) (4)
+
+
+===== PAGE 37 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+36 
+2.4.2.7 Are there any in vivo drug-drug interaction studies that indicate the exposure 
+alone and/or exposure-response relationships are different when drugs are co-
+administered? 
+Vandetanib is a substrate of CYP3A4. Absorption and elimination of vandetanib may be 
+influenced by drugs which inhibit or induce CYP3A4. Below in Table 20 is an outline of all the 
+drug-drug interaction studies conducted.  
+Table 20. Drug-Drug interaction studies 
+Study 
+CYP450 
+Patient 
+Results 
+itraconazole 
+3A4 strong inhibitor 
+healthy volunteers 
+vandetanib: AUC ↑14%; 
+Cmax ↔   
+rifampin 
+3A4 strong inducer 
+healthy volunteers 
+vandetanib: AUC ↓ 
+48%; Cmax ↔ 
+ondansetron 
+3A4 substrate 
+healthy volunteers 
+ 
+vandetanib: AUC ↔; 
+Cmax ↔ 
+pemetrexed 
+oncology co-med 
+NSCLC 
+vandetanib: AUC  ↔; 
+Cmax ↔ 
+pemetrexed: AUC  ↔; 
+Cmax ↔ 
+docetaxel 
+oncology co-med 
+3A4 substrate 
+NSCLC 
+vandetanib: AUC ↓15%; 
+Cmax↓17% 
+docetaxel: AUC ↔; 
+Cmax↑14% 
+FOLFIRI 
+(Irinotecan, 5-
+FU, and 
+leucovorin) 
+oncology co-med   
+Metastatic colorectal 
+adenocarcinoma 
+combination not 
+relavant to current NDA 
+not reviewed 
+ 
+CYP3A4 inhibitor- Intraconazole 
+The effect of itraconazole, a potent CYP3A4 inhibitor on vandetanib PK was investigated in 
+Study 15. In the August 3, 2006 correspondence, the Agency agreed that only itraconazole will 
+be used as the inhibitor in CYP3A4 inhibition study. In the package insert, dosage 
+recommendations for itraconazole vary (100-400 mg/day) according to the infection treated. In 
+this study, a dose of 200 mg itraconazole daily for 24 days was to be administered to ensure 
+complete inhibition of CYP3A4 over the period of time that characterizes 80% of the AUC of 
+vandetanib under monotherapy conditions, i.e., 504 hours. According to the FDA drug-drug 
+interaction guidance, the study design and choice of CYP3A4 inhibitor appear appropriate. 
+Vandetanib pharmacokinetic parameters were determined following a single oral dose of 
+vandetanib 300 mg on Day 4 administered alone and in combination with oral itraconazole 200 
+mg once daily for 24 days in 14 healthy subjects. 
+Reference ID: 2874467
+
+
+===== PAGE 38 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+37 
+ 
+Table 21. Effect of itraconazole on the vandetanib PK 
+PK 
+parameter 
+ 
+Vandetanib 
+Vandetanib
++ 
+Itraconazole 
+Ratio 
+(90% CI) 
+GMean 
+22449 
+24490 
+AUC0-504h 
+(ng.h/mL) 
+CV(%) 
+19.89 
+20.86 
+1.09 
+(1.01-1.20) 
+GMean 
+27314 
+31690 
+AUCinf 
+(ng.h/mL) 
+CV(%) 
+19.80 
+23.42 
+1.16 
+(1.08-1.26) 
+GMean 
+193.7 
+189.1 
+Cmax 
+(ng/mL) 
+CV(%) 
+33.48 
+40.73 
+0.94 
+(0.82-1.15) 
+Median 
+5 
+5 
+Tmax (h) 
+Range 
+4 - 7 
+3 - 12 
+1 
+GMean 
+208.1 
+235.5 
+T1/2 (h) 
+CV(%) 
+30.96 
+19.39 
+1.13 
+GMean 
+10.98 
+9.467 
+CL/F (L/h) 
+CV(%) 
+20.08 
+23.42 
+0.86 
+(0.81-0.93) 
+GMean 
+3030 
+3115 
+1.03 
+Vss/F (L) 
+CV(%) 
+28.49 
+22.23 
+(0.96-1.14) 
+ 
+There was little difference in the mean Cmax following vandetanib alone compared with 
+vandetanib plus itraconazole (Table 21). Mean AUC0-504h and AUC both increased in the 
+presence of itraconazole, although the increases were both small (9% and 16%, respectively). 
+Mean t1/2 showed a 12.6% increase in the presence of itraconazole compared with vandetanib 
+alone (235.5 hours and 209.2 hours, respectively) and mean CL/F showed a 12% reduction in the 
+presence of itraconazole compared with vandetanib alone (9.467 L/h and 10.77 L/h, 
+respectively). There was little difference in vandetanib Vss/F between the 2 treatments. 
+ 
+Six volunteers reported AEs; 5 (2 Abdominal pain, 1 Bronchitis, 1 Nasopharyngitis, 1 Tooth 
+abscess) were receiving vandetanib alone and 1 (Nasopharyngitis) was receiving vandetanib plus 
+itraconazole. No events were serious or led to discontinuation. One event (moderate abdominal 
+pain) was considered by the investigator to be related to vandetanib and itraconazole treatment 
+although the event was reported during Period 1 when the volunteer was receiving vandetanib 
+alone. The mean QTcF increase at each time point was <15 ms.  
+ 
+In conclusion, no clinically relevant PK interaction was shown between vandetanib and 
+itraconazole.  
+ 
+CYP3A4 induction- Rifampicin 
+The effect of rifampicin, a potent CYP3A4 inducer on vandetanib PK was investigated in Study 
+26. According to the FDA drug-drug interaction guidance, the study design and choice of 
+CYP3A4 inducer are appropriate. This cross-over study was completed using steady state 
+administration of rifampicin 600 mg (daily for 31 days) and a single dose of vandetanib on Day 
+10 in 16 healthy subjects. The PK parameters were obtained from 12 subjects.  
+Reference ID: 2874467
+
+
+===== PAGE 39 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+38 
+ 
+Table 22. Effect of rifampicin on the vandetanib PK 
+PK 
+parameter 
+ 
+Vandetanib 
+Vandetanib
++ 
+Rifampicin 
+Ratio  
+(90% CI) 
+GMean 
+23005 
+14136 
+AUC0-504h 
+(ng.h/mL) 
+CV(%) 
+22.50 
+16.00 
+0.59 
+(0.56-0.63) 
+GMean 
+28452 
+14895 
+AUCinf 
+(ng.h/mL) 
+CV(%) 
+30.20 
+18.10 
+0.52 
+(0.48-0.56) 
+GMean 
+170.2 
+186.1 
+Cmax 
+(ng/mL) 
+CV(%) 
+23.30 
+27.80 
+1.09 
+Median 
+6 
+5 
+Tmax (h) 
+Range 
+3 - 10  
+4 - 8 
+ 
+0.83 
+GMean 
+217.6 
+116.3 
+T1/2 (h) 
+CV(%) 
+37.10 
+34.40 
+ 
+0.53 
+GMean 
+10.54 
+20.14 
+CL/F (L/h) 
+CV(%) 
+30.20 
+18.10 
+ 
+1.91 
+GMean 
+3033 
+2935 
+Vss/F (L) 
+CV(%) 
+23.20 
+22.20 
+ 
+0.97 
+ 
+Following a single 300 mg oral dose of vandetanib to healthy subjects on Day 10 of the 31 day 
+rifampicin dosing period (vandetanib in combination with rifampicin), there was no apparent 
+difference in tmax, and no difference in the Cmax compared with vandetanib alone (Table 22). Co-
+administration of vandetanib with rifampicin lowered the exposure of vandetanib by 48% for 
+AUCinf compared to when vandetanib was administered alone.  In Subject 15, the AUC0-504h 
+characterized only 52% of the AUC when vandetanib was administered alone. Therefore, this 
+AUCinf value was not included when the ratio is calculated (ratio = 0.52). There was a 91.1% 
+increase in the CL/F of vandetanib in combination with rifampicin compared with vandetanib 
+alone. The increased clearance resulted in a shorter t½ for vandetanib in combination with 
+rifampicin. There was no apparent difference in Vss/F in the presence or absence of rifampicin. 
+ 
+The PK parameters for the plasma N-desmethyl metabolite of vandetanib, in the presence and 
+absence of rifampicin, are summarized in Table 23. No t½ or AUC were calculable for 12 of the 
+16 subjects as either the terminal phase was poorly defined or the percentage AUC extrapolated 
+was greater than 20%. The exposure to the N-desmethyl metabolite relative to vandetanib was 
+low for vandetanib alone, with a mean ratio of N-desmethyl metabolite AUC0-504h to vandetanib 
+AUC0-504h of 0.07086.  
+Reference ID: 2874467
+
+
+===== PAGE 40 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+39 
+ 
+Table 23. Effect of itraconazole on the N-desmethyl vandetanib PK 
+Vandetanib
++ 
+PK 
+parameter 
+ 
+Vandetanib 
+Rifampicin 
+Ratio  
+GMean 
+1681 
+6153 
+AUC0-504h 
+(ng.h/mL) 
+n 
+14 
+15 
+3.66 
+GMean 
+2208 
+6982 
+AUCinf 
+(ng.h/mL) 
+n 
+4 
+15 
+3.16 
+GMean 
+7.401 
+38.06 
+Cmax 
+(ng/mL) 
+n 
+15 
+16 
+5.14 
+Median  
+5 (3-7) 
+5 (4-24) 
+Tmax (h) 
+n 
+15 
+16 
+1 
+GMean 
+168.2 
+153.7 
+T1/2 (h) 
+n 
+4 
+15 
+0.91 
+GMean 
+0.07086 
+0.4294 
+Ratioa 
+n 
+11 
+12 
+6.06 
+ 
+There was a 414.3% (5.14 fold) increase in the Cmax of the N-desmethyl metabolite. A terminal 
+phase was defined in 15 subjects and, from the Cmax, plasma concentrations declined slowly 
+with a mean t½ of 153.7 hours. There was a 266.0% increase in the AUC0-504h of the N-
+desmethyl metabolite for vandetanib in combination with rifampicin  compared with vandetanib 
+alone, and the Cmax of N-desmethyl relative to vandetanib increased by 506.0%, for vandetanib 
+in combination with rifampicin compared with vandetanib alone. 
+ 
+The PK parameters for the N-oxide metabolite of vandetanib were also determined. Following a 
+single 300 mg oral dose of vandetanib alone to healthy subjects, Cmax of the N-oxide metabolite 
+was attained at a median time of 7 hours post dose (range: 4 to 12 hours). Plasma concentrations 
+of the N-oxide metabolite were very low (mean Cmax: 2.005 ng/mL) and, in some subjects, very 
+flat concentration-time profiles were observed, with plasma concentrations just above the assay 
+LOQ of 1 ng/mL observed up to 384 hours post dose; however, for the majority of subjects N-
+oxide metabolite plasma concentrations were not quantified by 96 to 240 hours post dose when 
+treated with vandetanib alone. Terminal phases were poorly defined and thus no t½ or AUC were 
+calculable, and the data did not allow the determination of the AUC0-504h. 
+ 
+Following a single 300 mg oral dose of vandetanib in combination with rifampicin, the plasma 
+concentration-time profile of the N-oxide metabolite was altered compared with vandetanib 
+alone. There was a 178.9% increase in the Cmax (mean: 5.591 ng/mL) and, from the Cmax, plasma 
+concentrations declined with an initial rapid phase and were non quantifiable in all subjects by 
+36 hours post dose. A 126.0% increase in AUC0-t is observed for vandetanib in combination with 
+rifampicin (mean: 44.26 ng.h/mL) compared with vandetanib alone (mean: 19.56 ng.h/mL). The 
+exposure to the N-oxide metabolite relative to vandetanib was similar when dosed with 
+vandetanib in combination with rifampicin (mean ratio: 0.02041) compared with vandetanib 
+alone (mean ratio: 0.01774). 
+ 
+ 
+Reference ID: 2874467
+
+
+===== PAGE 44 =====
+
+ 
+NDA 22-405 Review – Vandetanib 
+43 
+The representative PK profiles are shown in Figure 17. The vandetanib exposure appears to be 
+affected by treatment order (Figure 17). This is probably because washout-period was not long 
+enough, although concentrations at pre-dose in second and third sequences are below LLOQ 
+except one subject (ID 5, 5.31 ng/mL at pre-dose in second sequence).  
+100
+200
+300
+400
+500
+600
+14
+Fed
+Second Fed
+Fasted
+Second Fasted
+100
+200
+8
+Fed
+Second Fed
+Fasted
+Second Fasted
+9
+Fed
+Second Fed
+Fasted
+Second Fasted
+100
+200
+100
+200
+300
+400
+500
+600
+5
+Fed
+Second Fed
+Fasted
+Second Fasted
+Time (hr)
+Conc (ng/mL)
+Fasted-Fed-Fed
+Fasted-Fed-Fed
+Fed-Fasted-Fasted
+Fed-Fasted-Fasted
+ 
+Figure 17. Representative concentration-time profiles from four subjects (ID 5, 8, 9, and 14; 
+FDA Analysis). 
+ 
+Therefore, it is not appropriate to pool all the data regardless of treatment order as the applicant 
+did. The applicant concluded that there was no significant effect on the AUC of vandetanib when 
+dosed with food compared to without (Fed/Fasted ratio = 1.0), and that there was a small (11%) 
+reduction in the mean Cmax with food, but this was not considered to be clinically significant 
+because the estimated ratios of fed compared with fasted for AUC and Cmax, and their confidence 
+intervals (CIs), fell within the bioequivalence limits set for this study (0.8, 1.25). 
+ 
+The FDA reviewer analyzed data from only first sequence. The overall food effect on the extent 
+of absorption was a reduction of 10% (Table 28). Mean Cmax was lower by 17% under the fed 
+condition. Although the lower bounds of the 90% CI were lower than 0.80, it may be due to the 
+small number of subjects. Under the fasted state, Cmax was achieved at a median of 6 hours post-
+dose, ranging from 5 to 10 hours. In the fed state, Cmax was achieved a little later, at a median of 
+8.5 hours post-dose with a range from 5 to 18 hours. The mean CL/F, Vss/F, and t1/2 were 
+comparable between fed and fasted conditions.  
+ 
+ 
+ 
+Reference ID: 2874467
+
+
+===== PAGE 54 =====
+
+Pharmacometric Review of Vandetanib for Treatment of MTC    Page 7 of 24 
+consistent with that from the dedicated renal impairment study (see Clinical Pharmacology 
+review by Dr. Moon).  As patient with severe renal impairment were excluded from the pivotal 
+trial, no recommendations can be made for these patients from the population PK approach.  
+The steady state concentrations of the drug in expected to be higher in patients with renal 
+impairment due to the decrease in drug clearance in these patients.  This is likely to increase the 
+QTc prolongation in renal impaired patients because QTc prolongation is shown to be 
+concentration dependent (see the QT-IRT review).  The steady state concentrations of vandetanib 
+in renal impaired patients were not available. Thus, simulations were performed to calculate the 
+drug concentrations at steady state in patients with normal renal function and patients with renal 
+impairment (see Section 3.2 for details).  With the simulated concentrations, the ∆QTcF for 
+patients with severe renal impairment at steady-state Cmax was predicted to be higher (39 ms) 
+than patients with normal renal function (35 ms) (see the QT-IRT review for details).   
+Creatinine Clearance (mL/min)
+Clearance (L/h)
+0
+50
+100
+150
+200
+5
+10
+15
+20
+25
+30
+30
+50
+80
+Severe
+Moderat Mild
+Normal
+Male
+Female
+Figure 6. Estimated plasma vandetanib clearance vs. creatinine clearance in 
+patients (N=231) with meduallary thyroid cancer in the vandetanib arm of the 
+study 58.  The plasma vandetanib clearance is presented in red for females and 
+black blue for males.  The renal function was classified as normal (> 90 
+mL/min), mild impairment (60-90 mL/min), moderate impairment (30-60 
+mL/min), and severe impairment (< 30 mL/min).  Patients with severe renal 
+impairment were excluded from the study 58. 
+ 
+ 
+Reference ID: 2874467
+
+
+===== PAGE 55 =====
+
+Pharmacometric Review of Vandetanib for Treatment of MTC    Page 8 of 24 
+10000
+20000
+30000
+40000
+50000
+Moderate
+Mild
+Normal
+Renal function
+AUC(ng/mL*h)
+ 
+10000
+20000
+30000
+40000
+50000
+Moderate
+Mild
+Normal
+Renal function
+AUC(ng/mL*h)
+ 
+Figure 7. Boxplots for model-predicted AUCs with a 300 mg oral daily dose (left panel) and 
+with a 200 mg oral daily dose of vandetanib (right panel) in patients with moderate renal 
+impairment.  AUCs were based on post-hoc estimates of clearance for patients (N=231) in 
+the vandetanib arm of the study 58.  In patients with mild impairment or normal renal 
+function, the dose of vandetanib is 300 mg oral daily.  The renal function was classified as 
+normal (> 80 mL/min), mild impairment (50-80 mL/min), moderate impairment (30-50 
+mL/min), and severe impairment (< 30 mL/min).  Patients with severe renal impairment 
+were not available as these patients were excluded from the study 58.  
+ 
+1.1.5 Does BSA affect the pharmacokinetics of vandetanib?  
+Yes.  Body weight was included as a significant covariate for clearance and central volume of 
+distribution (Figure 8) in the final population PK model.  The inclusion of the covariates resulted 
+in a decrease in the inter-individual variability in clearance, central and total volume of 
+distribution from 32.9, 54.9, and 106% to 30.9, 52.0, and 101%, respectively.  
+In addition, the reviewer conducted a linear regression analysis to explore the relationship 
+between body weight and Css, Day56.  Results suggested that body weight contributed significantly 
+to the variability of in Css, Day56 (R2=0.0724, P < 0.0001) (Figure 9, left).  Median of the lowest 
+and highest quartiles of body weight showed 19.9% higher and 14.5% lower of Css, Day56, 
+respectively,  than the overall median of body weight (Figure 9, right).   
+Therefore, the reviewer agrees to the applicant’s conclusion that the effect of body weight is not 
+considered to be of clinical importance, given the small decrease of inter-individual variability in 
+the final population PK model with body weight as covariate, and the small increase of Css, Day56 
+in patients with low body weight. 
+ 
+ 
+Reference ID: 2874467
+
+
+===== PAGE 56 =====
+
+Pharmacometric Review of Vandetanib for Treatment of MTC    Page 9 of 24 
+ 
+ 
+Figure 8.  The fixed effect of body weight on the clearance (left) and central volume of 
+distribution (right) of vandetanib for male (in red) and female (in black).  The body 
+weight quartiles are denoted by the horizontal black line.  The clearance and central 
+volume of distribution are the post-hoc estimates for 231 patients in Study 58.  
+ 
+Body Weight (Kg)
+Css (ng/mL)
+40
+60
+80
+100
+120
+0
+500
+1000
+1500
+2000
+2500
+R2 = 0.0724
+P < 0.0001
+ 
+0
+500
+1000
+1500
+2000
+2500
+Q1 (38-59 kg)
+Q2&3 (59-81 kg)
+Q4 (81-125 kg)
+Body Weight (Kg)
+Css (ng/mL)
+ 
+Figure 9.  The relationship between body weight and Css, Day 56 in 226 patients who took 
+300 mg of vandetanib once daily orally in the study 58. 
+1.2 
+Recommendations 
+Division of Pharmacometrics finds that the NDA 22405 is acceptable from a clinical 
+pharmacology perspective provided that a satisfactory agreement is reached between the 
+Applicant and the Agency regarding labeling language.  
+1.3 
+Label Statements 
+Only relevant clinical pharmacology sections are included. Double underlines indicate content 
+that was added by the agency and strikethroughs indicate content taken out by the agency. 
+12.3 Pharmacokinetics 
+A population pharmacokinetic analysis of vandetanib was conducted in 231 patients with 
+MTC following oral administration of 300 mg daily dose.  The pharmacokinetics of 
+vandetanib at the 300 mg dose in MTC patients are characterized by a mean clearance of 
+approximately 13.2 L/h, a mean volume of distribution of approximately 7,450 L, and a mean 
+plasma half-life of 19 days. 
+ 
+ 
+Reference ID: 2874467
+
+
+===== PAGE 57 =====
+
+Pharmacometric Review of Vandetanib for Treatment of MTC    Page 10 of 24 
+2 
+APPLICANT’S ANALYSES 
+The applicant performed population PK and PK-PD analyses using data from all 231 patients in 
+the vandetanib treatment arm in pivotal study 58.  The key findings from the Applicant’s 
+analyses are summarized below: 
+2.1 
+Population Pharmacokinetic Analysis  
+The objectives were to summarize the pharmacokinetics of vandetanib and investigate the 
+influence of fixed effects on pharmacokinetic parameters describing the observed concentration 
+in this patient population. 
+2.1.1 Method  
+Study 58 is a Phase 3 randomized trial to support the efficacy of vandetanib for metastatic 
+medullary thyroid cancer.  A total of 331 patients were actually randomized with 231 
+randomized to receive vandetanib (oral administration of 300 mg vandetanib once daily) and 100 
+patients to receive the placebo.  Sparse pharmacokinetic samples were obtained between 4 and 8 
+hours post dose during weeks 1, 2, 4, 8, 12, and then every 12 weeks up to and including 
+discontinuation of vandetanib/placebo.  During preliminary PK evaluation, 1 patient (Patient 
+178) was identified as a PK outlier and was subsequently excluded from all analyses.  Therefore, 
+a total of 1617 concentration observations from 230 patients collected over up to 515 days were 
+used for model development.  
+The demographic of 231 patients were summarized in Table 2. 
+Table 2. Summary of demographics of 231 patients in vandetanib arm in Study 58 
+ 
+Source: Table 2 on Page 18 of the Study report entitled “Population Pharmacokinetic (PK) and Pharmacokinetic-
+Pharmacodynamic (PK-PD) Analysis” 
+ 
+The population PK analysis was performed using NONMEM (Version 6.1) running under the 
+Digital Visual Fortran compiler (FORTRAN 90, Version 5.0) on a Dell PC (Microsoft Windows 
+2003).  The program PDx-Pop (Version 3.0, ICON Development Solutions) was used as an 
+interface with NONMEM.  
+Log-transformed concentration data and a proportional error model were used for model 
+development.  All runs were performed using first order conditional estimate (FOCE) method 
+with the interaction option.  The relationships between the individual estimates and the 
+Reference ID: 2874467
+
+
+===== PAGE 58 =====
+
+Pharmacometric Review of Vandetanib for Treatment of MTC    Page 11 of 24 
+covariates were investigated.  Demographic characteristics such as age, sex, race, weight, body 
+surface area (BSA), liver function (bilirubin, albumin, ALT, AST, and AP), and renal function 
+(creatinine clearance, CLCR) were tested as potential model covariates.  
+2.1.2 Conclusions 
+A two-compartment open model with first order absorption and first order elimination from the 
+central compartment, with Ka fixed to that estimated from previous studies with rich data was 
+found to best describe the vandetanib concentration-time data following multiple doses of 
+300 mg vandetanib in cancer patients. 
+The effect of weight on clearance and weight on initial and peripheral volume of distribution 
+were identified as significant.  The mean estimated clearance for median weight (68 kg) was 13.2 
+± 0.306 L/h.  However, the reduction in interindividual variability relative to the model without 
+covariates was only 2.0% for CL/f, while inter-individual variability was reduced by 2.9% for 
+V2/f and by 5% for V3/f.  As the percentage of variability explained by these covariates was 
+minimal, these effects are not considered to be of clinical importance.  
+The mean effective half-life was 19.0 days (Table 4).  There was no discernable difference 
+between male and female patients in their pharmacokinetics.  The vast majority of the patients 
+were Caucasians (95%), therefore differences between racial groups could not be conclusively 
+evaluated.  
+Parameter estimates for fixed effect and random effects with standard errors are presented in 
+Table 3.  Basic goodness of fit plots from the sponsor’s final model are presented in Figure 10. 
+Table 3. Applicant’s population PK parameter estimates using base 
+and final models 
+ 
+Source: Table 20 on Page 33 of the study report entitled  ‘d4200c00058-12-1-13-population-pk-
+pd-report.pdf’ 
+ 
+ 
+Reference ID: 2874467
+
+
+===== PAGE 70 =====
+
+Pharmacometric Review of Vandetanib for Treatment of MTC    Page 23 of 24 
+3.2 
+Effect of Renal Impairment on Steady State Vandetanib Concentration   
+Population PK parameters from the sponsor’s final model were used to simulate the profile for 
+normal patients (Table 3).  The drug clearance (CL/F) for patients with mild, moderate and 
+severe renal impaired patients were calculated using the ratio of clearance in renal impaired 
+patients to clearance in normal subjects observed in the dedicated study.  For example, the 
+clearance in patients with mild renal impairment was 11.6 (=10.3/11.7*13.2) L/h.  The clearance 
+parameters utilized for the simulation are shown in Table 7. All other parameters remained 
+constant across groups.  The simulated concentration-time profiles are shown in Figure 18. The 
+steady state Cmax and Cmin for normal patients and patients with severe renal impairment are 
+shown in Table 8..  The corresponding increase in ∆QTcF for renal impaired patients was also 
+calculated (see the QT-IRT review for details).   
+ 
+0
+200
+400
+600
+800
+1000
+1200
+1400
+0
+1000
+2000
+3000
+4000
+Time (hr)
+Concentration (ng/ml)
+Normal
+Mild
+Moderate
+Severe
+ Figure 18: Concentration vs. time profiles for normal patients and patients with 
+renal impairment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 2874467
+
+
+===== PAGE 78 =====
+
+ 
+ 
+23
+V. SYNOPSIS OF THE BIOSTUDY  
+ 
+Study Title: A Randomized, Open-label, Incomplete Crossover, Phase I Study to Assess 
+the Pharmacokinetic Exposure of Four Oral Tablet Variants of ZD6474 and an Oral 
+Solution Formulation of ZD6474 in Healthy Subjects  
+ 
+Investigator: Lawrence Wyn Andrews, MD  
+ 
+Study center: This study was conducted at 
+ 
+  
+ 
+Study dates: Phase of development First subject enrolled February 4, 2004; Last subject 
+completed November 24, 2004. 
+ 
+Objectives:  
+The primary objective of this study was to characterize the plasma concentration time 
+profile of an oral solution formulation of ZD6474 (Part I) and four tablet variants (Part 
+II).  
+ 
+The secondary objectives of the study were:  
+ 
+1. To determine the pharmacokinetic (PK) parameters of a single-dose oral solution of 
+ZD6474, by assessment of area under the curve from zero to infinity (AUC), AUC from 
+zero to 840 hours (AUC0-840), AUC from zero to last quantifiable plasma concentration 
+(AUC0-t), maximum plasma concentration (Cmax) and terminal half-life (t1/2); and of 
+four tablet variants of ZD6474 by assessment of Cmax, AUC0-840, and t1/2.  
+ 
+2. To assess the safety of ZD6474 in all subjects by continuous real-time 
+electrocardiogram (ECG) monitoring for 24 hours after dosing, clinical monitoring of 
+adverse events (AEs), blood pressure (BP), heart rate (HR) measurements, and clinical 
+chemistry, hematology, and urinalysis values.  
+ 
+Additionally, it was intended to investigate any potential in vitro-in vivo correlation 
+(IVIVC) for ZD6474 using the data obtained from this study. 
+ 
+Study design:  
+ 
+This was an open-label study, consisting of 2 parts (Parts I and II) and designed to assess 
+the PK exposure of an oral solution formulation of ZD6474 and four oral tablet variants 
+of ZD6474 in healthy subjects.  
+ 
+Part I consisted of a single study day (Period 1) in which a single dose of ZD6474 300-
+mg oral solution was administered to each subject.  
+ 
+This solution was used to define the unit impulse response (UIR) for the purposes of 
+deconvolution, which was to be performed on an individual basis, and therefore the 
+Reference ID: 2874226
+(b) (4)
+
+
+===== PAGE 80 =====
+
+ 
+ 
+25
+This study used one single oral solution of ZD6474 300 mg (batch number: 14116B03) 
+and four oral tablet variants of ZD6474 300 mg (batch numbers: 11296H03 [Tablet 
+variant A], 11294C03 [Tablet variant B], 12858C03 [Tablet variant C] and 12856I03 
+[Tablet variant D]). All tablet variants were manufactured at a scale of 
+ using 
+equipment of the same type as that proposed for use in the initial commercial 
+manufacturing train. Subjects received a single dose of the oral solution of ZD6474 in 
+Part I. In Part II, subjects received single doses of three of the four tablet variants of 
+ZD6474 300 mg, one on each of the 3 study days (Periods 2, 3, and 4).  
+ 
+Variables  
+Pharmacokinetic  
+ 
+The primary outcome variable was the plasma concentration-time profile of ZD6474 
+following administration of the solution and four different tablet variants. Secondary 
+outcome variables for ZD6474 in Part I were Cmax, AUC0–t, AUC, AUC0-840, and 
+t1/2. The secondary outcome variables for ZD6474 in Part II were Cmax, AUC0–t, and 
+t1/2.  
+ 
+Safety  
+ 
+The outcome variables used to assess safety were AEs, supine BP and HR, 12-lead ECG, 
+and clinical chemistry, hematology, and urinalysis. In addition, patients were monitored 
+for 24 hours after dosing by real-time ECG. Any clinically significant findings from the 
+real-time ECG or 12-lead ECG were reported as AEs.  
+ 
+Statistical methods  
+ 
+No formal statistical analysis was performed. The PK endpoints within each period of the 
+study were listed for individual subjects and summarized by oral solution/tablet variant.  
+ 
+Pharmacokinetic results:  
+ 
+AUC, Cmax, and t1/2 for the ZD6474 oral solution and each of the four ZD6474 tablet 
+variants are summarized in the table below. 
+ 
+ 
+AUC (ng h/mL)  
+Cmax (ng/mL) 
+t1/2 (hr) 
+ 
+Na 
+gmean 
+CV% 
+Na 
+gmean 
+CV% 
+Na 
+gmean  CV%  
+Oral solution  
+15 
+28700 
+28.3 
+15 
+169.9 
+26.67 
+15 
+231.5 
+24.47 
+Tablet variant A 
+10 
+34530 
+23.02 
+10 
+183.8 
+29.37 
+10 
+228.1 
+18.36 
+Tablet variant B 
+10 
+30330 
+22.62 
+10 
+163.1 
+32.87 
+10 
+221.7 
+30.71 
+Tablet variant C 
+11 
+30080 
+31.68 
+11 
+157.8 
+20.72 
+11 
+231 
+32.07 
+Tablet variant D 
+9 
+31010 
+28.25 
+9 
+159.4 
+45.3 
+9 
+226.3 
+15.44 
+a Analysis includes subjects who completed Period 1 of the study and had sufficient samples to characterize 
+the PK profile of at least one of the tablet variants. 
+ 
+Following a single oral dose of 300-mg ZD6474 solution, Cmax was achieved at a 
+median of 8 hours, ranging from 6 to 18 hours. The geometric mean (gmean) for AUC 
+Reference ID: 2874226
+(b) (4)
+
+
+===== PAGE 81 =====
+
+ 
+ 
+26
+and Cmax for the ZD6474 oral solution was 28700 ng.h/mL and 169.9 ng/mL, 
+respectively. Administration of the standard ZD6474 tablet (variant A) resulted in a 
+greater exposure than obtained for the oral solution, in terms of both AUC and Cmax, 
+with gmean of 34530 ng.h/mL and 183.8 ng/mL, respectively. Each of the three other 
+tablet variants resulted in slightly lower exposure than that observed for the standard 
+ZD6474 tablet, AUC and Cmax being approximately 85% to 90% of the standard tablet. 
+These data show that exposure to ZD6474 does not appear to be affected by variations to 
+the standard tablet composition or manufacturing process.  
+ 
+Safety results:  
+ 
+The most common AEs were pruritus (n=9, 39%), headache (n=6, 26%), fatigue (n=5, 
+22%), nausea (n=5, 22%), and vomiting (n=4, 17%). The proportion of subjects 
+experiencing AEs was similar between treatments, with the exception of headache and 
+pruritus, which were more commonly reported in subjects during treatment with the oral 
+solution. There were no serious adverse events (SAEs).  
+ 
+Reviewer’s Comments 
+ 
+These data show that the exposure to ZD6474 is similar for each of the tablet variants as 
+shown in the following figures for comparisons of AUC, Cmax and Tmax among 
+different variants. In the figures, O is the oral solution while A, B, C, and D are tablet 
+variants. An informal BE analysis showed that all variants were bioequivalent. 
+ 
+Treatment
+AUC (ng·h/mL)
+20000
+30000
+40000
+50000
+A
+B
+C
+D
+O
+Treatment
+20000
+30000
+40000
+50000
+A B C D O
+E0001002
+A B C D O
+E0001003
+A B C D O
+E0001006
+A B C D O
+E0001007
+E0001008
+E0001009
+E0001012
+20000
+30000
+40000
+50000
+E0001015
+20000
+30000
+40000
+50000
+E0001016
+E0001101
+E0001105
+E0001110
+E0001111
+E0001113
+20000
+30000
+40000
+50000
+E0001114
+ 
+ 
+Reference ID: 2874226
+
+
+===== PAGE 82 =====
+
+ 
+ 
+27
+Treatment
+Cmax (ng/mL)
+100
+150
+200
+250
+300
+A
+B
+C
+D
+O
+Treatment
+100
+150
+200
+250
+300
+A B
+C D O
+E0001002
+A
+B
+C
+D O
+E0001003
+A
+B
+C D O
+E0001006
+A B C
+D O
+E0001007
+E0001008
+E0001009
+E0001012
+100
+150
+200
+250
+300
+E0001015
+100
+150
+200
+250
+300
+E0001016
+E0001101
+E0001105
+E0001110
+E0001111
+E0001113
+100
+150
+200
+250
+300
+E0001114
+ 
+ 
+ 
+Treatment
+Tmax (h)
+10
+15
+20
+25
+A
+B
+C
+D
+O
+Treatment
+10
+15
+20
+25
+A
+B
+C
+D O
+E0001002
+A
+B
+C
+D O
+E0001003
+A
+B
+C
+D O
+E0001006
+A
+B
+C
+D O
+E0001007
+E0001008
+E0001009
+E0001012
+10
+15
+20
+25
+E0001015
+10
+15
+20
+25
+E0001016
+E0001101
+E0001105
+E0001110
+E0001111
+E0001113
+10
+15
+20
+25
+E0001114
+ 
+ 
+The following table shows the 90% confidence intervals of the ratios of AUC to infinity, 
+AUC to last time point and Cmax between different variants (B, C, and D) and the 
+targeted formulation (A).  
+ 
+Parameter 
+Variants 
+Ratio 
+Upper Confidence limit 
+Lower Confidence limit 
+AUCinf     
+B 
+98.9648 
+109.570 
+89.3858 
+AUCinf     
+C 
+99.0101 
+109.186 
+89.7825 
+AUCinf     
+D 
+97.1482 
+107.468 
+87.8190 
+AUCt       
+B 
+97.6967 
+108.029 
+88.3529 
+AUCt       
+C 
+97.9526 
+107.888 
+88.9323 
+AUCt       
+D 
+96.3113 
+106.408 
+87.1724 
+Cmax       
+B 
+91.7803 
+105.765 
+79.6446 
+Cmax       
+C 
+95.4907 
+109.434 
+83.3239 
+Cmax       
+D 
+92.3278 
+106.271 
+80.2137 
+ 
+ 
+Reference ID: 2874226

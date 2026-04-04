@@ -1,0 +1,121 @@
+
+
+===== PAGE 13 =====
+
+CLINICAL PHARMACOLOGY REVIEW
+NDA 208351 
+Page 8
+Concomitant medications
+Reported use of non-study medications included acetaminophen (n=5 subjects), birth control 
+(n=7), ciprofloxacin (n=1), and topical terbinafine (n=1).
+Pharmacokinetics
+FTC, RPV, and TAF concentration-time profiles, PK parameters, and statistical comparisons of 
+PK parameters between treatments are shown below. Geometric mean ratios and 90% CIs for 
+Cmax and AUC of FTC, RPV, and TAF were within the noeffect limits of 80% to 125% (Table 
+3, Table 5, Table 7). 
+Figure 3. FTC plasma concentration-time profiles.
+Table 2. FTC PK parameters.
+Reference ID: 3854147
+
+
+===== PAGE 37 =====
+
+CLINICAL PHARMACOLOGY REVIEW
+NDA 208351 
+Page 32
+DISCUSSION/REVIEWER’S COMMENTS
+Bioanalysis of RPV had the following deficiencies: 1) only a partial method validation report 
+was provided; and 2) interference between RPV and omeprazole was not evaluated. This study 
+does not impact the labeling, but the numerical results from this study are listing in the 
+FTC/RPV/TAF label section 12. Therefore the full method validation report will be requested 
+and discussed in a subsequent memo to this review.
+The washout period in regards to the PK of RPV was adequate in that we confirmed in our 
+analysis of the plasma concentrations that all but one subject had predose concentrations less 
+than 5% of Cmax. Acid inhibition due to omeprazole is at 50% of the maximum after 24 hours, 
+thus the RPV doses given on day six of omeprazole dosing meant that the effect of the 
+interaction was likely assessed during conditions of maximum omeprazole-mediated acid 
+inhibition. As proton pump inhibitors have a prolonged effect, maximum acid inhibition was 
+likely present in treatments B and D where RPV was given 1.5 hours after omeprazole. The 
+offset of acid inhibition is 3-5 days, thus the washout period of 14 days was sufficient. 
+Coadministration with omeprazole resulted in decreased RPV exposures for all subjects except 
+one (subject #39, test/reference AUC ratio of 107% for treatment B, 246% for treatment C, and 
+175% for treatment D). 
+Based on a previous RPV-omeprazole drug interaction study utilizing a supratherapeutic dose of 
+RPV 150 mg, omeprazole was already contraindicated in patients prescribed RPV (see NDA 
+202022 Clinical Pharmacology review, dated 9/2/2010). In this study, therapeutic doses of RPV 
+were used except for treatment D. Relative to administration without omeprazole, RPV PK when 
+coadministered with omeprazole resulted in a mean AUC decrease of 63% in treatment B, 30% 
+in treatment C, and 12% in treatment D. In treatments B and C, both the mean ratios and 90% 
+CIs were outside the standard no effect 80-125% boundaries, while in treatment D the mean 
+AUC ratio was within the no effect boundary while the 90% CIs were not. As lower virologic 
+response was associated with lower RPV exposure in the RPV pivotal trials (NDA 202022 
+Clinical Pharmacology review dated 9/2/2010), we agree with the sponsor’s proposal to 
+contraindicate RPV with omeprazole.
+LABEL RECOMMENDATIONS
+We agree with the sponsor’s proposal to contraindicate the use of omeprazole with RPV.
+Reference ID: 3854147
+
+
+===== PAGE 52 =====
+
+CLINICAL PHARMACOLOGY REVIEW
+NDA 208351 
+Page 47
+Table 41. PK parameters of LDV.
+Table 42. Statistical comparison of PK parameters of LDV.
+Geometric mean AUC ratios and 90% CIs for each analyte (test/reference) are summarized 
+below (Table 43).
+Table 43. Summary of geometric mean AUC ratios and 90% CIs for each analyte 
+(test/reference).
+Analyte
+Geometric mean ratio (%), (90% 
+CI)
+FTC
+100 (98, 102)
+RPV
+95 (91, 98)
+TAF
+132 (125, 140)
+TFV
+174 (169, 181)
+SOF
+105 (101, 109)
+GS-566500
+102 (99, 105)
+GS-331007
+108 (106, 110)
+LDV
+102 (97, 106)
+Source: prepared by reviewer.
+Reference ID: 3854147
+
+
+===== PAGE 53 =====
+
+CLINICAL PHARMACOLOGY REVIEW
+NDA 208351 
+Page 48
+Safety
+The most common AEs were constipation and headachel; all AEs reported were grade 1-2 in 
+severity. There were no deaths or SAEs during the study. One subject discontinued the study due 
+to an AEs. On day 12 the subject had a grade 2 AE of colitis. The subject continued study drug 
+through day 28 and discontinued on that day due to the ongoing AE of colitis. The subject 
+received treatment for colitis and the event resolved 10 weeks after onset. The AE was 
+considered related to study drug. No reported laboratory abnormalities resulted in an AE. No 
+notable changes in vital signs were reported to have occurred during the study.
+DISCUSSION/REVIEWER’S COMMENTS
+The bioanalytical methods used in this study were validated and were acceptable according to the 
+criteria in the 2013 FDA Bioanalytical Guidance. None of the non-study medications used by a 
+subset of subjects were perpetrators of drug interactions. No outliers were observed among 
+individual subject PK parameters for any of the analytes.
+The AUC of TAF and TFV were increased when coadministered with LDV/SOF; other analytes 
+were unaffected. The mean 32% TAF AUC increase is not clinically significant as no exposure-
+safety relationships for TAF have been identified. The mean 74% TFV AUC increase is not 
+clinically significant because TFV AUC from TAF is 90% lower compared to TFV from TDF. 
+For example, mean TFV AUC from TDF administered as E/C/F/TDF was ~3300 ng*h/mL (see 
+NDA 207561 Clinical Pharmacology Summary) compared to a mean TFV AUC from TAF in 
+this study of 262 ng*h/mL in the reference arm and 458 ng*h/mL in the test arm.
+LABEL RECOMMENDATIONS
+We agree with the proposed labeling statement that there is no clinically significant interaction of 
+FTC/RPV/TAF with LDV/SOF.
+Reference ID: 3854147

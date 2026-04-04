@@ -1,0 +1,42 @@
+{
+  "nda": "NDA202343",
+  "drug_name": "sitagliptin/simvastatin (Juvisync)",
+  "pk_tuples": [
+    {
+      "dose_mg": 100, "dose_original": "sitagliptin 100 mg as FDC 100/80",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 32, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 329.5, "tmax_h": 2.0, "auc_inf_ng_h_ml": 2958.3, "auc_last_ng_h_ml": 2918.3,
+      "t_half_h": 12.6, "cl_L_h": null, "vd_L": null,
+      "source_page": 19, "confidence": "high",
+      "notes": "Study P155 food effect, MK-0431D FDC 100/80 fasted; Cmax 809 nM, AUCinf 7263 nM*hr; Molar conversion using MW 407.31 g/mol"
+    },
+    {
+      "dose_mg": 100, "dose_original": "sitagliptin 100 mg as FDC 100/80",
+      "route": "oral", "formulation": "tablet", "food": "high_fat_meal",
+      "population": "healthy_adult", "n_subjects": 32, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 311.2, "tmax_h": 2.3, "auc_inf_ng_h_ml": 2959.6, "auc_last_ng_h_ml": 2917.5,
+      "t_half_h": 12.9, "cl_L_h": null, "vd_L": null,
+      "source_page": 19, "confidence": "high",
+      "notes": "Study P155 food effect, MK-0431D FDC 100/80 with high-fat meal; Cmax 764 nM, AUCinf 7266 nM*hr; MW 407.31 g/mol for sitagliptin"
+    },
+    {
+      "dose_mg": 80, "dose_original": "simvastatin 80 mg as FDC 100/80",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 32, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 14.08, "tmax_h": 1.5, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 88.76,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 19, "confidence": "high",
+      "notes": "Study P155, MK-0431D FDC fasted; simvastatin (lactone form)"
+    },
+    {
+      "dose_mg": 80, "dose_original": "simvastatin 80 mg as FDC 100/80",
+      "route": "oral", "formulation": "tablet", "food": "high_fat_meal",
+      "population": "healthy_adult", "n_subjects": 32, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 16.89, "tmax_h": 2.0, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 67.39,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 19, "confidence": "high",
+      "notes": "Study P155, MK-0431D FDC with high-fat meal; simvastatin (lactone form)"
+    }
+  ]
+}

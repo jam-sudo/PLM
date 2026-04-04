@@ -1,0 +1,2335 @@
+
+
+===== PAGE 56 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+26 
+Integrated Review Template, version 3.0 (05/25/2022) 
+5.2. Clinical Pharmacology/Pharmacokinetics 
+The clinical pharmacology properties of nirmatrelvir/ritonavir were comprehensively evaluated 
+(Table 5). The clinical pharmacology review focused on determining dosing recommendations 
+for specific populations including moderate renal and hepatic impairment (Section 8.1.2 and 
+Section 8.1.3) and providing recommendations for clinical management of drug-drug interactions 
+(Section 8.2.2). 
+Table 5. Summary of Clinical Pharmacology and Pharmacokinetics 
+Characteristic 
+Drug Information 
+Pharmacologic Activity 
+Established 
+pharmacologic class 
+(EPC) 
+Nirmatrelvir is a SARS-CoV-2 main protease (Mpro) inhibitor. Ritonavir is an HIV-
+1 protease inhibitor and CYP3A inhibitor. 
+Mechanism of action 
+Nirmatrelvir inhibits SARS-CoV-2 Mpro and renders it incapable of processing 
+polyprotein precursors, preventing viral replication. Ritonavir inhibits the CYP3A-
+mediated metabolism of nirmatrelvir, resulting in increased plasma 
+concentrations of nirmatrelvir. 
+Active moieties 
+Nirmatrelvir, ritonavir 
+QT prolongation 
+A clinical and nonclinical integrated risk assessment was submitted in lieu of a 
+thorough QT study. In vitro hERG assays and an in vivo QT study in monkeys 
+suggested that nirmatrelvir has a low risk for QT prolongation. In Phase 1 
+clinical Study 1001, subjects received a supratherapeutic nirmatrelvir dose of 
+2250 mg (divided into three doses) boosted with ritonavir 100 mg. A 
+concentration-Qtc analysis was conducted using the PK and ECG parameters 
+from Study 1001. The upper bounds of 90% CI for QTcF estimates across the 
+entire concentration range were all well below 10 ms, the threshold for potential 
+clinical and regulatory concern. A small increase in blood pressure cannot be 
+excluded based on a numerical increase in PR which is not expected to be 
+clinically meaningful given the short treatment duration.  
+General Information 
+Bioanalysis 
+LC-MS/MS methods were validated and were used to determine the 
+concentrations of nirmatrelvir, ritonavir and co-administered drugs in human 
+plasma and urine. The analyses were deemed to be acceptable. 
+Healthy subjects 
+versus patients 
+The observed plasma nirmatrelvir concentrations from EPIC-HR subjects with 
+COVID-19 are similar to concentrations observed in the healthy subjects 
+enrolled in study 1014 (Cmax 3.43 µg/mL versus 2.21 µg/mL and AUC 
+30.40 µg*hr/mL versus 23.01 µg*hr/mL, respectively). 
+Drug exposure at 
+steady state following 
+the therapeutic dosing 
+regimen (or single 
+dose, if more relevant 
+for the drug) 
+Table 6. Predicted Day 5 Nirmatrelvir Exposure Parameters for Adult 
+Subjects in EPIC-HR Following Twice-Daily Dosing With 300 mg/100 mg 
+Nirmatrelvir/Ritonavir 
+Pharmacokinetic Parameter (units)a 
+Nirmatrelvirb 
+Cmax (µg/mL) 
+3.43 (2.59, 4.52) 
+AUCtau (µg*hr/mL)c 
+30.40 (22.90, 39.80) 
+Cmin (µg/mL) 
+1.57 (1.16, 2.10) 
+Source: Study 1005. 
+a. Data presented as geometric mean (10th and 90th percentile).  
+b. Based on 1,016 subjects with their post hoc PK parameters.  
+c. AUCtau, predicted area under the plasma concentration-time profile from time 0 to 12 hours for 
+twice-daily dosing. 
+Abbreviations: Cmax, predicted maximal concentration; Cmin, predicted minimal concentration (Ctrough) 
+Reference ID: 5179402
+
+
+===== PAGE 57 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+27 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Characteristic 
+Drug Information 
+Range of effective 
+dose(s) or exposure 
+Nirmatrelvir/ritonavir 300/100 mg twice daily was the only dosing regimen 
+evaluated in the pivotal efficacy study. 
+Maximally tolerated 
+dose or exposure 
+An MTD was not determined. The evaluated dose that achieved the highest 
+exposure in humans was an oral dose of 2250 mg nirmatrelvir (3 doses of 
+750 mg each administered at 0 h, 2 h and 4 h) and 3 doses of ritonavir 100 mg 
+administered at -12 h, 0 h, and 12 h post NIR dose.  
+Dose proportionality 
+Nirmatrelvir Cmax and AUC increased in a less than dose proportional manner 
+following administration of an oral suspension formulation at single ascending 
+nirmatrelvir doses of 250 mg to 750 mg, administered with 100 mg ritonavir or 
+multiple ascending nirmatrelvir/ritonavir doses of 75/100 mg BID to 500/100 mg 
+BID for 10 days. 
+Accumulation 
+Geometric mean accumulation ratios ranged from 1.8 to 2.1 for AUCtau and 
+Cmax, respectively, on Day 10 with 75mg to 500 mg nirmatrelvir administered 
+twice daily with 100 mg ritonavir. Values were similar on Day 5 and Day 10. 
+Time to achieve 
+steady-state 
+Twice daily dosing of nirmatrelvir with ritonavir over 10 days achieved steady-
+state on Day 2. 
+Bridge between to-be-
+marketed and clinical 
+trial/study formulations 
+The to-be-marketed 150 mg nirmatrelvir and 100 mg ritonavir tablets were used 
+in the pivotal efficacy study.  
+Absorption 
+Bioavailability 
+The absolute bioavailability of nirmatrelvir/ritonavir is unknown. 
+Tmax 
+Nirmatrelvir (when given with ritonavir): 3 hoursa 
+Ritonavir (when given with nirmatrelvir): 3.98 hoursa 
+Food effect (fed/fasted) 
+Geometric least square 
+mean and 90% CI 
+Following a single oral dose of to-be-marketed oral tablet of nirmatrelvir 300 mg 
+boosted with 3 doses of (q12h) ritonavir 100 mg administered with a high fat 
+(approximately 50% of total caloric content of the meal), high-calorie 
+(approximately 800 to 1000 calories) meal versus fasted, the adjusted geometric 
+means (90% CI) for nirmatrelvir AUCinf, and Cmax were 1.20 (1.09, 1.32) and 
+1.61 (1.39, 1.86), respectively. The median Tmax was 2.50 hours for the fed 
+treatment compared to 2.29 hours for the fasted treatment. 
+Distribution 
+Volume of distribution 
+Nirmatrelvir (when given with ritonavir): 104.7 Lb 
+Ritonavir: 112.4 Lb 
+Plasma protein binding Nirmatrelvir: 69% 
+Ritonavir: 98-99% 
+Drug as substrate of 
+transporters 
+In vitro data indicate that nirmatrelvir is a substrate for human MDR1 (P-gp), but 
+not a substrate for human BCRP, MATE1, MATE2K, NTCP, OAT1, OAT2, 
+OAT3, OCT1, OCT2, PEPT1, OATPs 1B1, 1B3, 2B1, or 4C1. 
+Elimination 
+Mass balance results 
+The excretory pathways and metabolic profile of unlabeled nirmatrelvir was 
+evaluated in urine and feces in a mass balance trial. Nirmatrelvir concentrations 
+were determined using quantitative LC-MS/MS bioanalysis and quantitative 
+fluorine (19F) NMR. After a single unlabeled dose of 300 mg nirmatrelvir oral 
+suspension co-administered with 100 mg ritonavir tablet (at -12 hours, 0 hours, 
+12 hours, and 24 hours relative to nirmatrelvir administration), a total of 49.6% 
+and 35.3% of the administered dose of nirmatrelvir 300 mg was recovered in 
+urine and feces, respectively. The percentage of the dose excreted as total 
+(unchanged drug) was 55.0% in urine and 27.5% in feces. 
+After a single radiolabeled dose of 600 mg 14C-ritonavir oral solution, a total of 
+11.3% and 86.4% of the administered dose of nirmatrelvir 300 mg was 
+recovered in urine and feces, respectively. The percentage of the dose excreted 
+as total (unchanged drug) was 3.5% in urine and 33.8% in feces. 
+Clearance (CL/F) 
+Nirmatrelvir (when given with ritonavir): 8.99b 
+Ritonavir: 13.92b 
+Reference ID: 5179402
+
+
+===== PAGE 58 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+28 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Characteristic 
+Drug Information 
+Half-life 
+Nirmatrelvir (when given with ritonavir): 6.05a 
+Ritonavir: 6.15a 
+Metabolic pathway(s) 
+Nirmatrelvir is a CYP3A4 substrate but when dosed with ritonavir, metabolic 
+clearance is minimal. 
+Ritonavir undergoes major metabolism by CYP3A4 with minor contribution by 
+CYP2D6. 
+Primary excretion 
+pathways (% dose) 
+Nirmatrelvir (when given with ritonavir): Renal elimination 
+Ritonavir: Fecal elimination 
+Intrinsic Factors and Specific Populations 
+Body weight 
+No dosage adjustment is required based on body weight.  
+Age 
+No dosage adjustment is required based on age. 
+Renal impairment 
+A dosage adjustment of 150 mg nirmatrelvir/ 100 mg ritonavir twice daily for 5 
+days is recommended for patients with moderate renal impairment (eGFR 30 to 
+<60 mL/min). No dose adjustment is required for mild renal impairment (eGFR 
+60 to <90 mL/min). PAXLOVID is not recommended in patients with severe 
+renal impairment until additional data are available. 
+Hepatic impairment 
+No dosage adjustment is required in patients with mild and moderate hepatic 
+impairment (Child-Pugh Score A and B, respectively). PAXLOVID is not 
+recommended for use in patients with severe hepatic impairment due to a lack 
+of pharmacokinetic or safety data in this population. 
+Drug Interaction Liability (Drug as Perpetrator) 
+Inhibition/induction of 
+metabolism 
+The combination of nirmatrelvir and ritonavir is a strong inhibitor of CYP3A4. 
+Ritonavir is a weak inhibitor of CYP2D6. Ritonavir is an inducer of CYP1A2, 
+CYP2C8, CYP2C9 and CYP2C19. 
+Inhibition/induction of 
+transporter systems 
+Ritonavir is an inhibitor of P-gp. 
+Nirmatrelvir is an inhibitor of P-gp and OATP1B1. 
+Source: Study PF-07321332_04Nov20_113907, Study PF-07321332_09Nov20_122202, Study PF-07321332_18Oct20_102559, 
+Study PF-07321332_18Nov20_020944, NORVIR USPI. 
+a. Represents data after a single dose of 300 mg nirmatrelvir (2 x 150 mg tablet formulation) administered together with 100 mg 
+ritonavir tablet in healthy subjects. 
+b. 300 mg nirmatrelvir (oral suspension formulation) and 100 mg ritonavir (tablet formulation) administered together twice daily for 
+3 days. 
+Abbreviations: AUC, area under the curve; AUCinf, area under concentration-time curve to infinity; BID, twice daily; CI, confidence 
+interval; Cmax, maximum plasma concentration; COVID-19, disease of 2019 caused by the severe acute respiratory syndrome 
+coronavirus 2; CYP, cytochrome P450; ECG, electrocardiogram; eGFR, estimated glomerular filtration rate; hERG, human ether-a-
+go-go related gene; HIV, human immunodeficiency virus; LC-MS/MS, liquid chromatography tandem mass spectrometry; Mpro, main 
+protease; MTD, maximum tolerated dose; NIR, nirmatrelvir; NMR, nuclear magnetic resonance; P-gp, P-glycoprotein; 
+PK, pharmacokinetic; PR, pulse rate; q12h, every 12 hours; QT, interval from beginning of QRS complex to the end of the T wave; 
+QTc, QT interval corrected for heart rate; QTcF, the corrected QT interval by Fridericia; SARS-CoV-2, severe acute respiratory 
+syndrome coronavirus 2; Tmax, time for drug to reach maximum concentration 
+6. Efficacy (Evaluation of Benefit) 
+6.1. Assessment of Dose and Potential 
+Effectiveness 
+The dosing regimen for the treatment of high-risk symptomatic SARS-CoV-2 is primarily 
+supported by the data from EPIC-HR demonstrating that the dose of nirmatrelvir/ritonavir 
+300/100 mg BID for 5 days is generally safe and well-tolerated and effective at reducing the risk 
+of hospitalization/death. This dosing regimen was the only regimen evaluated in EPIC-HR and 
+was chosen to achieve a target minimum nirmatrelvir concentration in plasma approximating the 
+protein binding-adjusted EC90 value (292 ng/mL, 585 nM) for anti-SARS-CoV-2 activity in cell 
+Reference ID: 5179402
+
+
+===== PAGE 170 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+140 
+Integrated Review Template, version 3.0 (05/25/2022) 
+In vitro transporter inhibition studies demonstrated that nirmatrelvir inhibits P-gp ([I]/IC50=34) 
+and OATP1B1 (R1=1.11). In vitro inhibition was not observed for BCRP, OATP1B3, OCT1, 
+OCT2, OAT1, OAT3, MATE1 or MATE2K transporters. 
+Ritonavir is a strong CYP3A4 inhibitor that is co-administered with nirmatrelvir to increase 
+plasma nirmatrelvir concentrations. Ritonavir also inhibits P-gp and is a weak inhibitor of 
+CYP2D6. Ritonavir also induces CYP3A (net effect is strong inhibition), CYP1A2, CYP2C9, 
+CYP2C19, and CYP2B6 as well as other enzymes, including glucuronosyl transferase. 
+Clinical DDI studies were conducted by the applicant to evaluate the effect of 
+nirmatrelvir/ritonavir on the PK of midazolam and dabigatran, a CYP3A substrate and P-gp 
+substrate, respectively. The effects of nirmatrelvir/ritonavir on midazolam and dabigatran AUC 
+and Cmax are summarized in Table 49. Oral midazolam is contraindicated in the PAXLOVID 
+labeling. Depending on dabigatran indication and patient’s renal function, the PAXLOVID label 
+recommends reducing the dose of dabigatran or to avoid concomitant use. There was no 
+additional effect of nirmatrelvir on midazolam PK or dabigatran PK beyond that caused by 
+ritonavir alone in either study (Section 14.2). 
+Table 49. Effect of Nirmatrelvir/Ritonavir on Pharmacokinetics of Co-Administered Drug 
+Co-Administered Drug 
+Dose (Schedule) 
+Nirmatrelvir/Ritonavir Dose 
+(Schedule) 
+N 
+Ratio (Test/Reference) of  
+Adjusted Geometric Means (90% CI) 
+Cmax 
+AUCa 
+Midazolamb 
+300 mg/100 mg BID 
+(9 doses) 
+10 
+3.68 (3.19, 4.25) 
+14.30 (12.04, 17.00) 
+2 mg (1 dose) 
+Dabigatranb 
+300 mg/100 mg BID 
+(5 doses) 
+24 
+2.33 (1.72, 3.16) 
+1.94 (1.55, 2.44) 
+75 mg (1 dose) 
+Source: Study 1012, Study 1013. 
+a. AUC = AUCinf for both midazolam and dabigatran. 
+b. For midazolam, Test = nirmatrelvir/ritonavir plus midazolam, Reference= Midazolam. Midazolam is an index substrate for 
+CYP3A4. For dabigatran, Test= nirmatrelvir/ritonavir plus dabigatran, Reference= Dabigatran. Dabigatran is an index substrate for 
+P-gp. 
+Abbreviations: AUC, area under the plasma concentration-time curve; BID, twice daily; CI, confidence interval; Cmax, maximum 
+plasma concentration; CYP, cytochrome P450; N, number of subjects in group; P-gp, P-glycoprotein 
+In the clinical DDI study with midazolam, there was no incremental effect of nirmatrelvir on 
+midazolam PK beyond that caused by ritonavir alone. Further, maximal CYP3A4 inhibition has 
+been noted with ritonavir at doses of 50 mg to 100 mg and is used as a booster with HIV protease 
+inhibitors at a dose of 100 mg once or twice daily (Mathias et al. 2009). Since the DDI potential 
+of PAXLOVID is mainly associated with ritonavir component, with full CYP3A inhibition 
+anticipated at the clinical dose, the list of contraindicated drugs and clinically significant drug 
+interactions generally aligns with the Norvir (ritonavir) and boosted protease inhibitor USPIs. 
+Agents that are extensively metabolized by CYP3A and have high first pass metabolism appear 
+to be the most susceptible to large increases in AUC when co-administered with ritonavir. Thus, 
+co-administration of PAXLOVID with drugs highly dependent on CYP3A for clearance and for 
+which elevated plasma concentrations are associated with serious and/or life-threatening events 
+is contraindicated. Co-administration with other CYP3A substrates may require a dose 
+adjustment or additional monitoring.  
+Reference ID: 5179402
+
+
+===== PAGE 172 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+142 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Language added in the PAXLOVID label is consistent with the concomitant drug label and the 
+Norvir or boosted protease inhibitor USPIs: disopyramide, apixaban, clonazepam, cilostazol, 
+saxagliptin, tofacitinib, upadacitinib, darifenacin, brexpiprazole, cariprazine, iloperidone, 
+lumateperone, pimavanserin, buspirone, clorazepate, diazepam, estazolam, flurazepam, 
+zolpidem, riociguat, tadalafil and verapamil. 
+While other ritonavir-containing products are generally prescribed by HIV specialists 
+experienced at managing the multiple drug interactions with ritonavir, PAXLOVID is being 
+prescribed by a much broader group of healthcare providers. A boxed warning for DDIs has been 
+added to the PAXLOVID labeling to further highlight this potential serious risk (See 7.7.1). 
+8.2.2.2. Effect of Other Drugs on Nirmatrelvir/Ritonavir 
+Clinical DDI studies were conducted with carbamazepine and itraconazole, a CYP3A inducer 
+and CYP3A inhibitor, respectively. The effects of carbamazepine and itraconazole on 
+nirmatrelvir/ritonavir AUC and Cmax are summarized in Table 50. Co-administration of 
+PAXLOVID with strong CYP3A inducers including carbamazepine is contraindicated due to 
+potential loss of virologic response and possible resistance.  
+Based on the results of the itraconazole DDI study, no significant increase in nirmatrelvir 
+exposure is expected with concomitant use of additional CYP3A inhibitors, including co-
+administration with additional boosting agents such as cobicistat or additional doses of ritonavir. 
+The expected increase in nirmatrelvir exposure in this scenario is well below what was noted 
+with the supratherapeutic nirmatrelvir dose (administered with ritonavir) that was well tolerated 
+in Study 1001. Therefore, no dose adjustments are needed when PAXLOVID is given to patients 
+who are also on a ritonavir- or cobicistat-containing regimen. 
+Table 50. Drug Interactions: Pharmacokinetic Parameters for Nirmatrelvir in the Presence of the 
+Co-Administered Drugs 
+Co-Administered Drug 
+Dose (Schedule) 
+Nirmatrelvir/Ritonavir Dose 
+(Schedule) 
+N 
+Ratio (Test/Reference) of  
+Adjusted Geometric Means (90% CI) 
+Cmax 
+AUCa 
+Carbamazepineb 
+300 mg/100 mg BID 
+(5 doses) 
+9 
+0.57 (0.47, 0.69) 
+0.45 (0.34, 0.59) 
+300 mg BID(16 doses) 
+Itraconazole 
+300 mg/100 mg BID 
+(5 doses) 
+11 
+1.19 (1.13, 1.25) 
+1.39 (1.29, 1.49) 
+200 mg QD (8 doses) 
+Source: Study 1014 and Study 1015. 
+a. For carbamazepine, AUC = AUCinf, for itraconazole, AUC = AUCtau. 
+b. Carbamazepine titrated up to 300 mg twice daily on Day 8 through Day 15 (e.g., 100 mg twice daily on Day 1 through Day 3 and 
+200 mg twice daily on Day 4 through Day 7). 
+Abbreviations: AUC, area under the plasma concentration-time curve; BID, twice daily; CI, confidence interval; Cmax, maximum 
+plasma concentration; CYP, cytochrome P450; N, number of subjects in group; P-gp, P-glycoprotein; QD, once per day 
+The effect of moderate and weak CYP3A inducers on nirmatrelvir/ritonavir PK has not been 
+studied in clinical DDI studies. There are several published clinical DDI reports with other 
+ritonavir combinations (i.e., 100 mg-200 mg total daily dose) and the moderate CYP3A inducer, 
+efavirenz. The effect of efavirenz on ritonavir PK when ritonavir was administered in 
+combination with indinavir, darunavir, or nelfinavir is summarized in Table 51. 
+Reference ID: 5179402
+
+
+===== PAGE 173 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+143 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Table 51. Effect of Efavirenz (Moderate Inducer of CYP3A4) on PK of Ritonavir in Protease 
+Inhibitor Combinations 
+Dose/Regimen of 
+Efavirenz 
+Dose/Regimen of 
+Ritonavir 
+AUCR For 
+Ritonavir 
+AUCR for 
+Protease 
+Inhibitor 
+Reference 
+600 mg QD 
+Days 15-29 
+100 mg BID  
+(in combination with 
+800 mg BID indinavir) 
+Days 1-29 
+0.64 
+0.75 
+(Aarnoutse et al. 2002) 
+600 mg QD 
+Days 10-24 
+100 mg, QD  
+(in combination with 
+900 mg darunavir QD) 
+Days 1-24 
+0.74 
+0.86 
+(Soon et al. 2010) 
+600 mg QD 
+Days 11-20 
+200 mg, QD  
+(in combination with 
+1875 mg nelfinavir) 
+Days 1-20 
+0.80 
+1.30 
+(la Porte et al. 2004) 
+Source: Table generated from Reviewer analysis. 
+a. AUCR = AUC ratio = AUC of ritonavir or PI in presence of efavirenz/AUC of ritonavir or PI in absence of efavirenz. 
+Abbreviations: BID, 2 times per day; PI, protease inhibitor; QD, once per day 
+The ritonavir dose-response relationship on CYP3A metabolism using the HIV integrase 
+inhibitor elvitegravir and the CYP3A substrate midazolam was evaluated by Mathias et al 
+(Mathias et al. 2009). In this study, the effect of increasing doses of ritonavir on CYP3A activity 
+was assessed by changes in midazolam and elvitegravir clearance (through inclusion of historical 
+CL from an earlier study of elvitegravir administered without ritonavir). The lowest dose of 
+ritonavir tested resulted in substantial reduction (approximately three- and ninefold, respectively) 
+in midazolam clearance and elvitegravir oral clearance. Further increases in the ritonavir dose 
+resulted in more modest additional reductions in midazolam and elvitegravir clearance, 
+indicating that maximum ritonavir-mediated inhibition of CYP3A-mediated metabolism is 
+achieved at ritonavir doses of 50 to 100 mg (Figure 18).  
+Based on the data provided by Mathias et al, this decrease in ritonavir exposure produced by 
+moderate CYP3A inducer such as efavirenz, and by extension weak CYP3A inducers, is unlikely 
+to affect the ability of ritonavir to inhibit CYP3A (Mathias et al. 2009).  
+Reference ID: 5179402
+
+
+===== PAGE 189 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+159 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Table 53. Pharmacokinetics of Nirmatrelvir in Rats and Monkeys 
+Source: Applicant’s Pharmacokinetics written summary, Section 2.6.4.3. Table 2.6.4-1. 
+a. All forms of nirmatrelvir were from the
+lot of material unless noted otherwise. 
+b. The
+form of nirmatrelvir was dosed. 
+c. N = 1. 
+d. Parameter not reported due to lack of discernible elimination phase. 
+e. Parameter was not reported due to increase in concentration at the last timepoint. 
+Abbreviations: AUCinf, area under the concentration-time curve to infinity; CL, apparent clearance; Cmax, maximum plasma 
+concentration; %F, bioavailability; IV, intravenous; N, number of subjects in analysis; PO, per os (by mouth); T1/2, half-life; Tmax  time 
+it takes for the drug to reach maximum concentration; Vss, apparent volume of distribution at steady-state 
+Toxicokinetic data of nirmatrelvir were evaluated from the GLP repeat dose oral toxicity studies 
+in rats and monkeys. Please see Section 13.2.3.2 for detailed information.  
+13.2.2.2. Distribution 
+In Vitro 
+• Protein binding was evaluated in plasma from rats, human and monkey 
+(07321332_23Nov20_010657). The binding of nirmatrelvir to plasma proteins in rat, 
+monkey, and human was moderate and similar across concentrations and species. Plasma 
+protein binding was also evaluated in rabbits and dogs and concentration-dependent binding 
+was observed (Study PF-07321332_23Nov20_020334; YDP/067/394, Table 54). 
+• Preliminary data indicates that nirmatrelvir primarily binds to Alpha-1-acid glycoprotein 
+(AAG). 
+• At a concentration of 1μM, nirmatrelvir preferentially partitioned into plasma relative to red 
+blood cells with Cb/Cp ratios of 0.83 (rat), 0.68 (monkey), and 0.60 (human) (Study PF-
+07321332_18Nov20_100444). 
+Reference ID: 5179402
+(b) (4)
+(b) (4)
+
+
+===== PAGE 200 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+170 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Parameter 
+Major Findings 
+Histopathology 
+Adequate battery: Yes 
+• In the liver, minimal to mild periportal hepatocellular hypertrophy in males 
+and females at ≥200 mg/kg/day with concomitant increased severity (mild) 
+of periportal hepatocyte cytoplasmic vacuolation (females only) at 1000 
+mg/kg/day were noted.  
+• In the thyroid gland, minimal to mild follicular cell hypertrophy was noted in 
+males and/or females at ≥60 mg/kg/day.  
+• In the pituitary gland, minimal to mild cytoplasmic vacuolation was noted in 
+the endocrine cells of the pars anterior (males only) at ≥60 mg/kg/day.  
+• At the end of the recovery phase, the microscopic changes in the liver, 
+thyroid gland, and/or pituitary gland (males only) were completely recovered 
+at all doses in females and at 60 and 200 mg/kg/day in males; partial 
+recovery (lower incidence and/or severity) of the microscopic findings in the 
+liver, thyroid gland, and pituitary gland was observed in recovery males at 
+1000 mg/kg/day.  
+• The pattern of linked findings in the liver, thyroid and pituitary glands are 
+consistent with a rat specific response to hepatic enzyme induction resulting 
+in increased thyroxine catabolism, raised serum thyroid stimulating 
+hormone and thyroid follicular cell hypertrophy and anterior pituitary 
+vacuolation. This mechanism is usually considered to have little to no 
+relevance to humans mostly because of the marked differences in plasma 
+half-life of thyroid hormones and in binding to transport proteins between 
+rodents and humans. 
+Special evaluation: 
+NA 
+Toxicokinetics 
+Sample collection 
+times: days 1 and 25, 
+and 0.5, 1, 2, 4, 24 
+hours postdose. 
+Table 63. Mean Overall (Male + Female) Toxicokinetic Parameters of PF-
+07321332 in Wistar Han Rat Plasma 
+Dose (mg/kg) 
+Day
+Cmax
+(ng/mL)
+Tmax
+(hours)
+AUC24
+(ng•h/mL)
+60 
+1
+16200
+0.50
+34800
+25
+12800
+0.50
+19200
+200 
+1
+35000
+1.0
+252000
+25
+26000
+1.0
+94900
+1000 
+1
+87300
+2.0
+982000
+25
+44500
+1.0
+548000
+Source: Text Table 1 from the Applicant’s toxicology study report. 
+Abbreviations: AUC24, area under the concentration-time curve to 24 hours; Cmax, maximum 
+plasma concentration; Tmax, time for drug to reach maximum concentration 
+Source: Reviewer assessment. 
+Abbreviations: PID, prior to initiation of dosing 
+13.2.3.2.4. One-Month BID Oral Gavage Toxicity Study of 
+PF-07321332 in Cynomolgus Monkeys with a Two-Week 
+Recovery (Study# 21GR125) 
+Key Study Findings 
+• Sporadic occurrences of emesis at 600 (300 BID) mg/kg/day were the only clinical 
+observation. 
+• Increases in alanine aminotransferase (ALT) and/or aspartate aminotransferase (AST) in 
+males and a female at 600 (300 BID) mg/kg/day and increases in fibrinogen in males and 
+Reference ID: 5179402
+
+
+===== PAGE 215 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+185 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Table 81. Descriptive Summary of Plasma Nirmatrelvir PK Parameters, Part 1: SAD, Study 1001 
+Parameter a,b 
+NIR 150 mg 
+(N=4) 
+NIR 500 mg 
+(N=4) 
+NIR 1500 mg 
+(N=4) 
+NIR 
+250 mg/ritonavir 
+100 mg (N=4) 
+NIR 
+250 mg/ritonavir 
+100 mg (Fed; N=4) 
+NIR 
+750 mg/ritonavir 
+100 mg (N=4) 
+N1, N2c, d 
+4, 3 
+4, 2 
+4, 0 
+4, 4 
+4, 4 
+4, 4 
+AUCinf 
+(ng.hr/mL) 
+2247 (42) 
+5480, 5450 
+NR 
+28220 (14) 
+28640 (17) 
+66760 (45) 
+AUClast 
+(ng.hr/mL) 
+2125 (34) 
+3753 (29) 
+10870 (47) 
+27600 (13) 
+28020 (16) 
+64230 (39) 
+CL/F (L/hr) 
+66.83 (43) 
+91.2, 91.8 
+NR 
+8.865 (14) 
+8.735 (17) 
+11.22 (45) 
+Cmax (ng/mL/mg) 
+667.7 (28) 
+674.4 (38) 
+1538 (32) 
+2882 (25) 
+3323 (13) 
+5086 (25) 
+t1/2 (hr) 
+2.023 ± 0.54556 
+18.5, 25.6 
+NR 
+6.935 ± 1.0794 
+6.005 ± 1.6502 
+12.86 ± 8.4196 
+Tmax (hr) 
+0.634  
+(0.550 - 1.50) 
+1.00 
+(0.517 - 1.00) 
+1.00 
+(0.533 - 2.00) 
+2.75 
+(1.50 - 4.00) 
+4.00 
+(4.00 - 4.00) 
+2.00 
+(1.50 - 4.00) 
+Vz/F (L) 
+190.6 (36) 
+2440, 3390 
+NR 
+87.98 (28) 
+73.48 (47) 
+181.9 (35) 
+Source: Study 1001. 
+Note: Summary statistics were not presented if fewer than 3 participants had reportable parameter values. 
+a. Geometric Mean (Geometric %CV) for all except: Median (Range) for Tmax and arithmetic mean ± SD for t1/2 
+b. Individual values were listed when there were less than 3 evaluable measurements 
+c. N1 = Number of participants contributing to the summary statistics. 
+d. N2 = Number of participants where t1/2, AUCinf, AUCinf(dn), CL/F and Vz/F were determined 
+Abbreviations: AUCinf, area under the concentration-time curve to infinity; AUClast, area under the concentration-time curve from the time of dosing to the last measurable concentration; 
+CL/F, apparent clearance; Cmax, maximum plasma concentration; N, total number of subjects in the treatment group; NIR, nirmatrelvir; NR, not reported; PK, pharmacokinetic; 
+SAD, single ascending dose; T1/2, half-life; Tmax, time for drug to reach maximum concentration; Vz/F, apparent volume of distribution 
+ 
+Reference ID: 5179402
+
+
+===== PAGE 217 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+187 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Figure 22. Median Plasma Nirmatrelvir Concentration-Time Profiles Across All Dosing Days 
+Following Multiple Oral Doses of Nirmatrelvir Enhanced With Ritonavir in Part 2, Study 1001 
+ 
+Source: Study 1001. 
+Abbreviations: BID, twice daily 
+Table 83. Descriptive Summary of Plasma and Urine Nirmatrelvir PK Parameters, Part-2: MAD, 
+Study 1001 
+Parameter 
+(unit) 
+Nirmatrelvir/ 
+Ritonavir  
+75/100 mg BID  
+(N=4) 
+Nirmatrelvir/ 
+Ritonavir  
+250/100 mg BID 
+(N=4) 
+Nirmatrelvir/ 
+Ritonavir  
+500/100 mg BID 
+(N=7) 
+Nirmatrelvir/ 
+Ritonavir  
+250/100 mg BID 
+Japanese (N=4) 
+Day 1 
+AUCtau 
+(ng.hr/mL) 
+6017 (33) 
+18700 (43) 
+22610 (37) 
+13130 (26) 
+Cmax (ng/mL) 
+1042 (28) 
+2435 (36) 
+3051 (32) 
+1925 (25) 
+Tmax (hr) 
+1.75 (1.00 - 2.00) 
+1.50 (1.00 - 4.00) 
+2.00 (1.50 - 2.17) 
+2.75 (1.00 - 4.02) 
+Day 5 
+AUCtau 
+(ng.hr/mL) 
+12570 (17) 
+35560 (26) 
+38150 (23) 
+25480 (26) 
+Cmax (ng/mL) 
+2224 (27) 
+4774 (21) 
+5296 (21) 
+3674 (28) 
+Tmax (hr) 
+1.00 (1.00 - 1.50) 
+0.750 (0.500 - 1.50) 
+1.50 (1.00 - 2.02) 
+1.26 (1.00 - 2.02) 
+Day 10 
+AUCtau 
+(ng.hr/mL) 
+12650 (16) 
+37780 (27) 
+39780 (20) 
+26930 (15) 
+Cmax (ng/mL) 
+2055 (14) 
+5123 (24) 
+5607 (17) 
+3772 (21) 
+Tmax (hr) 
+1.00 (1.00 - 2.00) 
+1.00 (1.00 - 2.00) 
+1.50 (1.00 - 2.00) 
+1.50 (0.500 - 2.02) 
+Source: Study 1001. 
+Abbreviations: AUCtau, area under the concentration-time curve over the dosing interval; BID, twice daily; Cmax, maximum plasma 
+concentration; MAD, multiple ascending dose; N, total number of subjects in treatment group; Tmax, time for drug to reach maximum 
+concentration 
+Reference ID: 5179402
+
+
+===== PAGE 220 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+190 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Table 84. Statistical Summary of Plasma Nirmatrelvir PK Parameters – Relative Bioavailability, 
+Part 3, Study 1001 
+Parameter 
+Adjusted Geometric Mean 
+Nirmatrelvir 250 mg 
+Tablet (Fasted) 
+Nirmatrelvir 250 mg 
+Suspension 
+(Fasted) 
+Ratio 
+(Test/Reference) of 
+Adjusted Geometric 
+Means 
+90% CI for 
+Ratio 
+AUCinf (ng.hr/mL) 
+2955 
+3884 
+0.76 
+(0.60, 0.96) 
+AUClast (ng.hr/mL) 
+2695 
+3318 
+0.81 
+(0.69, 0.95) 
+Cmax (ng/mL) 
+497.8 
+883.1 
+0.56 
+(0.43, 0.73) 
+Source:Study 1001. 
+Abbreviations: AUCinf, area under the concentration-time curve to infinity; AUClast, area under the concentration-time curve tfrom the 
+time of dosing to the last measurable concentration; CI, confidence interval; Cmax, maximum plasma concentration; 
+PK, pharmacokinetic 
+Table 85. Statistical Summary of Plasma Nirmatrelvir PK Parameters – Food Effect, Part 3, 
+Study 1001 
+Parameter 
+Adjusted Geometric Means 
+Nirmatrelvir 250 mg 
+Tablet (Fed) 
+Nirmatrelvir 250 mg 
+Tablet (Fasted) 
+Ratio 
+(Test/Reference) of 
+Adjusted Geometric 
+Means 
+90% CI for 
+Ratio 
+AUCinf (ng.hr/mL) 
+4337 
+2955 
+1.47 
+(1.18, 1.81) 
+AUClast (ng.hr/mL) 
+4012 
+2695 
+1.49 
+(1.27, 1.75) 
+Cmax (ng/mL) 
+1219 
+497.8 
+2.45 
+(1.89, 3.18) 
+Source:Study 1001. 
+Abbreviations: AUCinf, area under the concentration-time curve to infinity; AUClast, area under the concentration-time curve tfrom the 
+time of dosing to the last measurable concentration; CI, confidence interval; Cmax, maximum plasma concentration; PK, 
+pharmacokinetic 
+Part 4: Metabolism and Excretion 
+Part 4 was conducted to determine the excretion of drug-related material in urine and feces after 
+a single oral administration of nirmatrelvir with ritonavir. A single oral dose of 300 mg 
+nirmatrelvir oral suspension co-administered with ritonavir (4 doses of 100 mg at -12, 0, 12, and 
+24 hours relative to nirmatrelvir), was administered to a total of 6 healthy subjects. Excretion of 
+nirmatrelvir-related material in urine and feces was quantified using 19F-NMR and high-
+performance liquid chromatography with tandem mass spectrometry (HPLC-MS/MS) methods.  
+Overall mean ± SD (range) mass recovery of nirmatrelvir-related material in excreta (urine and 
+feces) was 84.9% ± 8.9% (70.7%, 95.5%), which included 80.7% ± 8.0% nirmatrelvir by 
+quantitative 19F-NMR and 4.2% ± 1.3% excreted as metabolite M8 (19F-NMR silent due to loss 
+of trifluoroacetyl group) quantified by UHPLC-HRMS (ultra-high-performance liquid 
+chromatography-high resolution mass spectrometry). The excretion into urine and feces was 
+49.6% and 35.3% of the dose, respectively (Figure 24). Quantifying nirmatrelvir and M5 (most 
+prevalent metabolite in preliminary metabolite profiling) by HPLC-MS/MS showed overall 
+mean ± SD mass recovery of 75.6 ± 9.7% with 40.6% and 35.0% excretion into urine and feces, 
+respectively (Figure 25).  
+Reference ID: 5179402
+
+
+===== PAGE 225 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+195 
+Integrated Review Template, version 3.0 (05/25/2022) 
+mg ritonavir dose) and 31% in subjects with normal renal function in Study 1011 (100mg 
+nirmatrelvir/ 100 mg ritonavir dose), excreted as unchanged nirmatrelvir, respectively. 
+Part 5: Supratherapeutic Exposure 
+Part 5 was a double-blind (participant and investigator blinded and sponsor unblinded), 
+randomized, 2-sequence, cross-over design to explore safety, tolerability, and PK at 
+supratherapeutic exposure of nirmatrelvir. For each period, subjects received 2250 mg of 
+nirmatrelvir as 3 split doses of 750 mg at 0 hours, 2 hours, and 4 hours, pharmacokinetically 
+enhanced with ritonavir (3 doses of 100 mg at -12, 0 and 12 hours relative to nirmatrelvir) or 
+placebo in the fasted state on Day 1 (n = 10 per group). Doses were split in this part of the study 
+to achieve supratherapeutic exposures of nirmatrelvir that were not achieved in the SAD and 
+MAD cohorts due to the less than dose proportional increase in exposure. Plasma samples for 
+measurement of nirmatrelvir PK were obtained pre-dose and up to 96 hours post dose or at early 
+termination if applicable.  
+Nirmatrelvir pharmacokinetic parameters following a supratherapeutic dose of 2250 mg 
+administered with ritonavir are presented in Table 87. The safety data, including adverse events 
+(AEs), laboratory abnormalities, vital signs, and ECGs indicate that nirmatrelvir has an 
+acceptable safety and tolerability profile in healthy adult subjects at supratherapeutic exposures. 
+Table 87. Descriptive Summary of Plasma Nirmatrelvir PK Parameters Following Administration of 
+Nirmatrelvir (Suspension)/Ritonavir 100 mg in Part 5, Study 1001 
+Parameter 
+Measurement 
+N 
+10 
+AUCinf (μg.hr/mL) 
+188.82 (35) 
+CL/F (L/hr) 
+3.970 (35) 
+Cmax (μg/mL) 
+15.94 (27) 
+T1/2 (hr) 
+7.45 ± 2.94 
+Tmax (hr) 
+5.0 (3.02 – 6.03) 
+Source: Study 1001. 
+Note: Geometric Mean (Geometric %CV) for all except: Median (Range) for Tmax and arithmetic mean ± SD for t1/2 
+Note: Nirmatrelvir 2250 mg Was Divided Into Three Doses of 750 mg Administrated at 0h, 2h and 4h; Ritonavir Dosed at -12h, 0h 
+and 12h post-dose 
+Abbreviations: AUCinf, area under the concentration-time curve to infinity; CL/F, apparent clearance; Cmax, maximum plasma 
+concentration; N, total number of subjects in the treatment group; PK, pharmacokinetic; T1/2, half-life; Tmax, time for drug to reach 
+maximum concentration 
+Renal Impairment 
+In Study 1011, the PK of nirmatrelvir was evaluated in the fasted state after a single 100 mg dose 
+of nirmatrelvir co-administered with 100mg ritonavir -12, 0 and 12 hours relative to nirmatrelvir 
+in the following groups: 
+• Mild renal impairment: eGFR 60 to <90 mL/min 
+• Moderate renal impairment: eGFR >30 to <60 mL/min 
+• Severe renal impairment: eGFR <30 and not requiring dialysis 
+• Normal renal function: eGFR >90 mL/min 
+The 100 mg nirmatrelvir dose (one third the total daily dose) was chosen due to the less-than 
+dose-proportional increase in exposures within the 250 mg to 750 mg dose range evaluated, and 
+Reference ID: 5179402
+
+
+===== PAGE 227 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+197 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Table 88. Descriptive Summary of Plasma and Urine Nirmatrelvir PK Parameters -Study 1011 
+Parameter 
+Normal Renal 
+Function (N=10) 
+Mild Renal 
+Impairment (N=8) 
+Moderate Renal 
+Impairment (N=8) 
+Severe Renal 
+Impairment (N=8) 
+N1, na,b 
+10, 10 
+8, 8 
+8, 6 
+8, 7 
+AUCinf (ng.hr/mL) 
+14460 (20) 
+17910 (30) 
+27110 (27) 
+44040 (33) 
+AUClast (ng.hr/mL) 
+14270 (20) 
+17770 (30) 
+26660 (21) 
+39420 (28) 
+C12 (ng/mL) 
+341.9 (35) 
+438.0 (30) 
+785.6 (33) 
+1213 (33) 
+C24 (ng/mL) 
+99.10 (35) 
+112.8 (55) 
+179.1 (108) 
+694.2 (42) 
+CL/F (L/hr) 
+6.913 (20) 
+5.581 (30) 
+3.689 (27) 
+2.270 (33) 
+Cmax (ng/mL) 
+1600 (31) 
+2077 (29) 
+2210 (17) 
+2369 (38) 
+t1/2 (hr) 
+7.725 ± 1.8234 
+6.606 ± 1.5344 
+9.948 ± 3.4171 
+13.37 ± 3.3225 
+Tmax (hr) 
+2.000 (1.00 - 4.00) 
+2.000 (1.00 - 3.00) 
+2.500 (1.00 - 6.00) 
+3.000 (1.00 - 6.05) 
+VZ/F (L) 
+74.95 (35) 
+51.95 (32) 
+50.34 (27) 
+42.73 (26) 
+Ae (mg) 
+31.20 (45) 
+42.65 (23) 
+30.83 (56) 
+18.46 (50) 
+CLr (L/hr) 
+2.180 (50) 
+2.395 (33) 
+1.154 (71) 
+0.4398 (73) 
+Source: Study 1011. 
+Note: Geometric mean (Geometric %CV) for all: except Median (Range) for Tmax and arithmetic mean ± SD for t1/2. 
+a. N1 = Number of participants contributing to the summary statistics. 
+b. n = Number of participants contr buting to the summary statistics for t1/2, AUCinf, CL/F and VZ/F. 
+Abbreviations: Ae, amount of unchanged drug excreted in urine; AUCinf, area under the concentration-time curve to infinity; AUClast, 
+area under the concentration-time curve from the time of dosing to the last measurable concentration; C12, 12-hour postdose 
+plasma concentration; C24, 24-hour postdose plasma concentration; CL/F, apparent clearance; CLr, renal clearance; Cmax, 
+maximum plasma concentration; CV, coefficient of variation; N, total number of participants in the cohort in the indicated population; 
+PK, pharmacokinetic; SD, standard deviation; t1/2, half-life; Tmax, time for drug to reach maximum concentration; VZ/F, apparent 
+volume of distribution  
+Table 89. Statistical Summary of Plasma Nirmatrelvir PK Parameters, Study 1011 
+Parameter 
+Renal Impairment 
+(n=8/group) 
+Test 
+Reference 
+Ratio 
+90% CI 
+Cmax (ng/mL) 
+Mild 
+2077 
+1600 
+1.29 
+(1.02,1.65) 
+Moderate 
+2210 
+1600 
+1.38 
+(1.13, 1.69) 
+Severe 
+2369 
+1600 
+1.48 
+(1.11, 1.97) 
+AUCinf (ng.hr/mL) 
+Mild 
+17910 
+14460 
+1.24 
+(0.99, 1.54) 
+Moderate 
+27110 
+14460 
+1.87 
+(1.49, 2.36) 
+Severe 
+44040 
+14460 
+3.04 
+(2.38, 3.90) 
+Source: Study 1011. 
+Note: Values in table are the adjusted geometric means. 
+Abbreviations: AUCinf, area under the concentration-time curve to infinity; CI, confidence interval; Cmax, maximum plasma 
+concentration; n, number of subjects in sample; PK, pharmacokinetic 
+There was an imbalance in safety findings between subjects with severe renal impairment and 
+subjects with normal to moderate renal impairment, with one of the eight subjects with severe 
+renal impairment developing a serious adverse event of moderate acute kidney injury the day 
+after receiving nirmatrelvir (see Section 8.1.2). While it is unclear if these safety findings were 
+related to nirmatrelvir receipt or to the increased comorbidities generally associated with severe 
+renal impairment, this finding raises safety concerns about nirmatrelvir/ritonavir dosing in 
+patients with severe renal impairment (as the therapeutic dose would be higher than 100 mg 
+nirmatrelvir administered with ritonavir).  
+Study 1028 is an ongoing safety and pharmacokinetic study evaluating PAXLOVID as treatment 
+of mild-to-moderate COVID-19 in patients with severe renal impairment (for both patients 
+requiring and not requiring hemodialysis). This study is evaluating a PAXLOVID dose of 300 
+mg nirmatrelvir/100mg ritonavir on Day 1 followed by 150 mg nirmatrelvir/100 mg ritonavir 
+daily on Days 2 to 5 of treatment in subjects with severe renal impairment, which was 
+determined based on population PK modeling and the relative change in CL resulting from renal 
+Reference ID: 5179402
+
+
+===== PAGE 229 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+199 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Figure 29. Median Plasma Nirmatrelvir Concentration-Time Profiles Following a Single 100 mg 
+Oral Dose of Nirmatrelvir Co-Administered With Ritonavir 
+ 
+Source: Study 1010. 
+Table 90. Descriptive Summary of Plasma and Urine Nirmatrelvir PK Parameters, Study 1010 
+Parameter (Unit) 
+Normal Hepatic Function 
+(N=8) 
+Moderate Hepatic Impairment 
+(N=8) 
+AUCinf (ug.hr/mL) 
+15.24 (36) 
+15.06 (43) 
+AUClast (ug.hr/mL) 
+14.97 (36) 
+14.86 (43) 
+CL/F (L/hr) 
+6.560 (36) 
+6.650 (43) 
+Cmax (ug/mL) 
+1.886 (20) 
+1.923 (48) 
+t1/2 (hr) 
+7.209 ± 2.0990 
+5.448 ± 1.5743 
+Tmax (hr) 
+2.000 (0.550 - 2.08) 
+1.500 (1.00 - 2.00) 
+VZ/F (L) 
+65.51 (39) 
+50.37 (40) 
+Ae24 (mg) 
+35.66 (31) 
+54.23 (23) 
+CLr (L/hr) 
+2.509 (46) 
+3.738 (49) 
+Source: Study 1010. 
+Note: Geometric Mean (Geometric %CV) for all: except Median (Range) for Tmax and Arithmetic Mean ± SD for t1/2. 
+Abbreviations: Ae24, amount of unchanged drug excreted in urine at 24 hours; AUCinf, area under the concentration-time curve to 
+infinity; AUClast, area under the concentration-time curve from the time of dosing to the last measurable concentration; CL/F, 
+apparent clearance; CLr, renal clearance; Cmax, maximum plasma concentration; CV, coefficient of variation; N, total number of 
+subjects; PK, pharmacokinetic; SD, standard deviation; t1/2, half-life; Tmax, time for drug to reach maximum concentration; VZ/F, 
+apparent volume of distribution 
+Reference ID: 5179402
+
+
+===== PAGE 230 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+200 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Table 91. Statistical Summary of Plasma Nirmatrelvir PK Parameters, Study 1010 
+Nirmatrelvir  
+PK Parameter 
+Moderate Hepatic 
+Impairment 
+Normal Hepatic 
+Function 
+Ratio 
+90% CI 
+AUCinf (ug.hr/mL) 
+15.06 
+15.24 
+0.99 
+(0.71,1.38) 
+Cmax (ug/mL) 
+1.92 
+1.89 
+1.02 
+(0.74, 1.40) 
+Source: Study 1010. 
+Note: Values in table are the adjusted geometric means. 
+Abbreviations: AUCinf, area under the concentration-time curve to infinity; CI, confidence interval; Cmax, maximum plasma 
+concentration; PK, pharmacokinetic 
+Figure 30. Median Plasma Ritonavir Concentration-Time Profiles Following Second Dose of 
+Ritonavir, Study 1010 
+ 
+Source: Study 1010 
+Table 92. Descriptive Summary of Plasma Ritonavir PK Parameters, Study 1010 
+Parameter (Unit) 
+Normal Hepatic Function 
+(N=8) 
+Moderate Hepatic Impairment 
+(N=8) 
+AUC12 (ug.hr/mL) 
+5.912 (57) 
+9.929 (36) 
+Cmax (ug/mL) 
+0.8768 (50) 
+1.611 (42) 
+Tmax (hr) 
+3.000 (2.00 - 4.00) 
+2.000 (1.00 - 4.00) 
+Source: Study 1010. 
+Note: Geometric Mean (Geometric %CV) for all: except Median (Range) for Tmax. 
+Abbreviations: AUC12, area under the concentration-time curve to 12 hours; CI, confidence interval; Cmax, maximum plasma 
+concentration; N, number of total subjects; PK, pharmacokinetic; Tmax, time for drug to reach maximum concentration 
+Food Effect Assessment with Commercial Tablet Formulation 
+The effect of a high-fat meal on the relative bioavailability of nirmatrelvir boosted with ritonavir 
+was evaluated in 24 healthy adults in Study 1019. The study consisted of 2 treatments: a single 
+oral dose of nirmatrelvir 300 mg (2x 150 mg tablets) under fasted conditions and 3 doses of 
+Reference ID: 5179402
+
+
+===== PAGE 233 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+203 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Figure 32. Median Plasma Nirmatrelvir Concentration-Time Profiles Following Multiple Oral BID 
+Doses of Nirmatrelvir/Ritonavir Combination, Administered Alone or With Multiple QD Doses of 
+Itraconazole, Linear Scale 
+ 
+Source: Study 1015. 
+Abbreviations: BID, twice daily; QD, once per day 
+Table 94. Descriptive Summary of Plasma Nirmatrelvir PK Parameters, Study 1015 
+Parameter (Unit) 
+Nirmatrelvir 
+(suspension)/ritonavir 300/100 
+mg BID, Fasted (N=11) 
+Itraconazole 200 mg QD + 
+Nirmatrelvir 
+(suspension)/ritonavir 300/100 
+mg BID, Fasted (N=11) 
+N1, na,b 
+11, 11 
+11, 10 
+AUClast 
+(ng.hr/mL) 
+41840 (21) 
+74430 (21) 
+AUCtau 
+(ng.hr/mL) 
+33350 (20) 
+46290 (18) 
+CL/F (L/hr) 
+8.990 (20) 
+6.478 (18) 
+Cmax (ng/mL) 
+4678 (17) 
+5546 (15) 
+t1/2 (hr) 
+8.255 ± 1.9465 
+7.793 ± 0.89019 
+Tmax (hr) 
+1.020 (0.500 - 2.08) 
+1.700 (0.500 - 4.00) 
+VZ/F (L) 
+104.7 (33) 
+72.07 (16) 
+Source: Study 1015. 
+Note: Geometric mean (Geometric %CV) for all: except Median (Range) for Tmax and arithmetic mean ± SD for t1/2. 
+a. N1 = Number of participants contributing to the summary statistics. 
+b. n = Number of participants contr buting to the summary statistics for t1/2 and VZ/F. 
+Abbreviations: AUClast, area under the concentration-time curve from the time of dosing to the last measurable concentration; 
+AUCtau, area under concentration-time curve over dosing interval; BID, twice daily; CL/F, apparent clearance; Cmax, maximum 
+plasma concentration; N, total number of participants in the treatment group in the indicated population; PK, pharmacokinetic; 
+QD, once per day; t1/2, half-life; Tmax, time for drug to reach maximum concentration; VZ/F, apparent volume of distribution 
+Reference ID: 5179402
+
+
+===== PAGE 234 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+204 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Table 95. Statistical Summary of Plasma Nirmatrelvir PK Parameters, Study 1015 
+Parameter 
+Itraconazole 200 mg 
+QD + nirmatrelvir 
+(suspension)/ritonavir 
+300/100 mg BID, Fasted 
+(Test) 
+Nirmatrelvir 
+(suspension)/ritonavir 
+300/100 mg BID, Fasted 
+(Reference) 
+Ratio 
+(Test/Reference) 
+of Adjusted 
+Geometric Means 
+90% CI 
+of Ratio 
+AUCtau 
+(ng.hr/mL) 
+46292 
+33346 
+1.39 
+(1.29,1.49) 
+Cmax 
+(ng/mL) 
+5546.1 
+4677.5 
+1.19 
+(1.13, 1.25) 
+Source: Study 1015. 
+Note: Natural log-transformed AUCtau and Cmax for PF-07321332 were analyzed using a mixed effect model with treatment as fixed 
+effect and participant as a random effect. 
+Note: The ratios (and 90% CIs) were expressed as percentages. 
+Note: Values in table are the adjusted geometric means. 
+Abbreviations: AUCtau, area under the concentration-time curve over the dosing interval; BID, twice daily; CI, confidence interval; 
+Cmax, maximum plasma concentration; QD, once per day 
+Effect of Carbamazepine on Nirmatrelvir/Ritonavir 
+Study 1014 evaluated the PK of nirmatrelvir and ritonavir in twelve healthy adults with and 
+without carbamazepine (a strong CYP3A inducer) coadministration.  
+Participants received the oral treatments described below. 
+Period 1 
+• Nirmatrelvir 300 mg (as two 150-mg tablets), administered orally with ritonavir 100 mg (as 
+one 100-mg tablet) as a single dose on Day 1 following an overnight fast. 
+Period 2 
+• Carbamazepine 100 mg BID administered orally on Days 1, 2, and 3, and titrated up to 200 
+mg BID on Days 4, 5, 6, and 7. Carbamazepine was eventually titrated up to and maintained 
+at 300 mg BID stably in the rest of Period 2 from Days 8 to 15. Carbamazepine was 
+administered with or without food on all study days except on Study Day 14 when dosing 
+was under fasting conditions. Approximately 15 to 30 min after the carbamazepine dose, on 
+Period 2 Day 14, participants received a single dose of nirmatrelvir 300 mg (as two 150-mg 
+tablets), administered orally with ritonavir 100 mg (as one 100-mg tablet). 
+For measurement of nirmatrelvir and ritonavir concentrations, intensive blood samples were 
+collected at pre-dose and up to 48 hours post dose post-dose in Period 1, and at Day 14 pre-dose, 
+and at up to 48 hours post-dose in Period 2. 
+Coadministration of multiple oral doses of carbamazepine titrated up to 300 mg BID decreased 
+single dose nirmatrelvir AUCinf and Cmax by approximately 55% and 43%, respectively 
+(Figure 33, Table 96 and Table 97). Carbamazepine titrated up to 300 mg BID decreased single 
+dose ritonavir AUCinf and Cmax by approximately 83% and 74%, respectively (Figure 34, 
+Table 98, and Table 99). 
+Reference ID: 5179402
+
+
+===== PAGE 235 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+205 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Figure 33. Median Plasma Nirmatrelvir Concentration-Time Profiles Following a Single Oral Dose 
+of Nirmatrelvir/Ritonavir Administered Alone or With Multiple Oral Doses of Carbamazepine, 
+Linear Scale 
+ 
+Source: Study 1014. 
+Table 96. Descriptive Summary of Plasma Nirmatrelvir PK Parameters, Study 1014 
+Parameter (unit) 
+Nirmatrelvir 300 mg/ 
+Ritonavir 100 mg 
+(N=12) 
+Carbamazepine + 
+Nirmatrelvir 300 mg/ 
+Ritonavir 100 mg 
+(N=12) 
+N2, N3a,b 
+12, 12 
+10, 10 
+AUCinf (ng.hr/mL) 
+23010 (23) 
+10280 (58) 
+AUClast (ng.hr/mL) 
+22450 (23) 
+10050 (58) 
+CL/F (L/hr) 
+13.06 (23) 
+29.17 (58) 
+Cmax (ng/mL) 
+2210 (33) 
+1300 (43) 
+t1/2 (hr) 
+6.053 ± 1.7939 
+3.845 ± 0.99642 
+Tmax (hr) 
+3.00 (1.02-6.00) 
+1.50 (0.500-4.00) 
+VZ/F (L) 
+109.4 (38) 
+157.2 (69) 
+Source: Study 1014. 
+Note: Geometric mean (Geometric %CV) for all except Median (Range) for Tmax and arithmetic mean ± SD for t1/2. 
+a, N2 = Number of participants contributing to the summary statistics 
+b. N3 = Number of participants contributing to the summary statistics for AUCinf, CL/F, t1/2 and VZ/F. 
+Abbreviations: AUCinf, area under the concentration-time curve to infinity; AUCtau, area under concentration-time curve over dosing 
+interval; CL/F, apparent clearance; Cmax, maximum plasma concentration; N, total number of participants in the treatment group in 
+the indicated population; PK, pharmacokinetic; t1/2, half-life; Tmax, time for drug to reach maximum concentration; VZ/F, apparent 
+volume of distribution 
+Reference ID: 5179402
+
+
+===== PAGE 236 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+206 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Table 97. Statistical Summary of Nirmatrelvir PK Parameters, Study 1014 
+Parameter (unit) 
+Carbamazepine + 
+Nirmatrelvir 300 mg/ 
+Ritonavir 100 mg 
+(Test) 
+Nirmatrelvir 300 mg/ 
+Ritonavir 100 mg 
+(Reference) 
+Ratio 
+(Test/Reference) 
+of Adjusted 
+Geometric Means 
+90% CI of 
+Ratio 
+AUCinf (ng.hr/mL) 
+10240 
+23010 
+0.45 
+(0.34, 0.59) 
+AUClast (ng.hr/mL) 
+10010 
+22450 
+0.45 
+(0.34, 0.59) 
+Cmax (ng/mL) 
+1256 
+2210 
+0.57 
+(0.47, 0.69) 
+Source: Study 1014. 
+Note: Natural log-transformed AUCinf, AUClast and Cmax for PF-07321332 are analyzed using a mixed effect model with treatment as 
+fixed effect and participant as a random effect. 
+Note: The ratio (and 90% CIs) are expressed as percentages. 
+Note: Values in table are the adjusted geometric means. 
+Abbreviations: AUCinf, area under the concentration-time curve to infinity; AUClast, area under the concentration-time curve from the 
+time of dosing to the last measurable concentration; CI, confidence interval; Cmax, maximum plasma concentration; 
+PK, pharmacokinetic 
+Figure 34. Median Plasma Ritonavir Concentration-Time Profiles Following a Single Oral Dose of 
+Nirmatrelvir/Ritonavir Administered Alone or With Multiple Oral Doses of Carbamazepine, Linear 
+Scale 
+ 
+Source: Study 1014. 
+Table 98. Descriptive Summary of Plasma Ritonavir PK Parameters, Study 1014 
+Parameter (unit) 
+Nirmatrelvir 300 mg/ 
+Ritonavir 100 mg 
+(N=12) 
+Carbamazepine + 
+Nirmatrelvir 300 mg/ 
+Ritonavir 100 mg 
+(N=12) 
+N2, N3a,b 
+12, 12 
+10, 8 
+AUCinf (ng.hr/mL) 
+3599 (47) 
+677.6 (61) 
+AUClast (ng.hr/mL) 
+3414 (47) 
+466.2 (104) 
+CL/F (L/hr) 
+27.78 (48) 
+147.6 (61) 
+Cmax (ng/mL) 
+359.3 (46) 
+96.07 (71) 
+Reference ID: 5179402
+
+
+===== PAGE 237 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+207 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Parameter (unit) 
+Nirmatrelvir 300 mg/ 
+Ritonavir 100 mg 
+(N=12) 
+Carbamazepine + 
+Nirmatrelvir 300 mg/ 
+Ritonavir 100 mg 
+(N=12) 
+t1/2 (hr) 
+6.149 ± 2.2413 
+3.345 ± 0.79964 
+Tmax (hr) 
+3.98 (1.48-4.20) 
+1.98 (0.983-4.00) 
+VZ/F (L) 
+234.0 (36) 
+697.5 (51) 
+Source: Study 1014. 
+a. N2 = Number of participants contributing to the summary statistics 
+b. N3 = Number of participants contributing to the summary statistics for AUCinf, CL/F, t1/2 and VZ/F. 
+Note: Geometric mean (Geometric %CV) for all except Median (Range) for Tmax and arithmetic mean ± SD for t1/2. 
+Abbreviations: AUCinf, area under the concentration-time curve to infinity; AUClast, area under the concentration-time curve from the 
+time of dosing to the last measurable concentration; CL/F, apparent clearance; Cmax, maximum plasma concentration; N, total 
+number of participants in the treatment group in the indicated population; PK, pharmacokinetic; t1/2, half-life; Tmax, time for drug to 
+reach maximum concentration; VZ/F, apparent volume of distribution 
+Table 99. Statistical Summary of Ritonavir PK Parameters, Study 1014 
+Parameter (unit) 
+Carbamazepine + 
+Nirmatrelvir 300 mg/ 
+Ritonavir 100 mg 
+(Test) 
+Nirmatrelvir 300mg/ 
+Ritonavir 100 mg 
+(Reference) 
+Ratio 
+(Test/Reference) 
+of Adjusted 
+Geometric Means 
+90% CI of 
+Ratio 
+AUCinf (ng.hr/mL) 
+596.4 
+3599 
+0.17 
+(0.13, 0.20) 
+AUClast (ng.hr/mL) 
+441.1 
+3414 
+0.13 
+(0.09, 0.18) 
+Cmax (ng/mL) 
+91.94 
+359.3 
+0.25 
+(0.19, 0.35) 
+Source: Study 1014. 
+Note: Natural log-transformed AUCinf, AUClast and Cmax for PF-07321332 are analyzed using a mixed effect model with treatment as 
+fixed effect and participant as a random effect. 
+Note: The ratio (and 90% CIs) are expressed as percentages. 
+Note: Values in table are the adjusted geometric means. 
+Abbreviations: AUCinf, area under the concentration-time curve to infinity; AUClast, area under the concentration-time curve from the 
+time of dosing to the last measurable concentration; CI, confidence interval; Cmax, maximum plasma concentration; 
+PK, pharmacokinetic 
+Effect of Nirmatrelvir/Ritonavir and Ritonavir on Dabigatran 
+Study 1012 evaluated the effect of nirmatrelvir/ritonavir and ritonavir on the PK of dabigatran (a 
+P-gp substrate) in 24 healthy participants. Each participant received three treatments, each 
+followed by a 3-day washout period. 
+Treatment 1 
+• Dabigatran 75 mg as a single oral dose.  
+Treatment 2 
+• Nirmatrelvir/ritonavir 300 mg/100 mg q12hours as a multiple oral dose over a period of  
+2 days. In the morning on Day 2, 75 mg of dabigatran was administered orally as a single 
+dose.  
+Treatment 3 
+• Ritonavir 100 mg q12h as a multiple oral dose over a period of 2 days. In the morning on 
+Day 2, 75 mg of dabigatran was administered orally as a single dose.  
+Blood samples were collected pre-dose and up to 48 hours post-dose in each treatment group for 
+PK assessments of nirmatrelvir, ritonavir and dabigatran.  
+Reference ID: 5179402
+
+
+===== PAGE 238 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+208 
+Integrated Review Template, version 3.0 (05/25/2022) 
+The percent ratio of geometric means (90% CI) for dabigatran AUCinf and Cmax were 1.94 (1.55, 
+2.44) and 2.33 (1.72, 3.16) respectively, following dabigatran administration with multiple doses 
+of nirmatrelvir/ritonavir combination as compared to administration alone (Figure 35 and 
+Table 100). 
+Figure 35. Median Plasma Dabigatran Concentration-Time Profiles Following A Single Oral Dose 
+Administered Alone and in Combination With Multiple Oral Doses of Nirmatrelvir/Ritonavir or 
+Ritonavir 
+ 
+Source: Study 1012. 
+Table 100. Statistical Summary of Plasma Dabigatran PK Parameters, Study 1012 
+Parameter (Unit) 
+Test 
+Reference 
+Ratio 
+(Test/Reference) 
+of Adjusted 
+Geometric Means 
+90% CI 
+of Ratio 
+Nirmatrelvir 300 mg + Ritonavir 100mg + Dabigatran 75 mg vs. Dabigatran 75 mg 
+AUCinf (ng.hr/mL) 
+1221 
+627.9 
+1.94 
+(1.55, 2.44) 
+AUClast (ng.hr/mL) 
+1201 
+558.3 
+2.15 
+(1.60, 2.90) 
+Cmax (ng/mL) 
+158.3 
+67.91 
+2.33 
+(1.72, 3.16) 
+Ritonavir 100mg + Dabigatran 75 mg vs. Dabigatran 75 mg 
+AUCinf (ng.hr/mL) 
+1062 
+627.9 
+1.69 
+(1.35, 2.11) 
+AUClast (ng.hr/mL) 
+893.5 
+558.3 
+1.60 
+(1.19, 2.15) 
+Cmax (ng/mL) 
+116.7 
+67.91 
+1.72 
+(1.28, 2.32) 
+Source: Study 1012. 
+Note: Natural log-transformed AUCinf, AUClast and Cmax for Dabigatran are analyzed using a mixed effect model with sequence, 
+period and treatment as fixed effects and participant within sequence as a random effect. 
+Note: The ratio (and 90% CIs) are expressed as percentages. 
+Note: Reduced dataset excluded profiles where all concentrations were BLQ and Cmax and AUClast 
+Note: Values in table are the adjusted geometric means. 
+Abbreviations: AUCinf, area under the concentration-time curve to infinity; AUClast, area under the concentration-time curve from the 
+time of dosing to the last measurable concentration; BLQ, below limit of quantitation; CI, confidence interval; Cmax, maximum plasma 
+concentration; PK, pharmacokinetic 
+Reference ID: 5179402
+
+
+===== PAGE 240 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+210 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Figure 36. Median Plasma Midazolam Concentration-Time Profiles Following A Single Oral Dose 
+Administered Alone and in Combination With Multiple Oral Doses of Nirmatrelvir/Ritonavir or 
+Ritonavir 
+ 
+Source: Study 1013 
+Table 101. Statistical Summary of Plasma Midazolam PK Parameters, Study 1013 
+Parameter (Unit) 
+Test 
+Reference 
+Ratio 
+(Test/Reference) 
+of Adjusted 
+Geometric Means 
+90% CI 
+ of Ratio 
+Nirmatrelvir 300 mg/Ritonavir 100mg + Midazolam 2 mg vs. Midazolam 2 mg 
+AUCinf (ng.hr/mL) 
+362.5 
+25.35 
+14.30 
+(12.04, 17.00) 
+AUClast (ng.hr/mL) 
+353.4 
+24.35 
+14.51 
+(12.24, 17.21) 
+Cmax (ng/mL) 
+36.29 
+9.852 
+3.68 
+(3.19, 4.25) 
+Ritonavir 100mg + Midazolam 2 mg vs. Midazolam 2 mg 
+AUCinf (ng.hr/mL) 
+417.1 
+25.35 
+16.45 
+(13.86, 19.53) 
+AUClast (ng.hr/mL) 
+408.3 
+24.35 
+16.77 
+(14.14, 19.89) 
+Cmax (ng/mL) 
+38.15 
+9.852 
+3.87 
+(3.35, 4.47) 
+Source: Study 1013. 
+Note: Natural log-transformed AUCinf, AUClast and Cmax for Midazolam are analyzed using a mixed effect model with sequence, 
+period, and treatment as fixed effects and participant within sequence as a random effect. 
+Note: The ratio (and 90% CIs) are expressed as percentages. 
+Note: Values in table are the adjusted geometric means. 
+Abbreviations: AUCinf, area under the concentration-time curve to infinity; AUClast, area under the concentration-time curve from the 
+time of dosing to the last measurable concentration; CI, confidence interval; Cmax, maximum plasma concentration; 
+PK, pharmacokinetic 
+14.3. Bioanalytical Method Validation and 
+Performance 
+Bioanalytical methods used to measure nirmatrelvir and ritonavir concentrations in human 
+plasma, urine and dried blood were fully validated and met precision and accuracy acceptance 
+criteria (±15%, ±20% at the lower limit of quantification (LLOQ), see Table 102).  
+Reference ID: 5179402
+
+
+===== PAGE 265 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+235 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Table 110. E-R Analysis for Safety Events in EPIC-HR 
+AEs  
+Grade 
+Assessed 
+Event 
+Number (%)a 
+Exposure in 
+Final Model 
+Slope 
+p-value 
+for E-R 
+AUCROC 
+Dysgeusia 
+≥ Grade 1 
+63 (2.86%) 
+Cmax (ng/mL) 
+0.000502 
+p<0.0001 
+0.742 (0.697-0.788) 
+Headache 
+≥ Grade 1 
+30 (1.36%) 
+Cmin (ng/mL) 
+3.47E-05 
+p=0.8765 
+0.514 (0.411-0.616) 
+Diarrhea 
+≥ Grade 1 
+52 (2.36%) 
+Cmin (ng/mL) 
+0.000369 
+p=0.0158 
+0.593 (0.518-0.668) 
+Nausea 
+≥ Grade 1 
+34 (1.54%) 
+Cmax (ng/mL) 
+1.93E-05 
+p=0.8424 
+0.512 (0.408-0.617) 
+Vomiting 
+≥ Grade 1 
+21 (0.95%) 
+Cmax (ng/mL) 
+0.000119 
+p=0.3216 
+0.564 (0.434-0.694) 
+Hypertension 
+≥ Grade 1 
+8 (0.36%) 
+Cmax (ng/mL) 
+0.000324 
+p=0.0899 
+0.693 (0.494-0.892) 
+Source: Applicant’s clinical pharmacology IR response on August 30, 2022, Table 1 and 2; Synopsis from Applicant’s ER-safety report. 
+a. Event numbers includes all participants regardless of treatment group. % = % total of study participants. 
+Abbreviations: AE, adverse event; AUCROC, area under the receiving operating characteristic curve; Cmax, maximum plasma concentration; Cmin, minimum plasma concentration; 
+E, exponentiation with base 10; E-R, exposure-response 
+Table 111. E-R Analysis for Lab Abnormalities in EPIC-HR 
+Lab Test (Unit) 
+Clinical Cut-Off 
+Event 
+Number (%)a 
+Exposure in the 
+Final Model 
+Slope 
+p-value 
+for E-R 
+AUCROC 
+aPTT (sec) 
+> 1.1 x ULN 
+366 (16.62%) 
+Cmax (ng/mL) 
+-1.61E-05 
+p=0.6203 
+0.507 (0.477-0.537) 
+Prothrombin time (sec) 
+> 1.1 x ULN 
+202 (9.17%) 
+Cmin (ng/mL) 
+-7.91E-05 
+p=0.3922 
+0.515 (0.473-0.554) 
+Platelets (10^9/L) 
+<0.5 x LLN 
+5 (0.23%) 
+AUCtau (ng*hr/mL) 
+0.000876 
+p=0.9928 
+0.747 (0.737-0.758) 
+Platelets (10^9/L) 
+> 1.75 ULN 
+15 (0.68%) 
+Cmin (ng/mL) 
+0.000361 
+p=0.3079 
+0.56 (0.417-0.703) 
+Leukocytes (10^9/L) 
+< 0.6 x LLN 
+10 (0.45%) 
+AUCtau (ng*hr/mL) 
+-6.70E-05 
+p=0.0493 
+0.68 (0.548-0.813) 
+Leukocytes (10^9/L) 
+>1.5 x ULN 
+25 (1.14%) 
+Cmax (ng/mL) 
+7.59E-05 
+p=0.4949 
+0.528 (0.428-0.627)) 
+Glucose (mg/dL) 
+>1.5 x ULN 
+156 (7.08%) 
+Cmin (ng/mL) 
+-4.58E-05 
+p=0.6576 
+0.482 (0.442-0.523) 
+Creatinine Kinase (U/L) 
+> 2.0 x ULN 
+116 (5.27%) 
+Cmin (ng/mL) 
+0.00012 
+p=0.2912 
+0.516 (0.467-0.564) 
+Fibronogen (mg/dL)b 
+> 1.25 x baseline 
+413 (18.76%) 
+AUCtau (ng*hr/mL) 
+-1.50E-05 
+p<0.0001 
+0.558 (0.53-0.587) 
+D-Dimerb 
+> 1.5 x ULN 
+325 (14.76%) 
+Cmin (ng/mL) 
+0.000169 
+p=0.0274 
+0.551 (0.519-0.583) 
+Source: Applicant’s clinical pharmacology IR response on August 30, 2022, Table 1 and 2; Synopsis from Applicant’s ER-safety report. 
+a. Event numbers includes all participants regardless of treatment group. %=% total of study participants. 
+b. Treatment-emergent AEs. 
+Abbreviations: AE, adverse event; aPTT, activated partial thromboplastin time; AUCROC, area under the receiving operating characteristic curve; Cmax, maximum plasma concentration; 
+Cmin, minimum plasma concentration; E, exponentiation with base 10; E-R, exposure-response 
+ 
+Reference ID: 5179402
+
+
+===== PAGE 267 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+237 
+Integrated Review Template, version 3.0 (05/25/2022) 
+pharm-ir-05oct2022, resp-fda-ir-pbpk-01-nov-2022, response-30-oct-22-ir-alt-dosage, resp-
+13dec2022-ir-clin-pharmacology), and the modeling supporting files to conclude that: 
+• The ritonavir model used by the Applicant is inadequate to predict the effects of CYP3A 
+inducers on the exposure of nirmatrelvir/ritonavir combination.  
+• The reviewer used an alternative ritonavir model and predicted that weak and moderate 
+CYP3A inducers are expected to have minimal effects on nirmatrelvir exposure in the 
+nirmatrelvir/ritonavir 300/100 mg product. 
+Background 
+Nirmatrelvir (also known as PF-07321332) is a severe acute respiratory syndrome coronavirus 2 
+(SARS-CoV-2) main protease (Mpro: also referred to as 3CLpro or nsp5 protease) inhibitor, 
+currently being developed for the treatment of mild-to-moderate coronavirus disease 2019 
+(COVID-19) in adults
+ 
+who are at high risk for progression 
+to severe COVID-19, including hospitalization or death. PAXLOVID is 300 mg nirmatrelvir 
+(two 150 mg tablets) co-packaged with 100 mg ritonavir (one 100 mg tablet). Ritonavir is not 
+active against SARS-CoV-2 Mpro. Ritonavir inhibits the CYP3A-mediated metabolism of 
+nirmatrelvir, resulting in increased plasma concentrations of nirmatrelvir. These three tablets 
+must be taken together twice daily for 5 days with or without food.  
+Following oral administration of nirmatrelvir/ritonavir, the increase in systemic exposure of 
+nirmatrelvir was less than dose proportional up to 750 mg as a single dose and up to 500 mg 
+twice daily as multiple doses (C4671001). Twice-daily dosing over 10 days achieved steady state 
+on Day 2 with approximately 2-fold accumulation (C4671001). After a standardized FDA high-
+fat meal, the mean Cmax and AUC of nirmatrelvir increased approximately 61% and 20%, 
+compared to the fasted state, following administration of a 300 mg nirmatrelvir  
+(2x 150 mg)/100 mg ritonavir tablets (C4671019).  
+Nirmatrelvir is extensively metabolized in vitro, and fraction metabolized by CYP3A4 was 
+estimated to be 99% (084546 and 072016). In the presence of 100-mg ritonavir, the mean AUC 
+and Cmax of nirmatrelvir increased approximately 8- and 3.3-fold, respectively, confirming that 
+nirmatrelvir is a sensitive CYP3A substrate (C4671001). Following coadministration of 300/100 
+mg nirmatrelvir/ritonavir twice daily with 200 mg itraconazole once daily, nirmatrelvir AUC and 
+Cmax increased 38.8% and 18.6%, respectively, suggesting that majority of the CYP3A pathway 
+in nirmatrelvir elimination was blocked by ritonavir (C4671015). The results from the human 
+ADME study, conducted with a single 300 mg nirmatrelvir co-administered with 100-mg 
+ritonavir given at -12, 0, 12 and 24 hours relative to nirmatrelvir dosing, showed that 
+approximately 49.6% and 35.3% of radioactivity dose were recovered in the urine (46.7% 
+unchanged parent) and the feces (23.3% unchanged parent), respectively and none of the 
+metabolites formed in the in vitro metabolism studies were observed (C4671001).  
+Based on in vitro drug interaction studies, nirmatrelvir is determined to be a competitive and 
+time-dependent inhibitor and an inducer of CYP3A (Table 112). Nirmatrelvir is a substrate of 
+P-gp, but not a substrate of BCRP, OATP1B1/3, OATP2B1, NTCP, OCT1/2, OAT1/2/3, 
+MATE1/2K, PEPT1 and OATP4C1 (Study PF-07321332_24Nov20_114514 and_110227, 
+Studies PF-07321332_23Jul21_124535, PF-07321332_14Jul21_013448, and PF-
+07321332_10Aug21_124557). Nirmatrelvir has low potential to inhibit various efflux and uptake 
+Reference ID: 5179402
+(b) (4)
+
+
+===== PAGE 268 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+238 
+Integrated Review Template, version 3.0 (05/25/2022) 
+transporters except for P-gp and OATP1B1 (Table 112). In addition to the interaction studies 
+with itraconazole and ritonavir, the Applicant conducted clinical DDI studies with 
+carbamazepine (C4671014), dabigatran (C4671012) and midazolam (C4671013) to evaluate 
+some of the in vitro findings. Refer to the Clinical Pharmacology review section for detail 
+information on nirmatrelvir regarding ADME properties, in vitro and clinical studies used in the 
+PBPK modeling. 
+Methods 
+Simulations were performed using the PK/PD Profiles mode in the Simcyp® Simulator 
+(Versions 21, Certara, Sheffield, UK). Schemes of the PBPK modeling and simulation strategy 
+are shown in Figure 53, which summarizes the studies used for nirmatrelvir model development 
+and verification, and model applications in predicting DDI with weak and moderate CYP3A 
+inducers. The final model input parameters were summarized in Table 112. The nirmatrelvir 
+PBPK model consists of a first-order absorption model, a full PBPK model (method 2) for 
+distribution, and an enzyme kinetics model and renal clearance for elimination. The Simcyp 
+library files ritonavir first-order compound file (SV-ritonavir_FO), itraconazole and metabolite 
+(SV-Itraconazole_Fasted Soln and SV-OH-Itraconazole), carbamazepine and metabolite (SV-
+Carbamazepine and SV-Carbamazepine-10,11-epoxide), and midazolam (Sim-Midazolam) were 
+used without any modification unless otherwise noted. Simulations were performed in a virtual 
+healthy subject population (sim-Healthy Volunteers). 
+Figure 53. Modeling and Simulation Strategy 
+ 
+Source: Reviewer generated based on the PBPK report 083028. 
+Abbreviations: BA, bioavailability; CLrenal, renal clearance; CLpo, oral clearance; CYP, cytochrome P450; DDI, drug-drug interaction; 
+fa, fraction absorbed; fm,CYP3A, fraction metabolized by CYP3A; IndC50, concentration at the half of maximal fold induction; Indmax, 
+maximum fold induction; ka, absorption rate constant; Ki, reversible inh bition rate constant; kinact, maximal enzyme inactivation rate 
+constant measured for a time-dependent inhibitor; Kapp, unbound inhibitor concentration at 50% kinact; ; MAD, multiple ascending 
+dose; MD, multiple dose; NMV, nirmatrelvir; PBPK, physiological-based pharmacokinetics; PK, pharmacokinetics; QD, once per 
+day; RTV, ritonavir; SAD, single ascending dose; SD, single dose; Vss, steady-state volume of distribution; Kp, tissue:plasma 
+partition coefficients;   
+Reference ID: 5179402
+
+
+===== PAGE 271 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+241 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Table 113. Simulated and Observed PK Parameters Following Oral Administration of Single and 
+Multiple Doses of Nirmatrelvir/Ritonavir in Healthy Subjects  
+ 
+Source: Tables 5 and 6 in the PBPK report 083028. 
+Note: Geometric means are reported.  
+Abbreviations: AUCinf, area under the concentration-time curve to infinity; Cmax, maximum plasma concentration; NMV, nirmatrelvir; 
+q12h, every 12 hours; PBPK, physiological-based pharmacokinetics; RTV, ritonavir; SD, single dose; 
+ 
+suspension formulation 
+Can PBPK Analyses Predict the Effects of CYP3A Inducers on the PK of Nirmatrelvir? 
+The ritonavir model used by the Applicant is inadequate to predict the effects of CYP3A 
+inducers on the exposure of nirmatrelvir/ritonavir combination. The reviewer developed and 
+verified an alternative ritonavir model for this intended purpose. The reviewer’s analysis 
+predicted that weak and moderate CYP3A inducers are expected to have minimal effects on 
+nirmatrelvir exposure in the nirmatrelvir/ritonavir combination product. The reviewer’s 
+assessment is detailed below. 
+FDA’s Assessment 
+Nirmatrelvir is predominantly metabolized by CYP3A. The main function of the ritonavir 
+component in PAXLOVID is to boost the plasma exposure of nirmatrelvir through its strong 
+inhibitory effect on CYP3A enzyme. The clinical DDI study with carbamazepine showed that the 
+strong CYP3A inducer carbamazepine decreased plasma AUC of ritonavir by 83% (C4671014), 
+presumably via CYP3A induction because ritonavir is also a CYP3A substrate. Consequently, 
+the plasma AUC of nirmatrelvir reduced by 55% (C4671014) due to decrease in CYP3A 
+inhibition by ritonavir and increase in CYP3A-mediated elimination of nirmatrelvir. Therefore, 
+besides evaluating the adequacy of the nirmatrelvir PBPK model, whether the ritonavir PBPK 
+model could reproduce the effects of CYP perpetrators on ritonavir will be one of the key factors 
+to determine the adequacy of the modeling analysis for predicting effects of moderate and weak 
+CYP3A inducers on nirmatrelvir exposure in the nirmatrelvir/ritonavir product. 
+Ritonavir PBPK Model 
+The default SV-ritonavir_FO model the Applicant used has not been verified for its use as a 
+victim of DDI. FDA requested the Applicant to (1) demonstrate the ability of the ritonavir model 
+could adequately simulate the ritonavir PK profiles and exposure at different doses, especially 
+doses lower than 100 mg, following administration of single- and multiple-dose of ritonavir, and 
+(2) simulate the DDI studies with itraconazole (C4671015) and carbamazepine (C4671014) to 
+verify that the PBPK models of nirmatrelvir and ritonavir could simulate the observed effects of 
+Cmax ng/mL
+AUCinf 
+ng•h/mL
+Cmax 
+ng/mL
+AUCinf 
+ng•h/mL
+Cmax 
+AUCinf 
+Nirmatrelvir 
+4871
+10580
+4670
+11111
+0.96
+1.05
+C4671008
+ NMV 
+ 300 mg SD+ RTV 100 mg  q12h, 3 doses
+8840
+48680
+8157
+42399
+0.92
+0.87
+C4671008
+ NMV (tablet) 300 mg SD+ RTV 100 mg  q12h, 3 dose
+3347
+35540
+3260
+31348
+0.97
+0.88
+C4671008
+NMV (tablet)/RTV 300/100 mg SD
+3696
+36810
+3404
+33226
+0.92
+0.90
+C4671019
+NMV (tablet)/RTV 300/100 mg q12h, 5 days
+3875
+30680
+3815
+29129
+0.98
+0.95
+C4671013
+NMV (tablet)/RTV 300/100 mg q12h, 3 doses
+4065
+30080
+3788
+28707
+0.93
+0.95
+C4671012
+NMV (suspension)/RTV 300/100 mg q12h, 5 doses
+4678
+33350
+3921
+30611
+0.84
+0.92
+C4671015
+NMV (tablet)/RTV 300/100 mg SD
+2210
+23010
+2768
+25527
+1.25
+1.11
+C4671014
+Model 
+verificaton
+Simulation 
+purposes
+Clinical 
+studies
+Dosing Regimen
+Observed
+Simulated 
+Simulated/Observed
+Model 
+development
+Reference ID: 5179402
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 272 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+242 
+Integrated Review Template, version 3.0 (05/25/2022) 
+CYP3A perpetrators on nirmatrelvir and ritonavir, respectively (FDA information request issued 
+on December 13, 2022).  
+The simulation results are summarized in Table 114, Table 115 and Figure 55. Ritonavir 
+exposure was reasonably well predicted for the doses ranging from 100 mg to 300 mg, but its 
+exposure was underpredicted for doses above 400 mg and was overpredicted for doses less than 
+100 mg (Table 114). Therefore, the nonlinear PK of ritonavir was not well characterized by the 
+default SV-ritonavir_FO model. Moreover, PBPK analyses could not reproduce the results from 
+the carbamazepine DDI study. The PBPK simulation overpredicted ritonavir plasma 
+concentrations and underpredicted the effect of carbamazepine on ritonavir exposure following 
+co-administration of nirmatrelvir/ritonavir with carbamazepine (Table 115 and Figure 55). As a 
+result of overprediction of ritonavir exposure, minimal effects of carbamazepine on nirmatrelvir 
+PK were predicted, which is inconsistent with the 55% reduction in nirmatrelvir AUC observed 
+in the study (C4671014). Therefore, the default SV-ritonavir_FO model was considered not 
+suitable for predicting the effects of CYP3A inducers on ritonavir as a booster in a combination 
+product. 
+Table 114. Simulated and Observed Ritonavir Exposure Following Single or Multiple Doses of 
+Ritonavir 
+ 
+Source: PBPK report 083028, Reviewer’s independent analysis and literature references(details in the table). 
+Note: AUC = AUC0-inf for SD. AUC24h for QD. AUC12h for BID. 
+a. Co-administered with venetoclax. 
+b. Co-administered with nirmatrelvir. 
+c. Co-administered with elvitegravir. 
+Abbreviations: AUC, area under the concentration-time curve; BID, twice daily; Cmax, maximum plasma concentration; 
+PBPK, physiological-based pharmacokinetics; PMID, PubMed unique identifier; QD, once per day; SD, single dose 
+Table 115. Geometric Means of Simulated and Observed PK Parameters of Ritonavir and 
+Nirmatrelvir in the Presence of Carbamazepine 
+Paxlovid 
+Cmax,ind  
+(ng/mL) 
+AUC0-inf, ind 
+(ng*h/mL) 
+Cmax 
+Ratio 
+AUC0-inf 
+Ratio 
+Trials 
+Ritonavir 
+Observed 
+Simulated 
+Sim/obs 
+Cmax (ng/mL)
+AUC 
+(ng•h/mL)
+Cmax (ng/mL)
+AUC 
+(ng•h/mL)
+Cmax 
+AUC 
+20 mg SD 
+44.7
+235
+63.5
+461
+1.42
+1.96
+50 mg SD 
+94
+862
+164
+1651
+1.74
+1.92
+50 mg QD 11 days a
+257
+2650
+334
+3466
+1.30
+1.31
+PMID: 29302721
+100 mg BID 5 dosesb 
+1440
+7185
+978
+7550
+0.68
+1.05
+C4671015
+100 mg SDb 
+359
+3599
+446
+4338
+1.24
+1.21
+C4671014
+20 mg QD 10 days c
+20
+134
+111
+930
+5.71
+6.94
+50 mg QD 10 days c
+130
+1120
+362
+3399
+2.78
+3.03
+100 mg QD 10 days c
+807
+6530
+818
+7904
+1.01
+1.21
+200 mg QD 10 days c
+2460
+16000
+1734
+17131
+0.70
+1.07
+100 mg BID 16 days
+890
+6200
+1073
+8966
+1.21
+1.45
+PMID: 16338282
+200 mg BID 16 days
+2300
+17100
+2216
+18538
+0.96
+1.08
+300 mg BID 16 days
+3200
+22600
+3371
+28335
+1.05
+1.25
+400 mg BID 16 days
+7400
+48400
+4533
+38217
+0.61
+0.79
+500 mg BID 16 days
+11500
+79900
+5700
+48162
+0.50
+0.60
+Sources of 
+simulated 
+results
+PMID: 23381882
+PMID: 18815591
+Reviewer's 
+analysis
+PMID: 9145841
+Tables 9 and 10 
+in PBPK report 
+083028
+Ritonavir Dosing 
+Regimen
+References of 
+observed data
+Observed mean
+Simulated mean
+Simulated / Observed
+Reference ID: 5179402
+(b) (4)
+
+
+===== PAGE 273 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+243 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Paxlovid 
+Cmax,ind  
+(ng/mL) 
+AUC0-inf, ind 
+(ng*h/mL) 
+Cmax 
+Ratio 
+AUC0-inf 
+Ratio 
+Trials 
+Nirmatrelvir 
+Observed 
+Simulated 
+Sim/obs 
+Source: Applicant’s response to FDA IR (seq0105) simulation output files c4671014-cbz-300mg-bid-plv-300mg-sd.xlsx, c4671014-
+control-plv-300mg-sd.xlsx. 
+Note: For carbamazepine DDI, carbamazepine was given orally 100 mg BID from Days 1 -3, 200 mg BID from Days 4 -7 and 300 
+mg BID from Days 8 -15, and a single dose of nirmatrelvir/ritonavir 300/100 mg was given on Day 14. Ind, in the presence of 
+carbamazepine. 
+Abbreviations: AUC0-inf, area under the concentration-time curve to infinity; AUC0-inf,ind, area under the concentration-time curve to 
+infinity during induction; BID, twice daily; Cmax, maximum plasma concentration; Cmax,ind, maximum plasma concentration during 
+induction; DDI, drug-drug interaction; Ind, induction; PK, pharmacokinetic Sim, simulated 
+Figure 55. Simulated and Observed PK Profiles of Ritonavir and Nirmatrelvir in the Presence of 
+Carbamazepine 
+Source: Applicant’s response to FDA IR (seq0105), simulation output file c4671014-cbz-300mg-bid-plv-300mg-sd.xlsx 
+Note: Depicted are simulated (lines) and observed data (circles). The green lines represent the mean data of the simulated 
+population (n = 120), and the grey and black lines represent 5% and 95% percentiles, respectively. Error bars represent standard 
+deviation. 
+Abbreviations: log, logarithm; n, number of subjects in sample; PK, pharmacokinetic 
+Nirmatrelvir PBPK Model 
+The intrinsic clearance of CYP3A in the nirmatrelvir model was optimized by using sensitivity 
+analysis of fm, CYP3A to recover the nirmatrelvir PK in the presence and absence of a single dose 
+of 100 mg ritonavir in the relative bioavailability study (C4671008, Figure 54 and Table 113). 
+However, ritonavir not only strongly inhibits CYP3A but also increases the AUC of 
+fexofenadine, a P-gp substrate, up to 2.2-fold following a single dose of 100 mg ritonavir 
+(PubMed 16809801). Nirmatrelvir is a substrate of both CYP3A and P-gp. Thus, the differences 
+observed in nirmatrelvir PK in the presence and absence of ritonavir in the abovementioned 
+study could be the net effect of ritonavir inhibition and/or induction on CYP3A and P-gp. The 
+Reference ID: 5179402
+(b) (4)
+(b) (4)
+
+
+===== PAGE 274 =====
+
+NDA 217188 
+PAXLOVID (nirmatrelvir and ritonavir) 
+244 
+Integrated Review Template, version 3.0 (05/25/2022) 
+Applicant performed verification of the nirmatrelvir model using multiple clinical studies 
+(Table 113 and data from the PBPK report 074428 not shown), but these verifications were 
+considered insufficient because all nirmatrelvir PK were simulated in the presence of 100 mg 
+ritonavir. At this dose, ritonavir almost completely inhibits CYP3A activity rendering the 
+contribution of CYP3A to the elimination of nirmatrelvir minimal (C4671001).  
+Despite insufficient verification of fm, CYP3A in the nirmatrelvir PBPK model, the model may still 
+be useful for estimating the effects of CYP3A inducers on nirmatrelvir exposure because the 
+current fm, CYP3A determination may be a conservative estimate as all the effects of ritonavir on 
+nirmatrelvir was attributed to CYP3A inhibition. To test this possibility, the reviewer used this 
+nirmatrelvir model to simulate the effect of carbamazepine on nirmatrelvir exposure by using the 
+ritonavir exposure observed in the presence of carbamazepine. The ritonavir exposure was 
+simulated using the SV-ritonavir-FO model with the following modifications. The “In Vivo 
+Clearance model” was used for its elimination model, instead of “Enzyme kinetics model”, and 
+the clinically observed value of oral clearance of ritonavir (=16.4 L/h) was applied for the dose 
+of 100-mg ritonavir (Mathias et al. 2010). This ‘modified ritonavir model’ could reproduce the 
+observed ritonavir exposure following multiple-dose administration of 100-mg ritonavir and the 
+effects of ritonavir on intravenous (IV) and oral midazolam. The predicted values were mostly 
+within the bioequivalent bounds of the observed values (Table 116). This ‘modified ritonavir 
+model’ was considered verified for the intended purpose, thus used for subsequent simulations. 
+To simulate the effect of carbamazepine, ritonavir dose was reduced from 100 mg to 9 mg so that 
+the simulated AUC of ritonavir matched the observed ritonavir AUC of 596.4 ng*h/mL in the 
+presence of carbamazepine. This was needed since the mechanistic effect of CYP3A induction 
+on ritonavir elimination was not considered in the modified ritonavir model. The simulations 
+reasonably well reproduced the effects observed in the carbamazepine DDI study (Table 117 ), 
+therefore the nirmatrelvir/modified ritonavir models could be used to estimate the effects of 
+moderate CYP3A inducers on nirmatrelvir exposure. 
+Table 116. Prediction of Ritonavir Exposure and the Effects of Ritonavir on IV and Oral Midazolam 
+PK Using the Modified SV-Ritonavir-FO Model 
+Dosing 
+Regimens 
+PK 
+Parameters 
+Ritonavir Exposure 
+Midazolam AUC or Cmax Ratio 
+Observed 
+Predicted 
+Pred./Obs. 
+Observed Predicted 
+Pred./Obs. 
+RTV 100 mg 
+QD 10d + 1 mg 
+MDZ IV D10 
+AUC (mg*h/L) 
+6.53 
+6.77 
+1.04 
+6.8 
+6.62 
+0.97 
+Cmax (mg/L) 
+0.807 
+0.75 
+0.93 
+1 
+1 
+1 
+RTV 100 mg 
+BID 3d + 5 mg 
+MDZ PO D3 
+AUC (mg*h/L) 
+6.2 
+6.77 
+1.09 
+23.9 
+27.1 
+1.13 
+Cmax (mg/L) 
+0.89 
+0.9 
+1.01 
+4.03 
+4.94 
+1.23 
+Source: Reviewer’s analyses. 
+Note: Mean values are reported. Observed data from Aarnoutse et al. and Mathias et al.; Simulations were performed using SV-
+ritonavir-FO_in vivo CL (Aarnoutse et al. 2005; Mathias et al. 2010). 
+Abbreviations: AUC, area under the concentration-time curve; BID

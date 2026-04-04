@@ -1,0 +1,203 @@
+
+
+===== PAGE 13 =====
+
+12
+ PK characteristics of drug
+Plecanatide is not orally bioavailable in humans with essentially no measurable plasma 
+concentration of plecanatide and its major metabolite SP-338 in both healthy subjects and CIC 
+patients.
+2.5.1
+What are the single dose and multiple dose PK parameters of the parent drug and 
+its relevant metabolites in healthy subjects?
+The sponsor attempted to measure plecanatide and its active metabolites SP-338 concentration in 
+plasma in healthy subjects in two phase I studies (SAD study and food effect study).  However, 
+systemic exposures of the parent plecanatide or its active metabolite SP-338 were not detectable 
+in human plasma up to 9 mg plecanatide dose (3 time the clinical dose of 3 mg) with LC-MS/MS 
+bioanalytical method (with LLOQ of 1.0 ng/mL for plecanatide and 0.775 ng/mL for SP-338) 
+suggesting insignificant absorption of plecanatide peptide and its metabolite SP-338 following the 
+oral route of administration in healthy subjects. 
+SAD Study SP-SP304101-08 :
+This was a phase 1, first-in-human, single-site, randomized, double-blind, placebo-controlled, 
+single-ascending-dose study to evaluate the safety, tolerability, PK, and PD of SP-304 oral 
+solution in healthy subjects following single dose administration. A total of 9 cohorts were 
+evaluated in this study at dose levels of 0.1, 0.3, 0.9, 2.7, 5.4, 8.1, 16.2, 24.3, and 48.6 mg SP-
+304. Each cohort consisted of up to 8 subjects randomly assigned in a 3:1 allocation to receive a 
+single dose of either SP-304 (N=6) or placebo (N=2) under fasted conditions. PK samples were 
+collected at pre-dose and at 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, 24, 36, and 48 hours post-dose for 
+determination of SP-304 plasma concentration. None of the plasma samples assayed in this study 
+had a detectable plasma level of SP-304 (LLOQ of 10.0 ng/mL). 
+Food effect Study SP304101-09:
+This was a phase 1, single-center, single-blind, randomized, crossover, 3 sequence, single-dose 
+study of the effect of food on the PD, PK, safety, and tolerability of 9 mg plecanatide tablets and 
+placebo administered orally to 30 healthy adult subjects. This study consisted of 3 treatment 
+periods and 3 treatment conditions (fasted, fed with high fat-high calories meal, and low fat-low 
+calories meal). For each treatment period, PK blood samples were collected at pre-dose and at 
+0.5, 1, 2, 4, 8, 12, 24, and 48 hours post-dose to determine the plasma concentration of 
+plecanatide and SP-338.  Twenty-three of the 24 plecanatide-treated subjects had plecanatide 
+(LLOQ of 1.0 ng/mL) plasma concentrations that were BLOQ for all time-points during all 3 
+treatment periods. Only one subject had measurable concentrations following treatment of 
+plecanatide at 0.5 hour and 1 hour post-dose in the fasted state only (1.99 ng/mL at 0.5 hr and 
+2.18 ng/mL at 1.0 hr post dose). Plasma concentrations of metabolite SP-338 (LLOQ of 0.775 
+ng/mL) were BLOQ for all subjects at all time-points.  Therefore, no PK parameters were 
+estimated. 
+How does the PK of the drug and its major active metabolites in healthy volunteers 
+compare to that in patients?
+The sponsor attempted to measure plecanatide and its active metabolites SP-338 concentration in 
+the plasma in CIC 
+ patient population in 3 phase II studies and in one Phase III study 
+(SP304203-03).  However, systemic exposures of parent drug plecanatide or its active metabolite 
+SP-338 were not detectable up to 9 mg dose with LC-MS/MS  bioanalytical method (with LLOQ 
+of 1.0 ng/mL for plecanatide and 0.775 ng/mL for SP-338) suggesting an insignificant absorption 
+of plecanatide peptide and its metabolite SP-338 following the oral route of administration in CIC 
+patients. 
+Reference ID: 3996096
+(b) (6)
+
+
+===== PAGE 16 =====
+
+15
+HSA/Site IIA
+HSA/Site IIIA
+HSA/QIF
+AGP/Site I
+AGP/QIF
+Compound
+Kd 
+(μM)
+% bound 
+@10 uM
+Kd 
+(μM)
+% bound 
+@10 uM
+Kd 
+(μM)
+% bound 
+@10 uM
+Kd 
+(μM)
+% bound 
+@10 uM
+Kd 
+(μM)
+% bound 
+@10 uM
+SP-304
+NB
+NB
+195
+75.3
+NB
+VB
+NB
+NB
+NB
+NB
+Iophenoxate
+6.8
+98.9
+13.2
+97.8
+2.7
+99.5
+223
+9.9
+NB
+NB
+Chlorpromazine
+NB
+NB
+NB
+NB
+180
+76.7
+3.1
+84.9
+19.6
+52.3
+The test compound, SP-304, did not demonstrate significant binding to HSA, and no binding 
+to AGP was detected using these fluorescent assay methods. The control compounds, 
+chlorpromazine and iophenoxate, demonstrated expected protein binding behavior.
+Reviewer’s Comment:  
+
+This study did not use the commonly utilized methodology of equilibrium dialysis approach to 
+evaluate the potential binding of SP-304 to human plasma protein.  Since plecanatide has 
+almost no detectable level in human plasma with LOQ of 1 ng/mL, this does not raise a major 
+review issue. 
+
+Only two major plasma proteins HAS and AGP were evaluated for potential binding in this 
+study instead of total plasma protein.  As these two protein account for more than 60% of the 
+plasma protein in human plasma and plecanatide has almost no detectable level in human 
+plasma, this does not raise a  review issue. 
+
+The evaluated concentration of 10 µM for % protein binding was reasonable as plecanatide 
+had almost no detectable level in plasma.
+2.4.5.3 What are the characteristics of in-vitro drug metabolism?
+In the simulated intestinal fluid (SIF), plecanatide is rapidly hydrolyzed at its C-terminus by 
+cleavage of the Leu16 resulting in generation of a biologically active metabolite SP-338.  SP-338 
+is further processed by an internal cleavage at Leu6-Cys7 resulting in a biologically inactive 
+Leu6-clipped SP-338.  However, potential metabolites of SP-338 were not quantitated.  The 
+potential metabolism by CYP enzymes in human intestinal microsomes was not evaluated. 
+Study SP-PH-015:
+The stability of plecanatide was evaluated in simulated intestinal fluid (SIF) in the presence and 
+absence of a reducing agent, dithiothreitol (DTT) and a reducing power regenerating system, 
+glutaredoxin.  Plecanatide was incubated in SIF, SIF plus 1mM DTT at 2 mM concentration and 
+with glutaredoxin system at 1mM concentration for 6 hours at room temperature. After the 
+incubation time, iodoacetamide (IAA) was added to the samples to alkylate reduced cysteine 
+residues.  Plecanatide stability was evaluated at the end of 6-hours of  incubation time by 
+assessing the residual biological activity of plecanatide which was assessed by testing for their 
+ability to stimulate cyclic guanosine monophosphate (cGMP)  synthesis in T84 human colon 
+carcinoma cells and was expressed a percentage of residual activity ± S.D as compared to vehicle 
+control (considered as 100%). Half-life of the peptide(s) for each treatment was calculated from 
+non-linear fit plots of time versus residual activity.  
+Table 8: Plecanatide biological activity half-life in SIF in the Presence and Absence of 
+Dithiothreitol and in Glutaredoxin System
+SIF
+SIF + DTT
+Glutaredoxin System
+Half-life of biological activity
+81.6-90.6 min
+31.8 min
+14 min
+Figure 4: Time Dependent Loss of Biological Activity of Plecanatide Following Treatment with 
+SIF and SIF Containing 1 mM DTT and Glutaredoxin System
+Reference ID: 3996096
+
+
+===== PAGE 18 =====
+
+17
+Study SP-PH-018:  
+Plecanatide was incubated up to 2 hours with human intestinal fluid from duodenal, jejunal and 
+ileal, which was collected from a female cadaver within 8 hours of post-mortem.  Plecanatide 
+stability was assessed by monitoring its ability to stimulate cGMP activity in T84-cell bioassay. 
+There was no appreciable reduction in biological activity of plecanatide following incubation 
+with human cadaver intestinal fluids, suggesting lack of proteolytic (peptidases) and reduction 
+capability in the obtained cadaver intestinal fluids. However, the earlier study SP-PH-015 has 
+demonstrated a steady loss of activity in simulated intestinal fluid in the presence or absence of 
+reducing agents.
+2.6
+Intrinsic Factors
+2.6.1
+What intrinsic factors influence exposure (PK of parent and/or relevant 
+metabolites) and/or response, and what is the impact of any differences in exposure 
+on efficacy or safety responses?
+Pediatric: 
+No studies were conducted in pediatric patients. The sponsor requested a waiver for birth to
+ and deferral for 6 month to 
+ years of age. 
+Hepatic impairment: 
+No dedicated hepatic impairment study was conducted in this submission.  As plecanatide has no 
+appreciable amount of absorption in plasma, the lack of hepatic impairment study is acceptable. 
+Renal impairment
+No dedicated renal impairment study was conducted in this submission.  As plecanatide has no 
+appreciable amount of absorption in plasma, the lack of renal impairment study is acceptable. 
+2.7
+Extrinsic Factors
+Reference ID: 3996096
+(b) (4)
+(b) (4)
+(b) 
+(4)

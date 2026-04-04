@@ -1,0 +1,26 @@
+{
+  "nda": "NDA022075",
+  "drug_name": "istradefylline",
+  "pk_tuples": [
+    {
+      "dose_mg": 40,
+      "dose_original": "40 mg once daily",
+      "route": "oral",
+      "formulation": "tablet",
+      "food": "not_specified",
+      "population": "healthy_adult",
+      "n_subjects": null,
+      "dose_schedule": "steady_state",
+      "cmax_ng_ml": null,
+      "tmax_h": 4.0,
+      "auc_inf_ng_h_ml": null,
+      "auc_last_ng_h_ml": 8913.9,
+      "t_half_h": 94,
+      "cl_L_h": 5,
+      "vd_L": 560,
+      "source_page": 113,
+      "confidence": "medium",
+      "notes": "Istradefylline 40 mg QD steady-state AUC0-24 in healthy non-smokers; t1/2 70-118h; Vd/F 450-670L; CL/F 4-6 L/h"
+    }
+  ]
+}

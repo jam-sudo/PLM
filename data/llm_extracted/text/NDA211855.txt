@@ -1,0 +1,655 @@
+
+
+===== PAGE 3 =====
+
+TABLE OF CONTENTS  
+1. EXECUTIVE SUMMARY ......................................................................................................................3  
+1.1 Recommendations ..............................................................................................................................3  
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT .......................................................4  
+2.1 Pharmacology and Clinical Pharmacokinetics....................................................................................4  
+2.1.1 Pharmacokinetic Comparison between Diroximel fumarate and Dimethyl fumarate..................4  
+2.1.2 Effect of Food on the Pharmacokinetics of Monomethyl Fumarate ............................................5  
+2.2 Dosing and Therapeutic Individualization..........................................................................................5  
+2.2.1 General dosing.............................................................................................................................5  
+2.2.2 Therapeutic individualization ......................................................................................................5  
+2.4 Summary of Labeling Recommendations...........................................................................................5  
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW ..........................................................6  
+3.1 Overview of the Product and Regulatory Background .......................................................................6  
+3.2 General Pharmacology and Pharmacokinetic Characteristics.............................................................6  
+3.3 Clinical Pharmacology Review Questions..........................................................................................7  
+3.3.1 To what extent does the available clinical pharmacology information provide pivotal or  
+supportive evidence of effectiveness? .................................................................................................7  
+3.3.2 Is the proposed dosing regimen appropriate for the general patient population for which the  
+indication is being sought? .................................................................................................................10  
+3.3.3 Is an alternative dosing regimen and/or management strategy required for subpopulations  
+based on intrinsic factors?..................................................................................................................10  
+3.3.4 Are there clinically relevant food-drug interactions and what is the appropriate management  
+strategy?.............................................................................................................................................13  
+3.3.5 Are there clinically relevant drug-drug interactions and what is the appropriate management  
+strategy?.............................................................................................................................................21  
+4. APPENDICES........................................................................................................................................25  
+4.1: Summary of Bioanalytical Method Validation and Performance ...................................................25  
+2  
+Reference ID: 4485421 
+
+
+===== PAGE 4 =====
+
+1. EXECUTIVE SUMMARY  
+Diroximel fumarate (DRF, ALKS 8700) is 2-succinimidolethyl methyl fumarate, an aminoethyl 
+ester of monomethyl fumarate (MMF) that undergoes rapid presystemic hydrolysis by esterases 
+to produce MMF (active form of dimethyl fumarate (DMF)). The sponsor is seeking approval for 
+Vumerity (Diroximel fumarate) by submitting a 505(b)(2) application with reliance on the 
+FDA’s previous finding of the safety and effectiveness of DMF for the treatment of relapsing 
+forms of MS (Tecfidera; NDA 204063). 
+As previously agreed with the FDA, the main efficacy evaluation for DRF is based on a 
+pharmacokinetic (PK) bridging approach to the listed drug (LD), Tecfidera (DMF delayed-
+release capsules, 240 mg). Since MMF is the active metabolite of both DRF and DMF, the 
+bridging approach was to demonstrate comparative MMF PK data for DRF and DMF. This PK 
+approach was further supported by ten clinical pharmacology studies to qualify and characterize 
+DRF and its metabolites, e.g. characterize absorption, distribution, metabolism, and excretion, 
+effects on intrinsic and extrinsic factors, and effects on QT interval. The two ongoing Phase 3 
+studies in subjects with RMS (Studies A301 and A302) were designed as long-term safety 
+studies. 
+Diroximel fumarate 462 mg met the bioequivalence (BE) criteria for both AUC and Cmax 
+parameters of MMF relative to DMF 240 mg, under fasted conditions. DRF administered with a 
+high-fat/high/calorie meal met the criteria for BE to DMF based on AUC for MMF, however 
+mean Cmax for MMF was 26% lower compared to that of DMF administered under the same 
+(high fat) conditions, which is out of BE criteria. Administration of DRF after either a low­
+fat/low-calorie or a medium-fat/medium-calorie meal resulted in MMF exposure within the 
+established MMF Cmax window for DMF, establishing the PK bridge between DRF and DMF 
+under these dietary conditions. 
+A consult was sent to the Office of Scientific Inspections and Surveillance (OSIS) requesting 
+clinical and bioanalytical site inspections for BE studies ALK8700-A103, ALK8700-A104 and 
+ALK8700-A109. OSIS concluded that the data are acceptable based on the records of recent 
+(b) (4) 
+inspections for two of the clinical and bioanalytical sites, Alkermes, Inc. and 
+(b) (4) 
+OSIS conducted an inspection of 
+and concluded 
+that the data from the audited studies are reliable to support a regulatory decision (Report issued 
+July 26, 2019). 
+1.1 Recommendations 
+The office of Clinical Pharmacology (OCP) has reviewed the information contained in NDA 
+211855 and finds it acceptable from an OCP perspective. Key review issues with specific 
+recommendations and comments are summarized below: 
+3  
+Reference ID: 4485421 
+
+
+===== PAGE 5 =====
+
+Review Issue 
+Recommendations and Comments 
+Pivotal or supportive evidence of 
+effectiveness 
+Diroximel fumarate 462 mg met the BE criteria for both AUC and 
+Cmax parameters of MMF relative to DMF 240 mg, under fasted 
+conditions. Administration of DRF after either a low-fat/low-calorie 
+or a medium-fat/medium-calorie meal resulted in MMF exposure 
+within the established MMF Cmax window for DMF. DRF 
+administered with a high-fat/high/calorie meal met the criteria for 
+BE to DMF based on AUC for MMF, however mean Cmax for 
+MMF was 26% lower compared to that of DMF. 
+General dosing instructions 
+The dosing recommendations are based on LD and the established 
+PK bridging. Initial titration with a starting dose of 231 mg 
+Vumerity twice a day (bid) for 7 days is recommended, the dose 
+should be increased to the maintenance dose of 462 mg Vumerity 
+bid. Administration of Vumerity with a high-fat, high- calorie meal 
+and with alcohol should be avoided. 
+Dosing in patient subgroups 
+(intrinsic and extrinsic factors) 
+Not recommended in patients with moderate or severe renal 
+impairment due to significant increase in the exposure of DRF 
+major metabolite (HES). 
+Labeling 
+General dosing recommendations are acceptable. Administration of 
+Vumerity with a high-fat, high- calorie meal and with alcohol 
+should be avoided. 
+Bridge between the to-be­
+marketed and clinical trial 
+formulations 
+The to-be-marketed formulation was used in the pivotal BE studies. 
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT 
+2.1 Pharmacology and Clinical Pharmacokinetics 
+Dimethyl fumarate, a pro-drug of monomethyl fumarate, is indicated for the treatment of 
+relapsing forms of MS. Similar to DMF, DRF undergoes rapid pre-systemic hydrolysis by 
+esterases and is converted to the active metabolite, MMF. The mechanism by which MMF exerts 
+its therapeutic effect in multiple sclerosis is unknown. Monomethyl fumarate has been shown to 
+activate the Nuclear factor (erythroid-derived 2)-like 2 (Nrf2) pathway in vitro and in animals 
+and humans. The Nrf2 pathway is involved in the cellular response to oxidative stress. MMF has 
+been identified as a nicotinic acid receptor agonist in vitro. 
+2.1.1 Pharmacokinetic Comparison between Diroximel fumarate and Dimethyl fumarate 
+Diroximel fumarate 462 mg met the bioequivalence (BE) criteria for both AUC and Cmax 
+parameters of MMF relative to DMF 240 mg, under fasted conditions. DRF administered with a 
+high-fat/high/calorie meal met the criteria for BE to DMF based on AUC for MMF, however 
+mean Cmax for MMF was 26% lower compared to that of DMF administered under the same 
+(high fat) conditions. Administration of DRF after either a low-fat/low-calorie or a medium­
+4  
+Reference ID: 4485421 
+
+
+===== PAGE 6 =====
+
+fat/medium-calorie meal resulted in MMF exposure within the established MMF Cmax window 
+for DMF, see Section 3.3 for further details. 
+Note: All clinical studies were conducted using the proposed delayed release commercial 
+formulation, with the exception of Study A105 (that used radiolabeled DRF). 
+2.1.2 Effect of Food on the Pharmacokinetics of Monomethyl Fumarate 
+Following oral administration of DRF, the Tmax of MMF was delayed from 2.5 hours (fasted 
+state) to 4.5 h (low-fat, low-calorie meal or a medium-fat, medium-calorie meal) and 7.0 hours 
+(high fat, high calorie meal). A high-fat, high-calorie meal (900-1000 calories, 50% of calories 
+from fat) resulted in a 41-44% reduction in MMF mean Cmax compared to fasted state. The MMF 
+Cmax with low-fat, low-calorie (350 to 400 calories, 10 to 15g fat) and medium-fat, medium-
+calorie (650 to 700 calories, 25-30g fat) meals was reduced by approximately 12% and 25%, 
+respectively. There was no impact of low, medium, or high-fat meals on the AUC of MMF after 
+administration of DRF. 
+2.2 Dosing and Therapeutic Individualization 
+2.2.1 General dosing 
+The dosing recommendations are based on LD and the established PK bridging. Initial titration 
+with a starting dose of 231 mg Vumerity twice a day (bid) for 7 days is recommended, the dose 
+should be increased to the maintenance dose of 462 mg Vumerity (administered as two 231 mg 
+capsules) bid. Administration of Vumerity with a high-fat, high- calorie meal should be avoided. 
+Administration of Vumerity with 5% v/v and 40% v/v ethanol did not induce dose dumping, 
+however the MMF Cmax was significantly reduced for the 40% v/v ethanol solution (more than 
+50% in 10 out 29 subjects). Vumerity should not be used with alcohol. 
+2.2.2 Therapeutic individualization 
+The plasma exposures of the major metabolite of DRF, HES, were significantly increased in 
+subjects with moderate and severe renal impairment relative to healthy subjects. The impact of 
+such HES exposure increase on the safety profile is unknown. VUMERITY is not recommended 
+in patients with moderate or severe renal impairment. 
+2.3 Post-Marketing Commitment 
+None is identified. 
+2.4 Summary of Labeling Recommendations 
+(b) (4) 
+Sponsor proposed language in Dosing and Administration that VUMERITY
+(b) (4) 
+(b) (4) 
+a high-fat, high- calorie meal should be avoided. VUMERITY 
+(b) (4) 
+could be confusing for the patient. Avoid high-fat, high- calorie meal is 
+acceptable. 
+Administration of Vumerity with alcohol should be avoided. 
+5  
+Reference ID: 4485421 
+
+
+===== PAGE 7 =====
+
+ 
+Vumerity is not recommended in patients with moderate or severe renal impairment. 
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW 
+3.1 Overview of the Product and Regulatory Background 
+This is a 505(b)(2) application with reliance on the FDA’s previous finding of the safety and 
+effectiveness of DMF for the treatment of relapsing forms of MS (Tecfidera; NDA 204063). 
+Diroximel fumarate is an aminoethyl ester of monomethyl fumarate (MMF) that undergoes 
+hydrolysis to produce MMF (the active form of DMF). Additionally, a major metabolite (HES) 
+and a minor metabolite (RDC-8439), not present after DMF administration, are produced. 
+At the EOP2 meeting (Sep 2015) the Division stated that PK data may be sufficient to provide a 
+bridge to efficacy data for Tecfidera assuming that comparative bioavailability studies provide 
+adequate bridge to the reference listed drug and that the major metabolite RDC-6567 (HES) is 
+adequately evaluated. 
+In a follow-up Type C interaction (May 2016), the Agency advised that the MMF exposure 
+(Cmax) with food for DRF should not be lower than the reduced MMF exposure observed for 
+Tecfidera with food. (Taking Tecfidera with a high-fat, high-calorie meal did not affect the AUC 
+of MMF but decreased its Cmax by 40%). There was a concern that a reduced MMF Cmax after 
+DRF compared to that after 240 mg Tecfidera with food may affect the efficacy of DRF, since 
+exposure-response relationship for safety and efficacy is not available for MMF. 
+3.2 General Pharmacology and Pharmacokinetic Characteristics 
+Pharmacology 
+Mechanism of Action 
+DRF undergoes rapid pre-systemic hydrolysis and is converted to the active 
+metabolite, MMF. The mechanism by which MMF exerts its therapeutic 
+effect in multiple sclerosis is unknown. Monomethyl fumarate has been 
+shown to activate the Nuclear factor (erythroid-derived 2)-like 2 (Nrf2) 
+6 
+Reference ID: 4485421 
+
+
+===== PAGE 8 =====
+
+pathway in vitro and in vivo in animals and humans. The Nrf2 pathway is 
+involved in the cellular response to oxidative stress. 
+General Information 
+Bioanalysis 
+Concentrations of DRF and its metabolites MMF, HES, and RDC-8439 
+were measured by validated bioanalytical methods in plasma. 
+The bioanalytical methods utilized liquid chromatography with tandem 
+mass spectrometry (LC-MS/MS) detection and were developed and
+validated following regulatory guidelines by the bioanalytical laboratories 
+of 
+(b) (4) 
+Healthy Volunteers vs 
+Patients 
+NA 
+The BE studies were conducted in healthy subjects. 
+ADME 
+Absorption 
+Diroximel fumarate undergoes rapid pre-systemic hydrolysis and is 
+converted to the active metabolite, MMF. DRF is not quantifiable in plasma 
+following oral administration of Vumerity. 
+The median Tmax of MMF is 2.5 to 3 hours in the fasted state. After low-
+fat, low-calorie meal or a medium-fat, medium-calorie meal, MMF Tmax 
+was 4.5 h and after high fat, high calorie meal MMF Tmax was 7.0 hours. 
+There was no impact of low, medium, or high-fat meals on the AUC of 
+MMF after administration of Vumerity. 
+Distribution 
+The apparent volume of distribution for MMF is between 72 L and 83 L in 
+healthy subjects after administration of Vumerity. Human plasma protein 
+binding of MMF was 25%. 
+Metabolism 
+Diroximel fumarate is extensively metabolized by esterases before it 
+reaches the systemic circulation. Further metabolism of MMF occurs 
+through the tricarboxylic acid (TCA) cycle, with no involvement of the 
+cytochrome P450 system [Tecfidera]. Fumaric and citric acid, and glucose 
+are the major metabolites of MMF in plasma. 
+Esterase metabolism of DRF produces MMF, the active metabolite, and 2­
+hydroxyethyl succinimide (HES), an inactive major metabolite. 
+Elimination 
+MMF is mainly eliminated as carbon dioxide in the expired air with only 
+trace amounts recovered in urine [Tecfidera]. The terminal half-life of 
+MMF is approximately 1 hour. HES is mainly eliminated in urine with 
+terminal half-life between 10 and 15 hours. 
+7 
+Reference ID: 4485421 
+
+
+===== PAGE 9 =====
+
+3.3 Clinical Pharmacology Review Questions 
+3.3.1 To what extent does the available clinical pharmacology information provide pivotal or 
+supportive evidence of effectiveness? 
+No efficacy studies were conducted for this NDA. The pivotal evidence of effectiveness relies on 
+the PK bridging between Vumerity and the listed drug, DMF (Tecfidera; NDA 204063). The 
+sponsor conducted three BE/ Relative Bioavailability and Food Effect studies (i.e., Studies A103, 
+A104, and A109) to compare DRF and DMF with regard to the exposures of the active 
+metabolite, MMF, under fasted and fed states with varying conditions of fat and caloric content. 
+Two long-term Phase 3 safety studies in subjects with RMS are ongoing. 
+Study A103 was a single-dose, randomized, two-sequence, two-treatment, crossover, double-
+blind study to evaluate the PK and safety of DRF and DMF in healthy subjects when 
+administered in the fasted state. Study drug was administered on Day 1 and Day 8 after fasting 
+for a minimum of 10 hours pre-dose. Subjects continued to fast until 4 hours post-dose. 
+Concentrations of DRF and its metabolites (MMF, HES, and RDC-8439) were quantified in 
+plasma samples. 
+A total of 35 subjects were randomized in the study; 18 subjects received DRF 462 mg (2 
+capsules of 231 mg) followed by DMF 240 mg (1 capsule of 240 mg and 1 capsule of placebo) 
+in Sequence 1, and 17 subjects received DMF 240 mg followed by DRF 462 mg in Sequence 2. 
+Study A103 summary results: 
+• MMF and HES were the primary plasma metabolites of DRF. The mean (SD) metabolite ratio, 
+calculated as the AUClast of HES to MMF, was 31.8 (8.28). 
+• Diroximel fumarate was not detectable in plasma, and RDC-8439 concentrations were not 
+measurable (except in 2 subjects) following administration of DRF. 
+• Diroximel fumarate met the criteria for BE to DMF with regard to the exposure for MMF (both 
+Cmax and AUC), when administered in the fasted state. 
+Summary of ANCOVA Results for Plasma MMF AUClast, AUC∞, and Cmax Following a  
+Single Oral Administration of Diroximel Fumarate 462 mg (Test) Versus Dimethyl  
+Fumarate 240 mg (Reference) Formulations in the Fasted State (Study A103)  
+8  
+Reference ID: 4485421 
+
+
+===== PAGE 12 =====
+
+Comments: Sponsor claims that the range of MMF values in each cohort overlapped between 
+cohorts, and no trends with respect to severity of renal impairment were observed, however 
+MMF exposure was increased in subjects with renal impairment, including mild, see tables 
+below (especially the max range increased from 4.4 to 8.3 h•μg/mL). 
+Study ALK8700-A108: MMF Plasma Pharmacokinetic Parameters by Cohort 
+Renal clearance of MMF was decreased as well in moderate/severe impaired groups: 
+Summary of Renal Clearance in Urine of Monomethyl Fumarate by Cohort 
+11  
+Reference ID: 4485421 
+
+
+===== PAGE 13 =====
+
+HES (RDC-6567): The Cmax and tmax of HES in all cohorts were similar, while AUC increased 
+with increasing renal impairment. HES was undetectable in plasma after 120 hours in the healthy 
+and mild impairment cohorts, whereas measurable concentrations persisted for 216 hours in the 
+severe impairment cohort. An increase was observed in the mean AUC∞ for HES, which 
+increased from a mean (SD) of 111 (26.5) μghr/mL in the healthy cohort to 295 (80.1) μghr/mL 
+in the severe impairment cohort. 
+ALK8700-A108: HES Plasma Concentration (Mean±SE) 
+12  
+Reference ID: 4485421 
+
+
+===== PAGE 15 =====
+
+ 
+Study 104 PK Summary: The MMF PK profiles for both DRF and DMF administered with a 
+high-fat and high-calorie meal were characterized by multiple peaks and a median tlag of 3.5 and 
+4 hours for DRF and DMF. 
+For MMF AUClast and AUC∞, the geometric mean ratios were close to 1 and the 90% CIs were 
+contained completely within the standard boundaries of 0.8 to 1.25 used to evaluate BE. 
+The MMF mean Cmax was 26% lower for DRF as compared with DMF under fed conditions. 
+The mean (SD) metabolite ratio, calculated as the AUClast of HES to MMF, was 31.6 (8.63). 
+Summary of ANCOVA Results for Plasma MMF AUClast, AUC∞, and Cmax Following a  
+Single Oral Administration of DRF 462 mg (Test) Versus DMF 240 mg (Reference)  
+Formulations with a High-Fat and High-Calorie Meal (Study A104)  
+MMF Plasma Concentration (Mean±SE) after Administration of DRF and DMF with a  
+High-Fat and High-Calorie Meal (PK Population; Study A104)  
+14  
+Reference ID: 4485421 
+
+
+===== PAGE 17 =====
+
+ 
+•DRF 462 mg dosed with a medium-fat/medium-calorie meal (698 Kcal, 38.0% fat; Group D) 
+Forty-eight healthy subjects were randomized to receive study drug in one of the four sequences. 
+Of the 48 subjects who received the study drug, a total of 46 completed the study and 2 subjects 
+discontinued from the study early. 
+Study A109 PK Summary: 
+DRF plasma concentrations for all subjects were below the LLOQ following treatment with 
+DRF. 
+The mean plasma concentration-time profiles of MMF were characterized by a delay in the fed 
+conditions with the longest tlag following administration of DMF with a high-fat/high-calorie 
+meal. Following administration of DMF with a high-fat/high-calorie meal, MMF Cmax, AUClast, 
+and AUC∞ decreased by 41%, 18%, and 3%, respectively compared to these after DMF 
+administration in the fasted state. 
+MMF Plasma Concentration (Mean + SE) in Linear Scale (Study 109, PK Population) 
+Meals of increasing fat and calories resulted in a decrease in MMF Cmax with the most significant 
+decrease (mean decrease of 41%) after administration of DMF following a high-fat/high-calorie 
+meal, a mean 27% decrease after administration of DRF following a medium-fat/medium-calorie 
+meal, and a mean decrease of 15% after administration of DRF following a low-fat/ low-calorie 
+meal. The food effect on MMF AUClast was less significant with reductions of 18%, 7%, and 4% 
+for the DMF high-fat/high-calorie, DRF medium-fat/medium-calorie, and DRF low-fat/low­
+calorie treatments, respectively. The MMF AUClast geometric mean ratios for the DRF 
+treatments were close to 1 and the 90% CIs were contained within the 0.8 to 1.25 bounds. 
+16  
+Reference ID: 4485421 
+
+
+===== PAGE 19 =====
+
+Discussion: 
+(b) (4) 
+Based on these findings, subjects participating in the Phase 3 studies were instructed 
+(b) (4) 
+to avoid a high-fat, high-calorie meal; sponsor proposes same language 
+in the product label. 
+In study 102 Part B, on Day 1 and 5, three dose levels of DRF (210, 420, and 630 mg) were 
+explored. The morning DRF dose was administered in the fasted state, the evening dose: fed 
+(standardized meals). Following morning administration of 420 mg DRF (fasted), the mean Cmax 
+of MMF on Day 1 was 1.736 μg/mL; mean Cmax of MMF on Day 5 was 1.455 μg/mL. Following 
+the evening administration of 420 mg DRF in the fed state (standardized meals), the mean Cmax 
+of MMF on Day 1 was 1.136 μg/mL; mean Cmax of MMF on Day 5 was 1.212 μg/mL. Assuming 
+dose proportionality, these Cmax values correspond to 1.25 and 1.33 μg/mL, respectively (if the 
+DRF dose were 462 mg as proposed and as in all other clinical studies). 
+Study A102- Part B: MMF Plasma Concentration (Mean ±SE) for Days 1 and 5 
+18  
+Reference ID: 4485421 
+
+
+===== PAGE 20 =====
+
+Summaries of the MMF PK parameters from all clinical studies in the DRF development 
+program, after DRF administration with or with food of various fat content and after co-ingestion 
+with alcohol, are provided in the tables below. 
+MMF: Arithmetic Mean (SD) Cmax and AUC after a single-dose or multiple-dose 
+administration of DRF 462 mg in the fasted state 
+Study 
+Dose 
+Cmax 
+μg/mL 
+AUC∞ 
+hr*μg/mL 
+A102 (Part A) 
+Single 
+1.63 (0.768) 
+3.09 (0.09) 
+A102 (Part B) 
+Single 
+1.74 (0.828) 
+3.697 (0.723) 
+A102 (Part B) 
+Multiple 
+1.46 (0.722) 
+NC 
+A103 
+Single 
+1.70 (0.699) 
+3.81 (1.16) 
+19 
+Reference ID: 4485421 
+
+
+===== PAGE 21 =====
+
+ 
+A105 (Trt A) 
+Single 
+1.49 (0.483) 
+3.29 (0.594) 
+A105 (Trt B) 
+Single 
+1.91 
+4.41 () 
+A106 
+Single 
+1.36 (0.598) 
+3.06 (0.925) 
+A107 
+Single 
+1.62 (0.808) 
+3.32 (1.08) 
+A107 
+Multiple 
+1.62 (0.655) 
+3.56 (1.06) 
+A108 
+Single 
+1.45 (0.863) 
+3.34 (1.10) 
+A110 
+Multiple 
+1.49 (0.749) 
+4.01 (1.49) 
+MMF: Arithmetic Mean (SD) Cmax and AUC after a single-dose or multiple-dose  
+administration of DRF at 462 mg/dose in the fed state  
+Study 
+Food Type 
+Cmax 
+μg/mL 
+AUC∞ 
+hr*μg/mL 
+A102 
+Single/ High-fat 
+0.955 (0.630) 
+AUClast 2.50 (0.10) 
+A102 (Part B) 
+420 mg DRF 
+Single/ std meal 
+1.136 (0.81) 
+NC 
+A102 (Part B) 
+420 mg DRF 
+Multiple/ std meal 
+1.212 (0.57) 
+NC 
+A104 
+Single/ High-fat 
+0.99 (0.507) 
+A109 
+Single/ Low-Fat 
+1.53 (0.69) 
+3.10 (0.92) 
+A109 
+Single/ Medium-Fat 
+1.33 (0.63) 
+2.94 (0.75) 
+A109 
+High-Fat 
+0.99 (0.51) 
+2.96 (0.62) 
+A301 
+Multiple/ Avoid high-fat 
+1.31 (1.011) 
+Reviewer’s Comments: 
+In the phase 3 study A301 and in Phase 1 study 102 (Part B) patients/healthy subjects were 
+instructed to take DRF with food (but avoid high-fat meal). In these studies, the mean Cmax of 
+MMF was similar (or higher) than MMF Cmax after DMF administration with high fat meal. 
+Following administration of DMF with a high-fat meal, the arithmetic mean MMF Cmax was 1.12 
+μg/ml. In Study A104, MMF mean Cmax value was 1.376 μg/ml after 240 mg DMF administered 
+with high fat meal. After DRF with medium-fat meal mean MMF Cmax was 1.33 μg/ml (see 
+Study 109 Summary of Pharmacokinetic Parameters for MMF by Treatment Group above). 
+20  
+Reference ID: 4485421 
+
+
+===== PAGE 22 =====
+
+In addition, fed status had little effect on MMF AUC: DRF met the PK criteria for BE (to DMF) 
+based on MMF AUC in three Phase 1 studies (Studies A103, A104, and A109). 
+Recommendations: Since taking the drug twice a day in the fasted state could be very 
+challenging, and considering the above results, “Avoid high-fat, high-calorie meal” is acceptable 
+as labeling recommendation. DNP clinical review team agreed with this recommendation. 
+3.3.5 Are there clinically relevant drug-drug interactions and what is the appropriate 
+management strategy? 
+In vitro DDI studies 
+In vitro cytochrome P450 (CYP) inhibition and induction studies and P-gp studies conducted 
+with Tecfidera indicated no potential for drug interactions with DMF or MMF (Tecfidera USPI). 
+Diroximel fumarate is hydrolyzed by esterases to produce MMF, RDC-8439, and HES as 
+demonstrated in an in vitro study using human liver microsomes and intestinal S9 fractions 
+(Study XT134113). 
+Diroximel fumarate, HES and RDC-8439 did not inhibit CYP1A2, CYP2B6, CYP2C8, 
+CYP2C9, CYP2C19, CYP2D6, and CYP3A4/5 enzymes in human liver microsomes at 
+concentrations up to 200 μM (51.0 μg/mL) (Studies XT135135 and XT13A014). 
+No induction of CYP1A2, CYP2B6, or CYP3A4 activity or of CYP mRNA was observed in 
+human hepatocytes by DRF (up to 300 μM), HES (up to 5000 μM), and RDC-8439 (up to 300 
+μM) (Study XT153079). There was a 2.34-fold change at 5000 μM HES in CYP2B6 and 2.12­
+fold change in CYP3A4 mRNA levels in one of the three cultures tested; however, this should 
+not be clinically relevant as steady-state Cmax levels in humans are about 76 μM. 
+Diroximel fumarate inhibited P-gp mediated transport by 41% at high dose (100 μM), while 
+RDC-8439 and HES did not inhibit P-gp mediated transport at the concentrations tested (10 and 
+100 μM; Study XT138097). Diroximel fumarate and its metabolites did not induce P-gp (Study 
+17ALKRP1R2). 
+(b) (4) 
+The results of another in vitro study 
+Protocol No: Alkermes-01-09Jul2017) indicated 
+that the potential for clinical drug-drug interaction with DRF, HES, and RDC-8439 due to 
+transporter interactions is low. HES and DRF were not substrates of breast cancer resistance 
+protein (BCRP) in vitro. Diroximel fumarate and HES were not inhibitors of BCRP. RDC-8439 
+was likely a substrate of BCRP; however, due to its low permeability and high variability in net 
+efflux ratio, these results are expected to have minimal clinical consequence. In addition, RDC­
+8439 is a minor metabolite. HES was neither a substrate nor an inhibitor of multidrug and toxin 
+extrusion transporter (MATE)1, MATE2-K, organic anion transporter (OAT)1, OAT3 or organic 
+cation transporter (OCT)2. 
+Alcohol DDI 
+In vitro dissolution studies have shown that DRF (ALKS 8700), delayed release capsule (231 
+mg), demonstrates alcohol dose dumping in the order of >50% in 20% ethanoic acid. Therefore, 
+a clinical study was conducted to determine the influence of co-ingestion of alcohol on the PK of 
+DRF and its metabolites in healthy subjects. 
+21  
+Reference ID: 4485421 
+
+
+===== PAGE 24 =====
+
+ 
+Study A106: Mean (+SE) Plasma HES (RDC-6567) Concentration Curves  
+Comments: There was a significant (more than 50%) decrease in Cmax with 40% alcohol in 10 
+out of 31 subjects. Two subjects had missing MMF concentrations after 40% alcohol. Of the 31 
+subjects who received at least one dose of study drug, 30 completed the study (ie, completed the 
+three treatment periods and the Follow-up visit). One subject discontinued early. One subject 
+(b) (6) 
+( 
+experienced vomiting 1 hour post co-ingestion of 40% ethanol with DRF. The 
+median Tmax of MMF is approximately 3 hours. Because the incidence of vomiting was within 
+the first 6 hours (2× the median Tmax), the MMF concentration data of that subject was 
+excluded from the overall non-compartmental analysis. 
+Individual Plasma MMF Concentration Curves (ug/mL) 
+Recommendations: Administration of Vumerity with alcohol should be avoided.  
+23  
+Reference ID: 4485421 
+
+
+===== PAGE 26 =====
+
+Summary of PK Parameters for Digoxin in the Presence and Absence of DRF  
+PK Summary: 
+Exposure of digoxin, as measured by Cmax, AUClast, and AUC∞, decreased approximately 10% in 
+the presence of DRF. However, the similarity of the profiles over the first 72 hours suggests that 
+DRF does not inhibit P-gp in vivo. 
+Following single and multiple administrations of DRF in the presence of digoxin, exposure to 
+MMF, RDC-6567, and RDC-8439, as measured by Cmax and AUC, was consistent with the 
+known PK profile of DRF. 
+Recommendations: No labeling recommendations are needed as Vumerity does not inhibit P-gp 
+in vivo. 
+4. APPENDICES 
+4.1: Summary of Bioanalytical Method Validation and Performance 
+4.1.1 How are the active moieties identified and measured in the clinical pharmacology and 
+biopharmaceutics studies? 
+Concentrations of DRF and its metabolites MMF, HES, and RDC-8439 were measured by 
+validated bioanalytical methods in plasma. Two liquid chromatography with tandem mass 
+spectrometry (LC-MS/MS) detection bioanalytical methods were developed and validated by 
+(b) (4) 
+(b) (4) 
+(b) (4) 
+( 
+14-RDC5108-01 and 
+15027). The 
+method for determination of HES in plasma was developed after Study 001, so samples from 
+Part 1 of Study 001 were analyzed for HES measurement in a subsequent addendum. 
+In addition, MMF and HES were measured by validated bioanalytical methods in urine. 
+25  
+Reference ID: 4485421 
+
+
+===== PAGE 30 =====
+
+Information Request for clarification was sent on 29 Jan 2019: 
+We note that several bioanalytical methods for analysis ofMMF in plasma samples (validated by 
+two bioanalytical laboratories 
+CbH
+4l 
+are listed in 
+Modules 2.7.1 and Module 5.3.1.4. Please clarify whether these methods were cross-validated. 
+Sponsor responses (Response to Agency RF/_29 Jan 2019). 
+All bioanalytical methods used to support the Phase I andPhase 3 studies were.fully validated 
+independently. Cross-validation was not included with the application because the analysis ofall 
+phannacokinetic samples was conducted using only one method at one bioanalytical laboratory 
+per study (Table I). Neither multiple methods nor bioanalytical laboratories were used within a 
+single study. Each biophannaceutical study was designed with inclusion ofthe appropriate 
+reference treatment arms to draw the conclusions. Furthermore, analysis ofthe maximum 
+concentration (Cmax) data obtained across studies demonstrates the consistency ofthe methods 
+with respect to MMF concentration. There was a substantial overlap ofthe Cmax values ofMMF 
+at a given dose when compared between two studies, indicating that there is no significant 
+difference in values obtained via two different methods. A summary ofthe MMF Cmax values 
+fiwn studies conducted with similar dose administration conditions is provided in Table 2. 
+Therefore, the full validations ofthe bioanalytical methods ensure the reliability ofthe data. 
+Table 1: Summary ofStudies by Bioanalytical Method 
+Anal)'tical 
+I 
+(b)~) 
+Laboratory/ 
+Valicfation Report No. 
+<b> 
+14>,L4-RDC5108-0l 
+~i5027 
+~5125 
+Matrix 
+Acidified Plasma 
+Acidified Plasma 
+Non.Acidified Plasma 
+Studies 
+001 
+Al05 
+AllO 
+Al02 
+Al06 
+A301 
+A l 03 
+Al07 
+A302 
+Al04 
+Al08 
+-­
+-· 
+Al09 
+-­
+Table 2: Summary ofCmax [Mean (SD)] Values by Bioanalytical Method 
+29  
+Reference ID: 4485421 

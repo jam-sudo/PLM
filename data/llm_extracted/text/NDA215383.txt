@@ -1,0 +1,1907 @@
+
+
+===== PAGE 8 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+7 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+Table 43. MK-6482-004 Grade 3-4 TEAEs by Sex ........................................................183 
+Table 44. MK-6482-004 Screening Hemoglobin Values by Sex ....................................183 
+Table 45: Specific Comments on Applicant’s Final Population PK model.....................223 
+Table 46: Summary of Baseline Continuous Covariates. ................................................227 
+Table 47: Summary of Baseline Categorical Covariates. ................................................228 
+Table 48: The Final Model Parameter Estimates. ............................................................230 
+Table 49: Derived Population PK parameters for VHL-RCC Patients (120 mg QD) .....232 
+Table 50: Exposure Comparison between Missed and Delayed Dosing Scenarios.........232 
+Table 51: Number of Patients for Each Efficacy Endpoint by Study and Dose Level 
+included in the ER analyses. ......................................................................................234 
+Table 52: Number of Patients for Each Biomarker Endpoints by Study and Dose Level 
+included in the ER analyses. ......................................................................................235 
+Table 53: Number of Patients and Incidence of Safety Endpoints by Dose Level Included 
+in the E-R analyses.....................................................................................................235 
+Table 54: Parameter Estimates of the Logistic Regression Model for Incidence of Anemia 
+≥ Grade 3 Including AUCavg and Baseline Hgb as Predictors Based on Study 1 and 
+Study 4 
+236 
+Table 55: Comparison of the estimated steady state belzutifan AUC for a 74 kg subject 
+receiving 120 mg belzutifan with different phenotypes ............................................239 
+Table 56:  Summary of modifications to enzyme phenotype frequencies and relative 
+enzyme abundance and activity in population library files. ......................................241 
+Table 57: Comparison of the estimated steady state AUC using different modeling and 
+analysis for different phenotypes ...............................................................................243 
+Table 58: Observed and simulated AUCinf and Cmax following a single oral 40 mg dose 
+of belzutifan in Japanese ............................................................................................243 
+Table 59: Observed and simulated AUCss following multiple-dose of belzutifan 120 mg 
+QD in patients ............................................................................................................244 
+Table 60: Projected midazolam AUC ratio based on the belzutifan AUC vs. midazolam 
+AUC Ratio relationship..............................................................................................246 
+Table 61: Comparison of the simulated DDI effect of belzutifan on midazolam PK in 
+NEurCaucasian and Japanese subjects who are dual PMs of CYP2C19 and UGT2B17247 
+Table 62: Induction parameters used in the two belzutifan model in the Table 1 ...........247 
+Table 63: Contribution of CYP3A5 pathway in midazolam clearance in midazolam 
+PBPK model for different virtual population.............................................................248 
+ 
+Reference ID: 4840621
+
+
+===== PAGE 10 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+9 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+Figure 19. MK-6482-004 Blood Pressure Over Time (Safety Population; Applicant’s 
+Figure) 
+179 
+Figure 20: Goodness of Fit Plots for the Final Model. ....................................................231 
+Figure 21: Model-Predicted Incidence of Anemia ≥ Grade 3 vs AUCavg Based on Linear 
+Logistic Regression Model including AUCavg and Baseline Hgb as Predictors for 3 
+Baseline Hgb Scenarios (10, 12 and 14 g/dL) ...........................................................236 
+Figure 22:  In vitro to in vivo extrapolation of in-vitro CYP3A induction parameters of 
+belzutifan in PBPK model .........................................................................................242 
+Figure 23: Observed and simulated concentration-time profiles following a single oral (a) 
+120 mg (b) 200 mg dose of belzutifan in Caucasians, and (c) 40 mg belzutifan in 
+Japanese 242 
+Figure 24: Model refinement process evaluating the DDI potential of belzutifan on the 
+PK of a CYP3A substrate ..........................................................................................245 
+Figure 25: Overlay of simulated relationship between the belzutifan AUC and midazolam 
+AUC Ratio and observed midazolam AUCR (study P009) .......................................246 
+Figure 21: Comparison of exposure-response relationship between NEurCaucasian 
+population and Japanese PM/PM population .............................................................248 
+Reference ID: 4840621
+
+
+===== PAGE 13 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+12 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+GLOSSARY  
+AC 
+ 
+advisory committee 
+ADME  
+absorption, distribution, metabolism, excretion  
+ADR 
+ 
+adverse drug reaction 
+AE 
+ 
+adverse event 
+AUC 
+ 
+area under the curve 
+BID 
+ 
+twice daily 
+BLA 
+ 
+biologics license application 
+BMI 
+ 
+body mass index 
+BOR 
+ 
+best overall response 
+BPCA  
+Best Pharmaceuticals for Children Act 
+BRF 
+ 
+Benefit Risk Framework 
+BTD 
+ 
+breakthrough therapy designation 
+CBER  
+Center for Biologics Evaluation and Research 
+ccRCC  
+clear cell renal cell carcinoma 
+CDER  
+Center for Drug Evaluation and Research 
+CDRH  
+Center for Devices and Radiological Health 
+CDTL  
+Cross-Discipline Team Leader 
+CFR 
+ 
+Code of Federal Regulations 
+Cmax 
+ 
+maximum concentration 
+CMC 
+ 
+chemistry, manufacturing, and controls 
+CNS 
+ 
+central nervous system 
+COA 
+ 
+clinical outcome assessment 
+COSTART 
+Coding Symbols for Thesaurus of Adverse Reaction Terms 
+CRF 
+ 
+case report form 
+CRO 
+ 
+contract research organization 
+CRSD  
+cumulative running safety dataset 
+CRT 
+ 
+clinical review template 
+CSR 
+ 
+clinical study report 
+CSS 
+ 
+Controlled Substance Staff 
+DCR 
+ 
+disease control rate 
+DDI 
+ 
+drug-drug interaction 
+DMC  
+data monitoring committee 
+DMF 
+ 
+Drug Master File 
+DOR 
+ 
+duration of response 
+DO1 
+ 
+Division of Oncology 1 
+ECG 
+ 
+electrocardiogram 
+eCTD  
+electronic common technical document 
+EOP2  
+End of Phase 2 
+EPO 
+ 
+erythropoietin 
+E-R 
+ 
+exposure-response 
+Reference ID: 4840621
+
+
+===== PAGE 34 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+33 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+Following a single oral administration of belzutifan to fed rats, Tmax occurred at 1.3 h with a 
+half-life of 5 h and an oral bioavailability of 17%.  In fasted dogs, a single oral administration of 
+belzutifan had a Tmax of 2 h with a half-life of 17.2 h and an oral bioavailability of 33%. Due to 
+the shorter half-life and lower bioavailability of belzutifan in rats versus dogs, rats were dosed 
+twice a day in the repeat-dose studies.  Following a single oral dose of radiolabeled belzutifan 
+to rats, the highest radioactivity was observed in liver, kidney, and small intestine.  Radioactivity 
+was eliminated primarily via biliary excretion, followed by fecal elimination.  Belzutifan was 
+metabolized by glucuronidation and oxidative metabolism.  There were no unique human 
+metabolites detected in vitro in hepatic microsomes or hepatocytes. The major metabolite, 
+PT3317, a glucuronide conjugate formed by UGT2B17 enzyme, was noted across all species 
+tested.  PT13317 was quantified in both repeat-dose studies and clinical studies.  In dogs, the 
+metabolite to parent ratios were 0.19 to 0.52 for AUC.  In humans, the metabolite exposure 
+was approximately 30% of belzutifan exposure.  In a primary pharmacology study, PT3317 had > 
+6,000x reduction in binding to HIF-2α versus belzutifan.  In consultation with the FDA clinical 
+pharmacology team, animal to human exposure multiples were calculated using the AUC value 
+at steady-state of 16.7 µg*hr/mL.   The rat AUC12h was doubled to compare with human 
+AUC24h.  
+The safety of belzutifan was evaluated in GLP-compliant repeat-dose toxicology studies up to 3-
+month duration in rats and dogs using the intended oral route of administration.  In the 3-
+month rat study, there was one male in the 200 mg/kg/day high dose group euthanized at Day 
+18 due to adverse clinical signs.  Declining health was most likely related to liver toxicity, and 
+the animal also presented moderate neuronal degeneration/necrosis in brain.  While the study 
+report proposed that brain findings may be related either to belzutifan treatment or may be 
+incidental, the Applicant considers findings to be incidental given that it occurred only in one 
+animal and rats treated at 200 mg/kg/day for the full 3-month period and in the 28-day study 
+did not have brain findings nor CNS effects.  Based on the totality of the data, the brain findings 
+are most likely incidental.   
+Belzutifan caused reversible decreases in red blood cell parameters at ≥ 2 mg/kg/day in rats and 
+≥ 1 mg/kg/day in dogs (approximately ≥ 0.05 times the human exposure at the recommended 
+human dose of 120 mg daily).  Hematology changes were generally not associated with 
+microscopic changes in the bone marrow except for the 28-day repeat-dose study in dogs 
+where up to moderate hypocellularity in bone marrow of femur and sternum were noted.  
+These results are in line with work demonstrating that conditional deletion of HIF-2α in adult 
+mice resulted in anemia, which was associated with decreased levels of circulating 
+erythropoietin (EPO; Gruber et al. 2007).  The Applicant measured circulating EPO levels in the 
+28-day repeat-dose dog study anticipating belzutifan might decrease this parameter, but 
+instead increased EPO levels were noted in all groups, including controls.  Based on the 
+available animal findings, the mechanism of belzutifan-related anemia is unclear.  In the clinic, 
+anemia occurred in 90% of patients with VHL disease who had at least one measurable tumor 
+Reference ID: 4840621
+
+
+===== PAGE 41 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+40 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+Type of Study 
+Major Findings 
+Pharmacokinetics of 
+PT2977 in male SD rats 
+single dose intravenous 
+and oral administration 
+(Study# PK007MK6482) 
+Rat 
+Following a single IV or oral dose administered under fed 
+conditions to male rats (n=3/group): 
+ 
+Dose, 
+route 
+Cmax 
+µg/mL 
+Tmax 
+h 
+T1/2 
+h 
+AUC0-inf 
+µg.h/mL 
+CL 
+mL/h/kg 
+Vss 
+L/kg 
+BA 
+% 
+1 
+mg/kg 
+IVa 
+NA 
+NA 
+1.09 
+1.02 
+983 
+1.27 
+NA 
+10 
+mg/kg 
+oralb 
+0.28 
+1.33 
+5.30 
+1.78 
+NA 
+NA 
+17.5 
+a: vehicle was 10% dimethylacetamide, 10% ethanol, 40% PEG400, 40% 
+water 
+b: vehicle was 10% ethanol, 30% PEG400, 60% (0.5% methylcellulose and 
+0.5% Tween 80 in water)  
+Pharmacokinetics of 
+PT2977 in male beagle 
+dogs following single 
+dose intravenous or 
+oral administration 
+(Study# PK010M6482) 
+Dog 
+Following a single IV or oral dose administered under fasted 
+conditions to male dogs (n=3/group): 
+ 
+Dose, 
+route 
+Cmax 
+µg/mL 
+Tmax 
+h 
+T1/2 
+h 
+AUC0-inf 
+µg.h/mL 
+CL 
+mL/min/kg 
+Vss 
+L/kg 
+BA 
+% 
+1 
+mg/kg 
+IVa 
+NA 
+NA 
+9.65 
+12.25 
+1.35 
+1.81 
+NA 
+5 
+mg/kg 
+oralb 
+1.51 
+2 
+17.2 
+25.29 
+NA 
+NA 
+33 
+a: vehicle was 40% PEG400, 20% ethanol, 40% water 
+b: vehicle was 0.5% methylcellulose and 0.5% Tween 80 in water 
+Distribution 
+ 
+PT2977 blood plasma 
+partitioning study in 
+blood of different 
+species (Study# 
+PK017MK6482) 
+Blood to plasma ratio of PT2977 (1 µM) was similar across species, 
+ranging from 0.88 to 1.06 in mice, rat, dog, monkey, and human 
+blood. 
+Determination of in 
+vitro protein binding of 
+PT2977 in mouse, rat, 
+dog, monkey and 
+human plasma (Study# 
+PK018MK6482) 
+Average protein binding of belzutifan (% bound): 
+Mouse: 56% 
+Rat: 55% 
+Dog: 61% 
+Monkey: 52% 
+Human: 45% 
+Reference ID: 4840621
+
+
+===== PAGE 42 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+41 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+Type of Study 
+Major Findings 
+Determination of the 
+tissue distribution of 
+PT2977 and its 
+metabolite PT3317 in 
+male SD rats following 
+a single oral gavage 
+dose of PT2977 at 30 
+mg/kg 
+(Study# PK020MK6482) 
+Rat 
+Following a single oral dose administration of belzutifan at 30 
+mg/kg to male rats (n=3/group): 
+- Cmax in plasma and tissues occurred at 4 h post-dose 
+-Tissues with the highest belzutifan exposure were small intestine 
+and liver 
+-Concentration of metabolite PT3317 was lower than belzutifan 
+and detected only in liver, plasma, and small intestine.   
+-The amount of belzutifan and PT3317 in small intestine washout 
+content was highest at 4 h and was 0.633 mg and 0.039 mg, 
+respectively. 
+Absorption, 
+distribution, 
+metabolism, and 
+excretion of 14C-PT2977 
+after an oral dose to 
+rats (Study# 
+PK021MK6482) 
+Rat 
+Following a 10 mg/kg single oral administration of [14C]PT2977: 
+ 
+To nonpigmented SD rats (n=1/sex/timepoint): 
+- Tissues with the highest radioactivity exposures were liver (M/F), 
+cecum (M/F), kidney (M/F), Harderian gland (M/F), small intestine 
+(M/F), myocardium (F) and Fat, brown (F) at 0.5 and 4 h.  
+ 
+To pigmented LE rats (n=1/sex/timepoint): 
+- Tissues with the highest radioactivity exposures were liver (M/F), 
+kidney (M/F), small intestine (M/F), myocardium (M), Harderian 
+gland (M) and eye uveal tract (M) at 0.5 and 4 h. 
+Metabolism 
+ 
+Metabolism of 
+[14C]MK-6482 in 
+hepatocyte 
+suspensions, 
+HEPATOPAC co-cultures 
+and recombinant 
+human UGT enzymes 
+(Study# PK038MK6482) 
+- The major metabolite M16 (PT3317, a glucuronide conjugate) was 
+noted across all species tested, following incubation of [14C]PT2977 
+with rat, dog, or human hepatocytes for 2 h or HEPATOPAC co-
+cultures (hepatocytes + stromal cells) for 7 days. 
+-No human specific metabolites were observed 
+-Incubation with recombinant human UGT enzymes identified 
+PT3317 is formed with UGT2B17 
+Absorption, 
+distribution, 
+metabolism, and 
+excretion of 14C-PT2977 
+after an oral dose to 
+rats (Study# 
+PK021MK6482) 
+Rat 
+Following a 10 mg/kg single oral administration of [14C]PT2977 to 
+bile duct-intact (intact) or bile duct-cannulated (BDC) rats: 
+-PT2977 was metabolized to produce 23 radioactive components 
+(14/23 were identified).  
+-In plasma, belzutifan was the major component comprising of 46% 
+(M) and 59% (F) of radioactivity.  The second most abundant 
+component was M2 (unidentified) metabolite comprising of 24% 
+(M) and 30% (F) of radioactivity. Other metabolites noted in both 
+sexes were M9, M11 and M15 at ≤ 10%. 
+-Metabolite profiles in bile showed M4 was the major component 
+comprising of ~20% of radioactivity. Other metabolites noted were 
+co-eluting metabolites M8/M9 (22.8% combined values for M8 and 
+M9), PT3317 (M16, 9% M, 7% F), M7 (10%M, 11%F), M6 (7%), M11 
+and M12 at ≤ 5% 
+ 
+ 
+Reference ID: 4840621
+
+
+===== PAGE 43 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+42 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+Type of Study 
+Major Findings 
+Excretion 
+ 
+Absorption, 
+distribution, 
+metabolism, and 
+excretion of 14C-PT2977 
+after an oral dose to 
+rats (Study# 
+PK021MK6482) 
+Rat 
+Following a 10 mg/kg single oral administration of [14C]PT2977 to 
+bile duct-intact (intact) or bile duct-cannulated (BDC) rats: 
+-In intact rats, fecal excretion accounted for 72% (sex combined) of 
+radioactive dose and urinary excretion accounted for 19% (sex 
+combined) of radioactive dose 
+-In BDC rats, bile excretion accounted for 83% (sex combined) of 
+radioactive dose, while urine and fecal excretion accounted for 12% 
+and 1.5% (sex combined) of radioactive dose, respectively. 
+TK data from general 
+toxicology studies 
+A 13-week oral gavage 
+toxicity study followed 
+by 28-day and 26-week 
+recovery period in rats 
+(Study# TT187809)  
+ 
+Rat 
+Accumulation: 2x Cmax and AUC exposure at 2 mg/kg in males and 
+2x Cmax at 6 mg/kg in females (Days 91 vs Day 1)   
+Dose proportionality:  A less than dose proportional increase for 
+most dose levels 
+Day 
+Sex 
+Dose 
+(mg/kg) 
+Cmax 
+(µg/mL) 
+AUC(0-12) 
+(µg∙hr/mL) 
+ 
+ 
+ 
+1 
+ 
+M 
+2 
+0.12 
+0.408 
+6 
+0.32 
+1.28 
+20 
+0.82 
+4.11 
+200 
+1.47 
+10.8 
+ 
+F 
+6 
+0.30 
+1.16 
+20 
+0.67 
+3.36 
+200 
+1.27 
+9.80 
+ 
+ 
+ 
+91 
+ 
+M 
+2 
+0.21 
+0.822 
+6 
+0.40 
+1.68 
+20 
+0.92 
+4.20 
+200 
+1.20 
+7.85 
+ 
+F 
+6 
+0.51 
+1.48 
+20 
+0.89 
+3.88 
+200 
+1.54 
+9.93 
+ 
+ 
+ 
+Reference ID: 4840621
+
+
+===== PAGE 44 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+43 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+Type of Study 
+Major Findings 
+A 13-week oral gavage 
+toxicity study followed 
+by 28-day recovery 
+periods in Beagle dogs 
+(Study# TT187808)  
+ 
+Dog 
+Accumulation: 2x AUC exposure at 30 mg/kg in males only (Days 
+91 vs Day 1)   
+Dose proportionality:  Lower than dose proportional increase at all 
+doses. 
+Sex differences: On Day 1, females at 30 mg/kg had up to 2.7x 
+higher Cmax and AUC exposure than males. 
+Metabolite PT3317: Metabolite to parent ratios ranged from 0.25 
+to 0.70 for Cmax and 0.19 to 0.52 for AUC 
+Day 
+Sex 
+Dose 
+(mg/kg) 
+Cmax 
+(µg/mL) 
+AUC(0-24) 
+(µg∙hr/mL) 
+1 
+M 
+1 
+0.38 
+4.46 
+5 
+0.78 
+9.87 
+30 
+1.22 
+14.5 
+F 
+1 
+0.37 
+4.87 
+5 
+1.01 
+12.4 
+30 
+3.24 
+31.8 
+ 
+ 
+ 
+91 
+ 
+M 
+1 
+0.57 
+6.75 
+5 
+1.34 
+16.9 
+30 
+1.94 
+29.0 
+ 
+F 
+1 
+0.56 
+7.13 
+5 
+1.40 
+19.7 
+30 
+2.12 
+30.2 
+TK data from 
+reproductive 
+toxicology studies 
+Preliminary oral 
+embryo-fetal 
+developmental toxicity 
+and toxicokinetic study 
+in rats (Study# 
+TT207004) 
+Rat 
+Gestational 
+Day 
+Dose 
+(mg/kg/day) 
+Cmax 
+(µg/mL) 
+AUC(0-12) 
+(µg∙hr/mL) 
+7 
+6 
+0.53 
+1.30 
+60 
+1.30 
+7.43 
+200 
+1.69 
+14.1 
+          Values are mean of n=6 
+ 
+LE: Long Evans; SD: Sprague-Dawley: M: males; F: females 
+7.5 
+Toxicology  
+7.5.1 
+General Toxicology 
+Data (presented by FDA): 
+Study title/ number:  PT2977: A 13-week oral gavage toxicity study followed by 28-day 
+and 26-week recovery periods in Sprague-Dawley rats / TT187809 
+ 
+• One mortality at HD, possibly related to PT2977 
+Reference ID: 4840621
+
+
+===== PAGE 67 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+66 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+• Four fetuses at 60 mg/kg/day had an external malformation (domed head). 
+Belzutifan caused embryo-fetal lethality at doses ≥ 60 mg/kg/day (approximately 1 time 
+the human exposure at the recommended dose based on AUC).  Reduced fetal body 
+weights, fetal rib malformations, and reduced skeletal ossification occurred at doses of 6 
+and 60 mg/kg/day (approximately ≥ 0.2 times the human exposure at the recommended 
+dose based on AUC).  
+ 
+ 
+GLP compliance: 
+No 
+ 
+Methods 
+Dose and frequency of dosing: 
+0, 3, 30, 100 mg/kg, twice daily from Day 6 to 
+Day 17 of gestation 
+Route of administration: 
+Oral gavage 
+Formulation/Vehicle: 
+Vehicle: 0.5% (w/v) methylcellulose and 0.5% 
+(w/v) polysorbate 80 in deionized water 
+Species/Strain: 
+Rat/Sprague-Dawley 
+Number/Sex/Group: 
+8 females/group 
+Satellite groups: 
+6 females/group evaluated for TK and 
+hematology parameters 
+Study design: 
+Mated female rats of approximately 10 weeks of 
+age were treated with MK-6482 on GD 6-17 (14 
+females/group).  A subset of females 
+(n=6/group) were assigned for TK analysis and 
+hematology evaluation, collected on GD 7 and 
+GD 18, respectively.  The remaining females 
+were euthanized on GD 21 for EFD evaluation 
+(n=8/group). 
+Deviation from study protocol 
+affecting interpretation of results: 
+ 
+No 
+ 
+Observations and Results   
+Parameters  
+Major findings 
+Mortality 
+There was no maternal mortality.    
+Clinical Signs 
+Unremarkable 
+Body Weights 
+Maternal: Reduced mean maternal body weights versus control were -14% and -
+22% on GD 21 for 60 and 200 mg/kg/day, respectively. Reduced mean body 
+weight gain was observed at ≥ 60 mg/kg/day starting on GD 6, with maximal 
+decrease noted on DG 18 to DG 21 (-79% to -96% versus control), which was 
+associated with post-implantation loss and/or reduced fetal body weights.  
+Gravid uterine weights were -77% and -96% lower than control at 60 and 200 
+mg/kg/day, respectively. 
+Reference ID: 4840621
+
+
+===== PAGE 69 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+68 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+Ossified sacrocaudal 
+vertebrae (mean) 
+ 
+10.4 
+ 
+9.4 
+ 
+7.2 
+ 
+N/A 
+ 
+ 
+GD: gestational day 
+ 
+The Applicant’s Position: 
+In the preliminary embryo-fetal developmental toxicity study in rats, belzutifan was 
+administered to pregnant rats at doses of 6, 60 and 200 mg/kg/day from gestation day 6 
+through 17. Developmental toxicity occurred at all dose levels tested and consisted of increased 
+embryo-fetal lethality at ≥60 mg/kg/day (corresponding to subtherapeutic exposure), and 
+reduced fetal body weight, reduced ossification, and malformations at 6 and 60 mg/kg/day (no 
+available embryos at 200 mg/kg/day due to 100% embryofetal lethality). The NOAEL for 
+developmental toxicity in rats was not determined.  
+The FDA’s Assessment: 
+The FDA agrees with the Applicant’s conclusion.  The animal-to-human AUC ratio for EFD 
+findings was determined by doubling the animal AUC12h to compare with human AUC24h. 
+Belzutifan caused embryo-fetal lethality at doses ≥ 60 mg/kg/day (approximately 1 time the 
+human exposure at the recommended dose based on AUC).  Reduced fetal body weights, fetal 
+rib malformations, and reduced skeletal ossification occurred at doses of 6 and 60 mg/kg/day 
+(approximately ≥ 0.2 times the human exposure at the recommended dose based on AUC).  
+ 
+No fertility studies were conducted with belzutifan; however, based on the post-implantation 
+loss noted in the pilot embryo-fetal development study, belzutifan may affect female fertility.  
+Based on results from general toxicology studies in rats, belzutifan may impair fertility in males 
+of reproductive potential.  Results from these studies will be included in Section 13.1 of the 
+label. 
+7.5.5 
+Other Toxicology Studies 
+The Applicant’s Position: 
+Belzutifan was not phototoxic and was classified as a non-irritant and as a non-dermal sensitizer 
+in safety occupational handler assays. All specified belzutifan impurities above the qualification 
+threshold and degradation products were qualified according to ICH Q3A(R2) and ICH Q3B(R2) 
+guidelines by virtue of their presence in the batch evaluated in the 13-week toxicity study in 
+dogs. Potential and actual impurities, including identified impurities in each starting material, 
+intermediate, and drug substance/product, were assessed for mutagenic potential according to 
+ICH M7 guidance.  
+The FDA’s Assessment: 
+Reference ID: 4840621
+
+
+===== PAGE 75 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+74 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+cutoff, the confirmed ORR (primary efficacy endpoint) per RECIST 1.1 was 36.1% (22 out of 61; 
+95% CI: 24.2%, 49.4%). In addition, the DCR was 98.4% based on a median duration of follow-up 
+of 15.8 (4.2 to 24.1) months. While the median TTR was 31.1 weeks (min 11.6, max 61.0), the 
+median DOR, PFS and TTS were not reached. See Section 8.1.1 for additional details. 
+The 120 mg QD dose of belzutifan also showed clinically meaningful ORR in VHL disease-
+associated non-RCC tumors including CNS hemangioblastomas, pancreatic lesions, and 
+pancreatic neuroendocrine tumors.  
+Treatment with 120 mg belzutifan was tolerable based on the safety analysis which was 
+comprised of all enrolled participants in MK-6482-004 who received at least 1 dose of 
+belzutifan. The median duration of treatment was 68 weeks. All participants on study 
+experienced an AE. The most common AEs (≥20% incidence) were anemia (90.2%), fatigue 
+(60.7%), headache (37.7%), dizziness (36.1%), and nausea (31.1%). The most frequent Grade 3 
+to 5 AEs (>1 participant) were anemia (6.6%), fatigue (4.9%), and hypertension (3.3%). No 
+treatment-related Grade 4 or Grade 5 events occurred. Overall, the 120 mg QD dose was 
+tolerable, with no occurrence of treatment-related Grade 4 or Grade 5 events and low rates of 
+drug-related AEs leading to dose interruption [14 participants (23.0%)], dose reduction [6 
+participants (9.8%)] or dose discontinuation [1 participant (1.6%)]. To date, the important ADRs 
+for belzutifan are anemia due to decreased erythropoietin and hypoxia. Grade 3 anemia 
+occurred in 4 participants (6.6%). Grade 3 hypoxia occurred in 1 participant (1.6%). Overall, 
+most cases of anemia were mild to moderate, manageable with ESA administration and/or 
+blood transfusion along with dose interruption or reduction. 
+The 120-mg dose of belzutifan is recommended as a new therapeutic option for patients with 
+VHL disease-associated RCC and is supported by both efficacy and safety results from MK-6482-
+004 and an overall favorable risk-benefit profile. Exposure-response analyses for efficacy and 
+safety further support the dose recommendation (Sections 6.3.2.2 and 6.3.2.3). 
+The FDA’s Assessment: 
+FDA agrees with the Applicant. 
+8.2.2.2 
+Therapeutic Individualization 
+The Applicant’s Position: 
+Intrinsic factors such as age, sex, body weight/BMI, race, ethnicity, disease status/cancer type 
+(healthy, patients with VHL disease-associated RCC, advanced RCC, or other advanced non-RCC 
+solid tumors), renal impairment (mild and moderate impairment) and hepatic impairment (mild 
+impairment as categorized by NCI index) as well as the phenotype status of any single metabolic 
+enzyme (UGT2B17, CYP2C19) do not have a clinically meaningful impact on MK-6482 exposures 
+(AUC) and no dose adjustment is recommended based on any of these factors. The pop-PK 
+analysis demonstrated that the UGT2B17/CYP2C19 dual PM phenotype is anticipated to be 
+associated with greater than 2X increases (~ 2.3X) in MK-6482 AUC compared to a reference 
+group, UGT2B17 IM/CYP2C19 non PMs. Based on E-R analyses for efficacy and safety, and the 
+Reference ID: 4840621
+
+
+===== PAGE 77 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+76 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+ 
+The FDA’s Assessment: 
+FDA agrees with the Applicant.  
+8.3 
+Comprehensive Clinical Pharmacology Review 
+8.3.1 
+General Pharmacology and Pharmacokinetic Characteristics 
+The Applicant’s Position: 
+An overview of the ADME properties, PK and DDI potential of belzutifan are summarized below. 
+Absorption 
+Following oral administration of belzutifan 120 mg, median Tmax is achieved within 1-2 hours 
+under fasted conditions. A high-fat, high-calorie meal delays Tmax, with a median difference 
+(Fed – Fasted) of 2 hours; however, there is no effect on the extent of belzutifan absorption 
+based on comparison of AUC0-t and AUC0-inf, which are contained within the 0.80 to 1.25 
+reference interval for AUC ratio. Therefore, belzutifan may be administered without regard to 
+food. The absolute bioavailability of belzutifan has not been determined. 
+Distribution and Protein Binding 
+Following belzutifan 120 mg once daily in advanced RCC patients, the mean Vz/F (CV) is 138 L 
+(28%) suggesting extensive distribution to tissues. The plasma protein binding of belzutifan is 
+45%. Based on pop-PK analysis, for 120 mg QD dosing, the geometric mean (GeoCV%) total 
+volume of distribution (Vd/F) is 130 L (35.2%) in VHL-RCC patients. 
+Metabolism 
+An ADME study (MK-6482-008) is currently ongoing. In vitro, belzutifan is metabolized primarily 
+via the polymorphic enzymes UGT2B17 and CYP2C19. UGT2B17 is the major route of 
+elimination in subjects who express that enzyme, with the fraction eliminated via UGT2B17 
+dependent on both the UGT2B17 and CYP2C19 phenotype. In subjects not expressing UGT2B17, 
+CYP2C19 is a major route of elimination. Belzutifan glucuronide (PT3317), a major human 
+metabolite formed by UGT2B17, circulates at exposures ~ 32% of the belzutifan exposure at 
+steady state. PT3317 does not inhibit HIF-2α and has low potential to be a perpetrator of drug 
+interactions. PT3317 exposures were well below human levels in 13 week rat GLP safety studies 
+and comparable to clinical exposures in 13 week dog GLP safety studies (~ 1.8x exposure 
+multiples relative to a 120 mg clinical dose of belzutifan).  
+Steady-State 
+Following once-daily dosing of 20 mg to 240 mg in patients with advanced solid tumors, the 
+mean AUC accumulation ratio (CV) at steady state for belzutifan is 1.27 to 1.54 (21% to 49%). In 
+patients with advanced RCC, the mean (CV%) accumulation ratio for AUC is 1.49 (48%) for 120 
+mg QD belzutifan. Based on the pop-PK analysis, for 120 mg QD belzutifan in VHL-RCC patients, 
+Reference ID: 4840621
+(b) (4)
+
+
+===== PAGE 78 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+77 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+the geometric mean (GeoCV%) AUC accumulation ratio is predicted to be 1.41 (18.7%) for FFP 
+and 1.44 (19.5%) for FMF, respectively. 
+Linearity and Dose Proportionality 
+Based on single and multiple dose data from patients with advanced solid tumors and single 
+dose data from healthy participants, belzutifan PK (Cmax and AUC) appears generally dose-
+proportional up to 200 mg. 
+Clinical Pharmacokinetics 
+In patients with advanced RCC, the steady-state GM Cmax and AUC0-tau for 120 mg QD were 
+1.7 μg/mL (4.4 µM) and 18.1 µg•hr/mL (47.3 µM•hr). Based on the pop-PK model analysis, the 
+steady-state GM for Cmax and AUC0-tau for 120 mg in VHL disease-associated RCC patients are 
+predicted to be 1.4 μg/mL (3.6 µM) (and 1.3 μg/mL for FMF) and 16.7 µg•hr/mL (43.6 µM•hr), 
+respectively. The slightly lower predicted Cmax and AUC values in VHL disease-associated RCC 
+patients compared to non-VHL disease patients with advanced RCC may reflect the underlying 
+age and chronic comorbidity (including renal impairment) differences between the populations.  
+Comparison of observed single-dose mean Cmax and AUC values in healthy participants across 
+studies to Cmax and AUC values in VHL and non-VHL patients for 120 mg MK-6482 shows that 
+these parameters are generally similar between patients and healthy participants, supporting 
+the conduct and extrapolation of results from studies in healthy participants to patients.  
+Intrinsic Factors 
+The effects of age, gender, disease status/cancer type (healthy volunteers, and patients with 
+VHL-RCC, advanced RCC, or other advanced non-RCC solid tumors), phenotype (UGT2B17 and 
+CYP2C19 polymorphisms), body weight/BMI, race, ethnicity, renal impairment and hepatic 
+impairment on belzutifan PK have been characterized in Phase 1 studies and/or pop-PK 
+analyses. With the exception of the UGT2B17 and CYP2C19 dual PM phenotype, the effects of 
+evaluated intrinsic factors are generally small (<2X increase in AUC), and unlikely to be clinically 
+meaningful.  
+However, in a typical VHL disease-associated RCC patient weighing 74 kg, the combined 
+UGT2B17/CYP2C19 dual PM phenotype is projected to result in a 2.3X increase in 
+AUC (43.6 µg•hr/mL) compared to the reference group, UGT2B17 IM/CYP2C19 non-PMs 
+(19.0 µg•hr/mL). An exploratory pharmacogenetic analysis predicted a larger magnitude of 
+effect on AUC (~3X) for the combined UGT2B17/CYP2C19 dual PM phenotype relative to the 
+same reference population. Since the pop-PK analysis includes a larger data pool, particularly 
+participants from the pivotal trial, MK-6482-004, the pop-PK model estimates should be more 
+representative of the observed effects of UGT2B17 and CYP2C19 phenotype in the VHL-RCC 
+population. 
+Extrinsic Factors 
+No extrinsic factor evaluation studies were completed at the time of the submission. Belzutifan 
+is metabolized by UGT2B17 and CYP2C19. Given that UGT2B17 and CYP2C19 poor metabolizers 
+have no enzyme activity, the safety profile observed in subjects who are poor metabolizers can 
+Reference ID: 4840621
+
+
+===== PAGE 80 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+79 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+minor process changes and embossing compared to FMF is was bridged 
+using in vitro dissolution.  
+Bioanalysis 
+Belzutifan and the glucuronide metabolite were measured using a 
+validated LC/MS/MS method.  
+Dose 
+Proportionality 
+The PK of belzutifan exhibited dose-proportional increase in AUC and Cmax 
+after single and multiple doses ranging from 20 mg  to 240 mg QD.  
+Accumulation 
+The accumulation of AUC0-24h values on Day 15 relative to Day 1 was 
+approximately ranged from 1.27 to 1.54. 
+Variability 
+The intersubject variability (CV%) was 13% to 65% for Cmax and 30% to 64% 
+for AUC at steady-state across the dose escalation range (20 mg QD, 40 
+mg QD, 80 mg QD, 120 mg QD, 160 mg QD, 240 mg QD, and 120 mg BID). 
+ABSORPTION 
+Absolute 
+Bioavailability 
+The absolute bioavailability of belzutifan has not been characterized.  
+Tmax 
+In patients with advanced solid tumors, the peak belzutifan plasma 
+concentration was achieved within 1 to 2 hours after oral administration. 
+Food Effect 
+A high-fat and high-calorie meal resulted in a small decrease in AUC 3%) 
+but a more substantial decrease in Cmax (35%) relative the fasted state. Of 
+note, the food effect study (study MK-6482-002) was conducted with the 
+FFP formulation. A food-effect study with the FMI formulation is ongoing. 
+Substrate 
+Transporter 
+Systems 
+Belzutifan is a substrate of P-gp but is not a substrate of BCRP.  
+DISTRIBUTION 
+Volume of 
+Distribution 
+The total mean volume of distribution (% CV) after a 120 mg oral dose of 
+belzutifan was 130 (35%) L.  
+Plasma Protein 
+Binding 
+45% 
+Blood-to-
+Plasma ratio 
+0.88 
+ELIMINATION 
+Mean Terminal 
+Half-Life 
+The mean terminal half-life of belzutifan is 14 hours 
+METABOLISM 
+Primary 
+Metabolic 
+Pathways 
+Belzutifan is metabolized by the polymorhpic enzymes UGT2B17 and 
+CYP2C19.  
+Transporter 
+Substrate 
+In vitro, belzutifan is not a substrate of OATP1B1 or OATP1B3.  
+DDI Potential 
+Enzyme Inhibition 
+Reference ID: 4840621
+
+
+===== PAGE 81 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+80 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+In vitro, belzutifan did not inhibit CYP enzymes (CYP 1A2, 2B6, 2C8, 2C9, 
+2C19, 2D6, and 3A4/5).  
+Enzyme Induction 
+Belzutifan did not induce CYP1A2 or CY2B6. However, belzutifan is an 
+inducer of CYP3A4.  At 120 mg QD, belzutifan decreased midazolam AUC 
+by 40% and Cmax by 34%. PBPK modeling predicts a more substantial 
+decrease in midazolam AUC (up to 70%) in subjects with higher belzutifan 
+exposure (eg., dual UGT2B17 and CYP2C19 poor metabolizers).  
+Transporter Inhibition 
+Belzutifan inhibits MATE2K in vitro but did not inhibit P-gp, BCRP, 
+OATP1B1, OATP1B3, OCT2, OAT1, or OAT3. 
+EXCRETION 
+Primary 
+Excretion 
+Pathway 
+Routes of elimination have not been identified. Mass balance study (Study 
+MK-6482-008) is ongoing. 
+FDA agrees with the use of popPK analysis to model the impact of UGT2B17 and CYP2C19 
+phenotype on belzutifan exposure. However, FDA recommended comparison of dual 
+UGT2B17/CYP2C19 PMs to a reference group of UGT2B17 NM/CYP2C19 non-PMs in the 
+presentation of changes in exposure (Information Request dated April 8, 2021).  In the revised 
+analysis by the Applicant, in a typical VHL disease-associated RCC patient weighing 74 kg, the 
+combined UGT2B17/CYP2C19 dual PM phenotype is projected to result in a 3.2X increase in 
+AUC (43.6 µg•hr/mL) compared to the reference group, UGT2B17 NM/CYP2C19 non PMs (13.7 
+µg•hr/mL). Also see section 8.3.2.3. 
+8.3.2 
+Clinical Pharmacology Questions 
+8.3.2.1 
+Does the Clinical Pharmacology Program Provide Supportive Evidence of 
+Effectiveness? 
+The Applicant’s Position: 
+The E-R relationships for efficacy, safety and biomarker/pharmacodynamic markers provide 
+supportive evidence of effectiveness for the 120 mg QD dose as described below further in 
+Section 6.3.2.2 and 6.3.2.3. 
+The FDA’s Assessment: 
+Yes, the clinical pharmacology program provides evidence of effectiveness. Primary evidence of 
+efficacy was obtained from study 004 in 61 patients with VHL-associated RCC receiving 120 mg 
+QD dose of belzutifan. The overall response rate was 49.2% (95% CI: 36.1, 62.3).  
+The 120 mg dose was selected based on PK, PD, and safety information obtained from the FIH 
+study (study 001) in patients with advanced solid tumors. In the escalation portion of study 001, 
+escalating doses of belzutifan (20 mg, 40 mg, 80 mg, 120 mg, 160 mg, and 240 mg QD  and 120 
+Reference ID: 4840621
+
+
+===== PAGE 83 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+82 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+Figure 4  Applicant - Plots of ORR for RCC Tumors Versus AUCavgeot Relationship, with ORR Grouped by 
+AUCavgeot Quartiles and a Linear Logistic Regression Fit by Study (Study 1: MK-6482-001; Study 4: MK-6482-004) 
+ 
+ 
+Abbreviations: AUCavgeot=average area under the concentration-time curve until end of treatment 
+Notes: Open squares represent individual values, represent subjects with event (at the top) and subjects with no event (at the 
+bottom). Observations were jittered for improved visualization. Numbers depict n/N for each exposure quartile, with n being 
+number of subjects with an event and N being total number of subjects. 
+Solid dot and vertical line represent incidence and 95% CI of observation at mean exposure within quartile; solid line represents 
+logistic regression fit of the form logit(prob[event]) AUC × slope + intercept; dashed lines represent 95% CI; and horizontal lines 
+represent width of exposure quartiles. 
+Source: [Ref. 5.3.3.5: 05MSSH: Figure 16] 
+The Applicant’s Position: 
+The 120 mg QD dose of MK-6482 for patients with VHL-RCC is supported by efficacy and safety 
+results from MK-6482-004, E-R relationships for efficacy, safety and biomarker/ 
+pharmacodynamic markers, and an overall favorable risk-benefit profile.  
+As described in Section 6.2.2.1, the 120 mg QD dose of MK‑6482 evaluated in MK-6482-004 
+showed (i) clinically meaningful efficacy in renal as well as non-renal (CNS hemangioblastomas, 
+pancreatic lesions, and pancreatic neuroendocrine tumors) tumors, (ii) reasonable 
+safety/tolerability, with no occurrence of treatment-related Grade 4 or Grade 5 events and low 
+rates of drug-related AEs responsible for dose interruption, dose reduction or dose 
+discontinuation, (iii) low incidence of Grade 3 anemia and Grade 3 hypoxia, and (iv) anemia 
+being manageable with ESA administration and/or blood transfusion along with dose 
+interruption or reduction.  
+Although only a single dose level (120 mg) was evaluated in MK-6482-004, there was an ~ 7-fold 
+AUC range of 5.16 to 34.2 µg•hr/mL based on average AUC until end of treatment and ~ 8.5-
+fold AUC range of 5.2 to 43.5 µg•hr/mL based on nominal steady state AUC with 120 mg QD 
+due to the inter-individual variability, enabling E-R analyses of key clinical efficacy endpoints in 
+patients with VHL-RCC across a broad range of exposures. Efficacy E-R analyses were also 
+Reference ID: 4840621
+
+
+===== PAGE 86 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+85 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+corresponding model predicted Grade 3 anemia incidence [95% CI] of 13.0% [2.8%, 43.1%]), assuming baseline Hgb of 14 g/dL 
+(median observed in Study MK-6482-004). 
+Solid line and shaded area represent model predicted incidence and 95% CI based on the logistic regression fit of the form 
+logit(prob[event]) AUC × slopeAUC + Baseline Hgb × slopeHgb + intercept. CI = confidence interval. The projection of incidence 
+of Grade 3 anemia are shown by red dots for the expected exposures for typical reference patient in the study with UGT2B17 
+poor metabolizer (PM) and UGT2B17/CYP2C19 dual PM (PM/PM) phenotype. 
+Source: [Ref. 5.3.3.5: 05MSSH: Figure 70] [Ref. 5.3.3.5: 05MSSH: Table 64] 
+The Applicant’s Position: 
+AUC is reasoned to be the most critical PK parameter for MK-6482 since it represents an overall 
+measure of average daily concentration. Furthermore, all of the identified efficacy (tumor 
+reduction) and safety parameters (anemia, hypoxia) of interest in VHL-disease patients are 
+more likely the result of sustained drug effects associated with prolonged cumulative belzutifan 
+exposures, rather than caused by brief low or high concentrations (ie, which would otherwise 
+track or correlate more with Cmin or Cmax, respectively). The effects of age, sex, metabolizer 
+phenotype (UGT2B17 and CYP2C19 polymorphisms), body weight/BMI, race, ethnicity, disease 
+status/cancer type (healthy volunteers, patients with VHL-RCC, advanced RCC, or other 
+advanced non-RCC solid tumors), renal impairment (mild and moderate impairment) and 
+hepatic impairment (mild impairment as categorized by NCI index) on MK-6482 PK have been 
+evaluated in Phase 1 studies and/or pop-PK analysis. The results from the pop-PK analysis 
+indicate that the individual effects of the majority of evaluated intrinsic factors are associated 
+with less than a 2X increase in MK 6482 exposures (AUC) and no dose adjustment is 
+recommended based on any of these single factors. 
+UGT2B17 and CYP2C19 phenotype were identified as the most important intrinsic or extrinsic 
+factor impacting MK-6482 PK. The pop-PK analysis indicates that the combined 
+UGT2B17/CYP2C19 dual PM phenotype is associated with a 2.3X higher MK-6482 AUC 
+compared to the reference group, UGT2B17 IM/CYP2C19 non-PMs, in a typical 41-year, 74-kg 
+subject. In contrast, UGT2B17 EM/CYP2C19 non-PMs are predicted to have 0.7X lower AUC 
+compared to the same UGT2B17 IM/CYP2C19 non-PMs reference typical subject. Generally 
+similar magnitude effects are predicted based on an exploratory PGx analysis; this cross-
+validation supports the strength of the model predictions from both approaches.  
+In the MK-6482 clinical development program, doses up to 240 mg QD and 120 mg BID have 
+been evaluated for safety and tolerability, and are associated with a steady-state GM for AUC0-
+24 up to 42.4 µg•hr/mL (120 mg BID). For reference, based on the pop-PK model analysis, the 
+steady-state GM AUC0-24 in VHL-RCC patients is predicted to be 16.7 µg•hr/mL at the 120 mg 
+QD dose. To date, no MTD for belzutifan has been established with dosing up to 120 mg BID. 
+Although only the 120-mg dose has been evaluated for safety and efficacy in VHL-RCC patients, 
+individual belzutifan AUCs spanned an ~ 7-fold AUC range of 5.16 to 34.2 µg•hr/mL based on 
+average AUC until end of treatment and ~ 8.5-fold AUC range of 5.2 to 43.5 µg•hr/mL based on 
+nominal steady state AUC with 120 mg QD. No DLTs were identified in patients with VHL-RCC in 
+MK-6482-004, which included 5 UGT2B17 PMs and no UGT2B17/CYP2C19 dual PMs. 
+Reference ID: 4840621
+
+
+===== PAGE 91 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+90 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+Source: Reviewer exploratory analysis.  ORR per RECIST 1.1 as assessed by IRC in RCC. *Partial deletion: VHL Type 1 
+[exon 1 deletion (N=1), exon 2 deletion (N=3), exon 3 deletion (N=11)]; unknown VHL Type [exon 3 deletion (N=1)].  
+In response to an FDA Information Request dated April 23, 2021, the Applicant concurred with 
+these exploratory findings, and noted that the median time to response (mTTR) for VHL-RCC 
+tumors with VHL deletion tended to be longer compared with those with other mutation types 
+(Table 4), which could explain the difference in ORR.  For non-RCC tumors, although ORRs (VHL 
+deletion vs VHL mutation) were comparable in pNET, pancreatic lesions and CNS 
+hemangioblastomas, the mTTR also tended to be longer for the tumors with VHL deletion. A 
+review of the literature suggested that VHL-null tumors display lower basal HIF-2α expression, 
+and that VHL ccRCC tumors may display variable HIF-2α dependency and thus variable 
+sensitivity to HIF-2 α inhibition (Tarade et al. 2018). A longer follow up in patients with gene 
+deletions vs other mutation types will be requested as part of a clinical PMC (see Section 16 for 
+details). 
+Table 4:  Summary of Time to Response in RCC Tumors by VHL Alteration Status in Patients with Confirmed 
+Response in RCC per RECIST 1.1 based on IRC assessment (Efficacy Analysis Set)
+ 
+Source: Applicant’s Table in response to FDA Information Request dated April 23, 2021. 
+8.3.2.4 
+Are There Clinically Relevant Food-Drug or Drug-Drug Interactions, and What is 
+the Appropriate Management Strategy? 
+The Applicant’s Position:  
+The impact of food on belzutifan exposure was studied using  an oral 
+ tablet (FFP) 
+formulation. Consumption of a high-fat, high-calorie meal prior to belzutifan administration 
+delayed Tmax, with a median difference (Fed – Fasted) of 2 hours. However, a high-fat, high-
+calorie meal had no effect on the extent of belzutifan absorption based on comparison of 
+AUC0-t and AUC0-inf, which were contained within the 0.80 to 1.25 reference interval for AUC 
+ratio. Cmax was approximately 35% lower under fed conditions, suggesting that food may 
+impact the rate of belzutifan absorption. The effects of a high-fat, high-calorie meal on 
+belzutifan Tmax and Cmax are not considered clinically meaningful. 
+Reference ID: 4840621
+(b) (4)
+
+
+===== PAGE 92 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+91 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+The potential for belzutifan to inhibit metabolizing enzymes or transporters was evaluated 
+in vitro. Belzutifan demonstrated low potential to inhibit major CYP or UGT enzymes and major 
+drug transporters. In vitro studies and PBPK modelling suggest that belzutifan may be a 
+moderate CYP3A4 inducer. Consequently, a study to assess the impact of belzutifan 
+administration on midazolam PK has been initiated (MK-6482-009), although the final study 
+report is not available at the time of filing. The preliminary PK data from the study suggests a 
+reduction in AUC0-inf in the range of ≥20% to <50% for midazolam after 7 day administration of 
+120 mg QD belzutifan, suggesting a weak CYP3A4 induction potential for belzutifan (ongoing 
+analysis; data on file and not submitted). 
+As noted earlier, belzutifan is metabolized by UGT2B17, CYP2C19, and to a lesser extent by 
+CYP3A4. The relative contribution of UGT2B17 and CYP2C19 to the elimination of belzutifan 
+was further elucidated by a dedicated single-dose PK trial in Japanese and Caucasian healthy 
+subjects, an integrated cross-study pharmacogenetic analysis and population PK analysis. 
+Collectively, these analyses indicate that UGT2B17 is the major elimination pathway, while 
+CYP2C19 likely plays a lesser role. A [14C]-belzutifan human mass balance study is ongoing and 
+will further elucidate the relative contribution of CYP2C19, UGT2B17 and other pathways to the 
+elimination of belzutifan. The exploratory pharmacogenetic analysis results for both UGT2B17 
+and CYP2C19 poor metabolizers (ie, no enzyme activity) and pop-PK analysis submitted in the 
+NDA, provides an understanding of the potential impact of strong inhibitors of UGT2B17 and 
+CYP2C19 on belzutifan PK. A study to evaluate the impact of a strong CYP2C19 inducer 
+(rifampin) on belzutifan PK is planned. 
+Belzutifan is a weak substrate of P-gp, as well as OATP1B1 and OATP1B3. Given the weak 
+nature of these interactions, clinically meaningful effects are not anticipated for inhibitors of P-
+gp or OATP1B1/B3. 
+Belzutifan and its 
+ intermediate do not exhibit reduced solubility at elevated pH. 
+Thus, belzutifan FMI may be administered without any restrictions for agents that modulate 
+gastric pH (e.g., proton-pump inhibitors). 
+The FDA’s Assessment: 
+FDA agrees with the Applicant. Food intake did not have a clinically meaningful effect on 
+belzutifan exposure with the FFP formulation. The effect of food intake on the bioavailability of 
+the FMI formulation is being characterized in an ongoing study. However, given the safety 
+profile of belzutifan and the fact that anemia is a monitorable and relatively late onset adverse 
+reaction, as highlighted above, administration without regard to food is acceptable. 
+Concomitant medications that are known to inhibit UGT2B17 or CYP2C19 are predicted to 
+result in an exposure increase of 50% to 60%. Similar to the rationale for intrinsic factors 
+highlighted in section 6.3.2.3, dosage modifications are not recommended.  
+Of note, belzutifan is an inducer of CYP3A4. The coadministration of belzutifan decreased 
+midazolam exposure by 40%. Given that some patients may have substantially higher exposure 
+Reference ID: 4840621
+(b) (4)
+
+
+===== PAGE 200 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+199 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+available data.  
+12. Clinical 
+Pharmacology 
+12.3 Pharmacokinetics 
+… 
+FDA revised as follows: 
+- 
+Removed 
+ 
+ 
+ 
+ 
+ 
+- 
+Added a description of the meal 
+used in the food effect study per 
+FDA Guidance for the Clinical 
+Pharmacology Section of Labeling; 
+and added a statement that had 
+food had “no clinically meaningful 
+effect” on belzutifan Cmax or AUC. 
+- 
+Revised Specific Populations to add 
+“Patients who are poor 
+metabolizers of UGT2B17 and 
+CYP2C19 had higher belzutifan AUC 
+[see Clinical Pharmacology (12.5)]”; 
+and added additional detail on race, 
+ethnicity, and renal and hepatic 
+impairment. 
+- 
+Revised the Drug Interactions 
+Studies to remove 
+ 
+ 
+ and added clinically 
+relevant information for these and 
+other Transporter systems. 
+12. Clinical 
+Pharmacology 
+12.5 
+Pharmacogenomics 
+… 
+FDA revised as follows: 
+- 
+To provide accurate increases in 
+exposure for UGT2B17, CYP2C19, or 
+dual UGT2B17 and CYP2C19 poor 
+metabolizers 
+Reference ID: 4840621
+(b) (4)
+(b) (4)
+
+
+===== PAGE 227 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+226 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+evaluated for each level. A CYP2C19 poor metabolizer had a 56% higher exposure than a subject 
+in the “extensive” category (pooled category including intermediate, extensive, rapid and 
+ultrarapid metabolizers). A poor UGT2B17 poor metabolizer had a 46% higher exposure than an 
+intermediate or extensive metabolizer. Body weight resulted in +25% and -30% changes in MK-
+6482 AUCss at the 5th and 95th percentiles of the body weight distribution in all patients 
+enrolled in Study 4. Age resulted in -20% and +17% changes in exposure at the 5th and 95th 
+percentiles of the age distribution. Formulation and food only affected the absorption rate of 
+MK-6482 and thus did not influence exposure at steady state. Third, simulations were 
+performed to assess the impact of missed or delayed doses on MK-6482 exposure.  72-hour 
+concentration-time profiles were simulated with observations at the following time points: 0, 
+0.5, 1, 1.5, 2, 3, 4, 5, 6, 9, 12, 18, 24 hours after each dose, and thereafter every 6 hours until 
+the next dose was given. The covariates from the Study 4 population (61 patients) were used 10 
+times to generate 610 virtual patients. The following dosing scenarios were evaluated: 
+• Scenario 1: doses at 0 (SS assumed), 24 and 48 hours 
+• Scenario 2: doses at 0 (SS assumed) and 48 hours; second dose missed 
+• Scenario 3: doses at 0 (SS assumed), 36 and 48 hours; second dose 12 hours delayed. 
+• Scenario 4: doses at 0 (SS assumed), 40 and 48 hours; second dose 16 hours delayed 
+• Scenario 5: doses at 0 (SS assumed), 42 and 48 hours; second dose 18 hours delayed 
+• Scenario 6: doses at 0 (SS assumed), 45 and 48 hours; second dose 21 hours delayed 
+AUC, Cmax and Cmin by scenario are shown in Table 50. Based on these simulations, with a 
+single missed dose over a period of 3 days, the average daily exposure (AUC0-24h) over a 3-day 
+duration is reduced by 30% compared to the scenario without a missed dose (11.6 vs 16.5 
+μg*h/mL). The impact of any delayed second (make-up) dose on average AUC0-24h over 3 days 
+appears small; however, Cmax is almost 50% higher in scenario 6 compared to QD dosing 
+(scenario 1), and Cmin of scenario 6 is approximately 1/3rd of the steady-state Cmin with QD 
+dosing (scenario 1).  
+  
+Reference ID: 4840621
+
+
+===== PAGE 234 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+233 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+ 
+Data 
+The pooled source analysis datasets from studies 1 and 4 contained 155 and 133 patients were available 
+for safety and efficacy ER analysis, respectively. Steady-state exposures were generated to investigate 
+the extent of correlation between AUC, Cmax, and Cmin at steady state based on the nominal dose and 
+to guide the selection of the exposure metric to be used for the E-R analyses. The post hoc estimated 
+exposures were strongly correlated in both the exposure-safety analysis population and the exposure-
+efficacy analysis population for AUC and Cmax and for AUC and Cmin. Due to the high degree of 
+correlation between the post hoc exposure estimates, there was no preference from a mechanistic 
+perspective for AUCss or Cmin as the exposure parameter for the exposure-efficacy analysis, or for 
+AUCss or Cmax for the exposure-safety analysis, as both exposure parameters would result in similar E-R 
+relationships. AUC is generally less sensitive to variability in concentration values at specific time points 
+and was therefore used for both the exposure-efficacy and exposure-safety analyses. To account for 
+dose reductions and interruptions, the following AUC exposure metrics at steady state were 
+investigated: 
+• Steady-state AUCss based on average dose intensity up to the event (or censored to end 
+of treatment or data cutoff date in case no event) [AUCavg] 
+• Steady-state AUCss based on average dose intensity until end of treatment or data 
+cutoff date [AUCavgeot] 
+• Steady-state AUCss based on average dose intensity up to Day 1 of Week 3 [AUCwk3]  
+All patients from Study 4 were treated with 120 mg QD. The majority of patients (54 out of 72) from 
+Study 1 were treated with 120 mg QD (See Table 51). This is one of the limitations of the analysis. Due 
+to possible confounding issues, results of these analyses would need to be interpreted with caution to 
+avoid mis- or over-interpretation of the results.  
+ 
+E-R Efficacy Analyses  
+Various efficacy endpoints including overall response rate (ORR), disease control rate (DCR), progression 
+free survival (PFS), best overall response rate (BOR), time to response (TTR), duration of response (DOR) 
+were investigated. For binary endpoints, univariate logistic regression analyses were performed. For 
+time-to-event endpoints, Kaplan-Meier curves were plotted. Summary statistics by exposure quartiles 
+were also provided. The relationship between exposure (AUC) and various efficacy endpoints (ORR, DCR, 
+PFS, BOR, TTR, DOR) generally appeared to be flat within the observed exposure range for patients with 
+VHL-RCC (Study 4) or RCC (Study 1). In addition, there was a tendency toward higher ORR with exposure 
+for RCC lesions in Study 4. The relationship between exposure (AUC) and ORR for CNS lesions in Study 4 
+generally appeared to be flat within the observed exposure range. A slight positive trend was observed 
+for DCR for RCC lesions in Study 1. While no similar trend for DCR for RCC lesions could be discerned in 
+Study 4, a slight trend for improvement in BOR for RCC lesions was observed in this study. Given the 
+relatively long TTR for patients with VHL-RCC treated with MK-6482 in Study 4, the E-R analyses 
+Reference ID: 4840621
+
+
+===== PAGE 238 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+237 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+related AEs. As a result, no E-R analysis was performed for dose discontinuation because of data 
+limitations. 
+ 
+22.4.2 
+Physiologically Based Pharmacokinetic Modeling Review  
+ 
+Executive Summary 
+The objective of this review is to evaluate the adequacy of the Applicant’s physiologically based 
+pharmacokinetic (PBPK) analyses report (#05kp6f) entitled “Physiologically Based 
+Pharmacokinetic Model (PBPK) of MK-6482 to evaluate the impact of CYP2C19 and UGT2B17 
+polymorphisms on pharmacokinetic variability and CYP3A4 mediated perpetrator drug-drug 
+interaction potential” to support the label recommendation based on the predicted DDI 
+potential.     
+The Division of Pharmacometrics has reviewed the original PBPK report, the addendum to the 
+report, supporting modeling files, the Applicant’s response to Clinical Pharmacology 
+Information Requests (IRs) received dated April 14, July 09, and July 16, 2021, and concluded 
+that: 
+• 
+The belzutifan PBPK model is adequate to predict the PK in subjects who are dual 
+CYP2C19 and UGT2B17 poor metabolizers (PMs) . The model predicted that 
+belzutifan exposure (AUC) could be increased approximately by 4-fold in subjects 
+who is a dual PM of CYP2C19 and UGT2B17 compared to that in a non-PM. 
+• 
+The PBPK analysis is adequate to predict the effect of belzutifan on the exposure of a 
+sensitive CYP3A subtract, such as midazolam (MDZ).  The model predicted that 
+coadministration of belzutifan 120 mg once daily decreased the midazolam AUC by 
+up to 70% in subjects with higher belzutifan concentrations.   
+Background 
+ 
+Belzutifan (MK-6482) is developed to patients with von Hippel-Lindau (VHL) disease-
+associated renal cell carcinoma (RCC), not requiring immediate surgery. The proposed dosing of 
+belzutifan is 120 mg orally once daily (QD) with or without food. The Applicant reported that 
+the maximum tolerated dose (MTD) was not reached in the clinical studies where belzutifan 
+doses were ranging from 20 to 240 mg (including 120 mg BID).  
+Cmax and AUC increase proportionally following multiple doses in patients over a dose 
+range of 20 mg 200 mg daily.  The median time to reach maximum observed plasma 
+concentration (Tmax) is around 1 to 2 hours. Human mass balance study (study#008) is 
+currently ongoing. In animals (dog and monkey), less than 1% of total oral dose was excreted 
+unchanged in urine.  The glucuronide metabolite of belzutifan, PT3317, was quantified in 
+clinical studies and circulates in plasma at ~ 32% of belzutifan exposures.  Effect of hepatic 
+impairment (mild) and renal impairment (mild and moderate) on PK of belzutifan were 
+evaluated in clinical studies 001 and 004.  Population PK analysis suggested no clinically 
+Reference ID: 4840621
+
+
+===== PAGE 239 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+238 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+significant effects of mild hepatic impairment and mild to moderate renal impairment on MK-
+6482 exposures.    
+Studies with human liver microsomes and recombinant enzymes demonstrated that 
+belzutifan is metabolized by glucuronidation catalyzed by UGT2B17 and by oxidative 
+metabolism, catalyzed by CYP2C19, and to a lesser extent by CYP3A4.  belzutifan and its 
+metabolite, PT3317, demonstrated low potential to inhibit major CYP (expect CYP3A4) or UGT 
+enzymes and major drug transporters.  Clinical DDI study (#009) showed a 40% and 34% 
+reduction in AUC and Cmax of midazolam, respectively, following 120mg oral QD dosing of MK-
+6482 in the fasted state for 7 days and a single oral dose of 2 mg midazolam on day 7, relative 
+to midazolam exposures when administered alone.  
+UGT2B17 and CYP2C19 phenotype were identified as important intrinsic factors 
+impacting MK-6482 PK.  The Applicant conducted pop-PK analysis (study # 05MSSH) and 
+pharmacogenetic pharmacokinetic (PGx-PK) analysis (study # 05nhzl) to evaluate the PK 
+difference in subjects with different phenotypes.  The pop-PK analysis is a non-linear mixed 
+effects model that incorporates clinical PK data collected across MK-6482 studies with both 
+sparse and intensive PK sampling (MK-6482-001, 002, 004, 006, and 007). Compared to popPK 
+analysis, the pharmacogenetic analysis (study # 05nhzl) is considered more exploratory by the 
+Applicant.  The PGx-PK model in study # 05nhzl is a linear mixed effects model that incorporates 
+PK parameters derived from noncompartmental PK analysis from studies with intensive PK 
+sampling only.  Table 55 compared the estimated steady state belzutifan AUC for a 74 kg 
+subject receiving 120 mg belzutifan with different phenotypes. 
+Reference ID: 4840621
+
+
+===== PAGE 241 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+240 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+solubility of approximately 10 μg/mL across the physiological pH range (Applicant’s 
+BioPharSummary Sec 1.1). 
+Retrograde method was used to calculate total hepatic intrinsic clearance (CLint) based on the 
+oral clearance (8.62 L/hr) derived from the PGx-PK analysis for a subject who is a dual extensive 
+metabolizer (EM) of CYP2C19 and UGT2B17.  The contributions of CYP2C19 and UGT2B17 to the 
+total clearance in EM/EM subjects were based on results of PGx-PK analysis (Study# 05nhzl, 
+Section 6).  The contributions of CYP2C19, UGT2B17 and another pathway were 25.3%, 55.0% 
+and 19.7%, respectively, to the overall clearance. 
+For the population PBPK simulation, the Applicant modified the enzyme phenotype frequencies 
+and relative enzyme abundance in the default NEurCaucasian and Japanese populations in the 
+Simcyp library according to the results obtained from the PGx-PK analysis.  CYP2C19 and 
+UGT2B17 frequencies and phenotype definitions used in PGx-PK analysis were adapted from 
+public literature and database such as PharmGKB2.  The relative activity/abundance in 
+intermediate metabolizers (IMs) and ultra-rapid metabolizers (UMs) was estimated by the 
+Applicant from the shift in exposure compared to that in the EMs (Study# 05nhzl).  Table 56 
+summarized the modified enzyme phenotype frequencies and relative enzyme abundance in 
+the default population library files. 
+ 
+2 https://www.pharmgkb.org/page/cyp2c19RefMaterials 
+Reference ID: 4840621
+
+
+===== PAGE 246 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+245 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+compared to midazolam alone in Caucasian Population. Figure 24 illustrates the refinement 
+process of using PBPK modeling to evaluate the DDI potential of belzutifan on midazolam PK. 
+ 
+Figure 24: Model refinement process evaluating the DDI potential of belzutifan on the PK of a CYP3A substrate 
+Source: Summarized by the Reviewer 
+ 
+The Applicant submitted results of clinical DDI study with midazolam (Study 009) under IND 
+132120 on April 28, 2021.  FDA issued an information request on July 02, 2021 for a revised 
+belzutifan PBPK modeling analysis considering the clinical midazolam DDI data.   Reviewer 
+requested the Applicant to estimate the DDI effect of belzutifan on midazolam PK in subjects 
+with higher belzutifan concentrations such as UGT2B17/CYP2C19 PM/PM.  Applicant submitted 
+“MK-6482 PBPK MODELING & SIMULATION REPORT ADDENDUM” on July 09, 2021.  The revised 
+CYP3A induction parameters, Emax and EC50, were 5.99 and 12 µM respectively.   The Emax 
+value of 5.99 was based on the average of two Emax values (Lot A and B), EC50 value was then 
+optimized to fit observed data.  The PBPK simulations with the updated EC50 and Emax 
+parameters suggested a 50% and 38% reduction in midazolam AUC with concomitant 
+administration of 120mg QD dose of belzutifan.  Applicant did not report simulate the DDI 
+effects of belzutifan on midazolam for population with different phenotypes such as Caucasian 
+and Japanese PM/PM.  Instead, the Applicant generated an exposure-response relationship 
+between belzutifan AUC and midazolam AUC ratio using PBPK simulation results for Caucasian 
+and Japanese populations.   Then, based on the simulated belzutifan AUC for different 
+population, midazolam AUC ratio were estimated using the exposure-response relationship.  
+Figure 25 presents the overlay of the PBPK simulated belzutifan AUC vs. midazolam AUC ratio 
+relationship and observed individual data in Study 009.  Table 60 presented the projected 
+midazolam AUC ratios based on the simulated belzutifan AUC in different populations and the 
+belzutifan AUC vs. midazolam AUC ratio relationship (Figure 25).    
+ 
+Reference ID: 4840621
+
+
+===== PAGE 247 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+246 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+Figure 25: Overlay of simulated relationship between the belzutifan AUC and midazolam AUC Ratio and observed 
+midazolam AUCR (study P009) 
+ 
+Blue and Green vertical lines show the 10th-
+90th percentile of predicted steady state 
+AUC values for Caucasian and Japanese 
+populations, respectively, with 120 mg QD 
+dosing in patients with VHL-RCC  
+ Source: Figure 1 of ‘Response to Clinical Pharmacology Information Request submitted on July 
+09’  
+ 
+Table 60: Projected midazolam AUC ratio based on the belzutifan AUC vs. midazolam AUC Ratio relationship 
+Source: Table 5 of ‘Response to Clinical Pharmacology Information Request submitted on July 09’  
+ 
+Reviewer’s comments 
+The change in midazolam exposure when it is co-administered with belzutifan is determined by 
+two factors: the belzutifan exposure and the involvement of CYP3A5-mediated DDI. Midazolam 
+is metabolized via the CYP3A4/5 pathway.  The CYP3A4/5 abundance is different between the 
+NEurCaucasian and Japanese populations (Simcyp library files) and the interaction of belzutifan 
+Reference ID: 4840621
+
+
+===== PAGE 248 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+247 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+in the Applicant’s analysis is only modeled via the CYP3A4 pathway. The impact of the CYP3A5-
+mediated interaction on the on the belzutifan-midazolam DDI prediction is being explored by the 
+reviewer and discussed below.  
+1. As shown in  Table 61 Scenario A, the midazolam AUC ratio (0.38) simulated for 
+Japanese PM/PM population is slightly higher than those simulated for NEurCaucasian 
+PM/PM population (AUC ratio 0.37). This result is not expected, given the belzutifan 
+AUCss is much higher in Japanese PM/PM population (58.3-vs-70.6 µg/mL-hr, Table 61).  
+One explanation is the difference in the contribution of CYP3A5-mediated clearance in 
+Simcyp’s midazolam PBPK model in Japanese and NEurCaucasian. Consequently, the 
+simulated relationships between belzutifan AUC and midazolam AUC Ratio are different 
+in the NEurCaucasian and Japanese PM/PM populations (Figure 21).   
+Table 61: Comparison of the simulated DDI effect of belzutifan on midazolam PK in NEurCaucasian and Japanese 
+subjects who are dual PMs of CYP2C19 and UGT2B17  
+ 
+Scenario A1 
+Simulated DDI effect of belzutifan on 
+MDZ: Applicant’s belzutifan model 
+G.M (5%-95%) 
+Scenario B2 
+Simulated DDI effect of belzutifan on 
+MDZ: Add CYP3A5 induction in 
+belzutifan model* G.M (5%-95%) 
+belzutifan 
+AUC ss 
+µg/mL-hr 
+Midazolam  
+belzutifan 
+AUC ss 
+µg/mL-hr 
+Midazolam 
+AUC ratio 
+Cmax 
+Ratio 
+AUC ratio 
+Cmax 
+Ratio 
+NEurCaucasian 
+PM/PM  
+58.3 
+0.37 
+(0.36-0.37) 
+0.46 
+(0.45-
+0.46) 
+58.3 
+0.34 
+(0.33-
+0.34) 
+0.42 
+(0.42-
+0.43) 
+Japanese 
+PM/PM 
+70.6 
+0.38 
+(0.37-0.39) 
+0.47 
+(0.47-
+0.48) 
+70.6 
+0.30 
+(0.30-
+0.31) 
+0.38 
+(0.37-
+0.39) 
+1Data were extracted from the model output submitted in the Applicant’s response to FDA IR submitted on July 
+16, 2021; 2Data were simulated using the Applicant’s workspace files with the revised DDI parameters listed in 
+Table 62. 
+ 
+Table 62: Induction parameters used in the two belzutifan model in the Table 1 
+Applicant’s model1 
+Revised model2 
+CYP3A4 
+CYP3A5 
+CYP3A4 
+CYP3A5 
+Emax EC50 Emax EC50 Emax EC50 Emax EC50 
+5.99 
+12 
+0 
+0 
+5.99 
+12 
+5.99 
+12 
+1model was used to simulate the results presented in Table 61 Scenario A. 
+2model was used to simulate the results presented in Table 61 Scenario B. 
+Reference ID: 4840621
+
+
+===== PAGE 249 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+248 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+ 
+Figure 26: Comparison of exposure-response relationship between NEurCaucasian population and Japanese 
+PM/PM population 
+ 
+Blue circles and orange 
+squares represent the 
+simulated individual data 
+for NEurCaucasian and 
+Japanese PM/PM, 
+respectively.  These data 
+were obtained from the 
+workspace file submitted 
+by the Applicant.    
+ 
+2. As shown in Table 63, the CYP3A5-mediated pathway contributed 35% of midazolam 
+clearance in the Japanese population in Simcyp’s midazolam PBPK model.  In other word, 
+if only accounting for CYP3A4 induction, 35% of midazolam pathway would not be 
+induced in the Japanese PM/PM population when concomitantly administration with 
+belzutifan.  Thus, the PBPK modeling predicted a lower DDI effect for Japanese PM/PM 
+compared to NEurCaucasian PM/PM using the Applicant’s model which considered the 
+CYP3A4 induction only (Table 61 Scenario A). Reviewer noted that CYP3A5 induction by 
+belzutifan was not studied in vitro (see discussion regarding induction data in-vitro).  
+Table 63: Contribution of CYP3A5 pathway in midazolam clearance in midazolam PBPK model for different virtual 
+population.  
+ 
+Simulated midazolam Oral Clearance (L/hr) 
+geometric mean (5%-95% CI) 
+% contribution of 
+CYP3A5 pathway in 
+overall clearance 
+ 
+Default midazolam 
+model 
+Turn-off CYP3A5 
+mediated clearance in 
+midazolam model  
+NEurCaucasian  
+89.8 (80.8-99.8) 
+79.0 (72.0-85.7) 
+12% 
+Japanese 
+70.3 (60.8-81.3) 
+45.7 (40.5-51.5) 
+35% 
+Note: Simcyp default population libraries were used. Sample size 100; age 20-50, 50% female 
+ 
+Reference ID: 4840621
+
+
+===== PAGE 250 =====
+
+NDA MULTI-DISCIPLINARY REVIEW AND EVALUATION – NDA 215383 
+Welireg (belzutifan)  
+ 
+ 
+249 
+VERSION DATE: JANUARY 2020 (ALL NDA/ BLA REVIEWS) 
+ 
+Disclaimer: In this document, the sections labeled as “The Applicant’s Position” are completed 
+by the Applicant and do not necessarily reflect the positions of the FDA.  
+3. Although CYP3A5 mediated clearance is evident in the in-vitro data for midazolam5, 
+there are several publications suggesting that midazolam metabolism in vivo is not 
+associated with CYP3A genotypes (such as Miao et al6 and Shih et al7).  Van Dyk et al8 
+conducted midazolam DDI studies in subjects with Caucasian and South Asian ancestries 
+following 300 mg rifampicin QD for 7 day and a single 5 mg midazolam on day 7.  In this 
+study, 45% of South Asian subjects have functional CYP3A5 genotype compared to 11% 
+in Caucasian subjects.  Results of clinical DDI studies showed the magnitude of effect of 
+rifampin on midazolam PK are similar in Caucasian and South Asian subjects. A 75% and 
+80% reduction in midazolam AUC was reported in Caucasian and South Asian subjects 
+respectively, following 300 mg rifampicin QD for 7 day.    
+4. Assuming the induction potential on CYP3A4 pathway can be applied to the CYP3A5-
+mediated clearance for midazolam, Reviewer included the induction parameters for 
+CYP3A5 pathway in the belzutifan PBPK model (Table 62).  As shown in Table 61 Scenario 
+B, the simulated midazolam AUC ratio was 0.30 and 0.34 for Japanese PM/PM and 
+NEurCaucasian PM/PM populations, respectively. 
+Conclusion: 
+• 
+The belzutifan PBPK model is adequate to predict the PK in subjects with different 
+CYP2C19 and UGT2B17 phenotypes. The model predicted that belzutifan exposure 
+(AUC) could be increased approximately by 4-fold in subjects who is a dual PM of 
+CYP2C19 and UGT2B17 compared to that in non-PMs. 
+• 
+The PBPK analysis is adequate to predict the effect of belzutifan on the exposure of a 
+sensitive CYP3A subtract such as midazolam.  The model predicted that 
+coadministration of belzutifan 120 mg once daily decreased the midazolam AUC by 
+up to 70% in subjects with higher belzutifan concentrations such as dual poor 
+metabolizers of CYP2C19 and UGT2B17 pathway.   
+ 
+ 
+5 Simcyp V19 midazolam PBPK model verification report 
+6 Miao et al., Pharmacogenomics J. 2009: https://pubmed ncbi.nlm nih.gov/19506580/ 
+7Shih et al., Drug Metab Dispos. 2002:  https://pubmed ncbi nlm nih.gov/12433824/ 
+8 Van Dyk et al., Eur J Clin Pharmacol. 2018 https://pubmed ncbi nlm nih.gov/29572563/ 
+Reference ID: 4840621

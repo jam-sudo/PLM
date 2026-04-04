@@ -1,0 +1,87 @@
+{
+  "nda": "NDA202258",
+  "drug_name": "boceprevir",
+  "pk_tuples": [
+    {
+      "dose_mg": 200, "dose_original": "200 mg TID",
+      "route": "oral", "formulation": "capsule", "food": "fed",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "steady_state",
+      "cmax_ng_ml": 505, "tmax_h": 2.3, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 1330,
+      "t_half_h": 3.5, "cl_L_h": null, "vd_L": null,
+      "source_page": 55, "confidence": "high",
+      "notes": "Table 13 multiple dose PK, 14 days TID with low fat meals, healthy Caucasian subjects; AUC reported is AUC0-8h (dosing interval at steady-state)"
+    },
+    {
+      "dose_mg": 400, "dose_original": "400 mg TID",
+      "route": "oral", "formulation": "capsule", "food": "fed",
+      "population": "healthy_adult", "n_subjects": 4, "dose_schedule": "steady_state",
+      "cmax_ng_ml": 881, "tmax_h": 3.0, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 2620,
+      "t_half_h": 5.1, "cl_L_h": null, "vd_L": null,
+      "source_page": 55, "confidence": "high",
+      "notes": "Table 13 multiple dose PK, 14 days TID with low fat meals, healthy Caucasian; AUC0-8h"
+    },
+    {
+      "dose_mg": 800, "dose_original": "800 mg TID",
+      "route": "oral", "formulation": "capsule", "food": "fed",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "steady_state",
+      "cmax_ng_ml": 1680, "tmax_h": 2.0, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 4830,
+      "t_half_h": 10.2, "cl_L_h": null, "vd_L": null,
+      "source_page": 55, "confidence": "high",
+      "notes": "Table 13 multiple dose PK 14 days TID low fat meals; AUC0-8h; therapeutic dose"
+    },
+    {
+      "dose_mg": 1200, "dose_original": "1200 mg TID",
+      "route": "oral", "formulation": "capsule", "food": "fed",
+      "population": "healthy_adult", "n_subjects": 34, "dose_schedule": "steady_state",
+      "cmax_ng_ml": 1940, "tmax_h": 2.4, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 6500,
+      "t_half_h": 3.0, "cl_L_h": null, "vd_L": null,
+      "source_page": 55, "confidence": "high",
+      "notes": "Table 13 from thorough QT trial P04489; AUC0-8h"
+    },
+    {
+      "dose_mg": 800, "dose_original": "single 800 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": null, "dose_schedule": "single_dose",
+      "cmax_ng_ml": null, "tmax_h": null, "auc_inf_ng_h_ml": 5440, "auc_last_ng_h_ml": null,
+      "t_half_h": null, "cl_L_h": 208, "vd_L": 1170,
+      "source_page": 20, "confidence": "high",
+      "notes": "Single 800 mg dose boceprevir: AUCinf 5440 ng*hr/mL, CL/F 208 L/hr, Vd/F 1170 L"
+    },
+    {
+      "dose_mg": 400, "dose_original": "400 mg single oral",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "hepatic_impaired", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 305, "tmax_h": 1.8, "auc_inf_ng_h_ml": 1090, "auc_last_ng_h_ml": 1070,
+      "t_half_h": 5.5, "cl_L_h": null, "vd_L": null,
+      "source_page": 72, "confidence": "high",
+      "notes": "Table 22, SCH534128 (active metabolite diastereomer), mild hepatic impairment"
+    },
+    {
+      "dose_mg": 400, "dose_original": "400 mg single oral",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "hepatic_impaired", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 378, "tmax_h": 1.8, "auc_inf_ng_h_ml": 1310, "auc_last_ng_h_ml": 1290,
+      "t_half_h": 5.7, "cl_L_h": null, "vd_L": null,
+      "source_page": 72, "confidence": "high",
+      "notes": "Table 22, SCH534128 moderate hepatic impairment"
+    },
+    {
+      "dose_mg": 400, "dose_original": "400 mg single oral",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "hepatic_impaired", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 471, "tmax_h": 3.0, "auc_inf_ng_h_ml": 1420, "auc_last_ng_h_ml": 1410,
+      "t_half_h": 5.2, "cl_L_h": null, "vd_L": null,
+      "source_page": 72, "confidence": "high",
+      "notes": "Table 22, SCH534128 severe hepatic impairment"
+    },
+    {
+      "dose_mg": 400, "dose_original": "400 mg single oral",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 269, "tmax_h": 1.5, "auc_inf_ng_h_ml": 1010, "auc_last_ng_h_ml": 1030,
+      "t_half_h": 8.6, "cl_L_h": null, "vd_L": null,
+      "source_page": 72, "confidence": "high",
+      "notes": "Table 22, SCH534128 diastereomer in healthy subjects matched to hepatic impairment study"
+    }
+  ]
+}

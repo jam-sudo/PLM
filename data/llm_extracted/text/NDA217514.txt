@@ -1,0 +1,791 @@
+
+
+===== PAGE 17 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation {NDA 217514/NDA 217513} 
+{Tafinlar + Mekinist, dabrafenib + trametinib} 
+16 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+3 Glossary  
+ADME   
+Absorption, distribution, metabolism, elimination 
+ADR 
+ 
+Adverse drug reaction 
+AE 
+ 
+Adverse event 
+AESI 
+ 
+Adverse event of special interest 
+ATC 
+ 
+Anaplastic thyroid cancer  
+BLA 
+ 
+Biologics license application 
+BRAF   
+B‐Raf proto‐oncogene, serine/threonine kinase 
+BOR 
+ 
+Best overall response 
+CBR 
+ 
+Clinical benefit rate 
+CFR 
+ 
+Code of Federal Regulations 
+CNS 
+ 
+Central nervous system  
+CR 
+ 
+Complete response 
+CRF 
+ 
+Case report form 
+CSR 
+ 
+Clinical study report 
+DOR 
+ 
+Duration of response 
+DLT 
+ 
+Dose limiting toxicity 
+ECG 
+ 
+Electrocardiogram 
+ECHO   
+Echocardiogram 
+EMA 
+ 
+European Medicines Agency 
+FDA 
+ 
+Food and Drug Administration 
+FAS 
+ 
+Full analysis set 
+HGG 
+ 
+High‐grade glioma 
+ICH 
+ 
+International Conference on Harmonization 
+ITT 
+ 
+Intent to treat 
+LCH 
+ 
+Langerhans cell histiocytosis  
+LGG 
+ 
+Low‐grade glioma 
+LVEF 
+ 
+Left ventricular ejection fraction 
+MedDRA 
+Medical Dictionary for Regulatory Activities 
+MTD 
+ 
+Maximum tolerated dose 
+NCI‐CTCAE 
+National Cancer Institute‐Common Terminology Criteria for Adverse Event 
+NDA 
+ 
+New drug application 
+NSCLC   
+Non‐small cell lung cancer  
+ORR 
+ 
+overall response rate 
+OS 
+ 
+Overall survival 
+PFS 
+ 
+Progression‐free survival 
+PK 
+ 
+Pharmacokinetics 
+PopPK   
+Population PK 
+PR 
+ 
+Partial response 
+Reference ID: 5142531
+
+
+===== PAGE 42 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation {NDA 217514/NDA 217513} 
+{Tafinlar + Mekinist, dabrafenib + trametinib} 
+41 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table 9‐2. Summary of Postmarketing Commitments 
+Postmarketing commitments for NDA 217513  
+PMC rationale 
+The food effect on the trametinib for oral solution is unknown. Therefore, a food effect 
+study should be conducted to evaluate the effect of food on the absorption and systemic 
+exposure of trametinib for pediatric oral solution formulation.  
+PMC description 
+Conduct a food effect study to evaluate the impact of food on exposure of trametinib for 
+oral solution per FDA food effect guidance titled “Assessing the Effects of Food on Drugs 
+in INDs and NDAs — Clinical Pharmacology Considerations Guidance for Industry.”  
+Postmarketing commitments for NDA 217514 
+PMC rationale 
+The food effect on dabrafenib tablets for oral suspension is unknown. Therefore, a food 
+effect study should be conducted to evaluate the effect of food on the absorption and 
+systemic exposure of dabrafenib tablets for oral suspension.  
+PMC description 
+Conduct a food effect study to evaluate the impact of food on exposure of dabrafenib 
+tablets for oral suspension per FDA food effect guidance titled “Assessing the Effects of 
+Food on Drugs in INDs and NDAs — Clinical Pharmacology Considerations Guidance for 
+Industry.”  
+Abbreviations: IND, investigational new drug; NDA, new drug application; PMC, postmarketing commitment 
+9.2 Summary of Clinical Pharmacology Assessment  
+All relevant information to support the clinical pharmacology profile of dabrafenib plus 
+trametinib was submitted within the DRB436 (dabrafenib) NDA. 
+9.2.1 Pharmacology and Clinical Pharmacokinetics 
+The Applicant’s Position 
+Pharmacokinetics and ADME characteristics of dabrafenib and trametinib have been well 
+characterized in adult patients for the currently approved solid formulations. The clinical 
+pharmacology assessment in this application focused on dabrafenib plus trametinib (D+T) 
+combination as an oral liquid formulation in the pediatric population with BRAF V600E 
+mutation‐positive glioma. Three pediatric studies (Study G2201, Study A2102 and Study X2101) 
+contributed PK data in the pediatric population and used both oral solid and the proposed oral 
+liquid formulations as follow: 
+ The supportive study [Study A2102] investigating dabrafenib monotherapy for the 
+treatment of advanced BRAF V600‐mutation positive solid tumors in 85 pediatric 
+patients aged 12 months to < 18 years. This study was completed on 04‐Dec‐2020. 
+ The supportive study [Study X2101] investigating trametinib monotherapy and D+T 
+combination therapy for the treatment of advanced solid tumors in 139 pediatric 
+patients aged 1 month to < 18 years. This study was completed on 29‐Dec‐2020. 
+ The pivotal study [Study G2201] in 151 children and adolescents (≥ 12 months to < 18 
+years) with BRAF V600 mutation positive, refractory or relapsed HGG tumors after 
+Reference ID: 5142531
+
+
+===== PAGE 43 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation {NDA 217514/NDA 217513} 
+{Tafinlar + Mekinist, dabrafenib + trametinib} 
+42 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+having received at least one previous standard therapy (single arm HGG cohort, n=41) or 
+with BRAF V600 mutant LGG tumors with progressive disease following surgical excision, 
+or non‐surgical candidates with necessity to begin first systemic treatment because of a 
+risk of neurological impairment with progression compared to chemotherapy 
+(carboplatin with vincristine) (randomized LGG cohort, n=110). This study is currently 
+ongoing; enrolment is completed and the data cut‐off for the primary analysis occurred 
+on 23‐Aug‐2021.  
+A Population PK (PopPK) analysis of the integrated pediatric pharmacokinetics (PK) data, guided 
+by the previously established exposure‐response relationships in adults, was used to guide the 
+pediatric dosing for the liquid formulations for patients 1 year of age and older. 
+Initial trials of dabrafenib (Study A2102) and trametinib (Study X2101) in the pediatric 
+population sought to identify doses of single agents, followed by combination, that matched 
+exposures associated with efficacy in the adult population. 
+Rapid absorption of both dabrafenib and trametinib was observed for the liquid formulations 
+and Tmax values were largely comparable with solid formulations. Following single oral 
+administration of dabrafenib in Study G2101, rapid absorption was observed with median Tmax 
+of 1.4 h and 1.5 h for solid and liquid formulations, respectively. Following single oral 
+administration of trametinib in Study MEK115892, rapid absorption was observed with median 
+Tmax of 1.8 h and 1.0 h for solid and liquid formulations, respectively. Administration of 
+dabrafenib and trametinib as combination in Study G2201 showed similar rapid absorption of 
+individual agents. Median Tmax for dabrafenib and trametinib at steady state was 1.4 h and 1.3 
+h, respectively, in the LGG cohort, and 2.0 h in the HGG cohort.   
+In Study G2201, the observed plasma exposure of dabrafenib and trametinib in pediatric 
+patients with BRAF V600 mutation‐positive glioma was comparable to exposures in adult 
+patients in previously approved indications. The steady‐state Cavg was 409 ng/mL (LGG) and 
+359 ng/mL (HGG) for dabrafenib and 14.1 ng/mL (LGG) and 12.8 ng/mL (HGG) for trametinib. 
+These exposures met the target plasma exposure levels for dabrafenib (~300 ng/mL) and 
+trametinib (~10 ng/mL) that have been established in adult patients based on previous 
+preclinical and clinical exposure‐response analyses. For both LGG and HGG pediatric patient 
+populations, the geometric mean dabrafenib metabolite to parent AUC0‐τ ratios for hydroxy‐
+dabrafenib, carboxy‐dabrafenib, and desmethyl‐dabrafenib were also consistent with historical 
+dabrafenib metabolite ratios in adult patients. 
+In the pediatric popPK modeling, rapid oral absorption rate constants (mean Ka) were observed 
+for both dabrafenib and trametinib in adults (1.2 h‐1 and 1.6 h‐1) and pediatrics (1.3 h−1 and 
+1.4 h−1), indicating rapid and similar absorption of dabrafenib and trametinib from both 
+formulations in adults and pediatric patients. Similar steady state exposure was observed for 
+dabrafenib liquid and solid formulations with AUCtau and Cmax ratios of 1.0 and 1.0, 
+respectively. The steady state trametinib exposure for liquid and solid formulations was close 
+with AUCtau and Cmax ratios of 1.2 and 1.3, respectively. These results supported comparable 
+Reference ID: 5142531
+
+
+===== PAGE 44 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation {NDA 217514/NDA 217513} 
+{Tafinlar + Mekinist, dabrafenib + trametinib} 
+43 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+PK of dabrafenib and trametinib between liquid and solid formulations. In addition, the 
+population PK analysis determined that apparent clearance depended on weight and gender. 
+For a typical male pediatric patient who weighs 38.7 kg (median in the pooled pediatric 
+studies), the apparent maximum inducible dabrafenib clearance at steady state was 20.94 L/h 
+(18.6 L/h for the adults) and the estimated dabrafenib apparent base clearance was 8.82 L/h, 
+(16.7 L/h in adults). For a typical male pediatric patient who weighs 32.85 kg (median in the 
+pooled pediatric studies) the estimated population apparent trametinib clearance was 3.44 L/h 
+(5.07 L/h in adults). Differences in PK based on gender were not considered clinically relevant in 
+pediatric glioma population. 
+The FDA’s Assessment 
+FDA agrees with the Applicant’s position on the summary PK and ADME characteristics of the 
+new oral liquid dosage forms of dabrafenib and trametinib.  
+Body weight had no clinically significant effect on the exposure of trametinib or dabrafenib in 
+adults. However, in the PopPK analysis for patients 1 to 17 years of age, body weight (8 to 156 
+kg for trametinib; 6 to 156 kg for dabrafenib) was identified as a significant covariate for 
+clearance and volume of distribution. Patients with higher body weights tended to have higher 
+clearance for dabrafenib and trametinib. PopPK simulation predicted that steady state 
+exposures of dabrafenib and trametinib in pediatric patients given weight‐based dosing are 
+within the range of values previously observed in adults given the approved recommended flat 
+dosage. 
+9.2.2 General Dosing and Therapeutic Individualization 
+9.2.2.1 General Dosing 
+The Applicant’s Position 
+The recommended posology for the dabrafenib and trametinib combination therapy was 
+established using the learnings from the pivotal study that used an age‐specific weight‐based 
+dose regimen and further dose optimization with additional pediatric PK data and population 
+PK analyses. 
+Dabrafenib dispersible tablet is available as single strength of 10 mg only, and calculation of 
+weight‐based dosing may be cumbersome for patients and caregivers. Table 9‐3 displays the 
+proposed weight‐based dosage for dabrafenib dispersible tablets in patients 1 year of age and 
+older. The dose reductions follow the established algorithm for the solid formulation in adult 
+patients, with up to three dose reduction levels and reductions by 33% (from 150 mg BID to 100 
+mg BID in adults), 50% (to 75 mg BID in adults) and 66% (to 50 mg BID in adults) from the 
+starting dose. 
+Reference ID: 5142531
+
+
+===== PAGE 48 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation {NDA 217514/NDA 217513} 
+{Tafinlar + Mekinist, dabrafenib + trametinib} 
+47 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+9.3 Comprehensive Clinical Pharmacology Review 
+9.3.1 General Pharmacology and Pharmacokinetic Characteristics 
+The Applicant’s Position 
+A comprehensive overview of the pharmacokinetics and Absorption, distribution, metabolism, 
+elimination (ADME) characteristics of dabrafenib and trametinib have been well characterized 
+in adult patients for the currently approved solid formulations. 
+PopPK modeling of dabrafenib plus trametinib characterized the PK of the solid and liquid 
+formulations in the pediatric population and demonstrated comparability with the adult 
+population. Similar rates of absorption were estimated for the solid and liquid formulations. 
+The apparent steady state clearances of dabrafenib and trametinib were determined to depend 
+on weight and gender in pediatric patients.  
+The steady state exposure levels in pediatric patients with BRAF V600 mutation‐positive glioma 
+met the target plasma exposure levels that had been established in adult patients based on the 
+exposure‐response analyses in the approved indications. 
+For both compounds, body weight was a significant population PK covariate and was an 
+important factor affecting dabrafenib and trametinib exposures in pediatric patients. Thus, 
+body weight was used to guide development of the pediatric posology in order to achieve the 
+target exposure for both agents, while not exceeding the upper end of the recommended dose 
+for trametinib. The dose recommendations for dabrafenib and trametinib are further explained 
+in Section 9.2.2.1. 
+The FDA’s Assessment 
+FDA agrees with the Applicant’s position that body weight is a statistically significant covariate 
+for clearance and volume of distribution in patients aged 1 to 17 years. Patients with higher 
+body weights tend to have higher clearance for dabrafenib and trametinib. Simulation‐based 
+pediatric PopPK models predicted that steady state exposures of dabrafenib and trametinib 
+administered using weight‐based dosing are within the range of those observed in adult 
+population administered the approved recommended flat dosage (Table 9‐5). Although sex was 
+identified as a significant covariate for the apparent steady state clearances of dabrafenib and 
+trametinib in pediatric patients in the PopPK analysis, this effect is not considered clinically 
+significant.  
+Reference ID: 5142531
+
+
+===== PAGE 77 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation {NDA 217514/NDA 217513} 
+{Tafinlar + Mekinist, dabrafenib + trametinib} 
+76 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table 11‐8. Applicant ‐ Analysis Sets (FAS‐L) 
+Analysis Set 
+D+T 
+N=73 
+n (%) 
+C+V 
+N=37 
+n (%) 
+All Patients 
+N=110 
+n (%) 
+Full analysis set‐L 
+73 (100.0) 
+37 (100.0) 
+110 (100.0) 
+Safety set‐L 
+73 (100.0) 
+33 (89.2) 
+106 (96.4) 
+Pharmacokinetic analysis set‐L 
+69 (94.5) 
+0 (0.0) 
+69 (62.7) 
+Evaluable analysis set‐L 
+49 (67.1) 
+19 (51.4) 
+68 (61.8) 
+Cross‐over set‐L 
+0 (0.0) 
+9 (24.3) 
+9 (8.2) 
+Source: Table 14.1‐2.1L 
+Abbreviations: C+V, carboplatin plus vincristine; D+T, dabrafenib plus trametinib; FAS‐L, full analysis set, LGG cohort; LGG, low‐grade glioma 
+HGG Cohort 
+All 41 patients were included in the FAS‐H and Safety set‐H (Table 11‐9).  
+Table 11‐9. Applicant ‐ Analysis Sets (FAS‐H) 
+Analysis Set 
+All Patients 
+N=41 
+n (%) 
+Full analysis set‐H 
+41 (100.0) 
+Safety set‐H 
+41 (100.0) 
+Pharmacokinetic analysis set‐H 
+39 (59.1) 
+Evaluable analysis set‐H 
+27 (65.9) 
+Source: Table 14.1‐2.1H 
+Abbreviations: FAS‐H, full analysis set, HGG cohort; HGG, high‐grade glioma 
+Table of Demographic Characteristics 
+The Applicant’s Position 
+Demographic characteristics are summarized in Table 11‐10 for LGG and Table 11‐11 for HGG. 
+LGG Cohort 
+Table 11‐10. Applicant – Study G2201 Demographics and Baseline Characteristics (FAS‐L) 
+Demographic Variable 
+D+T 
+N=73 
+C+V 
+N=37 
+All Patients 
+N=110 
+Age (years) 
+ 
+ 
+ 
+n 
+73 
+37 
+110 
+Mean (SD) 
+9.3 (4.97) 
+8.8 (5.01) 
+9.1 (4.96) 
+Median 
+10.0 
+8.0 
+9.5 
+Q1‐Q3 
+5.0‐13.0 
+4.0‐13.0 
+5.0‐13.0 
+Min‐Max 
+1‐17 
+1‐17 
+1‐17 
+Reference ID: 5142531
+
+
+===== PAGE 101 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation {NDA 217514/NDA 217513} 
+{Tafinlar + Mekinist, dabrafenib + trametinib} 
+100 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Study Endpoints 
+The Applicant’s Description 
+Study objectives and endpoints are presented in Table 11‐18. 
+Table 11‐18. Applicant – Study A2102 Objectives and Endpoints 
+Objectives 
+Endpoints 
+Primary 
+To determine the safe and tolerable dabrafenib dose(s) for 
+chronic dosing in pediatric subjects (infants, children, and 
+adolescents) that achieves similar exposures to the 
+dabrafenib adult dose, in subjects with BRAF V600 
+mutation positive tumors 
+AEs; ECG; ECHO; changes in laboratory values and 
+vital signs in Part 1 and Part 2. 
+Cmax, area under the concentration‐time curve from 
+time zero (pre‐dose) to last time of quantifiable 
+concentration [AUC(0‐tau) and AUC(0‐inf) of 
+dabrafenib 
+Secondary 
+To characterize the pharmacokinetics of dabrafenib, and its 
+metabolites 
+Ctrough, AUC(0‐t), AUC(0‐inf), CL/F (dabrafenib 
+only), Cmax, tmax and t½ of dabrafenib and its 
+metabolites, as appropriate 
+To characterize the longer‐term safety and tolerability of 
+dabrafenib  
+AEs; ECG; changes in laboratory values and vital 
+signs 
+To assess any preliminary anti‐tumor activity of dabrafenib   Tumor response as defined in by investigator 
+assessment 
+To determine the effect of age and weight on the 
+pharmacokinetics of dabrafenib using a population 
+pharmacokinetics approach 
+CL/F, V/F, ka, and coefficients for significant 
+covariates 
+Exploratory 
+To evaluate dabrafenib exposure‐response relationships for 
+clinical activity and/or safety endpoints, as warranted 
+Relationship between dabrafenib exposure (PK), and 
+clinical activity and/or safety endpoints 
+To further characterize the subject population through 
+analysis of tumor DNA, RNA, and protein, or other 
+aberrations from tumor tissue, and to determine whether 
+these are associated with clinical outcome in response to 
+therapy, and assess pharmacodynamic targets. 
+Mutation analysis (DNA, RNA, and protein testing) of 
+genes related to the BRAF pathway, clinical 
+outcome, and tumor response. Protein assessment 
+of pERK, and other markers of dabrafenib activity if 
+warranted. 
+To determine the palatability of dabrafenib in pediatric 
+subjects 
+Palatability questionnaire data 
+Abbreviations: AE, adverse event; BRAF, B‐Raf proto‐oncogene, serine/threonine kinase; CL, clearance; ECG, electrocardiogram; ECHO, 
+echocardiogram; PK, pharmacokinetics 
+The FDA’s Assessment 
+FDA agrees with the Applicant's description of Study A2102. 
+Reference ID: 5142531
+
+
+===== PAGE 102 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation {NDA 217514/NDA 217513} 
+{Tafinlar + Mekinist, dabrafenib + trametinib} 
+101 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Statistical Analysis Plan and Amendments 
+The Applicant’s Description 
+The statistical reporting and analysis plan for Study A2102 was finalized on 13‐Nov‐2020. SAS 
+version 9.4 was used to perform all data analyses and to generate tables and listings. 
+All treated population: All subjects who received at least one dose of trametinib and/or 
+dabrafenib. Subjects were not excluded from this population in the case of an incorrect 
+treatment schedule or drug administration or an early termination of treatment. 
+Safety population:  all subjects who received at least one dose of study treatment. All safety 
+data were analyzed using the Safety population. 
+In this study, the All Treated population and Safety population are identical. 
+Pharmacokinetic population: subjects fulfilling the All Treated population criteria and for 
+whom pharmacokinetic sample(s) are obtained and analyzed. This population was used for the 
+primary, secondary PK endpoints, and exploratory PK/PD analyses. 
+DLT Evaluable Population: The DLT Evaluable population is defined as those Part 1 subjects 
+fulfilling the All Treated population criteria, and having received an adequate treatment for the 
+first 28 days to enable an appropriate evaluation of study drug related DLTs. Adequate 
+exposure during the first 28 days will be defined as having received > 75% of planned study 
+drug doses, exclusive of missed doses due to treatment‐related toxicity. Subjects who are either 
+withdrawn or dose reduced due to toxicity during the first 28 days will be included in the DLT 
+evaluable population. Any subject from Part 1 in the ‘All Treated’ population who experiences a 
+DLT, as defined in section 3.3 of the protocol, was also to be included in the DLT evaluable 
+population regardless of exposure. 
+Response Evaluable Population: all subjects fulfilling the All Treated population criteria with a 
+pre‐dose and at least 1 post–dose disease efficacy assessment. For subjects evaluated by RANO 
+criteria, their disease must be ‘measurable’ at baseline to be included in the Response‐
+evaluable population. This population will be used for sensitivity analysis on the efficacy 
+endpoints. 
+Efficacy Endpoints and Analyses 
+The endpoint used to evaluate anti‐tumor activity of dabrafenib was the ORR. Efficacy was 
+measured by tumor response, ORR, and DOR. Where appropriate, all lesion and response data 
+were listed by investigator and central independent reviewer assessments for each subject. 
+ORR along with 95% confidence intervals are calculated separately for each of the disease 
+cohorts. 
+Reference ID: 5142531
+
+
+===== PAGE 123 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation {NDA 217514/NDA 217513} 
+{Tafinlar + Mekinist, dabrafenib + trametinib} 
+122 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+27. History or evidence of cardiovascular risk 
+The FDA’s Assessment 
+FDA acknowledges the Applicant’s position. FDA did not independently confirm these analyses.  
+Study Endpoints 
+The Applicant’s Description 
+The study objectives and their respective endpoints are presented in Table 11‐27. 
+Table 11‐27. Applicant – Study X2101 Objectives and Endpoints 
+Objective  
+Endpoint 
+To determine the safe and tolerable trametinib dose(s) for 
+chronic dosing in pediatric subjects (infants, children, and 
+adolescents) that achieves similar exposures (Cτ) to the 
+recommended adult dose 
+Adverse events (AEs); ECG; ECHO; changes in 
+laboratory values and vital signs. Steady state 
+Cτ of trametinib 
+To characterize the pharmacokinetics of trametinib  
+Cτ (trough), AUC(0‐t), AUC(0‐τ), apparent 
+clearance following oral dosing (CL/F) Cmax, 
+tmax and Cavg, as appropriate 
+To characterize the safety and tolerability of trametinib  
+AEs; ECG; changes in laboratory values and vital 
+signs 
+To assess any preliminary anti‐tumor activity of trametinib 
+Tumor response to trametinib as defined in 
+study protocol by investigator assessment. 
+To determine the effect of covariates such as age and weight 
+on the pharmacokinetics of trametinib using a population 
+pharmacokinetics approach 
+CL/F, volume of distribution (V/F), absorption 
+rate (ka), and coefficients for significant 
+covariates 
+To characterize the pharmacokinetics of trametinib and 
+dabrafenib when administered in combination 
+Cτ (trough), AUC(0‐t), AUC(0‐τ), apparent 
+clearance following oral dosing (CL/F) Cmax, 
+tmax and Cavg of trametinib and dabrafenib 
+when administered in combination, if the data 
+permit 
+To characterize the safety and tolerability of trametinib and 
+dabrafenib when administered in combination 
+AEs; ECG; ECHO; changes in laboratory values 
+and vital signs. 
+To determine the safe and tolerable dabrafenib dose(s) when 
+administered in combination with the recommended 
+trametinib dose for chronic continuous daily dosing in 
+pediatric subjects (infants, children and adolescents) that 
+achieves similar exposures to the recommended adult dose 
+AEs; ECG; ECHO; changes in laboratory values 
+and vital signs. Steady state Cτ of trametinib; 
+steady state AUC(0‐12) of dabrafenib 
+To assess any preliminary anti‐tumor activity of trametinib 
+and dabrafenib when administered in combination 
+Tumor response to dabrafenib and trametinib 
+combination as defined in study protocol by 
+investigator assessment. 
+To determine the acceptability and palatability of trametinib 
+and dabrafenib in pediatric subjects 
+Palatability questionnaire data 
+Reference ID: 5142531
+
+
+===== PAGE 202 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation {NDA 217514/NDA 217513} 
+{Tafinlar + Mekinist, dabrafenib + trametinib} 
+201 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+The FDA’s Assessment 
+Not applicable 
+23.4 OCP Appendices (Technical Documents Supporting OCP 
+Recommendations) 
+23.4.1 Population PK Analysis 
+Table 23‐1. Population PK Summary Table for Dabrafenib 
+General Information 
+Objectives of PPK analysis 
+Characterize the population pharmacokinetics of dabrafenib in 
+pediatric patients. 
+Support dose recommendation of liquid formulations of dabrafenib in 
+combination with trametinib in pediatric patients. 
+Study included 
+CDRB436A2102 (BRF116013), CTMT212X2101 (MEK116540), 
+CDRB436G2201 (Table 23‐2) 
+Dose(s) included 
+Figure 23‐1 
+Population included 
+243 Patients 
+Population 
+characteristics  
+General 
+Age median: 11 (range: 1 – 17) year  
+Weight median: 38.7 (range: 7.8 – 155.6) kg 
+122 (50.2%) male 
+Organ impairment 
+NA 
+Pediatrics (if any) 
+105 patients: 12 years or older 
+77 patients: 6‐11 years of age 
+61 patients: <1 to 5 years of age 
+No. of patients, PK samples, and BLQ 
+243 Subjects, 2185 PK observations  
+31 (1.4%) BLQ samples 
+Covariates 
+evaluated 
+Static 
+Body weight on apparent central volume, total apparent clearance, 
+and apparent intercompartmental clearance. 
+Combination with trametinib on apparent maximum inducible 
+clearance at steady state. 
+Liquid formulations on relative bioavailability, apparent maximum 
+inducible clearance at steady state. 
+Sex on total apparent clearance. 
+ 
+Age on total apparent clearance and central volume of distribution. 
+Time‐varying 
+NA 
+Reference ID: 5142531
+
+
+===== PAGE 203 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation {NDA 217514/NDA 217513} 
+{Tafinlar + Mekinist, dabrafenib + trametinib} 
+202 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Final Model 
+Summary 
+Acceptability 
+[FDA’s Comments] 
+Software and version 
+NONMEM (Version 7.3)  
+Acceptable 
+Model structure 
+A two‐compartment model with a delayed 1st 
+order absorption (Alag1, Ka) and an inducible 
+elimination (CL/F) that consists of a base 
+clearance (constant over time, CL0/F) and a 
+dose‐ and time‐dependent inducible 
+clearance (CLind/F). 
+Acceptable 
+Model parameter estimates 
+Table 23‐3 
+Acceptable 
+Uncertainty and variability (RSE, IIV, 
+shrinkage, bootstrap) 
+Table 23‐3 
+Acceptable 
+BLQ for parameter accuracy 
+BLQ samples were ignored in population PK 
+analysis 
+Acceptable due to low 
+number of BLQ samples 
+GOF, VPC 
+The goodness‐of‐fit plots of the dabrafenib 
+final population pharmacokinetic model for 
+pediatric patients are shown in Figure 23‐2 
+and Figure 23‐3. VPCs for dabrafenib 
+concentrations in pediatric patients show 
+good agreement between simulated and 
+observed data in Figure 23‐4. 
+Acceptable 
+Significant covariates and clinical 
+relevance 
+Sex and weight are significant covariates on 
+the CL/F. Weight is also a significant covariate 
+on the central volume (Vc/F) and 
+intercompartmental clearance (Q/F). 
+Combination of trametinib and formulations 
+are significant covariates on CLind,ss/F. Figure 
+23‐5 ‐ Figure 23‐7 
+Acceptable 
+Abbreviations: BLQ, below the limit of quantification; GOF, goodness‐of‐fit; NA, not applicable; PK, pharmacokinetics; PPK, population 
+pharmacokinetics; VPC, visual predictive check 
+Reference ID: 5142531
+
+
+===== PAGE 205 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation {NDA 217514/NDA 217513} 
+{Tafinlar + Mekinist, dabrafenib + trametinib} 
+204 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table 23‐3. Dabrafenib Parameter Posteriors Updated by the Final Population PK Model 
+ 
+Source: PopPK of dabrafenib and trametinib in pediatric patients modeling report, Page 52‐53, Table 7‐10. 
+Abbreviations: ALAG1, absorption lag‐time; CL, clearance; KA, absorption rate constant; NA, not applicable; PK, pharmacokinetics; Q, organ 
+blood flow; SD, standard deviation; SE, standard error; T50, time required to release 50% of drug; Vc, volume of the central compartment; Vp, 
+volume of the peripheral compartment; WT, weight  
+Reference ID: 5142531
+
+
+===== PAGE 211 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation {NDA 217514/NDA 217513} 
+{Tafinlar + Mekinist, dabrafenib + trametinib} 
+210 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+General Information 
+No. of patients, PK samples, and BLQ 
+244 Patients, 1943 PK observations  
+16 (0.8%) BLQ samples 
+Covariates 
+evaluated 
+Static 
+Body weight on apparent central and peripheral volume, total apparent 
+clearance, and apparent intercompartmental 
+Clearance. 
+Combination with dabrafenib on relative bioavailability 
+Sex on apparent clearance 
+Formulation on relatively bioavailability, absorption rate constant Ka2. 
+Time‐varying 
+NA 
+Final Model 
+Summary 
+Acceptability 
+[FDA’s Comments] 
+Software and version 
+NONMEM (Version 7.3)  
+Acceptable 
+Model structure 
+Two‐compartment model with dual 
+sequential 1st order absorption (Ka1, Ka2) 
+and 1st order elimination (CL/F).  
+Acceptable 
+Model parameter estimates 
+Table 23‐6 
+Acceptable 
+Uncertainty and variability (RSE, IIV, 
+shrinkage, bootstrap) 
+Table 23‐6 
+Acceptable 
+BLQ for parameter accuracy 
+BLQ samples were ignored in population PK 
+analysis 
+Acceptable due to low 
+of BLQ samples 
+GOF, VPC 
+The goodness‐of‐fit plots of the dabrafenib 
+final population pharmacokinetic model for 
+pediatric patients are shown in Figure 23‐9 
+and Figure 23‐10. VPCs for dabrafenib 
+concentrations in pediatric patients show 
+good agreement between simulated and 
+observed data in Figure 23‐11. 
+Acceptable 
+Significant covariates and clinical 
+relevance 
+Sex and weight are significant covariates on 
+CL/F, and weight is also a significant covariate 
+on Q/F. Combination of dabrafenib, is a 
+covariate on the relative bioavailability of 
+trametinib. Formulation is a covariate on Ka2. 
+Figure 23‐12‐ Figure 23‐15 
+Acceptable 
+Abbreviations: BLQ, below the limit of quantification; GOF, goodness‐of‐fit; IIV, interindividual variability; PK, pharmacokinetics; RSE, relative 
+standard error; VPC, visual predictive check 
+Reference ID: 5142531

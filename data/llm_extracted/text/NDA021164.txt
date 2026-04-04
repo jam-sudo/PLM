@@ -1,0 +1,2362 @@
+
+
+===== PAGE 36 =====
+
+NDA 21-164 
+Org 33062 
+ 
+9
+3.2 
+Current Submission 
+ 
+3.2.1  Justification for approval of the 40 and 80 mg tablet strengths 
+ 
+ 
+Are the 40 and 80 mg strengths approvable? 
+ 
+The pivotal bioequivalence study compared the bioavailability of 2x 40 mg with 2x20 mg 
+and 1x 80 with 4x20 mg tablets.  The results of that study indicated that the 
+bioequivalence criterion was not met on Cmax and AUC for the comparison between 1x 
+40 mg vs 2x20 mg (90% C.I. for Cmax: 1.02-1.35, 90% CI for AUC: 0.99-1.33).  In 
+addition the Cmax of the 1x80 mg strength was significantly higher than the 4x20 mg 
+tablets (90% CI for Cmax: 0.96-1.26).   
+ 
+The Sponsor’s approach to justify the approval of the 40 and 80 mg strength tablets was 
+to evaluating the relationship between dose or plasma concentrations and safety 
+measures, bracketing the plasma concentrations from these strengths with higher 
+exposures due to drug interactions or doses greater than 80 mg.   The Sponsor has 
+provided the following two considerations: 
+ 
+• Plasma concentration-adverse event (AE) relationship in healthy subjects 
+The Sponsor determined the relationship between exposure (Cmax and AUC) and 
+intensity of AE in healthy male subjects using data from Study 28717 
+(ketoconazole interaction study) and Study 28718 (pivotal BE Study).  (Both 
+studies were reviewed in the original submission of the NDA).  Of note, due to 
+the ketoconazole interaction with gepirone, Cmax and AUC were approximately 
+40% higher in study 28717 than in Study 28718 for a given 2x20 mg dose.  The 
+mean results are shown in the Tables below.  A positive relationship between 
+exposure parameters and AE intensity for dizziness and nausea is observed.  In 
+comparing the two studies, Study 28718 showed lower Cmax and AUC values 
+compared with values observed in study 28717 at comparable AE intensities.   
+Table 1 Mean (SD) values for Cmax and AUC by AE intensity for dizziness (Study 28717) after a 
+single dose of gepirone* 
+AE INTENSITY 
+PARAMETER 
+NO AE 
+(N = 14) 
+Mild (N = 12) 
+Moderate (N = 8) 
+Severe (N = 14) 
+Cmax, ng/mL 
+8.29 (4.92) 
+9.30 (6.83) 
+21.1 (11.5) 
+26.4 (9.4) 
+AUC, ng.h/mL 
+143 (111) 
+184 (179) 
+387 (248) 
+425 (119) 
+* Note: these data are independent of dose or presence or absence of ketoconazole 
+Table 2 Mean (SD) values for Cmax and AUC by AE intensity for dizziness (study 28718) 
+AE INTENSITY 
+PARAMETER 
+NO AE 
+(N=75) 
+Mild (N =42) 
+Moderate (N = 6) 
+Severe (N = 0) 
+Cmax, ng/mL 
+6.37 (5.36) 
+9.71 (5.94) 
+6.0 (3.41) 
+na 
+AUC, ng.h/mL 
+96.1 (67.1) 
+142 (87.1) 
+81.7 (55.9) 
+na 
+ 
+
+
+===== PAGE 40 =====
+
+NDA 21-164 
+Org 33062 
+ 
+13
+ 
+Pharmacokinetic parameters (arithmetic mean) for gepirone and metabolites (Study 28724) 
+ 
+Test (Gepirone + Verapamil) 
+(% CV) 
+n=28 
+Reference (Gepirone) 
+(% CV) 
+n=28 
+Gepirone  
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+AUC 0-∞ (ng*hr/mL) 
+Cl apparent oral (L/hr) 
+t ½ (hr) 
+ 
+2.50 (1.0-8.0) 
+7.9 (35) 
+105.4 (37) 
+142.1 (38) 
+165.5 (46) 
+8.3 (53) 
+ 
+6.00 (2.0-24.0) 
+3.0 (43) 
+40.4 (43) 
+50.0 (43) 
+485.3 (48) 
+6.7 (60) 
+Org 25907 (3’-OH gepirone) 
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+AUC 0-∞ (ng*hr/mL) 
+Cl apparent oral (L/hr) 
+t ½ (hr) 
+ 
+8.00 (4.0-24.0) 
+8.3 (32) 
+148.3 (29) 
+263.5 (30) 
+86.3 (50) 
+14.0 (76) 
+ 
+7.0 (4.0-18.0) 
+8.6 (27) 
+142.5 (24) 
+207.4 (31) 
+107.1 (36) 
+10.6 (34) 
+1-PP 
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+AUC 0-∞ (ng*hr/mL) 
+Cl apparent oral (L/hr) 
+t ½ (hr) 
+ 
+5.5 (4.0-24.0) 
+2.3 (49) 
+32.9 (45) 
+53.8(49) 
+472.9 (52) 
+15.5 (114) 
+ 
+5.0 (3.0-12.0) 
+2.4 (39) 
+35.3 (49) 
+49.6 (59) 
+524.9 (50) 
+10.1 (49) 
+ a median (range)  
+  
+These results show a greater than two-fold increase in systemic exposure to gepirone 
+(approximately 163% increase in Cmax and in AUC), with an approximate 65% decrease 
+in apparent oral clearance following co-administration of gepirone with verapamil.  The 
+90% confidence intervals (2.237-3.149 for Cmax, 2.193 to 3.199 for AUC) indicate a 
+significant interaction.  A shortening of the tmax was also observed.  There was little 
+change in exposure to either of the metabolites. 
+ 
+This study demonstrated a significant pharmacokinetic interaction between gepirone and 
+verapamil, resulting in significantly increased exposure to gepirone.     
+ 
+3.2.4 In Vivo CYP3A4 Induction Study (Study 28705) 
+ 
+Can the metabolism of gepirone via CYP3A4 be induced? 
+ 
+The Sponsor evaluated whether gepirone CYP3A4-mediated metabolism could be 
+induced by assessing the effect of multiple oral dosing of rifampicin (a known CYP3A4 
+inducer) on the steady state pharmacokinetics of Org 33062 and its metabolites.  This 
+study was an open-label, randomized, multiple dose, 2-period, 2-treatment, 2-sequence 
+crossover study design with multiple doses of rifampicin and multiple doses of Org 
+33062, as shown in the Table below.  There was a washout of at least 4 weeks between 
+
+
+===== PAGE 42 =====
+
+NDA 21-164 
+Org 33062 
+ 
+15
+ 
+ 
+Pharmacokinetic parameters (arithmetic mean) for gepirone and metabolites (Study 28705) 
+ 
+Test (Gepirone + Rifampicin) 
+(% CV) 
+n=24 
+Reference (Gepirone) 
+(% CV) 
+n=24 
+Gepirone  
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+Cl apparent oral (L/hr) 
+Cminav(ng/mL) 
+Cav(ng/mL) 
+Degree of Fluctuation (%) 
+ 
+4.00 (0.50-24.0) 
+0.7 (110) 
+6.7 (105) 
+13618.7 (103) 
+0.2 (134) 
+0.3 (105) 
+232.2 (69) 
+ 
+4.00 (1.00-10.00) 
+10.6 (46) 
+137.6 (48) 
+332.2 (52) 
+2.8 (71) 
+5.7 (48) 
+145.6 (31) 
+Org 25907 (3’-OH gepirone) 
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+Cl apparent oral (L/hr) 
+Cminav(ng/mL) 
+Cav(ng/mL) 
+Degree of Fluctuation (%) 
+ 
+3.5 (3.0-10.0) 
+10.0 (38) 
+134.5 (41) 
+307.0 (35) 
+2.8 (51) 
+5.6 (41) 
+134.2 (23) 
+ 
+6.0 (3.0-10.0) 
+24.2 (36) 
+388.3 (32) 
+102.6 (32) 
+9.6 (46) 
+16.2 (32) 
+94.1 (38) 
+1-PP 
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+Cl apparent oral (L/hr) 
+Cminav(ng/mL) 
+Cav(ng/mL) 
+Degree of Fluctuation (%) 
+ 
+3.0 (1.0-10.0) 
+6.7 (44) 
+93.3 (54) 
+514.2 (53) 
+1.8 (58) 
+3.9 (54) 
+136.2 (26) 
+ 
+4.0 (3.0-10.0) 
+6.8 (36) 
+102.0 (46) 
+431.6 (44) 
+2.0 (60) 
+4.2 (46) 
+120.8 (26) 
+ a median (range)  
+ 
+ 
+These results show a decrease in exposure to gepirone of approximately 20-fold and 29-
+fold as determined by Cmax and AUC, respectively, after exposure to rifampin, with an 
+approximate 29-fold increase in apparent oral clearance.    There were also decreases in 
+exposure observed for the 3’-OH gepirone metabolite (an approximate 2.5-fold decrease 
+in Cmax, a 2.9-fold decrease in AUC, and a 2.9-fold increase in apparent oral clearance), 
+but much smaller changes were observed for the 1-PP metabolite.  The 90% confidence 
+intervals (0.037 to 0.07 for Cmax, 0.024 to 0.048 for AUC, and 19.6 to 43.9 for Cl) 
+indicate a significant interaction.   
+ 
+Co-administration of gepirone with rifampin resulted in significantly reduced exposure to 
+gepirone that could result in therapeutic failure.  Similar reduction in gepirone exposure 
+is expected with other potent CYP3A4 inducers.   
+ 
+Does gepirone inhibit or induce CYP3A4? 
+ 
+The ratio of 6β-hydroxycoritsol to free cortisol in urine was used as a marker for 
+CYP3A4 activity, in which a higher ratio would indicate higher CYP3A4 activity.  For 
+this evaluation there were 20 evaluable subjects with complete data.  For Gepirone alone, 
+
+
+===== PAGE 44 =====
+
+NDA 21-164 
+Org 33062 
+ 
+17
+ 
+Pharmacokinetic parameters (arithmetic mean) for gepirone and metabolites (Study 28703) 
+ 
+Test (Gepirone + Paroxetine) 
+(% CV) 
+n=28 
+Reference (Gepirone) 
+(% CV) 
+n=28 
+Gepirone  
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+Cl apparent oral (L/hr) 
+Cminav(ng/mL) 
+Cssav(ng/mL) 
+Degree of Fluctuation (%) 
+t ½ (hr) 
+ 
+4.5 (1.0-5.0) 
+10.1 (53) 
+121.6 (52) 
+398.7 (58) 
+2.9 (59) 
+5.1 (52) 
+148.5 (30) 
+11.3 (61) 
+ 
+3.0 (0.5-8.0) 
+9.7 (57) 
+124.4 (56) 
+410.7 (83)   
+2.8 (76) 
+5.2 (56) 
+155.1 (42) 
+8.3 (84) 
+Org 25907 (3’-OH gepirone) 
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+Cl apparent oral (L/hr) 
+Cminav(ng/mL) 
+Cssav (ng/mL) 
+Degree of Fluctuation (%) 
+t ½ (hr) 
+ 
+5.0 (2.0-8.0) 
+34.3 (28) 
+551.1 (31) 
+73.0 (35) 
+15.1 (40) 
+23.0 (31) 
+90.0 (24) 
+18.4 (64) 
+ 
+5.0 (2.0-12.0) 
+28.2 (23) 
+460.4 (26) 
+85.7 (34) 
+11.9 (34) 
+19.2 (26) 
+92.9 (25) 
+12.3 (49) 
+1-PP 
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+Cl apparent oral (L/hr) 
+Cminav(ng/mL) 
+Cssav (ng/mL) 
+Degree of Fluctuation (%) 
+t ½ (hr) 
+ 
+5.0 (2.0-8.0) 
+23.2 (32) 
+137.1 (35) 
+107.3 (48) 
+10.8 (43) 
+16.5 (35) 
+82.3 (23) 
+16.1 (56) 
+ 
+4.0 (2.0-8.0) 
+9.3 (45) 
+75.9 (57) 
+348.2 (51) 
+2.9 (67) 
+5.6 (57) 
+130.3 (28) 
+8.1 (38) 
+ a median (range)  
+ 
+ 
+The inhibitory effect of paroxetine on CYP2D6 was confirmed by the change in CYP2D6 
+phenotype (assessed by dextromethorphan/dextrorphan urinary ratio).  These results show 
+no significant impact of paroxetine on exposure to gepirone or 3’OH-gepirone.  However, 
+an approximate 2.6-fold (155%) increase in Cmax and an approximate 3.12-fold  (195%) 
+increase in the AUC for the 1-PP metabolite is observed (90% confidence intervals 2.31 
+to 2.89 and 2.74 to 3.55, respectively), with an approximate 3-fold (69%) decrease in 
+apparent oral clearance and an approximate 4-fold (270%) increase in Cminavg for that 
+metabolite.   It is also noted that the mean t1/2 for gepirone, 1-PP, and Org 25907 were 
+prolonged 1.6, 1.9, and 1.4 times, respectively after exposure to paroxetine.  The clinical 
+relevance of this interaction is unknown.   
+ 
+Does Org 33062 inhibit CYP2D6? 
+ 
+The pharmacokinetics of paroxetine after co-administration with Org 33062 in Study 
+28703 are shown below.   
+
+
+===== PAGE 56 =====
+
+NDA 21-164 
+Org 33062 
+ 
+102
+Table 3 Mean (SD) values for Cmax and AUC by AE intensity for dizziness (Study 
+28717) 
+AE INTENSITY 
+PARAMETER 
+NO AE 
+(N = 14) 
+Mild (N = 12) 
+Moderate (N = 8) 
+Severe (N = 14) 
+Cmax, ng/mL 
+8.29 (4.92) 
+9.30 (6.83) 
+21.1 (11.5) 
+26.4 (9.4) 
+AUC, ng.h/mL 
+143 (111) 
+184 (179) 
+387 (248) 
+425 (119) 
+ 
+Plasma concentrations were lower in study 28718 since subjects received single 
+doses of either 40 mg or 80 mg gepirone and there were a lower number of AEs.  
+Consequently, a clear relationship between exposure parameters and AE intensity 
+could not be made (* Note: these data are independent of dose or presence or absence of 
+ketoconazole 
+Table 2). 
+Table 2 Mean (SD) values for Cmax and AUC by AE intensity for dizziness (study 
+28718) 
+AE INTENSITY 
+PARAMETER 
+NO AE 
+(N=75) 
+Mild (N =42) 
+Moderate (N = 6) 
+Severe (N = 0) 
+Cmax, ng/mL 
+6.37 (5.36) 
+9.71 (5.94) 
+6.0 (3.41) 
+na 
+AUC, ng.h/mL 
+96.1 (67.1) 
+142 (87.1) 
+81.7 (55.9) 
+na 
+ 
+The sponsor made the following conclusions: 
+1. The results of study 28718 showed lower Cmax and AUC values compared with 
+values observed in study 28717 at comparable AE intensities. 
+2. .For the same given dose, 2 x 20 mg ER tablets, exposure parameters were 
+approximately 40% lower in study 28718 (Table 3). 
+Table 3 Mean (SD) values for Cmax and AUC for studies 28717 and 28718 following 
+single dose administration of 2 x 20 mg ER tablets 
+Parameter 
+Study 28717 (N = 24) 
+Study 28718 (N = 32) 
+% Difference 
+Cmax, ng/mL 
+7.18 (3.74) 
+4.15 (1.95) 
+42% 
+AUC, ng.h/mL 
+109 (53.2) 
+64.1 (29.1) 
+41% 
+ 
+3. Based on these results, it can be concluded that a 30% increase in Cmax and AUC 
+for subjects not experiencing AEs will not lead to a moderate or severe AE 
+intensity. Therefore, a bioequivalence acceptance range of 
+ to 
+ might be 
+appropriate for BE studies with gepirone. 
+APPEARS THIS WAY ON ORIGINAL
+(b) (4)
+(b) (4)
+
+
+===== PAGE 69 =====
+
+NDA 21-164 
+Org 33062 
+ 
+115
+ 
+Pharmacokinetic parameters were determined using noncompartmental analysis.  The 
+pertinent pharmacokinetic parameters for gepirone, 3’-OH-gepirone, and 1-PP are shown 
+in the Tables 5 and 6, below.  
+ 
+Table 5. Pharmacokinetic parameters (arithmetic mean) for gepirone and metabolites (Study 28724) 
+ 
+Test (Gepirone + Verapamil) 
+(% CV) 
+n=28 
+Reference (Gepirone) 
+(% CV) 
+n=28 
+Gepirone  
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+AUC 0-∞ (ng*hr/mL) 
+Cl apparent oral (L/hr) 
+t ½ (hr) 
+ 
+2.50 (1.0-8.0) 
+7.9 (35) 
+105.4 (37) 
+142.1 (38) 
+165.5 (46) 
+8.3 (53) 
+ 
+6.00 (2.0-24.0) 
+3.0 (43) 
+40.4 (43) 
+50.0 (43) 
+485.3 (48) 
+6.7 (60) 
+Org 25907 (3’-OH gepirone) 
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+AUC 0-∞ (ng*hr/mL) 
+Cl apparent oral (L/hr) 
+t ½ (hr) 
+ 
+8.00 (4.0-24.0) 
+8.3 (32) 
+148.3 (29) 
+263.5 (30) 
+86.3 (50) 
+14.0 (76) 
+ 
+7.0 (4.0-18.0) 
+8.6 (27) 
+142.5 (24) 
+207.4 (31) 
+107.1 (36) 
+10.6 (34) 
+1-PP 
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+AUC 0-∞ (ng*hr/mL) 
+Cl apparent oral (L/hr) 
+t ½ (hr) 
+ 
+5.5 (4.0-24.0) 
+2.3 (49) 
+32.9 (45) 
+53.8(49) 
+472.9 (52) 
+15.5 (114) 
+ 
+5.0 (3.0-12.0) 
+2.4 (39) 
+35.3 (49) 
+49.6 (59) 
+524.9 (50) 
+10.1 (49) 
+ a median (range)  
+  
+
+
+===== PAGE 70 =====
+
+NDA 21-164 
+Org 33062 
+ 
+116
+ 
+Table 6. Interaction Assessment  for Study 28724 
+Geometric Mean 
+ 
+Reference 
+Test 
+Ratio of 
+Geometric 
+Means 
+90% CI for the 
+Ratio of Geometric 
+Meansa  
+Gepirone  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+AUC 0-∞ (ng*hr/mL) 
+Cl apparent oral (L/hr) 
+t ½ (hr) 
+ 
+2.80 
+37.0 
+45.6 
+439.0 
+5.8 
+ 
+7.42 
+98.0 
+131.7 
+151.8 
+7.5 
+ 
+2.654 
+2.649 
+2.891 
+0.346 
+1.290 
+ 
+(2.237, 3.149) 
+(2.193, 3.199) 
+(2.382, 3.508) 
+(0.285, 0.420) 
+(1.037, 1.605) 
+Org 25907 (3’-OH gepirone) 
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+AUC 0-∞ (ng*hr/mL) 
+Cl apparent oral (L/hr) 
+t ½ (hr) 
+ 
+8.3 
+138.3 
+197.3 
+101.4 
+10.1 
+ 
+7.9 
+141.3 
+249.8 
+80.1 
+12.2 
+ 
+0.955 
+1.022 
+1.266 
+0.790 
+1.199 
+ 
+(0.83, 1.09) 
+(0.89, 1.17) 
+(1.09, 1.47) 
+(0.67, 0.92) 
+(1.01, 1.43) 
+1-PP 
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+AUC 0-∞ (ng*hr/mL) 
+Cl apparent oral (L/hr) 
+t ½ (hr) 
+ 
+2.23 
+32.0 
+43.1 
+463.6 
+9.1 
+ 
+2.05 
+29.8 
+47.8 
+418.7 
+12.4 
+ 
+0.92 
+0.93 
+1.11 
+0.90 
+1.36 
+ 
+(0.77, 1.10) 
+(0.76, 1.14) 
+(0.88, 1.40) 
+(0.71, 1.14) 
+(1.08, 1.70) 
+a as calculated by reviewer 
+ 
+ 
+These results show a greater than two-fold increase in systemic exposure to gepirone 
+(approximately 163% increase in Cmax and in AUC), with an approximate 65% decrease 
+in apparent oral clearance following co-administration of gepirone with verapamil.  A 
+shortening of the tmax was also observed.  There was little change in exposure to either 
+of the metabolites.   
+ 
+Safety   
+ 
+Fourteen of 31 subjects eligible for the safety analysis reported adverse events.  The most 
+prominent adverse events were dizziness and headache.  The majority of adverse events 
+were reported during the verapamil dosing phase with headache and dizziness most 
+frequently observed.  Headache and dizziness were also reported after Org 33062 alone, 
+and these were the only adverse effects reported with Org 33062 alone.  Incidence of 
+headache increased when Org 33062 was given with verapamil, compared to when Org 
+33062 was given alone.  Adverse events of toothache, upper respiratory tract infection, 
+and increased sweating were not considered to be drug-related.  The Sponsor states that 
+there were no clinically significant abnormal laboratory values, vital signs, or changes in 
+ECG.  The Sponsor states that gepirone given alone or with verapamil was well tolerated 
+in this study.   
+ 
+CONCLUSIONS: 
+ 
+This study demonstrated a significant pharmacokinetic interaction between gepirone and 
+verapamil, resulting in significantly increased exposure (163%) to gepirone.     
+
+
+===== PAGE 76 =====
+
+NDA 21-164 
+Org 33062 
+ 
+122
+ 
+ 
+Table 5. Pharmacokinetic parameters (arithmetic mean) for gepirone and metabolites (Study 28705) 
+ 
+Test (Gepirone + Rifampicin) 
+(% CV) 
+n=24 
+Reference (Gepirone) 
+(% CV) 
+n=24 
+Gepirone  
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+Cl apparent oral (L/hr) 
+Cminav(ng/mL) 
+Cav(ng/mL) 
+Degree of Fluctuation (%) 
+ 
+4.00 (0.50-24.0) 
+0.7 (110) 
+6.7 (105) 
+13618.7 (103) 
+0.2 (134) 
+0.3 (105) 
+232.2 (69) 
+ 
+4.00 (1.00-10.00) 
+10.6 (46) 
+137.6 (48) 
+332.2 (52) 
+2.8 (71) 
+5.7 (48) 
+145.6 (31) 
+Org 25907 (3’-OH gepirone) 
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+Cl apparent oral (L/hr) 
+Cminav(ng/mL) 
+Cav(ng/mL) 
+Degree of Fluctuation (%) 
+ 
+3.5 (3.0-10.0) 
+10.0 (38) 
+134.5 (41) 
+307.0 (35) 
+2.8 (51) 
+5.6 (41) 
+134.2 (23) 
+ 
+6.0 (3.0-10.0) 
+24.2 (36) 
+388.3 (32) 
+102.6 (32) 
+9.6 (46) 
+16.2 (32) 
+94.1 (38) 
+1-PP 
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+Cl apparent oral (L/hr) 
+Cminav(ng/mL) 
+Cav(ng/mL) 
+Degree of Fluctuation (%) 
+ 
+3.0 (1.0-10.0) 
+6.7 (44) 
+93.3 (54) 
+514.2 (53) 
+1.8 (58) 
+3.9 (54) 
+136.2 (26) 
+ 
+4.0 (3.0-10.0) 
+6.8 (36) 
+102.0 (46) 
+431.6 (44) 
+2.0 (60) 
+4.2 (46) 
+120.8 (26) 
+ a median (range)  
+ 
+  
+Table 6. Interaction Assessment  for Study 28705 
+Geometric Mean 
+ 
+Reference 
+Test 
+Ratio of 
+Geometric 
+Means 
+90% CI for the 
+Ratio of Geometric 
+Meansa  
+Gepirone  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+Cl apparent oral (L/hr) 
+ 
+9.63 
+123 
+295 
+ 
+0.49 
+4.19 
+8663 
+ 
+0.051 
+0.034 
+29.4 
+ 
+(0.037-0.07) 
+(0.024-0.048) 
+(19.6-43.9) 
+Org 25907 (3’-OH gepirone) 
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+Cl apparent oral (L/hr) 
+ 
+23.0 
+370.8 
+97.9 
+ 
+9.3 
+125.7 
+289.0 
+ 
+0.40 
+0.34 
+2.95 
+ 
+(0.37-0.45) 
+(0.30-0.38) 
+(2.59-3.36) 
+1-PP 
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+Cl apparent oral (L/hr) 
+ 
+6.4 
+92.5 
+392.6 
+ 
+6.0 
+81.1 
+447.6 
+ 
+0.94 
+0.88 
+1.14 
+ 
+(0.86-1.04) 
+(0.77-1.00) 
+(0.98-1.33) 
+a as calculated by reviewer 
+ 
+ 
+
+
+===== PAGE 86 =====
+
+NDA 21-164 
+Org 33062 
+ 
+132
+ 
+Table 7. Pharmacokinetic parameters (arithmetic mean) for gepirone and metabolites (Study 28703) 
+ 
+Test (Gepirone + Paroxetine) 
+(% CV) 
+n=28 
+Reference (Gepirone) 
+(% CV) 
+n=28 
+Gepirone  
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+Cl apparent oral (L/hr) 
+Cminav(ng/mL) 
+Cssav(ng/mL) 
+Degree of Fluctuation (%) 
+t ½ (hr) 
+ 
+4.5 (1.0-5.0) 
+10.1 (53) 
+121.6 (52) 
+398.7 (58) 
+2.9 (59) 
+5.1 (52) 
+148.5 (30) 
+11.3 (61) 
+ 
+3.0 (0.5-8.0) 
+9.7 (57) 
+124.4 (56) 
+410.7 (83)   
+2.8 (76) 
+5.2 (56) 
+155.1 (42) 
+8.3 (84) 
+Org 25907 (3’-OH gepirone) 
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+Cl apparent oral (L/hr) 
+Cminav(ng/mL) 
+Cssav (ng/mL) 
+Degree of Fluctuation (%) 
+t ½ (hr) 
+ 
+5.0 (2.0-8.0) 
+34.3 (28) 
+551.1 (31) 
+73.0 (35) 
+15.1 (40) 
+23.0 (31) 
+90.0 (24) 
+18.4 (64) 
+ 
+5.0 (2.0-12.0) 
+28.2 (23) 
+460.4 (26) 
+85.7 (34) 
+11.9 (34) 
+19.2 (26) 
+92.9 (25) 
+12.3 (49) 
+1-PP 
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+Cl apparent oral (L/hr) 
+Cminav(ng/mL) 
+Cssav (ng/mL) 
+Degree of Fluctuation (%) 
+t ½ (hr) 
+ 
+5.0 (2.0-8.0) 
+23.2 (32) 
+137.1 (35) 
+107.3 (48) 
+10.8 (43) 
+16.5 (35) 
+82.3 (23) 
+16.1 (56) 
+ 
+4.0 (2.0-8.0) 
+9.3 (45) 
+75.9 (57) 
+348.2 (51) 
+2.9 (67) 
+5.6 (57) 
+130.3 (28) 
+8.1 (38) 
+ a median (range)  
+ 
+Table 8. Pharmacokinetic parameters (arithmetic mean) for paroxetine (Study 28703) 
+ 
+Test (Gepirone + Paroxetine) 
+(% CV) 
+n=28 
+Reference (Gepirone) 
+(% CV) 
+n=28 
+Paroxetine 
+tmax (hr)a  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+Cl apparent oral (L/hr) 
+Cminav(ng/mL) 
+Cssav (ng/mL) 
+Degree of Fluctuation (%) 
+ 
+4.5 (3.0-8.0) 
+54.1 (49) 
+874.2 (58) 
+42.6 (120) 
+27.9 (66) 
+29.4 (58) 
+101.1 (65) 
+ 
+4.0 (3.0-8.0) 
+56.0 (51) 
+913.0 (59) 
+39.0 (106) 
+29.4 (63) 
+38.0 (59) 
+93.7 (71) 
+a median (range)  
+ 
+
+
+===== PAGE 87 =====
+
+NDA 21-164 
+Org 33062 
+ 
+133
+Table 9. Interaction Assessment for Study 28703a 
+Geometric Mean 
+ 
+Reference 
+Test 
+Ratio of 
+Geometric 
+Means 
+90% CI for the 
+Ratio of Geometric 
+Means  
+Gepirone  
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+ 
+8.6 
+106.9 
+ 
+8.8 
+105.7 
+ 
+1.03 
+0.99 
+ 
+(0.85-1.14) 
+(0.94-1.14) 
+Org 25907 (3’-OH gepirone) 
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+ 
+27.4 
+443.4 
+ 
+33.0 
+524.8 
+ 
+1.20 
+1.18 
+ 
+(1.13-1.27) 
+(1.08-1.28) 
+1-PP 
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+ 
+8.4 
+117.8 
+ 
+21.9 
+369.3 
+ 
+2.59 
+3.12 
+ 
+(2.31-2.89) 
+(2.74-3.55) 
+Paroxetine 
+Cmax (ng/mL) 
+AUC 0-24 (ng*h/mL) 
+ 
+48.5 
+724.9 
+ 
+47.2 
+691.6 
+ 
+0.97 
+0.95 
+ 
+(0.91-1.04) 
+(0.90-1.01) 
+a as calculated by reviewer 
+ 
+ 
+These results show no significant impact of paroxetine on exposure to gepirone or 3’OH-
+gepirone.  However, an approximate 2.6-fold (155%) increase in Cmax and an 
+approximate 3.12-fold  (195%) increase in the 1-PP metabolite is observed, with an 
+approximate 3-fold (69%) decrease in apparent oral clearance and an approximate 4-fold 
+(270%) increase in Cminavg for that metabolite.   It is also noted that the mean t1/2 for 
+gepirone, 1-PP, and Org 25907 were prolonged 1.6, 1.9, and 1.4 times, respectively after 
+exposure to paroxetine.   
+ 
+No significant impact of gepirone on exposure to paroxetine is observed.   
+ 
+Effect of Treatment on CYP2D6 Phenotype 
+ 
+The Sponsor evaluated the effect of each treatment on CYP2D6 phenotype (assessed by 
+dextromethorphan/dextrorphan urinary ratio).  The results are shown in the table below, 
+as provided by the Sponsor.   
+ 
+ 
+ 
+The ratios were higher (2.7, 86, and 123 times) for Org 33062 alone, paroxetine alone, 
+and combination, respectively, compared to pre-treatment screening, and the effect was 
+statistically significant.  However, it should be noted that exposure to the 40 mg Org 
+33062 was not sufficient to convert extensive metabolizers to phenotypic poor 
+
+
+===== PAGE 123 =====
+
+ 
+7
+Table A.  Results of Clinical Pharmacology Studies. 
+Prognostic Factor 
+Results (for parent drug only) 
+Recommendation 
+Age 
+Cmax  by 30 and 60% 
+AUCss  by 50-80% (women) 
+ by 50% (men) 
+Maintenance dose should not exceed 
+40 mg/day in the elderly.   
+Race 
+AUC  1.5-2-fold in Blacks and Asians 
+compared to Caucasians 
+Titrate for individual patient 
+Gender 
+Cmax =  similar 
+AUC = similar 
+Clinically NS 
+DDI with ketoconazole 
+AUC  5-fold 
+Contraindicated 
+Hepatic Impairment 
+Cmax and AUC  2-fold (moderate) 
+--severe not studied 
+Dose should not exceed 40 mg/day in 
+moderate impairment; 
+contraindicated in severe impairment 
+Renal Impairment 
+Cmax  by 74% (severe) 
+AUC  by 65-71% (moderate and severe) 
+Dose should not exceed 40 mg/day in 
+moderate and severe impairment 
+Poor and Extensive 
+Metabolizers of 
+Dextromethorphan 
+Cmax and AUC = similar  
+Clinically NS 
+Food Effect  
+(in presence of high fat meal) 
+Cmax  by 62% 
+AUC  by 24% 
+Difficult to make dosing 
+recommendation due to continuous 
+absorption of drug from ER product 
+ 
+Table B.  Results of Biopharmaceutics Studies. 
+Prognostic Factor 
+Results 
+Recommendation 
+Bioequivalence of 20 mg BMS and 
+ ER product 
+Satisfied the BE criteria for 
+Cmax and AUC for gepirone 
+(C.I.; 80-125%) 
+BMS and 
+ 20 mg gepirone ER 
+formulations are bioequivalent 
+Bioequivalence of 20, 40, and 80 
+mg 
+ ER tablets 
+Failed acceptance criteria; 
+40 mg vs. 20 mg  
+(C.I. for Cmax; 1.02-1.35, 
+AUC; 0.99-1.33), 
+80 mg vs. 20 mg  
+(C.I. for Cmax; 0.96-1.26) 
+40 and 80 mg strengths are not 
+bioequivalent to the 20 mg strength. 
+Thus, 40 and 80 mg strengths cannot 
+be marketed.  Only the 20 mg strength 
+can be approved at this time.   
+Approval of 60 mg strength 
+No data submitted 
+60 mg strength cannot be marketed 
+Dissolution Method and 
+Specifications 
+Profiles were similar for 20, 
+40, 60, and 80 mg strengths. 
+Method: 
+Medium; 0.01 N HCL 
+Apparatus; USP paddle 2 
+Speed; 50 rpm 
+Specification: 
+Q:  15-25% at 1 h 
+      
+% at 5 h 
+      65-86% at 12th h 
+      >
+% at 20th h 
+Change specification  
+at 12th h to 65-85% and  
+at 20th h to >85%. 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) 
+(4)
+
+
+===== PAGE 127 =====
+
+ 
+11
+gepirone to 17%.  Based on in vitro assessment of the metabolism, these routes are 
+mediated by CYP3A4 and CYP2D6, with 3A4 being the predominant isozyme.  Also, 
+several other metabolites have been detected in the plasma and urine. 
+ 
+Elimination 
+Following oral administration, gepirone has a t1/2 of approximately 3 h and is 
+primarily cleared from the bloodstream as metabolites in urine.  Following administration 
+of the ER product, the terminal t1/2 is approximately 6-12 h.   
+ 
+Are the pharmacokinetics of gepirone linear with respect to dose? 
+ 
+Table D:  MEAN(SD) PHARMACOKINETIC PARAMETERS OF ARIZA(gepirone HCl) 
+EXTENDED-RELEASE TABLETS 
+(n=9) 
+ 
+Day 
+Dose 
+Cmax 
+Tmax
+a 
+t1/2 
+AUC 
+ 
+ 
+mg 
+ng/mL 
+H 
+h 
+ng/mL.hr 
+Single 
+Dose 
+1 
+20 
+1.7(0.6) 
+5.0 
+10.0(5.8) 
+21.7(10.0) 
+ 
+1 
+40 
+6.8(4.5) 
+5.0 
+8.4(5.5) 
+83.1(53.6) 
+ 
+1b 
+40 
+5.08(3.37) 
+6.0 
+8.01(4.76) 
+69.3(46.5) 
+ 
+1 
+75 
+9.14(3.7) 
+5.0 
+4.4(2.0) 
+121(69.9) 
+ 
+1b 
+80 
+11.2(5.36) 
+5.5 
+7.93(8.26) 
+151(69.2)c 
+Steady 
+State 
+8 
+20 
+3.2(1.3) 
+5.0 
+11.9(6.5) 
+41.4(20.2) 
+ 
+8 
+40 
+8.8(3.2) 
+5.0 
+12.3(13.2) 
+121(45.6) 
+ 
+8 
+75 
+16.4(7.8) 
+5.0 
+6.1(2.9) 
+210(119) 
+aMedian 
+b Results from separate single dose pharmacokinetic study (n=32) 
+c AUC 0-tlast 
+Cmax-measured peak plasma concentration 
+Tmax-observed time of peak plasma concentration 
+t1/2- plasma elimination half-life, calculated by 0.693/kelim 
+AUC-area under the curve, Single dose: AUC0-24; Steady state:  AUCss 
+ 
+Following single and multiple dose administration of the extended release 
+formulation, a trend was observed that Cmax and AUC showed a greater than proportional 
+increase with respect to dose.  But, due to high variability in the data, both Cmax and AUC 
+were found to be proportional in the dose range of 20-80 mg.   
+ 
+
+
+===== PAGE 129 =====
+
+ 
+13
+AUC of gepirone were augmented approximately 2-fold, in conjunction with a 3- and 2-
+fold reduction in the Cmax and AUC of 1-PP in hepatically impaired subjects.  The 
+gepirone maintenance dose should not exceed 40 mg/day in moderately impaired patients.  
+Although, gepirone plasma concentrations in patients with mild hepatic impairment were 
+increased, these differences were not statistically significant compared to normal subjects.  
+Patients with severe hepatic impairment have not been adequately studied.  
+Administration of gepirone to patients with severe hepatic impairment is not 
+recommended.   
+ 
+What is the effect of renal impairment on the pharmacokinetics of Gepirone? 
+In the renal impairment study following a single dose of 40 mg of the ER 
+formulation, plasma levels of gepirone, 1-PP, and 3’OH-gepirone increased in relation to 
+the level of renal impairment.  The Cmax of gepirone increased by 74% in severely 
+impaired patients, while the AUC was increased by 65-71% in moderately and severely 
+impaired patients.  In mildly impaired patients, the Cmax and AUC of gepirone and its 
+metabolites were elevated, but not statistically different from normal subjects.  The 
+gepirone maintenance dose should not exceed 40 mg/day in both moderate and severely 
+impaired patients since the kidneys play a key role in the elimination of the metabolites of 
+gepirone.   
+ 
+What is the effect of poor and extensive metabolizers of dextromethorphan on the 
+pharmacokinetics of Gepirone? 
+Since gepirone is metabolized by CYP2D6 to a minor extent, a study was 
+conducted to evaluate the bioavailability in poor and extensive metabolizers of 
+dextromethorphan, using 15 mg b.i.d. of gepirone IR.  No change was observed in Cmax 
+and AUC for gepirone in subjects with reduced activity of CYP2D6, but a 2.5 fold 
+increase was shown in the AUC for 1-PP.  Poor metabolizers of dextromethorphan 
+compensated for the reduced metabolism of gepirone through the 2D6 pathway with an 
+increase in the conversion of gepirone to 1-PP probably via the 3A4 route.  The sponsor 
+has not evaluated the effects of CYP2D6 inhibitors on the pharmacokinetics of gepirone.  
+We recommend that the sponsor conduct such a study in vivo (See General Comments).   
+ 
+What is the effect of race on the pharmacokinetics of Gepirone? 
+The effect of race was investigated following single and multiple dose 
+administration of 20 mg of gepirone ER.  Gepirone plasma concentrations were 1.5-2-
+fold higher in Caucasians, compared to Blacks and Asians.  The results showed that the 
+difference in the extent of gepirone bioavailability was due to higher conversion of 
+gepirone to 1-PP in Black and Asian subjects.  No dose adjustment is warranted in Blacks 
+and Asians since patients are dose-titrated to effect.   
+ 
+
+
+===== PAGE 144 =====
+
+ 
+65
+Table 9.  Gepirone and 1-PP Bioequivalence Results.   
+Parameter 
+Gepirone MR 
+(
+) (1) 
+Gepirone ER 
+(BMS) (1) 
+Ratio 
+Test/Ref. 
+Lower  
+90% C.I. 
+Upper  
+90% C.I. 
+Gepirone 
+AUC24  
+(ng-h/ml) 
+19.7 
+20.3 
+0.97 
+0.89 
+1.06 
+AUCt  
+(ng-h/ml) 
+21.6 
+22.7 
+0.95 
+0.87 
+1.05 
+AUC  
+(ng-h/ml) 
+22.5 
+24.2 
+0.93 
+0.83 
+1.04 
+Cmax 
+(ng/ml) 
+1.50 
+1.49 
+1.01 
+0.86 
+1.18 
+1-PP 
+AUC24  
+(ng-h/ml) 
+78.9 
+74.8 
+1.06 
+0.96 
+1.16 
+AUCt  
+(ng-h/ml) 
+91.1 
+86.7 
+1.05 
+0.95 
+1.17 
+AUC  
+(ng-h/ml) 
+105 
+98.8 
+1.06 
+0.94 
+1.19 
+Cmax 
+(ng/ml) 
+5.62 
+5.65 
+0.99 
+0.92 
+1.08 
+(1) Geometric least-square means from ANOVA 
+(2) Ratio = exponent of the difference (test – ref.) between ln-transformed means 
+(3) Upper and lower 90% confidence limits are for the difference between test and 
+reference. 
+ 
+ 
+For gepirone, plasma concentrations peaked between 3 and 8 h (Fig. 6).  For both 
+products, the wide range in tmax values was due to the observation of multiple peaks for 
+each individual.  The terminal elimination phase of gepirone was longer relative to that 
+seen for an immediate release formulation, which was characteristic for the absorption 
+rate being slower than the elimination rate for an extended release formulation.  The mean 
+ratios for AUC and Cmax were 0.93 and 1.01 for gepirone and 1.06 and 0.99 for 1-PP, 
+respectively (Table 9).  For the formulations, the test Cmax and AUC for gepirone and 1-
+PP were within 80-125% of the reference product.   
+ 
+(b) (4)
+
+
+===== PAGE 157 =====
+
+ 
+78
+ 
+Assay Validation: 
+ 
+The GC/MS assay was used to quantitate gepirone and 1-PP in this study.  The 
+calibration curve was linear for the concentration range from 0.1 – 25 ng/ml for both 
+compounds (r  0.992 for gepirone and r  0.990  for 1-PP).  Low and high QC samples 
+were prepared at concentrations of 2.0 and 20.0 ng/ml for both gepirone and 1-PP.  The 
+between day variability for the QC samples did not exceed 8.36% for gepirone and 4.77% 
+for 1-PP.  For the accuracy of the method, the deviations from the mean for gepirone were 
+14.1% for the low QC sample and 4.94% for the high QC sample.  For 1-PP, the 
+deviations from the mean were 9.44% for the low QC sample and 3.73% for the high QC 
+sample.   
+ 
+Criteria for Evaluation: 
+ 
+Pharmacokinetic evaluation included the determination of peak concentration 
+(Cmax), corresponding peak times (tmax), half-life (t 1/2), mean residence time (MRT), and 
+area under the curve (AUC0-30 h).  Non-compartmental methods were used in the 
+determination of various pharmacokinetic parameters.   
+ 
+An ANOVA, incorporating sequence, subjects within sequence, food effect, 
+interaction between sequence and food, and residual error was used for the statistical 
+analysis of various pharmacokinetic parameters for both gepirone and 1-PP.  In order to 
+provide insight into the relative magnitude of the difference (with and without food), and 
+the variability in the data, 95% confidence intervals were calculated for the ratios of the 
+two means for Cmax, t1/2, MRT and AUC.  In addition, Wilcoxon’s signed rank test was 
+used to compare tmax.   
+ 
+
+
+===== PAGE 159 =====
+
+ 
+80
+Table 19.  Mean Pharmacokinetic Parameters (S.D.) 
+PK Parameter 
+With Food 
+Without 
+Food 
+Point Estimate of 
+Ratio 
+95% Confidence 
+Interval 
+Gepirone 
+Cmax (ng/ml) 
+17.0 ± 8.12 
+18.7 ± 10.3 
+100% 
+(75%, 133%) 
+T1/2 (h) 
+3.32 ± 1.84 
+2.94 ± 0.905
+104% 
+(81%, 133%) 
+AUC0-30 h (ng-h/ml) 
+75.7 ± 42.8 
+55.3 ± 35.7 
+148% 
+(112%, 196%) 
+MRT (h) 
+5.37 ± 1.21 
+4.31 ± 0.78 
+123% 
+(108%, 141%) 
+tmax (h)1 
+2.00 (0.75, 
+4.00) 
+0.75 (0.50, 
+3.00) 
+ 
+ 
+1-PP2 
+Cmax (ng/ml) 
+12.6 ± 6.22 
+12.0 ± 4.53 
+101% 
+(77%, 131%) 
+T1/2 (h) 
+6.06 ± 1.75 
+5.76 ± 1.75 
+106% 
+(90%, 124%) 
+AUC0-30 h (ng-h/ml) 
+99.2 ± 40.1 
+93.0 ± 47.5 
+114% 
+(97%, 133%) 
+MRT (h) 
+10.5 ± 2.89 
+9.32 ± 2.68 
+114% 
+(99%, 130%) 
+tmax (h)1 
+3.00 (0.75, 
+12.0) 
+1.25 (0.50, 
+3.00) 
+ 
+ 
+1median reported with minimum and maximum 
+2t1/2, AUC, and MRT were calculated with only 19 subjects.   
+ 
+ 
+Following administration of the immediate release gepirone formulation, the drug 
+was rapidly absorbed without food consumption, indicated by the short tmax.  In 
+conjunction with food, the AUC of gepirone increased by 48%.  Cmax was achieved at 
+approximately 2 h compared to 0.75 h in the fasted state, but the values were not 
+significantly different from each other (Fig. 13, Table 19).  In addition, two peaks were 
+observed following the treatment without food, occurring at 1 and 2.5 h.  This two-peak 
+phenomenon was not observed in the fed state.  With or without food intake, the t1/2 of 
+gepirone and 1-PP were approximately 3 and 6 h, respectively.   
+ 
+For 1-PP, both Cmax and AUC were not significantly different between the fed and 
+fasting states (Fig. 14, Table 19).  Tmax was observed at approximately 1.25 h without 
+food intake, and at 3 h with food.   
+ 
+Conclusions. 
+ 
+These results suggested that a delay in the onset of absorption as well as a slower 
+rate of absorption of gepirone was associated with food intake.  The presence of food also 
+resulted in a 48% increase in the extent of absorption (AUC) of gepirone.   
+ 
+
+
+===== PAGE 164 =====
+
+ 
+85
+Table 21.  Mean Pharmacokinetic Parameters (S.D.) 
+ 
+TreatmentA 
+PK Parameter 
+Trt 1 
+Trt 2 
+Trt 3 
+Trt 4 
+Gepirone 
+Cmax (ng/ml) 
+4.3 ± 2.8 
+3.7 ± 2.2 
+4.5 ± 2.0 
+6.1 ± 3.1* 
+DN Cmax
+C (ng/ml)** 
+4.3 ± 2.8 
+3.7 ± 2.2 
+3.6 ± 1.6 
+12.2 ± 6.3*** 
+tmax (h) 
+5.1 ± 1.6 
+5.6 ± 2.5 
+4.8 ± 1.9 
+1.3 ± 0.9* 
+AUC0-30 h (ng-h/ml) 
+55.3 ± 28.2 
+55.0 ± 33.7 
+64.7 ± 34.1 
+54.9 ± 25.6 
+DN AUC0-30 h
+C (ng-h/ml)** 
+55.3 ± 28.2 
+55.0 ± 33.7 
+51.8 ± 27.3 
+54.9 ± 25.6 
+1-PP 
+Cmax (ng/ml) 
+4.2 ± 1.6 
+3.7 ± 1.6 
+4.5 ± 1.8 
+6.3 ± 2.1* 
+DN Cmax (ng/ml)** 
+4.2 ± 1.6 
+3.7 ± 1.6 
+3.6 ± 1.8 
+12.5 ± 4.3**** 
+tmax (h) 
+5.7 ± 1.6 
+5.1 ± 2.0 
+5.6 ± 2.5 
+1.7 ± 0.8* 
+AUC0-30 h (ng-h/ml) 
+74.0 ± 40.8 
+68.2 ± 40.2 
+84.4 ± 52.0 
+92.8 ± 56.8 
+DN AUC0-30 h (ng-h/ml)** 
+74.0 ± 40.8 
+68.2 ± 40.2 
+67.6 ± 41.6 
+92.8 ± 56.8**** 
+*Cmax and tmax after the 1st dose of gepirone.   
+**DN Cmax (ng/ml) and DN AUC0-30 h (ng-h/ml): dose normalized to 20 mg. 
+***Trt 4 > Trt 1, 2 and 3, p  0.083, unequal variance t-test. 
+****Trt 4 > Trt 1, 2 and 3, p  0.05, Tukey’s test. 
+ 
+ 
+Following administration of the ER formulation, tmax for both gepirone and 1-PP 
+ranged from 4.8 – 5.6 h, compared with 1 – 2 h for the IR form (Figs 15, 16, Table 21).  
+For both gepirone and 1-PP, the Cmax was similar for all of the ER formulations, 
+indicating the lack of dose-dumping or premature release.  The Cmax for the IR 
+formulation was 3-fold greater than the ER form.  The gepirone AUC was similar among 
+all formulations.  In contrast, the 1-PP AUC was statistically greater following 
+administration of the IR formulation, compared to all ER forms.  In addition, two peaks 
+were observed following administration of the ER formulation of gepirone.  Possible 
+explanations for this phenomenon by the sponsor (BMS) included that the drug was in the 
+distal part of the small intestine accounting for an increase in the bioavailability (Study 
+CN105-012), increased absorption due to food consumption at 4 h after drug 
+administration, or enterohepatic recycling of unchanged drug.   
+ 
+
+
+===== PAGE 189 =====
+
+ 
+113
+Figure 28.  Mean (SD) Cmin Values of 1-PP for the 4 Demographic Groups.   
+ 
+ 
+ 
+The pharmacokinetics of gepirone were analyzed in four demographic groups 
+(elderly male and female and young male and female) at the dose levels of 20, 40, and 80 
+mg.  For gepirone, the tmax ranged from 2.5-5 h and trough concentrations were stable at 
+each dose level (Fig. 25, Table 31).  As a result, day 7, 14, and 21 were representative of 
+steady-state data for both gepirone and 1-PP (Figs 27, 28).  Following the 80 mg dose, a 
+trend was observed that Cmax and AUC exhibited a greater than proportional increase with 
+respect to dose (Fig. 25, Table 31).  Due to high variability in the population, no 
+statistically significant differences were observed in dose corrected Cmax and AUC.  The 
+AUC values in elderly females at the three doses were 7, 12, and 45% greater compared 
+with those observed with young females.  In contrast, no gender effect was observed with 
+steady state AUCs in the young population.  Thus, differences in Cmax and AUC were age 
+related, and not gender related.   
+ 
+For 1-PP, the tmax ranged from 2.5 –5 h also (Fig. 26, Table 32).  In contrast to 
+gepirone, both Cmax and AUC were proportional with respect to dose over the entire dose 
+range.  As a result, the pharmacokinetics of 1-PP were not influenced by age and gender.  
+Although, a decrease in the 1-PP/gepirone molar ratio was observed at higher doses, 
+suggesting that metabolic saturation may have occurred.   
+ 
+The most common adverse events following gepirone administration were 
+lightheadedness and headache.  In addition, systolic hypotension was prevalent in 11/13 
+young males, 6/12 elderly females, and 12/13 young females on active drug.  Diastolic 
+hypotension was prominent in 9/13 young females on active drug.   
+ 
+
+
+===== PAGE 191 =====
+
+ 
+115
+Assay Validation: 
+ 
+An LC/MS/MS assay was used to quantitate gepirone, 1-PP, and 3’OH-gepirone 
+in this study.  The calibration curves were linear for the concentration range from 0.025-
+9.0 ng/ml for gepirone, 0.1 – 10 ng/ml for 1-PP, and 0.25-15 ng/ml for 3’OH-gepirone (r 
+≥ 0.996, r ≥ 0.996, and r ≥ 0.997 for gepirone, 1-PP, and 3’OH).  Low, medium, and high 
+QC samples were prepared at concentrations of 0.5, 1.0, and 2.0 ng/ml for gepirone and 
+1-PP, and 0.25, 5.0, and 10 ng/ml for 3’OH-gepirone.  The deviations from the mean for 
+gepirone were within 14.0% for the low QCs, 6.8% for the medium QCs, and 7.2% for 
+the high QCs.  The corresponding values for 1-PP were 8.1%, 11.4%, and 12.1%, 
+respectively.  The corresponding values for 3’OH-gepirone were 7.0%, 10.2%, and 
+10.1%, respectively.   
+ 
+Criteria for Evaluation: 
+ 
+Pharmacokinetic evaluation included the determination of peak concentration 
+(Cmax), corresponding peak times (tmax), area under the curve (AUC0-t), half-life (t1/2), and 
+the terminal elimination rate constant (Ke).  Non-compartmental methods were used in 
+the determination of various pharmacokinetic parameters.   
+ 
+An ANOVA, incorporating group, gender, weight, and age was utilized in order to 
+compare Cmax, t1/2, AUC, and Ke.  In addition, Cmax and AUC also were log-transformed 
+for comparison of the two groups.  In all tests, differences were considered significant if p 
+ 0.05 (2-tailed test).  Also for practical considerations, 24 subjects (12/group) were 
+employed to show an effect difference of 50%.   
+ 
+
+
+===== PAGE 193 =====
+
+ 
+117
+Table 33.  Mean (SD) Pharmacokinetic Parameters for Gepirone, 1-PP, and 
+3’Hydroxy Gepirone in Hepatically Impaired and Healthy Volunteers. 
+Variable 
+Hepatically 
+Impaired 
+Healthy 
+Volunteers 
+p-Value 
+Gepirone 
+AUC (ng-h/ml) 
+91.6 (69.7) 
+46.0 (27.0) 
+0.046 
+Cmax (ng/ml) 
+5.25 (2.63) 
+2.41 (1.15) 
+0.0023 
+Ke (h-1) 
+0.12 (0.0865) 
+0.12 (0.041) 
+0.930 
+T1/2 (h) 
+9.25 (8.74) 
+6.73 (3.02) 
+0.3543 
+Ln-AUC (ng-h/ml) 
+70.6 
+39.7 
+0.0490 
+Ln-Cmax (ng/ml) 
+4.59 
+2.18 
+0.0019 
+1-PP 
+AUC (ng-h/ml) 
+96.5 (56.1) 
+229 (138) 
+0.0055 
+Cmax (ng/ml) 
+4.49 (2.05) 
+12.5 (5.22) 
+0.0001 
+Ke (h-1) 
+0.08 (0.0289) 
+0.10 (0.0497) 
+0.232 
+T1/2 (h) 
+10.2 (5.42) 
+8.20 (3.14) 
+0.271 
+Ln-AUC (ng-h/ml) 
+80.7 
+193 
+0.0033 
+Ln-Cmax (ng/ml) 
+4.09 
+11.4 
+0.0000 
+3’OH-gepirone 
+AUC (ng-h/ml) 
+147 (84.8) 
+178 (62.8) 
+0.321 
+Cmax (ng/ml) 
+5.40 (1.88) 
+7.69 (1.71) 
+0.0049 
+Ke (h-1) 
+0.06 (0.0292) 
+0.08 (0.0271) 
+0.107 
+T1/2 (h) 
+16.7 (11.2) 
+10.6 (5.03) 
+0.103 
+Ln-AUC (ng-h/ml) 
+126 
+168 
+0.175 
+Ln-Cmax (ng/ml) 
+5.08 
+7.51 
+0.0055 
+ 
+ 
+For gepirone, both Cmax and AUC were significantly higher in the hepatically 
+impaired population compared to the healthy volunteers (Fig. 29, Table 33).  In the 
+subjects with hepatic impairment, AUC was increased approximately 2-fold compared 
+with normal volunteers.  The sponsor suggested that this increase is primarily attributable 
+to high AUC values for subjects 1, 3, and 5, which comprise 60% (3/5) of the subjects 
+with Grade B hepatic impairment.   
+ 
+In contrast to gepirone, both the AUC and Cmax for 1-PP in hepatically impaired 
+subjects were reduced significantly compared to healthy volunteers.  The AUC and Cmax 
+were approximately one-half and one-third that in the healthy volunteers.  In addition, the 
+metabolic ratio of AUCs for 1-PP indicated an approximate 4-fold reduction in the ability 
+of hepatically impaired patients to convert gepirone to 1-PP.   
+
+
+===== PAGE 196 =====
+
+ 
+120
+Assay Validation: 
+ 
+A LC/MS/MS assay was used to quantitate gepirone, 1-PP, and 3’OH-gepirone in 
+this study.  The calibration curves were linear for the concentration range from 0.1 – 10 
+ng/ml for all of the compounds (r ≥ 0.995, r ≥ 0.993, and r ≥ 0.990 for gepirone, 1-PP, 
+and 3’OH).  Low, medium, and high QC samples were prepared at concentrations of 0.3, 
+4.0, 8.0 ng/ml for gepirone and 3’OH-gepirone and 0.6, 4.0, and 8.0 ng/ml for 1-PP.  The 
+deviations from the mean for gepirone were within 17.9% for the low QCs, 9.3 for the 
+medium QCs, and 7.66% for the high QCs.  The corresponding values for 1-PP were 
+16.5%, 13.0%, and 13.0%, respectively.  The corresponding values for 3’OH-gepirone 
+were 19.4%, 11.5%, and 10.1%, respectively. 
+ 
+Criteria for Evaluation: 
+ 
+Pharmacokinetic evaluation included the determination of peak concentration 
+(Cmax), corresponding peak times (tmax), area under the curve (AUC0-t), half-life (t1/2), 
+apparent clearance (CLapp), and apparent volume of distribution during the terminal phase 
+(Vapp).  Non-compartmental methods were used in the determination of various 
+pharmacokinetic parameters.   
+ 
+A one-way ANOVA with group as a fixed factor was utilized on the log 
+transformed values of the parameters Cmax, t1/2, AUC0-, and weight normalized CL.  For 
+the log-transformed parameters, 90% confidence intervals for the true ratio of mild, 
+moderate and severe renal impairment geometric mean versus control were calculated.  
+The acceptance ranges were 
+ (Cmax) or 
+ for other parameters.  For tmax, 
+the non-parametric Kruskal-Wallis test was performed.  Correlation analysis was 
+performed between GFR and CLapp, wn-CLapp, terminal elimination rate constant, and 
+Cmax.  In all tests, differences were considered significant if p  0.05 (2-tailed test).  Also 
+for practical considerations, 36 patients (9/group) were employed to show an effect 
+difference of 50%.   
+ 
+ 
+(b) (4)
+(b) (4)
+
+
+===== PAGE 203 =====
+
+ 
+127
+range for all analytes (r ≥ 0.995 for gepirone, r ≥ 0.991 for 1-PP, and r ≥ 0.986 for 3’OH).  
+Several QCs were prepared to cover the low and high concentration ranges, and as a 
+result the deviations from the mean for gepirone, 1-PP, and 3’OH were less than 13%, 
+25%, and 20%. 
+ 
+Criteria for Evaluation: 
+ 
+Pharmacokinetic evaluation included the determination of various parameters 
+including a lag time (tlag), peak concentration (Cmax), corresponding peak times (tmax), 
+half-life (t1/2), area under the curve (AUC0-t, ∝), minimum observed plasma concentration 
+(Cmin), steady-state pharmacokinetic parameters, and an accumulation ratio for AUC (day 
+8)/AUC (day 1).  In addition, 6β-OHcortisol/cortisol ratios in urine were calculated.  
+Non-compartmental methods were used in the determination of various pharmacokinetic 
+parameters.   
+ 
+For Cmax and AUC, the parametric point estimates were calculated with 90% 
+confidence intervals derived from the ANOVA on log-transformed data.  The ANOVA 
+incorporated sequence, subject, treatment, period, and residual error effects.  Effects were 
+considered significant if p  0.05.  In addition, a paired t-test was performed on the log-
+transformed AUC and t1/2.   
+ 
+Results. 
+Figure 34.  Mean Single Dose Gepirone Curves. 
+ 
+ 
+
+
+===== PAGE 215 =====
+
+ 
+139
+Table 49.  Comparison of AUC and Cmax on Days 1 and 7. 
+Variable 
+Day 1 
+Day 7 
+P-value* 
+AUC (ng-h/ml) 
+(gepirone) 
+238 (31.3) 
+372 (56.4) 
+0.0088 
+Cmax (ng/ml) (gepirone) 
+18.7 
+30.5 (4.2) 
+0.0031 
+Tmax (h) (gepirone) 
+3.78 (0.53) 
+3.89 (0.66) 
+ 
+AUC (ng-h/ml) (1-PP) 
+380 (43.2) 
+485 (55.7) 
+0.0043 
+Cmax (ng/ml) (1-PP) 
+22.2 
+29.5 (2.1) 
+0.0007 
+Tmax (h) (1-PP) 
+7.31 (0.93) 
+5.11 (0.35) 
+ 
+AUC ratio (1-PP/gep) 
+1.64 (0.29) 
+1.56 (0.26) 
+ 
+AR (gepirone) 
+1.63 (0.17) 
+AR (1-PP) 
+1.30 (0.06) 
+*Pairwise comparisons; only includes subjects that completed entire 
+study. 
+ 
+ 
+Four of 13 subjects that received gepirone withdrew from the study due to adverse 
+events, associated with dizziness and nausea.  Thus, the pharmacokinetic parameters were 
+calculated based on 9 subjects.   
+ 
+Following drug administration, the AUC and Cmax values were increased 
+significantly for both the parent and metabolite on day 7 compared with day 1 (Table 49).  
+An apparent 63% and 30% accumulation in AUC for gepirone and 1-PP was observed 
+(Figs. 39, 40, Table 49).  No statistical differences were observed for tmax and the 
+metabolic ratio between days 1 and 7.  On days 1 and 7, the tmax values for gepirone and 
+1-PP were approximately 4 and 6 h, respectively.  The trough concentrations for both 
+gepirone and 1-PP were variable, resulting in no clear trend following the first and last 
+dose (Table 48).   
+ 
+Conclusions. 
+ 
+As a result of 4 subjects withdrawing from the study, the 120 mg dose of gepirone 
+ER was not tolerated well.  Steady-state conditions were achieved by the end of the 
+dosage interval for both the parent drug and metabolite.  No accumulation in trough levels 
+was observed over the seven day treatment.  The accumulation in AUC and Cmax values 
+appeared to be due to the characteristics of the extended release formulation, and not 
+saturation of metabolic pathways of gepirone.   
+ 
+
+
+===== PAGE 220 =====
+
+ 
+144
+Criteria for Evaluation: 
+ 
+Non-compartmental methods were used in the determination of various 
+pharmacokinetic parameters for gepirone.  The evaluation included the determination of 
+peak concentration (Cmax), corresponding peak times (tmax), area under the curve (AUC0-24 
+h), elimination half-life (t1/2), mean residence time (MRT), volume of distribution at 
+steady-state and in the terminal elimination phase (Vss or Vβ, respectively), systemic 
+clearance (CLs), and the absolute bioavailability (F).  
+ 
+For statistical analysis of the data, a regression model was used to evaluate 
+cumulative urinary and fecal elimination of radioactivity expressed as percent of 14C-
+gepirone dose.  The parameters Cmax, AUC, t1/2, and MRT were evaluated in the context 
+of an analysis of variance appropriate for a 3-period crossover design with 3 sequence 
+groups.  All tests of significance were conducted at the α=0.05 level.   
+ 
+Results. 
+Figure 42.  Plasma Concentration-Time Profile for Gepirone Following Either IV of 
+Oral Administration.   
+ 
+ 
+
+
+===== PAGE 225 =====
+
+ 
+149
+Figure 46.  Mean Trough Concentrations for Gepirone and 1-PP in Poor and 
+Extensive Metabolizers of Dextromethorphan on Days 3-7.   
+ 
+ 
+Table 53.  Comparison of Mean (S.D.) AUC and Cmax for Poor and Extensive 
+Dextromethorphan Metabolizers on Days 1 and 8.   
+PK Parameter 
+Day 1 
+Day 8 
+Gepirone 
+Poor 
+Metabolizers 
+Extensive 
+Metabolizers 
+Poor 
+Metabolizers 
+Extensive 
+Metabolizers 
+Cmax (ng/ml) 
+11.6 (6.27) 
+11.8 (5.83) 
+14.5 (7.02) 
+16.5 (5.80) 
+Tmax (h) 
+1.4 (1.0) 
+0.8 (0.2) 
+0.8 (0.2) 
+1.0 (0.4) 
+T1/2 (h) 
+2.92 (1.02) 
+3.38 (2.39) 
+2.36 (0.29) 
+3.22 (1.23) 
+AUC(0-12 h, ∝) (ng-h/ml) 
+43.3 (13.9) 
+37.3 (13.1) 
+51.7 (19.0) 
+49.4 (14.9) 
+1-PP 
+ 
+ 
+ 
+ 
+Cmax (ng/ml) 
+12.4 (1.86) 
+8.29 (1.56) 
+19.3 (2.15) 
+9.57 (3.25) 
+Tmax (h) 
+3.1 (1.6) 
+2.0 (1.2) 
+2.0 (1.1) 
+1.4 (0.5) 
+T1/2 (h) 
+9.81 (1.25) 
+7.26 (2.33) 
+9.69 (1.40) 
+6.35(1.24) 
+AUC(0-∝) (ng-h/ml) 
+173 (22.7) 
+71.0 (30.5) 
+177 (26.2) 
+69.1 (30.9) 
+*AUC was calculated up to infinity on day 1 and 12 h on day 8. 
+ 
+ 
+Following drug administration, the plasma concentration of gepirone reached a 
+peak level between 1 and 2 h (Fig. 44, Table 53).  The plasma concentrations of both 
+analytes were similar in characteristics, but higher on day 8 than on day 1.  Neither Cmax 
+nor AUC for gepirone differed between the poor and extensive metabolizers on days 1 
+and 8.  Both AUC and Cmax were increased on day 8, with an accumulation ratio of 1.31 
+for poor metabolizers and 1.37 for extensive metabolizers of dextromethorphan.  In 
+
+
+===== PAGE 237 =====
+
+ 
+161
+Table 58. Mean Pharmacokinetic Parameters of 1-PP.   
+ 
+ 
+ 
+For gepirone, tmax was approximately 1 h, indicating that absorption was rapid, 
+and independent of the multiple dosing regimen (Figs. 49, 50, Table 57).  The t1/2 ranged 
+from 2.7-4.6 h following single and multiple dose administration.  Based on Cmin, Cmax, 
+and AUC data, steady-state conditions were achieved after 2 days of t.i.d. dosing.  Cmin 
+values were unchanged for both gepirone and 1-PP.  Cmax and AUCss on day 7 were 
+significantly greater than the values on day 1 in all groups, indicating some accumulation 
+of gepirone following multiple dosing.  As a result, plasma concentrations of gepirone 
+accumulated less than 3-fold.  Cmax, AUC, and MRT values were greater in the elderly 
+subjects.  Also, male subjects had greater values for Cmax and AUC (15-25% elevation) 
+compared with females.   
+For 1-PP, plasma levels were observed within 15 min (Figs. 51, 52, Table 58).  
+The t1/2 ranged from 5-8 h following single and multiple dose administration.  For all 
+groups, the pharmacokinetics on day 7 were greater than the values on day 1, illustrating 
+some accumulation of 1-PP.  In contrast to gepirone pharmacokinetics, no significant age 
+or gender effects were observed for Cmax, AUC, and t1/2.  No change in the metabolic ratio 
+was observed in all dose groups.   
+ 
+
+
+===== PAGE 241 =====
+
+ 
+165
+Table 59.  Mean Pharmacokinetic Parameters of Gepirone and 1-PP (±S.D.). 
+PK Parameter 
+30 mg 
+60 mg 
+100 mg 
+Gepirone 
+Cmax (ng/ml) 
+19.7 (10.7) 
+34.6 (25.1) 
+93.7 (47.7) 
+Tmax (h) 
+0.69 (0.38) 
+1.88 (2.14) 
+0.69 (0.38) 
+T1/2 (h) 
+ 
+ 
+2.28 (0.91) 
+AUC(0-5 h) (ng-h/ml) 
+44.3 (16.6) 
+65.1 (36.1) 
+193 (50.2) 
+*AUC(0-∝) (ng-h/ml) 
+ 
+ 
+265.7 (80.7) 
+1-PP 
+Cmax (ng/ml) 
+13.9 (3.62) 
+19.6 (11.7) 
+41.4 (9.22) 
+Tmax (h) 
+2.81 (2.54) 
+1.88 (2.14) 
+2.31 (1.97) 
+T1/2 (h) 
+ 
+ 
+5.09 (1.70) 
+AUC(0-5 h) (ng-h/ml) 
+49.2 (11.9) 
+60.8 (34.8) 
+150 (23.8) 
+*AUC(0-∝) (ng-h/ml) 
+ 
+ 
+435 (150) 
+*Total AUC was calculated based on ten subjects that were administered 100 mg of 
+gepirone on day 16.   
+ 
+ 
+Following drug administration, gepirone was absorbed rapidly, indicated by a 
+short tmax of 0.7 – 1.9 h (Fig. 53, Table 59).  Tmax remained unchanged independent of 
+dose for both gepirone and 1-PP (Figs 53, 54, Table 59).  The parent drug also was 
+metabolized rapidly, due to observed plasma levels of 1-PP within 15 min (Fig. 54).  
+Following administration of the 30 and 60 mg doses, the half-lives for gepirone and 1-PP 
+could not be determined.  Thus, the t1/2 following the 100 mg dose was 2.3 h and 5.1 h for 
+gepirone and 1-PP, respectively.  A trend for nonlinearity at the higher doses was 
+observed between dose and AUC, but was inconclusive based on the AUC values for 
+both compounds only representing plasma levels up to 5 h.  As a result, the AUC up to 5 
+h represented 77% and 34% of the total AUC for gepirone and 1-PP, respectively.   
+ 
+Conclusions. 
+ 
+Overall, gepirone was well tolerated up to 80 mg.  The results showed that 
+gepirone was rapidly absorbed and metabolized following oral administration.  Even 
+though the sponsor stated that gepirone and 1-PP may exhibit nonlinear pharmacokinetics 
+at higher doses, this assessment cannot be adequately interpreted due to a statistical 
+comparison of AUC values only up to 5 h.   
+ 
+
+
+===== PAGE 245 =====
+
+ 
+169
+Table 61.  Mean Pharmacokinetic Parameters of Gepirone and 1-PP Following 
+Multiple Dose Administration (±S.D.). 
+PK Parameter 
+10 mg 
+25 mg 
+50 mg 
+Gepirone 
+Css
+max (ng/ml) 
+8.81 (4.90) 
+18.4 (6.05) 
+46.6 (28.6) 
+*DN Css
+max (ng/ml) 
+0.88 (0.49) 
+0.74 (0.24) 
+0.93 (0.57) 
+Tmax (h) 
+0.83 (0.26) 
+0.80 (0.27) 
+1.30 (0.97) 
+AUCss
+(0-8 h) (ng-h/ml) 
+32.7 (21.2) 
+60.3 (21.0) 
+157 (66.2) 
+*DN AUCss
+(0-8 h) (ng-h/ml) 
+3.27 (2.20) 
+2.41 (0.84) 
+3.14 (1.32) 
+1-PP 
+Css
+max (ng/ml) 
+4.35 (1.71) 
+16.7 (7.00) 
+28.7 (16.2) 
+*DN Css
+max (ng/ml) 
+0.43 (0.17) 
+0.67 (0.28) 
+0.57 (0.32) 
+Tmax (h) 
+1.58 (1.11) 
+1.30 (0.97) 
+1.80 (1.10) 
+AUCss
+(0-8 h) (ng-h/ml) 
+20.2 (8.80) 
+90.4 (46.7) 
+171 (120) 
+*DN AUCss
+(0-8 h) (ng-h/ml) 
+2.02 (0.88) 
+3.62 (1.87) 
+3.41 (2.39) 
+*Cmax and AUC were normalized to a 1 mg dose.   
+ 
+ 
+Following drug administration, gepirone was absorbed rapidly, indicated by a 
+short tmax of 0.8 – 1.3 h (Fig. 55, Table 61).  Tmax remained unchanged independent of 
+dose for both gepirone and 1-PP (Figs. 55, 56, Table 61).  The parent drug also was 
+metabolized rapidly, due to observed plasma levels of 1-PP within 15 min (Fig. 56).  
+Following administration of the 10, 25, and 50 mg doses, Cmax was dose proportional for 
+both gepirone and 1-PP.  A trend for linearity was apparent between dose and AUC for 
+both gepirone and 1-PP, and statistical analysis revealed that no significant mean 
+differences existed between the normalized values.   
+ 
+Conclusions. 
+ 
+Following multiple dose administration, gepirone was absorbed and metabolized 
+rapidly independent of dose, indicated by the short tmax values.  As a result, both gepirone 
+and 1-PP exhibited dose linear pharmacokinetics up to 50 mg.   
+ 
+11. Protocol 59B4A-001-2579: A Pharmacokinetic Study of Gepirone IR After 
+Single and Multiple Dosing in Normal Male Subjects. 
+ 
+Objectives. 
+The objective of this study was to provide a more definitive picture regarding the 
+single and multiple dose pharmacokinetics of gepirone and 1-PP in healthy male 
+volunteers.   
+ 
+
+
+===== PAGE 247 =====
+
+ 
+171
+Assay Validation: 
+ 
+A GC/MS assay was used to quantitate both gepirone and 1-PP in this study.  The 
+calibration curve was linear for the concentration range from 0.1 – 25 ng/ml for both 
+gepirone (r ≥ 0.995) and 1-PP (r ≥ 0.993).  Low and high QC samples were prepared at 
+concentrations of 2.0 and 20 ng/ml for gepirone and 2.12 and 21.2 ng/ml for 1-PP.  The 
+between day variability for the QC samples did not exceed 9.86% for gepirone and 5.55% 
+for 1-PP.  For the accuracy of the method, the deviations from the mean for gepirone were 
+within 7.70 % for the low QCs and 8.90% for the high QCs.  The corresponding values 
+for 1-PP were 5.29% and 5.72%, respectively.   
+ 
+Criteria for Evaluation: 
+ 
+Pharmacokinetic evaluation included the determination of peak concentration 
+(Cmax), corresponding peak times (tmax), area under the curve (AUC0-t), half-life (t1/2), 
+trough concentrations (Cmin), and an accumulation ratio (R).  Non-compartmental 
+methods were used in the determination of various pharmacokinetic parameters.   
+ 
+In comparing the single and multiple dose pharmacokinetics, repeated measures 
+ANOVA was utilized to compare the Cmin, t1/2, MRT0-, AUC0-, tmax (rank transformed) 
+and AUC0-8 data.  With the exception of Levene’s test (p=0.001), which was used to test 
+homogeneity of variance for t1/2 and MRT, the significance level was set at p=0.05.  
+Weighted linear regression was used to determine whether Cmin, Cmax, and AUC were 
+linear or proportional to dose.  Tests for linearity were conducted using the lack-of-fit t-
+statistic.  Due to discontinuation of the 30 mg group following the second dose, the data 
+only was included in the assessment of dose proportionality.   
+ 
+
+
+===== PAGE 252 =====
+
+ 
+176
+ 
+For gepirone, tmax ranged from 0.7 – 1.1 h, indicating that absorption was rapid, 
+similar among doses, and independent of the multiple dosing regimen (Figs. 57, 58, Table 
+63).  The t1/2 ranged from 2 –3.5 h following single and multiple dose administration.  
+Based on Cmin, Cmax, and AUC data, steady-state conditions were achieved after 2 days of 
+t.i.d. dosing.  As a result, plasma concentrations of gepirone accumulated 1.5-1.9 fold.  
+Also, AUCss on day 7 was significantly greater than the AUC on day 1.  After a single 
+dose of gepirone, Cmax and AUC were linear with respect to dose up to 30 mg and 20 mg, 
+respectively.  At steady-state, both Cmax and AUC were linear with respect to dose up to 
+20 mg, but the outcome is marginal due to high variability in the data.   
+For 1-PP, plasma levels were observed within 15 min (Figs. 59, 60).  The t1/2 
+ranged from 5-8 h following single and multiple dose administration (Table 64).  Based 
+on Cmax and AUC data, plasma concentrations of 1-PP accumulated approximately 1.7 
+fold.  In contrast to gepirone pharmacokinetics, the AUCss of 1-PP was similar to the 
+AUC on day 1, thus suggesting that the rate of metabolite formation did not change as a 
+result of multiple dosing of the parent compound.  Both Cmax and AUC were linear with 
+respect to dose up to 20 mg following single and multiple dose administration, but the 
+data was associated with high variability.   
+ 
+Conclusions. 
+ 
+Gepirone was absorbed and metabolized rapidly independent of dose, indicated by 
+the short tmax values.  Steady state plasma levels were obtained after 2 days of t.i.d. 
+dosing.  Following multiple dose administration, both gepirone and 1-PP profiles showed 
+little accumulation (approximately 2-fold), which may not be clinically relevant.  In 
+addition AUC and Cmax were linear with respect to dose up to 20 mg for both gepirone 
+and 1-PP, but the data was highly variable.  As a result of the method of superpositioning, 
+predicted values of AUCss and Cmin were significantly less that the values observed, 
+resulting in that steady state pharmacokinetics of gepirone and 1-PP cannot be predicted 
+from single dose data.  One possible explanation may be due to high variability in the 
+data or saturation of metabolic pathways at higher doses.   
+ 
+ 

@@ -1,0 +1,66 @@
+{
+  "nda": "NDA203697",
+  "drug_name": "aspirin (Aspirin-PC)",
+  "pk_tuples": [
+    {
+      "dose_mg": 325.0, "dose_original": "325-mg (1x 325-mg) Aspirin-PC",
+      "route": "oral",
+      "formulation": "capsule",
+      "food": "fasted",
+      "population": "healthy_adult",
+      "n_subjects": 12, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 2770.0, "tmax_h": 1.0,
+      "auc_inf_ng_h_ml": 3033.0, "auc_last_ng_h_ml": 3267.0,
+      "t_half_h": 0.683, "cl_L_h": null, "vd_L": null,
+      "source_page": 34, "confidence": "high", "notes": "Acetylsalicylic acid (parent) PK. Converted μg/mL to ng/mL and min·μg/mL to ng·h/mL (÷60×1000). T1/2 41 min converted to 0.683 h. Tmax 60 min = 1.0 h. Aspirin-PC test product"
+    },
+    {
+      "dose_mg": 325.0, "dose_original": "325-mg (1x 325-mg) Bayer Aspirin",
+      "route": "oral",
+      "formulation": "tablet",
+      "food": "fasted",
+      "population": "healthy_adult",
+      "n_subjects": 12, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 2590.0, "tmax_h": 1.133,
+      "auc_inf_ng_h_ml": 3833.0, "auc_last_ng_h_ml": 3517.0,
+      "t_half_h": 0.517, "cl_L_h": null, "vd_L": null,
+      "source_page": 34, "confidence": "high", "notes": "Acetylsalicylic acid PK for Bayer Aspirin tablet, reference. Tmax 68 min = 1.133 h. T1/2 31 min = 0.517 h"
+    },
+    {
+      "dose_mg": 650.0, "dose_original": "650-mg (2 x 325-mg) Aspirin-PC",
+      "route": "oral",
+      "formulation": "capsule",
+      "food": "fasted",
+      "population": "healthy_adult",
+      "n_subjects": 14, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 5680.0, "tmax_h": 1.0,
+      "auc_inf_ng_h_ml": 5933.0, "auc_last_ng_h_ml": 6117.0,
+      "t_half_h": 0.500, "cl_L_h": null, "vd_L": null,
+      "source_page": 34, "confidence": "high", "notes": "Acetylsalicylic acid PK. Aspirin-PC test product. Tmax 60 min = 1.0 h; T1/2 30 min"
+    },
+    {
+      "dose_mg": 650.0, "dose_original": "650-mg (2 x 325-mg) Bayer Aspirin",
+      "route": "oral",
+      "formulation": "tablet",
+      "food": "fasted",
+      "population": "healthy_adult",
+      "n_subjects": 14, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 5100.0, "tmax_h": 0.667,
+      "auc_inf_ng_h_ml": 7283.0, "auc_last_ng_h_ml": 6883.0,
+      "t_half_h": 0.917, "cl_L_h": null, "vd_L": null,
+      "source_page": 34, "confidence": "high", "notes": "Acetylsalicylic acid PK for Bayer Aspirin tablet. Tmax 40 min = 0.667 h. T1/2 55 min = 0.917 h"
+    },
+    {
+      "dose_mg": 650.0, "dose_original": "650-mg (2 x 325-mg) Aspirin-PC, fed",
+      "route": "oral",
+      "formulation": "capsule",
+      "food": "high_fat_meal",
+      "population": "healthy_adult",
+      "n_subjects": 18, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 3200.0, "tmax_h": null,
+      "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 6183.0,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 37, "confidence": "medium", "notes": "Acetylsalicylic acid PK, Aspirin-PC fed condition, Study PL-ASA-003; AUC0-t 371 min·μg/mL converted"
+    }
+  ]
+}

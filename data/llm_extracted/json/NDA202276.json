@@ -1,0 +1,132 @@
+{
+  "nda": "NDA202276",
+  "drug_name": "avanafil",
+  "pk_tuples": [
+    {
+      "dose_mg": 200, "dose_original": "200 mg single dose (1 x 200 mg)",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 22, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 2620, "tmax_h": 0.75, "auc_inf_ng_h_ml": 7000, "auc_last_ng_h_ml": 6240,
+      "t_half_h": 5.0, "cl_L_h": null, "vd_L": null,
+      "source_page": 126, "confidence": "high",
+      "notes": "Study TA-022, Formulation II, healthy young male subjects, fasted"
+    },
+    {
+      "dose_mg": 200, "dose_original": "4 x 50 mg",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 22, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 2660, "tmax_h": 0.5, "auc_inf_ng_h_ml": 6510, "auc_last_ng_h_ml": 6000,
+      "t_half_h": 6.4, "cl_L_h": null, "vd_L": null,
+      "source_page": 126, "confidence": "high",
+      "notes": "Study TA-022, 4x50mg tablets; dose equivalence study"
+    },
+    {
+      "dose_mg": 200, "dose_original": "2 x 100 mg",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 23, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 2520, "tmax_h": 0.5, "auc_inf_ng_h_ml": 6990, "auc_last_ng_h_ml": 6340,
+      "t_half_h": 6.0, "cl_L_h": null, "vd_L": null,
+      "source_page": 126, "confidence": "high",
+      "notes": "Study TA-022, 2x100mg tablets; dose equivalence study"
+    },
+    {
+      "dose_mg": 200, "dose_original": "1 x 200 mg",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 18, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 2850, "tmax_h": 0.6, "auc_inf_ng_h_ml": 7970, "auc_last_ng_h_ml": null,
+      "t_half_h": 6.5, "cl_L_h": null, "vd_L": null,
+      "source_page": 127, "confidence": "high",
+      "notes": "Study TA-014, healthy young male subjects (mean age 31.6 yr)"
+    },
+    {
+      "dose_mg": 200, "dose_original": "1 x 200 mg",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "elderly", "n_subjects": 14, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 2790, "tmax_h": 0.75, "auc_inf_ng_h_ml": 8510, "auc_last_ng_h_ml": null,
+      "t_half_h": 5.6, "cl_L_h": null, "vd_L": null,
+      "source_page": 127, "confidence": "high",
+      "notes": "Study TA-014, healthy elderly subjects (mean age 72.6 yr)"
+    },
+    {
+      "dose_mg": 200, "dose_original": "200 mg single dose",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 8, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 2610, "tmax_h": 0.5, "auc_inf_ng_h_ml": 9260, "auc_last_ng_h_ml": 7960,
+      "t_half_h": 6.4, "cl_L_h": null, "vd_L": null,
+      "source_page": 34, "confidence": "high",
+      "notes": "Study TA-012, healthy normal hepatic control group, Formulation II"
+    },
+    {
+      "dose_mg": 200, "dose_original": "200 mg single dose",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "hepatic_impaired", "n_subjects": 8, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 1270, "tmax_h": 1.1, "auc_inf_ng_h_ml": 10300, "auc_last_ng_h_ml": 7310,
+      "t_half_h": 7.1, "cl_L_h": null, "vd_L": null,
+      "source_page": 34, "confidence": "high",
+      "notes": "Study TA-012, moderate hepatic impairment (Child-Pugh B)"
+    },
+    {
+      "dose_mg": 200, "dose_original": "200 mg single dose",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 8, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 2870, "tmax_h": 0.75, "auc_inf_ng_h_ml": 8490, "auc_last_ng_h_ml": null,
+      "t_half_h": 6.4, "cl_L_h": null, "vd_L": null,
+      "source_page": 42, "confidence": "high",
+      "notes": "Study TA-013, normal renal function control group"
+    },
+    {
+      "dose_mg": 200, "dose_original": "200 mg single dose",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "renal_impaired", "n_subjects": 8, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 2950, "tmax_h": 0.5, "auc_inf_ng_h_ml": 8240, "auc_last_ng_h_ml": null,
+      "t_half_h": 6.2, "cl_L_h": null, "vd_L": null,
+      "source_page": 42, "confidence": "high",
+      "notes": "Study TA-013, mild renal impairment"
+    },
+    {
+      "dose_mg": 200, "dose_original": "200 mg single dose",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "renal_impaired", "n_subjects": 8, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 2790, "tmax_h": 0.75, "auc_inf_ng_h_ml": 9260, "auc_last_ng_h_ml": null,
+      "t_half_h": 4.9, "cl_L_h": null, "vd_L": null,
+      "source_page": 42, "confidence": "high",
+      "notes": "Study TA-013, moderate renal impairment"
+    },
+    {
+      "dose_mg": 100, "dose_original": "100 mg single dose",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": null, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 871, "tmax_h": 0.65, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 1406,
+      "t_half_h": 1.15, "cl_L_h": null, "vd_L": null,
+      "source_page": 11, "confidence": "medium",
+      "notes": "Study TA-02 single dose; AUC0-t in ug*hr/mL converted (1.406 ug*hr/mL = 1406 ng*hr/mL); Cmax 0.871 ug/mL = 871 ng/mL"
+    },
+    {
+      "dose_mg": 100, "dose_original": "100 mg QD",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": null, "dose_schedule": "steady_state",
+      "cmax_ng_ml": 892, "tmax_h": 0.65, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 1635,
+      "t_half_h": 1.4, "cl_L_h": null, "vd_L": null,
+      "source_page": 13, "confidence": "medium",
+      "notes": "Study TA-02 14 daily doses; Cmax 0.892 ug/mL, AUC0-t 1.635 ug*hr/mL converted"
+    },
+    {
+      "dose_mg": 200, "dose_original": "200 mg BID Day 1",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": null, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 3150, "tmax_h": 0.5, "auc_inf_ng_h_ml": 8200, "auc_last_ng_h_ml": 8108,
+      "t_half_h": 8.13, "cl_L_h": null, "vd_L": null,
+      "source_page": 22, "confidence": "high",
+      "notes": "Study TA-07, first dose Day 1 of twice-daily regimen"
+    },
+    {
+      "dose_mg": 200, "dose_original": "200 mg BID Day 10",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": null, "dose_schedule": "steady_state",
+      "cmax_ng_ml": 3490, "tmax_h": 0.5, "auc_inf_ng_h_ml": 9928, "auc_last_ng_h_ml": 9594,
+      "t_half_h": 9.08, "cl_L_h": null, "vd_L": null,
+      "source_page": 22, "confidence": "high",
+      "notes": "Study TA-07, Day 10 after 7 days of BID dosing"
+    }
+  ]
+}

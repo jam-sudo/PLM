@@ -1,0 +1,150 @@
+
+
+===== PAGE 41 =====
+
+NDA 216318 
+testosterone cypionate injection 
+ 
+ 
+40 
+Version date: October 12, 2018  
+— Unauthorized prescription medications (refer to Section 8.7.3 of the original 
+protocol for complete listing) within 14 days prior to the first dosing. 
+— Over-the-counter products and natural health products (including herbal 
+remedies, homeopathic and traditional medicines, probiotics, food supplements 
+such as vitamins, minerals, amino acids, essential fatty acids, and protein 
+supplements used in sports) within 7 days prior to the first dosing, with the 
+exception of the occasional use of acetaminophen (up to 2 g daily). 
+Study Endpoints 
+Pharmacokinetic 
+For a detailed discussion, see Section 6. 
+The following PK parameters for testosterone, DHT, and E2 were calculated by standard 
+noncompartmental methods:  
+• AUC0-t: Area under the concentration-time curve from time zero until the last observed 
+concentration 
+• AUC0-inf: Area under the concentration-time curve from time zero to infinity (extrapolated) 
+• Residual area: Percentage of AUC0-inf due to extrapolation from the time of the last 
+observed concentration to infinity, calculated as [1 – (AUC0-t/AUC0-inf)] x 100. 
+• Cmax: Maximal observed concentration 
+• Tmax: Time when the maximal concentration is observed 
+• T1/2el: Terminal elimination half-life 
+• Kel: Terminal elimination rate constant 
+Safety 
+Safety endpoints included treatment-emergent adverse events (TEAEs), serious adverse events 
+(SAEs), vital signs, standard laboratory evaluations (biochemistry, hematology, urinalysis, 
+endocrinology), injection site assessments analysis and pain intensity. 
+Statistical Analysis Plan 
+For a detailed review of efficacy endpoints, see Statistical Methods for PK Analysis under 
+Section 17.3.2.1. The PK population included all subjects completing the study (both periods), 
+for whom the PK profile was adequately characterized. The safety population was defined as all 
+subjects who received at least one dose (partial or complete) of the study drug. Data from 
+uncorrected testosterone and from uncorrected and baseline-corrected DHT and E2 was 
+reported and presented as supportive information only. 
+Reference ID: 4993267
+
+
+===== PAGE 45 =====
+
+NDA 216318 
+testosterone cypionate injection 
+ 
+ 
+44 
+Version date: October 12, 2018  
+Other Baseline Characteristics (e.g., Disease Characteristics, Important Concomitant Drugs) 
+No other characteristics were provided by the Applicant. 
+Treatment Compliance, Concomitant Medications, and Rescue Medication Use 
+Three subjects received concomitant medication during the study: two subjects received 
+acetaminophen; one subject received ibuprofen.  
+Efficacy Results – Primary Endpoint 
+For a detailed review of the Applicant’s primary endpoint, presentation of the PK data and PK 
+data analysis, see the Clinical Pharmacology Review in Section 6. The Applicant successfully 
+established a scientific bridge between their product and the RLD. This scientific bridge justifies 
+the Applicant’s proposal to rely on the Agency’s previous findings of safety and efficacy of the 
+listed drug, Depo®-Testosterone (TC) Injection, 200 mg/mL for their product for the treatment 
+of male hypogonadism. Study 202012 demonstrated similar AUC and Cmax for the new TC 
+product and the RLD, as shown in the graphic below. 
+Figure 2. Pharmacokinetic: Figure Ia Mean (±SD) Testosterone (Baseline Corrected) 
+Concentrations - Linear Scale 
+ 
+Source: Applicant’s Study Synopsis p.8. 
+Reviewer’s comment: AUC and Cmax are similar for the test product and the reference drug.  
+Reference ID: 4993267
+
+
+===== PAGE 70 =====
+
+NDA 216318 
+testosterone cypionate injection 
+ 
+ 
+69 
+Version date: October 12, 2018  
+Criteria for Evaluation 
+PK 
+The following PK parameters for T, DHT, and E2 were calculated by standard 
+noncompartmental methods: AUC0-t, AUC0-inf, Residual area, Cmax, Tmax, t½ el, Kel. 
+Uncorrected and baseline-corrected data were presented. AUC0-inf, residual area, t½ el, and Kel 
+were calculated only from baseline-corrected data. 
+For baseline correction, for each subject and treatment period, the baseline value was defined 
+as the mean of the -1.0, -0.5, and 0-hours samples obtained before dosing, for that same 
+subject and period. The calculated mean baseline concentration was considered as the predose 
+value. For baseline correction, the baseline value (mean of the three predose samples) was 
+subtracted from each measured concentration.  
+Statistical Methods for PK Analysis 
+Individual and mean serum or plasma concentrations versus time curves were presented for 
+both linear and semilog scales. Descriptive statistics (arithmetic and geometric means, SD, 
+coefficient of variation [CV%], Min, Max, and median) of the serum or plasma concentrations 
+versus time were also presented for the PK parameters. 
+For uncorrected and baseline-corrected data, using general linear model (GLM) procedures in 
+SAS, analysis of variance (ANOVA) was performed on untransformed Tmax, Kel, and t½ el and on 
+ln-transformed AUC0-t and Cmax at the alpha level of 0.05. Factors incorporated in the model 
+included: Sequence, Subject (Sequence), Period, and Treatment. 
+The ratio of geometric means (Treatment A/Treatment B) and 90% CI for the ratio of geometric 
+means, based on least-squares means (LSM) from the ANOVA of the ln-transformed data, was 
+calculated for AUC0-t and Cmax. 
+For baseline corrected T, the 90% CI for the ratio of geometric means (A/B), based on LSM from 
+the ANOVA of the ln-transformed AUC0-t, AUC0-inf, and Cmax, must be within 80.00% to 125.00% 
+to be considered bioequivalent (BE). 
+Reviewer’s comment: A total of 21 protocol deviations were reported, with the majority of 
+these (18 events) in the category of Measurements/Procedures followed by study samples (3 
+events). The Principal Investigator judged the reported deviations were unlikely to have affected 
+the results and conclusions of the study. 
+PK Results 
+Baseline Corrected T 
+Linear scale baseline corrected mean (±SD) T concentration-time profile is plotted in Figure 3. 
+Reference ID: 4993267
+
+
+===== PAGE 74 =====
+
+NDA 216318 
+testosterone cypionate injection 
+ 
+ 
+73 
+Version date: October 12, 2018  
+Table 21. Summary of ANOVA of the ln-transformed Data for Baseline Uncorrected T 
+ 
+Source: Table 11.4.1.4, Study 202012 CSR. 
+Reviewer’s comment: Per the Applicant, due to unreliable data for the AUC0-inf parameter 
+occurring in more than 30% of the subjects, AUC0-inf was calculated and presented as supportive 
+data only and not included in the relative BA assessment. 
+PK data for baseline-corrected T were the primary data for relative BA assessment and the 
+Test/Reference ratios and 90% CIs of geometric mean of baseline-corrected and baseline-
+uncorrected T AUC0-t and Cmax met the prespecified BE limits of 80.00%-125.00%. 
+PK data for uncorrected T, uncorrected and baseline-corrected DHT and E2, respectively, were 
+reported as supportive information. Baseline-corrected DHT Cmax, and baseline-uncorrected 
+DHT AUC0-t and Cmax were within the BE limits of 80.00%-125.00%. However, the Test/Reference 
+ratio and 90% CIs of geometric means for baseline-corrected DHT AUC0-t were outside of the BE 
+limits (i.e., Test/Reference ratio =0.73 and 90% CIs =50.4%-106.9%). The Applicant explained 
+that this could be due to large variations in the baseline DHT concentrations.  
+Conclusions 
+Based on the 90% CI of the ratio of geometric means for AUC0-t and Cmax of baseline corrected T, 
+Clinical Pharmacology concludes that the study results demonstrated BE between the proposed 
+product, TC injection, 200 mg/mL (Slayback Pharma LLC) and the listed drug, Depo®-
+Testosterone (TC) Injection, USP 200 mg/mL (Pfizer Inc.). 
+17.4. Additional Clinical Outcome Assessment Analyses 
+Study 202012 was a Phase 1 relative biovailability (PK) study.  No other clinical studies were 
+conducted for this application.  No other clinical outcome assessments were measured. 
+Reference ID: 4993267

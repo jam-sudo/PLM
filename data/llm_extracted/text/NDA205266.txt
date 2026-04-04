@@ -1,0 +1,1585 @@
+
+
+===== PAGE 3 =====
+
+NDA 225-206 Sonidegib/Odomzo 
+ 
+Page 2  
+List of Tables 
+Table 1.
+............................................................ 7 
+Table 2. Description of clinical pharmacology studies ...................................................................................... 8 
+Table 3. Percent change in baseline Gli-1 expression in tumor tissue ............................................................. 11 
+Table 4. Summary of pharmacokinetic parameters by absence or presence of grade 3 or 4 creatine kinase 
+elevation ................................................................................................................................................... 13 
+Table 5. Dose interruptions and reductions ...................................................................................................... 14 
+Table 6. Median time to onset and resolution of grade 3 or 4 creatine kinase elevation .................................. 15 
+Table 7. Summary of musculoskeletal adverse reactions for patients given a 200 mg dose ............................ 16 
+Table 8. Summary of mean (standard deviation) pharmacokinetic parameters of sonidegib following a single 
+dose and repeated doses ........................................................................................................................... 18 
+Table 9. Summary of mean (standard deviation) pharmacokinetic parameters of sonidegib following a single 
+dose and repeated doses based on population PK model ......................................................................... 22 
+Table 10. Sonidegib steady-state exposure in cancer patients with mild and moderate renal impairment 
+similar to cancer patients with normal renal function .............................................................................. 24 
+Table 11. Effect of ketoconazole and rifampin on the pharmacokinetics of sonidegib .................................... 25 
+Table 12. Simulated effect of strong and moderate CYP3A4 modulators on sonidegib exposure in cancer 
+patients ..................................................................................................................................................... 26 
+Table 13. Geometric mean ratios at steady-state in patients taking sonidegib with an acid-reducing agent 
+compared to patients taking sonidegib without an acid-reducing agent based on population 
+pharmacokinetic analysis ......................................................................................................................... 28 
+Table 14. Effect of high-fat breakfast on the pharmacokinetics of sonidegib .................................................. 30 
+Table 15. Bioanalytical Methods ...................................................................................................................... 32 
+Table 16. Bioanalytical Methods Summary ..................................................................................................... 32 
+ 
+List of Figures 
+Figure 1. Chemical structure of sonidegib .......................................................................................................... 7 
+Figure 2. Fold change and percent inhibition in Gli-1 mRNA expression increases with dose in biopsies of 
+normal skin .............................................................................................................................................. 10 
+Figure 3. No exposure-response relationship observed for best overall response and sonidegib minimal 
+concentrations observed on Week 5 (left) or Week 17 (steady-state, right) ............................................ 11 
+Figure 4. Change from baseline in Gli-1versus best overall response at week 17 ........................................... 11 
+Figure 5. Probability of grade 3-4 creatinine kinase elevation increases with higher sonidegib minimal 
+concentrations on week 5 ......................................................................................................................... 14 
+Figure 6. Concentration-∆QTcF relationship for sonidegib in cancer patients ................................................ 17 
+Figure 7. Proposed metabolism of sonidegib in humans .................................................................................. 20 
+Figure 8. Mean maximal concentrations (left) and area under the curve from 0 to 168 hours (right) after a 
+dose of 100 mg to 3000 mg in cancer patients ......................................................................................... 21 
+Figure 9. Sonidegib demonstrates dose-dependent absorption after a single dose in cancer patients .............. 21 
+Reference ID: 3765220
+(b) (4)
+
+
+===== PAGE 5 =====
+
+NDA 225-206 Sonidegib/Odomzo 
+ 
+Page 4  
+  
+ 
+1.1 
+RECOMMENDATIONS 
+ This NDA is acceptable from a clinical pharmacology perspective.  
+Decision 
+Acceptable to 
+OCP? 
+Comment 
+Overall 
+Yes 
+ 
+Evidence of effectiveness† 
+Yes 
+ 
+Proposed dose for general population 
+Yes 
+ 
+Proposed dose adjustment for others  
+Yes 
+A postmarketing requirement will be recommended 
+for a study in subjects with hepatic impairment and 
+for a study in patients taking an ARA.  
+Pivotal bioequivalence 
+Not Applicable 
+ 
+Labeling 
+Yes 
+ 
+†This decision is from a clinical pharmacology perspective only. The determination of the overall safety and 
+effectiveness is made by the clinical review team. 
+1.2 
+PHASE 4 REQUIREMENTS AND COMMITMENTS 
+1.2.1 
+Post Marketing Requirements 
+Drug Development Question 
+Rationale 
+PMR 
+Should the dose of sonidegib 
+be reduced in patients with 
+moderate or severe hepatic 
+impairment? 
+ 
+The mass balance study indicates 
+that ~70% of the absorbed dose 
+is eliminated in the feces, 
+indicating that hepatic 
+elimination is the major 
+elimination pathway.  Higher 
+sonidegib steady-state exposure 
+is associated with greater 
+probability of developing severe 
+musculoskeletal toxicity. 
+Complete the ongoing pharmacokinetic 
+(PK) trial to determine an appropriate 
+dose of sonidegib in patients with 
+moderate and severe hepatic impairment.  
+Trial Completion: September 2015 
+Final Report Submission: July 2016 
+What is an appropriate dose 
+for patients taking an acid-
+reducing agents (ARA)? 
+A population PK analysis suggests 
+that ARAs reduce mean sonidegib 
+steady-state exposure by 34%. 
+Submit the final study report for the 
+completed PK trial to determine how to 
+dose sonidegib in patients taking an ARA. 
+Final Report Submission: July 2015 
+1.2.2 Post Marketing Commitments 
+None. 
+1.2.3 Additional Comment 
+1. 
+Complete the ongoing PK trial (Study A2112, started April 2013) to determine the 
+appropriate dose of sonidegib in patients taking sensitive or narrow therapeutic substrates 
+metabolized by CYP2B6 and CYP2C9 and submit the final study report in September 2019 
+as planned.  
+Reference ID: 3765220
+
+
+===== PAGE 7 =====
+
+NDA 225-206 Sonidegib/Odomzo 
+ 
+Page 6  
+1.3 
+SUMMARY OF IMPORTANT CLINICAL PHARMACOLOGY AND BIOPHARMACEUTICS 
+FINDINGS 
+Sonidegib is a Hedgehog pathway inhibitor that is a Smoothened antagonist. The labeled indication 
+will be for the treatment of adult patients with locally advanced basal cell carcinoma (BCC) that is 
+not amenable to curative surgery or radiation therapy at a dose of 200 mg once daily in the fasted 
+state (e.g., at least one hour before or 2 hours after a meal). 
+A single randomized, double-blind trial was conducted to evaluate the efficacy and safety of two 
+sonidegib doses in patients with locally advanced or metastatic BCC. No exposure-response (E-R) 
+relationship was observed for best overall response, but the mean probability of grade 3 or 4 
+creatine kinase (CK) elevation increased with higher sonidegib minimal concentrations (Cmin). The 
+proposed starting dose of 200 mg once daily is supported by available safety and efficacy data and 
+the E-R analyses. Sonidegib should be discontinued in patients who experience a grade 3 or 4 
+musculoskeletal adverse event. 
+Sonidegib exposure increased in a less than dose proportional manner with doses up to 3000 mg in 
+fasted conditions consistent with dose-dependent absorption 
+ The 
+median Tmax was observed between 2 hours and 4 hours under fasted conditions. The administration 
+of a single 800 mg dose with a high-fat meal (1000 calories with 50% from fat) resulted in a 7.4-
+fold increase in area under the curve (AUCinf) in healthy subjects. The population pharmacokinetic 
+(PK) analysis suggests that geometric mean sonidegib steady-state AUC is 34% lower in cancer 
+patients concomitantly taking an ARA with a sonidegib dose of 200 mg compared to patients not 
+concomitantly taking an ARA. A dedicated study in healthy subjects is ongoing to determine an 
+appropriate dose regimen for patients concomitantly taking an ARA.  
+Sonidegib is metabolized by CYP3A4 to several inactive metabolites. Ketoconazole increased 
+sonidegib AUC0-10d by 2.2-fold and rifampicin decreased sonidegib AUC0-10d by 72% following a 
+single 800 mg dose in healthy subjects. Simulation suggests that moderate inhibitors given for 14 
+days will increase steady-state exposure of sonidegib by1.8-fold and moderate inducers given for 14 
+days will decrease steady-state exposure of sonidegib by 56%. It is recommended that patients 
+avoid taking strong and moderate CYP3A modulators with sonidegib. Dose interruption or an 
+alternative sonidegib dose or schedule to provide similar sonidegib exposure to the 200 mg dose is 
+not feasible, because sonidegib demonstrates non-linear PK with a long elimination half-life.  
+Sonidegib inhibited CYP2B6 and CYP2C9 in vitro. A study to assess the effects of sonidegib on the 
+PK of a CYP2B6 and a CYP2C9 probe substrate is ongoing. Sonidegib does not induce or inhibit 
+other major cytochrome P450 enzymes. Sonidegib inhibited ABCG2 in vitro, but it is not a 
+substrate or inhibitor of several other transporters. 
+Approximately 70% and 30% of the absorbed dose was excreted in feces and urine, respectively 
+following a single 800 mg oral dose of [14C]-labeled sonidegib in healthy men. No dose adjustment 
+is recommended for patients with mild hepatic impairment (as defined by National Cancer Institute) 
+or mild or moderate renal impairment (as defined by Cockcroft-Gault) based on population PK 
+analysis.  
+Reference ID: 3765220
+(b) (4)
+
+
+===== PAGE 19 =====
+
+NDA 225-206 Sonidegib/Odomzo 
+ 
+Page 18  
+single dose. The PK could not be adequately characterized in this study as the sampling period was 
+relatively short following a single dose (up to 168 hours) compared to the terminal elimination half-
+life (~28 days) and PK sampling was not performed at steady-state (Table 8).   
+Table 8. Summary of mean (standard deviation) pharmacokinetic parameters of sonidegib 
+following a single dose and repeated doses  
+Single Dose 
+AUC0-168h (ng*h/mL) 
+Cmax (ng/mL) 
+100 mg (n=6) 
+200 mg (n=6) 
+400 mg (n=5) 
+800 mg (n=25,24) 
+1000 mg N=11) 
+1500 mg (n=9) 
+3000 mg (n=10) 
+1883 (1150) 
+3673 (2133) 
+7448 (8534) 
+7867(6950) 
+7396 (6343) 
+12633 (7113) 
+11757 (11209) 
+86 (52) 
+160 (115) 
+267 (239) 
+430 (381) 
+322 (288) 
+376 (199) 
+429 (237) 
+Repeated Dose – Cycle 1 Day 15 
+AUC0-24h (ng*h/mL) 
+Cmax (ng/mL) 
+100 mg (n=3) 
+200 mg (n=3,5) 
+400 mg (n=4) 
+800 mg (n=16,20) 
+1000 mg (n=6,8) 
+1500 mg (n=3,8) 
+3000 mg (n=4,6) 
+2691 (1337) 
+5916 (3886) 
+10178(5880) 
+12781 (6351) 
+15168 (18471) 
+27420 (14291) 
+24580 (8768) 
+155 (63) 
+269 (163) 
+558 (286) 
+840 (457) 
+1232 (1395) 
+1323 (657) 
+1673 (1045) 
+Source: Clinical Study Report, LDE225X2101, Table 10-9 
+2.2.5.2 How does the PK of the drug and its major active metabolites in healthy volunteers 
+compare to that in patients? 
+The population apparent oral clearance (CL/F) is about 3-fold higher in healthy subjects compared 
+to cancer patients, suggesting that the exposure will be higher in cancer patients compared to 
+healthy subjects taking the same dose. The geometric mean (% coefficient of variation) CL/F was 
+10.0 L/h (74%) in cancer patients compared to 35.2 L/h in healthy subjects based on the original 
+full population PK model. No cross study comparison is feasible with the available PK data. The 
+reason for the exposure differences is unknown.  
+2.2.5.3 What are the characteristics of drug absorption? 
+The absolute bioavailability of sonidegib was not evaluated in humans. The human mass balance 
+study suggests that < 10% of the dose is absorbed (Study A2201). The capsule given in the mass 
+balance study 
+) differs from the to-be-marketed capsule 
+), but the 
+mean exposure as measured by the AUCinf was similar in this study relative to another study and 
+both studies were conducted in healthy subjects (Study A2201: 9090±2530 ng*h/mL vs. Study 
+A2108: 7970±3670 ng*h/mL). Therefore, the oral bioavailability of the to-be-marketed capsule is 
+likely similar to oral bioavailability observed for the radiolabeled capsule. The relative 
+bioavailability of different formulations is discussed in Section 2.5.2. 
+The median Tmax occurred between 2 hours and 4 hours after a single dose of sonidegib under fasted 
+conditions in cancer patients (n=103, Study X2101). Sonidegib is not a substrate of ABCB1 (P-
+glycoprotein) or ABCG2 (Breast Cancer Resistance Protein) in vitro. 
+2.2.5.4 What are the characteristics of drug distribution? 
+The population estimated apparent central volume of distribution (Vss/F) of sonidegib was 9,166 L 
+Reference ID: 3765220
+(b) (4)
+(b) (4)
+
+
+===== PAGE 21 =====
+
+NDA 225-206 Sonidegib/Odomzo 
+ 
+Page 20  
+metabolites inhibited Smo with IC50 values at least 4-fold higher compared to the IC50 value of 
+sonidegib (report no. RD-2013-50348 and Study A2110). It is unlikely that these metabolites will 
+contribute to the observed efficacy, as only M25 and M16 were identified in the plasma at relatively 
+low concentrations. 
+2.2.5.7 What are the characteristics of drug excretion?  
+Metabolism followed by fecal elimination is the primary route of sonidegib elimination as described 
+above.  
+The median apparent oral clearance (CL/F) and elimination half-life could not be estimated for 
+patients enrolled into dose finding trial (Study X2101) as the sampling duration was relatively short 
+compared to sonidegib elimination half-life. The estimated population geometric mean (CV, %) 
+CL/F was 10 L/h (74%) and elimination half-life was 28 days (108%) in cancer patients based on 
+the original full population PK model. 
+ 
+Figure 7. Proposed metabolism of sonidegib in humans 
+Source: Pharmacokinetics Written Summary, Figure 5.4 
+Reference ID: 3765220
+
+
+===== PAGE 22 =====
+
+NDA 225-206 Sonidegib/Odomzo 
+ 
+Page 21  
+2.2.5.8 Based on PK parameters, what is the degree of linearity or non-linearity based in the 
+dose-concentration relationship? 
+The Applicant used a power model with equivalence bounds of 0.93 and 1.07 to assess dose 
+proportionality over the dose range tested in the dose escalation study (Study X2101) and 
+demonstrated the lack of linear relationship between dose and exposure for both single dose and 
+repeat dose assessments (Figure 8). The exposure appears to increase proportionally with doses up 
+to 400 mg, then less than dose proportionally. From the original full population PK model, 
+sonidegib has dose-dependent absorption, consistent with the observation that the dose-
+concentration relationship is nonlinear (Figure 9).  
+ 
+Figure 8. Mean maximal concentrations (left) and area under the curve from 0 to 168 hours 
+(right) after a dose of 100 mg to 3000 mg in cancer patients 
+ 
+β = 0.50  and 90% CI: 0.35, 0.65 
+ 
+β = 0.57 and 90% CI: 0.42, 0.72 
+Source: Final Clinical Study Report X2101, Figure 14.2-3.3 
+ 
+ 
+Figure 9. Sonidegib demonstrates dose-dependent absorption after a single dose in cancer 
+patients 
+Source: Population Pharmacokinetics Modeling Report, Table 5-5 
+2.2.5.9 How do the PK parameters change with time following chronic dosing? 
+Accumulation of sonidegib at steady-state is about 19-fold which was reached by week 17 based on 
+the original full population PK model. Table 9 lists the predicted PK parameters for sonidegib 
+following a dose of 200 mg and 800 mg. Accumulation is anticipated as sonidegib is being 
+Reference ID: 3765220
+
+
+===== PAGE 23 =====
+
+NDA 225-206 Sonidegib/Odomzo 
+ 
+Page 22  
+administered once daily and the elimination half-life is relatively long. 
+Table 9. Summary of mean (standard deviation) pharmacokinetic parameters of sonidegib 
+following a single dose and repeated doses based on population PK model 
+Source: Population PK Modeling Report, Table 5-6 
+2.2.5.10 What is the inter- and intra-subject variability of the PK parameters in volunteers and 
+patients and what are the major causes of variability? 
+The revised population PK model incorporated data from 436 patients and healthy subjects and 
+estimated the inter-individual variability in CL/F to be 67% (RSE 4.3%) and in Vc/F to be 213% 
+(RSE 14.8%). Several covariates incorporated into the revised full population PK model had a 
+clinically meaningful impact on sonidegib exposure: disease state (healthy subjects vs. cancer 
+patients), dose, high-fat meal and ARA coadministration. 
+2.3 
+INTRINSIC FACTORS 
+2.3.1 
+What intrinsic factors influence exposure and/or response and what is the impact of 
+any differences in exposure on effectiveness or safety responses? 
+The original full population PK model included several covariates that had a statistically significant 
+effect on sonidegib PK, including disease state, dose, high-fat meal, baseline albumin, concurrent 
+proton pump inhibitor (PPI), baseline weight, and baseline age; however, few covariates had a 
+clinically meaningful effect on sonidegib PK. The original full population PK model suggests that 
+high fat meal, disease state (healthy subjects vs. cancer patients) and dose had a clinically 
+meaningful effect on sonidegib PK and that coadministration of an ARA might have a clinically 
+meaningful effect on sonidegib PK (see Section 2.1.1). The remaining covariates assessed in the 
+population PK model had no clinically meaningful impact on sonidegib PK, including baseline 
+albumin, baseline bilirubin, baseline ALT levels, sex, ethnicity, baseline weight, baseline age, and 
+baseline creatinine clearance. 
+2.3.2 
+Based upon what is known about exposure-response relationships and their 
+variability and the groups, healthy subjects vs. patients vs. specific populations, what 
+dosage regimen adjustments, if any, are recommended for each of these groups?  
+2.3.2.1 Elderly 
+None. The median (min, max) age was 58 (20, 93) years. The original final model suggests baseline 
+age has a statistically significant, but not clinically meaningful effect on sonidegib clearance. The 
+geometric mean AUC0-24h and Cmax ratio at steady- state in subjects ≥ 65 years was 1.1-fold of that 
+in subjects < 65 years. 
+2.3.2.2 Pediatric  
+A disease specific waiver from pediatric studies for the proposed indication for BCC was requested. 
+Reference ID: 3765220
+
+
+===== PAGE 24 =====
+
+NDA 225-206 Sonidegib/Odomzo 
+ 
+Page 23  
+Sonidegib does not have orphan designation. 
+2.3.2.3 Sex 
+None. About 68% of the subjects included in the population PK model were men. The original final 
+model suggests sex has a statistically significant, but not clinically meaningful effect on sonidegib 
+clearance. The geometric mean AUC0-24h and Cmax ratio at steady-state in women was 1.1-fold of 
+that in men. Of note, men have a higher mean probability of grade 3 or 4 CK elevation compared to 
+women at baseline (see Section 2.2.4.2). 
+2.3.2.4 Race 
+None. The exposure observed in Japanese subjects at a dose of 200 mg is not likely to exceed the 
+exposure observed at a dose of 800 mg in the registration trial and therefore, a 200 mg dose in 
+Japanese subjects should be well-tolerated.  
+Japanese subjects constituted about 13% of the population included in the population PK model. 
+Ethnicity appears to have no statistically effect on sonidegib CL/F or steady-state exposure, but 
+relatively few Japanese subjects were included in the model compared to Whites. The population 
+model was not likely sensitive enough to detect potential differences in exposure between White 
+subjects and Japanese subjects. 
+In contrast, a pooled analysis suggests that sonidegib exposure is higher in Japanese subjects 
+compared to Western subjects, including White (33%) and Black (67%) subjects. In Study A2114 
+(Western) and Study A1102 (Japanese), healthy subjects received a single sonidegib dose in the 
+fasted state. The exposure in Japanese subjects (n=12) was generally higher than the exposure in 
+Western subjects (n=12). Following administration of a single 200 mg dose, the Cmax was 1.6-fold 
+(90% CI: 0.98, 2.49) higher and the AUCinf was 1.7-fold (90% CI: 0.98, 2.91) higher for Japanese 
+subjects compared to Western subjects. The exposure difference at an 800 mg dose was not 
+clinically meaningful. The reasons for the higher exposure at a single 200 mg dose are not known, 
+but differences in baseline body size were noted. A covariate analysis suggested that body size did 
+not contribute to the observed differences, consistent with the findings from the population PK 
+model, in which body weight had no clinically meaningful effect on sonidegib exposure. 
+2.3.2.5 Renal impairment 
+None. It is unlikely that renal impairment will have a clinically meaningful effect on sonidegib 
+exposure, since less than 1% of the absorbed radiolabeled dose was eliminated in urine as 
+unchanged sonidegib and the population PK model suggests mild or moderate renal impairment is 
+unlikely to influence sonidegib exposure. The population PK model evaluated creatinine clearance 
+(CLcr) calculated using the Cockcroft-Gault formula as a covariate. Patients with normal renal 
+function (CLcr ≥ 90 mL/min, n=161), as well as patients with mild (CLcr 60 to 89 mL/min, n=129), 
+moderate (CLcr 30 to 59 mL/min, n=60) and severe (CLcr 15 to 29 mL/min, n=1) renal impairment 
+were included in the population analysis. Using the original full population PK model, the results 
+showed that baseline CLcr had no statistically significant effect on sonidegib apparent oral 
+clearance and mild or moderate renal impairment had no effect on sonidegib exposure (Table 10). 
+Furthermore, a radiolabeled dose was not eliminated in bile based on a nonclinical studies 
+conducted in rats (see Section 2.2.5). No additional studies are recommended to evaluate the effect 
+of renal impairment on sonidegib exposure. 
+Reference ID: 3765220
+
+
+===== PAGE 25 =====
+
+NDA 225-206 Sonidegib/Odomzo 
+ 
+Page 24  
+ 
+Table 10. Sonidegib steady-state exposure in cancer patients with mild and moderate renal 
+impairment similar to cancer patients with normal renal function 
+Organ Impairment 
+AUC0-24h (ng*h/mL) 
+Cmax (ng/mL) 
+Moderate: Normal 
+Mild: Normal 
+1.08 (0.62, 1.94) 
+1.10 (0.64, 1.98)  
+1.07 (0.64, 1.84) 
+1.10 (0.65, 1.88) 
+Geometric mean ratio (90% confidence interval) 
+Source: Population Pharmacokinetic Modeling Report, Table 5-11 
+2.3.2.6 Hepatic impairment 
+Sonidegib is eliminated via hepatic route with about 70% of the absorbed dose excreted in fecal 
+matter, so it is possible that sonidegib exposure could increase in patients with hepatic impairment. 
+No dose adjustment is needed for patients with mild hepatic impairment based on the population PK 
+analysis, but it is not known if the dose needs to be reduced for patients with moderate or severe 
+hepatic impairment. A study in non-cancer subjects with normal hepatic function or varying degrees 
+of hepatic impairment: mild, moderate and severe hepatic impairment defined by Child Pugh is 
+ongoing (see Section 1.2.1). FDA will issue a postmarketing requirement (PMR) for the final study 
+report.  
+The original full population PK model suggests that mild hepatic impairment defined by the 
+National Cancer Institute does not affect sonidegib exposure. The geometric mean sonidegib 
+steady-state AUC decreased by 26% (GMR 0.74; 90% CI 0.38, 1.37) and sonidegib steady-state 
+Cmax decreased by 24% (GMR 0.76; 0.42 1.35) in cancer patients with mild hepatic impairment 
+(n=35, total bilirubin ≤ ULN and AST > ULN or total bilirubin 1 to ≤ 1.5 ×ULN and AST any 
+value) compared to cancer patients with normal hepatic function (n=315, total bilirubin ≤ ULN and 
+AST ≤ ULN). It is not clear why sonidegib exposure decreased, but these populations were not 
+balanced in regards to baseline age, albumin or ARA coadministration. Only one patient had 
+moderate hepatic impairment and no patients had severe hepatic impairment.   
+Baseline albumin had a statistically significant impact on apparent oral central volume of 
+distribution (Vc/F) and CL/F, whereas ALT and bilirubin had no effect on CL/F based on the 
+original full population PK model. 
+2.3.2.7 What pregnancy and lactation use information is there in the application? 
+No clinical trials in pregnant or lactating women have been conducted, but sonidegib is 
+embryotoxic, fetotoxic, and teratogenic in animals. It is not known whether sonidegib is excreted in 
+human milk.  
+According to Division of Risk Management review, a Pregnancy Pharmacovigilance Study will be 
+required to collect pregnancy registry data to evaluate pregnancy and infant outcomes following 
+sonidegib exposure as a PMR. 
+2.4 
+EXTRINSIC FACTORS 
+2.4.1 
+What extrinsic factors influence dose-exposure and/or -response and what is the 
+impact of any differences in exposure on response? 
+Coadministration with a strong CYP3A inhibitor and inducer affected sonidegib exposure. 
+Simulations suggest that a moderate CY3A inhibitor or inducer will also affect sonidegib exposure. 
+It is recommended to avoid concomitant administration of strong or moderate CYP3A inhibitors, 
+Reference ID: 3765220
+
+
+===== PAGE 43 =====
+
+NDA 205-266 Sonidegib (Odomzo) 
+ 
+Page 8 
+ 
+Table 1. Incidence of lipase elevation 
+Dose 
+All grades 
+Grade 3 or 4 
+200 mg (N=79) 
+6 (7.6%) 
+5 (6.3%) 
+800 mg (N=150) 
+12 (8.0%) 
+8 (5.3%) 
+Source: Addendum to Module 2.7.4 Summary of Clinical Safety in Advanced Basal Cell Carcinoma: 18-month 
+Analysis 
+Dose Modifications 
+The median duration of treatment was 11.0 months for patients randomized to a dose of 200 mg 
+dose and 6.6 months for patients randomized to a dose of 800 mg based on the 18-month 
+analysis. More patients randomized to a dose of 800 mg required a dose modification (Table 2). 
+The most common reason for dose interruptions was adverse events: 28% for 200 mg dose and 
+51% for 800 mg dose (6-month analysis). The protocol included dose reduction from a 200 mg 
+dose to placebo (such that the drug was withdrawn) for hematologic and non-hematologic 
+serious adverse events. The other reasons for dose interruptions were dosing error, technical 
+problems and dispensing error. 
+Table 2. Dose interruptions and reductions 
+Dose 
+200 mg (N=79) 
+800 mg (N=150) 
+Dose Interruption 
+54 (68%)  
+98 (65%) 
+Dose Reduction 
+13 (16%)  
+53 (35%) 
+Source: Addendum to Module 2.7.4 Summary of Clinical Safety in Advanced Basal Cell Carcinoma: 18-month 
+Analysis 
+1.2.3 What covariates affect the systemic exposure of sonidegib? 
+Based on the Applicant’s population PK analyses, most covariates (e.g., age, sex, race, body 
+weight, hepatic function and renal function) did not have clinically meaningful effect on 
+sonidegib steady-state exposure [AUC or maximal concentrations (Cmax)]. No dose adjustments 
+are needed for age, sex, weight, or organ function; however, usage of an acid-reducing agent 
+(ARA) appears to affect sonidegib steady-state exposure. Since the Applicant is currently 
+conducting a study to determine how to dose sonidegib with an ARA, no recommendations are 
+being made at this time.  
+Population Model 
+The original full population model was described by a two-compartment disposition model with 
+first-order oral absorption, linear elimination and non-linear bioavailability. The dichotomous 
+covariates included in this model were disease status (healthy subject vs. cancer patient), high fat 
+meal, proton pump inhibitor (PPI) and H2-receptor antagonists (H2RA) usage (if more than 80% 
+of the time during PK sampling), sex, and ethnicity. The continuous covariates included in this 
+model were baseline weight, baseline creatinine clearance, baseline normalized ALT levels, 
+baseline normalized albumin levels, baseline age, and planned dose level. Following an FDA 
+information request, the Applicant subsequently redeveloped the population model to find a 
+population model that converges on the data and to reduce the convergent model by backward 
+elimination of covariates. The revised full population model converged with the inclusion of a 
+fixed ALAG1. The reduced final model included age, albumin and disease status as a covariate 
+Reference ID: 3765220
+
+
+===== PAGE 44 =====
+
+NDA 205-266 Sonidegib (Odomzo) 
+ 
+Page 9 
+of apparent oral clearance (CL/F), weight and albumin as a covariate of apparent central volume 
+of distribution (Vc/F) and food, compliance with food restriction with multiple dosing, dose and 
+PPI usage as a covariate of oral bioavailability (F).  
+The original full population model suggested that a high-fat meal and dose have a clinically 
+meaningful effect on F, that disease state (healthy subjects vs. cancer patient) has a clinically 
+meaningful effect on CL/F, and that PPI usage might have a clinically meaningful effect on F; 
+however, no covariates appear to have a significant effect on the estimated steady-state AUC 
+following a dose of 200 mg in patients with cancer (Figure 5). The incorporation of these 
+covariates into the reduced full model decreased the inter-individual variability (IIV) for CL/F 
+from 106% to 67% compared to the base model. The IIV for Vc/F and Ka were similar in the 
+base and reduced full model.  
+ 
+ 
+Figure 5. Fold change of sonidegib steady-state exposure (AUC – left and maximal concentrations – right) relative 
+to reference covariate group for cancer patients randomized to a 200 mg dose based on the original full population 
+model (Source: Population Pharmacokinetic Modeling Report, Figure 5-27 and 5-28). 
+Weight 
+The proposed flat dose of 200 mg once daily is acceptable. The population model suggests that 
+baseline body weight has no clinically meaningful effect on sonidegib exposure (Figure 5). The 
+median weight was 75 kg (min, max: 42, 181) for patients with cancer. 
+Organ Function 
+No dose adjustment is recommended for patients with renal impairment or mild hepatic 
+impairment. The population model included renal function as measured by creatinine clearance 
+(CLcr) calculated using the Cockcroft-Gault formula and hepatic function defined by the 
+National Cancer Institute Organ Dysfunction Working Group (NCI ODWG). The population 
+model included 129 patients with mild (CLcr 60 to 89 mL/min), 60 patients with moderate (CLcr 
+30 to 59 mL/min) and 1 patient with severe (CLcr 15 to 29 mL/min, n=1) renal impairment and 
+Reference ID: 3765220
+
+
+===== PAGE 45 =====
+
+NDA 205-266 Sonidegib (Odomzo) 
+ 
+Page 10 
+35 patients with mild hepatic impairment (total bilirubin ≤ ULN and AST > ULN or total 
+bilirubin 1 to ≤ 1.5 ×ULN and AST any value). Baseline mild or moderate renal impairment or 
+mild hepatic impairment has no effect on the sonidegib steady-state exposure as compared to 
+patients with normal organ function (Table 3). No additional studies are recommended to 
+evaluate the effect of renal impairment on sonidegib exposure. A study to determine an 
+appropriate dose for patients with moderate and severe hepatic impairment is ongoing.  
+Table 3. Sonidegib steady-state exposure in cancer patients with hepatic and renal impairment 
+compared to cancer patients with normal organ function 
+Organ Impairment 
+AUC0-24h (ng*h/mL) 
+Cmax (ng/mL) 
+Renal 
+Moderate: Normal 
+Mild: Normal 
+Hepatic 
+Mild: Normal 
+ 
+1.08 (0.62, 1.94) 
+1.10 (0.64, 1.98)  
+ 
+0.76 (0.42 1.35) 
+ 
+1.07 (0.64, 1.84) 
+1.10 (0.65, 1.88) 
+ 
+0.74 (0.38, 1.37) 
+Geometric mean ratio (90% confidence interval) 
+Source: Population Pharmacokinetic Modeling Report, Table 5-11 
+Acid Reducing Agents (ARA) 
+The available data is insufficient to determine how to dose an ARA with sonidegib. H2RA and 
+PPI were included as two separate dichotomous variables in the original full population model. 
+Fifty-eight patients were taking a PPI and 10 patients were taking an H2RA for more than 80% 
+of the time in which sonidegib PK samples were collected. The original full model suggests that 
+sonidegib steady-state exposure following a 200 mg daily dose is about 34% lower in cancer 
+patients concurrently taking an ARA compared to patients not concurrently taking an ARA 
+(Table 4). The Applicant is currently conducting a study to determine how to dose ARA with 
+sonidegib. 
+Table 4. Sonidegib steady-state exposure in patients taking sonidegib with an acid-reducing 
+agent to patients taking sonidegib without an acid-reducing agent  
+ 
+AUC0-24h (ng*h/mL) 
+Cmax (ng/mL) 
+Geometric Mean 
+ No PPI or H2RA 
+ Yes PPI or H2RA 
+ 
+21067 
+13560 
+ 
+976 
+644 
+Geometric Mean Ratio  
+0.66 
+0.67 
+90% Confidence Interval 
+0.41, 1.09 
+0.43, 1.10 
+Source: Population Pharmacokinetic Modeling Report, Table 5-11, 5-12 
+Ethnicity 
+No dose adjustment appears needed for Japanese patients compared to White patients, since the 
+exposure observed for Japanese subjects at a dose of 200 mg is not likely to exceed the exposure 
+observed at a dose of 800 mg in the registration trial. Japanese subjects constituted about 13% of 
+the population included in the population PK model. Ethnicity appears to have no statistically 
+effect on sonidegib clearance or steady-state exposure, but relatively few Japanese subjects were 
+included in the model compared to Whites. The population model was not likely sensitive 
+enough to detect potential differences in exposure between healthy White subjects and healthy 
+Japanese subjects; however, the Applicant completed a pooled analysis that showed that the Cmax 
+was 1.6-fold (90% CI: 0.98, 2.49) higher and the AUCinf was 1.7-fold (90% CI: 0.98, 2.91) 
+Reference ID: 3765220
+
+
+===== PAGE 46 =====
+
+NDA 205-266 Sonidegib (Odomzo) 
+ 
+Page 11 
+higher for Japanese subjects compared to Western subjects following the administration of a 
+single 200 mg dose. The reasons for the higher exposure at a single 200 mg dose are not known, 
+but differences in baseline body size were noted. The Applicant conducted a covariate analysis 
+that suggested that body size did not influence the observed differences, consistent with the 
+findings from the population PK model, in which body weight had no clinically meaningful 
+effect on sonidegib exposure. 
+1.2.4 Is the proposed dosing regimen acceptable for the accelerated approval?  
+Yes. No E-R relationship was observed for BOR, but the mean probability of grade 3 or 4 CK 
+elevation increased with higher observed sonidegib Cmin. Sonidegib at a dose of 200 mg provided 
+a similar ORR compared to a dose of 800 mg; however, fewer serious adverse events and dose 
+modifications were observed with the 200 mg dose. The duration of response was not evaluable 
+based on the 12-month analysis for the 200 mg dose. Therefore, the proposed starting dose of 
+200 mg once daily is acceptable from a clinical pharmacology perspective. 
+1.3 
+RECOMMENDATIONS 
+The pharmacometric reviewer finds that the NDA 205-266 is acceptable from a clinical 
+pharmacology perspective, provided that a satisfactory agreement is reached between the 
+Applicant and FDA regarding the labeling language.  
+1.4 
+POSTMARKETING REQUIREMENTS OR COMMITMENTS 
+The Office of Clinical Pharmacology will recommend the following two postmarketing requirements. 
+Drug Development Question 
+Rationale 
+PMR 
+Should the dose of sonidegib 
+be reduced in patients with 
+moderate or severe hepatic 
+impairment? 
+ 
+The mass balance study indicates 
+that ~70% of the absorbed dose 
+is eliminated in the feces, 
+indicating that hepatic 
+elimination is the major 
+elimination pathway. Higher 
+sonidegib steady-state exposure 
+is associated with greater 
+probability of developing severe 
+musculoskeletal toxicity. 
+Complete the ongoing pharmacokinetic 
+(PK) trial to determine an appropriate 
+dose of sonidegib in patients with 
+moderate and severe hepatic impairment.  
+Trial Completion: September 2015 
+Final Report Submission: July 2016 
+What is an appropriate dose 
+for patients taking an acid-
+reducing agent (ARA)? 
+A population PK analysis suggests 
+that ARAs reduce mean sonidegib 
+steady-state exposure by 34%. 
+Submit the final study report for the 
+completed PK trial to determine how to 
+dose sonidegib in patients taking an ARA. 
+Final Report Submission: July 2015 
+1.5 
+LABELING STATEMENTS 
+The following table provides a side-by-side comparison of the Applicant’s and FDA’s proposed 
+labeling language. Only sections relevant to this review are provided in the table. 
+ 
+Reference ID: 3765220
+
+
+===== PAGE 48 =====
+
+NDA 205-266 Sonidegib (Odomzo) 
+ 
+Page 13 
+2 
+APPLICANT’S ANALYSES 
+The Applicant performed population PK analyses to characterize sonidegib exposure at steady-
+state in cancer patients and identify significant factors affecting sonidegib steady-state exposure. 
+The original NDA contained a study plan entitled, “Population pharmacokinetics of oral 
+LDE225 in patients with advanced solid tumors and in healthy subjects: Analysis plan for basal 
+cell cancer (BCC) submission” and a study report entitled “Population pharmacokinetics of 
+sonidegib in cancer patients and healthy volunteers Modeling Report”. An addendum entitled, 
+“Full and Reduced Population Pharmacokinetic Models Modeling Report” was submitted on 6 
+February 2015 in response to the FDA clinical pharmacology information request (#11, 21 
+January 2015). 
+The Applicant performed E-R analyses using the available efficacy and safety data. Two 
+separate reports entitled, “Exposure-creatine phosphokinase analysis of sonidegib in patients 
+with advanced solid tumors” and “Exposure-efficacy analysis of sonidegib in patients with 
+advanced basal cell carcinoma” were submitted. An additional report was submitted on 6 
+February 2015 that included E-R analyses using observed sonidegib Cmin at week 17 and 
+simulated average AUC adjusted by dose intensity before the event of best overall response 
+(dose intensity: total dose up to an event divided by time) as a measure of sonidegib exposure in 
+response to the FDA clinical pharmacology information request (#11, 21 January 2015). 
+The key findings from the Applicant’ analyses are summarized below. The grey shaded areas 
+highlight text, tables and figures taken directly from the study plan, reports and responses. 
+2.1 
+POPULATION PHARMACOKINETIC ANALYSIS  
+The primary objectives of the population analysis were to determine a structural PK model in 
+cancer patients and healthy volunteers following sonidegib administration, quantify the 
+variability in the PK of sonidegib and characterize the effects of covariates on the PK of 
+sonidegib. 
+2.1.1 Datasets  
+This analysis included data from 5 trials: CLDE225A2201, CLDE225X2101, CLDE225X1101, 
+CLDE225A2114, and CLDE225A1102. Only the Japanese subjects in Study X1101 and only 
+subjects receiving the capsule formulation in Study A2114 were included. The study design, 
+study population, and timing of blood samples are summarized in Table 5. 
+Reference ID: 3765220
+
+
+===== PAGE 62 =====
+
+NDA 205-266 Sonidegib (Odomzo) 
+ 
+Page 27 
+accordance with World Health Organization (WHO) criteria. 
+• For m(metastatic)BCC patients: RECIST 1.1 based on CT or MRI scans (and/or color 
+photography for skin lesions, if any). 
+For the analyses, W(week)5 Cmin was used as the explanatory variable. W5 was chosen as the 
+measure of exposure for the analyses because this corresponds to the timing of the first efficacy 
+assessment, and the exposure level is expected to be approximately 70% of the steady state 
+exposure. Later timepoints closer to or at steady state (e.g. W9, W17) were not chosen for the 
+primary analyses due to the concern that non-responders may have discontinued at this time, and 
+some of the responders may have attained a response prior to the respective Cmin collection, 
+biasing the analyses. However, the correlation was assessed between W5 and W9, and W5 and 
+W17 Cmin to evaluate if the measure of exposure used for the model based analyses is predictive 
+of the exposure at later timepoints, justifying the use of W5 Cmin for the analyses. The PK dataset 
+used for the analyses contained W5 Cmin and (if available) W9 and W17 Cmin for each patient. 
+Logistic regression of occurrence of CR or PR vs. W5 Cmin for all patients and for each level of 
+any identified subgroup was used for this analysis. The assumptions of this model are that the 
+W5 Cmin exposure is predictive of the occurrence of a CR or PR on or after the W5 Cmin is 
+collected, regardless of how long after W5 the CR/PR occurs. 
+The FAS (Full Analysis Set; defined in CLDE225A2201 RAP M3) includes all patients who are 
+assigned study treatment (regardless of receiving the treatment). The PK/FAS includes all 
+patients included in the CLDE225A2201 FAS with a Week 5 (W5) evaluable trough 
+concentration (Cmin). A concentration is evaluable if the patient took the same sonidegib dose for 
+at least 15 consecutive days prior to the PK sample, did not vomit within 4 hours of drug 
+administration on the day prior to the PK sample, and the concentration is not flagged via the 
+concentration exclusion flags. If available, evaluable W9 and/or W17 Cmin were also to be used 
+for the analyses in case the correlation coefficient between W9 and W5 Cmin or W17 and W5 
+Cmin was less than 0.7, but were not required for a patient to be included in this analysis set.  
+The Applicant completed additional analyses following FDA information request. Exposure-
+response analysis by logistic regression modeling in patients with advanced basal cell carcinoma 
+for probability of best overall response (BOR) being CR or PR (responders) using sonidegib 
+minimal concentrations (Cmin) measured at Week 17 (W17) as well as using simulated average 
+AUC derived from the individual patient posthoc clearances which were derived from the 
+reduced and converged population PK model after backward elimination (run16). 
+Simulated average AUC was calculated using the DI (dose intensity) divided by the individual 
+post-hoc clearance (CL) from the pop PK model, i.e.: 
+Simulated average AUC (ng*hr/mL per day) = (DI (mg/day) / CL (L/hr))*1,000,000 (ng/mg)*0.001 (L/mL) 
+For this analysis, the DI period considered was: 
+• For responders with first CR/PR assessed while on treatment, from first dose to the first 
+CR/PR. 
+• For responders with first CR/PR assessed after treatment discontinuation and for 
+nonresponders, from the first dose to the minimum of (cutoff date, last dose date), i.e. the 
+entire duration while they are on treatment. 
+DI for patients with non-zero DI period was calculated as follows:  
+Reference ID: 3765220
+
+
+===== PAGE 66 =====
+
+NDA 205-266 Sonidegib (Odomzo) 
+ 
+Page 31 
+41.8% (30.8, 53.4%) for 200 mg and 32.5% (25.1, 40.5%) for 800 mg based on FAS. The 
+logistic regression analysis of objective response (CR or PR) vs. W5 Cmin…did not show a 
+relationship between exposure and efficacy. This indicates a robust response rate across the 
+observed levels of exposure. The logistic regression results using exposure from W17 Cmin and 
+simulated average AUC have shown no relationship between exposure and efficacy. These 
+results are consistent with the conclusion of robust and comparable response rates across the 
+observed range of exposure based on several pharmacokinetic metrics, and with the similar 
+overall response rate between sonidegib doses of 200 mg qd and 800 mg qd in Study A2201.  
+Given the similar efficacy of sonidegib 200 mg qd and 800 mg qd and the lack of exposure 
+efficacy relationship resulting from these two doses (i.e. robust efficacy across the exposure), 
+and an association of higher risk of a grade 3 or 4 CK elevation with higher sonidegib exposure, 
+200 mg qd is the recommended dose for the treatment of advanced BCC. 
+Reviewer’s Comment: The Applicant’s analyses and interpretations are acceptable.  
+2 
+REVIEWER’S ANALYSES 
+3.1 INTRODUCTION 
+The Applicant conducted a population PK analysis that produced a full model that did not 
+converge and that was overparameterized. An information request (#11, 21 January 2015) was 
+sent to the Applicant to provide a population PK model of successful convergence, which can be 
+potentially achieved by using a simplified error structure, for the assessment of covariate effects 
+on drug exposure. Alternatively, the Applicant could use a stepwise approach including 
+procedures of forward selection and backward elimination for the development of a final 
+population PK model.  
+The Applicant also conducted exploratory E-R analyses between the observed sonidegib 
+minimal concentrations measured at week 5 and the primary endpoint of ORR in the registration 
+trial and the development of grade 3 or 4 CK elevation in the safety dataset. An information 
+request (#11, 21 January 2015) was sent to the Applicant to provide similar analyses for 
+probability of best overall response using week 17 minimal concentrations and simulated 
+average AUC adjusted by dose intensity before the event of best overall response (dose intensity: 
+total dose up to an event divided by time). 
+3.2 OBJECTIVES 
+The objectives of the reviewer’s analyses were: 
+• To explore the E-R relationships for the primary endpoint of ORR at two different time 
+points in the registration trial for the proposed patient population;  
+• To explore E-R relationships for grade 3 or 4 CK elevation in the safety population; and  
+• To evaluate the population PK model for successful convergence. 
+3.3 
+METHODS 
+Exposure-Safety Relationships 
+E-R analyses were conducted, using the observed sonidegib Cmin measured on Week 5 as a 
+measure of sonidegib systemic exposure, to determine the mean probability of grade 3 or 4 CK 
+elevation in 310 patients enrolled into Study A2201 (n=218), X2101 (n=73) and X1101 (n=19). 
+Reference ID: 3765220
+
+
+===== PAGE 70 =====
+
+OCP PBPK Review_NDA205266 Sonidegib DDI 
+ 
+ 
+                                             PBPK Review Page - 2 
+ 
+ 
+Physiological-based Pharmacokinetic Modeling Review .................................................................... 1 
+1. 
+Objectives .......................................................................................................................................... 4 
+2. 
+Background ...................................................................................................................................... 4 
+2.1. 
+Regulatory History on PBPK Submission ................................................................................ 4 
+3. 
+Methods ............................................................................................................................................ 5 
+3.1. 
+Model Development .................................................................................................................. 5 
+3.2. 
+Model Application .................................................................................................................... 6 
+Table 1. Simulation study design for drug-drug interaction scenarios with sonidegib as CYP3A 
+substrate ............................................................................................................................................ 6 
+3.3. 
+Modeling of Oral Absorption of Sonidegib .............................................................................. 6 
+4. 
+Results............................................................................................................................................... 7 
+4.1. 
+Can the Sonidegib PBPK Model Predict the Effect of CYP3A Modulation on Sonidegib 
+Exposure in Healthy Subjects? ............................................................................................................. 7 
+Table 2. Comparison of observed and PBPK simulated PK parameters of sonidegib (800 mg 
+single oral dose) in the presence or absence of ketoconazole or rifampin in healthy subjects ......... 7 
+4.2. 
+Can the PBPK Predictions be Used to Support Dose Recommendations of Sonidegib in 
+Cancer Patients Concomitantly Taking a CYP3A Modulator? ............................................................. 7 
+Table 3. PBPK predicted geometric mean ratios (AUC and Cmax) of sonidegib using models for 
+healthy subjects and cancer patients. ................................................................................................ 8 
+4.3. 
+What Are the Effects of CYP3A Inhibitors on Steady State Sonidegib in Cancer Patients? .... 8 
+4.4. 
+What Are the Effects of CYP3A Inducers on Steady State Sonidegib in Cancer Patients? ... 10 
+4.5. 
+Additional Modeling and Simulations to Evaluate Sonidegib Oral Absorption ..................... 10 
+Table 4. PBPK predicted and observed AUC and Cmax of sonidegib in healthy subjects using 
+ADAM model for healthy subjects ................................................................................................. 12 
+5. 
+Conclusion ...................................................................................................................................... 12 
+6. 
+Appendices ...................................................................................................................................... 13 
+Reference ID: 3765220
+
+
+===== PAGE 72 =====
+
+OCP PBPK Review_NDA205266 Sonidegib DDI 
+ 
+ 
+                                             PBPK Review Page - 4 
+ 
+ 
+References ....................................................................................................................................... 23 
+ 
+1. Objectives 
+The main objectives of this review are to 1) evaluate the adequacy of sponsor’s conclusions regarding the 
+ability of a physiologically-based pharmacokinetic (PBPK) model to predict the drug-drug interaction 
+(DDI) potential of sonidegib as a victim of the CYP3A metabolic pathway, and 2) understand factors that 
+impact sonidegib oral absorption using PBPK.   
+To support its conclusions the sponsor provided the following PBPK modeling and simulation reports and 
+updates:  
+1. Simcyp predictions of the interaction of sonidegib with ketoconazole or rifampin [1] 
+2. Response to FDA Information Request 1 (Clinical Pharmacology) received 07-Nov-2014 [2] 
+3. Simcyp predictions of the interaction of sonidegib with erythromycin, rifampin, or efavirenz 
+using the cancer patient Simcyp model for sonidegib [3] 
+2. Background 
+2.1. Regulatory History on PBPK Submission 
+Smoothened (Smo) is a G protein-coupled receptor-like molecule that positively regulates Hedgehog (Hh) 
+signal transduction pathway.  Sonidegib (LDE225) is a potent, selective, and orally bioavailable small 
+molecule inhibitor of the Hh signaling pathway, which acts by binding to Smo.  The intended dosing 
+regimen for sonidegib is 200 mg once daily (q.d.) [4]. 
+A PBPK model of sonidegib was developed by the sponsor to simulate the drug-drug interaction (DDI) 
+trials of sonidegib, given a single 800 mg dose on day 5, with multiple dosing of cytochrome P450 (CYP) 
+3A modulators in healthy subjects [5].  The modulators used were a strong CYP3A inhibitor ketoconazole 
+200 mg twice daily, b.i.d., or a strong CYP3A inducer rifampin 600 mg q.d. for 14 days.   The predicted 
+DDI magnitude of sonidegib (800 mg dose) was similar to the observed magnitude in the presence of 
+ketoconazole (e.g., predicted vs observed fold increase in sonidegib area under the curve (AUC) 2.4 vs 
+2.3, respectively) or rifampin (e.g., predicted vs observed percent decrease of sonidegib AUC 66% vs 
+72%, respectively) [5].  Sponsor conducted additional simulations to predict the same DDI magnitude of 
+sonidegib when the drug is dosed at clinical dose of 200 mg in healthy subjects.  Therefore, sponsor 
+stated that DDI study A2108 [5] was “expected to provide adequate information on the need for dose 
+adjustment in patients concomitantly taking strong CYP3A inhibitors or inducers with the recommended 
+dose of 200 mg”, and administration of sonidegib with agents that are strong CYP3A4 inhibitors or strong 
+CYP3A inducers should be avoided.   
+On Nov 7, 2014, the FDA requested sponsor to consider PK difference between healthy subjects and 
+cancer patients in their PBPK modeling and to simulate the effect of ketoconazole on steady state 
+sonidegib exposure when sonidegib is administered at 200 mg q.d. or 200 mg once every other day 
+(q.o.d.) in cancer patients (11072014IR, Appendix 6.2.1).  On March 6, 2015, a second PBPK 
+information request was sent to the sponsor to conduct additional simulations of untested DDI scenarios 
+(03062015IR, Appendix 6.2.2).  Sponsor submitted model files and response to these information 
+requests on Nov 19, 2014 [2] and March 13, 2015 [3], respectively. 
+Reference ID: 3765220
+
+
+===== PAGE 73 =====
+
+OCP PBPK Review_NDA205266 Sonidegib DDI 
+ 
+ 
+                                             PBPK Review Page - 5 
+ 
+ 
+This review evaluates the adequacy of sponsor’s sonidegib PBPK model to predict the effect of CYP3A 
+modulators on steady state PK of sonidegib.  Additional modeling and simulations were conducted to 
+understand the factors that impact sonidegib oral absorption, which may significantly contribute to high 
+intersubject variability in sonidegib exposure in cancer patients.   
+3. Methods 
+3.1. Model Development 
+A population based PBPK software Simcyp® (V13, release 1, release 2, or V14 release 1, Sheffield, UK) 
+[6,7] was used by the sponsor to develop a PBPK model for sonidegib.  Parameters and their sources for 
+sonidegib are summarized in Appendix Tables 1 -3.  Unless otherwise stated, all simulations were 
+conducted in Software’s built-in “Sim-Healthy volunteer” population and ten trials of 10 subjects were 
+simulated for each dosing regimen (age range 20-50 years, female ratio 0.5).   
+Perpetrator models for ketoconazole “Sim-Ketoconazole 200 mg BID.cmp” and rifampin “Sim-
+Rifampicin.cmp” from the software’s drug model library (v13.1) were directly used in original PBPK 
+report [1].  Models for ketoconazole “Sim-Ketoconazole 200 mg BID.cmp” (V13.1), erythromycin “Sim-
+Erythromycin.cmp” (V13.2), and efavirenz “Sim-Efavirenz.cmp” (V14.1) were directly used in additional 
+simulations in cancer patients [2,3].  To simulate the effect of rifampin on sonidegib PK in cancer patients 
+[3], sponsor used both the default rifampin model “Sim-rifampicin.cmp” (V13.2, with CYP3A maximal 
+induction effect Ind,max=8) and a modified model with a higher Ind,max of 16, which was requested by the 
+FDA in 03062015IR (Section 6.2.2).  Simulated sonidegib PK parameters across different software 
+versions under the same condition are consistent (data not shown). 
+Simulations were conducted for the following clinical trials: 
+Study X2101: Dose-escalation study of oral sonidegib in patients with advanced solid tumors (200 and 
+800 mg single and multiple doses) [8] 
+Study A2114: Relative bioavailability study and effect of food in healthy subjects (fasted data from 200 
+and 800 mg single doses of CSF formulation) [9] 
+Study A2110: Radiolabeled human mass balance study in healthy subjects (800 mg single oral dose) [10] 
+Study A2108: Clinical drug-drug interaction studies of the effect of strong CYP3A inhibitor or inducer 
+(ketoconazole and rifampin) on single oral dose of 800 mg sonidegib [5].  
+Of note, study A2108 is considered an independent verification data set, because the effect of CYP 
+modulators was not considered during model development process.  In the model, value of fractional 
+metabolism by CYP3A (fm,CYP3A) was set at 0.75 according to human mass balance study and in vitro 
+CYP phenotyping study (% hepatic clearance, CL, Appendix Table 2).  Results from mass balance study 
+show that sonidegib is primarily metabolized in humans, with 25% of metabolism via amide hydrolysis 
+(non CYP pathway) [1, 10].  In human liver microsomes, CYP3A inhibitor ketoconazole or azamulin 
+inhibited total sonidegib metabolism to 89-96% [1].   
+In response to FDA’s 11072014IR [2], sponsor refined the PBPK model (referred below as PBPK model 
+for healthy subjects) by reducing hepatic intrinsic clearance (CLint) without changing the contribution of 
+CYP3A (Appendix Table 2, second values of CLint,CYP3A4 and liver microsomal CLint) to account for 
+lower apparent clearance of sonidegib observed in cancer patients (referred below as PBPK model for 
+patients). 
+Reference ID: 3765220
+
+
+===== PAGE 74 =====
+
+OCP PBPK Review_NDA205266 Sonidegib DDI 
+ 
+ 
+                                             PBPK Review Page - 6 
+ 
+ 
+3.2. Model Application 
+Sponsor used sonidegib models to predict the effect of CYP3A modulators for scenarios that have not 
+been tested through clinical trials (Table 1). 
+Table 1. Simulation study design for drug-drug interaction scenarios with sonidegib as 
+CYP3A substrate 
+Simulation 
+Modulator name (type) 
+Sonidegib dosing 
+Modulator dosing 
+Reference 
+Model for healthy subjects 
+1 
+Ketoconazole (strong inhibitor) 
+200 mg single dose on day 5 
+200 mg b.i.d. for 14 days 
+[1] 
+2 
+Rifampin (strong inducer) 
+200 mg single dose on day 5 
+600 mg q.d. for 14 days 
+[1] 
+Model for patients 
+3 
+Ketoconazole (strong inhibitor) 
+800 mg single dose on day 5 
+200 mg b.i.d. for 14 days 
+[2] 
+4 
+Rifampin (strong inducer) 
+800 mg single dose on day 5 
+600 mg q.d. for 14 days 
+[2] 
+5 
+Ketoconazole (strong inhibitor) 
+200 mg q.d., 120 days 
+200 mg q.d., 120 days 
+[2] 
+6 
+Ketoconazole (strong inhibitor) 
+200 mg q.o.d., 120 days 
+200 mg q.d., 120 days 
+[2] 
+7 
+Ketoconazole (strong inhibitor) 
+200 mg q.d., 133 days 
+200 mg q.d., 14 days, starting on day 120 
+[2] 
+8 
+Ketoconazole (strong inhibitor) 
+200 mg q.o.d., 133 days 
+200 mg q.d., 14 days, starting on day 120 
+[2] 
+9 
+Erythromycin (moderate inhibitor) a 
+200 mg single dose on day 5 
+500 mg four times a day (q.i.d.) for 14 days 
+[3] 
+10 
+Erythromycin (moderate inhibitor) a 
+200 mg q.d., 120 days 
+500 mg q.i.d. for 120 days 
+[3] 
+11 
+Erythromycin (moderate inhibitor) a 
+200 mg q.d., 133 days 
+500 mg q.i.d., 14 days, starting on day 120 
+[3] 
+12 
+Rifampin (strong CYP3A inducer) a,b 
+200 mg single dose on day 5 
+600 mg q.d. for 14 days 
+[3] 
+13 
+Rifampin (strong CYP3A inducer) a,b 
+200 mg q.d., 120 days 
+600 mg q.d. for 120 days 
+[3] 
+14 
+Efavirenz (moderate CYP3A inducer) c 
+200 mg single dose on day 5 
+600 mg q.d. for 14 days 
+[3] 
+15 
+Efavirenz (moderate CYP3A inducer) c 
+200 mg q.d., 120 days 
+600 mg q.d. for 120 days 
+[3] 
+16 
+Efavirenz (moderate CYP3A inducer) c 
+200 mg q.d., 133 days 
+600 mg q.d., 14 days, starting on day 120 
+[3] 
+a. Simcyp version 13 release 2. 
+b. Simulations using induction of CYP3A4 Ind,max of 8 (default) and 16 (updated in Simcyp version 14) for rifampin were separately conducted 
+c. Simcyp Version 14.1 (Appendix Table 3) 
+3.3. Modeling of Oral Absorption of Sonidegib 
+Sponsor’s PBPK models assumed first-order absorption for sonidegib (Appendix Table 2).  The FDA 
+reviewer expanded the model for healthy subjects by using the software’s “Advanced Dissolution, 
+Absorption, and Metabolism (ADAM)” model (version 13.2). Input parameters describing various 
+processes responsible for oral absorption are summarized in Appendix Table 3, including an intrinsic 
+water solubility of
+ mg/mL [11].  The following scenarios were explored using this “ADAM model 
+for healthy subjects”: 
+1. Single oral dose of sonidegib at 200, 800, or 1200 mg in fasted healthy subjects.  
+Reference ID: 3765220
+(b) (4)
+
+
+===== PAGE 75 =====
+
+OCP PBPK Review_NDA205266 Sonidegib DDI 
+ 
+ 
+                                             PBPK Review Page - 7 
+ 
+ 
+2. Single oral dose of sonidegib at 800 mg in fed healthy subjects. Software’s “Sim-Healthy Volunteers” 
+population model under “fed” condition was used.  Gastric emptying time of 1 hour (default, vs 0.5 hr 
+under fasted) and 4 hours were simulated.   
+The simulation duration was 2106 hours (84 days) or 336 hours (14 days). 
+4. Results 
+4.1. Can the Sonidegib PBPK Model Predict the Effect of CYP3A Modulation on Sonidegib 
+Exposure in Healthy Subjects? 
+Yes. Two factors are critical for a substrate PBPK model to predict the effect of CYP inhibition or 
+induction on its PK: quantitative determination of the contribution of the CYP pathway that is modulated 
+by co-medication (e.g., assumption of fm,CYP3A for sonidegib) and capability of the model to predict the PK 
+profile under different dosing regimens.  
+In sonidegib PBPK model, organ intrinsic clearance was optimized using single dose sonidegib PK data 
+in healthy subjects (Retrograde analysis, Appendix Table 2).  The model reasonably describes the 
+observed PK profiles of a single dose of sonidegib in healthy subjects (Appendix Figure 1, Study A2114, 
+A2108 (control arm of the DDI trial)).  The simulated mean PK profile for a single 800 mg dose of 
+sonidegib appears to over-predict the observed data in mass balance study in healthy subjects (Study 
+A2110).  The observed differences in sonidegib PK between A2110 and other studies in healthy subjects 
+were due to differences in capsule formulations [4].   
+The fm,CYP3A in the sonidegib PBPK model is 0.75 (Appendix Table 2).  This is verified by clinical DDI 
+data using ketoconazole (a strong CYP3A inhibitor) and rifampin (a strong CYP3A inducer) [5].  The 
+PBPK model reasonably predicts mean AUC ratio (AUCR) and maximal concentration (Cmax) ratio 
+(CmaxR) by ketoconazole and rifampin (Table 2).   
+Table 2. Comparison of observed and PBPK simulated PK parameters of sonidegib (800 
+mg single oral dose) in the presence or absence of ketoconazole or rifampin in healthy 
+subjects 
+ 
+Sonidegib alone 
+Sonidegib with 
+ketoconazole 
+Sonidegib with rifampin 
+Geometric mean values  
+Observed 
+Simulated 
+Observed 
+Simulated 
+Observed 
+Simulated 
+AUC 0-240hr (ng/ml h) 
+5620 
+5863 
+12700 
+13827 
+1550 
+1982 
+Cmax (ng/mL) 
+212 
+239 
+316 
+356 
+98 
+136 
+AUCR (90% confidence interval) 
+NA 
+NA 
+2.25  
+(1.78, 2.86) 
+2.37  
+(2.26, 2.50) 
+0.28  
+(0.22, 0.35) 
+0.34  
+(0.32, 0.37) 
+CmaxR (90% confidence interval) 
+NA 
+NA 
+1.49  
+(1.11, 1.99) 
+1.49  
+(1.45, 1.53) 
+0.46  
+(0.35, 0.61) 
+0.57  
+(0.54, 0.60) 
+NA, not applicable.  Source: Table 6-4 of [1].  Observed and PBPK simulated PK profiles can be found in Appendix Figure 2 
+4.2. Can the PBPK Predictions be Used to Support Dose Recommendations of Sonidegib in 
+Cancer Patients Concomitantly Taking a CYP3A Modulator? 
+Yes.  Both the PBPK model for healthy subjects and the PBPK model for cancer patients are considered 
+adequate in predicting the effect of CYP3A modulators on sonidegib PK. 
+The simulated PK profiles using the PBPK model for healthy subjects tend to under predict the observed 
+data in cancer patients, especially after multiple dosing (Appendix Figures 1 and 3, with observed data 
+Reference ID: 3765220
+
+
+===== PAGE 76 =====
+
+OCP PBPK Review_NDA205266 Sonidegib DDI 
+ 
+ 
+                                             PBPK Review Page - 8 
+ 
+ 
+in patients from Study X2101 in Appendix Figure 3).   Simulations using the PBPK model for cancer 
+patients better predicted the observed data in cancer patients (Appendix Figures 4-5).     
+The PBPK model for cancer patients was modified by reducing total hepatic CL (Methods and Appendix 
+Table 2).  As shown in Table 3, the predicted DDI magnitudes using the model for cancer patients are 
+smaller than the predictions using the PBPK model for healthy subjects.   
+Table 3. PBPK predicted geometric mean ratios (AUC and Cmax) of sonidegib using models 
+for healthy subjects and cancer patients.  
+ 
+Sonidegib with ketoconazole 
+Sonidegib with rifampin 
+ 
+Model for healthy 
+subjectsa 
+Model for cancer 
+patientsa 
+Model for healthy 
+subjectsa 
+Model for cancer 
+patientsa 
+Geometric AUCR 
+2.37 
+1.85 b 
+0.34 
+0.41 b 
+Geometric CmaxR 
+1.49 
+1.29 b 
+0.57 
+0.67 b 
+a See Methods and Appendix Table 2.  b Simulation number 3 and 4, Table 1. Source: ref [2] 
+Of note, alternative model structures for patients could also account for the observed sonidegib PK 
+differences between healthy subjects and cancer patients.  One alternative is the model with increased 
+fraction absorbed (fa) in patients without a decrease in hepatic CL. Sonidegib PK is sensitive to fa.  Both 
+formulation and food intake can significantly affect sonidegib exposure [4] (More discussion in 4.5 
+below).  Difference in fa between patients and healthy subjects may exist.  However, ascribing PK 
+differences between healthy subjects and patients to hepatic CL appears plausible.  If volume of 
+distribution does not differ between healthy subjects and cancer patients, a decreased hepatic CL in cancer 
+patients results in increased elimination half-life.  In healthy subjects, elimination half-life was 
+approximately 10-days [9], whereas elimination half-life in cancer patients was estimated to be 28 days 
+(see Question based review document).   
+4.3. What Are the Effects of CYP3A Inhibitors on Steady State Sonidegib in Cancer Patients? 
+Sponsor used the PBPK model for cancer patients to predict the effect of a strong or a moderate CYP3A 
+inhibitor (ketoconazole and erythromycin, respectively) on steady state exposure of sonidegib (Simulation 
+#5-11, Table 1).   
+Under the condition that sonidegib (200 mg q.d.) and ketoconazole (200 mg b.i.d.) are co-administered 
+chronically (119 days, Figure 1), the predicted mean steady state sonidegib Cmax and AUC (0-24 hour) 
+are 3.0 and 3.5-fold higher, respectively, than those for sonidegib alone.  When sonidegib is dosed less 
+frequently (200 mg q.o.d.), the predicted mean steady state sonidegib Cmax and AUC (0-48 hour) are 2.6- 
+and 3.5-fold higher, respectively, than those for sonidegib q.o.d. alone.  The predicted mean steady-state 
+Cmax and AUC (0-48 hours) values for 200 mg q.o.d. sonidegib and 200 mg b.i.d. ketoconazole are 
+approximately 70% higher than those for 200 mg q.d. sonidegib alone (Ratios of 1.67 and 1.74 for Cmax 
+and AUC, respectively, reviewer’s calculation on file1). 
+ 
+                                                           
+ 
+1 AUC (0-48 hours) was calculated for 200 mg q.d. sonidegib alone by multiplying AUC (0-24 hours) by 2. 
+Reference ID: 3765220
+
+
+===== PAGE 77 =====
+
+OCP PBPK Review_NDA205266 Sonidegib DDI 
+ 
+ 
+                                             PBPK Review Page - 9 
+ 
+ 
+Figure 1. PBPK simulation of the effect of chronic use of ketoconazole on steady-state sonidegib 
+exposure. 
+ 
+Under the condition that ketoconazole is introduced for a shorter duration (14-days, starting on day 120) 
+when sonidegib has reached steady state after 200 mg q.d. (total 133 days), the predicted mean steady 
+state sonidegib Cmax and AUC (0-24 hour) on day 133 are 1.8- and 2.0-fold higher, respectively, than 
+those for sonidegib alone.  When sonidegib is dosed less frequently (200 mg q.o.d. for 133 days), the 
+predicted mean steady state sonidegib Cmax and AUC (0-48 hour) are 1.6- and 1.9-fold higher, 
+respectively, than those for sonidegib alone.  The predicted mean steady-state sonidegib Cmax and AUC 
+(0-48 hours) values for 200 mg q.o.d. sonidegib coadministered with 200 mg b.i.d. ketoconazole were 
+similar to those for 200 mg q.d. sonidegib alone (Ratio of 1.02 and 0.94 Cmax and AUC, respectively, 
+reviewer’s calculation on file). 
+Figure 2. PBPK simulation of the effect of short-term ketoconazole on steady state sonidegib 
+exposure. 
+ 
+Under the condition that sonidegib (200 mg q.d.) and erythromycin (500 mg four times a day, q.i.d.) are 
+co-administered chronically (119 days), the predicted mean steady state sonidegib Cmax and AUC (0-24 
+hour) are 2.4- and 2.8-fold higher, respectively, than those for sonidegib alone.  Under the condition that 
+erythromycin is introduced for a shorter duration (14-days, starting on day 120) when sonidegib has 
+reached steady state after 200 mg q.d. (total 133 days), the predicted mean steady state sonidegib Cmax and 
+AUC (0-24 hour) on day 133 are 1.6- and 1.8-fold higher, respectively, than those for sonidegib alone 
+(Trials 2-3, Appendix Table 4). 
+Reference ID: 3765220
+
+
+===== PAGE 78 =====
+
+OCP PBPK Review_NDA205266 Sonidegib DDI 
+ 
+ 
+                                             PBPK Review Page - 10 
+ 
+ 
+4.4. What Are the Effects of CYP3A Inducers on Steady State Sonidegib in Cancer Patients? 
+Sponsor used the PBPK model for cancer patients to predict the effect of a strong or a moderate CYP3A 
+inducers (rifampin or efavirenz, respectively) on steady-state exposure of sonidegib in patients taking 
+sonidegib 200 mg q.d. (Simulation numbers #12-16, Table 1).   
+Under the condition that sonidegib and rifampin (600 mg q.d.) are co-administered chronically (119 
+days), the predicted mean steady state sonidegib Cmax and AUC (0-24 hour) are 64% and 74% lower (Cmax 
+and AUC ratios of 0.36 and 0.26), respectively, than those for sonidegib alone (Trial 5, Appendix Table 
+4).  To address the concern of potential under prediction of the effect of rifampin using default rifampin 
+model, Xu et al proposed the use of a higher CYP3A Ind,max (11.5, versus the default value of 8) in 
+rifampin model [15].  The FDA reviewer also requested sponsor to simulate the effect of rifampin on 
+sonidegib PK using a rifampin model with a 2-fold higher Ind,max of 16, a value suggested recently by the 
+software provider, to explore the “worst case scenario”.  The predicted Cmax and AUC ratios using 
+rifampin model with 2-fold higher Ind,max are 0.20 and 0.12, respectively (Trial 7, Appendix Table 4).  
+Additional research may be needed to optimize Ind,max of default rifampin model in SimCYP V13.2. 
+Under the condition that sonidegib and efavirenz (600 mg q.d.) are co-administered chronically (119 
+days), the predicted mean steady state sonidegib Cmax and AUC (0-24 hour) are 60% and 69% lower (Cmax 
+and AUC ratios of 0.40 and 0.31), respectively, than those for sonidegib alone (Trial 9, Appendix Table 
+4).  Under the condition that efavirenz is introduced for a shorter duration (14-days, starting on day 120) 
+when sonidegib has reached steady state after 200 mg q.d. (total 133 days), the predicted mean steady 
+state sonidegib Cmax and AUC (0-24 hour) are 49% and 56% lower (Cmax and AUC ratios of 0.51 and 
+0.44), respectively, than those for sonidegib alone (Trial 10, Appendix Table 4).   
+4.5. Additional Modeling and Simulations to Evaluate Sonidegib Oral Absorption 
+The observed sonidegib plasma concentrations in cancer patients at steady state are highly variable 
+(Appendix Figure 6, [16]).  
+ oral absorption 
+ may be 
+significantly influenced by factors including formulation, changes in gastrointestinal physiology, and food 
+intake.  In healthy subjects taking a single dose of sonidegib under fasted condition, sonidegib exposure 
+increased less than dose proportional (Appendix Table 5, [9]).  At single dose of 800 mg, sonidegib 
+exposure in healthy subjects taking a high fat meal was approximately 7-fold higher than that in subjects 
+under fasting condition [9].   
+To gain insight into the effect of low solubility and moderate permeability on oral drug absorption of 
+sonidegib in humans, the FDA reviewer expanded sponsor’s PBPK model for healthy subjects by 
+considering mechanistic oral drug absorption processes (Software V13.2, ADAM parameters in 
+Appendix Table 3).  The mechanistic absorption model included a relatively low aqueous solubility 
+(intrinsic solubility of 
+ mg/mL, [11]).  Permeability parameters and other software default ADAM 
+parameters were kept the same.   
+The reviewer used the PBPK model with mechanistic absorption (ADAM model for healthy subjects) to 
+simulate single dose sonidegib PK in healthy subjects according to Study 2114 [9].  Table 4 shows that 
+the ADAM model for healthy subjects predicts nonlinear PK of sonidegib from 200 mg to 1200 mg.  
+ 
+  Using the ADAM model for healthy 
+subjects, the predicted mean apparent fa values are 0.3, 0.13, and 0.10 for 200 mg, 800 mg, and 1200 mg, 
+respectively.  The values for 200 mg and 800 mg are comparable to those used by sponsor assuming first 
+order absorption (Appendix Table 2). Limited sensitivity analyses were conducted.  The model appears 
+to be sensitive to apparent permeability and precipitation rate constant across the three single doses.  The 
+Reference ID: 3765220
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 79 =====
+
+OCP PBPK Review_NDA205266 Sonidegib DDI 
+ 
+ 
+                                             PBPK Review Page - 11 
+ 
+ 
+model does not seem to be sensitive to super-saturation ratio or particle radius (data not shown).  
+Therefore, the set of ADAM parameters in Appendix Table 3 appears to be reasonable in describing the 
+dose-dependent oral absorption of sonidegib, and sonidegib PK is considered to be sensitive to fa. 
+The reviewer used the ADAM model for healthy subjects to simulate effect of food on sonidegib 
+exposure (Table 4).  Two virtual healthy volunteer populations under fed conditions were tested.  The 
+difference between the two populations was gastric emptying time.  One simulation used 1 hour gastric 
+emptying time (default, Sim (1) in Table 4) and the other simulation used a 4-hour gastric emptying time 
+to approximate physiology under a high fat meal2 (Sim (2) in Table 4).  Other parameters remain the 
+same.  When gastric emptying time increases from fasted condition (0.4 hour) to 1 hour and to 4 hours, 
+the predicted magnitudes of exposure increase from fasted condition are 2.7 and 3.6-fold for Sim (1) and 
+Sim (2), respectively; whereas the observed increase was 6.9-fold [9] (ratios calculated using AUC 85d 
+data in Table 4).   The predicted time to reach Cmax (Tmax) increases from 1.1 (fasted) to 1.9 (Sim (1)) and 
+7.0 (Sim (2)) hours; whereas the observed Tmax values are 2.1 and 5.0 for fasted and fed conditions, 
+respectively (Table 4).  
+The additional simulations using the ADAM model for healthy subjects suggest that oral absorption of 
+sonidegib may be highly sensitive to changes in gastrointestinal physiology caused by food intake, 
+ 
+  Given the short review timeline and 
+the lack of established confidence in using PBPK to quantitatively predict formulation effect or food 
+effect, the reviewer did not further optimize mechanistic absorption model of sonidegib.  These additional 
+analyses of the factors affecting oral absorption of sonidegib should be considered exploratory. 
+                                                           
+ 
+2 Personal communications with Dr. Christian Wagner 
+Reference ID: 3765220
+(b) (4)
+
+
+===== PAGE 80 =====
+
+OCP PBPK Review_NDA205266 Sonidegib DDI 
+ 
+ 
+                                             PBPK Review Page - 12 
+ 
+ 
+Table 4. PBPK predicted and observed AUC and Cmax of sonidegib in healthy subjects 
+using ADAM model for healthy subjects  
+Source data in Appendix Tables 5 and 6 
+ 
+Mean PK Parameters 
+Ratio (Sim/Obs) 
+Treatment 
+AUC 85d 
+(ng*hr/mL) 
+AUC 14d 
+(ng*h/mL) 
+Cmax 
+(ng/mL) 
+Tmax a 
+(hr) 
+AUC 85d 
+(ng*hr/mL) 
+AUC 14d 
+(ng*h/mL) 
+Cmax 
+(ng/mL) 
+Fasted condition 
+200 mg 
+Sim 
+5291 
+4157 
+136 
+1.1 
+1.6 
+1.6 
+1.3 
+Obs 
+3327 
+2614 
+104 
+2.0 
+800 mg 
+Sim 
+9066 
+7165 
+283 
+1.1 
+0.7 
+1.0 
+1.1 
+Obs 
+12088 
+7299 
+258 
+2.1 
+1200 mg 
+Sim 
+NA 
+7981 
+318 
+1.1 
+NC 
+1.0 
+1.2 
+Obs 
+NA 
+7778 
+270 
+2.0 
+Fed condition 
+800 mg 
+Sim (1) 
+24459 
+NI 
+533 
+1.9 
+0.3 
+ 
+0.3 
+ 
+Sim (2) 
+32973 
+NI 
+478 
+7.0 
+0.4 
+ 
+0.3 
+ 
+Obs 
+83363 
+49785 
+1726 
+5.0 
+ 
+Sim, simulated; Obs, observed; NC, not calculated; NI, not included. 
+5. Conclusion 
+Sponsor’s PBPK model of sonidegib is considered sufficient to predict steady state sonidegib PK in 
+patients co-administered CYP3A modulators with sonidegib.  The effects of chronic use and short-term 
+use of a strong inhibitor ketoconazole were predicted to increase sonidegib exposure by approximately 
+3.5-fold and 2.0-fold, respectively; the effects of chronic use and short-term use of moderate inhibitor 
+erythromycin were predicted to increase sonidegib exposure by approximately 2.8-fold and 1.8-fold, 
+respectively; the effects of chronic use of strong inducer rifampin were predicted to decrease sonidegib 
+exposure by more than 74%; and the effects of chronic use and short-term use of moderate inducer 
+efavirenz were predicted to decrease sonidegib exposure by approximately 69% and 56%, respectively.   
+ 
+ 
+The reviewer acknowledges scientific discussions with Dr. Masanobu Sato and Dr. Christian Wagner. 
+Reference ID: 3765220
+
+
+===== PAGE 81 =====
+
+OCP PBPK Review_NDA205266 Sonidegib DDI 
+ 
+ 
+                                             PBPK Review Page - 13 
+ 
+ 
+ 
+6. Appendices 
+6.1. Abbreviations 
+ADAM, Advanced dissolution, absorption, and metabolism model; ADME, absorption, distribution, 
+metabolism, and excretion; AUC, area under the concentration-time profile; AUCR, the ratio of the area 
+under the curve of the substrate drug in the presence and absence of the perpetrator; b.i.d., twice daily 
+dosing; B/P, blood to plasma ratio; Cmax, maximal concentration in plasma; CmaxR, the ratio of the 
+maximum plasma concentration of the substrate drug in the presence or absence of the perpetrator; CL, 
+clearance; CLint, intrinsic clearance; DDI: drug-drug interaction; F, bioavailability; fa, fraction absorbed; 
+Fg, fraction that escapes intestinal metabolism; fmj, fraction of total clearance mediated by j CYP isoform 
+or renal elimination; fup, fraction unbound in plasma; fu,gut, apparent unbound fraction in enterocytes; GI: 
+gastrointestinal; Hh, Hedgehog; , Hill coefficient; Ind,max, maximal fold induction; Ind,50, concentration 
+causing half-maximal fold induction; ka, first order absorption rate constant; Ki, reversible inhibition 
+constant; LogPo:w, logarithm of the octanol-water partition coefficient; NA, not applicable; ND, not 
+determined; NDA: new drug application; NI: Not included; Papp, apparent passive permeability; Peff,man, 
+effective passive permeability in man; PBPK: Physiological-based Pharmacokinetic; P-gp: P-
+glycoprotein; q.d., once daily dosing; q.i.d., four times a day dosing; q.o.d., once every other day; Qgut, a 
+hypothetical flow term for the intestine absorption model; Smo, Smoothened; Tmax: time at maximal 
+concentration in plasma; TLAG: lag time; Vd,ss, volume of distribution at steady state. 
+6.2. Information Request 
+6.2.1. Clinical Pharmacology Nov 07, 2014 (11072014IR) 
+We conducted an initial review of the physiologically based pharmacokinetic (PBPK) study report 
+(Study 1400133) entitled “Simcyp predictions of the  interaction of LDE225 with ketoconazole or 
+rifampin”. It appears that sonidegib exposure is generally higher in cancer patients as  compared to  
+healthy subjects and  that  the  sonidegib PBPK model has  been developed primarily using 
+pharmacokinetic (PK) data of healthy subjects. Figures 7-2 and 7-4 found in this study report show that 
+the model is not able to describe sonidegib PK profiles in cancer patients on day 15. 
+a. Submit your justification formally to the NDA whether the current data and the PBPK model 
+allow prediction of the magnitude of sonidegib exposure change by concomitant use of strong 
+CYP3A modulators in cancer patients, especially if higher sonidegib exposure observed in cancer 
+patients is primarily due to lower hepatic metabolism. 
+b. Submit the following simulations, including the study reports, model files and other related excel 
+files as listed below, formally to the NDA. 
+ 
+Simulate the effect of strong CYP3A inhibitor ketoconazole administered at a dose of 200 mg twice 
+daily (b.i.d.) on steady state sonidegib PK (Cmax and  AUC within dosing interval) when 
+sonidegib is administered at a dose of 
+i. 200 mg once daily (q.d.) 
+ii. 200 mg once every other day (q.o.d.) 
+ 
+Reference ID: 3765220

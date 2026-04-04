@@ -1,0 +1,1831 @@
+
+
+===== PAGE 7 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+6 
+Version date: April 2019  
+Table 40. FRESCO-2: Laboratory Assessment of Liver Abnormalities ....................... 124 
+Table 41. FRESCO: Laboratory Assessment of Liver Abnormalities .......................... 125 
+Table 42. FRESCO-2: Liver-Related Toxicities ........................................................... 125 
+Table 43. FRESCO: Liver Related Toxicities .............................................................. 126 
+Table 44. FRESCO-2: Proteinuria ............................................................................... 127 
+Table 45. FRESCO-2: Major Safety Outcomes by Sex ............................................... 128 
+Table 46. FRESCO-2: Major Safety Outcomes by Age ............................................... 128 
+Table 47. FRESCO-2: Major Safety Outcomes by Race ............................................. 129 
+Table 48. FRESCO-2:  Major Safety Outcomes by Ethnicity ....................................... 129 
+Table 49. Bioanalytical method and validation parameters ......................................... 145 
+Table 50. Summary of the plasma pharmacokinetic parameters of fruquintinib after 
+single dose .................................................................................................................. 146 
+Table 51. Summary of the plasma pharmacokinetic parameters of fruquintinib after QD 
+dose ............................................................................................................................ 147 
+Table 52. Summary of the plasma pharmacokinetic parameters of fruquintinib after QD 
+dose ............................................................................................................................ 149 
+Table 53. Specific Comments on Applicant’s Final Population PK model ................... 150 
+Table 54. Summary of Clinical Study Designs ............................................................ 153 
+Table 55. Summary of Baseline Demographic Covariates for Analysis ....................... 157 
+Table 56. Summary of Concomitant Administration in Subjects Included the Population 
+PK Analysis Dataset .................................................................................................... 159 
+Table 57. Summary of Available Data and Data Included in the Population PK Analysis
+ .................................................................................................................................... 160 
+Table 58. Population Pharmacokinetic Parameter Estimates for Final Models ........... 163 
+Table 59. Covariate Summary Statistics for Patients Included in the Safety E-R Analysis
+ .................................................................................................................................... 171 
+Table 60. Summary of Frequencies of Adverse Events of Special Interest Stratified by 
+Study ........................................................................................................................... 173 
+Table 61. Statistically Significant Safety Exposure-Response Relationships Based on 
+Logistic Regression Analysis With Only Exposure Measures ..................................... 175 
+Table 62. Final Model Parameter Estimates for Any Grade Dermatological Toxicity .. 176 
+Table 63. Final Model Parameter Estimates for Gr3+ Dermatological Toxicity ........... 176 
+Table 64. Final Model Parameter Estimates for Gr3+ Hepatic Function Abnormal ..... 177 
+Table 65. Final Model Parameter Estimates for Any Grade Proteinuria ...................... 177 
+Table 66. Final Model Parameter Estimates for Grade 3+ Proteinuria ........................ 178 
+Table 67. Final Model Parameter Estimates for Any Grade Hemorrhage ................... 178 
+Table 68. Summary of Patients Included in the Efficacy E-R Analyses ....................... 179 
+Table 69. Summary Statistics of Covariates and Exposures for Efficacy Exposure-
+Response Analysis ...................................................................................................... 180 
+Table 70. Summary Statistics of Relative Dose Intensity in the Efficacy Exposure-
+Response Analysis Dataset ........................................................................................ 182 
+Table 71. Final E-R Model Parameter Estimates for OS Using Exposures Based on the 
+Starting Dose .............................................................................................................. 186 
+Table 72. Final E-R Model Parameter Estimates for OS Using Exposures Adjusted for 
+Relative Dose Intensity ................................................................................................ 187 
+Reference ID: 5273231
+
+
+===== PAGE 9 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+8 
+Version date: April 2019  
+Table of Figures 
+Figure 1. FRESCO-2: Study Schema ............................................................................ 72 
+Figure 2. FRESCO-2: OS Survival Curves .................................................................... 83 
+Figure 3. FRESCO-2: OS Exploratory Subgroup Analysis ............................................ 84 
+Figure 4. FRESCO-2: PFS curves ................................................................................ 87 
+Figure 5: Summary of Completion rates for EORTC-QLQ-C30 Questionnaire ............. 88 
+Figure 6: FRESCO - Patient Disposition ....................................................................... 92 
+Figure 7. FRESCO: OS Survival Curves ....................................................................... 96 
+Figure 8. FRESCO: OS Exploratory Subgroup Analysis ............................................... 97 
+Figure 9.FRESCO: PFS curves ..................................................................................... 99 
+Figure 10. Mean (SD) plasma concentration versus time profiles of fruquintinib after 
+single dose. ................................................................................................................. 146 
+Figure 11. Linear Regression Plot of Fruquintinib Exposure Versus Dose After Single 
+Doses .......................................................................................................................... 148 
+Figure 12. Linear Regression Plot of Fruquintinib Exposure Versus Dose After Single 
+Does and Multiple QD Doses ...................................................................................... 148 
+Figure 13. Schematic of the Final Population PK Model for Fruquintinib and M11 ...... 163 
+Figure 14. Goodness-of-fit plots for final covariate model ........................................... 165 
+Figure 15. Visual Predictive Check of the Final Population PK Model ........................ 166 
+Figure 16. Covariate Effects on Steady-State Fruquintinib and M11 AUC .................. 167 
+Figure 17. Relationship Between Model-Predicted Fruquintinib and M11 Steady-State 
+AUC Following 5 mg QD Continuous Dosing and Race .............................................. 168 
+Figure 18. Relationship Between Model-Predicted Fruquintinib and M11 Steady-State 
+AUC Following 5 mg QD Continuous Dosing and Ethnicity ......................................... 169 
+Figure 19. Kaplan-Meier Plots for OS Stratified by Fruquintinib Exposures Based on 
+Starting Dose (Studies 2019-013-GLOB1 and 2015-013-00US1 Cohort B) ................ 183 
+Figure 20. Kaplan-Meier Plots for OS Stratified by Covariates (Studies 2019-013-
+GLOB1 and 2015-013-00US1 Cohort B) ..................................................................... 184 
+Figure 21. Schematic illustration of the key PBPK modeling steps and components of 
+each clinical study used in model building and verification for fruquintinib (A) and M11 
+(B) ............................................................................................................................... 192 
+Figure 22. Comparison of the observed and simulated PK profiles of fruquintinib and 
+M11 following single dose administration of fruquintinib .............................................. 196 
+ 
+ 
+ 
+ 
+Reference ID: 5273231
+
+
+===== PAGE 32 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+31 
+Version date: April 2019  
+5 Nonclinical Pharmacology/Toxicology 
+ 
+Executive Summary 
+Fruquintinib is a small molecule kinase inhibitor of vascular endothelial growth factor 
+receptors (VEGFR)-1, -2, and -3. VEGFR signaling is implicated in tumor angiogenesis, 
+growth, and progression in a variety of solid tumors. The established pharmacologic 
+class for fruquintinib is kinase inhibitor. 
+ 
+Fruquintinib (HMPL-013) inhibited VEGFR2 activity with an IC50 of 15 nM. Additionally, 
+fruquintinib was able to inhibit the phosphorylation of VEGFR2 with an IC50 of 0.6 nM. 
+The inhibitory activity of fruquintinib on 264 kinases was evaluated using a [32P-ATP] 
+incorporation assay and showed fruquintinib inhibited VEGFR-1, -2, and -3 with IC50s 
+of 33, 35, and 0.5 nM, respectively. This assay also showed that fruquintinib moderately 
+inhibited RET and FGFR1 with IC50s of 128 and 181 nM, respectively.  
+ 
+In in vitro activity assays, fruquintinib inhibited VEGF-induced proliferation of human 
+umbilical vein endothelial cells (HUVECs) with an IC50 of 1.6 nM. Fruquintinib inhibited 
+HUVEC tube formation with an IC50 < 30 nM. Cytotoxicity assays showed that 
+fruquintinib had minimal cytotoxic activity against HUVECs with an IC50 of 18.7 μM and 
+no cytotoxic activity against any of the human tumor cell lines tested. 
+ 
+In in vivo activity assays, fruquintinib inhibited VEGF-induced VEGFR2 phosphorylation 
+for up to 8 hours post-dose in the lung tissue of mice treated with a single dose of 2.5 
+mg/kg fruquintinib. Additionally, anti-tumor efficacy of fruquintinib was evaluated in a 
+colon cancer xenograft model using HT-29 tumor cells implanted in nude BALB/c mice. 
+Fruquintinib was able to inhibit tumor growth in a dose-dependent manner with anti-
+tumor activity starting at 0.77 mg/kg. 
+ 
+Safety pharmacology studies assessed the effects of fruquintinib on the cardiovascular 
+system, central nervous system (CNS), and respiratory function. Fruquintinib did not 
+have a toxicologically significant effect on cardiovascular or respiratory function in dogs 
+or neurobehavioral function in rats. 
+ 
+Fruquintinib binds to plasma protein of various species in a concentration-independent 
+manner. In human plasma, 95.3% of fruquintinib was bound to plasma protein. 
+Following a single oral dose of radiolabeled fruquintinib, wide distribution of fruquintinib 
+was observed with the highest radioactivity observed in the esophagus, large intestine, 
+small intestine, stomach, bladder, uveal tract, and pigmented skin. No major metabolites 
+were observed. Elimination studies showed that fruquintinib was mainly excreted via the 
+fecal route in rats (~71%) with some elimination via the urine (~22%). 
+ 
+In a 13-week repeat-dose toxicology study in rats, animals were orally administered 
+fruquintinib at 0, 0.3, 0.6, or 1.2 mg/kg daily with a 4-week recovery period. On Day 44, 
+the dose in the 1.2 mg/kg group was increased to 2.4 mg/kg due to a lack of observed 
+Reference ID: 5273231
+
+
+===== PAGE 40 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+39 
+Version date: April 2019  
+ 
+ADME/PK 
+Type of Study 
+Major Findings 
+Absorption 
+Pharmacokinetic Study of HMPL-013 and Its Metabolites HM5024093 (M9) and 
+HM5025423 (M11) Following a Single PO Administration of HMPL-013 in Sprague-
+Dawley Rats (Study DMPKR20150008-E-01) 
+ 
+Single oral administration @ 20 mg/kg in SD Rats (n=3, mean ± SD) 
+ 
+(Excerpted from Applicant’s Submission) 
+ 
+Pharmacokinetic study of HMPL-013 and its metabolites HM5024093 (M9), 
+HM5025423 (M11) following a single oral administration of HMPL-013 in Beagle dogs 
+(Study DMPKR20150004-E-01) 
+ 
+Single oral administration @ 1 mg/kg in Beagle Dogs (n=3, mean ± SD) 
+ 
+(Excerpted from Applicant’s Submission) 
+ 
+Distribution 
+Reference ID: 5273231
+
+
+===== PAGE 55 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+54 
+Version date: April 2019  
+6 Clinical Pharmacology 
+ Executive Summary 
+Fruquintinib is a kinase inhibitor of vascular endothelial growth factor receptors 
+(VEGFR)-1, -2, and -3. Fruquintinib is indicated for the treatment of adult patients with 
+metastatic colorectal cancer (mCRC) who have been previously treated with 
+fluoropyrimidine‑, oxaliplatin‑, and irinotecan‑based chemotherapy, an anti‑VEGF 
+therapy, and, if RAS wild‑type, an anti-EGFR therapy. The Applicant proposed a 
+fruquintinib dosage of 5 mg taken orally with or without food once daily for the first 21 
+days for each 28-day cycle. This dosing schedule is referred as 3/1 (3 weeks on/1 week 
+off) in this review. 
+ 
+The clinical pharmacology key review questions focused on dosage recommendations 
+for the general population, dosage recommendations for patients with hepatic or renal 
+impairment, and dosage recommendations for patients receiving strong and moderate 
+CYP3A4 inhibitors or inducers with fruquintinib (a substrate of CYP3A4). 
+ 
+The dosage for fruquintinib was selected based on PK and safety information obtained 
+from a dose escalation trial and a randomized dose-ranging trial. In the dose escalation 
+trial, the maximum tolerated dose was determined to be 4 mg for QD continuous dosing 
+schedule or 6 mg for QD 3/1. The 4 mg QD continuous and 5 mg QD 3/1 dosing 
+regimens were evaluated in a trial in patients with mCRC. The 5 mg QD 3/1 showed a 
+more favorable safety profile, was selected as the RP2D, and used in the randomized 
+Studies FRESCO (conducted in China) and FRESCO-2.  
+ 
+No dosage modifications are recommended for patients with renal impairment as renal 
+excretion is not a major excretion pathway of fruquintinib. No clinically significant 
+differences in the pharmacokinetics of fruquintinib were observed in patients with mild 
+hepatic impairment compared to patients with normal hepatic function; thus, no dosage 
+modifications are recommended for these patients. Fruquintinib has not been sufficiently 
+studied in patients with moderate or severe hepatic impairment. There are no adequate 
+pharmacokinetics and safety data to provide dosage recommendation for patients with 
+moderate hepatic impairment. Fruquintinib is not recommended for use in patients with 
+severe hepatic impairment due to hepatotoxicity. 
+ 
+Clinical drug-drug interaction studies were conducted to support instructions for 
+concomitant use. Concomitant use of fruquintinib with strong or moderate inducers of 
+CYP3A4 should be avoided as concomitant use decreases AUC and Cmax of 
+fruquintinib. No dose adjustment is required for fruquintinib when used concomitantly 
+with CYP3A inhibitors as no clinically significant differences in AUC and Cmax of 
+fruquintinib were observed when used concomitantly with a strong CYP3A inhibitor. 
+Reference ID: 5273231
+
+
+===== PAGE 57 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+56 
+Version date: April 2019  
+Bridge between the to-be-
+marketed and clinical trial 
+formulations 
+The to-be-marketed tablets formulation was used in 
+Study 2019-013-GLOB1 (FRESCO-2).   
+ 
+ Post Marketing Requirements and Commitments 
+No clinical pharmacology post-marketing requirements or commitments will be issued. 
+ Summary of Clinical Pharmacology Assessment 
+ Pharmacology and Clinical Pharmacokinetics 
+Fruquintinib PK properties following a single dose and multiple doses were assessed in 
+clinical studies. The results from in vitro studies, in vivo clinical pharmacology studies in 
+healthy participants (mass balance, food effect and acid reducing agents drug-drug 
+interaction (DDI), renal impairment, hepatic impairment, DDI studies with CYP3A4 
+modulators, P-gp substrates, or BCRP substrates), dose-finding and randomized 
+controlled studies in patients with mCRC as well as population PK analysis conducted 
+on pooled data were integrated to describe the ADME properties of fruquintinib in 
+humans and assess intrinsic and extrinsic factors that may affect the PK of fruquintinib. 
+ 
+The outcomes of the exposure-response analyses for safety and efficacy were 
+conducted using data from studies in healthy subjects (Studies 2020-013-00US1 and 
+2020-013-00US2), dose-finding studies in patients with advanced solid tumors including 
+CRC (Studies 2009-013-00CH1 and 2015-013-00US1), and randomized controlled 
+studies in patients with mCRC (Studies 2012-013-00CH3 and 2019-013-GLOB). The 
+potential relationship between fruquintinib concentration and heart rate-corrected QT 
+interval (QTc) was evaluated using a concentration-QTc analysis. In addition, a 
+physiologically based PK (PBPK) model was developed to aid in the assessment of 
+potential DDIs.  
+ 
+Summary of Clinical Pharmacokinetics: 
+ 
+The fruquintinib steady-state geometric mean (% coefficient of variation [CV]) maximum 
+concentration (Cmax) is 300 ng/mL (28%) and area under the concentration-time curve 
+for the dosing interval (AUC0-24h) is 5880 ng∙h/mL (29%) at the recommended dosage. 
+The fruquintinib Cmax and AUC0-24h are dose-proportional across the dosage range of 1 
+to 6 mg (0.2 to 1.2 times the recommended dosage). Fruquintinib steady state is 
+achieved after 14 days with a mean AUC0-24h accumulation of 4-fold.  
+ 
+An overview of the ADME properties, clinical PK, and DDI potential of fruquintinib is 
+provided below. 
+ 
+Reference ID: 5273231
+
+
+===== PAGE 58 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+57 
+Version date: April 2019  
+Absorption 
+Median time to achieve peak plasma fruquintinib concentration (tmax) was 
+approximately 2 hours.  
+ 
+Effect of Food 
+ 
+Administration of fruquintinib 5 mg with a high-fat meal (800 to 1000 calories, 50% fat) 
+had no clinically significant differences in fruquintinib PK compared with administration 
+at fasted administration. The geometric mean ratios (GMRs) of high-fat meal/fasted and 
+90% CIs of GMRs for Cmax and AUC are within the 80.00% to 125.00% interval. 
+Please refer to Study 2020-013-00US1 results in Section 7.3.1.  
+ 
+Distribution 
+ 
+The mean (SD) apparent volume of distribution of fruquintinib is approximately 46 (13) 
+L. In vitro, plasma protein binding of fruquintinib was approximately 95% and blood-to-
+plasma concentration ratio in human blood was 0.46 to 0.60.  
+ 
+Elimination 
+ 
+The fruquintinib arithmetic mean (SD) elimination half-life is approximately 42 (11) hours 
+and the apparent clearance is 14.8 (4.4) mL/min.   
+ 
+Metabolism 
+ 
+Metabolism is the main route of elimination of fruquintinib. Fruquintinib is primarily 
+eliminated by CYP450 and non-CYP450 (i.e., sulfation and glucuronidation) 
+metabolism. CYP3A and to a lesser extent CYP2C8, CYP2C9, and CYP2C19 are the 
+CYP450 enzymes involved in fruquintinib metabolism. Following single oral 
+administration of radiolabeled fruquintinib 5 mg, approximately 72.5% of the plasma 
+radioactivity was fruquintinib, and 17.3% was attributed to the major circulating 
+metabolite M11 (N-demethylation). At steady-state after multiple QD dose, the mean 
+M11-to-fruquintinib ratio was approximately 30% for Cmax and AUC0-24h. M11 is 10-fold 
+less potent against VEGFR-2 compared to fruquintinib. M11 is not considered as an 
+active metabolite.  
+ 
+Excretion 
+ 
+Following oral administration of a 5 mg radiolabeled fruquintinib dose, approximately 
+60% of the dose was recovered in urine (0.5% unchanged) and 30% of the dose was 
+recovered in feces (5% unchanged). 
+ 
+Specific Populations 
+ 
+No clinically significant differences in the pharmacokinetics of fruquintinib were 
+observed based on age (18 to 82 years), sex, race (Asian [N = 140], Black [N = 29], and 
+Reference ID: 5273231
+
+
+===== PAGE 59 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+58 
+Version date: April 2019  
+White [N = 359]), ethnicity (Hispanic/Latino [N = 28] vs. non-Hispanic/Latino [N = 505]), 
+body weight (48 to 108 kg), mild [N = 177) to moderate (N = 42) renal impairment (CrCL 
+30 to 89 mL/min), or mild (N = 133) hepatic impairment (total bilirubin less than or equal 
+to ULN with AST greater than ULN or total bilirubin greater than 1 to 1.5 times ULN with 
+any AST).  
+ 
+The effect of moderate to severe hepatic impairment (total bilirubin greater than 1.5 
+times ULN and any AST) on fruquintinib pharmacokinetics is unknown. 
+ 
+Drug Interaction Studies 
+ 
+Clinical Studies and Model-Informed Approaches 
+ 
+Strong CYP3A inducers: Fruquintinib Cmax decreased by 12% and AUCinf by 65% 
+following concomitant use with rifampin (strong CYP3A inducer). 
+ 
+Moderate CYP3A inducers: Fruquintinib Cmax is predicted to decrease by 4% and 
+AUCinf by 32% following concomitant use with efavirenz (moderate CYP3A inducer). 
+ 
+Other Drugs: No clinically significant differences in fruquintinib AUCinf (increased by 
+10%) and Cmax (decreased by 6%) were observed when used concomitantly with 
+itraconazole (strong CYP3A inhibitor). The GMRs (90% CI) of fruquintinib without/with 
+concomitantly with rabeprazole (proton pump inhibitor; gastric acid reducing agent) 
+were 1.08 (1.01, 1.15) and 1.03 (0.94, 1.14) for AUCinf and Cmax, respectively. 
+ 
+No clinically significant differences in the pharmacokinetics of the following drugs were 
+observed or predicted when used concomitantly with fruquintinib: dabigatran etexilate 
+(P-gp substrate) or rosuvastatin (BCRP substrate). See Section 7.3.2 for details. 
+ 
+In Vitro Studies 
+ 
+Cytochrome P450 Enzymes: Fruquintinib is not an inhibitor of CYP1A2, CYP2B6, 
+CYP2C8, CYP2C9, CYP2C19, CYP2D6 and CYP3A, or an inducer of CYP1A2, 
+CYP2B6, CYP3A. 
+ 
+Transporter Systems: Fruquintinib is not a substrate of P-glycoprotein (P-gp), organic 
+anion transporting polypeptide(OATP)1B1 or OATP1B3. Fruquintinib is not an inhibitor 
+of OATP1B1, OATP1B3, organic anion transporter (OAT)1, OAT3, organic cation 
+transporter (OCT)2, multidrug and toxin extrusion protein (MATE)1, or MATE2-K. 
+ 
+Summary of Exposure-Response (E-R) Analyses 
+ 
+Because of the different regimens tested for fruquintinib (QD continuous and QD 3/1), 
+the average daily AUC over the 28-day cycle (AUCave) was used for both the safety and 
+efficacy E-R analyses. In addition, the minimum plasma concentration at steady state 
+(Cmin,SS) was investigated in the efficacy E-R analyses, and Cmax at steady state 
+Reference ID: 5273231
+
+
+===== PAGE 60 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+59 
+Version date: April 2019  
+(Cmax,SS) was investigated for the safety E-R analysis. A regimen covariate (QD 
+continuous and QD 3/1) was investigated along with Cmin,SS and Cmax,SS to account 
+for the different regimens tested. 
+ 
+Exposure-efficacy relationship: 
+The exposure-efficacy analyses included data from mCRC patients in Studies 2019-
+013-GLOB1 (FRESCO-2), 2012-013-00CH3, and 2015-013-00US1. Exposure-efficacy 
+analyses for OS and PFS are not clinically meaningful. 
+ 
+Exposure-safety relationship: 
+ 
+The efficacy-safety analyses included data from patients in Studies 2009-013-00CH1, 
+2012-013-00CH3, 2015-013-00US1, and FRESCO-2. Higher model-predicted 
+fruquintinib CmaxSS was associated with a higher probability of Grade ≥3 
+dermatological toxicity. Compared to the QD 3/1 regimen, the QD continuous regimen 
+was associated with a higher probability of Grade ≥ 3 dermatological toxicity, any-grade 
+hemorrhage, and Grade ≥3 proteinuria. 
+ 
+A mean increase in QTc interval > 20 milliseconds (ms) was not observed at the 
+approved recommended dosage. 
+ General Dosing and Therapeutic Individualization 
+General Dosing 
+The Applicant-proposed dosage of fruquintinib is 5 mg QD 3/1 taken orally with or 
+without food. The primary evidence of efficacy and safety was obtained from two 
+randomized studies, FRESCO-2 and FRESCO, at the proposed dosage with or without 
+food. The proposed dosage was tolerable in both studies and achieved a clinically 
+meaningful and statistically significant improvement in OS. Higher steady-state Cmax of 
+fruquintinib was associated with a higher probability of Grade 3 and above 
+dermatological toxicity in an exposure-safety analysis. There was no obvious 
+relationship between exposure and OS in an exposure-safety analysis with the limitation 
+that all the patients in the analysis were treated with fruquintinib 5 mg QD 3/1  as 
+starting dosage. Additional details of exposure-response analyses are discussed in 
+Section 20.4 
+ 
+The proposed dosage appears to be an appropriate dosage based on the overall benefit 
+risk profile in the proposed indication, but there are limited data to characterize efficacy 
+and safety profiles at doses below 5 mg QD 3/1. 
+ 
+Therapeutic Individualization 
+ 
+No clinically significant differences in the pharmacokinetics of fruquintinib were 
+observed based on age (18 to 82 years), sex, race (Asian [N = 140], Black [N = 29], and 
+White [N = 359]), ethnicity (Hispanic/Latino [N = 28] vs. non-Hispanic/Latino [N = 505]), 
+Reference ID: 5273231
+
+
+===== PAGE 61 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+60 
+Version date: April 2019  
+body weight (48 to 108 kg), or mild (N = 133) hepatic impairment (total bilirubin less 
+than or equal to ULN with AST greater than ULN or total bilirubin greater than 1 to 1.5 
+times ULN with any AST). The effect of moderate to severe hepatic impairment (total 
+bilirubin greater than 1.5 times ULN and any AST) on fruquintinib pharmacokinetics is 
+unknown. Refer to Section 20.4 for more details.  
+ 
+The renal excretion of fruquintinib is minimal with 0.5% unchanged fruquintinib 
+recovered in urine in the mass balance Study 2015-013-00CH2. The negligible role of 
+renal function on fruquintinib elimination is also supported by the interim PK data from 
+the dedicate renal impairment Study 2021-013-00US2 and population PK analysis. 
+Outstanding Issues 
+There are no outstanding clinical pharmacology issues. 
+ Comprehensive Clinical Pharmacology Review 
+ General Pharmacology and Pharmacokinetic Characteristics 
+Table 2. General Pharmacology and Pharmacokinetic Highlights 
+ 
+Pharmacology 
+Mechanism of 
+Action 
+Fruquintinib is a kinase inhibitor of vascular endothelial growth factor 
+receptors (VEGFR)-1, -2, and -3. 
+Active Moieties Fruquintinib 
+QT 
+Prolongation 
+A concentration-QT analysis (N = 205; N = 137 in the fruquintinib arm 
+and 68 in the placebo arm) suggested that fruquintinib does not cause 
+a mean increase in QTc interval > 20 milliseconds at the proposed 
+dosage. 
+General Information 
+Bioanalysis 
+See Section 20.4. 
+Healthy 
+Volunteers vs. 
+Patients 
+Fruquintinib and M11 exposures were similar between healthy and 
+patient populations. 
+A comparison of fruquintinib PK between healthy participants and 
+participants with cancer was conducted for fruquintinib Cmax and AUC 
+following a single dose of fruquintinib 5 mg. PK data from Studies 
+2020-013-00US1 and 2020-013-00US2 were used to characterize 
+fruquintinib PK in the healthy population. PK data from Study 2015-
+013-00US1 (5-mg dose level only) were used to characterize 
+fruquintinib PK in participants with cancer. Fruquintinib and M11 AUC 
+were similar between healthy participants and participants with cancer. 
+In a PopPK analysis, the effects of health status (ie, healthy versus 
+patients) on the exposures of fruquintinib and M11 were negligible. 
+Reference ID: 5273231
+
+
+===== PAGE 62 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+61 
+Version date: April 2019  
+Drug exposure 
+at steady state 
+following the 
+therapeutic 
+dosing 
+regimen 
+The geometric mean (%CV) Cmax was 300 ng/mL (28%) and AUC0-24h 
+was 5880 ng∙h/mL (29%) following fruquintinib 5 mg once daily for 21 
+days with 7 days off, of each 28-day cycle in patients with advanced 
+solid tumors. 
+Minimal 
+effective dose 
+or exposure 
+The minimal effective dose or exposure has not been identified. For 
+the 3/1 QD schedule, 5 mg is the lowest starting dose studied in 
+patients with mCRC. For the continuous QD schedule, 4 mg is the 
+lowest starting dose studied in patients with mCRC.  
+Maximal 
+tolerated dose 
+or exposure 
+The maximal tolerated dose (MTD) was 4 mg QD on a continuous 
+schedule or 6 mg QD on 3/1 schedule.  
+Dose 
+Proportionality 
+Fruquintinib exposure (AUC and Cmax) increased with increasing oral 
+dose in a dose-proportional manner after a single dose and after 
+repeated dosing (1 to 6 mg QD). Additional details are provided in 
+section 19.4.2. 
+Accumulation The mean accumulation ratio at steady state is approximately 4. 
+Variability 
+%CV for Cmax steady state = 28% 
+%CV AUCtau steady state = 29% 
+Absorption 
+Oral absolute 
+bioavailability  
+Absolute oral bioavailability has not been determined 
+Formulation 
+development 
+Only one formulation was developed and used throughout the clinical 
+development program of fruquintinib. The formulation and 
+manufacturing process of the 1-mg and 5-mg capsules used in the 
+pivotal clinical efficacy studies FRESCO-2 and FRESCO are the same 
+as that of the proposed commercial 1-mg and 5-mg capsules. 
+Bioequivalent 
+(BE) or relative 
+Bioavailability 
+(BA) 
+GMR (90% CI) 
+Study 2013-013-00CH2: No clinically relevant difference between 5 
+mg fruquintinib capsules from two manufacturing sites (N=22) 
+Cmax 
+AUClast 
+AUCinf 
+106.54 (100.15, 
+113.33) 
+101.14 (97.91, 104.47) 100.84 (97.58, 104.22) 
+Bioequivalent 
+(BE) or relative 
+Bioavailability 
+(BA) 
+GMR (90% CI) 
+Study 2014-013-00CH5: No clinically relevant difference between 5 
+mg fruquintinib capsules from two manufacturing sites (N=24) 
+Cmax 
+AUClast 
+AUCinf 
+93.06 (86.23, 100.43) 96.68 (93.12, 100.37) 
+96.81 (93.24, 100.52) 
+Oral Tmax 
+Median tmax was approximately 2 hours.  
+Food effect 
+Fed/ Fasted  
+GMR (90% CI) 
+Study 2020-013-00US1: No clinically relevant difference between 
+administration with a high-fat meal (800 to 1000 calories, 50% fat) and 
+administration under overnight fasted conditions. 
+Reference ID: 5273231
+
+
+===== PAGE 63 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+62 
+Version date: April 2019  
+Cmax (N =14 Fed; N 
+= 13 fasted) 
+AUClast (N=13) 
+AUCinf (N=14 fed, N = 
+13 fasted) 
+0.97 (0.86, 1.10) 
+1.06 (0.99, 1.13) 
+1.04 (0.97, 1.11) 
+Acid reducing 
+agents (ARAs) 
+(with/without) 
+GMR (90% CI)  
+Study 2020-013-00US1: Fruquintinib absorption was not affected by 
+the concomitant administration of rabeprazole (N=12) 
+Cmax 
+AUClast 
+AUCinf 
+1.03 (0.94, 1.14) 
+1.07 (1.01, 1.14) 
+1.08 (1.01, 1.15) 
+Substrate 
+transporter 
+systems [in 
+vitro] 
+Not a substrate of P-gp, OATP1B1 or OATP1B3. 
+Distribution 
+Volume of 
+Distribution  
+The mean (SD) apparent volume of distribution is 46 (13) L.   
+Plasma Protein 
+Binding 
+Plasma protein binding of fruquintinib is approximately 95%. 
+Blood to 
+Plasma Ratio 
+Blood-to-plasma concentration ratio in human blood was 0.46 to 0.60.  
+Elimination 
+Half-life 
+The half-life of fruquintinib is approximately 42 hours 
+Clearance 
+The mean (SD) apparent clearance of fruquintinib is 14.8 (4.4) 
+mL/min.  
+Metabolism 
+Primary 
+metabolic 
+pathway(s)  
+In vitro, fruquintinib is primarily metabolized by CYP3A4 with 
+contributions by CYP2C8, CYP2C9, CYP2C19; and non-CYP enzyme 
+systems.  
+In vivo, fruquintinib PK was impacted by the coadministration of a 
+strong CYP3A4 inducer (rifampin) but not by a strong CYP3A inhibitor 
+(itraconazole) 
+The major circulating metabolite was M11 (N-demethylation product). 
+At steady-state, the mean M11-to-fruquintinib ratio was approximately 
+30% for Cmax and AUC0-24h. In vitro, M11 was 10-fold less potent 
+against VEGFR-2 compared to fruquintinib. Therefore, M11 is not 
+considered as an active metabolite. 
+Inhibitor/Induc
+er 
+Fruquintinib is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, 
+CYP2C9, CYP2C19, CYP2D6 and CYP3A, or an inducer of CYP1A2, 
+CYP2B6, CYP3A at therapeutically relevant concentrations. 
+In vivo, fruquintinib is not an inhibitor of P-gp and BCRP after a single 
+dose. In vivo single dose data, with the support from PBPK modeling 
+approaches, suggested that fruquintinib is not an inhibitor of P-gp and 
+BCRP at the proposed recommended dosage. 
+Fruquintinib is not an inhibitor of OATP1B1, OATP1B3, OAT1, OAT3, 
+OCT2, MATE1, or MATE2-K at therapeutically relevant concentrations. 
+Excretion 
+Reference ID: 5273231
+
+
+===== PAGE 65 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+64 
+Version date: April 2019  
+Is the proposed dosing regimen appropriate for the general patient population for 
+which the indication is being sought? 
+Yes. The proposed dose of 5 mg QD 3/1 is effective and generally well tolerated in the 
+proposed indication. This dosage regimen provides a favorable benefit-risk profile 
+compared to placebo arm in Study FRESCO-2 and FRESCO.  
+ 
+In an exposure-safety analysis, higher steady-state Cmax of fruquintinib was associated 
+with a higher probability of Grade 3 and above dermatological toxicity. There was no 
+significant relationship between exposure and OS in an exposure-efficacy analysis. The 
+exposure-efficacy relationship is limited by all the patients in the analysis were 
+administered with the proposed dosage as starting dosage. Due to the limitation of data, 
+efficacy and safety profiles at doses below 5 mg QD 3/1 has not been well 
+characterized to determine if the proposed dosage is the optimal dosage. Additional 
+details of exposure-response analyses are discussed in Section 20.4. 
+Is an alternative dosing regimen or management strategy required for 
+subpopulations based on intrinsic patient factors? 
+No clinically significant differences in the PK of fruquintinib were observed based on age 
+(18 to 82 years), sex, race (Asian, Black, or White), or body weight (48 to 108 kg). 
+ 
+Renal impairment: 
+ 
+Renal excretion of fruquintinib is minimal (0.5% unchanged fruquintinib recovered in 
+urine) in the mass balance Study 2015-013-00CH2. The negligible role of renal function 
+on fruquintinib elimination is also supported by the interim PK data from the dedicated 
+renal impairment Study 2021-013-00US2. No clinically relevant differences in 
+fruquintinib exposures were observed in participants with moderate renal impairment 
+(CrCL 30-59 mL/min, N = 8), or severe renal impairment (CrCL 15-29 mL/min, N=3) 
+compared to historical data in healthy subjects (Table 3). In addition, mild to moderate 
+renal impairment (30 to 89 mL/min) had no effect on fruquintinib clearance in PopPK 
+analysis. Therefore, no dose adjustments are required in subjects with renal 
+impairment. 
+ 
+Reference ID: 5273231
+
+
+===== PAGE 67 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+66 
+Version date: April 2019  
+Effect of Food 
+ 
+In Study 2020-013-00US1, there were no clinically relevant differences in fruquintinib 
+Cmax and AUC when fruquintinib was administered with a high-fat meal (800 to 1000 
+calories, 50% fat) or when administered under overnight fasted conditions (as described 
+in Section 7.3.1). Fruquintinib can be taken without regard to food.  
+ 
+Coadministration with CYP3A4 Inhibitors 
+ 
+In Study 2020-013-00US2, coadministration of fruquintinib with itraconazole (a strong 
+CYP3A4 inhibitor) did not result in clinically relevant differences in fruquintinib Cmax 
+and AUC (Table 4). No dose modifications are required for CYP3A4 inhibitors. 
+ 
+Table 4. Comparison of Fruquintinib Exposure Following Administration of 
+Fruquintinib Alone and With Itraconazole (Study 2020-013-00US2) 
+ 
+GeoLSM=geometric least-squares mean 
+Source: Table 9 in 2.7.2 Summary of Clinical Pharmacology Studies 
+ 
+Coadministration with CYP3A4 Inducers 
+ 
+Coadministration of fruquintinib with rifampin (a strong CYP3A4 inducer) decreased the 
+fruquintinib Cmax by 12% and AUC by 65% (Study 2020-013-00US2). The PBPK model 
+predicted a decrease in fruquintinib AUC by approximately 32% when fruquintinib is 
+coadministered with a moderate CYP3A4 inducer (i.e., efavirenz). Coadministration of 
+fruquintinib with a strong or moderate CYP3A4 inducers may decrease fruquintinib 
+activity and should be avoided. Given the decrease in fruquintinib is approximately 32% 
+with efavirenz and the decrease is close to the bioequivalence cutoff of 20%, no dose 
+adjustment is recommended if it is not possible to avoid concomitant use of a moderate 
+CYP3A inducer and fruquintinib. No dose modifications are required for mild CYP3A4 
+inducers. 
+ 
+Coadministration with Acid-Reducing Agents 
+ 
+Coadministration of the proton pump inhibitor rabeprazole (40 mg QD) had no clinically 
+relevant effect on the single oral dose PK profile of fruquintinib (2020-013-00US1). 
+Therefore, no dose modifications are needed with coadministration with acid-reducing 
+agents. 
+Reference ID: 5273231
+
+
+===== PAGE 68 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+67 
+Version date: April 2019  
+ 
+Coadministration with P-gp Substrates 
+ 
+Coadministration of a single 5 mg dose of fruquintinib with dabigatran etexilate (a P-gp 
+substrate) slightly decreased dabigatran etexilate exposure by 10% for Cmax and 9% for 
+AUC. PBPK analysis results were consistent with the clinical findings (see PBPK review 
+in Appendix 20.4)  
+ 
+Coadministration with BCRP Substrates 
+ 
+Coadministration of a single 5 mg dose of fruquintinib with rosuvastatin (a BCRP 
+substrate) slightly decreased rosuvastatin exposure by 16% for Cmax and 19% for AUC. 
+PBPK analysis results were consistent with the clinical findings (see PBPK review in 
+Appendix 20.4) 
+ 
+Is the to-be-marketed formulation the same as the clinical trial formulation, and if 
+not, are there bioequivalence data to support the to-be-marketed formulation? 
+Yes, the to-be-marketed formulation the same as the clinical trial formulation. 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+ 
+  
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Primary Reviewer 
+ 
+ 
+ 
+ 
+Team Leader 
+ 
+Wentao Fu 
+ 
+ 
+ 
+ 
+ 
+Jason Moore 
+Hezhen Wang 
+ 
+ 
+ 
+ 
+Youwei Bi  
+Miyoung Yoon 
+ 
+ 
+ 
+ 
+Yuching Yang 
+Javier Blanco 
+ 
+ 
+ 
+ 
+Jeffrey Kraft  
+ 
+ 
+Reference ID: 5273231
+
+
+===== PAGE 126 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+125 
+Version date: April 2019  
+Table 40. FRESCO: Laboratory Assessment of Liver Abnormalities 
+Laboratory 
+Abnormality 
+FRUZAQLA (N=278)1 
+Placebo (N=137)1 
+All Grades1 
+(%)2 
+Grade 31 or 4 
+(%)2 
+All Grades1 
+(%)2 
+Grade 31 or 4 
+(%)2 
+AST or ALT 
+Increased 
+43 
+4.3 
+30 
+2.2 
+Bilirubin Increased 
+39 
+4.7 
+34 
+8 
+Alkaline 
+Phosphatase 
+Increased 
+40 
+4.3 
+34 
+6 
+1 Graded according to NCI CTCAE version 4.03. 
+2 Each test incidence is based on the number of patients who had both baseline and at least one on-study 
+laboratory measurement available: FRUZAQLA (range: 276-277) and placebo (range: 134-134). 
+ 
+Since the majority of patients in FRESCO-2 and FRESCO (72%) had liver metastases, 
+assessment of hepatotoxicity can be confounded. To evaluate the potential for drug-
+induced liver injury, analyses of adverse events in the hepatobiliary disorders system 
+organ class (SOC) and the laboratory dataset was performed accounting for status of 
+liver metastatic disease. One patient met the criteria for Hy’s law based upon laboratory 
+criteria. The patient had LFT values within normal limits at the end of his treatment (Day 
+21) and 58 days after, his LFTs were elevated with AST of 171 u/L (5-33 u/L), ALT of 
+270 u/L (5-45 u/L), and the total bilirubin was 4.8 mg/dL (0.2-1.0 mg/dL). Given the 
+short-half-life of fruquintinib (T1/2 ~42 hours), the timeline of this event would preclude 
+conclusions of relatedness to study drug.  
+ 
+In the FRESCO-2 trial, adverse events in the hepatobiliary disorders SOC occurred 
+more frequently in patients with liver metastases. Among patients with liver metastatic 
+disease, 63 (19%) patients in the fruquintinib arm and 29 (19%) patients in the placebo 
+arm had a liver-related AE. There were 2 (0.6%) and 2 (1.3%) fatal liver-related events 
+in the fruquintinib and placebo arms respectively. AEs in hepatobiliary disorders SOC in 
+patients without liver metastasis were not life-threatening. Results of FDA’s analysis are 
+summarized in Table 42.  
+ 
+Table 41. FRESCO-2: Liver-Related Toxicities  
+Fruquintinib + BSC 
+N=456; n (%) 
+Placebo + BSC 
+N=230; n (% 
+Patients with 
+Liver metastasis 
+(N=335) 
+Patients without 
+Liver Metastasis 
+(N=121) 
+Patients with 
+Liver metastasis 
+(N=155) 
+Patients without 
+Liver Metastasis 
+(N=75) 
+Any Event 
+63 (18.8) 
+6 (5.0) 
+29 (18.7) 
+0 
+Grade 3 
+18 (5.4) 
+3 (2.5) 
+10 (6.5) 
+0 
+Reference ID: 5273231
+
+
+===== PAGE 145 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+146 
+Version date: April 2019  
+ 
+Figure 10. Mean (SD) plasma concentration versus time profiles of fruquintinib 
+after single dose. 
+ 
+(Source: Figure 2 in Pharmacokinetic Study Report of Study Protocol No. 2009-013-00CH1) 
+ 
+Table 49. Summary of the plasma pharmacokinetic parameters of fruquintinib 
+after single dose 
+ 
+ 
+(Source: Table 3 in Applicant’s Pharmacokinetic Study Report of Study Protocol No. 2009-013-00CH1) 
+ 
+ 
+Reference ID: 5273231
+
+
+===== PAGE 146 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+147 
+Version date: April 2019  
+Table 50. Summary of the plasma pharmacokinetic parameters of fruquintinib 
+after QD dose 
+ 
+ 
+(Source: Table 5 in Pharmacokinetic Study Report of Study Protocol No. 2009-013-00CH1) 
+ 
+In Study 2009-013-00CH1, plasma fruquintinib exposure increased linearly in patients 
+with cancer over the dose range of 1 to 6 mg after single dose (Figure 11) and multiple 
+QD doses (Figure 12). 
+ 
+ 
+ 
+Reference ID: 5273231
+
+
+===== PAGE 149 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+150 
+Version date: April 2019  
+• There was no trend of positive E-R relationships with fruquintinib or M11 
+exposure identified for any grade dermatological toxicity, any grade or Grade 3-4 
+hypertension, any grade or Grade 3-4 hepatic function abnormal, any grade 
+proteinuria, and Grade 3-4 hemorrhage. 
+ 
+Efficacy E-R Analysis 
+• There was no trend of a positive relationship between OS and fruquintinib 
+steady-state minimum plasma concentration (CminSS) derived based on the 
+starting dose or adjusted for relative dose intensity (RDI) following the 5 mg QD 
+3/1 regimen in Studies 2019-013-GLOB1 and 2015-013-00US1 Cohort B. 
+• There was a (nominally) statistically significant trend of ER relationship between 
+exposure (CminSS) and progression-free survival (PFS) in Study 2019-013-
+GLOB1. But given the context of a lack of an E-R relationship for OS, this 
+observation may not be clinically meaningful.  
+ 
+ 
+Review Summary 
+The primary objectives of the Applicant’s analysis were to develop a population PK 
+model for fruquintinib, an oral tyrosine kinase inhibitor of vascular endothelial growth 
+factor receptors (VEGFRs)-1, -2, and -3, and M11 (a major metabolite1). 
+ 
+The Applicant’s PopPK analysis for fruquintinib is acceptable to support the current 
+submission as outlined in Table 53. The Applicant’s final PopPK model adequately 
+described the fruquintinib and M11 concentrations, in which PopPK parameter 
+estimates were estimated with acceptable precision as indicated by the relative 
+standard errors (RSE) for total clearance (CL, 1.2%, RSE), volume of distribution in 
+central compartment (V, 0.9% RSE), absorption lag time (Lag, 1.1 % RSE) and 
+absorption rate constant (Ka, 7.6 % RSE). The goodness-of-fit plots showed a good 
+agreement between the observed and the individual predicted concentrations without 
+any obvious bias over time or predicted concentrations. The prediction-corrected visual 
+predictive check plots showed a good agreement between the observed and the 
+simulated concentrations. The Applicant’s analyses were verified by the reviewer, with 
+no significant discordance identified.  
+ 
+Table 52. Specific Comments on Applicant’s Final Population PK model 
+Utility of the final model 
+Reviewer’s Comments 
+Support 
+applicant’s 
+proposed 
+Intrinsic 
+factor 
+Body weight, 
+coadministration of PPIs 
+(proton pump inhibitor) 
+The applicant’s 
+recommendation that there is 
+ 
+ 
+1 population-pk-and-exposure-response-final-analysis-report, Page 20 (link). 
+Reference ID: 5273231
+
+
+===== PAGE 159 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+160 
+Version date: April 2019  
+Table 56. Summary of Available Data and Data Included in the Population PK 
+Analysis 
+ 
+Source: population-pk-and-exposure-response-final-analysis-report, Page 62 (link). 
+Base model  
+The base model is a one-compartment PK model with absorption lag time (tlag), first-
+order absorption, and first-order elimination. 
+ 
+Inter-individual variability was modelled assuming a log-normal distribution for patient 
+level random effects. The inter-individual variability was considered for total body 
+clearance of drug (CL), volume of distribution for central compartment (V2), absorption 
+rate constant (ka), volume of distribution of compartment (V4) for metabolite M11 and 
+total clearance of metabolize  (CLM). 
+ 
+Intra-individual variability was tested as combined additive and proportional error 
+model on the dependent variable.    
+ 
+Model evaluation and selection were based on the point estimates of PK parameters, 
+their respective relative standard errors and standard statistical criteria of goodness-of-
+fit such as a decrease in the minimum objective function value (OFV), successful model 
+convergence, and diagnostic prediction-corrected visual predictive check (pcVPC).                     
+Reference ID: 5273231
+
+
+===== PAGE 160 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+161 
+Version date: April 2019  
+ 
+Covariate analysis 
+ 
+Covariate parameters were taken into search as follows: 
+ 
+• CL/F: albumin, body weight, CLCR (creatinine clearance), ECOG (Eastern 
+Cooperative Oncology Group) status, NCI (National Cancer Institute) hepatic 
+impairment category, race (Asian versus Black versus White/other/missing), and 
+tumor type 
+• Apparent clearance of M11 (CLM/F): albumin, body weight, CLCR, NCI hepatic 
+impairment category, race, and tumor type 
+• Fruquintinib bioavailability (F1): race, sex, and tumor type fruquintinib first-order 
+absorption rate constant (Ka): concomitant administration with PPIs (proton 
+pump inhibitor), race, and tumor type 
+• V/F: body weight, health status, and race  
+• Apparent volume of distribution of M11 (VM/F): body weight, albumin, and race 
+• The effect of NCI hepatic impairment category on CLM/F was not statistically 
+significant in the univariate screening step, but it was included in the stepwise 
+covariate search to enable a formal investigation of the potential impact of organ 
+impairment on M11 PK 
+ 
+Source: population-pk-and-exposure-response-final-analysis-report, Page 84 (link). 
+Software and estimation methods 
+Data manipulation, visualization, and simulations were conducted using R version 4.2.0, 
+a data analysis language suitable for use in regulated environments. Population PK 
+analyses were conducted using NONMEM® version 7.4.3.  
+ 
+20.4.3.2.2 Final Model 
+The parameter estimates for the final PopPK model are listed in Table 58 and the 
+schematic of the final PopPK model for fruquintinib and M11 is shown in Figure 13. The 
+goodness-of-fit plots for the final model are shown in Figure 14. The pcVPC plot for the 
+final covariate model with all data is shown in Figure 15. The impact of body weight, 
+health status, and coadministration of PPI on the population PK model parameters into 
+effects on fruquintinib and M11 exposures were shown by forest plots for steady-state 
+area under the plasma concentration-time curve (AUCSS,  Figure 16). 
+ 
+The PK of fruquintinib after oral administration was described by a 1‑compartment 
+model with first-order absorption, absorption lag time, and first-order elimination and 
+M11 PK connected to the central compartment of fruquintinib by a single metabolite 
+compartment with linear elimination of M11. The conversion from fruquintinib to M11 
+was assumed to be 7.25%. 
+ 
+Reference ID: 5273231
+
+
+===== PAGE 180 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+181 
+Version date: April 2019  
+ 
+%CV = percent coefficient of variation; AUC = area under the plasma concentration-
+time curve; 
+Cmin = minimum plasma concentration; ECOG = Eastern Cooperative Oncology Group; 
+Max = maximum; 
+Min = minimum; N =number of patients; RAS = rat sarcoma virus; RDI = relative dose 
+intensity;  
+SD = standard deviation 
+Source: population-pk-and-exposure-response-final-analysis-report, Page 141 (link). 
+ 
+Reference ID: 5273231
+
+
+===== PAGE 188 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+189 
+Version date: April 2019  
+The objective of this review is to evaluate the adequacy of the Applicant’s 
+physiologically based pharmacokinetic (PBPK) modeling and simulation analyses for 
+the purpose of evaluating the drug-drug interaction (DDI) potentials of fruquintinib as 
+victim of CYP3A enzyme modulators to inform the prescribing information.  
+ 
+Based on the review of the Applicant’s PBPK report (HUMP-2-B), PBPK report 
+addendum 1, and the responses to the FDA information requests (IRs) submitted on 
+May 4, July 11, and August 2, 2023, as well as the submitted modeling and simulation 
+files, the Division of Pharmacometrics concluded that the Applicant’s PBPK model is 
+adequate to predict the effects of CYP3A4 modulators on the PK of fruquintinib as 
+follows:   
+ 
+The Applicant’s PBPK analysis captured the clinical DDI study results (Study 2020-013-
+00US2), which reported about 10% increase in the area under the curve (AUC) of 
+fruquintinib when coadministered with itraconazole, whereas about 65% decrease in 
+AUC with rifampin. They suggested that the expected drug interaction of fruquintinib is 
+not clinically meaningful with strong CYP3A4 inhibitors, while it is expected to be 
+moderate with strong CYP3A4 inducers. The Applicant’s PBPK analysis predicted about 
+32% decrease in the fruquintinib AUC with efavirenz coadministration suggesting that 
+the drug interaction potential of fruquintinib with the moderate CYP3A4 inducer is weak.  
+ 
+In addition, the PBPK analysis was adequate to assess potential risks and provide 
+support in predicting DDI potential of fruquintinib as perpetrator for P-gp and BCRP 
+transporter substrates based on the clinical DDI study conducted with a single dose 
+fruquintinib.  
+ 
+Background 
+Fruquintinib is proposed for treatment of patients with metastatic colorectal cancer who 
+have been previously treated with fluoropyrimidine-, oxaliplatin-, and irinotecan-based 
+chemotherapy; an anti-VEGF therapy; and, if RAS wild-type, an anti-epidermal growth 
+factor receptor therapy. The proposed dose regimen is 5 mg QD taken orally with or 
+without food for 3 weeks followed by 1 week off in each 28-day treatment cycle.  
+ 
+Fruquintinib exhibits low solubility that is pH dependent and high permeability. Food did 
+not affect fruquintinib exposure and rabeprazole (a proton pump inhibitor) did not show 
+clinically significant DDI. Fruquintinib Tmax was around 2 h, while half-life was 42 h. 
+Absolute bioavailability was not evaluated. Steady state was achieved after 14 days of 
+repeat QD dosing (Studies 2009-013-00CH1 and 2015-013-00US1) with an 
+accumulation ratio of about 4 and 31 for fruquintinib and its metabolite, M11, 
+respectively (PK Memo for Module 2.7.2).  
+ 
+Fruquintinib and M11 PK are dose proportional and time independent. Fruquintinib 
+exposure increased linearly in patients over 1 to 6 mg (Study 2009-013-00CH1). 
+Fruquintinib CL/F was similar after single vs. multiple dosing in patients (Study 2009-
+013-00CH1 and PK Memo for Module 2.7.2). Fruquintinib and M11 exposure were 
+similar between healthy and patient populations (PK Memo for Module 2.7.2) and the 
+Reference ID: 5273231
+
+
+===== PAGE 189 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+190 
+Version date: April 2019  
+effects of health status (i.e., healthy subject vs. patient) on fruquintinib and M11 
+exposures were negligible in the PopPK analysis (Summary of Clinical Pharmacology 
+Studies). 
+ 
+The human mass balance study (Study 2015-013-00CH2) showed approximately 60% 
+of the administered dose was recovered in urine (0.5% as unchanged) and 30% of the 
+dose was recovered in feces (5% unchanged) after a single oral administration. Oral 
+bioavailability was assumed to be greater than 60% based on the recovery of the dose 
+in urine. M11 was identified as primary metabolite of fruquintinib in plasma, which slowly 
+formed from fruquintinib (Tmax around 48 h) and the half-life was about 65 hr. Of note, 
+M11 contribution to the overall pharmacological activity of fruquintinib is considered not 
+clinically meaningful (<5% of total pharmacological activity of fruquintinib  at a 
+therapeutic exposure). 
+ 
+Fruquintinib is metabolized by multiple enzymes including both CYP and non-CYP 
+enzymes. In vitro data suggested that CYP3A4 is the main CYP enzyme with minor 
+contributions from CYP2C8, CYP2C9, and CYP2C19. Also, CYP3A4 is the main CYP 
+involved in M11 formation (DMPKR20190006-E-01). Fruquintinib is not a substrate of 
+CYP1A2, CYP2B6, or CYP2D6; is not an inhibitor of CYP1A2, CYP2B6, CYP2C8, 
+CYP2C9, CYP2C19, CYP2D6, and CYP3A4/5 (IC50 values >50 uM); and not an 
+inducer of CYP1A2, CYP2B6, and CYP3A4. In vitro, fruquintinib did not show time-
+dependent inhibition of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 and 
+CYP3A4/5.      
+ 
+Fruquintinib is not a substrate of P-glycoprotein (P-gp), organic anion transport protein 
+(OATP)1B1 or OATP1B3 (Report 400253-2019032601; DMPKR20090007-01). 
+Fruquintinib is an inhibitor of P-gp and BCRP in vitro (DMPKR20090007-01; 
+DMPKR20150080-E-01). M11 is a weak inhibitor of P-gp (IC50 >20uM) and is an 
+inhibitor of BCRP (IC 50 of 1.03 uM) in vitro (DMPKR20150021-E-01; 
+DMPKR20150027-E-01). Fruquintinib is not an inhibitor of OATP1B1, OATP1B3, OAT1, 
+OAT3, OCT2, MATE1, and MATE2-K (Report 400253-2019032601). The M11 
+metabolite was an inhibitor of OATP1B1, OATP1B3, MATE1, and MATE2-K, but not for 
+OAT1, OAT3, and OCT2 (ADME-HJHP-210908-SLC Inhibition).  
+ 
+In the clinical DDI studies, itraconazole did not affect fruquintinib exposure (about 10% 
+increase in AUC), while rifampin showed moderate effects showing about 65% 
+decrease in AUC (Study 2020-013-00US2). A single dose fruquintinib did not show 
+clinically meaningful effects on the PK of P-gp and BCRP substrates, dabigatran 
+etexilate and rosuvastatin, respectively. The observed AUC ratios of dabigatran and 
+rosuvastatin with and without fruquintinib were within 0.8-1.25 (Study 2021-013-00US3).  
+ 
+The Applicant conducted PBPK analysis to assess DDI potentials of fruquintinib as a 
+victim when coadministered with CYP3A4 modulators and as an inhibitor when 
+coadministered with P-gp and BCRP transporter substrates.  
+ 
+Methods 
+Reference ID: 5273231
+
+
+===== PAGE 193 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+194 
+Version date: April 2019  
+attributing the fecal excreted radioactivity to the extent of absorption/from biliary 
+excretion. The Applicant provided additional simulations using a higher fa of 1 and 
+showed there is no meaningful difference in the PBPK analysis results. The justification 
+was considered reasonable and supported by the additional simulation results. This 
+review presents the updated DDI simulation results using fa = 1 provided by the 
+Applicant in the response to the IR and the PBPK report addendum-1 and/or provided 
+discussions based on the FDA reviewer’s additional simulations using fa=1 performed to 
+confirm the applicant’s result of no meaningful differences in PBPK analysis conclusion 
+between fa=0.6 and 1.     
+ 
+Model Development, Refinement, and Verification:  
+Model development and refinement:  
+As shown in Figure 21 above, the model was developed using the data from in vitro 
+studies and clinical PK studies.  
+ 
+The clinical DDI study data with itraconazole (Study 2020-013-00US2) was used to 
+refine fmCYP3A4 for fruquintinib and M11, the final values of which were selected 
+based on the sensitivity analysis (SA). The fmCYP2C9 for fruquintinib was estimated 
+using in vitro metabolite formation data, whereas the fmCYP2C9 for M11 was estimated 
+based on the human mass balance data (Study 2015-013-00CH2). Based on in vitro 
+metabolite ID data, M11 was assumed to be metabolized equally by CYP3A4 and 
+CYP2C9. The fmCYP3A4 and fmCYP2C9 for M11 were estimated 20% each to M11’s 
+metabolism based on the sensitivity analysis using clinical rifampin DDI study data 
+(Study 2020-013-00US2). Fruquintinib oral clearance in Chinese subjects was assumed 
+to be approximately 89% of that of the US subjects in all PBPK simulations to capture 
+the oral clearance in each population calculated from the observed data. 
+ 
+Reviewer comments: Refer to the discussion in Q1 regarding simulations in Chinese 
+subjects.   
+ 
+Model verification:  
+The refined fruquintinib model with fruquintinib fmCYP3A4 and fmCYP2C9 as 20% and 
+10%, respectively, was verified by comparing the simulated vs. observed DDI effect with 
+rifampin. The fruquintinib model was further verified by comparing the model predicted 
+to the observed fruquintinib PK in healthy subjects and cancer patients after single and 
+repeat oral doses of fruquintinib 4 to 5 mg QD (Clinical studies 2020-013-00US2, 
+20210013-00US3, 2012-013-00CH2, 2013-013-00CH2, 2020-013-00US1, 2009-013-
+00CH1 and 2015-013-00US1). The refined M11 model with fmCYP3A4 and fmCYP2C9 
+for M11 each as 20% of the total M11 metabolism, was verified by comparing the model 
+simulated vs observed M11 DDI effect with itraconazole. The M11 model was further 
+verified by comparing the model predicted to the observed M11 PK after single and 
+repeat oral doses of fruquintinib 5 mg in healthy subjects and cancer patients (Clinical 
+studies 2020-013-00US1, 2020-013-00US2 and 2015-013-00US1).     
+ 
+Reviewer comments: In vitro Ki values for P-gp and BCRP were used in the PBPK 
+model. Refer to the discussion in the Question 3 below regarding additional sensitivity 
+Reference ID: 5273231
+
+
+===== PAGE 194 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+195 
+Version date: April 2019  
+analysis conducted by the FDA reviewer to assess uncertainties regarding DDI 
+simulations for P-gp and BCRP substrates.    
+ 
+Model Applications:  
+The Applicant used the final PBPK model to predict DDI potentials of fruquintinib as 
+victim of CYP3A4 modulators and as perpetrator for P-gp and BCRP substrates in 
+cancer patients. To simulate DDIs with moderate CYP3A4 inducers, the efavirenz 
+model in the Simcyp compound library (SV-efavirenz, V20) was used without any 
+modification, whereas the rifampin model (SV-rifampin, V20) was used with the IndMax 
+for CYP3A4 increased from 16 to 37. DDIs with weak CYP3A4 inducers were simulated 
+using the dexamethasone model in Simcyp compound library (SV-dexamethasone, 
+V20). 
+ 
+Reviewer’s comment:  The Applicant was requested to justify this IndMax modification 
+via the IR sent on 4/26/23. See the discussion in the Question 2 below.  
+ 
+Results  
+1. Can the PBPK model adequately describe the PK profiles of fruquintinib and 
+its major metabolite M11 after single dose administration of fruquintinib? 
+Yes. The fruquintinib PBPK model reasonably well described PK parameters (AUC and 
+Cmax) of fruquintinib and M11 (Table 76) and their concentration-time profiles in plasma 
+(Figure 22) following a single oral administration of fruquintinib.   
+ 
+Source: Applicant’s PBPK report humb-2-b. * The arithmetic mean values were compared for A and B. Note that these 
+simulations were conducted using Fa=0.6. HV represents healthy volunteers. The reviewer calculated the ratio of 
+simulated vs. observed (Sim/Obs) for each trial. 
+ 
+Reviewer’s comment: To simulate fruquintinib PK in Chinese subjects, the Applicant 
+adjusted Clint values for CYP3A4 and CYP2C9 to address the difference in oral 
+clearance calculated from the observed PK data between US (Western) vs. Chinese 
+healthy subjects. These estimated Clint values were used for PBPK analysis along with 
+Single 
+ 
+4490
+108
+Observed*
+1.23
+1.20
+Sim/Obs
+5532
+130
+Simulated*
+4644
+129
+Observed*
+1.00
+1.00
+Sim/Obs
+5463
+123
+1957
+8.00
+Simulated
+5287
+114
+1969
+13.00
+Observed
+1.03
+1.08
+0.99
+0.62
+Sim/Obs
+5541
+124
+2009
+8.07
+Simulated
+5058
+117
+1729
+12.20
+Observed
+1.10
+1.06
+1.16
+0.66
+Sim/Obs
+5574
+143
+Simulated
+5820
+157
+Observed
+0.96
+0.91
+Sim/Obs
+5574
+143
+Simulated
+5870
+167
+Observed
+0.95
+0.86
+Sim/Obs
+A
+4 mg
+00CH2 
+ 
+ 
+(fed)
+B
+4 mg
+2012-013-
+00CH2 
+HV Chinese 
+(fasted)
+C
+5 mg
+2020-013-
+00US1
+HV Western 
+(fed)
+D
+5 mg
+2020-013-
+00US1
+HV Western 
+(fasted)
+E
+5 mg
+2013-013-
+00CH2
+HV Chinese 
+(Reference)
+F
+5 mg
+2013-013-
+00CH2
+HV Chinese 
+(Test)
+Table 75. Comparison of the Observed and Simulated PK Parameters of Fruquintinib 
+and M11 Following a single dose administration of fruquintinib in healthy subjects 
+Reference ID: 5273231
+
+
+===== PAGE 195 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+196 
+Version date: April 2019  
+Sim-Chinese or Sim-Cancer populations in Simcyp. The Applicant’s approach attributes 
+the observed difference solely to clearance difference, while oral clearance is 
+determined by both clearance and bioavailability. Note that the clinical DDI studies with 
+itraconazole and rifampin, which were used for model development/verification, were 
+conducted in healthy Western subjects. The FDA reviewer conducted simulations for 
+Chinese subjects using CYP3A4 and CYP2C9 Clints in Table 75 (i.e., input parameters 
+for Western healthy volunteers), and the model still reasonably captured well 
+fruquintinib AUC and Cmax. This was reasonable as the observed difference in oral 
+clearance between Chinese and Western subjects is about 10%. It was considered that 
+the Applicant’s Chinese population simulations provided support to model performance 
+evaluation.  
+ 
+The FDA reviewer repeated the applicant’s simulations in Table 76 using fa=1. Overall, 
+fruquintinib AUC and Cmax were well captured and M11 PK was reasonably well 
+captured using the alternative fa of 1. M11 Cmax, which reflects M11 formation rate by 
+CYP3A4 and CYP 2C9, was better captured with fa=1 simulations compared to those 
+with fa=0.6 (simulated vs. observed ratio with fa=1 were 0.92 and 0.97 for C and D in  
+Table 76 above), while AUCs were somewhat overestimated (still within 2-fold 
+difference). This seems due to that M11 elimination parameters were not updated in the 
+fa sensitivity analysis provided in the Applicant’s IR response. Considering the purpose 
+of the PBPK analysis, the impact of this was considered not meaningful as it does not 
+affect victim DDI evaluation of fruquintinib. In addition, overestimation of M11 exposure 
+considered as more conservative scenario (i.e., higher inhibitor exposure) for DDI 
+evaluation with BCRP substrates.     
+ 
+The Applicant conducted multiple dose simulations in cancer populations using Simcyp 
+default cancer population (Sim-Cancer). Western and Chinese cancer patients were 
+simulated by using each population specific CYP3A4 and CYP2C9 Clint values 
+estimated in respective HV populations in Sim-Cancer population. In general, the ratios 
+of fruquintinib AUC simulated in Sim-cancer population and observed in clinical studies 
+with cancer patients ranged from 1.32 to 1.67 and from 1.13 to 1.84 for fruquintinib 
+Cmax. Given the uncertainties associated with using an unselected (all comer) cancer 
+population, cancer population simulations were considered as supportive. Because 
+fruquintinib showed dose proportional PK from 1 mg to 6 mg and did not show time-
+dependent kinetics, it is reasonable to use single dose administration of fruquintinib in 
+victim DDI simulations.  
+ 
+Figure 22. Comparison of the observed and simulated PK profiles of fruquintinib 
+and M11 following single dose administration of fruquintinib   
+ 
+ 
+Reference ID: 5273231
+
+
+===== PAGE 197 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+198 
+Version date: April 2019  
+Table 76. Summary of the clinical and simulated DDI studies in healthy subjects 
+  
+Source: Applicant’s PBPK report humb-2-b and PBPK report humb-2-b-addendum-1. Sim represents the 
+applicant’s simulated data using Fa=0.6, whereas Obs represents the observed data in the applicant’s clinical 
+studies. Sim/Obs ratios were calculated by the reviewer. * indicates the applicant’s simulation result with fa=1 
+provided in the PBPK report addendum-1.  
+ 
+Reviewer comments: The clinical DDI studies with itraconazole and rifampin were 
+conducted in healthy subjects. The Applicant used cancer population (Sim-Cancer, 
+Simcyp V20) for efavirenz and dexamethasone DDI simulations. The FDA reviewer 
+obtained similar results (less than 15 % difference in the simulated AUCRs) using the 
+healthy volunteer population to those of the Applicant’s in a cancer population. In 
+response to FDA’s IR, the Applicant provided efavirenz simulation in healthy volunteer 
+population on July 11, 2023, and provided the updated simulation of this using fa=1 in 
+the PBPK report addendum-1 in both healthy (included in Table 77) and cancer 
+populations; the results were similar in healthy vs. cancer populations. 
+ 
+The FDA reviewer repeated rifampin and itraconazole DDI simulations using fa=1. 
+There was no meaningful difference (less than 1% difference in the simulated AUCR 
+and CmaxR) from the Applicant’s results obtained with fa=0.6 (Table 77).   
+ 
+The Applicant’s PBPK model estimated CYP3A4 Clint with fruquintinib fmCYP3A4 of 20 
+% using the itraconazole clinical DDI data. Risk assessment was conducted using an 
+alternative CYP3A4 Clint (0.0072113 was estimated using fmCYP3A4 of 30% and fa=1) 
+that is higher than the current value (0.0056938 estimated with fmCYP3A4 of 20% and 
+fa=1). This fmCYP3A4 of 30% resulted in 27% increase in AUC of fruquintinib with 
+itraconazole, which was considered as the upper bound of fmCYP3A4 for fruquintinib 
+for subsequent sensitivity analyses below.  
+ 
+In the FDA reviewer's sensitivity analysis using fmCyp3A4 of 30%, fruquintinib AUC in 
+the presence of efavirenz was decreased to 68% of that without efavirenz, which was 
+consistent with the Applicant’s conclusion that drug interaction potential with moderate 
+CYP3A4 inducers such as efavirenz would be weak.       
+ 
+The Applicant’s PBPK report and the addendum-1 included additional PBPK analyses 
+for moderate and weak CYP3A4 inhibitors. Considering that itraconazole did not show 
+clinically meaningful effect on fruquintinib exposure, it is reasonable to expect no 
+Modulator
+Modulator Type
+Trial
+Healthy subjects
+Modulator
+Fruquintini
+b
+AUCR
+CmaxR
+0.34
+0.87
+Sim
+0.35
+0.88
+Obs
+0.97
+0.99
+Sim/Obs
+1.18
+1.02
+Sim
+1.1
+0.94
+Obs
+1.07
+1.09
+Sim/Obs
+Efavirenz
+Moderate CYP3A4 
+inducer
+600 mg QD for D1-
+D28
+5 mg on 
+D15
+0.68
+0.96
+Sim*
+Itraconazole
+Strong CYP3A4 
+inhibitor
+200 mg QD for D1-
+D11
+5 mg on D5
+Dosing regimen
+Fruquintinib Ratio
+Rifampin
+Strong CYP3A4 
+inducer
+600 mg QD for D1-
+D28
+5 mg on D8
+Reference ID: 5273231
+
+
+===== PAGE 198 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+199 
+Version date: April 2019  
+clinically meaningful DDIs with other strong, moderate, and weak CYP3A4 inhibitors 
+and no additional PBPK analysis is necessary for those CYP3A4 inhibitors. 
+ 
+The Applicant also included DDI simulations for weak CYP3A4 inducers. DDI potentials 
+of weak CYP3A4 inducers on the exposure of fruquintinib are expected to be weak 
+based on the efavirenz simulation. The Applicant’s DDI simulation for dexamethasone 
+coadministration predicted less than 10% decrease in simulated Cmax and AUC of 
+fruquintinib.       
+     
+The Applicant increased CYP3A4 IndMax to 37 from the default value of 16 in the 
+Simcyp (V20) rifampin model to better recover the observed rifampin effects on 
+fruquintinib PK. In response to FDA’s IR, the Applicant provided three references6,7,8 
+that used higher CYP3A4 IndMax for rifampin, as justification. The FDA reviewer 
+conducted sensitivity analysis (for both fa=0.6 and fa=1) to evaluate the impact of 
+IndMax on fmCYP3A4 estimation. Using the original IndMax of 16, rifampin DDI effects 
+were underpredicted (the predicted AUCR was 0.52 which did not capture the observed 
+0.35). As the higher fruquintinib fmCYP3A4 of 30% did not capture the AUCR if IndMax 
+=16 was used (the predicted AUCR was 0.44), and considering that 30% as the upper 
+bound of fmCYP3A4 to be consistent with the observed itraconazole effect on 
+fruquintinib exposure, this sensitivity analysis supports the currently optimized 
+fruquintinib fmCYP3A4 (20%) using IndMax=37. The choice of IndMax value in the 
+rifampin model would not affect the dose recommendations for concomitant use with 
+strong and moderate CYP3A4 inducers in the labeling. The clinical DDI data were used 
+for strong CYP3A4 inducers and for moderate CYP3A4 inducers, the Applicant’s 
+analysis and FDA reviewer’s risk assessment are consistent regarding the magnitude of 
+the predicted DDI potential as weak.   
+ 
+3. Can PBPK analyses provide support to determination of drug interaction 
+potentials of fruquintinib as perpetrator with P-gp and BCRP substrates using 
+the single dose clinical DDI study?  
+Yes, PBPK analyses can provide support to the decision based on the single dose 
+clinical DDI study in healthy subjects (Study 2021-013-00US3) where fruquintinib did 
+not show clinically meaningful interaction effects on the PK of dabigatran etexilate, a P-
+gp substrate, and of rosuvastatin, a BCRP substrate.  
+ 
+ 
+ 
+6 Almond et al., 2016. Prediction of Drug-Drug Interactions Arising from CYP3A induction Using a Physiologically 
+Based Dynamic Model. Drug Metab Dispos 44(6): 821-832. 
+7 Fahmi et al., 2016. Evaluation of CYP2B6 Induction and Prediction of Clinical Drug-Drug Interactions: 
+Considerations from the IQ Consortium Induction Working Group-An Industry Perspective. Drug Metab Dispos 44: 
+1720- 1730. 
+8 Yamashita et al., 2013. Modeling of Rifampicin-Induced CYP3A4 Activation Dynamics for the Prediction of Clinical 
+Drug-Drug Interactions from In Vitro Data. PLoS ONE 8(9): 1-11. 
+ 
+Reference ID: 5273231
+
+
+===== PAGE 199 =====
+
+NDA 217564 Multi-disciplinary Review and Evaluation  
+Fruquintinib/FRUZAQLA 
+ 
+ 
+ 
+200 
+Version date: April 2019  
+The simulated AUCR and CmaxR for dabigatran and rosuvastatin by the applicant’s 
+PBPK model were consistent with the observed data that indicate no clinically 
+meaningful inhibition of P-gp and BCRP transporters after single dose administration of 
+fruquintinib (Table 78).   
+ 
+Table 77. Comparison of the simulated and observed fruquintinib DDI potentials 
+as inhibitors of P-gp and BCRP transporters in healthy subjects after single dose 
+administration of fruquintinib 
+ 
+Source: Applicant’s PBPK report humb-2-b. Sim/Obs ratios were calculated by the reviewer. Sim represents the 
+applicant’s simulated data, whereas Obs represents the observed data in the applicant’s clinical studies.  
+ 
+Reviewer comments: For both dabigatran and rosuvastatin, Cmax values were 
+underpredicted with and without fruquintinib. The applicant discussed the 
+underprediction of dabigatran Cmax, partly attributable to the difference between the 
+measured (total dabigatran) vs. simulated (free dabigatran only), which was considered 
+reasonable. For rosuvastatin Cmax, no discussion was provided in the PBPK report. 
+Rosuvastatin AUC was reasonably well captured.  
+ 
+The FDA reviewer repeated dabigatran and rosuvastatin DDI simulations using fa=1, 
+there were no meaningful difference compared to the Applicant’s results obtained with 
+fa=0.6 in Table 78 (less than 1% difference in the simulated AUCR and CmaxR).  
+ 
+The FDA reviewer performed additional PBPK analyses using both single dose and 
+multiple dose scenarios of fruquintinib administration in healthy subjects along with the 
+sensitivity analysis for P-gp and BCRP Ki values and hepatic BCRP abundance (Table 
+79). The FDA reviewer’s sensitivity analysis suggested that fruquintinib DDI potentials 
+with P-gp and BCRP substrates under the worst-case scenarios would be 26% and 49 
+% as indicated by the increase in dabigatran and rosuvastatin exposure (AUC), 
+respectively, when co-administered with fruquintinib (Table 79).  
+ 
+Collectively, PBPK analyses provided support to the use of the single dose clinical study 
+for evaluation of perpetrator DDI potential of fruquintinib when coadministered with P-gp 
+and BCRP substrates.     
+Substrate
+Substrate 
+Type
+Trial
+Substrate
+Fruquintini
+b
+AUC
+Cmax
+AUC
+Cmax
+AUCR
+CmaxR
+859
+79.7
+888
+82.2
+1.03
+1.03
+Sim
+1014
+123
+924
+111
+0.91
+0.90
+Obs
+0.85
+0.65
+0.96
+0.74
+1.13
+1.14
+Sim/Obs
+29.2
+2.13
+31.0
+2.30
+1.06
+1.08
+Sim
+36.1
+4.00
+29.3
+3.38
+0.81
+0.84
+Obs
+0.81
+0.53
+1.06
+0.68
+1.31
+1.29
+Sim/Obs
+Rosuvastatin
+BCRP 
+substrate
+10 mg
+5 mg
+Dosing regimen
+Substrate
+Substrate + Fruquintinib
+Substrate Ratio
+Dabigatran
+P-gp 
+substrate
+150 mg
+5 mg
+Reference ID: 5273231

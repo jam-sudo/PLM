@@ -1,0 +1,54 @@
+{
+  "nda": "NDA203415",
+  "drug_name": "enzalutamide",
+  "pk_tuples": [
+    {
+      "dose_mg": 150.0, "dose_original": "150 mg with a meal",
+      "route": "oral",
+      "formulation": "capsule",
+      "food": "fed",
+      "population": "patient",
+      "n_subjects": 3, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 3360.0, "tmax_h": 0.53,
+      "auc_inf_ng_h_ml": 334000.0, "auc_last_ng_h_ml": null,
+      "t_half_h": 143.7, "cl_L_h": 0.456, "vd_L": 92.4,
+      "source_page": 22, "confidence": "high", "notes": "Metastatic CRPC patients, Trial S-3100-1-01, single dose; converted from μg/mL (Cmax 3.36; AUC 334)"
+    },
+    {
+      "dose_mg": 160.0, "dose_original": "160 mg fed high fat",
+      "route": "oral",
+      "formulation": "capsule",
+      "food": "high_fat_meal",
+      "population": "healthy_adult",
+      "n_subjects": 30, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 3740.0, "tmax_h": 2.0,
+      "auc_inf_ng_h_ml": 285000.0, "auc_last_ng_h_ml": null,
+      "t_half_h": 87.4, "cl_L_h": 0.599, "vd_L": 71.9,
+      "source_page": 22, "confidence": "high", "notes": "Healthy male volunteers, Trial MDV3100-05; converted from μg/mL"
+    },
+    {
+      "dose_mg": 160.0, "dose_original": "160 mg fasted",
+      "route": "oral",
+      "formulation": "capsule",
+      "food": "fasted",
+      "population": "healthy_adult",
+      "n_subjects": 30, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 5250.0, "tmax_h": 1.02,
+      "auc_inf_ng_h_ml": 292000.0, "auc_last_ng_h_ml": null,
+      "t_half_h": 94.3, "cl_L_h": 0.600, "vd_L": 76.4,
+      "source_page": 22, "confidence": "high", "notes": "Healthy male volunteers, Trial MDV3100-05; converted from μg/mL"
+    },
+    {
+      "dose_mg": 160.0, "dose_original": "160 mg fasted",
+      "route": "oral",
+      "formulation": "capsule",
+      "food": "fasted",
+      "population": "healthy_adult",
+      "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 4460.0, "tmax_h": 1.75,
+      "auc_inf_ng_h_ml": 237000.0, "auc_last_ng_h_ml": null,
+      "t_half_h": 69.8, "cl_L_h": 0.705, "vd_L": 71.5,
+      "source_page": 22, "confidence": "high", "notes": "Healthy male volunteers, Trial 9785-CL-0001 mass balance; converted from μg/mL"
+    }
+  ]
+}

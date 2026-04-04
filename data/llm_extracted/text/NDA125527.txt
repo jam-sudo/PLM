@@ -1,0 +1,225 @@
+
+
+===== PAGE 5 =====
+
+ 
+ 
+Page 4 of 14 
+ 
+ 
+ 
+1.3 
+SUMMARY OF IMPORTANT CLINICAL PHARMACOLOGY AND BIOPHARMACEUTICS 
+FINDINGS 
+Nivolumab is a humanized IgG4 monoclonal anti-PD-1 antibody. Its molecular weight is 146 
+kDa. 
+Mechanism of Action: Programmed death 1 (PD-1) receptor is a type I membrane protein of 268 
+amino acids. PD-1 is expressed on the surface of activated T cells, B cells, and macrophages. The 
+binding of PD-1 and its ligands (PD-L1 and PD-L2) on a tumor cell contributes to inhibition of 
+active T-cell immune surveillance of tumors. By inhibiting the PD-1 receptor from binding to its 
+ligands, nivolumab reactivates tumor-specific cytotoxic T lymphocytes in the tumor 
+microenvironment and reactivates anti-tumor immunity.  
+Clinical Dose Selection: The selection of nivolumab dose and schedule of 3 mg/kg Q2W was 
+based on the observed clinical safety and efficacy from 306 patients in  trial MDX1106-03 across 
+different dose levels and tumor types. In addition, an integrated assessment of data from in vitro, 
+preclinical, other confirmative clinical studies including CA209063, and exposure-response in 
+multiple tumor types supports the dose selection. 
+Pharmacokinetics: Based on data from 909 patients who received 0.1-20 mg/kg of nivolumab as 
+a single or  multiple doses every 2 or 3 weeks, the population PK mean (CV% ) estimates are as 
+follows:  
+• Clearance, 9.5 mL/h (49.7%) 
+• Volume of distribution at steady-state, 8.0 L (30.4%) 
+• Half-life, 26.7 days (101%).  
+• Time to reach steady state concentrations of nivolumab, 12 weeks after 3 mg/kg Q2W 
+and the systemic accumulation, approximately 3-fold.  
+Population  Pharmacokinetic  Analysis:  Population  PK  analyses  (n=909)  showed  that  the 
+clearance of nivolumab increased with increasing body weight supporting a weight-based dose. 
+The following factors had no clinically important effect on the clearance of nivolumab: age, 
+gender, race, baseline LDH, PD-L1 expression, tumor type, tumor size, renal impairment, and 
+mild hepatic impairment. 
+Exposure/Dose-Response Relationship for Efficacy and Safety: Trough concentration after first 
+dose (Cmin1) of 3 mg/kg nivolumab was not a significant predictor of probability of objective 
+response (OR) in advanced squamous NSCLC. Risk of Grade 3+ drug related -AEs and AEs-
+leading discontinuation did not increase with average concentration at steady state (Cavgss) over 
+the dose range of  3 to 10 mg/kg nivolumab Q2W in advanced squamous NSCLC. 
+Immunogenicity: A total of 24 out of the 281 evaluable patients (8.5%) who received nivolumab 
+of 3 mg/kg Q2W tested positive for  treatment  emergent  anti-nivolumab  antibodies  using  an  
+electrochemiluminescence (ECL) based assay. Neutralizing antibodies were detected in two 
+patients (0.7%). No apparently altering or clinically meaningful diference in PK, safety and 
+efficacy profiles were observed with the anti-nivolumab antibodies development.  
+Reference ID: 3706586
+
+
+===== PAGE 25 =====
+
+10 
+ 
+ 
+(Grade 3+ DR-AEs and AEs leading to DC/D) were conducted with data from subjects in 
+CA209037 (N=230). 
+3.2.2 PPK and E-R Analysis Method  
+Population Pharmacokinetic Analysis Method: There were 3 steps in the PPK analysis. First, 
+a base model was developed to describe the PK of nivolumab without consideration of covariate 
+effects. Second, a full model was developed by incorporating the effect of all pre-specified 
+covariate parameter relationships, and in the third step, the final PPK model was developed by 
+retaining covariates that improved the goodness-of-fit statistic (Bayesian Information Criterion 
+[BIC]). The baseline covariates examined were body weight (BW), age, sex, race, tumor type, 
+estimated glomerular filtration (eGFR) rate, Eastern Oncology Group (ECOG) performance 
+status, lactate dehydrogenase (LDH), hepatic function status, tumor burden, immunogenicity 
+(anti-drug antibodies, ADA), and PD-L1 expression. All the covariate effects other than baseline 
+tumor burden, PD-L1 expression, and tumor burden were assessed by a full model. The effect of 
+immunogenicity on clearance was assessed as a time-varying covariate in an ad-hoc analysis to 
+account for the possibility that anti-drug antibodies (ADA) are not present at all times in 
+immunogenic subjects. The effect of PD-L1 expression was assessed by graphical analysis for 
+subjects from CA209063 and CA209037, as data were not available in all subjects in PPK 
+analysis dataset. The effect of baseline tumor burden was assessed by graphical analysis only for 
+subjects from CA209037, as the effect might be different across tumor types. Covariate effects 
+were examined for nivolumab clearance (CL) and central volume of distribution (VC). No 
+covariates were considered for the peripheral volume of distribution (VP) and inter-
+compartmental clearance (Q). Visual predictive check with and without bias correction was used 
+to evaluate the prediction performance of the final PPK model. 
+Exposure-OR Analysis: The exposure-OR was characterized by a logistic regression model 
+relating Cmin1 to the probability of achieving a IRRC assessed OR, defined as Best Overall 
+Response (BOR) of complete or partial response (CR or PR). There were 3 steps in the analysis. 
+First, a base model was developed to correlate nivolumab exposure and probability of OR 
+(Pr(OR)). Second, potential covariates were examined: sex, ECOG status, BRAF status, prior 
+anti CTLA-4 benefit, PD-L1 status, body weight, age, baseline tumor burden (sum of longest 
+diameters of all target lesions) and baseline LDH. A full model incorporating all the potential 
+covariates was developed. Third, the final model was developed by backward elimination to only 
+retain covariates that were significant based on BIC criteria. The E-R model of OR was 
+evaluated by visual predictive check with respect to the predictor variables in the final model. 
+Exposure-Safety Response Analysis: Grade 3+ DR-AEs and AEs leading to DC/D: The E-R of 
+safety analyses (Grade 3+ DR-AEs and AEs leading to DC) was characterized by two separate 
+semi- parametric Cox Proportional-Hazards (CPH) models. The CPH models were developed in 
+3 stages. First, the relationship between nivolumab exposure (time-averaged steady state 
+Reference ID: 3706586
+
+
+===== PAGE 26 =====
+
+11 
+ 
+ 
+concentration, Cavg,ss) and time-to-event was characterized in a base CPH model. Second, a full 
+model was developed by incorporating the effect of baseline LDH in addition to that of 
+nivolumab exposure. Third, the final model was obtained by retaining only the statistically 
+significant predictors, with appropriate functional forms of their relationships with the events of 
+interest. The CPH model was evaluated by comparing model predicted cumulative probability of 
+Grade 3+ DR-AEs and AEs leading to DC/D vs. time with that obtained by Kaplan-Meier (KM) 
+analyses. 
+3.2.3 PPK and E-R Analysis Result  
+Population Pharmacokinetic Analysis: Nivolumab PK was described with a linear two-
+compartment model with zero-order IV infusion parameterized in terms of clearance (CL), 
+volume of central compartment (VC), inter-compartmental clearance (Q), and volume of 
+peripheral compartment (VP). Inter-individual variability in CL, VC and VP were characterized 
+with lognormal distributions, and a proportional error model was used to characterize the 
+residual error. Covariate analysis revealed that baseline BW and ECOG status were potentially 
+clinically relevant predictors of CL, and BW and sex were potentially clinically relevant 
+predictors of VC. Both CL and VC increase with body weight, however nivolumab exposures 
+(dose normalized Cminss and Cavg,ss) are comparable across the range of body weight (34-162 kg), 
+supported BW-normalized dose regimen is appropriate. Sex was a significant covariate on VC 
+and male subjects had higher VC relative to female subjects. The effect was however, not 
+clinically relevant, as nivolumab exposure was shown to be similar between male and female 
+subjects. CL in subjects with ECOG status>0 was higher than that of subjects with ECOG 
+status=0. Patients with higher ECOG status had higher clearance and therefore lower exposure 
+levels. However, the effect is unlikely to be clinically relevant. The effect of eGFR on CL was 
+statistically significant. It was however, unlikely to be clinically relevant, as the distribution of 
+dose normalized Cavg,ss of nivolumab was similar across the renal function groups. Age, race, 
+LDH, tumor type and hepatic function were found not to be statistically significant or clinically 
+relevant predictors of nivolumab PK. No association was found between CL, baseline tumor 
+burden and PD-L1 expression in subjects with advanced melanoma based on graphical analysis. 
+The immunogenicity effect was not considered to be clinically relevant based on post-hoc 
+analysis showing substantial overlap of CL estimates. In the final model, BW, eGFR, and ECOG 
+were the covariates of CL, and BW and Sex were the covariates of Vc, with all covariates in 
+power models. Parameter estimates from the final PPK model are provided in Table 5. The 
+results of the visual predictive check revealed that the model adequately described the observed 
+data (Figure 4). 
+Reference ID: 3706586
+
+
+===== PAGE 40 =====
+
+CLINICAL PHARMACOLOGY AND BIOPHARMACEUTICS
+FILING FORM/CHECKLIST FOR BLA 125527
+Clinical Pharmacology and Biopharmaceutics Filing Form/Checklist for BLA 
+125527_nivolumab
+Content Parameter
+Yes
+No
+N/A
+Comment
+Criteria for Assessing Quality of an NDA (Preliminary Assessment of Quality)
+        Data
+1
+Are the data sets, as requested during pre-
+submission discussions, submitted in the 
+appropriate format (e.g., CDISC)? 
+x
+2
+If applicable, are the pharmacogenomic data 
+sets submitted in the appropriate format?
+x
+        Studies and Analyses
+3
+Is the appropriate pharmacokinetic 
+information submitted?
+x
+4
+Has the applicant made an appropriate 
+attempt to determine reasonable dose 
+individualization strategies for this product 
+(i.e., appropriately designed and analyzed 
+dose-ranging or pivotal studies)?
+x
+5
+Are the appropriate exposure-response (for 
+desired and undesired effects) analyses 
+conducted and submitted as described in the 
+Exposure-Response guidance?
+x
+E-R for efficacy: CA209063
+E-R for safety: MDX1106-03 
+and CA209063
+6
+Is there an adequate attempt by the 
+applicant to use exposure-response 
+relationships in order to assess the need for 
+dose adjustments for intrinsic/extrinsic 
+factors that might affect the 
+pharmacokinetic or pharmacodynamics?
+x
+7
+Are the pediatric exclusivity studies 
+adequately designed to demonstrate 
+effectiveness, if the drug is indeed 
+effective?
+x
+Waivered from the pediatric 
+study requirement
+8
+Did the applicant submit all the pediatric 
+exclusivity data, as described in the WR?
+x
+Waivered from the pediatric 
+study requirement
+9
+Is there adequate information on the 
+pharmacokinetics and exposure-response in 
+the clinical pharmacology section of the 
+label?
+x
+        General
+10
+Are the clinical pharmacology and 
+biopharmaceutics studies of appropriate 
+design and breadth of investigation to meet 
+basic requirements for approvability of this 
+product?
+x
+11
+Was the translation (of study reports or 
+other study information) from another 
+language needed and provided in this 
+submission?
+x
+Reference ID: 3694914

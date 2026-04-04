@@ -1,0 +1,599 @@
+
+
+===== PAGE 3 =====
+
+NDA 206910 Biopharmaceutics Review-Addendum
+Page 2 of 3
+BIOPHARMACEUTICS EVALUATION
+This document is an addendum to the original Biopharmaceutics review by Dr. Banu 
+Zolnik uploaded in Panorama on March 23, 2015. The CR recommendation included in 
+the Original Biopharmaceutics review is being revised in this review Addendum.   
+This addendum evaluates the following:
+1) Bioequivalence:
+In the original Biopharmaceutics Review (dated 2/23/2015) a complete response 
+was recommended because of failed bioequivalence results with respect to the 
+Cmax metric as defined by the FDA’s 80-125% criteria for bioequivalence. In the
+original review questions with the specific Biopharmaceutics concerns were listed.
+Therefore, during the NDA’s wrap-up meeting, Biopharmaceutics asked if the 
+concerns included in their review were shared by the clinical team.  The Clinical 
+Reviewer, Dr. Andrew Dmytrijuk responded that from the clinical perspective, 
+there were no additional safety concerns with 30% higher Cmax values and 
+reiterated that the higher Cmax values observed with Jadenu were within the 
+overall range of those observed with Exjade in healthy subjects and patients. 
+Also, Dr. Dmytrijuk mentioned that the provided exposure-response data for renal 
+laboratory values were sufficient to support the overall safety of the product.  
+Refer to Dr. Dmytrijuk’s clinical review for specific details.
+In light of the clinical team perspective as noted above, such that the provided 
+exposure-response data supporting the 30% higher rate of exposure are considered
+adequate, the Division of Biopharmaceutics original concerns are mitigated and 
+agrees that the bioequivalence between the proposed Jadenu product and the listed 
+Exjade product was demonstrated using a traditional 90% CI BE approach for 
+AUC and an exposure-response approach for Cmax.
+2) Biowaiver Request:
+In the original Biopharmaceutics review, the biowaiver request for the lower 
+strengths was denied because of the lack of an acceptable in vivo BE study for the 
+highest strength. However, since the lack of bioequivalence issue has been 
+resolved, the biowaiver request for the lower 90 mg and 180 mg strengths is 
+granted. 
+3) Dissolution Testing:
+On March 12, 2015, the Applicant submitted Amendment SDN-011 providing 
+their concurrence to implement the FDA’s recommended acceptance criterion of 
+Q=
+% at 15 minutes for the dissolution test of Jadenu tablets. Amendment 011 
+also included the updated CMC corresponding sections with the revised criterion 
+for the dissolution test.
+(b) 
+(4)
+
+
+===== PAGE 11 =====
+
+NDA 206910 Biopharmaceutics Review
+Page 7 of 32
+the Office of Clinical Pharmacology (OCP). The OCP reviewing team agrees with the 
+Applicant’s conclusion that the higher Cmax values observed with the new Jadenu tablets 
+are not expected to be clinically meaningful. 
+However, the Division of biopharmaceutics has the following remaining questions about 
+the clinical and regulatory impact of the higher rate of exposure of the proposed drug 
+product: 
+•
+Taking into account that Exjade was approved under the provisions of accelerated 
+approval regulations (21 CFR 314.510) with very limited efficacy and safety data 
+and 11 post-marketing study commitments (PMC), 2) have been several revisions 
+to the labeling to address post-marketing safety concerns, and 3) to this date still 
+there are pending clinical PMC addressing efficacy and safety concerns, is it 
+appropriate to use BE as a surrogate for efficacy and safety?  
+•
+Is it acceptable to deviate from the standard bioequivalence criteria? 
+•
+Is there a justified merit for this deviation? 
+•
+Is overcoming the palatability issue observed with the commercial drug 
+product, Exjade, a justifiable reason to deviate from the standard BE 
+criteria? 
+•
+Are there other clinical considerations that warrant the approval of the 
+proposed Jadenu product? 
+•
+Can we assume that the renal laboratory values chosen for the exposure-
+response analysis represent the most critical safety signals? 
+•
+Can we assume that titration will mitigate the safety concerns of a 30% 
+higher Cmax for Jadenu; when it did not happen for Exjade, which is also 
+titrateable? 
+•
+Is it appropriate to introduce in the market a bio-inequivalent product, 
+which in the future will serve as the reference listed product for 505b2 and 
+generic submissions?
+•
+Considering that the FDA’s overall mission is to protect the public health, is it 
+acceptable to introduce in the market a drug product with a higher rate of 
+exposure (mean Cmax), which potentially can have a higher probability of 
+adverse events or safety issues?
+Based on the above concerns, the Division of Biopharmaceutics considers that it is not 
+warranted to deviate from the FDA’s bioequivalence criteria and accept a drug product 
+with a failed bioequivalence study. Therefore, the Division of Biopharmaceutics 
+recommends that the approval of NDA 206910 be supported with an in vivo BE study 
+demonstrating the bioequivalence of the Jadenu and Exjade products with respect to both 
+metrics, Cmax and AUC (i.e., by reformulating the current Jadenu product).
+Biowaiver Request:
+The biowaiver request for the lower 90 and 180 mg strengths of Jadenu tablets cannot be 
+granted at this time because of the lack of an acceptable in vivo BE study for the higher 
+strength supporting this request.
+
+
+===== PAGE 19 =====
+
+NDA 206910 Biopharmaceutics Review
+Page 15 of 32
+The results indicate that AUC0-last, AUCinf are within the 80-125% criteria for 
+bioequivalence, but Cmax fails these criteria (90% CI 120-140%), indicating that the 
+reference Exjade and the proposed Jadenu products are not bioequivalent.
+Reviewer’s Assessment of Pivotal BE Study F2102 :
+This Reviewer confirmed the BE results provided by the Applicant.  The Phoenix 
+software (Phoenix 64 Build 6.3.0.395) was used to re-analyze the deferasirox plasma 
+concentration. The following graph and table present the results that were obtained using 
+Phoenix software.
+This Reviewer calculated the 90% confidence intervals (CI) of AUClast, and AUCinf and 
+the results indicate that these PK parameters are within the acceptable limits of 80-125%. 
+However, the mean Cmax of the proposed product is increased by 30% as compared to 
+that of the Exjade tablets and the 90% CI for Cmax is between 120.28-140.05%, which is 
+outside of the acceptable bioequivalence limits of 80-125%.
+PK variable
+Unit
+Treatment
+N
+Geometric 
+mean
+Geometric mean 
+ratio (% Ref)
+90 % CI
+FTC (test)
+32
+105.83
+DP (ref)
+32
+81.54
+FTC (test)
+32
+1273.44
+DP (ref)
+32
+1270.86
+FTC (test)
+32
+1306.69
+DP (ref)
+32
+1327.10
+120.28-140.05
+93.17-107.77
+91.57-105.87
+umol/L
+umol x h/L
+umol x h/L
+Ln(Cmax)
+Ln(AUClast)
+Ln(AUCinf)
+1.30
+1.00
+0.98
+
+
+===== PAGE 20 =====
+
+NDA 206910 Biopharmaceutics Review
+Page 16 of 32
+2.3
+If the formulations do not meet the standard criteria for 
+bioequivalence, what clinical pharmacology and/or clinical safety and 
+efficacy data support the approval of the to-be-marketed product?
+In those cases that the 90% CI for geometric mean ratio of AUClast, AUCinf or Cmax for the 
+test and reference falls outside the BE boundaries, the clinical impact (i.e., safety and 
+efficacy) of the failed PK parameters are evaluated and the decision to deviate or not 
+from the FDA’s acceptance criteria for BE and accept or reject a failed BE study, is
+primary based on the input from the Clinical and Clinical Pharmacology teams.
+Therefore, in order to fully assess and understand the safety implication of a 30% higher 
+Cmax, a brief background on the approved Exjade product is provided below.
+x
+Exjade was approved on November 2, 2005, under the accelerated approval 
+regulations. The approval letter included eleven post-marketing commitments, which 
+required that the Applicant conduct additional adequate and well-controlled studies to 
+verify and describe the clinical benefit. According to the Annual Status Report 
+Review (dated 01/07/2015 and authored by Diane Leaman), at the present time still 
+there are three delayed and six on going post-marketing requirements/commitments
+that have not been fulfilled. 
+x
+Briefly the scope of the pending PMC/PMRs are to conduct efficacy and safety 
+studies in different patient populations (such as iron overloaded patients with non-
+transfusion dependent thalassemia, in patients with myelodysplastic syndromes and 
+transfusional iron overload, pediatric patients with non-transfusion dependent iron 
+overload), 
+ and an enhanced pharmacovigilance study for 
+patients with MDS.  
+x
+According to the Exjade’s label2, there is a black box warning (added after NDA’s 
+approval) that Exjade may cause renal failure, hepatic failure and death in some 
+patients and gastrointestinal hemorrhage which also may be fatal especially in elderly 
+patients. In addition, Exjade has warnings and precautions for bone marrow 
+suppression, toxicity due to decreased hepatic, renal and/or cardiac function in elderly 
+population, serious and severe hypersensitivity reactions, and severe skin reaction 
+listed in the label.
+In order to evaluate the clinical impact of a 30% increase in Cmax, the Applicant
+provided an exposure-response analysis for safety using data from clinical trials with 
+Exjade tablets. The Office of Clinical Pharmacology evaluated these PK/PD data.  The 
+OCP review indicates “that 30% increase in Cmax Jadenu Cmax is not clinically 
+meaningful” and includes the following statements;
+x
+Exposure-response analyses using tablets for oral suspension clinical trial data in 
+patients showed that renal laboratory abnormalities are not strongly associated with 
+the deferasirox Cmax.
+x
+Only minor safety observations such as nausea and headaches were reported at Cmax 
+in historical deferasirox tablets for oral suspension trials’
+2 http://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3495a70c-870c-4968-940e-8baea152cf85
+(b) (4)
+
+
+===== PAGE 21 =====
+
+NDA 206910 Biopharmaceutics Review
+Page 17 of 32
+x
+Despite the 30% increase in mean Cmax with Jadenu compared to the tablet for oral 
+suspension, the Cmax values with Jadenu were still within the overall range of those 
+observed with the tablet for oral suspension formulation in healthy subjects and 
+patients.”
+For specific details, refer to the OCP’s review authored by Drs. W. Hsu, M. Lian, M. 
+Nitin, and S. Schrieber dated 02/03/2014 in DARRTS.   
+Although, the Division of Biopharmaceutics agrees with OCP’s PK/PD analysis that 
+renal lab abnormalities are not associated with deferasirox Cmax, and the observed Cmax 
+values with Jadenu were within the overall range of those observed with Exjade; there are 
+remaining questions about the impact of deferasirox’s higher Cmax on the overall safety 
+of the product, as described in the black box associated with hepatic failures, 
+gastrointestinal hemorrhages and the role of decreased cardiac function in elderly 
+population. Therefore, it is the Division of Biopharmaceutics opinion that the benefits of 
+Jadenu on overcoming the palpability issues associated with Exjade, do not outweigh the 
+potential probability of an increased risk adverse events or safety issues associated with 
+30% increase in mean Cmax. 
+Therefore, the Division of Biopharmaceutics is deferring to the clinical division to make 
+the decision about the clinical implications of the 30% increase in Cmax on the hepatic 
+failures, gastrointestinal hemorrhages and toxicity seen in the elderly population. 
+2.4
+What is the effect of food on the bioavailability (BA) of the drug from 
+the dosage form? What dosing recommendation should be made, if 
+any, regarding administration of the product in relation to meals or 
+meal types?
+Refer to the Clinical Pharmacology Review.
+2.5
+Bioanalytical Method Validation Section
+2.5.1
+How the active moieties and/or metabolites are identified and 
+measured in the plasma in the biopharmaceutics studies? What 
+bioanalytical methods are used to assess concentrations? 
+The Bioanalytical method utilizes protein precipitation for deferasirox and the associated 
+iron complex (Fe-(deferasirox)2, AML644) in human plasma followed by analysis of the 
+reconstituted samples by LC-MS/MS using Electro Spray Ionization. Benazepril HCl and 
+warfarin were used as an internal standard for deferasirox and associated iron complex,
+respectively.
+2.5.2
+What is the range of the standard curve? How does it relate to the 
+requirements for the clinical studies? What curve fitting techniques 
+are used? What are the lower and upper limits of quantification 
+
+
+===== PAGE 33 =====
+
+3 
+ 
+1 
+EXECUTIVE SUMMARY 
+Deferasirox is an iron chelator. Jadenu is a film-coated tablet (FCT) formulation of 
+deferasirox. Jadenu FCTs are a strength-adjusted formulation of deferasirox with higher 
+bioavailability compared to Exjade, the tablets for oral suspension formulation which is 
+an FDA-approved product for the treatment of patients with chronic iron overload (NDA 
+21882). The sponsor developed the Jadenu FCT formulation to address palatability issues 
+associated with Exjade.  
+ 
+A PK comparability study evaluated deferasirox FCT vs. the tablet for oral suspension 
+formulation. Biowaiver requests for the lower FCT strengths of 90 and 180 mg were 
+submitted and PK/PD analyses for the highest proposed FCT strength of 360 mg were 
+conducted. The comparability study and biowaiver requests were reviewed by ONDQA. 
+ 
+The bioavailability of FCT formulation was 36% greater than with tablets for oral 
+suspension. In the PK comparability study, after strength-adjustment, the FCT 
+formulation (i.e., 360 mg strength) was equivalent to tablets for oral suspension (i.e., 500 
+mg strength) with respect to the mean AUC under fasting conditions, however the mean 
+Cmax was increased by 30%. It is worth noting that the Cmax values with FCT formulation 
+are within range of those observed with the tablet for oral suspension formulation in 
+healthy volunteers and patients. Furthermore, exposure-response analysis for safety was 
+conducted by the sponsor using data from clinical trials with the deferasirox tablets for 
+oral suspension formulation to evaluate the effect of a 30% increase in Cmax. Based on the 
+results from exposure-response analysis, the moderately higher Cmax values observed with 
+the new FCT formulation are not expected to be clinically meaningful. 
+ 
+A food-effect study involving administration of Jadenu to healthy subjects under fasting 
+conditions and with a low-fat (fat content <7% of total calories) or high-fat (fat content 
+>50% of total calories) meal indicated that the AUC and Cmax were slightly decreased 
+after a low-fat meal (by 11% and 16%, respectively). After a high-fat meal, AUC and 
+Cmax were increased by 18% and 29%, respectively. The increases in Cmax due to the 
+change in formulation and due to the effect of a high-fat meal may be additive. Therefore, 
+it is recommended that Jadenu should be taken on an empty stomach or with a low-fat 
+meal. 
+  
+1.1 
+Recommendations 
+ 
+The Office of Clinical Pharmacology, Division of Clinical Pharmacology V and Division 
+of Pharmacometrics, has determined that there is sufficient clinical pharmacology 
+information provided in this NDA to support an approval recommendation.   
+ 
+1.2 
+Post Marketing Requirements/Commitments 
+ 
+None. 
+ 
+ 
+Reference ID: 3696818
+
+
+===== PAGE 35 =====
+
+5 
+ 
+1.4 
+Clinical Pharmacology Summary 
+ 
+Deferasirox is an iron chelator. Jadenu is a film-coated tablet (FCT) formulation of 
+deferasirox. Jadenu FCTs are a strength-adjusted formulation of deferasirox with higher 
+bioavailability compared to Exjade, the tablets for oral suspension formulation which is 
+an FDA-approved product for the treatment of patients with chronic iron overload (NDA 
+21882). The sponsor developed the FCT formulation to address palatability issues 
+associated with Exjade.  
+ 
+A PK comparability study evaluated deferasirox FCT vs. the tablet for oral suspension 
+formulation. Biowaiver requests for the lower FCT strengths of 90 and 180 mg were 
+submitted and PK/PD analyses for the highest proposed FCT strength of 360 mg were 
+conducted. The comparability study and biowaiver requests were reviewed by ONDQA. 
+ 
+The bioavailability (based on AUC) of Jadenu was 36% greater than with deferasirox 
+tablets for oral suspension.  After strength-adjustment, Jadenu (i.e., 360 mg strength) was 
+equivalent to deferasirox tablets for oral suspension (i.e., 500 mg strength) with respect to 
+the mean AUC under fasting conditions, however the mean Cmax was increased by 30% 
+(90% CI: 1.2, 1.4).  
+ 
+The exposure-response analysis for safety using data from clinical trials with deferasirox 
+tablets for oral suspension indicated that 30% increase in Jadenu Cmax is not clinically 
+meaningful; 
+• Exposure-response analyses using tablets for oral suspension clinical trial data in 
+patients showed that renal laboratory abnormalities are not strongly associated 
+with the deferasirox Cmax..  
+• Only minor safety observations such as nausea and headaches were reported at 
+Cmax in historical deferasirox tablets for oral suspension trials.  
+• Despite the 30% increase in mean Cmax with Jadenu compared to the tablet for 
+oral suspension, the Cmax values with Jadenu were still within the overall range of 
+those observed with the tablet for oral suspension formulation in healthy subjects 
+and patients.  
+ 
+A food-effect study involving administration of Jadenu to healthy subjects under fasting 
+conditions and with a low-fat (fat content <7% of total calories) or high-fat (fat content 
+>50% of total calories) meal indicated that the AUC and Cmax were slightly decreased 
+after a low-fat meal (by 11% and 16%, respectively). After a high-fat meal, AUC and 
+Cmax were increased by 18% and 29%, respectively. The increases in Cmax due to the 
+change in formulation and due to the effect of a high-fat meal may be additive. Therefore, 
+it is recommended that Jadenu should be taken on an empty stomach or with a low-fat 
+meal. 
+  
+ 
+ 
+ 
+ 
+Reference ID: 3696818
+
+
+===== PAGE 36 =====
+
+6 
+ 
+2 
+QUESTION BASED REVIEW 
+2.1 
+General Attributes 
+2.1.1 What are the proposed dosage(s) and route(s) of administration? 
+The applicant proposes a Jadenu dosing regimen of 14 mg/kg orally once daily in patients 
+with transfusional iron overload and 7 mg/kg orally once daily in patients with non-
+transfusion-dependent thalassemia (NTDT) syndromes. 
+2.2 
+General Clinical Pharmacology 
+In addition to the information included in this review, also refer to the FDA-approved 
+product labeling for Exjade and the clinical pharmacology review of original NDA 21882 
+(deferasirox tablets for oral suspension) (review dated 10/1/2005 authored by S. 
+Alfayoumi). 
+2.2.1 What are the design features of the clinical pharmacology and clinical studies 
+used to support dosing or claims? 
+A summary of completed deferasirox clinical studies to support the NDA is shown in 
+Table 1. 
+• Three single dose clinical pharmacology studies with the FCT (the relative 
+bioavailablity study F2101, the pivotal PK comparability study F2102, and the 
+food effect study F2103).  
+• 
+• A PK/PD analysis of a large clinical study in the target population (study A2409) 
+of the tablets for oral suspension formulation to determine the relative 
+contributions of AUC and Cmax to the safety and efficacy profiles of deferasirox. 
+ 
+The clinical pharmacology studies were single-center phase 1 studies and were conducted 
+in healthy volunteers in the US.  
+ 
+Table 1. Overview of clinical pharmacology studies and additional analyses to 
+support the FCT application 
+Study  
+Short Title 
+Design Sample size (n) 
+Dose 
+Formulation 
+Study 
+population 
+F2101 
+  
+Pilot relative 
+bioavailability study; 
+comparing three new 
+formulations vs. 
+reference 
+Randomized, open-label, 
+single-center, four-
+period  cross-over (20) 
+500 mg  tablet 
+for oral 
+suspension 
+Healthy 
+subjects 
+  
+F2102 
+PK comparability of 
+FCT vs. reference 
+Randomized, open-label, 
+single-center, two-period 
+cross-over (32) 
+1080 mg FCT, 
+1500 mg tablet 
+for oral 
+suspension 
+Healthy 
+subjects 
+Reference ID: 3696818
+(b) (4)
+
+
+===== PAGE 40 =====
+
+10 
+ 
+The results from the exposure-response analyses generally showed that renal laboratory 
+value abnormalities are more strongly associated with AUC than Cmax. Even for the 
+worst-case scenario, an overall 70% increase in Cmax (FCT with a high fat meal compared 
+to the tablet for oral suspension under fasting condition) is unlikely to cause clinically 
+significant increases in serum creatinine.  
+ 
+2.5 
+General Biopharmaceutics 
+2.5.1 What is the effect of food on the bioavailability (BA) of the drug from the 
+dosage form? What dosing recommendation should be made, if any, 
+regarding administration of the product in relation to meals or meal types? 
+ 
+Study CICL670F2103 was a single-center, open-label, randomized, three-period, six-
+sequence, cross-over study to evaluate the effect of food on the pharmacokinetics of 
+deferasirox film-coated tablets (FCT) in healthy subjects. The three periods tested the 
+effect of the following dosing treatments: 
+ Treatment A (fasted): 1080 mg deferasirox FCT was administered to subjects 
+after overnight fasting for at least 10 hours. 
+ Treatment B (low-fat meal): 1080 mg deferasirox FCT was administered to 
+subjects within 30 minutes after the start of a low-fat breakfast (6.2% fat content). 
+The entire low-fat breakfast was consumed by the subject prior to dosing. 
+ Treatment C (high-fat meal): 1080 mg deferasirox FCT was administered to 
+subjects within 30 minutes after the start of a high-fat breakfast (58.6% fat 
+content). The entire high-fat breakfast was consumed by the subject prior to 
+dosing. 
+ 
+A total of 28 subjects were randomized and of these, 24 subjects completed study 
+treatments. PK samples were collected up to 72 hours post-dose with an 8-day washout 
+period between treatments.  
+ 
+The effect of food on deferasirox FCT PK is shown in Table 3. The results showed that 
+deferasirox FCT PK after a low-fat meal was generally comparable to deferasirox FCT 
+PK under fasted condition—Cmax and AUC decreased approximately 16% and 11%, 
+respectively, when compared to fasted condition. In contrast, a high-fat meal increased 
+deferasirox FCT Cmax and AUC by approximately 29% and 18%, respectively, when 
+compared to fasted condition. 
+ 
+Reference ID: 3696818
+
+
+===== PAGE 41 =====
+
+11 
+ 
+Table 3 . Statistical analysis summary of primary PK parameters for deferasirox 
+FCT. 
+  
+ 
+In regards to safety, this single-dose food effect study in healthy subjects was well 
+tolerated under both fasted and fed conditions, and no new safety signals were observed. 
+ 
+The deferasirox Cmax increases as a result of the formulation change and the effect of a 
+high-fat meal may be additive. Therefore, deferasirox FCT is recommended to be taken 
+on an empty stomach or with a low-fast meal. 
+2.6 
+Analytical Section 
+Deferasirox pharmacokinetic drug concentrations were determined using a validated 
+liquid chromatography-mass spectrometry/mass spectrometry (LC-MS/MS) method. The 
+assay range was 0.670 to 53.6 µmol/L. For full method details, refer to the clinical 
+pharmacology review of original NDA 21882 (deferasirox tablets for oral suspension) 
+(review dated 10/1/2005 authored by S. Alfayoumi). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 3696818
+
+
+===== PAGE 43 =====
+
+13 
+ 
+4 
+APPENDICES 
+ 
+4.1 
+Sponsor’s PK/PD analysis 
+ 
+Study A2409 was designed to provide efficacy and safety data over 52 weeks of 
+treatment with deferasirox in patients presenting with evidence of transfusion-induced 
+iron overload. The target patient pool consisted of patients with a serum ferritin level of ≥ 
+1000 ng/mL or patients presenting with a serum ferritin level <1000 ng/mL but with 
+history of multiple transfusions (>20 transfusions or 100 mL/kg of packed red blood 
+cells) and LIC >2 mg Fe/g dry weight. The initial recommended daily dose of deferasirox 
+DT was 20 mg/kg/day body weight for patients, who had received blood transfusions 
+with a frequency of about 2 to 4 units/month of packed red blood cells. An initial daily 
+dose of 10 mg/kg/day or 30 mg/kg/day was permitted for patients receiving less or more 
+frequent blood transfusions, respectively. 
+ 
+A total of 1,744 patients were enrolled into the study. Of these, 1112 contributed 
+pharmacokinetic data. Average daily dose for all patients was 22.22 mg/kg (SD: 5.921), 
+with the majority of these patients having no dose interruptions (77.6%), or only one dose 
+interruption (15.1%). The PK endpoints in the A2409 PK/PD analyses were C2h on Day 
+1 after a single deferasirox dose, and the steady state PK parameters Ctrough,ss and 
+C2h,ss, collected on both Week 12 and Week 28. The efficacy endpoint was serum 
+ferritin at Week 12 and Week 28 and the safety endpoints were serum creatinine and 
+creatinine clearance, collected at baseline, Week 4 (serum creatinine only), Week 12 and 
+Week 28. Pre-dose or trough concentrations at steady state (Ctrough at Week 12 and 
+Week 28) were used as a surrogate for AUC, and concentrations collected at 2 hours 
+post-dose (C2h at Week 12 and Week 28) were used as surrogate for Cmax. 
+ 
+PK/PD analysis was performed by the sponsor on data from study A2409, to evaluate the 
+relationship between pharmacokinetic parameters (C2h as a surrogate for Cmax, and 
+Ctrough as a surrogate for AUC) and renal laboratory values (serum creatinine and 
+creatinine clearance). 
+ 
+ 
+Effect of C2h,ss or Ctrough,ss on percentage change from baseline in serum creatinine 
+ 
+Scatterplots of the percent changes in serum creatinine versus C2h,ss or Ctrough,ss were 
+generated to further explore the relationship between renal function and PK parameters. 
+For this analysis notable serum creatinine values were defined as: (1) increase in serum 
+creatinine from baseline >33% at 2 consecutive measurements at least 7 days apart 
+(FLAG 1) and (2) increase in serum creatinine >33% from baseline and value >ULN at 2 
+consecutive measurements at least 7 days apart (FLAG 2). Notable values (FLAG1 or 
+FLAG2) are displayed as (+) in the figures while all other values are depicted as (o) in 
+Figure 3 and Figure 4. Figure 3 shows a weak positive correlation between the percent 
+changes in serum creatinine and C2h,ss values at Week 12 and Week 28 (adj R-sq = 
+0.073). Although the median C2h,ss values for patients with notable serum creatinine 
+Reference ID: 3696818
+
+
+===== PAGE 47 =====
+
+17 
+ 
+creatinine clearance category (e.g. less than 60 ml/min to greater than or equal to 60 
+ml/min), but Cmax (as estimated by C2h,ss) did not. Furthermore, modeling suggests that 
+a 70% increase in Cmax (the increase observed when the FCT was administered with a 
+high fat meal) will not result in a clinically meaningful change in creatinine clearance 
+category. The linear mixed effect model suggest that for a given Ctrough,ss value, a 70% 
+increase in Cmax (the highest increase in Cmax observed across the clinical 
+pharmacology studies of the new formulation), would result in a clinically insignificant 
+increase in serum creatinine. When notable increases  in serum creatinine  (FLAG1 and 
+FLAG2)  were present,  they were observed across all deferasirox Cmax, not just near the 
+upper range of Cmax. Notable values – those with the greatest increase in serum 
+creatinine tended to be clustered towards the lower end of the Cmax spectrum. Thus, 
+clinically relevant increases in serum creatinine are not likely due to higher Cmax. In 
+conclusion, based on these results, higher Cmax in a patient with same or similar  AUC  
+is not expected  to result  in clinically significant  changes  in renal function. Patient 
+exposure to a deferasirox formulation that results in a higher Cmax than that observed 
+with the dispersible tablet is not expected to increase the risk of safety findings. 
+ 
+ 
+Reference ID: 3696818

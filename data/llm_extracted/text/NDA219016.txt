@@ -1,0 +1,894 @@
+
+
+===== PAGE 13 =====
+
+NDA 202022 Edurant (rilpivirine) tablets 
+NDA 219016 Edurant (rilpivirine) tablets, for oral suspension 
+vii 
+Integrated Review Template, version 3.0 (10/21/2021) 
+Table of Tables 
+Table 1. Administrative Application Information (NDA 202022 Supplement 20) ............. i 
+Table 2. Administrative Application Information (NDA 202022 Supplement 22) ............ ii 
+Table 3. Administrative Application Information (NDA 219016 Original-1) .................. iii 
+Table 4. Benefit-Risk Framework........................................................................................5 
+Table 5. Clinical Studies Submitted in Support of Efficacy and/or Safety 
+Determinations .............................................................................................................10 
+Table 6. Patient Experience Data Submitted or Considered ..............................................11 
+Table 7. Participants Enrolled and Treated, Full Analysis Set, Study C213 Cohort 2 ......13 
+Table 8. Participants Enrolled and Treated, Full Analysis Set, Study HTX2002 ..............14 
+Table 9. Enrollment by Age and Weight Group at Baseline Across Studies C213 and 
+HTX2002 .....................................................................................................................15 
+Table 10. Virologic Outcomes for Week 48 (Snapshot Analysis), Full Analysis Set, 
+Study C213 Cohort 2 ...................................................................................................17 
+Table 11. Virologic Outcome for Week 48 (Snapshot Analysis) by Baseline HIV-1 
+RNA ≤100,000 copies/mL, Study C213 Cohort 2 .......................................................17 
+Table 12. Population Pharmacokinetic Estimates of Rilpivirine After Administration 
+of the Recommended Daily Oral Dosing Regimen in Pediatric Patients ≥6 to 
+<18 years (Study C213)a ..............................................................................................19 
+Table 13. Population Pharmacokinetic Estimates of Rilpivirine After Administration 
+of the Recommended Daily Oral Dosing Regimen in Pediatric Patients ≥2 to <18 
+years (Study TMC278HTX2002)a ...............................................................................19 
+Table 14. Summary of the Statistical Analysis of the Pharmacokinetic Parameters of 
+RPV After Single Dose Administration of Oral RPV 25 mg Formulated as 
+Dispersible Tablets (G009-01) and as a Single Tablet (Edurant), Following a 
+Standardized Breakfast (Panel 1) (Study TMC278IFD1008) ......................................23 
+Table 15. Statistical Analysis of the PK Parameters of RPV After Single-dose 
+Administration of 25 mg RPV as 10 × 2.5 mg Dispersible Tablet Formulation 
+G009-01 Under Differing Food and Dispersion Liquid Conditions (Study 
+TMC278IFD1008); as Compared to the Effect of Food on RPV PK for the 
+Marketed Formulation (Study TMC278-TiDP6-C137) ...............................................24 
+Table 16. Resistance Emergence in Virologic Failures, Study C213 (n=6/18, 33%) ........41 
+Table 17. Adherence and PK for C213 Virologic Failures ................................................41 
+Table 18. Summary of Bioanalytical Method Validation and Performance ......................46 
+Table 19. Utility of the Population PK Modeling ..............................................................48 
+Table 20. Studies Included in the Population PK Analysis ...............................................50 
+Table 21. Summary of Demographic Characteristics, Stratified by Study ........................51 
+Reference ID: 5347394
+
+
+===== PAGE 15 =====
+
+NDA 202022 Edurant (rilpivirine) tablets 
+NDA 219016 Edurant (rilpivirine) tablets, for oral suspension 
+ix 
+Integrated Review Template, version 3.0 (10/21/2021) 
+Table of Figures 
+Figure 1. Predicted RPV AUCss and Cmax by Weight Group, Stratified by Estimated 
+Bioavailability ..............................................................................................................21 
+Figure 2. Concentrations Over Time (hours) in Virologic Failure Participants ................42 
+Figure 3. Schematic of the Population PK Model .............................................................52 
+Figure 4. Goodness of Fit Plots from the Final PK Model, Stratified by Age Groups ......54 
+Figure 5. Prediction-corrected Visual Predictive Check from Final PK Model ................55 
+Figure 6. Prediction-corrected Visual Predictive Checks of Intensive PK Sampling 
+Data, Stratified by Study and Study Population ..........................................................56 
+Figure 7. Predicted RPV AUCss, Stratified by Weight and Study .....................................58 
+Figure 8. Predicted Distribution of RPV AUCss and Cmax in Pediatric Patients 
+Compared to Adults .....................................................................................................60 
+Figure 9. Predicted RPV AUCss and Cmax by Weight Group, Stratified by Estimated 
+Bioavailability ..............................................................................................................62 
+Figure 10. Time-matched Observed Concentration and Delta-QTcF from Studies 
+C213 and HTX2002 .....................................................................................................65 
+Figure 11. Time-Matched Predicted Concentration and Delta-QTcF from Studies 
+C213 and HTX2002 .....................................................................................................66 
+Reference ID: 5347394
+
+
+===== PAGE 17 =====
+
+NDA 202022 Edurant (rilpivirine) tablets 
+NDA 219016 Edurant (rilpivirine) tablets, for oral suspension 
+2 
+Integrated Review Template, version 3.0 (10/21/2021) 
+OL 
+ 
+open label 
+PBRER 
+Periodic Benefit-Risk Evaluation Report  
+PD 
+ 
+pharmacodynamic(s) 
+PK 
+ 
+pharmacokinetic(s) 
+PLWH  
+people living with HIV 
+PI 
+ 
+prediction interval 
+PMR  
+postmarketing requirement 
+PO 
+ 
+by mouth, orally 
+popPK  
+population pharmacokinetic  
+PPI  
+ 
+patient package insert 
+PREA   
+Pediatric Research Equity Act 
+PT 
+ 
+preferred term 
+QD 
+ 
+once daily 
+OFV   
+objective function value 
+rBA 
+ 
+relative bioavailability 
+RPV  
+rilpivirine  
+RRA   
+Remote Regulatory Assessment  
+RT 
+ 
+reverse transcriptase 
+SA 
+ 
+single arm 
+SAE 
+ 
+serious adverse event 
+SD 
+ 
+standard deviation 
+SE  
+ 
+standard error  
+sNDA  
+supplemental new drug application  
+TDF 
+ 
+tenofovir disoproxil fumarate  
+TEAE  
+treatment-emergent adverse event 
+USP 
+ 
+United States Pharmacopeia 
+USPI   
+United States prescribing information  
+VF 
+ 
+virologic failure 
+WHO  
+World Health Organization 
+3TC 
+ 
+lamivudine 
+Reference ID: 5347394
+
+
+===== PAGE 34 =====
+
+NDA 202022 Edurant (rilpivirine) tablets 
+NDA 219016 Edurant (rilpivirine) tablets, for oral suspension 
+19 
+Integrated Review Template, version 3.0 (10/21/2021) 
+Sparse PK samples in all pediatric participants and intensive PK samples in subset of pediatric 
+participants were collected in Studies C213 and HTX2002 (see Section 6.1 for study design, 
+number of participants, and the distribution of age and body weight).   
+Table 12. Population Pharmacokinetic Estimates of Rilpivirine After Administration of the 
+Recommended Daily Oral Dosing Regimen in Pediatric Patients ≥6 to <18 years (Study 
+C213)a 
+Pharmacokinetics of 
+RPVb 
+Mean±SD 
+Median (range) 
+12.5 mg once daily 
+<20 kg 
+15 mg once daily 
+≥20 to <25 kg 
+25 mg once daily 
+≥25 kg 
+N 
+2 
+2 
+44 
+AUC24h (ng.h/mL) 
+1974, 2707 
+NA (1974 – 2707) 
+1912, 2477 
+NA (1912 – 2477) 
+2536±979 
+2413 (973 – 4848) 
+C0h (ng/mL) 
+68.1, 86.7 
+NA (68.1 – 86.7) 
+48.3, 80.0 
+NA (48.3 – 80.0) 
+87.0±34.5 
+82.7 (27.8 – 171) 
+a 
+The 12.5 mg and 15 mg doses were administered as 5 and 6 dispersed 2.5 mg tablets, respectively. The 25 mg dose was 
+administered as one 25 mg tablet. Mean rilpivirine exposure was approximately 40% higher in TMC278HTX2002 compared to 
+TMC278-C213 
+b 
+Individual data when N=2 
+RPV= rilpivirine; NA = not applicable; SD = standard deviation 
+ 
+Table 13. Population Pharmacokinetic Estimates of Rilpivirine After Administration of the 
+Recommended Daily Oral Dosing Regimen in Pediatric Patients ≥2 to <18 years (Study 
+TMC278HTX2002)a 
+Pharmacokinetics of RPVb 
+Mean±SD 
+Median (range) 
+12.5 mg once daily 
+≥10 to <20 kg 
+15 mg once daily 
+≥20 to <25 kg 
+25 mg once daily 
+≥25 kg 
+N 
+2 
+5 
+18 
+AUC24h (ng.h/mL) 
+4375, 5057 
+NA (4375 – 5057) 
+3541±949 
+3112 (2689 – 4947) 
+4195±1056 
+4016 (2732 – 6260) 
+C0h (ng/mL) 
+151, 163 
+NA (151 – 163) 
+112±39.8 
+91.8 (73.7 – 172) 
+134±38.7 
+121 (78.9 – 220) 
+a  The 12.5 mg and 15 mg doses were administered as 5 and 6 dispersed 2.5 mg tablets, respectively. The 25 mg dose was 
+administered as one 25 mg tablet. Mean rilpivirine exposure was approximately 40% higher in TMC278HTX2002 compared to 
+TMC278-C213 
+b  Individual data when N=2 
+RPV= rilpivirine; NA = not applicable; SD = standard deviation 
+ 
+The pediatric studies did not enroll participants with a body weight lower than 16 kg and 
+younger than 5.9 years old. Despite this lack of data, the Applicant proposed the use of RPV in 
+pediatric patients weighing at least 10 kg and older than 2 years old. To support the proposed 
+dosing regimen, the Applicant conducted PK simulations to predict the effect of body weight on 
+RPV exposure metrics (AUCss and Cmax,ss) and compare RPV exposure metrics between pediatric 
+patients (with a body weight down to 10 kg) and adults.  
+According to the Applicant, the predicted distribution of AUCss appears to be higher than the 
+predicted exposure in adults (Studies C209 and C215), particularly for the weight bands of 10 to 
+16 kg and 25 to 40 kg. The predicted 90% prediction interval (PI) of Cmax,ss was below the safety 
+threshold for QTc prolongation, as determined by the Applicant, of 750 ng/mL across the entire 
+body weight range at the proposed doses (see Section III.12.2.2, Figure 8).  
+ 
+Reference ID: 5347394
+
+
+===== PAGE 38 =====
+
+NDA 202022 Edurant (rilpivirine) tablets 
+NDA 219016 Edurant (rilpivirine) tablets, for oral suspension 
+23 
+Integrated Review Template, version 3.0 (10/21/2021) 
+Assessment 
+Study TMC278IFD1008 was conducted to determine the rBA of RPV following the 
+administration of a single dose of two different oral dispersible tablet formulation candidates and 
+of an oral granule formulation, compared to the administration of a single dose of the 25 mg 
+marketed oral tablet under fed conditions in healthy adult participants. As shown in  
+Table 14, the geometric mean values of RPV AUC and Cmax were 33% and 28% higher, 
+respectively, for the proposed 10 × 2.5 mg tablets for oral suspension (Treatment C) as compared 
+to 1 × 25 mg marketed tablet (Treatment A).  
+Table 14. Summary of the Statistical Analysis of the Pharmacokinetic Parameters of RPV 
+After Single Dose Administration of Oral RPV 25 mg Formulated as Dispersible Tablets 
+(G009-01) and as a Single Tablet (Edurant), Following a Standardized Breakfast (Panel 1) 
+(Study TMC278IFD1008) 
+a n=9 for reference and n=11 for test; Source: Table 7 of the Applicant’s TMC278IFD1008 study report 
+ 
+As shown in Table 15, the AUC∞ of RPV administered as the 2.5 mg tablets for oral suspension 
+under fasted conditions was 31% lower compared to the AUC∞ under fed conditions. When 
+administered with yogurt only, the AUC∞  was 28% lower than when taken with a standard 
+breakfast. Dispersion of the 2.5 mg tablets in an acidic fluid (orange juice) compared with 
+dispersion in water increased the AUC∞ by 12%. Similar results were observed for Cmax and 
+AUClast. The effect of food on the bioavailability of RPV is generally consistent when 
+administered as the 2.5 mg tablets for oral suspension or as the marketed 25 mg tablet. Similar to 
+the market formulation, the RPV 2.5 mg tablets should be taken with a meal. 
+Reference ID: 5347394
+
+
+===== PAGE 39 =====
+
+NDA 202022 Edurant (rilpivirine) tablets 
+NDA 219016 Edurant (rilpivirine) tablets, for oral suspension 
+24 
+Integrated Review Template, version 3.0 (10/21/2021) 
+Table 15. Statistical Analysis of the PK Parameters of RPV After Single-dose 
+Administration of 25 mg RPV as 10 × 2.5 mg Dispersible Tablet Formulation G009-01 
+Under Differing Food and Dispersion Liquid Conditions (Study TMC278IFD1008); as 
+Compared to the Effect of Food on RPV PK for the Marketed Formulation (Study TMC278-
+TiDP6-C137) 
+Parameter 
+Treatment 
+N 
+LS Mean 
+LS Mean Ratio 
+(%) 
+90% CI 
+(%) 
+Cmax 
+Reference: dispersed in water; standard breakfast 
+16 
+121 
+- 
+- 
+(ng/mL) 
+Dispersed in water; fasted 
+16 
+79.8 
+65.79 
+56.40-76.75 
+Dispersed in orange juice; standard breakfast 
+16 
+135 
+111.45 
+95.54-130.01 
+Dispersed in water; yogurt 
+16 
+100 
+82.49 
+70.71-96.23 
+Reference: dispersed in water; fasted 
+16 
+79.8 
+- 
+- 
+Dispersed in water; yogurt 
+16 
+100 
+125.39 
+107.49-146.28 
+AUClast 
+Reference: dispersed in water; standard breakfast 
+16 
+4171 
+- 
+- 
+(ng*h/mL) 
+Dispersed in water; fasted 
+16 
+2990 
+71.68 
+62.84-81.76 
+Dispersed in orange juice; standard breakfast 
+16 
+4751 
+113.90 
+99.86-129.92 
+Dispersed in water; yogurt 
+16 
+3001 
+71.95 
+63.08-82.07 
+Reference: dispersed in water; fasted 
+16 
+2990 
+- 
+- 
+Dispersed in water; yogurt 
+16 
+3001 
+100.38 
+88.01-114.50 
+AUC∞ 
+Reference: dispersed in water; standard breakfast 
+11 
+4697 
+- 
+- 
+(ng*h/mL) 
+Dispersed in water; fasted 
+11 
+3223 
+68.62 
+56.75-82.97 
+Dispersed in orange juice; standard breakfast 
+12 
+5281 
+112.42 
+93.70-134.89 
+Dispersed in water; yogurt 
+13 
+3380 
+71.96 
+60.09-86.17 
+Reference: dispersed in water; fasted 
+11 
+3223 
+- 
+- 
+Dispersed in water; yogurt 
+13 
+3380 
+104.87 
+87.95-125.05 
+Study TMC278-TiDP6-C137; 75 mg single dose administered as 75 mg Phase 3 tablet 
+Cmax (ng/mL) 
+Reference: standard breakfast 
+19 
+275.8 
+- 
+- 
+Fasted 
+19 
+150.2 
+54.45 
+42.92-69.07 
+AUClast (ng*h/mL) 
+Reference: standard breakfast 
+19 
+9683 
+- 
+- 
+Fasted 
+19 
+5546 
+57.27 
+45.72-71.75 
+AUC∞ (ng*h/mL) 
+Reference: standard breakfast 
+19 
+10620 
+- 
+- 
+Fasted 
+19 
+6269 
+59.02 
+46.87-74.32 
+Source: Tables 3 and 4 of the Applicant’s Summary of Biopharmaceutics. 
+Conclusion 
+The results from the relative bioavailability (rBA) and food effect study (Study 
+TMC278IFD1008) support the use of the proposed pediatric formulation (RPV 2.5 mg tablets for 
+oral suspension) in pediatric patients 2 years of age and older, weighing at least 14 kg and less 
+than 25 kg. However, it cannot be used as a substitution for the current marked RPV 25 mg 
+tablets on a milligram-per-milligram basis due to the difference in relative bioavailability. In 
+addition, RPV 2.5 mg tablets should be taken with a meal, as required for RPV 25 mg tablets.  
+ 
+7. Risk and Risk Management 
+7.1. Potential Risks or Safety Concerns Based on 
+Nonclinical Data 
+The preclinical evaluation of RPV included over 55 trials to assess the safety pharmacology, PK, 
+general toxicology, carcinogenicity, reproductive and developmental toxicology, genetic 
+Reference ID: 5347394
+
+
+===== PAGE 63 =====
+
+NDA 202022 Edurant (rilpivirine) tablets 
+NDA 219016 Edurant (rilpivirine) tablets, for oral suspension 
+48 
+Integrated Review Template, version 3.0 (10/21/2021) 
+Overall performance reasonable  
+☒ Yes ☐ No  
+Inspection  
+Is an inspection for bioanalytical site be requested?  
+☒ Yes ☐ No  
+ 
+Bioanalytical site inspection has been requested for TMC278IFD1008, C213 Cohort 2 and 
+HTX2002. The bioanalytical sites are the same for these studies.  The Office of Study Integrity 
+and Surveillance (OSIS) determined that an inspection is not needed because a Remote 
+Regulatory Assessment (RRA) for the site was conducted in February 2023 with no major 
+concerns. 
+12.2. Pharmacometrics Review 
+The population PK model was considered appropriate for describing the observed RPV 
+concentrations and performing PK simulations to predict steady-state RPV exposure metrics 
+(Cmax,ss, AUCss, Ctrough,ss) in children. More specifically, the updated population PK model was 
+utilized to support the current submission as outlined below: 
+Table 19. Utility of the Population PK Modeling 
+Utility of the final model 
+Reviewer’s Comments 
+Derive PK 
+parameters 
+and 
+exposure 
+metrics for 
+different 
+weight 
+bands 
+• A PK model developed in adults, was 
+used to fit new RPV PK data in 
+adolescent and children from Studies 
+C213 and HTX2002.  
+• Body weight was identified as the 
+major covariate affecting RPV 
+apparent clearance and volume of 
+distribution. In addition, children with 
+HIV in Study HTX2002 were 
+estimated 43% higher bioavailability 
+compared to adults, adolescents, 
+and children with HIV of the other 
+studies. 
+• The updated PK model was used to 
+compare RPV exposure metrics 
+(Cmax, AUCss, Ctrough,ss) in different 
+body weight groups, and justify the 
+adequacy of the proposed doses in 
+lower body weight group. 
+• 
+The predicted AUCss for the 
+proposed doses (12.5 mg QD for 
+participants with ≥10 to <20 kg, 15 
+mg QD for ≥20 to <25 kg, and 25 
+mg QD for ≥25 kg) were generally 
+within the target exposure range of 
+the predicted adult mean AUCss, 
+except for the 12.5 mg dose in the 
+10 to 16 kg and the 25 mg dose in 
+the 25 to 40 kg, where the predicted 
+• The reviewer’s assessment of the 
+updated PK model and the 
+conducted sensitivity analyses 
+found that the Applicant’s PK 
+model adequately describes and 
+predicts PK in adults, 
+adolescents, and children. 
+• The higher bioavailability in Study 
+HTX2002 is likely not due to 
+differences in formulations, batch 
+numbers, sites or cohorts of 
+studies or other intrinsic factors 
+(e.g., weight, disease status, 
+etc.). 
+• 
+RPV exposure metrics are 
+consistent and overlapping in 
+participants with body weight 
+groups 10 to 50 kg, under the 
+proposed dosing, except for a 
+higher median AUCss, Cmax,ss for 
+the 10 to 15 kg and the 25 to 30 
+kg group. The median exposure 
+is expected to decrease as body 
+weight increases above 50 kg, 
+however it remains within the 
+observed range of exposure 
+metrics in adults. The predicted 
+exposure metrics are also in 
+agreement with those estimated 
+Reference ID: 5347394
+
+
+===== PAGE 64 =====
+
+NDA 202022 Edurant (rilpivirine) tablets 
+NDA 219016 Edurant (rilpivirine) tablets, for oral suspension 
+49 
+Integrated Review Template, version 3.0 (10/21/2021) 
+mean AUCss was higher than the 
+target exposure. 
+• 
+Although these weight groups were 
+predicted to higher mean exposure 
+than adults, the 95th percentile of the 
+predicted Cmax,ss was below the 
+safety threshold (750 ng/mL) across 
+the entire body weight range at the 
+proposed doses. 
+for the different weight groups in 
+Studies C213, HTX2002 and 
+adult studies (C209 and C215), 
+with body weight ranging from 16 
+to 104 kg. 
+• In weight groups with higher 
+exposure, the 95th percentile of 
+the predicted Cmax,ss is expected 
+to be well below or in the highest 
+anticipated clinical exposure (per 
+study HTX2002) around 605 
+ng/mL, which was the 
+concentration associated with a 
+QTc prolongation up to 10 ms per 
+previous FDA review. 
+12.2.1. Applicant’s PK Analysis 
+The popPK analysis used to describe the observed PK data from study C213 (treatment-naïve 
+patients with HIV-1 ≥6 to <18 years old) and study HTX2002 (virologically suppressed children 
+with HIV-1 ≥2 to <12 years old) was based on a previously developed structural PK model 
+describing RPV PK in adults (Study C209 and Study C215).  
+Table 20 summarizes the studies included in the updated PK model and the PK sampling 
+schedule. The final PK dataset used for updated PK analysis consisted of 1201 quantifiable PK 
+samples from 127 participants. Concentrations below the limit of quantification (n=7) were 
+excluded from the analysis dataset as they represented 0.6% of all the data. Table 21 summarizes 
+the demographic characteristics of all participants stratified by study and cohort. 
+Reference ID: 5347394
+
+
+===== PAGE 67 =====
+
+NDA 202022 Edurant (rilpivirine) tablets 
+NDA 219016 Edurant (rilpivirine) tablets, for oral suspension 
+52 
+Integrated Review Template, version 3.0 (10/21/2021) 
+Final Population PK model 
+The parameter estimates from the updated final PK model describing RPV PK are listed in Table 
+22. The structural PK model was similar to the previously developed PK model and consisted of 
+a 2-compartment disposition model with a zero-order input of the drug into the depot 
+compartment (gut) and a delayed first-order absorption (lag-time) into the central compartment. 
+A schematic of the structural PK model of RPV is represented in Figure 3. 
+ 
+Figure 3. Schematic of the Population PK Model 
+ 
+Source: Applicant’s Population PK Report, Figure 1, page 21. 
+ 
+Body weight (standardized to 70 kg) was included as a covariate on apparent clearance (CL/F), 
+the apparent central volume of distribution (Vc/F) and the apparent intercompartment CL (Q/F), 
+using allometric scaling with power exponents fixed to 0.75 for CL/F and 1 for Vc/F. 
+Participants in study HTX2002 were estimated to have a 43% higher bioavailability (F1) 
+compared to participants in studies C123, C209, and C215. 
+Inter-individual variability (IIV) was included on CL/F, Q/F and Vc/F. The residual error model 
+consisted of an additive error on log-transformed RPV concentrations. 
+The goodness of fit (GOF) plots from the final PK model are shown in Figure 4 and the 
+prediction-corrected visual predict check (pcVPC) stratified by study are shown in Figure 5. 
+ 
+ 
+Reference ID: 5347394
+
+
+===== PAGE 74 =====
+
+NDA 202022 Edurant (rilpivirine) tablets 
+NDA 219016 Edurant (rilpivirine) tablets, for oral suspension 
+59 
+Integrated Review Template, version 3.0 (10/21/2021) 
+In conclusion, the reviewer’s sensitivity analyses suggest that the higher bioavailability of 
+43% estimated by the Applicant in Study HTX2002 is likely not due to differences in 
+formulations, formulations batch numbers, sites or cohorts of studies or other intrinsic factors 
+(e.g., age, disease status, etc.), but likely inherent to Study HTX2002, in which patient had 
+higher exposure compared to Study C213 Cohort 2, Study C213 Cohort 1, Study C215 and 
+Study C209. 
+12.2.2. Applicant’s PK simulations 
+The pediatric studies (Study C213 Cohort 2 and Study HTX2002) did not enroll patients with a 
+body weight lower than 16 kg and younger than 6 years old. To support the proposed use of RPV 
+in pediatric patients weighing at least 10 kg and older than 2 years old, the Applicant performed 
+PK simulations to predict the effect of body weight on RPV exposure metrics (AUCss and Cmax,ss) 
+and compare RPV exposure metrics between pediatric patients (with a body weight down to 10 
+kg) and adults. 
+The PK simulations were performed across body weights ranging from 10 to 70 kg, in 0.2 kg 
+increments. Since no potential covariate could be linked to the difference in exposure between 
+studies C213 and HTX2002, half of the simulated population was assumed to have a 43% higher 
+bioavailability compared to the other half, which represents a 1:1 ratio for the PK simulations. 
+Figure 8 shows the predicted distribution of AUCss and Cmax,ss in the proposed dose setting: 
+•
+12.5 mg QD (5×2.5 mg tablets for oral suspension) for participants weighing ≥
+to <20 kg,
+•
+15 mg (5×2.5 mg tablets for oral suspension) for participants with body weight ≥20 to <25
+kg,
+•
+25 mg QD (1×25 mg tablet) for participants with body weight ≥25 kg.
+The predicted distribution of AUCss appears to be higher than the predicted exposure in adults 
+(Study C209 and C215), particularly for the weight bands of 10 to 16 kg and 25 to 40 kg.  
+The predicted 90% PI of Cmax,ss was below the safety threshold for QTc prolongation, as 
+determined by the Applicant, of 750 ng/mL across the entire body weight range at the proposed 
+doses. 
+Reference ID: 5347394
+(b) 
+(4)
+
+
+===== PAGE 75 =====
+
+NDA 202022 Edurant (rilpivirine) tablets 
+NDA 219016 Edurant (rilpivirine) tablets, for oral suspension 
+60 
+Integrated Review Template, version 3.0 (10/21/2021) 
+Figure 8. Predicted Distribution of RPV AUCss and Cmax in Pediatric Patients Compared to 
+Adults 
+ 
+ 
+Note: Graphs are on a semi-log scale. AUCss=area under the plasma concentration-time curve at steady state. Cmax=maximum 
+plasma concentration at steady state. PI=prediction interval. Shaded colored area and colored solid line are the 90% PI and the 
+geometric mean AUCss or Cmax for each regimen. Solid black line is the adult median AUCss or Cmax, and the dashed black lines 
+represent the 5th and 95th percentile (90% PIs) of adult AUCss (based on pooled data of Studies C209 and C215). The value of 750 
+ng/mL (solid black line) represents a safety threshold for Cmax, which was obtained through modeling and simulation of data from the 
+thorough-QT Studies TMC278-C152 and TMC278-C131. 
+Source: Applicant’s Population PK Report, Appendix 23 and Figure 4, pages 32 and 192. 
+ 
+Reference ID: 5347394
+
+
+===== PAGE 76 =====
+
+NDA 202022 Edurant (rilpivirine) tablets 
+NDA 219016 Edurant (rilpivirine) tablets, for oral suspension 
+61 
+Integrated Review Template, version 3.0 (10/21/2021) 
+Reviewer’s Assessment of PK Simulations 
+• The predicted higher AUCss in pediatric participants compared to adults from the Applicant’s 
+PK simulations is likely driven by setting a 43% higher bioavailability in half of the 
+simulated population, although the higher bioavailability was observed only from the recent 
+Study HTX2002 (which used a different bioanalytical method). Participants in previous 
+pediatric study (Study C213 Cohort 2) were estimated to have comparable bioavailability as 
+adolescents (Study C213 Cohort 1) and adults (Studies C209 and C215).  
+• The reviewer’s independent PK simulations was performed to account for two different 
+scenarios:  
+o 1st scenario: PK simulations with the reference bioavailability and typical apparent 
+PK parameters estimated from pediatric Study C213 (cohort 1 and cohort 2) and adult 
+studies (Studies C209 and C215). 
+o 2nd scenario: PK simulations with a 43% higher bioavailability, as estimated for the 
+pediatric Study HTX2002. 
+ 
+PK simulations were performed using a pediatric population derived from the CDC growth 
+chart (2 to 17 years old, body weight: 10 to 97 kg).  
+ 
+Figure 9 shows RPV exposure metrics (AUCss, Cmax,ss, and Ctrough,ss) are consistent and 
+overlapping in participants with body weight groups ranging from 10 to 50 kg, under the 
+proposed dosing regimen and for both bioavailability scenarios, except for a higher median 
+AUCss, Cmax,ss for the 10 to 15 kg group and the 25 to 30 kg group. The median exposure is 
+expected to decrease as body weight increases above 50 kg, however it remains within the 
+observed range of exposure metrics in adults.  
+ 
+The predicted RPV exposure metrics (AUCss, Cmax,ss, and Ctrough,ss) are also in agreement with 
+those estimated for the different weight groups in study C213 (Cohort 1 and Cohort 2), study 
+HTX2002 and adult studies (Studies C209 and C215), with body weight ranging from 16 to 
+104 kg (Table 21). 
+ 
+In the body weight groups (10 to 15 kg and 25 to 30 kg) with a predicted higher exposure, the 
+95th percentile of the predicted Cmax,ss under the simulated reference bioavailability scenario 
+(Figure 9, Table 23) is well below 605 ng/mL, which was the concentration associated with a 
+QTc prolongation up 10 ms according to the previous thorough QT (TQT) analyses (original 
+NDA 202022).  
+ 
+Under the higher bioavailability of 43% as estimated from study HTX2002, the 95th 
+percentile of the predicted Cmax,ss in the body weight groups 10 to 15 kg and 25 to 30 kg was 
+about 607 ng/mL and 628 ng/mL, respectively, and within the range of 605 ng/mL (Table 
+23).  
+ 
+Based on both PK simulation scenarios, the proposed dosing regimen seems acceptable and 
+safe regarding the potential for QTc prolongation. 
+Reference ID: 5347394
+
+
+===== PAGE 82 =====
+
+NDA 202022 Edurant (rilpivirine) tablets 
+NDA 219016 Edurant (rilpivirine) tablets, for oral suspension 
+67 
+Integrated Review Template, version 3.0 (10/21/2021) 
+the 2.5 mg tablets was assessed at a dose of 25 mg in healthy adults. Each subject received 4 
+treatments (Treatments E, F, G, H, as show below), randomized according to a classical 4-
+sequence, 4-period Williams design with a washout period of at least 14 days between 
+treatments. 
+• 
+Treatment E: 25 mg RPV formulated as dispersible tablet formulation G009-01 (10x2.5 
+mg tablets, dispersed in water); fed (standardized breakfast) 
+• 
+Treatment F: 25 mg RPV formulated as dispersible tablet formulation G009-01 (10x2.5 
+mg tablets, dispersed in water); fasted  
+• 
+Treatment G: 25 mg RPV formulated as dispersible tablet formulation G009-01 
+(10x2.5mg tablets, dispersed in orange juice [Tropicana]); fed (standardized breakfast)  
+• 
+Treatment H: 25 mg RPV formulated as dispersible tablet formulation G009-01 (10x2.5 
+mg tablets, dispersed in water); fed (yoghurt)  
+PK samples were collected before RPV administration and up to 168 hours post dosing.  
+Reviewer Comments: The terminal half-life of RPV is approximately 50 hours. With 168 hours 
+post dosing, there were 7 participants in the reference arm and 4 participants in the test arm 
+whose terminal half-life and consequently AUC∞ could not be determined accurately and/or 
+extrapolated AUC∞ exceeded the 20% limit.  
+ 
+Results: All results are available in Section II.6.4.2.  
+13. Summary of Study Protocols 
+13.1. Study C213 
+Title 
+A Phase II, open label, single arm trial to evaluate the pharmacokinetics, safety, tolerability, and 
+antiviral activity of rilpivirine (TMC278) in antiretroviral-naïve HIV-1 infected adolescents and 
+children aged ≥6 to <18 years 
+Study Design 
+This was a phase 2, open-label, single-arm, multicenter study to evaluate the PK, safety, 
+tolerability, and efficacy (antiviral activity) of RPV in combination with an investigator-selected 
+background regimen containing two N(t)RTIs in ARV treatment-naïve adolescents and children 
+aged ≥6 to <18 years. There were two age cohorts: adolescents ≥12 to <18 years of age (Cohort 
+1, results reported previously) and children ≥6 to <12 years of age (Cohort 2, summarized here). 
+In Cohort 2 of Study C213, ARV treatment-naïve participants with HIV-1 infection aged ≥6 to 
+<12 years with a plasma HIV-1 RNA ≥500 copies/mL but ≤100,000 copies/mL were included. 
+After the analysis of the first 10 participants in Cohort 2, including PK modeling and simulation 
+to further assess the RPV pediatric dose based on accumulating data, was discussed with and 
+endorsed by the Independent Data Monitoring Committee (IDMC). At the time of Amendment 
+10, the following RPV dose recommendations applied to newly enrolled participants: 
+• RPV 25 mg PO QD for participants with a body weight of ≥25 kg 
+• RPV 15 mg PO QD for participants with a body weight of <25 kg 
+Reference ID: 5347394
+
+
+===== PAGE 86 =====
+
+NDA 202022 Edurant (rilpivirine) tablets 
+NDA 219016 Edurant (rilpivirine) tablets, for oral suspension 
+71 
+Integrated Review Template, version 3.0 (10/21/2021) 
+interventional procedure. Concurrent participation in non-interventional observational 
+trials is allowed as long as there is no impact on the objectives of this trial. Data collected 
+in this trial can be reported in the observational trial 
+Study Procedures 
+Two formulations of RPV were used in this study: 
+• The commercially available RPV was formulated as an oral film-coated tablet, containing 
+27.5 mg of RPV as the hydrochloric acid salt, equivalent to 25 mg of RPV as the free 
+base. 
+• For adjusted weight-based dosing, RPV was formulated as a tablet containing 2.5 mg of 
+RPV as the free base. The tablets must be dispersed prior to use. 
+The baseline visit should be scheduled within 4 weeks after the screening visit (and within 6 
+weeks after plasma viral load and CD4+ cell count assessment. RPV was initiated at baseline 
+(Day 1). Thereafter, participants returned for visits at Week 1, Week 2, Week 4, then every 4 
+weeks until Week 16, every 8 weeks until Week 48. 
+Cohort 2: Children Aged ≥6 to <12 Years 
+For participants with a body weight of <25 kg, intensive pharmacokinetic sampling was 
+performed during a 24-hour dosing interval at the Week 2 visit (between Day 14 to 18) and at the 
+2-weeks Post Switch visit, if applicable to evaluate the steady-state pharmacokinetic parameters 
+of RPV. In all participants sparse pharmacokinetic sampling will be performed for population 
+pharmacokinetic analysis. 
+Participants who experience and are expected to continue experiencing clinical benefit from RPV 
+and their background regimen comprising two investigator-selected N(t)RTIs at the end of the 
+initial 48-week treatment period, may continue treatment (i.e., RPV + 2 N[t]RTIs) in the rollover 
+study IFD3004 or switch to locally available RPV (once commercially available AND 
+reimbursed, OR accessible through another source [e.g. access program or government 
+program]), or other locally available RPV-based regimens. 
+Statistical Analyses 
+The ITT population was defined as the set of all participants who have taken at least one dose of 
+RPV, regardless of their compliance with the protocol and adherence to the dosing regimen. 
+Cohort 2: Children Aged ≥6 to <12 Years 
+An initial analysis was performed when the five Part 1 participants of the mini-cohort had been 
+treated for at least 4 weeks (or discontinued earlier). This will be followed by an overall analysis 
+when all Part 1 participants had been treated for at least 4 weeks (or discontinued earlier). The 
+objective of these analyses was to determine whether it is appropriate to continue with the 25 mg 
+PO QD dose for the treatment of children, based primarily on the PK of these participants and 
+the antiviral activity and safety data. All available antiviral activity and safety data were included 
+in these analyses, even if they have been obtained after the intensive PK sampling. The final 
+analysis will was performed when all Cohort 2 participants have reached Week 48 (or 
+discontinued earlier). The objective of this analysis is to evaluate the safety, tolerability and 
+efficacy of RPV in HIV-1 infected children. The final, Week 48, analysis will be performed after 
+a formal database lock. 
+Reference ID: 5347394
+
+
+===== PAGE 106 =====
+
+NDA 202022 Edurant (rilpivirine) tablets 
+NDA 219016 Edurant (rilpivirine) tablets, for oral suspension 
+91 
+Integrated Review Template, version 3.0 (10/21/2021) 
+arm, open-label Phase 2 trial in antiretroviral treatment-naïve HIV-1 infected pediatric subjects 
+6 to less than 12 years of age and weighing at least 17 kg. The Week 48 analysis included 
+18 subjects, 17 (94%) subjects completed the 48-week treatment period, and 1 (6%) subject 
+discontinued the study early due to reaching a virologic endpoint. The 18 subjects had a median 
+age of 9 years (range 6 to 11 years) and the median weight at baseline was 25 kg (range 17 to 
+51 kg). 89% were Black and 39% were female. The median baseline plasma viral load was 
+55,400 (range 567-149,000) copies/mL, and the median absolute baseline CD4+ cell count was 
+432.5 (range 12-2,068) cells/µL. 
+The number of subjects with HIV-1 RNA <50 copies/mL at Week 48 was 13/18 (72%), while 
+3/18 (17%) subjects had HIV-1 RNA ≥50 copies/mL at Week 48 [see Microbiology (12.4)]. 
+Two out of 18 (11%) participants in the 15 mg once daily (20 to ≤25 kg) dose-weight group 
+had missing viral load data at Week 48 but remained on study. The viral load for these 
+2 subjects was <50 copies/mL, post-Week 48. The mean increase (SE) in CD4+ from baseline 
+was 215.9 (62.42) cells/µL at Week 48. 
+The safety and efficacy of EDURANT and EDURANT PED in treatment naïve pediatric 
+subjects 2 to less than 6 years of age is supported by evidence from adequate and well-
+controlled studies of EDURANT in adults with additional population pharmacokinetic data 
+from adults and pediatric subjects 6 years and older [see Use in Specific Populations (8.4) and 
+Clinical Pharmacology (12.3)]. 
+Section 16 HOW SUPPLIED/STORAGE AND HANDLING 
+EDURANT PED Tablets for Oral Suspension 
+EDURANT PED (rilpivirine) 2.5 mg tablets for oral suspension are supplied as white to 
+almost white, round 6.5 mm tablets, debossed with “TMC” on one side and “PED” on the 
+other side. Each tablet for oral suspension contains 2.75 mg5 rilpivirine hydrochloride 
+equivalent to 2.5 mg rilpivirine. 
+ 
+EDURANT PED 2.5 mg tablets for oral suspension are packaged in aluminum cold form 
+film blister with integrated desiccant and an aluminum peelable lidding foil. Each blister 
+contains 10 tablets with 9 blisters per carton (NDC 59676-280-90). 
+ 
+Store EDURANT PED tablets for oral suspension in the original package in order to protect 
+from moisture. Store at 20° to 25°C (68° to 77°F); with excursions permitted to 15° to 30°C 
+(59° to 86°F) [see USP controlled room temperature]. 
+ 
+Section 17 PATIENT COUNSELING INFORMATION 
+EDURANT Tablets and EDURANT PED Tablets for Oral Suspension Are Not Substitutable 
+Advise patients that EDURANT and EDURANT PED have differing pharmacokinetic profiles 
+and are not substitutable on a milligram-per-milligram basis. Advise patients or their care 
+providers that patients switching from EDURANT PED tablets for oral suspension to 
+EDURANT tablets must adjust the dose [see Dosage and Administration (2.1, 2.3) and 
+Warnings and Precautions (5.6)]. 
+Reference ID: 5347394

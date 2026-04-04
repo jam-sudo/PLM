@@ -1,0 +1,587 @@
+
+
+===== PAGE 3 =====
+
+ 
+2
+2.4.1. What are the single and multiple dose PK parameters of parent drug and relevant metabolites 
+in healthy adults? ................................................................................................................................... 7 
+2.4.2. How does the PK of the drug and its relevant metabolites in healthy adults compare to that in 
+patients with the target disease? ........................................................................................................... 10 
+2.4.3. How does food affect the bioavailability of pirfenidone film-coated tablet? .......................... 10 
+2.5. 
+Bioanalytical ............................................................................................................................... 11 
+2.5.1. Are the bioanalytical methods properly validated to measure pirfenidone in plasma samples? . 
+ 
+ .................................................................................................................................................. 11 
+3. 
+Label Recommendations ..................................................................................................................... 11 
+4. 
+Appendix .............................................................................................................................................. 12 
+4.1. 
+Analysis ....................................................................................................................................... 12 
+4.2. 
+Individual Study Synopsis ......................................................................................................... 12 
+4.2.1. GP-29830 ................................................................................................................................. 12 
+ 
+ 
+List of Tables 
+Table 1 Listing of clinical pharmacology/clinical studies ............................................................................. 4 
+Table 2 Composition of pirfenidone film-coated tablets ............................................................................... 5 
+Table 3 Dose escalation steps for pirfenidone ............................................................................................... 6 
+Table 4 Pharmacokinetic parameters for pirfenidone after single-dose administration in study GP29830 
+under fasted conditions .................................................................................................................................. 9 
+Table 5 Pharmacokinetic parameters for pirfenidone after single-dose administration in study GP29830 
+under fed conditions ....................................................................................................................................... 9 
+Table 6 90% CI on the GMR of pirfenidone PK parameters following a single dose oral administration of 
+ESBRIET® film-coated tablet and ESBRIET® capsule under fasted state .................................................. 10 
+Table 7 Validation summary for bioanalytical method................................................................................ 11 
+Table 8 90% CI on the GMR of pirfenidone PK parameters following a single dose oral administration of 
+ESBRIET® film-coated tablet and ESBRIET® capsule under fasted state .................................................. 12 
+ 
+ 
+List of Figures 
+Figure 1 Chemical structure of pirfenidone ................................................................................................... 5 
+Figure 2 Study design .................................................................................................................................... 7 
+Figure 3 Mean plasma concentrations of pirfenidone vs. time at single dose following ESBRIET® tablet 
+801 mg or ESBRIET® capsule 3 X 267 mg under fasted (n=42) and fed (n=43) conditions ........................ 8 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 4018025
+
+
+===== PAGE 4 =====
+
+ 
+3
+1. Executive Summary 
+This is a 505 (b) (1) NDA for film-coated tablet containing pirfenidone. The proposed proprietary name 
+for this product is ESBRIET® film-coated tablet. Pirfenidone as capsules is approved for the treatment of 
+idiopathic pulmonary fibrosis (IPF). 
+ 
+1.1. 
+Recommendations 
+The Office of Clinical Pharmacology has reviewed the clinical pharmacology information provided within 
+NDA 208780 and finds the application acceptable. 
+ 
+1.2. 
+Post Marketing Requirement 
+None.  
+ 
+1.3. Summary of Important Clinical Pharmacology Findings 
+The Clinical Pharmacology package submitted for this NDA consisted of a single pivotal bioequivalence 
+(BE) study (GP29830) conducted in 44 healthy adult volunteers. The objective of the clinical study was to 
+determine and compare the rate and extent of absorption of pirfenidone from ESBRIET® film-coated 
+tablet to that from ESBRIET® Capsule under both fasted and fed conditions. This was an open-label, 
+single-dose, randomized, four-period, four-sequence crossover study under fasted and fed conditions. The 
+treatment arms and the statistical summary are presented below. This reviewer has reanalyzed the 
+pharmacokinetic information submitted for this pivotal BE study by employing WinNonlin version 6.4 to 
+obtain the non-compartmental pharmacokinetic (PK) parameters and performed the BE analysis. The 
+results of this reanalysis are in agreement with the results submitted by the Applicant. 
+ 
+Treatment arms –  
+ Treatment A = pirfenidone 3 × 267-mg ESBRIET® capsules administered as a single oral dose in fed 
+state 
+ Treatment B = pirfenidone 1 × 801-mg ESBRIET® film-coated tablet administered as a single oral 
+dose in fed state 
+ Treatment C = pirfenidone 3 × 267-mg ESBRIET® capsules administered as a single oral dose in 
+fasted state 
+ Treatment D = pirfenidone 1 × 801-mg ESBRIET® film-coated tablet administered as a single oral 
+dose in fasted state 
+ 
+Bioequivalence summary statistics of PK parameters for pirfenidone following single dose (801 mg) 
+administration of ESBRIET® film-coated tablet and ESBRIET® capsule under fasted conditions: 
+ 
+PK Parameter
+Test/Ref ratio (%) 
+90% CI 
+AUC (0-inf) 
+99.61 
+96.64, 102.68 
+AUC (0-t) 
+99.63 
+96.66, 102.69 
+Cmax 
+101.26 
+94.41, 108.60 
+Source: NDA 208780 Module 2.7.1  
+ 
+Overall, the test product, ESBRIET® film-coated tablet (801 mg), is bioequivalent to the corresponding 
+reference product for pirfenidone, ESBRIET® capsule (3 X 267 mg), under fasted conditions.  
+ 
+Food had a small effect on the extent of exposure AUC(0-inf) of the ESBRIET® film-coated tablet (801 
+mg), but Cmax was decreased by 39% after administration with a high fat meal. This effect of food on 
+pirfenidone exposure was consistent between the ESBRIET® film-coated tablet and ESBRIET® capsule. 
+Reference ID: 4018025
+
+
+===== PAGE 8 =====
+
+ 
+7
+ 
+Figure 2 Study design 
+Source: Study GP28930 study report Page 16 
+ 
+No clinical study to determine safety and efficacy of the product was carried out in this NDA. The 
+Applicant is relying on the Agency’s review findings for safety and efficacy of ESBRIET ® Capsule, 
+NDA 022535. 
+ 
+2.3.2. Are the active moieties in plasma and clinically relevant tissues appropriately identified and 
+measured to assess pharmacokinetic parameter and exposure response relationships? 
+ 
+Pirfenidone in the plasma samples was measured. No metabolites were quantified because the metabolite 
+(5-carboxy-pirfenidone) is not active. 
+ 
+2.4. What are the PK characteristics of the drug? 
+2.4.1. What are the single and multiple dose PK parameters of parent drug and relevant 
+metabolites in healthy adults? 
+Single oral doses of pirfenidone were administered to healthy volunteers under fasting and fed conditions 
+in Study GP28930.  
+ 
+The mean PK profiles of ESBRIET® film-coated tablet and capsule after single dosing under fasted and 
+fed state is shown in Figure 3. A single dose administration of ESBRIET® 801 mg tablet under fasted 
+conditions resulted in comparable rate and extent of plasma exposure (Cmax and AUC(0-inf)), relative to 
+ESBRIET® capsule 3 X 267 mg (Table 4 and Figure 3).  The time to reach peak plasma concentrations 
+(Tmax) of pirfenidone under fasted state were generally observed around one hour for tablet and capsule 
+dosage forms.  
+ 
+The presence of food reduced both the rate (Cmax) and extent (AUC) of pirfenidone absorption. In 
+comparison to the fasted state, the tablet Tmax was approximately 1 hour later (i.e., around 2 hours), and 
+the Cmax and AUC were decreased by approximately 39% and 17%, respectively. A similar trend was 
+Reference ID: 4018025
+
+
+===== PAGE 10 =====
+
+ 
+9
+ 
+Table 4 Pharmacokinetic parameters for pirfenidone after single-dose administration in study 
+GP29830 under fasted conditions 
+Geometric Mean 
+Parameters 
+(±CV%) 
+Study GP29830 
+N - 42 
+Age Range – 20 to 54 years 
+ESBRIET ® Tablet 
+801  mg Dose 
+(one 801 mg tablet) 
+ESBRIET ® Capsule 
+801 mg Dose 
+(three 267 mg capsules) 
+AUC(0-inf) (ng.h/mL) 
+49400 (35.5) 
+49700 (34.9) 
+AUC(0-t) (ng.h/mL) 
+49200 (35.1) 
+49500 (34.5) 
+Cmax (ng/mL) 
+12600 (32.8) 
+12500 (27.9) 
+Tmax (h)a 
+1.00 (0.25, 3.00) 
+0.75 (0.25, 2.00) 
+t1/2 (h)b 
+2.77 (0.571) 
+2.77 (0.589) 
+AUC(0–inf) = area under the plasma concentration-versus-time curve from time zero to infinity; AUC(0-t) = area under the plasma 
+concentration-versus-time curve from time zero to the time of the last quantifiable concentration; Cmax = peak plasma 
+concentration; CV = coefficient of variation; t1/2 = terminal elimination half-life; Tmax = time to maximum plasma 
+concentration. 
+a Median (minimum, maximum) 
+b Mean (SD) 
+Source: Study GP29830 Module 2.7.2 
+ 
+Table 5 Pharmacokinetic parameters for pirfenidone after single-dose administration in study 
+GP29830 under fed conditions 
+Geometric Mean 
+Parameters 
+(±CV) 
+Study GP29830 
+N - 43 
+Age Range - 20 to 54 years 
+ESBRIET® Tablet 
+801  mg Dose 
+(one 801 mg tablet) 
+ESBRIET® Capsule 
+801 mg Dose 
+(three 267 mg capsules) 
+AUC(0-inf) (ng.h/mL) 
+40900 (35.5) 
+39800 (37.0) 
+AUC(0-t) (ng.h/mL) 
+40600 (35.0) 
+39500 (36.6) 
+Cmax (ng/mL) 
+7640 (27.9) 
+6560 (25.5) 
+Tmax (h)a 
+2.05 (1.00, 6.00) 
+3.00 (0.50, 6.00) 
+t1/2 (h)b 
+2.74 (0.579) 
+2.75 (0.585) 
+AUC(0–inf) = area under the plasma concentration-versus-time curve from time zero to infinity; AUC(0-t) = area under the plasma 
+concentration-versus-time curve from time zero to the time of the last quantifiable concentration; Cmax = peak plasma 
+concentration; CV = coefficient of variation; t1/2 = terminal elimination half-life; Tmax = time to maximum plasma 
+concentration. 
+a Median (minimum, maximum) 
+b Mean (SD) 
+Source: Study GP29830 Module 2.7.2 
+ 
+Excluded subjects 
+Although all 44 healthy subjects enrolled in study GP29830 completed all scheduled treatments and had a 
+full complement of pirfenidone concentration-time profiles, one and two subjects had incidence of 
+vomiting reported within the first 6 hours post-dosing under the fed and fasted state, respectively. 
+Therefore, these subjects were excluded from the PK analysis. This is in agreement with the Agency’s 
+recommendations on data deletion because of vomiting stated in draft Guidance for Industry titled 
+Reference ID: 4018025
+
+
+===== PAGE 11 =====
+
+ 
+10
+“Bioavailability and Bioequivalence Studies Submitted in NDAs or INDs — General Considerations” 
+(2014). 
+ 
+Bioequivalence 
+The GMR and 90% CI of the ratio with single dose treatments of ESBRIET® film-coated tablet and 
+ESBRIET® capsule under fasted state, based on log-transformed parameters, are represented in Table 6. 
+The 90% CI of the GMR of AUC(0-t), AUC(0-inf) and Cmax were contained within the BE limits of 80.00-
+125.00 %  following single dose treatment.  
+ 
+ 
+ 
+Table 6 90% CI on the GMR of pirfenidone PK parameters following a single dose oral 
+administration of ESBRIET® film-coated tablet and ESBRIET® capsule under fasted state 
+PK Parameter 
+Na 
+Tablet vs Capsules % GLSM Ratio (90% CIb) 
+AUC(0-inf) (ng.h/mL) 
+42 
+99.61 (96.64, 102.68) 
+AUC(0-t) (ng.h/mL) 
+42 
+99.63 (96.66, 102.69) 
+Cmax (ng/mL) 
+42 
+101.26 (94.41, 108.60) 
+aN=42; excludes two subjects due to incidence of vomiting 
+b90% CI = Lower and upper limits of 90% confidence interval on the G.M. ratio 
+Source: NDA 208780 Module 2.7.1  
+ 
+2.4.2. How does the PK of the drug and its relevant metabolites in healthy adults compare to that 
+in patients with the target disease? 
+The pharmacokinetics of pirfenidone in patients was not characterized in this NDA submission. See 
+Clinical Pharmacology Review of NDA 022535 dated 09/02/2014. 
+  
+2.4.3. How does food affect the bioavailability of pirfenidone film-coated tablet? 
+Study GP29830 was a four-treatment period, four-treatment. single-dose, randomized, crossover study to 
+determine, among other things, the relative bioavailability of single doses of ESBRIET® film-coated 
+tablet in the fed and fasted state in 44 healthy male and female subjects. The meal selected was the 
+standard, high-fat meal used to assess food effect as described by the FDA guidance document. Following 
+the oral administration of a single dose of ESBRIET® film-coated tablet, the geometric mean (GM) Cmax 
+values of pirfenidone under fed and fasted conditions were 7640 and 12600 ng/mL, respectively, (Table 4 
+and 5), a 39% reduction with food. The exposure [AUC(0-t) and AUC(0-inf)] of pirfenidone under  fed state 
+was 17%  lower as compared to the fasted state. In the same study, food led to approximately 48% and 
+20% reduction in Cmax and AUC(0-inf) for ESBRIET® capsule, respectively . Thus, the effect of food on 
+pirfenidone exposure for tablet was consistent with ESBRIET® capsule. This effect of food on rate and 
+extent of absorption for ESBRIET® capsule has been previously reported under NDA 022535; food led to 
+a 49% reduction in Cmax and 16% reduction in AUC of pirfenidone.  
+ 
+Although the Cmax was 17% higher for the ESBRIET® tablet as compared to the ESBRIET® capsules in 
+the fed state, the difference in Cmax between the two dosage forms is not expected to have any clinically 
+meaningful impact on the safety and efficacy of pirfenidone. In addition, there was no corresponding 
+increase in exposure [AUC(0-t) and AUC(0-inf)] of pirfenidone between ESBRIET® tablet and ESBRIET® 
+capsules in the fed state.  
+ 
+Reference ID: 4018025
+
+
+===== PAGE 14 =====
+
+ 
+13
+between the ages of 18 and 55 years. Each subject was to receive the following treatments in four 
+treatment periods with 11 subjects per sequence. 
+ 
+Treatment A = pirfenidone 3 × 267-mg capsules administered as a single oral dose in fed state 
+Treatment B = pirfenidone 1 × 801-mg tablet administered as a single oral dose in fed state 
+Treatment C = pirfenidone 3 × 267-mg capsules administered as a single oral dose in fasted state 
+Treatment D = pirfenidone 1 × 801-mg tablet administered as a single oral dose in fasted state 
+ 
+A 4 × 4 Williams design was used in this study. The treatment sequences were ACBD, BADC, CDAB, 
+and DBCA. With this design, subjects served as their own control. Treatments were given on Days 1, 4, 7, 
+and 10. There was a washout period of 2 days between treatments. 
+ 
+Number of Subjects (Planned and Analyzed): 
+Forty-four (44) subjects were planned and enrolled; 44 subjects were analyzed for safety; 42 and 43 
+subjects were included in the analyses of pharmacokinetic variables for fasted and fed state, respectively. 
+ 
+Diagnosis and Main Criteria for Inclusion: 
+Healthy male or female volunteer adult subjects between ages of 18-55 years with a body mass index of 
+18.5−30.0 kg/m2. 
+ 
+Duration of Treatment: The total duration of the study for each subject was approximately 41 days 
+divided as follows: 
+Screening: up to 28 days 
+Treatment: 4 treatment periods of 3 days, each treatment period includes 1 day of dosing followed 
+by 2 days of washout 
+Follow-up: 1 day after last PK sample of fourth treatment period 
+ 
+Test Product, Dose and Mode of Administration, Lot Number: 
+Pirfenidone was supplied as an 801 mg tablet (Lot#1149831, corresponding to the bulk batch number 
+M0006), and as 3 x 267 mg capsules (Lot#1149354, corresponding to the bulk batch number 1402340) and 
+was administered under both fed and fasted conditions. 
+ 
+Pharmacokinetic Assessments: 
+Blood samples (approximately 4 mL) were collected for determination of plasma concentrations of 
+pirfenidone on Days 1 − 2, 4 − 5, 7 − 8, and 10 − 11 at the following time points in relation to 
+pirfenidone dosing 
+ 
+Days 1, 4, 7, and 10: 
+Predose: 0 hours (up to 3 hours before dosing) 
+Postdose: 0.25, 0.5, 1, 1.5, 2, 3, and 4 hours (± 2 minutes) 
+Postdose: 6, 8, 10, 12, and 16 hours (± 10 minutes) 
+ 
+Days 2, 5, 8, and 11: 
+Postdose: 24 hours (± 15 minutes) 
+ 
+The total blood volume drawn for PK sampling was 56 mL on Days 1 − 2, Days 4 − 5, Days 7 − 8, and 
+Days 10 − 11 and 224 mL during the study period. 
+ 
+ 
+Reference ID: 4018025
+
+
+===== PAGE 15 =====
+
+ 
+14
+Pharmacokinetic Methods: 
+The pirfenidone plasma concentration-time profiles were analyzed by non-compartmental approach using 
+Phoenix® WinNonlin® 6.3 (Certara USA Inc., St. Louis, Missouri) to obtain estimates of the 
+pharmacokinetic parameters. 
+ 
+Safety Assessments: 
+Safety was evaluated by monitoring and recording adverse events, including serious adverse events 
+(AEs) and non-serious AEs of special interest, performing safety laboratory assessments (hematology, 
+serum chemistry profile, calculated creatinine clearance rate, urinalysis, urine drug screen, urine 
+alcohol test, serum pregnancy test for women of childbearing capacity, and serology for HBsAg, HCV 
+antibody, and HIV antibody) measuring vital signs, complete physical examinations, and ECG, and 
+conducting other tests that are deemed critical to the safety evaluation of the study.  
+ 
+Statistical Methods: 
+In agreement with the Food and Drug Administration (FDA) (IND 67284 Type-C meeting minutes 
+[WRO] dated May 27, 2015) bioequivalence (BE) was established under fasting conditions. In 
+addition, exposure parameters after single dose administration of pirfenidone film-coated tablet were 
+also examined under the fed state. 
+ 
+ANOVA was performed on log-transformed pirfenidone PK parameters for a single dose (AUC(0-t), 
+AUC(0-inf), and Cmax) under fasting conditions. The ratios of geometric means (i.e. ESBRIET® Film-
+coated Tablet/ESBRIET® capsule) and 90% confidence intervals were determined. 
+ 
+Safety: 
+Safety was assessed through summaries of AEs, changes from baseline in laboratory test results, and 
+changes from baseline in vital signs. 
+ 
+CONCLUSIONS  
+Pharmacokinetic Conclusions: 
+The following conclusions are based on the results of the pharmacokinetic analyses: 
+ The ESBRIET® film-coated tablet (1 X 801mg) is bioequivalent to the commercially available 
+ESBRIET® capsule (3 X 267 mg) based on AUC and Cmax comparisons under single dose 
+conditions in healthy volunteers under fasting conditions. 
+ Food intake reduced the rate and extent of pirfenidone absorption with the 801 mg tablet, as shown by 
+the decreases in Cmax and AUC, relative to the fasted state. 
+ 
+Safety Conclusions: 
+ESBRIET® film-coated tablet and ESBRIET® capsule were generally well tolerated by healthy male 
+and female subjects in the fasted and fed state. For more details, please refer to the clinical review 
+for NDA 208780. 
+Reference ID: 4018025
+
+
+===== PAGE 20 =====
+
+Criteria for Refusal to File (RTF)
+RTF Parameter
+Assessment 
+Comments
+1. Did the applicant submit bioequivalence 
+data comparing to-be-marketed product(s) 
+and those used in the pivotal clinical trials?
+☐Yes No ☐N/A
+Sponsor submitted comparative 
+dissolution data for their bio-batch and 
+to-be-marketed (TBM) product. They 
+state that the drug product composition is 
+the same between the bio-batch and TBM 
+product, with minor differences in tablet 
+dimensions (20 X 9.7 mm and 20 X 9.3 
+mm, respectively)
+2. Did the applicant provide metabolism and 
+drug-drug interaction information? (Note: 
+RTF only if there is complete lack of 
+information)
+☐Yes ☐No N/A
+Cross-referenced NDA 022535
+3. Did the applicant submit pharmacokinetic 
+studies to characterize the drug product, or 
+submit a waiver request?
+Yes ☐No ☐N/A
+The sponsor submitted a pharmacokinetic 
+bioequivalence study for 801 mg strength 
+product. They submitted bio-waiver 
+request for the TBM product, and two 
+lower strengths (i.e., 267 & 534 mg 
+tablet)
+4. Did the applicant submit comparative 
+bioavailability data between proposed drug 
+product and reference product for a 505(b)(2) 
+application?
+☐Yes ☐No N/A
+This is a 505(b)(1) application that cross-
+references the FDA’s finding of safety 
+and efficacy of the listed drug (Esbriet® 
+Capsule, NDA 022535). The clinical 
+pharmacology program includes a single 
+pivotal pharmacokinetic bioequivalence 
+study to support the application.
+5. Did the applicant submit data to allow the 
+evaluation of the validity of the analytical 
+assay for the moieties of interest?
+Yes ☐No ☐N/A
+6. Did the applicant submit study 
+reports/rationale to support dose/dosing 
+interval and dose adjustment?
+☐Yes ☐No N/A
+Cross-referenced NDA 022535
+7. Does the submission contain PK and PD 
+analysis datasets and PK and PD parameter 
+datasets for each primary study that supports 
+items 1 to 6 above (in .xpt format if data are 
+submitted electronically)?
+Yes ☐No ☐N/A
+The submission contains PK datasets in 
+.xpt format.
+8. Did the applicant submit the module 2 
+summaries (e.g. summary-clin-pharm, 
+summary-biopharm, pharmkin-written-
+summary)?  
+Yes ☐No ☐N/A
+9. Is the clinical pharmacology and 
+biopharmaceutics section of the submission 
+legible, organized, indexed and paginated in 
+a manner to allow substantive review to 
+begin?
+If provided as an electronic submission, is the 
+electronic submission searchable, does it 
+have appropriate hyperlinks and do the 
+hyperlinks work leading to appropriate 
+sections, reports, and appendices?
+Yes ☐No ☐N/A
+Reference ID: 3933363
+
+
+===== PAGE 21 =====
+
+Complete Application
+10. Did the applicant submit studies 
+including study reports, analysis datasets, 
+source code, input files and key analysis 
+output, or justification for not conducting 
+studies, as agreed to at the pre-NDA or pre-
+BLA meeting?  If the answer is ‘No’, has the 
+sponsor submitted a justification that was 
+previously agreed to before the NDA 
+submission?
+Yes ☐No ☐N/A
+Criteria for Assessing Quality of an NDA (Preliminary Assessment of Quality) Checklist
+Data 
+1. Are the data sets, as requested during pre-
+submission discussions, submitted in the 
+appropriate format (e.g., CDISC)? 
+Yes ☐No ☐N/A
+2. If applicable, are the pharmacogenomic 
+data sets submitted in the appropriate format?
+☐Yes ☐No N/A
+Studies and Analysis 
+3. Is the appropriate pharmacokinetic 
+information submitted?
+Yes ☐No ☐N/A
+4. Has the applicant made an appropriate 
+attempt to determine reasonable dose 
+individualization strategies for this product 
+(i.e., appropriately designed and analyzed 
+dose-ranging or pivotal studies)?
+☐Yes ☐No N/A
+5. Are the appropriate exposure-response (for 
+desired and undesired effects) analyses 
+conducted and submitted as described in the 
+Exposure-Response guidance?
+☐Yes ☐No N/A
+6. Is there an adequate attempt by the 
+applicant to use exposure-response 
+relationships in order to assess the need for 
+dose adjustments for intrinsic/extrinsic 
+factors that might affect the pharmacokinetic 
+or pharmacodynamics?
+☐Yes ☐No N/A
+7. Are the pediatric exclusivity studies 
+adequately designed to demonstrate 
+effectiveness, if the drug is indeed effective?
+☐Yes ☐No N/A
+Pirfenidone was granted orphan drug 
+designation for the treatment of 
+idiopathic pulmonary fibrosis on March 
+5, 2004 (Orphan Drug Designation 03-
+1779). Therefore, this drug product is 
+exempt from PREA requirements.
+General 
+8. Are the clinical pharmacology and 
+biopharmaceutics studies of appropriate 
+design and breadth of investigation to meet 
+basic requirements for approvability of this 
+product?
+Yes ☐No ☐N/A
+9. Was the translation (of study reports or 
+other study information) from another 
+language needed and provided in this 
+☐Yes ☐No N/A
+Reference ID: 3933363
+
+
+===== PAGE 24 =====
+
+Pending review, dosing in the fasted state met the BE criteria [i.e., 90% confidence interval (CI) of 80.00-
+125.00%] for both Cmax and AUC for pirfenidone IR tablet and listed drug. Similarly, dosing under the fed 
+state met the BE criteria for AUC, however, the 90% CI for Cmax were slightly outside the BE limit (i.e., 
+108.26-125.60%).
+In addition, according to the sponsor, the effect of food on pirfenidone exposure was consistent between 
+the proposed tablet dosage form and the listed drug – Cmax in fed state was considerably reduced (39%), 
+and a small effect was observed for AUC(0-infinity) (17% reduction). According to the listed drug product 
+label, “Food decreased the rate and extent of absorption. Median Tmax increased from 0.5 hours to 3 hours 
+with food. Maximum plasma concentrations and AUC0-inf decreased by approximately 49% and 16% with 
+food, respectively.”
+The study GP28930 used a bio-batch of the proposed drug product that is different from the to-be-
+marketed drug product with regards to the drug product dimensions (i.e., 20 X 9.7 mm for the bio-batch 
+and 20 X 9.3 mm for the to-be-marketed product)1. The sponsor has submitted comparative dissolution 
+profiles for the bio-batch and the to-be-marketed product as a basis for the biowaiver request.
+The sponsor is requesting a biowaiver for the two lower tablet strengths of 276 and 534 mg based on (1) 
+comparative dissolution profiles across all strengths, (2) proportional similarity of the formulations across 
+different strengths, (3) similar manufacturing process across all strengths, and (4) acceptable 
+bioequivalence study of the 801 mg strength. 
+Acceptance of these findings will be a review issue.
+The NDA is considered fillable from a clinical pharmacology perspective. 
+1 According to the sponsor, the to-be marketed formulation and the formulation used in the pivotal bioequivalence Study 
+GP29830 (i.e., the bio-batch) are qualitatively and quantitatively the same (exact match) and use the same manufacturing 
+principle.
+Reference ID: 3933363

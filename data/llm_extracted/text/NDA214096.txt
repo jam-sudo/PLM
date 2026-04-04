@@ -1,0 +1,2233 @@
+
+
+===== PAGE 7 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+6 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table of Tables 
+ 
+Table 1: Key Interactions with FDA ............................................................................................... 31 
+Table 2: Tepotinib inhibited HGF-mediated and ligand-independent c-Met phosphorylation and 
+activation of downstream signaling proteins ............................................................................... 42 
+Table 3: Average M506 and tepotinib concentrations in plasma and tumor tissue in mice 
+bearing KP-4 tumors ..................................................................................................................... 50 
+Table 4: Lung metastasis in mice bearing orthotopic HCC tumors and treated with vehicle or 
+tepotinib for 5 weeks .................................................................................................................... 52 
+Table 5: Rat TK Data for Tepotinib and Metabolites .................................................................... 70 
+Table 6: Mean Fetal Malformations and Variations (EFD Study; Rabbits) ................................... 75 
+Table 7: Fetal Malformations and Variations (EFD Study; Rabbits) .............................................. 79 
+Table 8: In Vitro Reverse Mutation Assay in Bacterial Cells (Ames Assay) ................................... 80 
+Table 9: In Vitro Genotoxicity Assays in Mammalian Cells ........................................................... 81 
+Table 10: Key Clinical Pharmacology Review Issues ..................................................................... 84 
+Table 11: Summary of Post-Marketing Requirements and Commitments .................................. 85 
+Table 12: Formulations of Tepotinib Used in Clinical Studies ...................................................... 92 
+Table 13: Relative Bioavailability between Tepotinib Formulations TF1 and CF2 ....................... 92 
+Table 14: Relative Bioavailability between TF1 and TF2 .............................................................. 93 
+Table 15: Relative Bioavailability between TF3 and TF2 .............................................................. 94 
+Table 16: Summary of Tepotinib PK for TF2 and TF3 under Fasted and Fed conditions ............. 94 
+Table 17: Statistical Comparison of PK Parameters between Tepotinib TF3 100 mg and 250 mg
+....................................................................................................................................................... 95 
+Table 18: Food Effect of Tepotinib with Formulation TF3 ............................................................ 95 
+Table 19: Population PKPD Simulation for phosphor-MET inhibition .......................................... 96 
+Table 20: Comparison of Tepotinib PK Between Hepatic Function Groups Based on Child-Pugh 
+Classification ................................................................................................................................. 98 
+Table 21: Tepotinib Total Plasma Pharmacokinetic Parameters by ODWG Class ........................ 99 
+Table 22: Tepotinib Unbound Plasma Pharmacokinetic Parameters by ODWG Class ............... 100 
+Table 23: Statistical Comparisons of Primary PK Parameters of Tepotinib ................................ 102 
+Table 24: Statistical Comparison of Primary Midazolam PK Parameters ................................... 110 
+Table 25: Statistical Comparisons of Primary Dabigatran PK Parameters .................................. 111 
+Table 26: In Vitro Inhibition of Drug Transporters by Tepotinib and Clinical Relevance ........... 112 
+Table 27: Listing of Clinical Trials Relevant to this NDA ............................................................. 117 
+Table 28: Patient Disposition – Cohort A of VISION Study ......................................................... 133 
+Table 29: Demographics and Baseline Characteristics, VISION Cohort A – Overall SAF ............ 135 
+Table 30: Demographics and Baseline Characteristics, VISION Cohort A ................................... 136 
+Table 31: Disease Characteristics (Disease History), VISION Cohort A – Overall SAF ................ 138 
+Table 32: Prior Anticancer Therapy, VISION Cohort A – Overall SAF (Combined Set) ............... 139 
+Table 33: Disease Characteristics (Disease History), VISION Cohort A ....................................... 140 
+Table 34: Prior Anticancer Therapy – VISION Cohort A .............................................................. 141 
+Reference ID: 4737966
+
+
+===== PAGE 11 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+10 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Figure 27: Kaplan-Meier Curve Showing Duration of Response, Independent Evaluation, VISION 
+Cohort A – ITT-02 Oct 2019......................................................................................................... 152 
+Figure 28: Kaplan-Meier Curve Showing Duration of Response by Prior Platinum-based 
+Chemotherapy for Metastatic Disease, Independent Evaluation, VISION Cohort A – ITT-02 Oct 
+2019 ............................................................................................................................................ 152 
+Figure 29. Diagnostic plots for the final population PK model for tepotinib ............................. 259 
+Figure 30: pcVPC of tepotinib concentrations vs time since last dose. ...................................... 260 
+Figure 31: pcVPC of tepotinib concentrations vs time since first dose stratified by study ........ 261 
+Figure 32: pcVPC of tepotinib concentrations vs time since last dose stratified by formulation
+..................................................................................................................................................... 262 
+Figure 33: Forest plot showing the association of the primary and secondary PK parameters and 
+covariates, assuming a dosing regimen of 500 mg daily, based on the final tepotinib population 
+PK model, for cancer patients in the analysis data set. .............................................................. 263 
+Figure 34: Diagnostic plots for the final population PK model for MSC2571109A .................... 270 
+Figure 35: pcVPC of MSC2571109A concentrations versus time since last dose ....................... 271 
+Figure 36: pcVPC of MSC2571109A concentrations vs time since last dose stratified by study 272 
+Figure 37: Observations versus individual predictions of tepotinib plasma concentrations for the 
+new subjects in the 01 January 2020 cut-off that were not in the 18 February 2019 cut-off. .. 273 
+Figure 38: pcVPC of tepotinib concentrations versus time since first dose in study MS200095-
+0022. ........................................................................................................................................... 274 
+Figure 39: Observations versus individual predictions of MSC2571109A plasma concentrations 
+for the new subjects in the 01 January 2020 cut-off that were not in the 18 February 2019 cut-
+off ................................................................................................................................................ 275 
+Figure 40: pcVPC of MSC2571109A concentrations versus time since first dose in study 
+MS200095-0022. ......................................................................................................................... 276 
+Figure 41:  Simulation of phospho-MET relative to baseline in human solid tumors ................ 278 
+Figure 42: ORR based on independent evaluation by tepotinib exposure (AUCss) quartile in 
+subjects receiving first dose before April 2nd, 2019 .................................................................... 279 
+Figure 43: ORR based on independent evaluation by tepotinib exposure (AUCss) quartile in 
+overall subjects ........................................................................................................................... 280 
+Figure 44: KM plot of DOR based on investigator assessment, stratified by tepotinib steady state 
+AUC (AUCss) quartile - in subjects receiving first dose before. ................................................... 281 
+Figure 45: KM plot of PFS based on investigator assessment, stratified by tepotinib steady state 
+AUC (AUCss) quartile - in subjects receiving first dose before. .................................................. 282 
+Figure 46: KM plot of time to the first oedema event stratified by quartiles of AUC24h on the day 
+of the oedema event or day of censoring. ................................................................................. 283 
+Figure 47: Time to first oedema event stratified by severity grade of the event. ..................... 284 
+Figure 48: Distribution of mean AUC24h up until the time of the oedema event (A), mean 
+AUC24h during one week prior to the oedema event (B) and mean AUC24h during two weeks 
+prior to the oedema event (C) by oedema severity grade ......................................................... 284 
+Figure 49: Forest plot showing the impact of age on the predicted hazard ratio. ..................... 285 
+Reference ID: 4737966
+
+
+===== PAGE 41 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+40 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+tepotinib dose of 450 mg/kg, exposures to the metabolite in females were as high as 3070 
+h*ng/mL (~40% of the 7530 h*ng/mL exposure in patients at the proposed clinical dose) 
+providing evidence of reasonable exposure of the metabolite in animals to support its safety in 
+the proposed patient population.   
+ 
+Dogs received 3, 10, or 30 mg/kg of tepotinib via oral administration of a hard gelatin capsule 
+every day for 39 weeks, followed by a 12-week recovery period. Exposures at the high dose of 
+30 mg/kg were approximately 0.3 times (females) to 0.15 times (males) the AUC in humans at 
+the 450 mg clinical dose. Dogs experienced dose-dependent increases in vomiting and diarrhea. 
+Males in the 30 mg/kg group had lower food consumption and did not gain as much weight as 
+dogs in other groups. Four animals in the high-dose group had increased lacrimation (tearing). 
+In addition to the liver, pathology findings in tepotinib-exposed dogs were generally mild and 
+included changes in adrenal glands (decreased cortical vacuolation) and bile duct (hyperplasia, 
+lymphoplasmacellular infiltrates). Females at all dose levels experienced milky retention in 
+mammary glands.  Though exposures in dog studies were significantly lower than exposures in 
+humans and there were no mortalities in dogs at the highest doses tested in studies of 28 days 
+or longer, the liver and bile duct findings appear to predict human hepatic findings and GI 
+toxicity precluded higher dosing. 
+ 
+In a standard genotoxicity battery, neither tepotinib nor the major metabolite M506 were 
+positive in either the Ames or the in vitro micronucleus assay regardless of metabolic 
+activation. Tepotinib was also negative in the in vivo micronucleus assay. Dedicated 
+carcinogenicity studies were not conducted with tepotinib, as they are not needed to support 
+the use of a drug intended to treat patients with advanced cancer.  
+ 
+To assess the potential developmental and reproductive toxicity, the Applicant conducted two 
+embryo-fetal development studies of oral tepotinib dosed daily during organogenesis on 
+Gestation Days (GD) 6-18 in New Zealand White (NZW) rabbits at doses of 0.5, 5, and 25 mg/kg 
+(Study 1) or 50, 150, and 450 mg/kg (Study 2). At 450 mg/kg/day, 4 of 11 animals were found 
+dead and another 3 died prematurely. Remaining rabbits in the 450 mg/kg group 
+(approximately 75% of the clinical tepotinib AUC exposure of 22,200 ng*hr/mL at the 500 mg 
+daily dose) were euthanized early due to morbidity. At the 150 mg/kg dose level (about 50% of 
+the human exposure) two dams had complete abortions resulting in an average 33% post-
+implantation loss for the dose level.  At dose levels ≥ 5 mg/kg there was an increased frequency 
+of skeletal abnormalities, including misshapen scapula and clavicle, malpositioned calcaneus 
+and talus, malrotated hind paw, and incomplete ossification of sternebra. One fetus from a dam 
+at the 0.5 mg/kg dose level had an ectopic kidney and 1 fetus from a dam at the 5 mg/kg dose 
+level had spina bifida. Because of the clear fetal toxicity at doses resulting in exposures less 
+than the human exposure at 450 mg daily clinical dose, studies in a second species were not 
+warranted. Based on data from the embryo-fetal development studies a warning for embryo-
+Reference ID: 4737966
+
+
+===== PAGE 51 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NOA 214096 
+TEPM ETKO, Tepotinib 
+autocrine manner in Study onc402-3-12mfh. Daily treatment with 200 mg/kg tepotinib led to 
+significant tumor growth inhibition, w hile M506 had no effect on tumor growth at any dose 
+tested (Figure 14). Neither test article had a negative impact on body weight or mortality. 
+Figure 14: Inhibition of human KP-4 tumor growth by daily treatment with tepotinib or the 
+metabolite MSOG 
+-e- VtNcle a> PO 
+.,._ MSC2'71108A·2 
+2n-q't g0DPO 
+1--
+MSC25711CQ6.·2 
+tO ~OD 
+PO 
+_. MSC25711DaA-2 
+!il~OD PO 
+IOOO 
+-
+MSC21e8119J.10 200nVtvOOPO 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+g 
+10 
+Trealment Onys 
+MSC2571109A-2 = M506. MSC2156116J-16 = tepot inib. 
+(Excerpt ed from St udy ONC402-3-12MFH) 
+Pharmacokinetic/ pharmacodynamic evaluation of repeat dose administration of tepotinib at 
+200 mg/kg and M506 at 2, 10, or 50 mg/kg (Study ONC-401-1-12mfh) in mice bearing 
+subcutaneous KP-4 tumors indicated that M506 exposure in tumor tissue was lower compared 
+to plasma while tepotinib was increased in tumor tissues compared to plasma exposure. M506 
+levels transiently increased 2-8 hours post dose and dropped by 24 hours post dose indicating 
+fast elimination of the metabolite (Table 3). Mice treated with tepotinib had a similar level of 
+exposure t o M506 as animals at the 50 mg/kg dose of M506. In addition, M506 transiently 
+inhibited phospho-M ET, while tepotinib inhibited MET phosphorylation for at least 24 hours 
+post administration (Figure 15). 
+Table 3: Average MSOG and tepotinib concentrations in plasma and tumor tissue in mice 
+bearing KP-4 tumors 
+Test article 
+M506 treat ment (50 mg/ kg) 
+Tepotinib treatment (200 mg/kg) 
+administered 
+Oay/hour of 
+01/ 8 
+02/ 8 
+04/ 0 
+04/8 
+04/24 
+01/8 
+02/8 
+04/0 
+04/8 
+04/24 
+sample 
+hours 
+hours 
+hours 
+hours 
+hours 
+hours 
+hours 
+hours 
+hours 
+hours 
+M506 exposure 
+Plasma 
+192 
+266 
+3 
+209 
+7 
+164 
+156 
+19 
+175 
+14 
+ng/ml 
+Tumor 
+90 
+113 
+BLOQ 
+104 
+BLOQ 
+70 
+66 
+7 
+81 
+15 
+ng/ml 
+Tepotinib exposure 
+Plasma 
+-
+-
+-
+-
+-
+1010 
+784 
+77 
+996 
+61 
+ng/ml 
+Tumor 
+-
+-
+-
+-
+-
+10450 
+9503 
+2123 
+15525 
+1228 
+ng/ml 
+50 
+Version date: January 2020 (All NOA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as "Data" and '7he Applicant's Position" are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA. 
+Reference ID 4737966 
+
+
+===== PAGE 56 =====
+
+NDA/ BLA Multi-disciplinary Review and Evaluation NOA 214096 
+TEPM ETKO, Tepotinib 
+5.4. 
+AD ME/ PK 
+The Applicant's Position: 
+Tepotinib is a Biopharmaceutics Classification System (BCS) class IV drug with medium 
+permeability in vitro. Oral bioavailability was moderate and the absorption rate was slow across 
+nonclinical species. Exposure generally increased w ith increasing doses of tepotinib in rat and 
+dog, and tended to be higher in female rats than males. Accumulation was minimal in rat and 
+dose-dependent in dog. Tepotinib has high protein binding and a high volume of distribution 
+indicating extensive distribution into tissues. 
+Tepotinib exhibits moderate to high clearance in non-primate animals, low clearance in monkey, 
+and follows a simple metabolic pathway with only few metabolites found across species. The 
+in vitro metabolism and proposed biotransformation pathway is consistent between human and 
+the nonclinical safety species rat and dog. In human, tepotinib is moderately metabolized mainly 
+by oxidation, and subsequent biotransformation to the major circulating metabolite 
+MSC2571109A via 4 different routes involving alcohol dehydrogenase, aldehyde dehydrogenase, 
+aldehyde oxidase, and cytochrome p450(CYP)3A4-metabolizing enzymes. MSC2571109A is 
+formed in the rat and dog but represents a disproportionate metabolite. The contribution of 
+MSC2571109A to the antitumor activity of tepotinib is considered not to be meaningful. 
+Biliary secretion is the major route of elimination of tepotinib in rat and tepotinib is mostly 
+eliminated via feces in rat and dog. 
+The FDA's Assessment (data presented by FDA): 
+FDA agrees that the in vitro metabolism of tepotinib is consistent between humans and the 
+nonclinical safety species (dogs and rats) regarding the formation of the major metabolite 
+M506. 
+Type of Study 
+Major Findings 
+Protein Binding 
+Study DMPK 144-08: In 
+• 
+Tepot inib was ;:: 94% protein bound in all species tested at 
+vitro binding of [14C)EMD 
+concent rat ions ranging from 0.3 to 10 µM 
+1214063 mouse, rat, 
+• 
+Unbound fract ions of the major metabolite were comparable in 
+rabbit, dog, monkey a nd 
+mouse, rat, and human, wit h a higher percentage available in 
+human plasma 
+dogs 
+Plasma protein binding 
+Species 
+% bo und 
+% unbound 
+Study 15-GR031-PO: 
+Tepotinib 
+MSC2571109 
+MSC2571109 (M506 
+Mouse 
+97 
+1.2 
+Metabolite of Tepotinib) 
+Rat 
+96 
+1.0 
+- In Vitro Prote in Binding 
+Rabbit 
+96 
+-
+in Mouse, Rat, Dog, and 
+Dog 
+94 
+2.5 
+Monkey 
+95 
+-
+55 
+Version date: January 2020 (All NOA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as "Data" and '7he Applicant's Position" are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA. 
+Reference ID 4737966 
+
+
+===== PAGE 57 =====
+
+NDA/ BLA Multi-disciplinary Review and Evaluation NOA 214096 
+TEPM ETKO, Tepotinib 
+Type of Study 
+Major Findings 
+Human Plasma a nd to 
+I Human 
+98 
+I 
+1.2 
+HSAand AAG 
+Similar binding occurred at 0.3, 1, and 10 µM of tepotinib in all species. '-' 
+metabolite measured in rabbit or monkey plasma. 
+Absorption 
+St udy DMPK 75-08: 
+• 
+Oral bioavailability after a single dose was 21.4 and 55.3% in male 
+Pharmacokinetics of EMD 
+and female rats, respectively, and 32.0 a nd 40.7% in male and 
+1160879 (Free Base) 
+female mice, respectively 
+After Single Int ravenous 
+• 
+Oral bioavailability after a single dose in female dogs was 22.1% 
+a nd Oral Administration 
+and 24.5% in female monkeys 
+of EMD 1214063 (Salt) to 
+Male and Female Wistar 
+Rats 
+Teootinib in olasma of treated rats and mice 
+Rats 
+Mice 
+St udy DMPK 74-08: 
+Paramet er 
+IV 3mg/kg 
+Oral 6mg/kg 
+IV 2mg/kg 
+Oral Smg/kg 
+Pharmacokinetics of EMD 
+Sex 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+1160879 (Free Base) 
+After Single Int ravenous 
+Cm ax 
+-
+-
+21.8 
+66 
+-
+-
+83.5 
+52.2 
+a nd Oral Administration 
+(ng/mL) 
+of EMD 1214063 (Salt) to 
+AUCo-t1ast 
+276 
+579 
+121 
+637 
+576 
+468 
+449 
+465 
+Male and Female NMRI 
+(h*ng/mL) 
+Mice 
+Tmax (h) 
+-
+-
+5.33 
+4 
+-
+-
+0.667 
+1 
+Tl/2 (h) 
+-
+-
+2.61 
+3.2 
+-
+-
+2.57 
+2.12 
+St udy DMPK 72-08: 
+M = Male; F = Female. IV = int ravenous. 
+Pharmacokinetics of EMD 
+1160879 (Free Base) 
+Tepotinib in plasma of treated dogs and monkey 
+After Single Int ravenous 
+a nd Oral Administration 
+Dogs 
+Monkey 
+of EMD 1214063 (Salt) to 
+Parameter 
+IV 2mg/kg 
+Oral Smg/kg 
+IV 2mg/kg 
+Oral Smg/kg 
+Female Beagle Dogs 
+Cm ax 
+-
+22.4 
+-
+55.5 
+(ng/mll 
+St udy DMPK 73-08: 
+AUCo-tlast 
+567 
+330 
+2550 
+1620 
+Pharmacokinetics of EMD 
+(h*ng/mL) 
+1160879 (Free Base) 
+Tmax (h) 
+-
+4 
+-
+12 
+After Single Int ravenous 
+Tl/2(h) 
+-
+7.64 
+-
+10.2 
+a nd Oral Administration 
+IV = intravenous. 
+of EMD 1214063 (Salt) to 
+Female Cynomolgus 
+Monkeys 
+Distribution 
+St udy DMPK 133-08: In 
+Investigators prepared whole blood aliquots from NMRI mouse, WU rat, 
+Vitro Distribution of 
+White New Zealand rabbit, Beagle dog, Cynomolgus monkey, and human 
+[14C]-EMD 1214063 in 
+and spiked it wit h radioactive tepotinib at 0.1 or 1 µMa nd incubated for 
+Whole Blood of Mouse, 
+10 min at 37°C and quant ified radioactivity by liquid scintillation counting 
+Rat, Rabbit, Dog, Monkey 
+(LSC). In contrast to a nimals, human whole blood indicated a similar 
+a nd Human 
+plasma a nd blood concentration resulting in a ratio of 1.0. 
+56 
+Version date: January 2020 (All NOA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as "Data" and '7he Applicant's Position" are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA. 
+Reference ID 4737966 
+
+
+===== PAGE 59 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+58 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Type of Study 
+Major Findings 
+and Human Using 
+Hepatocyte Cultures 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Study DMPK 35-10: 
+Metabolism in Rats after 
+Single Oral 
+Administration of 
+[14C]-MSC2156119   
+ 
+and  
+ 
+Study G-A-VIV-18-023: 
+Tepotinib 
+(MSC2156119J)- 
+absorption, metabolism, 
+and excretion in female 
+dogs after single oral 
+administration 
+M478 
+- 
+9.8 
+- 
+- 
+3.1 
+9.8 
+- 
+M508-1 
+3.9 
+74.2 
+53.4 
+63.2 
+73.3 
+34.6 
+22.1 
+M508-2 
+- 
+- 
+- 
+23.2 
+20.1 
+35.9 
+14.7 
+M506 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+Tepotinib 
+39.5 
+7.4 
+46.6 
+13.6 
+1.5 
+3.2 
+17 
+unknowns 
+38.6 
+8.6 
+- 
+- 
+2.1 
+16.5 
+5.83 
+Ms = mouse. Rb = rabbit. Dg = dog. Mn = monkey. Hu = human. 
+ 
+Fraction of total radioactivity in plasma (%AUC) 
+Metabolite 
+Rat 
+Dog 
+Human 
+ 
+M 
+F 
+F 
+M 
+M684 
+- 
+- 
+- 
+- 
+M668 
+- 
+- 
+- 
+4.23 
+M478 
+- 
+- 
+17.1 
+- 
+M508-1 
+38 
+33 
+10.8 
+- 
+M508-2 
+3 
+2 
+- 
+- 
+M506 
+- 
+- 
+6.28 
+41.2 
+Tepotinib 
+60 
+66 
+45.5 
+54.5 
+unknowns 
+- 
+- 
+- 
+- 
+• 
+Parent drug in rats dosed orally with tepotinib was ~9% higher than 
+human; there was no exposure to the major human metabolite M506 
+• 
+Parent drug in female dogs dosed orally with tepotinib was ~9% lower 
+than in humans and exposure to M506 was ~35% than in humans 
+ 
+Excretion 
+ 
+Clinical Study Report 
+EMR200095-007 
+ 
+Study DMPK 155-08: 
+Pharmacokinetics and 
+Excretion After Single 
+Intravenous and Oral 
+Administration of 14C-
+EMD 1214063 to Wistar 
+Rats 
+Study G-A-VIV-18-023: 
+Tepotinib 
+(MSC2156119J)- 
+absorption, metabolism, 
+and excretion in female 
+dogs after single oral 
+administration 
+Oral (rat) 
+• 
+After oral administration of tepotinib total radiolabeled material 
+excreted in feces: 
+o 
+78% in humans 
+o 
+58 and 67% in male and female rats, respectively, during 
+the first 24 hours 
+o 
+91% in female dogs during a 192-hour post 
+administration time period 
+• 
+Urinary excretion accounted for approximately: 
+o 
+ 14% in humans 
+o 
+1.5 and 5% in male and female rats 
+o 
+0.5% in female dogs  
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 4737966
+
+
+===== PAGE 60 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+59 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+ 
+Toxicology   
+ 
+General Toxicology 
+The Applicant’s Position: 
+Tepotinib proved to have a low acute toxicity in both rats and mice with no evidence of clinical 
+signs or toxic effects following a single oral administration of 2,000 mg/kg. The general toxicology 
+program comprised pivotal repeat-dose toxicity studies of tepotinib as subacute (4 weeks), 
+subchronic (13 weeks), and chronic studies (up to 26 weeks in rats and 39 weeks in dogs), 
+including toxicokinetic and reversibility evaluations. Apart from the pilot T16146 1-week 
+toxicology rat study performed with tepotinib free base, all pivotal studies were performed with 
+tepotinib hydrochloride hydrate. 
+Gastrointestinal disorders including vomiting and diarrhea were frequently observed in 
+repeat-dose toxicity studies in dogs at all tested doses (i.e., ≥ 2.5 mg/kg/day). 
+The major identified target organ of toxicity in the repeat-dose toxicity studies was the 
+liver/hepatobiliary system (rat and dog). Slight and dose-dependent statistically significant 
+increases of liver enzyme values (i.e., alkaline phosphatase, alanine transaminase [ALT], 
+aspartate transaminase [AST]) were observed in the repeat-dose toxicity studies in rat at doses 
+≥ 15 mg/kg/day. Mild liver cell hypertrophy (considered an adaptive non-adverse phenomenon) 
+was seen in female rats at the dose of 135 mg/kg/day in the 26-week study. In addition, 
+hepatocellular necrosis and mononuclear infiltrates were seen in a 4-week study at the high 
+doses of 450 and 2,000 mg/kg/day. In dog, increased hepatic-biliary parameters (glutamate 
+dehydrogenase [GLDH], ALT, AST, alkaline phosphatase, bilirubin [direct, total and indirect]) were 
+seen in all repeat-dose toxicity studies. These increases correlated histologically with pronounced 
+cholangitis, pericholangitis, and inflammatory infiltrates in the liver in the 4-week (40 mg/kg/day) 
+and 39-week (30 mg/kg/day) dog studies.  
+In both species, all changes proved to be reversible or showed indications for reversibility. The 
+total AUC in the chronic repeat-dose toxicity studies at the no observed adverse effect level 
+(NOAEL) is approximately 4% of the exposure achieved in patients at the proposed clinical dose 
+of 500 mg in both rats and dogs. 
+ 
+The FDA’s Assessment (all data presented by FDA): 
+Study title/ number: 26 Week Oral Toxicity Study in Rats Plus an 8 Week Recovery Period/ 
+T16179 
+• The target organs of toxicity were lung and liver  
+• Females had 1.5 – 2x higher exposure (Cmax and AUC) than males at several time points 
+Reference ID: 4737966
+
+
+===== PAGE 64 =====
+
+NDA/ BLA Multi-disciplinary Review and Evaluation NOA 214096 
+TEPM ETKO, Tepotinib 
+R = Recovery phase; all other data are dosing phase 
+Toxicokinetics 
+• 
+Females had nearly 2x greater exposure than males at all t ime 
+points examined 
+• 
+Between Days 28 and 91, exposures were comparable 
+• 
+In general, exposures increased less t han dose-proportionally 
+at all t ime points examined 
+Mean TK Parameters in Rats Following 26-Week Exposure to Tepotinib 
+Day 
+Dose 
+Sex 
+Cmax (ng/ml) 
+AUC24 (h*ng/ ml) 
+1 
+15 mg/kg 
+M 
+38.63 
+269.2 
+F 
+78.59 
+580.8 
+45 mg/kg 
+M 
+99.78 
+586.2 
+F 
+124.18 
+951.3 
+135 mg/kg 
+M 
+129.87 
+1251 
+F 
+230.58 
+1855 
+Day 
+Dose 
+Sex 
+Cmax (ng/ ml) 
+AUC24 (h*ng/ ml) 
+182 
+15 mg/kg 
+M 
+61.32 
+534.8 
+F 
+66.03 
+937.3 
+45 mg/kg 
+M 
+90.12 
+809.9 
+F 
+135.54 
+1312.1 
+135 mg/kg 
+M 
+101.28 
+1522.7 
+F 
+201.9 
+2909.2 
+Study title/ number: 39 Week Oral Toxicity Study in Beagle Dogs with a 12 Week Recovery 
+Period/ 13-DA009-NO 
+• 
+Dogs had dose-dependent hepatobiliary toxicity which was reversible during recovery 
+• 
+The target organs were liver, GI tract, and adrenal gland 
+• 
+Males and females in the low- and mid-dose groups had comparable exposures, while 
+females had nearly 2x higher exposure than males in the high dose group after Day 176 
+Conducting laborat ory and location: Merck KGaA 
+Darmst adt, Germany 
+GLP compliance: Yes 
+Methods 
+Dose and frequency of dosing: 
+Route of administration: 
+Formulation/Vehicle: 
+Species/ Strain: 
+Number/ Sex/ Group: 
+0, 3, 10, or 30 mg/ kg daily for 39 weeks 
+Gelatin capsule by mouth 
+0.25% aq. Hydroxypropyl methylcellulose 
+(Methocel® K4M premium) 
+Beagle Dogs 
+Terminal = 5/ Sex/ Group 
+63 
+Version date: January 2020 (All NOA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as "Data" and '7he Applicant's Position" are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA. 
+Reference ID 4737966 
+
+
+===== PAGE 68 =====
+
+NDA/ BLA Mult i-disciplinary Review and Evaluation NOA 214096 
+TEPM ETKO, Tepot inib 
+thymus 
+-13% 
+testes (M)/ 
+ovaries (F) 
+29% 
+adrenals 
+34% 
+thyroid 
+0% 
+Histopathology 
+Adequate battery: Yes 
+Peer Review: Yes (internal) 
+Adrenal 
+gland 
+Kidney 
+Liver 
+Mammary 
+gland 
+decreased/ diffuse 
+cortical vacuolation 
+increased 
+vacuolation; t ubuli 
+recti 
+bile duct hyperplasia, 
+papillary, epit helium 
+lymphoplasmacellular 
+infilt rates; bile duct; 
+multifocal 
+periductal fibrosis 
+cholangioles 
+proliferation; diffuse 
+periportal 
+hemosiderin 
+pigmentation; 
+periportal 
+bile pigmentation; 
+canaliculi; 
+cent rilobular 
+kupffer cell 
+activation; diffuse 
+milky retention 
+5% 
+47% 
+42% 
+41% 
+73% 
+22% 
+0% 
+-9% 
+63% 
+0% 
+29% 
+15% 
+-14% 
+-30% 
+-14% 
+25% 
+-33% 
+0% 
+0% 
+-22% 
+There were few aberrant histological observations. Most pat hologies 
+resolved during the recovery phase, except for periductal liver fibrosis 
+in the 30 mg/kg group and milky retent ion of t he mammary gland in t he 
+3 mg/kg group. 
+mild 
+1 
+3 
+mild 
+1 
+1 
+1 
+mod 
+2 
+3 
+mild 
+2 
+mild 
+1R 
+1R 
+mod 
+2 
+3 
+min 
+1 
+2 
+mod 
+1 
+1 
+min 
+1 
+1 
+mild 
+1 
+mild 
+1 
+mild 
+1 
+min 
+1 
+2 
+mild 
+1R 
+2 
+1 
+Only affected groups and controls are shown. R indicates recovery phase 
+Toxicokinetics 
+• 
+Males and females had comparable exposures in 3 and 10 
+mg/ kg groups 
+• 
+In 30 mg/ kg group, females had nearly 2x t he exposure of 
+males on Days 176 and 267 
+• 
+Exposure (Cmax and AUC) increased over 267 days, 
+indicating accumulation 
+67 
+Version date: January 2020 (All NOA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as "Data" and '7he Applicant's Position" are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA. 
+Reference ID 4737966 
+
+
+===== PAGE 69 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+68 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Mean TK Parameters in Dogs Following 39-Week Exposure to Tepotinib 
+Day 
+Dose 
+(mg/kg) 
+Sex 
+Cmax  
+(ng/mL) 
+AUC24 
+(h*ng/mL) 
+1 
+3 
+M 
+20.5 
+205 
+F 
+20.2 
+183 
+10 
+M 
+57.2 
+538 
+F 
+57.1 
+485 
+30 
+M 
+92.1 
+1020 
+F 
+98.5 
+1110 
+Day 
+Dose 
+(mg/kg) 
+Sex 
+Cmax  
+(ng/mL) 
+AUC24 
+(h*ng/mL) 
+267 
+3 
+M 
+21.8 
+213 
+F 
+25 
+267 
+10 
+M 
+76.9 
+898 
+F 
+105 
+1370 
+30 
+M 
+254 
+3420 
+F 
+554 
+6380 
+ 
+General toxicology; additional studies 
+Dr. Whitney Helms reviewed the 28-day repeat-dose toxicology studies in rats and dogs under 
+the original IND submission (IND 106103). The summaries of these studies are based on and 
+adapted from her review.  
+ 
+In a GLP-compliant 28-day toxicology study, Wistar rats received 3, 10, 30, or 90 mg/kg of 
+tepotinib via oral gavage once daily for 4 weeks. Females in the 90 mg/kg group gained 30% 
+more weight than other females, and males in this group gained 18% more than controls. 
+Hematology changes consisted of mild inflammation in tepotinib-treated females, characterized 
+by dose-dependent increases in WBCs, lymphocytes (HD), and neutrophils. Consistent with 
+observations made in the 26-week study, male and female rats in the HD group had enlarged 
+adrenal glands and reduced thyroid size. Females in the 90 mg/kg group had enlarged liver and 
+spleen. Rats in the 90 mg/kg group exhibited microscopic lung pathology, including acute focal 
+hemorrhage, mild alveolar macrophages, and mild multifocal foam cells. Other high-dose 
+findings included mild decrease in liver glycogen deposition, numerous macrophages in the 
+mesenteric lymph node, and moderate submucosal lymphoplasmacellular infiltrates in the 
+trachea. Females had greater exposure (AUC) than males, and dose accumulation between 
+Days 1 and 28 that was more pronounced at doses ≥30 mg/kg. Greater exposure in females 
+generally correlated with greater toxicity in these animals; exposure in females at the highest 
+dose in this study (despite the lower dose compared to the long-term toxicity study) was 11108 
+ng*hr/mL, approximately half the human exposure at the recommended dose of 500 mg. 
+In the 28-day dog study, tepotinib toxicity was more severe than in rats. Beagle dogs received 
+2.5, 10, or 40 mg/kg tepotinib via oral administration of a hard gelatin capsule once per day for 
+Reference ID: 4737966
+
+
+===== PAGE 76 =====
+
+NDA/ BLA Multi-disciplinary Review and Evaluation NOA 214096 
+TEPMETKO, Tepotinib 
+Cesarean Section Data (EFD Study; Rabbits) 
+mg/kg/day 
+0 
+0.5 
+5 
+Pregnancy index (%} 
+100% 
+100% 
+100% 
+#Females w/ only viable fetuses(%) 
+4 (67%) 
+4 (50%) 
+5 (63%) 
+Number pregnant 
+7 
+8 
+8 
+Number not pregnant 
+0 
+0 
+0 
+Gravid uterine weight (g) 
+484.12 
+506.79 
+457.23 
+Mean corpora lutea 
+10.86 
+11.25 
+11.88 
+Mean implantation sites 
+10.14 
+9.38 
+8.75 
+Mean % pre-implantation loss 
+6.35 
+16.42 
+26.64 
+Mean % post-implantation loss 
+19.98 
+6.01 
+15.21 
+Mean litter size 
+8.29 
+8.75 
+7.75 
+Mean early resorptions 
+1 
+4 
+1 
+Mean late resorptions 
+1 
+0 
+1 
+Fetal weight changes relative to controls 
+Male 
+3% 
+3% 
+Female 
+11% 
+15% 
+Toxicokinetic Parameters in Dams 
+Dose mg/ kg/day 
+0.5 
+5 
+25 
+Gestational Day 6 
+T max (hr) 
+4 
+4 
+4 
+Cmax (ng/ml} 
+0.05 
+3.90 
+32.28 
+AUC10-24) (ng*hr/ml} 
+6.1 
+49.0 
+319.8 
+Gestational Day 18 
+T max (hr} 
+5 
+4 
+6 
+Cmax (ng/ml} 
+0.27 
+4.64 
+34.15 
+AUC10-24) (ng*hr/ml} 
+3.1 
+56.7 
+365.5 
+Table 6: Mean Fetal Malformations and Variations (EFD Study; Rabbits) 
+Dose me.Ike./ dav 
+0 
+0.5 
+5 
+Number of Fetuses/(Litters Evaluated) 
+58/6 
+70/8 
+62/7 
+Gross malformations: #of fetuses affected, (%of litters) 
+Skeletal anomalies 
+53 (8.83%} 
+63 (7.88%} 
+52 (7.43%) 
+Spina bifida 
+0 (0%} 
+0 (0%} 
+1 (14.3%) 
+Ectopic kidney 
+0 
+1 (12.5%) 
+0 
+Bilateral hind limb malrotation 
+0 (0%) 
+0 (0%) 
+1 (14.3%) 
+Hyperextension of hind limb 
+0 (0%) 
+0 (0%) 
+5 (71.4%) 
+Cranium frontal, missing central 
+22 (83.3%) 
+35 (100%) 
+35 (85.7%)* 
+ossification 
+75 
+Version date: January 2020 (All NOA/ BLA reviews) 
+25 
+100% 
+3 (38%) 
+8 
+0 
+496.69 
+11.88 
+9.50 
+20.30 
+7.05 
+8.75 
+3 
+0 
+-3% 
+9% 
+25 
+70/8 
+55 (6.88%) 
+0 (0%} 
+0 (0%) 
+1 (12.5%) 
+3 (37.5%) 
+7 (37.5%)*** 
+Disclaimer: In this document, the sections labeled as "Data" and '7he Applicant's Position" are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA. 
+Reference ID 4737966 
+
+
+===== PAGE 80 =====
+
+NDA/ BLA Multi-disciplinary Review and Evaluation NOA 214096 
+TEPM ETKO, Tepotinib 
+Mean Toxicokinetic Paramete rs in Dams 
+Dose mg/kg/day 
+so 
+l SO 
+Gestational Day 6 
+T max (hr) 
+6 
+4 
+Cmax (ng/ml) 
+68.23 
+139.67 
+AUC10-241 (ng* hr/mL) 
+720 
+1593 
+Gestational Day 18 
+T max (hr) 
+4 
+6 
+Cmax (ng/ml) 
+305.01 
+604.65 
+AUC10-24) (ng*hr/ml) 
+3898 
+11097 
+N.E. = not evaluable 
+4SO 
+6 
+807.44 
+16705 
+N.E. 
+N.E. 
+N.E. 
+Table 7: Fetal Malformations and Variations (EFD Study; Rabbits) 
+Dose mg/kg/day 
+0 
+so 
+lSO 
+Number of Fetuses/(Litters Evaluated) 
+57/ 7 
+47/6 
+42/4 
+Skeletal anomalies# of fetuses/(% litters) 
+46/57 
+33/47 
+39/42 
+Misshapen scapula (bilat.) 
+0 (0%) 
+0 (0%) 
+29 (100%)*** 
+Fore paw 
+Malposition clavicle (bilat.) 
+0 (0%) 
+0 (0%) 
+16 (75%)*** 
+Malrotation (bilat.) 
+0 (0%) 
+7 (17%)** 
+42 (100%)*** 
+Unossified great tubercle (bilat.) 
+15 (71%) 
+10 (67%) 
+27 (100%)*** 
+Malposition calcaneus (bilat.) 
+0 (0%) 
+0 (0%) 
+23 (100%)*** 
+Hind paw 
+Malposition talus (bilat.) 
+0 (0%) 
+0 (0%) 
+23 (100%)*** 
+Malrotation (bilat.) 
+0 (0%) 
+0 (0%) 
+28 (100%)*** 
+Cranium 
+Missing central ossification, parietals 
+32 (100%) 
+17 (100%)* 
+14 (100%)* 
+2nd sternebra, bipartite 
+1 (14%) 
+0 (0%) 
+16 (75%)*** 
+Sternum 
+5th sternebra, unossified 
+9 (57%) 
+6 (50%) 
+18 (100%)** 
+pt sternebra, incomplete ossification 
+0 (0%) 
+0 (0%) 
+11 (50%)*** 
+2nd sternebra, incomplete ossification 
+2 (29%) 
+2 (17%) 
+9(75%)** 
+*p<0.05; **p<0.01; ***p<0.001 
+5.5.5. 
+Other Toxicology Studies 
+The Applicant's Position: 
+Metabolites 
+The major circulating human metabolite MSC2571109A has no genotoxic potential as assessed 
+in a bacterial mutagenicity assay and a mouse lymphoma assay. 
+Impurities 
+The specified identified impurities I 
+(b><~j 
+I were synthesized and tested in good laboratory practice 
+---~~~~~~~~~~~~--
+79 
+Version date: January 2020 (All NOA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as "Data" and '7he Applicant's Position" are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA. 
+Reference ID 4737966 
+
+
+===== PAGE 96 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+95 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table 17: Statistical Comparison of PK Parameters between Tepotinib TF3 100 mg and 250 mg 
+ 
+Source: CSR of MS200095_0038, Table 9, page 48. 
+The recommendation that tepotinib is administered with food is supported by the food effect 
+study showing the mean AUC0-INF of tepotinib increased by 1.6-fold and Cmax increased by 2-fold 
+(Table 18), following administration of a high-fat, high-calorie meal (approximately 800 to 
+1,000 calories, 150 calories from protein, 250 calories from carbohydrate, and 500 to 600 
+calories from fat). The median Tmax shifted from 12 hours to 8 hours. In addition, taking 
+tepotinib with food is expected to mitigate the gastrointestinal toxicities including diarrhea, 
+which were among the most common adverse reactions. The food effect is considered clinically 
+meaningful, as a reduction in exposure following administration of tepotinib without food may 
+potentially reduce anti-tumor activity and tepotinib was administered with food in VISION. 
+Table 18: Food Effect of Tepotinib with Formulation TF3 
+ 
+Source: CSR of MS200095-0044, Table 16, page 76 
+The clinical consequence for patients who take tepotinib without food was explored by using 
+PK/PD modeling.  The modeling and simulation suggested that the rate of patients who will not 
+reach 95% phosphor-MET inhibition is numerically higher under fasting conditions (Table 19). 
+Based on the results from the PK/PD modeling, FDA agrees with the Applicant’s proposal of 
+giving tepotinib with food considering that it may mitigate gastrointestinal toxicities.   
+Reference ID: 4737966
+
+
+===== PAGE 97 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+96 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table 19: Population PKPD Simulation for phosphor-MET inhibition 
+Percentile of Patients not reached 95% Inhibition 
+All Patients 
+Dose (mg) 
+Median 
+10th – 90th percentile 
+FED 
+250 
+23.1 
+20.1 
+28.3 
+500 
+9.6 
+8.81 
+10.6 
+FAST 
+250 
+29.1 
+24.5 
+34.8 
+500 
+14.4 
+11.9 
+17.4 
+  
+Source: Reviewer’s independent analysis 
+ 
+Therapeutic Individualization 
+Data: 
+Intrinsic factors 
+In a population PK analysis, age, sex, race, body weight and disease status had no relevant 
+influence on the PK of tepotinib, i.e., not resulting in exposures (median for categorical covariates 
+or 10th to 90th percentile for continuous covariates) outside the 80% to 125% intervals of typical 
+cancer patients. 
+Both the clinical study in patients with Child-Pugh Class A and B hepatic dysfunction, and the 
+population PK analysis showed no clinically relevant effect of mild or moderate hepatic 
+impairment on the PK of tepotinib. The total tepotinib exposure was 13% (AUC) and 29% (Cmax) 
+lower in patients with moderate hepatic impairment compared to healthy participants. The 
+observed mean free AUC was higher in patients with mild (13%) and moderate (24%) hepatic 
+impairment compared with healthy participants. However, this is within the observed exposure 
+variability and is not considered clinically relevant based on the favorable safety profile. The 
+effect of severe hepatic impairment has not been studied. 
+In agreement with the low extent of renal elimination, the population PK analysis showed no 
+evidence for clinically meaningful effects of mild or moderate renal impairment on the PK of 
+tepotinib. The effect of severe renal impairment has not been studied. 
+Extrinsic factors 
+A food effect was shown for all formulations tested including the proposed commercial 
+formulation, TF3. At the proposed clinical dose of 500 mg TF3, a standard high fat, high-calorie 
+breakfast increased the AUC of tepotinib by approximately 1.6-fold and Cmax by approximately 
+2-fold. The effect of a normal breakfast was in a similar range as a standard high-fat, high-calorie 
+breakfast. Tepotinib was administered in the clinical studies with a normal breakfast, and the 
+proposed mode of administration in the labeling is that tepotinib should be taken with food. 
+Proton pump inhibition had no clinically relevant effect on the bioavailability of tepotinib. 
+Reference ID: 4737966
+
+
+===== PAGE 98 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+97 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Based on metabolite profiling in excreta, no single identified metabolic pathway comprises more 
+than 25% of the administered dose. Therefore, the drug-drug interaction (DDI) potential with 
+tepotinib as a victim of interactions with coadministered drugs that interact with drug-
+metabolizing enzymes is considered low. 
+Tepotinib is a P-gp substrate. However, P-gp inhibitors are not expected to alter tepotinib 
+exposure to a clinically relevant extent (Section 6.3.1). Strong inducers of P-gp may have the 
+potential to decrease tepotinib exposure, and the proposed labeling advises that concomitant 
+use of strong P-gp inducers should be avoided. 
+The Applicant’s Position: 
+No dose adjustment is recommended based on intrinsic factors in patient subpopulations. The 
+PK and safety of tepotinib in patients with severe hepatic or renal impairment have not been 
+studied. 
+Tepotinib is subject to a food effect and should be administered with food. Administration in the 
+pivotal VISION study was also after a normal breakfast. The exposure and clinical data thus reflect 
+individual and cultural differences in dietary habits. 
+Apart from strong P-gp inducers, tepotinib is not expected to be sensitive to the potential effects 
+of other coadministered drugs. 
+The FDA’s Assessment: 
+FDA agrees with the Applicant that no dosage adjustment is recommended based on intrinsic 
+factors (i.e., mild or moderate renal impairment, mild or moderate hepatic impairment) in patient 
+subpopulations. 
+FDA’s conclusion that no dosage adjustment is needed in patients with mild or moderate hepatic 
+impairment (Child-Pugh classification) is based on the results form the dedicated hepatic 
+impairment study, in which the exposure was similar in healthy subjects and patients with mild 
+hepatic impairment (Child-Pugh Class A), with no clinically relevant decrease (13% decrease in 
+AUC and  29% decrease in Cmax) in patients with moderate hepatic impairment (Child-Pugh Class 
+B) compared to healthy subjects (Table 20).
+Reference ID: 4737966
+
+
+===== PAGE 99 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+98 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table 20: Comparison of Tepotinib PK Between Hepatic Function Groups Based on Child-Pugh 
+Classification 
+ 
+Source: CSR of Study MS200095-0028, Table 16, Page 71 
+In response to FDA’s information request, the effect of hepatic impairment on tepotinib 
+exposure was further evaluated after reclassification using ODWG criteria. The result also 
+suggested that the difference in tepotinib exposure in both mild and moderate hepatic 
+impairment cohorts as compared to that of healthy subjects were not clinically relevant (Table 
+21). The Applicant considered that decreased exposure may be explained by the mechanism of 
+decreased plasma protein binding, due to diminished albumin synthesis by the liver, and this 
+may lead to an increase in free fraction of the drug and an increase in the plasma clearance of 
+total drug in the absence of alteration of free drug clearance (SDN 29, 10/8/2020).  
+ 
+ 
+Reference ID: 4737966
+
+
+===== PAGE 101 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+100 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table 22: Tepotinib Unbound Plasma Pharmacokinetic Parameters by ODWG Class 
+ 
+Source: Response to FDA information request, SDN 29, 10/8/2020, Table 3, Page 7. 
+FDA agrees that no dose adjustment is necessary for patients with mild or moderate renal 
+impairment. No dedicated renal impairment study was conducted to evaluate the effect of renal 
+impairment on the PK of tepotinib. The population PK analysis of 591 participants (eGFR range 
+39.4 to 236 mL/min/1.73 m2, including 64 patients with moderate renal impairment from VISION 
+Study) suggested that the apparent clearance of tepotinib did not show a clinically meaningful 
+association with eGFR. FDA agrees a dedicated study to evaluate the effect of severe renal 
+impairment on the PK of tepotinib is not required, given that renal excretion of tepotinib is 
+identified as a minor route of elimination.  
+FDA also agrees with the Applicant that no clinically significant effects on tepotinib 
+pharmacokinetics were observed based on subpopulation including sex, age (18 to 89 years), 
+race/ethnicity (White, n = 362; Black, n = 17;  Japanese, n = 28; Other East Asian, n = 145; 
+Hispanic, n = 25; other, n=14) and body weight (35.5 to 136 kg) (Figure 18).  Refer to the 
+Population PK analyses in Appendix 19.4 for details. 
+ 
+ 
+Reference ID: 4737966
+
+
+===== PAGE 102 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+101 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Figure 18: Forest Plot Showing the Association of the Predicted AUCss and Covariates 
+ 
+Source: Pharmacometrics Pooled Population PK Report, April 2020, Figure 36 
+In terms of extrinsic factors, FDA agrees with the Applicant that tepotinib should be given with 
+food, given the observed increase in AUC by 1.6-fold and Cmax by 2-fold with high fat, high-
+calorie breakfast (refer to section 6.2.2.1 for more details). FDA also agrees that no clinically 
+Reference ID: 4737966
+
+
+===== PAGE 104 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+103 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+In vitro data from Study DMPK 87-08 and XT134049 suggested that tepotinib is a substrate of 
+CYP2C8 and CYP3A4, with CYP3A4 having a higher contribution to the metabolism than CYP2C8. 
+Although the Applicant acknowledges that fractions metabolized by individual CYP isozymes 
+could not be reliably quantified (Response to FDA Information Request, sequence NO. 029, 
+10/8/2020), no in vivo study has been conducted to further evaluate the effect of CYP3A4 and 
+CYP2C8 inhibitors or inducers on tepotinib exposure. In addition, tepotinib is a P-gp substrate in 
+vitro and has moderate passive permeability. Although FDA agrees with the Applicant that the 
+maximum increase in AUC through complete inhibition of biliary secretion (clearance reduction 
+by 30%), would translate to a clinically irrelevant AUC increase of 1.4-fold, the additive effect of 
+both CYP3A4/CYP2C8 and P-gp induction or inhibition has not been evaluated nor reliably 
+predicted.  
+In response to FDA’s information request (sequence NO. 029, 10/8/2020), the Applicant agreed 
+with FDA’s concern and proposed to conduct a dedicated post-marketing study (PMR) using the 
+dual strong CYP3A4 inhibitor and P-gp inhibitor itraconazole to reflect a worst-case scenario of  
+inhibition of both CYP3A4 and P-gp.  
+Although FDA agrees with the Applicant’s proposal of avoiding the concomitant use of strong 
+CYP3A4 inducers and P-gp inducers, FDA considered that the avoidance limits the treatment 
+options for this patient population. FDA considered that the use of a PBPK modeling approach 
+to estimate the magnitude of DDI resulting from P-gp/CYP3A inducers would be insufficient to 
+support dosage recommendations. There are concerns about the development of a reliable 
+PBPK model given the remaining uncertainties in the fraction of individual CYP enzymes and P-
+gp contribution to tepotinib clearance, and the limited experience using the PBPK approach to 
+estimate P-gp induction effect and combined effect of simultaneous CYP and P-gp induction. As 
+a result, FDA considers it is necessary for the Applicant to conduct a clinical trial as a PMC to 
+evaluate the effect of a strong CYP3A4 inducer and P-gp inducer on tepotinib exposure, such as 
+rifampin, which is a strong CYP3A4, moderate CYP2C8, and P-gp inducer.  
+In conclusion, FDA in general agrees with the Applicant regarding therapeutic individualization 
+based on intrinsic and extrinsic factors. However, FDA considered that the drug interaction 
+potential for tepotinib as a victim is not adequately evaluated. FDA thus issued a PMC using 
+rifampin as strong CYP3A4, moderate CYP2C8 and P-gp inducer to determine the induction 
+effect on tepotinib exposure, and a PMR using itraconazole as strong inhibition of CYP3A4 and 
+P-gp inhibitor to determine the inhibition effect on tepotinib exposure.  
+ 
+Outstanding Issues 
+Data and the Applicant’s Position: 
+No outstanding issues. 
+The FDA’s Assessment: 
+Reference ID: 4737966
+
+
+===== PAGE 105 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+104 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+FDA agrees with the Applicant’s position. 
+ 
+Comprehensive Clinical Pharmacology Review 
+ 
+General Pharmacology and Pharmacokinetic Characteristics 
+Data: 
+An overview of the clinical PK of tepotinib is provided below. 
+Absorption 
+Despite the limited solubility profile, a mean absolute bioavailability of 71.6% (geometric mean; 
+range 62% to 81%) was observed for a 500 mg dose of tepotinib TF1 administered after a high-fat, 
+high-calorie breakfast. 
+The proposed commercial formulation TF3 (2 tablets of the 250 mg dose strength) was shown to 
+be bioequivalent to TF2 (1 tablet of the 500 mg dose strength) under fasted conditions 
+(Study MS200095-0044). TF2 was tested against TF1 in a relative bioavailability study under fed 
+conditions and had very similar concentration-time profiles and bioavailability, with exposure 
+ratios of TF2 vs. TF1 within the bioequivalence boundaries (Study MS200095-0012). Therefore, 
+the absolute bioavailability of the proposed commercial formulation, TF3, is expected to be 
+similar to that observed for TF1. 
+Tepotinib exposure increased in the presence of food (Section 6.2.2.2). Tepotinib was generally 
+administered after a normal breakfast in studies with cancer patients, including the VISION study, 
+and the proposed mode of administration in the labeling is that tepotinib should be taken with 
+food. 
+Following administration of single oral doses of 500 mg TF3 in the fed state, the median time to 
+Cmax (median tmax) was 8 h (range from 6 to 12 h). 
+Tepotinib exposure after administration of the TFs increased dose-proportionally over the 
+clinically relevant dose range up to 500 mg. The PK of tepotinib does not change with time.  
+The proton pump inhibitor, omeprazole had no clinically relevant effect on the PK profile of 
+tepotinib when administered under fed conditions. 
+Distribution 
+In human plasma, tepotinib is highly protein-bound (98%). Following a single iv dose of 
+14C-labeled tepotinib, the volume of distribution during the terminal phase (VZ) was shown to be 
+large, with a geometric mean (geometric CV%) of 574 L (14.4%). 
+Tepotinib was identified as a P-gp substrate. Considering the high fraction absorbed (85%) after 
+oral administration, and based on a worst-case in which P-gp-mediated biliary secretion accounts 
+Reference ID: 4737966
+
+
+===== PAGE 106 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+105 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+for 30% of the total clearance, P-gp inhibitors are not expected to alter tepotinib exposure to a 
+clinically relevant extent. 
+Metabolism 
+Tepotinib is metabolized in humans with metabolites accounting for 48% of recovered tepotinib-
+related radioactivity in feces and urine. No single metabolic pathway accounted for > 25% of 
+tepotinib elimination. 
+The contribution of the major circulating metabolite (MSC2571109A) to the overall efficacy of 
+tepotinib in humans is estimated to be negligible. 
+Excretion 
+Tepotinib is mainly excreted via feces (approximately 85% of administered radioactivity, adjusted 
+for total recovery), with urinary excretion being a minor excretion pathway. After a single oral 
+administration of a radiolabeled dose of 500 mg tepotinib, the major circulating metabolite 
+accounted for only about 3% of the total radioactivity in feces. 
+Following a single iv dose of tepotinib, the geometric mean (geometric CV%) clearance was 
+estimated to be 12.8 L/h (7.8%). 
+The effective half-life for tepotinib was approximately 32 h based on the population PK analysis. 
+After multiple daily administrations of 500 mg tepotinib TF1, median accumulation was 2.5-fold 
+for Cmax and 3.3-fold for AUC0-24h.  
+The Applicant’s Position: 
+The clinical PK and ADME properties of tepotinib have been well characterized. 
+The FDA’s Assessment: 
+FDA generally agrees with the Applicant’s position. However, FDA considers that fractions 
+metabolized by each individual CYP isozyme could not be reliably quantified. Lack of such 
+information will make the evaluation of the drug interaction potential for tepotinib as victim 
+difficult without in vivo drug interaction data. Metabolism and in vitro data suggested that 
+tepotinib is a substrate of CYP3A4, CYP2C8 and P-gp. The potential tepotinib exposure increase 
+due to CYP3A4/2C8 and P-gp inhibition may increase the incidence and severity of adverse 
+reactions of tepotinib, while the potential reduction in tepotinib exposure due to CYP3A4/2C8 
+and P-gp induction may decrease TEPMETKO anti-tumor activity. As a result, FDA issued a PMC 
+and a PMR to address this drug interaction concerns. Refer to sections 6.1.2 and 6.2.2.2 for 
+more details. 
+Reference ID: 4737966
+
+
+===== PAGE 109 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+108 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+FDA agrees with the Applicant’s position that the proposed 500 mg QD dosage (equivalent to 450 
+mg tepotinib free base) with food is adequate for the treatment of the proposed patient 
+population. Refer to section 6.2.2.1 for a more detailed evaluation. 
+ 
+Is an alternative dosing regimen or management strategy required for 
+subpopulations based on intrinsic patient factors? 
+Data and Applicant’s Position: 
+Based on the analysis of intrinsic and extrinsic factors, no alternative dosing regimen or 
+management strategy is required for subpopulations (Section 6.2.2.2). 
+The FDA’s Assessment: 
+FDA agrees with the Applicant’s position that no alternative dosing regimen or risk management 
+strategy is required for subpopulations such as age (18 to 89 years), race/ethnicity (White, Black, 
+Asian, Japanese, and Hispanic), sex, body weight (35.5 to 136 kg), mild to moderate renal 
+impairment (CLcr 30 to 89 mL/min), or mild to moderate hepatic impairment (Child-Pugh A and 
+B). Refer to section 6.2.2.2 for more details regarding evaluation of dose individualization based 
+on intrinsic factors. 
+ 
+Are there clinically relevant food-drug or drug-drug interactions, and 
+what is the appropriate management strategy? 
+Data: 
+At the proposed clinical dose of 500 mg TF3, a standard high fat, high-calorie breakfast increased 
+AUC of tepotinib by about 1.6-fold and Cmax by about 2-fold. The effect of a normal breakfast was 
+in a similar range as a standard high-fat, high-calorie breakfast. Tepotinib was administered in 
+clinical studies with a normal breakfast, and the proposed labeling recommends administration 
+with food. Proton pump inhibition had no clinically relevant effect on the PK of tepotinib. 
+Owing to multiple metabolic pathways (no metabolic pathway accounting for > 25% of tepotinib 
+elimination), tepotinib has low sensitivity toward inhibitors of drug-metabolizing enzymes. 
+Tepotinib is a substrate to P-gp. Strong P-gp inhibition is not expected to result in clinically 
+relevant effects (Section 6.3.1). However, strong P-gp inducers have the potential to decrease 
+tepotinib exposure and concomitant use of such drugs should be avoided. 
+Tepotinib had no clinically relevant effect on CYP3A4. 
+Tepotinib had a weak effect on the sensitive P-gp substrate dabigatran etexilate (increases in 
+AUC0-∞ and Cmax of 45% and 38%, respectively). Clinical effects of coadministered P-gp-dependent 
+drugs with a narrow therapeutic index should be monitored. In vitro, tepotinib is an inhibitor of 
+breast cancer resistance protein (BCRP). Based on a study in which the BCRP substrate gefitinib 
+Reference ID: 4737966
+
+
+===== PAGE 258 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+257 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+last dose were excluded from the PK analysis. The plasma concentrations of tepotinib were 
+described by a two-compartment disposition model with sequential zero- and first-order 
+absorption and first-order elimination from the central compartment. The model included 
+inter-individual variability (IIV) for CLpar, ka, D1, central volume of distribution of parent drug 
+(Vc,par) and peripheral volume of distribution of parent drug (Vp,par), inter-compartmental 
+clearance of parent drug (Qpar) and Fpar. The residual error model is additive on the log-scale. 
+Covariates included sex, race, age, WT, disease status, tumor type, NCI ODG classification of 
+liver impairment, HBV/HCV+, baseline tumor burden, serum albumin, total bilirubin, alkaline 
+phosphatase, international normalized ratio, total protein, co-administration of opioid 
+analgesics, co-administration of gefitinib, estimated glomerular filtration rate (MDRD formula) 
+and dose. 
+The final population PK parameter estimates for tepotinib are presented in Table 76. Estimated 
+fixed and random effect parameters were estimated with good precision (%RSE < 23%). The 
+magnitude of the interindividual variability was moderate for ka, D1 and Fpar for CF1. Residual 
+variability was moderate.  
+Reference ID: 4737966
+
+
+===== PAGE 270 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+269 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+described by a two-compartment model with first-order elimination from the centration 
+compartment. The fraction of tepotinib metabolized to MSC2571109A was fixed to 1, which 
+assumed that all eliminated tepotinib formed MSC2571109A. The model included inter-
+individual variability (IIV) for CLmet, central volume of distribution of parent drug (Vc,met) and 
+peripheral volume of distribution of parent drug (Vp,met), and inter-compartmental clearance of 
+parent drug (Qmet). The residual error model is additive on the log-scale. Covariates included 
+sex, race, age, WT, disease status, tumor type, NCI ODG classification of liver impairment, 
+HBV/HCV+, baseline tumor burden, serum albumin, total bilirubin, alkaline phosphatase, 
+international normalized ratio, total protein, co-administration of opioid analgesics, co-
+administration of gefitinib, estimated glomerular filtration rate (MDRD formula) and dose. 
+The final population PK parameter estimates for MSC2571109A are presented in Table 77. 
+Estimated fixed and random effect parameters were estimated with good precision (%RSE < 
+25%). The magnitude of the interindividual variability was moderate for Vc,met and Qmet. Residual 
+variability was moderate.  
+Table 77: Parameter estimates of the final tepotinib population PK model. 
+ 
+Source: PMAR – Population PK (18 February 2019 cut-off) Page 96, Table 19. 
+ 
+The diagnostic plots for the final PK model are shown in Figure 34. The pcVPC (prediction 
+corrected visual predictive check) on the final PK model is shown in Figure 35. The pcVPC 
+stratified by study is shown in Figure 36. In general, the final MSC2571109A population PK 
+model describes the data well pcVPC plots generally showed a good agreement for the 
+Reference ID: 4737966
+
+
+===== PAGE 300 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+299 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+• There is low potential for a clinically relevant interaction, via CYP2C9 inhibition, between 
+tepotinib and a sensitive CYP2C9 substrate.  
+• PBPK analysis could not be used to estimate the effects of tepotinib treatment on a 
+CYP2B6 substrate, such as bupropion, due to the uncertainty of the percentage 
+contribution of CYP2B6 to bupropion clearance in the PBPK model. However, an 
+assessment using the static model suggested the DDI risk for tepotinib treatment with a 
+CYP2B6 substrate, via induction by MSC2571109A, is considered low. 
+ 
+Background 
+Tepotinib and its main circulating metabolite MSC2571109A were evaluated as inhibitors of CYP 
+enzymes. In vitro (HLM), tepotinib inhibited CYP2C8, CYP2C9, CYP2C19 and CYP3A; while 
+MSC2571109A was a reversible inhibitor of CYP2C9 [XT085043- DMPK68-08] and showed a 
+signal for CYP3A inactivation. The clinical liability of inhibition of CYP3A by parent and 
+metabolite were excluded using the static model (R=1.01) and the empirical shifted IC50 model 
+(AUC ratio=1.00), respectively. 
+ 
+In vitro, metabolite MSC2571109A showed potential for induction of CYP3A4 and CYP2B6: a 23-
+fold increase in CYP3A4 mRNA and 7-fold increase in CYP2B6 mRNA were reported. Similarly, 
+tepotinib induced up to 7-fold CYP3A4 mRNA in a concentration-dependent manner 
+[XT163099]. Based on the static model, there was a potential for CYP3A induction by both 
+parent and metabolite (R values of 0.25 and 0.07, respectively). Tepotinib treatment showed no 
+clinically relevant effect on the exposure of the CYP3A substrate midazolam (AUC ratio=1.01 
+and Cmax ratio =1.03) in the clinical DDI study MS200095-0030. 
+ 
+Although the potential for induction of CYP2C enzymes has not been evaluated in vitro, the 
+negative DDI study with midazolam can be used to infer that the potential for induction of 
+CYP2C enzymes via PXR activation is low. 
+ 
+At the plasma levels expected for the proposed therapeutic dose of 500 mg QD, the risk of 
+clinical CYP-mediated DDIs were evaluated based on in vitro data for tepotinib and 
+MSC2571109A, using the static model [18-DA0624-0] and PBPK modeling.  
+ 
+The aim of this review was verifying the adequacy of the PBPK analysis related to potential for 
+clinical DDIs mediated by inhibition of CYP2C9 and induction of CYP2B6 with tepotinib 
+treatment. 
+ 
+Methods 
+PBPK Model Structure 
+The PBPK analyses were performed using the population-based PBPK software Simcyp® (V17, 
+Simcyp Ltd., a Certara Company, Sheffield, United Kingdom).  Predictions of plasma 
+concentration-time profiles and drug-drug interactions were conducted using the software’s 
+Reference ID: 4737966
+
+
+===== PAGE 301 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+300 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+default healthy volunteer virtual population. The default compound files (software’s library 
+V17) for the CYP2C9 substrate Sim-S-Warfarin and the CYP2B6 substrate SV-bupropion were 
+used in the DDI simulations.  
+ 
+The PBPK model of tepotinib was developed based on physicochemical properties, in vitro, and 
+clinical PK data. The input parameters are described as follows.  A first-order absorption model 
+was used.  The fraction absorbed (fa=0.85) was estimated according to the first-pass extraction 
+(FPE=1- CLiv/Qh=0.15, where CLiv= intravenous clearance =12.8 L/h [EMR200095-007] and 
+Qh=liver blood flow= 87 L/h) and the absolute bioavailability (=71.6%) from a tablet formulation 
+(TF1)  [Mass balance report 19-DA0128-0]. The unbound fraction in enterocytes (fugut) was 
+assumed to be 1. An absorption constant rate (ka=0.278 1/h) was estimated from Population PK 
+analysis [Pharmacometrics Pooled Population PK Report, April 2020]. The clearance value of 
+12.8 L/h following intravenous administration [EMR200095-007] was used to characterize 
+tepotinib elimination. A minimal PBPK distribution model with single-adjustment compartment 
+(SAC, Q=1.32 L/h, Vsac=16.9 L/kg, Vss=31.4 L/kg) was used to characterize tepotinib distribution 
+based on estimates from Population PK analysis (Q/F=1.32 L/h, Vc/F = 1020 L and Vp /F= 1180 
+L, using Vss= Vc + Vp and Vsac = Vp, typical body weight of 70 kg). In vitro, the unbound fraction 
+of tepotinib in plasma (fup) was 0.023 [DMPK 144-08], blood-to plasma ration (B/P) was 1 
+[DMPK 133-08] and albumin was the main plasma binding protein [DMPK 94-11 and DMPK 55-
+12]. 
+ 
+The PBPK model of tepotinib metabolite MSC2571109A was developed based on 
+physicochemical properties, in vitro, and clinical PK data. The model was built independently of 
+the parent tepotinib model. Given the metabolite showed low peak-trough fluctuation, the 
+Applicant used a continuous infusion model to describe a constant steady-state concentration. 
+The clearance (CLiv=3.5 L/h) and dose were refined to recover the exposure of MSC2571109A 
+observed in the clinical studies EMR200095-001, EMR200095-004, and EMR200095-005 (500 
+mg tepotinib QD in the fed state). The input parameters are described as follows.  In vitro, the 
+fup of MSC2571109A was 0.012, albumin was the main plasma binding protein [15-GR031-P0], 
+and the B/P ratio was 0.77 [WBD 15-001]. A minimal PBPK distribution model with SAC (Q=106 
+L/h, Vsac=2.17 L/kg, Vss=4.04 L/kg) was used to characterize MSC2571109A distribution based 
+on estimates from Population PK analysis (Vc = 131 L and Vp = 152 L, using Vss = Vc + Vp and 
+Vsac = Vp, typical body weight of 70 kg).   
+ 
+Of note, different formulations have been used in the development program of tepotinib, 
+including capsule formulations CF1 and CF2, and tablet formulations TF1, TF2 and TF3. The 
+tablet formulation TF1 showed higher bioavailability compared with the capsule formulation 
+CF2 [EMR200095-001], providing the basis for the program to continue with TF1. 
+Bioequivalence were demonstrated between TF1 and the subsequent TF2 [MS200095-0012] 
+and between TF2 and TF3 [MS200095-0044]. TF3 is the commercial formulation, provided as 
+Reference ID: 4737966
+
+
+===== PAGE 303 =====
+
+NDA/ BLA Multi-disciplinary Review and Evaluation NOA 214096 
+TEPM ETKO, Tepotinib 
+conducted within a 2-fold range of measured values, w ith the AUC and Cmax ratios of S-
+Warfarin as the end point of interest. 
+Results 
+Ql. Can PBPK analysis provide a reasonable description of the PK of tepotinib and its 
+metabolite MSC2571109A in oncology population? 
+The concentration-time profile of tepotinib and its metabolite MSC2571109A were simulated 
+following administration of 450 mg QD dosing of tepotinib (as free base and 17.85 mg 
+metabolite). The comparison between observed PK parameters (Cmax and AUC) from studies 
+EMR200095-001, -004, -005, and -006 the PBPK predictions are presented in Table 2. The 
+steady-state exposure observed in individual studies is reasonably predicted by the PBPK 
+model. 
+Table 2. Predicted and observed tepotinib and MSC2571109A steady-state PK parameters 
+Tepotinib 
+MSC2571109A 
+Clinical St udy 
+Observed 
+Predicted 
+Observed 
+Predicted 
+Cm ax 
+AU Ct 
+Cm ax 
+AU Ct 
+Cmax 
+AU Ct 
+Cm ax 
+AUCT 
+EMR200095-001 a 
+1291 
+27437 
+335 
+6351 
+EMR200095-004b 
+815 
+16700 
+1026 
+21500 
+281 
+4690 
+220 
+5280 
+EMR200095-005b 
+677 
+12900 
+(949-
+(20045-
+303 
+4980 
+(209-
+(5023-
+1111) 
+23060) 
+231) 
+5551) 
+EMR200095-006c 
+1050 
+22200 
+444 
+7530 
+Data presented as geometric means (and 90% confidence interval for the PBPK predictions). Units: Cmax (ng/ml) and AUC 
+(ng/mL.h). Source: Respective CSR and PBPK report 17-qpd211-p0-addendum). •observed PK on Day 14 in subjects wit h solid 
+tumors administered the tablet formulation TFl. bObserved PK on Day 15 in subjects w ith hepatocellular carcinoma 
+administered t he tablet formulation TFl. 'Observed PK on Day 15 in subjects w it h Non-small Cell Lung Cancer administered t he 
+tablet formulation TFl. 
+Overall, there was also a reasonable agreement between PBPK predicted and observed PK 
+profiles of tepotinib (Figures lA, lB and lC) and MSC2571109A (Figures 10, lE, lF). 
+Figure 1. Predicted and observed steady-state plasma concentration-time profiles of tepotinib 
+and MSC2571109A in phase 3 trials 
+• • 
+A • 
+,, 
+f. ""' 
+.. 
+! -
+I~ 
+B 
+! =~~~:-.--~~~~~ 
+302 
+c 
+. . 
+,....__~~~~~~~~-
+"' 
+Version date: January 2020 (ALL NOA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as "Data" and '7he Applicant's Position" are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA. 
+Reference ID 4737966 
+
+
+===== PAGE 304 =====
+
+NDA/ BLA Multi-disciplinary Review and Evaluation NOA 214096 
+TEPMETKO, Tepotinib 
+D 
+E 
+, .,. 
+t ~ 
+1 -
+! ·1 ... -
+•• 
+1 
+•• • 
+• 
+.. ~,,~~~-.. ~~~~~-
+r-oo 
+F • 
+Plasma concentration time-profiles of tepotinib (A, B, and C) and M SC2571109A (D, E, and F) at steady-state. Mean PBPK 
+predicted (green lines, n= 10 x 10), and observed data (mean [grey circles], minimum [yellow circles] and maximum 
+concentrations [orange circles] at each sampling t ime point) from clinical studies (A,D) EMR200095-001, (B,E) EMR200095-004, 
+and (C,F) EMR200095-005. (Source: Figures 5 and 6 of PBPK report 17-qpd211-p0-addendum) 
+Of note, the exposure to tepotinib and metabolite were in some degree lower in patients with 
+hepatocellular carcinoma treated in clinical studies EMR200095-004 and -005. Population PK 
+analysis concluded that hepatocellular carcinoma (disease covariate) significantly influenced 
+the apparent clearance (CL/ F) of tepotinib. 
+Q2. Can PBPK analysis be used to estimate the effects of tepotinib treatment on a CYP2C9 
+substrate? 
+Yes. PBPK DOI simulations were conducted between repeated doses of tepotinib (450 mg QD 
+for 19 days, fed state) and MSC2571109A (17.8 mg over 24 h, for 19 days) and a single dose of 
+S-warfarin (10 mg on Day 14), a CYP2C9 index substrate, using the default North European 
+Caucasian population model (18-95 years-old, 50% female, 10 trials of 10 subjects per trial). 
+The interaction effect of tepotinib treatment on S-warfarin in terms of predicted geometric 
+mean [5th_95th percentiles] ratios for Cmax and AUC were 1.00 [1.00-1.00] and 1.01 [1.00-1.01], 
+respectively (Table 3, baseline values). 
+In the sensitivity analyses of the in vitro CYP2C9 interaction parameter, namely Ki and fumic, 
+and fup values, for both tepotinib and MSC2571109A, the geometric mean ratios for Cmax and 
+AUC of S-warfarin were below the threshold of 1.25 for weak inhibition, in all cases individually 
+and simultaneously. Results suggested minor risk of underprediction of inhibition potential of 
+tepotinib treatment towards S-warfarin (Table 3). 
+Overall, PBPK analysis suggested the DOI risk, via CYP2C9 inhibition, between tepotinib 
+treatment and a sensitive CYP2C9 substrate is low. 
+Table 3. Warfarin AUC and Cmax ratio in the presence of tepotinib treatment (baseline and 
+sensitivity analysis) 
+Parameters 
+Fold-
+Value for 
+Value for 
+S-Warfarin 
+S-Warfarin 
+change 
+tepotinib 
+MSC2571109A 
+AUC ratio3 
+Cmax ratiob 
+CYP2C9 Ki (µM) 
+baseline 
+13.5 
+4.4 
+1.01 
+1.00 
+(1.00-1.01) 
+(1.00-1.00) 
+303 
+Version date: January 2020 (ALL NOA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as "Data" and '7he Applicant's Position" are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA. 
+Reference ID 4737966 
+
+
+===== PAGE 305 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 214096 
+TEPMETKO, Tepotinib 
+ 
+ 
+ 
+304 
+Version date: January 2020 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+0.1 
+1.35 
+0.44 
+1.05  
+[1.02-1.08] 
+1.01 
+[1.00-1.01] 
+fumic 
+baseline 
+0.9 
+0.9 
+1.01 
+1.00 
+0.5 
+0.45 
+0.45 
+<1.01 
+[1.00-1.02] 
+1.00 
+[1.00-1.01] 
+fup 
+baseline 
+0.023 
+0.012 
+1.01 
+1.00 
+2.0 
+0.046 
+0.024 
+<1.01 
+[1.00-1.02] 
+1.00 
+[1.00-1.00] 
+All parameters 
+simultaneously  
+0.1-2.0 
+ 
+ 
+1.16 
+ [1.05-1.28] 
+1.02 
+[1.02-1.3] 
+aGeometric mean [5th-95th percentiles] ratios of S-warfarin AUC and Cmax in the presence/absence of tepotinib treatment. 
+Abbreviations: fup, fraction unbound in plasma; fumic, fraction unbound in microsomal incubation; Ki, inhibition 
+constant.(Source: Tables 6 and 7 of PBPK report 17-qpd211-p0-addendum, and reviewer’s analysis) . 
+ 
+Q3. Can PBPK analysis be used to estimate the effects of tepotinib on a CYP2B6 substrate? 
+No. Limitations were found in the default bupropion library model that precluded its use as a 
+CYP2B6 substrate for estimation of the effect of tepotinib using in vitro data.  Bupropion is 
+metabolized by several clearance pathways (CYP2B6, CYP2C19, CYP3A and dehydrogenases) 
+and has a stereoselective metabolism1. The software developer has noted there is a divergence 
+between emerging in vitro metabolic data and bupropion clinical DDI data. These factors led to 
+difficulties in the characterization of contribution of CYP2B6 to bupropion clearance. Given the 
+uncertainty in the fmCYP2B6 value in the bupropion PBPK model, any PBPK simulation 
+predictions are inconclusive.   
+  
+Given these uncertainties, the Applicant provided an assessment of DDI risk via CYP2B6 
+induction using the static model (Equation 1), assuming a maximum contribution of CYP2B6 
+(fm,CYP2B6 = 1) for a hypothetical sensitive substrate of CYP2B6.  
+ 
+ 
+Where, fm (fraction metabolized)=1; fmCYP2B6 (contribution of CYP2B6 to clearance) =1; 
+Indmax= 7.95 fold (Measured XT163099); IndC50=1.87 µM (Measured XT163099); Iu 
+(perpetrator unbound steady-state concentration)= 0.00744 µM [0.62 µM (Steady-state 
+average from Pop PK analysis) * 0.012 (fraction unbound in plasma measured in 15-GR031-P0)]. 
+ 
+The calculated AUC ratio of the hypothetical sensitive substrate of CYP2B6 in the presence and 
+absence of the metabolite MSC2571109A was 0.97, in this worst-case scenario. Using a 10-fold 
+lower IndC50 resulted in an AUC ratio of 0.77. 
+                                                      
+1 Sager JE, Price LS, Isoherranen N. (2016) Stereoselective metabolism of bupropion to OH-bupropion, threohydrobupropion, 
+erythrohydrobupropion, and 4'-OH-bupropion in vitro. Drug Metab Dispos.;44:1709-1719.  
+ 
+Reference ID: 4737966

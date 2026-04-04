@@ -1,0 +1,3456 @@
+
+
+===== PAGE 14 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+xiii 
+Integrated Review Template, version 4.0 (11/1/23) 
+Figure 30. Spatial Testing [Path Length (m)] on PND 65 (±4 Days) ..............................156 
+Figure 31. Spatial Testing [Latency to Platform (Sec)] on PND 65 (±4 Days) ...............157 
+Figure 32. dC (in Methanol) Absorption Spectrum .........................................................167 
+Figure 33. dT (in Methanol) Absorption Spectrum .........................................................168 
+Figure 34. Observed Doxecitine and Doxribtimine Plasma Concentration-Time 
+Profiles, Stratified by Food Status, in TK2d Subjects ...............................................181 
+Figure 35. Goodness-of-Fit Plots for Final Population PK Model of Doxecitine ...........208 
+Figure 36. Prediction-Corrected Visual Predictive Check of Doxecitine Based on 
+Final PopPK Model....................................................................................................209 
+Figure 37. Goodness-of-Fit Plots for Final Population PK Model of Doxribtimine .......209 
+Figure 38. Prediction-Corrected Visual Predictive Check of Doxecitine Based on 
+Final PopPK Model....................................................................................................210 
+Figure 39. Forest Plots Illustrating the Effects of Covariates on AUC0-24,ss of 
+Doxribtimine ..............................................................................................................211 
+Figure 40. Comparisons of Simulated and Empirical Bayes Estimates (EBEs) 
+Predicted PK Exposures of Doxribtimine on Days 1 and 42, Stratified by Body 
+Weight Groups ...........................................................................................................212 
+Figure 41. Comparisons of Simulated Days 1 and 42 PK Exposures Stratified by Age 
+Group .........................................................................................................................213 
+Figure 42. Comparisons of Simulated Days 1 (Top Panels) and 42 (Bottom Panel) PK 
+Exposures Stratified by Sex .......................................................................................214 
+Figure 43. Subject-Level Survival/Censored Time (Matched Pairs Using 50th 
+Matching: Matched ID From 1 to 19) ........................................................................219 
+Figure 44. Subject-Level Survival/Censored Time (Matched Pairs Using 50th 
+Matching: Matched ID From 20 to 38) ......................................................................220 
+Figure 45. Subject-Level Survival/Censored Time (Matched Pairs Using 50th 
+Matching: Matched ID From 39 to 57) ......................................................................220 
+Figure 46. Subject-Level Survival/Censored Time (Matched Pairs Using 50th 
+Matching: Matched ID From 58 to 76) ......................................................................221 
+Figure 47. Subject-Level Survival/Censored Time (Matched Pairs Using 50th 
+Matching: Matched ID From 77 to 95) ......................................................................221 
+Figure 48. Kaplan-Meier Curve of Survival From Treatment Initiation (Matched Pairs 
+Using Random Matching) ..........................................................................................222 
+Figure 49. Kaplan-Meier Curve of Survival From Treatment Initiation (Matched Pairs 
+Using 75th Percentile Matching) ................................................................................222 
+Figure 50. Kaplan-Meier Curve of Survival From Treatment Initiation (Matched Pairs 
+Using 100th Percentile Matching) ..............................................................................223 
+Reference ID: 5687706
+
+
+===== PAGE 16 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+1 
+Integrated Review Template, version 4.0 (11/1/23) 
+Glossary 
+ABC 
+adenosine triphosphate binding cassette 
+ADME 
+absorption, distribution, metabolism, and excretion  
+AE 
+adverse event 
+ALT 
+alanine aminotransferase 
+API 
+active pharmaceutical ingredient 
+AST 
+aspartate aminotransferase 
+AUC 
+area under the concentration-time curve 
+AWCI 
+adequate and well-controlled investigation 
+BCRP 
+breast cancer resistance protein 
+BID 
+twice daily 
+BIMO 
+bioresearch monitoring 
+CDER 
+Center for Drug Evaluation and Research 
+CE 
+confirmatory evidence 
+CFB 
+change from baseline 
+CI 
+confidence interval 
+CL/F 
+apparent clearance 
+Cmax 
+maximum plasma concentration 
+CMC 
+chemistry, manufacturing, and controls 
+CNS 
+central nervous system 
+CYP 
+cytochrome P450 
+2DC 
+2'-deoxycytidine 
+dC 
+deoxycytidine 
+dC/dT 
+doxecitine and doxribtimine 
+dCMP 
+deoxycytidine monophosphate 
+DDI 
+drug-drug interaction 
+DGIEP 
+Division of Gastroenterology and Inborn Errors Products 
+dNTP 
+deoxynucleoside triphosphate 
+DPMH 
+Division of Pediatric and Maternal Health 
+dT 
+deoxythymidine 
+dTMP 
+deoxythymidine monophosphate 
+dTTP 
+deoxythymidine triphosphate 
+EA 
+expanded access 
+EAP 
+Expanded Access Program 
+ECAC 
+Executive Carcinogenicity Assessment Committee 
+ECG 
+electrocardiogram 
+eGFR 
+estimated glomerular filtration rate 
+EOP2 
+end-of-phase 2 
+EP 
+evaluable population 
+FDA 
+Food and Drug Administration 
+GD 
+gestational day 
+GGT 
+gamma-glutamyl transferase 
+GMP 
+good manufacturing practice 
+HEK 
+human embryonic kidney 
+Reference ID: 5687706
+
+
+===== PAGE 37 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+22 
+Integrated Review Template, version 4.0 (11/1/23) 
+Characteristic 
+Drug Information 
+Dose proportionality 
+Doxecitine and doxribtimine showed different PK characteristics in terms of dose proportionality. In healthy adult subjects at 
+doses ranging from 86.6 mg/kg to 266.6 mg/kg, baseline-adjusted Cmax and AUC0-t increase in a less than dose proportional 
+manner for doxecitine and more than dose proportional manner for doxribtimine. The PK parameters at different doses under 
+fasting conditions in Study MT-1621-105 are summarized below. 
+Table 7. Summary of Baseline-Adjusted Plasma PK Parameters by Dose of Doxecitine and Doxribtimine in Healthy 
+Adults Following Single-Dose Administration Under Fasted Conditions, Study MT-1621-105 
+PK Parameters by Dose 
+Geometric Mean (CV%) 
+N=13-14 
+Doxecitine 
+Doxribtimine 
+Cmax (ng/mL) 
+ 
+ 
+86.6 mg/kg 
+3.5 (83.1) 
+6.2 (107.8) 
+173.4 mg/kg 
+4.7 (65.9) 
+14.2 (156.9) 
+266.6 mg/kg 
+7.2 (73.0) 
+31.5 (119.6) 
+AUC0-t (ng*h/mL) 
+ 
+ 
+86.6 mg/kg 
+13.5 (94.1) 
+12.6 (124.9) 
+173.4 mg/kg 
+23.2 (66.7) 
+31.7 (126.6) 
+266.6 mg/kg 
+30.8 (76.5) 
+91.15 (94.1) 
+Source of data: CSR for Study MT-1621-105 
+Accumulation 
+No accumulation of plasma doxecitine and doxribtimine concentrations are expected after repeated administration of 
+doxecitine and doxribtimine in patients with TK2d at the recommended dosages. 
+Time to achieve steady 
+state 
+Steady-state plasma doxecitine and doxribtimine concentrations are achieved within 24 hours at the recommended dosing 
+regimens.  
+Bridge between to-be-
+marketed and clinical 
+trial/study formulations 
+Doxecitine and doxribtimine were supplied as a powder in 1-packet and 2-packet drug products in clinical trials. Because no 
+major formulation changes occurred, a PK bridging study between the to-be-marketed and clinical trial formulations is not 
+needed. 
+ 
+Absorption 
+Bioavailability 
+The absolute bioavailability of doxecitine and doxribtimine following oral administration has not been determined.  
+Tmax 
+Doxecitine and doxribtimine were absorbed with a median (min, max) Tmax of 1.4 (1.1, 2.2) and 3.3 (2, 3.4) hours, 
+respectively, following oral administration of 800 mg/kg/day under fed conditions in subjects with TK2d (Trial TK0102). 
+Food effect (fed/fasted) 
+Geometric least square 
+mean and 90% CI 
+Food (high-fat, high-calorie meal) increased exposure of doxecitine and doxribtimine following oral administration of 
+doxecitine and doxribtimine at 266.6 mg/kg in healthy adult subjects (Study MT-1621-105). The baseline-adjusted Cmax and 
+AUC0-t for doxecitine increased by 79% and 137%, respectively. The baseline-adjusted Cmax and AUC0-t for doxribtimine 
+increased by 27% and 74%, respectively. See Section 8.2.2. 
+Reference ID: 5687706
+
+
+===== PAGE 38 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+23 
+Integrated Review Template, version 4.0 (11/1/23) 
+Characteristic 
+Drug Information 
+ 
+Distribution 
+Volume of distribution 
+The estimated median (min, max) apparent volume of distribution (V/F) for doxecitine and doxribtimine is 457,505 (211,490, 
+1,779,700) and 132,016.8 (61,867.6, 389,717.3) L, respectively, in subjects with TK2d. The large apparent volume of 
+distribution values are likely due to low bioavailability (F) of doxecitine and doxribtimine following oral administration and 
+should be interpreted with caution. 
+Plasma protein binding 
+Plasma protein binding of doxecitine and doxribtimine is less than 10% at concentrations up to 100 µm.  
+Drug as substrate of 
+transporters 
+Based on in vitro studies, doxecitine and doxribtimine are not substrates for OAT1, OAT3, OCT2, or P-gp. Doxecitine is 
+unlikely to be a substrate of BCRP, and doxribtimine may be a BCRP substrate. See Section 8.2.1. 
+ 
+Elimination 
+Mass balance results 
+The Applicant did not conduct mass balance studies in humans.  
+Clearance 
+The estimated median (min, max) apparent clearance (CL/F) for doxecitine and doxribtimine is 263,560 (157,680, 683,820) 
+and 247,147.6 (118,565.2, 488,255.2) L/h, respectively, in subjects with TK2d. The large apparent clearance values are likely 
+due to low bioavailability (F) of doxecitine and doxribtimine following an oral administration and should be interpreted with 
+caution. 
+Half-life 
+The estimated median (min, max) half-life for doxecitine and doxribtimine is approximately 1 (0.7, 1.8) and 0.5 (0.2, 0.8) 
+hours, respectively, in subjects with TK2d.  
+Metabolic pathway(s) 
+Doxecitine and doxribtimine are not substrates for known CYP isoforms. Doxecitine and doxribtimine are primarily degraded 
+(catabolized) by cytidine deaminase and thymidine phosphorylase, respectively, to their nucleobases and the 2-deoxy-α-D-
+ribose 1-phosphate moiety. Intermediate products of doxecitine catabolism are deoxyuridine, uracil, and dihydrouracil with the 
+end products β-alanine, ammonia, and carbon dioxide (CO2). Thymine, the pyrimidine nucleobase of doxribtimine, is 
+subsequently catabolized to dihydrothymine and ultimately to γ-amino-isobutyric acid and CO2. 
+Primary excretion pathways 
+(% dose) 
+Urinary excretion of intact doxecitine and doxribtimine is <1% of the dose in healthy subjects following an oral administration 
+of doxecitine and doxribtimine.  
+ 
+Intrinsic Factors and Specific Populations 
+Body weight 
+In the population PK analyses, body weight was positively correlated with apparent clearance (CL/F) and apparent volume of 
+distribution (V/F). The recommended dosing regimen of doxecitine and doxribtimine in subjects with TK2d is based on 
+individual patient’s body weight.  
+Age 
+In the population PK analyses, age was not identified as a significant covariate affecting doxecitine and doxribtimine PK after 
+accounting for body weight and other covariates. 
+Renal impairment 
+Doxecitine and doxribtimine exposures (Cmax and AUC0-t) in subjects with moderate or severe renal impairment were higher 
+than those in the respective control subjects with normal renal function. Renal impairment had distinct effects on the 
+pharmacokinetics of doxecitine versus doxribtimine. The effect of mild renal impairment on the pharmacokinetics of doxecitine 
+and doxribtimine has not been evaluated. See Section 8.1.3. 
+Hepatic impairment 
+The effect of hepatic impairment on the PK of doxecitine and doxribtimine has not been evaluated. See Section 8.1.2. 
+Reference ID: 5687706
+
+
+===== PAGE 39 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+24 
+Integrated Review Template, version 4.0 (11/1/23) 
+Characteristic 
+Drug Information 
+ 
+Drug Interaction Liability (Drug as Perpetrator) 
+Inhibition/induction of 
+metabolism 
+Based on in vitro studies, doxecitine and doxribtimine do not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, 
+CYP3D6, or CYP3A4/5 or induce CYP1A2, CYP2B6, or CYP3A4 at clinically relevant concentrations. No clinical drug-drug 
+interaction studies have been conducted.  
+Inhibition/induction of 
+transporter systems 
+Based on in vitro studies, doxecitine and doxribtimine do not inhibit BCRP, OATP1B1, OATP1B3, OCT1, P-gp, BSEP, OAT1, 
+OAT3, OCT2, MATE1, or MATE2-K at clinically relevant concentrations.  
+Abbreviations: AUCtau, area under the concentration-time curve over the dosing interval; AUC0-24, area under the concentration-time curve at 24 hours; AUC0-t, area under the 
+concentration-time curve from time 0 to the last observed concentration; BCRP, breast cancer resistance protein; BSEP, bile salt export pump; Cmax, maximum concentration; Cmin, 
+minimum concentration; CV, coefficient of variation; CYP, cytochrome P450; LC, liquid chromatography; MATE, multidrug and toxin extrusion protein; MS/MS, tandem mass 
+spectroscopy; OAT, organic anion transporter; OCT, organic cation transporter; P-gp, P-glycoprotein; PK, pharmacokinetics; Tmax, time to reach maximum concentration (Cmax) 
+Reference ID: 5687706
+
+
+===== PAGE 40 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+25 
+Integrated Review Template, version 4.0 (11/1/23) 
+6. Efficacy (Evaluation of Benefit) 
+6.1. Assessment of Dose and Potential 
+Effectiveness 
+6.1.1. Proposed Dosages 
+The proposed dosage form for Kygevvi is a 1:1 mixture of 2 grams doxecitine and 2 grams 
+doxribtimine powder for oral solution. The Applicant proposed titrated dosages for doxecitine 
+and doxribtimine based on patient tolerability. The proposed starting dosage is 260 mg/kg/day, 
+followed by the proposed intermediate dosage of 520 mg/kg/day and the maintenance dosage of 
+800 mg/kg/day. The specific dosages for doxecitine and doxribtimine are further described 
+below: 
+ 260 mg/kg/day: 130 mg/kg/day doxecitine and 130 mg/kg/day doxribtimine 
+ 520 mg/kg/day: 260 mg/kg/day doxecitine and 260 mg/kg/day doxribtimine 
+ 800 mg/kg/day: 400 mg/kg/day doxecitine and 400 mg/kg/day doxribtimine 
+The Applicant proposed a minimum of two weeks dosing duration at the current dosage level 
+before titrating to the next higher dosage level. The dosage may be reduced to the previously 
+tolerated dosage in the event of tolerability issues. Doxecitine and doxribtimine should be taken 
+with food three times a day in equally divided doses.  
+Population pharmacokinetic (PK) assessments of doxecitine and doxribtimine generally support 
+the proposed body weight-based dosing regimen for the treatment of TK2d in adult and pediatric 
+patients (see Sections 8.1 and 8.2). 
+6.1.2. Dose Selection for the Clinical Studies 
+The 1:1 equal mass ratio, dose range, and dosing regimens of doxecitine and doxribtimine were 
+selected based on collective findings from: 1) nonclinical pharmacology studies in mouse models 
+of TK2d; 2) maximizing the likelihood of providing as much exogenous systemic doxecitine and 
+doxribtimine as is produced by de novo synthesis in healthy subjects after adjusting for the 
+predicted low oral bioavailability of natural pyrimidine nucleosides; 3) early proof-of-concept 
+clinical evaluations of non-GMP pyrimidine nucleos(t)ides in a small number of subjects with 
+TK2d; 4) ensuring adequate systemic exposure considering the high interindividual variability in 
+doxecitine and doxribtimine exposures; and 5) clinical pharmacokinetic information collected in 
+the doxecitine and doxribtimine clinical development program. 
+The Applicant’s nonclinical findings revealed that treatment of Tk2 knock-out mice with 
+doxecitine and doxribtimine (800 mg/kg/day) led to incorporation of doxecitine and doxribtimine 
+in skeletal muscle mtDNA (Study MT1621-19-014). A separate study (Study MT1621-21-016) 
+suggested that treatment of TK2 deficient mice with doxecitine and doxribtimine (330 or 
+520 mg/kg/day) extended survival and attenuated growth retardation. Additional nonclinical 
+Reference ID: 5687706
+
+
+===== PAGE 42 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+27 
+Integrated Review Template, version 4.0 (11/1/23) 
+(ALT), 3) CFB in creatine kinase, and 4) CFB in serum lactate. The review team agreed with the 
+Applicant’s assessment that no apparent exposure-safety relationships were reported between the 
+predicted area under the concentration-time curve (AUC) from time 0 to 24 hours at steady state  
+of doxecitine and doxribtimine and the adverse event endpoints (Figure 1 and Figure 2). 
+Figure 1. Boxplots Comparing the Predicted AUC0-24,ss of Doxecitine and Doxribtimine in Subjects 
+With and Without Diarrhea at Any Point During the Treatment Period  
+ 
+Source: Applicant’s Analysis Report for CL0602 (REP-2-UCB-DoxTM-PMX-1), Figure 30 Page 82 
+Abbreviations: AUC0-24,ss, area under the concentration-time curve from time 0 to 24 hours at steady state; N, number of subjects 
+Figure 2. Change From Baseline in ALT (a), CK (b), and SL (c) Plotted vs. Individual Doxecitine and 
+Doxribtimine AUC0-24,ss at the 1-, 6-, and 12-Month Visits 
+(a)  
+ 
+Reference ID: 5687706
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+   
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+
+
+===== PAGE 120 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+105 
+Integrated Review Template, version 4.0 (11/1/23) 
+Renal Disease equation for estimated glomerular filtration rate (eGFR) as normal renal function 
+(eGFR ≥90 mL/min), moderate renal impairment (eGFR ≥30 or ≤59 mL/min), or severe renal 
+impairment (eGFR ≥15 or ≤29 mL/min). Doxecitine and doxribtimine were supplied as a powder 
+in a single packet, reconstituted in water, and administered as a single oral dose of 266.6 mg/kg 
+(133.3 mg/kg doxecitine and 133.3 mg/kg doxribtimine). Blood samples for PK assessments 
+were collected at predose and at 0.5, 1, 2, 3, 4, 6, 8, 10, 12, 18, 24, 48, 72, and 96 hours postdose. 
+Urine samples were collected at predose and at 0-4, 4-8, 8-12, 12-24, 24-48, 48-72, and 72-96 
+hours postdose.  
+The PK results are summarized in Table 53. For doxecitine, the geometric mean ratios for 
+maximum plasma concentration (Cmax)were 1.77 (90% CI: 1.06, 2.95) and 1.48 (90% CI: 0.80, 
+2.73) for moderate and severe renal impairment, respectively. For doxribtimine, the geometric 
+mean ratios for Cmax were 3.1 (90% CI: 1.09, 8.84) and 2.46 (90% CI: 0.64, 9.48) for moderate 
+and severe renal impairment, respectively. For doxecitine, the geometric mean ratios for AUC0-t 
+were 2.22 (90% CI: 1.24, 3.96) and 1.66 (90% CI: 0.73, 3.79) for moderate and severe renal 
+impairment, respectively. For doxribtimine, the geometric mean ratios for AUC0-t were 5.47 
+(90% CI: 1.79, 16.68) and 2.48 (90% CI: 0.66, 9.27) for moderate and severe renal impairment, 
+respectively. Of note, geometric mean ratios for AUCinf were not analyzed because the AUCinf 
+values could not be reliably estimated in the majority of subjects. Minimal amounts of doxecitine 
+and doxribtimine were excreted in urine in all study subjects, with Ae less than 40 µg (fraction of 
+dose excretion into urine (Fe) less than 0.01%). 
+Table 53. Summary of Baseline-Adjusted Plasma PK Parameters Following a Single-Dose 
+Administration of Doxecitine and Doxribtimine (266.6 mg/kg), Study MT-1621-106 
+Parameter 
+Severe Renal 
+Impairment 
+N=8 
+Normal Renal 
+Function 
+N=8a 
+Moderate Renal 
+Impairment 
+N=8 
+Normal Renal 
+Function 
+N=8b 
+Doxecitine 
+ 
+ 
+ 
+ 
+Predose conc. (ng/mL) 
+3 (23.6) 
+3 (23.5) 
+2.6 (28.9) 
+3 (35.5) 
+AUC0-t (ng*h/mL) 
+52.8 (102.7) 
+31.8 (135.3)  
+56.4 (60.9)  
+25.4 (85.3) 
+AUC0-inf (ng*h/mL) 
+55.1 (65.1) [n =4] 
+52.8 (131) [n =2] 
+53.9 (83.5) [n =2] 
+30.4 (110) [n =2] 
+Cmax (ng/mL) 
+7.81 (72.9) 
+5.27 (84.3) 
+8.19 (61.2) 
+4.63 (65.9) 
+Tmax (h) 
+0.75 (0.5, 2) 
+0.75 (0.5, 3) 
+1.5 (0.5, 3) 
+0.75 (0.5, 3) 
+t1/2 (h) 
+14.54 (129.2) [n =6] 
+5.77 (192.4) [n =2] 
+15.3 (71.7) [n =2] 
+5.16 (125.7) [n =3] 
+Doxribtimine 
+ 
+ 
+ 
+ 
+Predose conc. (ng/mL) 
+0.2 (193.2) 
+0.2 (140.1) 
+0.1 (282.8) 
+0.1 (282.8) 
+AUC0-t (ng*h/mL) 
+31.5 (817) 
+12.7 (56.1)  
+23.7 (261)  
+4.34 (147.3) 
+AUC0-inf (ng*h/mL) 
+97.2 (111.4) [n =3] 
+14.6 (85.5) [n =3] 
+52.4 (116.5) [n =3] 
+3.02 (NC) [n =1] 
+Cmax (ng/mL) 
+18.77 (697.3) 
+7.63 (108.9) 
+12.24 (200.9) 
+3.95 (153.8) 
+Tmax (h) 
+1 (0.5, 2) 
+0.5 (0.5, 1) 
+1 (0.5, 3) 
+0.75 (0.5, 1) 
+t1/2 (h) 
+3.66 (433.7) [n =3] 
+1.54 (84.9) [n =3] 
+4.46 (1100.2) [n =4] 
+0.43 (NC) [n =1] 
+Source: Table 2-5, 2.7.2 Summary of Clinical Pharmacology Studies  
+a Control subjects matched to subjects with severe renal impairment  
+b Control subjects matched to subjects with moderate renal impairment  
+AUCs, Cmax, and t1/2 presented as geometric mean and geometric CV%. 
+Tmax presented as median (minimum, maximum). 
+Predose concentrations presented as arithmetic mean and CV%. 
+Abbreviations: AUC0-inf, area under the concentration-time curve from time 0 extrapolated to infinity; AUC0-t, area under the 
+concentration-time curve from time 0 to the last observed nonzero concentration (t); Cmax, maximum plasma concentration; N, 
+number of subjects; n, number of subjects with specific parameter; Tmax, time to maximum plasma concentration; t1/2, apparent 
+terminal elimination half-life; NC, not calculated 
+Reference ID: 5687706
+
+
+===== PAGE 122 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+107 
+Integrated Review Template, version 4.0 (11/1/23) 
+Figure 15. Model-Predicted PK Exposure Comparisons for Doxecitine Across Subjects With and 
+Without Renal Impairment  
+ 
+ 
+ 
+Source: Applicant’s Response to FDA information Request #9, Figures 11,12, and 13: Page 20-1 
+Abbreviations: AUC0-24,ss, area under the concentration-time curve from time 0 to 24 hours at steady state; Cmax,0-6,ss, maximum 
+plasma concentration from time 0 to 6 hours at steady state; Cmin,0-6,ss, minimum plasma concentration from time 0 to 6 hours at 
+steady state; N, number of subjects; PK, pharmacokinetics 
+Reference ID: 5687706
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 123 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+108 
+Integrated Review Template, version 4.0 (11/1/23) 
+Figure 16. Model-Predicted PK Exposure Comparisons for Doxribtimine Across Subjects With and 
+Without Renal Impairment 
+ 
+ 
+ 
+Source: Applicant’s Response to FDA information Request #9, Figures 15,16, and 17: Page 25-7 
+Abbreviations: AUC0-24,ss, area under the concentration-time curve from time 0 to 24 hours at steady state; Cmax,0-6,ss, maximum 
+plasma concentration from time 0 to 6 hours at steady state; Cmin,0-6,ss, minimum plasma concentration from time 0 to 6 hours at 
+steady state; N, number of subjects; PK, pharmacokinetics 
+Reference ID: 5687706
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+  
+  
+   
+ 
+  
+ 
+   
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+
+
+===== PAGE 124 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+109 
+Integrated Review Template, version 4.0 (11/1/23) 
+The PK results based on Study MT-1621-106 suggest the following: 
+ Doxecitine and doxribtimine exposures (Cmax and AUC0-t) in subjects with moderate or 
+severe renal impairment were higher than those in the respective control subjects with normal 
+renal function. 
+ Renal impairment had distinct effects on the pharmacokinetics of doxecitine versus 
+doxribtimine. For example, moderate renal impairment increased Cmax of doxecitine by 77% 
+compared to a 210% increase for Cmax of doxribtimine.  
+ For doxribtimine, significant PK differences were observed between the two control groups 
+with normal renal function. The AUC0-t and Cmax of doxribtimine in control subjects for 
+severe renal impairment were approximately 3-fold and 2-fold higher, respectively, than in 
+control subjects for moderate renal impairment. Therefore, comparisons of the magnitude of 
+renal impairment effects on pharmacokinetics between moderate and severe renal impairment 
+groups need to be made with caution. 
+ Because minimal amounts of doxecitine and doxribtimine were recovered in urine, the 
+observed effect of renal impairment on the pharmacokinetics of doxecitine and doxribtimine 
+was unlikely due to altered excretion. The underlying mechanism for how renal impairment 
+affected the pharmacokinetics (or absorption, distribution, metabolism, and excretion 
+[ADME]) of doxecitine and doxribtimine was not clear. 
+The review team concluded that, while exposures of doxecitine and doxribtimine are higher in 
+patients with renal impairment, the precise impact of renal impairment on pharmacokinetics 
+could not be quantified, and an appropriate dosage adjustment of doxecitine and doxribtimine in 
+patients with renal impairment could not be determined because renal impairment had distinct 
+effects on the pharmacokinetics of doxecitine and the pharmacokinetics of doxribtimine, and it is 
+not feasible to separately adjust the dosage for doxecitine and doxribtimine contained in the drug 
+product.  
+8.2. Extrinsic Factors 
+8.2.1. Drug Interactions 
+The potential for drug-drug interactions (DDIs) with doxecitine and doxribtimine was assessed in 
+multiple in vitro studies. The Applicant did not conduct any clinical DDI studies. The results of 
+in vitro DDI studies are summarized below. 
+Doxecitine and doxribtimine were not inhibitors of CYP1A2, CYP2B6, CYP2C8, CYP2C9, 
+CYP2C19, CYP2D6, or CYP3A4/5 isoenzymes at clinically relevant concentrations in human 
+liver microsomes. In cultured human hepatocytes, doxecitine and doxribtimine did not induce 
+CYP1A2, CYP2B6, or CYP3A4. Doxecitine and doxribtimine were not substrates of P-
+glycoprotein (P-gp), organic anion transporter (OAT)1, OAT3, or organic cation transporter 
+(OCT)2. Doxecitine is unlikely to be a substrate of breast cancer resistance protein (BCRP), but 
+doxribtimine is possibly a substrate of BCRP (see Section 14.1). Doxecitine and doxribtimine 
+were not inhibitors of P-pg, BCRP, bile salt export pump, OATP1B1, OATP1B3, OAT1, OAT3, 
+OCT1, OCT2, multidrug and toxic extrusion protein (MATE)1, or MATE2-K at clinically 
+relevant concentrations.  
+Reference ID: 5687706
+
+
+===== PAGE 126 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+111 
+Integrated Review Template, version 4.0 (11/1/23) 
+Figure 17. Baseline-Adjusted Mean Plasma Doxecitine (Top Panel) and Doxribtimine (Bottom 
+Panel) Concentration-Time Profiles Following a Single Oral Dose of 266.6 mg/kg Under Fasted and 
+Fed Conditions in Healthy Adult Subjects, Study MT-1621-105 
+ 
+ 
+Source: Figure 2-2, Summary of Biopharmaceutics Studies and Associated Analytical Methods 
+Abbreviation: MT, mitochondrial 
+Table 54. Summary of Baseline-Adjusted Plasma PK Parameters of Doxecitine and Doxribtimine 
+Following a Single-Dose Administration Under Fasted and Fed Conditions in Healthy Adult 
+Subjects, Study MT-1621-105 
+Parameter 
+266.6 mg/kg, Fasted 
+266.6 mg/kg, Fed 
+Doxecitine 
+ 
+ 
+AUC0-t (ng*h/mL) 
+30.79 (76.5) [n =14] 
+73.03 (71.7) [n =14] 
+AUC0-inf (ng*h/mL) 
+22.52 (34.6) [n =4] 
+137.9 (57.7) [n =2] 
+Cmax (ng/mL) 
+7.17 (73) [n =14] 
+12.82 (77.9) [n =14] 
+Tmax (h) 
+1.26 (0.5, 3) [n =14] 
+2.02 (0.51, 6) [n =14] 
+Kel (1/h) 
+0.49±0.46 [n =4] 
+0.8±0.39 [n =2] 
+t1/2 (h) 
+2.67±1.98 [n =4] 
+0.99±0.48 [n =2] 
+CL/F (L/h/kg) 
+6167±1978.3 [n =4] 
+1037±530.76 [n =2] 
+Vz/F (L/kg) 
+19790±11151 [n =4] 
+1657±1470.4 [n =2] 
+Reference ID: 5687706
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 127 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+112 
+Integrated Review Template, version 4.0 (11/1/23) 
+Parameter 
+266.6 mg/kg, Fasted 
+266.6 mg/kg, Fed 
+Doxribtimine 
+ 
+ 
+AUC0-t (ng*h/mL) 
+91.15 (94.1) [n =14] 
+158.9 (101.4) [n =14] 
+AUC0-inf (ng*h/mL) 
+144.1 (6.9) [n =3] 
+149.4 (135.7) [n =5] 
+Cmax (ng/mL) 
+31.5 (119.6) [n =14] 
+40.13 (102.9) [n =14] 
+Tmax (h) 
+1.26 (1, 12.02) [n =14] 
+4 (1.5, 8) [n =14] 
+Kel (1/h) 
+0.1±0.06 [n =3] 
+0.24±0.29 [n =5] 
+t1/2 (h) 
+8.76±4.04 [n =3] 
+5.35±3.11 [n =5] 
+CL/F (L/h/kg) 
+926.5±63.86 [n =3] 
+1390±1575.7 [n =5] 
+Vz/F (L/kg) 
+11920±5975.6 [n =3] 
+6222±2876 [n =5] 
+Source: Table 2-3, Summary of Biopharmaceutics Studies and Associated Analytical Methods 
+AUCs and Cmax presented as geometric mean and CV%.  
+Tmax presented as median (minimum, maximum). 
+Other parameters presented as arithmetic mean ± SD. 
+Abbreviations: AUC0-t, area under the concentration-time curve from time 0 to the last observed nonzero concentration (t); 
+AUC0-inf, area under the concentration-time curve from time 0 extrapolated to infinity; CL/F, apparent total plasma clearance; 
+Cmax, maximum plasma concentration; Kel, apparent terminal elimination rate constant; Tmax, time to maximum plasma concentration; 
+t1/2, apparent terminal elimination half-life; Vz/F, apparent volume of distribution 
+Population PK Analysis 
+Based on the popPK analysis, the fed condition was associated with an approximately 2.8-fold 
+increase in AUC0-24,ss of doxecitine compared to the fasted state (Figure 17). A similar impact of 
+food was observed for doxribtimine, where the fed condition was associated with a 2.1-fold 
+increase in AUC0-24,ss compared to the fasted state (Figure 17). 
+The review team agreed with the Applicant that doxecitine and doxribtimine should be 
+administered with food. In addition to the improved bioavailability, taking doxecitine and 
+doxribtimine with food may be beneficial in mitigating gastrointestinal adverse reactions (e.g., 
+diarrhea and vomiting) observed in clinical trials.  
+8.3. Plans for Pediatric Drug Development 
+Doxecitine and doxribtimine was granted orphan-drug designation in April 2017 for the 
+treatment of patients with a confirmed diagnosis of TK2 deficiency. Thus, doxecitine and 
+doxribtimine are exempt from the Pediatric Research Equity Act (21 U.S.C.355c).  
+The Sponsor submitted a Proposed Pediatric Study Request (PPSR) in August 2022. The Agency 
+issued a PPSR inadequate letter in November 2022, recommending that the Sponsor resubmit the 
+PPSR addressing all the issues outlined in the letter. The Applicant has not resubmitted the PPSR 
+or submitted a pediatric plan or pediatric study protocols to the Agency in the current 
+submission. however, a total of 44 subjects less than 18 years of age were treated with doxecitine 
+and doxribtimine in studies MT-1621-101 and MT1621-107, and Trial TK0102. 
+To support pediatric dosing, safety of dC/dT was evaluated in 10-week repeat dose toxicity 
+studies in juvenile rats. No adverse effects with dC/dT were observed in this study at doses up to 
+1000 mg/kg/day, the highest dose tested. Based on plasma exposure, the safety margin was 856-
+1527x for doxecitine and 81-152x for doxribtimine at the MRHD.  
+Reference ID: 5687706
+
+
+===== PAGE 153 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+138 
+Integrated Review Template, version 4.0 (11/1/23) 
+13.2.2. Pharmacokinetics/ADME/Toxicokinetics 
+Absorption 
+Table 58. Summary of Nonclinical Pharmacokinetic Data 
+Species / 
+Strain 
+Study 
+Number 
+Method 
+Findings 
+Mice / 
+CBYB6f-
+Tg[HRAS]2jic 
+homozygous 
+(Wt/Wt) and 
+hemizygous 
+(Tg/Wt) 
+MT1621-
+21-009 
+Male and female Wt/Wt mice: 
+ Single oral administration at 10, 
+33.3, 100, 200, and 300 mg/kg 
+ Two oral doses, approximately 4 
+hours apart, at 50 mg/kg/dose 
+ Three oral doses, approximately 4 
+hours apart, at 33.3 mg/kg/dose 
+Male and female Tg/Wt mice: 
+ Single oral administration at 
+100 mg/kg 
+ All dose levels were well tolerated. 
+ Exposures to dC and dT (Cmax and AUC0-t) generally increased with 
+increasing dose, although the increases were generally less than dose 
+proportional in both sexes. 
+ No accumulation of dC and dT over a 24-hour period was observed 
+following multiple doses. 
+ In general, sex differences in dC and dT Cmax and AUC0-t values were 
+less than 2-fold for all groups. 
+ Comparing the 3 groups that received a total of 100 mg/kg, the single 
+dose group had the highest Cmax and the TID group had higher AUC0-t 
+for both dC and dT. Tmax for both dC and dT occurred within 1 h for 
+single and BID groups, and at 8.5 h for TID group (based on limited 
+data set in TID group). 
+ At 100 mg/kg, exposures to dC and dT (Cmax and AUC0-t) tended to be 
+higher in Tg/Wt mice than Wt/Wt mice. Tmax in Tg/Wt mice was 0.25 h 
+postdose for both dC and dT. 
+Reference ID: 5687706
+
+
+===== PAGE 154 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+139 
+Integrated Review Template, version 4.0 (11/1/23) 
+Species / 
+Strain 
+Study 
+Number 
+Method 
+Findings 
+Dogs / 
+Beagle 
+MT1621-
+20-002 
+Five dogs per sex were dosed orally in 
+single ascending doses at 10, 25, 50, 
+100, and 200 mg/kg MT1621, with a 
+minimum of 9-day washout period 
+between each dose. 
+ All dose levels were well tolerated. 
+ Median Tmax ranged from 0.5 to 1.5 h and from 0.5 to 2 h across doses 
+for dC and dT, respectively. Plasma concentrations of dC and dT 
+generally declined to predose concentrations within 8-12 h postdose. 
+ Geometric mean AUCinf and Cmax values (male and female combined): 
+Table 59. Summary of Exposure Data, Study MT1621-20-002 
+Group 
+AUC0-inf 
+(ng*h/mL) 
+Cmax 
+(ng/mL) 
+dC 
+dT 
+dC 
+dT 
+10 mg/kg 
+8820 
+25.4 
+5780 
+16.4 
+25 mg/kg 
+27200 
+702 
+15500 
+834 
+50 mg/kg 
+56300 
+3490 
+26900 
+2870 
+100 mg/kg 
+120000 
+13000 
+45800 
+9740 
+200 mg/kg 
+154000 
+28900 
+58100 
+17500 
+Source: Reviewer generated table 
+Source: Reviewer generated table 
+Abbreviations: AUC0-inf, area under the concentration-time curve from time 0 extrapolated to infinity; AUC0-t, area under the concentration-time curve from time 0 to the last observed 
+nonzero concentration (t); AUCinf, area under the concentration-time curve until infinity; BID, twice daily; Cmax, maximum plasma concentration; dC, deoxycytidine; dT, deoxythymidine; 
+Tmax, time to maximum plasma concentration; Tg, transgenic; TID, thrice daily; Wt, wild type  
+Reference ID: 5687706
+
+
+===== PAGE 157 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+142 
+Integrated Review Template, version 4.0 (11/1/23) 
+Study Design 
+Table 63. Study Design, Study MT1621-21-010 
+ 
+Source: Extracted from Study Report MT1621-21-010, page 11 
+Observations and Results 
+Mortality 
+All animals survived to scheduled necropsy. 
+Clinical Signs, Body Weights, Feed Consumption, Ophthalmoscopy, Hematology, Clinical 
+Chemistry, Urinalysis, Gross Pathology, Organ Weights, Histopathology 
+There were no MT1621-related effects on any of these parameters. 
+Toxicokinetics 
+Exposure to dC, as assessed by Cmax and AUC0-24h values, generally increased with increasing 
+dose from 100 to 400 mg/kg/day MT1621 on Days 1 and 28, with the exception of the AUC0-24h 
+value from 100 to 200 mg/kg/day on Day 1 where exposure slightly decreased. The increases in 
+dC Cmax values were less than dose proportional from 100 to 400 mg/kg/day on Days 1 and 28, 
+while the increases in AUC0-24h values were less than dose proportional from 100 to 
+200 mg/kg/day and were approximately dose proportional from 200 to 400 mg/kg/day on Days 1 
+and 28. Sex differences in dC Cmax and AUC0-24h values were less than 2-fold. No accumulation 
+of dC was observed after multiple doses in mice. 
+Exposure to dT, as assessed by Cmax and AUC0-24h values, increased with increasing dose from 
+100 to 400 mg/kg/day MT1621. The increase in dT Cmax values were less than dose proportional 
+from 100 to 400 mg/kg/day and the increase in AUC0-24h values were generally dose 
+proportional. Sex differences in dT Cmax and AUC0-24h values were generally greater than 2-fold, 
+with higher exposure in females than in males. No accumulation of dT was observed following 
+repeated dose administration of MT1621 in mice. 
+Reference ID: 5687706
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 174 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+159 
+Integrated Review Template, version 4.0 (11/1/23) 
+Histopathology 
+No doxecitine and doxribtimine-related effect. 
+Toxicokinetics 
+Sex differences in dC exposure were less than 2-fold on PND 7 and PND 70. Exposure of dC, as 
+assessed by baseline adjusted Cmax and AUC24h values, increased with increasing dose from 300 
+to 1000 mg/kg/day in a dose proportional manner on PND 7, and remained similar between the 
+two doses on PND 70. No accumulation of dC was observed after juvenile rats were dosed 
+repeatedly with doxecitine and doxribtimine. 
+Sex differences in dT exposure were less than 2-fold on PND7 and approached or exceeded 2-
+fold on PND70, with higher exposure observed in females than males. Exposure to dT, as 
+assessed by baseline adjusted Cmax and AUC24h values, increased with increasing dose from 300 
+to 1000 mg/kg/day in both males and females on PND 7 and PND 70. On PND 7, the increases 
+were dose proportional for Cmax and greater than dose proportional for AUC24h in both sexes. On 
+PND 70, the increases in Cmax values were dose proportional for both sexes, while the increases 
+in AUC24h values were greater than dose proportional for males and dose proportional for 
+females. No accumulation of dT was observed after multiple doses of doxecitine and 
+doxribtimine in juvenile rats. 
+Table 72. Baseline Adjusted dC TK Parameters in Rat Plasma 
+  
+Source: Extracted from Study Report NCD4010, pages 44 and 45 
+Abbreviations: AUC0-24, area under the concentration-time curve from time 0 to 24 hours; Cmax, maximum plasma concentration; dC, 
+deoxycytidine; F, female; h, hour; M, male; MF, male and female; PND, postnatal day; t1/2, apparent terminal elimination half-life; TK, 
+thymidine kinase; Tmax, time to maximum plasma concentration 
+Reference ID: 5687706
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 175 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+160 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 73. Baseline Adjusted dT TK Parameters in Rat Plasma 
+ 
+Source: Extracted from Study Report NCD4010 pages 44 and 45 
+Abbreviations: AUC0-24, area under the concentration-time curve from time 0 to 24 hours; Cmax, maximum plasma concentration; dT, 
+deoxythymidine; F, female; h, hour; M, male; MF, male and female; PND, postnatal day; t1/2, apparent terminal elimination half-life; 
+TK, thymidine kinase; Tmax, time to maximum plasma concentration 
+Special Toxicology Studies 
+Impurities 
+Study Title: Doxecitine and Doxribtimine Impurities: ICH M7 Classification Report 
+A total of 121 structures, including the APIs, starting materials, reagents, and both actual and 
+potential impurities, were assessed for bacterial mutagenicity based on literature review and/or 
+(quantitative) structure-activity relationship evaluation employing a combination of expert rule-
+based (Derek Nexus) and statistical model-based (Leadscope Model Applier) methodologies 
+coupled with expert judgement. Under ICH M7 classification, 4 structures were classified as out 
+of scope (nonmutagenic carcinogens), 2 structures as Class 1, 3 structures as Class 2, 1 structure 
+as Class 3, and the rest as Class 5. 
+Reference ID: 5687706
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 182 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+167 
+Integrated Review Template, version 4.0 (11/1/23) 
+Phototoxicity 
+Study Title: Assessment of Phototoxicity Potential of 2DC and TMD  
+Table 83. Study Information, Study 
+-GA-QC-210928A 
+Study Features and Methods 
+Details 
+Study no. 
+-GA-QC-210928A 
+Study report location 
+EDR 
+Conducting laboratory and location 
+ 
+GLP compliance 
+No 
+Drug, lot #, and % purity 
+2DC (dC), lot #2DC(7)-6-20009, purity unknown 
+TMD (dT), lot #TMD(2)-6-21001, purity unknown 
+Source: Reviewer generated table 
+Abbreviations: dC, deoxycytidine; dT, deoxythymidine; EDR, Electronic Document Room; GLP, good laboratory practice 
+Phototoxicity potential of dC and dT were evaluated by measuring ultraviolet-visible light 
+spectra. Maximum absorbance of dC in methanol was observed at 204 and 273 nm. No 
+absorption by dC was apparent from 299 to 700 nm. MEC ≥1000 L mol-1 cm-1 were observed for 
+dC only in the narrow range of 290 to 294 nm, which corresponds to the tail of the absorption 
+peaked at 273 nm. Similarly, maximum absorbance of dT in methanol was observed at 208 and 
+266 nm. No absorption by dT in methanol was apparent between 298 to 700 nm. MEC ≥1000 L 
+mol-1 cm-1 were observed for dT only in the narrow range of 290 to 293 nm, which corresponds 
+to the tail of the absorption peaked at 266 nm. Based on these results, the phototoxicity potential 
+of dC and dT is considered low. 
+Figure 32. dC (in Methanol) Absorption Spectrum 
+ 
+Source: Extracted from Study Report
+A-QC-210928A, page 6 
+Abbreviations: Abs, absorbance; dC, deoxycytidine 
+Reference ID: 5687706
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 189 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+174 
+Integrated Review Template, version 4.0 (11/1/23) 
+determination of its BCRP substrate potential. Thus, doxecitine is unlikely to be a substrate of 
+BCRP. 
+The efflux ratios for doxribtimine in Caco-2 cells were 1.7 and 1.9 at 1 and 10µM. In the 
+presence of the BCRP reference inhibitor, the efflux ratios for doxribtimine were 1.3 and 2.2 at 1 
+and 10µM. The slight decreases in efflux ratios in the presence of inhibitor suggest that BCRP 
+may play a minor or limited role in the transport of doxribtimine at these concentrations. 
+However, efflux ratios at 50 and 100µM were 2.1 and 2.9, suggesting that BCRP may contribute 
+to doxribtimine permeability at higher concentrations. As such, doxribtimine may be a substrate 
+of BCRP. 
+14.2. In Vivo Studies 
+14.2.1. MT-1621-103 
+MT-1621-103 was a Phase 1, open-label, fixed-sequence, single-dose, dose escalation study to 
+evaluate safety, tolerability, PK and food-effect of doxecitine and doxribtimine, supplied as a 
+powder in separate packets, in healthy male and female adults. For study treatment Periods 1-3, a 
+total of 14 subjects received one of three dose levels, respectively, of doxecitine and 
+doxribtimine (86.6, 173.4, or 266.6 mg/kg; doses of drug product are presented as the sum of 
+each drug substance present in a 1:1 ratio by weight) under fasted conditions as escalating single 
+doses. For study treatment Period 4, subjects who completed Periods 1-3 received doxecitine and 
+doxribtimine at a dose of 266.6 mg/kg under fed conditions (standard high-fat breakfast meal). 
+There was a washout of at least two days between each treatment administration. Of note, two 
+subjects who completed Periods 1-3 did not complete Period 4.  
+Blood samples for PK assessments were collected on Day 1 of each period at predose (0 hours) 
+and at 0.25, 0.5, 1, 1.5, 2, 3, 4, 5, 6, 8, 12, 24, and 48 hours postdose. For Periods 1-3, the 48-
+hour PK sample was collected at the same time as the predose PK sample from the next period, 
+so only one sample was collected for both PK time points. For Period 4, blood was collected for 
+the 48-hour PK sample. Urine samples were collected at predose and at 0-4, 4-8, 8-12, 12-24, 
+and 24-48 hours postdose. The PK results are summarized in Table 85 and Table 86. Mean 
+terminal elimination phase half-life  values (and the dependent parameters AUC0-inf, CL/F, and 
+apparent volume of distribution during terminal phase ) could only be estimated in three to six 
+subjects.  
+Reference ID: 5687706
+
+
+===== PAGE 190 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+175 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 85. Summary of Baseline-Adjusted Plasma PK Parameters of Doxecitine and Doxribtimine in Healthy Adults Following Single-
+Dose Administration Under Fasted and Fed Conditions, Study MT-1621-103 
+Parameter 
+86.6 mg/kg, Fasted 
+173.4 mg/kg, Fasted 
+266.6 mg/kg, Fasted 
+266.6 mg/kg, Fed 
+Doxecitine 
+ 
+ 
+ 
+ 
+AUC0-t (ng*h/mL) 
+9.97 (78.2) [n =14] 
+19.9 (61.9) [n =14] 
+21.3 (48.3) [n =14] 
+71.5 (48.8) [n =12] 
+AUC0-inf (ng*h/mL) 
+13.2 (50.9) [n =4] 
+17.9 (49.2) [n =3] 
+24.8 (42.9) [n =6] 
+105 (21.1) [n =12] 
+Cmax (ng/mL) 
+2.95 (50.7) [n =14] 
+4.5 (60) [n =14] 
+6.04 (55.5) [n =14] 
+11 (58.8) [n =3] 
+Tmax (h) 
+1 (0.5, 5) [n =14] 
+1.25 (0.5, 5) [n =14] 
+1 (0.5, 4) [n =14] 
+1.5 (1, 3) [n =12] 
+Kel (1/h) 
+0.36±0.19 [n =4] 
+0.53±0.29 [n =3] 
+0.35±0.32 [n =6] 
+0.1±0.06 [n =3] 
+t1/2 (h) 
+2.42±1.25 [n =4] 
+1.56±0.69 [n =3] 
+4.5±3.9 [n =6] 
+8.16±3.56 [n =3] 
+CL/F (L/h/kg) 
+3610±2020 [n =4] 
+5170±2040 [n =3] 
+5820±2790 [n =6] 
+1290±252 [n =3] 
+Vz/F (L/kg) 
+11000±4250 [n =4] 
+10500±3840 [n =3] 
+31800±25600 [n =6] 
+14800±6800 [n =3] 
+Doxribtimine 
+ 
+ 
+ 
+ 
+AUC0-t (ng*h/mL) 
+8 (96.6) [n =14] 
+21.3 (114) [n =14] 
+54.9 (103) [n =14] 
+98.3 (167) [n =12] 
+AUC0-inf (ng*h/mL) 
+8.97 (N/A) [n =1] 
+29.6 (82.4) [n =2] 
+71 (29.7) [n =5] 
+120 (186) [n =2] 
+Cmax (ng/mL) 
+3.28 (170) [n =14] 
+9.67 (154) [n =14] 
+19.5 (104) [n =14] 
+22.4 (222) [n =12] 
+Tmax (h) 
+1 (0.5, 5) [n =14] 
+1 (0.5, 8) [n =14] 
+1 (0.5, 8) [n =14] 
+3 (1, 8) [n =12] 
+Kel (1/h) 
+0.11±0.12 [n =2] 
+0.18±0.2 [n =3] 
+0.17±0.05 [n =5] 
+0.34±0.32 [n =3] 
+t1/2 (h) 
+14.2±15.1 [n =2] 
+8.7±7.03 [n =3] 
+4.4±1.46 [n =5] 
+9.31±13.4 [n =3] 
+CL/F (L/h/kg) 
+4830±N/A [n =1] 
+3320±2200 [n =2] 
+1940±5970 [n =5] 
+1550±1530 [n =2] 
+Vz/F (L/kg) 
+24400±N/A [n =1] 
+17000±6950 [n =2] 
+13100±8400 [n =5] 
+2670±1770 [n =2] 
+Source: Table 11-2 and 11-4, MT-1621-103 Study Report  
+AUCs and Cmax presented as geometric mean and geometric CV%. 
+Tmax presented as median (minimum, maximum). 
+Other parameters presented as arithmetic mean ± SD. 
+Abbreviations: AUC0-t, area under the concentration-time curve from time 0 to the last observed nonzero concentration (t); AUC0-inf, area under the concentration-time curve from time 0 
+extrapolated to infinity; CL/F, apparent total plasma clearance; Cmax, maximum plasma concentration; Kel, apparent terminal elimination rate constant; MT, mitochondrial; n, number of 
+subjects; N/A, not applicable; t1/2, apparent terminal elimination half-life; Tmax, time to maximum plasma concentration; Vz/F, apparent volume of distribution 
+Table 86. Summary of Baseline-Adjusted Urinary PK Parameters of Doxecitine and Doxribtimine in Healthy Adults Following Single-
+Dose Administration Under Fasted and Fed Conditions, Study MT-1621-103 
+Parameter 
+86.6 mg/kg, Fasted 
+173.4 mg/kg, Fasted 
+266.6 mg/kg, Fasted 
+266.6 mg/kg, Fed 
+Doxecitine 
+ 
+ 
+ 
+ 
+Ae, cum (µg) 
+4.92 (135) [n =14] 
+7.46 (115.2) [n =14] 
+8.77 (105.4) [n =14] 
+10.71 (135.4) [n =12] 
+Fe, cum (%) 
+0.2±0.24 [n =14] 
+0.19±0.18 [n =14] 
+0.14±0.14 [n =14] 
+0.25±0.2=44 [n =12] 
+CLr (mL/h) 
+27.69 (156.1) [n =14] 
+48.08 (93.7) [n =14] 
+54.88 (102.5) [n =14] 
+43.69 (133.9) [n =12] 
+Reference ID: 5687706
+
+
+===== PAGE 193 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+178 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 87. Summary of Baseline-Adjusted Plasma PK Parameters of Doxecitine and Doxribtimine in Healthy Adults Following Single-
+Dose Administration Under Fasted and Fed Conditions, Study MT-1621-105 
+Parameter 
+86.6 mg/kg, Fasted 
+173.4 mg/kg, Fasted 
+266.6 mg/kg, Fasted 
+266.6 mg/kg, Fed 
+Doxecitine 
+ 
+ 
+ 
+ 
+AUC0-4 (ng*h/mL) 
+7.84 (78.5) [n =14] 
+10.31 (60.6) [n =14] 
+15.15 (73.3) [n =14] 
+31.66 (88.8) [n =14] 
+AUC0-6 (ng*h/mL) 
+9.58 (86.6) [n =14] 
+12.79 (60) [n =14] 
+21.1 (78) [n =14] 
+48.16 (73) [n =14] 
+AUC0-t (ng*h/mL) 
+13.49 (94.1) [n =14] 
+23.23 (66.7) [n =14] 
+30.79 (76.5) [n =14] 
+73.03 (71.7) [n =14] 
+AUC0-48 (ng*h/mL) 
+19.57 (82.2) [n =6] 
+29.43 (51.7) [n =9] 
+53.14 (61.1) [n =5] 
+55.8 (57.6) [n =9] 
+AUC0-inf (ng*h/mL) 
+48.38 (73.8) [n =3] 
+26.62 (94) [n =5] 
+22.52 (34.6) [n =4] 
+137.9 (57.7) [n =2] 
+AUC%extrap (%) 
+11.36±8.53 [n =3] 
+12.46±13.19 [n =5] 
+1.15±1.09 [n =4] 
+3.57±5.01 [n =2] 
+Cmax (ng/mL) 
+3.53 (83.1) [n =14] 
+4.68 (65.9) [n =14] 
+7.17 (73) [n =14] 
+12.82 (77.9) [n =14] 
+Tmax (h) 
+1.25 (0.25, 3) [n =14] 
+1.51 (0.26, 4) [n =14] 
+1.26 (0.5, 3) [n =14] 
+2.02 (0.51, 6) [n =14] 
+Kel (1/h) 
+0.13±0.13 [n =3] 
+0.2±0.19 [n =5] 
+0.49±0.46 [n =4] 
+0.8±0.39 [n =2] 
+t1/2 (h) 
+10.28±8.2 [n =3] 
+8.62±8.68 [n =5] 
+2.67±1.98 [n =4] 
+0.99±0.48 [n =2] 
+CL/F (L/h/kg) 
+1033±669.41 [n =3] 
+4184±3366 [n =5] 
+6167±1978.3 [n =4] 
+1037±530.76 [n =2] 
+Vz/F (L/kg) 
+10330±3402.8 [n =3] 
+38260±32282 [n =5] 
+19790±11151 [n =4] 
+1657±1470.4 [n =2] 
+Doxribtimine 
+ 
+ 
+ 
+ 
+AUC0-4 (ng*h/mL) 
+8.78 (142.5) [n =13] 
+21.03 (172.1) [n =14] 
+53.13 (168) [n =14] 
+74.39 (124) [n =14] 
+AUC0-6 (ng*h/mL) 
+11.12 (122.2) [n =12] 
+23.15 (159.9) [n =14] 
+60.59 (166.3) [n =14] 
+118.7 (126.8) [n =14] 
+AUC0-t (ng*h/mL) 
+12.56 (124.9) [n =13] 
+31.71 (126.6) [n =14] 
+91.15 (94.1) [n =14] 
+158.9 (101.4) [n =14] 
+AUC0-48 (ng*h/mL) 
+18.19 (102.9) [n =7] 
+82.09 (46.5) [n =2] 
+113.5 (31.4) [n =2] 
+140.8 (72.6) [n =5] 
+AUC0-inf (ng*h/mL) 
+3.56 (NC) [n =1] 
+67.15 (51.2) [n =3] 
+144.1 (6.9) [n =3] 
+149.4 (135.7) [n =5] 
+AUC%extrap (%) 
+46.24±NC [n =1] 
+6.48±5.98 [n =3] 
+1.95±1.62 [n =3] 
+1.24±1.13 [n =5] 
+Cmax (ng/mL) 
+6.19 (107.8) [n =13] 
+14.18 (156.9) [n =14] 
+31.5 (119.6) [n =14] 
+40.13 (102.9) [n =14] 
+Tmax (h) 
+0.52 (0.5, 2) [n =13] 
+1.06 (0.26, 2.05) [n =14] 
+1.26 (1, 12.02) [n =14] 
+4 (1.5, 8) [n =14] 
+Kel (1/h) 
+0.16±NC [n =1] 
+0.09±0.07 [n =3] 
+0.1±0.06 [n =3] 
+0.24±0.29 [n =5] 
+t1/2 (h) 
+4.42±NC [n =1] 
+10.42±5.95 [n =3] 
+8.76±4.04 [n =3] 
+5.35±3.11 [n =5] 
+CL/F (L/h/kg) 
+12180±NC [n =1] 
+1384±562.78 [n =3] 
+926.5±63.86 [n =5] 
+1390±1575.7 [n =5] 
+Vz/F (L/kg) 
+77600±NC [n =1] 
+23970±18329 [n =3] 
+11920±5975.6 [n =5] 
+6222±2876 [n =5] 
+Source: Table 11-2 and 11-7, MT-1621-105 Study Report  
+AUCs and Cmax presented as geometric mean and geometric CV%. 
+Tmax presented as median (minimum, maximum). 
+Other parameters presented as arithmetic mean ± SD. 
+Abbreviations: AUC0-t, area under the concentration-time curve from time 0 to the last observed nonzero concentration (t); AUC0-#, area under the concentration-time curve from time 0 
+to # hours; AUC0-inf = area under the concentration-time curve from time 0 extrapolated to infinity; AUC%extrap, percent of AUC0-inf extrapolated; CL/F, apparent total plasma clearance; 
+Cmax, maximum plasma concentration; Kel, apparent terminal elimination rate constant; n, number of subjects; NC, not calculated; t1/2, apparent terminal elimination half-life; Tmax, time to 
+maximum plasma concentration; Vz/F, apparent volume of distribution 
+Reference ID: 5687706
+
+
+===== PAGE 196 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+181 
+Integrated Review Template, version 4.0 (11/1/23) 
+Figure 34. Observed Doxecitine and Doxribtimine Plasma Concentration-Time Profiles, Stratified 
+by Food Status, in TK2d Subjects 
+ 
+Source: Figure 2-1, 2.7.2 Summary of Clinical Pharmacology Studies 
+Doses represent one of the TID doses of total daily dose of each drug substance. Data points from the same individual and same 
+dosing occasion are connected by lines.  
+Abbreviations: h, hour(s); TK2d, thymidine kinase 2 deficiency 
+Table 90. Summary of Individual Estimates of Steady-State Doxecitine and Doxribtimine PK 
+Parameters in Participants With TK2d (TK0102) at 800 mg/kg/day TID Under Fed Conditions 
+Derived From the PopPK Model 
+Parameter 
+Median 
+Min-Max 
+Geometric 
+Mean 
+Geometric 
+CV (%) 
+Doxecitine (n=18) 
+ 
+ 
+ 
+ 
+CL/F (L/h) 
+263,560 
+157,680-683,820 
+301,799.64 
+48.39 
+V/F (L) 
+457,505 
+211,490-1,779,700 
+485,588.66 
+57.51 
+t1/2 (h) 
+1.08 
+0.72-1.81 
+1.12 
+25.23 
+Cmax (ng/mL) 
+11.54 
+6.28-29.92 
+12.23 
+53.96 
+Tmax (h) 
+1.4 
+1.1-2.2 
+1.47 
+18.1 
+Cmin (ng/mL) 
+6 
+4.01-9.81 
+5.98 
+26.21 
+AUCtau (ng*h/mL) 
+30.57 
+7.82-111.56 
+31.95 
+93.27 
+AUC0-24 (ng*h/mL) 
+104.51 
+25.43-381.93 
+108.7 
+97.5 
+Reference ID: 5687706
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 197 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+182 
+Integrated Review Template, version 4.0 (11/1/23) 
+Parameter 
+Median 
+Min-Max 
+Geometric 
+Mean 
+Geometric 
+CV (%) 
+Doxribtimine (n=18) 
+ 
+ 
+ 
+ 
+CL/F (L/h) 
+247,147.59 
+118,565.17-488,255.22 
+240,647.23 
+41.05 
+V/F (L) 
+132,016.75 
+61,867.63-389,717.33 
+150,559.59 
+50.4 
+t1/2 (h) 
+0.43 
+0.19-0.83 
+0.43 
+37.12 
+Cmax (ng/mL) 
+12.6 
+0.47-8,966.84 
+19.22 
+1,848.25 
+Tmax (h) 
+3.3 
+2-3.4 
+3.09 
+15.77 
+Cmin (ng/mL) 
+1.27 
+0.33-908.54 
+2.21 
+489.3 
+AUCtau (ng*h/mL) 
+41.78 
+0.52-33,042.72 
+59.48 
+2,831.24 
+AUC0-24 (ng*h/mL) 
+130.92 
+1.59-109,267.68 
+191.22 
+2,851.68 
+Source: Table 2-8, 2.7.2 Summary of Clinical Pharmacology Studies  
+Abbreviations: AUC0-24, area under the concentration-time curve from time 0 to 24 hours; AUCtau, area under the concentration-time 
+curve over the dosing interval at steady state; Cmax, maximum plasma concentration; CL/F, apparent clearance; Cmin, minimum 
+plasma concentration; CV, coefficient of variation; n, number of subjects; PK, pharmacokinetics; popPK, population 
+pharmacokinetics; t1/2, apparent terminal elimination half-life; TK, thymidine kinase; TK2d, thymidine kinase 2 deficiency; Tmax, time to 
+maximum plasma concentration; V/F, apparent volume of distribution 
+14.3. Bioanalytical Method Validation and 
+Performance 
+The bioanalytical methods used for quantification of doxecitine and doxribtimine concentrations 
+in human plasma and urine are summarized in Table 91. The summaries of bioanalytical method 
+life cycle information are provided in Table 92 and Table 93. The assay validation and 
+performance parameters for the bioanalytical methods used for the determination of doxecitine 
+and doxribtimine concentrations in human plasma and urine (
+ 
+) are summarized in Table 94, Table 95, Table 96, 
+Table 97, and Table 98.  
+Table 91. Bioanalytical Methods Used To Quantify Doxecitine and Doxribtimine Concentrations in 
+Plasma or Urine in Clinical Studies 
+Report Title 
+Studies Supported 
+MT1621-18-002rep 
+The LC/MS/MS quantitation of deoxycytidine and deoxythymidine in 
+tetrahydrouridine and sodium citrate treated human K2EDTA plasma 
+MT-1621-103 
+MT1621-19-020repa1 
+The LC/MS/MS quantitation of deoxycytidine and deoxythymidine in 
+tetrahydrouridine and sodium citrate treated human K2EDTA plasma 
+between 0.500 and 200ng/mL 
+ 
+I-IND 
+ TK0102,  
+MT-1621-105, MT-1621-106 
+MT1621-19-021rep 
+Validation of a liquid chromatographic method 
+using tandem mass spectrometry detection for the determination of 
+deoxycytidine (400 to 160000ng/mL) and deoxythymidine (100 to 
+40000ng/mL) in human urine 
+MT-1621-103 
+MT1621-20-005rep 
+Validation of a liquid chromatographic method using tandem mass 
+spectrometry detection for the determination of deoxycytidine and 
+deoxythymidine (5.00 to 1000ng/mL) in human urine 
+MT-1621-105, MT-1621-106 
+Reference ID: 5687706
+(b) (4)
+(b) (4)
+(b) (6)
+(b) (6)
+
+
+===== PAGE 220 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+205 
+Integrated Review Template, version 4.0 (11/1/23) 
+14.5.1. Applicant’s Population PK Modeling and 
+Simulation Assessment (Report #CL0602) 
+The PK of both doxecitine and doxribtimine were characterized by one-compartment models 
+with two parallel first-order absorption compartments (under fed conditions), or with one first-
+order absorption compartment (under fasted conditions), and first-order elimination. Based on 
+the popPK analysis, after accounting for differences in body weight in the popPK base structure, 
+no notable impact of age, sex, or hepatic impairment was observed on the PK exposures of 
+doxecitine and doxribtimine. No apparent exposure-safety relationships were shown between the 
+predicted AUC,ss of doxecitine and doxribtimine and the adverse event endpoints  
+The popPK analysis utilized PK data from 59 adult and pediatric  subjects with TK2d and 61 
+healthy adults ranging in age from less than 1 to 81 years enrolled in five clinical studies (MT-
+1621-103, MT-1621-105, MT-1621-106, TK0102, and I-IND
+). Table 99 
+Table 99 summarizes key characteristics of the subjects included in the analysis as well as other 
+features of the popPK analysis dataset. 
+Table 99. Key Characteristics of Subjects Included in the Population PK Analysis With Population 
+PK Data Features 
+ 
+Source: Applicant’s Analysis Report for CL0602 (REP-2-UCB-DoxTM-PMX-1), Table S1: Page 5 
+Abbreviations: PK, pharmacokinetics; TK2d, thymidine kinase 2 deficiency 
+The final popPK model parameter values for doxecitine and doxribtimine are summarized in 
+Table 100 and Table 101, respectively. While body weight was included as a covariate for both 
+CL/F and apparent volume of distribution at steady-state  in the doxecitine structural popPK 
+model, among the selectively evaluated covariates that were identified to be significant and 
+Reference ID: 5687706
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (6)
+
+
+===== PAGE 221 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+206 
+Integrated Review Template, version 4.0 (11/1/23) 
+therefore were incorporated in the final population PK model; on relative bioavailability (FRel), 
+dose level, and fed status relative to fasted condition; on CL/F, serum ALT, and moderate/severe 
+renal impairment relative to normal.  
+Table 100. Summary of Final Parameter Estimates of the Final Doxecitine PK Model 
+ 
+Source: Applicant’s Analysis Report for CL0602 (REP-2-UCB-DoxTM-PMX-1), Table 12: Page 62 
+Abbreviations: ALT, alanine aminotransferase; BASE, baseline; CL, clearance; CL/F, apparent clearance; CV, coefficient of 
+variation; Frel, relative bioavailability; MATFirst, mean absorption time associated with the first absorption compartment; MATSecond, 
+mean absorption time associated with the second absorption compartment; PK, pharmacokinetics; RSE, relative standard error; 
+RUV, residual unexplained variability; SHR, shrinkage; V, volume; V/F, apparent volume of distribution; WT, wild type 
+Reference ID: 5687706
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 222 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+207 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 101. Summary of Final Parameter Estimates of the Final Doxribtimine PK Model 
+ 
+Source: Applicant’s Analysis Report for CL0602 (REP-2-UCB-DoxTM-PMX-1), Table 15: Page 73 
+Abbreviations: ALT, alanine aminotransferase; BASE, baseline; CL, clearance; CL/F, apparent clearance; CV, coefficient of 
+variation; Frel, relative bioavailability; MATFirst, mean absorption time associated with the first absorption compartment; MATFirst,fasted, 
+mean absorption time in fasted condition associated with the first absorption compartment; MATFirst,fed, mean absorption time in fed 
+condition associated with the first absorption compartment; MATSecond, mean absorption time associated with the second absorption 
+compartment; MATSecond,fasted, mean absorption time in fasted condition associated with the second absorption compartment; 
+MATSecond,fed, mean absorption time in fed condition associated with the second absorption compartment; PK, pharmacokinetics; 
+RSE, relative standard error; RUV, residual unexplained variability; SHR, shrinkage; tlag,First,fasted, lag time in fasted condition 
+associated with the first absorption compartment; tlag,First,Ffed, lag time in fed condition associated with the first absorption 
+compartment; tlag,Second,fasted,lag time in fasted condition associated with the second absorption compartment; tlag,Second,fed, lag time in 
+fed condition associated with the second absorption compartment; V, volume; V/F, apparent volume of distribution; WT, wild type 
+Based on the overall goodness-of-fit and prediction-corrected visual predictive check plots, the 
+popPK models of doxecitine and doxribtimine appear to generally characterize both the PK of 
+doxecitine and doxribtimine in the study population in the middle to higher concentration ranges, 
+Reference ID: 5687706
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+
+
+===== PAGE 228 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+213 
+Integrated Review Template, version 4.0 (11/1/23) 
+ 
+Source: Applicant’s Response to FDA information Request #9, Figures 8, 9, and 10: Page 14-6 
+Abbreviations: AUC0-24, area under the concentration-time curve from time 0 to 24 hours; AUC0-24,ss, area under the concentration-
+time curve from time 0 to 24 hours at steady state; Cmax0-6, maximum plasma concentration from time 0 to 6 hours; Cmax0-6,ss, 
+maximum plasma concentration from time 0 to 6 hours at steady state; Cmin0-6, minimum plasma concentration from time 0 to 6 
+hours; Cmin0-6,ss, minimum plasma concentration from time 0 to 6 hours at steady state; PK, pharmacokinetics; WT, wild type 
+The simulated exposures were then stratified by age categories (<18 and ≥18 years) for 
+comparison. Based on the simulations, comparable PK exposures of doxecitine that largely 
+overlap were observed on Days 1 and 42 for patients with age <18 (pediatric) and ≥18 years 
+(adult) subgroups, indicating that similar dosing regimens can be applied for pediatric and adult 
+patients with TK2d (Figure 41).  
+Figure 41. Comparisons of Simulated Days 1 and 42 PK Exposures Stratified by Age Group 
+ 
+Source: Reviewer’s Analysis 
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration; Cmin, minimum plasma 
+concentration; dC, deoxycytidine; PK, pharmacokinetics 
+Reference ID: 5687706
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 229 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+214 
+Integrated Review Template, version 4.0 (11/1/23) 
+As described above, the popPK simulation was performed to compare simulated PK exposures 
+by sex. According to the simulation, comparable PK exposures of doxecitine that largely overlap 
+were observed on Days 1 and 42 between male and female patients, indicating that sex appears 
+to have no impact on the pharmacokinetics of doxecitine (Figure 42). 
+Figure 42. Comparisons of Simulated Days 1 (Top Panels) and 42 (Bottom Panel) PK Exposures 
+Stratified by Sex 
+ 
+Source: Reviewer’s Analysis 
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration; Cmin, minimum plasma 
+concentration; dC, deoxycytidine; PK, pharmacokinetics 
+Exposure-Safety  
+See Section 6.1.4 for details on the Applicant’s assessment of exposure-response relationships 
+for safety.  
+Conclusions 
+The Applicant’s popPK model adequately characterized the pharmacokinetics of doxecitine and 
+doxribtimine following oral administration in adult and pediatric subjects with TK2d. While age, 
+sex, and hepatic impairment were not identified as covariates affecting the parmacokinetics of 
+doxecitine and doxribtimine, renal impairment appears to increase doxecitine exposure. The 
+impact of ethnicity on the pharmacokinetics of doxribtimine remains unclear due to considerable 
+variability in the data.  
+14.6. Pharmacogenetics 
+Not applicable. 
+Reference ID: 5687706
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 248 =====
+
+NDA 219792 
+Kygevvi (doxecitine and doxribtimine) 
+233 
+Integrated Review Template, version 4.0 (11/1/23) 
+Full Prescribing Information 
+Sections1 
+Rationale for Major Changes Incorporated Into the Finalized 
+PI2  
+10 OVERDOSAGE 
+N/A 
+12 CLINICAL PHARMACOLOGY 
+12.1 Mechanism of Action 
+ 
+ 
+12.2 Pharmacodynamics 
+ 
+ Included a statement that the exposure-response relationship 
+and time course of pharmacodynamic response for the safety 
+and effectiveness of Kygevvi have not been fully characterized. 
+12.3 Pharmacokinetics 
+ Included language describing general PK properties and key 
+exposure information. 
+ Added half-life for doxecitine and doxribtimine. 
+ Reported the dose and PK information for doxecitine and 
+doxribtimine separately because these are two individual active 
+ingredients in the drug product. 
+ Expressed the concentration of doxecitine and doxribtimine as 
+a sum, consistent with the test conditions in the in vitro study of 
+plasma protein binding. 
+
+
+
+ Expressed concentration range as the sum of doxecitine and 
+doxribtimine [(consistent with test conditions in in vitro study of 
+plasma protein binding (MT1621-20-003)]. 
+ Added the half-life values under Elimination heading. 
+ 
+ 
+ Clarified that no hepatic impairment studies were conducted. 
+Reference ID: 5687706
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)

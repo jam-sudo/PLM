@@ -1,0 +1,1987 @@
+
+
+===== PAGE 14 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 2 of 112 
+2.4 
+EXTRINSIC FACTORS .......................................................................................................... 32 
+2.5 
+GENERAL BIOPHARMACEUTICS ......................................................................................... 42 
+2.6 
+ANALYTICAL SECTION ....................................................................................................... 45 
+3 
+DETAILED LABELING RECOMMENDATIONS ...................................................................... 46 
+4 
+APPENDICES ................................................................................................................................ 53 
+4.1 
+PHARMACOMETRICS REVIEW ............................................................................................ 53 
+4.2 
+PHYSIOLOGICALLY-BASED PHARMACOKINETIC REVIEW ................................................. 96 
+ 
+List of Tables 
+Table 1. Solubility of ceritinib .................................................................................................................... 10 
+Table 2. Summary of clinical pharmacology and clinical studies .............................................................. 11 
+Table 3. ΔQTcF for ceritinib at doses of 50 to 750 mg from Cycle 2 Day 1 and beyond .......................... 17 
+Table 4. ΔQTcF for ceritinib at the 750 mg dose ....................................................................................... 18 
+Table 5. PK parameters following single doses of ceritinib on cycle 1 day 1 during PK-run-in period .... 22 
+Table 6. PK parameters following repeat doses of ceritinib on cycle 1 day 8 of dose escalation phase ... 23 
+Table 7. Steady-state trough concentrations of ceritinib ............................................................................ 24 
+Table 8. PK parameters following 750 mg ceritinib ................................................................................... 25 
+Table 9. Components of plasma, urine, and feces after a single dose of 750 mg [14C]-ceritinib ............... 28 
+Table 10. Proportion of patients with ORR or any Grade 3-4 AEs based on renal function ..................... 30 
+Table 11. Proportion of patients with ORR or any Grade 3-4 AEs based on hepatic function .................. 31 
+Table 12. Inhibition of [14C]-ceritinib metabolism by selective CYP inhibitors ........................................ 33 
+Table 13. IC50 and calculated R1 values for ceritinib inhibition of ............................................................. 34 
+Table 14. Ceritinib induction of mean mRNA and activity levels of CYP enzymes ................................. 35 
+Table 15. Effect of ceritinib on P-gp-mediated Rho123 efflux (left) ......................................................... 36 
+Table 16. IC50 and calculated R values for ceritinib inhibition of OATP transporters ............................... 36 
+Table 17. IC50 and calculated unbound Cmax/IC50 values for ceritinib inhibition of OAT and OCT 
+transporters ......................................................................................................................................... 37 
+Table 18. Transport of ceritinib by OCT1, OAT2, OATP1B1, OATP2B1 ............................................... 38 
+Table 19. Comparative analysis of ceritinib PK parameters ...................................................................... 40 
+Table 20. Comparative analysis of ceritinib AUC and Cmax ....................................................................... 41 
+Table 21. PBPK model simulated ceritinib steady-state AUC and Cmax .................................................... 42 
+Table 22. Representative high-fat (left) and low-fat meals (right) ............................................................. 43 
+Table 23. PK parameters of a single dose of ceritinib after a high-fat or a low-fat meal compared to fasted 
+conditions ........................................................................................................................................... 44 
+ 
+Reference ID: 3477231
+
+
+===== PAGE 18 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 6 of 112 
+1.2 
+PHASE 4 REQUIREMENTS AND COMMITMENTS 
+1.2.1 Postmarketing Requirements (PMR) 
+The Applicant is required to conduct the following clinical pharmacology studies under 
+postmarketing requirements (PMRs). These PMRs will be included in the Approval letter with 
+milestones agreed upon after negotiation with the Applicant. 
+Drug 
+Development 
+Question 
+Rationale 
+PMR 
+What is the 
+exposure-matched 
+dose of ceritinib 
+taken with food to 
+improve GI 
+tolerability and 
+compliance without 
+compromising 
+efficacy?  
+ 
+98% of patients 
+experienced GI 
+adverse reactions. 
+Ceritinib is proposed 
+to be taken in the 
+fasted state, but 
+taking ceritinib with 
+food may alleviate GI 
+toxicities and 
+improve patients’ 
+compliance. 
+Conduct a clinical trial to evaluate the gastrointestinal tolerability, 
+efficacy, and pharmacokinetics of 450 mg ceritinib taken with a meal 
+as compared with that of 750 mg ceritinib taken in the fasted state in 
+metastatic ALK-positive NSCLC patients.   
+Final Protocol Submission: To be determined 
+Trial Completion: To be determined 
+Final Report Submission: To be determined 
+ 
+Should the dose of 
+ceritinib be reduced 
+in patients with 
+moderate and 
+severe hepatic 
+impairment? 
+ 
+92% of the 
+administered dose is 
+recovered in the 
+feces, indicating that 
+hepatic elimination is 
+the major elimination 
+pathway. 
+ 
+Complete a pharmacokinetic trial to determine the appropriate dose 
+of ceritinib in patients with hepatic impairment.   
+Final Protocol Submission: Submitted 
+Trial Completion: January 2016 
+Final Report Submission: June 2016 
+ 
+What is the effect 
+of gastric acid 
+reducing agents on 
+the PK of ceritinib? 
+Ceritinib’s solubility 
+is pH-dependent, with 
+a solubility of 11 
+mg/mL at pH=1 and 
+0.0002 mg/mL at 
+pH=6.8. 
+Conduct a clinical trial to evaluate if proton pump inhibitors, H2-
+receptor antagonists, and antacids alter the bioavailability of 
+ceritinib. The trial results should allow for a determination on how to 
+dose ceritinib with regard to concomitant gastric acid reducing 
+agents.   
+ 
+Final Protocol Submission: January 2015 
+Trial Completion: August 2015 
+Final Report Submission: February 2016 
+ 
+What is the effect 
+of ceritinib on the 
+PK of sensitive 
+CYP3A substrates?  
+ 
+Ceritinib inhibits 
+CYP3A4 in vitro (R1 
+value of 7.0-8.5).  
+ 
+Conduct a clinical trial evaluating the effect of repeat doses of 
+ceritinib on the single dose pharmacokinetics of midazolam 
+(CYP3A4 substrate). The results of this clinical trial should allow for 
+a determination on how to dose ceritinib with regard to concomitant 
+sensitive CYP3A4 substrates and CYP3A4 substrates with narrow 
+therapeutic indices.  
+ 
+Final Protocol Submission: September 2014 
+Trial Completion: August 2016 
+Final Report Submission: February 2017 
+ 
+ 
+ 
+ 
+Reference ID: 3477231
+
+
+===== PAGE 20 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 8 of 112 
+showed that a high-fat, high-calorie meal increased ceritinib AUC by 73% and Cmax by 41%; a 
+low-fat meal increased ceritinib AUC by 58% and Cmax by 43% as compared to fasted conditions. 
+Administration of ceritinib at 750 mg with food may improve GI tolerability and compliance, but 
+could lead to exposure-related toxicities such as AST/ALT elevations, hyperglycemia, and QTc 
+prolongation. The Applicant proposed to conduct a clinical trial to evaluate the effect of a 
+ 
+ on the PK of ceritinib in healthy subjects based on the hypothesis that the 
+magnitude of increase in ceritinib exposure would be smaller with 
+ 
+ than that observed with low-fat or high-fat full meals while alleviating GI adverse events. 
+FDA recommends determination of an exposure-matched dose of ceritinib taken with food to 
+improve GI tolerability and compliance in patients without compromising efficacy. A 
+postmarketing trial should be conducted to evaluate the GI tolerability, efficacy, and PK of 450 
+mg ceritinib taken with a meal as compared with that of 750 mg ceritinib taken in the fasted state 
+in metastatic ALK-positive NSCLC patients.   
+ 
+Exposure-Response Relationships 
+No significant exposure-response relationships were identified for the primary efficacy endpoint 
+ORR and secondary efficacy endpoint PFS in ALK-positive NSCLC patients who received prior 
+treatment with an ALK inhibitor. Based on the analysis results, it is unclear whether the plateau 
+of the exposure-efficacy curve has been reached or not. 
+Higher systemic exposure appears to be associated with more frequent and earlier overall Grade 
+3 or worse (G3+) adverse events (AEs), as well as with higher incidence of individual AEs such 
+as G3+ ALT/AST elevation, and G2+ hyperglycemia. No significant relationships were identified 
+between systemic exposure and gastrointestinal (GI) tract AEs, possibly because the high drug 
+concentration in the GI tract leads to GI tract AEs directly. Higher systemic exposure also 
+appears to be associated with earlier and more frequent dose reductions or dose interruption. 
+Given that the permanent discontinuation due to AEs occurred in only 10% patients, the 
+management of AEs via dose reductions and interruptions is effective in maintaining patients on 
+study drug. 
+ 
+Population concentration-QTc analyses using time-matched ECG and PK data from the clinical 
+trial showed that ceritinib prolonged the QTc interval in a concentration dependent manner. 
+Following repeat daily doses of 750 mg ceritinib, large changes (i.e., >20 ms) in the QTc interval 
+were detected at steady-state (Cycle 2 Day 1 and beyond). The largest mean change from baseline 
+was 19.3 ms with the upper bound of the 2-sided 90% confidence interval (CI) of 22.2 ms, 
+observed at Cycle 6 Day 1.  
+ 
+ADME and Potential DDIs  
+Following oral administration of ceritinib, Cmax was reached at 4-6 hours, with a terminal half-
+life (t1/2) of 41 hours. Inter-patient variability following repeat doses of 750 mg ceritinib is 74% 
+for AUC and 76% for Cmax. Ceritinib exhibits nonlinear time-dependent PK, with exposures that 
+are dose proportional after a single dose, but greater than dose proportional after repeat doses in 
+the dose range of 50 to 750 mg. Following ceritinib 750 mg QD, steady state is achieved within 
+Reference ID: 3477231
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 21 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 9 of 112 
+15 days with 6-fold accumulation. Apparent clearance (CL/F) at steady-state (33 L/h) is lower 
+than that after a single dose (89 L/h), likely due to auto-inhibition of CYP3A.  
+Ceritinib is primarily metabolized by CYP3A, and is also a reversible and time-dependent 
+inhibitor of CYP3A in vitro. Coadministration of ketoconazole (a strong CYP3A inhibitor) 200 
+mg twice daily for 14 days and a single dose of 450 mg ceritinib increased ceritinib AUC by 2.9-
+fold and Cmax by 20% in healthy subjects. Coadministration of rifampin (a strong CYP3A 
+inducer) 600 mg daily for 14 days and a single dose of 750 mg ceritinib decreased ceritinib AUC 
+by 70% and Cmax by 44% in healthy subjects. Given that the drug-drug interaction (DDI) studies 
+were conducted using single doses of ceritinib, the effect of strong CYP3A modulators on the 
+steady-state PK of ceritinib in patients is unclear due to nonlinear, time-dependent PK of 
+ceritinib. Physiologically-based pharmacokinetic modeling (PBPK) predicted that ketoconazole 
+can increase the steady-state ceritinib exposure (AUC) by 51%; rifampin can decrease steady-
+state ceritinib AUC by 67%. Therefore, it is recommended to avoid concomitant use of strong 
+CYP3A inhibitors and inducers given the magnitude of exposure change in the context of the 
+exposure-response curves for safety and effectiveness observed with ceritinib. If avoiding 
+concomitant strong CYP3A inhibitors is not possible, the ceritinib dose should be reduced by 
+approximately one-third, rounded to the nearest 150 mg dosage strength. After discontinuation of 
+a strong CYP3A inhibitor, the ceritinib dose that was taken prior to initiating the strong CYP3A4 
+inhibitor should be resumed.  
+ 
+In addition to CYP3A, ceritinib also inhibits CYP2C9 in vitro. PMRs will be requested to 
+evaluate the effect of repeat doses of ceritinib on the single dose PK of a sensitive CYP3A4 
+substrate (e.g., midazolam) and CYP2C9 substrate (e.g., warfarin). 
+ 
+Given that the aqueous solubility of ceritinib is pH-dependent with lower solubility (<750 
+mg/250 mL) at higher pH, gastric acid reducing agents may decrease the solubility of ceritinib 
+and subsequently reduce its bioavailability. A PMR will be requested to evaluate the effect of 
+gastric acid reducing agents on the PK of ceritinib.  
+ 
+Organ Dysfunction Studies  
+The ADME study showed that hepatic elimination is the major route of elimination (92% of the 
+administered radiolabeled dose was recovered in the feces), indicating that hepatic impairment 
+may increase the systemic exposure of ceritinib. The Applicant is requested to submit the results 
+of an ongoing hepatic impairment study under a PMR to determine the appropriate ceritinib dose 
+given that AEs including AST/ALT elevations, QTc prolongation, and hyperglycemia are 
+exposure-related. No dose adjustment is recommended for mild hepatic impairment because PK 
+(popPK estimated steady-state AUC), effectiveness (ORR), and safety (overall Grade 3-4 AEs) 
+are similar between patients with mild hepatic impairment and patients with normal hepatic 
+function. 
+ 
+The ADME study showed that the renal pathway contributed minimally to ceritinib elimination 
+(1.3% of the administered radiolabeled dose was recovered in the urine). Dose adjustments are 
+not recommended for patients with mild or moderate renal impairment because there are no 
+clinically important differences in PK (popPK estimated steady-state AUC), effectiveness 
+Reference ID: 3477231
+
+
+===== PAGE 31 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 19 of 112 
+2.2.4.4 Is the dose and dosing regimen selected by the applicant consistent with the known 
+relationship between dose-concentration-response, and is there any unresolved dosing 
+or administration issue? 
+The Pharmacometrics review concluded that based on currently available data, the proposed dose 
+of 750 mg QD is acceptable. The results of E-R analyses for efficacy did not show a clear 
+relationship between systemic exposure and ORR or PFS (refer to Section 2.2.4.1). However, the 
+ORR of 44% (95% CI: 36, 52) and median duration of response of 7.1 months (95% CI: 5.6, NE) 
+suggested that the proposed dose of 750 mg is effective. Higher systemic exposure is associated 
+with more frequent and earlier overall Grade 3-4 AEs, and higher incidence of individual AEs 
+including Grade 3-4 AST/ALT elevations and Grade 2 or worse hyperglycemia. Higher systemic 
+exposure is also associated with earlier and more frequent dose reductions or dose interruptions 
+(refer to Section 2.2.4.2). Given that permanent discontinuation due to AEs occurred in only 
+10% of patients, the proposed dose of 750 mg with management of AEs via dose reductions or 
+interruptions appears acceptable. 
+ 
+Although the current proposed dosing regimen is acceptable, there may be alternative ways to 
+administer ceritinib that may lead to better tolerability and compliance. At the recommended 
+dose of 750 mg QD, the majority of patients experienced GI adverse reactions including diarrhea 
+(86%), nausea (80%), vomiting (60%), and abdominal pain (54%). No significant E-R 
+relationships were identified between systemic exposure and overall Grade 3/4 GI tract AEs or 
+Grade 2 or worse diarrhea, possibly because systemic exposure is not a good predictor for GI 
+tract AEs as high drug concentrations in the GI tract may lead to GI tract AEs directly. The 
+absolute bioavailability of ceritinib has not been studied, but is expected to be low. The food 
+effect study showed that a high-fat, high-calorie meal increased ceritinib AUC by 73% and Cmax 
+by 41%; a low-fat meal increased ceritinib AUC by 58% and Cmax by 43% as compared to fasted 
+conditions (refer to Section 2.5.3). Administration of ceritinib 750 mg with food may improve GI 
+tolerability and compliance, but could lead to exposure-related toxicities such as AST/ALT 
+elevations, hyperglycemia, and QTc prolongation (refer to Sections 2.2.4.2 and 2.2.4.3). To 
+address this unresolved issue, the Applicant proposed to conduct a clinical trial to evaluate the 
+effect of a 
+ on the PK of ceritinib in healthy subjects based on the 
+hypothesis that the magnitude of increase in ceritinib exposure would be smaller with 
+concomitant intake of a 
+ than that observed with low-fat or high-
+fat full meals while alleviating GI adverse events. FDA recommends a postmarketing trial be 
+conducted to evaluate the GI tolerability, efficacy, and PK of 450 mg ceritinib taken with a meal 
+as compared with that of 750 mg ceritinib taken in the fasted state in metastatic ALK-positive 
+NSCLC patients. Given an expected increase of exposures by 58% to 73% when ceritinib is 
+administered with meals, exposures following a 450 mg dose of ceritinib taken with a meal 
+would be similar to exposures following 750 mg ceritinib taken in the fasted state.     
+ 
+Additional unresolved dosing and administration issues with ceritinib to be addressed under 
+PMRs include potential dose adjustment in patients with hepatic impairment and in patients 
+receiving acid reducing agents.   
+ 
+Reference ID: 3477231
+(b) (4)
+(b) (4)
+
+
+===== PAGE 37 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 25 of 112 
+PK parameters following 750 mg ceritinib on day 1 of cycles 1 and 2 of the expansion phase are 
+summarized in Table 8. 
+ 
+Table 8. PK parameters following 750 mg ceritinib  
+on day 1 of cycles 1 and 2 of the expansion phase 
+ 
+Source: Summary of Clinical Pharmacology, Table 2-3, Page 26. 
+ 
+2.2.5.2 How does the PK of the drug and its major active metabolites in healthy volunteers 
+compare to that in patients? 
+After oral administration of ceritinib capsules, median Tmax ranged from 4 to 6 hours in patients 
+across 400 to 750 mg dose groups, and approximately 6 to 8 hours in healthy subjects. The mean 
+terminal t1/2 ranged from 31 to 41 hours across 400 to 750 mg dose groups in patients, and 36 to 
+48 hours across 450 to 750 mg dose groups in healthy subjects.  
+2.2.5.3 What are the characteristics of drug absorption? 
+Following oral administration of ceritinib, Cmax was reached approximately 4-6 hours under 
+fasting conditions. Administration of a single 500 mg dose of ceritinib with a high-fat, high-
+calorie meal in healthy subjects resulted in a 73% increase in AUC and 41% increase in Cmax as 
+compared with fasted conditions while a low-fat meal increased AUC by 58% and Cmax by 43% 
+as compared to fasted conditions. 
+An absolute bioavailability study was not conducted. Based on the mean percentage of the dose 
+recovered as metabolites in the excreta in the ADME study [A2105], a lower limit on the extent 
+of oral absorption is estimated to be approximately 25%. Given that apparent passive 
+permeability of ceritinib is low and ceritinib is a substrate for P-glycoprotein (P-gp), ceritinib 
+Reference ID: 3477231
+
+
+===== PAGE 38 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 26 of 112 
+absorption is likely limited.  
+2.2.5.4 What are the characteristics of drug distribution? 
+The geometric mean apparent volume of distribution (Vd/F) ranged from 1990 to 6230 L across 
+400 to 750 mg dose groups. Ceritinib is 97.2% bound to human plasma proteins (type of plasma 
+proteins, albumin or alpha glycoprotein, is unspecified) independent of concentration over the 
+concentration range of 50 to 10,000 ng/mL [Study 900777]. The mean blood to plasma ratio in 
+human blood in vitro is 1.35.  
+2.2.5.5 Does the mass balance study suggest renal or hepatic as the major route of 
+elimination?  
+The ADME study (A2105) in 6 healthy subjects who received a single dose of 750 mg [14C]-
+ceritinib with blood samples collected up to 336 hours and urine and feces samples collected up 
+to 384 hours post-dose, suggests hepatic as the major route of elimination. The mean recovery of 
+the administered dose was 92.3% (68% as unchanged parent compound) in the feces and 1.3% in 
+the urine (Figure 9). The major circulating component in plasma was unchanged ceritinib, which 
+constituted 81.6% of plasma radioactivity. 
+Figure 9. Mean radioactive dose recovered in urine and feces  
+after a single dose of 750 mg [14C]-ceritinib in 6 healthy subjects 
+Source: A2105 Final Study Report, Figure 11-10, Page 69 
+ 
+2.2.5.6 What are the characteristics of drug metabolism?   
+Hepatic oxidative metabolism of ceritinib is primarily mediated by CYP3A (>90%) as shown in 
+an in vitro study using human liver microsomes [Study R0900839]. The metabolic pathway in 
+humans is shown in Figure 10. 
+ 
+Reference ID: 3477231
+
+
+===== PAGE 40 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 28 of 112 
+Table 9. Components of plasma, urine, and feces after a single dose of 750 mg [14C]-ceritinib  
+in healthy subjects (n=6) 
+ 
+ 
+Mean % of total AUC in 
+plasma (Range)  
+Mean % of dose in feces 
+(Range) 
+Parent 
+81.6 (75.9-89.1) 
+68.0 (59.7-79.2) 
+M23.6 
+1.2 (0.5-2.5) 
+3.9 (1.6-5.3) 
+M26.9 
+1.1 (0.3-1.6) 
+- 
+M27.6 
+1.4 (0.1-2.7) 
+- 
+M30.4 
+- 
+2.1 (1.0-2.8) 
+M32.9 
+1.9 (0.8-5.8) 
+1.8 (1.3-2.4) 
+M33.4 
+1.6 (0.5-2.7) 
+1.4 (0.7-3.5) 
+M34.5 
+1.9 (0.1-4.5) 
+1.2 (0.6-1.7) 
+M35.8 
+1.8 (0.8-2.9) 
+6.5 (4.5-7.6) 
+M46.1 
+2.3 (1.5-3.7) 
+1.6 (0.9-2.8) 
+M46.6 
+1.7 (0.4-5.1) 
+1.1 (0.6-1.7) 
+M48.8 
+1.7 (1.1-2.2) 
+1.4 (0.9-2.1) 
+M52.0 
+2.0 (0.7-4.0) 
+2.2 (1.1-3.7) 
+Source: A2105 Final Study Report, Table 11-8, Page 61; Table 11-9, Page 65. 
+ 
+ 
+ 
+ 
+ 
+2.2.5.7 What are the characteristics of drug excretion? 
+The ADME study (A2105) showed that 92.3% (68% unchanged parent compound) of the [14C]-
+ceritinib oral dose was recovered in the feces and 1.3% in the urine. Non-metabolic elimination 
+such as biliary excretion and gastrointestinal secretion in humans cannot be ruled out. Biliary 
+excretion of unchanged ceritinib accounted for 34.9% of the intravenous dose in bile-duct 
+cannulated rats, while direct GI secretion accounted for 12.1% of the dose, indicating that 50% of 
+the clearance in rats is mediated through non-metabolism pathways [Study 900773a].   
+ 
+Elimination 
+Apparent clearance (CL/F) at steady-state (33 L/h) is lower than that after a single dose (89 L/h), 
+likely due to auto-inhibition of CYP3A. The terminal half-life (t1/2) at the 750 mg dose is 41 
+hours. 
+ 
+2.2.5.8 Based on PK parameters, what is the degree of linearity or non-linearity based in the 
+dose-concentration relationship? 
+Ceritinib exhibits nonlinear, time-dependent PK in humans. After a single dose, exposures are 
+dose proportional in the range of 50 to 750 mg with an estimated slope of 0.99 (90% CI: 0.68, 
+1.30) for AUC0-24h and 0.97 (90% CI: 0.65, 1.29) for Cmax using a power model. After repeat 
+doses of 50 to 750 mg, exposures (Ctrough on Cycle 2 Day 1) are greater than dose proportional 
+with an estimated slope of 1.47 (90% CI: 1.10, 1.84). 
+Reference ID: 3477231
+
+
+===== PAGE 41 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 29 of 112 
+2.2.5.9 How do the PK parameters change with time following chronic dosing? 
+The mean accumulation ratio for AUC0-24h is 4.7 (day 8/day 1 of cycle 1) and 6.2 (day 1 of cycle 
+2/cycle 1). Refer to Table 5 and Table 6 for single and multiple dose PK parameters, 
+respectively. 
+2.2.5.10 What is the inter- and intra-subject variability of the PK parameters in volunteers and 
+patients and what are the major causes of variability? 
+The inter-subject variability as estimated by geometric mean CV% in healthy subjects 
+administered single oral doses of 450 to 750 mg was determined to be 42-74% for AUCinf and 
+35-94% for Cmax. Inter-patient variability in steady state AUC and Cmax at the dose of 750 mg is 
+74% and 76%, respectively.  
+ 
+The population PK (popPK) analysis assessed the influence of covariates including body weight, 
+gender, race, age, hepatic function (baseline ALT, total bilirubin, albumin), renal function 
+(baseline eGFR), ECOG performance status, prior crizotinib treatment, and concomitant 
+medications (CYP3A inhibitors and inducers, pH-elevating agents). Body weight and baseline 
+albumin were found to be statistically significant covariates impacting CL/F of ceritinib. 
+However, the effects of these covariates on ceritinib PK were not considered to be clinically 
+important. 
+ 
+2.3 
+INTRINSIC FACTORS 
+2.3.1 What intrinsic factors influence exposure and/or response, and what is the impact of 
+any differences in exposure on effectiveness or safety responses? 
+No formal studies have been conducted to assess the effect of age, race, weight, height, or organ 
+dysfunction on exposure and response to ceritinib. The Applicant’s popPK analysis, verified by 
+our pharmacometrics review, did not identify clinically important effects of body weight, age, 
+gender, mild and moderate renal impairment, and mild hepatic impairment as covariates on 
+clearance or volume of distribution of ceritinib (refer to Pharmacometrics review in Section 4.1).  
+Relationship between Age and Exposure 
+The popPK analysis showed that age (<65 years, ≥65 years) is not a statistically significant 
+covariate influencing ceritinib PK. 
+Relationship between Gender and Exposure 
+The popPK analysis showed that gender is not a statistically significant covariate influencing 
+ceritinib PK. Exposures of ceritinib in women (n=170) were 12% higher than that observed in 
+men (n=132), which is not considered to be a clinically important difference requiring dose 
+modification.  
+ 
+Relationship between Race and Exposure 
+The effect of race on ceritinib PK was evaluated in Caucasian (n=197, 65.2%), Asian (n=95, 
+31.5%), Black (n=4, 1.3%), and other races (n=6, 2.0%). The popPK analysis suggested that 
+exposures were 10% higher in Asians as compared to non-Asians, most likely explained by the 
+Reference ID: 3477231
+
+
+===== PAGE 48 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 36 of 112 
+Table 15. Effect of ceritinib on P-gp-mediated Rho123 efflux (left) 
+and BCRP-mediated BDP efflux (right) 
+ 
+ 
+CsA: Cyclosporin A, positive control inhibitor of P-gp 
+ 
+Source: Report R0900229, Table 6-2, Page 16. 
+FTC: Fumitremorgin C, positive control inhibitor of 
+BCRP 
+Source: Report R0900229, Table 6-1, Page 16. 
+ 
+OATP1B1 and OATP1B3: The potential for ceritinib to inhibit OATP1B1 or OATP1B3 
+transporters was evaluated by assessing the effect of increasing concentrations of ceritinib (0.05-
+5 μM) on the accumulation of the OATP substrate, [3H]estradiol-17ß-glucuronide, and percent 
+inhibition of OATP activity in human embryonic kidney (HEK) cells in vitro [Study R1300170]. 
+Ceritinib inhibited OATP1B1 and OATP1B3 activity by 31.8% and 24.1%, respectively. The 
+IC50 values of OATP1B1 or OATP1B3 inhibition were determined to be >5 μM (concentrations 
+were limited up to 5 μM due to low solubility of ceritinib). Given that the calculated R-value is 
+<1.25 (Table 16), an in vivo DDI study with a sensitive substrate of OATP1B1 or OATP1B3 is 
+considered unnecessary.  
+ 
+Table 16. IC50 and calculated R values for ceritinib inhibition of OATP transporters 
+ 
+Transporter 
+Substrate 
+Ceritinib IC50 (μM) 
+Cmax
+a/IC50  
+R valueb               
+(1+ (fu × Iin,max/IC50)  
+OATP1B1 
+Estradiol 17β-D-
+glucuronide 
+> 5 
+< 0.36 
+1.06 
+OATP1B3 
+Estradiol 17β-D-
+glucuronide 
+> 5 
+< 0.36 
+1.06 
+a Plasma maximal steady-state concentration (Cmax) of 1010 ng/mL or 1.8 μM                                                         
+b Iin,max is the estimated maximum inhibitor concentration at the inlet to the liver and is equal to Cmax + (ka × 
+Dose × Fa Fg/Qh). Fa Fg (fraction of the dose of inhibitor which is absorbed) = 1; ka (absorption rate constant of 
+the inhibitor) = 0.1 min-1; Qh (estimated hepatic blood flow) = 1500 mL/min.  
+ 
+OAT1 and OAT3: The potential for ceritinib to inhibit organic anion transporters (OAT1 and 
+OAT3) was evaluated by assessing the effect of increasing concentrations of ceritinib (0.05-5 
+μM) on the accumulation of the OAT1 substrate ([3H]cidofovir) and the OAT3 substrate 
+([3H]estrone-3-sulfate) and percent inhibition of OAT activity in HEK cells in vitro [Study 
+R1200913]. Ceritinib inhibited OAT1 activity by 16.3% and did not inhibit OAT3 activity. The 
+Reference ID: 3477231
+
+
+===== PAGE 49 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 37 of 112 
+IC50 value of OAT1 inhibition was determined to be >5 μM (concentrations were limited up to 5 
+μM due to low solubility of ceritinib). Given that the unbound Cmax/IC50 for OAT1 is <0.1 and 
+ceritinib did not inhibit OAT3 (Table 17), an in vivo DDI study with a sensitive substrate of 
+OAT1 or OAT3 is considered unnecessary. 
+ 
+Table 17. IC50 and calculated unbound Cmax/IC50 values for ceritinib inhibition of OAT and OCT 
+transporters 
+ 
+Transporter 
+Substrate 
+Ceritinib IC50 (μM) 
+Unbound Cmax
+a/IC50  
+OAT1 
+Cidofovir 
+> 5 
+< 0.01 
+OAT3 
+Estrone-3-sulfate 
+NDb 
+- 
+OCT1 
+MPP+ 
+NDb 
+- 
+OCT2 
+Metformin 
+> 5 
+< 0.01 
+a Cmax of 1.8 μM; 3% unbound ceritinib - unbound Cmax of 0.05 μM                                              
+b Not determined; ceritinib did not inhibit transporter in vitro 
+ 
+OCT1 and OCT2: The potential for ceritinib to inhibit OCT1 and OCT2 was evaluated by 
+assessing the effect of increasing concentrations of ceritinib (0.05-5 μM) on the accumulation of 
+the OCT1 substrate ([3H]MPP+) and the OCT2 substrate ([14H]metformin) and percent inhibition 
+of OCT activity in HEK cells in vitro [Study R1300023]. Ceritinib inhibited OCT2 activity by 
+35.4% and did not inhibit OCT1 activity. The IC50 value of OCT2 inhibition was determined to 
+be >5 μM (concentrations were limited up to 5 μM due to low solubility of ceritinib). Given that 
+the unbound Cmax/IC50 for OCT2 is <0.1 and ceritinib did not inhibit OCT1 (Table 17), an in 
+vivo DDI study with a sensitive substrate of OCT1 or OCT2 is considered unnecessary. 
+Inducer 
+There are no in vitro studies to evaluate ceritinib as an inducer of transporters. 
+2.4.2.5 Are there other metabolic/transporter pathways that may be important? 
+Ceritinib is a P-gp and BCRP substrate in vitro; however their contribution to ceritinib 
+absorption is considered limited. Ceritinib is not a substrate for the hepatic uptake transporters 
+OCT1, OAT2, OATP1B1, and OATP2B1. 
+ 
+Ceritinib is a P-gp substrate in vitro as the net flux ratio is ≥2 (182 at 3.0 μM and 19.5 at 14 μM 
+ceritinib) in Caco-2 cells and LY335979 (a P-gp inhibitor) reduced the efflux ratio (>50%) to 
+approximately 6 at both 3.0 and 14 μM [Study R1000083]. Sensitivity analyses of effective 
+permeability (Peff) were conducted during the PBPK review to determine P-gp contribution to 
+oral absorption of ceritinib. If the intestinal efflux transporter P-gp significantly contributed to 
+the oral absorption of ceritinib, an inhibition of P-gp would result in increased Peff of ceritinib. 
+Sensitivity analyses showed that an increase in Peff led to a similar increase of AUC and Cmax 
+with a 50% increase in Peff resulting in 34% and 36% increase in ceritinib AUC and Cmax, 
+respectively, and a 2-fold increase in Peff resulting in 61% and 66% increase in ceritinib AUC and 
+Reference ID: 3477231
+
+
+===== PAGE 50 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 38 of 112 
+Cmax, respectively.  
+ 
+The in vivo DDI study showed that ketoconazole (a strong CYP3A4/P-gp inhibitor) 
+coadministration resulted in an increase of ceritinib AUC and Cmax that was not in the same 
+magnitude (2.8-fold in AUC and 22% in Cmax). These simulation and in vivo results suggest that 
+ketoconazole did not increase Peff or affect intestinal efflux transport of ceritinib. Given that the 
+observed effect of ketoconazole on ceritinib exposure is most likely due to CYP3A inhibition and 
+not P-gp inhibition, an in vivo DDI study with a P-gp inhibitor is considered unnecessary.   
+ 
+Ko143 (a BCRP inhibitor) had a smaller effect on the reduction of efflux ratio to 121 at 3 μM 
+ceritinib, indicating that an in vivo DDI study with a BCRP inhibitor is not necessary.  
+Ceritinib is not a substrate for the hepatic uptake transporters OCT1, OAT2, OATP1B1 and 
+OATP2B1 as shown by <2-fold uptake in cells expressing transporters as compared to control 
+cells [Study R1000482] (Table 18).  
+Table 18. Transport of ceritinib by OCT1, OAT2, OATP1B1, OATP2B1 
+ 
+Source: Report R1000482, Table 5-2, Page 13.  
+ 
+2.4.2.6 Does the label specify co-administration of another drug and, if so, has the interaction 
+potential between these drugs been evaluated? 
+No, ceritinib is recommended as monotherapy for this marketing application. 
+2.4.2.7 What other co-medications are likely to be administered to the target population? 
+Concomitant medications used by ≥20% of the 304 patients (NSCLC, n=290 and non-NSCLC, 
+n=14) treated with any dose of ceritinib in the clinical trial included anti-diarrheal therapy 
+(primarily loperamide, 55%), antiemetics (metoclopramide, 37%), serotonin (5HT3) antagonists 
+(ondansetron, 38%), glucocorticoids (primarily dexamethasone and prednisone, 39%), opioids 
+(primarily oxycodone and morphine, 37%), proton pump inhibitors (PPI, primarily omeprazole 
+and pantoprazole, 30%), acetaminophen (33%), laxatives (primarily lactulose, polyethylene 
+glycol, and magnesium oxide, 24%), benzodiazepines (primarily lorazepam, 22%), and 
+fluoroquinolones (primarily levofloxacin, 22%).  
+Coadministration of gastric acid reducing agents such as PPIs may lead to decreased drug 
+absorption, leading to decreased effectiveness of ceritinib as ceritinib exhibits pH-dependent 
+Reference ID: 3477231
+
+
+===== PAGE 51 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 39 of 112 
+solubility (refer to Section 2.1.1). Concomitant administration of acid reducing agents (e.g., H2-
+receptor antagonists and PPIs) was significantly associated with a decrease in the absorption rate 
+(ka) of ceritinib in the popPK analysis, while exposures were similar in patients who received 
+PPIs as compared to that in patients who did not receive PPIs (Figure 11). However, these 
+analyses are limited and should be interpreted in the context that the timing of coadministration 
+of a PPI was not taken into consideration in the PK sampling plan. Given that approximately 
+30% of patients in the clinical trial received PPIs, an appropriate dosing strategy with regard to 
+gastric acid reducing agents should be determined. A PMR will be requested to conduct a clinical 
+trial to determine how to dose ceritinib with regard to concomitant gastric acid reducing agents 
+(refer to Section 1.2.1).  
+Figure 11. Effect of PPI coadministration on ceritinib steady-state exposure  
+(AUC on cycle 2 day 1) 
+ 
+ 
+ 
+2.4.2.8 Are there any in vivo drug-drug interaction studies that indicate the exposure alone 
+and/or exposure-response relationships are different when drugs are co-administered?  
+Yes. Coadministration of ketoconazole (a strong CYP3A inhibitor) 200 mg twice daily  for 14 
+days and a single dose of 450 mg ceritinib increased ceritinib AUC by 2.9-fold (90% CI: 2.5, 3.3) 
+and Cmax by 22% (90% CI: 7.0%, 39%) in 19 healthy subjects. Coadministration of rifampin (a 
+strong CYP3A inducer) 600 mg QD for 14 days and a single dose of 750 mg ceritinib decreased 
+ceritinib AUC by 70% (90% CI: 61%, 77%) and Cmax by 44% (90% CI: 24%, 59%) in 19 healthy 
+subjects. 
+ 
+DDI with Strong CYP3A Modulators  
+The effect of ketoconazole (a strong CYP3A inhibitor) on ceritinib PK was evaluated in a single 
+dose, two period crossover study in 19 healthy subjects under fasted conditions (Study 2104). 
+Coadministration of ketoconazole 200 mg twice daily for 14 days with a single dose of 450 mg 
+ceritinib increased ceritinib AUC by 2.9-fold and Cmax by 22% as compared to ceritinib alone 
+(Table 19). Clearance (CL/F) of ceritinib decreased by 65% from 78.1 L/h to 27.1 L/h with 
+coadministration of ketoconazole.  
+Reference ID: 3477231
+
+
+===== PAGE 52 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 40 of 112 
+Table 19. Comparative analysis of ceritinib PK parameters  
+on day 1 (without ketoconazole) and day 18 (with ketoconazole) (n=19) 
+ 
+ 
+Exposure parameter 
+Geometric Mean Ratio* (90% CI) 
+Ceritinib alone (450 
+mg) 
+ Ceritinib (450 mg) 
+with ketoconazole (200 
+mg BID for 14 days) 
+Geometric Mean 
+Ratio* (90% CI) 
+AUC0-336h (ng∙hr/mL) 
+5640 (44.3) 
+n=18 
+16300 (47.0) 
+n=19 
+2.86  
+(2.45-3.34) 
+AUC0-inf (ng∙hr/mL) 
+5760 (43.4) 
+n=18 
+16600 (47.2) 
+n=19 
+2.86  
+(2.46-3.33) 
+Cmax (ng/mL) 
+133 (34.9) 
+n=18 
+164 (40.3) 
+n=19 
+1.22  
+(1.07-1.39) 
+* ceritinib 450 mg alone vs. ceritinib 450 mg and ketoconazole 200 mg BID for 14 days 
+ 
+The effect of rifampin (a strong CYP3A inducer) on ceritinib PK was evaluated in a single dose, 
+two period crossover study in 19 healthy subjects under fasted conditions (Study 2106). 
+Coadministration of rifampin 600 mg QD for 14 days with a single dose of 750 mg ceritinib 
+decreased ceritinib AUC by 70% and Cmax by 44% (Table 20). Clearance (CL/F) of ceritinib 
+increased by 3.3-fold from 70.6 L/h to 234 L/h with coadministration of rifampin. 
+ 
+Reference ID: 3477231
+
+
+===== PAGE 53 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 41 of 112 
+Table 20. Comparative analysis of ceritinib AUC and Cmax  
+on day 1 (without rifampin) and day 21 (with rifampin) (n=19) 
+ 
+ 
+Exposure 
+parameter 
+Geometric Mean Ratio* (90% CI) 
+Ceritinib alone (750 
+mg) 
+ Ceritinib (750 mg) with 
+rifampin (600 mg QD for 
+14 days) 
+Geometric Mean Ratio* 
+(90% CI) 
+AUC0-168h (ng∙hr/mL) 
+10100 (74.2) 
+n=17 
+3130 (87.8) 
+n=17 
+0.31  
+(0.24-0.40) 
+AUC0-inf (ng∙hr/mL) 
+10600 (72.1) 
+n=17 
+3210 (85.4) 
+n=17 
+0.30  
+(0.23-0.39) 
+Cmax (ng/mL) 
+219 (93.6) 
+n=17 
+122 (85.1) 
+n=17 
+0.56  
+(0.41-0.76) 
+* ceritinib 750 mg alone vs. ceritinib 750 mg and rifampin 600 mg QD for 14 days 
+ 
+Given that the drug-drug interaction studies were conducted using single doses of ceritinib, the 
+magnitude of the effect of strong CYP3A modulators on the steady-state PK of ceritinib after 
+repeat dosing in patients is unknown due to nonlinear, time-dependent PK of ceritinib. PBPK 
+modeling predicted that ketoconazole can increase the steady-state ceritinib exposure (AUC) by 
+51% and that rifampin can decrease steady-state AUC by 67%. Given the magnitude of exposure 
+change in the context of the exposure-response curves for safety and effectiveness observed with 
+ceritinib (refer to Section 2.2.4.1 and 2.2.4.2), the following recommendations are provided with 
+regard to concomitant use of strong CYP3A inhibitors:     
+• Avoid concomitant use of strong CYP3A inhibitors with ceritinib.  
+• If avoiding concomitant strong CYP3A inhibitors is not possible, the ceritinib dose 
+should be reduced by approximately one-third, rounded to the nearest 150 mg dosage 
+strength. After discontinuation of the strong CYP3A inhibitor, the ceritinib dose that was 
+taken prior to initiating the strong CYP3A4 inhibitor should be resumed.  
+ 
+With regard to concomitant administration of strong CYP3A inducers, the recommendation is 
+avoidance of concurrent use of strong CYP3A inducers. In order to compensate for the 70% 
+decrease in exposure caused by a strong CYP3A inducer, approximately 8-9 capsules would have 
+to be administered to achieve a dose of 1275 mg ceritinib, which is likely not feasible for 
+patients.   
+ 
+DDI with Moderate CYP3A Modulators 
+PBPK modeling predicted that fluconazole, a moderate CYP3A4 inhibitor, can increase ceritinib 
+exposure by 37% and efavirenz, a moderate CYP3A4 inducer, can decrease ceritinib exposure by 
+43% (Table 21). A clinical trial to further evaluate the effect of a moderate CYP3A4 inhibitor or 
+Reference ID: 3477231
+
+
+===== PAGE 54 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 42 of 112 
+inducer on ceritinib PK is considered unnecessary given the magnitude of predicted changes in 
+steady-state exposures after coadministration with a moderate CYP3A4 inhibitor and inducer. It 
+is not recommended to restrict the concomitant use of moderate CYP3A4 inhibitors and 
+inducers. 
+Table 21. PBPK model simulated ceritinib steady-state AUC and Cmax  
+following coadministration of ceritinib 750 mg daily with CYP3A modulators 
+ 
+ 
+Sponsor’s model 
+FDA’s model 
+Dosing of CYP3A modulators 
+AUC Ratio 
+(90% CI) 
+Cmax Ratio 
+(90% CI) 
+AUC Ratio 
+(90% CI) 
+Cmax Ratio 
+(90% CI) 
+ 
+Strong CYP3A inhibitor 
+ketoconazole 200 mg twice daily 
+ 
+1.35  
+(1.27, 1.42) 
+ 
+ 
+1.32  
+(1.26, 1.39) 
+ 
+ 
+1.51 
+(1.43, 1.59) 
+ 
+1.47 
+(1.40, 1.54) 
+ 
+Moderate CYP3A inhibitor 
+fluconazole 200 mg once daily 
+ 
+1.15  
+(1.12, 1.19) 
+ 
+ 
+1.14  
+(1.11, 1.17) 
+ 
+ 
+1.37 
+(1.31, 1.42) 
+ 
+1.32 
+(1.28, 1.37) 
+ 
+Strong CYP3A inducer rifampin 600 
+mg once daily 
+ 
+0.51  
+(0.45, 0.57) 
+ 
+ 
+0.54 
+(0.49, 0.60) 
+ 
+ 
+0.33 
+(0.30, 0.36) 
+ 
+0.37 
+(0.34, 0.40) 
+ 
+Moderate CYP3A inducer efavirenz 
+600 mg once daily  
+ 
+NA 
+ 
+NA 
+ 
+0.57 
+(0.52, 0.62) 
+ 
+ 
+0.61 
+(0.56, 0.65) 
+ 
+Source: PBPK review, Table A6. 
+ 
+2.4.2.9 Is there a known mechanistic basis for pharmacodynamic drug-drug interactions? 
+No. Pharmacodynamic data were not collected in the clinical study.  
+2.4.2.10 Are there any unresolved questions related to metabolism, active metabolites, metabolic 
+drug interactions or protein binding? 
+The Applicant is requested to conduct DDI studies with CYP3A and CYP2C9 sensitive 
+substrates and gastric acid reducing agents under PMRs. Refer to Section 1.2.1. 
+2.4.3 What issues related to dose, dosing regimens, or administration are unresolved and 
+represent significant omissions?  
+Refer to Section 2.2.4.4 on unresolved dosing and administration issues with regard to GI 
+intolerability.   
+2.5 
+GENERAL BIOPHARMACEUTICS 
+2.5.1 Based on BCS principles, in what class is this drug and formulation? What 
+solubility, permeability and dissolution data support this classification? 
+The Applicant classifies ceritinib as BCS class 4 based on data showing that ceritinib has low 
+permeability in Caco-2 cells [Study R1000083] and poor aqueous solubility (refer to Section 
+2.1.1). The apparent passive permeability of ceritinib in the presence of LY335979 (a P-gp 
+Reference ID: 3477231
+
+
+===== PAGE 56 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 44 of 112 
+At the recommended dose of 750 mg QD, the majority of patients experienced GI adverse 
+reactions. Taking ceritinib with food may improve GI tolerability, but would increase exposures. 
+Administration of a single 500 mg dose of ceritinib with a high-fat, high-calorie meal in healthy 
+subjects resulted in a 73% increase in AUC and 41% increase in Cmax with no effect on tmax as 
+compared with fasted conditions; a low-fat meal increased AUC by 58% and Cmax by 43% and 
+decreased tmax by a median of 2 hours as compared to fasted conditions (Table 23).   
+ 
+Table 23. PK parameters of a single dose of ceritinib after a high-fat or a low-fat meal compared to 
+fasted conditions 
+ 
+ 
+Geometric Mean (%CV) 
+Geometric Mean Ratio (90% CI) 
+PK Parameter 
+High-fat high-
+calorie meal 
+(n=14) 
+Low-fat low-
+calorie meal 
+(n=14) 
+Fasted 
+(n=27) 
+High-fat/fed 
+Low-fat/fed 
+AUCinf 
+12002 (32) 
+10941 (23) 
+6929 (42) 
+1.73 (1.46,  2.05) 
+1.58 (1.34, 1.86) 
+AUC0-168h 
+11419 (32) 
+10564 (23) 
+6650 (42) 
+1.71 (1.45, 2.03) 
+1.59 (1.35, 1.87) 
+Cmax 
+225 (29) 
+229 (20) 
+160 (44) 
+1.41 (1.18, 1.68) 
+1.43 (1.21, 1.71) 
+Source: Study 2101 final study report, Table 11-3, Page 48; Listing 16.2.6-1.1, Pages 555-558 
+ 
+In order to determine an exposure-matched dose of ceritinib taken with food to improve GI 
+tolerability and compliance without compromising efficacy, a postmarketing trial will be 
+requested to evaluate the GI tolerability, efficacy, and PK of 450 mg of ceritinib taken with a 
+meal as compared with that of 750 mg ceritinib taken in the fasted state in metastatic ALK-
+positive NSCLC patients. Refer to Section 2.2.4.4.  
+2.5.4 When would a fed BE study be appropriate and was one conducted?  
+Not applicable.  
+2.5.5 How do dissolution conditions and specifications ensure in vivo performance and 
+quality of the product? 
+Refer to Biopharmaceutics review.  
+2.5.6 If different strength formulations are not bioequivalent based on standard criteria, 
+what clinical safety and efficacy data support the approval of various strengths of 
+the to-be-marketed product?  
+Not applicable as only one strength of 150 mg capsules will be marketed. Refer to CMC review.  
+2.5.7 If the NDA is for a modified release formulation of an approved immediate product 
+without supportive safety and efficacy studies, what dosing regimen changes are 
+necessary, if any, in the presence or absence of PK-PD relationship? 
+Not applicable.  
+ 
+Reference ID: 3477231
+
+
+===== PAGE 82 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 70 of 112 
+1.2.3 Based on population PK analyses, what covariates affect the systemic exposure of 
+ceritinib? 
+Based on the applicant’s population PK analyses, no covariates (including age, gender, race, and 
+body weight, etc) are considered clinically important. Therefore, no dose adjustments are needed 
+for these covariates.  
+The final population PK model of ceritinib was described by a one-compartment model with 
+delayed first-order absorption and time-dependent elimination by allowing clearance to decrease 
+stepwise over time. The final population PK model contained effect of body weight and baseline 
+albumin on apparent clearance CL/F, body weight on apparent volume of distribution V/F, and 
+concomitant use of H2 receptor antagonists (H2RA) or proton pump inhibitors (PPI) on the 
+absorption rate constant (ka) (Figure 11). Among all the significant covariates included in the 
+final model, body weight had the largest effect on ceritinib PK. The incorporation of these 
+covariates led to the slight decrease in inter-individual variability (IIV) for CL/F (from 36.0% to 
+33.9%) and ka (from 86.4% to 84.0%) compared to the base model.  
+The proposed flat dose of 750 mg once daily is acceptable, as the exploratory analyses suggested 
+that body size has no clinically relevant impact on PK. The predicted AUCss in patients with 
+lower body weight (< 60 kg) was 1.20-fold (90% CI: 1.05-1.37) higher than the reference 
+population (body weight 60-80 kg). The AUCss in patients with higher body weight (> 80 kg) 
+was 0.85-fold (90% CI: 0.73-0.98) lower. 
+The effect on the systemic exposure of LDK378 of baseline liver function (classified based on 
+the NCI-ODWG criteria) was also evaluated. The AUCss of LDK378 in patients with mild 
+hepatic impairment (N=48) was similar to the AUCss in patients with normal hepatic function 
+(N=254). 
+Renal function was not retained as a covariate in the final population PK model (Figure 12). The 
+AUCss in patients with mild or moderate renal impairment were predicted to have a 1.09-fold 
+(90% CI: 0.97-1.25) and 1.19-fold (90% CI: 0.95-1.49) increase in AUCss compared to patients 
+with normal renal function. 
+Reference ID: 3477231
+
+
+===== PAGE 86 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 74 of 112 
+impairment has not been conducted. Based on a 
+population pharmacokinetic analysis of 48 patients 
+with mild hepatic impairment (total bilirubin 
+≤ULN and AST >ULN or total bilirubin >1.0 to 
+1.5 × ULN and any AST) and 254 patients with 
+normal hepatic function (total bilirubin ≤ULN and 
+AST ≤ULN), ceritinib exposures were similar in 
+patients with mild hepatic impairment and normal 
+hepatic function. The pharmacokinetics of ceritinib 
+have not been studied in patients with moderate or 
+severe hepatic impairment [see Use in Specific 
+Populations (8.6)].  
+Renal impairment: A pharmacokinetic trial in 
+patients with renal impairment has not been 
+conducted as ceritinib elimination via the kidney is 
+low (1.3% of a single oral administered dose). 
+Based on a population pharmacokinetic analysis of 
+97 patients with mild renal impairment (CLcr 60 to 
+<90 mL/min), 22 patients with moderate renal 
+impairment (CLcr 30 to <60 mL/min) and 183 
+patients with normal renal function (≥90 mL/min), 
+ceritinib exposures were similar in patients with 
+mild and moderate renal impairment and normal 
+renal function. Patients with severe renal 
+impairment (CLcr <30 mL/min) were not included 
+in the clinical trial.   
+Reference ID: 3477231
+(b) (4)
+
+
+===== PAGE 89 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 77 of 112 
+distributed random variable with zero mean and variance ω2. The IIV is reported as approximate 
+percent coefficient of variation (%CV), calculated as: 
+ 
+• Residual error model 
+Residual variability was described by a combined proportional and additive error model: 
+ 
+where Yij denotes the observed ceritinib concentration for the ith individual at time tj, Ŷij denotes 
+the corresponding predicted concentration based on the PK model, w is the standard deviation of 
+ceritinib concentration in plasma, and εij denotes the intraindividual (residual) random variable, 
+which is assumed to have zero mean and variance 1. W is parameterized in terms of proportional 
+(θprop) and additive (θadd) components. 
+Full model development 
+Full model development proceeded by a heuristic, minimal backwards elimination process. First, 
+all PK-covariate relationships listed in Table 4-1 were included in the full model as they were 
+considered to be relevant based on clinical and pharmacological judgment and collinearity of 
+covariates. Then some of these PK-covariate relationships were eliminated if the estimates of 
+covariate parameters appeared to be very weak and/or pharmacological implausible. 
+ 
+Final model development 
+The final model was developed from the full model by stepwise backward elimination. Covariate 
+effects were subjected to a backward elimination algorithm using the likelihood ratio test (based 
+on differences in the NONMEM objective function values, ΔOFV) to assess the significance of 
+their effects when excluded one at a time. 
+2.1.3 Results  
+The population PK of ceritinib was described by a one-compartment model with delayed first-
+order absorption and time-dependent elimination that could be described by auto-inhibition or 
+more heuristically but more parsimoniously, by allowing clearance to decrease stepwise over 
+time. 
+The final model contained effect of body weight and baseline albumin on apparent clearance 
+CL/F, body weight on apparent volume of distribution V/F, and concomitant use of H2 receptor 
+antagonists (H2RA) or proton pump inhibitors (PPI) on the absorption rate constant (ka). 
+Model-based simulation results showed that body weight has the largest effect on ceritinib 
+exposure. The AUCss in patients with body weight <60 kg was estimated to be 1.20-fold higher 
+than in the reference population with body weight 60-80 kg (90% prediction interval (PI): 1.05-
+1.37). However, this magnitude of exposure increase was not considered to be clinically relevant. 
+Reference ID: 3477231
+
+
+===== PAGE 112 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 100 of 112 
+3.3. Additional PBPK modeling and simulations 
+Both Sponsor’s and FDA’s models assumed first-order absorption for ceritinib (Appendix Table 
+A2 and sources for input parameters therein).  The reviewer expanded FDA’s model by using the 
+software’s “Advanced Dissolution, Absorption, and Metabolism (ADAM)” model. Input 
+parameters describing various processes responsible for oral absorption are summarized in 
+Appendix Table A3.  The following scenarios were explored using the updated FDA’s model: 
+1. Sensitivity of ceritinib exposure to changes in effective permeability (Peff) 
+2. Food effect 
+3. Sensitivity of ceritinib exposure to changes in gastric pH 
+Reference ID: 3477231
+
+
+===== PAGE 113 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 101 of 112 
+4. RESULTS 
+4.1. Update of Sponsor’s model by incorporating a lower CYP3A inactivation potency  
+Sponsor’s model directly incorporated microsomal time-dependent CYP3A inhibition parameters 
+and predicted geometric mean AUC that was 26% higher than the observed value under the 
+multiple dose condition.  The direct use of microsomal TDI parameters in PBPK models may 
+result in over-prediction of the inhibition potential in vivo [11].  Crizotinib, another ALK 
+inhibitor, is a substrate and a TDI of CYP3A.  Crizotinib demonstrated nonlinear 
+pharmacokinetics in humans.  In addition, exposure of CYP3A substrate midazolam was 
+increased in cancer patients taking crizotinib.  PBPK model of crizotinib including microsomal 
+CYP3A TDI parameters significantly over-predicted crizotinib exposure at steady state and the 
+magnitude of interaction with midazolam.  In comparison, TDI parameters generated in 
+hepatocytes suggested less potent time-dependent CYP3A inhibition by crizotinib, and 
+simulation using PBPK model including hepatocyte TDI parameters reasonably described in vivo 
+data [11].   
+The reviewers modified Sponsor’s ceritinib model by decreasing the potency of CYP3A TDI.  
+Prediction of the geometric mean AUC of ceritinib after both single dose and multiple dose 
+administration appears to be closer using the FDA’s model (Appendix Table A4).   
+4.2. PBPK model prediction of ceritinib exposure change when ceritinib is co-administered with 
+CYP3A inhibitors or inducers 
+a. Simulation of the effect of strong CYP3A inhibitor and inducer – model verification 
+Both Sponsor’s model and FDA’s model were verified using clinical drug-drug interaction data 
+when single oral dose ceritinib was co-administered with a strong CYP3A inhibitor 
+ketoconazole, or a strong CYP3A inducer rifampin.  As shown in Table 2, the predicted 
+geometric mean AUC ratios of ceritinib (AUCR, with/without an interacting drug) by 
+ketoconazole were 2.23 and 2.44 for Sponsor’s model and FDA’s model, respectively; the 
+observed AUCR was 2.86.   The predicted geometric mean AUCR values of ceritinib by rifampin 
+were 0.33 and 0.33 for Sponsor’s model and FDA’s model, respectively; the observed AUCR 
+was 0.31. Simulation of the effect on ceritinib AUC by ketoconazole appears to be closer to the 
+observed data using FDA’s model (see b below).   
+ 
+Reference ID: 3477231
+
+
+===== PAGE 114 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 102 of 112 
+Table 2. PBPK model simulated and observed exposure changes of ceritinib (AUC and Cmax) after a 
+single oral dose of 450 mg by ketoconazole (200 mg b.i.d.) or after a single oral dose of 750 mg by 
+rifampin (600 mg q.d.).  Values are geometric mean. The observed values and predictions using 
+sponsor’s model were obtained from [1]. 
+ 
+ 
+Observed 
+Prediction using 
+Sponsor’s model 
+Prediction using 
+FDA’s model 
+Exposure ratio with/without ketoconazole 
+AUC 
+2.86 
+2.23 
+2.44  
+Cmax 
+1.22 
+1.28 
+1.31  
+Exposure ratio with/without rifampin 
+AUC 
+0.31 
+0.33 
+0.33 
+Cmax 
+0.56  
+0.62 
+0.61 
+ Geometric mean and 90% confidence interval can be found in Appendix Table A5. 
+b. Simulation of the effect of CYP3A inhibitor and inducer under situations that have not 
+been tested in clinical studies 
+ 
+Both Sponsor’s and FDA’s models were used to predict several untested clinical drug-drug 
+interaction scenarios, and the results are shown in Table 3 and Table 4.  Overall, sponsor’s 
+model considering stronger TDI of CYP3A appears to predict smaller magnitude of interaction 
+by CYP3A inhibitors or inducers.  FDA reviewer also conducted simulation to explore the effect 
+of a moderate CYP3A inducer efavirenz (600 mg q.d.) on the exposure of ceritinib. 
+ 
+Table 3. PBPK model simulated steady state exposure changes of ceritinib (AUC and Cmax) after 750 
+mg q.d. by various CYP3A modulators. Values are geometric mean 
+ 
+Sponsor’s model 
+FDA’s model 
+Dosing of modulators 
+AUC Ratio 
+Cmax Ratio 
+AUC Ratio 
+Cmax Ratio 
+Strong CYP3A inhibitor ketoconazole 
+200 mg b.i.d. [1] 
+1.35  
+1.32  
+1.51 
+1.47 
+Moderate CYP3A inhibitor 
+fluconazole 200 mg q.d. [2] 
+1.15  
+1.14  
+1.37 
+1.32 
+ 
+ 
+ 
+ 
+ 
+Strong CYP3A inducer rifampin 600 
+mg q.d. [1] 
+0.51  
+0.54 
+0.33 
+0.37 
+Moderate CYP3A inducer efavirenza 
+600 mg q.d. 
+NA 
+NA 
+0.57 
+0.61 
+aFDA in house database.  NA: not applicable 
+Geometric mean and 90% confidence interval can be found in Appendix Table A6. 
+Besides the evaluation using recommended dose regimen of 750 mg ceritinib q.d. (Table 3), the 
+FDA’s model was used to simulate the effect of strong CYP3A inhibitor ketoconazole on steady 
+state ceritinib exposure when the ceritinib was given once daily at lower doses.  The results are 
+shown in Table 4. It appears that the steady state ceritinib exposure at 450 mg q.d. 
+coadministered with ketoconazole is similar to the exposure at 750 mg q.d. without 
+ketoconazole; and the steady state ceritinib exposure at 300 mg q.d. coadministered with 
+ketoconazole is similar to the exposure at 450 mg or 600 mg q.d. without ketoconazole.  These 
+findings suggested that in order to match steady state ceritinib exposure in subjects who have to 
+Reference ID: 3477231
+
+
+===== PAGE 115 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 103 of 112 
+take a strong CYP3A inhibitor concomitantly, subjects on 750 mg q.d. ceritinib regimen may 
+have their doses reduced to 450 mg, and subjects on 450 or 600 mg q.d. ceritinib regimen may 
+have their doses reduced to 300 mg. 
+ 
+Table 4. PBPK model simulated steady state ceritinib exposure (AUC and Cmax) when different doses 
+of ceritinib (q.d.) are coadministered ketoconazole (200 mg b.i.d.).  Values are geometric mean. 
+Steady state ceritinib exposure 
+Ceritinib dose (once daily) 
+300 mg 
+450 mg 
+600 mg 
+750 mg 
+ AUC 
+(ng/mL.h) 
+Without ketoconazole  
+4777 
+8115 
+11936 
+16140 
+ With ketoconazole 
+9817 
+14969 
+20181 
+25433 
+Cmax 
+(ng/mL) 
+Without ketoconazole  
+209 
+353 
+518 
+699 
+ With ketoconazole 
+420 
+640 
+862 
+1086 
+Note in this simulation ketoconazole was given for 23 days starting day 22.  Ceritinib was given 44 days (See 
+Methods 3.2). 
+4.3. PBPK model prediction of the effect of ceritinib on the exposure of CYP3A substrate 
+midazolam 
+The effect of ceritinib on midazolam exposure was predicted using PBPK models.  As shown in 
+Table 5, both sponsor’s model and FDA’s model predicted much greater magnitudes of 
+interaction when ceritinib was administered to steady state as compared to single dose ceritinib.  
+When a single dose ceritinib was co-administered with a single oral dose of midazolam, the AUC 
+increased by approximately 30%; when ceritinib was dosed to steady state, the exposure 
+increases of a single oral midazolam were approximately 12 and 6-fold, using sponsor’s model 
+and FDA’s model, respectively.   
+ 
+Table 5. PBPK simulations of exposure changes of midazolam after single oral 5 mg dose by ceritinib 
+(after single and multiple dosing of 750 mg).  Values are geometric mean. 
+Midazolam 
+Ceritinib Treatment 
+Sponsor’s model 
+FDA’s model 
+AUCR 
+CmaxR 
+AUCR 
+CmaxR 
+Single dose, 5 
+mg 
+750 mg  single dose 
+1.45 
+1.11 
+1.34 
+1.10 
+Single dose, 5 
+mg 
+750 mg q.d. to steady 
+state 
+11.8 
+2.90 
+5.84 
+2.38 
+Geometric mean and 90% confidence interval can be found in Appendix Table A7. 
+ 
+4.4. Predicting ceritinib PK in subjects with hepatic impairment 
+Sponsor’s model predicted geometric mean exposure ratio (AUC ratio, hepatic impairment 
+versus healthy subjects) of 1.09, 1.14, and 1.16-fold in mild, moderate, and severe hepatic 
+impaired patients, respectively.  Sponsor also assumed that the non-CYP3A4 pathway of 
+Reference ID: 3477231
+
+
+===== PAGE 116 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 104 of 112 
+ceritinib was minimally affected by hepatic impairment [4].   
+ 
+4.5. Additional simulations to evaluate the effect on oral absorption of ceritinib  
+Ceritinib is a substrate of P-glycoprotein (P-gp) and the efflux transport of ceritinib in Caco-2 
+cells appeared to be dependent on ceritinib concentration [12].  Ceritinib has a low solubility.  In 
+humans, low fat and high fat meals increased ceritinib Cmax and AUC by 41-41% and 58-71%, 
+respectively.  In order to evaluate the effect of various factors on ceritinib absorption, the 
+reviewer expanded FDA’s model, which includes TDI of CYP3A, by considering mechanistic 
+oral drug absorption processes (Appendix Table 3).  The updated FDA’s model was used to 
+simulate the pharmacokinetics of ceritinib after single oral dose of 450 mg and 750 mg.  Except 
+for an apparent over prediction (33%) of AUC after single dose 450 mg, the updated FDA’s 
+model largely described the observed data, with predicted geometric mean AUC and Cmax 
+within 25% deviation from the observed values.  Given the limited pharmacokinetic data and a 
+short review timeline, the reviewer did not further optimize the updated FDA’s model.  The 
+subsequent analyses of the factors affecting oral absorption of ceritinib should be considered 
+exploratory. 
+a. Sensitivity analysis of apparent permeability (Peff) 
+A 50% increase in Peff (from default value of 2x10-4 cm/s, Appendix Table A3, to 3x10-4 cm/s) 
+results in 36 and 34% increase in Cmax and AUC of ceritinib, respectively; a 2-fold increase in 
+Peff (to 4x10-4 cm/s) results in 66 and 61% increase in Cmax and AUC of ceritinib, respectively  
+The parallel increase in both Cmax and AUC seems to be consistent with the effect of increased 
+fraction absorbed (Fa) when apparent Peff is increased.  If intestinal efflux transporter (such as P-
+gp) significantly contributes to the oral absorption of ceritinib, an inhibition of P-gp will result in 
+an increase in apparent Peff for ceritinib, and one would expect a similar magnitude of increase in 
+AUC and Cmax.  These simulations appear to support minimal effect of ketoconazole on 
+intestinal efflux transport of ceritinib, because co-administration with ketoconazole resulted in 
+28% and 2.8-fold increase in the Cmax and AUC of ceritinib, respectively.  Together, the 
+observed effect of ketoconazole on ceritinib exposure can be largely explained by CYP3A 
+inhibition. 
+b. Sensitivity analysis of gastric pH  
+When the default value of gastric pH of 1.5 (Appendix Table A3) in the updated FDA’s model 
+was increased to 7, Cmax and AUC of ceritinib after a single oral dose of 750 mg decreased by 
+10%, respectively.     
+c. Food effect 
+The updated FDA’s model was further used to evaluate the effect of food.  First, the default “fed” 
+condition was selected to conduct simulation of ceritinib at single oral dose of 500 mg. The 
+geometric mean Cmax and AUC increased by 38 and 34%, respectively.  In comparison in 
+healthy subjects taking the same dose, low fat and high fat meal increased ceritinib Cmax by 43 
+and 41%, respectively; low fat and high fact meals increased ceritinib AUC by 58 and 73%, 
+respectively [7].  Although food effect on Cmax appears to be reasonably predicted using the 
+updated FDA’s model of ceritinib, the effect on AUC appears to be under-predicted, which 
+requires further investigation.   
+Reference ID: 3477231
+
+
+===== PAGE 117 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 105 of 112 
+The reviewer also explored the effect of food on the exposure of ceritinib after 600 mg q.d. 
+dosing.  The results are shown in Table 6. At steady-state, food increased ceritinib Cmax and 
+AUC by 68% and 67%, respectively, after multiple dosing of 600 mg (q.d.) ceritinib.  The model 
+predicted Cmax and AUC under fed condition appear comparable to the observed ceritinib 
+exposure after 750 mg (q.d.) without food.   
+ 
+Table 6. Model simulated exposure of ceritinib (AUC and Cmax) after multiple oral doses (q.d.) of 600 
+mg with/without food using updated FDA’s model. Observed exposure data after 750 mg q.d. dosing 
+were included for comparison. 
+Ceritinib dosing 
+Observed geometric 
+mean (CV %) 
+ 
+FDA’s model simulated 
+geometric mean 
+ (90% confidence interval) 
+FDA’s model simulated 
+geometric mean  
+(90% confidence interval) 
+Dose 
+750 mg of q.d. for 8 
+days without food 
+600 mg of q.d. for 8 days 
+without food 
+600 mg of q.d. for 8 days 
+with food 
+Exposure 
+AUC240-
+264h 
+Cmax 
+AUC240-264h 
+Cmax 
+AUC240-264h 
+Cmax 
+Value 
+13900 
+(74.8) 
+674 
+(76.2) 
+9918 
+(8707 -
+11296) 
+460 
+(408 - 519) 
+16671 
+(15121-18381) 
+766 
+(698 – 840) 
+Ratio of predicted 
+geometric 
+mean/Observed 
+geometric mean 
+ 
+ 
+0.71 
+0.68 
+1.20 
+1.14 
+ 
+5. CONCLUSION 
+The PBPK model of ceritinib considering time-dependent CYP3A mechanism reasonably 
+described ceritinib PK after single oral dose and multiple oral doses.  The model predicted the 
+observed effect of strong CYP3A inhibitor and inducer.  The simulations of PBPK model can be 
+used to support dosing strategy for the combined use of ceritinib with specific CYP3A inhibitors 
+or inducers. 
+ 
+Reference ID: 3477231
+
+
+===== PAGE 118 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 106 of 112 
+ 
+6. APPENDICES 
+ 
+Abbreviations: ADAM: Advanced dissolution, absorption, and metabolism model; ADME, absorption, 
+distribution, metabolism, and excretion; b.i.d., twice daily dosing; B/P, blood to plasma ratio; AUC, area 
+under the concentration-time profile; AUCR, the ratio of the area under the curve of the substrate drug in 
+the presence and absence of the perpetrator; B/P, blood to plasma ratio; ALK: anaplastic lymphoma 
+kinase; Cmax, maximal concentration in plasma; CmaxR, the ratio of the maximum plasma 
+concentration of the substrate drug in the presence or absence of the perpetrator; CL, clearance; Clint, 
+intrinsic clearance; DDI: drug-drug interaction; F, bioavailability; Fa, fraction absorbed; Fg, fraction that 
+escapes intestinal metabolism; fmj fraction of total clearance mediated by j CYP isoform or renal 
+elimination; fp, fraction unbound in plasma; fu,mic, fraction unbound in microsomes; fu,gut, apparent 
+unbound fraction in enterocytes; GI: gastrointestinal; IR, immediate release formulation; ka, first order 
+absorption rate constant; Ki, reversible inhibition constant; KI, inactivation constant, inhibitor 
+concentration resulting in half maximal inactivation; kinact, maximal inactivation rate constant; LogP, 
+logarithm of the octanol-water partition coefficient; NA, not applicable; ND, not determined; NDA: new 
+drug application; Peff, passive permeability; PBPK: Physiological-based Pharmacokinetic; P-gp: P-
+glycoprotein; q.d., once daily dosing; Qgut, a hypothetical flow term for the intestine absorption model; 
+TDI,  time-dependent enzyme inhibition; Tmax: time at maximal concentration in plasma; TLAG: lag time; 
+Vss, volume of distribution. 
+Appendix 1. Information Request-Clinical Pharmacology Jan 17, 2014 (01172014IR) 
+ 
+Please submit a study report for your PBPK simulations using SimCYP software to predict the effect of 
+ketoconazole and rifampin on the pharmacokinetics (PK) of ceritinib after multiple dosing [reference 
+studies LDK378A2104 and LDK378A2106] by January 24, 2014. 
+The study report should include the purpose of the simulations, assumptions being made, detailed process 
+of PBPK model building and verification, a summary of model input parameters of ceritinib, version of 
+SimCYP being used, simulation results, and conclusions.  The parameters can be compiled in the table 
+format with parameter name, parameter values (mean and/or variability), source of the parameter values 
+and assumptions being made. In addition, any modification of the default values of the system and/or 
+drug parameter input of a particular version of the software should be declared and justified. 
+Specifically for ceritinib, we recommend you construct your PBPK model by considering time-dependent 
+inhibition of CYP3A4.  The model should be optimized in order to delineate the nonlinear PK observed 
+in ALK-positive cancer patients ([study LDK378X2101], [study LDK378X1101]) and single dose PK in 
+healthy subjects ([Study LDK378A2101], [Study LDK378A2104], [Study LDK378A2105] and [Study 
+LDK378A2106]). Next, the model should be independently verified by comparing simulated effect of 
+enzyme inhibitor or inducer on ceritinib PK with that observed from drug interaction studies 
+(LDK378A2104 and LDK378A2106 for the effect of ketoconazole and rifampin, respectively).  In 
+addition, any modification of the model after verification step should be justified. You should use your 
+final ceritinib model to simulate the scenarios described below: 
+1. 
+750 mg once daily (QD) ceritinib at steady state in the presence of a strong CYP3A4 inhibitor 
+(ketoconazole 200 mg twice daily, BID). 
+2. 
+750 mg QD ceritinib at steady state in the presence of a strong CYP3A4 inducer (rifampin 600 
+mg QD).  
+In addition, please use your final ceritinib model to simulate the following scenarios: 
+3. 
+750 mg QD ceritinib at steady state in the presence of a moderate CYP3A4 inhibitor (fluconazole 
+200 mg QD). 
+4. 
+750 mg QD ceritinib at steady state in patients with mild, moderate and severe hepatic 
+Reference ID: 3477231
+
+
+===== PAGE 120 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 108 of 112 
+Appendix 2. PBPK Modeling Building and Simulations  
+ 
+Appendix Table A1. Physicochemical parameters of ceritinib for PBPK model [1] 
+Parameter 
+Value 
+Comment 
+MW (g/mole) 
+ 
+Experimental data 
+LogP 
+6.7 
+log D (Gastro plus estimated) 
+pKa 
+3.28; 9.92 
+Diprotic base (Gastro plus estimated) 
+B:P concentration ratio 
+1.35 
+Experimental data (DMPK R0900777), similar to the observed value 
+from human ADME study (B/P = 1.56) 
+fu in plasma 
+0.028 
+Experimental data (DMPK R0900777) 
+Appendix Table A2. Input parameters of ceritinib for PBPK model (Simcyp 
+software V13, [1]) 
+Parameter 
+Value 
+Comment 
+Absorption 
+ 
+ 
+fa 
+0.314 
+(Gastro plus estimated); 750 mg dosage (CLDK378X2101) 
+ka (h-1) 
+0.534 
+Population PK analysis using Nonmem (CLDK378X2101) 
+Lag time (h) 
+0.75 
+Population PK analysis using Nonmem (CLDK378X2101) 
+Qgut (L/h) 
+1.78 
+SimCYP prediction 
+fu, gut 
+0.054 
+See Section 2.7.2 
+Caco-2 permeability, A to 
+B (10-6 cm/s) 
+0.167 
+Experimental data (DMPK R1000083); Calibration compound: 
+propranolol (13.2), (passive + active, in the absence of P-gp inhibitor) 
+Effective human 
+permeability (10-4 cm/s) 
+0.228 
+SimCYP prediction 
+Distribution 
+ 
+ 
+Sponsor’s and FDA’s models 
+ 
+ 
+Minimal PBPK model 
+Vss (L/kg) 
+12 
+Estimated from preclinical PK data via simple allometry scaling method. 
+See Section 3.2 
+Elimination 
+ 
+ 
+Sponsor’s and FDA’s 
+models 
+ 
+ 
+CYP3A4 
+Vmax for oxygenation 
+metabolites M35.8 and 
+M27.5 
+(pmol/min/mg protein) 
+40.6 
+Experimental data (DMPK R0900839). 
+Km (unbound) for M35.8 
+and M27.5 (µM) 
+0.279 
+Renal clearance (L/h) 
+0.3 
+Estimation from human ADME study (CLDK378A2105) 
+Additional systemic 
+clearance (L/h) 
+11 
+(50% of total 
+clearance) 
+See Section 2.7.4 
+Interaction (CYP3A4) 
+ 
+ 
+Sponsor’s model 
+ 
+ 
+Competitive inhibition 
+Ki, unbound (µM) 
+0.0469 
+Experimental data (DMPK R0900796) 
+Mechanism-based 
+inhibition 
+KI, total (µM) 
+kinact (1/h) 
+ 
+ 
+1.47 
+3.84 
+Experimental data (DMPK R0900796) 
+ 
+ 
+ 
+FDA’s model 
+ 
+ 
+Competitive inhibition 
+Ki, unbound (µM) 
+0.0469 
+Experimental data (DMPK R0900796) 
+Reference ID: 3477231
+(b) 
+(4)
+
+
+===== PAGE 122 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 110 of 112 
+Appendix Table A4. PBPK model simulated and observed exposure of ceritinib 
+(AUC and Cmax) after single oral dose or multiple oral doses (q.d.) of 750 mg 
+Ceritinib dosing 
+Observed geometric 
+meana (CV %) 
+Sponsor’s model geometric 
+mean (90% confidence 
+interval) 
+FDA’s model geometric mean 
+(90% confidence interval) 
+750 mg of single 
+oral dose 
+AUC0-24h 
+Cmax 
+AUC0-24h 
+Cmax 
+AUC0-24h 
+Cmax 
+ 
+3390 (121) 
+186 
+(127) 
+3781 
+(3462 - 4130) 
+195 
+(178 - 214) 
+3596 
+(3345 – 3865) 
+188 
+(175 – 203) 
+Ratio Pred./Obs. b 
+ 
+ 
+1.1 
+1.1 
+1.1 
+1.0 
+750 mg of q.d. for 
+8 days 
+AUC240-264h 
+Cmax 
+AUC240-264h 
+Cmax 
+AUC240-264h 
+Cmax 
+ 
+13900 
+(74.8) 
+674 
+(76.2) 
+17473 
+(15940 -19154) 
+803 
+(735 - 878) 
+13594 
+(12500-14784) 
+642 
+(594 – 695) 
+Ratio Pred./Obs. b 
+ 
+ 
+1.3 
+1.2 
+1.0 
+1.0 
+a Clinical observed values (CLDK378X2101-Table 11-27); b Ratio of geometric means 
+ 
+Appendix Table A5. PBPK model simulated and observed exposure changes of 
+ceritinib (AUC and Cmax) after single oral dose of 450 mg by ketoconazole (200 
+mg b.i.d.) or after single oral dose of 750 mg by rifampin (600 mg q.d.).  Values are 
+geometric mean (90% confidence interval).  The observed values and predictions 
+using sponsor’s model were obtained from [1]. 
+ 
+ 
+Observed 
+Prediction using 
+Sponsor’s model 
+Prediction using 
+FDA’s model 
+Exposure ratio  
+with/without ketoconazole 
+AUC 
+2.86 (2.45 - 3.34) 
+2.23 (2.10 - 2.37) 
+2.44 (2.32 - 2.57) 
+Cmax 
+1.22 (1.07 - 1.39) 
+1.28 (1.26 - 1.30) 
+1.31 (1.29 – 1.33) 
+Exposure ratio  
+with/without rifampin 
+AUC 
+0.31 (0.24 - 0.40) 
+0.33 (0.31 - 0.36) 
+0.33 (0.31 - 0.36) 
+Cmax 
+0.56  (0.41  - 0.76) 
+0.62  (0.59  - 0.66) 
+0.61  (0.58 – 0.63) 
+  
+ 
+ 
+ 
+ 
+Reference ID: 3477231
+
+
+===== PAGE 123 =====
+
+ 
+ 
+ NDA 205755/0000 
+ 
+ 
+Page 111 of 112 
+Appendix Table A6.  PBPK model simulated exposure changes of ceritinib (AUC 
+and Cmax) after 750 mg q.d. at steady state by various CYP3A modulators. Values 
+are geometric mean (90% confidence interval) 
+ 
+Sponsor’s model 
+FDA’s model 
+Dosing of modulators 
+AUC Ratio 
+Cmax Ratio 
+AUC Ratio 
+Cmax Ratio 
+Strong CYP3A inhibitor ketoconazole 
+200 mg b.i.d. [1] 
+1.35 
+(1.27,1.42) 
+1.32 
+(1.26,1.39) 
+1.51 
+(1.43, 1.59) 
+1.47 
+(1.40, 1.54) 
+Moderate CYP3A inhibitor 
+fluconazole 200 mg q.d. [2] 
+1.15 
+(1.12,1.19) 
+1.14 
+(1.11,1.17) 
+1.37 
+(1.31, 1.42) 
+1.32 
+(1.28, 1.37) 
+ 
+ 
+ 
+ 
+ 
+Strong CYP3A inducer rifampin 600 
+mg q.d. [1] 
+0.51 
+(0.45,0.57) 
+0.54 
+(0.49, 0.60) 
+0.33 
+(0.30, 0.36) 
+0.37 
+(0.34, 0.40) 
+Moderate CYP3A inducer efavirenza 
+600 mg q.d.  
+NA 
+NA 
+0.57 
+(0.52, 0.62) 
+0.61 
+(0.56, 0.65) 
+aFDA in house database.   
+ 
+Appendix Table A7. PBPK simulations of exposure changes of midazolam after 
+single oral 5 mg dose by ceritinib (after single and multiple dosing of 750 mg).  
+Values are geometric mean (90% confidence interval) 
+Midazolam 
+Ceritinib Treatment 
+Sponsor’s model 
+FDA’s model 
+AUCR 
+CmaxR 
+AUCR 
+CmaxR 
+Single 
+dose, 5 mg 
+750 mg  single dose 
+1.45 
+(1.39, 1.51) 
+1.11 
+(1.08, 1.13) 
+1.34 
+(1.30, 1.37) 
+1.10 
+(1.08, 1.12) 
+Single 
+dose, 5 mg 
+750 mg q.d. to steady state 
+11.8 
+(9.83, 14.2) 
+2.90 
+(2.70,  3.11) 
+5.84 
+(5.12, 6.66) 
+2.38 
+(2.25, 2.51) 
+Reference ID: 3477231

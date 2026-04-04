@@ -1,0 +1,2730 @@
+
+
+===== PAGE 3 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contents 
+1. 
+EXECUTIVE SUMMARY ......................................................................................................4  
+1.1 Recommendations ...........................................................................................................4  
+1.2 Post-Marketing Requirements and Commitments ...........................................................4  
+2. 
+SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT ......................................5  
+2.1 Regulatory Background...................................................................................................5  
+2.2 Clinical Pharmacokinetics .............................................................................................7  
+2.2.1 What are osilodrostat clearance pathways? ................................................................10  
+2.2.2 What is clinical relevance of non-linear PK of osilodrostat? .....................................12  
+2.2.3 What was the dose selection procedures? ..................................................................15  
+2.2.4 Was drug interaction potential evaluated? .................................................................16  
+2.2.4 Was there any clinically significant covariates for osilodrostat pharmacokinetics? ..19  
+3. 
+Labeling Comments................................................................................................................21  
+4. 
+APPENDIX 25  
+4.1 Contributions of clearance pathways from the ADME study ......................................25  
+4.2 Dose proportionality of PK ..........................................................................................26  
+4.3 Study C2108 (DDI with oral contraceptives) ..............................................................27  
+4.4 Study C2201 (Proof-of-Concept; study design) ..........................................................28  
+4.5 Study C2301 (pivotal Phase 3 study, study design) .....................................................29  
+4.1 Summary of bioanalytical method validation ..............................................................31  
+4.2 Synopsis, and supplemental figures and tables of population PK analysis .................33  
+4.3 PBPK review................................................................................................................43  
+List of Tables  
+Table 1 
+Components of drug products (Source: Table 1-2, eCTD 2.3.P) ...................................6  
+Table 3 
+Statistical analysis of primary PK parameters for ethinylestradiol (upper) or  
+levonorgestrel (lower) with and without osilodrostat 30 mg bid for 15 days (Source;  
+Table 4 
+Number of Subjects and Osilodrostat Concentrations Included in the Population PK  
+Table 2. 
+Summary of General Clinical Pharmacology and Pharmacokinetics ..............................7  
+Table 2-9 and 2-10, eCTD 2.7.2).................................................................................17  
+Analysis by Study (Source; Table 5-1, Population PK report) ....................................36  
+Table 5 
+Summary of clinical studies used in the population analysis (Source; Table 3-1) ......36  
+2  
+Reference ID: 4547711 
+
+
+===== PAGE 6 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(such as ketoconazole at 400 mg QD) in patients with Cushing’s disease and stabilized osilodrostat 
+dosing. Design and conduct the trial in accordance with the FDA Guidance for Industry; “Clinical 
+Drug Interaction Studies - Study Design, Data Analysis, and Clinical Implications”. 
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT 
+2.1 Regulatory Background 
+Osilodrostat was 
+(b) (4)
+Through Mid-Cycle Communication (MCC) of this NDA dated 8/28/2019, the Agency provided 
+the following clinical concerns to the applicant (see further details in DARRTS memo dated 
+10/16/2019); 
+“We have concerns about the high rate of adrenal insufficiency (AI) observed in the study. The high rate of 
+adrenal insufficiency might be related to poorly defined AI in the protocol, as it seems that some patients 
+who had adverse events of “adrenal insufficiency” had nonspecific symptoms related to rapid decrease in 
+cortisol levels that can be managed without decreasing the dose. However, we also believe that up-titration 
+of drug was too aggressive during the study: the majority of patients had their dose increased to the next 
+dose level even though there was a decrease in urinary free cortisol (UFC) levels from baseline. Rapid dose 
+escalation occurring every 2 weeks (from 4 to 10 to 20 mg), when the steady state of the drug may not yet 
+have been reached, seems likely to be causing the high rate of AI observed in study. Cortisol suppression 
+persisted during the study after the dose was decreased or the drug was stopped, and the biological t1/2 of 
+cortisol suppression might be longer than drug elimination t1/2. In addition, important components of the 
+titration schedule, e.g., down or up titration after occurrences of ‘adrenal insufficiency’, were not clearly 
+pre-defined in the protocol. This led to a wide range of dose adjustments by investigators with no discernable 
+pattern during the study. We believe a more cautious titration schedule may be more appropriate for your 
+drug. However, there are no clinical data to clearly define the optimal dosing strategy, both at the time of 
+dose initiation and uptitration as well as down-titration in the case of AI. You will need to propose a dosing 
+strategy for our consideration that improves the safety profile of the drug so that the overall benefit risk 
+profile is favorable. You may rely on a rationale based on typical dosing strategies in patients with Cushing’s 
+Disease in clinical practice or a Clinical Pharmacology modeling rationale if appropriate data are 
+available.” 
+The Agency clarified during the telecommunication for MCC that the applicant may provide any 
+clinical pharmacology data to demonstrate the duration of cortisol suppression after the drug is 
+discontinued. The applicant indicated that because patients have different responses and large 
+variability in cortisol levels, PK/PD modeling may not be helpful as the drug has a short half-life 
+(4 hours) and none of the metabolites are pharmacologically active. The applicant followed up 
+with the question if there were any clinical pharmacology data to link PK and PD for the persistent 
+pharmacodynamic response after the discontinuation of osilodrostat in some patients, and 
+concluded that PK can not explain observed PD as follows;   
+5  
+Reference ID: 4547711 
+
+
+===== PAGE 7 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The elimination half-life of osilodrostat is short (~ 4 hours), so osilodrostat should reach its new steady  
+state quickly after dose changes or eliminate quickly after dose interruption.  
+ There are no long-lived metabolites of osilodrostat that contribute to the inhibition of its target,  
+CYP11B1.  
+ Cortisol levels adjust rapidly to non-osilodrostat related factors such as stress and diurnal patterns  
+(elimination half-life of cortisol is ~ 1 hour).  
+The applicant 
+ To support the indication, 1, 5 and 10 mg of drug products are 
+being introduced (Table 1). 
+(b) (4)
+Table 1 Components of drug products (Source: Table 1-2, eCTD 2.3.P) 
+(b) 
+(4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+6  
+Reference ID: 4547711 
+
+
+===== PAGE 9 =====
+
+Absolute bioavailability is not known. The applicant considered orsilodrostat 
+based on 90.6% recovery of the drug in urine (Study C2101 for ADME) and rapid 
+(b) (4)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dose proportionality 
+PK was more than proportional to dose (slope (b) in a power model: PK=a*Doseb); 
+  slope =1.292 (90% CI: 1.240, 1.344) and 1.084 (90% CI: 1.042, 1.127) for AUCinf 
+and Cmax, respectively, following dosing range from 0.5 mg to 200 mg (Study 
+A2101, SAD/MAD) 
+Accumulation 
+No significant accumulation with accumulation index of 0.85 to 1.32 following 0.5 mg to 
+200 mg (Study A2101). 
+Time to achieve steady­
+Steady-state was reached in two days (Study A2101) 
+state 
+Bridge between to-be 
+No need for formulation bridging as to-be-marketed formulation was used in 
+marketed and clinical 
+the pivotal Phase 3 trial. 
+trial formulations 
+Absorption 
+Bioavailability
+dissolution (Q> % in 15 min). 
+(b) 
+(4)
+Tmax 
+Approximately 1 hour (Study A2101)
+Food effect (Fed/fasted) 
+Following 30 mg final market image, exposure was reduced with a high fat 
+Geometric least square 
+meal: 
+mean and 90% CI 
+ AUCinf: 11% reduced (GMR = 0.888; 90% CI: 0.857, 0.921) 
+ Cmax: 21% reduced (GMR=0.786, 90% CI: 0.739, 0.835) 
+ Tmax: 25% increased (GMR=1.25, 90% CI: -2.00, 3.50) 
+Distribution 
+Volume of distribution 
+Median apparent volume of distribution was 101 L (population PK) 
+Plasma protein binding 
+36.4% 
+Drug as substrate of 
+Not a sensitive substrate of P-gp or MRP as a high intrinsic permeability with 
+transporters 
+low efflux ratio and modest impact of inhibitors in Caco-2 system. 
+Elimination 
+Mass balance results 
+Following 50 mg, the overall recovery of radioactivity was ≥ 86.5%. The majority of 
+radioactivity dose was eliminated in the urine (mean: 90.6%) with a minor amount  
+eliminated in the feces (mean: 1.58%). The dose eliminated in the urine as unchanged 
+was minor (mean: 5.19%). Median terminal half-life was 3.98 hours. The most abundant 
+circulating metabolite in plasma was M34.5 contributing 51% to the plasma radioactivity 
+(AUC48h) (Study C2101) 
+Clearance 
+16.4 L/h (95% CI: 14.9, 18.1) (population PK) 
+Half-life 
+Terminal half-life was approximately 4 hours following single doses and ranged from 3 
+to 5 hours following multiple doses., apparent, or multiple phases. 
+Metabolic pathway(s) 
+The relative contributions of the CYP enzymes to osilodrostat clearance were estimated 
+to be ~11.7% by CYP3A4, ~6.25% by CYP2B6, and ~8.07% by CYP2D6 (total CYP 
+contribution 26%). Multiple UDP-glucuronosyltransferase (UGT) enzymes (UGT1A4, 
+UGT2B7, and UGT2B10) were shown to contribute to osilodrostat glucuronidation 
+(total UGT contribution 19%). Other non-CYP, non-UGT mediated metabolism (such 
+as other oxidative metabolism by unknown enzymes, ribose conjugation etc.) was shown 
+to contribute to ~50% of total clearance. 
+Primary metabolite (M34.5, see Figure 2) was not pharmacologically active. 
+The majority of radioactivity dose was eliminated in the urine (mean: 90.6%). 
+Primary excretion 
+pathways (% dose) 
+Intrinsic Factors and Specific Populations 
+Body weight 
+Body weight was a predictor of osilodrostat dose to ED50 in the population PK analysis. 
+However, the impact of body weight on the exposure was considered negligible and did 
+not warrant dose adjustment. 
+8 
+Reference ID: 4547711 
+
+
+===== PAGE 10 =====
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Race 
+Following 1 mg bid on Day 14 in the morning (Mean±SD, N=10 HV): 
+ AUCtau: 21.13±5.78 (Caucasian), 31.42±9.22 (Japanese) ng/mL*hr 
+ Cmax: 4.70±0.80 (Caucasian), 5.89±1.74 (Japanese) ng/ mL 
+Adjustment by weight did not reduce the effect of race (Study A2102). 
+The population PK analysis indicates that exposure in the Asian subjects 
+(mostly Japanese) was approximately 30% higher than that of Caucasian. 
+Age 
+No significant impact on PK parameters in the population PK analysis (age range; 19-72 
+years). 
+Renal impairment 
+No significant changes for severe or ESRD (ratio of AUCinf or Cmax, respectively): 
+ Severe/normal; 0.964 (0.751, 1.24) and 0.899 (0.732, 1.10)  
+ ESRD/normal; 0.992 (0.731, 1.34) and 0.824 (0.641, 1.06) 
+Hepatic impairment 
+Increase in AUC for moderate and severe without significant changes in Cmax: 
+ mild/normal; 0.860 (0.569, 1.30) and 0.912 (0.645, 1.29) 
+ moderate/normal; 1.44 (0.950, 2.18) and 0.846 (0.598, 1.20) 
+ severe/normal; 2.66 (1.73, 4.09) and 0.798 (0.557, 1.14) 
+Mean (CV%) of half-life was 5.31 (21%), 4.67(25%), 9.33 (50.9%) and 19.5 
+(29.6%) for normal, mild, moderate and sever group, respectively. 
+Drug Interaction Liability (Drug as Perpetrator) 
+Inhibition/induction 
+In vitro osilodrostat showed inhibitory potency for CYP1A2, CYP2C19, CYP2D6 and 
+of metabolism 
+CYP2E1. Relatively weak inhibitory potency was seen for CYP3A4/5 (with midazolam, 
+1’-hydroxylation) and CYP2C9. Osilodrostat showed apparent time-dependent inhibition 
+of CYP2C19 (KI = 52.3 ± 29.3 μM and kinact = 0.0260 ± 0.00695 min-1) in pooled HLM. 
+The impact of osilodrostat 50 mg on the CYP probe substrates exposure was evaluated 
+(Study C2102). Osilodrostat is a moderate inhibitor of CYP1A2 (2.5-fold increase in 
+caffeine exposure), a weak to moderate inhibitor of CYP2C19 (1.9-fold increase in 
+omeprazole exposure), and a weak inhibitor of CYP2D6 and CYP3A4/5 (1.5-fold 
+increase in dextromethorphan and midazolam exposure). 
+Induction potential for CYP1A2, CYP2B6 and CYP3A4 was shown in vitro studies as 
+corresponding mRNA levels were dose dependently increased by osilodrostat. 
+Inhibition/induction 
+Osilodrostat may increase the systemic exposure of co-medications with clearance 
+of transporter 
+mediated by OCT2, MATE1 and MATE2K according to in vitro estimation. However, 
+systems 
+it was concluded that the potential risk was not considered of significant clinical concern 
+based on the estimated Cmax and IC50 values. 
+9 
+Reference ID: 4547711 
+
+
+===== PAGE 11 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2.1 What are osilodrostat clearance pathways? 
+Osilodrostat clearance pathways were assessed from the standard mass balance study (Study 
+C2101). Osilodrostat 50 mg containing 100 microCi of 14C was administered to healthy male 
+volunteers (N=5). 
+Mean total recovery of radioactivity with 92.2±4.46% of dose was acceptable. Recovery of 
+radioactivity was mainly in the urine (90.6% of dose) and minor in the feces (1.58% of dose) 
+(Figure 1).  
+(b) (6)
+(b) (6)
+Figure 1  
+Cumulative urinary (left) and fecal (right) excretion of radioactivity following 50 mg osilodrostat (Source; 
+Figure 11-14, CSR) 
+Metabolism was extensive as  urinary elimination of osilodrostat was minor (5.19% of dose).  
+Multiple metabolites were characterized (Figure 2). The following metabolites were identified in  
+the mass balance study (see further details in Appendix 3.1);  
+ M24.9, hydroxylation of the pyrrolidine- ring system (10.8% of dose),  
+ M23.1, N-methylation (4.35% of dose),  
+ M34.5, most abundant metabolite in plasma, imidazole ring (0.81% of dose), additional  
+metabolism (M6, M10, M16 and M16.4B) (10.5% of dose) and its glucuronide conjugate M22 
+(12.6% of dose) 
+ M16.5, direct glucuronidation (17.3% of dose) 
+ M20.8, ribose conjugate (2.28% of dose) 
+In plasma, osilodrostat was approximately 68% of circulating radioactivity after 2 hours of dosing 
+but it gradually decreased to less than 24% after 12 hours (Figure 3). 
+10  
+Reference ID: 4547711 
+
+
+===== PAGE 13 =====
+
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.2.2 What is clinical relevance of non‐linear PK of osilodrostat? 
+Osilodrostat showed that PK increase was more than proportional to dose increase (dose related 
+non-linearity). In addition, it seems that there is a time-dependent non-linearity due to potential 
+auto-induction in metabolism. 
+Uncertainty of non-linear PK seems to be manageable within the proposed dosing regimen and 
+labeling as follows; 
+ There was no significant difference between AUCinf following single dose and AUCtau 
+following multiple doses. It indicates that potential of a time-dependent PK is not significant. 
+ There is no apparent accumulation following multiple doses as the terminal half-life is 
+approximately 4 hours and significantly less than the dosing interval (12 hours). 
+ Although there was non-linearity in PK following single doses, the degree of non-linearity was 
+comparable following multiple doses (Figure 9, Study A2101 and A2102, Appendix). 
+  There was apparent trend that Ctrough concentrations were decreased following 30 mg bid over 
+15 days in DDI study (Figure 11, Study C2108, Appendix). However, it was not clear if it was 
+due to changes in clearance or variability in Ctrough as there was no significant accumulation. 
+Further, there was no significant impact of osidrolostat 30 mg bid for 15 days on exposure of 
+levonorgestrel, which is metabolized by multiple enzymes (e.g., sulfation, glucuronidation, 
+CYP3A4 and reduction) and ethinyl estradiol, which is also metabolized by multiple enzymes 
+(e.g., SULT1E1, UGT1A1, CYP3A4 and CYP2C9). 
+  There were no apparent changes in Ctrough at apparent steady-state in Phase 2 and 3 trials 
+(Figure 4 and additional figures in Appendix; Figure 12 and 13). 
+  Dose was individualized with adjustment to clinical responses; until normalization of mUFC 
+or intolerable as protocol-specified (Figure 5, and additional figures in Appendix). It indicates 
+that exposure-response is confounded as dose is adjusted to clinical responses without 
+exposure consideration. 
+  There was no dose adjustment in Phase 3 trial due to concomitant medications including strong 
+metabolic perpetrators.  
+However, we recommend conducting a drug-drug interaction clinical trial to estimate the effect of 
+strong CYP3A4 inhibitors on osilodrostat exposure change as 1) there is significant uncertainty in 
+the drug interaction according to the assessment in PBPK modeling and 2) there is potential for 
+off-label co-administration of ketoconazole, a strong CYP3A4 inhibitors with osilodrostat in 
+patients with Cushing’s disease. See further details of the  proposed PMR (see section 1.2 of 
+review) and PBPK review (see Appendix). 
+Representative subjects with dosing less than 10 mg bid 
+12  
+Reference ID: 4547711 
+
+
+===== PAGE 19 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Evaluation of drug interaction potential with osilodrostat 30 mg 
+The applicant evaluated drug interaction potential of osilodrostat 30 mg from results of 50 mg 
+(Study C2102) using physiologically-based PK (PBPK) modeling and simulation.  
+The followings are conclusions by the PBPK review team. See details in review by Dr. Jianghong 
+Fan in the Appendix. 
+  The osilodrostat PBPK model is adequate to predict the osilodrostat PK following a single dose 
+administration over a dose range of 0.5-200 mg, and following multiple dose administration of 
+0.5, 1, 3 and 30 mg osilodrostat. 
+  The osilodrostat PBPK model is adequate to predict the PK of metabolite LXB168 following a 
+single dose administration of 50 mg osilodrostat. 
+  The osilodrostat PBPK model is adequate to predict the effect of osilodrostat on caffeine (a 
+CYP1A2 substrate) PK following multiple dose administration of osilodrostat in healthy 
+subjects. The predicted caffeine AUC ratio is between 1.00-1.91 in the presence and absence of 
+osilodrostat (30 mg, bid) at steady state in healthy subjects. The effect is dose dependent and is 
+lower at lower dose levels. 
+  The osilodrostat PBPK model is adequate to predict the effect of osilodrostat on midazolam (a 
+CYP3A4 substrate) PK following multiple dose administration of osilodrostat in healthy 
+subjects. The predicted midazolam AUC ratio is between 0.52-1.28 in the presence and absence 
+of osilodrostat (30 mg, bid) at steady state in healthy subjects. The effect is dose dependent and 
+is lower at lower dose levels. 
+  The osilodrostat PBPK model is adequate to predict the effect of osilodrostat on omeprazole (a 
+CYP2C19 substrate) PK following multiple dose administration of osilodrostat in healthy 
+subjects. The predicted omeprazole AUC ratio is between 1.06-2.28 following a single dose 
+administration of omeprazole (20 mg) and between 0.86-1.52 following multiple dose 
+administration of omeprazole (20 mg, qd) in the presence and absence of osilodrostat (30 mg, 
+bid) at steady state in healthy subjects. The effect is dose dependent and is lower at lower dose 
+levels. 
+  The osilodrostat PBPK model is adequate to predict the effect of osilodrostat on 
+dextromethorphan (a CYP2D6 substrate) PK following multiple dose administration of 
+18  
+Reference ID: 4547711 
+
+
+===== PAGE 20 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+osilodrostat in healthy subjects. The predicted dextromethorphan AUC ratio is 1.23 in the 
+presence and absence of osilodrostat (30 mg, bid) at steady state in healthy subjects. The effect 
+is dose dependent and is lower at lower dose levels. 
+  The osilodrostat PBPK model is adequate to predict the effect of osilodrostat on warfarin (a 
+CYP2C9 substrate) PK following multiple dose administration of osilodrostat in healthy 
+subjects. The warfarin exposure would not be expected to be significantly affected by 
+concomitant osilodrostat (30 mg, bid). 
+  The PBPK models are not adequate to predict the effect of osilodrostat on bupropion PK because 
+bupropion active metabolites were not included in the model, but they contribute significantly 
+to the efficacy of bupropion in human.  
+  The DDI potential of osilodrostat as a victim of CYP modulators cannot be excluded. Therefore, 
+a study is recommended as part of PMR (see Section 1.2 of review). 
+2.2.4 Was there any clinically significant covariates for osilodrostat pharmacokinetics? 
+No, there was no significant covariates that warrant dose adjustment based on intrinsic factors. 
+Population PK analysis was conducted with PK data (N=8936 observations, Figure 11, Table 4 
+and 5) from a total of 8 clinical trials including both healthy and patients (N=414 subjects, Table 
+4) using a two-compartment model with dose-dependent relative bioavailability, mixed zero- and 
+first-order absorption with lag time, and first order elimination (Figure 10, Appendix). 
+Clinically relevant covariates were evaluate using typical covariate models. The goodness-of-fit 
+was assessed by conventional plots and metrics (Figure 12, Appendix). The predictive 
+performance of the final model was assessed by applying a posterior prediction-corrected visual 
+predictive check (Figure 13, Appendix). 
+The population PK analysis concluded as follows (see parameter estimates, Table 7, Appendix):  
+ age (yr) at baseline; no significant impact on PK parameters (i.e., CL/F, Vd/F, Ka, Tlag and 
+relative bioavailability) 
+ body weight (kg) at baseline; a predictor for ED50, but does not warrant dose adjustment as no 
+impact on AUCss nor Ctrough 
+ gender; no significant impact 
+  race; 30% higher exposure (AUCss nor Cmax,ss) in Asian (~66% contributed by Japanese) 
+compared to that of non-Asian with 20% higher relative bioavailability, not a level of dose 
+adaptation due to the individual dose titration 
+ population (healthy subject vs. Cushing’s patient); similar PK between two populations 
+ overall variability (CV%) was approximately 33%, 22% and 55% respectively on AUCss, Cmax,ss 
+and Cmin,ss. Variability did not change under the influence of the covariates (dose, race and 
+19  
+Reference ID: 4547711 
+
+
+===== PAGE 36 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reviewer’s Comments: The goodness-of-fit plots and the visual predictive check indicate that the 
+applicant’s population PK model is generally adequate in characterizing the PK profile of 
+osilodrostat in subjects with Cushing’s disease. The inter-individual variability for CL/F and Vc/F 
+are modest, while shrinkages for Vc/F and Ka are relatively high. Overall, the developed model 
+was acceptable to support applicant’s proposed labeling statements about intrinsic factors as 
+follows;  
+The structural model was based on a typical two-compartment model; ALAG (absorption lag 
+time), Ka (first-order absorption rate constant), Q/F (linear inter-compartmental disposition) 
+between Vc/F (central) and Vp/F (peripheral) compartment, and Michaelis-Menten elimination 
+from the central compartment parameterized with Vmax (maximal rate) and Km (osilodrostat 
+concentration achieving 50% of the maximal rate) (Figure 7). Relative bioavailability (F) of 
+osilodrostat was modeled as a dose-dependent phenomenon parameterized with BIO (maximal 
+change in bioavailability) and ED50 (dose at which change in bioavailability was half-maximal). 
+Figure 15 
+Final structural PK model for osilodrostat (Source: Figure 5-5)  
+35  
+Reference ID: 4547711 
+
+
+===== PAGE 44 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.3 PBPK review 
+Physiologically based Pharmacokinetic Modeling Review 
+Division of Pharmacometrics, Office of Clinical Pharmacology 
+NDA Number 
+212801 
+Generic Name 
+Osilodrostat 
+Trade Name (proposed) 
+Isturisa 
+Submission Type 
+505(b)(1) 
+Applicant 
+Novartis Pharmaceuticals 
+Dosage Form and Strengths Oral tablet, 1 mg, 5 mg, 10 mg 
+Proposed Indication 
+for the treatment of Cushing’s disease (CD) 
+Dose Regimen 
+• 
+Starting dose: 2 mg BID 
+Titrated by increments of 1 or 2 mg BID based on response 
+and tolerability 
+• 
+Maximum recommended dose: 30 mg BID 
+• 
+With or without food
+Primary PBPK Reviewer 
+Jianghong Fan, Ph.D. 
+Secondary PBPK Reviewer 
+Xinyuan Zhang, Ph.D. 
+Executive Summary 
+The objective of this review is to evaluate the adequacy of the Applicant’s following PBPK reports 
+to support the intended uses. 
+o  DMPK R1701026_PBPK of osilodrostat (LCI699) drug interaction after single or multiple 
+doses with cytochrome P450 probe substrates; 
+o  DMPK R1800128_Updated PBPK model for osilodrostat (LCI699) to include metabolite 
+LXB168 kinetics and drug interaction potential; 
+o  DMPK R1800128-01_Updated physiologically-based pharmacokinetic (PBPK) model for 
+osilodrostat (LCI699) to include metabolite LXB168 kinetics and drug interaction potential. 
+The Division of Pharmacometrics has reviewed the PBPK reports, supporting modeling files, and 
+the Applicant’s responses to FDA’s information requests (IRs) submitted on September 20, and 
+concluded the following: 
+o  The osilodrostat PBPK model is adequate to predict the osilodrostat PK following a single dose 
+administration over a dose range of 0.5-200 mg, and following multiple dose administration of 
+0.5, 1, 3 and 30 mg osilodrostat. 
+o  The osilodrostat PBPK model is adequate to predict the PK of metabolite LXB168 following 
+a single dose administration of 50 mg osilodrostat. 
+o  The osilodrostat PBPK model is adequate to predict the effect of osilodrostat on caffeine (a 
+CYP1A2 substrate) PK following multiple dose administration of osilodrostat in healthy 
+43  
+Reference ID: 4547711 
+
+
+===== PAGE 45 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+subjects. The predicted caffeine AUC ratio is between 1.00-1.91 in the presence and absence 
+of osilodrostat (30 mg, bid) at steady state in healthy subjects. The effect is dose dependent 
+and is lower at lower dose levels. 
+o  The osilodrostat PBPK model is adequate to predict the effect of osilodrostat on midazolam (a 
+CYP3A4 substrate) PK following multiple dose administration of osilodrostat in healthy 
+subjects. The predicted midazolam AUC ratio is between 0.52-1.28 in the presence and 
+absence of osilodrostat (30 mg, bid) at steady state in healthy subjects. The effect is dose 
+dependent and is lower at lower dose levels.  
+o  The osilodrostat PBPK model is adequate to predict the effect of osilodrostat on omeprazole 
+(a CYP2C19 substrate) PK following multiple dose administration of osilodrostat in healthy 
+subjects. The predicted omeprazole AUC ratio is between 1.06-2.28 following a single dose 
+administration of omeprazole (20 mg) and between 0.86-1.52 following multiple dose 
+administration of omeprazole (20 mg, qd) in the presence and absence of osilodrostat (30 mg, 
+bid) at steady state in healthy subjects. The effect is dose dependent and is lower at lower dose 
+levels. 
+o  The osilodrostat PBPK model is adequate to predict the effect of osilodrostat on 
+dextromethorphan (a CYP2D6 substrate) PK following multiple dose administration of 
+osilodrostat in healthy subjects. The predicted dextromethorphan AUC ratio is 1.23 in the 
+presence and absence of osilodrostat (30 mg, bid) at steady state in healthy subjects. The effect 
+is dose dependent and is lower at lower dose levels. 
+o  The osilodrostat PBPK model is adequate to predict the effect of osilodrostat on warfarin (a 
+CYP2C9 substrate) PK following multiple dose administration of osilodrostat in healthy 
+subjects. The warfarin exposure would not be expected to be significantly affected by 
+concomitant osilodrostat (30 mg, bid). 
+o  The PBPK models are not adequate to predict the effect of osilodrostat on bupropion PK 
+because bupropion active metabolites were not included in the model, but they contribute 
+significantly to the efficacy of bupropion in human.  
+o  The DDI potential of osilodrostat as a victim of CYP modulators cannot be excluded. 
+Applicant’s PBPK Modeling Effort 
+PBPK software 
+Simcyp V17 (Simcyp Ltd, UK) was used to develop the PBPK models and predict the effects of 
+osilodrostat on the PK of midazolam, caffeine, omeprazole, dextromethorphan, bupropion and 
+warfarin. 
+Model development 
+Osilodrostat 
+The first order absorption model was used. The fraction absorbed (fa) was estimated to be 1.0 since 
+mass balance study have demonstrated nearly complete oral absorption of osilodrostat following 
+oral administration. The absorption rate constant (ka) was estimated to be 2.8/h based on the fitting 
+of the clinical PK data after a single oral dose of osilodrostat (30 or 50 mg). The fu,gut (unbound 
+fraction in enterocytes) was set to be 1.0. The Peff,man (permeability in man) and Qgut (nominal flow 
+44  
+Reference ID: 4547711 
+
+
+===== PAGE 46 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+in gut) were predicted to be 6.88X10-4 cm/s and 16.8 L/h, respectively, based on the permeability 
+data in Caco-2 cells. 
+The minimal PBPK model was used with a predicted volume of distribution (Vss) of 1.277 L/kg. 
+The fraction unbound in plasma (fup) and blood-to-plasma ratio was 0.636 and 0.85, respectively. 
+Osilodrostat hepatic intrinsic clearance was back calculated based on clinically observed plasma 
+clearance (~16.6 L/h) after a 30 mg single oral dose using retrograde model. The contribution of 
+oxidative metabolism to the osilodrostat overall clearance was estimated to be 26% based on the 
+total amount of oxidative metabolite in both urine and feces samples in mass balance study. In 
+vitro metabolism studies involving recombinant enzymes indicated that CYP3A4, CYP2D6, and 
+CYP2B6 were responsible for the oxidative metabolism of osilodrostat. The relative contributions 
+of the individual CYP enzymes to total clearance of osilodrostat was estimated to be 11.7% for 
+CYP3A4, 8.07% for CYP2D6 and 6.25% for CYP2B6 based on the enzyme reaction phenotyping 
+study results. The intrinsic clearances mediated by CYP3A4, CYP2D6 and CYP2B6 are 0.0466, 
+0.0246 and 0.0322 mL/h/mg protein, respectively. The enzyme used in the model for the 
+metabolite LXB168 formation was arbitrarily selected as “user UGT1”, as the enzyme responsible 
+for the formation of LXB168 could not be determined through the investigation. The contribution 
+of “user UGT1”to the overall osilodrostat clearance was set as 35% to better account for recovery 
+of LXB168 PK. The additional clearance was assigned to CLint,others (additional systemic 
+clearance). A value of 0.86 L/h was assigned to renal clearance based on the clinical study result 
+(CLCI699C2101). 
+The in vitro Ki values for CYP1A2 (0.5 μM), CY2B6 (10 μM), CYP2C9 (20 μM), CYP2E1 (0.482 
+μM), CYP2D6 (2 μM) and CYP3A (3.25 μM) were used in the osilodrostat model. The induction 
+parameter values used in the model are 100 μM and 18.7 for CYP1A2 IndC50 and Indmax 
+respectively, and 136 μM and 15.1 for CYP2B6 IndC50 and Indmax, respectively. The CYP3A4 
+induction parameter values used in the model were 196.7 μM for IndC50 and 12.38 for Indmax, 
+which were normalized based on the positive control rifampin induction parameters determined in 
+vitro. 
+Metabolite LXB168 
+The minimal PBPK model was used with a predicted Vss of 0.7175 L/kg and a Kp scalar of 0.5 to 
+fit the LXB168 concentration-time profile in study CLCI699C2101. The B/P value was assumed 
+to be the same as the parent drug, and the measured fup value was 0.643. The total clearance was 
+estimated based on the clinical PK data in study CLCI699C2101 and a value of 1 L/h was assigned 
+to CLiv. The CYP3A4 induction parameter values used in the model were 86.3 μM for IndC50 and 
+3.71 for Indmax, which were normalized based on the positive control rifampin induction 
+parameters determined in vitro. The CYP2B6 induction parameter values were 225 μM and 3.96 
+for IndC50 of and Indmax, respectively, which were determined in vitro and were not normalized. 
+Victim drug models 
+The default PBPK models of midazolam, caffeine, omeprazole, dextromethorphan, bupropion and 
+warfarin in SimCYP were used without any modification for DDI prediction.  
+45  
+Reference ID: 4547711 
+
+
+===== PAGE 47 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FDA’s assessment  
+o  The mass balance study showed that the metabolite LXB168 is the most abundant metabolite 
+in human plasma after oral administration of 50 mg osilodrostat, contributing on average 51% 
+(41.8-60.9%) to the total plasma radioactivity (AUC0-48h) and the relative exposure of LXB168 
+was greater than 100% of osilodrostat. In the Applicant’s original submission, the enzyme 
+responsible for LXB168 formation was not identified. The in vitro study results may not 
+provide adequate information to justify that LXB168 was not formed in the in vitro systems 
+given the metabolite formation rate was low, while the in vitro incubation time was short, and 
+very low amount of all other metabolites generated in the in vitro incubation systems. An 
+information request was issued requesting the Applicant to identify the main enzyme that 
+contributes to the formation of LXB168 and evaluate the DDI potential between osilodrostat 
+and the modulators of this enzyme following a single or multiple dose administration of 
+osilodrostat. Refer to ‘Results’ for FDA’s assessment of the Applicant’s responses. 
+o  Osilodrostat showed nonlinear PK profiles over the dose range of 0.5-200 mg following oral 
+administration in healthy subjects. The proposed recommended starting dose of osilodrostat is 
+2 mg orally twice daily, and gradually titrated based on individual response and tolerability, 
+with a maximum dose of 30 mg twice daily. The Applicant’s model did not incorporate the 
+mechanism to capture the observed nonlinear PK of osilodrostat. An information request was 
+issued requesting the Applicant to explore the mechanism which contributed to the observed 
+nonlinear PK of osilodrostat, incorporate the nonlinear PK mechanism in the model and 
+reevaluate the DDI liability of osilodrostat. Refer to ‘Results’ for FDA’s assessment of the 
+Applicant’s responses. 
+o  The model simulated formation rate of LXB168 (osilodrostat’s metabolite) was much faster 
+than that observed and the model simulated Tmax was significantly shorter as compared to that 
+observed (12 h vs 24h) in study CLCI699C2101. An information request was issued requesting 
+the Applicant to refine the model to capture the observed PK profile of LXB168, perform the 
+simulations to simulate the LXB168 steady state PK following multiple dose administration of 
+osilodrostat and re-evaluate the DDI liability of osilodrostat (LXB168). Refer to ‘Results’ for 
+FDA’s assessment of the Applicant’s responses. 
+Applicant’s model refinement 
+The Applicant’s original model did not capture the observed osilodrostat nonlinear PK profiles in 
+the clinical studies. In response to FDA’s information request, the Applicant investigated the 
+potential mechanism responsible for the nonlinear PK of osilodrostat and concluded that the 
+nonlinear PK of osilodrostat can be primarily attributed to the saturation of metabolism enzymes 
+based on the analysis of the dose-normalized osilodrostat PK data over a dose range of 3 to 200 
+mg following a single dose administration. Due to the available high Km,u values (~30 μM) for 
+CYP3A4, CYP2B6 and CYP2D6, these enzymes are not likely saturated at clinically relevant 
+doses since Cmax is about 0.88 μM following multiple dose administration of 30 mg osilodrostat 
+twice daily. It was assumed that all other metabolic pathways were saturated. Since the Km values 
+for other metabolic pathways were not available, the Km values were optimized to capture the 
+nonlinear PK of osilodrostat and a Km of 0.3 μM was used in the model.  
+46  
+Reference ID: 4547711 
+
+
+===== PAGE 48 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+FDA’s assessment 
+o  It appears reasonable to assume that the potential mechanism responsible for the nonlinear PK 
+of osilodrostat is due to the saturation of the metabolism enzymes.  
+o  As shown in Table 7, the Applicant’s refined model was able to capture the PK of osilodrostat 
+over a dose range of 3-200 mg relatively well, however, the model overpredicted the 
+osilodrostat exposure at dose level lower than 3 mg by 50% to 2-fold. Since the proposed 
+titration schedule for osilodrostat is from a starting dose of 2 mg bid to 3 mg or 4 mg bid, the 
+reviewer further refined the model to capture the PK over a dose range of 0.5-200 mg (Figure 
+19). Refer to “FDA’s Model refinement and verification” for the detailed model development 
+and verification. 
+o  The observed Cmax and Ctrough decreased with the multiple dosing of osilodrostat, indicating the 
+enzyme mediated auto-induction of osilodrostat metabolism. The Applicant’s refined model 
+did not adequately capture the in vivo auto-induction profile of osilodrostat. The reviewer 
+further refined the model to adequately capture the in vivo osilodrostat auto-induction profile. 
+Refer to “FDA’s Model refinement and verification” for the detailed model development and 
+verification. 
+o  After incorporation of the nonlinear mechanism in the model, there was an improvement in the 
+performance of the Applicant’s refined model in predicting osilodrostat metabolite PK profile 
+as compared to the Applicant’s original model (Figure 20A). However, the metabolite Cmax 
+was still underpredicted by about 16% and Tmax was about 6 hours shorter than those observed 
+in study C2101. It was shown that LXB168 exposure in plasma was twice that of the parent 
+and accounted for 40-60% of the circulating radioactivity in plasma in study C2101. 
+Appreciable metabolite (LXB168) accumulation in the systemic circulation would be expected 
+with multiple doses of osilodrostat due to the low metabolite elimination rate (Figure 20B). In 
+addition, there was no multiple dose metabolite data available to verify the model. It was 
+therefore deemed important to fully characterize the single dose PK of metabolite in the 
+assessment of osilodrostat DDI potential after multiple doses. The reviewer further refined the 
+metabolite model to better capture the metabolite PK in an effort to characterize the metabolite-
+mediated enzyme induction effect after multiple dose administration of osilodrostat.  
+In response to FDA’s Information Request, the Applicant re-evaluated the osilodrostat metabolism 
+by using a long-lived human hepatocyte coculture system and confirmed that the metabolite 
+LXB168 can be formed in human liver. The specific enzymes responsible for the formation of 
+LXB168 were not determined. The Applicant’s assumption that cytochrome P450 enzymes were 
+unlikely involved in the formation of LXB168 may not be valid due to the following reasons: 1) 
+LXB168 was formed by the oxidation of the imidazole ring of osilodrostat, and it was reported 
+that the imidazole-containing compounds are primarily metabolized by P4501, 2) the clinically 
+observed auto-induction of osilodrostat metabolism would not be attained with such a low 
+fmCYP3A4 (0.10) and fmCYP2B6 (0.05) assigned in the Applicant’s refined model. The 
+possibility that the involvement of CYP3A4 and/or CYP2B6 in the formation of LXB168 cannot 
+be excluded. 
+1 https://pubs.acs.org/doi/pdf/10.1021/tx015574b 
+47  
+Reference ID: 4547711 
+
+
+===== PAGE 49 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 4547711
+Table 7 Observed and simulated osilodrostat mean Cmax and AUC and the predicted/observed Cmax and AUC ratios following a single or multiple dose administration of 
+osilodrostat. The Applicant’s refined model, FDA refined Model 1 and Model 2 were used to conduct simulations. 
+Osilodrostat 
+Cmax (ng/mL) 
+AUClast (ng*h/mL) 
+Sources
+Observed 
+Applicant 
+refined model 
+FDA’s 
+refined 
+Model 1 
+FDA’s 
+refined 
+Model 2 
+Observed 
+Applicant 
+refined model 
+FDA’s 
+refined 
+Model 1 
+FDA’s 
+refined 
+Model 2 
+Predicted / Ratio of Pred./Obs. 
+Predicted / Ratio of Pred./Obs. 
+Single dose 
+2 mg 
+7.91 
+11.2 / 1.41 
+11.0 / 1.39 
+10.3 /1.30 
+38.6 
+60.6 / 1.57 
+49.6 / 1.28 
+52.3 / 1.35 
+Study A2102 
+3 mg 
+18.0 
+17.0/ 0.94 
+17.6 / 0.98 
+16.4 / 0.91 
+81.8 
+93.8 / 1.15 
+82.3 / 1.00 
+86.2 / 1.05 
+Study A2101 
+10 mg 
+79.2 
+62.6 / 0.79 
+64.4 / 0.86 
+65.2 / 0.82 
+420 
+370 / 0.88 
+405 / 0.96 
+417/ 0.99 
+30 mg 
+250 
+311 / 1.24 
+221 / 0.88 
+217 / 0.87 
+1782 
+2133 / 1.20 
+1856 / 1.04 
+1856 / 1.04 
+50 mg 
+313 
+354 / 1.13 
+378 / 1.21 
+372 / 1.19 
+3050 
+3059 / 1.00 
+3711 / 1.22 
+3662 / 1.20 
+50 mga 
+400 
+391/ 0.98 
+414 / 1.04 
+408 / 1.02 
+3470 
+3303 / 0.95 
+4042 / 1.16 
+3975 / 1.15 
+Study C2102 
+100 mg 
+939 
+742 / 0.79 
+772 / 0.82 
+765 / 0.81 
+9788 
+7064 / 0.72 
+9138 / 0.93 
+8919/ 0.91 
+Study A2101 
+200 mg 
+1657 
+1529/ 0.92 
+1575 / 0.95 
+1567 / 0.95 
+18033 
+17339 / 0.96 
+21565 / 1.20 
+20949 / 1.16 
+Multiple dose, 
+QD 
+0.5 mg, day 1 
+1.81 
+2.67 / 1.48 
+2.32 / 1.28 
+2.19 / 1.21 
+7.30 
+14.2 / 1.95 
+9.92 / 1.36 
+10.5 / 1.44 
+0.5 mg, day 14 
+1.80 
+2.68 / 1.49 
+2.30 / 1.27 
+2.18 / 1.21 
+9.52 
+14.4 / 1.51 
+9.77 / 1.03 
+10.4 / 1.10 
+1 mg, day 1 
+3.98 
+5.41/ 1.36 
+5.00 / 1.26 
+4.69 / 1.18 
+19.15 
+29.0 / 1.52 
+21.7 / 1.13 
+22.9 / 1.20 
+1 mg, day 14 
+4.46 
+5.44 / 1.22 
+4.93 / 1.11 
+4.61 / 1.03 
+21.94 
+29.24 / 1.33 
+21.0 / 0.96 
+22.3 / 1.02 
+3 mg, day 1 
+15.8 
+17.0/ 1.08 
+17.6 / 1.11 
+16.4 / 1.04 
+73.5 
+93.1 / 1.27 
+82.1 / 1.12 
+85.3 / 1.16 
+3 mg, day 14 
+14.7 
+17.2/ 1.17 
+17.1 / 1.16 
+15.6 / 1.06 
+75.3 
+93.8 / 1.25 
+75.5 / 1.00 
+78.7 / 1.05 
+10 mg, day 1 
+68.7 
+62.6/0.91 
+68.4 / 1.00 
+65.2 / 0.95 
+349 
+367 / 1.05 
+405 / 1.16 
+417 / 1.19 
+Multiple dose, 
+BID 
+30 mg, day 8b 
+306 
+292 / 0.95 
+287 / 0.94 
+288 / 0.94 
+1680 
+1787 / 1.06 
+1832 / 1.09 
+1848/ 1.10 
+Study C2108 
+a: 
+The 
+proportion of female subjects in the simulation was set as 0.5, which was matched to that in study C2102. 
+b: The proportion of female subjects in the simulation was set as 1, which was matched to that in study A2108. 
+48  
+
+
+===== PAGE 51 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 8 Osilodrostat and metabolite LXB168 PBPK model parameter values in Applicant refined model and FDA refined Model 
+1 and Model 2. Only refined model parameters were listed. 
+Parameter 
+Applicant 
+refined model 
+FDA refined 
+model 1 
+FDA refined 
+model 2 
+Absorption 
+ka (1/h) 
+2.8a 
+3.5b 
+3.5b 
+CYP3A4 
+Vmax (pmol/min/pmol CYP) 
+Km,u ( M) 
+0.3458c 
+36.1d 
+0.3458c 
+36.1d 
+0.3458c 
+36.1d 
+CYP2D6 
+Vmax (pmol/min/pmol CYP) 
+Km,u ( M) 
+3.443c 
+30.4d 
+3.443c 
+30.4d 
+3.443c 
+30.4d 
+CYP2B6_pathway 1 
+Vmax (pmol/min/pmol CYP) 
+Km,u ( M) 
+1.4902c 
+36.1d 
+1.4902c 
+36.1d 
+1.4902c 
+36.1d 
+Additional HLM clearance 
+(User ES microsomal kinetics) 
+Vmax (pmol/min/mg protein) 
+Km,u ( M) 
+1.5e 
+0.3e 
+0.2f 
+0.07f 
+0.3g 
+0.07g 
+CYP3A4_LXB168 formation 
+Vmax (pmol/min/pmol CYP) 
+Km,u ( M) 
+NA 
+0.008f 
+0.07f 
+NA 
+CYP2B6_ LXB168 formation 
+Vmax (pmol/min/pmol CYP) 
+Km,u ( M) 
+NA 
+NA 
+0.115g 
+0.07g 
+User UGT1 HLM kinetics_ LXB168 formation 
+Vmax (pmol/min/mg protein) 
+Km,u ( M) 
+1.5e 
+0.3e 
+NA 
+NA 
+Interaction 
+CYP1A2 Ki, M 
+CYP1A2 IndC50, M 
+CYP1A2 Indmax, fold 
+0.175i 
+100h 
+18.7h 
+0.26i 
+0.26i 
+Refer to Figure 3 
+CYP2B6 Ki, M 
+CYP2B6 IndC50, M 
+CYP2B6 Indmax, fold 
+10h 
+136h 
+15.1h 
+Refer to Result 5 (bupropion) 
+CYP2C9 Ki, M 
+20h 
+20h 
+20h 
+CYP2C19 Ki, M 
+CYP2C19 IndC50, M 
+CYP2C19 Indmax, fold 
+1i 
+52.3h 
+1.56h 
+Refer to Figure 5. 
+CYP2D6 Ki, M 
+2h
+ 2h
+ 2h 
+CYP3A4 Ki, M 
+CYP3A4 IndC50, M 
+CYP3A4 Indmax, fold 
+3.25h 
+196.7j 
+12.38j 
+3.25h 
+3.25h 
+Refer to Result 4 (midazolam) 
+Metabolite LXB168 interaction 
+CYP2B6 IndC50, M 
+CYP2B6 Indmax, fold 
+225h 
+3.96h 
+NA 
+5.0k 
+10k 
+CYP3A4 IndC50, M 
+CYP3A4 Indmax, fold 
+86.3j 
+3.71j 
+3.5k 
+3.71k 
+NA 
+Metabolite LXB168 clearance CLiv (L/h) 
+1b 
+1.3b 
+1.3b 
+NA: parameter values were not assigned. 
+50 
+Reference ID: 4547711 
+
+
+===== PAGE 52 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+a: obtained from the fitting of the osilodrostat clinical PK data 
+b: optimized based on the metabolite PK data 
+c: adjusted to maintain the relative contributions of the enzymes to the elimination of osilodrostat 
+d: determined in vitro 
+e: optimized based on the osilodrostat nonlinear PK over the dose range of 3-200 mg following a single dose 
+administration and assumed a non-CYP enzyme was responsible for the formation of LXB168 
+f: optimized based on the osilodrostat nonlinear PK over the dose range of 0.5-200 mg following a single dose 
+administration and assumed CYP3A was responsible for the formation of LXB168 
+g: optimized based on the osilodrostat nonlinear PK over the dose range of 0.5-200 mg following a single dose 
+administration and assumed CYP2B6 was responsible for the formation of LXB168 
+h: determined in vitro 
+i: optimized based on the single dose clinical DDI study results  
+j: normalized based on the positive control rifampin induction parameters determined in vitro 
+k: optimized based on the osilodrostat PK profile following multiple dose administration (30 mg, bid) 
+FDA’s Model refinement and verification 
+Given the limitations identified in Applicant’s modeling approach, the FDA’s reviewer further 
+refined the model by re-optimizing the model parameters to better capture the osilodrostat 
+nonlinear PK over a dose range from 0.5-200 mg, osilodrostat auto-induction concentration-time 
+profile, and metabolite concentration-time profile following a single dose or multiple dose 
+administration.  
+Per the discussion in previous section, CYP3A4 and/or CYP2B6 are possibly involved in the 
+formation of LXB168. However, based on the current available in vitro and in vivo information, 
+it is impossible to determine which enzymes were responsible for the formation of LXB168 and 
+the contribution of the enzyme to the overall osilodrostat clearance. Two scenarios were assumed, 
+1) CYP3A4 was the only enzyme involved in the formation of LXB168 and responsible for the 
+auto-induction of osilodrostat metabolism (Model 1), and 2) CYP2B6 was the only enzyme  
+involved in the formation of LXB168 and responsible for the auto-induction of osilodrostat 
+metabolism (Model 2). It should be noted that these two scenarios would cover the situation that 
+both CYP3A4 and CYP2B6 were involved in the formation of LXB168 and responsible for the 
+auto-induction of osilodrostat metabolism. The osilodrostat enzyme kinetic parameters, enzyme 
+induction parameters and LXB168 enzyme induction parameter and clearance were optimized to 
+better recover the observed osilodrostat and LXB168 PK following a single and multiple dose 
+administration (Table 8). The model was also verified to predict the clinical magnitude of a single 
+dose osilodrostat (50mg) on probe substrates of CYP1A2 (observed AUCR=2.33), CYP2C19 
+(observed AUCR=1.91), CYP2D6 (observed AUCR=1.48) and CYP3A (observed AUCR=1.50) 
+from a cocktail DDI study (Study C2102). The model verification results were similar between 
+Model 1 and Model 2 and only results from Model 1 simulation was shown in Table 7, Figure 19 
+and Figure 20. After full characterization of osilodrostat nonlinear PK after a single dose 
+administration, osilodrostat auto-induction PK profile after multiple dose administration and 
+metabolite LXB168 PK profile after a single dose administration, and verification of the clinical 
+DDI study results, the FDA’s refined Model 1 and Model 2 were applied to assess the DDI 
+51  
+Reference ID: 4547711 
+
+
+===== PAGE 54 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The predicted caffeine AUCR with osilodrostat at steady state in the absence of CYP1A2 induction 
+is 1.91. Then simulations were performed to deconvolute the CYP1A2 induction parameter values 
+to attain a caffeine AUCR of 1.00 in the presence of both osilodrostat mediated CYP1A2 induction 
+and inhibition effect at steady state. The deconvoluted CYP1A2 IndC50 is 3.6 M, while in vitro 
+determined Indmax value (18.7) remained unchanged in the analysis. Then caffeine plasma  
+concentration-time profile was simulated in the presence of single dose osilodrostat mediated by 
+both CYP1A2 inhibition and induction effect. As shown in Figure 21, the simulated caffeine 
+elimination rate was much faster than clinically observed. As such, osilodrostat mediated CYP1A2 
+induction effect at steady state was deemed unlikely to be higher than that predicted using the 
+deconvoluted induction parameter values (Figure 22). Therefore, it was concluded that the caffeine 
+AUC ratio with osilodrostat (30mg, bid) at steady state ranged from 1.00 to 1.91 (Table 10).  
+The effect of lower dose osilodrostat on caffeine PK was also explored using Model 1 with 
+osilodrostat mediated CYP1A2 inhibition effect only or with osilodrostat mediated by both 
+CYP1A2 induction and inhibition effect. The predicted highest and lowest caffeine AUCR showed 
+a trend toward 1 with the decrease in osilodrostat dose, indicating a lower DDI risk with lower 
+dose osilodrostat (Figure 24). 
+0 
+500 
+1,000 
+1,500 
+2,000 
+2,500 
+3,000 
+0
+ 12
+ 24
+ 36
+ 48
+ 
+Plasma Concentration(ng/mL) 
+Time (h) 
+1 
+10 
+100 
+1,000 
+10,000 
+0
+ 12
+ 24
+ 36
+ 48
+ 
+Plasma Concentration (ng/mL) 
+Time (h) 
+Figure 21 Observed (dots) and simulated (lines) caffeine concentration-time profiles in the presence (orange dots and 
+lines) and absence (blue dots and lines) of single dose osilodrostat (50 mg). Orange solid line: simulated caffeine PK 
+profile in the presence of osilodrostat mediated CYP1A2 inhibition effect only. Orange dashed line: simulated caffeine 
+PK profile in the presence of osilodrostat mediated CYP1A2 inhibition and induction effect. The induction parameter 
+values were deconvoluted to attain a caffeine AUCR of 1.00 in the presence of both osilodrostat mediated CYP1A2 
+induction and inhibition effect at steady state. 
+53  
+Reference ID: 4547711 
+
+
+===== PAGE 55 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Clinical observed 
+AUCR = 2.33 
+CmaxR = 1.07 
+1. Single dose (50 mg osilodrostat) 
+with CYP1A2 inhibition, Ki = 0.26 M 
+without CYP1A2 induction 
+2. Multiple dose (30 mg, bid osilodrostat) 
+with CYP1A2 inhibition, Ki = 0.26 M 
+without CYP1A2 induction 
+Predicted  
+AUCR = 2.33  
+CmaxR = 1.24  
+Predicted  
+AUCR = 1.91  
+CmaxR = 1.19  
+3. Multiple dose (30 mg, bid osilodrostat) 
+with CYP1A2 inhibition, Ki = 0.26 M 
+If predicted 
+AUCR = 1.00 
+Then for CYP1A2 induction 
+Indmax = 18.7 ( in vitro determined) 
+IndC50 = 3.6 M (optimized) 
+4. Single dose (50 mg osilodrostat) 
+with CYP1A2 inhibition, Ki = 0.26 M 
+with CYP1A2 induction, Indmax = 18.7, IndC50 = 3.6 M 
+AUCR was lower than 
+Predicted  
+AUCR= 1.92  
+CmaxR= 1.23  
+observed 
+Conclusion 
+Multiple dose (30 mg, bid osilodrostat) with  
+CYP1A2 inhibition &induction  
+1.91 ≥ AUCR > 1.00  
+Figure 22 Assessment of DDI potential of osilodrostat as a perpetrator with caffeine. AUCR and CmaxR are the 
+caffeine AUC and Cmax ratios in the presence and absence of osilodrostat mediated CYP1A2 inhibition effect, or 
+both CYP1A2 induction and inhibition effect. 
+4. Can FDA refined osilodrostat PBPK models predict its effect on midazolam (a CYP3A 
+substrate) PK following multiple dose administration of osilodrostat (30mg, bid)? 
+Yes. In vitro studies indicated that osilodrostat is a CYP3A4 substrate, a CYP3A4 competitive 
+inhibitor and a CYP3A4 inducer. The in vitro osilodrostat CYP3A4 IC50/2 value (3.25 M) was 
+found to provide adequate prediction of the observed midazolam AUCR with and without a single 
+dose of osilodrostat. With respect to the osilodrostat mediated CYP3A4 induction effect, due to 
+the uncertainty associated with the in vitro-in vivo extrapolation of osilodrostat mediated CYP3A4 
+induction potentials, two scenarios were assumed to explore the possible lower and higher end of 
+midazolam exposure change with osilodrostat at steady state by using Model 1 and Model 2, 
+respectively. Model 1 (with maximum CYP3A4 induction) assumed CYP3A4 was the only 
+enzyme responsible for the auto-induction of osilodrostat metabolism while Model 2 (without 
+CYP3A4 induction) assumed that CYP2B6 was the only enzyme responsible for the auto-
+induction of osilodrostat metabolism. As shown in Table 10, the estimated midazolam possible 
+higher AUCR with osilodrostat (30mg, bid) at steady state is 1.28 using Model 1, while the 
+estimated midazolam possible lower AUCR with osilodrostat (30mg, bid) at steady state is 0.52 
+using Model 2. 
+54  
+Reference ID: 4547711 
+
+
+===== PAGE 57 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+administration of osilodrostat.  
+The in vivo osilodrostat CYP2C19 Ki (Scenario 1) or CYP2C19 KI and kinact (Scenario 2) values 
+(Figure 23) were optimized separately based on the single dose clinical DDI study results with 
+omeprazole. Thereafter, the DDI between osilodrostat and omeprazole following multiple dose 
+administration of osilodrostat and single dose of omeprazole was predicted by using Model 1 and 
+Model 2. 
+It should be noted that omeprazole is also a CYP2C19 TDI and the omeprazole model in the 
+Applicant’s submission which is the default omeprazole model in Simcyp did not account for 
+omeprazole mediated CYP2C19 TDI. The reviewer refined the Simcyp omeprazole model by 
+incorporating omeprazole mediated CYP2C19 TDI. The in vitro determined omeprazole 
+CYP2C19 KI (8.2 M) and kinact (1.74h-1) values2 were optimized to better recover the clinical 
+omeprazole multiple dose PK study results (Table 9). The DDI between osilodrostat and 
+omeprazole following multiple dose administration of both osilodrostat and omeprazole was also 
+evaluated by using Model 1 and Model 2 to account for the effect of omeprazole mediated 
+CYP2C19 TDI. 
+In summary, in an attempt to assess the potential DDI risk between osilodrostat and omeprazole, 
+the highest possible omeprazole AUC ratio with osilodrostat was estimated by assuming CYP2B6 
+was the only enzyme responsible for the auto-induction of osilodrostat metabolism (Model 2) and 
+only osilodrostat mediated CYP2C19 TDI was responsible for the observed DDI between 
+osilodrostat and omeprazole. The lowest possible omeprazole AUC ratio with osilodrostat was 
+estimated by assuming CYP3A4 was the only enzyme responsible for the auto-induction of 
+osilodrostat metabolism (Model 1) and only osilodrostat mediated CYP2C19 competitive 
+inhibition was responsible for the observed DDI between osilodrostat and omeprazole. As shown 
+in Figure 23 and Table 10, the estimated omeprazole AUCR is between 1.06 to 2.28 following 
+multiple dose administration of osilodrostat (30mg, bid) and single dose administration of 
+omeprazole (20 mg) and the estimated omeprazole AUCR is between 0.86 to 1.52 following 
+multiple dose administration of osilodrostat (30mg, bid) and omeprazole (20 mg, qd). 
+The effect of lower dose osilodrostat on omeprazole PK was also explored using Model 1 and 
+Model 2. The predicted highest and lowest omeprazole AUCR showed a trend toward 1 with the 
+decrease in osilodrostat dose, indicating a lower DDI risk with lower dose osilodrostat (Figure 24). 
+2 Shirasaka Y, Sager JE, Lutz JD, Davis C, Isoherranen N. Inhibition of CYP2C19 and CYP3A4 by omeprazole 
+metabolites and their contribution to drug-drug interactions. Drug Metab Dispos. 2013 Jul;41(7):1414-24.  
+56  
+Reference ID: 4547711 
+
+
+===== PAGE 58 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                 
+ 
+ 
+ 
+ 
+ 
+Table 9 Optimized omeprazole mediated CYP2C19 TDI parameter values and observed and predicted AUC changes with time 
+following multiple dose administration of omeprazole in healthy subjects. 
+Optimized omeprazole 
+parameter values 
+AUCRc 
+Day5/Day1 
+AUCRc 
+Day7/Day1 
+Observeda 
+Predicted 
+Observedb 
+Predicted 
+CYP2C19 
+KI = 0.25 M 
+kinact = 3h-1 
+1.90 
+1.82 
+2.00 
+1.85 
+a: observed ratio of AUC on day 5 to AUC on day 1 following multiple oral administration of omeprazole (20 mg, 
+qd) to healthy subjects. Data were obtained from Hassan-Alin 20003. 
+b: observed ratio of AUC on day 7 to AUC on day 1 following multiple oral administration of omeprazole (20 mg, 
+qd) to healthy subjects. Data were obtained from Andersson 19984. 
+c: Geometric mean ratio 
+3 Hassan-Alin M1, Andersson T, Bredberg E, Röhss K. Pharmacokinetics of esomeprazole after oral and 
+intravenous administration of single and repeated doses to healthy subjects.  Eur J Clin Pharmacol. 2000 Dec;56(9­
+10):665-70. 
+4 Andersson T1, Holmberg J, Röhss K, Walan A. Pharmacokinetics and effect on caffeine metabolism of the proton 
+pump inhibitors, omeprazole, lansoprazole, and pantoprazole. Br J Clin Pharmacol. 1998 Apr;45(4):369-75. 
+57  
+Reference ID: 4547711 
+
+
+===== PAGE 62 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Additional Comments 
+With respect to the DDI potential of osilodrostat as a victim with CYP modulators, the Applicant stated 
+in the Summary of Clinical Pharmacology and in response to the FDA’s information request that 
+“osilodrostat is unlikely to be a victim for DDI”. Clinical DDI study has not been conducted to assess the 
+DDI potential of osilodrostat as a victim with CYP modulators. After reviewing the totality of clinical 
+pharmacology information, we determined that the statement “osilodrostat is unlikely to be a victim for 
+DDI” may not be adequate at this time for the following reasons. 
+o  The autoinduction property of osilodrostat metabolism indicated that the contribution of CYP3A4 
+and/or CYP2B6 to the overall osilodrostat clearance was underestimated. 
+o  The possibility that the involvement of CYP3A4 and/or CYP2B6 in the formation of LXB168 cannot 
+be excluded. 
+o  The formation clearance of LXB168 was estimated to be about 14% of the total clearance of 
+osilodrostat in the Summary of Clinical Pharmacology and response to the FDA’s information request, 
+which may be underestimated as evidenced by over 50% of the total clearance of osilodrostat that was 
+assigned to the formation clearance of LXB168 in both Applicant’s and FDA refined models to 
+recover the LXB168 PK. 
+In conclusion, the DDI potential of osilodrostat as a victim of CYP modulators cannot be excluded. 
+61  
+Reference ID: 4547711 

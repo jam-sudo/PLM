@@ -1,0 +1,46 @@
+{
+  "nda": "NDA204384",
+  "drug_name": "bedaquiline",
+  "pk_tuples": [
+    {
+      "dose_mg": 400,
+      "dose_original": "400-mg",
+      "route": "oral",
+      "formulation": "tablet",
+      "food": "fed",
+      "population": "healthy_adult",
+      "n_subjects": null,
+      "dose_schedule": "single_dose",
+      "cmax_ng_ml": 5015,
+      "tmax_h": 4.0,
+      "auc_inf_ng_h_ml": null,
+      "auc_last_ng_h_ml": 86240,
+      "t_half_h": 890,
+      "cl_L_h": null,
+      "vd_L": 164,
+      "source_page": 33,
+      "confidence": "high",
+      "notes": "Healthy control subjects (reference arm of hepatic impairment study); single 400 mg under fed; AUC72h=57110 ng.h/mL; median Tmax about 4 h; Vd/F central compartment ~164 L"
+    },
+    {
+      "dose_mg": 400,
+      "dose_original": "400-mg",
+      "route": "oral",
+      "formulation": "tablet",
+      "food": "fed",
+      "population": "hepatic_impaired",
+      "n_subjects": null,
+      "dose_schedule": "single_dose",
+      "cmax_ng_ml": 4311,
+      "tmax_h": 5.0,
+      "auc_inf_ng_h_ml": null,
+      "auc_last_ng_h_ml": 69830,
+      "t_half_h": 676,
+      "cl_L_h": null,
+      "vd_L": null,
+      "source_page": 33,
+      "confidence": "high",
+      "notes": "Moderate hepatic impairment; single 400 mg TMC207 tablet under fed conditions; AUC72h=41910 ng.h/mL; median Tmax about 5 h"
+    }
+  ]
+}

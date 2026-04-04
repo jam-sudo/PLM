@@ -1,0 +1,1479 @@
+
+
+===== PAGE 13 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+xii
+Integrated Review Template, version 4.0 (11/1/23)
+Table of Figures
+Figure 1. Exposure-Response for fSARA..........................................................................25
+Figure 2. Parent Study Design, Trial IB1001-201.............................................................26
+Figure 3. Extension Phase..................................................................................................28
+Figure 4. Study Design, Naïve Subjects, Trial IB1001-301 ..............................................40
+Figure 5. Mean ±SE Plot of mSARA Total Score Over Time per Treatment Sequence...49
+Figure 6. Mean ±SE Plot of fSARA Total Score Over Time per Treatment Sequence ....51
+Figure 7. Forest Plot of Observed Treatment Difference in fSARA for Subgroups 
+With 95% CI ................................................................................................................54
+Figure 8. Dumbbell Plot of Change From Baseline to End of Treatment (i.e., Visit 4 
+or Visit 6) in fSARA....................................................................................................64
+Figure 9. Individual Trajectory of fSARA Total Score at the End of Treatment Period 
+for Subjects <10 Years Old..........................................................................................66
+Figure 10. Applicant’s Proposed Dosing and the Simulated PK Exposures by Weight 
+Group ...........................................................................................................................68
+Figure 11. The Simulated Cmax and Daily AUC Following the FDA Review Team 
+Recommended Dosing Regimens................................................................................69
+Figure 12. Hepatocellular Drug-Induced Liver Injury Screening Plot, Pooled 
+Analyses, Safety Population, Treatment Period I, Trial IB1001-301..........................99
+Figure 13. Chemical Structure for Levacetylleucine.......................................................125
+Figure 14. Effect of NALL on Lysosome Volume and Sphingosine, Total GSL, and 
+Free Cholesterol Levels in Npc1-/- Chinese Hamster Ovary Cells.............................132
+Figure 15. LysoTracker Fluorescence in Control and Disease Fibroblasts .....................133
+Figure 16. Effect of NALL on Total Glycosphingolipids in Forebrain and Cerebellum 
+of Npc1-/- Mice at the Age of 59 Days.......................................................................134
+Figure 17. Gait Analysis of Mice With NALL Treatment Initiated in the Symptomatic 
+or Pre-Symptomatic Period Compared With Untreated Npc1-/- Mice and Wildtype 
+Controls......................................................................................................................135
+Figure 18. Effect of NALL on Gait Analysis, Motor Function, and Survival of Npc1-/- 
+Mice Treated Pre-Symptomatically...........................................................................136
+Figure 19. Effect of NALL on Activated Microglia in Npc1-/- Mice at the Age of 59 
+Days ...........................................................................................................................137
+Figure 20. Summary of Histopathological Findings in 26-Week Chronic Toxicity 
+Study of IB1001.........................................................................................................145
+Figure 21. Summary of Mean Body Weights of Rabbits in Embryo-Fetal 
+Development Study, Phase 1, Means.........................................................................162
+Reference ID: 5451862
+
+
+===== PAGE 15 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+1
+Integrated Review Template, version 4.0 (11/1/23)
+Glossary
+5DNPCCSS
+5-domain Niemann-Pick disease type C clinical severity scale
+8MWT
+8-meter walk test
+9HPT-D
+9-Hole Peg Test of the dominant hand
+AE
+adverse event
+ALT
+alanine aminotransferase
+AR
+adverse reaction
+AST
+aspartate aminotransferase
+ATP
+adenosine triphosphate
+AUC
+area under the concentration-time curve
+BCRP
+breast cancer resistance protein
+BID
+twice daily
+BSEP
+bile salt export pump
+CE
+confirmatory evidence
+CGI-I
+clinical global impression scale of improvement
+CGI-S
+clinical global impression scale of severity
+CHO
+Chinese hamster ovary
+CI
+confidence interval
+CI-CS
+clinical impression of change in severity
+CL
+clearance
+Cmax
+maximum plasma concentration
+COVID-19
+coronavirus disease of 2019
+CS
+clinically significant
+CYP
+cytochrome P450
+DRF
+dose-range finding
+ECG
+electrocardiography
+EFD
+embryo-fetal development
+EOT
+end of the treatment period
+EOW
+end of the washout period
+EP
+extension phase
+E-R
+exposure-response
+FDA
+Food and Drug Administration
+FOCE ELS
+First Order Conditional Estimation-Extended Least Squares
+fSARA
+functional scale for assessment and rating of ataxia
+FSH
+follicle-stimulating hormone
+GD
+gestation day
+GLP
+good laboratory practice
+GSL
+glycosphingolipid
+HEK293
+293 human embryonic kidney
+hERG
+human ether-a-go-go-related gene
+IC50
+half-maximal inhibitory concentration 
+Igut
+intestinal luminal concentration of the interacting drug calculated as the dose/250 
+mL
+IID
+Inactive Ingredients Database
+Reference ID: 5451862
+
+
+===== PAGE 16 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+2
+Integrated Review Template, version 4.0 (11/1/23)
+IMP
+investigational medicinal product
+IND
+investigational new drug
+ITT
+intent-to-treat
+IV
+intravenous
+LOCF
+last observation carried forward
+MDCK
+Madin-Darby canine kidney
+MDE
+maximum daily exposure
+mDRS
+modified disability rating scale
+mITT
+modified intent-to-treat
+MMRM
+mixed model for repeated measures
+MOA
+mechanism of action
+MRHD
+maximum recommended human dose
+mSARA
+modified scale for the assessment and rating of ataxia
+NALL
+N-acetyl-L-leucine
+NDA
+new drug application
+NOAEL
+no-observed-adverse-effect level
+NPC
+Niemann-Pick disease type C
+NPC-CSS
+Niemann-Pick disease type C clinical severity scale
+OAT
+organic anion transporter
+OCT
+organic cation transporter
+OLE
+open-label extension
+PD
+pharmacodynamic
+PEG
+percutaneous endoscopic gastrostomy
+PI
+prescribing information
+PIND
+pre-investigational new drug application
+P-gp
+P-glycoprotein
+PK
+pharmacokinetic
+PMR
+postmarketing requirement
+PND
+postnatal day
+PopPK
+population PK
+QD
+once daily
+SAE
+serious adverse event
+SAP
+statistical analysis plan
+SARA
+scale for the assessment and rating of ataxia
+SCAFI
+spinocerebellar ataxia functional index
+SD
+standard deviation
+SEE
+substantial evidence of effectiveness
+TEAE
+treatment-emergent adverse event
+TID
+three times daily
+TK
+toxicokinetic
+ULN
+upper limit of normal
+US
+United States
+V
+volume of distribution
+Reference ID: 5451862
+
+
+===== PAGE 22 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+8
+Integrated Review Template, version 4.0 (11/1/23)
+2.2. Conclusions Regarding Benefit-Risk
+NPC is a rare and progressive neurovisceral disorder caused by mutations in the genes NPC1 or 
+NPC2 (Patterson 1993). These mutations result in impaired intracellular trafficking and 
+accumulation of unesterified cholesterol and GSLs within the late endosomes and lysosomes of 
+affected cells in the brain and other tissues. NPC is always progressive, but the primary 
+manifestations, severity, and rate of progression are variable. Individuals who develop the 
+symptoms of NPC in early childhood (after the age of 2 years) have a primarily 
+neurodegenerative course with progressive motor and cognitive impairment, supranuclear gaze 
+palsy, dysphagia, dysarthria, ataxia, and epilepsy, ultimately progressing to respiratory failure 
+and death.
+There is currently only one very recently approved treatment for NPC. The current standard of 
+care is primarily supportive, however the substrate reducing therapy Zavesca (miglustat) is 
+approved in the European Union, Canada, and Japan for the treatment of NPC and off-label use 
+is considered standard of care in the United States. Despite widespread use of miglustat, NPC 
+continues to be progressive and life-limiting. Therefore, treatment and cure of NPC continue to 
+represent unmet needs. 
+The benefit of levacetylleucine is based on comparison of functional Scale for Assessment and 
+Rating of Ataxia scores in 60 subjects aged 5 to 67 years with NPC and at least one neurological 
+symptom randomized either to levacetylleucine or placebo for 12 weeks. The estimated 
+treatment difference in mean functional Scale for Assessment and Rating of Ataxia scores at the 
+end of week 12 was -0.45 (95% confidence interval: -0.70, -0.19), favoring the levacetylleucine 
+arm and meeting numerical statistical significance (p<0.001). CE of effectiveness is derived from 
+a separate phase 2 rater blinded open-label trial (Trial IB1001-201) and nonclinical 
+pharmacology studies (in vitro and in vivo) which are considered supportive of the overall 
+package of CE. 
+While no subjects under 5 years old were enrolled, extrapolation of efficacy to children who are 
+under 5 years old using pharmacokinetic data are supported by the similar disease 
+pathophysiology and predominant clinical manifestations in children with NPC with disease 
+onset after infancy. Similarly, a limited amount of extrapolation of clinical safety to children 
+under 5 years old and weight at least 15 kg was reasonable given the favorable benefit/risk 
+profile, the similar disease pathophysiology across the age spectrum, the ability to utilize 
+pharmacokinetic data for dose selection, and the lack of anticipated differential safety risk. 
+While there is a limited amount of safety data in younger children, the available data support that 
+levacetylleucine is safe for its intended use in adults and pediatric patients >15 kg and the overall 
+benefit/risk is favorable. Common adverse reactions include dysphagia, abdominal pain, and 
+vomiting. Aggravation of pre-existing rosacea was also reported as possibly related to treatment 
+during the trial. These risks can be adequately mitigated via product labeling and further 
+evaluated during routine pharmacovigilance. 
+Safety concerns from nonclinical studies include embryo-fetal toxicity. Uncertainties include the 
+lack of juvenile toxicity studies, fertility studies, and embryofetal, prenatal and postnatal 
+development studies, and carcinogenicity studies. These studies will be conducted as 
+postmarketing requirements. 
+Reference ID: 5451862
+
+
+===== PAGE 36 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+22
+Integrated Review Template, version 4.0 (11/1/23)
+5.2. Clinical Pharmacology/Pharmacokinetics
+The pharmacologic activity, pharmacokinetics (PK), and clinical pharmacology of levacetylleucine that are relevant to the 
+interpretation of benefit and risk are summarized in Table 5. 
+Table 5. Summary of Clinical Pharmacology and Pharmacokinetics
+Characteristic
+Drug Information
+Pharmacologic Activity
+Mechanism of action
+The mechanism of action of levacetylleucine is unknown.
+Active moieties
+N-acetyl-L-leucine (NALL) is the active moiety. After being absorbed, NALL is metabolized into acetate and L-leucine 
+by ubiquitously expressed enzymes. No other active metabolite of NALL has been identified. 
+QT prolongation
+The Applicant has not conducted a thorough QT/QTc study to assess the effect of NALL on QT interval prolongation. 
+According to the applicant’s evaluation, the nonclinical and clinical data demonstrated no potential for QT/QTc 
+prolongation and no other cardiovascular related findings. The review team agreed with the applicant’s evaluation 
+and agreed with waiving a TQT study. See Cardiac IRT team review in DARRTS dated January 26, 2024 (Reference 
+ID: 5317889)
+General Information
+Bioanalysis
+Levacetylleucine concentrations in human plasma were quantified using a validated LC-MS/MS assay. The 
+sensitivity of the assay was 100 ng/mL.
+Healthy subjects versus 
+patients
+The pharmacokinetics (PK) of NALL has not been assessed in healthy subjects.
+Drug exposure at steady 
+state following the 
+therapeutic dosing 
+regimen (or single dose, if 
+more relevant for the drug)
+The full PK profile of NALL was assessed at steady state in 17 subjects with NPC after 365 days (±14 days) of 
+dosing in the long-term extension phase of a phase 2 study. NALL maximum concentration (Cmax) and area under 
+the curve from time 0 to 24 hours (AUC0­24h) were 8.3 (3.3) µg/mL and 33.2 (12.5) h·µg/mL. No sex differences in PK 
+parameters were observed. 
+Range of effective dose(s) 
+or exposure
+The maximum proposed daily dose is 4 grams taken as 2 grams in the morning, 1 gram at noon, and 1 gram in the 
+evening. This dose is the maximum daily dose tested in the clinical trials.
+Maximally tolerated dose 
+or exposure
+A maximum tolerated dose has not been determined
+Dose proportionality
+Dose proportionality was not assessed in the submitted clinical trials.
+Accumulation
+No accumulation was observed after repeat administration
+Bridge between to-be-
+marketed and clinical trial 
+formulations
+The phase 3 trial used the to-be-marketed formulation; therefore, a PK bridging study between the to-be-marketed 
+formulation and clinical trial formulation is not needed.
+Reference ID: 5451862
+
+
+===== PAGE 37 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+23
+Integrated Review Template, version 4.0 (11/1/23)
+Characteristic
+Drug Information
+Absorption
+Bioavailability
+The absolute bioavailability of NALL following oral administration has not been determined.
+Tmax
+After oral administration, NALL was absorbed with median (min, max) Tmax of 1 (0.5, 2.5) hour. 
+Distribution
+Volume of distribution
+The mean (SD) volume of distribution at steady state (Vss) was 253 (125) L.
+Plasma protein binding
+Plasma protein binding of NALL is very low with free drug about 100%.
+Elimination
+Clearance
+The mean (SD) clearance is 139 (59) L/hour.
+Half-life
+The estimated mean half-life is around 1 hour.
+Metabolic pathway(s)
+Levacetylleucine is metabolized into acetate and L-leucine by ubiquitously expressed enzymes, which are used 
+endogenously in catabolic and metabolic pathways. Cytochrome P450 enzymes are not involved in the metabolism 
+of levacetylleucine. 
+Primary excretion 
+pathways (% dose)
+No mass balance study was conducted in humans. Following a single oral administration to rats, the metabolites are 
+the amino acid L-leucine and acetic acid. 
+Intrinsic Factors and Specific Populations
+Body weight
+In the population PK analysis, body weight was identified as a significant covariate; apparent clearance (CL/F) and 
+apparent volume of distribution (V/F) of NALL were lower in subjects with lower body weight. The recommended 
+dosing regimen of NALL in patients with NPC is based on body weight.
+Age
+Age was not identified as significant covariate affecting NALL PK in the population PK analyses.
+Renal impairment
+The effect of renal impairment on the PK of IB1001 has not been evaluated. See Section 8.1.
+Hepatic impairment
+The effect of hepatic impairment on the PK of IB1001 has not been evaluated. See Section 8.1.
+Drug Interaction Liability (Drug as Perpetrator)
+Inhibition/induction of 
+metabolism
+No in vitro induction towards CYP enzymes was observed. No clinical drug-drug interaction studies have been 
+conducted.
+Inhibition/induction of 
+transporter systems
+Inhibition of efflux transporters P-gp, BCRP, BSEP and OAT1/3 by NALL was observed in vitro. 
+Source: Summary of Clinical Pharmacology and Study reports
+Abbreviations: AUC0­24h = area under the concentration-time curve from time 0 to 24 h; BCRP = breast cancer resistance protein; BSEP = bile salt export pump; CL/F = apparent 
+clearance; Cmax = maximum plasma concentration; CYP = cytochrome P450; LC-MS/MS = liquid chromatography with tandem mass spectrometry; MDR1 = multidrug resistance 
+mutation 1; NALL = N-acetyl-L-leucine; NPC = Niemann-Pick disease type C; OAT = organic anion transporter; PK = pharmacokinetics; QTc = corrected QT interval; SD = standard 
+deviation; Tmax = time to maximum concentration; V/F = apparent volume of distribution; Vss = volume of distribution at steady-state
+Reference ID: 5451862
+
+
+===== PAGE 39 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+25
+Integrated Review Template, version 4.0 (11/1/23)
+phase 2 and phase 3 clinical trials was 4 g/day for subjects aged 13 years and over. Subjects 
+under the age of 13 years were dosed based on body weight, as follows: children weighing 15 kg 
+to under 25 kg received 2 g/day, children weighing 25 kg to under 35 kg received 3 g/day, and 
+children weighing 35 kg and above received 4 g/day.
+The efficacy of the clinical dose was consistent with the nonclinical pharmacology exposure 
+range data and was clinically relevant when compared to placebo treatment. Exposure-response 
+(E-R) analyses for efficacy did not reveal any apparent correlation between plasma exposures 
+and drug effects.
+Subjects weighing <15 kg were not enrolled in any of the Applicant’s trials.
+6.1.3. Exposure-Response Relationship for Efficacy
+In the E-R analysis conducted based on the data from 38 subjects who had both efficacy and 
+evaluable pharmacokinetic (PK) data in Trial IB1001-301, no E-R relationship was observed 
+between the functional scale for assessment and rating of ataxia (fSARA) and the exposure 
+metric, daily area under the concentration-time curve (AUC) at steady state at the proposed 
+dosing regimen (Figure 1). However, due to the limited sample size, the E-R relationship for 
+efficacy is inconclusive.
+Figure 1. Exposure-Response for fSARA
+ 
+Source: Reviewer’s analysis
+Black points represent mean fSARA (Active-Placebo) for each quartile of daily AUC. Error bars represent ±standard error of mean.
+Abbreviations: AUC = area under the concentration-time curve; fSARA = functional Scale for Assessment and Rating of Ataxia; h = 
+hour; yo = years old
+Reference ID: 5451862
+
+
+===== PAGE 81 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+67
+Integrated Review Template, version 4.0 (11/1/23)
+(≥10 years old) to younger pediatric subjects (<10 years old). Of note, the youngest pediatric 
+subject included in the analysis was 6 years old.
+Table 26. Exposure Comparison of IB1001 by Age Groups
+Age Group
+ <10 Years Old (n=13)
+≥10 Years Old (n=82)
+Daily AUC (h·μg/mL)
+Mean (SD)
+32.3 (11.2)
+26.6 (7.0)
+Cmax (µg/mL)
+Mean (SD)
+7.2 (1.4)
+6.5 (2.1)
+Source: Reviewer’s analysis
+Individual PK exposures were derived using the individual predicted PK parameters from population PK analysis. 
+Abbreviations: AUC = area under the concentration-time curve; Cmax = maximum plasma concentration; n = number of subjects with 
+given characteristic; SD = standard deviation
+Conclusion
+The establishment of efficacy in pediatric patients <10 years old relies on extrapolation of 
+efficacy seen in subjects ≥10 years old in Trial IB1001-301. The review team determined that 
+extrapolation of efficacy from subjects ≥10 years old to patients <10 years old is scientifically 
+justified based on the same underlying disease pathophysiology, similarity in clinical 
+manifestations, and the expected same therapeutic mechanism of action (MOA) across age 
+groups. The PK findings from Trials IB1001-201, IB1001-202, and IB1001-301 support this 
+extrapolation, as they provide evidence that the evaluated dose in subjects <10 years old results 
+in similar exposure to subjects ≥10 years old. Therefore, the efficacy results from Trial IB1001-
+301 and PK data from Trials IB1001-201, IB1001-202, and IB1001-301 support the 
+effectiveness of IB1001 in patients <10 years old and support a labeled indication for pediatric 
+patients weighing ≥15 kg (refer to subsection below for a discussion on why the available data 
+do not support dosing in patients <15 kg). 
+Reference ID: 5451862
+(b) (4)
+2 Pages have been Withheld in Full as B4 (CCI/TS) immediately following this 
+page 
+
+
+===== PAGE 134 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+122
+Integrated Review Template, version 4.0 (11/1/23)
+≥15 kg. Routine pharmacovigilance will be adequate to continue assessment of an acceptable 
+risk profile in the approved population. 
+8. Therapeutic Individualization
+8.1. Intrinsic Factors
+The recommended dosage regimen of levacetylleucine in patients with NPC is based on body 
+weight, which is the approach used in the clinical trials of levacetylleucine. Body weight was 
+identified as a significant covariate affecting levacetylleucine PK in the PopPK analyses. The 
+currently available data do not support a need for further therapeutic individualization based 
+on other intrinsic factors. 
+Body Weight
+Body weight was identified as a significant covariate on apparent clearance and apparent 
+volume of distribution in the PopPK analysis (see Section 14.5). The apparent clearance and 
+apparent volume of distribution of levacetylleucine increases with increasing body weight. 
+These effects on PK of levacetylleucine are minimized by the recommended weight-based 
+dosing regimen.
+Sex
+Sex was not identified as a significant covariate in the PopPK analysis, and therefore, not 
+expected to have CS effect on levacetylleucine exposures.
+Subjects With NPC vs. Healthy Subjects
+PK data were not available for healthy subjects. 
+Hepatic Impairment or Renal Impairment
+The effects of renal impairment and hepatic impairment on the PK of levacetylleucine have 
+not been studied. No mass balance study has been conducted with levacetylleucine in 
+humans. The metabolism of levacetylleucine results in the formation of acetate and L-leucine, 
+and both byproducts are used within the body in further catabolic pathways. One study 
+demonstrated that after an intravenous dose of 14C-L-leucine to rats, 5% of the substrate was 
+excreted in urine as levacetylleucine (Lee et al. 2015). Thus, the impact of hepatic 
+impairment on PK of levacetylleucine is expected to be low.
+Patients with NPC with later onset primarily present with neurological symptoms. While 
+some patients with NPC may exhibit liver organomegaly, significant liver impairment is 
+generally not observed in this disease (Geberhiwot et al. 2018). Trials IB1001-201 and 
+IB1001-301 did not include specific inclusion/exclusion criteria for liver function. In these 
+trials, the liver function status of subjects (i.e., normal, mild, moderate, or severe) was not 
+explicitly assessed using tools such as the Child-Pugh classification, Mayo risk score, or a 
+comprehensive set of hepatic function markers. However, based on bilirubin levels, which is 
+a key indicator of liver function, as well as other liver blood chemistry parameters (AST, 
+ALT, alkaline phosphatase) monitored throughout the trials, the subjects generally appeared 
+to have normal liver function. This absence of specific liver function assessments limits the 
+ability to correlate liver function status with PK parameters. 
+Reference ID: 5451862
+
+
+===== PAGE 135 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+123
+Integrated Review Template, version 4.0 (11/1/23)
+8.2. Extrinsic Factors
+Drug-Drug Interaction
+Levacetylleucine was found to not inhibit cytochrome P450 (CYP) enzymes or induce 
+CYP1A2, CYP2B6, or CYP3A4 enzymes via in vitro studies, indicating a low risk for drug-
+drug interactions through these pathways. Although levacetylleucine is identified as a 
+substrate of organic anion transporter 1 and OAT3, these interactions are not considered 
+clinically relevant due to the established safety profile and minimal renal excretion of 
+levacetylleucine. Breast cancer resistance protein (BCRP) - and P-glycoprotein (P-gp)-
+mediated levacetylleucine active transport was not detected. In addition, the Applicant 
+assessed the potential for levacetylleucine to inhibit efflux transporters (e.g., P-gp, BCRP, 
+and bile salt export pump; see Section 14). The risk associated with bile salt export pump 
+inhibition is low due to the Cmax/IC50 of <0.1. The risk of drug-drug interactions due to BCRP 
+inhibition is also considered low, as the Igut/IC50 is slightly higher than the accepted ratio 
+of 10. However, the potential for P-gp inhibition in vivo cannot be ruled out, given the 
+significantly elevated Igut/IC50. Consequently, the review team recommends more frequent 
+monitoring for ARs related to P-gp substrates in the label, as well as a PMR trial to further 
+evaluate the potential interactions with P-gp substrates.
+Food Effect
+The effect of food on PK of the to-be-marketed formulation was not assessed in a dedicated 
+clinical trial. Based on the clinical trial protocols, levacetylleucine was supposed to be 
+administered to subjects with NPC without food (defined as the drug needing to be taken 
+either 30 minutes before a meal or at least 2 hours after a meal). However, approximately 
+12.5% non-compliance incidents (subjects took the drug within 2 hours after a meal) were 
+reported in the clinical trials. The review team conducted a preliminary PK analysis to 
+compare the drug concentration during the first 2.5 hours postdose under “fasted” (subjects 
+took the drug following the protocols regarding food intake) and fed (subjects took the drug 
+non-compliant with the protocols regarding food intake) conditions (see Section 14). Based 
+on this assessment, similar PK during the absorption phase was observed regardless of food 
+intake. However, due to the small sample size of subjects who had intensive PK data that 
+enabled this analysis and uncontrolled food conditions (i.e., high fat or low fat), these 
+findings cannot support a definitive conclusion. Because patients with NPC often experience 
+feeding difficulties and may require a long time to complete meals, enforcing the 
+administration of the drug without food for a TID dosing regimen would be challenging and 
+burdensome for these patients (i.e., patients will need to fast for 2.5 hours). Therefore, based 
+on the preliminary PK analysis and practical considerations, the review team recommends the 
+drug to be taken with or without food in the label. To address the uncertainty associated with 
+the impact of food on PK, a postmarketing commitment trial has been proposed.
+8.3. Plans for Pediatric Drug Development
+Under the Pediatric Research Equity Act (21 U.S.C. 355c), all applications for new active 
+ingredients (which includes new salts and new fixed combinations), new indications, new 
+dosage forms, new dosing regimens, or new routes of administration are required to contain 
+an assessment of the safety and effectiveness of the product for the claimed indication in 
+pediatric patients unless this requirement is waived, deferred, or inapplicable.
+Reference ID: 5451862
+
+
+===== PAGE 143 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+131
+Integrated Review Template, version 4.0 (11/1/23)
+The following study was previously reviewed under the IND: 
+Study Number 36243: 6-Week Subchronic Toxicity Study of IB1001 by Repeated Oral 
+Administration to Beagle Dogs
+Purpose: Evaluate oral toxicity following daily dosing and reversibility of effects in dogs. 
+Design: Daily oral dosing in Beagle dogs (3M/3F per dose level + 2M/2F in the high dose 
+and control groups) dosed at 0, 225, 750, or 2500 mg/kg/day for 6 weeks followed by a 
+recovery period of 2 weeks. Body weight, feed consumption, electrocardiography (ECG), 
+blood pressure, ophthalmological and auditory examinations, clinical pathology, 
+histopathology, and toxicokinetics (TKs) were evaluated. 
+Key Findings: There were no adverse effects at up to 2500 mg/kg/day. The maximum 
+plasma concentration (Cmax) and area under the concentration-time curve (AUC) levels of 
+levacetylleucine were dose-related after Days 1 and 42 of dosing. The combined male and 
+female Cmax was 252.8 µg/mL and AUC0-∞ was 598 µg.hr/mL at the no-observed-adverse-
+effect level (NOAEL) on Day 42.
+Conclusion: The NOAEL for levacetylleucine was 2500 mg/kg/day in a 6-week oral gavage 
+toxicity study in Beagle dogs. The NOAEL dose in dog provides a 19-fold safety margin 
+based on exposures in humans (31.6 µg·hr/mL) at a daily maximum recommended human 
+dose of 4 g/day. 
+13.2. Individual Reviews of Studies Submitted 
+With the New Drug Application
+13.2.1. Nonclinical Pharmacodynamic Data
+Data to support the mechanism of action for levacetylleucine were derived from published 
+literature. The Applicant described data suggesting that in cultured Chinese hamster ovary 
+cells, treatment with levacetylleucine at a concentration of 1mM for 24 hours, was associated 
+with a modest reduction in lysosomal volume, sphingosine, glycosphingolipids (GSLs), and a 
+very modest reduction in stored cholesterol. In NPC patient-derived fibroblasts, treatment 
+with levacetylleucine was also associated with a modest reduction in apparent lysosomal 
+volume when cells were cultured for 7 days with 1mM levacetylleucine (Mann 2018). These 
+studies suggest that levacetylleucine has the potential to reduce stored intracellular lipid; 
+however, the mechanism of action for this drug, including the molecular targets by which it 
+elicits these effects, is unclear. 
+The Applicant also provided published data from an animal disease model. In Npc1-/- mice, 
+pre-symptomatic (from the age of 3 weeks old) treatment with levacetylleucine was also 
+associated with a modest increase in survival and a reduction in markers of 
+neuroinflammation (CD68 staining) in the cerebellum (Section 13.2.2; (Kaya et al. 2021). 
+The above changes were not monitored in the clinical trial to evaluate the association of 
+change in magnitude of levels of GSL and neuroinflammation with the dose of 
+levacetylleucine and efficacy. At the Division’s request, the Applicant provided raw data 
+obtained by the publication’s authors, and a letter of reference granting them the right to use 
+the raw data (submission dated July 3, 2024) and revised right to use raw data certifying that 
+spreadsheets accurately reflect the data contained in publication by Kaya et al. 2021. The 
+figures in sections below are obtained from Kaya et al. 2021 in sequence #0050 (submission 
+dated July 25, 2024). The figures in sections below are obtained from Kaya et al. 2021 with 
+Reference ID: 5451862
+
+
+===== PAGE 151 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+139
+Integrated Review Template, version 4.0 (11/1/23)
+Table 48. Summary of Endpoints Evaluated in the Irwin Functional Observational Battery in 
+Rats
+Source: Compiled from the Applicant’s NDA
+Vehicle control was NaCl 0.9 %, w/v, pH 8.0.
+Results: At oral doses of 250, 800, or 2500 mg/kg, levacetylleucine had no adverse effects on 
+any of the neuropharmacological parameters compared to controls. The oral NOAEL of 
+levacetylleucine on neuropharmacological parameters was 2500 mg/kg; however, the design 
+of the study was not adequately justified (e.g., the use of a single sex (females), the selection 
+of the high dose). Based on the single-dose Cmax exposure measured in a 26-week study 
+(Study 36242) in which rats were dosed at 2500 mg/kg, the safety multiple at the NOAEL 
+dose of 2500 mg/kg is 5- to 10-fold when compared to the respective steady-state Cmax levels 
+in humans. 
+13.2.2.2. Cardiovascular System
+Study Title: IB1001: Telemetric Evaluation of Cardiovascular Effects in the Conscious 
+Beagle Dog (Oral Gavage Administration) (Study 8440125) (GLP compliant)
+Methods: Effects of single dose of levacetylleucine were evaluated when administered by 
+oral gavage in telemetered beagle dogs at doses of 100, 200 or 600 mg/kg. This study was 
+conducted in four surgically instrumented male Beagle dogs using a Latin Square crossover 
+design, in which each dog received all dose levels in a randomized manner. Doses were 
+separated by a washout period of at least 6 days (which is greater than the 10 half-lives [t½] 
+of <2 hours). Endpoints evaluated included arterial blood pressure (systolic, diastolic, and 
+derived mean), heart rate, body temperature, ECG lead II intervals (PR interval, QRS 
+interval, QT, and heart rate corrected QT) and waveform morphology. The vehicle was 
+NaCl 0.9%, w/v, pH 8.0. The telemetric data were collected 120 min before dosing through 
+24 hours post dose. The measured data were averaged at hourly intervals and compared to 
+controls. Clinical and behavioral signs were observed as 1-, 2- and 4-hours post dose. The 
+design of the study was not adequately justified (e.g., the use of a single sex (males), the 
+selection of the high dose).
+Results: Levacetylleucine, at oral doses of 100, 200 or 600 mg/kg, caused no adverse clinical 
+or behavioral signs, or effects on body temperature and cardiovascular parameters (blood 
+pressure [systolic, diastolic, and mean], heart rate, ECG intervals [PR interval, QRS interval, 
+QT, and heart rate corrected QT], and ECG waveform morphology) compared to vehicle 
+control. The oral NOAEL of levacetylleucine for cardiovascular effect was 600 mg/kg. 
+Based on the steady state Cmax exposure (M 61.1 μg/mL/F 83.9 μg/mL) measured in a 
+39-week study (Study 8422660) in which dogs were dosed at 600 mg/kg, the safety multiple 
+at the NOAEL dose is 8- to 12-fold when compared to the respective steady-state Cmax 
+(7.4 μg/mL) in humans. The dose formulation analysis indicated that the formulations met 
+prespecified acceptance criteria, as concentrations ranged between 95.9% and 105.0% of the 
+nominal concentrations and within the acceptable range of 90 to 110%.
+Reference ID: 5451862
+
+
+===== PAGE 152 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+140
+Integrated Review Template, version 4.0 (11/1/23)
+Study Title: IB1001: Effect on human ether-a-go-go-related gene (hERG) Tail Currents 
+Recorded From Stably Transfected 293 human embryonic kidney (HEK293) Cells 
+(Study A2592) (GLP compliant)
+Methods: Levacetylleucine was tested for its effects on the hERG outward tail currents 
+recorded in HEK293 cells stably transfected with cDNA encoding this cardiac potassium 
+channel. The test was performed to evaluate the potential for QT-prolongation by 
+levacetylleucine. The concentrations tested were at the close to the limit of solubility 
+(concentration of 1000μM/525 μM [nominal/actual concentration determined by analysis of 
+dose formulations after completion of the study]) E-4031 (a methane sulfonanilide class III 
+antiarrhythmic drug) was used as positive control. 
+Results: At the highest feasible concentration of 525μM, levacetylleucine inhibited hERG 
+tail currents by less than 30%, therefore, half-maximal inhibitory concentration (IC50) could 
+not be determined, as the concentration response curve was limited by solubility. 525μM 
+(91 μg/mL) provide a more than 12-fold safety margin when compared to the mean, 
+steady-state Cmax level in human plasma (7.4 μg/mL). The results indicate that 
+levacetylleucine is not likely to inhibit the hERG channel when administered at the intended 
+doses. 
+13.2.2.3. Respiratory System
+Study Title: Examination of Respiratory Parameters in Rats Following Oral Administration 
+of IB1001 Employing Whole Body Plethysmography (Study 38191) (GLP)
+Methods: Levacetylleucine was tested at single oral doses of 250, 800 and 2500 mg/kg, 
+administered by oral gavage at dose volume of 10 mL/kg in female rats (8 in each group). 
+Respiratory endpoints (respiratory rate, tidal volume, minute volume, peak inspiratory flow, 
+peak expiratory flow, inspiratory time, expiratory time, and the airway resistance index) were 
+measured by whole-body plethysmography for 4 hours postdose (baseline was measured 
+predose for 1 hour). The vehicle control was NaCl 0.9 %, w/v, pH 8.0 and Carbamyl-β-
+methylcholine chloride (bethanechol) at 30 mg (subcutaneous) was used as positive control. 
+Respiratory parameters were assessed at intervals of 10 minutes for the first hour (10 minutes 
+to 60 minutes) and intervals of 30 minutes postdose for the remainder of the experiment 
+(1 hour to 4 hours). 
+Results: Levacetylleucine, at oral doses of 250, 800 and 2500 mg/kg, did not affect 
+respiratory parameters (respiratory rate, tidal volume, minute volume, peak inspiratory flow, 
+peak expiratory flow, inspiratory time, expiratory time, and the airway resistance index) in 
+female rats following administration of a single dose. The oral NOAEL of levacetylleucine 
+on respiratory parameters was 2500 mg/kg. Based on the single-dose Cmax exposure measured 
+in a 26-week study (Study 36242) in which rats were dosed at 2500 mg/kg, the safety 
+multiple at the NOAEL dose of 2500 mg/kg is 5- to 10-fold when compared to the respective 
+steady-state Cmax in humans (Table 62); however, the design of the study was not adequately 
+justified (e.g., the use of a single sex (females), the selection of the high dose).
+13.2.3. General Toxicology
+Repeat dose oral toxicity 26-week rat and 39-week dog study reviews included below are 
+from PharmTox review by Dr. Miyun Tsai-Turton, dated December 16, 2021, conducted 
+under the IND.
+Reference ID: 5451862
+
+
+===== PAGE 180 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+168
+Integrated Review Template, version 4.0 (11/1/23)
+13.2.9. Human Exposure Margins From Nonclinical Studies 
+Table 62. Human Exposure Margins Calculated From Nonclinical Studies
+Cmax
+(µg/mL)
+AUC0­24h or Inf
+(µg.hr/mL)
+Species
+(Duration)
+Dose
+(mg/kg/day)
+HED
+(mg/kg)
+Sex
+Day 1
+Study End
+Day 1
+Study End
+MOS 
+(Animal to 
+Human Cmax 
+Ratio)
+MOS
+(Animal to 
+Human 
+AUC Ratio)
+M
+13.6
+17.1
+59.2
+66.8
+2.3
+2.1
+800 (NOAEL)
+129
+F
+17.2
+29.5
+66.2
+80.1
+4
+2.5
+M
+53.6
+35
+188
+182
+4.7
+5.8
+Rat (26-weeks oral)
+2500 >NOAEL
+404
+F
+72.3
+76.1
+318
+279
+10.3
+8.8
+M
+83.9
+61.1
+261
+193
+8.3
+6.1
+Dog (39 weeks, oral)
+600 (NOAEL)
+333
+F
+90.8
+83.9
+269
+272
+11.7
+8.6
+Human Dosing 
+(po, 4 g/day, given 2,1,1)1
+67
+67
+M/F
+7.4
+31.6
+1
+1
+Source: Reviewer’s analyses
+1 Human PK data based on the oral daily dose of 4 g, administered at 2 g in the morning and 1 g at noon and 1 g in the evening. Cmax and AUC values are obtained from the IB1001-201 study 
+internal review.
+Abbreviations: AUC = area under curve; AUC0­24h or Inf = area under the plasma concentration-time curve from time zero to 24 hours or zero to infinity; Cmax = maximum plasma concentration; F = 
+female; HED = human equivalent dose; M = male; MOS = margin of safety at steady state; NOAEL = no-observed-adverse-effect level
+Reference ID: 5451862
+
+
+===== PAGE 184 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+172
+Integrated Review Template, version 4.0 (11/1/23)
+compartment analysis using the intensive PK data. Sparse PK sampling from the parent study 
+was not included in this context but was instead used for the population PK (PopPK) analysis.
+At Visit 7B, the highest mean plasma concentration of the drug was observed 1 hour after 
+administration, with a mean (±standard deviation [SD]) Cmax value of 6.69 (±1.85) μg/mL, 
+and a Cmax value of 10.04 µg/mL (Table 63). At Visit 9B, the highest mean plasma 
+concentration was again reached 1-hour post-treatment, with a mean (±SD) Cmax value of 
+8.32 (±3.3 SD) μg/mL and a Cmax value of 15.85 µg/mL (Table 64). However, geometric 
+coefficient of variation values at all time points exceeded 40%, indicating substantial 
+variability in plasma concentrations among subjects. 
+When administered orally, levacetylleucine was rapidly absorbed, with time to maximum 
+concentration values ranging from 0.5 to 2.5 hours and a median value of 1 hour. The half-
+life (t1/2) was approximately 1 hour. Likely metabolites include L-leucine and acetic acid. 
+Elimination of levacetylleucine from plasma was rapid after a single dose. The apparent 
+volume of distribution was 200 L, and the apparent clearance was 144 L/h. Similar values 
+were observed at steady state. A large inter-individual variability (coefficient of variation: 
+40 to 50%) was observed at both Visit 7B and Visit 9B. No relevant sex differences were 
+observed in any of the PK parameters. PK parameters for visit 7B are summarized 
+descriptively in (Table 63) and PK parameters for visit 9B are summarized descriptively in 
+(Table 64).
+Table 63. Descriptive Statistics of PK Parameters for Visit 7B, IB1001-201 
+Descriptive 
+Statistics
+Cmax
+(µg/mL)
+t1/2
+(h)
+tmax
+(h)
+AUC0­24
+(h·µg/mL)
+CL/F
+(L/h)
+Vz/F
+(L)
+N
+19
+19
+19
+19
+19
+19
+Mean
+6.695
+0.992
+14.636
+144.311
+200.502
+SD
+1.852
+0.328
+4.720
+63.914
+82.518
+Min
+3.36
+0.63
+0.50
+5.56
+66.71
+64.75
+Median
+6.61
+0.91
+1.00
+13.50
+138.71
+185.05
+Max
+10.04
+1.94
+2.50
+22.57
+359.91
+353.49
+Geom Mean
+6.433
+0.948
+13.866
+134.060
+183.305
+Geom SD
+1.349
+1.355
+1.419
+1.463
+1.573
+Geom %CV
+30.62
+31.06
+36.11
+39.47
+47.71
+Source: Summary of clinical pharmacology, Table 5
+Abbreviations: AUC0­24 = area under the curve from 0 to 24 hours; CL/F = apparent clearance; Cmax = maximum observed 
+concentration; %CV = coefficient of variation; geom = geometric; max = maximum; min = minimum; N = number of valid 
+observations for the variable ; SD = standard deviation; t1/2 = terminal half-life in hours; tmax = time of the maximum observed 
+concentration; Vz/F = apparent volume of distribution
+Table 64. Descriptive Statistics of PK Parameters for Visit 9B, IB1001-201
+Descriptive 
+Statistics
+Cmax
+(µg/mL)
+t1/2
+(h)
+tmax
+(h)
+AUC0­24
+(h·µg/mL)
+CLss/F
+(L/h)
+Vss/F
+(L)
+N
+17
+17
+17
+17
+17
+17
+Mean
+8.324
+0.958
+16.614
+138.857
+252.917
+SD
+3.309
+0.183
+6.252
+58.683
+125.193
+Min
+2.57
+0.61
+0.50
+8.69
+62.22
+87.48
+Median
+8.87
+0.93
+1.00
+16.76
+119.18
+211.83
+Max
+15.84
+1.28
+1.50
+32.71
+248.48
+573.82
+Geom Mean
+7.647
+0.941
+15.549
+127.720
+227.227
+Geom SD
+1.563
+1.217
+1.460
+1.528
+1.610
+Geom %CV
+46.99
+19.82
+39.24
+44.35
+50.49
+Source: Summary of clinical pharmacology, Table 6
+Abbreviations: AUC0­24 = area under the curve from 0 to 24 hours; CLss/F = difference in clearance; Cmax = maximum observed 
+concentration; %CV = coefficient of variation; geom = geometric; max = maximum; min = minimum; N = number of valid 
+observations for the variable; SD = standard deviation; t1/2 = terminal half-life in hours; tmax = time of the maximum observed 
+concentration; Vss/F = volume of distribution
+Reference ID: 5451862
+
+
+===== PAGE 185 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+173
+Integrated Review Template, version 4.0 (11/1/23)
+Trial IB1001-202 
+Similar to Trial IB1001-201, a PK analysis was conducted for Trial IB1001-202 that included 
+all subjects who received at least one dose of levacetylleucine during the EP and had at least 
+one PK plasma concentration measurement following oral administration. Detailed PK 
+profiles were obtained at Visit 7B, following the initial drug administration, and again after 1 
+year of treatment at Visit 9B (Table 65 and Table 66) 
+Table 65. Descriptive Statistics of PK Parameters for Visit 7B, IB1001-202 
+Descriptive 
+Statistics
+Cmax
+(µg/mL)
+t1/2
+(h)
+Tmax
+(h)
+AUC0­24
+(h·µg/mL)
+Vz/F
+(L)
+CL/F
+(L/h)
+N
+13
+12
+13
+13
+13
+13
+Mean
+6.440
+0.908
+15.393
+181.906
+130.833
+SD
+2.534
+0.370
+9.954
+102.127
+83.167
+Min
+2.08
+0.49
+0.50
+3.21
+60.96
+45.71
+Median
+6.14
+0.76
+1.00
+13.89
+171.70
+101.43
+Max
+12.14
+1.70
+2.00
+44.07
+347.03
+311.60
+Geom Mean
+5.927
+0.852
+13.021
+153.663
+111.600
+Geom SD
+1.570
+1.436
+1.853
+1.881
+1.774
+Geom %CV
+47.52
+37.39
+68.03
+70.04
+62.34
+Source: Summary of clinical pharmacology, Table 9
+Abbreviations: AUC0­24 = area under the curve from 0 to 24 hours; CL/F = apparent clearance; Cmax = maximum observed 
+concentration; %CV = coefficient of variation; geom = geometric; max = maximum; min = minimum; N = number of valid 
+observations for the variable; SD = standard deviation; t1/2 = terminal half-life in hours; Tmax = time of the maximum observed 
+concentration; Vz/F = apparent volume of distribution
+Table 66. Descriptive Statistics of PK Parameters for Visit 9B, IB1001-202 
+Descriptive Statistics
+Cmax
+(µg/mL)
+t1/2 
+(h)
+Tmax
+(h)
+AUC0­24
+(h·µg/mL)
+Vss/F
+(L)
+CLss/F
+(L/h)
+N
+11
+9
+11
+9
+9
+9
+Mean
+6.877
+1.105
+13.828
+176.53
+115.669
+SD
+2.554
+0.236
+4.583
+69.968
+52.978
+Min
+3.08
+0.79
+0.5
+9.2
+106.54
+54.46
+Median
+6.61
+1.02
+1.00
+13.16
+167.42
+94.82
+Max
+11.74
+1.41
+2.00
+23.01
+336.56
+229.81
+Geom Mean
+6.421
+1.083
+13.236
+166.209
+106.374
+Geom SD
+1.493
+1.24
+1.358
+1.431
+1.533
+Geom %CV
+41.76
+21.76
+31.35
+36.99
+44.73
+Source: Summary of clinical pharmacology, Table 9
+Abbreviations: AUC0­24 = area under the curve from 0 to 24 hours; CLss/F = difference in clearance; Cmax = maximum observed 
+concentration; %CV = coefficient of variation; geom = geometric; max = maximum; min = minimum; N = number of valid 
+observations for the variable; SD = standard deviation; t1/2 = terminal half-life in hours; tmax = time of the maximum observed 
+concentration; Vss/F = volume of distribution
+Trial IB1001-301 – PK Results
+At the time when action was taken on initial NDA submission, the IB1001-301 EP is still 
+ongoing, and therefore data from the rich PK sampling are not yet available. No 
+noncompartmental PK analysis was performed on data from the sparse PK sampling from the 
+parent study (Trial IB1001-301 PK report); instead, these samples were utilized in the PopPK 
+analysis. 
+Impact of Food Effect on Pharmacokinetics 
+The Applicant did not conduct dedicated food effect study using the to-be-marketed 
+formulation. In Trial IB1001-301, drug administration was proposed to be under fasted 
+conditions (at least 30 minutes before meal or at least 2 hours after meal). However, 
+approximately 12.5% non-compliance with fasting was reported. The food components (high 
+Reference ID: 5451862
+
+
+===== PAGE 189 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+177
+Integrated Review Template, version 4.0 (11/1/23)
+ 
+Method Validation Study 
+Val 18_015
+Sample Analysis in 
+Clinical Trial IB1001-
+201
+Sample Analysis in 
+Clinical Trial IB1001-
+202
+Sample Analysis in Clinical Trial 
+IB1001-301
+Link to reports and applicable 
+Amendments 
+Report [Val 18_015],
+[Amendment 1 to Val 
+18_015], 
+[Amendment 2 to Val 
+18_015], 
+[Amendment 3 to Val 
+18_015]
+Pharmacokinetic report 
+[IB1001-201]
+Pharmacokinetic report 
+[IB1001-202]
+Pharmacokinetic report [IB1001-301]
+Amendment history
+Long-term storage stability 
+(Amendment 1, Amendment 
+2 and Amendment 3).
+Not applicable
+Not applicable
+Not applicable
+Source: Summary of Biopharmaceutic Studies and Associated Analytical Methods
+Abbreviations: eCTD = electronic common technical document; HPLC = high-performance liquid chromatography; LLOQ = lower limit of quantitation; MS/MS = tandem mass spectrometric; ULOQ = 
+upper limit of quantitation
+Reference ID: 5451862
+
+
+===== PAGE 197 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+185
+Integrated Review Template, version 4.0 (11/1/23)
+Table 79. Summary of Method Performance of a Bioanalytical Method Determination of N-Acetyl-L-
+Leucine in Human Plasma (Part 11)
+Method Performance in Study IB1001-201
+Pharmacokinetic report titled “Effects o N-Acetyl-L-Leucine on Niemann-Pick disease type C: A 
+multinational, multicenter, open-label, rater-blinded Phase II study” Report [Pharmacokinetic report of 
+IB1001-201]
+Assay passing rate
+Not applicable. No ISR was performed in this study.
+Standard curve performance
+Not applicable. No ISR was performed in this study.
+QC performance
+Not applicable. No ISR was performed in this study.
+Method reproducibility
+Not applicable. No ISR was performed in this study.
+Study sample analysis/ stability
+In the parent phase (Visit 1 to 6) sparse PK samplings of 33 
+subjects were collected to establish the baseline, 
+administrate the treatment and perform the washout. A total 
+of 19 subjects continued into Extension Phase I (Visit 7B and 
+9B), in which the individual plasma concentration profiles 
+were collected. The concentrations of N-acetyl-L-leucine in 
+human plasma of 19 subjects (in Extension Phase I) were 
+successfully analyzed.
+Standard calibration curve performance 
+during accuracy and precision runs
+Not applicable. No ISR was performed in this study.
+Source: Summary of Biopharmaceutic Studies and Associated Analytical Methods
+Abbreviations: ISR = incurred sample reanalysis; PK = pharmacokinetics
+Table 80. Summary of Method Performance of a Bioanalytical Method Determination of N-Acetyl-L-
+Leucine in Human Plasma (Part 12)
+Method Performance in Trial IB1001-202
+Pharmacokinetic report titled “Effects of N-Acetyl-L-Leucine on GM2 Gangliosidosis (Tay-Sachs and 
+Sandhoff Disease): A multinational, multicenter, open-label, rater- blinded Phase II study”
+Report [Pharmacokinetic report of IB1001-202]
+Assay passing rate
+Not applicable. No ISR was performed in this study.
+Standard curve performance
+Not applicable. No ISR was performed in this study.
+QC performance
+Not applicable. No ISR was performed in this study.
+Method reproducibility
+Not applicable. No ISR was performed in this study.
+Study sample analysis/ stability
+In the parent phase (Visit 1 to 6) sparse PK samplings of 30 
+subjects were collected to establish the baseline, 
+administrate the treatment and perform the washout. A total 
+of 14 subjects continued into Extension Phase I (Visit 7B 
+and 9B), in which the individual plasma concentration 
+profiles were collected.
+Standard calibration curve performance 
+during accuracy and precision runs
+Not applicable. No ISR was performed in this study
+Source: Summary of Biopharmaceutic Studies and Associated Analytical Methods
+Abbreviations: ISR = incurred sample reanalysis; PK = pharmacokinetics
+Reference ID: 5451862
+
+
+===== PAGE 198 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+186
+Integrated Review Template, version 4.0 (11/1/23)
+Table 81. Summary of Method Performance of a Bioanalytical Method Determination of N-Acetyl-L-
+Leucine in Human Plasma (Part 13)
+Method Performance in Study IB1001-301
+Pharmacokinetic report titled “Effects of N-Acetyl-L-Leucine on Niemann-Pick disease type C (NPC): A 
+Phase III, randomized, placebo-controlled, double-blind, crossover study” Report [Pharmacokinetic 
+report of IB1001-301]
+Assay passing rate
+Not applicable. No ISR was performed in this study.
+Standard curve performance
+Not applicable. No ISR was performed in this study.
+QC performance 
+Not applicable. No ISR was performed in this study.
+Method reproducibility
+Not applicable. No ISR was performed in this study.
+Study sample analysis/ stability
+In the parent phase (Visits 2, 4 and 6) sparse PK 
+samplings of 60 subjects were collected at baseline, 
+during treatment and washout. The extension phase will 
+enroll subjects who have completed Visit 6 (ongoing). In 
+Extension Phase I (Visit 7B and 9B) individual plasma 
+concentration profiles will be collected.
+Standard calibration curve performance 
+during accuracy and precision runs
+Not applicable. No ISR was performed in this study. 
+Source: Summary of Biopharmaceutic Studies and Associated Analytical Methods
+Abbreviations: ISR = incurred sample reanalysis; PK = pharmacokinetics
+14.4. Immunogenicity Assessment–Impact of 
+PK/PD, Efficacy, and Safety
+No studies of immunogenicity and its impact on PK/PD, efficacy and safety were conducted.
+14.5. Pharmacometrics Assessment
+Population PK Analysis
+Applicant’s Population PK Analysis
+The PopPK analysis for levacetylleucine was conducted based on the PK data collected from 
+three trials: IB1001-201 (n=32), IB1001-202 (n=25), and IB1001-301 (n=38). Sparse PK 
+sampling was collected in Trials IB1001-201, IB1001-202 and IB1001-301 and rich PK 
+sampling was conducted in the EPs of Trials IB1001-201 and IB1001-202. A total of 567 
+levacetylleucine concentrations from 95 subjects were used in PopPK analysis. In the PopPK 
+population, majority of subjects were White (94%) and male (51%). The median (range) age was 
+26 (6, 67) years old, and the median (range) body weight was 59.2 (20.5, 98.4) kg. Dosing 
+regimen used in IB1001-201 is same as the proposed dosing regimen with minor deviations in 
+the age categories for dosing in IB1001-201 and IB1001-202. 
+Phoenix WinNonlinTM nonlinear mixed effect using estimation method of First Order 
+Conditional Estimation-Extended Least Squares (FOCE ELS) was used for PopPK analysis. To 
+investigate the source of between-subject variability, intrinsic factors and extrinsic factors were 
+tested for inclusion in the base model using forward stepwise covariate search to test the addition 
+or deletion of covariates effects by adding one at a time. Visual predictive check and bootstrap 
+test were used to validate the final covariate model.
+Reference ID: 5451862
+
+
+===== PAGE 199 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+187
+Integrated Review Template, version 4.0 (11/1/23)
+The base model is a one-compartment model with the error model combining additive and 
+multiplicative method. The base model also includes a 5-minute lag time (Tlag) and covariance 
+between clearance (CL) and volume of distribution (V). Between-subject variability coefficient 
+of variation were 39% for CL and 74% for V. The examined covariates were age, sex, weight, 
+body mass index, body surface area, disease (NPC or GM2 gangliosidosis), race (White, Asian 
+or other), dose (1 gram or 2 grams), miglustat as comedication, and meal consumption (no meal, 
+meal consumed during the 2 hours before drug administration, meal consumed during the 2 
+hours after drug administration, meal consumed during the 2 hours both before and after the drug 
+administration). The final PopPK model includes the effect of body weight with power model on 
+CL and V, and the effect of dose (1 gram versus 2 grams) on the absorption rate constant (Ka). 
+The final model estimates are presented in Table 82. Goodness-of-fit plots and visual predictive 
+check are presented in Figure 24 and Figure 25. Between-subject variability coefficient of 
+variation were 29% for CL, 80% for V, and 19% for Ka. Eta shrinkages were 20%, 44%, and 
+48% for CL, V, and Ka. 
+Table 82. Parameter Estimates for Applicant’s Final PopPK Model
+Source: PopPK report, Table 17 on page 34
+Abbreviations: CI = confidence interval; dVdWEIGHT = effect of the covariate weight on the volume of distribution in the model; 
+dKadDOSECOV2 = effect of the dose on the absorption rate; dCIdWEIGHT = weight covariate on CL; PopPK = population 
+pharmacokinetic; stdev0 = standard deviation in additive residual error model; tvKa = a population typical value for the absorption 
+rate constant Ka; tvV = a population typical value for the volume of distribution V; tvCl = a population typical value for the clearance 
+CL; tvTlag = a population typical value of lag time of first-order absorption; tvCMultStdev = a population typical value for the 
+multiplicative component of the residual error model
+Reference ID: 5451862
+
+
+===== PAGE 201 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+189
+Integrated Review Template, version 4.0 (11/1/23)
+Figure 25. Visual Predictive Check Plots by Dose Level (1 gram vs. 2 grams)
+Source: PopPK analysis report, Figure 4 on page 39
+Abbreviations: CObs = observed concentration; DV = dependent variable, observed concentrations; DV0 = dependent variable 0, 
+concentrations predicted by the model; IVAR = independent variable
+Reviewer’s Assessment 
+Data handling of exclusions and correction of missing values and unplausible values were 
+adequately documented. The final PopPK model reasonably describes the observed PK data. The 
+reviewer’s independent analysis shows similar parameter estimates as Applicant’s. The structural 
+parameters were estimated with acceptable precision (relative standard error <20%). The 
+goodness-of-fit plots does not show obvious model misspecification, and the visual predictive 
+check plots shows that the model generally captures the central tendency and variability of the 
+observed data. No systemic trends were observed in ETA-covariate plots (Figure 26). Age was 
+not identified as significant covariate once body weight is included in the model. Eta shrinkage 
+for CL less than 20% supports use of empiric Bayes estimates to derive individual CL and 
+exposure metrics of AUC. Given the fast absorption with a short half-life and the moderately 
+high eta shrinkage for V, the model derived Cmax was only used for the purpose of comparisons 
+with the model derived Cmax values predicted for different body weight groups when evaluating 
+dosing regimens. 
+Reference ID: 5451862
+
+
+===== PAGE 202 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+190
+Integrated Review Template, version 4.0 (11/1/23)
+Figure 26. ETA-Covariate Relationship (ETA1: Eta for CL, ETA2: Eta for V)
+Source: Reviewer’s analysis
+Abbreviations: 0 = Yes, 1 = No; 2 = NA; BSA = body surface area; SEXF = sex, 0-male and 1-female; COVDIS = disease as 
+covariate, 1-NPC and 2-GM2; CL = clearance; COVMIG = comedication with miglustat; V = volume of distribution
+Applicant’s PopPK analysis assumed that levacetylleucine follows dose-linear PK. There is no 
+dose-proportionality information provided by Applicant. The available PK data used for PopPK 
+analysis are limited to evaluate relative oral bioavailability (1 gram versus 2 grams). The subjects 
+younger than 13 years old and weighing <35 kg received 1 gram at the time of PK sampling and 
+the remaining subjects (≥13 years old or ≥35 kg) received 2 grams at the time of PK sampling. 
+Since PK samples were collected only after the morning dose, there are no data where two dose 
+strengths (1 gram and 2 grams) were tested within a subject or in similar subjects in terms of 
+body size (e.g., weight) at the time of PK sampling. This exclusive correlation between body 
+Reference ID: 5451862
+
+
+===== PAGE 203 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+191
+Integrated Review Template, version 4.0 (11/1/23)
+weight and dose levels does not allow covariate analysis to assess independent impacts of body 
+size (e.g., weight) and dose level (1 gram versus 2 grams) on PK parameters, such as apparent 
+clearance and relative bioavailability. If dose-proportionality data become available in the future, 
+the PopPK model should be re-assessed accordingly. 
+Exposure-Response Analysis
+Reviewer conducted E-R analysis for Agency-recommended rescored scale for the assessment 
+and rating of ataxia (SARA) (functional SARA) based on the data from 38 subjects who had both 
+efficacy evaluation and evaluable PK data in Trial IB1001-301. The exposure metric used for 
+E-R analysis was daily AUC at steady state derived based on the individual predicted PK 
+parameters (empirical bayes estimates) following the dosing regimen received during phase 3 
+study. No apparent E-R relationship for efficacy endpoint was observed (Figure 27). Due to the 
+limited event rate for each treatment-emergent adverse event (Section 7.6), E-R analysis for 
+safety was not performed.
+Figure 27. Exposure-Response for fSARA
+Source: Reviewer’s analysis
+Black points represent mean. Error bars represent ±standard error of mean.
+Abbreviations: AUC = area under the concentration-time curve; fSARA = functional Scale for the Assessment and Rating of Ataxia; 
+yo = year old
+Reference ID: 5451862
+(b) (4)
+
+
+===== PAGE 205 =====
+
+NDA 219132
+Aqneursa (levacetylleucine)
+193
+Integrated Review Template, version 4.0 (11/1/23)
+Figure 28. Applicant’s Proposed Dosing and the Simulated PK Exposures by Weight Group
+Source: Reviewer’s Analysis
+For each boxplot, the whisker presents 5th-95th percentiles, and the box presents 25th, 50th, and 75th percentiles of the simulated 
+exposure metrics. The red lines present 5th, mean, and 95th percentiles of the reference PK exposure.
+Abbreviations: AUC = area under the concentration-time curve; Cmax = maximum plasma concentration; PK = pharmacokinetic
+Reference ID: 5451862
+2 Pages have been Withheld in Full as B4 (CCI/TS) immediately following this 
+page 
+(b) (4)

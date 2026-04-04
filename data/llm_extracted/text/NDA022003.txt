@@ -1,0 +1,333 @@
+
+
+===== PAGE 18 =====
+
+2.1.4.  Is there any way to identify the patients who attain low plasma 
+concentrations of POS? 
+Measuring POS plasma concentration is considered by this reviewer to be the most 
+reliable way to identify patients who attain low plasma concentrations of POS. 
+As discussed in 2.1.3, there are no patient demographic covariates (any combination of 
+those covariates) that can successfully identify the patients who will attain low plasma 
+concentrations of POS. Therefore, measuring plasma concentration is considered to be 
+the most reliable way to identify patients who will attain low plasma concentrations of 
+POS. Currently, the sponsor does not have a commercial assay method to monitor plasma 
+concentrations of POS. Thus, it is recommended that the sponsor develop a commercial 
+assay method to monitor plasma concentrations of POS. 
+* 
+> 
+z-
+2.1.5.  What will be the cutoff or threshold concentration of POS to determine if a 
+P 
+patient needs-an increase in the POS dosage? 
+It is recommended to use a POS plasma concentration of 350 ng/mL measured at 3 to 5 
+hours post dose on Day 2 as a cutoff plasma concentration of POS. 
+This is based on the relationship between C,,, of POS and Clinical Failure (See Figure 2 
+on page 13). A Clinical Failure rate of <25% is considered by the reviewing medical 
+officer to be acceptable as a target clinical outcome. Figure 1 on page 13 shows that C,,, 
+should be greater than 700 ng/mL to achieve this target outcome. Thus, 700 ng/mL is the 
+lower threshold value for C,,,, at steady state to determine if the POS dosage needs to be 
+increased for a given patient. 
+POS PK can be described appropriately by a one compartment open model with a first 
+order rate of absorption and a first order rate of elimination (See Section 5. Population 
+PK analysis). Thus, the plasma concentrations of POS before it reaches a steady state 
+(i.e., during the first week after the beginning of POS treatment) could be calculated from 
+steady state plasma concentrations using an accumulation factor of 8 obtained from a 
+multiple dose-escalating PK study (Study 196089). Table 8 shows that the calculated 
+average plasma concentrations of POS before C,,, reaches 700 ng/mL at Day 7 -
+(presumed steady state) following oral administration of POS 200 mg TID. 
+Appears This Way  
+On Original  
+
+
+===== PAGE 20 =====
+
+recommendation is based on the following results obtained from clinical pharmacology 
+-
+studies conducted in healthy subjects 
+A multiple dose escalating study (Study 196089) showed that 400 mg BID dose resulted 
+in 2.3-fold increase in plasma exposure to POS (i.e., AUC and CnIax) compared with 200 
+mg BID dose when it is given with a high-fat meal (Table 9). A single dose escalating 
+study (Study 195098) also showed that a single dose of 400 mg POS resulted in about 2- 
+-
+fold increase in both AUC and Cmax compared with a single dose of 200 mg POS dose 
+when it given with a high-fat meal (Table 10). No dose escalating study was conducted 
+under fasting conditions. However, two studies to evaluate the effect of food on the POS 
+' 
+PK (Studies 196099 and 195099) showed that the magnitude of the increase in &a1 POS  
+bioavailability by a high-fat meal was similar (i.e., -4 fold) following oral administration  
+of both 200 mg and 4@0 mg (Tables 11 and 12). Collectivelv, these data support that 400  
+mg dose can increase plasma exposure to POS by at least 2-fold compared with 200 mg  
+dose when POS is given under fasting conditions as well as when it is given with a high-  
+fat meal. Thus, the increase of POS dose from 200 mg TID to 400 mg TID is most likely  
+to result in an increase in plasma exposure to POS by at least 2 fold when POS is given  
+either with food or under fasting conditions.  
+Table 9. Pharmacokinetic parameters (Mean*SD [range]) of POS tablets on Day 14 after  
+oral (Q12 hr) administration of POS tablets for 14 days (n=9/Dose)  
+(Study 196-089)  
+200 mg BID 
+400 mg BID 
+Fold Difference 
+Cmax 
+1753*466 
+4150*816 
+2.37 
+Table 10. Pharmacokinetic parameters (Mean*SD [range]) of POS following single oral 
+administration of POS tablets to healthy male volunteers (n=6 for each dose). (Study 195- 
+098) 
+-
+200 mg 
+400 mg 
+Fold Difference 
+Cmax 
+332*70.8 
+61 1*190 
+1.84 
+(ng/mL) 
+[273-4701 
+[424-9641 
+AUCinf 
+10896*3411 
+20264*678 1 
+1.86 
+(ng.hr/mL) 
+[5650-146341 
+[12716-293871 
+
+
+===== PAGE 26 =====
+
+I Initial POS dose: 200 mg 
+I 
+=-
+/\Fter Day 7
+All 
+/
+Plasma POS conc. 1700 
+Switch to another  
+antifungal drug  
+I  
+Figure 4. Dose recommendation of POS based on plasma concentrations of Posaconazole 
+2.1.10. What PK parameter was used for exposure-response relationship? 
+Individual subject's average concentration values (C,,,,) were used to evaluate the 
+exposure against response. 
+Since the elimination of POS is very slow (i.e., T1/2: -35 hours), the steady-state plasma 
+concentration profile is relatively flat with minimal fluctuation over a dosing interval 
+L 
+). Thus, individual average -
+concentration values (C,,,) were used to evaluate the exposure against response. Figure 5 
+shows POS concentrations measured in all patients and patients who belonged in Q1 in 
+Study C983 16 as a function of time (days) after the beginning of POS treatment. The 
+plasma concentrations of POS in patients who belong in Q1 were relatively low 
+throughout the study period, indicating that C,,,, in individual patient can be a PK 
+parameter representing plasma exposure to POS. 
+
+
+===== PAGE 31 =====
+
+glutamyl transferase (GGT), presence of Neutropenia at baseline (NEU), occurrence of 
+diarrhea (Dm), and the occurrence of vomiting (VOM). The effects of these covariates 
+on the pharmacokinetic parameters of POS were investigated. In addition, the effect of 
+intake of proton pump inhibitors (PPI) and H2 antagonists ( H ~ A )  
+on the PK of POS was 
+investigated. Finally, the relationship between PK parameter estimates and the occurrence 
+of IFIPP (Invasive Fungal Infection Proven or Probable) or IFIPPP (Invasive Fungal 
+Infection Proved, Probable, or Possible) was investigated in a similar manner as 
+categorical covariates. The bioavailability of POS has been shown to be significantly 
+lower in fasting healthy volunteers relative to that in the fed state. However, no food 
+intake data was available in this study and the effect of food on the plasma exposures of 
+POS was not investigated. 
+Categorical covariates were investigated using the power model. For example, fie effect 
+of Race on V/F (V in NonMem) was incorporated into the model using the following 
+equation: 
+= 
+V, =TVV VV:Theta"wcE'exp(eta) 
+where Vi is the individual predicted volume of distribution, TVV is the typical value of V 
+(population mean value), and eta is a normally distributed value with a mean of zero 
+(exponential or log-normal distribution of inter-subject variability in V). RACE is equal 
+to 1 when individual is Caucasian and zero when the patient in non-Caucasian. As a 
+result, the estimate of Theta represents the relationship between the mean estimates of Vi 
+for Caucasians versus non-Caucasians. 
+Continuous covariates were introduced using the power model after correcting them with 
+the mean value of that covariate. For example, the effect of age on the estimate of Vi was 
+investigated using the following equation: 
+where Vi is the individual predicted volume of distribution, TVV is the typical valued of 
+V (population mean value), and eta is the a normally distributed value with a mean of 
+zero (exponential or log-normal distribution of inter-subject variability in V), Age is the 
+age for that patient, and 48.5 is the mean value of Age for the POS group (with PK data). 
+-
+Covariates were investigated using a two-stage approach. First, a "Stepwise 
+Forward Addition" was used and covariates with a change in the Objective hnction of 
+23.84 were incorporated one at a time. A second stage involved adding all the 
+"significant" covariates from the first Stage (i.e., Stepwise Forward Addition) in one 
+model (called Full Model) and then performing "Stepwise Backward Elimination". 
+Covariates that, when eliminated, caused a change greater than 10.88 in the Objective 
+Function Value (OBJF) were kept in the model. The choice of the significant OBJF value 
+was set a priori. 
+Covariates were assumed to affect V/F (apparent volume of distribution estimate, 
+expressed as V in NonMem). Due to the nature of the data available, the model couldn't 
+distinguish between the effect on V (true volume of distribution) and the effect on F 
+
+
+===== PAGE 32 =====
+
+(bioavailability estimate). In other words, higher estimated VIF could mean higher 
+volume of distribution estimate or a lower bioavailability estimate. Both will lead to 
+lower exposures observed. 
+Since most of the data available in this study was at steady state conditions with no 
+terminal phase defined, the typical value (population mean value) of half life was fixed at 
+35h [k 00.0198 h-'I. Inter-subject variability of the k value was allowed assuming 
+exponential (log-normal) distribution around the mean. 
+Inter-subject variability around the mean value of ka and V was also assumed 
+to have log-normal distribution. The same value of eta was assumed for both V and ka 
+since the value of V in NonMem is actually VIF and the value of ka is actually ka*F, the 
+same eta was used for both V and VIF. 
+& 
+Intra-subject (inter-occasion) variability was allowed and investigated with additive, 
+proportional, and expwential models. An exponential model was then chosen based on 
+the diagnostic plots. Model evaluation was performed using the OBJF value and 
+diagnostics plots of Predicted versus Observed, Individual Predicted (ipred) Versus 
+Observed, Residual, Weighted Residuals, and PredictedIObserved versus time plots. 
+The First Order Conditional Estimation method (FOCE, Method = 1 in NonMem) was 
+used in the final model and covariate analysis. Initial parameter estimates for the FOCE 
+method were used from successful NonMem runs with the First Order method (FO, 
+Method = 0 in NonMem). Since plasma sampling in this study was sparse, T,,,, 
+estimation from observed data was deemed inappropriate. Additionally, data from all 
+patients was analyzed simultaneously using NonMem regardless whether patients had 
+extensive plasma sampling. Finally, in this clinical study, the number of breakthrough IF1 
+infections was very low as a result of successful prophylaxis. Therefore a proper 
+evaluation of the relationship between exposure response and AUCIMIC could not be 
+conducted. 
+Software 
+The software used for the data formatting was Splus and for performing the population 
+PK analysis, NONMEM was used. 
+-
+Results and Discussion 
+Data Integrity 
+All patients are included in the NonMem data sets Only 3 concentration time points were 
+excluded as listed below: 
+a. Patient 001 125 at 195hr and 289hr time points only. 
+b. Patient 00101 8 at 243 I .33hr time point only. 
+The concentration-time profile for all subjects receiving posaconazole oral suspension 
+200 mg TID is given below: 
+
+
+===== PAGE 33 =====
+
+* 
+.-
+Best Possible Copy 
+C0ncer;tmicn '&nus Time Pcst F.%::Dc;sr fcr 'osao-nazcle Gp. 
+Ticlc Pcst F.ni Dase (h) 
+Model and Model Selection: 
+Final Model 
+Model description 
+Seven covariates were included in the "Full Model" following the Stepwise Forward 
+Addition stage: DIA (Diarrhea), PPI (Intake of Proton Pump Inhibitors), IFIPP (Reported 
+Invasive Fungal Infection, Proved or Probable), BIL (billirubin higher than twice the 
+upper limit of normal), Baseline Body Weight, GGT liver enzymes higher than tivice the 
+upper limit of normal, and Race (Caucasian versus Non-Caucasian). 
+The Stepwise Backward Elimination Stage identified Baseline Body Weight and IFIPP as 
+insignificant variables. The final model included five covariates as significant: DM, PPI, 
+-
+BIL, GGT, and RACE (Caucasian versus Non-Caucasian).  
+The final estimated effects of the significant covariates on V/F estimate are included in  
+Table 1. The model run numbers and comparisons of the OBJF values from each run of  
+the Backward Elimination Stage are presented in Table 2.  
+Appears This Way  
+On Original  
+
+
+===== PAGE 39 =====
+
+no=O:yes= 1. 
+F = female; GGT = gamma-glutatnyltranspepticlase; IF1= invasive fungal jnfection; LlV = hepatic laboratop; test; 
+Id = male; FPlNHlB = proton pu~npinhibitor; Site No. = site number; Subj No. = subject number. 
+S~teNo. 
+2 
+10 
+15 
+15 
+54 
+57 
+44 
+Reviewer's Comments 
+The method and interpretation of population PK analyses to see th. effect of 
+covariates, e.g., patients demographic, on posaconazole PK seem appropriate 
+from the perspzctive of Clinical Pharmacology and Biopharmaceutics. 
+Subj. No. 
+1271 
+1371 
+1239 
+1415 
+1468 
+1492 
+'1 329 
+The sponsor has not performed the post hoc step in NONMEM to obtain 
+estimates of the PK parameters such as AUC, CL, Vd etc. 
+Recommendations 
+Gender 
+M 
+F 
+bA 
+F 
+F 
+Pfi 
+F 
+Labeling 
+I .  Please add a table to the clinical pharmacology section of the label to include the PK 
+parameters such as steady state average concentrations, oral clearance, volume of 
+distribution, AUC and elimination half-life of posaconazole. 
+4.2.1. POS PK in pediatric patients 
+Race 
+Caucasran 
+kstan 
+Caucasian 
+Caucasian 
+Hispanic 
+Caucasian 
+~aucasian 
+In Studies PO1899 and C983 16, C,,, were available in 10 adolescents (13-17 years of 
+age). The descriptive statistics of C,,, in adolescents are.summarized in Table 1. Since 
+these values were similar to patients 2 18 years of age. Thus, it appears appropriate to use 
+the same dosing regimen for patients 13-17 years of age as adults (2 18 years of age). 
+Table 1. Steady-state average POS concentration in patients 13-17 years of age and 
+adults (2 18 years of age) (Studies C983 16 and PO1899) 
+GGT 
+o 
+o 
+0 
+0 
+0 
+0 
+o 
+LN 
+o 
+Q 
+1 
+0 
+0 
+1 
+o 
+13-17 years of age 
+Diarrhea 
+0 
+0 
+1 
+0 
+1 
+0 
+o 
+N 
+10 
+PPINHIB 
+o 
+o 
+0 
+0 
+0 
+'I 
+I 
+MeankSD 
+760k404 
+Median [Range] 
+682 [254-13701 

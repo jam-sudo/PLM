@@ -1,0 +1,1749 @@
+
+
+===== PAGE 3 =====
+
+NDA 208-434 Alectinib / Alecensa 
+ 
+Page 2  
+List of Tables 
+Table 1. Alectinib demonstrates low and pH dependent solubility .............................................................. 9 
+Table 2. Description of Clinical Pharmacology Studies ............................................................................. 10 
+Table 3. Schedule of Efficacy, Safety and Pharmacokinetic Assessments                                    in the 
+Registration Trials .............................................................................................................................. 13 
+Table 4. Summary of Dose Modifications for Adverse Events in the Registration Trials ......................... 16 
+Table 5. Summary of Maximum ∆QTcF and QTcF Values in Registration Trials .................................... 17 
+Table 6. Summary of Geometric Mean (CV%) Pharmacokinetic Parameters of Alectinib following a 
+Single Dose (cycle 1 day -3) and Steady-State Dose (cycle 2 day 1) ................................................ 18 
+Table 7. Summary of Geometric Mean (CV%) Pharmacokinetic Parameters of Alectinib following a 
+Single 600 mg Dose under Fed Conditions in Healthy Subjects and Cancer Patients ...................... 19 
+Table 8. Summary of Pharmacokinetic Parameters of Alectinib and M4 at Steady-State based on 
+Population PK Model ......................................................................................................................... 24 
+Table 9. Summary of pharmacokinetic parameters of alectinib and M4 based on the final population 
+pharmacokinetic model for each race category .................................................................................. 25 
+Table 10. Effect of Race on Alectinib and M4 Pharmacokinetic Parameters in Study NP28673 following 
+a Single 600 mg Dose......................................................................................................................... 26 
+Table 11. Comparison of Alectinib and M4 Exposure in Japanese and North American Dose Finding 
+Studies at a Dose of 300 mg twice daily under Fed Conditions ........................................................ 27 
+Table 12. Effect of Renal Impairment on Alectinib and M4 Pharmacokinetic Parameters based on the 
+Final Population Pharmacokinetic Model .......................................................................................... 27 
+Table 13. Effect of Renal Impairment on Adverse Events and Dose Modification ................................... 28 
+Table 14. Effect of Mild Hepatic Impairment on Alectinib and M4 Pharmacokinetic Parameters based on 
+the Final Population Pharmacokinetic Model .................................................................................... 29 
+Table 15. Effect of Rifampin on the Pharmacokinetics of Alectinib and M4 ............................................ 31 
+Table 16. Effect of Posaconazole on the Pharmacokinetics of Alectinib and M4 ..................................... 32 
+Table 17. Geometric Mean Ratios at Steady-state in Patients taking Alectinib with an Acid-Reducing 
+Agent compared to Patients taking Alectinib without an Acid-Reducing Agent .............................. 34 
+Table 18. Summary of Geometric Mean (CV%) Pharmacokinetic Parameters of Alectinib and M4 at 
+Steady-state following administration of Different Capsule Strengths ............................................. 35 
+Table 19. Effect of High-fat Breakfast on the Pharmacokinetics of Alectinib and M4 ............................. 37 
+Table 20. Bioanalytical methods ................................................................................................................ 39 
+Table 21. Summary of Bioanalytical Methods ........................................................................................... 39 
+ 
+List of Figures 
+Figure 1. Chemical Structure of Alectinib Hydrochloride ........................................................................... 8 
+Figure 2. Change in tumor size from baseline by category of observed median observed steady-state 
+trough concentrations supports a dose of 600 mg twice daily ........................................................... 12 
+Figure 3. No exposure-response relationship observed between best overall response and the combined 
+Reference ID: 3842065
+
+
+===== PAGE 6 =====
+
+NDA 208-434 Alectinib / Alecensa 
+ 
+Page 5  
+1.1 
+RECOMMENDATIONS 
+ This NDA is acceptable for approval from a clinical pharmacology perspective.  
+Decision 
+Acceptable to 
+OCP? 
+Comment 
+Overall 
+Yes 
+ 
+Evidence of effectiveness† 
+Yes 
+ 
+Proposed dose for general population 
+Yes 
+ 
+Proposed dose adjustment for others  
+Yes 
+A postmarket study in subjects with moderate to 
+severe hepatic impairment will be requested.  
+Pivotal bioequivalence 
+Not Applicable 
+ 
+Labeling 
+Yes 
+ 
+†This decision is from a clinical pharmacology perspective only. The determination of the overall safety and 
+effectiveness is made by the clinical review team. 
+1.2 
+PHASE 4 REQUIREMENTS AND COMMITMENTS 
+1.2.1 
+Post Market Requirements 
+Drug Development Question 
+Rationale 
+PMR 
+What is an appropriate dose 
+for patients with hepatic 
+impairment?  
+The mass balance study 
+indicates that 98% of a 
+radiolabeled dose is eliminated 
+in the feces, suggesting that 
+hepatic elimination is the major 
+elimination pathway.  
+Complete a pharmacokinetic (PK) trial to 
+determine an appropriate dose of alectinib 
+in patients with moderate to severe hepatic 
+impairment.  
+Trial Completion: July 2017 
+Final Report Submission: December 2017 
+1.2.2 Post Market Commitments 
+None. 
+1.2.3 Additional Comments 
+Conduct clinical pharmacokinetic trials to determine the effect of alectinib on the 
+pharmacokinetics of a sensitive multidrug resistance protein 1 (MDR1) substrate and a sensitive 
+breast cancer resistance protein substrate in accordance with the FDA draft Guidance for Industry 
+entitled “Drug Interaction Studies – Study Design, Data Analysis, Implications for Dosing, and 
+Labeling Recommendations” and submit the final study report to the IND.  
+Reference ID: 3842065
+
+
+===== PAGE 8 =====
+
+NDA 208-434 Alectinib / Alecensa 
+ 
+Page 7  
+1.3 
+SUMMARY OF IMPORTANT CLINICAL PHARMACOLOGY AND BIOPHARMACEUTICS 
+FINDINGS 
+Alectinib is a kinase inhibitor that inhibits the ALK. The proposed indication is for the treatment 
+of patients with ALK-positive locally advanced or metastatic NSCLC who have progressed on or 
+are intolerant to crizotinib at a dose of 600 mg BID administered with food. 
+Two open-label trials were conducted to evaluate the efficacy and safety of alectinib at a dose of 
+600 mg BID in patients with ALK-positive NSCLC. No E-R relationship was observed for best 
+overall response, grade 3 or higher adverse events or other adverse events. The Applicant 
+selected the proposed dose of 600 mg BID based on the exposure-activity relationship observed 
+in the dose finding study and supported the dose with the safety and efficacy data from the 
+registration trials.  
+Alectinib exposure increased in a dose proportional manner at doses of 460 mg to 900 mg under 
+fed conditions after a single dose and at steady-state. The median maximal concentration (Tmax) 
+was observed at 4 hours. The absolute bioavailability is 37%. The administration of a single 600 
+mg dose with a FDA-specified high-fat, high-calorie meal resulted in a 3.1-fold increase in area 
+under the curve (AUCinf) of the combined exposure of alectinib and its major active M4 
+metabolite in healthy subjects. Alectinib demonstrated low solubility that decreased with 
+increasing pH in vitro, but no clinically meaningful changes in the combined exposure were 
+observed when a single 600 mg dose of alectinib was coadministered with multiple doses of 
+esomeprazole. 
+Alectinib is metabolized by CYP3A4 to M4; this pathway accounts for about 40% of alectinib’s 
+metabolism based on the geometric mean metabolite to parent ratio estimated using the 
+population PK model. No dose adjustment is recommended for patients taking strong CYP3A 
+modulators with alectinib. Multiple dose of posaconazole increased the AUCinf of the combined 
+exposure of alectinib and M4 by 1.4-fold when it was coadministered with a single 300 mg dose 
+of alectinib. No statistically significant changes in the combined exposure were observed when 
+multiple doses of rifampin were coadministered with a single 600 mg dose of alectinib. The 
+geometric mean elimination half-life is 32 hours for alectinib and 31 hours for M4. 
+Alectinib and M4 inhibited CYP3A4 and induced CYP3A4 and CYP2B6 in vitro. No dose 
+adjustment is recommended for concomitant CYP3A4 substrates, because no clinically 
+meaningful changes in midazolam exposure were observed when alectinib at a dose of 600 mg 
+twice daily was coadministered with a single midazolam dose. Alectinib inhibits CYP2C8 in 
+vitro, but simulations suggest that no clinically meaningful changes in repaglinide exposure 
+would occur when it is coadministered with multiple doses of alectinib. M4 is a multidrug 
+resistance 1 (MDR1) substrate in vitro. Alectinib and M4 inhibited MDR1 and breast cancer 
+resistance protein (BCRP) and alectinib inhibited bile salt export pump (BSEP) in vitro. 
+Alectinib is not a substrate or inhibitor of OATP1B1 and OATP1B3. 
+Approximately 98% of the radiolabeled dose was excreted in feces following a single 600 mg 
+oral dose of [14C]-labeled alectinib. No dose adjustment is recommended for patients with mild 
+hepatic impairment (as defined by National Cancer Institute criteria) or mild to moderate renal 
+impairment (as defined by Cockcroft-Gault) based on population PK analysis. A postmarket 
+study will be required to determine an appropriate dosage regimen for patients with moderate to 
+severe hepatic impairment. 
+Reference ID: 3842065
+
+
+===== PAGE 14 =====
+
+NDA 208-434 Alectinib / Alecensa 
+ 
+Page 13  
+ 
+Table 3. Schedule of Efficacy, Safety and Pharmacokinetic Assessments                     
+in the Registration Trials 
+Study 
+Efficacy 
+Safety 
+Pharmacokinetic 
+NP28673 
+ 
+Screening, every 8 weeks during 
+first year; every 12 weeks 
+during second year; every 16 
+weeks until progression. 
+Baseline, Cycle 1 Days 1, 8, 15 
+and 21; Cycles 2 to 5 Day 1; and 
+every 4-week cycle thereafter. 
+Cycle 1 Days 1 and 21: pre-dose 
+and up to 8 hours after morning 
+dose; Cycle 1 Day 15: pre-dose 
+and 4 hours after morning 
+dose; Cycles 2 to 5 Day 1: pre-
+dose. 
+NP28761 
+ 
+Screening, every 6 weeks until 
+disease progression. 
+Baseline and on Cycle 1 Days 1, 
+8, and 15; Cycle 2 to 5 Day 1; 
+and 
+every 
+3-week 
+cycle 
+thereafter. 
+Cycles 1 to 5 Day 1: pre-dose 
+and 4 hours after morning dose 
+Source: Population Pharmacokinetic Report 
+No E-R relationship was observed between the BOR and the combined average steady-state 
+concentration of alectinib and M4 (Figure 3). Multivariate logistic regression analyses showed 
+that only baseline tumor size was a statistically significant predictor of BOR; larger baseline 
+tumor size was associated with a decreased probability of a complete or partial response.  
+Figure 3. No exposure-response relationship observed between best overall response and the 
+combined average concentration of alectinib and M4 
+Data source: Population Pharmacokinetic Report, Figure 25 
+No E-R relationship was identified between BOR in the CNS and the combined average steady-
+state concentration of alectinib and M4 (Figure 4) (n=49). This analysis included only patients 
+with measurable disease in the CNS. None of the prognostic factors evaluated using multivariate 
+logistic regression analyses were significant in predicting the probability of having a BOR in the 
+CNS. 
+Reference ID: 3842065
+
+
+===== PAGE 20 =====
+
+NDA 208-434 Alectinib / Alecensa 
+ 
+Page 19  
+2.2.5.2 How does the PK of the drug and its major active metabolites in healthy volunteers 
+compare to that in patients? 
+A cross study comparison suggests that alectinib exposure is similar in cancer patients and 
+healthy subjects. The population PK model only included concentration-time data collected from 
+patients with ALK-positive NSCLC. 
+A Cross Study Comparison 
+A cross study comparison of alectinib and M4 exposure suggests that alectinib geometric mean 
+exposure is similar in healthy subjects compared to cancer patients following the administration 
+of a single 600 mg dose with food (Table 7); the difference between the geometric mean 
+alectinib values was less than 32% when comparing the value obtained in NP28671 to that 
+obtained in NP29042 or NP28991 - esomeprazole. Alectinib and M4 exposure appear 
+substantially higher for one study (NP28991 – food effect) conducted in healthy subjects 
+compared to other studies conducted in the patient population. The higher exposures likely 
+reflect the meal content. Alectinib was administered with an FDA specified high-fat, high-calorie 
+meal in this study cohort, whereas the other studies did not specify the meal content. A high-fat, 
+high-calorie meal increased alectinib exposure by about 3-fold as discussed in Section 2.5. 
+ 
+Table 7. Summary of Geometric Mean (CV%) Pharmacokinetic Parameters of Alectinib following 
+a Single 600 mg Dose under Fed Conditions in Healthy Subjects and Cancer Patients  
+Study 
+Alectinib 
+M4 
+AUCinf (ng*h/mL) 
+Cmax (ng/mL) 
+AUCinf (ng*h/mL) 
+Cmax (ng/mL) 
+Cancer Patients 
+NP28761 (n=6) 
+NP28673 (n=28) 
+ 
+Healthy Subjects 
+NP29042 - rifampin (n=24) 
+NP28991 - esomeprazole (n=24) 
+NP28991 - food effect (n=18) 
+ 
+2790 (70) 
+NA 
+ 
+ 
+3690 (39) 
+3060 (28) 
+5320 (33) 
+ 
+181 (26) 
+204 (34) 
+ 
+ 
+199 (37) 
+162 (28) 
+257 (32) 
+ 
+1250 (45) 
+NA 
+ 
+ 
+2070 (40) 
+1750 (34) 
+3390 (22) 
+ 
+50 (26) 
+57 (47) 
+ 
+ 
+80 (48) 
+66 (40) 
+122 (25) 
+NA = not available 
+Source: Summary of Clinical Pharmacology, Appendices 
+Of note, alectinib concentrations measured as part of Study NP28761 were estimated using the 
+Chugai assay and this assay measured on average 20% lower concentrations for alectinib 
+compared to concentrations measured in the other studies using the 
+ assay (Section 2.6). 
+2.2.5.3 What are the characteristics of drug absorption? 
+The absolute bioavailability of alectinib was 37% (90% CI: 34%, 40%) in healthy subjects 
+(NP28989). Each subject received a single 600 mg oral dose (150 mg capsules x 4) within 30 
+minutes of a meal followed by a single 50 µg radiolabeled intravenous dose (~18.5 kBq, 500 
+nCi). The relative bioavailability and bioequivalence of different formulations is discussed in 
+Section 2.5. 
+The median Tmax occurred about 4 hours after a dose of 600 mg BID under fed conditions in 
+cancer patients (NP28761 and NP28673).  
+Alectinib is not a substrate of MDR1 or BCRP in vitro. M4 is a substrate of MDR1, but not 
+Reference ID: 3842065
+(b) (4)
+
+
+===== PAGE 21 =====
+
+NDA 208-434 Alectinib / Alecensa 
+ 
+Page 20  
+BCRP in vitro. 
+2.2.5.4 What are the characteristics of drug distribution? 
+The population estimated apparent central volume of distribution (V/F) of alectinib was 4,016 L 
+and of M4 was 10,093 L based on the final population PK model.  
+Alectinib and M4 are greater than 99% bound to human plasma proteins independent of their 
+concentrations (report no. 1054086, 1057255). Alectinib demonstrated greater affinity for human 
+serum albumin compared to human α1-acidic glycoprotein (report no. 1056250). 
+Alectinib and M4 predominantly distributed to blood cells. The average blood-to-plasma 
+concentration ratio ranged from 1.3 to 2.9 for alectinib (report no. 1054086) and 2.5 to 2.6 for 
+M4 (report no. 1057255).  
+Alectinib demonstrated penetration into the CNS in the 8 patients with CNS metastases who 
+consented to an optional lumbar puncture (NP28761). A PK sample was collected immediately 
+following the lumbar puncture in 6 of these patients. The alectinib concentration was estimated 
+for the remaining two patients based on concentration measured at a similar time on another day. 
+This approach appears reasonable as alectinib reaches steady-state concentrations within one 
+week of the first dose. Alectinib concentrations in the cerebrospinal fluid (CSF) were 0.2% to 
+0.5% of alectinib concentrations in the plasma. The fraction of alectinib that reaches the CNS 
+approximates the fraction unbound. Alectinib concentrations in the CSF correlate (R2 = 0.83; 
+Intercept = -0.95; Slope = 0.004) with alectinib concentrations in the plasma (Figure 7). 
+Figure 7. Alectinib concentrations in the cerebrospinal fluid correlates with alectinib 
+concentrations in the plasma 
+Source: Study NP28761 Report, Figure 22 
+2.2.5.5 Does the mass balance study suggest renal or hepatic as the major route of 
+elimination?  
+The mass balance study suggests that alectinib is primarily eliminated in the feces. Metabolism 
+and biliary excretion likely contribute to the elimination of alectinib.  
+Clinical 
+Six healthy men were given a single oral dose of 600 mg of [14C] alectinib (~2.5 MBq, 67 μCi) 
+Reference ID: 3842065
+
+
+===== PAGE 23 =====
+
+NDA 208-434 Alectinib / Alecensa 
+ 
+Page 22  
+The kinase selectivity of M4 is very similar to the kinase selectivity of alectinib. M4 also 
+inhibited the growth of an EML4-ALK fusion positive cell line with an IC50 value of 37 nM 
+(report no. 1056381). This metabolite likely contributes to the observed efficacy and safety, since 
+it is a major circulating metabolite with comparable in vitro activity. These data support the 
+Applicant’s approach of using the combined average steady-state concentration of alectinib and 
+M4 in the exploration of the exposure-safety and exposure-efficacy relationships and in the 
+evaluation of the effect of various extrinsic factors on systemic exposures after administration of 
+alectinib. The remaining human metabolites were identified at relatively low concentrations and 
+the Applicant did not evaluate their in vitro activity. 
+2.2.5.7 What are the characteristics of drug excretion?  
+Metabolism and biliary excretion followed by fecal elimination is the primary route of alectinib 
+elimination as described above. 
+The estimated population geometric mean (CV, %) CL/F was 1,965 L/h (82%) for alectinib and 
+was 5,205 L/h (217%) for M4. The geometric mean elimination half-life was 32 hours (36%) for 
+alectinib and was 31 hours (46%) for M4 in cancer patients based on the final population PK 
+model. 
+ 
+Figure 8. Proposed metabolism of alectinib in humans 
+Source: Pharmacokinetics Written Summary, Figure 3 
+2.2.5.8 Based on PK parameters, what is the degree of linearity or non-linearity based in the 
+dose-concentration relationship? 
+Alectinib demonstrated linear exposure over a dose range of 460 mg to 900 mg after a single 
+dose or at steady-state under fed conditions (Figure 9). The Applicant could not exclude dose 
+proportionality using the PK data from the dose finding study (NP28761), but confirmed dose 
+Reference ID: 3842065
+
+
+===== PAGE 24 =====
+
+NDA 208-434 Alectinib / Alecensa 
+ 
+Page 23  
+proportionality based on comparisons of the post hoc estimates for the PK parameters. From the 
+final population PK model, alectinib does not demonstrate dose-dependent absorption. 
+Figure 9. Mean area under the curve after a single dose (top) and steady-state dose (bottom) of 
+460 mg to 900 mg under fed conditions in cancer patients 
+ 
+slope = 0.752 [90% CI: 0.06, 1.44] 
+ 
+slope = 1.110 [90% CI: 0.65, 1.57] 
+Source: Final Clinical Study Report NP28761, Figure 14.2-3.3 
+2.2.5.9 How do the PK parameters change with time following chronic dosing? 
+Accumulation of alectinib and M4 at steady-state is about 6-fold. State-state concentrations were 
+reached by day 7 based on the final population PK model. Table 8 lists the predicted PK 
+parameters for alectinib and M4 at steady-state following repeat doses of 600 mg BID. 
+Accumulation is anticipated as alectinib is being administered twice daily and its elimination 
+half-life is 32 hours. 
+Reference ID: 3842065
+
+
+===== PAGE 25 =====
+
+NDA 208-434 Alectinib / Alecensa 
+ 
+Page 24  
+ 
+Table 8. Summary of Pharmacokinetic Parameters of Alectinib and M4 at 
+Steady-State based on Population PK Model 
+Alectinib 
+ 
+M4 
+Source: Population Pharmacokinetic Report, Tables 22 and 23 
+2.2.5.10 What is the inter- and intra-subject variability of the PK parameters in volunteers and 
+patients and what are the major causes of variability? 
+The final population PK model incorporated data from 138 patients. For alectinib, the estimated 
+between-patient variability in CL/F was 40% (RSE 6%) and in V/F was 40% (RSE 11%). For 
+M4, the estimated between-patient variability in CL/F was 36% (RSE 7.6%) and in V/F was 59% 
+(RSE 7.4%). Body weight was the only covariate found to significantly affect CL/F and V/F. 
+After inclusion of the body weight effect on CL/F and V/F, the between-patient variability 
+decreased from 42% to 36% on CL/F and from 60% to 58% on V/F. No other causes of 
+variability were identified in the population PK model. 
+2.3 
+INTRINSIC FACTORS 
+2.3.1 
+What intrinsic factors influence exposure and/or response and what is the impact 
+of any differences in exposure on effectiveness or safety responses? 
+The final population PK model included only one covariate. Body weight had a statistically 
+significant effect on alectinib and M4 PK parameters. The remaining covariates assessed in the 
+population PK model had no statistically significant effect on alectinib or M4 PK, including age,  
+body mass index, body surface area, CNS metastases, mild hepatic impairment, mild to moderate 
+renal impairment, performance status, ethnicity, sex, prior chemotherapy status, race,  smoking 
+Reference ID: 3842065
+
+
+===== PAGE 26 =====
+
+NDA 208-434 Alectinib / Alecensa 
+ 
+Page 25  
+status, and tumor size. 
+2.3.2 
+Based upon what is known about exposure-response relationships and their 
+variability and the groups, healthy subjects vs. patients vs. specific populations, 
+what dosage regimen adjustments, if any, are recommended for each of these 
+groups?  
+2.3.2.1 Geriatric 
+None. The median (min, max) age was 53 (21, 83) years. The final model suggests age has no 
+statistically meaningful effect on the PK of alectinib and M4. The clinical review team concluded 
+that no overall differences in safety or efficacy were observed between patients 65 years and 
+older (14% of patients enrolled in registration trials) and patients younger than 65 years. 
+2.3.2.2 Pediatric  
+A disease specific waiver from pediatric studies for the proposed indication was requested. 
+Alectinib has orphan designation for ALK-positive NSCLC (27 January 2015). 
+2.3.2.3 Sex 
+None. Forty-six percent (46%) of the patients included in the population PK model were men. 
+The final model suggests that sex has no statistically meaningful effect on the PK of alectinib and 
+M4. 
+2.3.2.4 Race 
+None. The final population PK model suggests that race has no statistically meaningful effect on 
+the PK of alectinib and M4. Asian patients constituted 18% of the population included in the 
+population PK model, but the remaining races constituted only a small portion of the population. 
+Table 9 provides a comparison of the PK parameters for each race category. 
+ 
+Table 9. Summary of pharmacokinetic parameters of alectinib and M4 
+based on the final population pharmacokinetic model for each race category 
+Alectinib 
+Reference ID: 3842065
+
+
+===== PAGE 27 =====
+
+NDA 208-434 Alectinib / Alecensa 
+ 
+Page 26  
+ 
+M4 
+Source: Population Pharmacokinetic Report, Tables 31 and 32 
+Alectinib and M4 exposure in Asian and White patients was compared in a planned substudy 
+analysis. Serial PK samples were collected from 22 Asian (12 Korean, 10 Taiwanese) patients 
+and 6 White patients enrolled into Study NP28673 following multiple doses of 600 mg BID with 
+food. Alectinib geometric mean exposure in Asians was similar compared to the alectinib 
+geometric mean exposure in Whites, but M4 geometric mean exposure was lower in Asians 
+compared to Whites (Table 10). The relatively wide confidence intervals suggest that the 
+observed differences are not statistically different. Although the M4 likely contributes to the 
+observed anticancer activity, these differences are not likely clinically meaningful with no 
+exposure-efficacy relationship observed with the combined exposure to alectinib and M4.  
+Table 10. Effect of Race on Alectinib and M4 Pharmacokinetic Parameters in Study 
+NP28673 following a Single 600 mg Dose  
+ 
+White 
+(n=6) 
+Asians 
+(n=22) 
+Geometric Mean Ratio  
+(90% CI) 
+Alectinib 
+Cmax ng/mL 
+236 
+196 
+83.2 (65.6, 134.4) 
+AUClast ng*h/mL 
+1460 
+1300 
+87.5 (62.2, 137.8) 
+M4 
+Cmax ng/mL 
+73 
+54 
+73.2 (45.1, 119.1) 
+AUClast ng*h/mL 
+529 
+345 
+65.2 (40.8, 104.3) 
+Source: Final Study Report Study NP28673, Table 26 
+In contrast, a cross study comparison of alectinib exposure observed in a dose finding study 
+conducted in Japan (AF-001JP) and in North America (NP28761) suggests that geometric mean 
+alectinib exposure (defined as AUClast) was 2.2-fold lower and geometric mean M4 exposure was 
+2.3-fold lower in the North American study compared to the Japanese study at a dose of 300 mg 
+(as 20-mg and 40-mg capsules) administered with food (Table 11). The potential reasons for the 
+apparent differences in exposure may include differences in meal, race, weight and sex. The 
+evaluable PK population for the NP28671 cohort included three Whites, two Blacks and one 
+Asian. More men (North American 67% vs. Japanese 17%) and heavier patients (North 
+American, mean 76 kg vs. Japanese mean 50 kg) were enrolled into the NP28761 cohort than 
+into the AF001JP cohort. Of these intrinsic factors, weight was the only covariate included in the 
+final population PK model, but it had no clinically meaningful effect on alectinib and M4 PK 
+parameters (Section 2.3). The body weight range of patients in Study AF-001JP is encompassed 
+by the body weight range of the population model. A high-fat, high-calorie meal increases 
+alectinib exposure 3-fold (Section 2.5). The small study population and other potential 
+Reference ID: 3842065
+
+
+===== PAGE 28 =====
+
+NDA 208-434 Alectinib / Alecensa 
+ 
+Page 27  
+confounding factors, precludes drawing definitive conclusions from this analysis, but differences 
+in weight and meal type likely contributed to the observed PK differences. 
+ 
+Table 11. Comparison of Alectinib and M4 Exposure in Japanese and North American Dose 
+Finding Studies at a Dose of 300 mg twice daily under Fed Conditions 
+Study 
+300 mg 
+600 mg 
+AUC0-10h (ng*h/mL) 
+Cmax (ng/mL) 
+AUC0-10h (ng*h/mL) 
+Cmax (ng/mL) 
+Alectinib 
+AF001JP (n=6) 
+4070 
+512 
+- 
+- 
+NP28761 (n=6) 
+1720 
+247  
+5880 
+747 
+M4 
+AF001JP (n=6) 
+1980 
+233 
+- 
+- 
+NP28761 (n=5-6) 
+838 
+105 
+2470 
+302 
+Source: Summary of Clinical Pharmacology, Appendices 
+2.3.2.5 Renal impairment 
+None. It is unlikely that renal impairment will have a clinically meaningful effect on alectinib 
+exposure, since less than 1% of the absorbed drug was eliminated in the urine and an inactive 
+metabolite was the major component of the urine. The population PK model suggests that mild 
+or moderate renal impairment is unlikely to influence alectinib or M4 exposure. The population 
+PK model evaluated creatinine clearance (CLcr) calculated using the Cockcroft-Gault formula as 
+a covariate. Patients with normal renal function (CLcr ≥ 90 mL/min, n=141), as well as patients 
+with mild (CLcr 60 to 89 mL/min, n=104), and moderate (CLcr 30 to 59 mL/min, n=21) renal 
+impairment were included in the population analysis. Based on the final PK model, the results 
+showed that baseline CLcr had no statistically significant effect on alectinib apparent oral 
+clearance (Table 12). No additional studies are recommended to evaluate the effect of renal 
+impairment on alectinib exposure. 
+Table 12. Effect of Renal Impairment on Alectinib and M4 Pharmacokinetic 
+Parameters based on the Final Population Pharmacokinetic Model 
+Alectinib 
+Reference ID: 3842065
+
+
+===== PAGE 30 =====
+
+NDA 208-434 Alectinib / Alecensa 
+ 
+Page 29  
+Population Pharmacokinetic Analysis 
+The final population PK model suggests that mild hepatic impairment defined by the National 
+Cancer Institute criteria does not affect alectinib or M4 exposure. The mean alectinib and M4 PK 
+parameters are similar in cancer patients with mild hepatic impairment (n=59, total bilirubin ≤ 
+ULN and AST > ULN or total bilirubin 1 to ≤ 1.5 × ULN and AST any value) compared to 
+cancer patients with normal hepatic function (n=206, total bilirubin and AST ≤ ULN) (Table 14). 
+No patients with moderate hepatic impairment were enrolled in the clinical trials with alectinib. 
+Only one patient with severe hepatic impairment was enrolled in the clinical trials, but the CL/F 
+was 1.5-fold higher for this patient compared to the mean CL/F for patients with normal hepatic 
+function. Additional PK and safety data is needed to determine an appropriate dose for patients 
+with moderate to severe hepatic impairment. 
+Table 14. Effect of Mild Hepatic Impairment on Alectinib and M4 Pharmacokinetic 
+Parameters based on the Final Population Pharmacokinetic Model 
+Alectinib 
+ 
+M4 
+Source: Population Pharmacokinetic Report, Tables 35 and 36 
+2.3.2.7 Body weight 
+None. Weight was included in the final population PK model as a covariate of CL/F and V/F 
+with the effect incorporated in accordance with the principles of allometric scaling by using a 
+coefficient of 0.75 for the CL/F and a coefficient of 1 for the V/F. The median body weight of the 
+patients included in the model was 72 kg (min 38, max 128). Figure 10 shows that exposure to 
+alectinib and M4 declines with increasing body weight; however, no clinically meaningful 
+differences were observed for the lower body weight or higher body weight category compared to 
+the body weight category of ≤ 60 kg to 90 kg. The median exposure for patients < 60 kg is about 
+20% higher compared to patients with body weight of ≤ 60 to 90 kg and the median exposure for 
+patients ≥ 90 kg is about 15% lower compared to patients with body weight of ≤ 60 to 90 kg. 
+Reference ID: 3842065
+
+
+===== PAGE 42 =====
+
+NDA 208434 
+ 
+Page 1 of 14 
+OFFICE OF CLINICAL PHARMACOLOGY: 
+PHARMACOMETRIC REVIEW 
+ 
+1 
+SUMMARY OF FINDINGS 
+1.1 
+Key Review Questions 
+The purpose of this review is to address the following key questions. 
+1.1.1 Do the exposure-response (E-R) relationships for efficacy and safety support 
+the proposed dose of 600 mg twice daily (BID)? 
+Yes. The E-R relationship for efficacy endpoints (i.e., best overall response [BOR], 
+central nervous system [CNS] BOR) appeared to be flat based on multivariate logistic 
+regression analysis. The E-R relationship for adverse events (AE) which are not 
+gastrointestinal (GI) related appeared to be flat. There was an apparent inverse E-R 
+relationship for constipation, diarrhea, nausea and vomiting. The reasons for such 
+apparent inverse E-R relationship for GI disorders are unknown. Overall, the proposed 
+dose of 600 mg BID dosing is supported by E-R relationships for efficacy and safety. 
+1.1.2 What are the findings based on population PK analysis? 
+Body weight was identified as statistically significant covariate for the clearance (CL/F) 
+and volume of distribution (V/F) for both alectinib and it major active metabolite M4. For 
+patients with body ranging from 37.8 Kg to 128 Kg, the change in clearance from typical 
+value (BW=75 Kg) is - 40.2 and +49.3%, respectively. Given the flat E-R relationship for 
+efficacy and safety, body weight will not have a clinically meaningful impact on efficacy 
+and safety. No other covariate had a statistically significant effect on the PK of alectinib 
+and M4. Dose proportionality was confirmed for both alectinib and M4 from 300 mg to 
+900 mg. For alectinib, the apparent half-life was estimated to be 32 hours, and the 
+accumulation ratio (Racc) for a BID regimen was estimated to be 5.6. For M4, the 
+apparent half-life was estimated to be 31 hours, and the Racc for a BID regimen was 
+estimated to be 6.4. 
+1.2 
+Recommendations 
+The Division of Pharmacometrics in Office of Clinical Pharmacology has reviewed the 
+information contained in NDA 208434.  This NDA is considered acceptable from a 
+pharmacometrics perspective.   
+2 
+RESULTS OF SPONSOR’S ANALYSIS 
+2.1 
+Results of Population PK analysis 
+The number of alectinib and M4 plasma concentrations per study is provided in Table 1.  
+ 
+ 
+Reference ID: 3842065
+
+
+===== PAGE 45 =====
+
+NDA 208434 
+ 
+Page 4 of 14 
+ 
+ 
+ 
+Sources: Population PK and PK-PD Analyses Report 1064536 (alectinib), page 42-44 
+The PK of alectinib was described by one-compartment open model with first-order 
+elimination and with a sequential zero and first order absorption. The estimates of final 
+model were provided in Table 3. Body weight is the only statistically significant 
+covariate for alectinib PK. 
+Table 3: Parameter Estimates for the Final PK Model for Alectinib 
+ 
+                        * D1: duration of zero-order absorption  
+Reference ID: 3842065
+
+
+===== PAGE 47 =====
+
+NDA 208434 
+ 
+Page 6 of 14 
+ 
+Sources: Population PK and PK-PD Analyses Report 1064536 (alectinib), page 52-53 
+The base structural PK model for M4 was a one-compartment open model with first order 
+elimination and with a sequential zero and first-order formation. Similar to alectinib, the 
+final PK model for M4 also retained the effect of body weight on clearance and volume 
+of distribution, with the effect incorporated in accordance with the principles of 
+allometric scaling by using a coefficient of 0.75 for the CL/F and a coefficient of 1 for the 
+V/F. The estimates of final model were provided in Table 4. As shown in the goodness-
+of-fit plots (Figure 2), the model appeared to be adequate in describing the observed PK 
+data of alectinib. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 3842065
+
+
+===== PAGE 57 =====
+
+OCP PBPK Review_Alectinib DDI 
+ 
+ 
+                       PBPK Review Page - 2 
+ 
+ 
+Physiological-based Pharmacokinetic Modeling Review .................................................................... 1 
+1. 
+Objectives .......................................................................................................................................... 4 
+2. 
+Background ...................................................................................................................................... 4 
+2.1. 
+Regulatory history on PBPK submission .................................................................................. 4 
+3. 
+Methods ............................................................................................................................................ 5 
+Figure 1. Workflow of the development and verification of final integrated alectnib-M4 PBPK 
+models [3] ............................................................................................................................................. 6 
+Table 1. Summary of simulations for model verification/update and model application ................. 7 
+4. 
+Results............................................................................................................................................... 8 
+4.1. 
+Can the integrated alectinib-M4 PBPK models predict the effect of CYP3A modulators on 
+the PK of alectinib and M4? ................................................................................................................. 8 
+Figure 2. PBPK simulated and observed plasma concentration-time profiles of alectinib (left) and 
+M4 (right) after a single oral dose of alectinib 300 mg in healthy subjects. Simulation used 
+integrated alectinib-M4 models ........................................................................................................ 8 
+Figure 3. Simulations of multiple dose pharmacokinetics with the final integrated alectinib-M4 
+model in patients using the NSCLC population model with no adjustment of intrinsic clearance 
+and including (top) or not including (bottom) TDI and induction of CYP3A based on in vitro data 
+(V14.1) .............................................................................................................................................. 9 
+Table 2.Comparison of PBPK simulated (geometric mean [5th-95th percentiles]) and observed 
+(geometric mean [90% confidence interval]) Cmax and AUC ratios of alectinib and M4 in clinical 
+drug-drug interaction study with posaconazole .............................................................................. 10 
+Table 3. Comparison of PBPK simulated (geometric mean [5th-95th percentiles]) and observed 
+(geometric mean [90% confidence interval]) Cmax and AUC ratios of alectinib and M4 in clinical 
+drug-drug interaction study with rifampicin ................................................................................... 10 
+4.2. 
+Can integrated alectinib-M4 PBPK models predict minimal CYP inhibition in humans? ..... 11 
+Table 4. Model simulated and observed geometric mean Cmax and AUC ratios of midazolam in 
+the presence and absence of multiple doses of alectinib 600 mg BID using the integrated 
+alectininb-M4 model (with adjustment in CLint Values for the NSCLC Population). .................... 11 
+Reference ID: 3842065
+
+
+===== PAGE 58 =====
+
+OCP PBPK Review_Alectinib DDI 
+ 
+ 
+                       PBPK Review Page - 3 
+ 
+ 
+Table 5. PBPK model predicted median (5-95th percentiles) Cmax and AUC ratios of repaglinide 
+in the presence and absence of multiple doses of alectinib 600 mg BID using the integrated 
+alectininb-M4 model (with adjustment in CLint for the NSCLC population, Simulation #9, Table 
+1). .................................................................................................................................................... 12 
+4.3. 
+What are the limitations of applicant’s PBPK models? .......................................................... 12 
+5. 
+Conclusion ...................................................................................................................................... 12 
+6. 
+Appendices ...................................................................................................................................... 12 
+6.1. 
+Abbreviations .......................................................................................................................... 12 
+6.2. 
+Information requests ............................................................................................................... 13 
+6.3. 
+Appendix Tables and Figures ................................................................................................. 14 
+Appendix Table 1. Physico-chemical parameters of alectinib and M4 used in SimCYP (V13.1) 
+(extracted from excel output submitted together with reference [3]) .............................................. 14 
+Appendix Table 2. Input parameters of alectinib using SimCYP (V13.1). Each alectinib model 
+was integrated with respective M4 model (extracted from excel output submitted together with 
+reference [3]) ................................................................................................................................... 15 
+Appendix Table 3. Input parameters of M4 using SimCYP (V13.1). Each M4 model was 
+integrated with respective alectinib model (extracted from excel output submitted together with 
+reference [3]) ................................................................................................................................... 16 
+Appendix Table 4. Summary of interaction parameters used in rifampicin PBPK models using 
+SimCYP (V13.1) (extracted from excel output submitted together with reference [3]) ................. 17 
+Appendix Table 5. Summary of parameters for posaconazole PBPK model in SimCYP (V13.1) 
+(extracted from excel output submitted together with reference [3], notes from Appendix 3 in [1])
+ ........................................................................................................................................................ 18 
+References ....................................................................................................................................... 19 
+ 
+ 
+ 
+Reference ID: 3842065
+
+
+===== PAGE 60 =====
+
+OCP PBPK Review_Alectinib DDI 
+ 
+ 
+                       PBPK Review Page - 5 
+ 
+ 
+3. Methods 
+A population based PBPK software SimCYP® (V13, release 1, Sheffield, UK) was used by the applicant 
+to develop drug PBPK models and conduct simulations to predict potential DDIs. The concept and 
+construct of SimCYP have been described by Jamei et al [6]. A workflow of applicant’s PBPK modeling 
+is summarized in Figure 1. Physico-chemical parameter values and sources for alectinib and M4 are 
+summarized in Appendix Table 1. Drug absorption and disposition parameters for alectinib and M4 are 
+summarized in Appendix Tables 2 and 3, respectively.  For repaglinide, the applicant either used 
+software’s built-in “SV-repaglinide” model with a fraction of total clearance by CYP2C8 (fm,CYP2C8 ) of 
+0.55, or modified the built-in model with fm,CYP2C8 =0.79 (fm,CYP3A=0.21).  In this review, we refer to these 
+two models as default repaglinide and high-fm,CYP2C8 repaglinide models, respectively. For alectinib-
+midazolam DDI simulations, applicant directly used software built-in “Sim-midazolam” model. For 
+rifampicin-alectinib DDI simulations, applicant either directly used built-in “Sim-rifampicin” model [1], 
+or two other models modified with stronger CYP3A induction potency [3], and model parameters are 
+compared in Appendix Table 4. For posaconazole-alectinib DDI simulation, applicant developed and 
+verified a posaconazole model and the parameters are summarized in Appendix Table 5. 
+The software “Healthy volunteers” population and a NSCLC virtual population were used by the sponsor. 
+The later was established according to [7]. Table 1 summarizes conditions for simulations related to 
+model verification/update and model application (Simulation #1-10), including simulation design, virtual 
+population used, modifications of integrated alectinib-M4 PBPK model, and models of co-medications.  
+ 
+ 
+ 
+Reference ID: 3842065
+
+
+===== PAGE 61 =====
+
+OCP PBPK Review_Alectinib DDI 
+ 
+ 
+                       PBPK Review Page - 6 
+ 
+ 
+Figure 1. Workflow of the development and verification of final integrated alectnib-M4 PBPK 
+models [3]  
+ 
+Alectinib model development 
+• fm,CYP3A: in vitro metabolism in human 
+hepatocytes, 0.4-0.5 
+• Absorption: Prediction based on measured 
+solubility and permeability [2]. Predicted 
+fraction absorbed (Fa) from [2] was used and 
+verified using oral PK data in NSCLC patients 
+• Distribution: predicted tissue/plasma partitioning 
+(Kp) values were from [2]. Volume of 
+distribution at steady state (Vd,ss) was verified 
+using intravenous data 
+• Systemic clearance (CL) was based on 
+intravenous PK and mass balance data 
+(negligible renal CL, CLr) using retrograde 
+analysis 
+ 
+ 
+M4 model development 
+• Linked to alectinib model via formation CL: 
+40% CL via CYP3A and an additional 10% of 
+alectinib CL are responsible for M4 formation  
+• Elimination CL and Vd,ss: fitted to plasma PK of 
+M4 after single oral dose of alectinib 300 mg 
+• fm,CYP3A: not determined. In vitro, hepatic 
+metabolism is mediated by CYP3A; human mass 
+balance study shows significant renal and biliary 
+secretion of unchanged M4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ↓ 
+ 
+ 
+ 
+Verification and update of integrated alectinib-M4 PBPK models  
+(simulation #1-8, Table 1) 
+• Lack of CYP3A modulation 
+- PK after multiple dosing with/without considering CYP3A modulation 
+ - Lack of clinical DDI with midazolam 
+• fm,CYP3A for alectinib: Clinical DDI with posaconazole and rifampicin 
+• fm,CYP3A for M4: Updated to 0.15 via sensitivity analysis using 
+posaconazole-alectinib interaction data. Consistent with qualitative 
+information on hepatic metabolism versus secretion, and in vitro 
+metabolism in human hepatocytes 
+ 
+ 
+Reference ID: 3842065
+
+
+===== PAGE 62 =====
+
+OCP PBPK Review_Alectinib DDI 
+ 
+ 
+                       PBPK Review Page - 7 
+ 
+ 
+Table 1. Summary of simulations for model verification/update and model application  
+ 
+Model verification/update 
+Model application 
+Simulation # 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+Simulation 
+objectives 
+To demonstrate the negligible effect 
+of CYP3A auto inhibition/induction 
+on alectinib PK and negligible PK 
+differences between healthy subjects 
+and NSCLC subjects 
+To simulate alectinib-
+midazolam DDI 
+To simulate rifampicin-alectinib 
+DDI using different rifampicin 
+models 
+To simulate 
+posaconazole-alectinib 
+DDI  
+To Predict 
+alectinib-
+repaglinide DDI. 
+Alectinib-M4 model 
+modified with 30% 
+lower total 
+clearance 
+To Predict 
+alectinib-
+repaglinide DDI.  
+Design 
+10 trials, n=50/trial, 600 mg oral 
+alectinib twice daily (b.i.d.), 54 doses 
+10 trials, n=14/trial, 
+midazolam single 2 
+mg oral dose on day 
+10 at 9 am, alectinib, 
+oral 600 mg b.i.d. 
+starting on day 1 at 9 
+am, 30 doses 
+10 trials, n=24/trial, alectinib single 
+oral 600 mg on day 10 at 9 am; 
+rifampicin oral 600 mg once daily 
+(q.d.) starting on day 1 at 9 am, 13 
+doses 
+10 trials, n=17/trial, 
+alectinib single oral 300 
+mg on day 8 at 9 am; 
+posaconazole oral 400 
+mg b.i.d., starting day 1 
+at 9 am, 30 doses 
+10 trials, n=12/trial, repaglinide single 
+oral 0.25 mg, day 12 at 12:00 pm, 
+alectinib oral 600 mg b.i.d. starting on 
+day 1 at 9 am, 30 doses 
+Population 
+Sim-
+Healthy 
+volunteer 
+20-60 
+years old, 
+female 
+55%, fed 
+NSCLC [7]. 31-79 years, female 55%, fed 
+Sim-Healthy volunteers. 21-52 
+years, female 8%, fed 
+Sim-Healthy volunteers. 
+20-52 years, female 20%, 
+fed 
+NSCSC [7]. 31-79 years, female 55%, 
+fed 
+Integrated 
+alectinib-M4 
+PBPK model 
+ 
+No CYP3A 
+interaction 
+considered 
+Total clearance (and 
+intrinsic clearance, 
+CLint) reduced by 
+30%a 
+ 
+ 
+ 
+ 
+Total clearance (and 
+intrinsic clearance, 
+CLint) reduced by 
+30%a  
+Unbound Ki 0.0049 
+µM was also tested 
+Unbound Ki 
+0.0049 µM was 
+also tested 
+Co-medication 
+models 
+NA 
+SV-Midazolam 
+Sim-
+Rifampicin 
+(V13 1) 
+Sim-
+Rifampicin 
+(V13 1) 
+IndMax b of 
+CYP3A of 
+16 
+Sim-
+Rifampicin 
+(V13 1) 
+modified 
+according to 
+[8] 
+Appendix Table 4 
+SV-repaglinide or 
+SV-repaglinide with 
+higher fm,CYP2C8 
+SV-repaglinide 
+or SV-
+repaglinide with 
+higher fm,CYP2C8 
+a.To bring simulated steady state alectinib concentrations into agreement with the clinical data obtained in NSCLC patient population [3]; b Ind,max, maximal fold induction.
+Reference ID: 3842065
+
+
+===== PAGE 63 =====
+
+OCP PBPK Review_Alectinib DDI 
+ 
+ 
+                       PBPK Review Page - 8 
+ 
+ 
+4. Results 
+4.1. 
+Can the integrated alectinib-M4 PBPK models predict the effect of CYP3A modulators 
+on the PK of alectinib and M4? 
+Yes. Two factors are critical for a substrate PBPK model to predict the effect of CYP inhibition or 
+induction on its PK: quantitative determination of the contribution of the CYP pathway that is modulated 
+by co-medication (e.g., assumption of fm,CYP3A for alectinib), and capability of the model to predict the PK 
+profile under different dosing regimens. For M4, assumption on fm,CYP3A cannot be quantitatively made 
+(Figure 1). As such, model of M4 was updated using observed DDI caused by posaconazole.  
+Figure 2 shows that integrated alectinib and M4 PBPK models are able to describe observed data in 
+healthy subjects taking a single oral dose of alectinib. Figure 3 shows that model simulations tended to 
+under-predict steady-state exposures of alectinib and M4 in NSCLC subjects taking 600 mg b.i.d. orally 
+(Simulation #1-3, Table 1), regardless if the model has considered modulation of CYP3A by alectinib 
+and M4. In order to ensure sufficient parent/M4 exposures for simulations of the effect of multiple doses 
+of alectinib on single dose PK of a CYP substrate, the applicant’s reduced intrinsic clearance (CLint) 
+values of all elimination pathways of alectinib and M4 by 30% to match the observed steady state 
+exposures of alectinib and M4 (Appendix Tables 2 and 3).   
+ 
+Figure 2. PBPK simulated and observed plasma concentration-time profiles of alectinib 
+(left) and M4 (right) after a single oral dose of alectinib 300 mg in healthy subjects. 
+Simulation used integrated alectinib-M4 models  
+Source: Figure 1, ref [3] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 3842065
+
+
+===== PAGE 65 =====
+
+OCP PBPK Review_Alectinib DDI 
+ 
+ 
+                       PBPK Review Page - 10 
+ 
+ 
+The observed DDI between posaconazole and alectinib was used to inform fm,CYP3A value for PBPK model 
+of M4. Simulation using integrated model with fm,CYP3A=0.15 for M4 model reasonably captured the 
+observed magnitude of Cmax ratio and AUC ratio of M4 (Table 2). The relatively low value of fm,CYP3A 
+for M4 appears plausible and is consistent with significant biliary and urinary secretions of unchanged 
+M4 (Figure 1). 
+Table 2.Comparison of PBPK simulated (geometric mean [5th-95th percentiles]) and 
+observed (geometric mean [90% confidence interval]) Cmax and AUC ratios of alectinib 
+and M4 in clinical drug-drug interaction study with posaconazole  
+ 
+ 
+Cmax ratio 
+AUC ratio 
+Alectinib 
+Simulated with CYP3A modulation [3] 
+1.18 [1.09 – 1.32] 
+1.64 [1.31 – 2.25] 
+Observed a 
+1.18 [1.02 - 1.37] 
+1.75 [1.57 - 1.95] 
+M4b 
+Simulated with CYP3A modulation [3] 
+0.345 [0.233 – 0.511] 
+0.495 [0.343 – 0.679] 
+Observed a 
+0.287 [0.231 – 0.355] 
+0.751 [0.644 – 0.877] 
+Simulation #8, Table 1. Source, Table 3 [3] and Appendix 4, table 3 [1]. a. study NP28990, n=17 subjects. b.fm,CYP3A for M4 = 
+0.15 was informed by sensitivity analysis using posaconazole DDI data. The simulated Cmax ratio and AUC ratio (with and 
+without posaconazole) using integrated alectinib-M4 models considering CYP3A modulation are not different from those 
+simulated using models without CYP3A modulation (Data not shown). 
+4.1.2. Effect of rifampicin on alectinib and M4 exposures 
+The assumption on fm,CYP3A for alectinib was further assessed using clinical DDI data with rifampicin as 
+modulator. Table 3 compares observed Cmax and AUC ratios of alectinib and M4 to those simulated 
+using PBPK models. Simulation using default rifampicin model in SimCYP Version 13.1 appears to 
+underestimate the magnitude of effect on alectinib exposure by rifampicin in vivo (higher simulated Cmax 
+and AUC ratios, Simulation #5, Table 1). This is consistent with under-prediction observed by others 
+using SimCYP software [8, 9]. Increasing CYP3A induction potency within rifampicin model resulted in 
+closer prediction of the observed magnitude of DDI for alectinib (Simulations #6 and 7, Table 1). 
+The integrated alectinib-M4 PBPK models assuming fm,CYP3A of 0.15 for M4 (see 4.2.1 above, Table 2) 
+were not able to capture the observed Cmax ratio and AUC ratio for M4, regardless the potency of 
+CYP3A induction in rifampicin model. The applicant suggested that pathways not recognized for the 
+elimination of M4 in integrated models (Appendix Table 3) may be subject to modulation by rifampicin.   
+Table 3. Comparison of PBPK simulated (geometric mean [5th-95th percentiles]) and 
+observed (geometric mean [90% confidence interval]) Cmax and AUC ratios of alectinib 
+and M4 in clinical drug-drug interaction study with rifampicin  
+ 
+ 
+Cmax ratio 
+AUC ratio 
+Alectinib 
+Simulation #5 a  
+0.753 [0.607 – 0.880] 
+0.462 [0.287 – 0.674] 
+Simulation #7 b  
+0.620 [0.441 – 0.797] 
+0.326 [0.183 – 0.561] 
+Simulation #6c 
+0.573 [0.397, 0.758] 
+0.269 [0.149, 0.449] 
+Observed d 
+0.486 [0.435 – 0.543] 
+0.268 [0.238 – 0.301] 
+M4 
+Simulation #5 a  
+1.63 [1.28 – 2.13] 
+1.00 [0.711 – 1.31] 
+Simulation #7 b  
+1.68 [1.23 – 2.41] 
+0.851 [0.507 – 1.26] 
+Simulation #6c 
+1.74[1.229, 2.463] 
+0.778 [0.421, 1.235] 
+Observed d 
+2.20 [1.90 – 2.55]] 
+1.79 [1.58 – 2.02] 
+Reference ID: 3842065
+
+
+===== PAGE 66 =====
+
+OCP PBPK Review_Alectinib DDI 
+ 
+ 
+                       PBPK Review Page - 11 
+ 
+ 
+Source, Table 6 [3]; Appendix Table 4 [1]. a. Default rifampicin model in SimCYP V13.1 [1]; b. Default rifampicin model 
+updated according to [8] (see more in Appendix Table 4); c. Default rifampicin model updated with 2-fold higher IndMax (see 
+more in Appendix Table 4) . d. Study NP29042, n=24 subjects. The simulated Cmax ratio and AUC ratio (with and without 
+rifampicin) using integrated alectinib-M4 models considering CYP3A modulation are not different from those simulated using 
+models without CYP3A modulation (Data not shown). 
+4.2. 
+Can integrated alectinib-M4 PBPK models predict minimal CYP inhibition in humans? 
+Yes.  
+Alectinib and M4 showed inhibition and induction potential of CYP3A in vitro. Simulations of steady 
+state alectinib and M4 PK profiles were conducted using integrated alectinib-M4 PBPK models 
+considering time-dependent inhibition (TDI) and induction of CYP3A, and models without considering 
+CYP3A modulation. Simulations using these two models appear similar (Simulation #1-3, Table 1), 
+suggesting that inhibition and induction of CYP3A by alectinib and M4 are minimal (Appendix Figure 
+2). The applicant used integrated models to simulate the effect of alectinib on the exposure of midazolam 
+(Simulation #4, Table 1), and the results are shown in Table 4. When integrated models consider TDI of 
+CYP3A only (e.g., without CYP3A induction mechanism), the simulated Cmax ratio and AUC ratio of 
+midazolam are 1.27 and 1.42 respectively. These values are slightly above a pre-defined no-effect 
+boundary of 1.25 [10].  When integrated models consider both TDI and induction of CYP3A, the 
+simulated Cmax ratio and AUC ratio of midazolam become slightly lower. In comparison, the observed 
+Cmax ratio and AUC ratio are 0.92 and 0.97, respectively. 
+Table 4. Model simulated and observed geometric mean Cmax and AUC ratios of 
+midazolam in the presence and absence of multiple doses of alectinib 600 mg BID using the 
+integrated alectininb-M4 model (with adjustment in CLint Values for the NSCLC 
+Population).  
+Midazolam PK 
+Parameter 
+Predicted Ratio (TDI 
+only) Ref [1] 
+Predicted Ratio (TDI + 
+induction) Ref [3] 
+Observed 
+Ratio 
+Cmax 
+1.27 
+1.17 
+0.92 
+AUC 
+1.42 
+1.26 
+0.97 
+Source, Table 7 [3] 
+The applicant used integrated alectinib-M4 models to predict changes in repaglinide exposure by alectinib 
+(Simulation #9 and 10, Table 1). Model predicted repaglinide Cmax ratio and AUC ratio are summarized 
+in Table 5. The simulated median Cmax ratio and AUC ratio of repaglinide are 1.05 and 1.06, 
+respectively. To remain conservative, the applicant conducted sensitivity analyses either by increasing the 
+contribution of CYP2C8 to the metabolism of repaglinide (from 0.55 to 0.79), or by increasing alectinib 
+inhibition potency towards CYP2C8 (e.g., by decreasing in vitro unbound Ki by a factor of 30). Under the 
+condition with both a stronger alectinib inhibition of CYP2C8 and a higher fm,CYP2C8 for repaglinide, the 
+model predicted median repaglinide Cmax ratio and AUC ratio are 1.11 and 1.29, respectively. These 
+simulations suggested minimal effect of alectinib on the exposure of repaglinide. 
+ 
+ 
+Reference ID: 3842065
+
+
+===== PAGE 67 =====
+
+OCP PBPK Review_Alectinib DDI 
+ 
+ 
+                       PBPK Review Page - 12 
+ 
+ 
+Table 5. PBPK model predicted median (5-95th percentiles) Cmax and AUC ratios of 
+repaglinide in the presence and absence of multiple doses of alectinib 600 mg BID using the 
+integrated alectininb-M4 model (with adjustment in CLint for the NSCLC population, 
+Simulation #9, Table 1).  
+ 
+Default model (fm,CYP2C8=0.55) 
+High fm,CYP2C8 model (fm,CYP2C8=0.79) 
+Alectinib Ki for CYP2C8 
+Cmax ratio 
+AUC ratio 
+Cmax ratio 
+AUC ratio 
+In vitro Ki = 0.0147 µM 
+1.06 (1.02-1.13)  
+1.08 (1.03-1.21)  
+1.03 (1.01-1.07)  
+1.05 (1.01-1.11)  
+In vitro Ki/30 
+1.15 (1.06-1.28) 
+1.32 (1.11-1.63) 
+1.15 (1.07-1.28)  
+1.40 (1.16-1.76)  
+Source, Table 1 [3], fmCYP2C8 values are median fm of the virtual population simulated (simulation output), reflecting initial values 
+according to references [11] (in vitro finding) and [12] (based on in vivo DDI with repaglinide as substrate), respectively. . 
+Smaller exposure ratios were predicted in Simulation #10, where no adjustment of CLint of alectinib-M4 was made. 
+4.3. 
+What are the limitations of applicant’s PBPK models? 
+As described in 4.1, prediction of the effect of rifampicin on the exposure of M4 by integrated alectinib-
+M4 PBPK models was not satisfactory. If one were to use PBPK to predict the effect of various patient 
+factors on the PK of M4, additional elimination mechanisms of M4 need to be understood and be 
+quantitatively incorporated into the model of M4. 
+The applicant also conducted PBPK modeling and simulation to understand oral absorption of alectinib 
+and to evaluate the effect of the timing of alectinib dosing with respect to a meal [2]. This report was not 
+reviewed. 
+ 
+5. Conclusion 
+The applicant’s integrated alectinib-M4 PBPK models accounting for CYP inhibition mechanisms (TDI 
+and induction of CYP3A, and reversible inhibition of CYP2C8) predicted no effect on CYP2C8 substrate 
+repaglinide at clinical doses. Simulations using integrated alectinib-M4 PBPK models are determined to 
+be adequate to support the applicant’s proposed labeling language regarding the lack of CYP2C8 
+inhibition potential. 
+ 
+6. Appendices 
+6.1. 
+Abbreviations 
+ALK, anaplastic lymphoma kinase; AUC, area under the concentration-time profile; AUCR, the ratio of 
+the area under the curve of the substrate drug in the presence and absence of the perpetrator; b.i.d., twice 
+daily dosing; B/P, blood to plasma ratio; Cmax, maximal concentration in plasma; CmaxR, the ratio of 
+the maximum plasma concentration of the substrate drug in the presence or absence of the perpetrator; 
+CL, systemic clearance; CLint, intrinsic clearance; CLpo, oral clearance; CLr, renal clearance; CV, 
+coefficient of variation; DDI: drug-drug interaction; F, bioavailability; fa, fraction absorbed; fmj, fraction 
+of total clearance mediated by j CYP isoform or renal elimination; fup, fraction unbound in plasma; fu,gut, 
+apparent unbound fraction in enterocytes; Ind,max, maximal fold induction; ka, first order absorption rate 
+constant; Ki, reversible inhibition constant; KI, inactivator concentration that supports half maximal rate 
+of inactivation; kinact, maximal inactivation rate; Kp, tissue/plasma partitioning; LogPo:w, logarithm of the 
+Reference ID: 3842065
+
+
+===== PAGE 68 =====
+
+OCP PBPK Review_Alectinib DDI 
+ 
+ 
+                       PBPK Review Page - 13 
+ 
+ 
+octanol-water partition coefficient; NA, not applicable; NSCLC, non-small cell lung cancer; NDA: new 
+drug application; Papp, apparent passive permeability; Peff,man, effective passive permeability in man; 
+PBPK: Physiological-based Pharmacokinetic; q.d., once daily dosing; Tmax: time at maximal 
+concentration in plasma; Vd,ss, volume of distribution at steady state. 
+6.2. 
+Information requests 
+ 
+6.2.1. Clinical Pharmacology (dated Aug 11, 2015) 
+Repeat alectinib-repaglinide drug-drug interaction (DDI) physiological-based pharmacokinetic (PBPK) 
+simulations using final integrated alectinib-M4 model. Presentation of the final integrated model can be 
+organized in a step-wise manner. 
+Model development in healthy subjects 
+Develop alectinib and M4 models using in vitro metabolism data, in-silico data (e.g., Kp from Gastroplus 
+modeling), and results from human mass-balance study (including oral and intravenous data). 
+Assumptions on fm,CYP3A for alectinib can be based on hepatocyte data, mass balance data, and 
+differential absolute bioavailability data (capsule vs suspension). Clarify if assumptions on fm,CYP3A for 
+M4 can be made based on in vitro data. 
+Conduct multiple dose simulations in patients using the NSCLC populations to justify the need to (1) 
+adjust intrinsic clearance values in patients (or: Can pharmacokinetic (PK) differences be represented by 
+simulations using the same drug model in healthy subjects and NSCLC patients?) and (2) consider time-
+dependent inhibition (TDI) and/or induction of CYP3A in the integrated model. At this stage, a model 
+with no CYP3A interaction mechanisms by alectinib and M4 and a model with concurring TDI and 
+induction potential are expected to predict similar PK profiles of alectinib and M4.  
+Verify and confirm the model regarding assumptions on fm,CYP3A of alectinib, fm,CYP3A of M4 and 
+autoinhibition and/or induction of CYP3A. 
+Prospectively simulate the effects of posaconazole and rifampin. Modify rifampin model using the 
+strategy for posaconazole model and refer to Xu et al (Drug Metabo Dispo, 39:1139-48; 2011).  
+Prospectively simulate the effect of alectinib/M4 on midazolam in NSCLC patients. 
+Submit model files and excel output files being used to generate final results of above simulations. 
+Software specific files (.cmp, .lbr, and .wks) should be executable by FDA reviewer using SimCYP 
+software (version 13, release 2). 
+ 
+ 
+ 
+Reference ID: 3842065
+
+
+===== PAGE 70 =====
+
+OCP PBPK Review_Alectinib DDI 
+ 
+ 
+                       PBPK Review Page - 15 
+ 
+ 
+Appendix Table 2. Input parameters of alectinib using SimCYP (V13.1). Each alectinib model was integrated with respective 
+M4 model (extracted from excel output submitted together with reference [3]) 
+ 
+Parameter name 
+(units) 
+Parameter values 
+Source 
+Model verification and update 
+Model application 
+ 
+Model number 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+ 
+B/P ratio 
+2.64 
+In vitro study 1054086 (Table 1, [1]) 
+In vitro study 1054086 (Table 1, [1]) 
+Unbound fraction in 
+plasma fu p 
+0.003 
+1st order absorption 
+ 
+fa 
+0.216 
+0.319 b 
+0.216 
+Fitted to PK in healthy subjects, study NP29042 (Table 14, [1]) 
+ka (1/h) 
+0.163 
+0.79 a 
+0.497 b 
+0.163 
+Fitted to study NP28673 (Table 14, [1]) 
+lag time (h) 
+0.000 
+3.18a 
+3.81b 
+0.00 
+ 
+apparent unbound 
+fraction in 
+enterocytes Fu gut 
+0.010 
+Optimized according to Cmax after oral dosing. Predicted Qgut 
+of 8.49 L/h (Table 14, [1]) 
+Full PBPK distribution [13] 
+ 
+Elimination 
+ 
+CLint, CYP3A4 
+(µL/min/pmol) 
+9.98 
+6.99c 
+9.98 
+6.99c 
+9.98 
+Retrograde analysis based on CYP portioning in human 
+hepatocytes and in vivo study NP28989 (mass balance study 
+with intravenous tracer dose and oral dose). 
+fm,CYP3A =0.4. 40-50% from hepatocyte study with specific 
+inhibitors [1]. The pathway forms M4 in integrated model 
+fm,CYP2J2 =0.1. Assumed non-CYP3A pathway that forms M4 in 
+integrated model (See Appendix Table 3 below) 
+CLint, CYP2J2 
+(µL/min/pmol) 
+285 
+199c 
+285 
+199c 
+285 
+Unspecified HLM 
+CLint 
+1710 
+1196c 
+1710 
+1196c 
+1710 
+CLr (L/h) 
+0.000 
+Human mass-balance study 
+Interactions 
+ 
+CYP2C8 Ki (µM) 
+N/Ad 
+0.147 
+In vitro unbound Ki. 
+CYP3A4 KI (µM) 
+8.29 
+N/Ad 
+8.29 
+8.29 
+N/Ad 
+8.29 
+In vitro unbound value for KI., Table 15 of reference [1] 
+CYP3A4 Kinact (1/h) 
+3.74 
+N/Ad 
+3.74 
+1.87 
+N/Ad 
+3.74 
+CYP3A4 Ind Slope 
+(1/µM) 
+3.52 
+N/Ad 
+3.52 
+3.52 
+N/Ad 
+3.52 
+At 0.38 µM unbound concentration alectinib caused 16.5% 
+maximal induction generated by rifampicin (positive control) in 
+hepatocytes. IndMax of rifampin in SimCYP was 8-fold. A slope 
+was calculated as 8*0.165/0.38 = 3.47/µM (not 3.52 /µM) 
+Drug model name 
+(software “.cmpx” 
+file) 
+RO5424802
+_logP1.96 
+RO54248
+02_logP1
+.96 
+RO542480
+2_logP1.9
+6 
+RO542480
+2_logP1.9
+6 
+RO542480
+2_LogP1.9
+6 
+RO5424802
+_LogP1.96 
+RO542480
+2_LogP1.9
+6 
+RO542480
+2_LogP1.9
+6 
+NP28673_Ka
+_30PlowCL 
+Integrated_PB
+PK_MD_TDI
+_Ind_NSCLC 
+ 
+a. Fitted to the NP29042 study data (Source, appendix 4, Table 1 [1]); b. GastroplusTM prediction [2] for the dose of 300 mg.  c. Adjusted for steady state clearance in NSCLC patients; d. NA, not 
+applicable. 
+ 
+Reference ID: 3842065
+
+
+===== PAGE 71 =====
+
+OCP PBPK Review_Alectinib DDI 
+ 
+ 
+                       PBPK Review Page - 16 
+ 
+ 
+Appendix Table 3. Input parameters of M4 using SimCYP (V13.1). Each M4 model was integrated with respective alectinib 
+model (extracted from excel output submitted together with reference [3]) 
+Parameter name 
+(units) 
+Parameter values 
+Source 
+Model number 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+ 
+B/P 
+2.52 
+ 
+fup 
+0.006 
+ 
+Absorption 
+fu(Gut) 
+0.01 
+ 
+1.00 
+0.01 
+Not applicable. Fu,gut assumed to be the same as parent 
+(Appendix Table 2). Formation of M4 was via CYP3A4 and 
+CYP2J2 (See Appendix Table 2). 
+Input Vd,ss (L/kg) 
+2.28 
+ 
+2.28 
+2.28 
+Fitted to clinical data from control arm of posaconazole study, 
+where alectinib was dosed 300 mg 
+Elimination 
+Apparent CL was fitted to clinical data from control arm of 
+posaconazole study, where alectinib was dosed 300 mg 
+CLint,CYP3A4 
+(µL/min/pmol) 
+1.71 
+1.198a 
+1.712 
+1.198 a 
+1.710 
+Informed from posaconazole DDI study, with fm,CYP3A=0.15. 
+Retrograde analysis based on apparent CL 
+Additional HLM 
+CLint 
+1330 
+930 a 
+1329 
+930 a 
+1330 
+Retrograde analysis based on apparent CL 
+CL R (L/h) 
+0.000 
+Assumed. 
+Interaction 
+ 
+CYP3A4 KI (µM) 
+7.01 
+N/Ab 
+7.01 
+N/Ab 
+N/Ab 
+7.01 
+In vitro unbound value for KI. Table 15 of reference [1] 
+CYP3A4 kinact 
+(1/h) 
+3.72 
+N/Ab 
+3.72 
+N/Ab 
+N/Ab 
+3.72 
+CYP3A Ind Slope 
+(1/µM) 
+17.6 
+N/Ab 
+17.6 
+N/Ab 
+N/Ab 
+17.6 
+Same approach as alectinib (Appendix Table 2). M4 in 
+incubation is about 20%. Unbound concentration = 0.2*0.38 µM.  
+a. Adjusted for steady state clearance in NSCLC patients; b. NA, not applicable. 
+ 
+ 
+ 
+Reference ID: 3842065
+
+
+===== PAGE 73 =====
+
+OCP PBPK Review_Alectinib DDI 
+ 
+ 
+                       PBPK Review Page - 18 
+ 
+ 
+Appendix Table 5. Summary of parameters for posaconazole PBPK model in SimCYP (V13.1) (extracted from excel output 
+submitted together with reference [3], notes from Appendix 3 in [1]) 
+Parameter (unit) 
+Value 
+Notes 
+Model name 
+MG_Posaconazole_SS 
+Compartmental model based on literature reported PK parameters 
+to derive absorption, distribution, and elimination parameters 
+Molecular Weight (g/mol) 
+700.790 
+ 
+log P 
+4.000 
+ 
+Compound Type 
+Diprotic Base 
+ 
+pKa 1, pKa 2 
+2.880, 4.110 
+ 
+B/P 
+0.620 
+ 
+fu 
+0.010 
+ 
+Absorption Model 
+1st order 
+ 
+fa 
+0.850 
+Single dose 0.5, multiple dose 0.85 to account for decreased CL/F 
+after multiple dosing 
+ka (1/h) 
+0.550 
+ 
+lag time (h) 
+0.800 
+ 
+fu(Gut) 
+1.000 
+ 
+Q(Gut) Input 
+Predicted from polar surface area of 
+50.000(Å²) 
+ 
+Distribution Model 
+Minimal PBPK Model, Vd,ss of 2.960 
+L/kg 
+ 
+Intravenous CL (L/h) 
+7.320 
+ 
+CL r (L/h) 
+0.000 
+ 
+CYP3A4 and CYP3A5 Ki (µM) 
+0.005 
+Lowest value in vitro (range from 0.005-0.013 mm) selected based 
+on simulation of reported outcomes of posaconazole-midazolam 
+DDI studies (Table 4, Appendix 3, [1]) 
+ 
+Reference ID: 3842065
+
+
+===== PAGE 74 =====
+
+OCP PBPK Review_Alectinib DDI 
+ 
+ 
+                       PBPK Review Page - 19 
+ 
+ 
+References 
+1. Roche. Report NO. 1064597. ClearyY, Gertz M, Parrott, N. Alectinib (RO5424802) - 
+Physiologically based pharmacokinetic modeling using SimCYP®, June 2015 
+2. Roche, Report NO. 1064595. Parrott N. Alectinib (RO5424802) - Physiologically based 
+pharmacokinetic modeling using GastroPlusTM 
+3. Genentech. RESPONSES FDA Request for Information dated 11 August 2015 (Received 
+via email from Gina M. Davis, M.T.). 21 August 2015 
+4. Genentech. Draft product insert. 
+5. Genentech. Alectinib NDA208434. Section 2.7.2 Summary of Clinical Pharmacology 
+Studies. 
+6. Jamei M, Marciniak S, Feng K, Barnett A, Tucker G, Rostami-Hodjegan A. The Simcyp 
+population-based ADME simulator. Expert Opin Drug Metab Toxicol 2009 5(2):211-23. 
+7. Cheeti S, Budha NR, Rajan S et al. A physiologically based pharmacokinetic (PBPK) 
+approach to evaluate pharmacokinetics in patients with cancer. Biopharm Drug Dispos 
+2013; 34(3): 141-54.Xu Y, Zhou Y, Hayashi M et al. Simulation of clinical drug-drug 
+interactions from hepatocyte CYP3A4 induction data and its potential utility in trial 
+designs. Drug Metabo Dispo, 39:1139-48; 2011 
+8. Xu Y, Zhou Y, Hayashi M et al. Simulation of clinical drug-drug interactions from 
+hepatocyte CYP3A4 induction data and its potential utility in trial designs. Drug Metabo 
+Dispo, 39:1139-48; 2011 
+9. Wagner C, Pan Y, Hsu V, Sinha V, Zhao P. Predicting the Effect of CYP3A Inducers on 
+the Pharmacokinetics of Substrate Drugs Using Physiologically Based Pharmacokinetic 
+(PBPK) Modeling: An Analysis of PBPK Submissions to the US FDA. Clin 
+Pharmacokinet. 2015 Sep 14. [Epub ahead of print] PubMed PMID: 26369776. 
+10. http://www.fda.gov/downloads/drugs/guidancecomplianceregulatoryinformation/guidanc
+es/ucm292362.pdf 
+11. Säll C, Houston JB, Galetin A. A comprehensive assessment of repaglinide metabolic 
+pathways: impact of choice of in vitro system and relative enzyme 
+12. Honkalammi J, Niemi M, Neuvonen PJ et al. Dose-dependent interaction between 
+gemfibrozil and repaglinide in humans: strong inhibition of CYP2C8 with subtherapeutic 
+gemfibrozil dose. Drug Metab Dispos 2011;39(10):1977-86 
+13. Rodgers T, Leahy D, Rowland M. Physiologically based pharmacokinetic modeling 1: 
+predicting the tissue distribution of moderate-to-strong bases. J Pharm Sci 2005; 
+94(6):1259-76 
+ 
+Reference ID: 3842065

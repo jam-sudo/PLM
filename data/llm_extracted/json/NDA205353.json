@@ -1,0 +1,159 @@
+{
+  "nda": "NDA205353",
+  "drug_name": "panobinostat",
+  "pk_tuples": [
+    {
+      "dose_mg": 20, "dose_original": "20 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "patient", "n_subjects": 9, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 19.5, "tmax_h": 2.1, "auc_inf_ng_h_ml": 145, "auc_last_ng_h_ml": 131,
+      "t_half_h": 14, "cl_L_h": 180, "vd_L": 3109,
+      "source_page": 40, "confidence": "high",
+      "notes": "Trial B2102, patients with hematologic malignancies, single-dose day 1"
+    },
+    {
+      "dose_mg": 30, "dose_original": "30 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "patient", "n_subjects": 18, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 39.8, "tmax_h": 1.0, "auc_inf_ng_h_ml": 272, "auc_last_ng_h_ml": 310,
+      "t_half_h": 18, "cl_L_h": 158, "vd_L": 3324,
+      "source_page": 40, "confidence": "high",
+      "notes": "Trial B2102, patients with hematologic malignancies, single-dose day 1"
+    },
+    {
+      "dose_mg": 40, "dose_original": "40 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "patient", "n_subjects": 24, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 58, "tmax_h": 0.8, "auc_inf_ng_h_ml": 329, "auc_last_ng_h_ml": 299,
+      "t_half_h": 14, "cl_L_h": 201, "vd_L": 3604,
+      "source_page": 40, "confidence": "high",
+      "notes": "Trial B2102, patients with hematologic malignancies, single-dose day 1"
+    },
+    {
+      "dose_mg": 45, "dose_original": "45 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "patient", "n_subjects": 15, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 54, "tmax_h": 1.0, "auc_inf_ng_h_ml": 290, "auc_last_ng_h_ml": 249,
+      "t_half_h": 20, "cl_L_h": 179, "vd_L": 4272,
+      "source_page": 40, "confidence": "high",
+      "notes": "Trial B2102, patients with hematologic malignancies, single-dose day 1"
+    },
+    {
+      "dose_mg": 60, "dose_original": "60 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "patient", "n_subjects": 53, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 66.9, "tmax_h": 1.0, "auc_inf_ng_h_ml": 356, "auc_last_ng_h_ml": 330,
+      "t_half_h": 15, "cl_L_h": 240, "vd_L": 5062,
+      "source_page": 40, "confidence": "high",
+      "notes": "Trial B2102, patients with hematologic malignancies, single-dose day 1"
+    },
+    {
+      "dose_mg": 80, "dose_original": "80 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "patient", "n_subjects": 18, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 63.5, "tmax_h": 1.0, "auc_inf_ng_h_ml": 397, "auc_last_ng_h_ml": 342,
+      "t_half_h": 15, "cl_L_h": 246, "vd_L": 5402,
+      "source_page": 40, "confidence": "high",
+      "notes": "Trial B2102, patients with hematologic malignancies, single-dose day 1"
+    },
+    {
+      "dose_mg": 20, "dose_original": "20 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "patient", "n_subjects": 36, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 23.6, "tmax_h": 1.0, "auc_inf_ng_h_ml": 209.2, "auc_last_ng_h_ml": 198.1,
+      "t_half_h": 12.4, "cl_L_h": 133.5, "vd_L": 2160,
+      "source_page": 40, "confidence": "high",
+      "notes": "Trial B2101, patients with solid tumors, single-dose day 1"
+    },
+    {
+      "dose_mg": 30, "dose_original": "30 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "patient", "n_subjects": 31, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 34.0, "tmax_h": 1.0, "auc_inf_ng_h_ml": 264.4, "auc_last_ng_h_ml": 261.5,
+      "t_half_h": 13.4, "cl_L_h": 135.8, "vd_L": 2581,
+      "source_page": 40, "confidence": "high",
+      "notes": "Trial B2101, patients with solid tumors, single-dose day 1"
+    },
+    {
+      "dose_mg": 45, "dose_original": "45 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "patient", "n_subjects": 17, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 48.6, "tmax_h": 2.0, "auc_inf_ng_h_ml": 372.4, "auc_last_ng_h_ml": 362.7,
+      "t_half_h": 15.2, "cl_L_h": 130.9, "vd_L": 2880,
+      "source_page": 40, "confidence": "high",
+      "notes": "Trial B2101, patients with solid tumors, single-dose day 1"
+    },
+    {
+      "dose_mg": 60, "dose_original": "60 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "patient", "n_subjects": 4, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 55.4, "tmax_h": null, "auc_inf_ng_h_ml": 454.0, "auc_last_ng_h_ml": 390.3,
+      "t_half_h": 16.8, "cl_L_h": 142.0, "vd_L": 3342,
+      "source_page": 40, "confidence": "high",
+      "notes": "Trial B2101, patients with solid tumors, single-dose day 1"
+    },
+    {
+      "dose_mg": 30, "dose_original": "30 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "patient", "n_subjects": 10, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 23.2, "tmax_h": 2.0, "auc_inf_ng_h_ml": 176.5, "auc_last_ng_h_ml": 165.5,
+      "t_half_h": 29.6, "cl_L_h": 247.0, "vd_L": 9318,
+      "source_page": 41, "confidence": "high",
+      "notes": "Trial X2101, normal hepatic function group, single-dose 96h sampling"
+    },
+    {
+      "dose_mg": 30, "dose_original": "30 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "patient", "n_subjects": 11, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 41.0, "tmax_h": 1.02, "auc_inf_ng_h_ml": 275.2, "auc_last_ng_h_ml": 253.4,
+      "t_half_h": 32.4, "cl_L_h": 210.0, "vd_L": 6093,
+      "source_page": 41, "confidence": "high",
+      "notes": "Trial X2105, normal renal function group, single-dose 96h sampling"
+    },
+    {
+      "dose_mg": 20, "dose_original": "20 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "patient", "n_subjects": 27, "dose_schedule": "multiple_dose",
+      "cmax_ng_ml": 7.6, "tmax_h": 1.7, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 72.0,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 41, "confidence": "high",
+      "notes": "Trial B2203, MM patients, 20 mg TIW day 1; AUC0-24"
+    },
+    {
+      "dose_mg": 20, "dose_original": "20 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "patient", "n_subjects": 22, "dose_schedule": "multiple_dose",
+      "cmax_ng_ml": 9.7, "tmax_h": 1.2, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 81.6,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 41, "confidence": "high",
+      "notes": "Trial B2203, MM patients, 20 mg TIW day 8; AUC0-24"
+    },
+    {
+      "dose_mg": 30, "dose_original": "30 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "hepatic_impaired", "n_subjects": 7, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 29.1, "tmax_h": 2.0, "auc_inf_ng_h_ml": 214.8, "auc_last_ng_h_ml": 183.9,
+      "t_half_h": 26.3, "cl_L_h": 139.7, "vd_L": 5297,
+      "source_page": 54, "confidence": "high",
+      "notes": "Trial X2101, mild hepatic impairment (NCI-CTEP)"
+    },
+    {
+      "dose_mg": 30, "dose_original": "30 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "hepatic_impaired", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 33.9, "tmax_h": 2.0, "auc_inf_ng_h_ml": 308.0, "auc_last_ng_h_ml": 249.9,
+      "t_half_h": 34.6, "cl_L_h": 97.4, "vd_L": 4864,
+      "source_page": 54, "confidence": "high",
+      "notes": "Trial X2101, moderate hepatic impairment (NCI-CTEP)"
+    },
+    {
+      "dose_mg": 30, "dose_original": "30 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "hepatic_impaired", "n_subjects": 10, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 18.5, "tmax_h": 2.0, "auc_inf_ng_h_ml": 150.3, "auc_last_ng_h_ml": 125.0,
+      "t_half_h": 28.8, "cl_L_h": 199.6, "vd_L": 8295,
+      "source_page": 54, "confidence": "high",
+      "notes": "Trial X2101, normal hepatic function control"
+    }
+  ]
+}

@@ -1,0 +1,1624 @@
+
+
+===== PAGE 16 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+xv 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 123. Number of Observations Contributing to Meal Time, Meal Type, and 
+Proton-Pump Inhibitor for Subjects Included in the PK Analysis Dataset ................213 
+Table 124. Parameter Estimates (RSE) and Median (95% CI) for the Applicant’s 
+Final Model ................................................................................................................214 
+Table 125. Clinical Trial Design and PK and PD Sampling Schedules for Trial 08 .......218 
+Table 126. Parameter Estimates and Bootstrap Results for the Final E-R Model, 
+Trial 08 .......................................................................................................................219 
+Table 127. Key Clinical PK and DDI Studies for Paltusotine .........................................230 
+Table 128. Model Risk Assessment .................................................................................230 
+Table 129. Final Inputs for the PBPK Model of Paltusotine ...........................................232 
+Table 130. Simulated and Observed Paltusotine PK Data Following a Single Oral 
+Dose of 60 mg-Paltusotine in the Absence and Presence of Carbamazepine in 
+Healthy Subjects ........................................................................................................234 
+Table 131. Simulated and Observed Cmax and AUC of Paltusotine After Single 20 to 
+120 mg-Oral Doses, With a Meal Administered 1 Hour or 4 Hours Postdose ..........235 
+Table 132. Simulated and Observed Geometric Mean AUC and Cmax Values 
+Following a Single Oral Dose of 40 mg-Paltusotine in the Absence and Presence 
+of Cyclosporine in Healthy Subjects..........................................................................236 
+Table 133. Simulated and Observed Geometric Mean AUC and Cmax Values 
+Following a Single Oral Dose of 60 mg-Paltusotine in the Absence and Presence 
+of Carbamazepine in Healthy Subjects ......................................................................236 
+Table 134. Simulated Steady-State AUC and Cmax Values for Paltusotine in the 
+Absence and Presence of Efavirenz in Healthy Subjects ...........................................237 
+Table 135. Simulated and Observed Geometric Mean AUC and Cmax Following a 
+Single Oral Dose of 40 mg-Paltusotine in the Absence or Presence of 
+Carbamazepine and Efavirenz in Healthy Subjects ...................................................238 
+Table 136. Example Induction Effects of CYP3A Inducers on UGT1A1 Substrates .....240 
+Table 137. Summary of Subject Demographics and Baseline Characteristics Stratified 
+by Study .....................................................................................................................242 
+Table 138. Clinical Pharmacogenetics Implementation Consortium Standard for 
+UGT1A1 Genotype-to-Phenotype Translation ..........................................................242 
+Table 139. Frequencies (%) of UGT1A1 Alleles Across Racial/Ethnic Populations......242 
+Table 140. Summary of Subject Demographics and Baseline Characteristics for 
+Subjects Included in the PK Analysis Dataset ...........................................................243 
+Table 141. Past Medical History by Preferred Term With Incidence >10% in Any 
+Treatment Arm, Trial 08 ............................................................................................252 
+Table 142. Common Concomitant Medications (>10%), Trial 08 ..................................252 
+Reference ID: 5665631
+
+
+===== PAGE 49 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+25 
+Integrated Review Template, version 4.0 (11/1/23) 
+Characteristic 
+Drug Information 
+Bridge between to-be-
+marketed and clinical 
+trial/study formulations 
+The formulation of the tablet used in the phase 3 trials is the same as the commercial tablets. Capsule formulations 
+were used in the phase 2 trials and appropriate relative bioavailability study (CRN00808-13) was conducted to bridge 
+the capsule and tablet formulations. 
+ 
+Absorption 
+Bioavailability 
+The absolute bioavailability of the SDD tablets (to-be marketed) is unknown. The absolute bioavailability is 70% for 
+oral solution. 
+Tmax 
+1 to 4 h 
+Food effect (fed/fasted) 
+Geometric least-squares 
+mean and 90% CI 
+A significant food effect was observed with paltusotine tablets (Table 8). Therefore, the pivotal phase 3 study was 
+conducted under fasting conditions (i.e., drug administered under overnight fasting followed by a meal provided 1 h 
+after drug administration). The exposure was comparable when a low fat-meal was given 1 h postdose versus 2 h 
+postdose (decreased Cmax and AUC by 9% and 19%, respectively). 
+Table 8. Effect of Food on the Pharmacokinetics of Paltusotine 
+Meal Type 
+Dose 
+Cmax 
+AUC0-24 
+Tmax 
+Geometric Least-Squares Mean 
+Ratio (90% Confidence Interval) 
+Median 
+Ratio 
+High-fat high-calorie meal (fed)/standard meal 2 h 
+postdose* 
+20 mg 
+0.15 (0.12, 0.19) 
+0.14 (0.12, 0.17) 
+1.8 vs. 3 h 
+Low-fat meal (fed)/low-fat meal 1 h postdose* 
+60 mg 
+0.35 (0.23, 0.54) 
+0.35 (0.24, 0.52) 
+2 vs. 1.4 h 
+Source: Table 11-F, Trial CRN00808-07 Clinical Study Report. 
+* Meals (standard or low-fat) were provided after the drug was administered following an overnight fast. 
+Abbreviations: AUC0-24, area under the concentration-time curve from time zero to 24 h; Cmax, maximum plasma concentration; Tmax, time to 
+maximum concentration 
+ 
+Distribution 
+Volume of distribution 
+232.5 L 
+Plasma protein binding 
+99% 
+Drug as substrate of 
+transporters 
+In vitro drug transporter studies showed that paltusotine is a substrate of the P-glycoprotein (P-gp) and breast cancer 
+resistance protein (BCRP) transporters. 
+ 
+Elimination 
+Mass balance results 
+Following administration of [14C]-paltusotine, total recovery of radioactivity was 94%, with 90% of total radioactivity 
+recovered in feces and the remainder recovered in urine (4%). 
+Clearance 
+9.41 L/h 
+Half-life 
+Effective half-life: 16 h 
+Metabolic pathway(s) 
+Paltusotine is metabolized primarily in liver via glucuronidation and oxidation. In vitro, glucuronidation was the major 
+metabolic pathway of metabolism and is primarily mediated by UGT1A1 and UGT1A9. Oxidation was a secondary 
+pathway and was primarily catalyzed by CYP3A4/5 with a minor contribution from CYP2D6. 
+Primary excretion 
+pathways (% dose) 
+Based on the mass balance study: feces (90%) and urine (4%) 
+Reference ID: 5665631
+
+
+===== PAGE 50 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+26 
+Integrated Review Template, version 4.0 (11/1/23) 
+Characteristic 
+Drug Information 
+ 
+Intrinsic Factors and Specific Populations 
+Body weight 
+Population pharmacokinetic (PK) analysis demonstrated that body weight (45 to 138 kg) is not a significant covariate. 
+Population PK analysis demonstrated that age (18 to 84 years) is not a significant covariate. 
+Age 
+Mass balance study indicate that renal excretion is minimal with 1.3% of dose excreted in urine as unchanged 
+paltusotine. 
+Renal impairment 
+Population PK analysis showed that eGFR was not a significant covariate for the pharmacokinetics of paltusotine. 
+Dose adjustment is not needed in subjects with impaired renal function. 
+Hepatic impairment 
+UGT1A1 polymorphism 
+Compared to subjects with normal hepatic function, there was no change in AUC while Cmax increased by 35% in 
+subjects with mild hepatic impairment (Child-Pugh A), AUC decreased by 25% and Cmax decreased by 24% in 
+subjects with moderate hepatic impairment (Child-Pugh B), and AUC decreased by 10% and Cmax increased by 5% 
+in subjects with severe hepatic impairment (Child-Pugh C). No dose adjustment is needed in subjects with impaired 
+hepatic function. 
+UGT1A1 polymorphism does not have a meaningful effect on the exposure of paltusotine. No dose adjustment is 
+needed. 
+ 
+Drug Interaction Liability (Drug as Perpetrator) 
+Inhibition/induction of 
+metabolism 
+In vitro, paltusotine is an inhibitor of CYP2D6 and CYP3A4. In vivo, paltusotine is not likely to be an inhibitor of 
+CYP2D6 as ratio of unbound Cmax to Ki <0.02 and (Kobs + Kdeg) ÷ Kdeg <1.25. Based on the in vivo study, paltusotine 
+does not have a significant impact on CYP3A4 substrate. 
+Inhibition/induction of 
+transporter systems 
+In vitro, paltusotine is an inhibitor of the P-gp, MATE-1/MATE2-K, and BSEP transporters. In vivo, paltusotine is not 
+likely to be an inhibitor of MATE-2K and BSEP as IC50 values are 50-fold higher than the unbound Cmax. Based on 
+the in vivo study, paltusotine does not have a significant impact on MATE-1 substrate. Based on PBPK modeling, 
+paltusotine is not likely to affect the exposure of P-gp substrates. 
+Source: Clinical Pharmacology Reviewer. 
+Abbreviations: [14C], carbon 14; AUC, area under the concentration-time curve; BCRP, breast cancer resistance protein; BSEP, bile salt export pump; Cmax, maximum plasma 
+concentration; CYP, cytochrome P450; EC50, half maximal effective concentration; eGFR, estimated glomerular filtration rate; GH, growth hormone; IC50, half maximal inhibitory 
+concentration; IGF-1, insulin-like growth factor; Kdeg, rate of degradation constant; Ki, inhibition constant; Kobs, apparent first-order inactivation rate constant; LC-MS/MS, liquid 
+chromatography with tandem mass spectrometry; MATE, multidrug and toxin extrusion transporter; P-gp, P-glycoprotein; PBPK, population-based pharmacokinetic; PK, 
+pharmacokinetic; QTc, corrected QT interval; SDD, spray-dried dispersion; SST, somatostatin; SST2, somatostatin receptor 2; UGT, uridine diphosphate glucuronosyltransferase 
+ 
+Reference ID: 5665631
+
+
+===== PAGE 139 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+115 
+Integrated Review Template, version 4.0 (11/1/23) 
+UGT1A1 Polymorphism 
+ Paltusotine is metabolized primarily hepatically via glucuronidation and oxidation. Based on 
+the in vitro study, glucuronidation is the major pathway of metabolism and is primarily 
+mediated by uridine diphosphate glucuronosyltransferase (UGT)1A1 and UGT1A9. 
+Oxidation is a secondary pathway, primarily catalyzed by cytochrome P450 (CYP)3A4/5 
+with a minor contribution from CYP2D6. For additional information see Section 14.1.3. 
+̶ 
+Population PK (PopPK) analyses showed that intermediate metabolizers (IM) and poor 
+metabolizers were associated with 4% and 21%, respectively, increases in the paltusotine 
+AUCss, and therefore UGT1A1 phenotypes are not a clinically relevant covariate for the 
+PK of paltusotine. A physiologically-based pharmacokinetic (PBPK) analysis indicated 
+that paltusotine exposure was not meaningfully affected by UGT1A1 phenotype, 
+consistent with the clinical data and PopPK analysis. The Review Team agrees with the 
+Applicant’s assessment that dosage adjustments are not required based on UGT1A1 
+metabolizer status. 
+Other Intrinsic Factors 
+Based on population PK analysis, no clinically relevant impact on paltusotine PK was observed 
+based on age (18 to 84 years), body weight (45 to 138 kg), sex (57.6% male), and race (62.0% 
+White). No dose adjustments are needed for these factors. 
+8.2. Extrinsic Factors 
+8.2.1. Food Effect 
+Food can significantly reduce the bioavailability (BA) of paltusotine, regardless of the 
+formulation studied (phase 2 capsules and phase 3/to-be-marketed tablets). 
+The effect of high-fat and low-fat meals as well as the timing of the meal postdose following 
+overnight fasting prior to dosing was evaluated in Study CRN00808-07 using the phase 3/to-be-
+marketed spray-dried dispersion (SDD) tablets. The effect of food and meal timing postdose is 
+shown in Table 55. The results of the food effect study show that, compared to administration 
+under fasting conditions with a standard meal 2 h postdose, drug administration with a high-fat 
+meal reduced the Cmax by 85% and the AUC by 86%. Compared to administration under fasting 
+conditions with a low-fat meal 1 h postdose, drug administration with a low-fat meal decreased 
+the Cmax and AUC by 65%. Paltusotine administration with a low- or high-fat meal significantly 
+reduced the exposure of paltusotine; the high-fat meal exerted the greater effect. 
+With regard to the timing of meals postdose following fasting compared to a low-fat meal 2 h 
+postdose, administration at 1 and 0.5 h postdose decreased the Cmax by 9% and 12%, 
+respectively, and the AUC by 19% and 25%, respectively. Compared to a standard meal 4 h 
+postdose, administration at 1 h postdose decreased the Cmax by 19% and the AUC by 31%. In 
+general, a shorter interval between drug administration and subsequent meals has a greater 
+impact (i.e., greater reduction) on the exposure of paltusotine. 
+Based on the results of the above study, in the pivotal phase 3 trials, paltusotine was 
+administered after an overnight fast of at least 6 h, with meal to be taken 1 h after drug 
+Reference ID: 5665631
+
+
+===== PAGE 142 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+118 
+Integrated Review Template, version 4.0 (11/1/23) 
+HbA1c levels will be monitored on a regular basis. Therefore, no dose adjustment is necessary 
+for concomitant use with inhibitors of CYP3A4, P-gp, and BCRP. 
+Figure 14. Combined Forest Plot of PK Parameters for Paltusotine as a Victim With 
+Carbamazepine (Cohort 1) and Cyclosporine (Cohort 3) 
+ 
+Source: Figure 1, Clinical Study Report CRN00808-15 Synopsis, page 8/10 
+Abbreviations: AUC0-24, area under the concentration-time curve from time zero to 24 h; AUC0-tlast, area under the concentration-time 
+curve from time zero to last quantifiable concentration; AUC0-inf, area under the concentration-time curve extrapolated to infinite time; 
+Cmax, maximum plasma concentration; CI, confidence interval; GMR, geometric mean ratio; LS, least-squares; PK, pharmacokinetic 
+Inhibitors of CYP3A4, P-gp, and UGT1A1 
+No clinical DDI study was conducted with CYP3A4 inhibitors, dual CYP3A4 and P-gp 
+inhibitors, or UGT1A1 inhibitors. In vitro, mass-balance and clinical data indicate that UGT is 
+the primary metabolic pathway, accounting for ~40% of paltusotine clearance, followed by the 
+CYP3A and P-gp pathways. PBPK modeling with itraconazole (CYP3A4 inhibitor without p-gp 
+inhibition constant [Ki]) predicted a Cmax increase by 3% and AUC0-inf increase by 20%. PBPK 
+modeling with verapamil (dual CYP3A4 and P-gp inhibitor) predicted a Cmax increase by 62% 
+and AUC0-inf increase by 91%. PBPK modeling with atazanavir (strong UGT1A1 inhibitor) 
+predicted a Cmax increase by 8% and AUC0-inf increase by 44%. In addition to PBPK modeling, 
+the clinical DDI study with cyclosporine showed that inhibition of CYP3A4, P-gp, and BCRP 
+increased the exposure by about two-fold. Therefore, inhibition of a single pathway is likely to 
+result in a smaller increase of exposure compared to that of cyclosporine. Therefore, consistent 
+with the recommendation for inhibitors of multiple enzymes and transporters, no dose 
+adjustment is needed for inhibitors of CYP3A4, dual inhibitors of CYP3A4 and P-gp, and 
+UGT1A1 inhibitors. 
+Reference ID: 5665631
+
+
+===== PAGE 143 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+119 
+Integrated Review Template, version 4.0 (11/1/23) 
+Acid-Reducing Agents 
+The effects of acid-reducing agents (ARAs) on the PK of paltusotine was evaluated in Study 
+CRN00808-07 using lansoprazole 30 mg (15 mg twice daily). The solubility of paltusotine was 
+pH-dependent, with aqueous solubility significantly decreasing around pH 3.5 and 4.5 compared 
+to lower pH values. When paltusotine 20 mg was administered concomitantly with lansoprazole, 
+Cmax was decreased by 16% and AUC was decreased by 21%. When paltusotine 60 mg was 
+concomitantly administered with lansoprazole, Cmax was decreased by 40% and AUC was 
+decreased by 42%. While the exposure decreased for paltusotine 20 mg and 60 mg when 
+concomitantly administered with lansoprazole, the impact was greater with higher doses. The 
+population PK analyses also indicated similar magnitudes of change in exposure when 
+paltusotine was coadministered with a proton-pump inhibitor (PPI). Therefore, bioavailability is 
+significantly reduced when concomitantly used with an ARA due to elevation of pH. The 
+Applicant’s proposed labeling recommends increasing the dose when concomitantly used with 
+an ARA. However, the bioavailability of doses higher than 60 mg in the presence of ARA is 
+unknown. Specifically, it is not clear if increasing the dose above 60 mg may further increase 
+drug exposure due to limited solubility in the presence of ARA. Therefore, while patients who 
+are on lower doses of paltusotine may increase the dose to 60 mg based on IGF-1 monitoring, 
+those already on paltusotine 60 mg should avoid concomitant use with an ARA due to the 
+potential for decreased exposure and thus decreased efficacy. 
+Effect of Paltusotine on Other Drugs 
+In vitro studies showed that paltusotine is an inhibitor of multidrug and toxin extrusion (MATE)-
+1/MATE2-K transporter, P-gp and bile salt export pump (BSEP), with no significant inhibition 
+of organic anion transporter (OAT)1, OAT3, or organic cation transporter (OCT)1. The IC50 
+values were 0.177μM for MATE1 and 2.49μM for MATE2-K, and the IC50 value for BSEP-
+mediated transport was estimated to be 10.3μM. At a clinically relevant concentration (Cmax of 
+0.72µM or 328 ng/mL, corresponding to the highest 60-mg dose administered in the phase 3 
+study), paltusotine has the potential to inhibit MATE1 in vivo, as the IC50 values are less than 
+50-fold the unbound Cmax (0.36µM). Paltusotine is likely a P-gp inhibitor in vivo as the IC50 
+value (9.3µM) is less than 0.1-fold dose/250 mL (525.8µM). Conversely, paltusotine is not likely 
+to inhibit MATE2-K and BSEP, given that their IC50 values are 50-fold higher than the unbound 
+Cmax. 
+In vitro, paltusotine was identified as an inhibitor of CYP2D6 (IC50=5.9μM, Ki =21μM, 
+kinact =0.029 min−1) and CYP3A4 (IC50=4.7μM, Ki =1.2μM, kinact =0.022 min−1). At a clinically 
+relevant concentration (Cmax of 0.72µM or 328 ng/mL, corresponding to the highest 60-mg dose 
+administered in the phase 3 study), paltusotine may act as a time-dependent inhibitor or 
+reversible inhibitor of CYP3A4. This is supported by the ratio of unbound Cmax to Ki of 0.3, 
+exceeding the 0.02 threshold, and a (apparent first-order inactivation rate constant of the affected 
+enzyme [Kobs] + rate of degradation constant [Kdeg]) ÷ Kdeg value of 2.95, above the 1.25 
+threshold. However, paltusotine is not expected to exhibit time-dependent inhibition or reversible 
+inhibition of CYP2D6 in vivo at clinically relevant doses since the ratio of unbound Cmax to Ki 
+was 0.017, which was <0.02 threshold, and (Kobs + Kdeg) ÷ Kdeg was 1.21, which was <1.25 
+threshold. 
+Reference ID: 5665631
+
+
+===== PAGE 162 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+138 
+Integrated Review Template, version 4.0 (11/1/23) 
+Parameter 
+Major Findings 
+Gross pathology There were no macroscopic pathology findings considered paltusotine-related at the end of 
+treatment or recovery. 
+Organ weights 
+Compared to control in females, 9.6% to 11.7% lower relative weight of liver at 
+>75 mg/kg/day paltusotine and dose-related 13.9% to 20.3% lower relative weight of 
+thyroid/parathyroid at >25 mg/kg/day lacked correlative microscopic pathology. 
+Histopathology 
+Adequate 
+battery: Yes 
+Peer review: Yes 
+There were no microscopic pathology findings considered related to treatment with 
+paltusotine occurring at the end of treatment or the recovery period. 
+Toxicokinetics 
+Plasma paltusotine Cmax and AUC0-24h increased with oral dose with a greater than dose 
+proportional increase between 25 and 75 mg/kg/day paltusotine (4.0 to 8.5-fold based on 
+AUC ratio) and a less than dose-proportional increase between 75 and 500 mg/kg/day and 
+lower exposure on Day 182 compared to Day 91 at 25 and 500 mg/kg/day. Plasma 
+paltusotine did not substantially accumulate with repeat dosing. There were no consistent or 
+substantial sex differences in systemic paltusotine exposure. 
+Source: Reviewer’s analysis 
+Abbreviations: AUC, area under the concentration-time curve; AUC0-24, area under the concentration-time curve from time zero to 24 h; 
+Cmax, maximum plasma concentration; CNS, central nervous system; IGF-1, insulin-like growth factor; SD, standard deviation; SST2, 
+somatostatin receptor 2; UV, ultraviolet 
+Table 62. Toxicokinetics, Rat 26-Week Oral Paltusotine Study 
+ 
+Source: Applicant’s submission 
+Abbreviations: AUC0-24, area under the concentration-time curve from time zero to 24 h; Cmax, maximum plasma concentration; Tmax, 
+time to maximum concentration 
+Source: Reviewer’s analysis 
+Abbreviations: GLP, good laboratory practice; TPGS, tocopheryl polyethylene glycol succinate; v/v, volume to volume 
+CRN00808-HCL: 39-Week Repeated Oral Dose Toxicity and Toxicokinetic Study in Beagle 
+Dogs with 4-Week Recovery/ 2018-TX-051 
+Key Study Findings 
+In the 39-week dog study, dogs were administered paltusotine at doses of 2, 10, or 75 mg/kg/day. 
+There were abnormal stools (mucoid, soft, and/or watery), bilaterally discolored skin on ears, 
+and thin appearance at >2 mg/kg/day, vomitus and decreased activity at >10 mg/kg/day, and 
+inappetence, salivation, and tremors at 75 mg/kg/day (25-fold the clinical exposure, based on 
+AUC). The NOAEL was determined to be 10 mg/kg/day, which was three-fold the clinical dose 
+of 60 mg/day, based on an AUC0-τ of 2890 ng·h/mL. 
+Reference ID: 5665631
+
+
+===== PAGE 164 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+140 
+Integrated Review Template, version 4.0 (11/1/23) 
+Parameters 
+Major Findings 
+Organ weights 
+Higher relative weight of thymus (32.1% to 109% higher) and lower relative 
+weight of epididymis (13.3% to 24.2% lower) persisted in males at 
+>2 mg/kg/day but lacked correlative microscopic pathology. Lower relative 
+weights of ovaries (26.2% to 49.0% lower) and uterus with cervix (21.2% to 
+47.2% lower) emerging in females at >2 mg/kg/day paltusotine lacked a 
+relation to paltusotine dose or correlative microscopic pathology. 
+Histopathology 
+Adequate battery: Yes 
+Peer review: Yes 
+There were no microscopic pathology findings considered related to 
+treatment with paltusotine occurring at the end of treatment or recovery 
+periods. 
+Toxicokinetics 
+There were no consistent or substantial sex differences in systemic 
+paltusotine exposure. Group mean plasma paltusotine Tmax occurred 0.5 to 
+2 h after dosing with Tmax in individual dogs ranging from 0.5 to 24 h after 
+dosing. Plasma paltusotine Cmax and AUC0-24h increased with oral dose 
+across the dose range, from 2 to 75 mg/kg/day paltusotine with no 
+accumulation in plasma with repeat dosing at 2 or 10 mg/kg/day, but 
+4.0- to 7.0-fold accumulation after at least 91 days of repeat dosing in 
+males and females at 75 mg/kg/day. 
+Table 65. Toxicokinetics, Dog 39-Week Oral Paltusotine Study 
+ 
+Source: Applicant’s submission 
+Abbreviations: AUC0-24, area under the concentration-time curve from time zero to 24 h; Cmax, maximum plasma concentration; 
+ECG, electrocardiogram; Tmax, time to maximum concentration 
+Source: Reviewer’s analysis and Applicant’s submission as referenced 
+Abbreviations: AUC0-24, area under the concentration-time curve from time zero to 24 h; Cmax, maximum plasma concentration; Hb, 
+hemoglobin; Hct, hematocrit; RBC, red blood cells; Tmax, time to maximum concentration 
+Reference ID: 5665631
+
+
+===== PAGE 172 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+148 
+Integrated Review Template, version 4.0 (11/1/23) 
+Parameter 
+Findings 
+Toxicokinetics 
+Toxicokinetics Tmax occurred 2.0 to 9.7 h after paltusotine oral dosing with Cmax 
+and AUC0-24h (AUC0-t, last sample 24 h after dosing) increasing with dose on 
+GD7 and 17. The plasma paltusotine elimination half-life ranged from 10 to 47 h. 
+Based on plasma paltusotine AUC0-t comparison for the same doses on GD19 
+and GD7, paltusotine did not accumulate in plasma with repeat dosing once a 
+day in pregnant rabbits. 
+Table 74. Toxicokinetics, Rabbit Oral Embryo-Fetal Development Study 
+ 
+Source: Applicant’s submission (Study T2019-TX-067). 
+Abbreviations: AUC0-t, area under the concentration-time curve from dosing (time 0) to time t; Cmax, 
+maximum plasma concentration; CRN00808, paltusotine; GD, gestational Day; Tmax, time to 
+maximum concentration 
+Fetal malformations/ 
+Variations 
+In 0, 10, 25, and 75 mg/kg/day paltusotine groups, overall fetal malformation 
+incidences were not dose-related. Litters affected by any malformation were 0% 
+(0/19), 5.6% (1/18), 22.2% (4/18), and 18.8% (3/16), respectively. Only a single 
+mid-dose doe had multiple fetuses with malformations, accounting for half of all 
+fetuses with malformations in the mid-dose group. There were no trends in 
+types of malformations in litters across dosing groups and the few 
+malformations that were outside of historical litter incidences were considered 
+sporadic and not considered drug-related. Types of malformations and 
+variations observed throughout the study are summarized below. 
+External malformation litter incidences were 0%, 5.6%, 5.6%, and 12.5% in 0, 
+10, 25 and 75 mg/kg/day paltusotine groups, respectively, occurring in the eyes, 
+head, paw, and tail from 4 total litters. 
+Visceral malformation litter incidences were 0%, 0%, 11.1%, and 6.3% in 0, 10, 
+25 and 75 mg/kg/day paltusotine groups, respectively, occurring in the brain, 
+diaphragm, and eyes from 3 total litters. 
+Skeletal malformations were slightly more common, seen in 0%, 0%, 16.7%, 
+and 12.5% of litters in 0, 10, 25 and 75 mg/kg/day paltusotine groups, 
+respectively. In paltusotine groups, skeletal malformations occurred in the skull, 
+vertebrae, and ribs from 5 total litters. 
+The only additional variations observed were related to ossification. The mean 
+number of ossification sites was lower compared to concurrent and laboratory 
+historical control groups in lumbar vertebrae at 10 and 25 mg/kg/day paltusotine 
+and in metacarpals at 75 mg/kg/day. The mean number of ossification sites was 
+higher compared to concurrent and laboratory historical control groups in 
+thoracic vertebrae and paired ribs at 25 mg/kg/day paltusotine and in xiphoid at 
+75 mg/kg/day. 
+Source: Reviewer’s analysis 
+Abbreviations: AUC0-24, area under the concentration-time curve from time zero to 24 h; AUC0-t, area under the concentration-time 
+curve from dosing (time 0) to time t; Cmax, maximum plasma concentration; GD, gestational Day; Tmax, time to maximum 
+concentration 
+Reference ID: 5665631
+
+
+===== PAGE 188 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+164 
+Integrated Review Template, version 4.0 (11/1/23) 
+Results 
+The PK parameters following a single dose of paltusotine administered via oral solution and 
+capsules are presented in Table 85 and Table 86, respectively. Following a single-dose 
+administration, the time to maximum plasma concentration (Tmax) was around 1.25 to 2.125 h for 
+oral solution and 2.125 to 4 h for oral capsules. The exposure (Cmax and AUC) was 
+approximately dose proportional over the range of 1.25 mg to 20 mg for oral solution but less 
+than dose proportional over the range of 10 to 60 mg for oral capsules. The half-life of 
+paltusotine for both oral solution and capsules ranged from 21 to 29 h. 
+Table 85. PK Parameters Following Single-Dose Administration of Paltusotine Oral Solution 
+ 
+Source: Table 15, Study CRN00808-01 Clinical Study Report 
+Abbreviations: AUC0-24, area under the concentration-time curve from time zero to 24 h; AUC0-inf, area under the concentration-time 
+curve extrapolated to infinite time; CI, confidence interval; Cmax, maximum plasma concentration; CRN00808, paltusotine; CV, 
+coefficient of variation; MRT, mean residence time; N, number of subjects in treatment arm; n, number of subjects in analysis; PK, 
+pharmacokinetic; SD, standard deviation; t1/2, half-life; tlag, time to first measurable concentration; tmax, time to maximum 
+concentration 
+Reference ID: 5665631
+
+
+===== PAGE 189 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+165 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 86. PK Parameters Following Single-Dose Administration of Paltusotine Oral Capsules 
+ 
+Source: Table 15, Study CRN00808-01 Clinical Study Report 
+Abbreviations: AUC0-24, area under the concentration-time curve from time zero to 24 h; AUC0-inf, area under the concentration-time 
+curve extrapolated to infinite time; CI, confidence interval; Cmax, maximum plasma concentration; CRN00808, paltusotine; CV, 
+coefficient of variation; MRT, mean residence time; N, number of subjects in treatment arm; n, number of subjects in analysis; PK, 
+pharmacokinetic; SD, standard deviation; t1/2, half-life; tlag, time to first measurable concentration; tmax, time to maximum 
+concentration 
+The PK parameters following multiple doses of paltusotine administered via oral capsules are 
+presented in Table 87. The median Tmax was 1 to 3 h after a single dose on Day 1 and 1.5 to 6 h 
+after multiple doses on Days 7 and 10. After multiple doses, Cmax and AUC increased dose 
+proportionally from 5 mg to 20 mg but less than dose proportionally from 20 mg to 30 mg. The 
+half-life was 33 h after 7 days of dosing and 41 to 50 h after 10 days of dosing. The 
+accumulation index ranged from 2.6 to 3.5. 
+Reference ID: 5665631
+
+
+===== PAGE 198 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+174 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 93. Summary Statistics of PK Parameters for Paltusotine and Dose-Normalized 
+[14C]-Paltusotine in Plasma, Part B 
+ 
+Source: Table 7, Study CRN00808-06 Clinical Study Report 
+a For tmax the median is presented instead of the geometric mean. 
+b CL/F and Vz/F for CRN00808 in plasma, and CL and Vz for [14C]-CRN00808 in plasma. 
+c Absolute bioavailability of oral CRN00808 was calculated as plasma CRN00808 oral AUC0-inf against dose-normalized 
+[14C]-CRN00808 IV AUC0-inf, expressed as: AUC0-inf,oral/dose normalized AUC0-inf,IV. 
+d For F the 90% confidence interval of geometric mean is presented instead of min-max. 
+Abbreviations: [14C], carbon 14; AUC0-last, area under the concentration-time curve from time zero to last quantifiable concentration; 
+AUC0-inf, area under the concentration-time curve extrapolated to infinite time; CL, clearance; CL/F, apparent clearance; Cmax, 
+maximum plasma concentration; CRN00808, paltusotine; CV, coefficient of variation; F, oral bioavailability; IV, intravenous; min, 
+minimum; max, maximum; PK, pharmacokinetic; t1/2, half-life; tmax, time to maximum concentration; Vz, volume of distribution; Vz/F, 
+apparent volume of distribution 
+Total recovery of radioactivity in urine and feces was 94% of the administered dose of 
+radioactivity, with most of the total radioactivity excreted over 120 h. The major route of 
+excretion of total radioactivity was into feces (90%); the remainder was recovered in urine (4%). 
+The metabolite radioprofiling and identification in plasma, urine, and feces is shown in Table 94. 
+The glucuronide metabolite (M632/1) was the major metabolite excreted in urine and feces. 
+Table 94. Metabolite Radioprofiling and Identification in Plasma, Urine, and Feces 
+ 
+Source: Table 9.5 of Module 2.6.5 Pharmacokinetics Tabulated Summary 
+Abbreviations: AUC0-48 h, area under the concentration-time curve from time zero to 48 h; CRN00808, paltusotine; M, metabolite; NA, 
+not available; ND, not detected 
+Reference ID: 5665631
+
+
+===== PAGE 203 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+179 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 97. Dose Proportionality of the SDD Formulation 
+ 
+Source: Table 11-D, Study CRN00808-07 Clinical Study Report 
+Abbreviations: AUC0-24, area under the concentration-time curve from time zero to 24 h; CI, confidence interval; Cmax, maximum 
+plasma concentration; P, period; SDD, spray-dried dispersion formulation; STD, standard meal 
+The effect of meal timing postdose on the PK of paltusotine was evaluated in Cohorts 2 and 4 
+(Table 98). Compared to a low-fat meal 2 h postdose, one 1 h or 0.5 h postdose decreased the 
+Cmax by 9% and 12%, respectively and the AUC by 19% and 25%, respectively. Compared to a 
+standard meal 4 h postdose, one 1 h postdose decreased the Cmax by 19% and the AUC by 31%. 
+Table 98. Effect of Meal Timing Postdose for SDD Formulation 
+ 
+Source: Table 11-E, Study CRN00808-07 Clinical Study Report 
+Abbreviations: AUC0-24, area under the concentration-time curve from time zero to 24 h; CI, confidence interval; Cmax, maximum 
+plasma concentration; LF, low fat meal; P, period; SDD, spray-dried dispersion formulation; STD, standard meal 
+The effects of acid-reducing agents on the PK of paltusotine (SDD formulation) were evaluated 
+in Cohorts 2 and 5, as presented in Table 99. When paltusotine 20 mg was concomitantly 
+administered with lansoprazole, the Cmax was decreased by 16% and the AUC was decreased by 
+21%. When paltusotine 60 mg was concomitantly administered with lansoprazole, the Cmax was 
+decreased by 40% and the AUC was decreased by 42%. 
+Reference ID: 5665631
+
+
+===== PAGE 208 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+184 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 102. PK Parameters of Paltusotine, 3×20-mg Tablets and 2×30-mg Tablets 
+ 
+Source: Table 12, Study CRN00808-13 Clinical Study Report 
+Per-protocol population: included subjects who completed both treatments; full PK population: included subjects who received at 
+least one dose of paltusotine. 
+Abbreviations: AUC0-24, area under the concentration-time curve from time zero to 24 h; AUC0-last, area under the concentration-time 
+curve from time zero to last quantifiable concentration; AUC0-inf, area under the concentration-time curve extrapolated to infinite time; 
+CI, confidence interval; CL/F, apparent clearance; Cmax, maximum plasma concentration; CV, coefficient of variation; N, number of 
+subjects in treatment protocol; t1/2, half-life; tlag, time to first measurable concentration; tmax, time to maximum concentration; Vz/F, 
+apparent volume of distribution; λz, elimination phase constant 
+Reference ID: 5665631
+
+
+===== PAGE 210 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+186 
+Integrated Review Template, version 4.0 (11/1/23) 
+Results 
+Descriptive statistics of the paltusotine plasma PK parameters following single oral doses of 
+80 mg, 160 mg, and 240 mg are provided in Table 104. The median Tmax values were 2.5, 2, and 
+3 h for 80 mg, 160 mg and 240 mg, respectively, with overlapping ranges. The exposure of 
+paltusotine increased with increasing dose. The half-life was similar for all doses at around 22.8 
+to 24.4 h. 
+Table 104. Descriptive Statistics of Paltusotine Plasma PK Parameters 
+ 
+Source: Table 18, Study CRN00808-14 Clinical Study Report 
+Abbreviations: AUC0-24, area under the plasma concentration versus time curve from time 0 to 24 h; AUC0-inf, area under the plasma 
+concentration versus time curve from time 0 extrapolated to infinity; AUC0-tlast, area under the plasma concentration versus time 
+curve from time 0 to the last quantifiable; CL/F, apparent systemic clearance after oral administration; Cmax, maximumplasma 
+concentration; N, number of subjects in treatment protocol; t1/2, half-life; tmax, time to maximum observed plasma concentration; Vz/F, 
+apparent volume of distribution during terminal phase after oral administration 
+Reference ID: 5665631
+
+
+===== PAGE 213 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+189 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 105. Key Paltusotine PK Parameters, Cohort 1 
+PK Parameters 
+Treatment A 
+[Paltusotine Alone] 
+Mean ± SD 
+N=12 
+Treatment B 
+[Paltusotine Coadministered With 
+Carbamazepine] 
+Mean ± SD 
+N=12 
+Cmax (ng/mL) 
+366±126 
+210±77.1 [11] 
+tlag*(h) 
+0.00 (0.00, 0.00) 
+0.00 (0.00, 0.00) [11] 
+tmax* (h) 
+2.50 (1.00, 4.00) 
+1.98 (1.00, 4.07) [11] 
+AUC0-24 (h·ng/mL) 
+3410±1070 
+1400±447 [11] 
+AUC0-tlast (h·ng/mL) 
+5330±1840 
+1670±537 [11] 
+AUC0-inf (h·ng/mL) 
+5570±2040 
+1690±540 [11] 
+t1/2 (h) 
+28.8±7.1 
+19.6±6.7 [11] 
+t1/2eff (h) 
+17.3±3.4 
+9.48±1.6 [11] 
+CL/F (L/h) 
+12.0±3.7 
+40.5±19.1 [11] 
+Vz/F (L) 
+487±160 
+1080±455 [11] 
+Effect of Carbamazepine on Paltusotine PK Parameters 
+PK Parameters 
+Geometric Mean Ratioa (90% CI) 
+Cmax (ng/mL) 
+0.56 (0.45-0.70) 
+AUC0-24 (h·ng/mL) 
+0.41 (0.35-0.47) 
+AUC0-tlast (h·ng/mL) 
+0.31 (0.27-0.36) 
+AUC0-inf (h·ng/mL) 
+0.30 (0.26-0.35) 
+Source: Table 19, Study CRN00808-15 Clinical Study Report 
+Treatment A: 60 mg paltusotine administered alone; Treatment B: 60 mg paltusotine coadministered with 300 mg BID 
+carbamazepine. 
+AUC0-inf, CL/F, and Vz/F values were excluded where %AUCext >20%. Subject excluded where carbamazepine doses were missed. 
+n = N, unless otherwise stated [n]; one subject did not receive carbamazepine doses on Days 21 to 23, subject was excluded from 
+all summary statistics for Treatment B but was included in the PK population. 
+* Median (minimum, maximum) reported for tlag and tmax. 
+a A linear mixed model was fitted to ln-transformed data with period as a fixed effect and subject as a random effect: 
+Treatment B/Treatment A. 
+Abbreviations: %AUCext, percentage of AUCinf due to extrapolation; AUC0-24, area under the plasma concentration versus time curve 
+from time 0 to 24 h; AUC0-inf, area under the plasma concentration versus time curve from time 0 extrapolated to infinity; AUC0-tlast, 
+area under the plasma concentration versus time curve from time 0 to the last quantifiable; BID, twice daily; CL/F, apparent systemic 
+clearance after oral administration; Cmax, maximum plasma concentration; CV, coefficient of variation; N, number of subjects in 
+treatment protocol; n, number of subjects with PK assessment; PK, pharmacokinetic; SD, standard deviation; t1/2, half-life; t1/2eff, 
+effective elimination half-life; tlag, delay time between time of dosing and time of appearance of measurable test article; tmax, time to 
+maximum observed plasma concentration; Vz/F, apparent volume of distribution during terminal phase after oral administration 
+ Cohort 2: The PK parameters of metformin for Cohort 2 are listed in Table 106. The results 
+showed that when administered concomitantly with paltusotine (Treatment C), the total 
+plasma exposure (AUC0-tlast and AUC0-inf) of metformin tended to be approximately 20% 
+lower relative to when administered alone (Treatment D) The Cmax of metformin was 
+approximately 40% lower when coadministered with paltusotine. 
+̶ 
+The mean estimates for apparent t1/2 of metformin were longer when administered alone 
+(18.4 h), compared to metformin administered concomitantly with paltusotine (4.62 h; 
+terminal biphasic decline was not observed due to lower exposure). Additionally, the 
+apparent Vz/F was higher when metformin was administered alone (2100 L) compared to 
+metformin administered concomitantly with paltusotine (691 L), whereas the apparent 
+CL/F values were similar (83.4 and 107 L/h, respectively). 
+Reference ID: 5665631
+
+
+===== PAGE 214 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+190 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 106. Key Metformin PK Parameters, Cohort 2 
+PK Parameter 
+Treatment C 
+[Metformin Alone] 
+Mean ± SD 
+N=12 
+Treatment D 
+[Paltusotine Coadministered 
+With Metformin] 
+Mean ± SD 
+N=12 
+Cmax (ng/mL) 
+882±130 
+553±157 [11] 
+tlag *(h) 
+0.00 (0.00, 0.00) 
+0.00 (0.00, 0.00) [11] 
+tmax* (h) 
+3.00 (1.00, 4.00) 
+4.00 (3.00, 4.17) [11] 
+AUC0-24 (h·ng/mL) 
+5790±1310 
+4920±1500 [11] 
+AUC0-tlast (h·ng/mL) 
+6120±1340 
+5020±1640 [11] 
+AUC0-inf (h·ng/mL) 
+6250±1500 [10] 
+5100±1620 [11] 
+t1/2 (h) 
+18.4±21.8 [10] 
+4.62±0.9 [11] 
+CL/F (L/h) 
+83.4±16.5 [10] 
+107±31.5 [11] 
+Vz/F (L) 
+2100±2250 [10] 
+691±183 [11] 
+Effect of Paltusotine on Metformin PK Parameters 
+PK Parameters 
+Geometric Mean Ratioa (90% CI) 
+Cmax (ng/mL) 
+0.61 (0.54-0.70) 
+AUC0-24 (h·ng/mL) 
+0.83 (0.73-0.96) 
+AUC0-tlast (h·ng/mL) 
+0.80 (0.69-0.92) 
+AUC0-inf (h·ng/mL) 
+0.78 (0.67-0.90) 
+Source: Table 22, Study CRN00808-15 Clinical Study Report 
+Treatment C: 500 mg metformin administered alone; Treatment D: 500 mg metformin coadministered with 120 mg paltusotine. 
+AUC0-inf, CL/F, and Vz/F values were excluded where %AUCext >20%. 
+n=N, unless otherwise stated [n]; one subject experienced emesis within 2× median tmax, subject was excluded from all summary 
+statistics for Treatment D but was included in the PK population. 
+*Median (minimum, maximum) reported for tlag and tmax. 
+a A linear mixed model was fitted to ln-transformed data with period as a fixed effect and subject as a random effect: 
+Treatment D/Treatment C. 
+Abbreviations: %AUCext, percentage of AUCinf due to extrapolation; AUC0-24, area under the plasma concentration versus time curve 
+from time 0 to 24 h; AUC0-inf, area under the plasma concentration versus time curve from time 0 extrapolated to infinity; AUC0-tlast, 
+area under the plasma concentration versus time curve from time 0 to the last quantifiable; CL/F, apparent systemic clearance after 
+oral administration; Cmax, maximum plasma concentration; CV, coefficient of variation; N, number of subjects in treatment protocol; 
+n, number of subjects with PK assessment; PK, pharmacokinetic; SD, standard deviation; t1/2, apparent terminal phase half-life; tlag, 
+delay time between time of dosing and time of appearance of measurable test article; tmax, time to maximum observed plasma 
+concentration; Vz/F, apparent volume of distribution during terminal phase after oral administration 
+ Cohort 3: The PK parameters of paltusotine for Cohort 3 are provided in Table 107, and the 
+PK parameters of cyclosporine for Cohort 3 in Table 108. The results showed that when 
+administered concomitantly with cyclosporine (Treatment G), the Cmax and the total plasma 
+exposure (AUC0-tlast and AUC0-inf) of paltusotine were approximately two-fold greater relative 
+to when it was administered alone (Treatment F). For cyclosporine, the total whole blood 
+exposure (AUC0-tlast and AUC0-inf) values were approximately 35% lower relative to when it 
+was administered alone (Treatment E). The Cmax of cyclosporine was approximately 50% 
+lower when coadministered with paltusotine. 
+̶ 
+The mean estimates for apparent t1/2 of paltusotine were similar when paltusotine was 
+administered alone (28.4 h) and concomitantly with cyclosporine (26.7 h). The apparent 
+CL/F and Vz/F were higher when paltusotine was administered alone (11.5 L/h and 
+449 L, respectively) compared to concomitantly with cyclosporine (6.09 L/h and 228 L, 
+respectively). Likewise, the mean estimates for apparent t1/2 of cyclosporine were similar 
+when cyclosporine was administered alone (40.5 h) and concomitantly with paltusotine 
+(38.4 h). Additionally, the apparent CL/F and Vz/F were lower when cyclosporine was 
+administered alone (45.4 L/h and 2510 L, respectively) compared to cyclosporine 
+administered concomitantly with paltusotine (70.8 L/h and 3140 L, respectively). 
+Reference ID: 5665631
+
+
+===== PAGE 215 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+191 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 107. Key Paltusotine PK Parameters, Cohort 3 
+PK Parameters 
+Treatment F 
+[Paltusotine Alone] 
+Mean ± SD 
+N=1 
+Treatment G 
+[Paltusotine Coadministered With 
+Cyclosporine] 
+Mean ± SD 
+N=12 
+Cmax (ng/mL) 
+287±121 
+528±130 [11] 
+tlag *(h) 
+0.00 (0.00, 0.00) 
+0.00 (0.00, 0.00) [11] 
+tmax* (h) 
+1.52 (0.92, 4.00) 
+3.00 (1.00, 4.00) [11] 
+AUC0-24 (h·ng/mL) 
+2670±933 
+4840±1260 [11] 
+AUC0-tlast (h·ng/mL) 
+3990±1470 
+7120±2080 [11] 
+AUC0-inf (h·ng/mL) 
+4070±1510 
+7220±2140 [11] 
+t1/2 (h) 
+28.4±7.1 
+26.7±3.9 [11] 
+t1/2eff (h) 
+15.3±2.6 
+14.7±2.1 [11] 
+CL/F (L/h) 
+11.5±5.1 
+6.09±2.2 [11] 
+Vz/F (L) 
+449±173 
+228±62.1 [11] 
+Effect of Cyclosporine on Paltusotine PK Parameters 
+PK Parameters 
+Geometric Mean Ratioa (90% CI) 
+Cmax (ng/mL) 
+2.00 (1.66-2.41) 
+AUC0-24 (h·ng/mL) 
+1.92 (1.66-2.21) 
+AUC0-tlast (h·ng/mL) 
+1.90 (1.66-2.18) 
+AUC0-inf (h·ng/mL) 
+1.89 (1.65-2.17) 
+Source: Table 23, Study CRN00808-15 Clinical Study Report 
+Treatment F: 40 mg paltusotine administered alone, Treatment G: 200 mg cyclosporine coadministered with 40 mg paltusotine. 
+AUC0-inf, CL/F, and Vz/F values were excluded where %AUCext >20%. Subjects excluded where vomiting occurred within two-fold 
+the median tmax after study drug dosing. 
+n=N, unless otherwise stated [n]; one subject experienced emesis within 2× median tmax, subject was excluded from all summary 
+statistics for Treatment G but was included in the PK population. 
+* Median (minimum, maximum) reported for tlag and tmax. 
+a A linear mixed model was fitted to ln-transformed data with period as a fixed effect and subject as a random effect: 
+Treatment G/Treatment F. 
+Abbreviations: %AUCext, percentage of AUCinf due to extrapolation; AUC0-24, area under the plasma concentration versus time curve 
+from time 0 to 24 h; AUC0-inf, area under the plasma concentration versus time curve from time 0 extrapolated to infinity; AUC0-tlast, 
+area under the plasma concentration versus time curve from time 0 to the last quantifiable; CI, confidence interval; CL/F, apparent 
+systemic clearance after oral administration; Cmax, maximum plasma concentration; CV, coefficient of variation; N, number of 
+subjects in treatment protocol; n, number of subjects with PK assessment; PK, pharmacokinetic; SD, standard deviation; t1/2, 
+half-life; t1/2eff, effective elimination half-life; tlag, delay time between time of dosing and time of appearance of measurable test article; 
+tmax, time to maximum observed plasma concentration; Vz/F, apparent volume of distribution during terminal phase after oral 
+administration 
+Reference ID: 5665631
+
+
+===== PAGE 216 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+192 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 108. Key Cyclosporine PK Parameters, Cohort 3 
+PK Parameters 
+Treatment E 
+[Cyclosporine Alone] 
+Mean ± SD 
+N=12 
+Treatment G 
+[Paltusotine Coadministered With 
+Cyclosporine] 
+Mean ± SD 
+N=12 
+Cmax (ng/mL) 
+1020±230 
+474±104 [11] 
+tlag*(h) 
+0.00 (0.00, 0.00) 
+0.00 (0.00, 0.50) [11] 
+tmax* (h) 
+1.76 (1.00, 3.00) 
+3.00 (1.00, 4.00) [11] 
+AUC0-24 (h·ng/mL) 
+3820±717 
+2540±666 [11] 
+AUC0-tlast (h·ng/mL) 
+4400±904 
+2920±898 [11] 
+AUC0-inf (h·ng/mL) 
+4600±995 [11] 
+3080±1020 [11] 
+t1/2 (h) 
+40.5±22.9 [11] 
+38.4±33.3 [11] 
+CL/F (L/h) 
+45.4±9.7 [11] 
+70.8±19.9 [11] 
+Vz/F (L) 
+2510±1260 [11] 
+3140±1860 [11] 
+Effect of Paltusotine on Cyclosporine PK Parameters 
+PK Parameters 
+Geometric Mean Ratioa (90% CI) 
+Cmax (ng/mL) 
+0.47 (0.42-0.54) 
+AUC0-24 (h·ng/mL) 
+0.66 (0.58-0.75) 
+AUC0-tlast (h·ng/mL) 
+0.66 (0.57-0.75) 
+AUC0-inf (h·ng/mL) 
+0.65 (0.56-0.75) 
+Source: Table 24, Study CRN00808-15 Clinical Study Report 
+Treatment E: 200 mg cyclosporine administered alone; Treatment G: 200 mg cyclosporine coadministered with 40 mg paltusotine. 
+AUC0-inf, CL/F, and Vz/F values were excluded where %AUCext >20%. Subjects excluded where vomiting occurred within two-fold 
+the median tmax after study drug dosing. 
+n=N, unless otherwise stated [n]; one subject experienced emesis within 2× median tmax, subject was excluded from all summary 
+statistics for Treatment G but was included in the PK population. 
+* Median (minimum, maximum) reported for tlag and tmax. 
+a A linear mixed model was fitted to ln-transformed data with period as a fixed effect and subject as a random effect: 
+Treatment G/Treatment E. 
+Abbreviations: %AUCext, percentage of AUCinf due to extrapolation; AUC0-24, area under the plasma concentration versus time curve 
+from time 0 to 24 h; AUC0-inf, area under the plasma concentration versus time curve from time 0 extrapolated to infinity; AUC0-tlast, 
+area under the plasma concentration versus time curve from time 0 to the last quantifiable; BID, twice daily; CI, confidence interval; 
+CL/F, apparent systemic clearance after oral administration; Cmax, maximum plasma concentration; CV, coefficient of variation; N, 
+number of subjects in treatment protocol; n, number of subjects with PK assessment; PK, pharmacokinetic; SD, standard deviation; 
+t1/2, half-life; tlag, delay time between time of dosing and time of appearance of measurable test article; tmax, time to maximum 
+observed plasma concentration; Vz/F, apparent volume of distribution during terminal phase after oral administration 
+ Cohort 4: The PK parameters of midazolam for Cohort 4 are provided in Table 109, and the 
+PK parameters of 1-OH midazolam for Cohort 4 in Table 110. The results showed that when 
+administered concomitantly with paltusotine (Treatment I), the total plasma exposure 
+(AUC0-tlast and AUC0-inf) values of midazolam were approximately 30% higher relative to 
+when administered alone (Treatment H). The Cmax of midazolam was unchanged when 
+coadministered with paltusotine. For 1-OH midazolam, the Cmax and AUC were comparable 
+to those observed following administration midazolam alone. 
+̶ 
+The mean estimates for apparent t1/2 of midazolam were similar when midazolam was 
+administered alone (4.84 h) and concomitantly with paltusotine (5.95 h). Additionally, 
+the apparent CL/F and Vz/F were similar when midazolam was administered alone 
+(69.6 L/h and 429 L, respectively) compared to midazolam administered concomitantly 
+with paltusotine (53.8 L/h and 431 L, respectively). Likewise, the mean estimates for 
+apparent t1/2 of 1-OH-midazolam were similar when midazolam was administered alone 
+(4.77 h) and concomitantly with paltusotine (4.94 h). 
+Reference ID: 5665631
+
+
+===== PAGE 217 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+193 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 109. Key Midazolam PK parameters, Cohort 4 
+PK Parameters 
+Treatment H [Midazolam Alone] 
+Mean ± SD 
+N=13 
+Treatment I [Paltusotine 
+Coadministered With Midazolam] 
+Mean ± SD 
+N=12 
+Cmax (ng/mL) 
+12.8±4.8 
+13.1±4.7 
+tlag*(h) 
+0.00 (0.00, 0.00) 
+0.00 (0.00, 0.00) 
+tmax* (h) 
+0.75 (0.50, 1.50) 
+0.75 (0.50, 1.50) 
+AUC0-24 (h·ng/mL) 
+34.1±14.9 
+40.8±15.6 
+AUC0-tlast (h·ng/mL) 
+33.7±15.5 
+40.5±16.8 
+AUC0-inf (h·ng/mL) 
+35.3±15.7 
+42.4±17.1 
+t1/2 (h) 
+4.84±2.2 
+5.95±2.3 
+CL/F (L/h) 
+69.6±35.9 
+53.8±19.0 
+Vz/F (L) 
+429±184 
+431±180 
+Effect of Paltusotine on Midazolam 
+PK Parameters 
+Geometric Mean Ratioa (90% CI) 
+Cmax (ng/mL) 
+1.08 (0.97-1.20) 
+AUC0-24 (h·ng/mL) 
+1.31 (1.18-1.44) 
+AUC0-tlast (h·ng/mL) 
+1.31 (1.19-1.45) 
+AUC0-inf (h·ng/mL) 
+1.31 (1.19-1.44) 
+Source: Table 26, Study CRN00808-15 Clinical Study Report 
+Treatment H: 2 mg midazolam administered alone; Treatment I: 60 mg paltusotine administered Day 3 through Day 8; 
+coadministered with 2 mg midazolam on Day 9. AUC0-inf, CL/F, and Vz/F values were excluded where %AUCext >20%. Subjects 
+excluded where predose concentration >5% Cmax. 
+n=N, unless otherwise stated [n]; One subject in Cohort 4 discontinued the study on Day 5 (last dose received on Day 4) due to a 
+family emergency. 
+* Median (minimum, maximum) reported for tlag and tmax. 
+a A linear mixed model was fitted to ln-transformed data with period as a fixed effect and subject as a random effect: 
+Treatment I/Treatment H. 
+Abbreviations: %AUCext, percentage of AUCinf due to extrapolation; AUC0-24, area under the plasma concentration versus time curve 
+from time 0 to 24 h; AUC0-inf, area under the plasma concentration versus time curve from time 0 extrapolated to infinity; AUC0-tlast, 
+area under the plasma concentration versus time curve from time 0 to the last quantifiable; CI, confidence interval; CL/F, apparent 
+systemic clearance after oral administration; Cmax, maximum plasma concentration; CV, coefficient of variation; N, number of 
+subjects in treatment protocol; n, number of subjects with PK assessment; SD, standard deviation; t1/2, half-life; tlag, delay time 
+between time of dosing and time of appearance of measurable test article; tmax, time to maximum observed plasma concentration; 
+Vz/F, apparent volume of distribution during terminal phase after oral administration 
+Reference ID: 5665631
+
+
+===== PAGE 218 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+194 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 110. Key 1-OH Midazolam PK Parameters, Cohort 4 
+PK Parameters 
+Treatment H 
+[Midazolam Alone] 
+Mean ± SD 
+N=13 
+Treatment I 
+[Paltusotine Coadministered 
+With Midazolam] 
+Mean ± SD 
+N=12 
+Cmax (ng/mL) 
+5.5±3.3 
+5.2±2.6 
+tlag*(h) 
+0.00 (0.00, 0.00) 
+0.00 (0.00, 0.00) 
+tmax* (h) 
+0.75 (0.50, 1.50) 
+0.75 (0.72, 1.57) 
+AUC0-24 (h·ng/mL) 
+13.4±7.5 
+14.9±7.5 
+AUC0-tlast (h·ng/mL) 
+12.8±7.7 
+14.6±7.6 
+AUC0-inf (h·ng/mL) 
+14.3±7.8 
+15.7±8.8 [11] 
+t1/2 (h) 
+4.8±1.6 
+4.9±88.2 [11] 
+Effect of Paltusotine on 1-OH Midazolam 
+PK Parameters 
+Geometric Mean Ratioa (90% CI) 
+Cmax (ng/mL) 
+0.96 (0.84-1.10) 
+AUC0-24 (h·ng/mL) 
+1.11 (1.01-1.23) 
+AUC0-tlast (h·ng/mL) 
+1.14 (1.03-1.26) 
+AUC0-inf (h·ng/mL) 
+1.13 (1.03-1.25) 
+Source: Table 27, Study CRN00808-15 Clinical Study Report 
+Treatment H: 2 mg midazolam administered alone; Treatment I: 60 mg paltusotine administered Day 3 through Day 8; 
+coadministered with 2 mg midazolam on Day 9. AUC0-inf, CL/F, and Vz/F values were excluded where %AUCext >20%. Subjects 
+excluded where predose concentration was >5% Cmax. 
+n=N, unless otherwise stated [n]; One subject in Cohort 4 discontinued the study on Day 5 (last dose received on Day 4) due to a 
+family emergency. 
+* Median (minimum, maximum) reported for tlag and tmax. 
+a A linear mixed model was fitted to ln-transformed data with period as a fixed effect and subject as a random effect: 
+Treatment I/Treatment H. 
+Abbreviations: %AUCext, percentage of AUCinf due to extrapolation; 1-OH, 1-hydroxy; AUC0-24, area under the plasma concentration 
+versus time curve from time 0 to 24 h; AUC0-inf, area under the plasma concentration versus time curve from time 0 extrapolated to 
+infinity; AUC0-tlast, area under the plasma concentration versus time curve from time 0 to the last quantifiable; CI, confidence interval; 
+CL/F, apparent systemic clearance after oral administration; Cmax, maximum plasma concentration; CV, coefficient of variation; SD, 
+standard deviation; t1/2, half-life; tlag, delay time between time of dosing and time of appearance of measurable test article; N, number 
+of subjects in treatment protocol; n, number of subjects with PK assessment; tmax, time to maximum observed plasma concentration; 
+Vz/F, apparent volume of distribution during terminal phase after oral administration 
+Summary 
+ When paltusotine was concomitantly administered with carbamazepine, the AUC and Cmax of 
+paltusotine were decreased by approximately 60% and 40%, respectively. 
+ When metformin was concomitantly administered with paltusotine, the AUC and Cmax of 
+metformin were decreased by about 20% and 40%, respectively. 
+ When paltusotine and cyclosporine were concomitantly administered, the Cmax and AUC of 
+paltusotine were approximately two-fold those of paltusotine alone. By contrast, the Cmax and 
+AUC of cyclosporine were decreased by 50% and 35% compared to cyclosporine alone. 
+ When midazolam was concomitantly administered with paltusotine, the AUC of midazolam 
+was approximately 30% higher compared to midazolam alone and the Cmax of midazolam 
+was unchanged. The Cmax and AUC of 1-OH-midazolam were comparable to those of 
+midazolam alone. 
+Reference ID: 5665631
+
+
+===== PAGE 219 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+195 
+Integrated Review Template, version 4.0 (11/1/23) 
+14.2.9. Study CRN00808-18 
+A Double-Blind, Randomized, Placebo-Controlled, Single-Dose Followed by Multiple-Dose 
+Study To Evaluate the Pharmacokinetics and Safety of Paltusotine in Chinese Healthy 
+Volunteers 
+Primary Objective 
+To evaluate the PK of single and multiple doses of paltusotine in a Chinese population. 
+Study Design 
+Ten eligible subjects were randomized to receive paltusotine 40 mg (2×20-mg tablet) or placebo 
+in a 4:1 ratio (paltusotine: placebo). Subjects received a single dose of paltusotine 40 mg or 
+placebo on Day 1 under fasting conditions. After a washout period of 7 days, subjects received 
+paltusotine 40 mg or placebo once daily for 10 consecutive days starting on Day 8. PK samples 
+were collected up to 120 h postdose after single dose and predose and 1 h postdose on Days 8 
+through 16 and up to 192 h postdose on Day 17. 
+Results 
+The PK parameters of paltusotine following single and multiple doses are presented in Table 
+111. The median Tmax was about 1.5 h following single and multiple doses of paltusotine. The 
+half-life was slightly longer after multiple doses (35.8 h) compared to a single dose (28 h). The 
+effective half-life after multiple doses of paltusotine was 20.9 h (data not presented below). After 
+multiple doses, the accumulation ratios were 1.3 and 1.7 for Cmax and AUC0-tau, respectively. 
+Table 111. PK Parameters Following Single and Multiple Doses of Paltusotine 40 mg 
+PK Parameters 
+Paltusotine 
+N=8 
+Mean (%CV) 
+Single Dose (Day 1) 
+Multiple Doses (Day 17) 
+tmax (h)^ 
+1.5 (1.0, 2.0) 
+1.51 (1.0, 3.0) 
+tlag (h)^ 
+0 (0,0) 
+0 (0,0) 
+Cmax (ng/mL)# 
+238 (51.1%) 
+311 (20.5%) 
+AUC0-24 (ng·h/mL)# 
+1700 (44.1%) 
+2950 (17%) 
+AUC0-t (ng·h/mL)# 
+2560 (49%) 
+5600 (22.9%) 
+CL/F (L/h) 
+16.9 (47.7%) 
+13.7 (17.1%) 
+t1/2 (h) 
+28.0 (14.3%) 
+35.8 (15.7%) 
+Vz/F (L) 
+662 (42.5%) 
+699 (15.6%) 
+R_Cmax 
+- 
+1.31 
+R_AUC0-tau 
+- 
+1.73 
+Source: Rearranged from Table 10, Study CRN00808-18 Clinical Study Report 
+^ Median (range). 
+# Geometric mean. 
+Abbreviations: AUC0-24, area under the concentration-time curve from time zero to 24 h; AUC0-t, area under the concentration-time 
+curve to last sampling time point; CL/F, apparent clearance; Cmax, maximum plasma concentration; CV, coefficient of variance; N, 
+number of subjects in treatment protocol; PK, pharmacokinetic; R_Cmax, accumulation index based on Cmax; R_AUC0-tau, 
+accumulation index based on AUC0-tau; t1/2, terminal elimination half-life; tlag, time to first measurable concentration; tmax, time to 
+maximum concentration; Vz/F, apparent volume of distribution 
+Reference ID: 5665631
+
+
+===== PAGE 221 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+197 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 112. PK Parameters of Paltusotine in Japanese and Caucasian Subjects 
+PK Parameters 
+Paltusotine 
+Mean (%CV) 
+20 mg 
+(Japanese) 
+N=6 
+40 mg 
+(Japanese) 
+N=6 
+60 mg 
+(Japanese) 
+N=6 
+80 mg 
+(Japanese) 
+N=5 
+40 mg 
+(Caucasian) 
+N=6 
+tmax (h)^ 
+2.5 (1, 3) 
+2 (1.5, 4) 
+3 (1.5, 4) 
+3 (2, 4) 
+4 (1.5, 6) 
+Cmax (ng/mL)# 
+142 (29.2%) 
+321 (47.4%) 
+428 (32.6%) 
+503 (61.6%) 
+122 (93.3%) 
+AUC0-t (ng·h/mL)# 
+2010 (25.1%) 
+4600 (42.5%) 
+6490 (20.8%) 
+6340 (94%) 
+2330 (78.9%) 
+AUC0-inf (ng·h/mL)# 
+2090 (25.0%) 
+4840 (43.3%) 
+6910 (21.8%) 
+6620 (98.2%) 
+2500 (79.2%) 
+CL/F (L/h) 
+9.82 
+8.97 
+8.84 
+16.1 
+19.9 
+t1/2 (h) 
+25 
+26 
+28 
+24 
+28 
+Vz/F (L) 
+353 
+327 
+351 
+608 
+804 
+Source: Rearranged from Table 14.2.1-2, Study PA0001 Clinical Study Report 
+^ Median (range). 
+# Geometric mean. 
+Abbreviations: AUC0-t, area under the concentration-time curve to last sampling time point; AUC0-inf, area under the concentration-
+time curve extrapolated to infinite time; CL/F, apparent clearance; Cmax, maximum plasma concentration; CV, coefficient of variance; 
+N, number of subjects in treatment protocol; PK, pharmacokinetic; t1/2, half-life; tmax, time to maximum concentration; Vz/F, apparent 
+volume of distribution 
+Table 113. Ratios of Paltusotine PK Parameters Geometric Means Between Japanese and 
+Caucasian Subjects 
+ 
+Source: Table 14.2.1-4, Study PA0001 Clinical Study Report 
+Abbreviations: AUC0-t, area under the concentration-time curve to last sampling time point; AUC0-inf, area under the concentration-
+time curve extrapolated to infinite time; Cmax, maximum plasma concentration; PK, pharmacokinetic; SK-5308, paltusotine 
+14.2.11. Study PA0002 
+SK-5307 Phase 1 Study—Repeat-Dose Study in Healthy Adult Male Subjects 
+Primary Objective 
+To investigate the safety and PK of repeated dosing of paltusotine (SK-5307) in healthy Japanese 
+adult male subjects. Also, to examine the effects of diet and PD effects. 
+Study Design 
+This was an open-label, multiple dose, two-period crossover study in 12 healthy Japanese 
+subjects. Subjects received paltusotine 40 mg (2×20-mg tablets) once daily 3 h after breakfast 
+(Group A, Cycle I and Group B, Cycle II) or 1 h before breakfast (Group A, Cycle II and 
+Group B, Cycle I) for 7 days. The washout period between cycles was at least 21 days. Plasma 
+samples for PK were collected up to 24 h postdose on Day 1 and Day 7 and 96, and 168 h 
+postdose on Day 7. 
+Reference ID: 5665631
+
+
+===== PAGE 222 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+198 
+Integrated Review Template, version 4.0 (11/1/23) 
+Results 
+The PK parameters for paltusotine administered 3 h after and 1 h before meal are presented in 
+Table 114. Statistical analysis of paltusotine PK parameters comparing administration 3 h after 
+meal and 1 h before meal is presented in Table 115. Based on the results, the accumulation ratios 
+were about 1.4 and 1.2 for Cmax and 1.8 and 1.4 for AUC0-24 for paltusotine administration 3 h 
+after and 1 h before a meal, respectively. Compared to paltusotine administration 1 h before a 
+meal, paltusotine administration 3 h after a meal resulted in comparable Cmax, but a ~50% 
+increased AUC. 
+Table 114. Paltusotine PK Parameters 3 Hours After and 1 Hour Before a Meal 
+ 
+ 
+Source: Table 14.2.1-2, Study PA0002 Clinical Study Report 
+Abbreviations: AUC0-24, area under the concentration-time curve from time zero to 24 h; AUC0-last, area under the concentration-time 
+curve from time zero to last quantifiable concentration; AUC0-inf, area under the concentration-time curve extrapolated to infinite time; 
+CI, confidence interval; CL/F, apparent clearance; Cmax, maximum plasma concentration; MRT(0-inf), mean residence time; PK, 
+pharmacokinetic; SD, standard deviation; t1/2, half-life; tlag, time to first measurable concentration; tmax, time to maximum 
+concentration; Vz/F, apparent volume of distribution; λz, elimination phase constant 
+Reference ID: 5665631
+
+
+===== PAGE 228 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+204 
+Integrated Review Template, version 4.0 (11/1/23) 
+14.5. Pharmacometrics Assessment 
+14.5.1. Population PK Analysis 
+14.5.1.1. Review Summary 
+In general, the Applicant’s population PK analysis is considered acceptable for the purpose of 
+describing paltusotine exposures in plasma, and of the effects of intrinsic and/or extrinsic factors 
+on the paltusotine pharmacokinetics in adults. The Applicant’s analyses were verified by the 
+Reviewer, with no significant discordance identified. The developed model was used to support 
+the current submission, as outlined in Table 120. 
+Table 120. Comments on the Applicant’s Final Population PK Model 
+Utility of the Final Model 
+Reviewer’s Comments 
+Support 
+Applicant’s 
+proposed 
+labeling 
+statements 
+about intrinsic 
+and extrinsic 
+factors 
+Intrinsic 
+factor 
+“Age, body weight, sex, race, 
+and UGT1A1 polymorphism do 
+not have a clinically relevant 
+effect on the pharmacokinetics 
+of paltusotine.” 
+The statement is acceptable. 
+Covariate analysis using the 
+Applicant’s population PK model 
+demonstrates that no evident 
+difference (greater than 80-125%) 
+exists based on age, body weight, 
+eGFR, cholecystectomy status, race 
+and UGT1A1 polymorphism. 
+Paltusotine exposure (AUCss) was 
+higher in females (by approximately 
+22%) than males (Figure 27). 
+However, this is not considered 
+clinically significant. 
+Extrinsic 
+factor 
+“Administration of paltusotine 
+with a high-fat meal reduced 
+systemic exposure >80% 
+(mean Cmax and AUC) when 
+compared to administration in 
+the fasted state.” 
+“PPI drugs such as 
+lansoprazole have been shown 
+to cause dose-dependent 
+decreases in paltusotine AUC 
+of approximately 20% and 40% 
+for 20 mg and 60-mg dose 
+levels, respectively.” 
+The statement is acceptable. 
+Covariate analysis revealed that meal 
+type did not have a significant impact 
+on the PK of paltusotine. However, 
+meal-time significantly impact the 
+paltusotine PK, and was higher (by 
+approximately 2-fold) when a meal 
+was consumed 4 h postdose relative 
+to 1 h postdose (Figure 24). 
+AUCss was approximately 6-40% 
+lower when coadministered with a PPI 
+(Figure 27). 
+Derive exposure 
+metrics for 
+exposure-
+response 
+analyses 
+Cmin, Cmax, AUC 
+The Applicant’s final model is 
+generally acceptable for generating 
+exposure metrics for exposure-
+response analyses. 
+Source: Reviewer generated table 
+Abbreviations: AUC, area under the concentration-time curve; AUCss, AUC from 0 to 24 hours on the last day of exposure; Cmax, 
+maximum plasma concentration; Cmin, minimum plasma concentration; eGFR, estimated glomerular filtration rate; PK, 
+pharmacokinetic; PPI, proton-pump inhibitor; UGT1A1, uridine diphosphate glucuronosyltransferase 1A1 
+Reference ID: 5665631
+
+
+===== PAGE 257 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+233 
+Integrated Review Template, version 4.0 (11/1/23) 
+balance study indicated 38% fm by UGT enzymes in paltusotine clearance (Figure 40), and 
+fmUGT1A1 and fmUGT1A9 were estimated to be 29.3% and 3.38%, respectively. 
+Reviewer’s comment: The assigned fmUGT values based on in vitro and mass balance data are 
+acceptable, as the simulated CL/F and AUC0₋∞ differences between UGT1A1 intermediate 
+metabolizers, poor metabolizers, and extensive metabolizers align with the clinical results. 
+Assigning a P-gp-Mediated Pathway 
+The absorption mechanism of paltusotine is complex. Once the metabolism pathways were 
+quantified by the in vitro and clinical data, extensive efforts were made to quantify the 
+absorption parameters. In vitro data and modeling (i.e., SIVA and MechPeff model) were used to 
+estimate the dissolution and permeability parameters. P-gp Jmax and Km were estimated by fitting 
+the Caco-2 permeability data in the SIVA model, and a relative expression factor (REF) of 5 was 
+optimized to fit the cyclosporine DDI results. 
+Reviewer’s comment: The absorption mechanism for paltusotine is complex. To recover the 
+observed absorption profiles, the Applicant set the colon absorption scalar to 0.01 and manually 
+fitted two different sets of absorption factors to describe paltusotine PK following a meal at 1 h 
+and 4 h postdose, respectively (referred to as the 1 h-post and 4 h-post models). In the IR 
+response dated January 28, 2025, the Applicant acknowledged that the mechanism underlying 
+the negative food effect is unknown. Optimization of these absorption rate scalars was empirical 
+and lacked a physiological rationale. Given the unknown mechanism for the time/food effect, 
+uncertainty remains when using the model to predict local GI concentrations. 
+Limitations were also identified in using the carbamazepine DDI data to evaluate UGT- and P-
+gp–mediated pathways (described below). As the P-gp Jmax and Km parameters were derived 
+from in vitro data and cyclosporine DDI studies, the cyclosporine data do not represent an 
+independent validation dataset. Furthermore, no documented clinical validation of the 
+cyclosporine model with a sensitive P-gp substrate was provided in the Applicant’s 
+documentation. The Reviewer also noted that paltusotine reduced cyclosporine exposure by 
+~40% via an unknown mechanism. 
+Overall, although the model can qualitatively inform paltusotine absorption and potential 
+transporter interactions based on plasma PK, its ability to predict enterocyte concentrations and 
+prospectively assess P-gp inhibition risk is limited. 
+Validation With Carbamazepine DDI 
+The paltusotine PBPK model was verified using the carbamazepine DDI to support the roles of 
+P-gp, CYP3A4, and UGT1A1 in paltusotine absorption and metabolism. The default 
+carbamazepine PBPK model was modified as follows: 
+ fa was increased from 0.84 to 1 to fit the observed carbamazepine data in Study 
+CRN00808-15. 
+ Included induction parameters for UGT1A1 based on in vitro mRNA data . The Indmax and 
+IndC50 values were also applied to UGT1A1 and UGT1A9, assuming equal induction 
+potential for UGT1A9 in the absence of data. 
+ Assigned an Indmax of 2.5 to intestinal P-gp based on the 2.5-fold mRNA induction measured 
+in duodenum samples from healthy subjects treated with carbamazepine (Brueck et al. 2019). 
+Reference ID: 5665631
+
+
+===== PAGE 259 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+235 
+Integrated Review Template, version 4.0 (11/1/23) 
+paltusotine PBPK model includes the CYP3A TDI parameters, which were optimized based on 
+midazolam DDI data (Table 129). 
+Table 131. Simulated and Observed Cmax and AUC of Paltusotine After Single 20 to 120 mg-Oral 
+Doses, With a Meal Administered 1 Hour or 4 Hours Postdose 
+Table No. in 
+PBPK 
+Report 
+Dose 
+Scenario 
+Observed 
+Simulated 
+Cmax 
+(ng/mL) 
+AUC0-inf 
+(ng·h/mL) 
+Cmax 
+(ng/mL) 
+AUC0-inf 
+(ng·h/mL) 
+10 
+20 mg SD 4 h postdose 
+89 
+1619 
+83.7 
+1972 
+13 
+40 mg SD 1 h postdose 
+153 
+1601 
+121 
+1817 
+16 
+40 mg SD 4 h postdose 
+166 
+3780 
+193 
+3897 
+15 
+60 mg SD 1 h postdose 
+284 
+2400 
+193 
+2209 
+16 
+60 mg SD 4 h postdose 
+276 
+4801 
+284 
+5756 
+18 
+60 mg SD 4 h postdose 
+345 
+5260 
+281 
+6044 
+17 
+80 mg SD 1 h postdose 
+244 
+3241 
+266 
+3973 
+17 
+120 mg SD 1 h postdose 
+610 
+6750 
+396 
+6835 
+Reference: Summarized by the Reviewer from the PBPK Modeling Report 
+Abbreviations: AUC0-inf, area under the concentration-time curve extrapolated to infinite time; Cmax, maximum plasma concentration; 
+PBPK, physiologically based pharmacokinetic; SD, standard deviation; TDI 
+Figure 42 compares simulated and observed plasma concentration–time profiles of paltusotine 
+following 60 mg QD for 7 days in healthy subjects who received a meal 1 h postdose. 
+Figure 42. Linear (A) and Log-Linear (B) Simulated and Observed Mean Plasma PK Profiles of 
+60 mg-Paltusotine QD in Healthy Subjects Given a Meal 1 Hour Postdose 
+A 
+B 
+ 
+Source: Figure 20, PBPK report 
+Circles; observed data (#CRN00808-15 cohort 4). Gray lines, 5th and 95th percentiles; solid black line; mean data for the simulated 
+population (n=130). 
+Abbreviations: log, logarithm; n, number of subjects; PBPK, physiologically based pharmacokinetic; PK, pharmacokinetic; QD, once 
+daily 
+DDI Scenarios 
+The Applicant's PBPK analysis can describe the observed changes in paltusotine exposure when 
+paltusotine was administered with carbamazepine (Study 00808-15, Cohort 1) and cyclosporine 
+(Study 00808-15, Cohort 3). In the DDI study (Study 00808-15), subjects were requested to fast 
+for 4 h after dosing with paltusotine. When paltusotine was coadministered with carbamazepine 
+and/or cyclosporine, subjects were to follow the same pre- and postdose fasting schedule as with 
+paltusotine alone. Thus, the 4 h-post paltusotine PBPK model was used to simulate DDI effects. 
+Table 132 and Table 133 compare the simulated and observed Cmax and AUC ratios of 
+Reference ID: 5665631
+
+
+===== PAGE 260 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+236 
+Integrated Review Template, version 4.0 (11/1/23) 
+paltusotine with or without carbamazepine and/or cyclosporine. Refer to Section 14.6 for a 
+discussion of the validation of pathway-specific clearance. 
+Table 132. Simulated and Observed Geometric Mean AUC and Cmax Values Following a Single Oral 
+Dose of 40 mg-Paltusotine in the Absence and Presence of Cyclosporine in Healthy Subjects 
+ 
+Source Table 18, Applicant’s PBPK report 
+The 4-h-post paltusotine PBPK model was used in the simulation. 
+Abbreviations: AUC0-inf, area under the concentration-time curve extrapolated to infinite time; CI, confidence interval; Cmax, maximum 
+plasma concentration; DDI, drug-drug interaction; GMR, geometric mean ratio; Geo CV, geometric coefficient of variation; N, 
+number of subjects; PBPK, physiologically based pharmacokinetic; S/O, ratio simulated/observed 
+Table 133. Simulated and Observed Geometric Mean AUC and Cmax Values Following a Single Oral 
+Dose of 60 mg-Paltusotine in the Absence and Presence of Carbamazepine in Healthy Subjects 
+ 
+Source Table 18, Applicant’s PBPK report 
+The 4-h-post paltusotine PBPK model was used in the simulation. 
+Abbreviations: AUC0-inf, area under the concentration-time curve extrapolated to infinite time; CI, confidence interval; Cmax, maximum 
+plasma concentration; DDI, drug-drug interaction; GMR, geometric mean ratio; Geo CV, geometric coefficient of variation; N, 
+number of subjects; PBPK, physiologically based pharmacokinetic; S/O, ratio simulated/observed 
+Can PBPK Modeling Predict the Effect of a Moderate CYP3A Inducer on the Paltusotine 
+PK Profiles? 
+Yes. PBPK analysis can be used to support dose modification of paltusotine when 
+coadministered with moderate CYP3A inducers. PBPK analysis predicted that efavirenz (default 
+Simcyp model; without considering UGT or P-gp induction) could reduce paltusotine AUC and 
+Cmax by approximately 30% and 5%, respectively, when multiple doses of paltusotine (40 to 
+120 mg once daily) and efavirenz (600 mg once daily) are coadministered (Table 134). 
+Reference ID: 5665631
+
+
+===== PAGE 261 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+237 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 134. Simulated Steady-State AUC and Cmax Values for Paltusotine in the Absence and 
+Presence of Efavirenz in Healthy Subjects 
+ 
+Source: Table 28, Applicant’s PBPK report 
+Abbreviations: AUC0-tau, area under the concentration-time curve during the dosing interval; Cmax, maximum plasma concentration; 
+GMR, geometric mean ratio; QD, once daily; AUC0-tau,inh, area under the plasma concentration–time curve of the inhibited drug over 
+the dosing interval; Cmax, inh, maximum plasma concentration of the inhibited drug  
+Several review activities were conducted by the Reviewer and are summarized below. 
+Effects of Oral Absorption Parameters on the Simulated DDI Results 
+In the response to an IR dated June 25, 2025, the Applicant conducted a sensitivity analysis to 
+evaluate the impact of colon absorption scalar on CYP3A4- and P-gp-mediated DDI. As shown 
+in Figure 43, colon absorption scalars ranging from 0.01 (model value) to 1 (default) had minor 
+effects on the predicted AUC ratio and no effect on the Cmax ratio. 
+Reference ID: 5665631
+
+
+===== PAGE 262 =====
+
+NDA 219070 
+PALSONIFY (paltusotine) 
+238 
+Integrated Review Template, version 4.0 (11/1/23) 
+Figure 43. Sensitivity Analysis of Colon Absorption Scalar on AUC (Left) and Cmax (Right) Ratios 
+on Cyclosporine and Carbamazepine 
+AUC ratio 
+Cmax ratio 
+ 
+ 
+Source: Figure 2, Information Request response dated June 25, 2025 
+In the June 25, 2025, IR response, the Applicant simulated and compared the simulated DDI effects using 1 h-post and 4 h-post 
+models. As shown in Table 135, the results were comparable to those in Table 53 (carbamazepine) and Table 134 (efavirenz). 
+Abbreviations: AUC, area under the concentration-time curve; BID, twice daily; Cmax, maximum plasma concentration 
+Table 135. Simulated and Observed Geometric Mean AUC and Cmax Following a Single Oral Dose 
+of 40 mg-Paltusotine in the Absence or Presence of Carbamazepine and Efavirenz in Healthy 
+Subjects 
+ 
+Source: Table 1, Information Request response dated June 25, 2025, in which the 1 h-post PBPK model was used in the simulation 
+Abbreviations: AUC0-inf, area under the concentration-time curve extrapolated to infinite time; BID, twice daily; CI, confidence 
+interval; Cmax, maximum plasma concentration; GMR, geometric mean ratio; QS, once daily; AUC0-tau,inh, area under the plasma 
+concentration–time curve of the inhibited drug over the dosing interval; Cmax, inh, maximum plasma concentration of the inhibited drug  
+Reference ID: 5665631

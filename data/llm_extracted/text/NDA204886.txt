@@ -1,0 +1,630 @@
+
+
+===== PAGE 99 =====
+
+6 
+ 
+1.3. Summary of Important Clinical Pharmacology and Biopharmaceutics Findings 
+ 
+The key findings are listed below. 
+ 
+Pharmacokinetics: 
+ 
+• Following oral administration, median Tmax for vorapaxar is 1 to 2 h. The disposition is biphasic, 
+characterized by a relatively faster distribution and slow terminal elimination [t1/2 = 7 to 11 
+days]. The absolute bioavailability as estimated by a microdosing study is ~ 100%. 
+  
+• The steady state is attained by day 21 [earliest available PK] following repeat once-daily dosing 
+regimen. The accumulation at steady state for vorapaxar is 5- to 6-fold. The effective half-life 
+based on accumulation at steady state is 3 to 4 days. 
+ 
+• The monohydroxy metabolite M20, is active as shown by inhibition of calcium efflux in human 
+coronary artery smooth muscle cells with similar potency to that of vorapaxar. Exposure of M20 
+was in the range of 8% to 29% of vorapaxar across Phase 1 studies. The concentration-time 
+course of M20 generally mirrors that of vorapaxar, suggesting M20 is formation rate-limited.  
+ 
+• Vorapaxar is extensively metabolized followed by excretion in urine and feces. Based on a mass 
+balance study, <2% of vorapaxar is excreted unchanged in feces and none in urine.  
+ 
+Pharmacodynamics: 
+ 
+• Vorapaxar inhibits platelet aggregation induced by thrombin receptor activating peptide [TRAP].  
+Following repeat oral doses of 2.5 mg once-daily, the onset of platelet inhibition [i.e., <10% 
+aggregation relative to baseline] is projected to be achieved by day 2. Time to offset platelet 
+inhibition is relatively slow with ~50% of platelet function recovered by 4 weeks post-last dose.  
+ 
+PK/PD: 
+ 
+• Vorapaxar demonstrates a steep exposure-platelet inhibition relationship. Over a narrow range of 
+vorapaxar concentration [~1 to 5 ng/mL], the TRAP-induced platelet aggregation changes from 
+non-effect to maximal inhibition. 
+ 
+• Based on population PK and PK//PD data from Phase 1, 2 and 3 studies, 2.5 mg vorapaxar 
+sulfate administered once-daily is predicted to achieve the target engagement i.e., ≥ 80% platelet 
+inhibition in almost all patients by day 7.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 3423073
+
+
+===== PAGE 100 =====
+
+7 
+ 
+Impact of intrinsic factors: 
+ 
+• Based on an increased risk of bleeding [hazard ratio (HR) = 1.87; GUSTO severe or moderate 
+bleeding events] and potential lack of benefit [HR = 1.28; primary efficacy MACE endpoint] for 
+vorapaxar in patients with body weight < 60 kg, the use of vorapaxar should be avoided in this 
+subgroup.  
+    
+• Though vorapaxar is extensively metabolized, the results of a dedicated hepatic impairment 
+study showed that the pharmacokinetics of vorapaxar was not significantly impacted. It should 
+be noted that one subject from the severe hepatic impairment group in the dedicated study 
+experienced severe gastrointestinal hemorrhage secondary to esophageal varices. As severe 
+hepatic impaired subjects are predisposed to a higher risk of bleeding due to compromised 
+coagulatory state, the use of vorapaxar should be avoided in this subgroup. 
+ 
+• Renal impairment does not affect the pharmacokinetics of vorapaxar. No dose-adjustment is 
+proposed in patients with renal impairment.  
+ 
+Impact of extrinsic factors: 
+ 
+• Vorapaxar is metabolized by CYP3A4 and CYP2J2. Inhibition or induction of these enzymes 
+may affect the systemic exposures to vorapaxar. 
+ 
+• Upon repeat co-administration, ketoconazole, a strong CYP3A inhibitor, increases the systemic 
+exposures to vorapaxar by 2-fold, while rifampin, a strong CYP3A inducer, decreases the 
+systemic exposure to vorapaxar by 55%. The efficacy or bleeding risk for a change in exposure 
+of this magnitude is not known due to the absence of concentration-outcome relationship. 
+Further, concomitant administration of these drugs with vorapaxar was excluded in the phase 3 
+studies. Therefore, avoid use of vorapaxar with strong inhibitors or inducers of CYP3A. 
+ 
+• The phase 3 trial allowed the use of mild and moderate CYP3A inhibitors. The bleeding risk of 
+vorapaxar in the patients concomitantly receiving these drugs was similar to the control group. 
+No dose adjustments are required when used with mild or moderate CYP3A inhibitors. 
+ 
+• The role of vorapaxar as a perpetrator is low. There is no PK or PD interaction between 
+vorapaxar and digoxin, warfarin, and rosiglitazone.  
+ 
+• Co-administration with a high fat meal, or an antacid, or a proton pump inhibitor [PPI], has a 
+modest impact on the rate of absorption of vorapaxar, but does not significantly alter the extent 
+of absorption. No dose-adjustments are required.  
+ 
+Biopharmaceutics: 
+ 
+• Vorapaxar sulfate converts partially to the amorphous free base upon manufacturing and storage. 
+A pivotal bioequivalence study was performed to evaluate the impact of the base content in the 
+batches used in Phase 3 trial on PK. The low base product [23%] and high base product [46%] 
+were bioequivalent in the presence of a PPI [worst case scenario].  
+Reference ID: 3423073
+
+
+===== PAGE 107 =====
+
+14 
+ 
+analysis outlined by the applicant, i.e., the lack of individual exposure and the assumption of 
+balanced distribution of other risk factors among the subgroups. This highlights the fact that the 
+population PK model from Phase 1 and 2 studies cannot entirely alleviate the need for sparse PK 
+sample collection in Phase 3, for the evaluation of exposure-response relationship.    
+ 
+2.3.3. What are the characteristics of the exposure-response relationship for safety? 
+ 
+The applicant conducted an exploratory exposure-bleeding analysis based on a similar approach 
+described under [Q. 2.3.2]. An upward trend was observed in the overall population, suggesting 
+higher bleeding risk was associated with higher drug exposure. Despite the limitations of this 
+analysis as outlined by the applicant [the lack of individual exposure and the assumption of 
+balanced distribution of other risk factors among the subgroups], such a relationship is 
+considered reasonable and is consistent with other drugs with similar mechanism of action. This 
+relationship may be partially responsible for the observed higher risk of bleeding in the subgroup 
+of patients with body weight < 60 kg [HR = 1.87 in patients with body weight < 60 kg versus 
+1.48 in patients with body weight ≥ 60kg, ITT population] because higher drug exposure was 
+observed in patients with lower body weight. 
+ 
+2.3.4. Does this drug prolong the QT or QTc interval? 
+ 
+No, vorapaxar does not appear to prolong QTc interval. Please refer to the QT-IRT review 
+[DARRTS date: 11/29/2010].  
+ 
+ 
+2.4. Pharmacokinetics 
+ 
+2.4.1. What are the single- and multiple-dose PK parameters? 
+ 
+The pharmacokinetics of vorapaxar was evaluated following a single dose range of 0.25 to 120 
+mg as well as following once daily repeat administration of 1 to 5 mg up to 28 days in healthy 
+volunteers. Upon oral administration, the median Tmax of vorapaxar was 1 to 2 h.  This was 
+followed by a relatively faster distribution and a slow terminal elimination phase. The mean 
+apparent clearance [CL/F] and volume of distribution [Vd/F] of vorapaxar is 2.2 L/h [CV%=32] 
+and 634 L [CV%=43], respectively. The mean terminal elimination half-life of vorapaxar is 
+about 7 to 11 days across Phase 1 studies. However, based on the accumulation ratios at steady 
+state which ranged from 4.7 to 6.4, the effective half-life can be estimated to be about 3 to 4 
+days. Upon once-daily dosing, steady state exposures of vorapaxar are achieved by day 21 
+[earliest available PK].  
+ 
+Pharmacokinetics of M20 was evaluated following a single dose of 120 mg and repeat doses of 
+2.5 mg vorapaxar sulfate [once-daily, 42 days]. The median time to reach peak concentration 
+was 4 h post-dose with the elimination phase of the concentration-time course mirroring that of 
+the parent drug, vorapaxar [Fig. 3]. This suggests that M20 is a formation rate-limited 
+metabolite, where the rate of elimination of the metabolite is faster than the rate at which it is 
+formed. Across Phase 1 studies where M20 was quantified, the exposure to M20 was in the range 
+of 8% to 29% to that of vorapaxar.  
+Reference ID: 3423073
+
+
+===== PAGE 109 =====
+
+16 
+ 
+2.4.3. What are the characteristics of drug absorption? 
+ 
+The absolute oral bioavailability of vorapaxar evaluated using a microdosing technique is ~ 
+100%. Co-administration with a high fat meal, or an antacid, or a proton pump inhibitor, has a 
+modest impact on the rate of absorption of vorapaxar, but does not significantly alter the extent 
+of absorption [Table 3].  
+ 
+Table 3: Impact of a high fat meal, an antacid and proton pump inhibitor on the PK measures of 
+vorapaxar 
+ 
+Cmax 
+AUC0-72 h 
+Tmax 
+Standardized high fat meal 
+↓21% 
+↓3% 
+delayed by 45 min 
+20 mL Gaviscon®  
+↓38% 
+↓11%a  
+delayed by 60 min 
+ 40 mg Pantoprazoleb  
+↓15% 
+↓10% 
+No change 
+a AUC0-t 
+b 7 day pretreatment with pantoprazole before vorapaxar administration 
+ 
+ 
+2.4.4. What are the characteristics of drug distribution? 
+ 
+Vorapaxar is widely distributed with a volume of distribution of 379 L. The protein binding 
+[predominantly to serum albumin] of vorapaxar and M20 as determined using equilibrium 
+dialysis is high [≥ 99%]. The binding of vorapaxar to plasma proteins is not concentration 
+dependent in the range 40 to 10,000 ng/mL. The mean blood-to-plasma ratio of vorapaxar is 
+0.60, indicating limited partitioning into red blood cells. 
+  
+2.4.5. Does the mass balance study suggest renal or hepatic as the major route of 
+elimination? 
+ 
+Vorapaxar is eliminated mainly by metabolism followed by excretion in urine and feces. 
+Following oral administration of 14C-vorapaxar sulfate solution, only 39.2% [35% in feces, 4.2% 
+in urine] of the administered dose was recovered in 7 days. Metabolite profiling showed that 
+vorapaxar and M20 are the primary circulating moieties in plasma. Vorapaxar was not detected 
+unchanged in urine in the 7 day collection period, suggesting that renal clearance of vorapaxar is 
+low. Vorapaxar appears to be extensively metabolized followed by excretion of vorapaxar 
+[minor, < 2%] and the metabolites [major] predominantly in feces [Table 4]. When the 
+radioactivity recovery period was extended to 6 weeks, 83.5% [58.4% in feces, 25.1% in urine] 
+of administered dose was recovered, however, metabolite profiling was not performed in this 
+study [P07045]. 
+   
+Reference ID: 3423073
+
+
+===== PAGE 112 =====
+
+19 
+ 
+2.4.9. What is the inter- and intra-subject variability of PK parameters in healthy 
+volunteers and patients, and what are the major causes of variability? 
+ 
+The between subject variability in the PK measures i.e., Cmax and AUC0-τ as observed across 
+individual Phase 1 healthy volunteer studies is in the range of 15% to 40% for vorapaxar and 
+30% to 50% for M20, expressed as percent coefficient of variation. The between subject 
+variability in the PK parameters of vorapaxar i.e., CL/F, Vc/F and Vp/F based on the final 
+population PK model is 30%, 45% and 42%, respectively. Based on the results of a 
+bioequivalence study [P06558] which employed a crossover design, the within subject variability 
+of vorapaxar is estimated to be 6% and 14% for AUC0-72h and Cmax, respectively.  
+ 
+ 
+2.5. Pharmacodynamics 
+ 
+2.5.1. What are the PD characteristics of the drug? 
+ 
+Inhibition of platelet aggregation induced by 15 µM TRAP was the primary pharmacodynamic 
+measure in the vorapaxar development program. Vorapaxar was shown not to inhibit platelet 
+aggregation in response to adenosine diphosphate [ADP]. The PD characteristics of vorapaxar 
+were evaluated in a dedicated study following repeat doses of 1, 3 and 5 mg once-daily for 28 
+days. A dose dependent inhibition in platelet aggregation was observed at 24 hours following the 
+first dose. The 3 mg dose group showed 70 to 80% platelet inhibition by 24 h post-dose [Fig. 6]. 
+On the next available sampling time point i.e., day 7, all the dose groups including 1 mg showed 
+<10% platelet aggregation relative to baseline and continued at maximal inhibition through 
+vorapaxar dosing period. Based on this data, following 2.5 mg once-daily, >90% inhibition of 
+platelet aggregation can be expected 48 hours after the start of the treatment.  
+ 
+Relative to the onset of pharmacodynamic effect, complete recovery of the platelet function upon 
+drug discontinuation takes a long time. In the same study [P03450], after 28 days of stopping 
+treatment, complete recovery of platelet function was not achieved in any of the dose groups by 
+week 4. The mean % platelet aggregation relative to baseline was 84%, 43% and 4% for the dose 
+groups 1, 3 and 5 mg, respectively at week 4 post-drug discontinuation [Fig. 6]. It took about 6 
+weeks for 90% of the subjects to recover to at least 50% platelet function at baseline for the 3 mg 
+dose group and ~9 weeks for the 5 mg dose group. 
+Reference ID: 3423073
+
+
+===== PAGE 113 =====
+
+20 
+ 
+ 
+ 
+Figure 6: Onset and offset of pharmacodynamic effect following repeat doses of 1 and 3 mg 
+vorapaxar sulfate [once-daily, 28 days] in healthy volunteers 
+ 
+ 
+2.6. Intrinsic Factors 
+ 
+2.6.1. What intrinsic factors influence exposure and/or response, and what is the impact of 
+any differences in exposure on efficacy or safety responses? 
+ 
+Vorapaxar is extensively metabolized, thus suggesting that impairment in hepatic function might 
+impact the pharmacokinetics of vorapaxar. 
+  
+Hepatic impairment: The effect of hepatic impairment on the PK of vorapaxar was assessed 
+following administration of a single dose of 40 mg vorapaxar sulfate in subjects with mild 
+[Child-Pugh A], moderate [Child-Pugh B] and severe [Child-Pugh C] hepatic impairment versus 
+matched healthy volunteers. The results appeared to show a trend towards lower systemic 
+exposures with increasing severity of hepatic impairment [Fig. 7]. The modest decrease in extent 
+of absorption is driven by decrease in peak concentration, while the elimination half-life was 
+similar [data not shown]. The pharmacokinetics of M20 was not affected by impairment in 
+hepatic function.  The metabolite-to-parent ratio across all groups of hepatic impairment and the 
+matched healthy volunteers was similar [19 to 26%]. Pharmacodynamics or protein binding was 
+not measured in this study. 
+  
+One subject from the severe hepatic impairment group experienced severe gastrointestinal 
+hemorrhage secondary to esophageal varices, which was considered a serious adverse event with 
+possible relationship to vorapaxar administration. Patients with severe hepatic impairment are 
+Reference ID: 3423073
+
+
+===== PAGE 115 =====
+
+22 
+ 
+Age, Gender, Race:  
+ 
+The applicant conducted a population PK study that characterized the PK profile of vorapaxar in 
+healthy volunteers and patients. Effect of covariates such as health status [healthy versus 
+patients], body weight, age, sex, race, and creatinine clearance on key PK parameters was also 
+explored [Fig. 8]. 
+ 
+Results demonstrated that health status [healthy versus patients], gender, race and renal function 
+had modest effects on vorapaxar exposure. But due to the high correlation among these 
+demographic covariates, body weight may be the underlying driver for other covariates. Low 
+body weight [< 60 kg] and high body weight [> 100 kg] patients have 33% [90% CI: 28% - 38%] 
+higher and 19% [90% CI: 16% - 22%] lower steady state AUC, respectively, than typical 
+patients weighing 60 to 100 kg. Since females and Asians tend to have lower body weight 
+compared to male and White patients, exposures in females were estimated to be 32% [90% CI: 
+26% - 40%] higher than those in male patients and exposures were estimated to be 22% [90% 
+CI: 16% - 30%] higher in Asian patients and 19% [90% CI: 13% - 24%] lower in Black patients 
+relative to exposures in White patients. Patients were estimated to have 14% [90% CI: 10% - 
+17%] lower steady state AUC compared to healthy volunteers. Except body weight [which is 
+discussed further] no other covariates require dose-adjustments. 
+ 
+ 
+ 
+Figure 8: Impact of intrinsic factors on the PK measures of vorapaxar estimated using 
+population PK model 
+ 
+ 
+Reference ID: 3423073
+
+
+===== PAGE 116 =====
+
+23 
+ 
+Body weight: 
+ 
+The increased drug exposure in lighter patients and the exposure-bleeding relationship provided 
+a clear pharmacological justification to look into the safety subgroup analysis based on body 
+weight. A subgroup analysis of the overall population from TRA2°P - TIMI 50 for GUSTO 
+severe or moderate bleeding events showed that the hazard ratio between vorapaxar and placebo 
+was 1.87 [95% CI: 1.19-2.94] in patients with body weight < 60 kg while it was estimated to be 
+1.48 [95% CI: 1.28-1.73] in patients with body weight ≥ 60 kg patients. The larger point estimate 
+of HR for the lighter patients suggested that the increased bleeding risk of vorapaxar relative to 
+placebo was even higher [87%] in lighter patients when the hazard of bleeding was already 48% 
+higher for vorapaxar relative to placebo in heavier patients. 
+  
+Individual steady state AUC was calculated based on the population PK model for vorapaxar. 
+The median steady state AUC of vorapaxar in patients with body weight < 60 kg was 48% higher 
+than that in patients with body weight ≥ 60 kg. In addition, the lighter patients included more 
+elderly and female patients [Table 5]. Therefore, higher vorapaxar exposure, older age, and 
+higher percentage of female patients all contributed to the higher bleeding risk of vorapaxar 
+relative to placebo in patients with body weight < 60 kg. Exclusion of patients with prior history 
+of stroke/TIA reduced the percentage of patients with body weight < 60 kg [Table 5]. However, 
+the higher bleeding risk in patients with body weight < 60 kg was still evident as indicated by the 
+HR of 1.78 [95% CI: 0.85-3.74] for GUSTO severe or moderate bleeding events even within the 
+proposed label population. The wide confidence interval was due to the small sample size in this 
+subgroup [N=857]. The median steady state AUC of vorapaxar in patients with body weight < 60 
+kg was 49% higher than that in patients with body weight ≥ 60 kg in the proposed label 
+population. 
+ 
+Table 5: The distribution of elderly and female patients in weight based subgroups: overall and 
+proposed label population 
+Weight 
+Group 
+[kg] 
+Age > 65 
+Age > 75 
+Female 
+Overall 
+Plc 
+Vor 
+Plc 
+Vor 
+Plc 
+Vor 
+Plc 
+Vor 
+Overall population 
+<60 
+53% 
+56% 
+23% 
+24% 
+68% 
+68% 
+7% 
+7% 
+≥60 
+36% 
+37% 
+11% 
+10% 
+21% 
+21% 
+93% 
+93% 
+ 
+Proposed label population 
+<60 
+40% 
+46% 
+15% 
+16% 
+68% 
+66% 
+5% 
+5% 
+≥60 
+28% 
+29% 
+7% 
+7% 
+17% 
+18% 
+95% 
+95% 
+Plc = Placebo; Vor = Vorapaxar 
+ 
+Given the increased risk of bleeding in patients with body weight < 60 kg, a reasonable benefit 
+on the efficacy endpoint should be demonstrated to justify the increased bleeding risk from a 
+risk/benefit perspective. However, the weight based subgroup analysis for the efficacy endpoint 
+showed that vorapaxar was almost statistically worse than placebo with a HR of 1.28 [95% CI: 
+0.95-1.73] in the overall population. 
+  
+To explore whether the results for the weight based subgroup analyses were due to chance, a 
+resampling procedure was used to randomly select 1852 patients from the overall population of 
+Reference ID: 3423073
+
+
+===== PAGE 121 =====
+
+28 
+ 
+ 
+Vorapaxar is not a substrate of P-glycoprotein [P-gp], but inhibited the transport of digoxin with 
+an IC50 of 1.2 µM. The steady-state peak plasma concentration following a one daily 
+administration of 2.5 mg vorapaxar sulfate is 0.11 µM.  This suggests that vorapaxar can 
+possibly act as a P-gp inhibitor at the intestinal level, but not systemically. An in vivo drug 
+interaction study with digoxin was conducted to validate the in vitro findings. 
+  
+The potential for vorapaxar being a substrate for OATP1B1, OATP1B3, BCRP, OAT1, OAT3 
+and OCT2 has not been evaluated. However, given the absence or very minimal renal and biliary 
+component in the clearance of vorapaxar, the potential for vorapaxar being a substrate is low. 
+Vorapaxar and M20 were also not potent inhibitors of these transporters and the interaction 
+liability is minimal.  
+ 
+2.7.2. What are the drug-drug interactions? 
+ 
+The applicant conducted 5 in vivo drug interaction studies to evaluate the impact of CYP3A 
+modulators [ketoconazole, rifampin] on the pharmacokinetics of vorapaxar and the effect of 
+vorapaxar on other concomitantly administered drugs [digoxin, warfarin, rosiglitazone, 
+prasugrel]. 
+ 
+Impact of CYP3A modulators on vorapaxar PK 
+ 
+The effect of 400 mg once-daily ketoconazole [strong CYP3A, weak CYP2J2, P-gp inhibitor] on 
+vorapaxar following first dose [20 mg, day 7] and at steady state [2.5 mg once-daily, day 28] was 
+evaluated. Following the first dose of co-administration of vorapaxar with ketoconazole, there 
+was no change in Cmax, but, a modest 20% increase in AUC0-τ of vorapaxar. However, upon 
+repeat administration of both vorapaxar and ketoconazole, there was a 2-fold increase in Cmax 
+and AUC0-τ as observed on day 28 [Fig. 10]. The effect of ketoconazole is consistent for a victim 
+drug with long half-life as observed by a marginal increase in exposure following the first dose 
+and significant increase in exposure at steady state. The plasma concentrations of M20 were not 
+measured in this study. 
+  
+Upon concomitant administration of 600 mg once-daily rifampin [strong CYP3A inducer], there 
+was no change in exposures following the first dose of vorapaxar. However, a 39% and 55% 
+decrease in Cmax and AUC0-τ, respectively at steady state were observed [Fig. 10]. The efficacy 
+or bleeding risk for a change in exposure of this magnitude [2-fold increase or 55% decrease] is 
+not known due to the absence of concentration-outcome relationship. Therefore, avoid use of 
+vorapaxar with strong inhibitors or inducers of CYP3A. 
+ 
+ 
+Reference ID: 3423073
+
+
+===== PAGE 122 =====
+
+29 
+ 
+ 
+ 
+Figure 10: Impact of ketoconazole and rifampin on the PK measures of vorapaxar at steady state 
+[day 21] 
+  
+There was no dedicated drug interaction study performed to evaluate the impact of mild or 
+moderate CYP3A inhibitors on the pharmacokinetics of vorapaxar. However, in TRA2°P - TIMI 
+50, 57% of the patients were on mild or moderate CYP3A inhibitors for a period of at least 7 
+days. An analysis of bleeding endpoints stratified by use of CYP3A inhibitors shows no increase 
+in bleeding events [data not shown]. Hence, co-administration of vorapaxar with mild or 
+moderate CYP3A inhibitors does not require dose-adjustments.  
+ 
+Impact of vorapaxar on other co-administered drugs 
+ 
+Digoxin: Upon administration of 2.5 mg vorapaxar sulfate on days 1 to 6 and co-administration 
+of digoxin 0.5 mg with vorapaxar sulfate 40 mg on day 7, showed that the Cmax of digoxin 
+increased by 50% with no change in AUC0-t. Hence, the potential for vorapaxar at clinically 
+relevant dose of 2.5 mg to interact with digoxin or other P-gp substrates is expected to be lower.  
+ 
+Warfarin, Rosiglitazone and Prasugrel: Dedicated in vivo interaction studies show that vorapaxar 
+does not alter the pharmacokinetics or pharmacodynamics of warfarin and rosiglitazone. There 
+was no pharmacokinetic interaction between prasugrel and vorapaxar.  The pharmacodynamic 
+interaction potential was not assessed in this study. Though we know that vorapaxar does not 
+affect platelet aggregation induced by ADP, this study would have informed if prasugrel affected 
+platelet aggregation induced by TRAP. 
+       
+2.7.3.  What extrinsic factors influence exposure and/or response, and what is the impact of 
+any differences in exposure on efficacy or safety responses? 
+ 
+Other extrinsic factors that may affect the systemic exposures to vorapaxar are (i) a high fat 
+meal, (ii) co-administration with an antacid, and (iii) co-administration with a proton pump 
+inhibitor. The impact of these factors has been addressed in response to Q. 2.4.3 and Q. 2.8.3. 
+ 
+ 
+ 
+ 
+Reference ID: 3423073
+
+
+===== PAGE 129 =====
+
+CLINICAL PHARMACOLOGY AND BIOPHARMACEUTICS 
+ FILING FORM/CHECKLIST FOR NDA/BLA or Supplement 
+ 
+ 
+hyperlinks and do the hyperlinks work? 
+ 
+Criteria for Assessing Quality of an NDA (Preliminary Assessment of Quality) 
+        Data 
+ 
+9 
+Are the data sets, as requested during pre-submission discussions, 
+submitted in the appropriate format (e.g., CDISC)?  
+X 
+ 
+ 
+ 
+10 If applicable, are the pharmacogenomic data sets submitted in the 
+appropriate format? 
+ 
+ 
+X 
+ 
+        Studies and Analyses 
+ 
+11 Is the appropriate pharmacokinetic information submitted? 
+X 
+ 
+ 
+ 
+12 Has the applicant made an appropriate attempt to determine reasonable 
+dose individualization strategies for this product (i.e., appropriately 
+designed and analyzed dose-ranging or pivotal studies)? 
+X 
+ 
+ 
+ 
+13 Are the appropriate exposure-response (for desired and undesired 
+effects) analyses conducted and submitted as described in the 
+Exposure-Response guidance? 
+X 
+ 
+ 
+ 
+14 Is there an adequate attempt by the applicant to use exposure-response 
+relationships in order to assess the need for dose adjustments for 
+intrinsic/extrinsic factors that might affect the pharmacokinetic or 
+pharmacodynamics? 
+X 
+ 
+ 
+ 
+15 Are the pediatric exclusivity studies adequately designed to 
+demonstrate effectiveness, if the drug is indeed effective? 
+ 
+ 
+X 
+ 
+16 Did the applicant submit all the pediatric exclusivity data, as described 
+in the WR? 
+ 
+ 
+X 
+ 
+17 Is there adequate information on the pharmacokinetics and exposure-
+response in the clinical pharmacology section of the label? 
+X 
+ 
+ 
+ 
+        General 
+ 
+18 Are the clinical pharmacology and biopharmaceutics studies of 
+appropriate design and breadth of investigation to meet basic 
+requirements for approvability of this product? 
+X 
+ 
+ 
+ 
+19 Was the translation (of study reports or other study information) from 
+another language needed and provided in this submission? 
+ 
+ 
+X 
+ 
+ 
+IS THE CLINICAL PHARMACOLOGY SECTION OF THE APPLICATION FILEABLE?  
+ 
+YES 
+ 
+ 
+Sudharshan Hariharan  
+ 
+06/12/2013 
+Reviewing Clinical Pharmacologist 
+ 
+ 
+ 
+ 
+ 
+Date 
+ 
+Raj Madabushi 
+06/12/2013 
+Team Leader/Supervisor 
+ 
+ 
+ 
+ 
+ 
+ 
+Date 
+Reference ID: 3325566

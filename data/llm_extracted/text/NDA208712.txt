@@ -1,0 +1,1672 @@
+
+
+===== PAGE 10 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+ix 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 78. Percentage of Dose for Pacritinib and Metabolites in Six Human Urine 
+Samples ......................................................................................................................137 
+Table 79. Percentage of Dose for Pacritinib and Metabolites in Six Human Fecal 
+Samples ......................................................................................................................138 
+Table 80. Summary of SB1518 Pharmacokinetic Parameters (Pharmacokinetic 
+Analysis Population) ..................................................................................................143 
+Table 81. Summary of the Fit of the Power Model to Cmax and AUC0­inf Versus Dose ..143 
+Table 82. Day 1 Pharmacokinetics: Phase 1 (All Enrolled Population) ..........................145 
+Table 83. Day 15 Pharmacokinetics: Phase 1 (All Enrolled Population) ........................146 
+Table 84. Summary of Pharmacokinetic Parameters: Day 1 (All Enrolled Population) .148 
+Table 85. Summary of Pharmacokinetic Parameters: Day 15 (All Enrolled 
+Population) .................................................................................................................149 
+Table 86. Summary of Pacritinib Pharmacokinetics Parameters .....................................152 
+Table 87. Summary of Inferential Statistical Analysis for Pacritinib Main PK 
+Parameters ..................................................................................................................152 
+Table 88. Summary of Pacritinib Pharmacokinetic Parameters ......................................155 
+Table 89. Summary of Inferential Statistical Analysis for Pacritinib Main PK 
+Parameters ..................................................................................................................156 
+Table 90. Summary of the Pharmacokinetic Parameters of Pacritinib Following 
+Administration of Pacritinib Alone and Coadministration With Clarithromycin ......159 
+Table 91. Statistical Analysis of Pharmacokinetic Data: Effect of Clarithromycin on 
+the Pharmacokinetics of Pacritinib ............................................................................159 
+Table 92. Summary of the Pharmacokinetic Parameters of Pacritinib Following 
+Administration of Pacritinib Alone and Coadministration With Rifampin ...............163 
+Table 93. Statistical Analysis of Pharmacokinetic Data: Effect of Rifampin on the 
+Pharmacokinetics of Pacritinib ..................................................................................163 
+Table 94. Schematic of the Crossover Design Study .......................................................164 
+Table 95. Summary of the Pharmacokinetic Parameters of Pacritinib Following 
+Administration of FMI (Test) Formulation and P3CT (Reference) Formulation ......165 
+Table 96. Statistical Analysis of Bioequivalence Data: Effect of Formulation on the 
+Pharmacokinetics of Pacritinib ..................................................................................167 
+Table 97. Summary Review of Bioanalytical Methods Measuring Pacritinib Acid and 
+Its Metabolite M1 in Human Urine ............................................................................167 
+Table 98. Summary Review of Bioanalytical Methods Measuring Pacritinib Acid and 
+Its Metabolite M1 in Human Plasma .........................................................................168 
+Table 99. Reviewer’s Specific Comments on the Population PK Model ........................171 
+Table 100. Summary of Clinical Studies Used in the Population Pharmacokinetic 
+Analysis......................................................................................................................172 
+Table 101. Summary of Baseline Demographic and Laboratory Characteristics ............173 
+Table 102. Parameter Estimates and OFV of the Applicant’s Base Model .....................174 
+Table 103. Covariates Tested in the Population Pharmacokinetic Analysis ...................175 
+Reference ID: 4944832
+
+
+===== PAGE 13 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+xii 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Figure 29. Equation for the Time-Dependent Change in Clearance ................................175 
+Figure 30. Covariates Tested in the Population Pharmacokinetic Analysis ....................175 
+Figure 31. Goodness-of-Fit of the Applicant’s Final PPK Model ...................................177 
+Figure 32. PcVPC of the Applicant’s Final PPK Model .................................................178 
+Figure 33. Individual Concentration-Time Profiles for Studies/Occasions Where Rich 
+PK Samples Were Collected Up to 336 Hours After a Single Dose .........................179 
+Figure 34. Individual Concentration-Time Profiles for Multiple and Single Dose 
+Studies With Rich PK Samples..................................................................................180 
+Figure 35. Goodness-of-Fit Plot of the Reviewer’s Alternative Final Model .................182 
+Figure 36. PcVPC of the Reviewer’s Alternative Final Model (Up to 336 Hours) .........183 
+Figure 37. PcVPC of the Reviewer’s Alternative Final Model (Up to 24 Hours) ...........183 
+Figure 38. Effects of Covariates on Pacritinib AUC0­Tau at Steady State ........................185 
+Figure 39. Effects of Covariates on Pacritinib Cmax at Steady State ................................186 
+Figure 40. Spleen Volume PKPD Model Structure .........................................................189 
+Figure 41. Goodness-of-Fit Plots of the Applicant’s Final Spleen Volume PKPD 
+Model .........................................................................................................................191 
+Figure 42. Visual Predictive Checks of the Applicant’s Final Spleen Volume PKPD 
+Model .........................................................................................................................191 
+Figure 43. Visual Predictive Checks of the Applicant’s Final Spleen Volume PKPD 
+Model .........................................................................................................................192 
+Figure 44. Goodness-of-Fit Plots of the Applicant’s Final TSS PKPD Model ...............193 
+Figure 45. Visual Predictive Checks of the Applicant’s Final TSS PKPD Model ..........194 
+Figure 46. Analysis Output of the Multivariate Logistic Regression Model for Spleen 
+Volume Responder Rates ...........................................................................................195 
+Figure 47. Model-Predicted Probability of Spleen Volume Response (≥35% SPV 
+Reduction by Week 24) by AUC Stratified by Prior Ruxolitinib Treatment ............196 
+Figure 48. Model-Predicted Probabilities of Safety Metrics by AUC and Cmax ..............197 
+Figure 49. Probability of SPV Response and Hemorrhage Versus AUC, Predicted by 
+the Applicant’s Logistic Regression Models for SPV Reduction and Hemorrhage ..198 
+Figure 50. Observed SPV Responder Rates Versus AUCs .............................................200 
+Figure 51. Goodness-of-Fit Plot of the Reviewer’s Final SPV PKPD Model .................202 
+Figure 52. Visual Predictive Check of the Reviewer’s Final SPV PKPD Model............202 
+Figure 53. Observed and Simulated Proportions of Responders at 100 mg BID and 
+200 mg BID................................................................................................................203 
+Figure 54. Observed Proportions of Responders in AUC Deciles Overlaid on the 
+Monte Carlo Simulated Proportion of Responders ....................................................204 
+Figure 55. Model-Predicted Probability of Adverse Events Versus AUC ......................205 
+Figure 56. Proportions of Hematological Disorders According to AUC Decile .............206 
+Figure 57. Observed Proportions of Hematological Disorders Overlaid on Model-
+Predicted Median Proportions and 95% Prediction Intervals ....................................207 
+Reference ID: 4944832
+
+
+===== PAGE 34 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+20 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Characteristic 
+Drug Information 
+Drug exposure at steady 
+state following the 
+therapeutic dosing 
+regimen (or single dosage, 
+if more relevant for the 
+drug) 
+Table 7. Pharmacokinetic Parameters of Pacritinib From the Population PK Model in Patients With 
+Myelofibrosis 
+Parameter 
+Geometric Mean (CV%) 
+Dose 
+AUC (µg·h/mL) 
+95.6 (33%) 
+200 mg BID 
+Cmax (µg/mL) 
+8.42 (32%) 
+200 mg BID 
+Source: Reviewer’s analysis. 
+Abbreviations: AUC, area under the plasma concentration-time curve; BID, twice daily; Cmax, maximum concentration; CV, coefficient of variation 
+Range of effective 
+dosage(s) or exposure 
+A dose-response relationship was established in the Phase 2 PAC203 study. The pacritinib 200 mg BID dose group 
+had a greater proportion of patients achieving 35% reduction in spleen volume reduction (SVR) at Week 24 
+compared to 100 mg QD and 100 mg BID dose groups. 
+Maximally tolerated 
+dosage or exposure 
+In two studies (PAC203 and PERSIST-2), administration of pacritinib 200 mg BID was generally well tolerated. In the 
+PERSIST-1 study, increased mortality, higher rates of serious bleeding events and heart failure were observed in the 
+pacritinib 400 mg QD arm compared to best available therapy (which includes (i) any physician-selected treatment 
+for primary myelofibrosis, post-polycythemia vera-myelofibrosis, or post-essential thrombocythemia-myelofibrosis, 
+with the exclusion of JAK2 inhibitors, and (ii) no treatment). 
+Dosage proportionality 
+Pacritinib pharmacokinetics increase in a less than dose-proportional manner over a range of 100 and 400 mg 
+(Study SB1518-2010-004). The ratios of AUC and Cmax between 400 mg and 100 mg were 2.47 and 1.87, 
+respectively. 
+Accumulation 
+Accumulation ratio for AUC in myelofibrosis patients at 200 mg BID: 2.69 
+Time to achieve steady-
+state 
+Steady-state PK was achieved within 1 week. 
+Bridge between to-be-
+marketed and clinical trial 
+formulations 
+No major changes to the composition of the pacritinib capsule formulation were introduced during clinical 
+development, except that a manufacturing site change for pacritinib active pharmaceutical ingredient was reported. A 
+Phase I study (PAC108) was conducted for bridging the Phase 3 Clinical Trial (P3CT) formulation (Reference) and 
+Final Market Image (FMI) formulation (Test) in healthy subjects. The bioequivalence of the two formulations was 
+demonstrated. 
+ 
+Absorption 
+Bioavailability 
+Pacritinib pharmacokinetics increase in a less than dose-proportional manner over a range of 100 and 400 mg 
+(Study SB1518-2010-004). The ratios of AUC and Cmax between 400 mg and 100 mg are 2.47 and 1.87, 
+respectively. 
+Tmax 
+The median Tmax was 5 hours (range 2-8 hours) when administered as two single 100 mg pacritinib capsules. 
+Food effect (fed/fasted) 
+Geometric least-squares 
+mean and 90% CI 
+Two 100 mg capsules of pacritinib taken with a high-fat, high calorie breakfast: (Study SB1518-2010-006) 
+Ratio of AUC0­∞ (%): 1.17 (1.10 to 1.23) 
+Ratio of Cmax (%): 1.11 (1.05 to 1.18) 
+Tmax (median): 5.5 hours (fasted) or 6 hours (fed)  
+Study was completed with the Phase II/III capsule which is similar to the to-be-marketed product 
+Based on these results, pacritinib can be taken regardless of food. 
+Reference ID: 4944832
+
+
+===== PAGE 35 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+21 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Characteristic 
+Drug Information 
+ 
+Distribution 
+Volume of distribution 
+Vss: 229 L (range: 156 to 591 L) in patients with myelofibrosis following 200 mg BID 
+Plasma protein binding 
+Pacritinib is mainly bound to albumin in human plasma and α1-acidic glycoprotein. The mean protein binding of 
+pacritinib in human plasma was 98.8% at 10 μg/mL (clinically relevant concentration). Pacritinib showed a 
+decreasing trend for plasma protein binding at higher concentrations; i.e., 97.7% (fu=2.3%) and 97.1% (fu=2.9%) at 
+25 and 50 μg/mL, respectively. 
+Drug as substrate of 
+transporters 
+In vitro drug transporter assessment showed that pacritinib was not a substrate for bile salt export pump (BSEP), P-
+glycoprotein (P-gp), organic-anion-transporting polypeptides1B1, OATP1B3, organic cation transporter 1 (OCT1), or 
+breast cancer resistance protein (BCRP). More detailed information on the substrate activity of pacritinib is 
+presented in Section III.14.1. 
+ 
+Elimination 
+Mass balance results 
+Following administration of 400 mg pacritinib (4×100 mg capsules)/100 μCi [14C]pacritinib (suspension), 6% of the 
+dose was recovered in urine and 87% was recovered in feces. A negligible amount of unchanged drug was excreted 
+in feces and urine. Two major metabolites, M1 (oxidation product) and M2 (O-dealkylation product), in human whole 
+plasma represented 9.6% and 10.5% of parent drug exposure, respectively. Based on an in vitro JAK2 inhibition 
+assay, M1 and M2 exhibited approximately 37% and 9% of the pharmacological activity of pacritinib, respectively. 
+Considering the relative exposure of the metabolites to pacritinib and their pharmacological activities, the two 
+metabolites are unlikely to play a significant role in the pharmacological activity of pacritinib. 
+Clearance  
+The mean (CV%) apparent plasma clearance for pacritinib following 200 mg is 1.08 L/h (44%). 
+Half-life  
+The mean terminal half-life (t1/2) is approximately 33.5 hours (range 22.3 to 44.6 hours). 
+Metabolic pathway(s) 
+In vitro studies demonstrated that pacritinib is predominantly metabolized by CYP3A4. 
+Primary excretion 
+pathways (% dosage)  
+Pacritinib undergoes virtually complete hepatic metabolism and the contribution of renal elimination is negligible. 
+ 
+Intrinsic Factors and Specific Populations 
+Body weight 
+Body weight is not a statistically significant covariate on pacritinib’s volume of distribution and clearance. 
+Age 
+Age is not a statistically significant covariate on pacritinib’s volume of distribution and clearance. 
+Renal impairment 
+Dose adjustment is not warranted in patients with any degree of renal impairment. Pacritinib Cmax and AUC were 
+similar in subjects with mild (eGFR 60-89 mL/min as estimated by MDRD study equation) and moderate (eGFR 30-
+59 mL/min) renal impairment compared to subjects with normal renal function (eGFR ≥90 mL/min). Compared to 
+subjects with normal renal function, pacritinib Cmax increased by 24% in severe (eGFR 15-29 mL/min) renal 
+impairment group and 33% in subjects with ESRD. AUC0-72h values increased by 31% and 25% in severe renal 
+impairment and subjects with ESRD, respectively. Because the magnitude of pacritinib exposure increase in severe 
+renal impairment and ESRD subjects is similar to the increase in exposure observed with 400 mg QD, a regimen 
+having unfavorable benefit-risk, the review team recommends avoiding use of pacritinib in patients with eGFR 
+<30 mL/min/1.73m2. 
+Reference ID: 4944832
+
+
+===== PAGE 36 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+22 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Characteristic 
+Drug Information 
+Hepatic impairment 
+Compared to subjects with normal hepatic function, pacritinib geometric mean AUC decreased by 8.5%, 36% and 
+45% in subjects with mild (Child-Pugh A), moderate (Child-Pugh B), or severe hepatic impairment (Child-Pugh C), 
+respectively. Pacritinib geometric mean Cmax decreased by 22%, 47% and 57% in subjects with mild, moderate, and 
+severe hepatic impairment, respectively, compared to subjects with normal hepatic function. The reason for the 
+decrease in pacritinib exposure in hepatic impairment is not well understood. Moreover, it should be noted that the 
+study was conducted with 400 mg and as such the results may not be extrapolated to the clinically relevant dose of 
+200 mg. Therefore, the review team recommends a postmarketing requirement to study the pharmacokinetics of the 
+200 mg dose in hepatic impairment and, in the meantime, avoiding use of pacritinib in patients with moderate and 
+severe hepatic impairment. 
+ 
+Drug Interaction Liability (Drug as Perpetrator) 
+Inhibition/induction of 
+metabolism 
+In vitro assessment demonstrated that pacritinib is a time-dependent inhibitor of cytochrome P450 (CYP)1A2 and 
+CYP3A4, a reversible inhibitor of CYP1A2, CYP3A4 and CYP2C19, and an inducer of CYP1A2 and CYP3A4. 
+Inhibition/induction of 
+transporter systems 
+In vitro assessment demonstrated that pacritinib is an inhibitor of P-gp, BCRP, and OCT1. 
+Source: Reviewer-generated table. 
+Abbreviations: AUC, area under the plasma concentration-time curve; BID, twice daily; CI, confidence interval; Cmax, maximum concentration; Cmin, minimum concentration; CV, 
+coefficient of variation; eGFR, estimated glomerular filtration rate; FMS, feline McDonough sarcoma; JAK, Janus-associated kinase; LC-MS/MS, liquid chromatography with tandem 
+mass spectrometry; MF, myelofibrosis; PK, pharmacokinetics; QD, once daily; QTcF, Fridericia’s corrected QT interval; STAT, signal transducer and activator or transcription; Tmax, 
+time to maximum concentration; Vss, volume at steady state 
+ 
+Reference ID: 4944832
+
+
+===== PAGE 92 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+78 
+Integrated Review Template, version 2.0 (04/23/2020) 
+8. Therapeutic Individualization 
+8.1. Intrinsic Factors 
+Renal Impairment 
+The review team recommends avoiding use of pacritinib in patients with an estimated glomerular 
+filtration rate (eGFR) <30 mL/min/1.73m2 (severe renal impairment and ESRD). The impact of 
+impaired renal function was determined by comparing the pharmacokinetics (PK) of pacritinib 
+following administration of a single 400 mg dose in subjects with mild (eGFR 60 to 89 mL/min 
+as estimated by the Modification of Diet in Renal Disease study equation), moderate (eGFR 30 
+to 59 mL/min), and severe (eGFR 15 to 29 mL/min) renal impairment and subjects with end-
+stage renal disease (ESRD) requiring hemodialysis to healthy subjects (eGFR ≥90 mL/min). In 
+subjects with ESRD, PK of pacritinib was characterized on- and off-dialysis. 
+Compared to subjects with normal renal function, pacritinib Cmax increased by 11% in mild and 
+moderate renal impairment groups, by 24% in severe renal impairment group and 33% in 
+subjects with ESRD. The AUC0-72h values increased by 7%, 17%, 31% and 25% in mild, 
+moderate, severe renal impairment and subjects with ESRD, respectively. PK of pacritinib was 
+similar between on- and off-dialysis in subjects with ESRD suggesting that pacritinib was not 
+removed by hemodialysis. The reason for changes in peak concentration of pacritinib with renal 
+impairment is not clearly understood. The modest change in total systemic exposures of 
+pacritinib in different renal impairment groups is consistent with the data that only trace amount 
+of drug is excreted unchanged in the urine. Nevertheless, the magnitude of increase in AUC with 
+severe renal impairment or ESRD subjects is similar to the increase in AUC with the 400 mg QD 
+regimen compared to 200 mg BID. In light of a potential unfavorable benefit-risk observed for 
+exposures that correspond to 400 mg QD, pacritinib should not be used in patients with eGFR 
+<30 mL/min/1.73m2 (severe renal impairment and ESRD). 
+Hepatic Impairment 
+A dedicated hepatic impairment study was conducted where participants with normal hepatic 
+function (N=8), mild hepatic impairment (Child Pugh A, N=8), moderate hepatic impairment 
+(Child Pugh B, N=8), and severe hepatic impairment (Child Pugh C, N=4) were given a single 
+400 mg dose of pacritinib (Study PAC105). The geometric mean AUC decreased by 8.5%, 36%, 
+and 45% in subjects with mild, moderate, or severe hepatic impairment compared to subjects 
+with normal hepatic function. The geometric mean Cmax decreased by 22%, 47%, and 57% in 
+subjects with mild, moderate, or severe hepatic impairment, compared to subjects with normal 
+hepatic function. Plasma protein binding could not be assessed in the samples collected in the 
+hepatic impairment study (Study PAC103) due to nonspecific binding of the drug. Comparison 
+of PK results between the groups is shown in Table 39. 
+The mechanistic reason(s) for the observed lower exposures in patients with hepatic impairment 
+is not clear. While the hepatic impairment study used a higher dose of 400 mg, it is evident that 
+this dose is sensitive to inhibition of hepatic function as demonstrated by the clarithromycin drug 
+interaction study (discussed in the subsequent section), also conducted using the 400 mg dose of 
+pacritinib. Therefore, the observed lower exposures in subjects with hepatic impairment may be 
+due to intrinsic factors in hepatically impaired subjects that alter gastrointestinal (GI) absorption. 
+Reference ID: 4944832
+
+
+===== PAGE 93 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+79 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Several publications have described that patients with hepatic impairment may have an altered 
+gastric environment, such as with bile salts, phospholipids, or osmolality, which may influence 
+the solubility of the drug and thus reduce absorption. Pacritinib has poor aqueous solubility and 
+shows dissolution-limited absorption. A 400 mg dose is closer to the saturable solubility limit 
+and it is plausible that reduced exposures in subjects with hepatic impairment could be due to 
+altered physiological conditions in the GI tract leading to impaired absorption. That said, it is not 
+clear whether the effect on absorption seen in subjects with hepatic impairment at a dose of 
+400 mg will translate to the clinically relevant dose of 200 mg. Therefore, in the absence of data 
+with a 200 mg dose, the review team recommends avoiding use of pacritinib in patients with 
+moderate and severe hepatic impairment. Moreover, the review team recommends a required 
+postmarketing trial to further characterize the PK of pacritinib in subjects with hepatic 
+impairment, including the option for a reduced design, at a clinically relevant dose of 200 mg. In 
+addition, due to the time-dependent inhibition potential of pacritinib towards CYP3A4 (see 
+below), the dedicated hepatic impairment study should be conducted following pacritinib 200 mg 
+BID dosed to steady state. 
+Table 39. Point Estimators (LS-Means) and Two-Sided 90% CIs for PK Parameters of Pacritinib in 
+Plasma After a Single Oral Dose of 400 mg 
+Parameter 
+Comparison 
+Ratio of Geometric LS Means (ANOVA) 
+PE 
+90% CI 
+Cmax (µg/mL) 
+ 
+ 
+Mild versus normal 
+78.3 
+60.9, 100.7 
+Moderate versus normal 
+53.2 
+41.4, 68.4 
+Severe versus normal 
+43.2 
+31.8, 58.8 
+AUC0­t (μg×h/mL) 
+ 
+ 
+Mild versus normal 
+91.5 
+65.6, 127.8 
+Moderate versus normal 
+64.1 
+45.9, 89.5 
+Severe versus normal 
+54.6 
+36.3, 82.2 
+AUC0­∞ (μg×h/mL) 
+ 
+ 
+Mild versus normal 
+88.7 
+58.3, 134.9 
+Moderate versus normal 
+54.3 
+33.1, 89.3 
+Severe versus normal 
+51.5 
+29.8, 89.2 
+Source: Table 8, page 41, PAC103 Report. 
+PE ratio and 90% CIs of the ratio of geometric LS means (ANOVA). 
+Abbreviations: ANOVA, analysis of variance; AUC, area under the plasma concentration-time curve; CI, confidence interval; 
+Cmax, maximum concentration; LS, least-squares; PE, point estimate; PK, pharmacokinetics 
+Other Intrinsic Factors 
+No clinically significant difference in the pharmacokinetics of pacritinib was observed based on 
+age, sex, race, and body weight. No dose adjustments are needed for these factors. 
+8.2. Drug Interactions 
+Metabolic Pathway 
+In vitro metabolism studies demonstrated that pacritinib is primarily metabolized by cytochrome 
+P450 (CYP)3A4. 
+Reference ID: 4944832
+
+
+===== PAGE 94 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+80 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Effects of Other Drugs on Pacritinib 
+The impact of clarithromycin, a strong CYP3A4 inhibitor on the pharmacokinetics of pacritinib 
+was evaluated in Study PAC104. Clarithromycin was dosed at 500 mg BID for 5 days, a 
+submaximal regimen for inhibition, before the subjects received a single dose of 400 mg 
+pacritinib. Clarithromycin increased the AUC and Cmax of pacritinib by 80% and 30%, 
+respectively. As the PK of clarithromycin does not reach steady state with 5-day dosing, it is 
+expected that the increase in pacritinib exposure could be even higher when tested following a 
+longer treatment with clarithromycin that results in maximal CYP3A4 inhibition (i.e., worst-case 
+scenario). Because exposures to pacritinib with strong CYP3A4 inhibitors will increase beyond 
+the exposures seen with 400 mg QD, the benefit-risk profile of pacritinib is significantly altered. 
+Therefore, use of pacritinib in patients concomitantly using strong CYP3A inhibitors should be 
+contraindicated. The in vivo impact of moderate CYP3A4 inhibitors on the PK of pacritinib has 
+not been conducted. Due to the expected increase in the risk for adverse reactions with increase 
+in pacritinib exposure, the review team recommends ‘avoid use’ of pacritinib in patients 
+concomitantly on moderate CYP3A4 inhibitors. In addition, the review team recommends 
+physiologically based pharmacokinetic (PBPK) modeling analyses using a revised and validated 
+PBPK model to evaluate the effect of repeat doses of strong and moderate CYP3A inhibitors and 
+inducers on the pharmacokinetics of pacritinib 200 mg twice daily dosed to steady state as a 
+post-marketing requirement (PMR), to support appropriate dosing recommendations. If the 
+results from the PBPK analyses are inconclusive, a clinical pharmacokinetic study in adult 
+healthy volunteers will be recommended. 
+The effect of a strong CYP3A inducer, rifampin, was also evaluated (Study PAC106). Subjects 
+were given 600 mg QD rifampin for 10 days before taking a single dose of 400 mg pacritinib. 
+Rifampin decreased pacritinib AUC and Cmax by 87% and 51%, respectively. This magnitude of 
+decrease in pacritinib exposure is expected to make the treatment ineffective, therefore, the 
+review team recommends a contraindication of use of pacritinib in patients concomitantly on 
+strong CYP3A inducers. The Applicant used PBPK modeling to predict the DDI effect of a 
+moderate CYP3A inducer on the pharmacokinetics of pacritinib following a single dose of 
+400 mg pacritinib. Due to several limitations identified in the Applicant’s PBPK analysis, such 
+as inability to describe the pharmacokinetics of pacritinib after single or multiple doses of 
+pacritinib across different dose levels, the Applicant’s PBPK analysis was deemed inadequate. 
+The review team recommends that concomitant use of pacritinib with moderate CYP3A4 
+inducers be avoided until further PBPK analysis or clinical data are available. 
+Refer to the section on PBPK modeling, below, for more information. 
+Effect of Pacritinib on Other Drugs 
+Results from in vitro studies showed that there could be several potential interactions involving 
+transporter systems and CYPs in the context of pacritinib as a perpetrator. 
+Pacritinib is a time-dependent inhibitor for CYP1A2 and CYP3A4, with a maximal inactivation 
+rate constant (Kinact) of 0.041 and 0.0096 L/min, respectively, and unbound inhibitor 
+concentration causing half-maximal inactivation (KI,u) of 0.95 and 1.6µM, respectively. There is 
+a potential for in vivo CYP1A2- and CYP3A4-associated drug-drug interaction (DDI) by 
+pacritinib, as the calculated DDI index (84 for CYP1A2 and 20 for CYP3A4) are much larger 
+than the predefined cut-off (1.25). Pacritinib is also a reversible inhibitor of CYP1A2, CYP3A4 
+Reference ID: 4944832
+
+
+===== PAGE 97 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+83 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Parameter 
+Dose 
+200 mg QD 
+400 mg QD 
+Predicted/observed ratio 
+ 
+ 
+Cmax 
+ 
+Day 1 
+Day 15 
+AUC 
+Day 1 
+Day 15 
+Source: Simulation output file -Reviewer’s analysis; Tables 18 and 19 from SB1518-2007-001 (§: A Phase 1/2 study of pacritin b for 
+the treatment of advanced myeloid malignancies). 
+1 Simulations were conducted by Reviewer using the Healthy North European Caucasian volunteer population model to allow 
+coverage of the age range of the clinical study (47 to 86 years). 
+Abbreviations: AUC, area under the plasma concentration-time curve; Cmax, maximum concentration; CV, coefficient of variation; 
+MF, myelof brosis; PK, pharmacokinetics; QD, once daily 
+• The submitted model is inadequate to predict the effect of CYP3A inhibitors/inducers on 
+the pacritinib PK following multiple doses of pacritinib. 
+— The discrepancies between the simulated and observed PK data of pacritinib could 
+result from dose-dependent oral absorption or TDI of the CYP3A pathway. In 
+response to FDA’s information request, the Applicant proposed to revise and expand 
+the original pacritinib PBPK model to predict pacritinib PK following multiple doses 
+of pacritinib once the DDI parameters of pacritinib become available. To derive the 
+appropriate DDI parameters, the review team recommends a PMR to conduct a 
+clinical DDI study to determine the effect of pacritinib 200 mg BID dosed to steady 
+state on the exposure of a sensitive substrate (e.g., midazolam). This assessment can 
+be conducted as a part of the cocktail DDI study recommended earlier. 
+Currently, there is no information to evaluate the potential DDI effects of a moderate CYP3A 
+inhibitor or inducer on the PK of pacritinib. It is recommended to avoid the use of pacritinib in 
+combination with of a moderate CYP3A inhibitor or inducer. The Applicant should provide 
+additional information to support the dosing recommendation of pacritinib when used 
+concomitantly with moderate CYP3A inhibitors and inducers at steady state. The Applicant may 
+use a validated PBPK model to support the DDI dosing recommendation, however, the revised 
+PBPK model should incorporate all the up-to-date clinical PK and DDI information (i.e., a 
+clinical DDI study with a sensitive CYP3A substrate). If the results from the revised PBPK 
+analyses are inconclusive, the Applicant should conduct a dedicated clinical PK study to address 
+this issue. 
+8.3. Plans for Pediatric Drug Development 
+Pacritinib was granted a full waiver from the conduct of studies in pediatric patients as MF does 
+not occur in the pediatric population; consequently, no nonclinical juvenile toxicity studies were 
+conducted.  
+Reference ID: 4944832
+(b) (4)
+
+
+===== PAGE 103 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+89 
+Integrated Review Template, version 2.0 (04/23/2020) 
+present in patients with myeloproliferative neoplasms. Pacritinib has higher selectivity for JAK2 
+over closely-related JAK1, JAK3, and TYK2 enzymes (Table 43). Pacritinib also inhibits wild-
+type and mutant FLT3 receptors (IC50 2.6 to 4.7nM), including those frequently mutated in acute 
+myeloid leukemia (AML), which develops in some patients with MF. Pacritinib exhibited 
+inhibitory activity against several other cellular kinases at therapeutic exposure levels, the 
+clinical relevance of which is unknown. 
+Table 43. Pacritinib (Parent Molecule) In Vitro Kinase Inhibition Profile 
+Target Kinase 
+Pacritinib 
+IC50 (nM) 
+Parent 
+Human Cmax 
+200 mg BID 
+Both Fractions 
+(19.9µM) 
+Human Cmax 
+200 mg BID 
+Free Fraction 
+(240nM)1 
+JAK kinases 
+JAK1 
+1,280nM 
+16× 
+0.2× 
+JAK2 
+1nM 
+19,900× 
+240× 
+JAK2 (V617F) 
+3nM 
+6633× 
+80× 
+JAK3 
+18.3nM 
+1087× 
+13× 
+TYK2 
+27nM 
+737× 
+9× 
+FMS/FLT kinases 
+FLT3 
+3.9nM 
+5102× 
+61× 
+FLT3 (D835Y) mutation 
+4.7nM 
+4234× 
+51× 
+FLT3 (ITD) mutation 
+2.6nM 
+7654× 
+92× 
+FLT4/VEGFR3 
+86nM 
+231× 
+3× 
+FMS (CSF1R) 
+40nM 
+498× 
+6× 
+Other kinases 
+IRAK1 
+13.6nM 
+1463× 
+18× 
+CSF1R (FMS) 
+39.5nM 
+504× 
+6× 
+c-SRC 
+46.7nM 
+426× 
+5× 
+CLK1 
+50nM 
+398× 
+5× 
+ARK5/NUAK1 
+53.3nM 
+373× 
+4× 
+ABL-1 (various mutations) 
+61 to 70nM 
+326× to 284× 
+4× to 3× 
+BRK 
+99.7nM 
+200× 
+2× 
+HIPK4 
+15nM 
+1327× 
+16× 
+ROS/ROS1 
+18.4nM 
+1082× 
+13× 
+TNK1 
+15nM 
+1327× 
+16× 
+TRKC 
+18.4nM 
+1082× 
+13× 
+c-Kit 
+44nM 
+452× 
+5× 
+CLK4 
+21nM 
+948× 
+11× 
+Source: Reviewer-constructed summary table of pharmacology studies submitted to the new drug application. 
+IC50 values were derived from Pharmacology Study Reports. 
+1 Exposure multiples were based on the simulated population pharmacokinetic data generated by the Clinical Pharmacology 
+Reviewer by PK modeling of patient samples collected in Study PAC201, PERSIST-1, and PERSIST-2 where the proposed 
+therapeutic dose (200 mg, BID), resulted in a mean exposures of 9.394 μg/mL (Cmax), 19.9µM. The free fraction exposures were 
+calculated by multiplying the Cmax by the percent unbound fraction observed in humans (1.2%), 240nM (Cmax, free fraction). 
+Abbreviations: BID, twice daily; Cmax, maximum concentration; FLT, FMS-like tyrosine; FMS, feline McDonough sarcoma; IC50, half 
+inh bitory concentration; ITD, internal tandem duplication; JAK, Janus-associated kinase; PK, pharmacokinetics 
+In vitro assays confirmed that the predominant metabolites of pacritinib (M1 and M2) inhibit 
+both wild-type JAK2 (M1 and M2 IC50 1 and 5nM, respectively) and the specific JAK2 mutation 
+JAK2V617F (M1 and M2 IC50 5 and 23nM, respectively) that is often present in patients with 
+myeloproliferative neoplasms. The M1 and M2 metabolites also inhibited wild-type and mutant 
+FLT3 receptors (IC50 15 to 29nM) including those frequently mutated in AML, which develops 
+in some patients with myelofibrosis. The M1 and M2 metabolites of pacritinib exhibited 
+Reference ID: 4944832
+
+
+===== PAGE 104 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+90 
+Integrated Review Template, version 2.0 (04/23/2020) 
+inhibitory activity against several other cellular kinases at therapeutic exposure levels, the 
+clinical relevance of which is unknown (Table 44 and Table 45). 
+Table 44. Pacritinib (M1 Metabolite) In Vitro Kinase Inhibition Profile 
+Target Kinase 
+Pacritinib 
+M1 Metabolite 
+IC50 
+Human Cmax 
+200 mg BID 
+M1 Metabolite Both 
+Fractions 
+(1910nM) 
+Human Cmax 
+200 mg BID 
+M1 Metabolite Free 
+Fraction 
+(23nM)1 
+JAK kinases 
+JAK1 
+135nM 
+14× 
+0.2× 
+JAK2 
+1.25nM 
+1,528× 
+18× 
+JAK2 (V617F) 
+4.52nM 
+423× 
+5× 
+JAK3 
+5.18nM 
+369× 
+4× 
+TYK2 
+11.4nM 
+168× 
+2× 
+FMS/FLT kinases 
+FLT3 
+23.7nM 
+81× 
+1× 
+FLT3 (D835Y) mutation 
+28.5nM 
+67× 
+0.8× 
+FLT3 (ITD) mutation 
+14.8nM 
+129× 
+2× 
+FMS (CSFR1) 
+8.67nM 
+220× 
+3× 
+Other kinases 
+IRAK1 
+10.6nM 
+180× 
+2× 
+CSF1R (FMS) 
+8.67nM 
+220× 
+3× 
+ROS/ROS1 
+13.1nM 
+146× 
+2× 
+TNK1 
+13.5nM 
+141× 
+2× 
+Source: Reviewer-constructed summary table of pharmacology studies submitted to the NDA. 
+IC50 values were derived from the Pharmacology Study Reports. 
+1 Exposure multiples were based on the simulated population pharmacokinetic data generated by the Clinical Pharmacology 
+Reviewer through PK modeling of patient samples collected in Study PAC201, PERSIST-1, and PERSIST-2 where the proposed 
+therapeutic dose (200 mg, BID), resulted in mean exposures of 9.394 μg/mL (Cmax), 19.9μM. A human mass balance study indicated 
+that the M1 metabolite accounted for 9.6% (1910nM) of the total drug exposure. The free fraction exposures were calculated by 
+multiplying the Cmax by the percent unbound fraction observed in humans (1.2%), 23nM (Cmax, free fraction). 
+Abbreviations: BID, twice daily; Cmax, maximum concentration; FLT, FMS-like tyrosine; FMS, feline McDonough sarcoma; IC50, half 
+inh bitory concentration; ITD, internal tandem duplication; JAK, Janus-associated kinase; PK, pharmacokinetics 
+Table 45. Pacritinib (M2 Metabolite) In Vitro Kinase Inhibition Profile 
+Target Kinase 
+Pacritinib 
+M2 Metabolite 
+IC50 
+Human Cmax 
+200 mg BID 
+M2 Metabolite 
+Both Fractions 
+(2090nM) 
+Human Cmax 
+200 mg BID 
+M2 Metabolite 
+Free Fraction 
+(25nM)1 
+JAK kinases 
+JAK1 
+53nM 
+39× 
+0.5x 
+JAK2 
+5.17nM 
+404× 
+5x 
+JAK2 (V617F) 
+22.5nM 
+93× 
+1x 
+JAK3 
+20.2nM 
+99× 
+1x 
+TYK2 
+14.6nM 
+138× 
+2x 
+FMS/FLT kinases 
+FLT3 
+27.1nM 
+77× 
+0.9× 
+FLT3 (D835Y) mutation 
+14.7nM 
+142× 
+2× 
+FLT3 (ITD) mutation 
+17.5nM 
+119× 
+1× 
+FMS (CSFR1) 
+16.1nM 
+130× 
+2× 
+Reference ID: 4944832
+
+
+===== PAGE 105 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+91 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Target Kinase 
+Pacritinib 
+M2 Metabolite 
+IC50 
+Human Cmax 
+200 mg BID 
+M2 Metabolite 
+Both Fractions 
+(2090nM) 
+Human Cmax 
+200 mg BID 
+M2 Metabolite 
+Free Fraction 
+(25nM)1 
+Other kinases 
+IRAK1 
+10.8nM 
+194× 
+2× 
+CSF1R (FMS) 
+16.1nM 
+130× 
+2× 
+HIPK4 
+16.2nM 
+129× 
+2× 
+TRKC 
+12.9nM 
+162× 
+2× 
+Source: Reviewer constructed summary table of pharmacology studies submitted to the NDA. 
+IC50 values were derived from the Pharmacology Study Reports. 
+1 Exposure multiples were based on the simulated population pharmacokinetic data generated by the Clinical Pharmacology 
+Reviewer through PK modeling of patient samples collected in Study PAC201, PERSIST-1, and PERSIST-2 where the proposed 
+therapeutic dose (200 mg, BID), resulted in a mean exposures of 9.394 μg/mL (Cmax), 19.9μM. A human mass balance study 
+indicated that the M2 metabolite accounted for 10.5% (2,090nM) of the total drug exposure. The free fraction exposures were 
+calculated by multiplying the Cmax by the percent unbound fraction observed in humans (1.2%), 25nM (Cmax, free fraction). 
+Abbreviations: BID, twice daily; Cmax, maximum concentration; FLT, FMS-like tyrosine; FMS, feline McDonough sarcoma; IC50, half 
+inh bitory concentration; ITD, internal tandem duplication; JAK, Janus-associated kinase; PK, pharmacokinetics 
+13.1.1.1. In Vivo and Ex Vivo Pharmacodynamic Activity 
+Consistent with the in vitro target kinase activity, cell lines found to be markedly sensitive to 
+pacritinib treatment were either JAK2-dependent (i.e., 32D, SET2, BaF3-JAK2V617F, and human 
+Karpas 1106P) or expressed mutant FLT3 protein (i.e., MV4-11). See Table 46. 
+Table 46. Pacritinib In Vitro Inhibitory Activity in Tumor Cell Lines 
+ 
+Source: NDA 208712 (SN 0009 - 2.6.2 - Pharmacology Written Summary, page 13). 
+a IC50 values are averages of at least two independent experiments. CV was generally within ±30%. 
+Abbreviations: AML, acute myeloid leukemia; CV, coefficient of variation; ET, essential thrombocythemia; IC50, half inhibitory 
+concentration; MPD, myeloid proliferative disorder 
+Ex vivo studies of pacritinib reported in the literature described results that were consistent with 
+those observed in vitro with regards to inhibition of STAT protein phosphorylation. Pacritinib 
+inhibited phosphorylated STAT5 protein levels in a dose-dependent manner and reduced the 
+viability of expanded erythroid progenitor cells derived from normal subjects expressing 
+Reference ID: 4944832
+
+
+===== PAGE 107 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+93 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 47. Safety Pharmacology Studies 
+Study Details 
+Findings 
+Study Number: RPT097 
+Study Title: Profiling of Pacritinib 
+(SB1518) in hERG assay 
+Cell Line: HEK-293 
+Dose: 0.01, 0.1, 1, 10μM 
+Pacritinib binds to hERG with an IC50 of 3.51μM. 
+Study Number: RPT070 
+Study Title: Cardiovascular and 
+Respiratory System Safety 
+Pharmacology Study of Pacritinib 
+(EX58) in Beagle Dogs 
+Species/strain: Beagle Dogs 
+Number/sex/group:4 
+Dose: 30 mg/kg/day (free base) 
+Route of administration: Oral 
+Frequency: Single Dose 
+Clinical observations: Emesis/vomit (3 of 4 dogs). 
+No treatment related changes in cardiovascular or respiratory 
+systems including electrocardiogram parameters, heart rate, 
+respiratory rate, body temperature, blood pressure, or activity 
+following a single oral dose. 
+Study Number: 170509.DUJ 
+Study Title: Effects of Pacritinib on Ion 
+Channels Expressed in Mammalian 
+Cells 
+Cell Lines: CHO/HEK293 
+Dose: 0.07, 0.20, 0.70, 2.0μM 
+Pacritinib inhibits hERG channel (IC50 1.84μM). Effects of the 
+other ion channels/currents were minimal. 
+The calcium ion channel (Cav1.2) was inhibited 17.3% at 2μM. 
+No other currents were inhibited more than 11% at 2μM. 
+Study Number: RPT206 
+Study Title: The In Vitro Investigation 
+of Pacritinib on Agonist Induced 
+Platelet Function using Light 
+Transmission Aggregometry 
+Cell Lines: Human Blood 
+Dose: 15 and 45μM 
+At the highest concentration assessed (45μM, corresponding to 
+free drug concentration of 540nM), pacritinib inhibited collagen 
+induced platelet aggregation to an extent greater than that seen 
+with the positive control (a combination of aspirin and a P2Y12 
+antagonist). A nominal effect on collagen-induced platelet 
+aggregation was observed at 15μM (200nM, free drug). 
+Pacritinib was minimally effective at inhibiting adenosine 
+diphosphate or thrombin receptor activating peptide induced 
+platelet aggregation at the HD. 
+Source: Reviewer-constructed summary table of safety pharmacology studies submitted to the new drug application. 
+Abbreviations: HD, high dose; hERG, human ether-à-go-go-related gene; IC50, half inhibitory concentration 
+13.1.2. ADME/Pharmacokinetics 
+Overall, the nonclinical data characterizing the absorption, distribution, metabolism, and 
+elimination of pacritinib in mice, rats, rabbits, and dogs allowed for interspecies exposure 
+comparisons and provided relevant information for clinical dose selection. 
+Absorption 
+Following single-dose oral administration, pacritinib was absorbed slightly faster in mice (time 
+to maximum concentration [Tmax] from 0.5 to 2 hours) when compared to rats and dogs (Tmax, 
+4 hours). The half-life (t1/2) of orally administered pacritinib was 2.2, 5.7, and 4.4 hours in mice, 
+rats, and dogs, respectively. t1/2 of orally administered pacritinib (400 mg) was notably longer 
+(51.5 hours) in healthy human subjects. Toxicities observed in normal (nondisease state) animals 
+did not manifest in clinical trials at similar exposures despite the increased half-life observed in 
+humans and suggests that animals may be more sensitive to the toxicologic effects of pacritinib 
+and/or its metabolites. The mean Vdz of pacritinib was calculated in mice (65 L/kg), rats 
+(13 L/kg), and dogs (10 L/kg). The CL of pacritinib in terms of liver blood flow was 8 L/h/kg in 
+mice and 1.6 L/h/kg in rats and dogs. The terminal t1/2 for intravenous administration of 
+Reference ID: 4944832
+
+
+===== PAGE 108 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+94 
+Integrated Review Template, version 2.0 (04/23/2020) 
+pacritinib was 5.6, 6, and 4.6 hours in mice, rats, and dogs, respectively. The oral bioavailability 
+(F) of pacritinib was 39%, 10%, and 24% in mice, rats, and dogs, respectively. 
+Distribution 
+Following oral administration of 100 mg/kg radiolabeled [14C]-pacritinib to BALB/c mice 
+(RPT308), quantitative whole-body autoradiography revealed that the highest levels of drug-
+derived radioactivity were associated with the alimentary canal, consistent with the predominant 
+biliary/fecal route of drug elimination. The lowest levels of drug-derived radioactivity were 
+observed in the central nervous system, bone, and the lens of the eye. Concentrations of 
+drug-derived radioactivity decreased rapidly, and the majority of tissues were below the level of 
+quantitation by 24 hours postdose. 
+In a second mouse tissue distribution study (RPT110) that employed unlabeled pacritinib (single 
+oral dose, 50 mg/kg), drug concentrations were measured by high-performance liquid 
+chromatography (HPLC) with tandem mass spectrometry and pharmacokinetic parameters were 
+determined in the plasma, brain, and lung tissues derived from BALB/c nude mice. This differs 
+from the radiolabeled distribution study where all drug-related material was followed in all body 
+compartments. Pacritinib exposure levels within these three tissues were highest in the lungs 
+(increased 19-fold versus plasma, area under the concentration-time curve [AUC]) followed by 
+the brain (increased 2-fold versus plasma, AUC) and plasma. Pacritinib plasma concentrations 
+were below the limit of quantitation at 24 hours postdose. The higher level of pacritinib in the 
+CNS relative to that observed in the radiolabeled study was ascribed to differences in assay 
+methodology and design, but does indicate CNS penetrance of pacritinib in mice. Results from 
+general toxicity studies demonstrated that pacritinib does not cause adverse or direct effects on 
+the central nervous system or respiratory function. Effects on central nervous system and 
+respiratory system parameters occurred only at doses at which frank toxicity was observed. 
+Table 48. Mean Tissue/Plasma PK Parameters of SB1518 After Oral Dosing in BALB/c Mice 
+ 
+Source: Applicant-constructed summary table from Study Report RPT110, submitted to the new drug application. 
+Abbreviations: AUC, area under the plasma concentration-time curve; Cmax, maximum concentration; PK, pharmacokinetics; Tmax, 
+time to maximum concentration 
+In Vitro Protein-Binding Determination 
+Plasma protein binding in the mouse, rat, dog, and rabbit ranged from 97.1% to 99.1% across 
+species and concentrations (RPT107). The plasma protein binding of pacritinib in humans is 
+98.8% at clinically relevant plasma concentrations (approximately 10 μg/mL). Given the 
+similarity across species, exposure margins are based on total drug exposure and are not 
+corrected for free versus bound fractions. 
+Reference ID: 4944832
+
+
+===== PAGE 113 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+99 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Pharmacokinetics 
+Table 49. Toxicokinetic Data From Repeat-Dose Toxicology Studies 
+Study Details 
+Major Findings 
+General Toxicology Studies 
+Study Number RPT233 
+Study Title: 26-Week Oral (Gavage) 
+Toxicity Study in BALB/C Mice 
+ 
+Sample Collection Times: Predose, 
+0.5, 1, 2, 4, and 8 hours postdose 
+(Day 1). Predose, 0.5, 1, 2, 4, 8, and 
+24 hours postdose (Weeks 13/26). 
+ 
+Accumulation: Minimal 
+ 
+Dose Proportionality: Generally, 
+greater than dose proportional. 
+ 
+NOAEL: 200 mg/kg/day (MD) 
+ 
+Exposure Margin: 0.02× 
+Table 50. TK Parameters in BALB/C Mice 
+ 
+Source: Applicant-constructed table from Study Report RPT233, submitted to the 
+new drug application. 
+Abbreviations: AUC, area under the plasma concentration-time curve; Cmax, 
+maximum concentration; TK, toxicokinetics; Tmax, time to maximum concentration 
+Study Number: RPT241 
+Study Title: 39-Week Oral 
+(Capsules) Toxicology Study in 
+Beagle Dogs 
+ 
+Sample Collection Times: Predose, 
+0.5, 1, 2, 4, and 8 hours postdose 
+(Day 1). Predose, 0.5, 1, 2, 4, 8, and 
+24 hours postdose (Day 90/270). 
+ 
+Accumulation: Exposures were 
+comparable on Days 90 and 270. 
+ 
+Dose Proportionality: Generally, 
+greater than dose proportional. 
+ 
+NOAEL: 20 mg/kg/day (MD) 
+ 
+Exposure Margin: 0.06× (males) and 
+0.02× (females) 
+Table 51. TK Parameters in Beagle Dog 
+ 
+Source: Applicant-constructed table from Study Report RPT241, submitted to the 
+new drug application. 
+Abbreviations: AUC, area under the plasma concentration-time curve; Cmax, 
+maximum concentration; TK, toxicokinetics; Tmax, time to maximum concentration 
+Reference ID: 4944832
+
+
+===== PAGE 114 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+100 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Study Details 
+Major Findings 
+Reproductive Toxicology Studies 
+Study Number: RPT112506 
+Study Title: An Oral (Gavage) Study 
+of the Effects of Pacritinib on 
+Embryo-Fetal Development in CD-1 
+Mice 
+ 
+NOAEL: 100 mg/kg (maternal/fetal) 
+ 
+Exposure Margin: 0.04× (GD15) 
+ 
+Note: AUC values determined in this 
+study should not be used for human: 
+animal AUC comparisons in labeling 
+due to a lack of demonstrated 
+stability between the time of 
+collection and analysis. 
+Table 52. CD-1 Mouse EFD TK Parameters; GD 6 of 15 
+ 
+Source: Applicant-constructed table from Study Report RPT112506, submitted to 
+the new drug application. 
+Abbreviations: AUC, area under the plasma concentration-time curve; Cmax, 
+maximum concentration; SE, standard error; TK, toxicokinetics; Tmax, time to 
+maximum concentration 
+Study Number: RPT112503 
+Study Title: An Oral (Gavage) Study 
+of the Effects of Pacritinib on 
+Embryo-Fetal Development in 
+Rabbits 
+ 
+NOAEL: 30 mg/kg (maternal/fetal) 
+ 
+Exposure Margin: 0.08× (GD20) 
+Table 53. New Zealand White Rabbit EFD TK Parameters; 
+GD 7 of 20 
+ 
+Source: Applicant-constructed table from Study Report RPT112503, submitted to 
+the new drug application. 
+Abbreviations: AUC, area under the plasma concentration-time curve; Cmax, 
+maximum concentration; EFD, embryo-fetal development; GD, gestation day; TK, 
+toxicokinetics; SD, standard deviation; Tmax, time to maximum concentration 
+Source: Reviewer-constructed summary table of reproductive toxicology studies submitted to the NDA. 
+Anticipated clinical dose (200 mg (BID) 213 μg.h/mL AUC0­24). Source: Clinical Pharmacology Reviewer: Simulated data via PK 
+models of patient samples collected in Studies PAC201, PERSIST-1, and PERSIST-2. 
+Abbreviations: AUC, area under the plasma concentration-time curve; BID, twice daily; GD, gestation day; MD, mid dose; NDA, new 
+drug application; NOAEL, no observed adverse effect level; PK, pharmacokinetics 
+Reference ID: 4944832
+
+
+===== PAGE 157 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+143 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 80. Summary of SB1518 Pharmacokinetic Parameters (Pharmacokinetic Analysis 
+Population) 
+ 
+Source: Figure 11-2, page 34, SB1518-2010-004 Report. 
+a Tmax reported as median (minimum, maximum). 
+Abbreviations: AUC, area under the plasma concentration-time curve; CL/F, total clearance; Cmax, maximum concentration; 
+T1/2, elimination half-life; Tmax, time to maximum concentration; Vz, volume of distribution 
+Table 81. Summary of the Fit of the Power Model to Cmax and AUC0­inf Versus Dose 
+ 
+Source: Figure 11-4, page 37, SB1518-2010-004 Report. 
+a P-value for the fit of the model. 
+Abbreviations: AUC, area under the plasma concentration-time curve; CI, confidence interval; Cmax, maximum concentration; SEM, 
+standard error of the means 
+Study SB1518-2007-001 
+A dose-escalation and efficacy and safety study. 
+Study Overview 
+The PK profile of pacritinib was assessed in patients with advanced myeloid malignancies. 
+Study Design 
+This study included two parts: The Phase 1 part of the study used an open-label, dose-escalation 
+design. Cohorts of three to six patients were enrolled at each pacritinib dose level, starting at a 
+dose of 100 mg once daily (QD). Each patient participated in only one cohort, whereas the Phase 
+2 study used a multicenter, single-arm, open-label design. 
+Reference ID: 4944832
+
+
+===== PAGE 161 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+147 
+Integrated Review Template, version 2.0 (04/23/2020) 
+as a single agent in subjects with chronic idiopathic MF (including PET and PPV MF) regardless 
+of their JAK2 mutational status. Patients were enrolled sequentially to one of five dose cohorts 
+(100 mg, 200 mg, 400 mg, 500 mg, and 600 mg) and received pacritinib QD for 28 consecutive 
+days (one cycle) for up to 1 year, or longer in the absence of disease progression and 
+unacceptable toxicity. Phase 2 was a multicenter, single-arm, open-label study to evaluate the 
+efficacy and safety profile of single-agent pacritinib at the recommended dose in patients with 
+chronic idiopathic MF (including PET and PPV MF). The recommended dose was chosen based 
+on exposure, safety, and spleen response data from Phase 1. Blood samples for the measurement 
+of plasma concentrations of pacritinib were collected immediately prior to dosing, and at 0.5, 1, 
+2, 3, 4, 5, 6, 8, and 24±2 hours after dosing on days 1 and 15±3 of Cycle 1. Samples for a trough 
+PK were drawn prior to dosing on day 1 of Cycle 2, Cycle 3, Cycle 4, Cycle 6, Cycle 9, and 
+Cycle 12. 
+Results 
+The PK results are shown in Table 84 and Table 85. On Day 1 of the Phase 1 study in patients 
+who received pacritinib 100 mg to 600 mg, comparable absorption rates were observed, with 
+median Tmax values ranging from 3.0 to 5.5 hours postdose. Mean Cmax, C24h, and systemic 
+exposures (i.e., the AUC from time zero to 24 hours [AUC0­24]) values did not appear to increase 
+in a dose-related manner across the 100 mg to 600 mg QD dose cohorts; although the mean C24h 
+was not highest in the 400 mg (recommended dose) dose group, mean Cmax and AUC were 
+highest in the 400 mg group at Day 1. Interindividual %CV for Cmax and AUC0­24 values ranged 
+from 32% to 78%, indicating a relatively high variability among patients. Following 15 doses of 
+pacritinib 100 mg to 600 mg QD, comparable absorption rates were observed on Day 15, with 
+median Tmax values ranging from 2.0 to 6.0 hours postdose. Mean Cmax, C24h, and AUC0­24 were 
+higher in the 400 mg QD dose cohort. As observed on Day 1, interindividual %CV for Cmax and 
+AUC0­24 values on Day 15 ranged from 30% to 77%, indicating a relatively high variability 
+among patients. 
+Reference ID: 4944832
+
+
+===== PAGE 166 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+152 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 86. Summary of Pacritinib Pharmacokinetics Parameters 
+ 
+Source: Table 7, page 40, PAC103 Report. 
+Note: Values are arithmetic means±SD, except median (range) for tmax. 
+a Seven subjects. 
+b Four subjects. 
+c Three subjects. 
+Abbreviations: AUC, area under the plasma concentration-time curve; CL/F, total clearance; Cmax, maximum concentration; 
+t1/2, elimination half-life; tmax, time to maximum concentration; Vz, volume of distribution 
+Table 87. Summary of Inferential Statistical Analysis for Pacritinib Main PK Parameters 
+ 
+Source: Table 8, page 41, PAC103 Report. 
+Point estimate (ratio) and 90% CIs of the ratio of geometric LS means (ANOVA). 
+Abbreviations: ANOVA, analysis of variance; AUC, area under the concentration-time curve; CI, confidence interval; 
+LS, least-squares; PE, point estimate; PK, pharmacokinetics 
+Study PAC105 
+A Phase 1 open-label, single-dose, parallel-group study to determine the PK of pacritinib in 
+subjects with mild, moderate, and severe renal impairment and end-stage renal disease (ESRD) 
+compared to healthy subjects. 
+Primary Objective 
+To determine the PK of pacritinib and its major metabolites in subjects with mild, moderate, and 
+severe renal impairment and in subjects with ESRD requiring hemodialysis as compared to 
+Reference ID: 4944832
+
+
+===== PAGE 169 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+155 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 88. Summary of Pacritinib Pharmacokinetic Parameters 
+ 
+Source: Table 12, page 55, PAC105 Report. 
+Note: Values are arithmetic means±SD, except median (range) for tmax. 
+a Six subjects. 
+b Seven subjects. 
+c Three subjects. 
+d Two subjects. 
+Abbreviations: AUC, area under the plasma concentration-time curve; CL/F, total clearance; CLR, renal clearance; Cmax, maximum 
+concentration; ESRD, end-stage renal disease; N, number of subjects; n, number of subjects with observation; NA, not applicable; 
+NC, not calculated; PK, pharmacokinetics; SD, standard deviation; T1/2, elimination half-life; Tmax, time to maximum concentration; 
+Vz, volume of distribution 
+Reference ID: 4944832
+
+
+===== PAGE 173 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+159 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 90. Summary of the Pharmacokinetic Parameters of Pacritinib Following Administration of 
+Pacritinib Alone and Coadministration With Clarithromycin 
+ 
+Source: Table 11-1, page 32, PAC104 Report. 
+Geometric means (CV%) are presented. 
+Geometric CV%=(sqrt (exp (variance for log-transformed data)−1))×100 
+a The 120-hour concentrations for Subjects 014 and 015 (pacritinib plus clarithromycin) appeared consistent with a sample switch 
+and were excluded from PK analysis. 
+b Median (minimum−maximum). 
+Abbreviations: AUC, area under the plasma concentration-time curve; CL/F, total clearance; Cmax, maximum concentration; 
+CV, coefficient of variation; N, number of subjects; T1/2, elimination half-life; Tmax, time to maximum concentration; Vz/F, volume of 
+distribution 
+Table 91. Statistical Analysis of Pharmacokinetic Data: Effect of Clarithromycin on the 
+Pharmacokinetics of Pacritinib 
+ 
+Source: Table 11-2, page 33, PAC104 Report. 
+a Least-squares means and the corresponding 90% confidence intervals on natural log transformed data were obtained from 
+ANOVA and then transformed back to original scale to obtain geometric LS means and the corresponding 90% confidence intervals. 
+b Difference of LS means of natural log-transformed data between test and reference was obtained by ANOVA and then transformed 
+back to the original scale to obtain the ratio of geometric LS means (expressed as a percentage). 
+c 90% confidence interval of the difference of LS means was obtained by ANOVA and transformed back to the original scale to 
+obtain 90% confidence interval for the ratio (expressed as a percentage). 
+Abbreviations: ANOVA, analysis of variance; AUC0­t, area under the concentration-time curve from hour 0 to the last measurable 
+concentration; AUC0­∞, area under the concentration-time curve extrapolated to infinity; CI, confidence interval; Cmax, maximum 
+concentration; CV, coefficient of variation; LS, least-squares; n, the number of observations in each treatment used in the model 
+Reference ID: 4944832
+
+
+===== PAGE 177 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+163 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 92. Summary of the Pharmacokinetic Parameters of Pacritinib Following Administration of 
+Pacritinib Alone and Coadministration With Rifampin 
+ 
+Source: Table 11-1, page 33, PAC106 Report. 
+Note: Subject
+was excluded from descriptive statistics due to early termination. 
+Geometric mean (CV%) data are presented. 
+Geometric CV%=(sqrt (exp (variance for log transformed data)−1))×100. 
+a Median (minimum-maximum). 
+b N=16. 
+Abbreviations: AUC0­t, area under the concentration-time curve from hour 0 to the last measurable concentration; AUC0­∞, area 
+under the concentration-time curve extrapolated to infinity; CL/F, total clearance; Cmax, maximum concentration; CV, coefficient of 
+variation; N, number of subjects; t1/2, elimination half-life; tmax, time to maximum concentration; Vz/F, volume of distribution 
+Table 93. Statistical Analysis of Pharmacokinetic Data: Effect of Rifampin on the 
+Pharmacokinetics of Pacritinib 
+ 
+Source: Table 11-2, page 34, PAC106 Report. 
+Note: Subject
+was excluded from statistical analyses due to early termination. 
+a Least-squares means and the corresponding 90% CIs on natural log-transformed data were obtained by ANOVA and transformed 
+back to the original scale to obtain geometric LS means and the corresponding 90% CIs. 
+b Difference of LS means of natural log-transformed data between test and reference was obtained by ANOVA and transformed 
+back to the original scale to obtain the ratio of geometric LS means (expressed as a percentage). 
+c 90% CI of difference of LS means was obtained by ANOVA and transformed back to the original scale to obtain 90% CI for the 
+ratio (expressed as a percentage). 
+Abbreviations: ANOVA, analysis of variance; AUC0­t, area under the concentration-time curve from hour 0 to the last measurable 
+concentration; AUC0­∞, area under the concentration-time curve extrapolated to infinity; CI, confidence interval; Cmax, maximum 
+observed concentration; CV, coefficient of variation; LS, least-squares; n, the number of observations in each treatment used in the 
+model 
+Reference ID: 4944832
+(b) (6)
+(b) (6)
+
+
+===== PAGE 179 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+165 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 95. Summary of the Pharmacokinetic Parameters of Pacritinib Following Administration of 
+FMI (Test) Formulation and P3CT (Reference) Formulation 
+ 
+Source: Table 11-1, page 31, PAC108 Report. 
+Geometric mean (CV%) data are presented. 
+Geometric CV%=(sqrt (exp (variance for log transformed data)−1))×100 
+a Median (minimum−maximum). 
+b Two subjects (Subjects 
+) terminated the study early and their individual AUC0­t parameters were excluded; therefore, 
+AUC0­t geometric mean is based on N=26. 
+Abbreviations: AUC0­t, area under the concentration-time curve from time 0 to the last measurable concentration; AUC0­∞, area under 
+the concentration-time curve from time 0 extrapolated to infinity; CL/F, total clearance; Cmax, maximum concentration; CV, coefficient 
+of variation; FMI, final market image; N, number of subjects; P3CT, Phase 3 clinical trial; t1/2, elimination half-life; tmax, time to 
+maximum concentration; Vz/F, volume of distribution 
+Reference ID: 4944832
+(b) (6)
+
+
+===== PAGE 184 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+170 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Recommendations 
+The proposed pacritinib dose reductions are acceptable for preserving treatment effectiveness in 
+an appreciable proportion of patients who respond and experience toxicity at 200 mg BID. 
+Therefore, the proposed dose reduction strategies for patients experiencing intolerable adverse 
+events is approvable. 
+Label Statements 
+Same as proposed by the Applicant in Section 2.5 of the label. 
+14.4.2. Population PK Analysis 
+Review Summary 
+The Applicant developed a two-compartment model with first-order elimination and absorption 
+kinetics. The model was parameterized in terms of apparent clearance (CL/F), apparent volume 
+of central compartment (V/F), apparent volume of peripheral compartment (Vp/F), apparent 
+intercompartment clearance (Q/F), and absorption rate constant (Ka). Bioavailability (F) for 
+400 mg QD was fixed to 1 while relative bioavailability (RF) was estimated for other dosing 
+regimens, e.g., doses <400 mg have RF >1, whereas twice daily dosing had RF <1 compared to 
+QD. Pacritinib’s time-dependent decrease in clearance was modeled by estimating typical 
+maximum decrease (MAXD) and typical first-order rate constant of decrease in clearance (R). 
+The Applicant identified several covariates of the structural model parameters through full 
+covariate modeling strategy. The Applicant’s final model was obtained through step-wise 
+backward elimination of less significant (p>0.001) covariate-parameter relations. Covariates of 
+CL included the following: disease status (e.g., myelofibrosis or malignancies), renal 
+impairment, moderate or strong CYP3A4 inhibitors, albumin, and alanine aminotransferase 
+(ALT). Covariates of V included body weight, age, ALT, disease status (e.g., myelofibrosis or 
+malignancies), renal impairment, hepatic impairment, moderate or strong CYP3A4 inhibitors, 
+African race. Covariates of Ka included age, pacritinib dose, coadministration with food, and use 
+of proton pump inhibitors (PPI). Covariates of F included: coadministration with food, and use of 
+PPI. In addition to variances of Ka, V, CL, and V, covariances of the variances of Ka, V, and CL 
+were also estimated. 
+The review of the Applicant’s base and final models identified the following caveats which 
+concern the validity of the identified covariate-parameter relations and the values of the Q and 
+Vp. The Applicant’s base model had high relative standard error (RSE) for Vp/F (50%) and high 
+correlation between Q/F and Vp/F parameters (0.97) indicating that these parameters were 
+unidentifiable. This is probably because of a large proportion of sparse samples (Phase 2 and 3 
+studies) that were used in the development of the model. The final model indicated high RSE for 
+MAXD (51%) and high correlation between food effect on F1 and disease effect on CL. Failure 
+to estimate MAXD with certainty can also be attributed the large proportion of sparse samples in 
+the Phase 2 and 3 studies. The parameter could be estimated with certainty using data from richly 
+sampled, multiple dose, Phase 1/2 studies and then fixed in later stages of model development. 
+To address the limitation of the Applicant’s population PK model, the reviewer developed 
+alternative base and final models. The alternative base model was developed in three steps: The 
+Reference ID: 4944832
+
+
+===== PAGE 188 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+174 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Base Model 
+The Applicant’s base model was a two-compartment model with first-order absorption from the 
+gut. The model was parameterized in clearance from the central compartment (CL), volume of 
+the central compartment (Vc), volume of the peripheral compartment (Vp), intercompartment 
+clearance (Q), and absorption rate constant (Ka). The modeling employed the Data Transform 
+Both Sides technique, in which observed and model-predicted concentrations are transformed to 
+a natural log scale when estimating the model parameters. Residuals of log-transformed 
+concentrations were modeled using an additive residual model, which is equivalent to a 
+proportional residual error model in the observed scale. Residuals for studies with rich PK 
+sampling were estimated separately from residuals for Phase 3 studies with sparse PK samples. 
+Noncompartmental analysis identified that the relationship between dose and AUC was 
+nonlinear and therefore the effect of dose on Ka and bioavailability (F1) was incorporated into 
+the base model. Between-subject variabilities (BSV) for Ka, Vc, CL, and F1 were estimated, 
+including the variance covariance between BSV Ka, BSV Vc, and BSV CL. 
+Parameter estimates of the base model are shown in Table 102. The PK parameters were well 
+estimated, except for Vp and the correlation between BSV Ka and BSV CL. The precision 
+estimate for Vp indicated high uncertainty with a relative standard error of 50%. Also, the 
+variance-covariance matrix of the fixed effects coefficients showed a strong correlation between 
+Q and V (0.97) implying that the two parameters were unidentifiable. 
+Table 102. Parameter Estimates and OFV of the Applicant’s Base Model 
+Parameter 
+Estimate (RSE)
+OFV 
+-9761.560
+KA (/h) 
+0.2927 (5%)
+Vc (L) 
+74.1 (4%)
+CL (L/h) 
+1.747 (4%)
+Vp (L) 
+209.9 (50%)
+Q (L/h) 
+0.4021 (23%)
+Q-Vp Correlation coefficient 
+0.97891
+Proportional residual error (dense PK) (%CV) 
+0.2166 (5%)
+Proportional residual error (sparse PK) (%CV) 
+0.3889 (4%)
+Dose effect on KA ((DOSE/400)^DOSEKA) 
+-0.3929 (22%)
+Dose effect on F1 ((DOSE/400)^DOSEF1) 
+-0.3617 (7%)
+BSV KA (%CV) 
+0.5125 (6%)
+Correlation between BSVKa and BSVVc 
+0.4677 (18%)
+BSV Vc (%CV) 
+0.4544 (8%)
+Correlation between BSVKA and BSVCL 
+-0.1171 (72%)
+Correlation between BSVV2 and BSVCL 
+0.2032 (36%)
+BSV CL (%CV) 
+0.4253 (8%)
+BSV F1 (%CV) 
+0.3814 (6%)
+Source: Reviewer’s processing of the Applicant’s results. 
+Abbreviations: CL, clearance from the central compartment; CV, coefficient of variation; F1, bioavailability; Ka, absorption rate 
+constant; OFV, objective function value; PK, pharmacokinetics; Q, clearance; RSE, relative standard error; Vc, volume of the central 
+compartment; Vp, volume of peripheral compartment 
+Time-dependent change in CL was evaluated using the base model, leading to a decrease in the 
+objective function value (OFV) by 517. Therefore, the time-dependent change in clearance 
+(Figure 29) was included in the model used for assessment of covariates. 
+Reference ID: 4944832
+
+
+===== PAGE 189 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+175 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Figure 29. Equation for the Time-Dependent Change in Clearance 
+ CLi =൫ TVCLpop+Δmax × e(-θ × Day) ൯× eη 
+Source: Reviewer. 
+Abbreviations: CLi, individual predicted clearance; TVCLpop, typical population (mean) value at baseline; Δmax, maximum change in 
+clearance over time; θ, rate constant of change in clearance over time; η, interindividual random effect 
+Covariate Analysis 
+Base model output was used for graphical evaluation of parameter versus covariate relationships. 
+Parameter versus covariate relationships with physiological relevance or with graphical trend 
+were tested in univariate covariate models. Statistically significant parameter versus covariate 
+relationships or prespecified relationships of interest were included in a full model. A final 
+model was obtained by retaining only the statistically significant (p<0.001) covariates by 
+stepwise backward elimination. Table 103 lists the parameter versus covariate relationships 
+tested during covariate model development. 
+Table 103. Covariates Tested in the Population Pharmacokinetic Analysis 
+ 
+Source: Applicant’s population PK report (page 37 of 150). 
+Abbreviations: ALB, albumin; ALP, alkaline phosphatase; ALT, alanine aminotransferase; AST, aspartate aminotransferase; 
+CL, clearance; CRCL, creatinine clearance; ECOG, Eastern Cooperative Oncology Group; F, bioavailability; FED, fed status; 
+HGB, hemoglobin; Ka, absorption rate constant; PLAT, platelet; POP, study population; PPI, proton pump inhibitors/antacid drugs; 
+TBL, total bilirubin; TRT, treatment (once versus twice daily); Vc, central volume 
+Final Model 
+Figure 30 shows the statistically significant parameter versus covariate relationships in the 
+Applicant’s final population PK model. 
+Figure 30. Covariates Tested in the Population Pharmacokinetic Analysis 
+ 
+Source: Applicant’s population PK report (page 43 of 150). 
+Abbreviations: ALB, albumin; ALT, alanine aminotransferase; BID, twice daily; CL, clearance; DOSE, pacritinib dose; 
+F, bioavailability; HEP, hepatic impairment; FED, fed status; Ka, absorption rate constant; MF, myelofibrosis; PPI, proton pump 
+inh bitor/antacid drugs; Q, intercompartmental clearance; RENAL, renal impairment; TRT, treatment (once versus twice daily); Vc, 
+central volume; Vp, peripheral volume; WT, body weight 
+Reference ID: 4944832
+
+
+===== PAGE 198 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+184 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 106. Summary Statistics of Model Estimated Individual PK Parameters for All Subjects in the Phase 2 and Phase 3 Studies 
+Stratified by Dosing Regimen 
+Source: Reviewer’s independent analyses. 
+Abbreviations: AUC, area under the concentration-time curve; BID, twice daily; CL/F, total clearance; Cmax, maximum concentration; CV, coefficient of variation; KA, absorption rate 
+constant; PK, pharmacokinetics; Q/F, clearance; QD, once daily; TMAX, time to maximum concentration; VC/F, central volume of distribution; VP/F, peripheral volume of distribution 
+ 
+Reference ID: 4944832
+
+
+===== PAGE 210 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+196 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Figure 47. Model-Predicted Probability of Spleen Volume Response (≥35% SPV Reduction by 
+Week 24) by AUC Stratified by Prior Ruxolitinib Treatment 
+ 
+Source: Applicant’s exposure-response analysis report (page 47 of 85). 
+The red line and shaded area show the predicted mean probability of SPV ≥35% and 95% confidence intervals for ruxolitinib naïve 
+patients; the black line and shaded area show corresponding predictions for ruxolitinib-experienced patients. Open circles represent 
+observed categorical data taking values of 0 for SPV <35% and 1 for SPV ≥35%. The red and black open circles are for ruxolitinib-
+naïve and -experienced patients, respectively. 
+Abbreviations: AUC, area under the concentration-time curve; SPV, spleen volume 
+14.4.3.4. Applicant’s Exposure vs. Safety Analyses 
+The Applicant investigated relationships between different exposure metrics (AUC and Cmax) 
+versus different safety metrics. The exposure metrics were computed as described in 
+Section III.14.4.3.3. The safety metrics included, but were not limited to, cardiovascular adverse 
+events grade ≥3; bleeding grade ≥3 (BLEED); hemorrhage adverse event (AE) grade ≥3 
+(HMRG); thrombocytopenia toxicity grade ≥2 (THROM); anemia toxicity grade ≥2 (ANEM); 
+gastrointestinal disorders and AEs including nausea, vomiting, and diarrhea grade ≥2 (GIAE); 
+platelet ≤50,000/mL grade ≥3; and drug interruption due to AE. 
+The relationships between exposure metrics (AUC, Cmax, and Cmin) and AEs of interest were 
+evaluated from the pooled PKPD dataset (N=433) using a logistic regression (binomial) model. 
+ANEM, BLEED, GIAE, HMRG, and THROM indicated a significant positive correlation with 
+pacritinib exposure metrics (AUC, Cmax). Figure 48 shows model-predicted probabilities of 
+different safety metrics by AUC or Cmax. The figure shows steep exposure versus safety 
+relationships. 
+Reference ID: 4944832
+
+
+===== PAGE 218 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+204 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Figure 54. Observed Proportions of Responders in AUC Deciles Overlaid on the Monte Carlo 
+Simulated Proportion of Responders 
+ 
+Source: Reviewer’s independent analysis. 
+Black points and error bars represent observed response rates and 95% confidence intervals, respectively. 
+Abbreviations: AUC, area under the concentration-time curve; BID, twice daily; CI, confidence interval; QD, once daily 
+14.4.3.6. Reviewer’s Exposure vs. Safety Modeling 
+Data 
+The models for exposure versus safety events were developed using the adverse-event dataset 
+used by the Applicant to develop exposure-versus-safety models. However, the metrics of 
+exposures (Cmax, Cavg, AUC, and cumulative AUC) were computed using individual PK 
+parameters estimated from the reviewer’s final population PK model. For each subject, the 
+average dose received until Week 24 (dose intensity) was used for computation of AUC0­24. 
+Definition of Adverse Events 
+Adverse events were graded from 0 to 5 (0=no adverse events). For logistic regression analysis, 
+the adverse events were converted from ordinal to binary variables where subjects with grade <3 
+adverse events were considered to have no adverse events in the logistic regression analysis. 
+Logistic Regression Modeling 
+Univariate logistic regression modeling was conducted to assess the relationships between 
+pacritinib AUC and proportions of adverse events. The adverse events considered for analyses 
+Reference ID: 4944832
+
+
+===== PAGE 225 =====
+
+NDA 208712 
+Vonjo (pacritinib) 
+211 
+Integrated Review Template, version 2.0 (04/23/2020) 
+have Cmax and AUC0-24, respectively, higher than the 97.5th percentiles of the Cmax and AUC0-24 
+of the 200 mg BID dosing. 
+Table 113. Descriptive Statistics of Cmax (µg/mL) and AUC0-24 (hr×µg/mL) Among Subjects With PK 
+and Adverse Events Data in Studies PAC203, PERSIST-1 and PERSIST-2 
+Pacritinib 
+Dosage 
+N 
+Mean 
+95% CI 
+Proportions >97.5th 
+Percentile of Cmax or 
+AUC0-24 in 200 mg BID (%) 
+AUC 
+Cmax 
+AUC 
+Cmax 
+AUC 
+Cmax 
+100 mg BID 
+40 
+163 
+6 
+81-460 
+3-11 
+5.00 
+0.00 
+100 mg QD 
+36 
+124 
+6 
+40-211 
+2-10 
+0.00 
+0.00 
+200 mg BID 
+121 
+200 
+9 
+92-357 
+4-15 
+2.48 
+2.48 
+400 mg QD 
+79 
+254 
+12 
+111-488 
+5-20 
+11.39 
+18.99 
+Source: Reviewer’s independent analysis. 
+Abbreviations: BID, twice daily; QD, once daily; AUC, area under the concentration-time curve; Cmax, maximum concentration. 
+Predicted Probabilities of Death Events 
+To predict death events at different pacritinib doses, an exposure-response model for death 
+events was developed. Only death events occurring during the first 6 months of treatment were 
+considered for this analysis. Table 114 shows the number/proportion of death by the sixth month 
+of treatment stratified by study and treatment groups. 
+Table 114. Proportions of Deaths in Pacritinib Dosage Groups After 6 Months of Treatment 
+Study 
+Pacritinib Dosage 
+N 
+Number of 
+Deaths by 
+Month 6 
+Proportions of 
+Death by 
+Month 6 (%) 
+PAC203 
+100 mg BID 
+40 
+1 
+2.50 
+PAC203 
+100 mg QD 
+36 
+0 
+0.00 
+PAC203 
+200 mg BID 
+39 
+1 
+2.56 
+PERSIST-1 
+400 mg QD 
+6 
+0 
+0.00 
+PERSIST-2 
+200 mg BID 
+82 
+2 
+2.44 
+PERSIST-2 
+400 mg QD 
+73 
+4 
+5.48 
+Source: Reviewer’s independent analysis. 
+Abbreviations: BID, twice daily; QD, once daily 
+Logistic regression modeling was used to assess the association between pacritinib exposures 
+(Cmax and AUC0-24) and probability of death within 6 months of treatment. Table 115 shows the 
+parameter estimates of the logistic regression model of AUC0-24 versus death. Figure 60 is a 
+visual predictive check showing good agreement between observed and model-predicted 
+probability of death during the first 6 months of treatment with pacritinib. 
+Table 115. Parameter Estimates of Logistic Regression Model of AUC0-24 Versus Death 
+Predictors 
+Estimate 
+P-Value 
+Odds Ratio 
+Intercept 
+-4.932 
+0.00 
+- 
+AUC0-24 
+0.006 
+0.02 
+1.006 
+Source: Reviewer’s independent analysis. 
+Abbreviation: AUC0-24, area under the concentration-time curve from 0 to 24 hours 
+Reference ID: 4944832

@@ -1,0 +1,4196 @@
+
+
+===== PAGE 26 =====
+
+ 
+ 
+ 
+ 
+Pharmacometric Review of NDA 22406 (Rivaroxaban) 
+41
+ 
+ 
+ 
+ 
+ 
+Figure 7:  Estimated rivaroxaban steady-state AUC, Cmax and Ctrough in patients receiving 
+5 or 10 mg rivaroxaban once daily with inhibition of oxidative metabolism (i.e., 
+CYP3A4) and renal secretion (i.e. P-gp) versus observed rivaroxaban steady-state 
+exposure parameters in patients receiving 5 to 20 mg rivaroxaban once daily without 
+inhibition as observed in the phase 2 dose-ranging study 11527 (Report PK000131). 
+ 
+ 
+(Source: Figure 2, clinical-pk-supportive-calculations-and-simulations.pdf) 
+ 
+ 
+Reviewer’s Comments: 
+• Sponsor used incorrect assumptions for simulation which contradicts the 
+results of the phase 1 drug interaction studies with strong CYP3A4 and P-
+gp inhibitors (ketoconazole and ritonavir).  In these drug interaction 
+studies, the increase in 2.6-fold AUC was due to both reduction in 
+apparent clearance and volume of distribution.  However, in the 
+simulations, sponsor only reduced the individual estimates of clearance 
+and not volume of distribution which resulted in an increase in steady 
+state trough levels and half-life by 3.4 and 2.6-fold, respectively.  It is 
+important to note that half-life of rivaroxaban was only increased by 1.2-
+1.4 fold in the drug interaction studies with strong CYP3A4 and P-gp 
+inhibitors. 
+Reference ID: 2955610
+BEST AVAILABLE COPY
+
+
+===== PAGE 67 =====
+
+ 
+19
+ 
+Yes, Japanese subjects were found to have an apparent higher dose-normalized 
+rivaroxaban Cmax and AUC compared to other ethnic groups (i.e., Caucasian, African-
+American, Hispanic, Japanese, and Chinese, were evaluated) (Figure 12). 
+0.01
+0.02
+0.03
+0.04
+0
+20
+40
+60
+80
+100
+Percentile
+Cmax/Dose (1/L)
+Japanese
+Chinese
+Caucasian
+Hispanic
+African-American
+0.05
+0.10
+0.15
+0.20
+0
+20
+40
+60
+80
+100
+Percentile
+AUC/Dose (hr/L)
+Japanese
+Chinese
+Caucasian
+Hispanic
+African-American
+Figure 12: Cmax/Dose and AUC/Dose vs. percentiles for different ethnicities following single dose 
+2.5-10 mg rivaroxaban (studies 11126, 11608, and 12090). 
+ 
+The only differences in demographic covariates for Japanese compared to other 
+ethnicities are body weight and age where the Japanese were the youngest and lightest 
+subjects potentially explaining the higher exposure (Figure 13).  
+However, the median exposure in Japanese was approx. 50% higher compared to 
+Chinese subjects weighing the same as Japanese. The Japanese were approximately 10 
+years younger than the Chinese (mean age of 23 and 34 years for Japanese and 
+Chinese subjects in studies 11126 and 11608, respectively). One would expect the 
+younger Japanese subjects to clear the drug faster since age was found to be a covariate 
+for clearance in the population PK analysis using phase 2 and 3 data and thus have 
+lower exposure (AUC). However, the opposite finding was observed in studies 11126 and 
+11608. In conclusion, the observed differences in exposure between Japanese and other 
+ethnicities are unlikely due to demographic differences but rather inter-ethnicity 
+differences.  
+0.01
+0.02
+0.03
+0.04
+50
+60
+70
+80
+90
+100
+•
+•
+•
+• •
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+••
+•
+•
+•
+•
+••
+•
+•
+•
+•
+•
+•
+•
+• •
+•
+•
+•
+•
+•
+•
+•
+•
+••
+•
+• •
+•
+•
+•
+• •
+•
+•
+•
+•
+• •
+•
+• •
+Body weight (kg)
+Cmax/Dose (1/L)
+Japanese
+Chinese
+Caucasian
+Hispanic
+African-American
+0.01
+0.02
+0.03
+0.04
+20
+25
+30
+35
+40
+45
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+• •
+•
+•
+••
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•••
+•
+•
+Age (years)
+Cmax/Dose (/L)
+Japanese
+Chinese
+Caucasian
+Hispanic
+African-American
+
+
+===== PAGE 77 =====
+
+ 
+29
+2.2.5.9 How do the PK parameters change with time following chronic dosing? 
+The proposed indication does not permit chronic administration.  No apparent changes 
+were noted with multiple dosing for 14 or 35 days as proposed by the applicant.  
+2.2.5.10 What is the inter- and intra-subject variability of PK parameters in volunteers and 
+patients, and what are the major causes of variability? 
+Variability in PK from the phase I rivaroxaban clinical studies suggest that 1) the inter-
+individual variability (coefficient of variation) ranging from 18 to 33% for AUC, and from 
+16 to 39% for Cmax and 2) intra-individual variability was on average (median) 14% for 
+AUC, and 19% for Cmax. 
+Possible sources of reduced reliability may include practice variability across the large 
+number of clinical sites; increased variability in dosing and sampling times; and 
+increased variability in subjects’ underlying age related renal status. Population 
+approaches to describe rivaroxaban pharmacokinetics (pop-PK) suggest that important 
+patient covariates identified to influence rivaroxaban pharmacokinetics were: 1) Renal 
+function (creatinine clearance) affecting rivaroxaban clearance and 2) Body weight 
+affecting volume of distribution. 
+2.3 
+Intrinsic Factors 
+2.3.1 
+What intrinsic factors (age, gender, race, weight, height, disease, genetic 
+polymorphism, pregnancy, and organ dysfunction) influence exposure (PK 
+usually) and/or response, and what is the impact of any differences in exposure on 
+efficacy or safety responses? 
+Results from Phase I rivaroxaban clinical studies of studies suggest that age, Japanese 
+race, renal insufficiency, and hepatic insufficiency influence rivaroxaban exposure and 
+response (e.g., bleeding risk).  Body weight and gender do not appear to influence 
+rivaroxaban exposure (Table 6) and response.   While sample for pharmacogenetic 
+analysis were collected in many studies, genetic polymorphism was not evaluated.  
+Additional specific information regarding these intrinsic factors will be provided in section 
+2.3.2 below. 
+Table 6: Summary of rivaroxaban exposure data by weight and gender potentially 
+affecting its plasma concentrations [presented as mean ratios and 90% confidence 
+intervals (CI) for AUC and Cmax assessed in specifically designed clinical 
+pharmacology studies 
+ 
+Source: Applicants Figure 1-2 in “2.7.2 Summary of Clinical Pharmacology Studies” 
+page 20 
+
+
+===== PAGE 78 =====
+
+ 
+30
+2.3.2 
+Based upon what is known about exposure-response relationships and their 
+variability and the groups studied, healthy volunteers vs. patients vs. specific 
+populations (examples shown below), what dosage regimen adjustments, if any, 
+are recommended for each of these groups? If dosage regimen adjustments are 
+not based upon exposure-response relationships, describe the alternative basis 
+for the recommendation. 
+2.3.2.1 
+Elderly 
+Several specifically designed Phase 1 studies investigating the effects of age on 
+rivaroxaban PK and PD behavior. 
+Study 11529 is a randomized, single-blind, placebo-controlled, dose-escalation study in 
+elderly (> 60 years) male and female healthy subjects to investigate the safety, 
+tolerability, PD and PK of rivaroxaban following single-dose administration of 30, 40, 
+and 50 mg rivaroxaban given with a standard breakfast.  While the doses administered 
+in this study are greater than those proposed by the applicant and no direct comparison 
+to younger subjects was done, the observed reduced total body clearance (geometric 
+mean of 8.5-11 L/H and increased half-life (geometric mean  of 11-13 h) were 
+consistent with later studies that represented intended use for rivaroxaban. 
+Study 11569 is a randomized, single-blind, placebo-controlled trial an investigation of 
+the safety, tolerability, PD, and PK of a single oral dose of 10 mg rivaroxaban in male 
+and female subjects older than 75 years compared to young (18 -  43 years) subjects of 
+both genders.  This study reported an approximately 1.5-2 fold reduction in renal 
+clearance in the elderly male and female subjects compared to the younger subjects as 
+well as a similar trend for reduced total body clearance and increased half-life.  An 
+increase in exposure (AUC) of approximately 40% was reported (Table 7).  The 
+difference pharmacodynamic effect (Factor Xa & PT) Emax and AUC showed a similar 
+trend to that reported for the pharmacokinetic exposure differences reported in Table 7. 
+Table 7: LS-mean pharmacokinetic characteristics based on main effects 
+ANOVA for study 11569 
+ 
+Source: Applicants table 11-14 in the study report for study 11569 page 61 
+The applicant’s analysis of calculated creatinine clearance (Clcr) vs. age (Figure 21) 
+and Clcr vs. the total and renal clearance of rivaroxaban (Figure 22) and suggestion 
+that age related changes in renal function may play a significant role in this age effect 
+appears reasonable given what is known about the effect of age on renal function and 
+the renal clearance of rivaroxaban.  In addition, an exploratory pop-PK analysis 
+(PK000131) of data from two phase 2 studies (11527 and 10944) suggests a similar 
+trend regarding the relationship between creatinine clearance and total clearance of 
+rivaroxaban. 
+BEST AVAILABLE COPY
+
+
+===== PAGE 79 =====
+
+ 
+31
+ 
+Figure 21: Individual data for calculated creatinine clearance at baseline plotted 
+against age (all subjects treated with BAY 59-7939) from study 11569 
+Source: Applicants figure 11-1 in the study report for study 11569 page 41 
+ 
+ 
+Figure 22: Individual data for total clearance (CL/f) and renal clearance (CLR) of 
+BAY 59-7939 plotted against calculated creatinine clearance from study 11569 
+Source: Applicants figure 11-11 in the study report for study 11569 page 63 
+Study 10850 is a randomized, double-blind, placebo-controlled, group comparison 
+study in healthy young and elderly subjects of both genders to investigate the safety, 
+tolerability, PK and PD of rivaroxaban after a single 10 mg dose (as 2 x 5 mg tablets), 
+given under fasting condition.  Elderly subjects exhibited higher exposure than young 
+subjects (Table 8), with mean AUC values being approximately 52% greater in elderly 
+male subjects, and 39% higher in elderly female subjects, compared to the young 
+subjects of the same gender. The respective changes in Cmax were 35% for both male 
+and female subjects.  No changes in terminal half-life due to age and/or gender were 
+apparent.  The difference pharmacodynamic effect (Factor Xa & PT) Emax and AUC 
+showed a similar trend to that reported for the pharmacokinetic exposure differences 
+reported in Table 8. 
+Table 8: Ratios of geometric LS means (90% confidence interval) for selected 
+pharmacokinetic parameters 
+ 
+Source: Applicants figure 11-3 in the study report for study 10850 page 27 
+Safety information from the Phase 3 studies suggest a trend toward a higher incidence 
+of any bleeding and major and non-major clinically relevant bleeding events in patients 
+greater than 65 years of age receiving rivaroxaban compared to patients less than 65 
+BEST AVAILABLE COPY
+
+
+===== PAGE 84 =====
+
+ 
+36
+2.3.2.6 
+Renal impairment 
+Approximately 19 million Americans older than 20 years have chronic kidney disease.7  
+Moderate to severe renal disease is more prevalent in the population > 60 years of age 
+as outlined in Table 14.  The rate of total hip and knee arthroplasties is significantly 
+higher in patients > 65 years of age.8  Further, Corsonello et al. suggest almost 14% of 
+patients have concealed renal insufficiency.9  44.5% of these patients were greater 
+than 80 years old. 
+Table 14: Chronic Renal Disease Stage by Age using NHANES Data 
+1999-2006  
+Age 
+Stage1 
+GFR ≥ 90 
+Stage 2 
+GFR 60-89 
+Stage 3 
+GFR 30-59 
+Stage 4-5 
+GFR < 30 
+All 
+20-39 
+43.7 
+16.9 
+2.7 
+9.4 
+15.1 
+40-59 
+40.1 
+36.9 
+21.2 
+15.6 
+29 
+60+ 
+16.2 
+46.3 
+76.1 
+75 
+55.9 
+National Health and Nutrition Examination Survey (NHANES); GFR = mL/min/1.73m2 
+Source: Reference 7 
+ 
+Approximately 2/3 of rivaroxaban dosage is excreted via the kidneys, with 30 - 40% 
+being unchanged parent drug. Renal clearance of rivaroxaban thought to be comprised 
+of both passive glomerular filtration and Pgp/Bcrp-mediated active secretion.  The 
+applicant approximates this to be a 1:5 ratio based on renal clearance values from 
+health subjects.  Therefore understanding the effects of renal impairment on 
+rivaroxaban is important given a significant number of the target population for this drug 
+may have some degree of renal impairment. 
+A dedicated renal impairment study (11002) investigated the PK, PD, safety and 
+tolerability of 10 mg rivaroxaban in male and female patients with renal impairment and 
+in age-comparable male and female subjects with normal renal function, following 
+single-dose administration in a single-center, nonrandomized, non-controlled, non-
+blinded, observational study with group stratification.  This study enrolled 24 men and 
+women with mild (CLCR 50 to 79 mL/min, n=8), moderate (CLCR 30 to 49 mL/min, 
+n=8), and severe (CLCR < 30 mL/min, n=8) renal impairment. 8 healthy subjects with 
+normal creatinine clearance (CLCR ≥ 80 mL/min) served as a control. All subjects 
+received 10 mg rivaroxaban as a single dose.  Creatinine clearance values were 
+calculated as a 24 hour clearance from the creatinine concentrations measured in 
+serum and urine at the screening visit about 1-2 weeks prior to the start of the study. 
+In subjects with mild (creatinine clearance 50 to <80 mL/min), moderate (creatinine 
+clearance 30 to <50 mL/min) or severe renal impairment (creatinine clearance 15 to 
+<30 mL/min) rivaroxaban plasma exposure (Cmax and AUC) was increased and the 
+overall inhibition of FXa activity was increased by 1.5-, 1.9- and 2.0-fold respectively, 
+compared to healthy subjects with normal renal function (Table 15). In addition, the 
+increased overall exposure was associated with an increased sensitivity of prothrombin 
+time prolongation.  It is important to note that patients with creatinine clearance <15 
+mL/min were not studied.  
+Mean amounts of rivaroxaban excreted into urine decreased from approximately 30% 
+in the healthy subject group to approximately 10% in subjects with creatinine 
+                                                     
+7 U.S. Renal Data System, USRDS 2008 Annual Data Report: Atlas of Chronic Kidney Disease and End-Stage Renal 
+Disease in the United States, National Institutes of Health, National Institute of Diabetes and Digestive and Kidney 
+Diseases, Bethesda, MD, 2008. 
+8 Kurtz S, Mowat F, Ong K, Chan N, Lau E, Halpern M.  Prevalence of primary and revision total hip and knee arthroplasty 
+in the United States from 1990 through 2002. J Bone Joint Surg Am. 2005 Jul;87(7):1487-97 
+9 Corsonello A, Pedone C, Corica F, Mussi C, Carbonin P, Antonelli Incalzi R; Gruppo Italiano di Farmacovigilanza 
+nell'Anziano (GIFA) Investigators. Concealed renal insufficiency and adverse drug reactions in elderly hospitalized 
+patients. Arch Intern Med. 2005;165:790-5. 
+ 
+
+
+===== PAGE 123 =====
+
+Table 5-1: Study 10842 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / 
+Conclusions 
+Report 
+Module#/ 
+Total 
+(M/F) 
+Mean 
+(range) 
+Mean 
+(range) 
+Treatment 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study 
+Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+cross-over design 
+5 mg 
+solution 
+n=6 
+119 
+(18%) 
+461 
+(17%) 
+0.63 
+(0.5-0.75) 
+3.24 
+(8%) 
+10842 
+Germany 
+5.3.3.1.1 
+103 
+(103/0) 
+31.1 
+(21-38) 
+n=10 
+83.1 
+(59-100) 
+5 mg 
+(1 x 5 mg tablet) 
+n=6 
+72.0 
+(20%) 
+446 
+(23%) 
+1.88 
+(0.5-4.0) 
+4.27 
+(25%) 
+parallel-design 
+ 
+1.25 mg 
+(1 x 1.25 mg tablet) 
+n=8 
+23.2 
+(22%) 
+119 
+(24%) 
+3.0 
+(2.5-4.0) 
+3.93 
+(36%) 
+ 
+32.2 
+(19-45) 
+n=93 
+81.0 
+(52-106)
+10 mg 
+solution 
+n=8 
+266 
+(25%) 
+997 
+(25%) 
+0.5 
+(0.25-1.0) 
+4.15 
+(21%) 
+ 
+ 
+ 
+10 mg 
+(2 x 5 mg tablet) 
+n=8 
+141 
+(16%) 
+1020 
+(15%) 
+2.0 
+(0.5-2.5) 
+9.07 
+(62%) 
+ 
+ 
+ 
+15 mg 
+(3 x 5 mg tablet) 
+n=7 
+176 
+(39%) 
+1408 
+(28%) 
+1.25 
+(0.75-4.0) 
+11.5 
+(43%) 
+ 
+ 
+ 
+20 mg 
+(4 x 5 mg tablet) 
+n=7 
+173 
+(36%) 
+1612 
+(36%) 
+1.5 
+(0.5-4.0) 
+7.60 
+(35%) 
+Randomized, 
+single-blind, 
+placebo-
+controlled, 
+group-
+comparison 
+(one cross 
+over dose 
+step) dose 
+escalation 
+study in 
+healthy male 
+subjects, n=8 
+verum and 
+n=4 placebo 
+planned per 
+step 
+ 
+ 
+ 
+ 
+ 
+30 mg 
+(6 x 5 mg tablet) 
+n=6 
+ 
+226 
+(19%) 
+1994 
+(18%) 
+1.25 
+(0.75-4.0) 
+10.8 
+(89%) 
+Less than dose-
+proportional increases in 
+Cmax and AUC were  
+observed with higher 
+tablet doses. Due to 
+solubility-limited 
+absorption the apparent 
+half-life increases with 
+dose (flip-flop 
+pharmacokinetics). 
+41.8% of the dose 
+(arithmetic mean) is 
+excreted into urine as 
+unchanged drug (Aeur) at 
+1.25 mg. At the highest 
+investigated doses (40, 
+60 and 80 mg) the Aeur is 
+reduced to 19.8, 12.6 and 
+10.9% of the dose, 
+respectively, as a result 
+of incomplete absorption 
+5.3.3.1.1-1
+254
+
+
+===== PAGE 128 =====
+
+Table 5-2: Study 10847 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / Conclusions 
+Report Module#/ 
+Total 
+(M/F) 
+Mean 
+(range) 
+Mean 
+(range) 
+Treatment 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+10847 
+Germany 
+5.3.3.1.2 
+64 
+(64/0) 
+32.8 
+(20-45) 
+ 
+81.6 
+(59-104) 
+ 
+5 mg od 
+(1 x 5 mg tablet) 
+Day 1 
+n=7 
+74.3 
+(21%) 
+512 
+(22%) 
+4.0 
+(2.5-6.0) 
+5.36 
+(18%) 
+ 
+ 
+ 
+5 mg bid 
+(1 x 5 mg tablet) 
+Day 1 
+n=7 
+74.5 
+(25%) 
+537 
+(16%) 
+2.5 
+(1.0-4.0) 
+4.91 
+(16%) 
+ 
+ 
+ 
+5 mg tid 
+(1 x 5 mg tablet) 
+Day 1 
+n=6 
+84.8 
+(11%) 
+491 
+(15%) 
+2.51 
+(0.5-4.0) 
+4.54 
+(30%) 
+ 
+ 
+ 
+10 mg bid 
+(2 x 5 mg tablet) 
+Day 1 
+n=7 
+114 
+(16%) 
+816 
+(22%) 
+4.0 
+(1.0-4.0) 
+5.83 
+(13%) 
+ 
+ 
+ 
+20 mg bid 
+(4 x 5 mg tablet) 
+Day 1 
+n=7 
+278 
+(25%) 
+1994 
+(25%) 
+3.0 
+(2.5-4.0) 
+5.59 
+(13%) 
+Randomized, 
+single-blind, 
+placebo-
+controlled, 
+parallel-group, 
+multiple dose 
+application in 
+healthy male 
+subjects; n=8 
+verum and n=4 
+placebo planned 
+per step. Study 
+drug administered 
+with food on Day 
+1 and on days 
+4-8; no 
+administration on 
+days 2-3. PK 
+profiles collected 
+following first 
+administration on 
+Day 1 and Day 8, 
+respectively 
+ 
+ 
+ 
+ 
+ 
+30 mg bid 
+(6 x 5 mg tablet) 
+Day 1 
+n=7 
+367 
+(14%) 
+2472 
+(16%) 
+3.0 
+(2.5-4.0) 
+5.83 
+(20%) 
+Exploratory assessment 
+showed a dose-proportional 
+increase of AUC after first 
+dose and in steady state 
+condition, respectively. No 
+undue accumulation was 
+observed in the six 
+treatments as indicated by 
+similar AUCtau,ss (Day 8) 
+and AUC (Day 1). 
+ 
+ANOVA results 
+(ratio (90% CI)); 
+ 
+first dose (Day 1): 
+5 mg od vs. 10 mg bid 
+AUCnorm 0.80 (0.65-0.97) 
+Cmax,norm 0.76 (0.65-0.90) 
+5 mg od vs. 20 mg bid 
+AUCnorm 1.02 (0.83-1.24) 
+Cmax,norm 0.97 (0.82-1.15) 
+5 mg od vs. 30 mg bid 
+AUCnorm 0.82 (0.67-1.00) 
+Cmax,norm 0.83 (0.71-0.99) 
+5.3.3.1.2-1
+256
+
+
+===== PAGE 135 =====
+
+Table 5-4: Study 11529 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / Conclusions 
+Report 
+Module#/ 
+Total 
+(M/F) 
+Mean 
+(range) 
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+11529 
+Germany 
+5.3.3.3.1 
+52 
+(27/25) 
+65.6 
+(60-76) 
+77.3 
+(57-97) 
+30 mg 
+(3 x 10 mg tablet)
+n=12 
+male: n=6 
+female: n=6 
+392 
+(23%) 
+3531 
+(20%) 
+4.0 
+(2.0-4.0) 
+11.7 
+(64%) 
+ 
+ 
+ 
+40 mg 
+(4 x 10 mg tablet)
+n=12 
+male: n=6 
+female: n=6 
+461 
+(17%) 
+4385 
+(24%) 
+4.0 
+(3.0-6.0) 
+13.3 
+(32%) 
+Randomized, 
+single-blind, 
+placebo-
+controlled, single 
+dose escalation 
+study in elderly 
+(above 60 years) 
+male and female 
+subjects after 
+standard 
+breakfast 
+ 
+ 
+ 
+50 mg 
+(5 x 10 mg tablet) 
+n=12 
+male: n=6 
+female: n=6 
+437 
+(32%) 
+4496 
+ (34%) 
+4.0 
+(2.0-4.0) 
+11.9 
+(48%) 
+Less than dose-proportional 
+increase in systemic 
+exposure from 30 mg to 
+40 mg but no further 
+increase at 50 mg (ceiling 
+effect).  
+ 
+No relevant gender effect 
+on systemic exposure. 
+Small increases in Cmax and 
+AUC in females at 30 mg 
+and 40 mg likely to be 
+effects of body-weight.  
+ 
+30% (30 mg), 28% (40 mg) 
+and 22% (50 mg) 
+(arithmetic mean) of the 
+dose were excreted into 
+urine as unchanged drug. 
+ 
+ANOVA results 
+(Ratio (90% CI)) 
+40 mg vs. 30 mg tablet: 
+AUCnorm 0.91 (0.75-1.12) 
+Cmax,norm 0.87 (0.72-1.04) 
+50 mg vs. 30 mg tablet: 
+AUCnorm 0.80 (0.65-0.97) 
+Cmax,norm 0.70 (0.58-0.84) 
+ 
+ 
+5.3.3.3.1-1
+260
+
+
+===== PAGE 138 =====
+
+Table 5-5: Study 11569 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile 
+day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / Conclusions
+Report 
+Module#/ 
+Total 
+(M/F) 
+Mean 
+(range) 
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+11569 
+Germany 
+5.3.3.3.2 
+34 
+(17/17) 
+33.9 
+(22-43) 
+70.0 
+(59-79) 
+10 mg tablet 
+young female
+n=6 
+210 
+(24%) 
+1210 
+(13%) 
+3.0 
+(0.5-3.05) 
+11.7 
+(81%) 
+ 
+77.8 
+(75-83) 
+67.4 
+(59-79) 
+10 mg tablet 
+old female 
+n=6 
+245 
+(18%) 
+1941 
+(16%) 
+4.0 
+(2.0-4.0) 
+12.0 
+(31%) 
+ 
+30.3 
+(18-43) 
+81.3 
+(63-99) 
+10 mg tablet 
+young male 
+n=6 
+228 
+(18%) 
+1477 
+(30%) 
+3.0 
+(2.0-4.0) 
+6.89 
+(40%) 
+Randomized, 
+single-blind, 
+placebo-
+controlled, 
+single-dose 
+study in male 
+and female 
+subjects older 
+than 75 years 
+compared to 
+young 
+(18 - 45 years) 
+subjects 
+ 
+76.8 
+(74-83) 
+80.1 
+(67-104) 
+10 mg tablet 
+old male 
+n=6 
+229 
+(24%) 
+1839 
+(28%) 
+4.0 
+(3.0-4.0) 
+11.1 
+(33%) 
+No relevant age or gender 
+effect on Cmax and no 
+gender effect on AUC. 
+40% increase in AUC in 
+old compared to young 
+subjects partially 
+explainable by lower renal 
+clearance. Aeur of 
+unchanged drug was 35% 
+(young female), 27% (old 
+female), 33% (young male) 
+and 31% (old male). 
+ 
+ANOVA results 
+(Ratio (90% CI)) 
+ 
+women vs. men: 
+AUC 0.93 (0.79-1.09) 
+Cmax 0.99 (0.86-1.15) 
+AUCnorm 0.81 (0.66-1.00) 
+Cmax,norm 0.87 (0.73-1.03)  
+ 
+old vs. young: 
+AUC 1.41 (1.20-1.66) 
+Cmax 1.08 (0.94-1.25) 
+AUCnorm 1.39 (1.13-1.71) 
+Cmax,norm 1.07 (0.90-1.27) 
+ 
+ 
+5.3.3.3.2-1
+261
+
+
+===== PAGE 140 =====
+
+Table 5-6: Study 10850 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / Conclusions
+Report 
+Module#/ 
+Total 
+(M/F) 
+Mean 
+(range) 
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+10850 
+USA 
+5.3.3.3.3 
+48 
+(24/24) 
+34.1 
+(23-43) 
+82.6 
+(59-108) 
+10 mg 
+(2 x 5 mg tablet) 
+young male 
+n=9 
+158 
+(27%) 
+1220 
+(25%) 
+1.5 
+(0.5-4.0) 
+9.91 
+(42%) 
+ 
+38.8 
+(30-45) 
+68.3 
+(59-83) 
+10 mg 
+(2 x 5 mg tablet) 
+young female 
+n=9 
+224 
+(33%) 
+1338 
+(45%) 
+2.0 
+(0.5-4.0) 
+10.0 
+(40%) 
+ 
+74.0 
+(68-80) 
+74.5 
+(62-88) 
+10 mg 
+(2 x 5 mg tablet) 
+elderly male 
+n=9 
+214 
+(45%) 
+1852 
+(35%) 
+2.5 
+(1.0-2.5) 
+9.42 
+(29%) 
+Randomized, 
+single-dose, 
+placebo-
+controlled, 
+parallel group 
+study in young 
+(18 - 45 years) 
+and elderly 
+(65 - 80 years) 
+healthy subjects 
+of both genders 
+ 
+68.4 
+(65-75) 
+71.7 
+(65-84) 
+10 mg 
+(2 x 5 mg tablet) 
+elderly female 
+n=9 
+304 
+(27%) 
+1859 
+(20%) 
+2.5 
+(1.0-3.0) 
+8.43 
+(48%) 
+The pharmacokinetics 
+were significantly altered in 
+elderly subjects with mean 
+increases in AUC and Cmax 
+by 45% and 35% 
+compared to young 
+subjects. Gender had no 
+effect on AUC but Cmax 
+was increased (+ 42%) in 
+females. This effect was 
+less pronounced after 
+body-weight-normalization. 
+ 
+Group comparisons 
+(Ratio (90%CI)) 
+ 
+elderly vs. young: 
+AUC 1.45 (1.21-1.74) 
+Cmax 1.35 (1.12-1.64) 
+AUCnorm 1.42 (1.14-1.76) 
+Cmax,norm 1.32 (1.07-1.62) 
+ 
+male vs. female: 
+AUC 1.05 (0.87-1.26) 
+Cmax 1.42 (1.17-1.72) 
+AUCnorm 0.94 (0.76-1.17) 
+Cmax,norm 1.28 (1.04-1.57) 
+ 
+ 
+ 
+5.3.3.3.3-1
+262
+
+
+===== PAGE 142 =====
+
+Table 5-7: Study 11568 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile 
+day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / Conclusions 
+Report 
+Module#/ 
+Total 
+(M/F) 
+Mean 
+(range) 
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+11568 
+Germany 
+5.3.3.3.4 
+48 
+(16/32) 
+ 
+ 
+ 
+35.3 
+(22-46) 
+ 
+ 
+ 
+48.3 
+(47-50) 
+10 mg tablet  
+BW ≤ 50 kg 
+ 
+female 
+n=12 
+ 
+ 
+ 
+178 
+(17%) 
+ 
+ 
+ 
+1172 
+(22%) 
+ 
+ 
+ 
+4.0 
+(1.0-4.02) 
+ 
+ 
+ 
+9.58 
+(37%) 
+ 
+ 
+ 
+ 
+36.0 
+(22-54) 
+ 
+28.5 
+(20-53) 
+ 
+ 
+ 
+74.7 
+(72-77) 
+ 
+73.3 
+(70-76) 
+10 mg tablet  
+BW 70 to 80 kg
+ 
+male 
+n=6 
+ 
+female 
+n=6 
+ 
+ 
+ 
+142 
+(30%) 
+ 
+145 
+(26%) 
+ 
+ 
+ 
+1011 
+(27%) 
+ 
+1047 
+(12%) 
+ 
+ 
+ 
+3.0 
+(1.0-4.0) 
+ 
+4.0 
+(1.0-4.03) 
+ 
+ 
+ 
+6.29 
+(27%) 
+ 
+8.14 
+(53%) 
+Randomized, 
+single-blind, 
+placebo-
+controlled, 
+single-dose 
+administration 
+with food in 
+male and 
+female 
+subjects of 
+different weight 
+categories 
+ 
+ 
+ 
+ 
+38.0 
+(22-47) 
+ 
+36.2 
+(24-44) 
+ 
+ 
+ 
+135.8 
+(123-145) 
+ 
+128.5 
+(120-145) 
+10 mg tablet  
+BW > 120 kg 
+ 
+male 
+n=6 
+ 
+female 
+n=6 
+ 
+ 
+ 
+134 
+(15%) 
+ 
+166 
+(21%) 
+ 
+ 
+ 
+1067 
+(13%) 
+ 
+1251 
+(14%) 
+ 
+ 
+ 
+4.0 
+(4.0-4.02) 
+ 
+3.5 
+(2.0-4.02) 
+ 
+ 
+ 
+6.85 
+(19%) 
+ 
+7.78 
+(31%) 
+No differences between 
+weight categories with 
+regard to AUC. Subjects with 
+≤ 50 kg body weight had 
+higher Cmax (+24%) than 
+subjects of the normal 
+weight category. No gender 
+effect on AUC and Cmax was 
+seen. 
+ 
+ANOVA results 
+(Ratio (90% CI)) 
+ 
+≤ 50 kg vs. 70-80 kg (n=24): 
+AUC 1.14 (1.00-1.30) 
+Cmax 1.24 (1.07-1.44) 
+>120 kg vs. 70-80 kg (n=24): 
+AUC 1.12 (0.98-1.28) 
+Cmax 1.04 (0.90-1.20) 
+ 
+male vs. female 70-80 kg 
+(n=12): 
+AUC 0.97 (0.81-1.15) 
+Cmax 0.98 (0.78-1.24) 
+male vs. female > 120 kg 
+(n=12): 
+AUC 0.85 (0.72-1.02) 
+Cmax 0.81 (0.64-1.02)  
+ 
+ 
+5.3.3.3.4-1
+263
+
+
+===== PAGE 144 =====
+
+Table 5-8: Study 11002 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / 
+Conclusions 
+Report Module#/ 
+Total 
+(M/F) 
+Mean 
+(range) 
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+11002 
+Germany 
+5.3.3.3.5 
+32 
+(18/14) 
+51.3 
+(39-69) 
+76.6 
+(61-95) 
+10 mg 
+(2 x 5 mg tablet) 
+CLCR 
+≥ 80mL/min 
+control group 
+n=8 
+172 
+(31%) 
+1247 
+(49%) 
+2.0 
+(0.5-4.0) 
+8.28 
+(38%) 
+ 
+49.4 
+(39-61) 
+80.8 
+(58-110) 
+10 mg 
+(2 x 5 mg tablet) 
+CLCR 
+50-79 mL/min 
+mild impairment 
+n=8 
+218 
+(38%) 
+1864 
+(31%) 
+2.0 
+(1.0-6.0) 
+8.69 
+(50%) 
+ 
+54.9 
+(38-69) 
+75.3 
+(64-88) 
+10 mg 
+(2 x 5 mg tablet) 
+CLCR 
+30-49 mL/min 
+moderate 
+impairment 
+n=8 
+206 
+(26%) 
+2068 
+(33%) 
+3.0 
+(1.0-4.0) 
+8.99 
+(39%) 
+Non-randomized, 
+non-controlled, 
+non-blind, single 
+dose 
+administration in 
+male and female 
+patients with renal 
+impairment and in 
+age comparable 
+subjects with 
+normal renal 
+function 
+ 
+51.8 
+(36-65) 
+72.5 
+(56-94) 
+10 mg 
+(2 x 5 mg tablet) 
+CLCR 
+< 30 mL/min 
+severe 
+impairment 
+n=8 
+232 
+(33%) 
+2228 
+(37%) 
+3.0 
+(2.0-4.0) 
+9.46 
+(32%) 
+Total body clearance and 
+renal clearance (2.38, 
+1.18, 0.68 and 0.50 L/h in 
+control subjects and 
+patients with increasing 
+degree of impairment) of 
+rivaroxaban decreased 
+with creatinine clearance. 
+Increased AUC (+ 64%) 
+and Cmax (+ 26%) in 
+severely impaired subjects 
+vs. controls. Fraction of 
+drug unbound in plasma 
+was unaffected by renal 
+impairment. 
+ 
+ANOVA results 
+(Ratio (90% CI)) 
+ 
+CLCR 50-79 vs. healthy: 
+AUC 1.44 (1.08-1.92) 
+Cmax 1.28 (1.07-1.55) 
+CLCR 30-49 vs. healthy: 
+AUC 1.52 (1.15-2.01) 
+Cmax 1.12 (0.93-1.34) 
+CLCR <30 vs. healthy: 
+AUC 1.64 (1.24-2.17) 
+Cmax 1.26 (1.05-1.51) 
+ 
+ 
+5.3.3.3.5-1
+264
+
+
+===== PAGE 146 =====
+
+Table 5-9: Study 11003 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / 
+Conclusions 
+Report Module#/ 
+Total 
+(M/F) 
+Mean 
+(range
+) 
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+11003 
+Germany 
+5.3.3.3.6 
+32 
+(18/14) 
+58.4 
+(49-68) 
+81.1 
+(58-107) 
+10 mg 
+(2 x 5 mg tablet) 
+patients 
+Child Pugh A 
+n=8 
+203 
+(42%) 
+1746 
+(42%) 
+2.0 
+(1.0-4.02) 
+10.4 
+(82%) 
+ 
+51.9 
+(40-66) 
+73.3 
+(55-91) 
+10 mg 
+(2 x 5 mg tablet) 
+patients 
+Child Pugh B 
+n=8 
+279 
+(46%) 
+3510 
+(59%) 
+3.0 
+(1.0-4.0) 
+10.1 
+(34%) 
+Non-randomized, 
+non-controlled, 
+non-blind, parallel 
+group study with 
+single dose 
+administration in 
+male and female 
+patients with 
+hepatic impairment 
+(Child Pugh A or B; 
+18-65 years) and 
+age- and weight-
+matched male and 
+female healthy 
+subjects 
+(18-70 years) 
+ 
+54.3 
+(36-67) 
+76.0 
+(53-99) 
+10 mg 
+(2 x 5 mg tablet) 
+healthy subjects 
+n=16 
+214 
+(37%) 
+1516 
+(33%) 
+2.0 
+(1.0-4.0) 
+8.00 
+(44%) 
+Rivaroxaban AUC (2.27 
+fold) and to a lesser 
+extent Cmax (1.27 fold) 
+were significantly 
+increased in subjects with 
+hepatic impairment of the 
+Child Pugh B category 
+compared to healthy 
+control subjects. Hepatic 
+impairment had no effect 
+on the unbound drug 
+fraction in plasma. 
+ 
+ANOVA results 
+(Ratio (90% CI)) 
+ 
+Child Pugh B vs. A: 
+AUC 1.97 (1.38-2.80) 
+Cmax 1.31 (0.98-1.76) 
+ 
+Child Pugh B vs. healthy: 
+AUC 2.27 (1.68-3.07) 
+Cmax 1.27 (0.99-1.63) 
+ 
+Child Pugh A vs. healthy: 
+AUC 1.15 (0.85-1.57) 
+Cmax 0.97 (0.75-1.25) 
+ 
+ 
+5.3.3.3.6-1
+265
+
+
+===== PAGE 150 =====
+
+Table 5-11: Study 11127 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / 
+Conclusions 
+Report Module#/ 
+Total 
+(M/F) 
+Mean 
+(range) 
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+11127 
+Japan 
+5.3.3.3.8 
+30 
+(30/0) 
+23.5 
+(20-29) 
+56.9 
+(50-81) 
+10 mg bid 
+(2 x 5 mg tablet) 
+Day 1 
+n=8 
+203 
+(20%) 
+1365 
+(17%) 
+3.50 
+(2.0-4.0) 
+4.30 
+(9%) 
+ 
+ 
+ 
+20 mg bid 
+(4 x 5 mg tablet) 
+Day 1 
+n=8 
+340 
+(13%) 
+2471 
+(17%) 
+3.50 
+(1.0-4.0) 
+4.91 
+(14%) 
+ 
+ 
+ 
+30 mg bid 
+(6 x 5 mg tablet) 
+Day 1 
+n=8 
+537 
+(15%) 
+3914 
+(20%) 
+2.75 
+(2.0-4.0) 
+5.21 
+(17%) 
+Almost dose proportional 
+increase in AUC from 
+10 mg to 20 mg and 
+slightly less than 
+proportional at 30 mg. 
+Cmax increase less than 
+dose proportional. 
+30 
+(30/0) 
+23.5 
+(20-29) 
+56.9 
+(50-81) 
+10 mg bid 
+(2 x 5 mg tablet) 
+Day 6 
+n=8 
+206 
+(9%) 
+1218 
+(13%) 
+2.25 
+(1.0-4.0) 
+4.86 
+(25%) 
+ 
+ 
+ 
+20 mg bid 
+(4 x 5 mg tablet) 
+Day 6 
+n=8 
+401 
+(15%) 
+2480 
+(15%) 
+2.50 
+(1.0-4.0) 
+6.69 
+(39%) 
+Randomized, 
+single-blind, 
+placebo-
+controlled, 
+multiple dose-
+escalation study in 
+healthy Japanese 
+male subjects; bid 
+dosing for 6 days 
+with PK profiles 
+describing 
+respective first 
+dose (0-12 h) on 
+Day 1 and Day 6; 
+n=8 verum and 
+n=2 placebo per 
+step 
+ 
+ 
+ 
+30 mg bid 
+(6 x 5 mg tablet) 
+Day 6 
+n=8 
+547 
+(15%) 
+3331 
+(22%) 
+2.50 
+(1.0-4.0) 
+5.23 
+(39%) 
+Dose proportional 
+increase in AUCtau,ss and 
+Cmax,ss from 10 mg to 
+20 mg and slightly less 
+than proportional at 
+30 mg. Similar values for 
+AUC (Day 1) and 
+AUCtau,ss (Day 6) indicate 
+the absence of 
+unexpected accumulation 
+upon multiple dosing. 
+ 
+ 
+5.3.3.3.8-1
+267
+
+
+===== PAGE 152 =====
+
+Table 5-12: Study 11325 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / 
+Conclusions 
+Report Module#/ 
+Total 
+(M/F) 
+Mean 
+(range) 
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+11325 
+Japan 
+5.3.3.3.9 
+10 mg 
+(1 x 10 mg tablet) 
+male, n=6 
+177 
+(28%) 
+1261 
+(15%) 
+3.0 
+(2.0-6.0) 
+6.83 
+(18%) 
+64 
+(32/32) 
+66.1 
+(60-76) 
+58.1 
+(50-67) 
+female, n=6 
+212 
+(11%) 
+1480 
+(15%) 
+3.5 
+(1.5-4.0) 
+9.39 
+(13%) 
+20 mg 
+(2 x 10 mg tablet) 
+male, n=6 
+313 
+(20%) 
+2434 
+(19%) 
+2.5 
+(2.0-6.0) 
+8.80 
+(26%) 
+ 
+64.0 
+(60-72) 
+61.1 
+(48-74) 
+female, n=6 
+356 
+(23%) 
+2542 
+(27%) 
+3.5 
+(2.5-4.0) 
+8.68 
+(18%) 
+30 mg 
+(3 x 10 mg tablet) 
+male, n=6 
+485 
+(26%) 
+4520 
+(30%) 
+4.0 
+(3.0-4.0) 
+9.02 
+(21%) 
+ 
+68.8 
+(60-79) 
+59.2 
+(41-75) 
+female, n=6 
+483 
+(17%) 
+4106 
+(11%) 
+4.0 
+(3.0-8.0) 
+8.66 
+(40%) 
+40 mg 
+(4 x 10 mg tablet) 
+male, n=6 
+569 
+(14%) 
+4312 
+(33%) 
+2.75 
+(2.5-4.0) 
+13.7 
+(68%) 
+Randomized, 
+single-blind, 
+placebo-
+controlled, single 
+dose escalation 
+study in healthy 
+elderly (aged 
+60 years or older) 
+male and female 
+Japanese 
+subjects under fed 
+condition (after 
+breakfast); n=12 
+verum (n=6 male 
+and 6 female) and 
+n=4 placebo per 
+step 
+ 
+65.8 
+(60-76) 
+56.2 
+(46-67) 
+female, n=6 
+683 
+(11%) 
+4853 
+(19%) 
+2.5 
+(2.0-4.0) 
+17.3 
+(109%)
+Dose-dependent but 
+slightly less than 
+proportional increase in 
+Cmax up to 40 mg. Almost 
+dose-proportional 
+increase in AUC up to 
+30 mg but no further 
+increase at 40 mg. Aeur of 
+29, 24, 25 and 18% (10, 
+20, 30 and 40 mg). 
+ 
+No gender effect on 
+exposure. 
+ 
+ANOVA (Ratio (90% CI)); 
+total population 
+ 
+Female / male:  
+AUCnorm 0.93 (0.83-1.06) 
+Cmax,norm 1.00 (0.90-1.10) 
+ 
+AUC/D 1.06 (0.95-1.18) 
+Cmax/D 1.13 (1.03-1.24) 
+ 
+ 
+ 
+5.3.3.3.9-1
+268
+
+
+===== PAGE 154 =====
+
+Table 5-13: Study 12026 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / Conclusions
+Report Module#/ 
+Total 
+(M/F) 
+Mean 
+(range) 
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+12026 
+Japan 
+5.3.3.3.10 
+36 
+(18/18) 
+68.9 
+(65-77) 
+54.3 
+(44-73) 
+10 mg od 
+(2 x 5 mg tablet) 
+Day 1 
+n=12 
+233 
+(19%) 
+1502 
+(22%) 
+3.00 
+(1.0-4.0) 
+5.7 
+(18%) 
+ 
+69.2 
+(65-78) 
+57.1 
+(42-73) 
+15 mg od 
+(3 x 5 mg tablet) 
+Day 1 
+n=12 
+348 
+(23%) 
+2217 
+(28%) 
+4.00 
+(1.0-4.0) 
+6.3 
+(35%) 
+ 
+69.3 
+(66-77) 
+59.4 
+(49-72) 
+20 mg od 
+(4 x 5 mg tablet) 
+Day 1 
+n=12 
+391 
+(21%) 
+2534 
+ (25%) 
+2.50 
+(2.0-4.0) 
+6.1 
+(21%) 
+Dose-dependent increases 
+in Cmax and AUCτ. No effect 
+of gender on rivaroxaban 
+pharmacokinetics. 
+ 
+Day 1 
+ANOVA (Ratio (90% CI));  
+15 mg vs. 10 mg: 
+AUCτ,norm 1.01 (0.84-1.22) 
+Cmax,norm  1.05 (0.89-1.23) 
+20 mg vs. 10 mg: 
+AUCτ,norm 0.92 (0.77-1.11) 
+Cmax,norm 0.92 (0.79-1.09) 
+36 
+(18/18) 
+68.9 
+(65-77) 
+54.3 
+(44-73) 
+10 mg od 
+(2 x 5 mg tablet) 
+Day 7 
+n=12 
+247 
+(11%) 
+1533 
+(15%) 
+3.00 
+(1.5-4.0) 
+7.7 
+(41%) 
+Open-label, 
+multiple dose-
+escalation study 
+with once-daily 
+dosing for 7 days in 
+elderly healthy 
+Japanese male 
+subjects under fed 
+condition (after 
+breakfast) 
+ 
+69.2 
+(65-78) 
+57.1 
+(42-73) 
+15 mg od 
+(3 x 5 mg tablet) 
+Day 7 
+n=12 
+331 
+(21%) 
+2243 
+(21%) 
+3.50  
+(0.5-4.0) 
+8.7 
+(27%) 
+ 
+ 
+69.3 
+(66-77) 
+59.4 
+(49-72) 
+20 mg od 
+(4 x 5 mg tablet) 
+Day 7 
+n=12 
+399 
+(25%) 
+2839 
+(21%) 
+3.00 
+(1.5-4.0) 
+7.7 
+(24%) 
+Day 7 
+ANOVA (Ratio (90% CI));  
+15 mg vs. 10 mg: 
+AUCτ,norm 1.03 (0.88-1.20) 
+Cmax,norm 0.94 (0.81-1.10) 
+20 mg vs. 10 mg: 
+AUCτ,norm 1.02 (0.87-1.19) 
+Cmax,norm  0.89 (0.76-1.03) 
+ 
+ 
+5.3.3.3.10-1
+269
+
+
+===== PAGE 158 =====
+
+Table 5-15: Study 11609 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / 
+Conclusions 
+Report Module#/ 
+Total 
+(M/F) 
+Mean 
+(range) 
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+11609 
+China 
+5.3.3.3.12 
+41 
+(41/0) 
+34.7 
+(30-39) 
+66.0  
+(51-79) 
+5 mg bid 
+(1 x 5 mg tablet) 
+Day 1 
+n=8 
+97.4 
+(13%) 
+614 
+(22%) 
+1.50 
+(0.5-4.0) 
+4.12 
+(12%) 
+ 
+ 
+ 
+10 mg bid 
+(1 x 10 mg tablet) 
+Day 1 
+n=8 
+175 
+(28%) 
+1150 
+(22%) 
+2.75 
+(1.0-6.0) 
+4.12 
+(12%) 
+ 
+ 
+ 
+20 mg bid 
+(2 x 10 mg tablet) 
+Day 1 
+n=8 
+332 
+(15%) 
+2173 
+(22%) 
+2.50 
+(1.0-4.0) 
+4.91 
+(21%) 
+Randomized, 
+single-blind, 
+placebo-controlled, 
+multiple dose 
+escalation study  in 
+healthy Chinese 
+male Chinese 
+subjects; tablet 
+intake with food od 
+on Day 1 and Day 
+6 and bid on days 2 
+to 5; n=8 verum 
+and n=2 placebo 
+ 
+ 
+ 
+ 
+ 
+30 mg bid 
+(3 x 10 mg tablet) 
+Day 1 
+n=8 
+469 
+(19%) 
+3167 
+(19%) 
+2.75 
+(1.5-4.0) 
+5.80 
+(26%) 
+Almost dose-proportional 
+increase in Cmax and AUC 
+from 5 mg to 30 mg in the 
+fed condition. 
+ 
+Pharmacokinetics were 
+similar to previous studies 
+in healthy Caucasian and 
+Japanese males. 
+ 
+ANOVA results 
+(Ratio (90% CI)) 
+ 
+Day 1 
+30 mg vs. 5 mg: 
+AUCnorm 0.86 (0.69-1.09) 
+Cmax,norm 0.81 (0.65-1.01) 
+20 mg vs. 5 mg: 
+AUCnorm 0.92 (0.73-1.15) 
+Cmax,norm 0.88 (0.71-1.10) 
+10 mg vs. 5 mg: 
+AUCnorm 0.92 (0.73-1.16) 
+Cmax,norm 0.88 (0.71-1.10) 
+5.3.3.3.12-1
+271
+
+
+===== PAGE 159 =====
+
+Table 5-15: Study 11609 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / Conclusions
+Report Module#/ 
+Total 
+(M/F) 
+Mean 
+(range) 
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+41 
+(41/0) 
+34.7 
+(30-39) 
+66.0 
+(51-79) 
+5 mg bid 
+(1 x 5 mg tablet) 
+Day 6 
+n=8 
+115 
+(24%) 
+674 
+(15%) 
+2.00 
+(1.0-3.0) 
+4.92 
+(19%) 
+ 
+ 
+ 
+10 mg bid 
+(1 x 10 mg tablet) 
+Day 6 
+n=8 
+216 
+(20%) 
+1305 
+(18%) 
+2.50 
+(1.5-4.0) 
+5.12 
+(25%) 
+ 
+ 
+ 
+20 mg bid 
+(2 x 10 mg tablet) 
+Day 6 
+n=8 
+415 
+(16%) 
+2527 
+(21%) 
+2.50 
+(1.5-3.0) 
+4.59 
+(12%) 
+ 
+ 
+ 
+ 
+30 mg bid 
+(3 x 10 mg tablet) 
+Day 6 
+n=8 
+590 
+(9%) 
+3601 
+(14%) 
+2.25 
+(1.0-3.0) 
+5.84 
+(31%) 
+Accumulation ratios for 
+AUC (AUCtau,ss : AUC = 
+110-116 %) and Cmax 
+(Cmax,ss : Cmax = 119-
+126%) close to unity 
+indicate little unexpected 
+accumulation upon 
+multiple dosing. 
+ 
+Aeur on Day 6 decreased 
+dose-dependently from 
+52% (5 mg bid) to 28% 
+(30 mg bid) 
+ 
+ANOVA results 
+(Ratio (90% CI)) 
+ 
+Day 6 
+30 mg vs. 5 mg: 
+AUCnorm 0.90 (0.73-1.10) 
+Cmax,norm 0.86 (0.70-1.06) 
+20 mg vs. 5 mg: 
+AUCnorm 0.97 (0.79-1.19) 
+Cmax,norm 0.93 (0.76-1.15) 
+10 mg vs. 5 mg: 
+AUCnorm 0.95 (0.78-1.16) 
+Cmax,norm 0.92 (0.74-1.13) 
+ 
+ 
+272
+
+
+===== PAGE 161 =====
+
+Table 5-16: Study 11708 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / Conclusions
+Report Module#/ 
+Total 
+(M/F) 
+Mean 
+(range) 
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+11708 
+China 
+5.3.3.3.13 
+79 
+(40/39) 
+62.8 
+(59-74) 
+ 
+61.6  
+(44-81) 
+ 
+5 mg 
+(1 x 5 mg tablet) 
+male, n=5 
+female, n=7 
+121 
+(27%) 
+610 
+(37%) 
+2.00 
+(0.5-4.0) 
+4.47 
+(51%) 
+ 
+ 
+ 
+10 mg 
+(1 x 10 mg tablet) 
+male, n=6 
+female, n=5 
+228 
+(20%) 
+1060 
+(18%) 
+3.00 
+(2.0-4.0) 
+9.03 
+(56%) 
+ 
+ 
+ 
+20 mg 
+(2 x 10 mg tablet 
+male, n=6 
+female, n=6 
+386 
+(17%) 
+2167 
+(17%) 
+3.00 
+(1.0-4.0) 
+8.31 
+(60%) 
+ 
+ 
+ 
+30 mg 
+(3 x 10 mg tablet 
+male, n=6 
+female, n=6 
+550 
+(19%) 
+3360 
+(22%) 
+2.00 
+(1.0-4.0) 
+9.56 
+(62%) 
+Randomized, 
+single-blind, 
+placebo-
+controlled, single 
+dose escalation 
+study in elderly 
+male and female 
+healthy Chinese 
+subjects after 
+standard 
+breakfast  
+ 
+ 
+ 
+40 mg 
+(4 x 10 mg tablet 
+male, n=5 
+female, n=5 
+670 
+(21%) 
+4339 
+(22%) 
+2.00 
+(1.0-4.0) 
+8.75 
+(64%) 
+Dose-proportionality in 
+rivaroxaban AUC but less 
+than dose-proportional 
+Cmax 
+ 
+ANOVA results (Ratio 
+(95% CI); all subjects valid 
+for PK) 
+ 
+40 mg vs. 5 mg: 
+AUCnorm 0.90 (0.73-1.11) 
+Cmax,norm 0.70 (0.58-0.84) 
+40 mg vs. 10 mg: 
+AUCnorm 1.10 (0.89-1.36) 
+Cmax,norm 0.79 (0.66-0.95) 
+40 mg vs. 20 mg: 
+AUCnorm 1.05 (0.85-1.29) 
+Cmax,norm 0.91 (0.76-1.09) 
+40 mg vs. 30 mg: 
+AUCnorm 0.99 (0.80-1.21) 
+Cmax,norm 0.93 (0.78-1.11) 
+ 
+ 
+ 
+5.3.3.3.13-1
+273
+
+
+===== PAGE 163 =====
+
+Table 5-17: Study 12090 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / 
+Conclusions 
+Report Module#/ 
+Total 
+(M/F) 
+Mean 
+(range)
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+12090 
+USA 
+5.3.3.3.14 
+47 
+(24/23) 
+32.7 
+(19-45) 
+80.0 
+(57-94) 
+10 mg tablet 
+Black, 
+African-American
+n=11 
+179 
+(28%) 
+1203 
+(20%) 
+3.00 
+(1.0-4.0) 
+8.8 
+(54%)
+ 
+34.5 
+(22-44) 
+68.6 
+(51-83) 
+10 mg tablet 
+White Caucasian
+n=11 
+175 
+(33%) 
+1175 
+(40%) 
+3.00 
+(1.0-4.0) 
+10.3 
+(60%)
+Randomized, 
+single-blind, 
+placebo-controlled 
+study  in young 
+male and female  
+Black, Caucasian 
+and Hispanic 
+subjects  
+ 
+32.3 
+(18-45) 
+72.3 
+(60-99) 
+10 mg tablet 
+Hispanic 
+n=12 
+177 
+(15%) 
+1288 
+(19%) 
+3.00 
+(0.5-6.0) 
+7.2 
+(28%)
+No statistical differences 
+for AUC and Cmax between 
+the ethnic groups. Mean 
+between-group-
+differences of less than 
+10% would not require any 
+dose modification of 
+rivaroxaban. 
+ 
+ANOVA (Ratio (90% CI));  
+ 
+Caucasian vs. Black:  
+AUC  0.97 (0.80-1.19) 
+Cmax  0.98 (0.82-1.18) 
+ 
+Caucasian vs. Hispanic: 
+AUC  0.92 (0.75-1.12) 
+Cmax  1.00 (0.83-1.20) 
+ 
+Black vs. Hispanic: 
+AUC  0.94 (0.77-1.15) 
+Cmax  1.02 (0.85-1.22) 
+ 
+ 
+ 
+ 
+5.3.3.3.14-1
+274
+
+
+===== PAGE 165 =====
+
+Table 5-18: Comedication Study 11000 Ranitidine 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / Conclusions
+Report Module#/ 
+Total 
+(M/F) 
+Mean 
+(range
+) 
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+11000 
+Germany 
+5.3.3.4.1 
+12 
+(12/0) 
+32.1 
+(25-39) 
+82.7 
+(71-91) 
+30 mg 
+(6 x 5 mg tablet) 
+alone 
+n=12 
+176 
+(38%) 
+1741 
+(26%) 
+2.00 
+(1.0-4.0) 
+8.39 
+(27%) 
+Randomized, non-
+blinded, non- 
+placebo-controlled 
+2-fold cross-over 
+study in healthy 
+male subjects; 3 
+days pre-treatment 
+with and co-
+administration of 
+ranitidine 150 mg 
+bid 
+ 
+ 
+ 
+30 mg 
+(6 x 5 mg tablet) 
+with ranitidine 
+n=12 
+190 
+(44%) 
+1763 
+(39%) 
+2.00 
+(0.5-6.0) 
+8.54 
+(37%) 
+Ranitidine had no effect on 
+rivaroxaban AUC, the 
+treatment ratio and 90% 
+confidence interval 
+complying with 
+bioequivalence criteria. 
+The small change in Cmax 
+was not relevant. In 
+summary, the 
+pharmacokinetics of 
+rivaroxaban were not 
+affected by concomitant 
+ranitidine. 
+ 
+ANOVA results 
+(Ratio (90% CI)) 
+ 
+Rivaroxaban+ranitidine vs. 
+rivaroxaban alone: 
+AUC 1.01 (0.85-1.20) 
+Cmax 1.08 (0.77-1.50) 
+ 
+ 
+5.3.3.4.1-1
+276
+
+
+===== PAGE 167 =====
+
+Table 5-19: Comedication Study 11001 Magnesium/Aluminum containing antacid (Maalox®) 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / Conclusions
+Report Module#/ 
+Total 
+(M/F) 
+Mean 
+(range
+) 
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+11001 
+Germany 
+5.3.3.4.2 
+12 
+(12/0)* 
+33.1 
+(20-42) 
+86.1 
+(57-113) 
+30 mg 
+(6 x 5 mg tablet) 
+alone 
+n=11 
+205 
+(15%) 
+1828 
+(18%) 
+2.50 
+(1.0-4.0) 
+8.56 
+(42%) 
+Randomized, non-
+blinded, non- 
+placebo-controlled 
+cross-over study in 
+healthy male 
+subjects; co-
+administration of 
+Maalox® 10 mL 
+suspension 
+(70 mVal 
+equivalent) 
+ 
+ 
+ 
+30 mg  
+(6 x 5 mg tablet) 
+with 10 mL 
+Maalox® 
+n=11 
+178 
+(32%) 
+1734 
+(21%) 
+4.00 
+(0.5-4.0) 
+7.26 
+(37%) 
+Maalox® had no effect on 
+rivaroxaban AUC as 
+demonstrated by 90% 
+confidence limits of the 
+treatment ratio within 0.80-
+1.25. A small decrease in 
+rate of absorption (Cmax 
+slightly decreased, tmax 
+increased) is considered to 
+be without clinical 
+relevance. 
+ 
+ANOVA results 
+(Ratio (90% CI)) 
+ 
+Rivaroxaban+Maalox® vs. 
+rivaroxaban alone: 
+AUC 0.95 (0.83-1.08) 
+Cmax 0.87 (0.73-1.03) 
+* total study population; valid for safety and PK: n=11 
+ 
+ 
+ 
+ 
+5.3.3.4.2-1
+277
+
+
+===== PAGE 169 =====
+
+Table 5-20: Comedication Study 10993 Midazolam 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile 
+day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / Conclusions
+Report Module#/ 
+Total 
+(M/F) 
+Mean 
+(range)
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+10993 
+Germany 
+5.3.3.4.3 
+12 
+(12/0) 
+28.5 
+(19-37) 
+82.2 
+(53-93) 
+20 mg tablet 
+n=12 
+119 
+(39%) 
+1278 
+(30%) 
+1.50 
+(1.0-4.0) 
+10.7 
+(32%) 
+Randomized, non-
+blinded, non-
+placebo-controlled, 
+3 fold single-dose 
+cross-over study in 
+healthy male 
+subjects in fasting 
+condition. 
+Treatments: 
+a 
+rivaroxaban 
+1x20 mg tablet  
+b 
+Midazolam 
+1x7.5 mg tablet 
+c 
+the 
+combination of a. 
+and b. 
+ 
+ 
+ 
+20 mg tablet 
+and 7.5 mg 
+Midazolam 
+n=12 
+104 
+(49%) 
+1295 
+(34%) 
+4.00 
+(1.0-6.0) 
+9.08 
+(42%) 
+Midazolam had no effect 
+on the pharmacokinetics of 
+rivaroxaban. On the other 
+hand, rivaroxaban did not 
+affect midazolam and α-
+hydroxy-midazolam 
+pharmacokinetics. 
+ 
+ANOVA results 
+(Ratio (90%CI))  
+ 
+Rivaroxaban: 
+(Rivaroxaban+midazolam 
+vs. rivaroxaban alone): 
+AUC 1.01 (0.92-1.12) 
+Cmax 0.88 (0.72-1.07) 
+ 
+Midazolam: 
+(Midazolam+rivaroxaban 
+vs. midazolam alone):  
+AUC 0.89 (0.75-1.05) 
+Cmax 1.01 (0.73-1.39) 
+ 
+α-hydroxy-midazolam: 
+(Midazolam+rivaroxaban 
+vs. midazolam alone): 
+AUC 0.99 (0.85-1.14) 
+Cmax 1.11 (0.77-1.59) 
+ 
+ 
+5.3.3.4.3-1
+278
+
+
+===== PAGE 171 =====
+
+Table 5-21: Comedication Study 10999 Digoxin 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile 
+day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / Conclusions
+Report Module#/ 
+Total 
+(M/F) 
+Mean 
+(range)
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+10999 
+Germany 
+5.3.3.4.4 
+20 
+(20/0)* 
+33.9 
+(22-45) 
+78.8 
+(61-101) 
+20 mg tablet 
+n=17 
+184 
+(25%) 
+1699 
+(26%) 
+1.50 
+(0.67-4.0) 
+9.38 
+(36%) 
+Randomized, non-
+blinded, non-
+placebo-controlled 
+2-fold cross-over 
+multiple dose study 
+in healthy male 
+subjects; 
+Rivaroxaban 20 mg 
+tablet od on Day 1 
+and 7 (Group A) or 
+on Day 21 
+(Group B) followed 
+by bid 
+administration for 
+9 days starting on 
+Day 8 (Group A) 
+and on Day 22 
+(Group B). 
+Digoxin: od for 
+28 days starting on 
+Day 3 (2d). 
+ 
+ 
+ 
+ 
+20 mg tablet 
+and digoxin 
+0.375 mg 
+once daily 
+n=17 
+174 
+(22%) 
+1501 
+(18%) 
+2.00 
+(0.67-4.0) 
+8.09 
+(33%) 
+Rivaroxaban exposure 
+was not affected by 
+concomitant digoxin, the 
+ratio and 90% CI of 
+rivaroxaban AUC and Cmax 
+being within 0.80-1.25. On 
+the other hand rivaroxaban 
+had no effect on digoxin 
+plasma concentrations. 
+ 
+ANOVA results 
+(Ratio (90% CI))  
+ 
+Rivaroxaban 
+(Rivaroxaban+digoxin  vs. 
+rivaroxaban alone): 
+AUC 0.90 (0.83-0.97) 
+Cmax 1.00 (0.85-1.14) 
+ 
+Digoxin 
+(Rivaroxaban+digoxin vs. 
+digoxin alone): 
+AUCtau 1.08 (0.97-1.20) 
+Ctrough,ss  
+Day 7 0.95 (0.85-1.06) 
+Day 8 1.03 (0.90-1.17) 
+Day 9 0.95 (0.85-1.06) 
+* total study population; subjects valid for PK: n=17 
+ 
+5.3.3.4.4-1
+279
+
+
+===== PAGE 173 =====
+
+Table 5-22: Comedication Study 12359 Atorvastatin 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile 
+day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / Conclusions 
+Report Module#/ 
+Total 
+(M/F) 
+Mean 
+(range
+) 
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+12359 
+Germany 
+5.3.3.4.5 
+26 
+(26/0) 
+41.9 
+(24-53) 
+87.1 
+(62-105) 
+20 mg tablet   
+n=19 
+247 
+(15%) 
+1906 
+(14%) 
+3.00 
+(0.5-4.0) 
+8.02 
+(45%) 
+Randomized, non-
+blinded, non-
+placebo-controlled 
+3-way cross-over 
+study to investigate 
+the mutual 
+interaction between 
+multiple doses of 
+atorvastatin and a 
+single dose of 
+rivaroxaban in 
+healthy male 
+subjects  
+ 
+ 
+ 
+20 mg tablet 
+and 
+20 mg 
+atorvastatin 
+once daily 
+n=19 
+241 
+(21%) 
+1884 
+(23%) 
+3.00 
+(1.0-4.0) 
+8.06 
+(34%) 
+Atorvastatin had no effect 
+on rivaroxaban 
+pharmacokinetics with 
+bioequivalence shown for 
+the treatment ratios of AUC 
+and Cmax 
+(Rivaroxaban+atorvastatin 
+vs rivaroxaban alone). 
+ 
+ANOVA results 
+(Ratio (90% CI))  
+ 
+Rivaroxaban: 
+Rivaroxaban+atorvastatin 
+vs. rivaroxaban alone  
+ 
+AUC 
+0.99 (0.91-1.08) 
+Cmax 
+0.98 (0.89-1.07) 
+ 
+ 
+ 
+ 
+ 
+5.3.3.4.5-1
+280
+
+
+===== PAGE 175 =====
+
+Table 5-23: Comedication Study 10992 Ketoconazole 200 mg 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / Conclusions 
+Report Module#/ 
+Total 
+(M/F) 
+Mean 
+(range
+) 
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+10992 
+Germany 
+5.3.3.4.6 
+12 
+(12/0) 
+33.0 
+(24-41) 
+86.4 
+(73-100) 
+10 mg  
+(2 x 5 mg tablet) 
+n=12 
+149 
+(28%) 
+1088 
+(17%) 
+2.50 
+(0.75-6.0) 
+7.28 
+(50%) 
+Randomized, 
+non-blinded, non-
+placebo-controlled 
+2-fold cross-over 
+study in healthy 
+male subjects; 
+3 Day pre-treatment 
+with and co-
+administration of 
+ketoconazole 
+200 mg with 
+rivaroxaban 10 mg 
+compared to 
+rivaroxaban 10 mg 
+alone 
+ 
+ 
+ 
+10 mg 
+(2 x 5 mg tablet) 
+and 200 mg 
+ketoconazole 
+n=12 
+228 
+(22%) 
+1980 
+(20%) 
+2.25 
+(0.75-3.0) 
+5.68 
+(22%) 
+Pre- and concomitant 
+treatment with the azole 
+antimycotic agent 
+ketoconazole increased 
+rivaroxaban Cmax and AUC 
+by 53% and 82%, 
+respectively. There was no 
+effect on terminal half-life. 
+ 
+ANOVA results 
+(Ratio (90% CI)) 
+ 
+Rivaroxaban+ketoconazole 
+vs. rivaroxaban alone: 
+ 
+AUCnorm 1.82 (1.59-2.08) 
+Cmax,norm 1.53 (1.27-1.85) 
+ 
+ 
+5.3.3.4.6-1
+281
+
+
+===== PAGE 179 =====
+
+Table 5-25: Comedication Study 11935 Ritonavir 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Country/ 
+ 
+ 
+ 
+PK profile 
+day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+Comments / Conclusions
+Report Module#/ 
+Total 
+(M/F) 
+Mean 
+(range)
+Mean 
+(range) 
+Regimen 
+ 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+11935 
+Germany 
+5.3.3.4.8 
+18* 
+(18/0) 
+33.2 
+(18-44) 
+84.3 
+(60-99) 
+10 mg tablet 
+Day 1 
+n=12 
+154 
+(15%) 
+1000 
+(16%) 
+3.00 
+(2.0-4.0) 
+5.73 
+(31%) 
+Non-randomized, 
+non-blinded, non-
+placebo-controlled, 
+2 fold cross over 
+study in healthy 
+male subjects; 
+rivaroxaban 10 mg 
+single dose on 
+Day 1 and 8; 
+ritonavir 600 mg bid 
+from Day 3 to 8. 
+Intra-individual 
+pharmacokinetic 
+comparison for 
+rivaroxaban (Day 8 
+: Day 1) and 
+ritonavir (Day 8 : 
+Day 7)  
+ 
+ 
+ 
+10 mg tablet  
+and 600 mg 
+ritonavir bid 
+Day 8 
+n=12 
+238 
+(23%) 
+2529 
+(17%) 
+4.00 
+(0.5-8.0) 
+6.93 
+(31%) 
+Ritonavir 600 mg 
+increased AUC and Cmax of 
+rivaroxaban by 2.5 fold 
+and 1.5 fold, resp., and t1/2 
+by about 1 h. Ritonavir 
+decreased renal clearance 
+of rivaroxaban from 3.8 to 
+1.0 L/h. Rivaroxaban had 
+no effect on ritonavir 
+pharmacokinetics.  
+ 
+ANOVA results 
+(Ratio (90% CI)) 
+ 
+Rivaroxaban: 
+Rivaroxaban+ritonavir vs. 
+rivaroxaban alone 
+(Day 8 / Day 1): 
+AUC 2.53 (2.34-2.74) 
+Cmax 1.55 (1.41-1.69) 
+ 
+Ritonavir: 
+Ritonavir+rivaroxaban vs. 
+ritonavir alone 
+(Day 8 / Day 7)):  
+AUC 0.99 (0.81-1.20) 
+Cmax 1.06 (0.86-1.30) 
+* total study population; valid for PK: n=12 
+ 
+5.3.3.4.8-1
+283
+
+
+===== PAGE 201 =====
+
+Table 5-1: Summary of Bioavailability Studies 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Comments/Conclusions 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+ 
+Report 
+Module#/ 
+Total 
+(M/F) 
+Mean 
+(range) 
+Mean 
+(range) 
+Treatment 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+11273 
+Germany 
+5.3.1.1.1 
+12 
+(12/0) 
+31.5 
+(21-46) 
+78.5 
+(61-94) 
+A: 1 x 5 mg 
+tablet 
+80.2 
+(38%) 
+520 
+(40%) 
+2.5 
+(1.0-4.0) 
+4.85 
+(26%) 
+Absolute bioavailability (fabs) 
+of the 5 mg tablet was 
+complete, while fabs of the 
+20 mg dose was 66%. Less  
+ 
+ 
+ 
+B: 1 x 20 mg 
+tablet 
+136 
+(32%) 
+1223 
+(39%) 
+1.5 
+(1.0-3.0) 
+8.46 
+(59%) 
+Randomized, 
+non blind, 3-fold 
+cross-over, 
+absolute 
+bioavailability 
+study in healthy 
+male subjects 
+ 
+ 
+ 
+C: 1 mg 
+intravenous 
+infusion over 
+30 minutes 
+(actual dose 
+0.934 mg) 
+29.5 
+(26%) 
+87.2 
+(34%) 
+0.5 
+(0.5-0.5) 
+4.46 
+(27%) 
+than dose-proportional 
+increases in AUC were 
+observed from 5 mg to 20 mg 
+paralleled by apparently lower 
+amounts excreted into urine at 
+20 mg (35%) compared to 
+5 mg (52%). Both are likely to 
+result from solubility-limited 
+absorption. 
+ 
+ANOVA results (ratio (95%CI))
+5 mg tablet vs. 1 mg iv: 
+AUC/D 1.12 (0.97-1.29) 
+Cmax/D 0.51 (0.43-0.60) 
+20 mg tablet vs. 1 mg iv: 
+AUC/D 0.66 (0.57-0.76) 
+Cmax/D 0.22 (0.18-0.26) 
+ 
+CLsys = 10.7 L/h 
+ 
+range (5.31-16.0) 
+Vss = 48.2 L 
+ 
+range (31.7-76.8) 
+5.3.1.1.1-1
+47
+
+
+===== PAGE 203 =====
+
+Table 5-1: Summary of Bioavailability Studies 
+Study #/ 
+n 
+Age 
+Weight 
+Treatments 
+PK Parameters 
+Comments/Conclusions 
+Country/ 
+ 
+ 
+ 
+PK profile day 
+Geometric Mean (%CV) 
+median (range) for tmax 
+ 
+Report 
+Module#/ 
+Total 
+(M/F) 
+Mean 
+(range) 
+Mean 
+(range) 
+Treatment 
+Cmax 
+AUC 
+tmax 
+t1/2 
+ 
+Study Design 
+ 
+[years] 
+[kg] 
+Rivaroxaban 
+[µg/L] 
+[µg*h/L] 
+[h] 
+[h] 
+ 
+10924 
+United Kingdom 
+5.3.1.2.1 
+9 
+(9/0) 
+32.0 
+(24-46) 
+77.0 
+(67-89) 
+A: 2 x 5 mg 
+tablet 
+n=9 
+161 
+(21%) 
+1383 
+(20%) 
+3.0 
+(1.0-4.0) 
+10.9 
+(18%) 
+ 
+ 
+ 
+B: 10 mg 
+crushed tablets 
+to proximal 
+small bowel 
+n=8 
+72.3 
+(83%) 
+972 
+(31%) 
+2.5 
+(1.5-24) 
+10.4 
+(36%) 
+ 
+ 
+ 
+C: 10 mg 
+crushed tablets 
+to distal small 
+bowel 
+n=9 
+46.2 
+(46%) 
+768 
+(27%) 
+3.0 
+(1.0-15) 
+11.9 
+(40%) 
+ 
+ 
+ 
+D: 10 mg 
+crushed tablets 
+to ascending 
+colon 
+n=9 
+13.7 
+(52%) 
+352 
+(49%) 
+15.0 
+(0.67-
+24) 
+11.4 
+(51%) 
+Single center, 
+non-
+randomized, 
+non-placebo-
+controlled, non 
+blinded, 5-fold 
+cross-over 
+single dose 
+bioavailability 
+study with 
+topical release 
+(EnterionTM 
+capsule) in 
+healthy male 
+subjects 
+ 
+ 
+ 
+E: 5 mg 
+solution to 
+ascending 
+colon 
+n=6 
+32.9 
+(66%) 
+379 
+(24%) 
+1.5 
+(0.67-
+6.0) 
+10.3 
+(31%) 
+Good absorption in proximal 
+small bowel but markedly 
+reduced bioavailability in 
+ascending colon likely due to 
+solubility issues. 
+ 
+ANOVA results (ratio (min-
+max)) 
+10 mg proximal small bowel 
+vs. tablet: 
+AUCnorm  0.71 (0.51-1.10) 
+Cmax,norm  0.44 (0.11-0.95) 
+10 mg distal small bowel vs. 
+tablet: 
+AUCnorm  0.55 (0.34-0.97) 
+Cmax,norm  0.29 (0.20-0.54) 
+10 mg ascending colon vs. 
+tablet: 
+AUCnorm  0.25 (0.13-0.44) 
+Cmax,norm  0.08 (0.04-0.16) 
+5 mg solution ascending colon 
+vs. tablet: 
+AUCnorm  0.60 (0.52-0.71) 
+Cmax,norm  0.42 (0.23-0.78) 
+5.3.1.2.1-1
+48

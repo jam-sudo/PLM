@@ -1,0 +1,46 @@
+{
+  "nda": "NDA201194",
+  "drug_name": "oxycodone",
+  "pk_tuples": [
+    {
+      "dose_mg": 15.0,
+      "dose_original": "15 mg (15 mL of 5 mg/5 mL) oxycodone oral solution",
+      "route": "oral",
+      "formulation": "solution",
+      "food": "fasted",
+      "population": "healthy_adult",
+      "n_subjects": 25,
+      "dose_schedule": "single_dose",
+      "cmax_ng_ml": 32.53,
+      "tmax_h": 1.0,
+      "auc_inf_ng_h_ml": 153.33,
+      "auc_last_ng_h_ml": 150.91,
+      "t_half_h": null,
+      "cl_L_h": null,
+      "vd_L": null,
+      "source_page": 7,
+      "confidence": "high",
+      "notes": "Study R11-0285, test oxycodone oral solution 5 mg/5 mL, fasted, naltrexone-blocked. Median Tmax 1.0 h (range 0.5-2.0)"
+    },
+    {
+      "dose_mg": 15.0,
+      "dose_original": "15 mg (1 x 15 mg) Roxicodone IR tablet",
+      "route": "oral",
+      "formulation": "IR",
+      "food": "fasted",
+      "population": "healthy_adult",
+      "n_subjects": 25,
+      "dose_schedule": "single_dose",
+      "cmax_ng_ml": 33.39,
+      "tmax_h": 1.0,
+      "auc_inf_ng_h_ml": 148.48,
+      "auc_last_ng_h_ml": 146.22,
+      "t_half_h": null,
+      "cl_L_h": null,
+      "vd_L": null,
+      "source_page": 7,
+      "confidence": "high",
+      "notes": "Study R11-0285, reference Roxicodone IR tablet, fasted, naltrexone-blocked. Median Tmax 1.0 h (range 0.75-3.0)"
+    }
+  ]
+}

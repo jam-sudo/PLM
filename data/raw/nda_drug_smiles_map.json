@@ -1290,5 +1290,17 @@
   "125320": {
     "drug": "denosumab",
     "smiles": null
+  },
+  "205266": {
+    "drug": "sonidegib",
+    "smiles": "C[C@@H]1CN(C[C@@H](O1)C)C2=NC=C(C=C2)NC(=O)C3=CC=CC(=C3C)C4=CC=C(C=C4)OC(F)(F)F"
+  },
+  "212327": {
+    "drug": "fedratinib",
+    "smiles": "CC1=CN=C(N=C1NC2=CC(=CC=C2)S(=O)(=O)NC(C)(C)C)NC3=CC=C(C=C3)OCCN4CCCC4"
+  },
+  "208711": {
+    "drug": "triclabendazole",
+    "smiles": "CSC1=NC2=CC(=C(C=C2N1)Cl)OC3=C(C(=CC=C3)Cl)Cl"
   }
 }

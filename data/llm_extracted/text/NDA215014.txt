@@ -1,0 +1,3238 @@
+
+
+===== PAGE 10 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Table 52. Pegcetacoplan Toxicokinetic Parameters (Mean±SD) in Pregnant Female 
+Cynomolgus Monkey Serum Following 7 and 28 mg/kg/day Subcutaneous 
+Injection of Pegcetacoplan...........................................................................................92 
+Table 53. Serum and Milk Concentrations of Pegcetacoplan and Their Ratios in 
+Cynomolgus Monkeys Following 7 and 28 mg/kg SC Injection of Pegcetacoplan ....93 
+Table 54. In Vitro Assessments of Pegcetacoplan as an Inducer of CYP Enzymes..........95 
+Table 55. In Vitro Assessments of Pegcetacoplan as an Inhibitor of CYPs in Human 
+Liver Microsomes ........................................................................................................96 
+Table 56. In Vitro Assessments of Pegcetacoplan and NADPH as an Inhibitor of 
+CYPs in Human Liver Microsomes.............................................................................96 
+Table 57. Characterization of Known Substrates in HEK293 Cells Transiently 
+Expressed with Human Uptake Transporters, 17COTX-002 ......................................97 
+Table 58. In Vitro Assessment of Pegcetacoplan as an Inhibitor of Human 
+Transporters Expressed in HEK293 Cells ...................................................................97 
+Table 59. Assay Controls for Pegcetacoplan as a Substrate and Inhibitor of P-gp and 
+BCRP, 17COTX-002 ...................................................................................................97 
+Table 60. In Vitro Assessment of Pegcetacoplan as an Inhibitor of Efflux Pumps, 
+17COTX-002 ...............................................................................................................98 
+Table 61. Summary of Pharmacokinetic Parameters Following a Single Subcutaneous 
+Dose, CP0713-1 ...........................................................................................................99 
+Table 62. Summary of PK Parameters Following a Single IV Dose, APL2-401............101 
+Table 63. Pegcetacoplan Pharmacokinetic Parameters in Subjects With Severe Renal 
+Impairment and Control Subjects With Normal Renal Function...............................102 
+Table 64. Summary of PK Parameters Following Multiple SC Doses, 101....................104 
+Table 65.Summary of the PK Studies..............................................................................106 
+Table 66. Parameter Estimates for the Final Model ........................................................110 
+Table 67. Summary of Studies and Sampling for PK, Hematology, Chemistry, and 
+LDH ...........................................................................................................................114 
+Table 68. E-R Parameter Estimates for the Hemoglobin Final Model............................116 
+Table 69. E-R Parameter Estimates for the LDH Final Model........................................118 
+Table 70. Validation Parameters for Method BIO.VR.0210-1989..................................122 
+Table 71. Validation Parameters for Method ALM-075 .................................................123 
+Table 72. Validation Parameters for Method BPAPL2F.................................................123 
+Table 73. Validation Parameters for Method ARAPL2K................................................124 
+Table 74. Validation Summary for Bioanalytical Methods for PD Markers...................124 
+Table 75. Overview of Protocol Amendments, APL2-302..............................................126 
+ix 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 15 =====
+
+ 
+ 
+ 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Glossary 
+ADA 
+antidrug antibody 
+AE 
+adverse event 
+ALT 
+alanine aminotransferase 
+APL-2 
+pegcetacoplan 
+ARC 
+absolute reticulocyte count 
+AST 
+aspartate aminotransferase 
+AUC 
+area under the concentration-time curve 
+BD 
+birth day 
+BIW 
+twice a week 
+BW 
+body weight 
+C 
+complement protein 
+CD 
+cluster of differentiation 
+CFB 
+change from baseline 
+CI 
+confidence interval 
+CL 
+clearance 
+COVID-19 
+coronavirus disease-2019 
+CrCl 
+creatinine clearance 
+CT 
+computed tomography 
+CYP 
+cytochrome P450 
+EC50 
+half-maximal effective concentration 
+ECG 
+electrocardiogram 
+eGFR 
+estimated glomerular filtration rate 
+Emax 
+maximum proportional change from baseline 
+ePPND 
+enhanced pre- and post-natal development 
+E-R 
+exposure-response 
+ETA 
+estimate of interindividual variability 
+EVH 
+extravascular hemolysis 
+FACIT-F 
+Functional Assessment of Chronic Illness Therapy-Fatigue 
+GD 
+gestation day 
+GOF 
+goodness-of-fit 
+GPI 
+glycosylphosphatidylinositol 
+Hb 
+hemoglobin 
+IC50 
+half-maximal inhibitory concentration 
+IIV 
+interindividual variability 
+ITT 
+intent-to-treat 
+IV 
+intravenous 
+IVH 
+intravascular hemolysis 
+LDH 
+lactate dehydrogenase 
+LSM 
+least squares mean 
+MAC 
+membrane attack complex 
+MAS 
+macrophage activation syndrome 
+MNAR 
+missing not at random 
+NDA 
+new drug application 
+1 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 16 =====
+
+ 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+NIM 
+noninferiority margin 
+NOAEL 
+no observed adverse effect level 
+OAT 
+organic anion transporter 
+OCT 
+organic cation transporter 
+PD 
+pharmacodynamic 
+PEG 
+polyethylene glycol 
+PEG-40 
+40-kilodalton polyethylene glycol 
+P-gp 
+P-glycoprotein 
+PK 
+pharmacokinetic 
+PMC 
+postmarketing commitment 
+PMR 
+postmarketing requirement 
+PNH 
+paroxysmal nocturnal hemoglobinuria 
+PopPK 
+population PK 
+PPD 
+postpartum day 
+PRBC 
+packed red blood cell 
+PT 
+preferred term 
+QTc 
+corrected QT interval 
+RBC 
+red blood cell 
+RCP 
+randomized control period 
+SAE 
+serious adverse event 
+SC 
+subcutaneous 
+SD 
+standard deviation 
+TEAE 
+treatment-emergent adverse event 
+TK 
+toxicokinetic 
+Tmax 
+time to maximum concentration 
+V2 
+apparent volume 
+Vd 
+volume of distribution 
+VPC 
+visual predictive check 
+2 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 30 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 4795975
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Trial 
+Identifier 
+Trial 
+Population 
+Trial Design 
+Treatment Dosing 
+Treatment 
+Duration 
+Primary Objectives 
+Sample Size 
+Status 
+CP0514 
+C5 inhibitor-
+experienced 
+subjects with 
+PNH 
+Phase 1b open-
+label, single 
+and multi-
+ascending dose 
+study 
+Cohort 4: 
+Pegcetacoplan 270 
+to 440 mg/d add-
+on therapy for up 
+to 2 years 
+Pegcetacoplan 
+monotherapy 
+transition from 
+Approximately 
+815 days 
+To assess the safety, 
+tolerability, and PK of 
+single and multiple SC 
+doses of pegcetacoplan 
+in subjects with PNH 
+who are still anemic 
+during treatment with 
+eculizumab 
+6 subjects 
+Completed 
+Day 252 to 
+Day 626: 270 to 
+440 mg/day 
+APL2-307 
+Subjects with 
+PNH previously 
+treated with 
+pegcetacoplan 
+Phase 3, open-
+label, 
+nonrandomized, 
+extension study 
+Pegcetacoplan 
+1,080 mg twice 
+weekly or 
+pegcetacoplan 
+1,080 mg every 
+3 days  
+4 years or until 
+the development 
+program for 
+pegcetacoplan in 
+subjects with 
+PNH is 
+terminated 
+To evaluate the long­
+term safety and efficacy 
+of pegcetacoplan in the 
+treatment of PNH 
+(extension) 
+Planned: 160 
+subjects 
+Ongoing 
+APL2-308 
+C5 inhibitor­
+naïve subjects 
+with PNH 
+Phase 3, 
+randomized, 
+open-label 
+controlled study 
+Pegcetacoplan 
+1,080 mg twice 
+weekly or 
+pegcetacoplan 
+1,080 mg every 
+3 days  
+Standard of care 
+control (no 
+pegcetacoplan) 
+Approximately 
+38 weeks 
+To evaluate the 
+efficacy, safety, and 
+tolerability of 
+pegcetacoplan in 
+subjects with PNH 
+Planned: 54 
+subjects 
+Ongoing 
+Source: Clinical reviewer. 
+1 Includes all submitted clinical trials, even if not reviewed in-depth, except for Phase 1 and pharmacokinetic studies. 
+Abbreviations: C, complement protein; Hb, hemoglobin; PK, pharmacokinetic; PNH, paroxysmal nocturnal hemoglobinuria; RCP, randomized control period; SC, subcutaneous 
+16 
+Integrated Review Template, version 2.0 (04/23/2020) 
+
+
+===== PAGE 32 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 4795975
+NDA 215014 
+Empaveli (pegcetacoplan) 
+5. Pharmacologic Activity, Pharmacokinetics, and Clinical 
+Pharmacology 
+Table 5. Summary of General Clinical Pharmacology and Pharmacokinetics 
+Characteristic 
+Drug Information 
+Pharmacologic Activity 
+Established pharmacologic 
+class (EPC) 
+Pegcetacoplan is a complement inhibitor 
+Mechanism of action 
+Pegcetacoplan binds to complement protein (C) 3 and its activation fragment C3b, thereby regulating the cleavage of C3 and 
+the generation of downstream effectors of complement activation. In PNH, extravascular hemolysis (EVH) is facilitated by 
+C3b opsonization whereas intravascular hemolysis (IVH) is mediated by the downstream membrane attack complex (MAC). 
+Pegcetacoplan acts proximally in the complement cascade controlling both C3b-mediated EVH and terminal 
+complement-mediated IVH. 
+Active moieties 
+Two 15-amino-acid peptides (chemically bound to each end of linear polyethylene glycol [PEG]) 
+QT prolongation 
+At the recommended dose of pegcetacoplan, no large mean increase (i.e., >20 ms) in QTc interval is observed. 
+General Information 
+Bioanalysis 
+Pegcetacoplan concentrations in serum were measured using validated LC-MS/MS methods. 
+Healthy subjects versus 
+patients 
+Patients with PNH are predicted to have lower pegcetacoplan exposures than healthy subjects because of increased 
+systemic clearance. The effective half-life of pegcetacoplan at an SC dose of 1,080 mg twice weekly is estimated as 8.0 days 
+for patients with PNH compared to 10.1 days for healthy subjects. 
+Drug exposure at steady 
+state following the 
+therapeutic dosing regimen 
+(or single dosage, if more 
+relevant for the drug) 
+In Study APL2-302, 1,080 mg pegcetacoplan was given twice weekly and pegcetacoplan concentrations were measured 
+weekly (or every 2 weeks) during the 4-week run-in period and the following 16-week randomized control period (RCP). 
+Serum pegcetacoplan concentrations reach steady state approximately 4 to 6 weeks after the first dose. During the RCP, 
+mean (%CV) serum steady-state trough concentrations of pegcetacoplan ranged between 655 (18.6%) μg/mL at Week 2 and 
+706 (15.1%) μg/mL at Week 16 in patients with PNH. 
+Range of effective 
+dosage(s) or exposure 
+Based on the exposure-response analysis, steady-state trough concentrations of pegcetacoplan at 272 μg/mL, 396 μg/mL, 
+and 597 μg/mL are predicted to be associated with 50%, 90%, and 99% of the maximum Hb response. 
+Maximally tolerated dosage 
+or exposure 
+The maximum studied pegcetacoplan dose is a single SC dose of 2600 mg. No major safety issue was identified at this dose. 
+Dosage proportionality 
+Exposure of pegcetacoplan increases proportionally over a dose range of 45 to 1440 mg. 
+Accumulation 
+Upon 1,080 mg twice-weekly dosing, accumulation ratio is about 2.6-fold based on trough concentrations following the first 
+dose and under steady-state conditions. 
+Time to achieve steady-
+state 
+Steady-state serum concentrations following twice weekly dosing at 1,080 mg in patients with PNH are achieved 
+approximately 4 to 6 weeks following the first dose. 
+18 
+Integrated Review Template, version 2.0 (04/23/2020) 
+
+
+===== PAGE 33 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 4795975
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Characteristic 
+Drug Information 
+Pharmacologic Activity 
+Bridge between to-be-
+Not applicable (N/A), pegcetacoplan drug product used in the pivotal Phase 3 clinical study was the same dosage form and 
+marketed and clinical trial 
+composition as the intended to-be-marketed product 
+formulations 
+Absorption 
+Bioavailability 
+The bioavailability of pegcetacoplan following SC administration is approximately 87% 
+Tmax 
+Geometric mean Tmax ranges between 4.5 to 6 days 
+Food effect (fed/fasted) 
+Geometric least squares 
+mean and 90% CI 
+N/A—pegcetacoplan is administered via SC infusion 
+Distribution 
+Volume of distribution 
+The mean (%CV) volume of distribution of pegcetacoplan is approximately 3.9 L (35%) in patients with PNH 
+Plasma protein binding 
+N/A 
+Drug as substrate of 
+transporters 
+Pegcetacoplan is not a substrate of the transporters OAT1, OAT3, OCT2, OATP1B1, OATP1B3, P-gp, or BCRP 
+Elimination 
+Mass balance results 
+Not available 
+Clearance 
+The estimated mean (CV%) of clearance is 0.37 L/day (28%) 
+Half-life 
+Median effective half-life of elimination (t1/2) is 8.0 Days in patients with PNH 
+Metabolic pathway(s) 
+Metabolized by degradation into small peptides and individual amino acids 
+Primary excretion pathways 
+(% dosage) 
+Catabolism in plasma 
+Intrinsic Factors and Specific Populations 
+Body weight 
+Body weight is a PK covariate of pegcetacoplan. However, body weight is not expected to have a clinically meaningful impact 
+on the Hb response and thus does not warrant a dose adjustment. 
+Age 
+There are no clinically significant differences in the PK of pegcetacoplan based on age (19 to 81 years old) 
+Renal impairment 
+Renal impairment with CrCl <30 mL/min had no significant impact on the PK of pegcetacoplan in comparison to healthy 
+controls 
+Hepatic impairment 
+There are no clinically significant differences in the PK of pegcetacoplan based on hepatic function as evaluated by total 
+bilirubin (0.3-4.3 mg/dL), albumin (3.6-4.9 g/dL), aspartate aminotransferase (13-116 IU/L), or 
+alanine aminotransferase (9-59 IU/L) 
+Inhibition/induction of 
+metabolism 
+Inhibition/induction of 
+transporter systems 
+Drug Interaction Liability (Drug as Perpetrator) 
+In vitro studies showed that pegcetacoplan had no inhibition of CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, 
+or CYP3A4/5 and no induction of CYP1A1, CYP2B6, or CYP3A4 
+In vitro studies showed that pegcetacoplan was not an inhibitor of the transporters OAT1, OAT3, OCT2, OATP1B1, 
+OATP1B3, P-gp, or BCRP 
+19 
+Integrated Review Template, version 2.0 (04/23/2020) 
+
+
+===== PAGE 34 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 4795975
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Characteristic 
+Drug Information 
+Pharmacologic Activity 
+Immunogenicity 
+Bioanalysis 
+The assays to evaluate antipegcetacoplan peptide antibodies and their neutralizing ability may be subject to interference by 
+on-board pegcetacoplan and are not adequate to determine the true incidence of antibodies and their clinical impact. Assay 
+to determine anti-EPG antibodies is adequate (see Section III.14.4). 
+Incidence 
+In Study APL2-302, 2 of 80 patients with PNH (both in eculizumab group) were confirmed to have anti-pegcetacoplan 
+antibodies at Week 16. However, due to the ADA assay deficiency, the incidence of antibody formation may be 
+underestimated. Two other patients developed treatment-emergent or treatment-boosted anti-PEG antibodies (one 
+occurrence for each case). 
+Clinical impact 
+For the two subjects with positive anti-pegcetacoplan antibodies in Study APL2-302, no significant impact on PK, safety, or 
+Hb response was observed. However, both patients received only 4 weeks of pegcetacoplan treatment, and the sample size 
+is too small to conclude the potential clinical impact of anti-pegcetacoplan antibodies. 
+No clinically significant differences in the PK/PD, efficacy, or safety profile of pegcetacoplan were observed in patients who 
+tested positive for anti-PEG antibodies. 
+Source: Reviewer’s table based on data from Sections of Intrinsic Factors, Drug Interaction and Clinical Pharmacology Appendix. 
+Abbreviations: ADA, antidrug antibody; BCRP, breast cancer resistance protein; C, complement protein; CI, confidence interval; CrCl, creatinine clearance; CV, coefficient of variation; CYP, 
+cytochrome P450; ELISA, enzyme-linked immunosorbent assay; EPC, established pharmacologic class; EVH, extravascular hemolysis, Hb, hemoglobin; IVH, intravascular hemolysis; LC-MS/MS, 
+liquid chromatography with tandem mass spectrometry; MAC, membrane attack complex; OAT, organic anion transporter; OCT, organic cation transporter; PD, pharmacodynamics; PEG, 
+polyethylene glycol; P-gp, P-glycoprotein; PK, pharmacokinetics; PNH, paroxysmal nocturnal hemoglobinuria; QT, QT interval; QTc, corrected QT interval; RCP, randomized control period; SC, 
+subcutaneous; t1/2, half-life of elimination, Tmax, time to maximum concentration 
+20 
+Integrated Review Template, version 2.0 (04/23/2020) 
+
+
+===== PAGE 38 =====
+
+ 
+ 
+ 
+ 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+6. Assessment of Effectiveness 
+6.1. Dose and Dose Responsiveness 
+6.1.1. APL2-302 
+The Applicant’s proposed dose is 1,080 mg BIW via SC infusion. The dose can be increased to 
+1,080 mg every 3 Days if a subject has an LDH level greater than two-fold the upper limit of 
+normal. In the pivotal Phase 3 study (Study APL2-302), 41 patients with PNH received 
+pegcetacoplan treatment at the proposed dose of 1,080 mg BIW during the randomized control 
+period (RCP), with 2 patients requiring a dose increase to 1,080 mg every 3 days. The proposed 
+dosing regimen is acceptable for approval based on the favorable efficacy and safety and the 
+pharmacokinetic/pharmacodynamic (PK/PD) results from Study APL2-302, the population PK 
+analysis, and the exposure-response (E-R) analysis in patients with PNH. 
+Dose Selection 
+Dose selection for Study APL2-302 was guided based on PK, efficacy, and safety data from 
+three Phase 1 or Phase 2 trials (Studies APL2-202, APL2-204, and CP0514) in 30 patients with 
+PNH. The cumulative data from these studies showed that hematologic responses increased in a 
+dose-dependent manner with clinically meaningful Hb responses at doses of 270 mg/day to 
+360 mg/day. To reduce the burden of daily dosing and to promote dosing compliance, less-
+frequent dosing regimens were considered. The dosing regimen of 1,080 mg BIW (309 mg/day) 
+or every 3 Days (360 mg/day) were selected based on the projected comparable pegcetacoplan 
+exposures to those with 270 and 360 mg daily regimens, which were later confirmed in Study 
+APL2-101 prior to the initiation of Study APL2-302. 
+Exposure-Response Analysis of Hb Level 
+The Applicant’s E-R analyses suggest a concentration-dependent Hb response in patients with 
+PNH. The E-R relationship between pegcetacoplan concentrations and Hb levels is described by 
+a sigmoidal model of estimated maximal proportional CFB (Emax). The estimated Emax of Hb was 
+a 36.3% increase from baseline. The EC50 of pegcetacoplan was 272 ȝJP/ $W WKH SURSRVHG
+dose (1,080 mg BIW SC), the expected average concentration at steady state of 650 ȝJP/ LV 
+expected to achieve a near-maximal effect on Hb response (Figure 7). Individuals with higher 
+baseline Hb values and lower creatinine clearance (CrCl) are predicted to have a lesser response, 
+in terms of Hb Emax. Eculizumab treatment status at baseline is not expected to have a 
+meaningful effect on the Hb response. 
+24 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 60 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+■ 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Reproductive Toxicity Findings 
+Pregnant cynomolgus monkeys injected subcutaneously with 7 and 28 mg/kg pegcetacoplan 
+from gestation Day 20/22 until parturition had significantly increased frequencies of stillbirths 
+and abortions at 28 mg/kg. The no observed adverse effect level (NOAEL) for abortions and 
+stillbirths was 7 mg/kg (1.3× the maximum recommended human dose). The incidences of infant 
+loss with pegcetacoplan and the historical range for cynomolgus monkeys from the facility 
+conducting the study are shown in Table 18. 
+Table 18. Infant Loss and Mortality in Cynomolgus Monkeys 
+Percentages of 
+Pegcetacoplan Dose 
+Infants Born 
+Stillbirths and Abortions 
+0 mg/kg 
+19 
+5% 
+7 mg/kg 
+17 
+10.5% 
+28 mg/kg 
+9 
+52.6% 
+Historical range (control) 
+-
+6.7 to 38.9% 
+Source: Study report 18CATX-001. 
+There was no evidence of underlying maternal toxicity or of fetal and infant malformations 
+associated with the abortions and stillbirths. There was no evidence of neurobehavioral changes 
+in surviving infants exposed to maternal pegcetacoplan. Analysis of milk, placenta, and fetal 
+blood demonstrated exposure to pegcetacoplan, but the concentrations were a fraction (<1%) of 
+the maternal serum levels. The study did not have a PEG-40 control to determine whether 
+PEG-40 had played a role in increased stillbirths and abortions. The cause of the increased 
+frequency of abortions/stillbirths at 28 mg/kg pegcetacoplan is unknown and occurs at a low 
+multiple of clinical exposure (2.9× the clinical area under the concentration-time curve [AUC]); 
+therefore, a clinical risk of an AE of pegcetacoplan on pregnancy outcomes cannot be excluded. 
+PEG-40–Related Vacuolation 
+Daily SC administration of pegcetacoplan to monkeys for up to 9 months and to rabbits for up to 
+6 months caused renal tubular degeneration and vacuolated histiocytic infiltrates and epithelia of 
+the brain choroid plexus. Vacuolation of infiltrating or resident macrophages and occasionally 
+epithelial cells was observed seen in other tissues (e.g., cervix, injection sites, adrenal gland, 
+liver, lymph nodes, ovary, bone marrow, and urinary bladder). 
+The vacuolation of tissues observed with PEGylated pharmaceuticals is generally considered an 
+adaptive response intended to clear PEG-40 from the circulation, rather than being a 
+toxicological process (Ivens et al. 2015). However, the choroid plexus epithelia and kidney 
+tubular epithelia were considered of most clinical interest for potential adverse changes 
+secondary to PEG accumulation. As discussed 
+PEG-40, which constitutes 
+(b) 
+(4)
+below, these vacuolations were driven by 
+% of total pegcetacoplan by weight, and not by the active peptide 
+moiety. The severity and incidence of vacuolations were consistent between the highest dose of 
+pegcetacoplan (28 mg/kg) and the matching PEG-40 control group in these studies. 
+Renal Tubular Degeneration and Vacuolation 
+Renal tubular degeneration of minimal severity was observed at 28 mg/kg pegcetacoplan (2.9× 
+the clinical dose based on AUC) in both rabbits and monkeys (Table 19). The minimal severity 
+of renal tubular degeneration generally did not change from 1 month to chronic dosing of 
+28 mg/kg pegcetacoplan, indicating an absence of lesion progression with duration, but did not 
+46 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 80 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+deficiency, an underlying etiology of autoimmune disease resulting in the diagnosis of MAS in 
+this patient cannot be excluded. 
+Hypersensitivity pneumonitis is an immune-mediated inflammatory interstitial lung disease that 
+can result from exposure to inhaled antigens, potentially leading to fibrosis. There are reported 
+cases of individuals with autoimmune disease and hypersensitivity pneumonitis, suggesting a 
+relationship and prognostic significance (Adegunsoye et al. 2017). Therefore, the development of 
+autoimmunity secondary to pegcetacoplan in the patient who developed hypersensitivity 
+pneumonitis during the open-label phase of Study APL2-302 must be considered. 
+Given the theoretical potential for development of autoimmunity and upon review of these SAEs 
+in the open-label phase of Study APL2-302, a determination was made that patients receiving 
+pegcetacoplan should be monitored for long-term safety, including development of this potential 
+manifestation. 
+Conclusion 
+In conclusion, after review of the literature and reports of patients with inherited C3 deficiency, 
+there is evidence to suggest the potential for the development of autoimmunity in this patient 
+population. Therefore, as it is important for the understanding of the safety of pegcetacoplan, a 
+determination was made to issue a postmarketing requirement to monitor long-term safety, 
+including the development of autoimmune disease, in patients with PNH receiving 
+pegcetacoplan. 
+8. Therapeutic Individualization 
+8.1. Intrinsic Factors 
+Age, sex, race, renal impairment, and hepatic function (as evaluated by total bilirubin, albumin, 
+AST, or ALT) have no clinically significant impact on pegcetacoplan PK. Therefore, no dose 
+adjustment is needed for these intrinsic factors. 
+Body Weight 
+Based on a population PK analysis of pegcetacoplan, baseline body weight was a significant PK 
+covariate (Table 30). Compared to a reference 70 kg subject, the weekly average concentration at 
+steady state is predicted to be approximately 14% higher in subjects at the 5th percentile of body 
+weight (54 kg) and 14% lower in subjects at the 95th percentile of body weight (95 kg). 
+Nonetheless, E-R analysis indicates a minimal impact of body weight on the Hb response to 
+pegcetacoplan (Table 31). Therefore, the observed PK changes according to body weight are not 
+clinically significant. 
+Renal Impairment 
+Study 205 evaluated the PK of pegcetacoplan following a single dose of 270 mg in subjects with 
+severe renal impairment (CrCl <30 mL/min) compared to matched (sex, age, and weight) healthy 
+subjects with normal renal function. The geometric mean ratio and 90% CI of the Cmax and AUC 
+for severe renal impairment/healthy controls were 100% (90% CI 76% to 133%) and 92% (90% 
+CI 74% to 112%), respectively. As shown in Table 31, individuals with renal impairment at 
+66 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 82 =====
+
+ 
+ 
+ 
+ 
+ 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+8.2. Drug Interactions 
+Pegcetacoplan has a low risk for drug interactions at the intended dose based on the following 
+considerations: 
+x Pegcetacoplan is a peptide metabolized via catabolic pathways. Therefore, cytochrome 
+P450 (CYP) enzyme inhibitors and inducers are unlikely to affect the PK of 
+pegcetacoplan. 
+x The in vitro Study 17COTX-001 showed that pegcetacoplan (up to 6 mg/mL) does not 
+inhibit any of the CYP P450 isoforms evaluated (CYP1A2, CYP2B6, CYP2C8, 
+CYP2C9, CYP2C19, CYP2D6, or CYP3A4/5) (Study 17COTX-003), either in a direct or 
+metabolism-dependent manner, and does not induce the CYP P450 isoforms evaluated 
+(CYP1A2, CYP2B6, or CYP3A4). 
+x The in vitro Study 17COTX-002 showed that pegcetacoplan (up to 0.6 mg/mL for uptake 
+transporters and up to 6 mg/mL for efflux transporters) is not a substrate and/or inhibitor 
+for the human drug transporters organic anion transporter (OAT)1, OAT3, organic cation 
+transporter (OCT)2, OATP1B1, OATP1B3, P-glycoprotein (P-gp), or breast cancer 
+resistance protein. 
+8.3. Plans for Pediatric Drug Development 
+Orphan Drug designation was granted for this product in April 2014. There was no ongoing or 
+planned pediatric study at the time of application submission. 
+8.4. Pregnancy and Lactation 
+The enhanced pre- and post-natal developmental study in monkeys identified a significant 
+increase in abortions and stillbirths at 28 mg/kg pegcetacoplan (2.9-fold the clinical dose based 
+on AUC). The NOAEL for abortions and stillbirths in monkeys was 7 mg/kg/d (NOAEL, 
+1.3-fold the maximum recommended human dose based on AUC). 
+Postpartum maternal pegcetacoplan in serum was quantifiable only on postpartum Days 14 and 
+28 at 7 and 28 mg/kg, respectively. Maternal milk pegcetacoplan concentrations were detectable 
+at 7 and 28 mg/kg up to postpartum Day 14. The pegcetacoplan level in milk was <1% that in 
+plasma. Serum pegcetacoplan levels in infants were not quantifiable on Birth Day 14, 28, 91, or 
+182. 
+The cause of increased abortions and stillbirths following exposure to pegcetacoplan is unknown 
+but occurred at a low multiple (2.9-fold) of clinical exposure by AUC, and human risk cannot be 
+discounted. An appropriate description will be included in Section 8 of the labeling. 
+9. Product Quality 
+Refer to the reviews by the Office of Product Quality, available in Panorama. 
+68 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 87 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tissue 
+Concentration (ng.equiv/g) 
+8 h 
+72 h 
+168 h 
+336 h 
+504 h 
+Blood 
+3904 
+4166 
+2529 
+1467 
+787 
+Adrenal gland 
+1593 
+2783 
+1449 
+943 
+264 
+Bone man-ow 
+912 
+1510 
+488 
+369 
+173 
+Brain 
+BLQ 
+BLQ 
+BLQ 
+BLQ 
+BLQ 
+Eye 
+169 
+NR 
+BLQ 
+BLQ 
+BLQ 
+Fat (brown) 
+938 
+381 
+603 
+518 
+NR 
+Fat (white) 
+BLQ 
+BLQ 
+BLQ 
+BLQ 
+BLQ 
+Kidney 
+2225 
+3058 
+1270 
+938 
+558 
+Large intestine 
+699 
+1059 
+621 
+367 
+162 
+Liver 
+1850 
+1900 
+1396 
+966 
+552 
+Lung 
+2576 
+2928 
+1369 
+1023 
+606 
+Myocardium 
+969 
+1087 
+658 
+680 
+435 
+Small intestine 
+909 
+1143 
+605 
+444 
+266 
+Spleen 
+1799 
+1270 
+1136 
+858 
+557 
+SC dose site• 
+494866 
+10633 
+BLQ 
+1114 
+1599 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+result in treatment-related changes in cardiovascular or respiratory parameters in conscious 
+monkeys. Furthermore, pegcetacoplan had no effect on hERG current amplitude in vitro. A 
+dedicated central nervous system safety pharmacology study was not conducted. A tissue 
+distribution study showed that pegcetacoplan was below the level of quantitation following a 
+single dose to monkeys, indicating a minimal risk of acute AEs on the central nervous system. 
+Pharmacokinetics 
+The pharmacokinetics (PK) of pegcetacoplan (5% dextrose) was characterized in the nonclinical 
+program primarily in cynomolgus monkeys. Bioavailability is estimated to be about 85% 
+following repeat SC dosing. As expected, PEGylation increased pegcetacoplan steady state half-
+life to 7.5 hr in monkeys. The clearance (CL) and volume of distribution (Vd) of pegcetacoplan 
+following a single IV infusion were 4.5 mL/kg and 50 mL/kg, respectively. Plasma protein 
+binding of pegcetacoplan has not been determined. Single-dose tissue distribution studies found 
+3H-pegcetacoplan to be well-distributed throughout the body with the highest concentration 
+present at the SC injection sites followed by blood >lung >kidney >spleen >liver (Table 34). 
+These tissues with 3H-pegcetacoplan were also marked by the presence of cellular vacuolation in 
+the toxicology studies, demonstrating that clearance was taking place in each tissue. 
+Table 34. Concentrations of Radioactive Material in Principal Tissues of Male Cynomolgus 
+Monkeys After a Single 7 mg/kg SC Dose of 3H-Pegcetacoplan 
+Source: Apellis, Module 2.6.4, page 11, Study Report 17MTX-001. 
+a One or more samples above the upper limit of quantitation (<349,899 ng-equiv/g). 
+Abbreviations: BLQ, below limit of quantitation; equiv, equivalent; h, hour; NR, not represented; SC, subcutaneous 
+Metabolism of the peptide component of pegcetacoplan would follow that of other proteins and 
+was not specifically investigated. Pegcetacoplan neither induced nor inhibited cytochrome P450 
+73 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 88 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+(CYP) enzymes (CYP 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, or 3A4/5) indicating a low potential for 
+metabolic interaction with other drugs. In vitro studies have not shown pegcetacoplan to be a 
+substrate or inhibitor of commonly known drug transporters (i.e., organic anion transporter 
+[OAT]1, organic cation transporter [OCT]2, OATP1B1, OATP1B3, P-gp, or breast cancer 
+resistance protein). 
+Toxicokinetic Data From Cynomolgus Monkey Toxicity Studies 
+The time to maximum concentration (Tmax) in monkeys ranged from 8 to 24 hr. Systemic 
+exposure tended to increase less than dose-proportionally, with no evidence of accumulation. See 
+Table 35. 
+Table 35. Exposure Multiples for Pegcetacoplan Based on AUC 
+Dose, 
+AUC0-24, 
+NOAEL, 
+Pegcetacoplan Exposure 
+Study 
+mg/kg 
+μg.h/mL 
+mg/kg 
+Margin Based on AUC1 
+Six-month rabbit 
+1 
+993 
+<1 
+7 
+69,805 
+<1 
+28 
+21,500 
+1.4 
+Nine-month cynomolgus monkey 
+1 
+4035 
+<1 
+7 
+21,950 
+7 
+1.4 
+28 
+45,150 
+2.9 
+Monkey enhanced pre- and 
+post-prandial development (GD 48 
+AUC) 
+7 
+28 
+20,500 
+44,300 
+7 
+1.3 
+2.9 
+Clinical dose, 1,080 mg BIW 
+~15,506 
+Source: Toxicokinetic data from toxicology Study Reports 15CATX-03, 15CATX-004, and 18CATX-001. 
+1 The recommended clinical dose of pegcetacoplan is 1,080 mg SC infusion BIW. The AUC0-24 at steady state for 1 week was 
+estimated to be 108,541 μg.hr/mL, divided by seven to determine the daily AUC24h pegcetacoplan exposure in humans. 
+Abbreviations: AUC, area under the concentration-time curve; AUC0-24, area under the concentration-time curve from time 0 to 24 hr; 
+BIW, twice a week; GD, gestation day; NOAEL, no observed adverse effect level; SC, subcutaneous 
+The ratio of PEG-40 load in rabbits and monkeys relative to clinical dose of 1,080 mg BIW is 
+shown in Table 36. The highest dose evaluated in the 9-month toxicology study in monkeys was 
+28 mg/kg, which approximates to a monthly PEG-40 load of 768 mg/kg. In comparison, the 
+PEG-40 load at the proposed therapeutic dose of 1,080 mg BIW was 132 mg/kg/month, almost 
+5.8-fold lower than the maximum exposure evaluated in monkeys. 
+74 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 90 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Table 37. Selected Histopathology Findings in Kidney and Brain, 9-Month Cynomolgus Monkey
+Studies 
+SC Dose 
+(mg/kg/day) 
+Pegcetacoplan PEG-40 
+7 
+28 
+25.6 
+Pegcetacoplan 
+7 
+28 
+PEG-40 
+25.6 
+Finding 
+Male 
+Female 
+Kidney tubular degeneration, min 
+Kidney tubular vacuolation, min 
+Brain, choroid plexus vac, min to mild 
+CP epithelial vacuolation, moderate 
+CP histiocytic infiltration, min to mild 
+CP histiocytic infiltration, moderate 
+0 
+2 
+0 
+1 
+5 
+3 
+5 
+0 
+0 
+1 
+6 
+6 
+5 
+0 
+0 
+1 
+6 
+6 
+0 
+4 
+0 
+5 
+3 
+0 
+0 
+6 
+6 
+0 
+0 
+6 
+1 
+4 
+0 
+6 
+0 
+6 
+Source: Derived from toxicology Study Report 15CATX-004. 
+Abbreviations: CP, choroid plexus; min, minimum, PEG-40, polyethylene glycol 40; SC, subcutaneous, vac, vacuolation 
+Renal tubular degeneration was of minimal severity and was observed at 28 mg/kg 
+pegcetacoplan in monkeys. The minimal severity of renal tubular degeneration did not change 
+but the incidence increased with chronic dosing from 1 to 9 months. The degeneration did not 
+reverse following a 28-day recovery phase, suggesting that although severity may not progress 
+with time of exposure, the histological change is not readily reversible and is likely to be slow. 
+The cause of renal tubular degeneration is unknown, but it coincides with the presence of tubular 
+vacuolation, which is definitively due to the PEG-40 moiety of pegcetacoplan. Kidney is the 
+primary clearance organ for pegcetacoplan and carries a heavy PEG-40 load as determined by 
+the mass balance study, which may also contribute to the tubular degeneration. 
+Whether the tubular degeneration is secondary to vacuolation or occurs by another mechanism, 
+the lack of elevation in serum blood urea nitrogen and creatinine suggests that renal function is 
+not notably impaired by this histological change to the tubules despite chronic exposure. The 
+renal tubular degeneration occurred in monkeys at 28 mg/kg, or 2.9-fold the clinical dose based 
+on area under the concentration-time curve (AUC), and ~5.4-fold relative to PEG-40 exposure. 
+The no observed adverse effect level (NOAEL) for renal tubular degeneration was at 7 mg/kg 
+with a 1.4-fold safety margin, supporting the renal safety of clinically relevant exposure to 
+pegcetacoplan. 
+The second toxicological finding of note was minimal to moderate vacuolations of epithelial 
+cells and macrophages in the choroid plexus of monkeys and rabbits. As the finding was 
+observed in both species and with the matching PEG-40 control, this histological change is also 
+definitively linked to the PEG-40 moiety of pegcetacoplan. Vacuolations of choroid plexus and 
+multiple other tissues have been observed with other PEGylated products in animals with the 
+primary concern being whether these vacuolations will eventually result in structural changes 
+that will affect tissue/organ function. Fletcher et al. (2019) reported a study in cynomolgus 
+monkeys administered a PEGylated peptide for a chronic duration (3 months) and provided 
+evidence for a threshold at which accumulation of cellular PEG-40 may become adverse. 
+Of relevance to the choroid plexus, Fletcher reported sheets of vacuolated macrophages that 
+disrupted the interstitium of the choroid plexus of monkeys at a PEG-40 load of ~160 mg/kg per 
+week, which is appropriately considered an AE on tissue structure. Monkeys administered 7 and 
+28 mg/kg/d were exposed to a weekly PEG-40 load of ~44 mg/kg and 176 mg/kg for 9 months, 
+respectively, which approximate to 1.4- and 5.4-fold multiples of human exposure to PEG-40 
+from the clinical dose of pegcetacoplan. Vacuolation of the choroid plexus epithelium was 
+observed at a similar incidence at both doses but with greater severity (to moderate) at the higher 
+28 mg/kg dose. There was no reported evidence of disrupted tissue structure (e.g., degeneration/ 
+76 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 98 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+o.of 
+Group 
+Pregnant 
+Dose Level 
+Mean Gestation 
+No. of Pregnancy 
+Number of 
+No. 
+Females 
+(mg/kg/day) 
+Day of C-section 
+Losses 
+Fetuses Evaluated 
+l 
+.... 
+0 
+141 
+0 
+3 (1 male and 
+.) 
+2 females) 
+2 
+5 
+28 
+141 
+0 
+5 ( 4 males and 
+l female) 
+I 
+I 
+Tmax" 
+I 
+Cmax 
+I 
+AUCco-tJ 
+Dose 
+GD 
+(hr) 
+(µg/mL) 
+(hr*µg/mL) 
+28 
+48 
+8 (8 - 24) 
+1940 ± 196 
+45100 ± 4430 
+111 
+8 (0 - 24) 
+1930 ± 164 
+44900 ± 3800 
+140 
+8 (0 - 24) 
+1770 ± 144 
+40700 ± 3490 
+• Median (Min - Max). 
+No. of Samples 
+Group 
+Dose (mg/kg) 
+Screened Positive 
+Titer 
+Specificity Result 
+1 
+0 
+0/1 5 
+-
+-
+2 
+28 
+4/32 
+500-12500. 
+0/4 
+- Not applicable. 
+a Titer results from Male Fetus No. 2031 (GD141) and Adult Female No. 2503 on GDl 11 and GD140 (predose). 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Table 41. Pregnancy Outcome in Cynomolgus Monkeys Administered Pegcetacoplan 
+Source: Study Report 17CATX-001, Table 8. 
+Abbreviation: No, number 
+There were no pegcetacoplan-related microscopic findings in the brains of fetuses. Fetal heart 
+rates were comparable between the control and pegcetacoplan dose groups throughout gestation. 
+Fetal serum samples collected from the umbilicus at 24 hr after the last dose on GD 141 found 
+detectable levels of pegcetacoplan in serum (1.02 to 3.93 μg/mL, mean 2.5 μg/mL). Fetal 
+exposure was a fraction of (0.15%) of the maternal serum pegcetacoplan level (Table 42). 
+Table 42. Summary of Pegcetacoplan Toxicokinetic Parameters in Pregnant Female Cynomolgus 
+Monkey Serum Following 28 mg/kg SC Administration of Pegcetacoplan on GD 48, 111, and 140 
+Source: Study Report 17CATX-001, Table 9. 
+Abbreviations: AUC(0-t), area under the concentration-time curve from time 0 to last measurable concentration; Cmax, maximum 
+plasma concentration; GD, gestation day; max, maximum, min; minimum; Tmax, time to maximum concentration 
+One monkey and its litter tested positive (titer >20) for antidrug antibodies (ADA) with no 
+evidence of ADA or neutralization (Table 43). 
+Table 43. Summary of Antidrug Antibody Assay Results in Cynomolgus Monkeys 
+Source: Study Report 17CATX-001, Table 10. 
+Abbreviations: GD, gestation day; No, number 
+84 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 99 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Study 18CATX-001: Enhanced Pre-Postnatal Toxicity of APL-2 
+Administration by Daily Subcutaneous Injection in Pregnant Cynomolgus 
+Monkeys with 6-Month Postnatal Evaluation 
+Table 44. Enhanced Prenatal and Postnatal Development Study Information 
+Parameter 
+Information 
+Study title 
+Enhanced Pre- and Post-natal Toxicity of APL-2 Administered by Daily 
+Subcutaneous Injection in Pregnant Cynomolgus Monkeys with 6-Month 
+Postnatal Evaluation 
+Study number 
+18CATX-001 
+Study report location 
+NDA 000 
+Date of study initiation 
+December 20, 2017 
+GLP compliance 
+Yes 
+QA statement 
+Yes 
+Drug lot # and % purity 
+170523W, 97.6% 
+Source: Derived from Study Report 18CATX-001. 
+Abbreviations: APL-2, pegcetacoplan; GLP, good laboratory practices; NDA, new drug application; QA, quality assurance 
+13.2.1.1.1. Key Study Findings 
+x The study did not have a PEG-40 group as a comparator to pegcetacoplan. 
+x There were no pegcetacoplan-related findings in monkeys during the gestation and 
+postpartum periods, or in surviving infants up to 180 Days (6 months) postpartum. 
+x SC administration of 28 mg/kg pegcetacoplan increased the incidence of abortions and 
+stillbirths in monkeys. The exposure at 28 mg/kg was 2.9-fold the estimated human 
+exposure. The cause of the increase in abortions and stillbirths at 28 mg/kg was not 
+determined. The incidences of abortion and stillbirth at 7 mg/kg were similar to the 
+controls and historical background and therefore considered NOAEL for infant mortality 
+(1.3-fold the clinical AUC). 
+x There was no evidence of ADA in the serum samples tested (all samples were negative). 
+x Infants of control and pegcetacoplan females generated immunoglobulin M and 
+immunoglobulin G in response to tetanus toxoid immunization. There was no difference 
+in response between the control and pegcetacoplan-treated females. 
+x Maternal exposure decreased over time and was quantifiable up to PPD 14 and PPD 28 at 
+7 and 28 mg/kg pegcetacoplan. 
+x Pegcetacoplan was detected in milk with exposure <1% of maternal plasma levels. 
+x Pilot embryofetal development study in monkeys with 28 mg/kg pegcetacoplan found 
+quantifiable pegcetacoplan in fetal serum, suggesting pegcetacoplan crosses the monkey 
+placenta and fetal exposure occurs in monkeys at a fraction (0.15%) of maternal serum 
+concentrations. 
+x With the significant increases in the incidences of abortion and stillbirth, the NOAEL for 
+prenatal maternal or developmental effect was 7 mg/kg pegcetacoplan. The maternal 
+maximum concentration (Cmax) and AUC at 7 mg/kg on GD 140 was 882 μg/mL and 
+6890 μg.hr/mL, respectively. The NOAEL for maternal toxicity was 7 mg/kg/d (1.3-fold 
+the clinical dose AUC). 
+85 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 103 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+No. of 
+Fetal 
+:Mean 
+Pregnancy 
+Fetal Lo e 
+o.of 
+Grnup 
+o.of 
+Ge tation 
+( tillbirtb 
+Infant 
+o. 
+Pregnant 
+c:": GD 140; 
+Born 
+Female 
+M/F 
+IF 
+20 
+160 ± 5 
+1 
+l 
+0 
+19 
+0,0,1 
+0,0,1 
+7,12 
+2 
+19" 
+160 ± 6 
+2 
+0 
+2 
+17 
+(I , 1,0 
+1,1 
+9,8 
+I 9" 
+157 ± 9 
+10 
+6 
+4 
+9 
+(3,3,4) 
+(2,0,4) 
+(1 ,3) 
+(5,4 
+U = unable to determine sex; GD = gestation day. 
+" One female from this group was determined not pregnant based on mCG analysis. 
+b Value were calculat cl including only fi male that delivered live infant . 
+0 
+Pregnancy lo e include abortion (GD20- I 39) and tillbirth (c:': GD 140). 
+No. of 
+Infant 
+o. or 
+Lo e d 
+Maternal 
+M/F 
+Death 
+3 
+0 
+2,1 
+5 
+4,1 
+l 
+1,0) 
+d 
+ombined feta l and infant lo e were 20.0%, 36.8%, and 57.9% for the control, 7 mg g/day, and 28 mo kg/day 
+groups, respectively, compared to the hi torical control range of20.0 to 42.9% for 23 ePP D mdie conducted 
+at the Testing Facility from 2008 to 2018. 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+x The total number of fetuses delivered was significantly reduced in the high-dose group. 
+The number of fetuses in the control and 7 and 28 mg/kg pegcetacoplan groups was 19, 
+17, and 9, respectively. There was a significant increase in the incidence of abortion 
+(31.6%) and stillbirth (21.1%) at 28 mg/kg compared to the control (5% and 0%, 
+respectively). There was no apparent treatment-related finding in the placenta or infant 
+morphometric abnormalities or histopathology findings. 
+x The overall fetal loss was 1 of 19 (5%) in the control, 2/19 (10.5%) at 7 mg/kg and 10 of 
+19 (52.6%) at 28 mg/kg pegcetacoplan (10.5%, 10.5%, and 31.6% at the first, second, 
+and third trimesters, respectively). 
+x The overall fetal loss at 28 mg/kg was substantially greater than the control and historical 
+data from the laboratory (20 to 42.9%; mean 28.8%). 
+x The overall fetal loss at 7 mg/kg was similar to the control and historical range for the 
+facility (20 to 42.9%; mean 28.8%). 
+x With significant increase in the incidence of abortion and stillbirth, the NOAEL for a 
+prenatal maternal or developmental effect was 7 mg/kg pegcetacoplan. The maternal Cmax 
+and AUC at 7 mg/kg on GD 140 was 882 μg/mL and 6890 μg.hr/mL, respectively. 
+Table 49. Pregnancy and Postpartum Outcomes 
+Source: Study Report 18CATX-001, Table 12. 
+Abbreviations: ePPND, enhanced pre- and post-natal development; F, female; GD, gestation day; M, male; mCG, monkey chorionic 
+gonadotropin; No, number; U, unable to determine 
+89 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 106 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dose 
+Tmox " 
+Cm.u 
+AUCco -1J 
+Analyte Gender GD (rnu/k /day) 
+(hr) 
+(µu/rnL) 
+(hr*µ /rnL) 
+R AUC 
+APL-2 
+Female 48 
+7 
+8 (0 - 24) 
+1030 ± 128 
+24000 ± 2980 
+C 
+C 
+28 
+24(0 - 24) 
+18-W ± 223 
+42400 ± 5110 
+NC 
+C 
+111 
+7 
+8 (0 - 24) 
+896 ± 108 
+20500 ± 2400 
+0.859 ± 0.0838 
+0.871 ± 0.0670 
+28 
+8(0 - 24) 
+1930 ± 307 
+-14300 ± 5070 
+1.04 ± 0.0913 
+1.04 ± 0.133 
+140b 
+7 
+8 (0 - 8) 
+882 ± 103 
+6890 ± 790 
+A 
+0.860 ± 0.0876 
+28 
+8 (0 - 8) 
+1870 ± 228 
+14500 ± 1660 
+NA 
+1.01 ± 0.0794 
+GD= Gestation Day; NC = 
+ot calculable; NA = Not applicable. 
+• = Median (Min - Max). 
+b = Tmax, Cu1ax and AUC(o-1)Were estimated using only one time point (8 hours) after dosing on GD 140. 
+RAuc = AUC(o-t) on GD 11 1 or 140/ AUC(o-1) on GD 48. 
+Rcmax = Cmax on GD 111 or 140/ Cmax on GD 48. 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Histopathology 
+x Infants were euthanized on BD 180 for evaluations. There were no treatment-related 
+findings regarding the external and visceral evaluations, gross pathology, or 
+histopathology. There were no abnormalities in the brain of the infants. 
+x There were no microscopic findings in the brain of the control or 28 mg/kg pegcetacoplan 
+group. 
+TK Analysis (Table 52 and Table 53) 
+x Tmax averaged about 8 hr, except for 28 mg/kg on GD 48, which had a Tmax of 24 hr. 
+x Systemic exposure increased less than dose-proportionally, with no accumulation. 
+x Maternal serum pegcetacoplan levels decreased with time and were quantifiable only on 
+PPD 14 and 28. Maternal milk levels at 7 and 28 mg/kg decreased or were similar 
+between PPD 7 and PPD 14, suggesting that milk levels were changing as the maternal 
+serum levels decreased. 
+x No quantifiable pegcetacoplan was detected in the serum of infants at BD 14 and 28 and 
+at necropsy (BD 182). 
+x Pegcetacoplan levels in serum were substantially greater than the levels in milk on 
+PPD 14 (192 versus 6750 ng/mL), suggesting that milk drug levels were <1% of the 
+serum levels. 
+x There was no evidence of ADA in the serum samples tested. 
+Table 52. Pegcetacoplan Toxicokinetic Parameters (Mean±SD) in Pregnant Female Cynomolgus
+Monkey Serum Following 7 and 28 mg/kg/day Subcutaneous Injection of Pegcetacoplan 
+Source: Study Report 18CATX-001, Table 6, page 2081. 
+Abbreviations: APL-2, pegcetacoplan; AUC(0-t), area under the concentration-time curve from time 0 to last measurable 
+concentration; Cmax, maximum plasma concentration; SD, standard deviation; Tmax, time to maximum concentration 
+92 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 113 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+::I 
+E 
+1000 
+c, 
+100 
+.s 
+C .2 ;; = 
+C .. 
+u 
+C 
+0 u 
+E 
+2 .. 
+Vl 
+10 
+0 
+48 
+96 
+144 
+192 
+240 
+288 
+336 
+384 
+432 
+480 
+528 
+576 
+624 
+672 
+720 
+768 
+816 
+864 
+912 
+960 
+1008 
+Nomin~I Time Aner Dose (hours) 
+Trealment 
+--------- APL-2 (45 mg ) 
+----&--- APL-2 {90 mg) --a-- APL-2 (180 mg) 
+-~ APL-2 (360 mg) --6- APL-2 (720 mg ) -
+APL-2 (1440 mg) 
+Prgcetacoplan closr 
+Parameter 
+Statistics 
+45mg 
+90 mg 
+180 mg 
+360 mg 
+720 mg 
+1440 mg 
+N= 4 
+N= 4 
+N= 4 
+N =4 
+N=4 
+N= 4 
+Cmax 
+Geometric Mean 
+5.8 
+24.0 
+31.0 
+72.0 
+139 
+249 
+(ftg/mL) 
+(%CV) 
+(34. I) 
+(36.4) 
+(9.3) 
+(26.3) 
+(I 1.6) 
+(I 9.6) 
+Tmax 
+Median 
+144 
+108 
+144 
+108 
+132 
+108 
+(h) 
+[Range] 
+[72-168] 
+[96-168] 
+[96-408] 
+[96-144] 
+[96-144] 
+[72-144] 
+AUCo-w 
+Geometric Mean 
+2611 
+8096 
+13,520 
+28,930 
+59,040 
+97,320 
+(ftg·h/mL) 
+(%CV) 
+(28.8) 
+(18.2) 
+(7.4) 
+(I 8.3) 
+(12.4) 
+(12.6) 
+t½ 
+Geometric Mean 
+194 
+223 
+211 
+203 
+235 
+209 
+(h) 
+(%CV) 
+(17.9) 
+(18.3) 
+(20.4) 
+(IO.I~ 
+(6.3) 
+(4.4) 
+CL/F 
+Geometric Mean 
+17.2 
+11.1 
+13.3 
+12.4 
+12.2 
+14.8 
+(mL/h) 
+(%CV) 
+(28.8) 
+(18.2) 
+(7.4) 
+(18.3) 
+(12.4) 
+(12.6) 
+V,/F 
+Geometric Mean 
+4.8 
+3.5 
+4.04 
+3.64 
+4.13 
+4.45 
+(L) 
+(%CV) 
+(28.2) 
+(14.4) 
+(I 3 .5) 
+(25.6) 
+(I 7.2) 
+(9.3) 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Results 
+Figure 22. Median Serum Concentrations of Pegcetacoplan Over Time, CP0713-1 
+Source: Study CP0713-1 Clinical Study Report, Figure 14.2.1.2. 
+Abbreviation: APL-2, pegcetacoplan 
+Table 61. Summary of Pharmacokinetic Parameters Following a Single Subcutaneous Dose, 
+CP0713-1 
+Source: Study CP0713-1 Clinical Study Report, Table 14.2.1.2. 
+Abbreviations: AUC, area under the concentration-time curve from zero to infinity; CL/F, apparent clearance; Cmax, maximum 
+concentration; CV, coefficient of variation; N, number; t½, terminal elimination half-life; Tmax, time to maximum concentration; Vz/F, 
+apparent volume of distribution 
+99 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 114 =====
+
+ 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Conclusion 
+Following SC injection, pegcetacoplan Tmax was 4.5 to 6 days and terminal elimination half-life 
+was 8.1 to 9.8 days across the dose groups. The geometric means for exposure metrics (AUC and 
+Cmax) increased with dose and were generally proportional from 45 mg to 1440 mg. 
+Single Ascending Dose Via IV Bolus (Study APL2-401) 
+Study Design 
+Study APL2-401 was a double-blind, randomized, placebo-controlled, single ascending dose 
+study of IV pegcetacoplan in healthy subjects. Each subject was randomized to receive a single 
+IV bolus dose of pegcetacoplan administered over a period of approximately 30 min using a 
+syringe pump. There were four dosing cohorts in this study: 
+x Cohort 1: Single IV bolus of 200 mg pegcetacoplan or matching placebo (4:1). 
+x Cohort 2: Single IV bolus of 600 mg pegcetacoplan or matching placebo (4:1). 
+x Cohort 3: Single IV bolus of 1500 mg pegcetacoplan or matching placebo (4:1). 
+x Cohort 4: Single IV bolus of 2300 mg pegcetacoplan or matching placebo (4:1). 
+Serial PK, safety, PD, and immunogenic evaluations were performed at specified times 
+throughout the study. The results are listed in Table 62. 
+100 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 115 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pegcetacoplan dose 
+!Parameter 
+Statistics 
+200 mg 
+600 mg 
+1500 mg 
+2300 mg 
+(N- 4) 
+(N- 4) 
+(N- 4) 
+(N- 3) 
+IC:max 
+Geometric mean 
+59.88 
+193.0 
+562.2 
+701.0 
+11g/mL) 
+(%CV) 
+(26.7) 
+(23.3) 
+(13.2) 
+(17 .3) 
+rrmax 
+Median 
+1.0 
+1.0 
+2.5 
+1.0 
+h) 
+[Range] 
+[1-12] 
+[0.5-1] 
+[0.5-4] 
+(1 l 
+IAUCo., 
+Geometric mean 
+15,480 
+48,630 
+112,900 
+162,500 
+11g·h/mL) 
+(%CV) 
+(28.1) 
+(15.2) 
+(1 1.9) 
+(14.7) 
+IAUCo-,,, 
+Geometric mean 
+16,040 
+51 ,270 
+117,000 
+174,000 
+11g·h/mL) 
+(%CV) 
+(28.4) 
+(14.5) 
+(12.4) 
+(17.7) 
+~½ 
+Median 
+201 
+222 
+205 
+285 
+h) 
+[Range] 
+[183-234] 
+[217-263] 
+[187-239] 
+[203-302] 
+ICL 
+Geometric mean 
+0.012 
+0.012 
+0.013 
+0.013 
+L/h) 
+(%CV) 
+(28.4) 
+(14.5) 
+(12.4) 
+(17 .7) 
+IV, 
+Geometric mean 
+3.7 
+3.9 
+3.9 
+4.9 
+L) 
+(%CV) 
+(30.3) 
+(21.0) 
+(8.8) 
+(13.2) 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Results 
+Table 62. Summary of PK Parameters Following a Single IV Dose, APL2-401 
+Source: Study APL2-401 Clinical Study Report, Table 14.2.2.1.2. 
+Abbreviations: AUC, area under the concentration-time curve from zero to infinity; AUC0-t, area under the concentration-time curve 
+from zero to the last measurable concentration; CL, clearance; Cmax, maximum concentration; CV, coefficient of variation; IV, 
+intravenous; N, number; PK, pharmacokinetic; t½, terminal elimination half-life; Tmax, time to maximum concentration; Vz, volume of 
+distribution 
+Conclusion 
+Following single IV doses of pegcetacoplan from 200 to 2,300 mg, exposure metrics (Cmax and 
+AUC) increased in a dose-proportional manner. Geometric mean CL values were similar across 
+doses at approximately 0.012 L/h. Geometric mean Vd was similar across dose groups, ranging 
+between 3.7 to 4.9 L. The median t½ was long and similar across groups, ranging from 201 to 
+285 hr (8.4 to 11.9 days), consistent with those calculated after single SC dosing in Study 
+CP0713-1. 
+Based on cross-study comparison using the dose-normalized AUC from Study CP0713-1 and the 
+current study, pegcetacoplan bioavailability following SC administration is approximately 87%. 
+This estimate is in general agreement with the population PK (PopPK) analysis. 
+Renal Impairment Study (Study 102) 
+Study Design 
+This Phase 1, open-label, parallel-group study evaluated the effect of renal impairment on the PK 
+of pegcetacoplan following a single 270 mg SC dose in eight subjects with severe renal 
+impairment (defined as a creatinine clearance [CrCl] <30 mL/min) and eight matched control 
+subjects. PK samples were collected at predose, 1, 2, 4, and 12 hr on Day 1 and on Days 2, 3, 4, 
+5, 6, 7, 8, 11, 15, 18, 22, 25, 19, and 43. Blood samples for PK assessment were collected on 
+101 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 116 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0> 
+:, 
+C 
+0 
+1ii 
+c ., 
+u 8 
+t :, 
+:;; 
+en 
+C .,, ,, 
+~ 
+0. 0 1 
+0 
+48 
+96 
+144 
+192 
+240 
+288 
+336 
+384 
+432 
+480 
+528 
+576 
+624 
+672 
+720 
+768 
+8 16 
+864 
+912 
+960 
+1008 
+Noni nal Ti rre Poi nt ( Hours) 
+I C:Ohor t : 
+-- -0 --
+Sever e 0-oup -
+-B -
+Cont r ol 
+0- oup I 
+LS means (back-transformed) 
+Difference between LS 
+Ratio as a percentage 
+Control group 
+Severe group 
+means (90% CI) 
+(90% CI) 
+Cmax 
+3.67 
+3.67 
+0.00 
+100.29 
+(11g/mL) 
+(39.15) 
+(39.27) 
+(-0.28,0.28) 
+(75.77, 132.75) 
+AUCo-inf 
+9.89 (19,750) 
+9.80 (18,082) 
+-0.09 
+91.55 
+(h·11g/mL) 
+(-0.29,0.12) 
+(74.59, 112.37) 
+AUCo-, 
+9.80 (18,037) 
+9.73 (16,868) 
+-0.07 
+93.52 
+(h·11g/mL) 
+(-0.28,0.15) 
+(75.27, 116.19) 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Day 1 (predose and 1, 2, 4, 8, and 12 hr postdose), and Days 2 to 8, 11, 15, 18, 22, 25, 29, and 
+43. The results are shown in Figure 23 and Table 63. 
+Results 
+Figure 23. Median Serum Concentrations Over Time to Day 43 by Cohort (Log-Linear) 
+Source: Study 205 Clinical Study Report, Figure 2. 
+Abbreviation: APL-2, pegcetacoplan 
+Table 63. Pegcetacoplan Pharmacokinetic Parameters in Subjects With Severe Renal Impairment 
+and Control Subjects With Normal Renal Function 
+Source: Study 205 Clinical Study Report, Table 10. 
+Abbreviations: AUC, area under the concentration-time curve from zero to infinity; AUC0-t, area under the concentration-time curve 
+from zero to the last measurable concentration; CI, confidence interval; Cmax, maximum concentration; LS, least squares 
+Conclusion 
+The results indicated that renal impairment does not significantly impact the PK of 
+pegcetacoplan. 
+102 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 118 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Parameter 
+Cmn, week 
+(µg/mL) 
+Cmin, week 
+(µg/mL) 
+Tmax 
+(h) 
+t'/2 
+(h) 
+Ill) 
+700 
+i 
+I'll) ' I 500 
+i 
+0 
+0 
+5 
+400 
+l 
+") 
+ll) 
+It 
+< 
+C i 
+200 
+:i; 
+100 
+Cohort 1 
+Statistics 
+360 mg daily 
+N = 4 
+Arithmetic 
+628.8 
+mean (±SD) 
+(57.1) 
+Atithmetic 
+531.5 
+mean (±SD) 
+(52.7) 
+Geometric 
+641.1 
+mean 
+(5.7) 
+(¾CV) 
+Geometric 
+206.1 
+mean 
+(14.2) 
+(¾CV) 
+14 
+21 
+213 
+Pegcetacoplan dose 
+Cohort 2 
+Cohort 3 
+1300 mg 
+2600 mg 
+2/wk 
+N = 4 
+749.3 
+(69.6) 
+605.0 
+(71.5) 
+629.7 
+(3.7) 
+221.9 
+(3.6) 
+35 
+42 
+Nooinal Stllly Day 
+1/wk 
+N =3 
+856.0 
+(148.2) 
+658.0 
+(93.9) 
+590.7 
+(8.3) 
+221.9 
+(12.3) 
+49 
+56 
+Cohort 4 
+Cohort 5 
+1080 mg 
+1080 mg 
+2/wk 
+2/wk 
+N = 16 
+N =6 
+685.2 
+726.0 
+(107.8) 
+(44.7) 
+510.3 
+586.2 
+(66.5) 
+(58.4) 
+618.4 
+627.2 
+(6.5) 
+(5.7) 
+226.3 
+243 .8 
+(11.2) 
+(15.0) 
+63 
+70 
+77 
+Treatme<t GrOl4) 
+--
+C1:APl.·2IDllJ (Da ~) 
+-+--+-• 
+C2:APl.-21,IDrg (2/Wk) 
+,.. _. __ , 
+C3:APl.-2~600n;i (1M'k) 
+_,,__,.__, 
+C4Poo100:APL-21,ororg {21Wl<) 
+o--EJ----s-
+C5Pooloo: APL-21,000rg (21Wk) 
+84 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Table 64. Summary of PK Parameters Following Multiple SC Doses, 101 
+Source: Study 101 Clinical Study Report, Table 14.2.2.1. 
+Abbreviations: Cmax week, maximum concentration over the week; Cmin,week, minimum concentration over the week; CV, coefficient of 
+variation; PK, pharmacokinetic; SC, subcutaneous, SD, standard deviation; t½, terminal elimination half-life; Tmax, time from the start 
+of dosing on Day 1 to time of maximum observed serum concentration over Days 22 to 29; wk, week 
+Figure 24. Median Pegcetacoplan Concentration-Time Profiles from Day 1 to 84 by Cohort, 101 
+Source: Study 101 Clinical Study Report, Figure 3. 
+Abbreviations: APL-2, pegcetacoplan; C, cohort; wk, week 
+Conclusion 
+No large differences in weekly Cmax, average concentration, or minimum concentration were 
+observed among dosing regimens after means and standard deviations were taken into 
+consideration. This result supports the BIW dosing regimen of 1,080 mg for the pivotal Phase 3 
+study. 
+104 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 121 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Study Identifier and 
+Study Population and 
+Title 
+Number Treated 
+Regimen and Doses 
+PK Sampling 
+Study CP0514 
+An Open-Label, Single 
+and Multiple Ascending 
+Dose Study to Assess 
+the Safety, Tolerability, 
+PK and PD of APL-2 as 
+an Add-On to SoC in 
+Subjects with PNH 
+PNH (eculizumab-treated 
+IRU  months) subjects 
+N=15 
+(121 pegcetacoplan) 
+SAD and MAD 
+Cohort 1: 25 mg SC ×1 
+followed by 
+28 Days washout then 
+5 mg  SC  QD  ×4  wks  
+Cohort 2: 50 mg SC x1 
+followed by 28 
+Days washout then 
+30 mg SC QD × 4 wks 
+Cohort 3: 180 mg SC QD 
+× 4 wks 
+Cohort 4: Daily SC doses 
+of 270 mg for up to 
+729 Days with optional 
+intrasubject escalation 
+up to 360 to 440 mg/day 
+after Day 28 
+Cohort 1 and 2: Predose 
+and 4 hr postdose on 
+Day 1; predose on 
+Days 2, 3, 4, 8, 15, 22, 
+29, 43, 57, 71, 85, 113, 
+and 141 
+Cohort3: Predose and 
+4 hr postdose on Day 1; 
+predose on Days 2, 3, 4, 
+8, 15, 22, 29, 43, 57, 71, 
+85, and 113 
+Cohort 4: Predose and 
+4 hr postdose on Day 1; 
+predose on Days 2, 3, 4, 
+8, 15, 22, 29, 43, 57, 71, 
+85, 113, 141, 169, 197, 
+225, 253, 281, 309, 337, 
+365, 421, 477, 533, 617, 
+729, and 785 
+Study APL2-204 
+A Phase 1b, Open-Label, 
+MAD, Pilot Study to 
+Assess the Safety, 
+Preliminary Efficacy, and 
+PK of SC APL-2 in 
+Subjects with PNH. 
+(PADDOCK) 
+Study APL2-202 
+A Phase 2a, Open Label, 
+Multiple Dose Study to 
+Assess the Safety, 
+Efficacy and PK of SC 
+APL-2 in Subjects with 
+PNH 
+PNH (eculizumab-naïve) 
+subjects 
+N=23 
+(232 pegcetacoplan) 
+PNH (eculizumab-naïve) 
+subjects 
+N=4 
+Cohort 1: 180 mg SC QD 
+× 4 wks 
+Cohort 2: Daily SC doses 
+of 270 mg for up to 
+414 Days with optional 
+intrasubject escalation 
+up to 360 mg/day 
+Daily 
+270 mg SC QD ×4 wks, 
+may increase up to 
+360 mg SC QD × up to 
+1 year 
+Predose and 2.5 hr 
+postdose on Day 1 
+Predose on Days 2, 3, 8, 
+22, 29, 43, 71, 85, 113, 
+141, 169, 197, 225, 253, 
+281, 309, 337, 365, 379, 
+393, and 414 
+Predose and 2.5 hr 
+postdose on Day 1 
+Predose (where 
+applicable) on Days 2, 3, 
+8, 22, 29, 43, 71, 85, 
+113, 141, 169, 197, 225, 
+253, 281, 309, 337, 365, 
+379, 393, and 414 
+Study APL2-302 
+A Phase 3, Randomized, 
+Multicenter, Open-Label, 
+Active-Comparator 
+Controlled Study to 
+Evaluate the Efficacy 
+and Safety of APL-2 in 
+Patients with PNH 
+PNH (eculizumab-
+Twice weekly 
+treated) subjects 
+1,080 mg SC twice 
+N=80 
+weekly or every 
+3 Days ×1 year 
+(41 pegcetacoplan; 39 
+eculizumab) 
+Predose (where 
+applicable) on Days -28, 
+-21, -14, 1, 14, 28, 42, 
+56, 84, and 112 
+Additional 6 hr postdose 
+sample on Days 1, 28, 
+and 112 
+Source: Adapted from the Applicant’s PopPK report, Table 1, pages 25 to 29. 
+1 Represents nine unique subjects due to re-enrollment of two subjects in multiple study groups. 
+2 Represents 22 unique subjects due to re-enrollment of 1 subject in multiple study groups. 
+Abbreviations: APL-2, pegcetacoplan; IV, intravenous; MAD, multiple ascending dose; PD, pharmacodynamic; PNH, paroxysmal 
+nocturnal hemoglobinuria; PK, pharmacokinetic; PopPK, population pharmacokinetic; QD, once daily; RI, renal impairment; SAD, 
+single ascending dose; SC, subcutaneous; SoC, standard of care; wks, weeks 
+The final analysis dataset included a total of 239 unique subjects with a total of 4377 PK 
+samples, including 3734 quantifiable samples. Among them, 236 pre–first-dose samples and 407 
+samples postdose were below the limit of quantification. 
+107 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 122 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I 
+~ , 
+I 
+I 
+KA 
+~e IY APL-.2 
+nun . .\PL-2 
+-n -
+Y:Z 
+"' 
+-
+NDA 215014 
+Empaveli (pegcetacoplan) 
+For the summary statistics of the baseline demographic covariates in the analysis dataset, refer to 
+Table 5 and Table 6 of the Applicant’s PopPK report, page 42. A total of 48.1% of subjects in 
+the dataset was adults with PNH, and 56.5% of patients were male subjects. The majority of 
+subjects (64.4%) was white and 22.2% were Asian (including Japanese) ethnicity. The median 
+age was 35 years (range 19 to 81 years) and median baseline body weight was 71.2 kg (range 
+42.3 to 156 kg). Median CrCl was 119 mL/min (range 14.6 to 367 mL/min), including the data 
+from a Phase 1 study (Study 205) in a population with renal impairment. Among patients with 
+PNH, the median (range) CrCl was 116 mL/min (30 to 367 mL/min). Based on estimated 
+glomerular filtration rate (eGFR), 15 (6.3%) subjects had moderate renal impairment (eGFR 30 
+to 59 mL/min/1.73 m2) and 8 (3.3%) had severe or end-stage renal impairment (eGFR 
+<30 mL/min/1.73 m2). Subjects with moderate renal impairment were patients with PNH and 
+those with severe renal impairment were included in the population enrolled in Study 205. 
+Software 
+Analyses were performed using the nonlinear mixed effects modeling methodology as 
+implemented in NONMEM® (version 7.3). Data pre- and post-processing, including graphical 
+analysis of the data or output from the models, were performed using R (version 3.6.3). 
+Base Model 
+The final base model was a one-compartment disposition, one-transit absorption compartment 
+for SC administration, IV dose administration directly into the central compartment, and first 
+order elimination. The PK were linear over the range of SC single doses studied (45 mg to 
+(b) (4)
+1440 mg). The base model included the following structural covariates: 
+formulation 
+on SC bioavailability, C3 level on CL and apparent volume (V2), and PNH patient status divided 
+into Phase 1 or 2 and Phase 3 studies on CL. IIV random effects were included on absorption 
+rate, CL, and V2 with residual error described using a log-additive structure (Figure 25). 
+Figure 25. Diagram of the Model Structure 
+Source: Figure 7, Applicant’s PopPK report, page 56. 
+Abbreviations: APL-2, pegcetacoplan; CL, clearance; F1, subcutaneous bioavailability; IV, intravenous, KA, apparent first-order 
+absorption rate constant; PopPK, population pharmacodynamic; SC, subcutaneous, V2, apparent volume 
+108 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 123 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Covariate Analysis 
+The following nonstructural covariates were included in the covariate full model: body weight, 
+bilirubin, albumin, and aspartate aminotransferase (AST) on CL; weight, age, and baseline 
+eculizumab on V2; PNH patient status, body-mass index, dextrose formulation, and mannitol 
+formulation on absorption rate; and dextrose formulation and mannitol formulation on SC 
+bioavailability. The stepwise backward elimination procedure based on the likelihood-ratio test 
+was used to identify the PK final model. At each step, the covariate-parameter relationship which 
+had the lowest change in objective function value and did not meet the inclusion criteria (change 
+in objective function value >10.8 [p<0.001]) was eliminated and the stepwise backward 
+elimination procedure was repeated until all covariate-parameters met the inclusion criteria. The 
+preliminary final model after backward elimination included only two more covariates than the 
+base model: body weight on CL and V2. 
+Final Model 
+The final model consisted of one central disposition compartment, transit compartment 
+absorption (n=1) for the SC route, direct administration into the central compartment for the IV 
+route, and first-order elimination from the central compartment. Covariates included in the final 
+(b) (4)
+model were the 
+ formulation on SC bioavailability; time-varying C3, baseline body 
+weight, and PNH patient status on CL; and time-varying C3, and baseline body weight on V2. 
+The parameter estimates for the final covariate model are listed in Table 66. For a visual 
+predictive check (VPC) plot for the final covariate model with all data, refer to the Applicant’s 
+PopPK report, Figure 10, pages 77 to 79. The goodness-of-fit (GOF) plots for the final covariate 
+model for all data are shown in Figure 26. 
+109 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 124 =====
+
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Table 66. Parameter Estimates for the Final Model 
+T11t-ln P111 nmt-tt-1 
+Float 
+E 
+•o 
+E 
+!>!i•o Cl
+(l"oJh ) 
+Estlmntt­
+1 CL (Ubr) 
+0.0124 
+0.000612 
+4 94 
+(0.011:?. 0.0136) 
+2 V2(L) 
+-I 10 
+0 20-t 
+4 99 
+(3 70 4 SO) 
+3 KA (hr'l) 
+0.0394 
+00014 
+3 64 
+(0 0366 0 0422) 
+4 Fl 
+(b)(~}: 
+0.766 
+00394 
+5 14 
+(0 689 0 843) 
+8 
+Fonnulabon on FI 
+02 6 
+00388 
+165 
+(0 160 0 12) 
+9 C3 onCL 
+-0 122 
+00135 
+II 0 
+(-0 149 -0.0957) 
+10 C3 oo Y2 
+-00140 
+00147 
+19 8 
+(-0 103, -0 0452) 
+11 P).1-1 Phase l and .? 
+on CL 
+0 53-' 
+0 0609 
+11 4 
+(0-H 5 0653) 
+12 P'!\1-1 Pbaw 3 oo CL 
+0 346 
+00349 
+10 I 
+(0277 0 14) 
+16 \VToo CL 
+0 536 
+0.0715 
+13..3 
+(0.396 0.676) 
+28 \Vl"on V:? 
+0 875 
+00887 
+10 I 
+(0,701, 1 05) 
+Re du_at Yaatablllh 
+(•o) 
+S RE Healthy ubJe<:ts 
+19 7 
+0312 
+1.58 
+( 19 l 20 3) 
+6 RE J':'l.'H Pbaw 1 and 2 
+32 0 
+0.979 
+3 OS 
+( 0 1 4 0) 
+7 RE PXl-1 Phase 3 
+11 
+0.38S 
+3 40 
+( 10.6, 12 1) 
+ETAl -CL 
+195 
+(17 4 2 14) 
+p(ETAl-Cl. ETA2 V2) 
+ETAl- V!. 
+ETA3 ­ KA 
+on· 
+0 ~ 0 
+21 5 
+-164 
+-6802 2s 
+( 188 14 0) 
+(41 l 5 1 !) 
+Source: Table 16, Applicant's PopPK report, page 71. 
+Abbreviations: ASE, asymptotic standard error; Cl, confidence interval; CL, clearance; CV, coefficient of variation; ETA, estimate of 
+interindividual variability; F1, subcutaneous bioavailability; IIV, interindividual variability, KA, apparent first-order absorption rate 
+constant; PNH, paroxysmal nocturnal hemoglobinuria; PopPK, population pharmacodynamic; RE, residual error; RSE, relative 
+standard error; V2, apparent volume; WT, weight 
+110 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID 4795975 
+
+
+===== PAGE 125 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+-
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Applicant’s Conclusions 
+x SC bioavailability was estimated as 76.6% for liquid formulations; higher bioavailability 
+(b) (4)
+was estimated for the 
+formulation (94.7%). 
+x Patients with PNH are predicted to have lower pegcetacoplan exposure than healthy 
+subjects due to increased systemic CL without a meaningful difference in Vd. The 
+effective half-life of pegcetacoplan at a SC dose of 1,080 mg BIW was estimated as 
+8 days for adult patients with PNH compared to 10.1 days for healthy adults. 
+x C3 level had a time-varying impact on both pegcetacoplan CL and Vd. Relative to the 
+median C3 level over time, steady state pegcetacoplan exposure (Cmax at steady state and 
+average concentration at steady state) was approximately 6% lower at the 5th percentile of 
+C3 level over time and approximately 4% higher at the 95th percentile of C3 level over 
+time. 
+x Baseline body weight was a significant covariate of both pegcetacoplan CL and Vd. 
+Compared to a reference 70 kg subject, steady-state weekly Cmax and average 
+concentration at steady state were predicted to be approximately 15% higher in subjects 
+at the 5th percentile of body weight (54 kg) and 15% lower in subjects at the 95th 
+percentile of body weight (95 kg). 
+x Age, sex, Asian race, Japanese ethnicity, baseline CrCl, baseline total bilirubin, baseline 
+albumin, baseline AST, baseline alanine aminotransferase (ALT), and eculizumab 
+coadministration had no statistically significant impact on the PK parameters of 
+pegcetacoplan. 
+Reviewer’s Assessment of the PopPK Analyses 
+The Applicant’s PopPK model adequately describes the concentrations observed across different 
+studies included in PopPK analysis for descriptive labeling purposes and for determining 
+individual exposure metrics for E-R analysis: 
+x Parameter estimates for the final model were estimated with acceptable precisions with 
+relative standard error less than 20%. The shrinkage for IIV on CL (4.5%), central 
+volume (11%), and absorption rate (13%) were low. The standard GOF plots (Figure 26) 
+did not show obvious bias on predicted concentrations over time and the individual 
+predicted concentrations and predicted concentrations were in good agreement with the 
+observed concentrations for all studies included in the PK analysis. The GOF plots were 
+further examined by stratifying by study, which revealed no obvious misspecification. 
+The VPCs presented by study demonstrated generally an agreement between the 
+observed and simulated concentrations, except for Study APL2-202, which showed a 
+tendency of underprediction based on data from four patients. In general, the central 
+tendency and variability were adequately captured in Phase 2 and 3 studies in which 
+trough concentrations were measured. 
+111 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 127 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0 6-
+0 -
+...J O 2-
+0 , 
+fii o.a-
+-o 2-
+-0. -
+0.6-
+0_.i-
+d, 02-
+rn o.a­
+-0.2 -
+-0. ·-
+0 
+.. 
+I 
+80 
+120 
+weig 
+k:g1 
+0 
+eculizumah- naive(;-0),lrealed{= 1i) 
+1 0 
+...J O 2-
+0 , 
+fii a.a-
+-a 2-
+-0. -
+0.6-
+d, o 2-
+i!l 0.0-
+-0.2-
+• 
+• 
+■ 
+I 
+I 
+21) 
+~ 
+80 
+ag;e, years 
+I 
+• 
+D 
+no~.Asian (=O); Asian (=1) 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Figure 27. ETA-Covariate Plots for the Final PK Model 
+Source: Reviewer’s plot based on the Applicant’s final PopPK model. 
+Abbreviations: CL, clearance; ETA, estimate of interindividual variability; PK, pharmacokinetic; PopPK, population pharmacokinetic 
+14.3.3. Exposure-Response Analyses 
+Applicant’s E-R for Hemoglobin and LDH Response in Patients With PNH 
+Objectives 
+x Develop a population E-R model to characterize the relationship between pegcetacoplan 
+exposure and hemoglobin (Hb) level in patients with PNH. 
+x Evaluate the effects of selected intrinsic and extrinsic covariates as potential sources of 
+variability in Hb response. 
+x Develop a population E-R model to characterize the relationship between pegcetacoplan 
+exposure and LDH level in patients with PNH. 
+x Evaluate the effects of selected intrinsic and extrinsic covariates as potential sources of 
+variability in LDH response. 
+Data 
+The population E-R analysis included dosing and Hb and LDH level data from four studies (two 
+Phase 1b studies [CP0514 and APL2-204], one Phase 2a study [Study APL2-202], and one Phase 
+3 study [APL2-302]) in patients with PNH. Data from the Phase 3 Study APL2-302 were 
+available up to Week 16 (Table 67). 
+113 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 
+
+
+===== PAGE 129 =====
+
+ 
+ 
+NDA 215014 
+Empaveli (pegcetacoplan) 
+Methods 
+The modeling approach was identical for Hb and LDH. E-R model development followed a 
+sequential approach where fitting of the E-R model was conditioned on individual predicted PK 
+parameters estimated using the final PK model. Therefore, E-R model parameter estimation was 
+based on observed Hb and LDH data and subject-level PK information propagated via individual 
+predicted parameter estimates for CL, V2, and absorption rate. Population predicted PK 
+parameters were used for those subjects who did not contribute a measurable PK sample. 
+Software 
+Analyses were performed using the nonlinear mixed-effects modeling methodology in 
+NONMEM® (version 7.3). Data postprocessing and graphical analysis of data or output from the 
+models was performed using Statistical Analysis System (version 9.4 or later) or R (version 3.5.2 
+or later). 
+Covariate Model 
+x Hb E-R: The covariates tested were female sex, Asian race, baseline C3, body weight, 
+and CrCl on model-estimated population baseline Hb level; and female sex, individual 
+observed baseline Hb level, baseline eculizumab, baseline C3, age, body weight, and 
+CrCl on Emax. By the stepwise backward elimination procedure based on the likelihood 
+ratio test, only individual observed baseline Hb level and CrCl on Emax were retained in 
+the final E-R model. 
+x LDH E-R: The covariates tested were female sex, Asian race, baseline C3 level, age, and 
+body weight on population baseline LDH; and Asian race, baseline C3 level, and body 
+weight on EC50. By the stepwise backward elimination procedure based on the likelihood 
+ratio test, there were no covariates retained in the final model that were not included in 
+the base model. 
+Applicant’s Conclusions: E-R for Hemoglobin Response 
+The E-R relationship between pegcetacoplan concentration and Hb level was described by a 
+sigmoidal direct effect model of Emax. The covariates included in the final E-R model for Hb 
+were individual observed baseline Hb level and CrCl on Emax. Parameter estimates for the Hb 
+final model are summarized in Table 68. GOF plots and VPC plots are presented in Figure 28 
+and Figure 29. 
+115 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Reference ID: 4795975 

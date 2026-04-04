@@ -1,0 +1,947 @@
+
+
+===== PAGE 8 =====
+
+In cells isolated from patients with Friedreich's ataxia and in neurons from mouse models of Friedreich's 
+ataxia, Omav has demonstrated the ability to prevent cellular death, while restoring Nrf2 and promoting 
+mitochondrial bioenergetic, antioxidative, and anti-inflammatory activities.
+Absorption
+ The median (range) time to achieve peak plasma concentration was 7 to 14 (1 to 24) hours. The total 
+plasma Omav exposure based on area under the concentration-time curve (AUC) increased in a dose-
+dependent and dose proportional manner over a dose range of 50 mg (0.33 times the recommended 
+dosage) to 150 mg, but maximum Omav plasma concentration (Cmax) increased in a less than dose 
+proportional manner over the dose range in healthy fasted subjects
+Administration of 150 mg Omav with a high-fat meal (800-1000 calories, approximately 150, 250, and 
+500 to 600 calories from protein, carbohydrate, and fat, respectively) caused a slight increase in the 
+total exposure (AUC increased by ~15%) and an increase of ~350% in Cmax as compared to administration 
+under fasted condition (study 408-C-1703).
+Distribution
+Omav is ~97% bound to human plasma proteins. Blood/plasma ratio is ~0.7. Volume of distribution is 
+7361 L (105 L/kg for a 70 kg person).
+Metabolism
+Omav is majorly metabolized by CYP3A4 followed by CYP2C8 and CYP2J2. Following a single dose of 
+[14C]-Omav administered orally to healthy males (study 408-C-1805), Omav was found to be eliminated 
+by metabolism to a series of 30 metabolites, of which 7 metabolites were quantified and identified. 
+Metabolites M22 and M17 were major plasma metabolites that accounted for 18.6% and 10.9% of total 
+plasma radioactivity, respectively. The other metabolites were minor, each accounting for less than 10% 
+of total plasma radioactivity exposure. None of the metabolites has meaningful pharmacological activity.    
+Excretion
+The mean(range) elimination half-life of Omav is 57h (32-90h) in healthy subjects. The primary route of 
+elimination is through the feces, with 92.4% recovered in feces and less than 0.1% was recovered in 
+urine (study 408-C-1805). 
+Special Populations
+Hepatic Impairment
+The effect of hepatic impairment on PK of Omav was assessed in a hepatic impairment study (study 408-
+C-1804). Compared to subjects with normal hepatic function, patients with mild hepatic impairment had 
+~29% higher Cmax, while total exposure was comparable. In patients with moderate hepatic impairment 
+AUCinf, AUC0-t, and Cmax values were 64%, 56%, and 83% higher, respectively, compared to subjects with 
+normal hepatic function. Patients with severe hepatic impairment had a 117% increase in AUCinf 
+compared to the normal hepatic group. The AUC0-t values were 27% higher, while Cmax was 32% lower, for 
+the severe hepatic impairment group compared to the normal group. 
+Reference ID: 5131074
+
+
+===== PAGE 9 =====
+
+Renal Impairment
+From the mass balance study (study 408-C-1805), the contribution of renal elimination pathway for Omav 
+in healthy subjects was shown to be very low (0.1% of total radioactivity recovered in urine). Therefore, a 
+dedicated renal impairment study evaluating the impact of renal impairment on PK of Omav, and its 
+metabolites is not needed. 
+Age, Sex, Race, and Body Weight
+The effect of various intrinsic factors, like age, race, sex, and body weight was evaluated in the 
+population PK analysis. Based on the popPK covariate analysis, only baseline age (median age in popPK 
+dataset was 34 years; range 16-71 years) was found to have a significant influence on CL, suggesting a 
+lower CL in older subjects. Simulations of popPK parameters showed that median steady state Cmax and 
+AUC in the group of subjects ≥ 65 years are 27% and 23% higher than the median steady state Cmax and 
+AUC of reference subject (34 years). The Applicant concluded that these differences between age groups 
+are not clinically meaningful and are included in the range of inter-subject variability.
+2.2 Dosing and Therapeutic Individualization
+2.2.1 General dosing
+The proposed dose for the treatment of FA is 150 mg (3 capsules of 50 mg each) once daily 1h before 
+eating. This dosing regimen is same as used in part 2 of the pivotal Phase 2 clinical study (408-C-1402, 
+MOXIe trial). 
+2.2.2 Therapeutic individualization
+Hepatic Impairment
+A dedicated hepatic impairment study was conducted with a single dose of 150 mg of Omav (study 408-
+C-1804). Based on the insignificant change in Cmax and AUCinf of Omav in mild hepatic impairment, no 
+dose adjustment is needed for patients with mild hepatic impairment. The AUCinf of Omav were 1.65-fold 
+higher in moderate hepatic impairment and 2.17-fold higher in severe hepatic impairment patients. The 
+review team recommended a reduced dose of 100 mg QD in moderate hepatic impairment patients is 
+allowed. If adverse events emerge, the dose should be further reduced to 50 mg QD. Dosing in severe hepatic 
+impairment should be avoided due to concerns related to adverse hepatic events and based on clinical benefit 
+risk assessment in this population. Omav administration can only be resumed after hepatic impairment 
+improves to normal (150 mg), mild (150 mg), or moderate (100 mg) status. 
+Renal Impairment
+No dedicated renal impairment studies were conducted with Omav. From the mass balance study, Omav 
+and its metabolites accounted for less than 0.1% of total radioactivity in urine. There were 14 patients 
+with eGFR between 60-89 mL/min/1.73m2 and 89 patients above 89 mL/min/1.73m2 (total 103 patients 
+Reference ID: 5131074
+
+
+===== PAGE 10 =====
+
+studied in part 2 of the pivotal study 1402). Also, based on safety coverage with up to 300 mg QD dosing 
+for 12 weeks (from part 1 of study 1402), no dose adjustment is proposed for patients with mild, 
+moderate, or severe renal impairment.
+Age, Body Weight, Sex, and Race:
+No dose adjustment is required for patients based on sex, race, age, or body weight. The effects of sex, 
+body weight or race on Omav exposure were not significant. Age had a significant effect on CL of Omav, 
+suggesting a lower CL in older subjects. Compared to a reference group of 34-year-old subjects, subjects 
+≥ 65 years of age receiving 150 mg once daily will have 25% higher AUCtau,ss and 18% higher Cmax,ss, 
+respectively. Overall, the change in Omav CL with age is not expected to be clinically significant. Omav 
+can be administered without regards to the covariates of age, sex, race, or body weight (as dosed in the 
+MOXIe trial, Study 408-C-1402). 
+Concomitant administration with CYP450 enzyme modulators:
+In a clinical drug interaction study (408-C-1806), AUCinf of Omav was increased by ~4-fold with 
+concomitant administration of strong CYP3A4 inhibitor (itraconazole) and increased by ~1.25-fold with 
+concomitant administration of moderate CYP3A4 inhibitor/P-gp inhibitor (verapamil). Due to increase in 
+AUCinf of Omav, it is recommended to avoid concomitant administration of Omav with strong or 
+moderate CYP3A4 inhibitors. However, if avoiding is not possible, a reduced dose of 50 mg QD (with 
+concomitant strong CYP3A4 inhibitor) or 100 mg QD (with concomitant moderate CYP3A4 inhibitor) 
+dose for Omav is recommended. If adverse events emerge, administration of Omav should be 
+discontinued with concomitant administration of strong CYP3A4 inhibitors while Omav dose should be 
+reduced to 50 mg QD with concomitant administration of moderate CYP3A4 inhibitor. 
+No clinically significant differences in PK of Omav are expected following concomitant with use with 
+weak CYP3A4 inhibitors, thus no dose adjustment is needed with concomitant administration of weak 
+CYP3A4 inhibitor. 
+As there may be loss of efficacy, concomitant administration of Omav with moderate or strong CYP3A4 
+inducers should be avoided. 
+2.3 Outstanding Issues
+Please see section 1.2.
+2.4 Summary of Labeling Recommendations
+
+Section 2.1 – Administer Omav 1h before eating because the Cmax of Omav was ~350% higher 
+with food.
+
+No dose adjustment is required with mild, moderate, or severe renal impairment patients 
+because >92% drug related moieties were excreted via fecal route.
+
+No dose adjustment is required on the basis of sex, age, race, or body weight. 
+
+Sections 2.5 and 8.6 – A reduced dose of 100 mg QD (or 50 mg QD if adverse events emerge) for 
+Omav in FA patients with moderate hepatic impairment because the AUCinf of Omav was ~1.65-
+Reference ID: 5131074
+
+
+===== PAGE 15 =====
+
+3.2 General Pharmacology and Pharmacokinetic Characteristics
+Pharmacology
+Mechanism of Action
+Omaveloxolone selectively and reversibly binds to Keap1, resulting in the 
+activation of Nrf2, a transcription factor that modulates the expression of 
+genes involved in regulating mitochondrial function, oxidative stress, and 
+inflammation. 
+Active Moieties
+Omav is considered as the active moiety. M22 and M17, the major 
+metabolites of Omav, were pharmacologically inactive in nonclinical studies. 
+QT Prolongation
+The effect of omaveloxolone on the QTc interval has not been adequately 
+characterized. (See QT-IRT Review dated 02/22/2022).
+General Information
+Bioanalysis
+The concentrations of Omav in human plasma were measured using three 
+validated LC-MS/MS methods. The lower limit of quantification (LLOQ) in
+plasma was 0.073 ng/ or 0.075 ng/mL. Please refer to Section 4.1 for details.
+Healthy Volunteers 
+vs. Patients
+MAD study was not conducted in HV. A comparison between FA patients and 
+healthy subjects is not established. 
+Dose Proportionality
+AUC of Omav was dose proportional from 50-150 mg single dose for AUC, 
+and less than dose proportional for Cmax. 
+Accumulation
+The exposures in FA patients after multiple (QD) dosing of 150 mg shows 
+accumulation ratio (RAC) for Cmax and AUC to be between 1.7 to 2.3.  
+Variability
+In FA patients, the coefficient of variation (CV%) was approximately 46% for 
+Cmax,0-24h and 35% for AUC0-24h. The coefficient of variation (CV%) was 
+approximately 34% for Cmax,ss and 35% for AUCss.
+Absorption
+Bioavailability
+The absolute oral bioavailability of Omav was not determined . 
+Tmax
+The median Tmax for Omav is 7 to 14 h under fasting condition
+Food effect (high-fat 
+meal) GMR relative to 
+fasted state 
+A high-fat meal increased Cmax by ~350% and AUC by ~15%.
+Distribution
+Volume of 
+Distribution
+Based on population PK analysis (Study REAT-PMXOMAV-2081), the typical 
+apparent volume (Vc/F) is 410 L. The typical apparent peripheral volume 
+(Vp/F) is 6951 L.
+Plasma Protein 
+Binding
+97% 
+Substrate transporter 
+systems
+The following information was concluded from in vitro studies:
+
+Omav is a weak substrate of P-gp.
+
+Omav inhibited OAT1,OCT1, P-gp, and OATP1B3, however IC50 values 
+were much greater than clinically relevant concentrations.  
+Elimination
+Mean Terminal 
+Elimination half-life
+Approximately 57 h in healthy subjects (from different Phase 1 studies)
+Metabolism
+Reference ID: 5131074
+
+
+===== PAGE 21 =====
+
+The effect of hepatic impairment was evaluated in a Phase 1, single-dose (150 mg), open-label, PK study 
+(408-C-1804). No dose adjustment is needed for mild hepatic impairment subjects as Omav exposure 
+were not significantly different than healthy controls. Higher exposure of Omav was observed in 
+subjects with moderate or severe hepatic impairment compared to normal hepatic function. 
+Compared to healthy controls, subjects with mild hepatic impairment had ~29% higher Cmax, while the 
+total exposure was comparable. In subjects with moderate hepatic impairment, AUCinf, AUC0-t, and Cmax 
+values were 65%, 56%, and 83% higher, respectively, compared to healthy controls. Subjects with severe 
+hepatic impairment had 117% increase in AUCinf, 27% increase in AUC0-t and 32% decrease in Cmax 
+compared to healthy controls. The PK data from severe hepatic impairment cohort should be 
+interpreted with caution due to sample size (n=3 to 5) and PK variability. 
+The review team recommended lowering the Omav dose to 100 mg QD in patients with moderate 
+hepatic impairment with close monitoring for adverse events. If adverse events persist, a further 
+reduction to 50 mg QD is recommended in these patients. For patients with severe hepatic impairment, 
+Omav should be avoided due to clinical team’s concerns about the limited safety data in these patients. 
+No dose adjustment is needed for patients with mild hepatic impairment.
+Renal impairment: 
+The effect of renal function on omaveloxolone was not formally evaluated in the clinical studies. Based 
+on the insignificant contribution of renal elimination pathway to excrete Omav and its metabolites 
+(<0.1% radioactivity in urine from mass-balance study), no dose adjustments are needed for mild, 
+moderate, or severe renal impairment patients (eGFR 30-89 mL/min/1.73m2). It should be noted that 
+there were 14 patients with eGFR between 60-89 mL/min/1.73m2 and 89 patients above 89 
+mL/min/1.73m2 (total 103 patients studied in part 2 of the pivotal study 1402). Also, there was safety 
+coverage with up to 300 mg QD dosing for 12 weeks (from part 1 of study 1402). Furthermore, renal 
+function status was not identified as a significant covariate in the PPK analysis.
+Body weight, age, sex, and race:
+The effect of various intrinsic factors, including demographic variables like age, race, sex, and body 
+weight was evaluated in the popPK analysis. Based on covariate analysis, only baseline age (median age 
+in PPK dataset was 34 years; range, 16-71 years) was found to have a significant influence on CL. 
+Although, simulations from PPK analysis showed that mean steady-state Cmax and AUC in subjects ≥65y 
+are 26% and 24% higher than the mean steady-state Cmax and AUC of reference subject (34y), these 
+differences between age groups are not clinically meaningful and lie in the range of inter-subject 
+variability. Overall, no dose adjustments are needed in adult FA patients with respect to body weight, 
+age, sex, or race.
+Reference ID: 5131074
+
+
+===== PAGE 22 =====
+
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the 
+appropriate management strategy?
+Yes. Detailed dosing recommendations for drug interactions and administration with regard to food are 
+described below.
+Food Effect:
+Food effect was evaluated in a food effect study in healthy volunteers in Study 408-C-1703. Co-
+administration of Omav with a standard high-fat meal resulted in ~4.5-fold increase in Cmax. However, 
+AUC was increased by ~15% only.
+In the pivotal Phase 2 study (408-C-1402, MOXIe trial), Omav was administered 1h before meal. The 
+dosing proposed by the Applicant matches with the one utilized in the pivotal efficacy study with respect 
+to food intake. Therefore, for the final US prescribing information, the review team recommends the 
+same dosing instruction for administering Omav as used in the Phase 2 study. 
+Drug-Drug Interactions (DDI):
+DDI with CYP450 enzymes
+Omav as an inhibitor/inducer of major CYP450 enzymes
+In vitro, Omav inhibited CYP3A4 and CYP2C8 and induced CYP1A2 (1.01-fold), CYP2B6 (1.61-fold) and 
+CYP3A4 (2.35-fold) enzymes at clinically relevant concentrations. Based on these in vitro DDI data, the 
+Applicant conducted a 4-part clinical DDI study (408-C-1806) – a Phase 1, open-label, fixed-sequence, 
+drug interaction study in healthy adults. Part 1 evaluated the perpetrator potential of Omav 
+(administered at steady state). A total of 16 subjects were enrolled in Part 1 with an aim to achieve 12 
+evaluable subjects. Omav-mediated inhibition/induction of CYP450 was evaluated with substrates of 
+CYP3A4 (2 mg single oral dose of midazolam administered on Days 1 and 18) and CYP2C8 (1 mg 
+repaglinide administered on Days 2 and 19) with Omav administered at 150 mg QD dosing (Days 12 to 
+27 to achieve steady state). 
+The systemic exposure of probe drugs (midazolam and repaglinide) was reduced following co-
+administration of Omav compared to when administered alone. The GLSM ratio of test:reference 
+(where, test = probe substrate + Omav and reference = probe substrate alone) for AUCinf were 0.55 and 
+0.65 for midazolam and repaglinide respectively. Similar trend in GLSM ratio was observed for Cmax. 
+Based on these data, Omav is considered as a weak inducer of CYP3A4 and CYP2C8. See Figure 2 for a 
+graphical representation of DDI data.  
+Based on these data Omav is not a CYP450 inhibitor but is considered as a weak inducer of CYP3A4 and 
+CYP2C8. Although, the review team recommended no dose adjustment for substrates of CYP3A4/5 and 
+CYP2C8, patients and prescribers should refer to the USPI of substrates of these CYP enzymes when co-
+administering with Omav. Whereas a potential DDI between Omav and oral hormonal contraceptives 
+Reference ID: 5131074
+
+
+===== PAGE 23 =====
+
+cannot be ruled out. Therefore, labeling language of potential DDI was captured in the proposed label of 
+Omav in sections 7.2 and 8.3. 
+Omav as a substrate of major CYP450 enzymes
+In vitro, Omav was mainly metabolized by CYP3A4  with minor metabolism by CYP2C8 and CYP2J2. Based 
+on these, clinical  drug interaction between Omav and inhibitors of CYP3A4 and CYP2C8 was evaluated 
+using itraconazole (Part 2) and gemfibrozil (Part 3) (study 408-C-1806), respectively. The dosing regimen 
+for Parts 2 and 3 are listed below. 
+Part 2: Single oral doses of 150 mg Omav on Days 1 and 13 with multiple oral doses of 600 mg 
+gemfibrozil BID on Days 10 to 18.
+Part 3: Single oral doses of 150 mg Omav on Days 1 and 13 with multiple oral doses of 200 mg 
+itraconazole QD on Days 10 to 18.
+Coadministration with itraconazole (strong CYP3A4 inhibitor) resulted in ~4.1- and ~3-fold increase in 
+AUCinf and Cmax of Omav, respectively. No significant changes in Cmax and AUCinf of Omav were observed 
+with coadministration of gemfibrozil (strong CYP2C8 inhibitor). See Figure 3 for a graphical 
+representation of DDI data. 
+Based on these results, no clinically significant DDIs are anticipated when Omav is co-administered with 
+inhibitors of CYP2C8, thus no dose adjustments for Omav are needed with coadministration with 
+CYP2C8 inhibitors. Based on ~4-fold increase in AUCinf of Omav with coadministration of a strong 
+inhibitor of CYP3A4/5, the Applicant proposed contraindicating the use of Omav with CYP3A4 strong and 
+moderate inhibitors. However, the clinical pharmacology team provided dose adjustment 
+recommendations after considering the available dose strength (50 mg capsule) and leveraging available 
+safety information from doses tested up to 300 mg in Part 1 of the registration trial. The team 
+recommended to initially avoid the use of Omav with strong CYP3A4 inhibitors. If coadministration can’t 
+be avoided, a 50 mg QD is recommended with close monitoring.  If adverse events emerge, 
+coadministration with strong CYP3A4 inhibitors should be discontinued. Although the 50 mg QD dosing 
+is expected to result in increasing the exposure to levels higher than actual dose of ~205 mg which is 
+greater than the recommended dose (150 mg QD), there is sufficient safety coverage from part 1 of 
+study 1402 in FA patients who received doses up to 300 mg QD for 12 weeks without any major or 
+irreversible adverse events. The safety coverage was confirmed by the clinical review division. 
+The review team also recommended dose adjustment for Omav with concomitant moderate CYP3A4 
+inhibitor if concomitant use can’t be avoided. This was based on PK data in part 4 of study 408-C-1806 
+(further described below) where verapamil (a moderate CYP3A4 inhibitor) increased AUCinf of Omav by 
+1.25-fold. However, the review team noted few study-design concerns (timing of dosing and actual dose 
+of verapamil were not in line with the literature and other parts of this DDI study) which limit the ability 
+to completely rely on the results. However, the team used the following rationale to provide dose 
+adjustment recommendations with concomitant moderate CYP3A4 inhibitor.
+Although the observed 25% increase in exposure in the verapamil DDI study can be underpredicting the 
+drug interaction with moderate CYP3A4 inhibitors, it’s unlikely that the increase will be higher than the 
+increase observed with strong CYP3A4 inhibitors ( ~4 folds). Also, PBPK modeling suggested up to 
+ 
+increase in exposure with the moderate inhibitors, however the PBPK model is not considered adequate 
+because it was not validated and its possible that these predictions are over predicting the true drug 
+Reference ID: 5131074
+(b) (4)
+
+
+===== PAGE 24 =====
+
+interaction. Refer to PBPK review (section 4.6 of this review) for further discussion of these 
+discrepancies.
+Based on these information, the team is recommended dose reduction for Omav to 100 mg QD with 
+close monitoring. A conservative assumption of three-fold increase in exposure upon coadministration 
+with moderate CYP3A4 inhibitors, potential increase in exposure with a 100 mg QD dose may not 
+exceed the exposure from 300 mg dose in the general population. Safety of the 300 mg dose has been 
+established based on results from part 1 of the registration trial. If adverse events emerge, the team 
+recommended lowering the dose further to 50 mg daily.     
+No dose adjustment for Omav is needed with concomitant administration of weak CYP3A4 inhibitor as 
+the expected change is exposure may not be clinically significant. 
+DDI with transporters
+Omav as a substrate of transporters
+In vitro, Omav was found to be a weak substrate of P-gp. Thus, Part 4 evaluated the victim potential of 
+Omav with a clinically relevant P-gp inhibitor (verapamil). (Note: verapamil is also known to be a 
+moderate inhibitor of CYP3A4). The dosing regimen for Part 4 was: 
+Part 4: Single oral doses of 150 mg Omav on Days 1 and 13 with multiple oral doses of 120 mg verapamil 
+(QD) on Days 10 to 18.
+Coadministration with verapamil (P-gp inhibitor and also a moderate CYP3A4 inhibitor) resulted in 
+~1.25-fold increase in AUCinf and Cmax of Omav. See Figure 3 for a graphical representation of DDI data 
+from Parts 2, 3 and 4. 
+Although verapamil (a P-gp inhibitor and a moderate CYP3A4 inhibitor) did not significantly alter PK (Cmax 
+and AUC) of Omav, the review team noted that dose (120 mg QD) and time of verapamil administration 
+(1h before Omav) in the study were not in line with published DDI studies (as briefly discussed above). 
+However, the inhibition or induction effect of Omav on P-gp is expected to be less than that of CYP3A4 
+because the cellular permeability of Omav in vitro (by measuring transit across human epithelial cell 
+lines such as Caco-2 cell, MDCKII MDR1, and MDCKII-BCRP) was shown to have a low permeability 
+indicating Omav as potentially a weak substrate of P-gp. A literature study had similar results with 
+grapefruit juice on disposition of saquinavir (a CYP3A4 and P-gp substrate) where a greater effect was 
+observed with CYP3A4 inhibition compared to P-gp inhibition4. Thus, no dose adjustment for Omav with 
+concomitant P-gp inhibitor is needed. 
+Omav as an inhibitor of transporters
+In vitro, Omav inhibited P-gp, OCT1, and BRCP at clinically relevant concentrations. Thus, Omav-mediated 
+inhibition/induction of transporters was evaluated with probe substrates of BCRP/P-gp (10 mg 
+rosuvastatin/0.25 mg digoxin cocktail administered on Days 5 and 22) and OCT1 (500 mg metformin 
+administered on Days 3 and 20) in a Clinical DDI study (Part 1 of study 408-C-1806). Omav was 
+4 Eagling VA, Profit L, Back DJ. Inhibition of the CYP3A4-mediated metabolism and P-glycoprotein-mediated 
+transport of the HIV-1 protease inhibitor saquinavir by grapefruit juice components. Br J Clin Pharmacol. 1999 
+Oct;48(4):543-52. doi: 10.1046/j.1365-2125.1999.00052.x. PMID: 10583025; PMCID: PMC2014377.
+Reference ID: 5131074
+
+
+===== PAGE 30 =====
+
+For study 408-C-1402 part 1, the OCP reviewer noted a discrepancy in the long term storage stability at -
+20 0C between the bioanalytical report (408-c-1402-pt1-study-report.pdf) and the one summarized in 
+module 2.7.1 and Clinical Pharmacology Summary Aid documents. The Applicant confirmed (IR response 
+received on 06/15/2022) that long term storage stability of Omav at -20 0C was evaluated up to 1440 
+days in Method 1 
+ which covers the duration of storage for study samples for study 408-C-1402 
+part 1.  
+4.2 In Vitro Studies
+CYP metabolism (study RTA408-P-1208) In human liver microsomes, extensive turnover of Omav was 
+observed, with <3% Omav remaining after 60-min incubation. 
+CYP phenotyping (study RTA408-P-1212) Using recombinant CYP450s (supersomes), Omav was 
+confirmed to be extensively metabolized by CYP3A4 followed by CYP2C8 and CYP2J2. Metabolism 
+(substrate loss) of Omav (1 and 10 μM) was observed with rCYP2C8 (45% and 27% loss, respectively), 
+rCYP2J2 (43% and 33% loss, respectively) and rCYP3A4 (80% and 59% loss, respectively). This finding was 
+confirmed in human liver microsomes using specific direct chemical inhibitors of CYP3A4/5 
+(ketoconazole) and CYP2C8 (gemfibrozil glucuronide) isozymes. The disappearance of Omav at 1 and 10 
+µM was inhibited (up to 99%) by the direct CYP3A4/5 inhibitor, and partially inhibited (up to 24%) with 
+the metabolism-dependent CYP2C8 inhibitor. Incubation with UDPGA-fortified human liver suggested 
+that UGT enzymes do not play a role (neither primary nor secondary glucuronidation) in Omav 
+metabolism.
+CYP inhibition (study RTA408-P-1106) The potential for Omav to inhibit CYP450 enzymes in human liver 
+microsomes (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, and CYP3A4/5 [using two different 
+substrates]) was evaluated. Omav directly inhibited CYP2C8 with an IC50 value of 0.67 μM and 
+CYP3A4/5 (midazolam 1’-hydroxylation) with IC50 values of 0.7 μM and 0.8 μM. The data revealed that 
+Omav was a mixed inhibitor of CYP2C8 and CYP3A4/5 (midazolam 1’-hydroxylation) with Ki values of ~ 
+0.5 μM for each enzyme. Omav caused no or slight metabolism-dependent inhibition of CYP1A2, 
+CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6, or CYP3A4/5. 
+To support the observed steady-state Cmax at the therapeutic dose (i.e., 150 mg), Omav was incubated at 
+higher conc. (up to 10 μM) with human liver microsomes (study RTA-P-17011). Omav directly inhibited 
+CYP2C9 and CYP3A4/5 with IC50 values of 4.8 and 4.9 μM, respectively. However, these IC50 values >> 
+than unbound steady state Cmax at therapeutic dose. 
+CYP inhibition activity of metabolites (study RTA-P-20022): Two major metabolites (i.e., >10% of total 
+AUC) in human plasma were identified in the single oral dose [14C]omaveloxolone human ADME study. 
+M22 (TX304579, 1,2-dihydro-30-COOH omaveloxolone) and M17 (TX304571, 1,2-dihydro-29-OH 
+omaveloxolone) accounted for 18.6% and 10.9% of total plasma radioactivity, respectively. Neither M17 
+nor M22 possessed any meaningful CYP inhibition activity.
+Reference ID: 5131074
+(b) (4)
+
+
+===== PAGE 32 =====
+
+Figure 4: Design of Study 408-C-1703
+Subjects were confined to the site beginning on Study Day -1 through the last PK blood draw on Study 
+Day 6 during Period 1, and from Study Day 14 through the last PK blood draw on Study Day 20 during 
+Period 2. There was a 1-week washout period between Period 1 and Period 2. PK blood sampling for 
+omaveloxolone was performed pre-dose (0 hour), and at 0.5, 1, 2, 3, 4, 5, 6, 8, 10, 12, 18, 24, 36, 48, 72, 
+96, and 120 h following Omav administration. All subjects were included in the PK population.  
+The meal provided approximately 800 to 1000 calories and 50% of its total caloric content from fat such 
+that  150, 250, and 500 to 600 calories from protein, carbohydrate, and fat, respectively. The drug was 
+administered 30-min after meal. 
+To assess effect of food on PK of Omav PK, the Cmax and AUCs (AUC0-t and AUC0-∞) of Omav were 
+compared between fed and fasted states using an analysis of variance (ANOVA) model for the natural 
+logarithm-transformed Cmax and AUCs. Lack of an effect of food on PK of Omav was concluded if the 
+calculated 90% confidence intervals for resulting point estimates (geometric least squares means) and 
+their ratios (fed vs. fasting) were contained within the 80.00% to 125.00% range.
+Results:
+Figure 5: PK concentration time profile for Omav [(50 mg (fasted), 100 mg (fasted) and 150 mg (fasted 
+and fed)]
+Source: CSR Study 408-C-1703, page 56 of 327
+Reference ID: 5131074
+
+
+===== PAGE 33 =====
+
+Table 3: PK Parameters for Omav
+RTA-408
+PK Parameter Statistic
+50 mg 
+Fasted (N=10)
+100 mg 
+Fasted (N=8)
+150 mg 
+Fasted (N=16)
+150 mg 
+Fed (N=15)
+Cmax (ng/mL)
+n
+10
+8
+16
+15
+Mean (SD)
+21.1 (11.7)
+27.7 (9.72)
+28.2 (13.0)
+129 (51.1)
+GM (CV%)
+18.8 (52.9)
+26.1 (38.5)
+25.4 (51.3)
+119 (45.6)
+Tmax (h)1
+n
+10
+8
+16
+15
+Median 
+(min, max)
+5.5
+(1.0, 8.0)
+10.0
+(8.0, 12.0)
+11.0
+(3.0, 24.0)
+5.0
+(2.0, 8.0)
+AUC0-t (h*ng/mL)
+n
+10
+8
+16
+15
+Mean (SD)
+483 (188)
+1110 (498)
+1140 (526)
+1340 (557)
+GM (CV%)
+456 (35.1)
+1030 (43.3)
+1030 (47.0)
+1220 (48.1)
+AUC0-inf (h*ng/mL)
+n
+9
+8
+16
+15
+Mean (SD)
+545 (215)
+1230 (614)
+1230 (583)
+1440 (633)
+GM (CV%)
+513 (36.4)
+1120 (46.4)
+1120 (48.4)
+1310 (49.8)
+T½ (h)
+n
+9
+8
+16
+15
+Mean (SD)
+34.6 (7.3)
+33.7 (7.0)
+31.5 (5.6)
+42.2 (10.6)
+λz (1/h)
+n
+9
+8
+16
+15
+Mean (SD)
+0.021 (0.004)
+0.021 (0.004)
+0.023 (0.004)
+0.018 (0.005)
+CL/F (L/h)
+n
+9
+8
+16
+15
+Mean (SD)
+102 (32.5)
+95.9 (36.0)
+148 (71.9)
+128 (73.0)
+Vz (L)
+n
+9
+8
+16
+15
+Mean (SD)
+5080
+(1950)
+4520
+(1790)
+6630
+(3240)
+7300
+(3260)
+1 Tmax is expressed as median and range (min, max)
+Source: CSR Study 408-C-1703, page 57 of 327
+Reference ID: 5131074
+
+
+===== PAGE 34 =====
+
+Table 4: Statistical Analysis Results for the Assessment of Food Effect for Omav
+PK Parameter
+GLSMa 150 mg (n) 
+Omaveloxolone Fasted
+GLSMa 150 mg (n) 
+Omaveloxolone Fed
+Ratio (Fed/Fasted) GLSM 
+(90% CI)b
+Cmax (ng/mL)
+26.7 (15)
+121 (15)
+451 (362 - 562)
+AUC0-t (h*ng/mL)
+1070 (15)
+1240 (15)
+116 (100 - 134)
+AUC0-inf (h*ng/mL)
+1160 (15)
+1330 (15)
+115 (99.5 - 132)
+a GLSM were the least square means from the ANOVA model presented after back transformation to the original scale.
+b The 90% CIs were presented after back transformation to the original scale. 
+Source: CSR Study 408-C-1703, page 59 of 327
+Conclusion: 
+Following a single oral dose of 150 mg, plasma exposure, namely Cmax, AUC0-t and AUC0-inf, of Omav 
+increased by ~450%, 16% and 15%, respectively, in the fed state relative to the fasted state. Based on 
+these data, Omav was recommended to be administered 1h before eating. 
+Dose proportionality study design (Part 2):
+This was an open-label, randomized phase to assess the dose proportionality of Omav. Subjects were 
+randomly assigned to 1 of 2 treatments. A single dose of omaveloxolone was administered to the 
+subjects in a fasted state. To assess proportionality of the 50-mg, 100-mg, and 150-mg doses of Omav, 
+data from all subjects during the fasted period of Part 1 were included in Part 2 analyses.
+The PK sampling scheme was similar to the food effect study design. The PK parameters of 50 mg and 
+100 mg doses are summarized in Table 1. To assess the dose proportionality of Omav, the plasma PK 
+parameters (Cmax and AUCs) of 50 mg, 100 mg, and 150 mg in fasted state in part 1 and part 2 were 
+assessed with a power model. The power model is described as: y = α*Doseβ, where y denoted the PK 
+parameters. Dose proportional PK was implied if β=1 and it was assessed by estimating β along with its 
+90% confidence interval. The exponent, β, in the power model was estimated by regressing the ln-
+transformed PK parameter on ln-transformed dose. 
+Results:
+The total plasma exposure for Omav (AUC0-inf and AUC0-t) increased dose proportionally from 50 mg to 
+150 mg, however the Cmax increased in a less than dose proportional manner.
+In CSR for study 408-C-1703, the wash out duration between the two periods (fasted arm and fed arm) 
+was listed as 1 week. However, the OCP reviewer confirmed that Omav was administered 14 days apart 
+in the two periods. 
+Reference ID: 5131074
+
+
+===== PAGE 35 =====
+
+4.3.2 Hepatic impairment (Study 408-C-1804)
+This study was a Phase 1, open-label, non-randomized, parallel-group study in adult men and women 
+patients aged 18 to 70 years (inclusive) with a BMI between 18 kg/m2 and 38 kg/m2 (inclusive) to 
+determine the effect of hepatic impairment on the PK, safety, and tolerability of a single oral dose of 
+omaveloxolone compared to matched healthy subjects with normal hepatic function. Patients were 
+grouped at the screening into 4 groups – 
+
+Group 1: matched healthy controls (N=12)
+
+Group 2: patients with mild hepatic impairment (Child-Pugh Class A [score of 5-6]) (N=8)
+
+Group 3: patients with moderate hepatic impairment (Child-Pugh Class B [score of 7-9]) (N=7)
+
+Group 4: patients with severe hepatic impairment (Child-Pugh Class C [score of 10-14]) (N=5)
+Following administration of a single oral dose of 150 mg Omav, the PK profiles for the normal function 
+and moderate and severe hepatic impairment groups were each characterized by a slow absorption 
+phase (median Tmax values of 7.00 hours, 8.00 hours, and 6.00 hours, respectively). For the mild hepatic 
+impairment group, the absorption phase was rapid (median Tmax 2.00 hours). 
+The geometric mean t1/2 values of Omav were similar for normal function and mild hepatic impairment 
+groups ([range] = 90 [57-152] h and 86 [26-151] h, respectively), and longer for moderate and severe 
+hepatic impairment groups (107 [71-142] h and 190 [138-331] h, respectively). Geometric mean CL/F 
+values were lower for moderate and severe hepatic impairment groups (60.2 L/h and 58.8 L/h, 
+respectively) than for normal function and mild impairment groups (92.1 L/h and 87.8 L/h, respectively).
+Patients with mild hepatic impairment (n=8) had approximately 21% higher Cmax, while the total exposure 
+was comparable, compared to subjects with normal hepatic function (n=12).
+Patients with moderate hepatic impairment (n=7) had 65% and 83% higher AUCinf and Cmax values, 
+respectively, compared to subjects with normal hepatic function.
+Patients with severe hepatic impairment (n=3 to 5) had 117% increase in AUCinf compared to the normal 
+hepatic function group. Interestingly, Cmax was 31% lower for the severe impairment group compared to 
+subjects with normal hepatic function.
+Few important study design and data analysis considerations should be noted for this study: 
+1. The Applicant selected PK data for comparisons between hepatic impairment cohorts after matching to 
+normal healthy controls. However, the review team noted that the Applicant had already enrolled 
+subjects in the study based on prespecified criteria of body weight ±10 kg and BMI ±20%. Also, as Omav is 
+dosed at a fixed dose of 150 mg QD irrespective of body weight, the review team reanalyzed PK data 
+considering all subjects from normal healthy controls and hepatic impairment cohorts. 
+Reference ID: 5131074
+
+
+===== PAGE 36 =====
+
+2. Although major differences between the Applicant’s (117% increase in AUCinf) and review team’s (56% 
+increase in AUCinf) analysis were noted only for the severe hepatic impairment cohort, due to limited 
+sample size and inherent PK variability of Omav, dosing recommendations for moderate and severe 
+hepatic impairment cohorts were based on a conservative approach of maximum increase observed with 
+the Applicant’s analysis. 
+3. Omav was recommended to be avoided in moderate and severe hepatic impairment patients. 
+However, if avoiding is not possible, then a reduced dose of 100 mg QD for moderate hepatic impairment 
+patients was recommended based on the observed PK data. Patients with severe hepatic impairment 
+should avoid Omav due to added risk of adverse hepatic events which could be difficult to attribute to 
+either the overexposure of Omav or the pathological condition itself. 
+ 4.3.3 Human mass balance study (study 408-C-1805)
+This was an open-label, non-randomized, single-dose study in healthy male subjects to investigate the 
+absorption, metabolism, and excretion of Omav. The primary objective of the study was to assess the PK, 
+mass balance, metabolite profiles, and rates and routes of elimination of [14C]-omaveloxolone and derived
+metabolites following administration as a single 150-mg (containing approximately 90 μCi) dose to healthy 
+male subjects. A total of 8 subjects entered and completed the study.
+A median Tmax (min-max) of 9.00 (4.00-36.00) hours in plasma. After reaching Cmax, plasma concentrations 
+appeared to decline in a generally biphasic manner, with geometric mean t1/2 of 48.4 h and individual 
+estimates ranging from 32.4 to 68.9 h. The geometric mean AUC0-inf for Omav in plasma was ~31% of that 
+for total radioactivity in plasma. The geometric mean t1/2 of total radioactivity (~54 h) was slightly higher 
+than Omav (~48.4 h).
+With metabolite profiling, plasma, urine, and fecal homogenate samples indicated that 14C-Omav 
+underwent moderate metabolism in human subjects to produce 30 metabolites, of which seven were 
+identified. Omav was a major (>10% of total plasma radioactivity) circulating component, with 10.5% of 
+total plasma radioactivity exposure. Metabolites M22 (TX304579) and M17 (TX304571) were major plasma 
+metabolites that accounted for 18.6% and 10.9% of total plasma radioactivity, respectively. Plasma 
+metabolites M28 (TX64094), M14 (TX304574), M15 (TX304575), and M23 (TX304576) were minor (<10% 
+of total plasma radioactivity exposure) and accounted for 8.35%, 2.86%, 2.14%, and 1.77% of total plasma 
+radioactivity exposure, respectively. 
+Of the dose excreted in feces, at 0 to 144 hours post-dose, Omav accounted for ~40% of the dose. At 96 h 
+post-dose, ~91% radiolabeled material with 92.4% radioactivity recovered in the feces by 528 h post-dose, 
+suggesting fecal elimination was the primary route of elimination. Urinary excretion accounted for <0.1% 
+radioactivity at 528 h post-dose. Elimination of metabolites was predominant in feces and cumulatively 
+accounted for 42.1% of dose. Metabolite M29 (TX63647) was the major metabolite in feces, accounting for 
+35.9% of dose, while metabolite M28 (TX64094) was minor, accounting for 6.21% of dose.
+Reference ID: 5131074
+
+
+===== PAGE 39 =====
+
+The structural model utilized two compartments, first order absorption, and linear clearance. The 
+Applicant assessed alternative absorption models (zero-order, sequential zero- plus first- order, and 
+parallel zero- plus first- order) and did not improve the model fit based on diagnostic plots and Cmax 
+prediction performance. PK parameters include apparent clearance (CL/F), apparent central volume of 
+distribution (Vc/F), apparent intercompartmental clearance (Q/F), apparent peripheral volume of 
+distribution (Vp/F), and absorption rate constant (Ka). 
+Interindividual Variability: exponential
+Residual Variability: proportional
+Covariates: Age and alanine phosphatase are covariates on apparent clearance. Healthy subjects (versus 
+patient as a categorical covariate) and food are covariates on the absorption rate constant (Ka). Food is 
+a covariate on bioavailability. 
+Parameter estimates for the final population PK model are shown in the table below. 
+Reference ID: 5131074
+
+
+===== PAGE 40 =====
+
+Table 6: Parameter Estimates for the Final Omaveloxolone Population PK Model
+η=eta; %CV=percentage of coefficient of variation; %RSE=percentage of relative standard error; ALP=alkaline 
+phosphatase; CI=confidence interval; CL=clearance; F=bioavailability; IIV=interindividual variability; Ka=absorption 
+rate constant; Q=intercompartmental clearance; Vc=central volume of distribution; Vp=peripheral volume of 
+distribution.
+Source: sequence 0001, module 5335, reat-pmx-omav-2081-study-report.pdf, page 62
+Reference ID: 5131074
+
+
+===== PAGE 43 =====
+
+4.4.2 PPK Simulation
+The final PPK model includes age as a covariate on omaveloxolone clearance (see 4.4.1 PPK Modeling for 
+details on the for details on the final population pharmacokinetic model). The Applicant conducted PK 
+simulations to quantify the effect of age on omaveloxolone Cmax and AUCtau at steady state. The 
+simulations were conducted for a typical subject in fasted state. The PK was summarized within age bins 
+of 6 to < 12 years, 12 to < 16 years, 16 to < 40 years, 40 to < 65 years, and ≥ 65 years. For each age group 
+in the virtual population, 2000 virtual subjects were generated. The median age of the subjects in the 
+dataset, 34 years, was used as a reference. The results of these simulations for the proposed dose of 150 
+mg once daily are shown below. 
+Reference ID: 5131074
+
+
+===== PAGE 44 =====
+
+Figure 8: Simulated Cmaxss and AUCtau,ss for 150 mg Once Daily By Age Group
+2000 virtual subjects were simulated for every age group in the virtual population. Simulated profiles for 34 years 
+old virtual subjects (median age of the population PK analysis dataset) were pooled to serve as a reference group. 
+AUCss=steady-state area under the plasma concentration-time curve; PK=pharmacokinetic; QD=once daily.
+Source: sequence 0001, module 5335, reat-pmx-omav-2081-study-report.pdf, page 96-97
+Reference ID: 5131074
+
+
+===== PAGE 45 =====
+
+Table 7: Simulated Cmaxss and AUCtau,ss for 150 mg Once Daily By Age Group
+2000 virtual subjects were simulated for every age group in the virtual population. Simulated profiles for 34 years 
+old virtual subjects (median age of the population PK analysis dataset) were pooled to serve as a reference group. 
+Abbreviations: AUCss=steady-state area under the plasma concentration-time curve; Cmax,ss=maximum steady-
+state plasma concentration; PK=pharmacokinetic; max=maximum; min=minimum; N=number of subjects with 
+available information; Qu=quartile; SD=standard deviation.
+Source: sequence 0001, module 5335, reat-pmx-omav-2081-study-report.pdf, page 98
+The simulations indicate that compared to the reference group of 34-year-old subjects, subjects ≥ 65 
+years of age will have 25% higher AUCtau,ss (based on median values of 1300 hr*ng/mL versus 1630 
+h*nr/mL) and 18% higher Cmax,ss (based on median values of 78.6 ng/mL versus 92.6 ng/mL), 
+respectively.
+The Applicant concludes that though systemic exposure was predicted to be higher in older subjects, 
+that there are no meaningful differences in systemic exposure between the age groups. The Applicant’s 
+proposal is that no dose adjustment is needed based on age. 
+[Reviewer comment: The reviewer agrees that no dose adjustment is needed based on age for the 
+proposed population of FA subjects age ≥ 16 years.]
+Reference ID: 5131074
+
+
+===== PAGE 46 =====
+
+4.5. Exposure-response analyses
+The Applicant submitted report reat-pmx-omav-2081-study-report.pdf, titled “Population 
+Pharmacokinetic and Exposure-Response Modeling of Omaveloxolone” to module 5335 in sequence 
+0001. The objective was to perform E-R modeling with the modified Friedreich’s ataxia rating scale 
+(mFARS) scores, aminotransferase levels, cardiac adverse events (AEs), and infections and infestations 
+AEs. 
+The analyses were conducted with data from Study 408-C-1402 Part 1 and Part 2 only. The final 
+population PK model was used to predict PK profile based on posterior Bayes estimates. Steady-state 
+AUC (AUCtau,ss) and steady-state Cmax (Cmax,ss) were generated based on these predictions. 
+The relationship between omaveloxolone exposure and ALT, AST, or mFARS (continuous PD measures) 
+and using the nonlinear regression method from the nlme package in R. Based on this exploratory 
+analysis, linear structural models with various interindividual terms were assessed for their capacity to 
+sufficiently characterize the exposure-response relationship. 
+Logistic regression analyses were employed to analyze 2 different AEs from patients with FA in Study 
+408-C-1402 Part 1 and Part 2: cardiac events and infections and infestations events.
+Variables screened for use as covariates include concomitant medication, age or age group, sex, race, 
+baseline mFARS, and pes cavus status. For exposure-response model, the initial model fit for each 
+clinical endpoint included AUCtau,ss, Cmax,ss, and all the potential covariates. Backward elimination was 
+applied using the step Akaike information criterion (stepAIC) function from the Modern Applied 
+Statistics with S (MASS) package in R. This function will iteratively eliminate variables to minimize the 
+Akaike information criterion (AIC). Bivariate interaction terms were assessed between remaining 
+explanatory variables provided that such interactions had a plausible clinical or biological interpretation. 
+Finally, model terms that were retained through the statistical evaluation but were not considered 
+biologically plausible were considered for removal from the model.
+4.5.1 Cardiac Events
+The dataset included 171 patients, 27 which experienced a cardiac event and 144 that did not 
+experience a cardiac event. Univariate analysis of exposure metrics (AUCtau,ss, Cmax,ss, and dose level) 
+indicated that Cmax,ss was the strongest predictor of cardiac events. Prior to initiation of the backward 
+elimination process, the full model included age, body weight, baseline mFARS, sex, PPI, moderate 
+CYP3A4 inhibitor, and race. After backward elimination, the final model retained no significant 
+predictors. To assess the potential impact of Cmax,ss on cardiac events, the Applicant utilized the initial 
+model with Cmax,ss as a predictor of cardiac events.  The parameter estimates of the final model, a logistic 
+regression model with Cmax,ss as the only predictor are presented in the table below. 
+Reference ID: 5131074
+
+
+===== PAGE 47 =====
+
+Table 8: Parameter Estimates for the Final Cardiac Event Exposure-Response Model
+CI=confidence interval; Cmax=maximum plasma concentration; RSE=relative standard error. 
+The intercept is the probability of event for a reference individual on the logit scale (14.8%)
+Source: sequence 0001, module 5335, reat-pmx-omav-2081-study-report.pdf, page 72
+The observed cardiac event data are overlayed with the simulated Cmax,ss values and the exposure-
+response model prediction of cardiac event probability are presented in the figure below.
+Reference ID: 5131074
+
+
+===== PAGE 48 =====
+
+Figure 9: Observed and Predicted Cardiac Events for PBO and 150 mg Omav
+The solid red line is the predicted probability of experiencing a cardiac event. The gray-shaded area is the 95% CI of 
+the model prediction. The 2 vertical dashed lines are the minimum and maximum Cmax for the 150-mg dose level. 
+CI=confidence interval; Cmax=maximum plasma concentration.
+Source: sequence 0001, module 5335, reat-pmx-omav-2081-study-report.pdf, page 73
+The Applicant provides the following observations from these analyses: 
+
+The probability of a cardiac event is correlated with increasing Cmax.
+
+The model predicted mean probability of a cardiac event for a subject receiving the 150 mg dose 
+was 16.5% compared to 14.8% for placebo. 
+
+The 95% CI for the effect of Cmax on cardiac event includes 0 for slope, indicating that Cmax is 
+not significant.
+[Reviewer comment: The Applicant reports that the slope of Cmax,ss on cardiac event probability contains 
+zero. However, limitations to this analysis include 1) pooling various types of cardiac events that 
+otherwise may be too infrequent to model, and 2) exclusion of time of cardiac event AE with respect to 
+Tmax. Overall, the relationship of omaveloxolone PK to cardiac risk is not clear. Please refer to the review 
+of Dr. Veneeta Tandon for discussion on pharmacovigilance and post-marketing requirements for TQT 
+assessment. .]
+Reference ID: 5131074
+
+
+===== PAGE 57 =====
+
+4.6 Physiologically based Pharmacokinetic Modeling and Simulation Review 
+Primary PBPK Reviewer
+Manuela Grimstein, M.Sc., Ph.D.
+Secondary PBPK Reviewer
+Yuching Yang, Ph.D.
+Executive Summary 
+The objective of this review is to evaluate the adequacy of the Applicant’s Physiologically based 
+Pharmacokinetic (PBPK) analyses to predict the DDI liability of omaveloxolone as a victim of 
+CYP3A4-mediated interaction by strong and moderate CYP3A inhibitors and inducers. 
+The Division of Pharmacometrics has reviewed the PBPK submission (Report AG-48-PBPK-001, 
+model files, responses to FDA’s request for information) to conclude the following: 
+
+The PBPK analysis was inadequate to predict the effect of CYP3A inhibitors and inducers 
+on the exposure of omaveloxolone mainly because of uncertainties of the contribution 
+of CYP3A4 to omaveloxolone clearance. 
+1. Methods
+1.1 Model Development
+The PBPK analyses were performed using the software Simcyp® version 18 release 2. 
+Reference ID: 5131074
+(b) (4)
+2 Pages have been Withheld in Full as b4 (CCI/TS) immediately following this page
+
+
+===== PAGE 61 =====
+
+biliary clearance and enterohepatic circulation (EHC) was the presence of multiple peaks in the 
+single-dose PK profile of omaveloxolone, including at late time points post-dose. Additionally, in 
+vitro data suggested that omaveloxolone may be a substrate of P-gp, although not a substrate 
+of BCRP. It was not evaluated in vitro whether omaveloxolone is a substrate of MRP2 and/or 
+BSEP. Thus, the Reviewer investigated the potential for biliary clearance to omaveloxolone 
+disposition because misrepresentation of this clearance pathway would impact the estimations 
+of the percentage contribution of CYP3A4 to the total clearance (fmCYP3A value in the model), 
+and subsequent model application (i.e., predictions of the interaction effects of CYP3A 
+modulators on omaveloxolone PK). Of note, an adequate verification of the fmCYP3A value was 
+not provided in the current omaveloxolone model, based on Reviewer’s assessment (refer to 
+section 2. Results, Q2). 
+The Reviewer evaluated the potential for biliary clearance of omaveloxolone, using available 
+nonclinical and clinical pharmacology data, to conclude there was not strong evidence of major 
+biliary excretion and EHC of omaveloxolone.  Reasons are:
+
+Omaveloxolone has low solubility and low permeability
+
+Moderate metabolism could be inferred based on total radioactivity exposure in plasma 
+for all metabolites (54%) compared to parent (10%); consequently, major biliary 
+excretion (~40% of total clearance) may be ruled out.
+
+The secondary peak in omaveloxolone PK profile was not affected by coadministration 
+of the P-gp inhibitors itraconazole and verapamil suggesting minor role of P-gp-
+mediated disposition. 
+
+No glucuronide metabolites (primary or secondary) were reported in vitro neither in 
+vivo (human ADME study). Thus, EHC of omaveloxolone from back-conversion of such 
+metabolites may be ruled out.
+
+Nonclinical ADME study showed no evidence of biliary excretion of omaveloxolone. 
+Omaveloxolone was not quantified in bile after oral dose in bile-duct cannulated 
+monkeys, while five metabolites of omaveloxolone were quantified in bile. 
+Omaveloxolone was not quantified in feces after an IV dose. 
+Therefore, the assumption of negligible biliary clearance of omaveloxolone was supported and 
+its impact on the estimation of fmCYP3A value in the model should be insignificant. 
+Further, the Reviewer concluded that there are evidence suggesting that the secondary peak in 
+the PK profile of omaveloxolone is related to absorption:
+
+Omaveloxolone has low permeability and low solubility
+
+The secondary peak in the PK profile of omaveloxolone was not prominent in the fed 
+state compared to fasted state. Food significantly increased the Cmax (350%) of 
+omaveloxolone, but minimal effect on AUC. This observation suggested that solubility in 
+bile acid may contribute significantly to the absorption of omaveloxolone. In the 
+absence of food, omaveloxolone absorption seems delayed. 
+Reference ID: 5131074
+
+
+===== PAGE 62 =====
+
+The mechanistic reason for the double peak phenomenon remains unknow. Possible 
+mechanisms may be drug storage and subsequent release from a post-absorptive depot; 
+variable absorption rates along the gastrointestinal tract; and/or discontinuous absorption.
+The current model structure of omaveloxolone related to its absorption (first-order absorption 
+model) do not mechanistically address neither recover the observed secondary peak.
+Q2. Can PBPK analyses predict the effect of a CYP3A modulator on the PK of omaveloxolone? 
+No, the PBPK analysis was considered inadequate to estimate the interaction effects of CYP3A 
+modulators on the PK of omaveloxolone. Validation of the contribution of the CYP3A4 pathway 
+to omaveloxolone clearance is crucial to allow prediction of the effect of CYP3A modulators on 
+the PK of omaveloxolone. However, the Reviewer considered that the fmCYP3A4 value was not 
+adequately validated by the Applicant’s PBPK analysis. 
+Reference ID: 5131074
+(b) (4)
+
+
+===== PAGE 68 =====
+
+
+uncertainties on the percent contribution of CYP3A4 to omaveloxolone clearance,
+
+lack of in vitro metabolic profile information for metabolites to support assumption on 
+intestinal first pass metabolism,
+
+apparent overestimation of CYP3A4 auto-induction by omaveloxolone, 
+
+limitation in the current model structure of omaveloxolone related to its absorption, 
+
+high model risk. 
+References
+[1] Hanke N, Türk D, Selzer D, et al. Mechanistic, Enantioselective, Physiologically Based Pharmacokinetic Model of 
+Verapamil and Norverapamil, Built and Evaluated for Drug-Drug Interaction Studies. Pharmaceutics. 2020 Jun 
+16;12(6):556.
+[2] Backman JT, Olkkola KT, Aranko K et al. Dose of midazolam should be reduced during diltiazem and verapamil 
+treatments. Br J Clin Pharmacol. 1994 Mar;37(3):221-5.
+Reference ID: 5131074

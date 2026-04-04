@@ -1,0 +1,92 @@
+
+
+===== PAGE 3 =====
+
+differences in excipients does not contribute to differences in the in vivo performance.  The 
+clinical pharmacology review focused on the review of excipient-drug and excipient-excipient 
+interaction potential, specifically related to ethanol and propylene glycol. The clinical 
+pharmacology pertinent sections of the proposed labelling were also reviewed for consistency 
+with current labeling practices.
+1.1. Conclusions:
+The amount of ethanol and propylene glycol in the formulation is not expected to impact the 
+metabolism of cyclophosphamide by CYP enzymes.  However, potential drug-drug interaction 
+between ethanol, propylene glycol, and possibly the metabolite of propylene glycol, due to 
+competition for ADH, cannot be ruled out at the maximum dosing regimen.
+2. Clinical pharmacology review
+Cyclophosphamide is a prodrug that is activated by hepatic microsomal cytochrome P450s 
+including CYP2A6, 2B6, 3A4, 3A5, 2C9, 2C18 and 2C19, with 2B6 displaying the highest 
+activity.  The active metabolite, 4-hydroxycyclophosphamide, and its tautomer 
+aldophosphamide, can undergo further oxidation by aldehyde dehydrogenases (ALDH) to form 
+inactive metabolites.  Cyclophosphamide is primarily excreted as metabolites with 10-20% 
+excreted unchanged in urine following IV administration.  Cyclophosphamide shows linear PK 
+in the approved dose range but shows nonlinear PK due to saturable metabolism at high doses. 
+Cyclophosphamide appears to induce its own metabolism, resulting in reduced elimination half-
+life after repeated dosing.
+Ethanol is primarily eliminated in the liver by alcohol dehydrogenase (ADH).  The 
+pharmacokinetics of ethanol are typically described by a 1-compartment model with 
+concentration-dependent elimination.  Holford et al. reported a volume of distribution of 37 L/70 
+kg using blood concentration, a maximum elimination rate (Vmax) of 8.5 g/h/70 kg or 230 
+mg/L/h, and a blood concentration at half elimination capacity (Km) of 80 mg/L (or 8 mg/dL)1.  
+Similar PK parameters were reported by Gazzaz et al. (Vmax: 6.99 g/h; Km: 82.1 mg/L; V: 31.6 
+L; mean body weight: 73.4 kg)2.  In in vitro studies, 1% ethanol inhibited activities of CYP2B6 
+by 80%, CYP2C19 by 72%, CYP1A1 by 69%, and CYP2D6 by 59% with minor effect on 
+CYP2A6, 2C8, or 2C9, and increased activities of CYP1A2 and CYP3A43,4.  In human, Gazzaz 
+et al. reported that repeated dosing with oral ethanol (males: 0.76 g/kg + 0.3 g/kg Q4h x5 doses; 
+females: 0.65 g/kg + 0.26 g/kg Q4h x5 doses) did not show significant effect on the 
+concentration of sensitive CYP substrates including caffeine (CYP1A2), tolbutamide (CYP2C9), 
+omeprazole (CYP2C19), or midazolam (CYP3A), but increased the concertation of 
+dextromethorphan (CYP2D6).  A mean concentration of approximately 70 mg/dL blood 
+concentration was maintained for at least 6 hours in the study.
+Propylene glycol is primarily eliminated by oxidation through alcohol dehydrogenase.  The 
+metabolite, lactaldehyde undergoes further metabolism by ADH and ALDH to form lactic acid.  
+1 Clin Pharmacokinet. 1987 Nov;13(5):273-92.
+2 Clin Pharmacol Ther. 2018 Dec;104(6):1249-1259.
+3 Drug Metab Dispos. 1999 Feb;27(2):246-9.
+4 Toxicol Mech Methods. 2013 Oct;23(8):576-83.
+Reference ID: 5230830
+
+
+===== PAGE 4 =====
+
+Yu et al. reported apparent volume of distribution of approximately 0.6 L/kg and apparent 
+clearance of approximately 0.1 L/h/kg after repeated oral administration of 20.7 g TID or 41.4 g 
+BID doses5.  Speth et al. reported nonlinear PK and situatable clearance after 4-hr IV infusion at 
+3-15 g/m2 doses (74-370 mg/kg assuming BW = 70 kg / BSA = 1.73 m2), with a terminal half-
+life ranging from 1.4 h at the lower doses to 4.4 h at the higher doses6.  Cross study comparison 
+suggested high oral bioavailability and saturation of metabolism at doses above 0.2 g/kg7.  
+Propylene glycol has been reported as an inhibitor of CYP2E1. 
+The maximum approved dosing regimen for cyclophosphamide injection is 50 mg/kg in divided 
+doses over 2-5 days.  In the evaluations below, the maximum dosing regimen is considered as 25 
+mg/kg QD x2 days administered as an IV injection.  
+
+At this dose level, ethanol exposure is 146 mg/kg per dose.  Assuming a short, direct 
+injection, the estimated Cmax of ethanol after a single dose is 24.3 mg/dL assuming a 
+volume of distribution of 0.6 L/kg8, or as a more conservative estimate, in the range 40-50 
+mg/dL assuming a 80% absolute oral bioavailability and PK parameters from Gazzaz et al..  
+The removal of ethanol from human body is expected to be saturated and rapid considering a 
+Vmax of 8 g/h, Km of 8 mg/dL, and total dose of 10.2 g in a 70 kg patient.
+
+At this dose level, propylene glycol is given at 48 mg/kg per dose and is expected to have a 
+short elimination half-life without saturation of metabolism if administered alone. 
+Conclusions: 
+
+Given the dose, estimated concentrations, and duration of exposure of ethanol and propylene 
+glycol, as well as available information on the elimination pathways of cyclophosphamide, 
+we do not expect that the amount of ethanol and propylene glycol would impact the 
+metabolism of cyclophosphamide by CYP enzymes. 
+
+Potential drug-drug interaction between ethanol, propylene glycol, and possibly the 
+metabolite of propylene glycol, due to competition for ADH, cannot be ruled out at the 
+maximum dosing regimen.  The effect is expected to be higher overall exposure as compared 
+to cases when they are given separately, however, significant accumulation of either ethanol 
+or propylene glycol is not expected based on the estimated elimination half-life in the general 
+population.  
+
+There is insufficient information to comment on potential drug-drug interaction between the 
+metabolites of cyclophosphamide and propylene glycol.
+5 J Pharm Sci. 1985 Aug;74(8):876-9.
+6 Ther Drug Monit. 1987 Sep;9(3):255-8.
+7 EMA: Propylene glycol used as an excipient (link)
+8 EMA: Information for the package leaflet regarding ethanol used as an excipient in medicinal products for human 
+use (link)
+Reference ID: 5230830

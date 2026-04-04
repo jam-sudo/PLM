@@ -1,0 +1,3866 @@
+
+
+===== PAGE 37 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+ix 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 73. MSP-2030 Plasma Protein Binding in Rat, Rabbit, Monkey, and Human 
+Plasma ........................................................................................................................112 
+Table 74. Metabolite Summary........................................................................................117 
+Table 75. In Vitro CYP450 and UGT Inhibition in Study MSP-2017-0022 ...................122 
+Table 76. In Vitro Evaluation of Etripamil and MSP-2030 as Direct and Time-
+Dependent Inhibitors of CYP Enzymes in Study MSP-2017-1222b .........................123 
+Table 77. UGT Enzyme Inhibition Results......................................................................124 
+Table 78. In Vitro CYP Induction....................................................................................125 
+Table 79. In Vitro Transporter Based Drug Interaction Assessment ...............................127 
+Table 80. Overview of Clinical Pharmacology Studies for Etripamil .............................129 
+Table 81. Radio-Quantification of Etripamil and Metabolites (ng equiv/g) in Human 
+Plasma Following a Single Intranasal Dose (0.083 to 6 Hours Postdose, Time 
+Point Pooled) ..............................................................................................................130 
+Table 82. Radio-Quantification of Etripamil and Metabolites (ng equiv/g) in Human 
+Plasma Following a Single Intranasal Dose (Predose to 6 Hours, AUCpooled) ...........130 
+Table 83. Individual Plasma Pharmacokinetic Parameters of Etripamil Using LC-
+MS/MS Following a Single Intranasal Administration of 70 mg Etripamil 
+Containing [14C]-Etripamil (100 μCi) to Healthy Male Subjects ..............................132 
+Table 84. Summary of Etripamil Pharmacokinetic Parameters (Mean [CV%]) in 
+Plasma After a 70 mg Dose by Dose and Group .......................................................134 
+Table 85. Dose-Normalized and Weight-Normalized Pharmacokinetic Parameters of 
+Etripamil in Japanese and Non-Japanese Subjects ....................................................134 
+Table 86. Summary of Dose-Normalized and Weight-Normalized Pharmacokinetic 
+Parameters of MSP-2030 in Japanese and Non-Japanese Subjects ...........................135 
+Table 87. Summary of Plasma Etripamil Pharmacokinetic Parameters ..........................137 
+Table 88. Dosing Regimen by Subject Cohort ................................................................138 
+Table 89. Summary of Pharmacokinetic Parameters of Etripamil for Cohorts 1 to 7 
+(Single Dose), by Dose Level, Pooling Treatments for Cohorts 1 to 5 .....................140 
+Table 90. Summary of Pharmacokinetic Parameters of MSP-2030, by Dose Level, 
+Pooling Treatments for Cohorts 1 to 5 .......................................................................141 
+Table 91. Summary of Pharmacokinetic Parameters by Analyte and Device, Cohort 9 
+(Two Doses of Etripamil Formulation B 30 mg Administered by Two Different 
+Devices 2 Days Apart) ...............................................................................................142 
+Table 92. Summary of Induced, Sustained PSVT to Sinus Rhythm Conversion Within 
+15 Minutes After Study Drug Administration, Evaluable Population .......................144 
+Table 93. Summary of Method Performance of a Bioanalytical Method To Measure 
+Etripamil and MSP-2030 in Human Plasma ..............................................................145 
+Reference ID: 5559625
+
+
+===== PAGE 41 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+1 
+Integrated Review Template, version 4.0 (11/1/23) 
+Glossary 
+ADME 
+absorption, distribution, metabolism, and excretion  
+AE 
+adverse event 
+AESI 
+adverse event of special interest 
+AI 
+acceptable intake 
+AUC 
+area under the concentration-time curve 
+AV 
+atrioventricular 
+AVNRT 
+atrioventricular nodal reentrant tachycardia 
+AVRT 
+atrioventricular reentrant tachycardia 
+ 
+ 
+BMI 
+body mass index 
+BSA 
+body surface area 
+CCB 
+calcium channel blocker 
+CL/R 
+renal clearance 
+CLint 
+intrinsic clearance 
+Cmax 
+maximum plasma concentration 
+CMC 
+chemistry, manufacturing, and controls 
+CMS 
+Cardiac Monitoring System 
+CTCS 
+Computational Toxicological Consulting Services 
+CYP 
+cytochrome P450 
+DMC 
+data monitoring committee 
+ 
+ 
+ECG 
+electrocardiogram 
+EEAC 
+Electrocardiogram Events Adjudication Committee 
+ER 
+emergency room 
+FDA 
+Food and Drug Administration 
+GD 
+Gestation Day 
+GOF 
+goodness-of-fit 
+HLM 
+human liver microsomes 
+IAC 
+Independent Adjudication Committee 
+IC50 
+half maximal inhibitory concentration 
+ICH 
+International Council for Harmonisation 
+IN 
+intranasal 
+IND 
+investigational new drug 
+iPSP 
+initial Pediatric Study Plan 
+ISS 
+integrated summary of safety 
+IV 
+intravenous 
+k10 
+first-order elimination rate constant from central compartment 
+ka 
+absorption rate constant 
+LC-HRMS/MS 
+liquid chromatography-high resolution tandem mass spectrometry 
+LC-MS 
+liquid chromatography mass spectrometry 
+LC-MS/MS 
+liquid chromatography tandem mass spectrometry 
+LLOQ 
+lower limit of quantification 
+LOAEL 
+lowest observed adverse effect level 
+Reference ID: 5559625
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 60 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+20 
+Integrated Review Template, version 4.0 (11/1/23) 
+Characteristic 
+Drug Information 
+Etripamil exposure after 
+one and two dose 
+administrations of the 
+therapeutic dosing 
+regimen in healthy 
+participants 
+Table 6. Etripamil Exposure With One 70-mg Dose 
+Parameter 
+Mean (CV%) 
+AUC0-tlast 
+5461(51.6) min*ng/mL 
+AUC0-∞ 
+5876 (50.3) min*ng/mL 
+Cmax 
+98.9 (64.6) ng/mL 
+Tmax1 
+7 (3-20) minutes 
+T1/2 terminal2 
+172 (65.1) minutes 
+CL/F 
+14.9 (48.9) L/min 
+Source: FDA reviewer-generated table from data submitted by the Applicant 
+1 Tmax reported as median and range. 
+2 Plasma etripamil concentrations fell approximately 60% from their peak value (Cmax) at 25 minutes after dosing, and 80% from Cmax within 60 
+minutes after dosing. 
+Abbreviations: AUC, area under the concentration-time curve; CL/F, apparent clearance at steady state; Cmax, maximum plasma concentration; 
+CV, coefficient of variation; T1/2, half-life; Tmax, time to reach maximum drug concentration in the body 
+Table 7. Etripamil Exposure With Two 70-mg Doses Administered 10 Minutes Apart 
+Parameter 
+Mean (CV%) 
+AUC0-tlast 
+7721 (50.3) min*ng/mL 
+AUC0-∞ 
+8428 (53.5) min*ng/mL 
+Cmax 
+131.6 (59.1) ng/mL 
+Tmax1  
+13 (3-35) minutes 
+T1/2 terminal 
+239(91.4) minutes 
+CL/F 
+20.9 (45.8) L/min 
+Source: FDA reviewer-generated table from data submitted by the Applicant 
+1 Tmax reported as median and range. 
+Abbreviations: AUC, area under the concentration-time curve; CL/F, apparent clearance at steady state; Cmax, maximum plasma concentration; 
+CV, coefficient of variation; T1/2, half-life; Tmax, time to reach maximum drug concentration in the body 
+Maximally tolerated dose 
+or exposure 
+A maximum tolerated dose was not reached. Maximum feasible dose is 140 mg based on maximum concentration of 
+etripamil in solution and maximum feasible volume administered intranasally. 
+Dose proportionality 
+Less than dose-proportional increases in exposure were observed with doses exceeding 70 mg. 
+Accumulation 
+Etripamil is dosed episodically, with a maximum of two doses administered 10 minutes apart. Therefore, 
+accumulation is not a clinically relevant parameter. 
+Time to achieve steady-
+state 
+Given the episodic nature of dosing etripamil, time to achieve steady state is not a clinically relevant parameter. 
+Bridge between to-be-
+marketed and clinical 
+trial/study formulations 
+Not applicable. In all phase 3 studies, etripamil was administered via the to-be-marketed Aptar Pharma NS Bidose 
+System. Each NS delivered 100 µL solution containing 35 mg etripamil into each nostril for a total dose of 70 mg. 
+Reference ID: 5559625
+
+
+===== PAGE 61 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+21 
+Integrated Review Template, version 4.0 (11/1/23) 
+Characteristic 
+Drug Information 
+Absorption 
+Bioavailability 
+In PK modeling, a relative bioavailability parameter was included to account for decreases in bioavailability that 
+could occur when the intranasal volume of drug product administered per nostril exceeded 100 μL. Approximately 
+80% of the dose was absorbed if it was administered in a volume that exceeded 100 μL in one nostril. 
+Tmax 
+See Table 6 and Table 7 above for Tmax. 
+Food effect (fed/fasted) 
+Not applicable for this intranasal product. 
+Distribution 
+Volume of distribution 
+1×70-mg dose: 2942 (28.3) L 
+Plasma protein binding 
+Approximately 50% 
+Drug as substrate of 
+transporters 
+Etripamil is a substrate of P-gp and OATP1B1, but not BCRP, OATP1B3, OCT1, OCT2, OAT1, OAT3, MATE1, and 
+MATE2-K. 
+Elimination 
+Mass balance results 
+Following a single intranasal administration of 70.2 mg [14C]-etripamil to seven healthy male subjects, there was 
+70.8% (ranging from 41.4% to 92.4%) mean recovery of total radioactivity. 28.9% of radioactivity was recovered in 
+urine, 25.6% in feces, and 16.3% in tissues/wipes. The fraction of etripamil excreted in urine was 0.0124% and the 
+CLR was 0.173 L/h. 
+Peak plasma etripamil concentration was achieved at a median of 5.00 minutes postdose with mean maximum 
+concentration (Cmax) of 67.3 ng/mL. Mean values of AUC0-t and AUC0-∞ were 78.6 h·ng/mL and 84.5 h·ng/mL, 
+respectively. Vz/F was 3500 L. 
+Etripamil is converted primarily to inactive metabolite MSP-2030. In three of seven participants in a mass balance 
+study, etripamil was also converted to a major metabolite Unk10, as quantified with a radioprofiling method. Unk10 
+was identified as M195, a metabolite present in rats. The ratio of metabolite to parent (M/P; MSP-2030/etripamil) 
+was 4.02. 
+Clearance 
+Etripamil CL/F=14.9 (48.9) L/min 
+Half-life 
+Etripamil Terminal T1/2 172 (65.1) minutes 
+Metabolic pathway(s) 
+Unchanged parent, etripamil; MSP-2030; metabolites M455b, M601d, and three unknowns (Unk 8, Unk 9, Unk 10) 
+were the only quantifiable radioactive components observed in plasma. 
+In the samples that were time point-pooled across subjects, etripamil, MSP-2030, and Unk 10 accounted for <16%, 
+<47.7%, and <36.3% of the plasma AUC0-6h, respectively. Unk 10 was later identified as M195. 
+In the AUC pooled plasma (pooled by subject), etripamil, MSP-2030, and Unk 10 were the major (≥10%) 
+components circulating in plasma, accounting for 27.8%, 32.1%, and 24.3% of the AUC0-6hours respectively. 
+Etripamil is a CYP3A4 and CYP3A5 substrate. 
+Primary excretion 
+pathways (% dose) 
+Etripamil is mainly metabolized in the blood via esterase activities. Little unchanged etripamil (parent) is eliminated in 
+the urine (<0.05% of the dose) and the renal clearance ranged from approximately 3 to 5 mL/min. 
+Reference ID: 5559625
+
+
+===== PAGE 62 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+22 
+Integrated Review Template, version 4.0 (11/1/23) 
+Characteristic 
+Drug Information 
+Intrinsic Factors and Specific Populations 
+Body weight 
+Covariates that were tested for potential inclusion in the final structural PopPK model included: weight, age, height, 
+BMI, BSA, NCV, race, gender, cardiac output, and cardiac index. Two covariates were included in the model: height 
+on Vc/F and BMI on ka1 (the faster absorption rate constant). 
+Age 
+Age was not a significant covariate in the PK model for etripamil. 
+Renal impairment 
+Etripamil has not been studied in patients with renal impairment. Given the relatively small percent of drug excreted 
+unchanged, renal function is not expected to impact exposure to etripamil. 
+Hepatic impairment 
+Etripamil has not been studied in patients with hepatic impairment. Given that the drug is dosed episodically as 
+single or up to two administrations, it is not expected to accumulate. 
+Drug Interaction Liability (Drug as Perpetrator) 
+Inhibition/induction of 
+metabolism 
+Etripamil is an inhibitor of CYP2D6, CYP3A4, and CYP 2C9 but does not inhibit CYP2B6 or CYP2C8. Etripamil does 
+not induce CYP1A2, 2B6, or 3A4. 
+Inhibition/induction of 
+transporter systems 
+Etripamil inhibits P-gp and MATE1, but not BCRP, BSEP, MATE2-K, OAT1, OAT3, OATP1B1, OATP1B3, OCT1, 
+and OCT2. 
+Source: FDA reviewer-generated table from data submitted by the Applicant 
+Abbreviations: 14C, carbon-14; AUC, area under the concentration-time curve; AV, atrioventricular; BCRP, breast cancer resistance protein; BMI, body mass index; BSA, body surface 
+area; BSEP, bile salt export pump; CL/F, apparent clearance at steady state; CLR, renal clearance; Cmax, maximum plasma concentration; CYP, cytochrome P450; Ka, absorption rate 
+constant; LC/MS/MS, liquid chromatography with tandem mass spectrometry; M455b, etripamil metabolite; M601d, etripamil metabolite; MATE, multidrug and toxin extrusion protein 1; 
+M/P, metabolite to parent; MSP-2030, etripamil inactive metabolite; MSP-2017, etripamil active moiety; NCV, nasal cavity volume; NS, nasal spray; OAT, organic anion transporter; 
+OCT, organic cation transporter; P-gp, P-glycoprotein; PopPK, population pharmacokinetic; PK, pharmacokinetic; QT, electrocardiogram interval; T1/2, half-life; Tmax, time to reach 
+maximum drug concentration in the body; Unk, unknown; Vc/F, apparent volume of distribution in the central compartment at steady state 
+ 
+Reference ID: 5559625
+
+
+===== PAGE 98 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+58 
+Integrated Review Template, version 4.0 (11/1/23) 
+Pediatric studies for ages 6 to <18 years were deferred until approval has been attained for 
+adults. The submission for age 1 to <6 years was deferred until after review of safety, 
+tolerability, and PK and efficacy data are collected in adolescents and children aged 6 to <18 
+years. 
+8.4. Pregnancy, Lactation, and Females/Males of 
+Reproductive Potential 
+Developmental and reproductive toxicity studies supporting labeling are summarized below. 
+Embryo-fetal toxicities in rats and rabbits, male and female fertility studies in rats, as well as 
+potential reproductive organ toxicities are discussed in more detail in Section 13.1.  
+Table 25. Nonclinical Data Supporting Labeling on Fertility, Pregnancy, and Lactation 
+Labeling Section 
+Nonclinical Data 
+8.1 Pregnancy 
+In pregnant rats, intravenous administration of etripamil at doses of 0, 
+0.05, 0.15, and 0.375 mg/kg/day throughout the period of 
+organogenesis did not result in any adverse effects on embryofetal 
+development at doses up to 0.375 mg/kg/day, approximately 3× the 
+Cmax and 0.4× the AUC at the MRHD. 
+In pregnant rabbits, intravenous administration of etripamil at doses of 
+0, 0.03, 0.06, and 0.1 mg/kg/day throughout the period of 
+organogenesis did not result in embryofetal abnormalities at doses up 
+to 0.1 mg/kg/day, approximately equivalent to the Cmax and 10× the 
+AUC at the MRHD. Abortion of one animal was noted at the high dose 
+of 0.1 mg/kg/day, a dose that caused maternal toxicities (mortality of 
+one animal and reduced food intake). 
+In the pre- and postnatal toxicity study in rats, intravenous 
+administration of etripamil at doses of 0, 0.05, 0.15, and 
+0.374 mg/kg/day from GD 7 through lactation period (Postpartum Day 
+20) did not show any adverse effects on pre- and postnatal 
+development at doses up to 0.374 mg/kg/day approximately 3× the 
+Cmax and 0.4× the AUC at the MRHD. Postimplantation loss was noted 
+at 0.374 mg/kg/day, a dose which also caused significant maternal 
+toxicity, including mortality during the dosing period (7/22 dams), 
+transient adverse clinical signs, and body weight reduction at the end 
+of the gestation period. 
+8.2 Lactation 
+No animal studies were conducted to assess the presence of etripamil 
+in milk, however, a structurally related compound, verapamil, is known 
+to be excreted in human milk. 
+8.3 Females and Males of 
+Reproductive Potential 
+Not applicable. 
+Reference ID: 5559625
+
+
+===== PAGE 110 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+70 
+Integrated Review Template, version 4.0 (11/1/23) 
+Study/Study ID 
+Key Findings/Relevance 
+Study ID.: MSP-2017-1042 
+Study Title: (-)-MSP-2017: A 
+Combined Cardiovascular Safety 
+Pharmacology Study and 
+Pharmacokinetics Study in Conscious 
+Cynomolgus Monkeys Following 
+Intravenous Slow Bolus Infusion.  
+Species/Strain: Monkey/Cynomolgus 
+Number/Sex/Group: 4 Males 
+Dose: 0, 0.025, 0.05, 0.15, and 
+0.3 mg/kg 
+Route of administration and dosing 
+frequency: Single dose intravenous 
+infusion over 2 minutes. 
+GLP compliance: Yes 
+No mortalities or body weight changes were observed.  
+Clinical signs included decreased activity in one animal each at 
+0.05 and 0.15 mg/kg. 
+A dose-dependent increase in the PR interval (intended 
+pharmacological effect) was observed at ≥0.025 mg/kg with 
+highest mean increase at 0.3 mg/kg (17%) at 2 minutes 
+postdosing. 
+A dose-dependent decrease in the MABP and increase in HR 
+was observed at ≥0.05 mg/kg with a dose-dependent time for 
+recovery.  
+Dose-dependent and statistically significant QTcb shortening (up 
+to -32 milliseconds at the highest dose) was noted at doses 
+≥0.025 mg/kg lasting up to 4-13 minutes postdoses.  
+No arrhythmias were noted in any dose groups.  
+Table 31. Summary PK Parameters of (-)-MSP-2017 in 
+Cynomolgus Monkey Plasma 
+ 
+Source: Study report MSP-2017-1042 (Table 4.1.1) 
+a Median (min, max) 
+Abbreviations: AUC0–∞, are under the plasma concentration-time curve from time 
+0 extrapolated to infinity; AUC0–t, area under the plasma concentration-time curve 
+from time 0 to time t; CL, drug clearance; Cmax, maximum plasma concentration; 
+CV, coefficient of variation; max, maximum; min, minimum; MSP-2017, etripamil 
+active moiety; PK, pharmacokinetic; t1/2, half-life; tmax, time to peak drug 
+concentration; Vss, volume of distribution at steady state 
+Reference ID: 5559625
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 112 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+72 
+Integrated Review Template, version 4.0 (11/1/23) 
+13.1.3. ADME/PK 
+General Approach 
+General pharmacokinetics, including absorption, distribution, metabolism, and excretion 
+(ADME), and toxicokinetics of etripamil were evaluated from single and repeat dose studies in 
+rats, rabbits, dogs, and monkeys by various routes of administration (intravenous [IV], oral, 
+sublingual, and intranasal).  
+Etripamil is a methyl ester analogue of verapamil and rapidly hydrolyzed by blood esterases to 
+MSP-2030 and metabolized in the liver, primarily via cytochrome P450 (CYP)3A4 and 
+CYP3A5. In studies with in vitro incubation of etripamil with whole blood, etripamil was rapidly 
+metabolized to MSP-2030 in rat, monkey, and human blood within 30 minutes but metabolized 
+at a slower rate in dogs and minipigs (primarily by N-dealkylation), supporting rats and monkeys 
+as relevant models for nonclinical testing. No human specific unique metabolites were identified 
+and the metabolic profile of etripamil is similar in humans, monkeys, and rats, except one taurine 
+conjugate that was only observed in rats and not human hepatocyte cultures. MSP-2030 and 
+M195 (also known as Unk 8/Unk 10) are the major human metabolites (>10%) which are present 
+in at least one tested animal species.  
+13.1.3.1. Absorption 
+Among rats, rabbits, and monkeys, after a single IN administration, the time to maximum plasma 
+concentration (Tmax) for etripamil was attained rapidly in rats (Tmax =2 to 15 minutes), rabbits 
+(Tmax =1.5 to 7.5 minutes), and monkeys (Tmax =2.7 to 30 minutes). The half-life (t½) for 
+etripamil was 8.17 min in rabbits, 76.2 min in rats, and 15 min in monkeys after a single 
+intranasal dose of 1.5 mg/kg, 5 mg/kg, and 0.75 mg/kg, respectively. 
+Reference ID: 5559625
+
+
+===== PAGE 113 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+73 
+Integrated Review Template, version 4.0 (11/1/23) 
+Pharmacokinetics in Animals After Intravenous or Intranasal Administration of Etripamil  
+Study Number/Title: MSP-2017-1069/PK of Etripamil and MSP-2030 (Metabolite) in Rats 
+After IN Administration of Etripamil  
+Table 32. Mean Etripamil and MSP-2030 Plasma PK in Male Rats After Intranasal Administration of 
+Etripamil  
+ 
+Source: Excerpt from Applicant-provided Pharmacokinetic Written Summary, Section 2.6.4, Table 9 
+AUC values converted from ng×min/mL to ng×h/mL. For reported values, this was done by dividing by 60 (60 minutes per hour). 
+Abbreviations: AUC0-∞, area under the plasma concentration-time curve from time 0 to time ∞; AUC0-t, area under the plasma 
+concentration-time curve from time 0 to time t; Cmax, maximum plasma concentration; NR, not reported; PK, pharmacokinetic; T1/2, 
+half-life; Tmax, time to maximum plasma concentration 
+Reference ID: 5559625
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 114 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+74 
+Integrated Review Template, version 4.0 (11/1/23) 
+Study Number/Title: MSP-2017-1252/PK of Etripamil and MSP-2030 (Metabolite) in Rats 
+After IV Administration of Etripamil 
+Table 33. Mean Etripamil and MSP-2030 Plasma PK in Male Rats After Intravenous Administration 
+of Etripamil 
+  
+Source: Excerpt from Applicant-provided Pharmacokinetic Written Summary, Section 2.6.4, Table 10 
+T1/2 and Tmax were converted from hour values reported to minute values by multiplying by 60 (60 minutes per hour). 
+Abbreviations: AUC0-∞, area under the plasma concentration-time curve from time 0 extrapolated to infinity; AUC0-t, area under the 
+plasma concentration-time curve from time 0 to time t; CL, drug clearance; Cmax, maximum plasma concentration; F, female; 
+M, male; PK, pharmacokinetic; T1/2, half-life; Tmax, time to maximum plasma concentration 
+Reference ID: 5559625
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 115 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+75 
+Integrated Review Template, version 4.0 (11/1/23) 
+Study Number/Title: MSP-2017-1018/(-)-MSP-2017 and (-)-MSP-2030: A 
+Pharmacokinetics Study in New Zealand White Rabbits 
+Table 34. Summary PK Parameters of (-)-MSP-2017 in Rabbit Plasma After Intravenous or 
+Intranasal Route of Administration of Etripamil 
+ 
+Source: Excerpt from Applicant-provided Pharmacokinetic Written Summary, Section 2.6.4, Table 11 
+a Median (min, max) 
+b CL/F 
+Abbreviations: AUC0-∞, area under the plasma concentration-time curve from time 0 extrapolated to infinity; AUC0-t, area under the 
+plasma concentration-time curve from time 0 to time t; CL, drug clearance; CL/F, apparent drug clearance; Cmax, maximum plasma 
+concentration; CV, coefficient of variation; HPBCD, hydroxypropyl beta-cyclodextrin; IN, intranasal; IV, intravenous; max, maximum; 
+min, minimum; MSP-2017, etripamil active moiety; n, number of subjects in treatment group; NC, not calculated; 
+PK, pharmacokinetic; t1/2, half-life; tlag, lag time; tmax, time to peak drug concentration 
+Reference ID: 5559625
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 116 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+76 
+Integrated Review Template, version 4.0 (11/1/23) 
+Study Number/Title: MSP-2017-1028/(-)-MSP-2017 and (-)-MSP-2030: An Intranasal or 
+Intravenous Pharmacokinetics Study in Cynomolgus Monkeys 
+Table 35. Summary PK Parameters of (-)-MSP-2017 in Cynomolgus Monkey Plasma After 
+Intranasal Administration of Etripamil 
+ 
+Source: Excerpt from Applicant-provided Pharmacokinetic Written Summary, Section 2.6.4, Table 14 
+Abbreviations: AUC0-∞, area under the plasma concentration-time curve from time 0 extrapolated to infinity; AUC0-720, are under the 
+plasma concentration time curve from time 0 to time 720 minutes; AUC0-last, area under the plasma concentration-time from time 0 to 
+the time of the last measurable concentration; Cmax, maximum plasma concentration; PK, pharmacokinetic; T1/2, half-life; Tmax, time 
+to peak drug concentration 
+Study Number/Title: MSP-2017-1042/Etripamil: A Combined Cardiovascular Safety 
+Pharmacology Study and Pharmacokinetics Study in Conscious Cynomolgus Monkeys 
+Following Intravenous Slow Bolus Infusion 
+Table 36. Summary PK Parameters of (-)-MSP-2017 in Cynomolgus Monkey Plasma After 
+Intravenous Administration of Etripamil 
+ 
+Source: Excerpt from Applicant-provided study report , Table 4.1.1 
+a Median (min, max) 
+Abbreviations: AUC0–∞, are under the plasma concentration-time curve from time 0 extrapolated to infinity; AUC0–t, area under the 
+plasma concentration-time curve from time 0 to time t; CL, drug clearance; Cmax, maximum plasma concentration; CV, coefficient of 
+variation; max, maximum; min, minimum; MSP-2017, etripamil active moiety; PK, pharmacokinetic; t1/2, half-life; tmax, time to peak 
+drug concentration; Vss, volume of distribution at steady state 
+In in vitro permeability assays (Study: MSP-2017-1221), etripamil demonstrated moderate 
+permeability and was identified as a substrate for multidrug resistance protein 1 (MDR1, net 
+Reference ID: 5559625
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 122 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+82 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 39. Summary of General Toxicology for Etripamil 
+Study/ROA 
+NOAEL/ 
+LOAEL 
+AUC0-t 
+(ng×hr/mL) 
+Cmax 
+(ng/mL) 
+Multiples to Human 
+Exposure a 
+Multiples Based 
+on Nasal 
+Surface Area b 
+Basis for NOAEL/LOAEL 
+AUC0-t 
+Cmax 
+6M monkey with 
+4-week recovery/ 
+intranasal 
+NOAEL: 
+5.7 mg/kg/week 
+104.7 
+190.5 
+0.81 
+1.45 
+~1 
+NOAEL based on the absence 
+of systemic toxicity at the high 
+dose tested. 
+LOAEL: 
+1.9 mg/kg/week 
+31.05 
+77.45 
+0.24 
+0.59 
+<1 
+LOAEL based on local toxicity 
+observed at all dose levels. 
+14-Day rat with 
+14-day recovery/ 
+intranasal 
+NOAEL: 
+4.5 mg/kg/day 
+241 
+470.5 
+1.87 
+3.57 
+<1 
+NOAEL based on the absence 
+of systemic toxicity at the high 
+dose tested. 
+LOAEL: 
+1.5 mg/kg/day 
+100.38 
+258.87 
+0.78 
+1.96 
+<1 
+LOAEL based on local toxicity 
+observed at all dose levels. 
+Source: Generated by the FDA nonclinical review team for NDA 218571. 
+a Exposure multiples were based on population pharmacokinetics analysis where twice-administered 70 mg clinical dose given 10 minutes apart resulted in etripamil systemic 
+exposures of AUC0-last =128.68 ng*hr./mL and Cmax =131.6 ng/mL (Study: MSP-2017-1285, NODE-103). 
+b Total Nasal surface area in human, monkey, and rats were 181, 61.6, and 20 cm2, respectively (Emami et al. 2018). 
+Abbreviations: AUC0-last, area under the plasma concentration-time from time 0 to the time of the last measurable concentration; AUC0–t, area under the plasma concentration-time 
+curve from time 0 to time t; Cmax, maximum plasma concentration; LOAEL, lowest observed adverse effect level; M, month; NOAEL, no observed adverse effect level; ROA, route of 
+administration 
+Reference ID: 5559625
+
+
+===== PAGE 126 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+86 
+Integrated Review Template, version 4.0 (11/1/23) 
+Endpoints  
+Major Findings  
+Endpoints 
+without notable 
+observations  
+No drug-related adverse effects on body weight, ophthalmoscopy, ECG, hematology, clinical chemistry, urinalysis, gross 
+pathology, and organ weights. 
+TK Table (Etripamil) 
+Table 44. Summary (Mean) Etripamil TK Parameters in Male and Female Cynomolgus Monkey Plasma Following 1.9, 3.8, and 
+5.7 mg/kg Intranasal Administration of Etripamil on Days 1, 92, and 176 
+ 
+Source: Excerpt from Applicant-provided study report, Text table 9 
+a Median 
+Abbreviations: AUC(0-12), area under the plasma concentration-time curve from time 0 to 12 hours; AUC(0–inf), area under the plasma concentration-time curve from time 0 
+extrapolated to infinity; AUCtlast, area under the plasma concentration-time curve from time 0 to the time of the last measurable concentration; Cmax, maximum plasma 
+concentration; F, female; M, male; NA, not applicable; T1/2, half-life; TK, toxicokinetic; Tmax, time to peak drug concentration 
+Reference ID: 5559625
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 127 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+87 
+Integrated Review Template, version 4.0 (11/1/23) 
+Endpoints  
+Major Findings  
+TK Table (MSP-2030, Etripamil Major Metabolite) 
+Table 45. Summary (Mean) MSP-2030 TK Parameters in Male and Female Cynomolgus Monkey Plasma Following 1.9, 3.8, and 
+5.7 mg/kg Intranasal Administration of Etripamil on Days 1, 92, and 176 
+ 
+Source: Excerpt from Applicant-provided study report, Text table 10 
+a Median 
+Abbreviations: AUC(0-12), area under the plasma concentration-time curve from time 0 to 12 hours; AUC(0–inf), area under the plasma concentration-time curve from time 0 
+extrapolated to infinity; AUCtlast, area under the plasma concentration-time curve from time 0 to the time of the last measurable concentration; Cmax, maximum plasma 
+concentration; F, female; M, male; NA, not applicable; NC, not calculated; T1/2, half-life; Tmax, time to peak drug concentration 
+Source: Generated by the FDA nonclinical review team for NDA 218571. 
+Abbreviations: ECG, electrocardiogram; F, female; M, male; PSVT, paroxysmal supraventricular tachycardia; TK, toxicokinetic 
+Reference ID: 5559625
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 130 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+90 
+Integrated Review Template, version 4.0 (11/1/23) 
+Endpoints 
+Major Findings  
+The recovery of local toxicity at the low and mid-dose groups was not 
+assessed. a trend towards full recovery in high-dose group was noted. 
+The low dose tested (1.5 mg/kg/day) was considered as LOAEL for local 
+toxicity. 
+Endpoints without notable 
+observations  
+No drug-related adverse effects on mortality, body weight, food 
+consumption, hematology, clinical chemistry, urinalysis, and gross 
+pathology. 
+TK Tables (Etripamil) 
+Table 48. Etripamil TK, Day 14—Males 
+ 
+Source: Excerpt from Applicant-provided study report, Table 7.1.3 
+A Not reported due to nonqualifying parameter (R2≤0.9000). 
+Abbreviations: AUC(0–∞), area under the plasma concentration-time curve from time 0 extrapolated to infinity; AUC(0-t), area under 
+the plasma concentration-time curve from time 0 to time t; Cmax, maximum plasma concentration; F, female; M, male; NR, not 
+reported; t1/2, half-life; Tlast, time of last measurable concentration; Tmax, time to peak drug concentration; SE, standard error; 
+TK, toxicokinetic 
+Table 49. Etripamil TK, Day 14—Females 
+ 
+Source: Excerpt from Applicant-provided study report, Table 7.1.4 
+A Not reported due to nonqualifying parameter (R2≤0.9000). 
+Abbreviations: AUC(0–∞), area under the plasma concentration-time curve from time 0 extrapolated to infinity; AUC(0-t), area under 
+the plasma concentration-time curve from time 0 to time t; Cmax, maximum plasma concentration; F, female; M, male; NR, not 
+reported; t1/2, half-life; Tlast, time of last measurable concentration; Tmax, time to peak drug concentration; SE, standard error; 
+TK, toxicokinetic 
+TK Tables (MSP-2030, Etripamil Metabolite) 
+Table 50. MSP-2030 TK, Day 14—Males 
+ 
+Source: Excerpt from Applicant-provided study report, Table 7.2.3 
+A Not reported due to nonqualifying parameter (R2≤0.9000). 
+Abbreviations: AUC(0–∞), area under the plasma concentration-time curve from time 0 extrapolated to infinity; AUC(0-t), area under 
+the plasma concentration-time curve from time 0 to time t; Cmax, maximum plasma concentration; F, female; M, male; NR, not 
+reported; t1/2, half-life; Tlast, time of last measurable concentration; Tmax, time to peak drug concentration; SE, standard error; 
+TK, toxicokinetic 
+Reference ID: 5559625
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 131 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+91 
+Integrated Review Template, version 4.0 (11/1/23) 
+Endpoints 
+Major Findings  
+Table 51. MSP-2030 TK, Day 14—Females 
+ 
+Source: Excerpt from Applicant-provided study report, Table 7.2.4 
+A Not reported due to nonqualifying parameter (R2≤0.9000). 
+Abbreviations: AUC(0–∞), area under the plasma concentration-time curve from time 0 extrapolated to infinity; AUC(0-t), area under 
+the plasma concentration-time curve from time 0 to time t; Cmax, maximum plasma concentration; F, female; M, male; NR, not 
+reported; t1/2, half-life; Tlast, time of last measurable concentration; Tmax, time to peak drug concentration; SE, standard error; 
+TK, toxicokinetic 
+Source: Generated by the FDA nonclinical review team for NDA 218571. 
+Abbreviations: LOAEL, lowest observed adverse effect level 
+13.1.5. Genetic Toxicology 
+Table 52. Genetic Toxicology 
+Study/Study ID  
+Key Findings/Relevance 
+Study ID: MSP-2017-
+1034 
+Study Title: (-)-MSP-
+2017 and (-)-MSP-
+2030 Bacterial 
+Reverse Mutation 
+Test in Salmonella 
+typhimurium and 
+Escherichia coli 
+Etripamil was not mutagenic in a standard and valid GLP-compliant Ames 
+assay in presence or absence of S9 fraction up to 5000 μg/plate. 
+MSP-2030 (metabolite) was not mutagenic in a standard and valid GLP-
+compliant Ames assay in presence or absence of S9 fraction up to 5000 
+μg/plate. 
+Study ID: MSP-2017-
+1035 
+Study Title: (-)-MSP-
+2017 and (-)-MSP-
+2030 In Vitro 
+Mammalian 
+Chromosome 
+Aberration Test in 
+Human Peripheral 
+Blood Lymphocytes 
+Etripamil tested negative and did not show any chromosomal damage in a 
+standard and valid GLP-compliant chromosomal aberration assay in human 
+peripheral blood lymphocytes up to 1mM. 
+MSP-2030 (metabolite) tested negative and did not show any chromosomal 
+damage in a standard and valid GLP-compliant chromosomal aberration assay 
+in human peripheral blood lymphocytes up to 1mM. 
+Reference ID: 5559625
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 133 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+93 
+Integrated Review Template, version 4.0 (11/1/23) 
+Summary Table for Pivotal DART Studies  
+Table 53. Reproductive Fetal Toxicity Summary 
+Study/Species/Route 
+of Administration (IV) 
+NOAEL 
+(mg/kg/day) 
+Nonclinical Exposure 
+Margins to NOAEL 2 
+Basis for NOAEL 
+AUC0–∞ 
+(ng×hr/mL) 
+Cmax 
+(ng/mL) 
+AUC0–∞=128.68 
+(ng×hr/mL) 
+Cmax =131.6 
+(ng/mL) 
+FEED/Rats  
+0.375 
+54.2a 
+413.5 1 
+0.43 
+3.14 
+HD tested (parental/ 
+maternal toxicity, mortality 
+observed at tested HD) 
+EFD/Rabbit  
+0.10 
+1340 
+144 
+10.4 
+1.09 
+EFD/Rat 
+0.375 
+54.2a 
+413.5 a 
+0.43 
+3.14 
+HD tested 
+PPND/Rat  
+0.374 
+54.2a 
+413.5 a 
+0.43 
+3.14 
+Source: Generated by the FDA nonclinical review team for NDA 218571. 
+1 Exposure values referenced from Study MSP-2017-1252 - Etripamil: A Single Intravenous Injection Pharmacokinetic Study in Sprague-Dawley Rats. 
+2 Exposure multiples were based on population pharmacokinetics analysis where twice-administered 70 mg clinical dose given 10 minutes apart resulted in systemic exposures of 
+AUC0-24hr =128.68 ng×hr/mL and Cmax =131.6 ng/mL (Study—MSP-2017-1285, NODE-103) 
+Abbreviations: AUC0–∞, area under the plasma concentration-time curve from time 0 extrapolated to infinity; AUC0-24hr, area under the plasma concentration-time curve from time 0 to 
+24 hours; Cmax, maximum plasma concentration; EFD, embryo-fetal development; FEED, Fertility and early embryonic development; HD, high dose; IV, intravenous; NOAEL, no 
+observed adverse effect level; PPND, pre- and postnatal development 
+Reference ID: 5559625
+
+
+===== PAGE 138 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+98 
+Integrated Review Template, version 4.0 (11/1/23) 
+Endpoints 
+Major Findings  
+F1 Offspring 
+Fetal body weights 
+No changes in fetal weight (male, female, or combined sexes) at any 
+treated dose level in this study. 
+Fetal malformations/ 
+variations 
+No major internal or external malformations were observed after 
+administration of MSP-2017 up to 0.1 mg/kg. 
+Skeletal malformations 
+Statistically significant increase in incidence of hyoid incomplete 
+ossification in fetus was noted in high-dose groups (47 fetuses in 17 
+litters versus 31 fetuses in 14 litters in control). This finding was 
+considered incidental as delayed ossification was not observed at any 
+other skeletal site.  
+Toxicokinetics 
+Table 60. Mean Plasma MSP-2017 TK Parameters in Pregnant 
+Female New Zealand White Rabbits Following Single and 
+Repeated Slow Bolus Intravenous Injections at 0.03, 0.06, and 
+0.10 mg/kg on Gestation Day 7 and 19 
+ 
+Source: Excerpt from Applicant-provided study report, Text table 10 
+a Median value presented instead of mean. 
+Abbreviations: AUC(0–∞), area under the plasma concentration-time curve from time 0 
+extrapolated to infinity; AUCAll, area under the plasma concentration-time curve from time 
+of doing to the time of the last observation; AUCinf, area under the plasma concentration-
+time curve from time 0 extrapolated to infinity; AUClast, area under the plasma 
+concentration-time curve from time 0 to the time of the last measurable concentration; 
+C0, initial concentration; Cl, drug clearance; Clss, drug clearance at steady state; 
+Cmax, maximum plasma concentration; MRTinf, mean residence time extrapolated to 
+infinity; t1/2, half-life; TK, toxicokinetic; Tlast, time of last measurable concentration; Tmax, 
+time to peak drug concentration; Vss, volume of distribution at steady state, Vz, volume of 
+distribution 
+Source: Generated by the FDA nonclinical review team for NDA 218571. 
+Abbreviations: F, filial; GD, Gestation Day; IV, intravenous; MSP-2017, etripamil active moiety 
+Reference ID: 5559625
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 162 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+128 
+Integrated Review Template, version 4.0 (11/1/23) 
+OCT1 may be the most relevant target for etripamil-mediated inhibition though this risk is 
+diminished given the rapid elimination of the drug clinically and intermittent use. 
+Etripamil is a substrate and inhibitor for the intestinal efflux transporter MDR1. However, it is 
+administered intranasally and little to no etripamil is absorbed through the gastrointestinal tract. 
+With an IC50 of 2.6 μM, or 20-fold higher than the unbound Cmax of etripamil (~0.146 μM) 
+following 2×70-mg administration, transient inhibition of MDR1 cannot be excluded. Etripamil 
+is also a weak substrate and inhibitor of the hepatic uptake transporter OATP1B1 (but not 
+OATP1B3). Given an IC50 of 5.4 μM, which is 39-fold higher than the unbound Cmax, it limits 
+the risk of clinically relevant inhibition of OATP1B1. 
+Etripamil was not a substrate of renal transporters. In vitro, etripamil inhibited MATE1 (IC50 of 
+1.2 μM) and OCT2 (IC50 of 5.5 μM). With an IC50 value 40-fold higher than the unbound Cmax, 
+OCT2 inhibition is not clinically relevant while a weak transient inhibition of MATE1 cannot be 
+ruled out (IC50 is 9-fold greater than unbound Cmax). However, considering that very little 
+unchanged etripamil (<0.05% of dose is excreted in urine as unchanged etripamil) is eliminated 
+by the renal pathway (as demonstrated in the phase 1 study MSP-2017-1205 [NODE-102] study 
+and in the human mass balance study MSP-2017-1220), MATE1 inhibition is therefore highly 
+unlikely. Etripamil inhibited OCT1 (IC50 is 0.6-fold the unbound clinical Cmax), suggesting this 
+may be the most relevant target for etripamil-mediated inhibition, though this risk is diminished 
+given the rapid elimination of the drug clinically and its intended limited intermittent use. 
+14.2. In Vivo Studies 
+Below is a table of the key features of the Clinical Pharmacology studies conducted (Table 80). 
+Reference ID: 5559625
+
+
+===== PAGE 164 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+130 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 81. Radio-Quantification of Etripamil and Metabolites (ng equiv/g) in Human Plasma 
+Following a Single Intranasal Dose (0.083 to 6 Hours Postdose, Time Point Pooled) 
+ 
+Source: Applicant’s Study report for MSP-2017-1220 page 42 of 2212. 
+Per 
+ SOP, AUC cannot be calculated with less than 3 consecutive concentrations unless requested. 
+† Metabolite has lost radiolabel and is detectable by mass spectrometry only. 
+Abbreviations: AUC, area under the plasma concentration-time curve; AUClast, area under the plasma concentration-time curve from 
+time zero to the time of the last measurable concentration; BQL, below quantitation limit; H, hour; NA, not applicable; ND, not 
+detected by mass spectrometry or radiodetection; MS, non-radioactive peak detected by mass spectrometry; 
+.; 
+SOP, standard operating procedure; Unk, unknown 
+In the samples that were time point-pooled across subjects, etripamil, MSP-2030, and Unk 10 
+accounted for <16%, <47.7%, and <36.3% of the plasma AUC0-6h, respectively. 
+Table 82. Radio-Quantification of Etripamil and Metabolites (ng equiv/g) in Human Plasma 
+Following a Single Intranasal Dose (Predose to 6 Hours, AUCpooled) 
+ 
+Source: Applicant’s Study report for MSP-2017-1220 page 43 of 2212. 
+Per 
+ SOP, AUC cannot be calculated with less than 3 consecutive concentrations unless requested. 
+† Metabolite has lost radiolabel and is detectable by mass spectrometry only. 
+Abbreviations: AUC, area under the plasma concentration-time curve; AUCpooled, pooled area under the plasma concentration-time 
+curve by subject; BQL, below quantitation limit; NA, not applicable; ND, not detected by mass spectrometry or radiodetection; 
+MS, non-radioactive peak detected by mass spectrometry; 
+.; SOP, standard operating procedure; Unk, unknown 
+Reference ID: 5559625
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 165 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+131 
+Integrated Review Template, version 4.0 (11/1/23) 
+In the AUCpooled plasma (pooled by subject), etripamil, MSP-2030, and Unk 10 were the major 
+(≥10%) components circulating in plasma, accounting for 27.8%, 32.1%, and 24.3% of the 
+AUC0-6h, respectively. 
+Figure 18. Radiochromatogram of Plasma Profiling Sample Following a Single Intranasal Dose of 
+Etripamil (0.833 Hours Postdose) 
+ 
+Source: Applicant’s Study report for MSP-2017-1220 page 112 of 304. 
+The vertical axis shows DPM. The horizontal axis shows times of elution. 
+Abbreviations: DPM, disintegrations per minute; Unk, unknown 
+The metabolite Unk 10 was detected at 0.833-hours and 1.5-hours postdose. 
+The peak plasma etripamil concentration was achieved at approximately 5 minutes (median) with 
+mean Cmax of 67.3 ng/mL. The mean values of AUC0-t and AUC0-∞ were 78.6 h•ng/mL and 
+84.5 h•ng/mL, respectively. The mean T1/2 was 2.92 hours, terminal rate constant (λz) was 0.317 
+1/hour, apparent volume of distribution during the terminal phase after non-intravenous 
+administration (Vz/F) was 3500 L, and apparent clearance after nasal administration (CL/F) was 
+1070 L/h. 
+The peak plasma MSP-2030 concentration was achieved at approximately 25 minutes (median) 
+with mean Cmax of 59.9 ng/mL. The mean values of AUC0-t and AUC0-∞ were 288 h•ng/mL and 
+318 h•ng/mL, respectively. The mean T1/2 was 7.1 hours, terminal rate constant (λz) was 0.130 
+1/hour, and the ratio of metabolite to parent was 4.02. 
+The amount of etripamil excreted in urine (Aeu) was low (0.00873 mg). The fraction excreted in 
+urine was 0.0124%, and the renal clearance (CL/R) was 0.173 L/h. 
+The metabolites of [14C]-etripamil were profiled following the single intranasal dose of 70.2 mg. 
+Unchanged parent, etripamil; MSP-2030; metabolites M455 b, M601 d, and three unknowns 
+(Unk 8, Unk 9, Unk 10) were the quantifiable radioactive components observed in plasma. One 
+N-dealkylation + O-demethylation + glucuronide metabolite (M453) was observed in plasma that 
+had lost the radiolabel and was detected by mass spectrometry only. 
+Reference ID: 5559625
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APPEARS THIS 
+WAY ON 
+ORIGINAL
+
+
+===== PAGE 166 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+132 
+Integrated Review Template, version 4.0 (11/1/23) 
+Unk 10 was detected in three of seven subjects (Subject
+39%, Subject
+64.5%, Subject
+66.9%) but undetected in four of seven subjects. 
+Unk 10 was detectable by radioactivity assessment only, not with high-resolution MS. Several 
+initial attempts were undertaken to identify the human plasma metabolite Unk 10, but this 
+component could not be identified successfully. However, it seemed to indicate that Unk 10 
+would likely be formed in vivo and would not be an artifact of sample processing.  
+The mean dose recovered in feces across the seven subjects (from 0 to 168 hours postdose for 
+Subjects 
+ and from 0 to 240 hours postdose for Subjects
+) was 25.6% (ranging 
+from 10.8% to 37.4%). Unchanged parent was below the level of quantitation in feces, and there 
+were no major metabolites (≥10% of the administered dose). The mean dose recovered in urine 
+across the seven subjects from 0 to 144 hours postdose was 28.9% (ranging from 9.4% to 
+48.5%). Unchanged parent was below the level of quantitation in urine and M179 was the only 
+major (≥10% of the administered dose) metabolite accounting for 18.8% of the total dose 
+administered. 
+Etripamil metabolic pathways included demethylation (MSP-2030, M263, M277s, M411 
+metabolites, M425 metabolites, M601 metabolites, and M615 metabolites), N-dealkylation 
+(M165, M179, M263, M277 metabolites, and M291), oxidation (M165, M179, M455, M469), 
+glucuronidation (M453, M601 metabolites, and M615 metabolites), and de-methylation plus 
+taurine conjugation (M546). Some metabolites that were formed as part of the N-dealkylation 
+pathway no longer contained the radiolabel (i.e., M263, M277 a, M277 a_2, M277 b, M291, 
+M453). The quantitative level of these metabolites could not be measured. 
+Agency’s Comment 
+One concern is that the presence of Unk10 (confirmed as M195 in follow-up studies MSP-2017-
+1310 and MSP-2017-1310) in some patients may represent the loss of exposure to the 
+pharmacologically active etripamil. The radioquantification data in Table 82 suggests this may 
+be the case for Subjects 
+. However, etripamil concentration as quantified using LC-
+MS/MS does not support this. Table 83 below shows the individual PK parameter estimates in 
+Study 1220. Subjects 
+ had exposure to etripamil that was within the range of subjects who 
+did not show exposure to Unk10. This data alleviates concern that the presence of Unk10 is at 
+the expense of exposure to etripamil and therefore reduces effectiveness. 
+Table 83. Individual Plasma Pharmacokinetic Parameters of Etripamil Using LC-MS/MS Following 
+a Single Intranasal Administration of 70 mg Etripamil Containing [14C]-Etripamil (100 μCi) to 
+Healthy Male Subjects 
+ 
+Source: MSP-2017-1220-Appendix-12.2.6 
+Abbreviations: AUC0-t, area under the plasma concentration-time curve from time 0 to time t; AUC0-inf, area under the concentration 
+time curve from time 0 to infinity; 14C, carbon-14; CL/F, apparent clearance at steady state; Cmax, maximum plasma concentration; 
+LC-MS/MS, liquid chromatography tandem mass spectrometry; t1/2, half-life; tmax, time to reach maximum drug concentration in the 
+body; Vz/F, apparent volume of distribution during the terminal phase; λz ,terminal disposition rate constant/terminal rate constant 
+Reference ID: 5559625
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+(6)
+(b) 
+(6)
+(b) 
+(6)
+(b) (6)
+(b) (6)
+(b) (6)
+(b) (6)
+(b) (6)
+
+
+===== PAGE 168 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+134 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 84. Summary of Etripamil Pharmacokinetic Parameters (Mean [CV%]) in Plasma After a 
+70 mg Dose by Dose and Group 
+PK Parameter 
+35 mg 
+70 mg 
+105 mg 
+Japanese 
+Non-
+Japanese 
+Japanese 
+Non-
+Japanese 
+Japanese 
+Non-
+Japanese 
+Cmax 
+(ng/mL) 
+91.25 
+(74.42%) 
+63.69 
+(89.27%) 
+177.87 
+(74.8%) 
+120.75 
+(42.11%) 
+131.53 
+(52.61%) 
+126.74 
+(72.27%) 
+AUC0-last 
+(min×ng/mL) 
+3920.70 
+(55.89%) 
+3303.11 
+(84.95%) 
+7597.74 
+(59.15%) 
+6242.44 
+(40.90%) 
+7444.89 
+(50.12%) 
+6556.27 
+(61.16%) 
+AUC0-inf 
+(min×ng/mL) 
+4285.92 
+(56.76%) 
+3777.66 
+(86.19%) 
+8165.18 
+(56.98%) 
+6683.29 
+(42.25%) 
+8025.87 
+(48.57%) 
+7089.44 
+(57.9%) 
+Tmax 1 
+(minutes) 
+5 
+(3,10) 
+8.43 
+(5,15) 
+6 
+(5,15) 
+7 
+(2.9,25) 
+7 
+(5,10) 
+6.96 
+(1.2,15) 
+T½ 1 
+(minutes) 
+93.74 
+(42.8,672) 
+82.67 
+(27.2,685) 
+198.71 
+(86.3,383) 
+178.05 
+(27.3,224) 
+167.43 
+(87,270) 
+148.11 
+(30.8,226) 
+Source: Reviewer-formatted information from NDA 218571 MSP-2017-1205 study report. 
+1 Median (min, max) 
+Abbreviations: AUC0–∞, area under the plasma concentration-time curve from time 0 to infinity; AUC0–last, area under the plasma 
+concentration-time curve from time 0 to the last measurable concentration; Cmax, maximum plasma concentration; CV, coefficient of 
+variation; max, maximum; min, minimum; T½, half-life; Tmax, time to reach maximum drug concentration in the body 
+Table 85. Dose-Normalized and Weight-Normalized Pharmacokinetic Parameters of Etripamil in 
+Japanese and Non-Japanese Subjects 
+ 
+Source: NDA 218571 MSP-2017-1205 study report. 
+Abbreviations: AUC0–∞, area under the plasma concentration-time curve from time 0 to infinity; AUC0–last, area under the plasma 
+concentration-time curve from time 0 to the last measurable concentration; BW, body weight; Cmax, maximum plasma concentration; 
+N, number of subjects in treatment group; n, number of subjects with characteristic 
+Reference ID: 5559625
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 169 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+135 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 86. Summary of Dose-Normalized and Weight-Normalized Pharmacokinetic Parameters of 
+MSP-2030 in Japanese and Non-Japanese Subjects 
+ 
+Source: NDA 218571 MSP-2017-1205 study report. 
+Abbreviations: AUC0–∞, area under the plasma concentration-time curve from time 0 to infinity; AUC0–last, area under the plasma 
+concentration-time curve from time 0 to the last measurable concentration; BW, body weight; Cmax, maximum plasma concentration; 
+N, number of subjects in treatment group; n, number of subjects with characteristic 
+In this study, mean AUC and Cmax were approximately 60% higher in female subjects compared 
+with male subjects for both races and at all doses. When parameters were dose- and weight-
+normalized, AUC and Cmax were approximately 40% higher for females. Half-life was prolonged 
+in females compared to males. The amount of etripamil excreted in urine was higher in female 
+subjects compared with male subjects, however CL/R and fraction of non-intravenously 
+administered drug excreted in urine (fe/F) were comparable in males and females. This trend did 
+not persist in larger datasets across different studies. The population pharmacokinetic (PopPK) 
+analysis suggests no clinically significant differences in the pharmacokinetics of etripamil were 
+observed based on age (19 to 56 years old), body weight (49.3 to 91 kg), height (157 to 194 cm), 
+sex, or race (Caucasian, Asian, or African American). 
+A supplemental analysis conducted to assess the pooled PK data from Japanese and non- 
+Japanese subjects across dose levels demonstrated that etripamil exposure increased 
+proportionally with increasing dose between 35 and 70 mg and, to a lesser extent, between 70 
+and 105 mg. Cmax were reached quickly in all groups, with mean Tmax occurring before 8 minutes 
+across dose levels. The median Tmax was 7 minutes for all dose levels. Individual T1/2 ranged 
+from 27.2 minutes to 685 minutes, and mean values (ranging from 146 to 164 minutes) were 
+comparable at each dose level. Other PK parameters were variable at all dose levels with 
+geometric coefficient of variation exceeding 40% for most parameters. 
+MSP-2030 exposure (AUC and Cmax) increased in a dose proportional manner between 35- and 
+70-mg doses, while exposure at the 105-mg dose level was similar to what was seen at 70 mg. 
+Mean Tmax occurred between 18 to 35 minutes postdose across dose levels (median value of 
+15 minutes for all dose levels). Individual T1/2 ranged from 80 to 983 minutes and mean values 
+(ranging from 387 to 509 minutes) were comparable across dose levels. 
+Study Number/Title: MSP-2017-1285 (NODE-103)/An Open-Label, Randomized, Single 
+Dose, 2-Way Crossover, Phase 1 Study to Assess the Pharmacokinetics, 
+Reference ID: 5559625
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 171 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+137 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 87. Summary of Plasma Etripamil Pharmacokinetic Parameters 
+ 
+Source: NDA 218571 MSP-2017-1285 study report. 
+a N=5 
+b N=11 for AUC0-∞, AUC0-∞_w, CL/F, Vz/F, and t½ 
+c Median and range (minimum-maximum) are presented 
+Abbreviations: AUC0–∞, area under the plasma concentration-time curve from time 0 to infinity; AUC0–∞_w, weight adjusted AUC0-∞ 
+calculated as AUC0-∞*body weight; AUC0–last, area under the plasma concentration-time curve from time 0 to the last measurable 
+concentration; AUC0–last_w, weight adjusted AUC0-last calculated as AUC0-last*body weight; CL/F, apparent clearance at steady state; 
+Cmax, maximum plasma concentration; Cmax_w, weight adjusted Cmax calculated as Cmax*body weight.; N, number of subjects in 
+treatment group; t1/2, half-life; Vz/F, apparent volume of distribution during the terminal phase 
+Two peaks were observed in plots of plasma concentration versus time for participants 
+administered 2×70 mg etripamil. Following IN administration of etripamil doses of 1×70 mg and 
+2×70 mg, etripamil was rapidly absorbed with a median Tmax within 15 minutes for both 
+treatments. Plasma etripamil concentrations fell approximately 60% from their peak value at 
+25 minutes after the latest dose, and around 80% within 60 minutes after the latest dose. The 
+peak plasma concentrations of the metabolite MSP-2030 were reached around median Tmax of 
+17.50 to 22.50 minutes for both treatments. Following the attainment of peak levels, plasma 
+MSP-2030 concentrations fell approximately 60% from their peak value at 100 minutes after the 
+latest dose, and around 80% within 240 minutes after the latest dose. The metabolite total 
+exposures (AUCs) were more than 3-fold of the etripamil exposures, whereas the peak exposures 
+(Cmax) of the metabolite and parent were similar. 
+In general, increased doses were associated with increased mean systemic exposures. The overall 
+mean exposure ratios between the treatments were less than dose proportional.  
+Reference ID: 5559625
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 176 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+142 
+Integrated Review Template, version 4.0 (11/1/23) 
+Figure 21. Mean Concentrations of Etripamil by Dose Level (Data Pooled for Formulation A and 
+Formulation B) to 90 Minutes Postdose 
+ 
+Source: NDA 218571 section 2.7.2, figure 1. 
+Table 91. Summary of Pharmacokinetic Parameters by Analyte and Device, Cohort 9 (Two Doses 
+of Etripamil Formulation B 30 mg Administered by Two Different Devices 2 Days Apart) 
+ 
+Source: NDA 218571 section 2.7.2, table 7. 
+a n=7 
+b n=4 
+c n=5 
+Abbreviations: AUC0–t, are under the plasma concentration-time curve from time 0 to 24 hours; AUC0–∞, area under the plasma 
+concentration-time curve from time 0 to infinity; 
+; Cmax, maximum plasma concentration; CV, coefficient of 
+variation; Kel, terminal elimination rate constant; N, number of subjects in treatment group; n, number of subjects evaluated; 
+T1/2, terminal half-life; Tmax, time to maximum plasma concentration; 
+  
+Reference ID: 5559625
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 187 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+153 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 96. Characteristics of Subjects Included in the PopPK Analysis 
+ 
+Source: Applicant PopPK report, Table 3 on page 48.  
+Abbreviations: CV, coefficient of variation; Max, maximum; Min, minimum; n, number of subjects in sample; PK, pharmacokinetic; 
+PPK, population pharmacokinetic; PopPK, population pharmacokinetic; SD, standard deviation 
+Structural Model 
+The final structural model was a two-compartment model with first order absorption with two 
+absorption rate constants (ka1 and ka2) and absorption lag time on ka1 and linear elimination 
+processes. The final structural model further included a relative bioavailability parameter related 
+to intranasal volume administered (named FVOL) that allowed doses associated with a volume 
+>100 μL to have a different relative bioavailability. When doses were administered as two 
+separate sprays of 100 μL each, only the second spray (i.e., the volume that exceeded 100 μL) 
+was associated with this parameter.  
+Covariates 
+Covariates were tested for potential inclusion in the final structural PopPK model if an 
+observable relationship was suggested, and if the relationship was physiologically and 
+pharmacologically plausible. Covariates that were tested for potential inclusion in the final 
+structural PopPK model included:  
+ Weight 
+ Age 
+ Height 
+ Body mass index (BMI) 
+Reference ID: 5559625
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 190 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+156 
+Integrated Review Template, version 4.0 (11/1/23) 
+Final PopPK Model 
+Log-transformed etripamil concentrations were described by a two-compartment model with 
+linear absorption and elimination processes (Figure 25). It included two absorption rate constants 
+(ka1 and ka2) and a lag time associated with ka1. Inter-occasion variability was included in the 
+model to account for variability in PK parameters that could occur when the same subject 
+received etripamil on different dosing days. Height was linearly associated with the increases in 
+Vc/F. Inverse power model (i.e., (23/BMI)1.51) was used to describe the association between 
+increasing BMI and decreasing ka1. The relative bioavailability related to intranasal volume 
+administered (named FVOL) appeared to decrease by 19% when the intranasal volume of drug 
+administered exceeded 100 μL. The parameter estimates are summarized in Table 97. Goodness-
+of-fit (GOF) plots and visual predictive check (VPC) plots are presented in Figure 26 and Figure 
+27, respectively. 
+Figure 25. Schematic Representation of the Final PopPK Model 
+  
+Source: Applicant’s PopPK report, Figure 10 on page 72.  
+Abbreviations: Alag, lag time; BMI, body mass index; Frel, relative bioavailability; Ka1, absorption rate constant 1; Ka2, absorption rate 
+constant 2; K10, first-order rate constant describing drug elimination; K12, first-order transfer rate constant from the central 
+compartment (1) to the peripheral compartment (2); K21, first-order transfer rate constant from the peripheral compartment (2) to the 
+central compartment (1); Vc/F, apparent central volume of distribution 
+Reference ID: 5559625
+ 
+  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+
+
+===== PAGE 191 =====
+
+NDA 218571 
+CARDAMYST (etripamil) 
+157 
+Integrated Review Template, version 4.0 (11/1/23) 
+Table 97. Parameter Estimates for the Final PopPK Model 
+ 
+Source: Applicant’s PopPK report, Table 13 on page 73.  
+a Presented for the median height of 176 cm.  
+b Relative bioavailability of doses associated with intranasal volumes exceeding 100 µL per nostril. 
+Abbreviation(s): BMI, body mass index; CLd/F, Apparent distributional clearance; CL/F, Apparent clearance after intranasal 
+administration; CV%, coefficient of variation; FVOL, Relative bioavailability related to intranasal volume administered; 
+Geo., geometric; IOV, interoccasion variability; Ka1, absorption rate constant 1; Ka2, absorption rate constant 2; K10, first-order 
+elimination rate constant from central compartment; K12, first-order transfer rate constant from the central compartment (1) to the 
+peripheral compartment (2); K21, first-order transfer rate constant from the peripheral compartment (2) to the central 
+compartment (1); L, liters; min, minutes; N/A, not applicable; PK, pharmacokinetic; PopPK, population pharmacokinetic; 
+PPK, population pharmacokinetic; Tlag, lag time; Vc/F, apparent central volume of distribution; 
+Reference ID: 5559625
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

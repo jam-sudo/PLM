@@ -1,0 +1,72 @@
+[
+  {
+    "nda": "NDA211875",
+    "pdf": "data/raw/NDA211875_ClinPharmR.pdf",
+    "n_pages": 2,
+    "chars": 4554,
+    "text_file": "data/llm_extracted/text/NDA211875.txt"
+  },
+  {
+    "nda": "NDA205266",
+    "pdf": "data/raw/NDA205266_ClinPharmR.pdf",
+    "n_pages": 30,
+    "chars": 79993,
+    "text_file": "data/llm_extracted/text/NDA205266.txt"
+  },
+  {
+    "nda": "NDA208424",
+    "pdf": "data/raw/NDA208424_ClinPharmR.pdf",
+    "n_pages": 8,
+    "chars": 12834,
+    "text_file": "data/llm_extracted/text/NDA208424.txt"
+  },
+  {
+    "nda": "NDA208711",
+    "pdf": "data/raw/NDA208711_ClinPharmR.pdf",
+    "n_pages": 30,
+    "chars": 73880,
+    "text_file": "data/llm_extracted/text/NDA208711.txt"
+  },
+  {
+    "nda": "NDA211580",
+    "pdf": "data/raw/NDA211580_ClinPharmR.pdf",
+    "n_pages": 5,
+    "chars": 12373,
+    "text_file": "data/llm_extracted/text/NDA211580.txt"
+  },
+  {
+    "nda": "NDA210861",
+    "pdf": "data/raw/NDA210861_ClinPharmR.pdf",
+    "n_pages": 30,
+    "chars": 77027,
+    "text_file": "data/llm_extracted/text/NDA210861.txt"
+  },
+  {
+    "nda": "NDA209510",
+    "pdf": "data/raw/NDA209510_ClinPharmR.pdf",
+    "n_pages": 30,
+    "chars": 71674,
+    "text_file": "data/llm_extracted/text/NDA209510.txt"
+  },
+  {
+    "nda": "NDA206940",
+    "pdf": "data/raw/NDA206940_ClinPharmR.pdf",
+    "n_pages": 30,
+    "chars": 78967,
+    "text_file": "data/llm_extracted/text/NDA206940.txt"
+  },
+  {
+    "nda": "NDA212327",
+    "pdf": "data/raw/NDA212327_ClinPharmR.pdf",
+    "n_pages": 30,
+    "chars": 80000,
+    "text_file": "data/llm_extracted/text/NDA212327.txt"
+  },
+  {
+    "nda": "NDA214621",
+    "pdf": "data/raw/NDA214621_ClinPharmR.pdf",
+    "n_pages": 30,
+    "chars": 80000,
+    "text_file": "data/llm_extracted/text/NDA214621.txt"
+  }
+]

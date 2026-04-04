@@ -1,0 +1,46 @@
+{
+  "nda": "NDA211875",
+  "drug_name": "paclitaxel (HBT-001, nab-paclitaxel)",
+  "pk_tuples": [
+    {
+      "dose_mg": 442.0,
+      "dose_original": "260 mg/m2 IV infusion over 30 minutes",
+      "route": "IV",
+      "formulation": "injection",
+      "food": "fasted",
+      "population": "patient",
+      "n_subjects": 21,
+      "dose_schedule": "single_dose",
+      "cmax_ng_ml": 13800.0,
+      "tmax_h": null,
+      "auc_inf_ng_h_ml": 16200.0,
+      "auc_last_ng_h_ml": null,
+      "t_half_h": null,
+      "cl_L_h": null,
+      "vd_L": null,
+      "source_page": 12,
+      "confidence": "high",
+      "notes": "Total paclitaxel (albumin-bound + unbound) geometric mean values from HBT001-BE-01 BE study in breast cancer patients under overnight fasted conditions; 30-min IV infusion every 3 weeks; dose_mg estimated from 260 mg/m2 x assumed 1.7 m2 BSA"
+    },
+    {
+      "dose_mg": 442.0,
+      "dose_original": "260 mg/m2 IV infusion over 30 minutes",
+      "route": "IV",
+      "formulation": "injection",
+      "food": "fasted",
+      "population": "patient",
+      "n_subjects": 21,
+      "dose_schedule": "single_dose",
+      "cmax_ng_ml": 819.0,
+      "tmax_h": null,
+      "auc_inf_ng_h_ml": 760.0,
+      "auc_last_ng_h_ml": null,
+      "t_half_h": null,
+      "cl_L_h": null,
+      "vd_L": null,
+      "source_page": 12,
+      "confidence": "high",
+      "notes": "Free (unbound) paclitaxel geometric mean values from HBT001-BE-01 BE study in breast cancer patients under overnight fasted conditions; 30-min IV infusion every 3 weeks; dose_mg estimated from 260 mg/m2 x assumed 1.7 m2 BSA"
+    }
+  ]
+}

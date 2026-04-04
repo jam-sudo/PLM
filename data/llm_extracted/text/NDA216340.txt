@@ -1,0 +1,2294 @@
+
+
+===== PAGE 8 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+7 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+FDA - Table 30: Treatment-emergent Adverse Events Leading to Discontinuation of Study 
+Treatment by System Organ Class and Preferred Term ............................................................ 169 
+FDA - Table 31: Most Common Treatment-Emergent Adverse Events (≥ 20%) in the Primary 
+Safety Population ...................................................................................................................... 174 
+FDA - Table 32: : Most Common Laboratory Abnormalities (≥ 25%) in the Primary Safety 
+Population ................................................................................................................................. 177 
+FDA - Table 33: Hepatotoxicity in the Pooled Safety  Population .............................................. 181 
+FDA - Table 34: MedDRA PTs Combined into Gastrointestinal GTs ........................................... 183 
+Table 35. Summary of bioanalytical method validation and performance to measure adagrasib 
+in human plasma ....................................................................................................................... 214 
+Table 36. Summary of bioanalytical method validation and performance to measure adagrasib 
+in human urine .......................................................................................................................... 221 
+Table 37. Descriptive statistics of secondary PK parameters by formulation following 600 mg 
+BID ............................................................................................................................................ 224 
+Applicant Table 38: Summary of Baseline Demographics and Characteristics in the Dataset, 
+Stratified by Study 
+227 
+Applicant Table 39: Summary of Baseline Characteristics and Laboratory Values in the Dataset, 
+Stratified by Study 
+229 
+Applicant Table 40: Parameter Estimates and SE from Final Population PK Model ................ 230 
+Applicant Table 41: Summary of Baseline Characteristics and Risk Factors in the Dataset .... 238 
+Applicant Table 42: Table of Model parameters – ORR vs Cmin,Week2-6 .................................... 238 
+Applicant Table 43: Covariate Distribution over Cmin,Week2-6 Median for All Subjects Included in 
+the ER Analysis of ORR, PFS and OS .......................................................................................... 239 
+Applicant Table 44: Covariate Distribution over Cmin,Week2-6 Quartiles for All Subjects Included 
+in the ER Analysis of ORR, PFS and OS ....................................................................................... 240 
+Applicant Table 45: Summary of Baseline Characteristics in the Dataset ............................... 244 
+Applicant Table 46: Covariate Distribution over Cmax,ss Quartiles for All Subjects Included in 
+the ER Analysis of AEs ............................................................................................................... 246 
+Applicant Table 47: Covariate Distribution over Cmax,Week1-3 Quartiles for All Subjects Included 
+in the ER Analysis of AEs ........................................................................................................... 247 
+Applicant Table 48: Parameter Estimates from Final ER Model of (endpoint) ....................... 248 
+Table 49. Univariate logistic regression for safety variables with Cmax,ss and Cavg,ss derived 
+based on initial dose (600 mg BID) ............................................................................................ 256 
+Table 50 Adagrasib PBPK model input parameter values .......................................................... 262 
+Table 51 Simulated and observed adagrasib Cmax and AUC values across 200-600 mg doses . 265 
+Table 52 Model predicted effects of CYP modulators on the PK of adagrasib and effects of 
+adagrasib on the PK of CYP3A4, CYP2D6, CYP2C9, or P-gp substrates following multiple dose 
+administration of 600 mg BID adagrasib ................................................................................... 266 
+Table 53 PBPK assessment of the effect of adagrasib on the PK of rosuvastatin through 
+inhibition of BCRP or OATP ....................................................................................................... 269 
+Reference ID: 5092534
+
+
+===== PAGE 9 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+8 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table 54 Comparison of observed and simulated adagrasib Cmax and AUCinf values in matched 
+healthy volunteers in Simcyp V18 and V21 following a single dose administration of 600 mg 
+adagrasib ................................................................................................................................... 271 
+Table 55 Observed and predicted relative changes in unbound fraction in plasma for adagrasib 
+in patients with HI to those in healthy subjects ........................................................................ 271 
+Table 56 Simcyp V21 system parameters for subjects with normal liver function (healthy), mild 
+(CP-A), moderate (CP-B), and severe (CP-C) hepatic impairment ............................................. 272 
+Table 57 Simulated and observed geometric mean Cmax and AUC values and ratios for 
+pioglitazone in subjects with normal hepatic function and patients with moderate-to-severe 
+hepatic impairment (HI) ............................................................................................................ 273 
+Table 58 Hepatic CYP abundance in healthy subjects and hepatic impairment (HI) populations 
+(CP-A, CP-B, CP-C) and fraction of CYP abundance in HI populations relative to healthy subjects 
+in Simcyp V21 ............................................................................................................................ 273 
+Table 59 Observed and simulated adagrasib total Cmax and AUC ratios in hepatic impairment 
+(HI) patients relative to the subjects with normal hepatic function using Applicant’s model and 
+FDA reviewer’s refined model, following a single dose administration of 600 mg adagrasib. .. 274 
+Table 60 Fraction absorbed, CYP3A4 abundance and additional HLM Clint values in HV and HI 
+patients in the final model ........................................................................................................ 275 
+Table 61 Observed and simulated adagrasib geometric mean Cmax and AUC values in hepatic 
+impaired (HI) patients and healthy matched subjects following a single dose administration of 
+600 mg adagrasib ...................................................................................................................... 276 
+Table 62 Observed and simulated adagrasib total and unbound Cmax and AUC ratios in HI 
+patients relative to the healthy matched subjects following a single dose administration of 600 
+mg adagrasib ............................................................................................................................. 277 
+Table 63 Simulated total and unbound steady-state adagrasib Cmax and AUC ratios in HI 
+patients relative to the healthy matched subjects following multiple dose administration of 
+adagrasib (600 mg BID) for 15 days. .......................................................................................... 277 
+Table 64 Additional HLM Clint values in HV and HI patients assuming CYP2C8 accounts for 20%, 
+46% or 80% of non-CYP3A4 mediated metabolism ................................................................... 278 
+Table 65 Observed and simulated Cmax and AUC ratios in HI patients relative to healthy 
+matched subjects following a single dose administration of 600 mg adagrasib assuming CYP2C8 
+accounts for 20% or 80% of non-CYP3A4 mediated metabolism .............................................. 278 
+Table 66 Simulated total and unbound steady-state adagrasib Cmax and AUC ratios in HI 
+patients relative to the healthy matched subjects following multiple dose administration of 
+adagrasib (600 mg BID) for 15 days, assuming CYP2C8 accounts for 20% or 80% of non-CYP3A4 
+mediated metabolism ............................................................................................................... 279 
+Table 67 Sensitivity analysis of hepatic CYP3A4 abundance. Observed and simulated Cmax and 
+AUC ratios in HI patients relative to healthy matched subjects following a single dose 
+administration of 600 mg adagrasib ......................................................................................... 280 
+Table 68 Sensitivity analysis of hepatic CYP3A4 abundance. Simulated total and unbound 
+steady-state adagrasib Cmax and AUC ratios in HI patients relative to the healthy matched 
+subjects following multiple dose administration of adagrasib (600 mg BID) for 15 days. ......... 280 
+Reference ID: 5092534
+
+
+===== PAGE 10 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+9 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table 69 Sensitivity analysis of additional HLM CLint values. Observed and simulated Cmax and 
+AUC ratios in HI patients relative to healthy matched subjects following a single dose 
+administration of 600 mg adagrasib. ........................................................................................ 281 
+Table 70 Sensitivity analysis of additional HLM CLint values. Simulated total and unbound 
+steady-state adagrasib Cmax and AUC ratios in HI patients relative to the healthy matched 
+subjects following multiple dose administration of adagrasib (600 mg BID) for 15 days. ......... 281 
+Table 71 Sensitivity analysis of adagrasib mediated CYP3A4 TDI effect. Observed and simulated 
+Cmax and AUC ratios in HI patients relative to healthy matched subjects following a single dose 
+administration of 600 mg adagrasib. ........................................................................................ 282 
+Table 72 Sensitivity analysis of adagrasib mediated CYP3A4 TDI effect. Simulated total and 
+unbound steady-state adagrasib Cmax and AUC ratios in HI patients relative to the healthy 
+matched subjects following multiple dose administration of adagrasib (600 mg BID) for 15 days.
+ .................................................................................................................................................. 282 
+FDA Table 73: Eye disorders Treatment Emergent Adverse Events in Safety pop Error! Bookmark 
+not defined. 
+ 
+Reference ID: 5092534
+
+
+===== PAGE 11 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+10 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table of Figures 
+ 
+Applicant Figure 1: Dose-dependent Increase in Adagrasib Plasma Concentrations and KRAS 
+G12C Protein Modification in NCI-H358 Tumor Xenografts Implanted in Immunocompromised 
+Mice 
+ ................................................................................................................... 46 
+Applicant Figure 2: Dose-dependent Anti-tumor Activity of Adagrasib in Human Tumor 
+Xenograft Models Implanted in Immunocompromised Mice ..................................................... 47 
+Applicant Figure 3: Anti-tumor Activity of Adagrasib in KRAS G12C-Mutant and Non KRAS 
+G12C-Mutant Human Tumor Xenograft Models ......................................................................... 49 
+Applicant Figure 4: Best Tumor Response and Change in Tumor Burden From Baseline – 
+Cohort A (FAS-BICR)  ................................................................................................................. 124 
+Applicant Figure 5: Time Course of Response - Cohort A (FAS-BICR) ...................................... 125 
+Applicant Figure 6: Subgroup Analysis of Objective Response Rate (Cohort A) (FAS-BICR) .... 126 
+FDA Figure 7: Time Course of Response – Cohort A (FAS-BICR) based on 120-day update with 
+data cutoff date of October 15, 2021. ....................................................................................... 127 
+Applicant Figure 8: Analysis of Duration of Response (Cohort A) (Full Analysis Set-BICR) ...... 130 
+Applicant Figure 9: Analysis of Progression-free Survival (Cohort A) (Full Analysis Set-BICR) 131 
+Applicant Figure 10: Analysis of Overall Survival (Cohort A) (Enrolled Population) ................ 132 
+FDA Figure 11: Analysis of DOR per BICR in Cohort A based on 120-day update with data cutoff 
+date of October 15, 2021 .......................................................................................................... 133 
+Applicant Figure 12: Goodness-of-fit Plots for the Final Population PK Model (OBS-
+PRED/IPRED, CWRES-TIME/PRED) ............................................................................................. 231 
+Applicant Figure 13: Visual Predictive Check of Final Population PK Model - All Studies and 
+Occasions 
+ ............................................................................................................... 232 
+Applicant Figure 14: Prediction-Corrected Visual Predictive Check of adagrasib by Study and 
+Occasions: Semi-Log Scale ......................................................................................................... 233 
+Applicant Figure 15: Impact of Body Weight on AUCtau,ss for adagrasib for 600 mg Twice Daily 
+in Patients with Advanced Malignancies ................................................................................... 234 
+Applicant Figure 16: ER Curves of ORR vs Cmin,Week2-6 in 118 Patients ..................................... 241 
+Applicant Figure 17: ER Curves of PFS vs Cmin,Week2-6 in 118 Patients ...................................... 241 
+Applicant Figure 18: ER Curves of OS vs Cmin,Week2-6 in 118 Patients ....................................... 242 
+Applicant Figure 19: ER Curves of Any Grade ≥3 Adverse Events vs Cmax,ss in 132 Patients . 249 
+Applicant Figure 20: ER Curves of Diarrhea vs Cmax,ss in 132 Patients ................................. 249 
+Applicant Figure 21: ER Curves of Nausea vs Cmax,ss in 132 Patients ................................... 250 
+Applicant Figure 22: ER Curves of Vomiting vs Cmax,ss in 132 Patients ................................. 250 
+Applicant Figure 23: ER Curves of ALT > 3 x ULN vs Cmax,Week1-3 in 132 Patients ...................... 251 
+Applicant Figure 24: ER Curves of AST > 3 x ULN vs Cmax,Week1-3 in 132 Patients...................... 251 
+Applicant Figure 25: ER Curves of Lipase > 3 x ULN vs Cmax,ss in 132 Patients ......................... 252 
+Applicant Figure 26: ER Curves of Hyponatremia vs Cmax,ss in 132 Patients ............................ 252 
+Figure 27. Dose distribution by days after first dose ................................................................. 253 
+Figure 28. Sensitivity E-R analysis for probability of ORR as a function of Cmin ........................ 254 
+Figure 29. Sensitivity E-R analysis for probability of ORR as a function of Cave ........................ 255 
+Reference ID: 5092534
+
+
+===== PAGE 14 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+13 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Glossary 
+3D 
+ 
+three dimension 
+ADME  
+absorption, distribution, metabolism, excretion  
+AE 
+ 
+adverse event 
+AT 
+ 
+accelerated titration 
+AUC 
+ 
+area under the concentration-time curve 
+BCRP  
+breast cancer resistance protein 
+BID 
+ 
+twice daily 
+BICR 
+ 
+blinded, independent central review 
+BLA 
+ 
+biologics license application 
+BTDR  
+breakthrough therapy designation request 
+Cave 
+ 
+average plasma concentration 
+Cave,ss 
+ 
+average plasma concentration at steady state 
+CFR 
+ 
+Code of Federal Regulations 
+CHO 
+ 
+Chinese hamster ovary 
+CI 
+ 
+confidence interval 
+CIT 
+ 
+checkpoint inhibitor therapy 
+CLCR 
+ 
+creatinine clearance 
+CL/F 
+ 
+apparent oral clearance 
+CLR 
+ 
+renal clearance 
+Cmax 
+ 
+maximum plasma concentration 
+CMC 
+ 
+chemistry, manufacturing, and controls 
+Cmin 
+ 
+minimum plasma concentration 
+CNS 
+ 
+central nervous system 
+C-QTc  
+concentration-corrected QT interval 
+CR 
+ 
+complete response 
+CRF 
+ 
+case report form 
+CSR 
+ 
+clinical study report 
+ctDNA  
+circulating tumor DNA 
+CYP 
+ 
+cytochrome P450 
+DDI 
+ 
+drug-drug interaction 
+DLT 
+ 
+dose limiting toxicity 
+DOR 
+ 
+duration of response  
+DMF 
+ 
+drug master file 
+ECG 
+ 
+electrocardiogram 
+ECHO  
+Echocardiogram 
+ECOG  
+Eastern Cooperative Oncology Group 
+eCTD  
+electronic common technical document 
+Reference ID: 5092534
+
+
+===== PAGE 16 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+15 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+NCI-ODWG 
+National Cancer Institute-Organ Dysfunction Working Group 
+NDA 
+ 
+new drug application 
+NE 
+ 
+not estimated 
+ng 
+ 
+nanogram 
+nM 
+ 
+nanomolar 
+NME  
+new molecular entity 
+NOAEL  
+no-observed-adverse-effect-level 
+NSCLC  
+non-small cell lung cancer 
+OPQ 
+ 
+Office of Pharmaceutical Quality 
+ORR 
+ 
+objective response rate 
+OS 
+ 
+overall survival  
+OSE 
+ 
+Office of Surveillance and Epidemiology 
+OSI 
+ 
+Office of Scientific Investigation 
+PBPK  
+physiologically-based pharmacokinetic 
+PD 
+ 
+pharmacodynamic 
+PD-1 
+ 
+programmed death receptor-1 
+PD-L1  
+programmed cell death ligand 1 
+PDX 
+ 
+patient-derived xenograft 
+PFS 
+ 
+progression-free survival  
+P-gp 
+ 
+P-glycoprotein 
+PI 
+ 
+prescribing information 
+PK 
+ 
+pharmacokinetics 
+PMC 
+ 
+postmarketing commitment 
+PMR 
+ 
+postmarketing requirement 
+PP 
+ 
+per protocol 
+PPD 
+ 
+Predictive Probability Design 
+PPI 
+ 
+patient package insert 
+PR 
+ 
+partial response 
+PRO 
+ 
+patient reported outcome 
+PS 
+ 
+Performance Status  
+PTR 
+ 
+peak-to-trough ratio 
+QD 
+ 
+once daily 
+QTc 
+ 
+corrected QT interval 
+QTcF  
+corrected QT interval Fridericia 
+QTcP  
+population-corrected QT 
+RECIST  
+Response Evaluation Criteria in Solid Tumors 
+REMS  
+risk evaluation and mitigation strategy 
+RTOR  
+Real Time Oncology Review 
+SAE 
+ 
+serious adverse event 
+TEAE  
+treatment emergent adverse event 
+t1/2 
+ 
+terminal elimination half-life 
+TK 
+ 
+toxicokinetic 
+Reference ID: 5092534
+
+
+===== PAGE 41 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+40 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+exhibited in vivo anti-tumor efficacy in an NCI-H358 KRAS G12C lung cancer xenograft model. 
+Significant dose-dependent tumor regression occurred in mice administered ≥ 30 mg/kg/day. 
+One of four mice had complete tumor regression by Day 33 of the study at 100 mg/kg/day. In a 
+panel of KRAS G12C-mutant and KRAS G12C-negative tumor xenograft models, adagrasib had 
+anti-tumor activity in 14 of 17 KRAS G12C-mutant lung xenograft models. In contrast, adagrasib 
+did not exhibit anti-tumor activity in KRAS G12C-negative tumor models.  
+ 
+In secondary pharmacology screening studies, adagrasib showed >50% inhibition of 18 off-
+target receptors, including >90% inhibitory activity in 4 off-target kinases or enzymes at 10 μM 
+concentration (≥81 times the human free steady-state Cmax at the recommended dose of 600 
+mg twice daily, referred as recommended dose in Section 5). A follow-up experiment showed 
+that the IC50 values for these top 4 kinase receptors, alpha 1A adrenergic antagonist (310 nM), 
+muscarinic M2 antagonist (420 nM), serotonin 5HT1A agonist (350 nM), and serotonin 5HT1B 
+(230 nM), were approximately ≥ 3-fold higher than the human free steady-state Cmax (0.08 µM 
+based on ~98% protein-binding) at the recommended dose.    
+ 
+Adagrasib inhibited hERG potassium channel currents with an IC50 of 3.8 μM in a safety 
+pharmacology assessment, which is approximately 48-fold higher than the human free steady-
+state Cmax of ~0.08 μM based on ~98% protein-binding at the recommended dose. While the in 
+vitro finding would suggest a low risk of QTc prolongation through this pathway in humans, QTc 
+prolongation was one of the most common adverse reactions (≥ 20%) observed in clinical trials 
+in patients treated with adagrasib. The label contains a warning and precaution for QTc 
+prolongation. Additional safety pharmacology assessments incorporated into repeat-dose 
+toxicology studies revealed normal assessment of ECG cardiovascular parameters, but 
+moderate subacute myocardial necrosis was observed in one dog exposed to daily adagrasib at 
+25 mg/kg. Toxicology studies also revealed mortality in rats attributed to heart and lung 
+findings at 300 mg/kg (approximately 1.5 times the human AUC at the recommended dose). 
+Heart findings were characterized as diffuse myocardium microvesicular vacuolation. Clinical 
+signs of abnormal respiratory sounds in rats during the 4-week repeat-dose toxicology study 
+correlated with histopathology findings of protein and foamy macrophage infiltration in the 
+alveoli and epithelial vacuolation in the lung at 300 mg/kg adagrasib. Rats administered 
+adagrasib at 150 mg/kg up to 13 weeks also had similar histopathology findings but lacked 
+respiratory clinical signs. Dogs exposed to adagrasib had similar pathologic lung findings in the 
+absence of respiratory clinical signs. Findings of foamy macrophage infiltration are often 
+consistent with lysosomal phospholipid accumulation (i.e., phospholipidosis); however, this 
+diagnosis could not be made under the conditions of the histopathology analysis.  
+ 
+There were 37 proposed or identified human metabolites of adagrasib. There were no unique 
+human metabolites. Two circulating metabolites, M11 and M68, were further evaluated as they 
+accounted for >10% of adagrasib-related material in human plasma. Metabolite M11 was also 
+found following incubation of adagrasib with microsomes and/or hepatocytes from rats and 
+Reference ID: 5092534
+
+
+===== PAGE 42 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+41 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+dogs. Metabolites M68 and M11 were also present in rat and dog plasma, although M68 was 
+higher in human plasma. In vitro studies suggest that only M11 inhibited KRAS-dependent 
+downstream phosphorylation of ERK1/2 but at concentrations approximately 89-fold higher 
+than adagrasib; and both metabolites did not inhibit in vitro hERG potassium currents at 
+relevant concentrations. The Applicant did not conduct definitive GLP genotoxicity assays with 
+M68 and M11. The bacterial reverse mutation screening assay using strains TA100 and TA98 
+suggests both metabolites are not mutagenic. Results from an in vitro screening micronucleus 
+assay using TK6 cells were equivocal due to observed increases in percent of micronuclei 
+induced up to the limit of cytotoxicity or solubility, that at high concentrations were above the 
+historical control but did not reach statistical significance. Given that adagrasib, was not 
+genotoxic in in vitro and in vivo GLP genotoxicity assays (see discussion below) and that 
+metabolites M11 and M68 are structurally related to adagrasib, the totality of the data suggests 
+that there is low risk of genotoxicity with the metabolites.   
+ 
+Following single oral administration to rats, 14C-adagrasib-derived radioactivity distributed to 
+nearly all tissues by 8 hours post-dose. Adagrasib demonstrated affinity for melanin-pigmented 
+tissues. Radioactivity was also detected in male reproductive tissues. In rats and dogs, adagrasib 
+accumulated approximately 2- to 3-fold over time. In consultation with the FDA clinical 
+pharmacology team, animal to human exposure multiples were calculated using human steady-
+state PK parameters of Cmax and area under the curve (AUC) values of 2500 ng/mL and 28,100 
+ng*hr/mL.  Additionally, because rats at 300 mg/kg in the 28-day GLP repeat-dose toxicology 
+study were terminated early, animal to human exposure multiples for the 300 mg/kg group 
+were calculated using Day 1 exposure data.  
+ 
+The Applicant evaluated the safety of adagrasib in GLP-compliant 28-day and 13-week repeat-
+dose toxicology studies in Sprague-Dawley rats and Beagle dogs, using the intended oral route 
+of administration. In the 28-day toxicology study in rats, unexpected mortalities at the 300 
+mg/kg daily dose (approximately 1.5 times the human AUC at the recommended dose) resulted 
+in early termination of dosing on Day 22. Consistent with clinical experience, dogs exposed to 
+≥10 mg/kg daily experienced vomiting and decreased appetite. In the 13-week toxicology study, 
+significant weight loss in the canine 25 mg/kg group led to a dose holiday on Day 20, with dose 
+reduction beginning on Day 24 at 15 mg/kg daily. In both rats and dogs, the target organs were 
+heart, lungs, adrenal gland, kidney, and liver. Toxicology studies of up to 13 weeks duration in 
+both species revealed microscopic findings of macrophage infiltration and vacuolation in 
+several tissues, suggestive of phospholipidosis, which was considered adverse in the 28-day 
+study in rats at the 300 mg/kg dose (approximately 1.5 times the human AUC at the 
+recommended dose) due to deaths. Conversely, phospholipidosis was not considered adverse 
+in rats at lower dose levels (≤150 mg/kg, approximately 2.2 times the human AUC at the 
+recommended dose), even following the extended exposure time of 13 weeks (approximately 
+4.8 times the human AUC at the recommended dose) due to the absence of correlative adverse 
+findings.  Most of the findings in each toxicology study were reversible. Although the 
+Reference ID: 5092534
+
+
+===== PAGE 44 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+43 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+finding study (not reviewed). These toxicities may result from the 2 to 3-fold bioaccumulation 
+of adagrasib in the male reproductive tissues of rats and dogs, as characterized in the ADME 
+studies. Prostate and seminal vesicle findings were not present in the 13-week toxicology 
+studies with lower doses of adagrasib, in which rats received 150 mg/kg of adagrasib once daily 
+(approximately 5 times the human AUC at the recommended dose) or dogs that received 25 
+mg/kg for 23 days and 15 mg/kg from Days 24-91 (approximately 0.7 times the human AUC at 
+the recommended dose). Although the exposure multiple from rats in the 13-week study at the 
+150 mg/kg dose appears higher than that from male rats in the 28-day study at the 300 mg/kg 
+dose (5 versus 1.6 times the human AUC at the recommended dose), the latter is based on 
+animal exposure data from Day 1, and therefore likely represents an underestimate of the 
+actual exposure multiple.  
+ 
+Female reproductive toxicities were also observed in toxicology studies. In a repeat-dose 
+toxicology study of up to 13 weeks in duration conducted in rats, adagrasib induced mild 
+ovarian macrophage vacuolation in female rats at 150 mg/kg (approximately 5 times the human 
+AUC at the recommended dose), which resolved upon recovery. Female reproductive toxicities 
+observed in the 28-day toxicology study included moderate microvesicular vacuolation of the 
+uterus and vagina at 300 mg/kg (approximately 1.3 times the human AUC at the recommended 
+dose), and mild mucification and mucosal atrophy of the vagina at dose levels ≥ 150 mg/kg 
+(approximately 1.1 times the human AUC at the recommended dose). The Day 1 AUC from the 
+300 mg/kg group was used for exposure comparison in the absence of available AUC data from 
+the high-dose group on Day 28. Exposure margins provide an estimate in context of safety, so 
+the exposure multiple reflects the worst-case scenario here. Altogether, the totality of the 
+animal data indicates that adagrasib may potentially impair fertility, and this information was 
+included in Section 8.3 and 13.1 of the label.  
+ 
+Recommendation: 
+There are no outstanding issues from a pharmacology/ toxicology perspective that would 
+prevent the approval of adagrasib.  
+ 
+ Referenced NDAs, BLAs, DMFs 
+The Applicant’s Position: 
+There are no referenced new drug applications (NDAs), biologics license applications (BLAs), or 
+drug master files (DMFs) related to nonclinical pharmacology or toxicology for adagrasib. 
+ Pharmacology 
+Primary pharmacology 
+Reference ID: 5092534
+
+
+===== PAGE 51 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+50 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+The relationship of plasma concentration of adagrasib to anti-tumor efficacy over a variety of 
+dose levels and administration schedules was evaluated with particular emphasis on 
+determining plasma exposure and pharmacokinetic (PK) parameters that correlated with the 
+observed anti-tumor efficacy. The analysis of time-plasma concentration curves and associated 
+anti-tumor efficacy indicated that AUC and average plasma concentration (Cave) were closely 
+correlated with the extent of anti-tumor efficacy compared with maximum plasma 
+concentration (Cmax) or minimum plasma concentration (Cmin). This determination was based on 
+the mean plasma concentrations measured in efficacy studies where adagrasib was delivered 
+subcutaneously via osmotic pump resulting in constant plasma concentration at steady state, as 
+well as the evaluation of PK parameters determined from efficacy studies dosed orally daily 
+(QD) and twice daily (BID). These studies demonstrated that the mean plasma concentrations 
+associated with moderate tumor regression in the drug pump studies were most closely 
+correlated to the area under the concentration-time curve (AUC) and Cave for dose levels that 
+resulted in the same degree of anti-tumor activity in the orally dosed efficacy studies (PH-
+MRTX849-011, PH-MRTX849-022). Cave values from efficacy studies using QD and BID schedules 
+at the same daily total dose also demonstrated good correlation with efficacy 
+(PH-MRTX849-022). Based on this analysis, the following PK results were selected to aid in 
+modeling of human efficacious target plasma exposure levels and to understand therapeutic 
+index across nonclinical species: (1) the lowest AUC24 or Cave values observed with significant 
+tumor regression at the end of compound administration, (2) the AUC24 or Cave observed with 
+maximal tumor regression in the most sensitive pharmacology xenograft model and/or, (3) the 
+AUC24 or Cave required to maximally inhibit the least sensitive xenograft model in the cohort 
+tested. In this analysis, 10 mg/kg QD was the lowest dose level that elicited regression in all 
+animals treated at the end of the dosing period in the MIA PaCa-2 model. At 10 mg/kg QD, the 
+calculated AUC24 was 6970 ng*h/mL and an estimated human Cave of 171 ng/mL, which 
+therefore represents the minimum exposure required to achieve significant regression in 
+nonclinical models (PH-MRTX849-011) (Applicant Table 6). The 30 mg/kg QD dose level 
+demonstrated maximum regression in the MIA PaCa-2 model and exhibited an AUC24 of 
+24300 ng*h/mL and an estimated human Cave of 596 ng/mL (PH-MRTX849-011). The 100 mg/kg 
+QD dose level demonstrated a maximum response in the HCC44 xenograft model and was 
+associated with an AUC24 of 63000 ng*h/mL and an estimated human Cave of 1544 ng/mL (PH-
+MRTX849-014). Plasma AUC24 values across this range were roughly dose proportional and 
+dose-normalized AUC24 values were within ~20%. 
+It is notable that some models exhibited complete responses to adagrasib administration at the 
+30 mg/kg dose level and that other models exhibited maximal responses at the 100 mg/kg dose 
+level (consistent with a human projected Cave of 1544 ng/mL) and that these models exhibited a 
+submaximal response at the 30 mg/kg dose level (consistent with defining a human target Cave 
+exceeding 1544 ng/mL). In addition, some nonclinical models (e.g., KYSE410) did not exhibit a 
+maximal response at 100 mg/kg QD and increased antitumor activity was observed at a 
+200 mg/kg dose level. The differences in dose levels and plasma exposures required to elicit a 
+Reference ID: 5092534
+
+
+===== PAGE 57 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+56 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+blood cells in preclinical species (1.1 to 1.7) compared to human (0.7) (PK-MRTX849-018). In vivo in rats, the 
+mean blood-to-plasma concentration ratio of [14C]-MRTX849-related radioactivity was approximately 1 up to 24 
+hours post-dose but increased to greater than 2 after 24 hours, suggesting radioactivity had a slower rate of 
+elimination from the cellular fraction of blood compared with that in plasma (PK-MRTX849-029). The Vss ranged 
+from 2 to 21 L/kg across species, indicating that adagrasib was extensively distributed to tissues (PK-MRTX849-
+001, PK-MRTX849-026, PK-MRTX849-003, and PK-MRTX849-038). Organ distribution data from the [14C]-
+adagrasib study in rats indicate that [14C]-MRTX849-derived radioactivity was extensively distributed to most 
+tissues. Test article-derived radioactivity had an affinity for melanin in the pigmented rat, especially ocular 
+melanin (PK-MRTX849-029). Distribution to the brain was evaluated in mice and CSF concentration data indicate 
+adagrasib CNS exposure after a single oral dose of 100 mg/kg and 200 mg/kg adagrasib to mice (PK-MRTX849-
+037). 
+Metabolism 
+Adagrasib was subjected to extensive metabolism in animals and humans. There were no unique human 
+metabolites. The 2 circulating human metabolites, M68 and M11, which each accounted for >10% of drug-
+related materials, were present in rat and dog species used for safety testing (PK-MRTX849-039). Both M68 and 
+M11 do not contribute significantly to the pharmacological activity of adagrasib (PH-MRTX849-015 and PH-
+MRTX849-024). CYP3A4 mediated the majority of oxidative metabolism, with calculated fraction metabolized 
+72% (PK-MRTX849-008), however, other CYP enzymes such as CYP2C8, CYP2D6, CYP2J2, and CYP3A5 are also 
+involved in the formation of human oxidative metabolites PK-MRTX849-039). 
+Excretion 
+Adagrasib clearance after IV dosing ranged from low to high across pre-clinical species (approximately 20, 44, 
+30, and 37 mL/min/kg in mice, rats, dogs, and monkeys, respectively. The half-life was moderate (1.5 to 8 hours) 
+(PK-MRTX849-001, PK-MRTX849-026, PK-MRTX849-003, and PK-MRTX849-038). Elimination of adagrasib was 
+primarily by hepatic metabolism and fecal excretion in rats and the urinary and biliary excretion of adagrasib 
+were low (PK-MRTX849-024 and PK-MRTX849-029). The preponderance of metabolites in bile and the 
+attenuated excretion of metabolites in feces in BDC rats compared with intact rats indicates that the majority of 
+[14C]-MRTX849-derived metabolites were eliminated by biliary secretion (PK-MRTX849-029). 
+Drug-Drug Interactions 
+In vitro evaluations of adagrasib as substrate of drug transporters indicate that adagrasib is a substrate of P-gp 
+and BCRP (PK-MRTX849-012, PK-MRTX849-015, and PK-MRTX849-040).  The DDI risk assessments for adagrasib 
+as an inhibitor or inducer of CYP enzymes or drug transporters were performed using in vitro DDI data (PK-
+MRTX849-013, PK-MRTX849-014, PK-MRTX849-021, PK-MRTX849-030, and PK-MRTX849-035) and anticipated 
+adagrasib clinical dose and steady-state exposure and the current regulatory guidance (FDA, 2020). Adagrasib 
+clinical dose of 600 mg BID has the potential to inhibit CYP2B6, CYP2C9, CYP2D6, and CYP3A4 and to induce 
+CYP3A4. Adagrasib is also a time-dependent inhibitor of CYP3A4. Adagrasib also has the potential to inhibit drug 
+transporters P-gp, BCRP, and MATE1. 
+Abbreviations: AGP = α1-acid glycoprotein; BCRP = breast cancer resistance protein; BDC = bile duct annulated; BID 
+= twice daily; CNS = central nervous system; CSF = cerebrospinal fluid; CYP = cytochrome P450; DDI = drug-drug 
+interaction; HSA = human serum albumin; IV = intravenous; MATE1 = multi-antimicrobial extrusion protein-1; P-gp 
+= P-glycoprotein; QD = once daily; tmax = time to maximum plasma concentration; Vss = apparent volume of 
+distribution at steady state 
+ 
+The FDA’s Assessment: 
+The FDA generally agrees with the Applicant’s summaries of the nonclinical ADME/PK data. See 
+the FDA’s additional noteworthy results and comments below. Dr. Elizabeth Spehalski reviewed 
+some of the pharmacokinetics studies for adagrasib under the original IND submission. See 
+Reference ID: 5092534
+
+
+===== PAGE 59 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+58 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+spectrometry in both species. M68 was less abundant in rats and 
+dogs than in humans. While it was detected by mass spectroscopy 
+analysis in rats and dogs, it was not in sufficient abundance to be 
+detected by ultraviolet (UV) analysis.  Conversely, the abundance 
+of M11 was nearly identical in rat and steady-state human plasma, 
+with UV areas of 2.88 and 2.66 absorbance units, respectively. 
+ 
+Based on the proposed metabolic scheme for adagrasib in 
+humans: 
+• 
+Metabolite M11 is formed via oxidation and dehydrogenation 
+of adagrasib 
+• 
+Metabolite M57 is formed via amide hydrolysis or oxidative N-
+dealkylation of adagrasib 
+• 
+Metabolite M68 is formed via amide hydrolysis or oxidative N-
+dealkylation of M11 or oxidation and dehydrogenation of M57 
+Excretion 
+Absorption, Distribution, Metabolism, and 
+Excretion of 14C-MRTX849 After a Single 
+Oral Dose to Rats/ PK-MRTX849-029 
+• 
+Most radioactivity from 14C-adagrasib study was eliminated by 
+72 hours post-dose in rats. 
+TK data from general toxicology studies 
+A 13-Week Study of MRTX849 by Oral 
+Gavage in Rats with a 28-Day Recovery 
+Period (Study # TX-MRTX849-12) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rat 
+T1/2: Not calculated; Tmax:1-8 hours 
+Dose proportionality: Cmax and AUCtlast increased greater than dose-
+proportionately at doses ≥ 10 mg/kg on Days 1 and 91 in males 
+and females. 
+Accumulation:  ~3-fold in males and up to 3.5-fold in females. 
+Sex differences: Generally comparable at doses ≥ 30 mg/kg but ~2 
+to 3-fold higher in females at 10 mg/kg on Days 1 and 91. 
+ 
+Day 
+ 
+Dose 
+(mg/kg) 
+Cmax  
+(ng/mL) 
+AUCtlast* 
+(ng·hr/mL) 
+Tmax 
+(hr) 
+M 
+F 
+M 
+F 
+M 
+F 
+1 
+10 
+70.5 
+101 
+385 
+1240 
+4 
+4 
+30 
+257 
+443 
+2990 
+4580 
+4 
+1 
+150 
+2460 
+2460 
+40200 
+40400 
+8 
+8 
+91 
+10 
+105 
+147 
+1050 
+1760 
+4 
+2 
+30 
+725 
+783 
+8460 
+9820 
+2 
+2 
+150 
+5590 
+7100 
+128000 
+141000 
+8 
+4 
+Hr = hours; *AUCtlast = summation under the curve generated by plasma 
+analyte concentration versus sampling time of last plasma analyte 
+concentration (24 hours). 
+A 13-Week Study of MRTX849 by Oral 
+Gavage in Dogs with a 28-Day Recovery 
+Period (Study # TX-MRTX849-13) 
+Dog 
+T1/2: Not calculated; Tmax: 2-4 hours 
+Dose proportionality: On Day 1, exposures increased mostly dose-
+proportionately. On Day 89, exposure increased greater than dose-
+proportionately from 5 to 10 mg/kg, dose-proportionately in males 
+but less than dose-proportionately in females. 
+Accumulation: Observed 2 to 3.5-fold in males and females at 5 
+and 10 mg/kg on Day 89 compared to Day 1. 
+Reference ID: 5092534
+
+
+===== PAGE 60 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+59 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Sex differences: Females exhibited <2-fold lower exposures at the 
+15 mg/kg dose on Day 89. 
+ 
+Day 
+ 
+Dose 
+(mg/kg) 
+Cmax  
+(ng/mL) 
+AUCtlast* 
+(ng·hr/mL) 
+Tmax 
+(hr) 
+M 
+F 
+M 
+F 
+M 
+F 
+1 
+5 
+119 
+126 
+1720 
+1950 
+4 
+2.5 
+10 
+290 
+296 
+4140 
+4150 
+2 
+4 
+25/15a 
+570 
+546 
+8500 
+8940 
+2 
+3 
+89 
+5 
+241 
+305 
+3840 
+4360 
+3 
+3 
+10 
+740 
+830 
+13000 
+12500 
+4 
+3 
+25/15a 
+1140 
+894 
+20400 
+15000 
+4 
+2 
+Hr = hours; a, Dose was reduced from 25 to 15 mg/kg on Day 24, following 
+a 3-day dosing holiday due to toxicity; *AUCtlast = summation under the 
+curve generated by plasma analyte concentration versus sampling time of 
+last plasma analyte concentration (24 hours). 
+TK data from reproductive toxicology 
+studies 
+An Oral (Gavage) Study of the Effects of 
+MRTX849 on Embryo/Fetal Development 
+in Rabbits (Study # TX-MRTX849-021) 
+ 
+ 
+ 
+Rabbit 
+T1/2: Not calculated; Tmax: 1-4 hours 
+Dose proportionality: Cmax and AUCtlast increased 30- and 16-fold or 
+31- and 25-fold greater, respectively, than dose proportionately 
+between 6 and 30 mg/kg on GD 7 and 21 
+Accumulation: 3 to 4-fold at all dose levels on GD 21 compared to 
+GD 7 
+ 
+Plasma concentrations in all samples from vehicle animals or from 
+treated groups prior to dose administration on GD 7 were below 
+the limit of quantitation 
+Gest
+ation 
+Day 
+ 
+Dose 
+(mg/kg) 
+Cmax 
+(ng/mL) 
+AUCtlast* 
+(ng·hr/mL) 
+Tmax 
+(hr) 
+7 
+6 
+6.34 
+35.0 
+4 
+15 
+27.7 
+157 
+4 
+30 
+189 
+1080 
+4 
+20 
+6 
+22.5 
+127 
+1 
+15 
+99.5 
+649 
+1 
+30 
+351 
+3210 
+4 
+Hr = hours; *AUCtlast = summation under the curve generated by plasma 
+analyte concentration versus sampling time of last plasma analyte 
+concentration (24 hours). 
+ 
+ 
+ Toxicology   
+ 
+General Toxicology 
+The Applicant’s Position: 
+Reference ID: 5092534
+
+
+===== PAGE 89 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+88 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+ Summary of Clinical Pharmacology Assessment  
+ 
+Pharmacology and Clinical Pharmacokinetics 
+Data:  
+Presented data are based on the adagrasib capsules (unless otherwise stated). 
+Clinical pharmacokinetics: Adagrasib exposure increased more than proportionally with single 
+oral doses from 150 mg to 600 mg in patients and healthy subjects (Studies 849-001, 849-006).  
+Following repeat dosing of 600 twice daily in patients, adagrasib steady-state was reached 
+within 8 days of dosing and adagrasib accumulated approximately 6-fold relative to a single 
+dose. Daily fluctuations in adagrasib plasma concentrations are low, with a mean peak-to-
+trough ratio (PTR) at steady state of 1.07. 
+Absorption: Following oral administration, the median time to maximum plasma concentration 
+(tmax) of adagrasib was approximately 6 to 8 hours (Studies 849-001, 849-006, 849-011, 
+849-015). Food (high-fat, high-calorie) intake had no clinically meaningful effect on the 
+exposure of the tablet formulation (Module 2.7.1). 
+Distribution: Adagrasib is highly bound to human plasma proteins with estimated percentage 
+bound of approximately 98-99%. The blood-to-plasma ratio is approximately 0.877 (Study 849-
+005). The geometric  mean apparent volume of distribution (Vz/F) is 942 L (Study 849-006), 
+suggesting extensive tissue distribution. 
+Elimination: The arithmetic mean terminal elimination half-life (t1/2) in patients is 23 hours 
+(Study 849-001). The geometric mean apparent oral clearance (CL/F) is 36.5 L/h (849-006). 
+Metabolism: Adagrasib is extensively metabolized in humans and does not form any major 
+active metabolites. CYP3A4 mediates the majority of oxidative metabolism, with the estimated 
+fraction of drug metabolized between 72% and 83%. 
+Excretion: Following a single oral dose of [14C]-adagrasib in healthy subjects (Study 849-005), 
+the mean cumulative recovery of total radioactivity was approximately 79.2%. Fecal excretion 
+was the predominant route of elimination, accounting for 74.7% of the administered [14C]-
+adagrasib, with urine accounting for 4.5%. Only 1.8% of the administered dose was excreted in 
+urine as unchanged adagrasib, indicating negligible renal clearance (CLR) for adagrasib. 
+The Applicant’s Position: 
+Adagrasib PK properties have been adequately characterized in patients and healthy subjects. 
+The recommended dosing regimen of 600 mg twice daily resulted in a low PTR at steady state. 
+ 
+The FDA’s Assessment: 
+Reference ID: 5092534
+
+
+===== PAGE 92 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+91 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Following a single oral dose of adagrasib 600 mg in healthy and non-cancer subjects, no 
+clinically meaningful difference in adagrasib exposure was observed between subjects with 
+normal renal function (creatinine clearance [CLCR] ≥ 90 mL/min) and subjects with mild (CLCR 60 
+to < 90 mL/min), moderate (CLCR 30 to < 60 mL/min), or severe (CLCR < 30 mL/min) renal 
+impairment (Study 849-004). 
+The influence of demographic and clinical characteristic factors on the PK of adagrasib were 
+investigated using population PK (Module 2.7.2). No clinically meaningful differences in the PK 
+of adagrasib were observed based on age (19 to 89 years), sex, race (White, Black and Asian), 
+body weight (36 to 139 kg), Eastern Cooperative Oncology Group (ECOG) Performance Status 
+(PS) (0, 1), baseline tumor burden, mild and moderate renal impairment (CLCR or estimated 
+glomerular filtration rate [eGFR] ≥30 mL/min), or mild hepatic impairment (National Cancer 
+Institute-Organ Dysfunction Working Group [NCI-ODWG] criteria).   
+A high-fat and high-calorie meal increased adagrasib Cmax and AUC using the planned tablet 
+commercial formulation by approximately 20% and 38%, respectively, compared to fasted 
+conditions following a single 600 mg oral dose of adagrasib in healthy subjects (Study 849-011). 
+The increase in exposure to adagrasib in the fed state is not considered clinically significant 
+(Module 2.7.1). 
+Results from the clinical DDI Study 849-006, physiologically-based PK (PBPK) modeling, and 
+population PK analysis (Module 2.7.2) show the following: 
+• Co-administration of multiple doses of pantoprazole, a proton-pump inhibitor, with a 
+single 600 mg dose of adagrasib decreased adagrasib Cmax and AUC by approximately 
+38% and 32%, respectively, in healthy subjects (Study 849-006). Population PK analysis 
+showed that H2 receptor antagonists and antacids (with staggered dosing) were not the 
+covariates, suggesting that these agents did not have a significant effect on adagrasib PK 
+(Module 2.7.2). 
+• Co-administration of multiple doses of itraconazole 200 mg QD (a strong cytochrome 
+P450 (CYP) 3A4 inhibitor) with a single 200 mg dose of adagrasib increased adagrasib 
+Cmax and AUC by approximately 2.4-fold and 4-fold, respectively in healthy subjects 
+(Study 849-006). However, co-administration of multiple doses of itraconazole 200 mg 
+once daily with multiple doses of adagrasib (600 mg twice daily) in patients is predicted 
+to have a negligible effect on adagrasib steady-state exposure (Module 2.7.2). The lack 
+of itraconazole effect on adagrasib steady-state exposure is due to the extent of auto-
+inhibition by adagrasib at 600 mg twice daily steady state, thus the majority of CYP3A4-
+mediated intrinsic clearance (CLint) is already inhibited by adagrasib (Module 2.7.2). 
+• Co-administration of multiple doses of rifampin 600 mg QD (a strong CYP3A4 inducer) 
+with a single 600 mg dose of adagrasib decreased adagrasib Cmax by 88% and AUC by 
+Reference ID: 5092534
+
+
+===== PAGE 95 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+94 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+relative to a single dose. Daily fluctuations in adagrasib plasma concentrations are low, 
+with a mean PTR at steady state of 1.07 (Study 849-001 Phase 1/1b). 
+• Adagrasib exhibits moderate between-subject PK variability.  The between-subject 
+variability in healthy subjects were estimated at 29% to 58% for AUC and Cmax (Studies 
+849-006, 849-011, 849-015). The between-subject variability in patients were estimated 
+at approximately 51% to 52% for AUCtau,ss and Cmax,ss for 600 mg twice daily (Module 
+2.7.2). 
+Absorption 
+Following oral administration, the median tmax of adagrasib was approximately 6 to 8 hours.   
+Food (high-fat, high-calorie meal) intake increased adagrasib tablet Cmax and AUC by 
+approximately 20% and 38%, respectively, compared to fasting conditions (Study 849-011). The 
+effect of food on the systemic exposure of adagrasib tablet is not considered clinically 
+meaningful in consideration of the relative bioavailability of the tablet formulation (the tablet 
+formulation under fed conditions is expected to result in a similar Cmax and 22% higher AUC 
+compared to the capsule formulation under fasted conditions), and a lower between-subject 
+variability in adagrasib tablet exposure under fed conditions (~24% to 30%) compared to fasted 
+conditions (~45% to 57%), indicating that food did not increase PK variability of the tablet 
+formulation. 
+Distribution 
+• Adagrasib is highly bound to human plasma proteins with estimated percentage bound 
+of approximately 98% to 99% (PK-MRTX849-016, Study 849-004). 
+• The geometric mean Vz/F is 942 L (Study 849-006), suggesting extensive tissue 
+distribution. 
+• There is no evidence of preferential binding of drug-related product to blood cells.  
+Following a single oral dose of 600 mg containing approximately 1 μCi of [14C]-MRTX849, 
+the geometric mean whole blood/plasma AUC∞ ratio for total radioactivity was 
+approximately 0.877 (Study 849-005). 
+Elimination 
+• The arithmetic mean t1/2 in patients is 23 hours (Study 849-001, Phase 1/1b). The 
+geometric mean CL/F is 36.5 L/h (Study 849-006). 
+• Metabolism: Adagrasib is extensively metabolized in humans and does not form any 
+major active metabolite. CYP3A4 mediates the majority of oxidative metabolism based 
+Reference ID: 5092534
+
+
+===== PAGE 98 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+97 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Perpetrators 
+Adagrasib dose 
+N 
+Source 
+Effect on Adagrasib 
+Cmax 
+AUC∞ or AUCt 
+Fluconazole 200 mg 
+QD – Moderate 
+CYP3A4 inhibitor 
+(competitive) 
+600 mg BID 
+250 
+PBPK modeling 
+1.06-fold 
+increase 
+1.07-fold 
+increase 
+Verapamil 80 mg TID - 
+Moderate CYP3A4 
+inhibitor (MBI) 
+600 mg BID 
+250 
+PBPK modeling 
+1.01-fold 
+increase 
+1.01-fold 
+increase 
+Cimetidine 400 mg TID 
+– Weak CYP3A4 
+inhibitor 
+600 mg BID 
+250 
+PBPK modeling 
+1.01-fold 
+increase 
+1.02-fold 
+increase 
+CYP3A4 inducers 
+Rifampin 600 mg QD – 
+Strong CYP3A4 
+inducer 
+600 mg single dose 
+12 
+Observed 
+88% reduction 
+95% reduction 
+Rifampin 600 mg QD – 
+Strong CYP3A4 
+inducer 
+600 mg BID 
+250 
+PBPK modeling 
+61% reduction 
+66% reduction 
+Efavirenz 600 mg QD - 
+Moderate CYP3A4 
+inducer 
+600 mg BID 
+250 
+PBPK modeling 
+23% reduction 
+25% reduction 
+Abbreviations: BID = twice daily; CYP = cytochrome P450; PBPK = physiologically-based pharmacokinetic; QD = 
+once daily; TID = three times daily 
+Source: Observed (Study 849-006 Clinical Study Report [CSR]); PBPK modeling (Module 2.7.2)  
+ 
+Applicant Table 11: Effect of Adagrasib on Exposure of The Oral Probe Substrates of CYPs 
+and Drug Transporters 
+Oral probe substrate 
+Adagrasib Dose 
+N 
+Source 
+Effect on oral probe substrate 
+Cmax 
+AUClast or 
+AUC∞ 
+Midazolam 2 mg 
+single dose – CYP3A4 
+probe substrate 
+400 mg BID 
+12-13 
+Observed 
+4.81-fold 
+increase 
+20.5-fold 
+increase 
+Midazolam 5 mg 
+single dose – CYP3A4 
+probe substrate 
+600 mg BID 
+250 
+PBPK modeling 
+3.10-fold 
+increase 
+31.4-fold 
+increase 
+Warfarin 10 mg single 
+dose – CYP2C9 probe 
+substrate 
+600 mg single dose 
+5 
+Observed 
+1.32-fold 
+increase 
+1.62-fold 
+increase 
+Reference ID: 5092534
+
+
+===== PAGE 229 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+230 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Applicant Table 40: Parameter Estimates and SE from Final Population PK Model 
+Parameter 
+Estimate (RSE) 
+BSV (RSE) 
+Shrinkage 
+Ka (h-1) 
+0.399 (14.3%) 
+103 (13.4%) 
+33.9% 
+D1 (h) 
+2.96 (8.44) 
+4.2 (11.7%) 
+49.1% 
+CL/F (L/h) 
+35.9 (4.18%) 
+× (BW/76.6)0.661 (18.7%) 
+× 0.720 for ≥7 doses of adagrasib (1.37%) 
+57.5% (4.03%) 
+5.2% 
+Vc/F (L) 
+776 (7.41%) 
+× (BW/76.6)1.30 (9.42%) 
+64.8% (9.69%) 
+19.8% 
+Q/F (L/h) 
+21.4 (30.6%) 
+× (BW/76.6)0.661 (18.7%) 
+NE a 
+NE a 
+Vp/F (L) 
+208 (14.8%) 
+× (BW/76.6)1.30 (9.42%) 
+NE a 
+NE a 
+Error Model  
+ 
+ 
+ 
+Proportional (%) 
+0.276 (0.719%) 
+NA 
+NA 
+Additive (ng/mL) 
+0.478 (43.0%) 
+NA 
+NA 
+Abbreviations: BSV = between-subject variability; CL/F = apparent clearance; D1 = duration of zero-order absorption; ka = first-
+order rate constant of absorption; NA = not applicable; NE = not estimated; Q/F = clearance of distribution; RSE = relative standard 
+error; Vc/F = apparent volume of distribution of the central compartment; Vp/F = apparent peripheral volume of distribution.  
+Note:  Population PK parameters are given for a typical 76.6-kg subject (the allometric model was centered for a body weight of 
+76.6 kg, which corresponded to the median body weight in the interim analysis)  
+a BSV (RSE) and shrinkage could not be estimated for peripheral parameters (Q/F and Vp/F)  
+ 
+Reference ID: 5092534
+
+
+===== PAGE 247 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+248 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Applicant Table 48: Parameter Estimates from Final ER Model of (endpoint) 
+Model 
+Term 
+Estimate 
+SE 
+Statistic 
+p.Value 
+Conf.Low 
+Conf.High 
+Any Grade ≥3 
+Adverse Events 
+vs Cmax,ss 
+(Intercept) 
+1.303928 
+0.449358 
+2.901757 
+0.003711 
+0.366531 
+2.14493 
+Exposure 
+slope 
+7.00E-05 
+0.000185 
+0.377565 
+0.705754 
+-0.00024 
+0.000499 
+Diarrhea vs 
+Cmax,ss 
+(Intercept) 
+0.772724 
+0.381765 
+2.024082 
+0.042962 
+-0.02109 
+1.499836 
+Exposure 
+slope 
+6.17E-05 
+0.000155 
+0.398604 
+0.690185 
+-0.00022 
+0.00041 
+Nausea vs 
+Cmax,ss 
+(Intercept) 
+0.94694 
+0.375711 
+2.520397 
+0.011722 
+0.16989 
+1.67633 
+Exposure 
+slope 
+1.56E-05 
+0.000148 
+0.105297 
+0.91614 
+-0.00026 
+0.00035 
+Vomiting vs 
+Cmax,ss 
+(Intercept) 
+0.333683 
+0.336242 
+0.992389 
+0.321008 
+-0.34816 
+1.002931 
+Exposure 
+slope 
+1.28E-06 
+0.000131 
+0.009746 
+0.992224 
+-0.00026 
+0.000281 
+ALT > 3 x ULN 
+vs Cmax,Week1-3 
+(Intercept) 
+-1.52432 
+0.59972 
+-2.54172 
+0.011031 
+-2.63916 
+-0.31087 
+Exposure 
+slope 
+-0.00013 
+0.000219 
+-0.575 
+0.56529 
+-0.00061 
+0.000236 
+AST > 3 x ULN 
+vs Cmax,Week1-3 
+(Intercept) 
+-0.98328 
+0.633819 
+-1.55136 
+0.120815 
+-2.18592 
+0.269813 
+Exposure 
+slope 
+-0.00033 
+0.000252 
+-1.29293 
+0.196036 
+-0.00086 
+0.000106 
+Lipase > 3 x 
+ULN vs Cmax,ss 
+(Intercept) 
+-1.54872 
+0.631734 
+-2.45155 
+0.014224 
+-2.69879 
+-0.27704 
+Exposure 
+slope 
+-0.00025 
+0.000294 
+-0.84124 
+0.400215 
+-0.00091 
+0.000206 
+Hyponatremia 
+vs Cmax,ss 
+(Intercept) 
+-0.77078 
+0.491228 
+-1.56909 
+0.116628 
+-1.6777 
+0.222785 
+Exposure 
+slope 
+-0.00026 
+0.000225 
+-1.16675 
+0.24331 
+-0.00075 
+0.000111 
+Conf.High = upper limit of 95% confidence interval; Conf.Low = lower limit of 95% confidence interval; SE = 
+standard error. 
+ 
+ 
+Reference ID: 5092534
+
+
+===== PAGE 255 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+256 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+• Cave,ss: The average concentration of adagrasib was derived after each dose from Week 
+2 until the final dose and averaged in each subject 
+• For ALT > 3 x ULN and AST > 3 x ULN, the maximum and average concentrations from 
+Weeks 1 to 3 were used to assess exposure-response relationships (Cmax,Week1-3 and 
+Cave,Week1-3) as the median onset time to AST and ALT elevations was approximately 3 
+weeks after dosing.  
+Given the high rate of dose interruption and modification during the treatment period, these 
+exposure metrics are likely confounded by dose changes (mainly due to AEs) for each individual 
+during the treatment. Therefore, the reviewer conducted E-R analyses for the safety variables 
+using the exposure metrics (Cmax,ss, and Cavg,ss) derived based on the initial dose (600 mg 
+BID) before any dose modification and interruptions. Similar to those performed by Applicant, a 
+univariate logistic regression was performed with the AEs as binary response variables and the 
+exposure metrics as the continuous explanatory variable. No statistically significant E-R 
+relationships were observed for the safety variables at the dose level of 600 mg BID (Table 35).  
+ 
+Table 49. Univariate logistic regression for safety variables with Cmax,ss and Cavg,ss derived 
+based on initial dose (600 mg BID) 
+Exposures 
+Estimate 
+Pr(>|z|) 
+Exposures 
+Estimate 
+Pr(>|z|) 
+Any Grade ≥3 
+AEs 
+(Intercept) 
+4.80E-01 
+0.44 
+(Intercept) 
+3.96E-01 
+0.53 
+Cmax,ss 
+3.92E-04 
+0.11 
+Cavg,ss 
+4.57E-04 
+0.09 
+Diarrhea 
+(Intercept) 
+7.39E-01 
+0.09 
+(Intercept) 
+7.91E-01 
+0.07 
+Cmax,ss 
+6.31E-05 
+0.68 
+Cavg,ss 
+4.60E-05 
+0.77 
+Nausea 
+(Intercept) 
+9.50E-01 
+0.03 
+(Intercept) 
+9.45E-01 
+0.03 
+Cmax,ss 
+1.14E-05 
+0.94 
+Cavg,ss 
+1.44E-05 
+0.92 
+Vomiting 
+(Intercept) 
+4.33E-01 
+0.26 
+(Intercept) 
+4.07E-01 
+0.29 
+Cmax,ss 
+-3.63E-05 
+0.78 
+Cavg,ss 
+-2.81E-05 
+0.84 
+ALT > 3x ULN 
+(Intercept) 
+-7.10E-01 
+0.31 
+(Intercept) 
+-6.17E-01 
+0.38 
+Cmax,ss 
+-4.38E-04 
+0.12 
+Cavg,ss 
+-5.10E-04 
+0.10 
+AST > 3x ULN  
+(Intercept) 
+-1.40E+00 
+0.03 
+(Intercept) 
+-1.33E+00 
+0.04 
+Cmax,ss 
+-1.73E-04 
+0.47 
+Cavg,ss 
+-2.16E-04 
+0.41 
+Lipase > 3 x 
+(Intercept) 
+-1.81E+00 
+0.01 
+(Intercept) 
+-1.80E+00 
+0.01 
+Cmax,ss 
+-9.36E-05 
+0.69 
+Cavg,ss 
+-1.03E-04 
+0.68 
+Hyponatrimia 
+(Intercept) 
+-7.74E-01 
+0.16 
+(Intercept) 
+-7.64E-01 
+0.16 
+Cmax,ss 
+-2.10E-04 
+0.30 
+Cavg,ss 
+-2.28E-04 
+0.30 
+Source: Reviewer’s Analysis. SE = standard error. 
+Reference ID: 5092534
+
+
+===== PAGE 260 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+261 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Adagrasib 
+Absorption was described using a first order absorption model with a lag time (tlag) of 0.5 h. The 
+fraction absorbed (fa) of 0.85 and absorption rate constant (ka) of 0.64 h-1 were predicted from 
+permeability data in Caco-2 cells (Table 48). 
+A minimal PBPK model, without a single-adjusting compartment, was used to simulate the 
+distribution phase of adagrasib PK profiles.  The volume of distribution at steady state (Vss) (7.91 
+L/kg) was predicted in Simcyp using method 3 (Membrane potential model). The fraction 
+unbound in plasma (fu) and blood and plasma ratio were 0.023 and 0.7, respectively (Table 48). 
+Adagrasib was primarily metabolized by CYP3A4 with minor contributions from CYP2C8, 1A2, 
+2B6, 2C9 and 2D6 following a single dose administration. Total CLint and fraction metabolized by 
+CYP3A4 and CYP2C8 were refined based on the total clearance (CL/F=47.9 L/h) reported in the 
+clinical PK study 849-005 and clinic DDI study results with itraconazole (Study 849-006), 
+respectively. An additional hepatic intrinsic clearance (additional HLM CLint) was assigned in the 
+model to represent the contribution of other CYP enzymes to the metabolism of adagrasib. 
+Following oral administration, the unchanged parent drug accounted for 1.8% and 14% of the 
+dose administered in urine (4.16% of total administered radioactivity) and feces (73.1% of total 
+administered radioactivity), respectively. Renal clearance of 0.8622 L/h was obtained from the 
+clinical PK study 849-005.  
+The in vitro inhibition constant (Ki) values of CYP2B6 (
+ μM) and MATE (
+ μM) were 
+incorporated in the adagrasib model to simulate the DDI between adagrasib and bupropion (a 
+CYP2B6 substrate) or adagrasib and metformin (a MATE-1/2K substrate). Sensitivity analyses 
+were conducted to evaluate the effect of a range of Ki values on the predicted DDI (Table 48).  
+The in vitro Ki values of CYP3A4 (8.2 μM) and KI (1.85 μM) and kinact (2.1 h-1) values for adagrasib 
+mediated time dependent inhibition of CYP3A4 were incorporated in the adagrasib model to 
+simulate the DDI between adagrasib and midazolam (a sensitive CYP3A4 substrate) (Table 48).  
+For CYP2C9, CYP2D6 and P-gp, the in vitro obtained Ki values were refined based on clinical DDI 
+study results with warfarin, dextromethorphan and digoxin, respectively (Study 849-006). The Ki 
+values of 0.32 μM, 0.66 μM and 0.018 μM for CYP2C9, CYP2D6 and P-gp were incorporated in 
+the final model for DDI evaluation, respectively (Table 48). 
+As the population PK analysis indicated that the adagrasib PK is similar between healthy subjects 
+and cancer patients (Population PK analysis report MIRAPMX-MRTX849-1556), the virtual 
+“healthy volunteer” population (Sim-NEurCaucasian) model was used as the basis to simulate the 
+adagrasib PK profiles in cancer patient. 
+ 
+Reference ID: 5092534
+(b) 
+(4)
+(b) (4)
+
+
+===== PAGE 267 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+268 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+following multiple dose administration of adagrasib (600 mg BID) in healthy subjects. The model 
+predicted a 31-fold increase in midazolam exposure when coadministered with adagrasib at 
+steady state (Table 50). 
+ 
+7. Can adagrasib PBPK model predict the effect of adagrasib on the PK of dextromethorphan (a 
+sensitive CYP2D6 substrate) and warfarin (a sensitive CYP2C9 substrate) following multiple 
+dose administration of adagrasib (600 mg BID) in healthy subjects? 
+Yes. The adagrasib model validated using clinical DDI data between dextromethorphan and 
+adagrasib (600 mg SD and 400 mg BID) and warfarin and adagrasib (600 mg SD and 400 mg BID) 
+was adequate to predict the effect of adagrasib on the PK of dextromethorphan (30 mg SD) and 
+warfarin (10 mg SD), respectively, following multiple dose administration of adagrasib (600 mg 
+BID) in healthy subjects. The model predicted AUC ratios were 2.37 and 2.93 for 
+dextromethorphan and warfarin, respectively, when coadministered with adagrasib at steady 
+state (Table 50). 
+8. Can adagrasib PBPK model predict the effect of adagrasib on the PK of digoxin (a P-gp 
+substrate) following multiple dose administration of adagrasib (600 mg BID) in healthy 
+subjects? 
+Yes. The adagrasib model validated using clinical DDI data between digoxin and adagrasib (600 
+mg SD and 400 mg BID) was adequate to predict the effect of adagrasib on the PK of digoxin (0.25 
+mg SD) following multiple dose administration of adagrasib (600 mg BID) in healthy subjects. The 
+model predicted a 1.86-fold and 1.48-fold increase in digoxin Cmax and AUC, respectively, when 
+coadministered with adagrasib at steady state (Table 50). 
+9. Can adagrasib PBPK model predict the effect of adagrasib on the PK of rosuvastatin (a 
+BCRP/OATP substrate) following multiple dose administration of adagrasib (600 mg BID) in 
+healthy subjects? 
+No. The adagrasib along with the rosuvastatin (substrate) models cannot capture the observed 
+clinical DDI study results between rosuvastatin and adagrasib (600 mg SD and 400 mg BID) and 
+cannot be used to predict the DDI between rosuvastatin and adagrasib (600 mg BID) (Table 
+51).  The modeling analysis showed that when inhibiting BCRP mediated efflux, the rosuvastatin 
+Cmax was 
+ AUC; and the magnitude of increase in Cmax is 
+ 
+ AUC when inhibiting the OATP mediated uptake. Based on the observed rosuvastatin 
+Cmax (1.06-fold) and AUC (1.25-fold) changes with adagrasib (400 mg BID), the observed 
+exposure change of rosuvastatin with adagrasib is unlikely driven by the inhibitory effect of 
+adagrasib towards BCRP/OATP. This analysis also provided supporting information that adagrasib 
+interaction with BCRP/OATP substrates is unlikely to be clinically relevant. 
+ 
+Reference ID: 5092534
+(b) (4)
+(b) (4)
+
+
+===== PAGE 270 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+271 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table 54 Comparison of observed and simulated adagrasib Cmax and AUCinf values in matched 
+healthy volunteers in Simcyp V18 and V21 following a single dose administration of 600 mg 
+adagrasib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sources: Simulated data were from applicant’s response to FDA’s information request dated 
+July 29, 2022, Table 2. Observed data were from Study 849-003. 
+ 
+Table 55 Observed and predicted relative changes in unbound fraction in plasma for adagrasib in 
+patients with HI to those in healthy subjects  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sources: Simulated data were from applicant’s response to FDA’s information request dated July 
+29, 2022, Table 2. Observed data were from Study 849-003. 
+ 
+2. CYP3A4 abundance in HI patients 
+A recent meta-analysis has shown a general tendency of PBPK analysis to over-predict drug 
+exposures in HI patients especially in moderate and severe HI using Simcyp V157. Simcyp 
+updated the hepatic impairment population files in Simcyp V21 based on recently published 
+ 
+7 Heimbach T, Chen Y, Chen J, Dixit V, Parrott N, Peters SA, Poggesi I, Sharma P, Snoeys J, Shebley M, Tai G, Tse S, Upreti VV, 
+Wang Y-H, Tsai A, Xia B, Zheng M, Zhu AZX, Hall S (2021). Physiologically-Based Pharmacokinetic Modeling in Renal and 
+Hepatic Impairment Populations: A Pharmaceutical Industry Perspective. Clin Pharmacol Ther 110(2):297-310. 
+ 
+Healthy Volunteers  
+(cohort Mild HI) 
+Healthy Volunteers  
+(cohort Moderate HI) 
+Healthy Volunteers  
+(cohort Severe HI) 
+ 
+Cmax 
+(ng/mL) 
+AUCinf 
+(ng*h/mL) 
+Cmax 
+(ng/mL) 
+AUCinf 
+(ng*h/mL) 
+Cmax 
+(ng/mL) 
+AUCinf 
+(ng*h/mL) 
+Observed* 
+389 
+10690 
+453 
+11820 
+443 
+12210 
+Simulated (V18) 
+369 
+8757 
+372 
+9847 
+424 
+10493 
+S/O (V18) 
+0.95 
+0.82 
+0.82 
+0.83 
+0.96 
+0.86 
+Simulated (V21) 
+345 
+7951 
+385 
+10064 
+400 
+9453 
+S/O (V21) 
+0.89 
+0.74 
+0.85 
+0.85 
+0.90 
+0.77 
+V21/V18 
+0.93 
+0.91 
+1.03 
+1.02 
+0.94 
+0.90 
+Population 
+Fraction of fu in healthy volunteers 
+Observed 
+Simulated 
+Sim/Obs 
+HV 
+1.00 
+1.00 
+-- 
+ Mild HI 
+1.24 
+1.27 
+0.98 
+Moderate HI 
+1.40 
+1.30 
+1.09 
+Severe HI 
+1.73 
+1.75 
+0.98 
+Reference ID: 5092534
+
+
+===== PAGE 272 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+273 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+ 
+Table 57 Simulated and observed geometric mean Cmax and AUC values and ratios for 
+pioglitazone in subjects with normal hepatic function and patients with moderate-to-severe 
+hepatic impairment (HI) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sources: simulated data were from Applicant’s response to FDA’s information request dated July 
+29, 2022, Table 1. Observed data: NDA 21-073 Clinical Pharmacology Review11 
+ 
+4. Additional clearance estimation through other enzymes in HI patients 
+The percentage decrease in additional HLM CLint values in HI patients was calculated based on 
+the average reduction of abundance for the other CYPs (CYP 1A2, 2B6, 2C9, 2D6 and 3A5) 
+involved in the metabolism of adagrasib. The fractional abundance of other enzymes in HI 
+patients relative to the healthy subjects was shown in Table 56. The average fraction of other 
+enzymes in patients with mild, moderate and severe HI relative to the healthy subjects was 0.88, 
+0.67 and 0.40, respectively. 
+Table 58 Hepatic CYP abundance in healthy subjects and hepatic impairment (HI) populations 
+(CP-A, CP-B, CP-C) and fraction of CYP abundance in HI populations relative to healthy subjects in 
+Simcyp V21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Source: Applicant’s response to FDA’s information request dated July 29, 2022, Table 13. 
+ 
+ 
+11 https://www.accessdata fda.gov/drugsatfda_docs/nda/99/021073A_Actos_clinphrmr_P2.pdf 
+ 
+Population 
+Simulated data 
+Observed data 
+Simulated/Observed 
+Cmax 
+ng/mL 
+AUCinf 
+ng*h/mL 
+Cmax 
+ng/mL 
+AUCinf 
+ng*h/mL 
+Cmax 
+ng/mL 
+AUCinf 
+ng*h/mL 
+HV 
+980 
+10933 
+888 
+7659 
+1.10 
+1.43 
+Moderate and Severe HI 
+813 
+10495 
+508 
+7333 
+1.60 
+1.43 
+Moderate and Severe HI 
+/ HV 
+0.830 
+0.960 
+0.572 
+0.957 
+1.45 
+1.00 
+Reference ID: 5092534
+
+
+===== PAGE 273 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+274 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+5. Adagrasib fraction absorbed optimization in HI patients 
+A first-order absorption model was applied to describe the oral absorption of adagrasib. It is 
+known that HI leads to not only deficiency in metabolism enzymes, but also alteration in drug 
+absorption by congestion and decrease in the blood flow in the intestinal mucosa12,13. Thus, the 
+fraction absorbed (fa) value of adagrasib in healthy subjects was optimized for patients with HI 
+based on the observed adagrasib plasma concentration data in patients with mild, moderate and 
+severe HI in Study 849-003. The Applicant’s optimized adagrasib fa values were 0.66, 0.45, and 
+0.34 in patients with mild, moderate and severe HI, respectively. Reviewer further optimized the 
+adagrasib fa values to better capture the observed AUC values and finally fa values of 0.72, 0.50 
+and 0.37 were applied in simulations in patients with mild, moderate and severe HI, respectively 
+(Table 57). The fa value in healthy subjects was also optimized to 1.00 to provide better 
+prediction. 
+Table 59 Observed and simulated adagrasib total Cmax and AUC ratios in hepatic impairment (HI) 
+patients relative to the subjects with normal hepatic function using Applicant’s model and FDA 
+reviewer’s refined model, following a single dose administration of 600 mg adagrasib. 
+ 
+Source: Observed data were from Study 849-003 
+ 
+Model application 
+The refined model of adagrasib in HI populations was applied to predict the impact of HI on the 
+steady-state PK of adagrasib following multiple-dose administration of adagrasib (600 mg BID). 
+The fa, CYP3A4 abundance and additional HLM clearance values in healthy matched subjects and 
+HI patients in the final model are showed in Table 58. Simulations were performed with 20 trials 
+to ensure an overall simulated population greater than 100 subjects. Subjects in each virtual trial 
+were age, sex, height and weight matched to each group of clinical trials subjects in Study 849-
+ 
+12 Amira M Ghoneim1 and Suzan M Mansour. The Effect of Liver and Kidney Disease on the Pharmacokinetics of Clozapine and 
+Sildenafil: A Physiologically Based Pharmacokinetic Modeling. Drug Des Devel Ther. 2020; 14: 1469–1479. 
+13 Lei Sun, Zoe Barter, Lisa von Moltke,  and Karen Rowland Yeo. Using physiologically‐based pharmacokinetic modeling for 
+predicting the effects of hepatic impairment on the pharmacokinetics of olanzapine and samidorphan given as a combination tablet. 
+CPT Pharmacometrics Syst Pharmacol. 2021 Sep; 10(9): 1071–1080. 
+ 
+Population 
+Observed 
+Applicant’s simulations 
+Reviewer’s simulations 
+Simulated 
+Sim / Obs 
+Simulated 
+Sim / Obs 
+CmaxR 
+AUCR 
+CmaxR 
+AUCR 
+CmaxR 
+AUCR 
+CmaxR 
+AUCR 
+CmaxR 
+AUCR 
+Mild HI 
+1.01 
+0.87 
+0.94 
+1.00 
+0.93 
+1.15 
+0.81 
+0.89 
+0.80 
+1.02 
+Moderate HI 
+0.70 
+0.88 
+0.74 
+0.83 
+1.05 
+0.94 
+0.76 
+0.89 
+1.09 
+1.01 
+Severe HI 
+0.50 
+0.98 
+0.56 
+0.86 
+1.12 
+0.87 
+0.60 
+0.97 
+1.22 
+0.98 
+Reference ID: 5092534
+
+
+===== PAGE 275 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+276 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Figure 31 Observed (dots) and simulated (lines) adagrasib plasma concentration-time profiles 
+(geometric mean) in HI patients and healthy matched subjects following a single dose 
+administration of 600 mg adagrasib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 61 Observed and simulated adagrasib geometric mean Cmax and AUC values in hepatic 
+impaired (HI) patients and healthy matched subjects following a single dose administration of 
+600 mg adagrasib 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sources: Simulated data were from FDA reviewer’s simulations. Observed data were 
+from Study 849-003 
+Population 
+Total concentrations 
+Simulated 
+Observed 
+Sim / Obs 
+Cmax 
+(ng/mL) 
+AUCinf 
+(ng*h/mL) 
+Cmax 
+(ng/mL) 
+AUCinf 
+(ng*h/mL) 
+Cmax 
+AUCinf 
+Mild HI 
+303 
+9154 
+394 
+9332 
+0.77 
+0.98 
+HV 
+Cohort Mild HI 
+374 
+10292 
+389 
+10690 
+0.96 
+0.96 
+Moderate HI 
+323 
+11759 
+315 
+10370 
+1.02 
+1.13 
+HV 
+Cohort  Moderate-HI 
+423 
+13266 
+453 
+11820 
+0.93 
+1.12 
+Severe HI 
+262 
+11823 
+220 
+11980 
+1.19 
+0.99 
+HV 
+Cohort Severe-HI 
+430 
+12242 
+443 
+12210 
+0.97 
+1.00 
+Reference ID: 5092534
+BEST AVAILABLE 
+COPY
+
+
+===== PAGE 276 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+277 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+ 
+Table 62 Observed and simulated adagrasib total and unbound Cmax and AUC ratios in HI 
+patients relative to the healthy matched subjects following a single dose administration of 600 
+mg adagrasib 
+Sources: Simulated data were from FDA reviewer’s simulations. Observed data were from Study 
+849-003 
+ 
+Model application 
+ 
+The model was used to predict the PK of adagrasib in HI patients and the matched healthy 
+subjects following multiple dose administration of adagrasib (600 mg BID). As shown in Table 61, 
+the total and unbound AUC ratios of adagrasib following 600 mg BID dosing of adagraisb in mild, 
+moderate and severe HI patients versus matched healthy subjects were 0.75, 0.67 and 0.65 and 
+0.86, 0.78 and 1.10, respectively. 
+ 
+Table 63 Simulated total and unbound steady-state adagrasib Cmax and AUC ratios in HI patients 
+relative to the healthy matched subjects following multiple dose administration of adagrasib (600 
+mg BID) for 15 days. 
+ 
+ 
+ 
+ 
+                      
+Source: FDA reviewer’s simulations 
+ 
+Sensitivity analyses 
+Uncertainties associated with the metabolic enzyme expression levels and adagrasib mediated 
+enzyme inhibition effects in patients with hepatic impairment were evaluated using sensitivity 
+Population 
+Total  
+Unbound  
+Simulated 
+Observed 
+Sim / Obs 
+Simulated 
+Observed 
+Sim / Obs 
+CmaxR 
+AUCR 
+CmaxR 
+AUCR 
+CmaxR 
+AUCR 
+CmaxR 
+AUCR CmaxR AUCR CmaxR AUCR 
+Mild HI 
+0.81 
+0.89 
+1.01 
+0.87 
+0.80 
+1.02 
+0.94 
+1.03 
+1.17 
+1.01 
+0.80 
+1.02 
+Moderate 
+HI 
+0.76 
+0.89 
+0.70 
+0.88 
+1.09 
+1.01 
+0.90 
+1.04 
+0.82 
+1.03 
+1.10 
+1.01 
+Severe HI 
+0.60 
+0.97 
+0.50 
+0.98 
+1.22 
+0.98 
+1.03 
+1.63 
+0.84 
+1.66 
+1.22 
+0.98 
+Population 
+Total Concentrations 
+Unbound 
+Concentration 
+CmaxR 
+AUCR 
+CmaxR 
+AUCR 
+Mild HI 
+0.74 
+0.75 
+0.86 
+0.86 
+Moderate HI 
+0.66 
+0.67 
+0.78 
+0.78 
+Severe HI 
+0.63 
+0.65 
+1.06 
+1.10 
+Reference ID: 5092534
+
+
+===== PAGE 279 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 216340} 
+{KRAZATI (adagrasib)} 
+280 
+Version date: July 2021 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+unbound AUC ratios ranged from 0.71 to 1.22 in mild, moderate and severe HI patients (Table 
+66).  
+Table 67 Sensitivity analysis of hepatic CYP3A4 abundance. Observed and simulated Cmax and 
+AUC ratios in HI patients relative to healthy matched subjects following a single dose 
+administration of 600 mg adagrasib 
+Source: FDA reviewer’s simulations 
+Table 68 Sensitivity analysis of hepatic CYP3A4 abundance. Simulated total and unbound steady-
+state adagrasib Cmax and AUC ratios in HI patients relative to the healthy matched subjects 
+following multiple dose administration of adagrasib (600 mg BID) for 15 days. 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+                    Source: FDA reviewer’s simulations 
+ 
+3. Additional HLM CLint values  
+The reviewer conducted a sensitivity analysis of additional HLM CLint values to explore the 
+potential effects on the exposure change of adagrasib in HI patients versus matched healthy 
+subjects.  Note that the fa values were also adjusted correspondingly when HLM CLint values 
+were changed to match the observed PK profiles following a single dose administration of 600 
+Model 
+Validation 
+Adagrasib 
+600 mg SD 
+CYP3A4 

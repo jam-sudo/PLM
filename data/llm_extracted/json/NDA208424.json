@@ -1,0 +1,46 @@
+{
+  "nda": "NDA208424",
+  "drug_name": "nitroglycerin",
+  "pk_tuples": [
+    {
+      "dose_mg": 0.8,
+      "dose_original": "0.8 mg (two 0.4 mg GTN oral powder) single dose",
+      "route": "sublingual",
+      "formulation": "other",
+      "food": "not_specified",
+      "population": "healthy_adult",
+      "n_subjects": null,
+      "dose_schedule": "single_dose",
+      "cmax_ng_ml": 1.666,
+      "tmax_h": 0.1167,
+      "auc_inf_ng_h_ml": 0.20187,
+      "auc_last_ng_h_ml": 0.20422,
+      "t_half_h": 0.0933,
+      "cl_L_h": null,
+      "vd_L": null,
+      "source_page": 13,
+      "confidence": "high",
+      "notes": "Test formulation: GTN oral powder (sublingual); geometric mean from Table 1, Study P1302NL, relative bioavailability study"
+    },
+    {
+      "dose_mg": 0.8,
+      "dose_original": "0.8 mg Nitrolingual Pumpspray single dose",
+      "route": "sublingual",
+      "formulation": "solution",
+      "food": "not_specified",
+      "population": "healthy_adult",
+      "n_subjects": null,
+      "dose_schedule": "single_dose",
+      "cmax_ng_ml": 0.804,
+      "tmax_h": 0.125,
+      "auc_inf_ng_h_ml": 0.13478,
+      "auc_last_ng_h_ml": 0.13162,
+      "t_half_h": 0.0983,
+      "cl_L_h": null,
+      "vd_L": null,
+      "source_page": 13,
+      "confidence": "high",
+      "notes": "RLD: Nitrolingual Pumpspray (sublingual spray); geometric mean from Table 1, Study P1302NL, relative bioavailability study"
+    }
+  ]
+}

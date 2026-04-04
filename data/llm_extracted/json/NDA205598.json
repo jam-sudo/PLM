@@ -1,0 +1,60 @@
+{
+  "nda": "NDA205598",
+  "drug_name": "macimorelin",
+  "pk_tuples": [
+    {
+      "dose_mg": 35, "dose_original": "0.5 mg/kg",
+      "route": "oral", "formulation": "solution", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 9.24, "tmax_h": 0.533, "auc_inf_ng_h_ml": 38.0, "auc_last_ng_h_ml": 36.3,
+      "t_half_h": 3.51, "cl_L_h": null, "vd_L": null,
+      "source_page": 6, "confidence": "high",
+      "notes": "Study AEZS-130-054, weight-based dose assumed 70kg standard"
+    },
+    {
+      "dose_mg": 70, "dose_original": "1.0 mg/kg",
+      "route": "oral", "formulation": "solution", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 13.1, "tmax_h": 0.534, "auc_inf_ng_h_ml": 37.0, "auc_last_ng_h_ml": 35.1,
+      "t_half_h": 3.51, "cl_L_h": null, "vd_L": null,
+      "source_page": 6, "confidence": "high",
+      "notes": "Study AEZS-130-054, weight-based dose assumed 70kg standard"
+    },
+    {
+      "dose_mg": 140, "dose_original": "2.0 mg/kg",
+      "route": "oral", "formulation": "solution", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 9, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 21.3, "tmax_h": 0.750, "auc_inf_ng_h_ml": 84.7, "auc_last_ng_h_ml": 81.9,
+      "t_half_h": 8.29, "cl_L_h": null, "vd_L": null,
+      "source_page": 6, "confidence": "high",
+      "notes": "Study AEZS-130-054, weight-based dose assumed 70kg standard"
+    },
+    {
+      "dose_mg": 140, "dose_original": "2.0 mg/kg",
+      "route": "oral", "formulation": "solution", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 57, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 21.9, "tmax_h": 0.583, "auc_inf_ng_h_ml": 75.7, "auc_last_ng_h_ml": 71.7,
+      "t_half_h": 7.23, "cl_L_h": null, "vd_L": null,
+      "source_page": 8, "confidence": "high",
+      "notes": "Study AEZS-130-055, weight-based dose assumed 70kg standard"
+    },
+    {
+      "dose_mg": 35, "dose_original": "0.5 mg/kg",
+      "route": "oral", "formulation": "solution", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 16, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 10.58, "tmax_h": 0.78, "auc_inf_ng_h_ml": 31.95, "auc_last_ng_h_ml": 29.52,
+      "t_half_h": 3.87, "cl_L_h": null, "vd_L": null,
+      "source_page": 46, "confidence": "high",
+      "notes": "Study ARD-0705-003 food effect, without food, weight-based 70kg standard; arithmetic mean"
+    },
+    {
+      "dose_mg": 35, "dose_original": "0.5 mg/kg",
+      "route": "oral", "formulation": "solution", "food": "fed",
+      "population": "healthy_adult", "n_subjects": 16, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 4.41, "tmax_h": 1.09, "auc_inf_ng_h_ml": 15.90, "auc_last_ng_h_ml": 14.07,
+      "t_half_h": 3.80, "cl_L_h": null, "vd_L": null,
+      "source_page": 46, "confidence": "high",
+      "notes": "Study ARD-0705-003 food effect, with liquid meal, weight-based 70kg standard; arithmetic mean"
+    }
+  ]
+}

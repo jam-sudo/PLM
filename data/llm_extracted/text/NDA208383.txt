@@ -1,0 +1,280 @@
+
+
+===== PAGE 11 =====
+
+5 
+ 
+General dosing instructions 
+The recommended dosage regimen is a 160 mg loading dose on 
+day 1 followed by 80 mg QD with food for a total treatment 
+duration of 35 to 42 days. 
+Dosing in patient subgroups 
+(intrinsic and extrinsic factors) 
+Prospective dose reductions of 80 mg on day 1 followed by 40 mg 
+QD for the treatment duration were studied in APEX for patients 
+with severe renal impairment or on concomitant P-gp inhibitors. 
+Due to an unfavorable benefit-risk in this prospectively dose-
+reduced subgroup, the OCP review team proposes limiting the use 
+of betrixaban in patients with severe renal impairment or who 
+require concomitant use with P-gp inhibitors.  
+Labeling 
+Labeling language concerning limitations of use based on analysis 
+of benefit-risk by the OCP review team has been proposed. The 
+review team has specific content and formatting recommendations 
+to section 12 to conform with the clinical pharmacology labeling 
+guidance. 
+Bridge between the to-be-
+marketed and clinical trial 
+formulations 
+ 
+Not applicable, since the to-be-marketed formulation was studied 
+in the pivotal clinical study. 
+1.2 
+Post-Marketing Requirements and Commitments 
+None 
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT 
+2.1 
+Pharmacology and Clinical Pharmacokinetics 
+Mechanism of Action: Betrixaban is an oral factor Xa inhibitor. 
+Absorption: Absolute oral bioavailability of betrixaban is 32%, and the median time to attain maximum 
+concentration is 2 h. Betrixaban is also a P-gp substrate and food reduces the Cmax and AUC by 
+approximately 60%. 
+Distribution: Betrixaban has a volume of distribution of 32 L/kg and a plasma protein binding of 60%. No 
+difference in protein binding was observed between healthy volunteers and patients with renal 
+impairment. 
+Metabolism: The predominant metabolic pathway of betrixaban is amide hydrolysis with minor CYP-
+based metabolism. Two primary metabolites (PRT062802 and PRT063069) have been identified with 
+approximately 18% molar-corrected AUC ratio to parent. None of the identified metabolites have been 
+shown to be active for factor Xa or to interact with the hERG potassium channel. 
+Elimination: Following intravenous administration approximately 20% of the administered dose is 
+excreted in urine (19% as unchanged betrixaban). The clearance of betrixaban is 677 mL/min and the 
+terminal half-life is 40 h. 
+Reference ID: 4078560
+
+
+===== PAGE 20 =====
+
+14 
+ 
+Food Effect 
+There is a reduction in the AUC and Cmax of betrixaban when given with a low or high fat meal (Figure 5). 
+This effect appears to be present when betrixaban is taken up to 6 h after the administration of a meal. 
+Because of the observed food effect, the Applicant proposes betrixaban to be taken with food, which is 
+how it was studied in APEX. The OCP review team concurs with this recommendation. 
+ 
+Figure 5: Evaluation of the impact of food (high and low-fat) and timing of food on betrixaban PK, where red is AUC0-inf and blue 
+is Cmax. The solid and vertical lines are located at 1 and 0.8/1.25 respectively, and represent the bioequivalence limits. [Source: 
+Reviewer’s analysis] 
+P-gp Inhibitors 
+A prospective dose reduction was included in APEX for patients on concomitant P-gp inhibitors, similarly 
+to the dose reduction for patients with severe renal impairment. In this subgroup the Applicant noted a 
+decreased efficacy (Figure 6), which the Applicant asserts is due to under dosing. The Applicant is basing 
+this conclusion on their population PK analysis and suggests that the dose
+ 
+ 
+  
+The OCP review team analyzed the major and CRNM bleeds in this subgroup and observed a lack of 
+efficacy (symptomatic and asymptomatic VTE events; betrixaban: 5.3%; enoxaparin: 4.8%), as noted by 
+Reference ID: 4078560
+(b) (4)
+
+
+===== PAGE 24 =====
+
+18 
+ 
+4.2 
+Clinical PK and/or PD Assessments 
+This section provides PK information from the individual studies in terms of single-dose and multiple-
+dose PK, absolute bioavailability, metabolism, excretion, impact of covariates such as weight and sex on 
+betrixaban PK, drug-drug interaction studies and QT. 
+4.2.1 Single-dose 
+There are two single ascending dose studies in healthy volunteers: 02-401 and 04-001. In study 02-401 a 
+ formulation was studied, which was not used any longer in the development program. Therefore 
+the PK results from study 02-401 are not described here and the description of single-dose 
+pharmacokinetics will focus on the second part of study 04-001. In study 04-001 the subjects were 
+dosed twice for 10 days (except day 10) with 40, 80 and 120 mg. The morning dose was after an 
+overnight fast and followed by a 3-hour fast, however, the second dose in the day was 2 h after a meal. 
+A greater than proportional change in Cmax and AUC0-12h was observed on day 1 (Table 3), resulting in a 
+~3-fold increase in Cmax and AUC0-12h for a doubling of the dose (Cmax: 2.99 [1.99 to 4.48], AUC0-12h: 3.25 
+[1.99 to 5.31], based on Table P, page 70). 
+Table 3: Pharmacokinetic summary from study 04-001. [Source: 04-001 CSR, Table N, page 68] 
+ 
+The confidence interval around the point estimate for a doubling in dose includes 2 in most cases likely 
+due to the small number of subjects included and the inter-subject variability in betrixaban 
+pharmacokinetics (CV ~50%). Therefore, the reviewer conducted a pooled analysis of data from single-
+dose studies under fasting conditions, which supported the greater than dose-proportional increase 
+(AUC: 2.6 [2.5 to 2.8]; Cmax: 2.8 [2.6 to 3.4]) and it appears to be most pronounced between 40 and 80 
+mg (Figure 8). Of note, the independent analysis by the reviewer is based on a pool of all single dose 
+studies. No mechanism for the apparent and not entirely consistent observation of greater than dose 
+proportional pharmacokinetics has been identified and it is plausible that it is a chance finding.  
+ 
+ 
+Reference ID: 4078560
+(b) (4)
+
+
+===== PAGE 25 =====
+
+19 
+ 
+Figure 8: Pooled dose proportionality assessment across studies 04-001, 05-002, 09-018, pn001, 08-016, 15-020, 07-009, pn010, 
+07-008 and 07-013. Only data from single dose 80 mg fasting were included for the assessment Cmax (left) and AUC (right). The 
+red line represents a linear fit through the original (with confidence area) and the blue line represents a fitted power model 
+(with confidence interval). The distribution of data at each dose group is visualized using a violin plot. [Source: Reviewer’s 
+analysis of pooled data] 
+4.2.2 Multiple-dose 
+Multiple dose pharmacokinetics were evaluated in part B of study 04-001, where betrixaban was 
+administered twice daily under fasting conditions for 10 days, where a ~2.8-3.8-fold increase in AUC0-12h 
+(Table 4), corresponding to an effective half-life of 18.8 – 27.2 h and expected time to steady state of 5 
+days. A similar effective half-life is also estimated from study 08-016, where 80 mg betrixaban was once 
+daily administered for 8 days (RAUC: 2.3, T1/2,eff: 29.2 h). 
+Table 4: PK parameters for betrixaban on day 10 in study 04-001 [Source: 04-001 CSR, Table O, Page 68] 
+4.2.3 Absolute bioavailability 
+The absolute bioavailability of betrixaban was evaluated in eight healthy male volunteers in study 07-
+012, who received a single dose of 2 x 40 mg capsules of betrixaban or an IV dose of 80 μg of [14C]-
+betrixaban. The oral dose was administered following an overnight fast and the IV dose was 
+Reference ID: 4078560
+
+
+===== PAGE 26 =====
+
+20 
+ 
+administered two hours after the oral administration over 15 minutes. The overall results from the study 
+are: 
+• 
+Absolute oral bioavailability of 32.4% with moderate variability (CV: 49.4%, range: 7 to 53.8%, 
+table 14.2.2) 
+• 
+Volume of distribution of 32 L/kg (CV: 28.5%, range: 19.5 to 45.5 L/kg) 
+• 
+Betrixaban clearance: 677.2 mL/min (CV: 20.4%, range: 461.4 to 920.2 mL/min) 
+4.2.4 Metabolites 
+The extent of metabolism of betrixaban has been evaluated in multiple studies either as a primary 
+objective or a subsequent analysis of collected samples, and the proposed metabolic pathways are 
+shown in Figure 9, which shows CYP and non-CYP mediated metabolism. 
+An in vitro study using human CYP isoforms suggested that the O-desmethyl (PRT058326) and N-
+desmethyl (PRT054156) metabolites are formed by multiple CYP enzymes, with CYP3A4 and CYP2D6 
+likely to be involved in the formation of either metabolite (NC-10-0337). Pharmacokinetic samples from 
+a multiple dose study were analyzed to determine the presence of these metabolites in vivo. This 
+analysis showed that the plasma concentrations observed after 10 days of 120 mg BID dosing were <BLQ 
+on day 10 for all subjects but one (Cmax: 0.6 ng/mL) for PRT058326 and that the Cmax ranged from 0.7 to 
+1.7 ng/mL for PRT054156 (BLQ for 3/8).  
+The Applicant also carried out a mass balance study in humans, which suggested that the predominant 
+moiety in human plasma was unchanged betrixaban. As noted previously (section 4.1) the assay utilized 
+for the plasma analysis had sensitivity issues, however, the presence of the main metabolite identified in 
+the mass balance study (PRT06802) was evaluated in other clinical pharmacology studies showing an 
+approximately 18% molar-corrected AUC ratio for this metabolite. In addition, to the PRT06802 
+metabolite identified in the mass balance study another metabolite (PRT063069) has been identified, 
+which has a molar-corrected AUC ratio of approximately 15%. However, none of the identified 
+metabolites are active in terms of FXa inhibition (Response to IR, Seq 0028) and neither of the major 
+metabolites (AUC>10%) inhibit the hERG potassium channel. 
+Reference ID: 4078560
+
+
+===== PAGE 28 =====
+
+22 
+ 
+Table 5: Comparison of geometric means for Cmax and AUC for different categories of renal function. The Applicant used the 186 
+multiplier in the MDRD equation for initial classification (top) and performed sensitivity analysis to using a 175 multiplier 
+(bottom). [Source: 08-016 CSR, page 62, Table 11-2] 
+ 
+4.2.6 Impact of weight and sex 
+The Applicant evaluated the impact of weight and sex in their population PK analysis of APEX, and 
+concluded on the basis of this analysis a 20% difference between the genders and a 30% difference 
+between the 10th and 90th percentile for weight for the projected concentration at 20 h post-dose. 
+However, the review team does not agree that the Applicant’s PK data collected from APEX included 
+sufficient sampling to reliably inform patient PK parameters or exposures (section 3.3.2). Therefore, the 
+reviewer utilized data from the bioequivalence study (15-020) and the thorough QT study (07-013) for 
+the 80 mg dose to assess the impact of weight and gender. This data pool contains the largest number of 
+subjects and is relatively balanced with regards to gender. Using the pooled data the relationship 
+between apparent oral clearance and weight and gender was conducted, which confirmed the 
+Applicant’s conclusions of no clinically relevant impact of either weight (5th percentile vs median: 0.76 
+[0.65 to 0.88], 95th percentile vs median: 1.27 [1.11 to 1.46]) or sex (male vs female: 1.43 [1.2 to 1.72]) 
+on betrixaban exposure.  
+4.2.7 Drug-drug interaction 
+Four dedicated drug-drug interaction studies were conducted, which are described below in full. 
+4.2.7.1 
+Ketoconazole 
+Study 07-009 evaluated the impact of ketoconazole on the pharmacokinetics of betrixaban. Participants 
+in the study received a single dose of 40 mg of betrixaban on two separate occasions, once alone or 
+following a 5 day regimen of ketoconazole 200 mg BID. The last two doses of ketoconazole were 
+administered 1 hour prior to betrixaban and 12 hours afterwards. Drugs were dosed under fasting 
+conditions. The study showed an increase in Cmax and AUC of ~2.3-fold (Table 6). 
+ 
+ 
+Reference ID: 4078560
+
+
+===== PAGE 29 =====
+
+23 
+ 
+Table 6: Summary of effect of ketoconazole on betrixaban PK. [Source: 07-009 CSR, Page 9, Panel 2.1] 
+4.2.7.2 
+Verapamil 
+The impact of verapamil on the pharmacokinetics of betrixaban was assessed in study PN010, which was 
+an open-label study of a single dose of betrixaban or a single-dose of betrixaban on day 1 or day 14 of a 
+14 day QD regimen of verapamil sustained release to study the effects after a single dose and at steady-
+state. Both betrixaban and verapamil were co-administered in a fasting state. The results of the study 
+are shown in Table 7, which showed a ~4.7-fold increase in Cmax and a ~3-fold increase in AUC, which 
+was comparable for day 1 and 14. 
+Table 7: Summary of the effect of verapamil on betrixaban PK [Source: PN010 CSR, page 48, table 9] 
+ 
+Reference ID: 4078560
+
+
+===== PAGE 31 =====
+
+25 
+ 
+ 
+Figure 10: Analysis of QTcF from previous studies is shown to the left and to the right is the C-QT analysis for the TQT study by 
+Dr. Madabushi. A similar concentration-QTc relationship was observed (pooled analysis: 10 ms per 100 ng/mL (90% CI: 8 – 12 
+ms per 100 ng/mL; TQT: 6 ms per 100 ng/mL (90% CI: 4 to 7 ms per 100 ng/mL)). [Source: QT-IRT review, IND 72679 
+ 
+10/29/2008 by Dr. Madabushi] 
+However, at the time the supra-therapeutic dose was defined as a single dose of 140 mg betrixaban 
+fasted based on results from the ketoconazole DDI study, which can no longer be considered the supra-
+therapeutic dose as a greater impact on betrixaban exposures were observed with verapamil (~2.3 fold 
+increase in Cmax following ketoconazole compared to ~4.7-fold with verapamil). Because of the change in 
+definition of the supratherapeutic exposure the reviewer has used the proposed model in the QT-IRT 
+review to predict the exposure for the new supratherapeutic exposure scenario.  
+This analysis extends outside the observed exposure range, on a mean level, of the TQT study but data 
+from other studies such as the pooled analysis by the Applicant (Figure 10) suggests a linear C-QTc 
+relationship for betrixaban in this range. The linear relationship is consistent with predominant blockade 
+of the hERG potassium channel being the driver of the observed QTc prolongation. The provided 
+predictions were at the observed geometric Cmax following 80 mg (across studies) under fasting 
+conditions (as food is expected to decrease the Cmax by approximately 60% and there is an expected 
+accumulation of ~2.3-fold) representing the therapeutic Cmax and 4.7-fold increase in the therapeutic 
+Cmax to represent the new supratherapeutic dose (Table 9). 
+Table 9: Predicted ∆∆QTcI effect at therapeutic and supratherapeutic exposures [Source: Reviewer’s analysis] 
+Exposure scenario 
+Geometric Cmax 
+[ng/mL] 
+∆∆QTcI mean±90% CI 
+(ms) 
+∆∆QTcI mean±90% CI 
+(ms) * 
+Therapeutic 
+49.1 ng/mL 
+3.7 (2.6 to 4.8) 
+3.9 (2.8 to 5.0) 
+Supratherapeutic 
+(verapamil) 
+230.8 ng/mL 
+12.9 (9.5 to 16.2) 
+13.9 (11.5 to 16.4) 
+* - Using’s sponsor’s model (∆∆QTcI ~ CONC + (1|USUBJID) 
+The OCP review team has proposed changes to the betrixaban label to reflect the predicted QTc at the 
+new therapeutic and supratherapeutic dose. However, the OCP review team does not consider it to be 
+necessary to describe the QTc observations outside section 12, as the margin between supratherapeutic 
+and therapeutic was approximately 4.7-fold and the betrixaban is not recommended to be given to 
+patients on concomitant P-gp inhibitors (the supratherapeutic scenario). 
+Reference ID: 4078560
+(b) 
+(4)
+(b) 
+(4)

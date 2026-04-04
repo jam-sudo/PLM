@@ -1,0 +1,1463 @@
+
+
+===== PAGE 11 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+10 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table of Figures 
+Figure 5.1: ClpP protein and mRNA expression in pediatric brain tumors is associated with 
+increased tumor grade ................................................................................................... 41 
+Figure 5.2: Increased DRD2 expression in patient derived gliomas compared to surrounding 
+normal brain tissue and associated overall survival ...................................................... 41 
+Figure 5.3: Dordaviprone is a ClpP agonist and a DRD2 antagonist leading to increased stress 
+response, increased cell death, and modification of histone methylation ..................... 42 
+Figure 5.4: KO of ClpP in DIPG-H3K27M-positive (top) and GBM-H3K27 wt (bottom) cells led 
+to dordaviprone resistance ............................................................................................. 43 
+Figure 5.5: KO of DRD2 did not affect dordaviprone sensitivity in DIPG H3K27M+ cells ....... 44 
+Figure 5.6: Dordaviprone dose-dependently increased mitochondrial ROS ................................ 44 
+Figure 5.7: Dordaviprone decreased cell survival in a time- and concentration-dependent manner 
+in glioma cell lines ........................................................................................................ 45 
+Figure 5.8: Dordaviprone decreased glycolysis and glycolytic pathways in H3K27M positive 
+DMG cells ..................................................................................................................... 46 
+Figure 5.9: Dordaviprone intreated the methylation of H3K27 in DMG cell lines ...................... 46 
+Figure 5.10: Exposure in the plasma, pons, and thalamus in tumor bearing and non-tumor 
+bearing mice (left) or tumor bearing mice treated with dordaviprone on two different 
+schedules (right) ............................................................................................................ 56 
+Figure 5.11: Omeprazole significantly changed stomach pH without affecting oral bioavailability 
+of dordaviprone in plasma, brain stem, thalamus, or prefrontal cortex ........................ 56 
+Figure 8.1: Derivation of integrated efficacy population from 5 single arm studies of 
+dordaviprone monotherapy in patients with glioma .................................................... 103 
+Figure 8.2: Primary reasons for exclusion from integrated efficacy population ........................ 110 
+Figure 19.1: Applicant – Goodness-of-Fit Plots for the Final PPK Model (OBS-PRED/IPRED, 
+CWRES-TIME/PRED) ............................................................................................... 208 
+Figure 19.2: Applicant – Prediction-corrected VC for the Refined Final PPK Model ............... 209 
+Figure 19.3: Applicant – Impact of Significant Covariates on Exposure (Cmax and AUC) ........ 210 
+Figure 19.4. Comparison of Simulated Dordaviprone Exposures in Pediatric and Adult Subjects 
+by Reviewer. ................................................................................................................ 212 
+Figure 19.5. Logistic Regression for ORRs and dordaviprone exposures (AUC0-168h and Cmax) 218 
+Figure 19.6. Logistic Regression for Selected AEs and dordaviprone AUC0-168h ...................... 219 
+Figure 19.7. Logistic Regression for Selected AEs and dordaviprone Cmax. .............................. 220 
+Figure 19.8 Modeling and simulation strategy ........................................................................... 223 
+Reference ID: 5638121
+
+
+===== PAGE 14 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+13 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Glossary  
+ADME 
+absorption, distribution, metabolism, excretion  
+AE 
+adverse event 
+AEOSI 
+adverse event of special interest 
+ALT 
+alanine aminotransferase 
+AUC 
+area under the concentration-time curve 
+AUCinf 
+AUC from time zero to infinity 
+AUClast 
+AUC from time zero to the last measurable concentration 
+BICR 
+blinded independent central review 
+BOR 
+best overall response 
+CI 
+confidence interval 
+CFR 
+Code of Federal Regulations 
+ClpP 
+caseinolytic protease P 
+Cmax 
+maximum concentration 
+CMC 
+chemistry, manufacturing, and controls 
+CNS 
+central nervous system 
+COVID-19 
+Coronavirus Disease 2019 
+CR 
+complete response 
+CYP 
+cytochrome P450 
+DCR 
+disease control rate 
+DDI 
+drug-drug interaction 
+DIPG 
+diffuse intrinsic pontine glioma 
+DOR 
+duration of response 
+DRD2 
+dopamine receptor D2 
+EC50 
+half-maximal effective concentration 
+ECG 
+electrocardiogram 
+eCTD 
+electronic common technical document 
+EFD 
+embryo-fetal development 
+eGFR 
+estimated Glomerular Filtration Rate 
+E-R 
+exposure-response 
+FDA 
+Food and Drug Administration 
+FOB 
+functional observation batteries 
+Reference ID: 5638121
+
+
+===== PAGE 16 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+15 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+PK 
+pharmacokinetics 
+POPPK or PPK 
+population pharmacokinetics 
+PR 
+partial response 
+PRO 
+patient reported outcome 
+PT 
+preferred term 
+∆∆QTcF 
+change from baseline in QTcF 
+QTc 
+corrected QT interval 
+QTcF 
+QT interval corrected using Fridericia’s formula 
+RANO 
+Response Assessment in Neuro-Oncology 
+REMS 
+risk evaluation and mitigation strategy 
+SAE 
+serious adverse event 
+SAP 
+statistical analysis plan 
+SMQ 
+standardized MedDRA queries 
+SOC 
+system organ class 
+TEAE 
+treatment emergent adverse event 
+Tmax 
+time to reach Cmax 
+WHO 
+World Health Organization 
+US 
+United States 
+ 
+ 
+Reference ID: 5638121
+
+
+===== PAGE 50 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+49 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+ ADME/PK 
+Data / The Applicant’s Position: 
+Absorption  
+Dordaviprone displayed high permeability across cell monolayers (Study C19208). Absorption of 
+dordaviprone-related radioactivity in rats and humans was high at 81% and 71%, respectively (Studies C19178 
+and ONC201-106). The bioavailability of dordaviprone was comparably high at the same high dose but was low 
+to moderate at lower doses in rats (11% to 53%) and dogs (10% to 25%) (Studies 0406RO27.002, 0406D027.003, 
+0832DO27.001). In general, following single and repeat oral administration in rats and dogs, the increase in 
+systemic exposures of dordaviprone were more than dose proportional going from the lowest to mid-range doses 
+but approximately proportional to dose going from mid-range to high doses (Studies 0406RO27.002, 
+0436RO27.008, ONC201-TX-100, 0406D027.003, 0436DO27.007, ONC201-TX-101). There were differences in 
+systemic exposure between the sexes in rodents (female > male), but no sex difference was observed in dogs. 
+There was no accumulation observed after repeated once-weekly dosing in either species.   
+Distribution  
+In vitro protein binding was higher in human plasma (95% to 97%) (Study ONC201-NCA-106) compared to 
+animals (79% to 90%) (Study 16625), and the primary binding protein in human plasma was AAG 
+(Study ONC201-NCA-101). Association with blood cellular components generally was low in humans (blood to 
+plasma ratio 0.67) and rats (blood to plasma ratio 0.91) (Studies C19178, ONC201-106).   
+In transfected cell lines or membrane vesicles, dordaviprone was not a substrate of uptake and efflux transporters 
+(Study C19207). Dordaviprone inhibited transporter proteins (Study 15679), but based on basic and mechanistic 
+models, the risk for dordaviprone to inhibit these transporters was low.  
+Dordaviprone was distributed widely in tissues from rats (Study C19179). The CNS:plasma ratio was ~1, with 
+tissue:plasma ratios for endocrine, metabolic/excretory, and ocular tissues, as well as the tissues of the 
+gastrointestinal tract exceeding 1. Overall, [14C]-dordaviprone-derived radioactivity was steadily cleared from 
+most tissues in rats, with concentrations that were below the lower limit of quantification in most tissues 72 hours 
+post-dose, except for melanin containing tissues. The binding to melanin appeared to be reversible, as the 
+dordaviprone-derived radioactivity decreased with time.  
+Metabolism  
+Dordaviprone undergoes extensive biotransformation to many products. Dordaviprone was primarily eliminated 
+by metabolism via CYP3A4 (fraction metabolized 0.55 to 0.87), and to a lesser extent by CYP2D6, CYP2B6, 
+CYP2C8, CYP2C9, and CYP3A5 (Study ONC201-NCA-100). The qualitative in vitro metabolic profile in 
+human, rat, dog, and rabbit hepatocytes was similar across species (Study 17717). Dordaviprone undergoes 
+extensive oxidative metabolism including oxygenation, N-dealkylation, desaturation, and a combination thereof. 
+The major metabolic pathway observed in humans and animals was N-dealkylation (Studies C20018, C22145, 
+C20087). The inactive N-dealkylated metabolite, ONC207, was a major circulating metabolite in plasma 
+following oral administration of [14C]-dordaviprone to healthy subjects. ONC207 accounted for >31% of TRA 
+AUC in plasma; no other metabolite had exposure greater than 10% of TRA AUC. All notable metabolites in 
+human plasma were observed in at least one nonclinical species. Dordaviprone was a direct inhibitor of CYP1A2, 
+2B6, 2C8, 2C9, 2C19, 2D6, and 3A4/5 in vitro (Study 15678). Assessment of risk using basic and mechanistic 
+models indicated little to no risk of dordaviprone causing drug-drug interactions with CYP enzymes. 
+Dordaviprone did not induce CYP1A2, CYP2B6, or CYP3A4/5 (Study 15676). 
+Reference ID: 5638121
+
+
+===== PAGE 51 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+50 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Excretion  
+Unchanged dordaviprone was not appreciably excreted in urine or feces after oral administration to rats and 
+humans. In rats 70% of the dose was excreted in feces (due to biliary secretion) while 25% of the dose was 
+eliminated via urine after oral administration of [14C]-dordaviprone (Study C19178). In humans 71% of the dose 
+was excreted in urine while 20% of the dose was eliminated through feces and (Study ONC201-106).   
+Abbreviations: AAG=alpha-1-acid glycoprotein; AUC=area under the concentration-time curve; CNS=central nervous system; 
+CYP=cytochrome P450; TRA=total radioactivity. 
+Integrative Summary Table of Cmax and AUC Parameters Across Toxicology Studies  
+ 
+Species/Strain 
+(Duration; Study 
+Number) 
+Route 
+(Dose 
+Frequency) 
+Dose 
+(mg/kg) 
+Sex 
+Cmax 
+(ng/mL) 
+AUClast 
+(ng⋅hr/mL) 
+AUCN 
+CmaxN 
+Day 1 
+EOD 
+Day 1 
+EOD 
+Day 1 
+Rat/SD 
+(Single dose; 
+0406RO27.002) 
+Oral gavage 
+(single 
+dose) 
+12.5 
+M 
+86.8 
+NA 
+164 
+NA 
+13.1 
+6.9 
+F 
+301 
+NA 
+507 
+NA 
+40.6 
+24.1 
+125 
+M 
+1035 
+NA 
+8795 
+NA 
+70.4 
+8.3 
+F 
+1847 
+NA 
+16319 
+NA 
+130.6 
+14.8 
+225 
+M 
+1680 
+NA 
+16876 
+NA 
+75 
+7.5 
+F 
+3927 
+NA 
+19075 
+NA 
+84.8 
+17.5 
+Rat/SD 
+(28 days; 
+0436RO27.008) 
+Oral gavage 
+(once 
+weekly) 
+75 
+F 
+2753 
+1830 
+9096 
+4851 
+121.2 
+36.7  
+125 
+F 
+4377 
+3807 
+12358 
+8383 
+98.9 
+35 
+225 
+F 
+8437 
+5940 
+26164 
+13503 
+116.3 
+37.5 
+Rat/SD 
+(13 weeks; 
+ONC201-TX-100) 
+Oral gavage 
+(once 
+weekly) 
+31.25 
+M 
+346 
+692 
+729 
+1030 
+23.3 
+11.1 
+F 
+1330 
+1430 
+2730 
+2530 
+87.4 
+42.6 
+62.5 
+M 
+906 
+1470 
+3080 
+2380 
+49.3 
+14.5 
+F 
+2410 
+5360 
+7720 
+7700 
+123.5 
+38.6 
+125 
+M 
+2860 
+3190 
+11700 
+9980 
+93.6 
+22.8 
+F 
+5980 
+5480 
+12800 
+16600 
+102.4 
+47.8 
+Oral gavage 
+(twice 
+weekly*) 
+62.5 
+M 
+1320 
+2120 
+3500 
+5400 
+56 
+21.1 
+F 
+2770 
+2660 
+7570 
+10100 
+121.1 
+44.3 
+Dog/Beagle 
+(Single dose; 
+0406D027.003) 
+Oral gavage 
+(single 
+dose) 
+4.2 
+M 
+91.6 
+NA 
+183 
+NA 
+43.6 
+21.8 
+F 
+86.4 
+NA 
+153 
+NA 
+36.4 
+20.6 
+42 
+M 
+3267 
+NA 
+6798 
+NA 
+161.9 
+77.8 
+F 
+2525 
+NA 
+5410 
+NA 
+128.8 
+60.1 
+120 
+M 
+5792 
+NA 
+13751 
+NA 
+114.6 
+48.3 
+F 
+3700 
+NA 
+12905 
+NA 
+107.5 
+30.8 
+Reference ID: 5638121
+
+
+===== PAGE 52 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+51 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Dog/Beagle 
+(4 weeks; 
+0436DO27.007) 
+Oral gavage 
+(once 
+weekly) 
+15 
+C 
+1395 
+2005 
+2593 
+4054 
+173 
+93 
+30 
+C 
+6720 
+8080 
+14146 
+15363 
+471.5 
+224 
+60 
+C 
+5983 
+9945 
+17737 
+19297 
+296 
+99.7 
+Dog/Beagle 
+(13 weeks; 
+ONC201-TX-101) 
+Oral gavage 
+(once 
+weekly) 
+15 
+C 
+2790 
+2350 
+2730 
+2800 
+182 
+186 
+30 
+C 
+5090 
+5650 
+6920 
+8020 
+231 
+170 
+45 
+C 
+NA 
+6380 
+NA 
+10600 
+NC 
+NC 
+60 
+C 
+11000 
+11200 
+14200 
+15400 
+237 
+183 
+90 
+C 
+9050 
+NA 
+12500 
+NA 
+139 
+101 
+Abbreviations: AUClast=area under the concentration-time curve from time 0 to time of last measurable concentration; 
+AUCN=dose-normalized AUClast value (units of ng.hr/mL/[mg/kg]); C=values reported for males and females combined; 
+Cmax=maximum concentration; CmaxN=dose normalized Cmax (units of ng/mL/[mg/kg]); EOD=End of Dosing; F=female; 
+M=male; NA=not applicable; NC=not calculated due to insufficient data; SD=Sprague-Dawley. 
+* = Dosed twice weekly on consecutive days 
+Reference ID: 5638121
+
+
+===== PAGE 56 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+55 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+The FDA’s Assessment: 
+The FDA generally agrees with the Applicant’s assessment of the ADME studies with the 
+following additional pertinent details. In the rat distribution study (Study #c19179), oral 
+administration of [14C]-ONC201 (225 mg/kg, 200µCi/kg) distributed readily to the uveal tract 
+(420 to 4154 nmol equiv/g) and eye (84 to 846 nmol equiv/g) and was still measurable after 2016 
+hours post dose. Levels in the lens were minimal (3 to 23 nmol equiv/g) up to 72 hours and 
+below quantification levels (BQL) by 168 hours post dose. [14C]-ONC201 was also found at high 
+levels in the endocrine system (adrenal gland, pineal gland, pituitary gland, thyroid gland) and 
+the organs of the GI tract, with most tissue measuring BQL by 72 hours post dose. High levels 
+were measured in the contents of the GI tract and in bile which is consistent with route of 
+excretion of oral dordaviprone. Levels in CNS tissues, including brain, ranged from 20 to 80 
+nmol equiv/g in most tissues except the meninges which had peak exposure at 1 hour post dose 
+of 922 nmol equiv/g and still had measurable radioactivity 2016 hours post dose. 
+The major circulating metabolite identified in patients, ONC207, was found at significant levels 
+in dogs treated with dordaviprone once weekly in the 13-week toxicology study with Cmax 
+values ranging from 20 to 49% of the Cmax values of dordaviprone on Day 85. In a rat 13-week 
+toxicology study, ONC207 was found at Cmax values ranging from 3 to 13% of the 
+dordaviprone Cmax on Day 85. Full review of toxicokinetic data from the rat and dog 13-week 
+repeat-dose studies can be found under section 5.5.1 General Toxicology. The ONC207 
+metabolite accounted for ~11-20% in humans, thus the levels of exposure observed in the animal 
+studies covers the clinical exposures of the major metabolite. Additionally, evaluation of 
+metabolic profiles in human, rat, and dog plasma (Study c20086) indicated that all detected 
+human metabolites were also present in rats and/or dogs at levels sufficient to cover human 
+exposure and no unique human metabolites were identified when evaluating in vitro metabolism 
+in rat, rabbit, dog, and human hepatocytes (Study 17717). ONC207 is considered an inactive 
+metabolite (see Section 5.3.1 Primary Pharmacology). 
+Oral administration of dordaviprone once weekly in tumor bearing and non-tumor bearing mice 
+showed measurable dordaviprone in the pons and thalamus at levels higher than measured in the 
+plasma. Values were negligibly higher in tumor bearing mice vs. non-tumor bearing mice 
+(Figure 14; top). Treatment schedules of once weekly for 2 weeks or twice weekly on 
+consecutive days for 2 weeks did not result in differences in exposure in the measured tissues 
+(Figure 14, bottom). 
+ 
+Reference ID: 5638121
+
+
+===== PAGE 58 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+57 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+ONC201- dordaviprone. GsONC201-German manufactured dordaviprone. PPI – proton pump 
+inhibitor. 
+ Toxicology   
+ 
+General Toxicology 
+The toxicity profile of orally administered dordaviprone was defined in GLP-regulated studies 
+with once or twice (on 2 consecutive days) weekly administration for up to 13 weeks in both 
+rodents (Sprague-Dawley rats) and nonrodents (Beagle dogs) (Studies ONC201-TX-100, 
+ONC201-TX-101; m4.2.3.2). This program was consistent with ICH S9, the guideline for 
+nonclinical evaluation for anticancer pharmaceuticals (ICH 2010). 
+The nonclinical safety profile of dordaviprone reflects the on-target pharmacology and 
+downstream effects of DRD2 antagonism. While CNS-related extrapyramidal symptoms limited 
+dose levels in rats and dogs, the maximum tolerated dose allowed for an assessment of target 
+organ toxicity with 3 months of dosing that achieved clinically relevant Cmax and/or AUC plasma 
+exposures. The adverse clinical signs occurred at Tmax and generally resolved with decreasing 
+plasma concentrations. The Cmax plasma concentrations measured in rats (NOAEL; 125 mg/kg 
+once weekly as the highest dose administered) and dogs (LOAEL; 60 mg/kg once weekly 
+exhibiting adverse but reversible clinical signs) exceeded plasma concentrations observed in 
+humans administered 625 mg dordaviprone by 1.9 and 3.9-fold, respectively. Shorter half-lives 
+in nonclinical species compared to humans resulted in AUC plasma concentrations at these doses 
+that were 75% and 70% clinical AUCs in rat and dogs, respectively. Aside from the 
+dose-limiting CNS-related symptoms, no additional adverse toxicity was identified in any organ 
+system after 3 months of once- (dog) or twice-weekly (rat) dosing.  
+Importantly, no extended adverse clinical observations were noted from once- (dogs) or 
+twice-weekly (rats) dordaviprone administration for 3 months. This includes no observations 
+related to inhibition of dopamine pathways, significant clinical chemistry changes, or 
+macroscopic or microscopic tissue effects, even in the brains of animals exhibiting 
+extrapyramidal symptoms. Additionally, no effects on cardiac rhythm or ECG morphology were 
+noted after 13 weeks of weekly administration in both male and female dogs, and no 
+ophthalmologic findings were observed in either rats or dogs.   
+The Cmax plasma concentrations in both species at tolerated doses exceeded concentrations 
+measured in humans administered 625 mg dordaviprone (see Section 5.4 and Section 5.5). While 
+adverse histopathology was not identified in any organ with 3 months of dosing in rat or dog, 
+administration of higher doses was not possible due to the CNS-associated clinical observations 
+and limitations imposed by IACUC guidelines protecting animal welfare. 
+The metabolite profile of dordaviprone, characterized in rats, dogs, and humans, showed the 
+inactive, N-dealkylated metabolite, ONC207 as a major metabolite in dogs and humans. 
+Following 13 weeks of oral administration, the nonclinical safety assessment of this metabolite, 
+Reference ID: 5638121
+
+
+===== PAGE 78 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+77 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+(≥ 52.5 kg). The recommended dose should be administered orally once weekly (QW) on an 
+empty stomach (at least 1 hour before or 3 hours after food intake).  
+The review addressed the following issues: 
+The proposed recommended dosages for adults and pediatrics are acceptable. The efficacy and 
+safety of dordaviprone were established in adults with H3 K27M-mutant diffuse glioma. Refer to 
+review of the efficacy and safety in Section 8 for details. The efficacy and safety of dordaviprone 
+for pediatric patients were established based on the limited efficacy data from pediatric patients 
+included in the primary efficacy population, additional supportive safety and efficacy data in 
+patients outside the primary efficacy population, and extrapolation from adults based on the 
+similarity of disease between adult and pediatric patients. The population pharmacokinetic 
+analyses (PopPK) were used to identify doses in pediatrics that matched exposure to that of 
+adults. The doses were based on body weight as body weight significantly effects dordaviprone 
+exposure. At the proposed recommended doses for pediatric patients who weigh 10 kg or more, 
+dordaviprone exposures (AUC and Cmax) are predicted to be within range of exposures predicted 
+in adults at the proposed recommended dose. FDA recommended limiting the indication to 
+pediatric patients 1 year of age and older as dordaviprone is primarily metabolized by CYP3A, 
+which is generally reduced in pediatric patients < 1 year old and dordaviprone PK cannot be 
+adequately predicted in patients < 1year old to inform a safe and effective dose in this 
+population. 
+The proposed recommendation to allow the capsule contents to be mixed with a sports drink, 
+apple juice, lemonade, or water and administered orally for pediatric patients unable to swallow 
+capsules is acceptable. The results of the bioavailability trials with Gatorade and applesauce 
+show that dordaviprone systemic exposures were generally in the bioequivalence limits when 
+compared to the fasting condition and administering with these liquids is supported by the results 
+of in vitro drug release and stability testing in these liquids. Refer to Section 4 for additional 
+details regarding these in vitro drug release and stability tests. 
+FDA agrees with the recommendation to avoid the concomitant use of strong and moderate 
+CYP3A inhibitors and inducers based on the results of the drug interaction trial with a strong 
+CYP3A inhibitor and physiologically based pharmacokinetic modeling. The recommendation to 
+reduce the dordaviprone dose for adults and pediatric patients who weigh 52.5 kg or more when 
+coadministered with a strong or moderate CYP3A inhibitor is acceptable based on the results of 
+the trial and modeling.  
+Dordaviprone causes concentration-dependent QTc interval prolongation and coadministration of 
+with other QT-prolonging products may increase the risk of QTc-associated arrhythmias. The 
+recommendation to avoid concomitant use of products known to prolong QT interval or to 
+separate administration is acceptable. 
+ 
+Recommendations 
+The NDA is approvable from a clinical pharmacology perspective. The key review issues are 
+summarized as below.  
+Reference ID: 5638121
+
+
+===== PAGE 81 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+80 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+ Summary of Clinical Pharmacology Assessment  
+ 
+Pharmacology and Clinical Pharmacokinetics 
+Data: 
+The clinical pharmacology evaluations for dordaviprone included assessments of its absorption, 
+distribution, metabolism, and excretion (ADME) in both nonclinical and clinical settings. Human 
+biomaterial studies assessed cell permeability, plasma protein binding, metabolic stability and 
+pathways, and drug-drug interaction (DDI) risks. Phase 1 clinical studies evaluated single-dose 
+pharmacokinetics (PK) in healthy participants and patients, and multiple-dose PK in patients, as 
+well as bioequivalence between clinical and commercial capsule formulations, metabolism/mass 
+balance, and DDI risks. Dedicated special population PK studies were conducted in participants 
+with renal and hepatic impairment. DDI studies evaluated the effects of extrinsic factors, such as 
+interactions with rabeprazole (a proton pump inhibitor) and itraconazole (strong inhibitor of 
+cytochrome P450 [CYP] 3A4 [CYP3A4]). PK evaluations also extended to adult and pediatric 
+patients with central nervous system tumors. Population PK (POPPK) modeling developed using 
+data from adult and pediatric cancer patients and healthy adults, and physiologically-based PK 
+(PBPK) modeling were developed to analyze the impact of intrinsic and extrinsic factors, 
+simulate DDI risks involving CYP3A4, 2C8, and 2D6 enzymes, and estimate pediatric doses for 
+consistent adult exposure levels. The program also assessed QTc interval prolongation and 
+explored exposure-response (E-R) relationships for safety and efficacy.  
+Pharmacokinetics 
+Absorption 
+Dordaviprone plasma exposures increase in a dose-proportional manner across the dose range of 
+125 to 625 mg. At the recommended dosage of dordaviprone (625 mg), the geometric mean 
+(% geoCV) values for dordaviprone Cmax and AUCinf were 2778 ng/mL (41.7%) and 
+22,799 hr·ng/mL (48.2%), respectively. Plasma exposures of dordaviprone do not accumulate 
+following once weekly dosing.  
+Dordaviprone administered as capsule contents dissolved in Gatorade (test) was bioequivalent to 
+the intact capsule (reference) administered under fasted conditions. The test/reference geometric 
+mean ratios (90% CIs) were 0.92 (0.83-1.03) for Cmax and 1.09 (1.00-1.19) for AUClast and 
+AUCinf.  
+Dordaviprone administered as capsule contents sprinkled on applesauce (test) resulted in AUClast 
+and AUCinf that were bioequivalent to the intact capsule (reference) under fasted conditions. Cmax 
+was slightly below the bioequivalence threshold. The test/reference geometric mean ratios (90% 
+CIs) were 1.03 (0.94-1.13) for AUClast and AUCinf, and 0.78 (0.70-0.87) for Cmax. 
+Distribution 
+The geometric mean (% geoCV) apparent volume of distribution of dordaviprone was 450 L 
+(40.1%) in patients, indicating significant tissue distribution. Dordaviprone is bound to both 
+Reference ID: 5638121
+
+
+===== PAGE 82 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+81 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+human serum albumin and alpha-1-acid glycoprotein (AAG), with higher and saturable binding 
+to AAG at concentrations ≥10 µM. 
+Metabolism 
+Dordaviprone is primarily metabolized by CYP3A4 and to a lesser extent by CYP2D6, CYP2B6, 
+CYP2C8, CYP2C9, and CYP3A5. The major metabolite, ONC207, is formed via oxidative 
+N-dealkylation and is not active. 
+Excretion 
+Following administration of 14C-radiolabeled dordaviprone, 90.8% of the dose was recovered in 
+urine and feces over 288 hours, with geometric mean recovery of 70.5% in urine and 20.2% in 
+feces. There was little measurable excretion of unchanged dordaviprone in urine and feces. The 
+primary moiety recovered in urine was the metabolite ONC207.  
+Table 6.1: Applicant – Pharmacokinetic Properties of Dordaviprone 
+Absorption 
+Tmax* 
+0.5 to 5.6 hours (patients) 
+Effect of food (high fat meal) on dordaviprone (relative 
+to fasting) 
+AUC was unchanged 
+Cmax decreased by ~40% 
+Distribution 
+% bound to human plasma proteins  
+95% to 97% 
+Blood-to-plasma ratio (drug or drug-related materials)  
+0.67 
+Volume of distribution* (Vz/F) 
+450 L (40.1%) 
+Metabolism 
+Metabolic pathways 
+N-dealkylation, oxidation, dehydrogenation, 
+hydrogenation, or a combination thereof 
+Elimination 
+Major route of elimination  
+Metabolism via CYP3A4 
+Clearance* (CL/F) 
+27.4 L/hr (48.2%) 
+Mean terminal half-life* (t1/2) 
+11.4 hours (29.8%) 
+% of dose excreted in urine  
+70.5%, as metabolites 
+% of dose excreted in feces 
+20.2%, as metabolites 
+Abbreviations: AUC=area under the concentration-time curve; Cmax=maximum concentration; CYP=cytochrome P450; 
+geoCV=geometric coefficient of variation; POPPK=population pharmacokinetics; t1/2=half-life; Tmax=time to reach Cmax. 
+*Parameters estimated from the dordaviprone POPPK model for adults receiving 625 mg. Parameters are presented as geometric 
+mean (% geoCV) except Tmax which is presented as range (minimum, maximum). 
+The Applicant’s Position: 
+Dordaviprone pharmacology and clinical PK have been characterized through nonclinical and 
+clinical studies. These assessments provide the basis for the current dose recommendations of 
+dordaviprone for the treatment of H3 K27M-mutant diffuse glioma, which includes a 625 mg 
+dose (five 125-mg capsules) administered once weekly for adults, and a body weight-adjusted 
+pediatric dose to achieve exposure equivalent to the adult dose. Lower doses of dordaviprone are 
+not supported by the E-R analyses. 
+Reference ID: 5638121
+
+
+===== PAGE 85 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+84 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+which are consistent with concentrations needed for engagement of its direct molecular targets, 
+DRD2 and ClpP. 
+Dordaviprone monotherapy has shown efficacy in reducing tumor burden in patients with 
+recurrent H3 K27M-mutant diffuse glioma, affecting both midline and non-midline structures.  
+In the primary efficacy analysis set, 28% of patients responded to dordaviprone treatment 
+according to RANO 2.0 criteria (ORR 28%; 95% CI: 16.2, 42.5), with a median time to response 
+of 4.6 months (range: 1.6 to 15.9) and the median duration of response of 10.4 months (95% CI: 
+7.4, 15.4). The durable and clinically meaningful responses observed in the primary efficacy 
+analysis set are attributable to dordaviprone monotherapy. Responses have not previously been 
+observed in this population with any other therapy and the responses are inconsistent with the 
+influence of pseudoprogression or ongoing effects of prior radiotherapy. 
+E-R efficacy analysis showed no relationship between dordaviprone exposure and ORR as 
+assessed by Response Assessment in Neuro-Oncology (RANO) high-grade glioma 
+(RANO-HGG), RANO-low-grade glioma (RANO-LGG), and RANO 2.0 criteria. E-R safety 
+analysis showed no trends in any AE incidence and exposure. 
+The Applicant’s Position: 
+These efficacy and safety results support the current proposed dose of dordaviprone. Lower 
+doses of dordaviprone are not supported by the E-R analyses. 
+The recommended dordaviprone dose for treatment of H3 K27M-mutant diffuse glioma is 
+625 mg once weekly given at least 1 hour prior to or 3 hours after a meal. Dordaviprone capsule 
+contents dissolved in Gatorade (125 mg capsule contents per 15 mL Gatorade) provided 
+bioequivalent exposures (AUC and Cmax) to the intact capsule. It is recommended that the 
+contents of dordaviprone capsules be dissolved in Gatorade for patients who have difficulty 
+swallowing whole capsules. 
+The FDA’s Assessment: 
+FDA has no objection to the proposed recommended dosage of 625 mg QW for adult patients. 
+Treatment emergent adverse events (TEAEs) leading to a dosage modification (dose reduction,  
+interruption or discontinuation) were observed in only 7.8% of the patients (refer to Section 
+8.2.4). However, this dosage is not optimized as alternative dose levels or regimens were not 
+adequately investigated during the clinical development.  
+A dose range of 125 mg to 625 mg of dordaviprone administered once weekly or once every 3 
+weeks (Q3W) was studied in the dose escalation trials (ONC002 and ONC005) in patients with 
+advanced solid tumors and hematological malignancies. The maximum tolerated dose (MTD) 
+was not reached and the maximum administered dose (MAD)  of 625 mg QW was selected for 
+further development. Furthermore, the once weekly dosing regimen was selected based on target 
+engagement and pharmacodynamic data available from nonclinical studies. Refer to the final 
+meeting minutes issued on 06/17/2021 for details.  
+Reference ID: 5638121
+
+
+===== PAGE 86 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+85 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+A once daily administration of 625 mg was previously investigated and discontinued based on 
+the results of an investigator-initiated trial in adults with relapsed/refractory acute myeloid 
+leukemia (NCT02392572; ONC003). Two of 6 patients who received 625 mg once daily 
+reported Grade 3 encephalopathy. 
+FDA acknowledges that a randomized, double blind, placebo controlled confirmatory trial 
+(ONC201-108) is currently ongoing in the target patient population where dordaviprone will be 
+administered at the current proposed recommended dose levels on Days 1 and Day 2 each week 
+in adults and pediatric patients. 
+Administration regarding food intake 
+FDA agrees with the Applicant’s recommendation to administer dordaviprone on an empty 
+stomach (at least 2 hours prior to and 3 hours after a meal). Dordaviprone Cmax decreased by 
+40% (no change in AUC) when administered with a high-fat meal (Study ONC201-101). Given 
+that lower dordaviprone exposures were not adequately investigated during clinical development, 
+it is not known if the lower Cmax may negatively affect the anti-tumor activity. 
+FDA agrees with the Applicant’s recommendation to administer dordaviprone by mixing the 
+capsule contents in 15 to 30 mL of a sports drink, apple juice, lemonade, or water before 
+administering orally for pediatric patients unable to swallow capsules whole. 
+o Compatibility studies were performed by adding the dordaviprone capsule contents to a 
+sports drink, water, apple juice or lemonade to support a 24-hour solution stability (at 4 and 
+40 mg/mL concentrations). As demonstrated by the observed % recovery results (range 100.2 
+– 106.3), dordaviprone was fully solubilized in all the indicated mediums. Stability (% 
+recovery) for samples stored at room temperature for 24 hours after reconstitution ranged 
+from 99.9 – 102.6 with and degradation products were not detected or were below the 
+quantification limits. Refer to the Applicant’s response document (SN0014) for details. 
+o Geometric mean ratios and 90% CIs of dordaviprone Cmax and AUC were generally in the 
+bioequivalence limits of 0.80 to 1.25 when dordaviprone was administered orally by mixing 
+the capsule contents with Gatorade or applesauce compared to the fasting condition (Study 
+ONC201-101). 
+ 
+6.2.2.2. 
+Therapeutic Individualization 
+Data / Applicant’s Position 
+Based on population PK analysis, the effect of intrinsic factors including sex, race, body weight, 
+age (adult versus pediatric), hepatic impairment, albumin, creatinine clearance, and disease status 
+(patient vs healthy participant) were assessed using the model. Body weight, disease status, and 
+albumin were identified as significant covariates. 
+Reference ID: 5638121
+
+
+===== PAGE 88 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+87 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+The FDA’s Assessment: 
+Pediatric patients 
+FDA agrees with the Applicant’s proposed recommended dosages in pediatric patients who 
+weigh 10 kg or more, since the predicted dordaviprone Cmax and AUC in pediatric patients are 
+generally within the range of those predicted values in adults (Figure 6). The predicted 
+dordaviprone AUC was approximately 35% lower in pediatric patients who weigh 10 to < 12.5 
+kg compared to that of adults (Figure 6 and Table 33); however, this prediction may 
+underestimate the AUC for this pediatric subpopulation. Most pediatric patients who weigh 10 to 
+< 12.5 kg are likely 1 to 2 years old and these pediatric patients will likely have lower CYP3A 
+activity (~85%) compared to that of adults (Lacriox et al 1997, Treluyer et al 2002 and Steven et 
+al 2003). The model did not incorporate a CYP3A maturity factor and therefore, the lower 
+CYP3A activity may result in higher dordaviprone AUC compared to that of the predicted AUC.   
+There is insufficient information to determine a safe and effective recommended dosage for 
+pediatric patients who weigh < 10 kg or are < 1 year old. Most pediatric patients who weigh < 10 
+kg are <1 year old and CYP3A levels in this pediatric subpopulation have not typically reached 
+the levels observed in adults, which would affect the PK of dordaviprone. Furthermore, diffuse 
+midline glioma harboring an H3 K27M mutation is not expected to commonly occur in pediatric 
+patients <1 year old (refer to Section 1). Hence, an age cut off of 1 year of age recommended. 
+For pediatric patients unable to swallow a whole capsule, FDA agrees with the Applicant’s 
+recommendation to administer dordaviprone by mixing the capsule contents in 15 to 30 mL of a 
+sport drinks, apple juice, lemonade, or water before administering orally. Refer to Section 6.2.2.1 
+for additional details. 
+Administration Modifications for Patients with Swallowing Difficulties 
+ 
+FDA supports opening capsules and mixing with water, apple juice, lemonade, or a sports drink. 
+Refer to Section 6.2.2.1 for additional details. 
+Renal and Hepatic Impairment 
+FDA agrees with the Applicant’s position that a dosage modification is not recommended for 
+patients with mild to severe renal impairment, because dordaviprone exposure (AUC and Cmax) 
+was not significantly affected in patients with severe renal impairment (Study ONC201-104) 
+compared to that of patients with normal renal function. 
+FDA agrees the Applicant’s position that a dosage modification is not recommended for patients 
+with mild to moderate hepatic impairment, because dordaviprone exposure (AUC and Cmax) was 
+not significantly affected in patients with mild and moderate hepatic impairment compared to 
+that of patients with normal hepatic function. The effects of severe hepatic impairment on 
+dordaviprone exposure have not been evaluated; however, FDA is not issuing a PMR as severe 
+hepatic impairment is not expected to commonly occur in this population. 
+QT Interval Prolongation 
+Reference ID: 5638121
+
+
+===== PAGE 89 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+88 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+FDA agrees with the recommended risk mitigation strategies including avoiding the 
+coadministration with other QT-prolonging products or staggering administration of 
+dordaviprone and other QT-prolonging products. Dordaviprone causes concentration-dependent 
+QTc interval prolongation with an estimated mean change in the QTcF interval at 11.8 msec 
+following a single dose of 750 mg (1.2 times the maximum recommended dose); the QTc 
+prolongation may be underestimated when dordaviprone is coadministered with a strong or 
+moderate CYP3A4 inducer. Therefore, FDA agrees with the recommendation to avoid strong or 
+moderate CYP3A inducers; alternately, the dordaviprone dose may be reduced for adults and 
+pediatrics who weigh more than 52.5 kg if these inhibitors cannot be avoided. 
+ 
+6.2.2.3. 
+Outstanding Issues 
+The Applicant’s Position: 
+Based on limited data, the current body weight-based dosing scheme is recommended for 
+pediatric patients; no dose modification recommendations in pediatric patients receiving strong 
+or moderate CYP3A4 inhibitors can be made at this time. 
+The FDA’s Assessment: 
+FDA acknowledges that dosage modifications for pediatrics patients who cannot avoid strong or 
+moderate CYP3A inhibitors cannot be made at this time. The ongoing confirmatory trial (Study 
+ONC01-108) is evaluating dordaviprone administered on Days 1 and 2 each week vs on Day 1 
+each week vs placebo.  The drug-drug interaction potential and risk mitigation strategies will be 
+re-evaluated as needed following the availability of the results from this trial. 
+ 
+ Comprehensive Clinical Pharmacology Review 
+ 
+General Pharmacology and Pharmacokinetic Characteristics 
+Data: 
+Therapeutic dose 
+and exposure  
+625 mg once weekly, Cmax: 3075 ng/mL (107.2%) 
+AUC: 29710 hr·ng/mL (106.4%) (Study ONC002) 
+Maximum dose 
+tested 
+Single dose 
+750 mg (healthy) 
+Multiple dose 
+Two 625 mg doses given 4 hours apart (healthy) 
+Exposures 
+achieved at 
+maximum tested 
+dose 
+Single dose, geomean 
+(% CV geomean) 
+625 mg Adult Patient Cmax: 2778 ng/mL (41.7%) 
+625 mg Adult Patient AUC: 22799 hr·ng/mL (48.2%) 
+(POPPK model) 
+625 mg Pediatric Patient Cmax: 2650 ng/mL (37.8%) 
+625 mg Pediatric Patient AUC: 20100 hr·ng/mL (45.1%)  
+(POPPK model)  
+Reference ID: 5638121
+
+
+===== PAGE 90 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+89 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+750 mg Healthy Cmax: 4262 ng/mL (27.7%) 
+750 mg Healthy AUCinf: 20444 hr·ng/mL (34.8%) 
+(Study ONC201-102) 
+Range of linear 
+PK 
+Analysis in healthy adults demonstrated dose proportionality across the range of 125 mg to 
+750 mg (Study ONC201-101, Part A and ONC201-102) 
+Accumulation at 
+steady state 
+Therapeutic dose administration is not intended to achieve steady state. No detectable 
+accumulation with once weekly dosing. 
+Metabolites 
+ONC207: inactive, approximately 30% relative abundance in plasma and urine; 
+19 additional metabolites identified in plasma at <10% relative abundance. 
+ONC207 Cmax: 729 (19.6%) 
+ONC207 AUCinf: 21916 (24.1%) (Study ONC201-101, Part A) 
+Absorption 
+Tmax 
+Adult Patient dordaviprone: 0.5 to 5.6 hours (POPPK model) 
+Pediatric Patient dordaviprone: 0.60 to 25.70 hours  
+(POPPK model) 
+Healthy dordaviprone: 0.5 to 2.0 hours 
+ONC207: 0.5 to 8.0 hours (ONC201-101, Part A) 
+Distribution 
+Vd/F or Vd, geomean 
+(%CV geomean) 
+Adult Patient Vd/F: 450 L (40.1%) (POPPK model) 
+Pediatric Patient Vd/F: 452 L (36.3%) (POPPK model) 
+Healthy Vd/F: 513 L (32.3%) (ONC201-101, Part A) 
+% bound 
+Protein binding of dordaviprone was 97.1%, 97.0%, 96.1%, 
+95.9%, and 95.1% in human plasma 0.5, 1.0, 5.0, 10, and 20 µM, 
+respectively, indicating a trend for slightly lower binding at higher 
+concentrations. 
+Elimination 
+Route 
+Primary route is urinary excretion of metabolites (71%), with 
+excretion of metabolites in feces as a secondary route (20%). 
+Unchanged dordaviprone excreted in minor amounts (<0.3%) in 
+urine, feces (ONC201-106) 
+Terminal t½, geomean 
+(%CV geomean) 
+Adult Patient: 11.4 hours (29.8%) (POPPK model) 
+Pediatric Patient: 10.1 hours (34.7%) 
+Healthy: 
+Dordaviprone: 9.93 hours (26.2%) 
+ONC207: 26.9 hours (19.2%) (ONC201-101, Part A) 
+CL/F or CL, geomean 
+(%CV geomean) 
+Adult Patient CL/F: 27.4 L/h (48.2%) (POPPK model) 
+Pediatric Patient CL/F: 31.1 (45.1%) (POPPK model) 
+Healthy CL/F: 35.8 L/h (32.3%) (ONC201-101, Part A) 
+Abbreviations: AUC=area under the concentration-time curve; AUCinf=AUC from time zero to infinity; CL=clearance; 
+CL/F=apparent clearance; Cmax=maximum concentration; CV=coefficient of variation; POPPK=population pharmacokinetics; 
+Tmax= time to reach Cmax; Vd=volume of distribution; Vd/F=apparent volume of distribution.  
+Note: The pediatric parameters presented apply to pediatric patients weighing ≥52.5 kg who are receiving a 625 mg dose of 
+dordaviprone. 
+The Applicant’s Position: 
+Single-dose PK has been characterized in healthy adult participants as well as adult and pediatric 
+patients; multiple-dose PK has been characterized in adult patients.  
+The FDA’s Assessment: 
+FDA generally agrees with the Applicant that the PK parameters of dordaviprone were 
+adequately characterized in adults.  
+Reference ID: 5638121
+
+
+===== PAGE 93 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+92 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+6.3.2.3 Is an alternative dosing regimen or management strategy required for 
+subpopulations based on intrinsic patient factors (e.g. race, ethnicity, age, 
+performance status, genetic subpopulations)? 
+Data: 
+No clinically significant differences in the PK of dordaviprone were observed based on age, sex, 
+or race. 
+Renal Impairment 
+The PK of dordaviprone were assessed at a dose of 375 mg in both healthy adults and adults with 
+severe renal impairment (eGFR <30 mL/min as calculated by the Cockcroft-Gault equation). 
+Severe renal impairment increased dordaviprone Cmax by 13% and AUC by approximately 50% 
+and Cmax by 13%. No dose adjustment of dordaviprone is recommended for patients with mild, 
+moderate, or severe renal impairment.  
+Dordaviprone has not been studied in patients with end stage renal disease who are receiving 
+dialysis.  
+Hepatic Impairment 
+The PK of dordaviprone were assessed at a dose of 125 mg in both healthy adults and adults with 
+mild or moderate hepatic impairment (Child-Pugh Class A and B). Moderate hepatic impairment 
+increased dordaviprone AUC by approximately 50% and Cmax by approximately 20%. No dose 
+adjustment of dordaviprone is recommended for patients with mild or moderate hepatic 
+impairment (Child-Pugh Class A and B). 
+Dordaviprone has not been studied in patients with severe hepatic impairment (Child-Pugh 
+Class C). 
+The Applicant’s Position: 
+Based on the assessment of intrinsic factors in the population PK analyses, no dose adjustment or 
+change in dordaviprone dosing is recommended. 
+The FDA’s Assessment: 
+FDA concurs with the Applicant’s position that no clinically significant effects on dordaviprone 
+PK were observed based on age (3 to 90 years), sex, race (74% White, 9% Black/African 
+American or 5% Asian), mild hepatic impairment (total bilirubin ≤ ULN with AST > ULN or 
+total bilirubin > 1 to 1.5 times ULN with any AST), moderate hepatic impairment (Child Pugh 
+B) and renal impairment. Furthermore, the exposure of dordaviprone in pediatric patients (1 year 
+and older) who weigh at least 10 kg is predicted to be within the range of exposures predicted in 
+adults at the recommended dosages.  Refer to Section 6.2.1 for additional details. 
+A PMR will not be issued to evaluate the effects of severe hepatic impairment on dordaviprone 
+PK as the occurrence of severe hepatic impairment in the target patient population is very low. 
+Reference ID: 5638121
+
+
+===== PAGE 190 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+189 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+12 CLINICAL 
+PHARMACOLOGY  
+ 
+ 
+Subsection 12. 1 Mechanism of Action was 
+revised to specify that dordaviprone 
+restores histone H3 K27 trimethylation in 
+H3 K27M-mutant diffuse glioma, and for 
+consistency with 21 CFR 201.57(c)(2)(iv).  
+Subsection 12.2 Pharmacodynamics 
+FDA revised the statement for cardiac 
+electrophysiology and added a statement 
+regarding dordaviprone exposure-response 
+relationships and the time course of 
+pharmacodynamic response for 
+consistency with the 21 CFR 
+201.57(c)(13)(i)(B) requirements. 
+  
+Subsection 12.3 Pharmacokinetics (PK) 
+FDA added maximum concentration 
+(Cmax) and total systemic exposure (AUC) 
+following dordaviprone administration. 
+FDA included information on food effect, 
+pediatric patients, renal impairment, 
+hepatic impairment and drug interactions. 
+13 NONCLINICAL 
+TOXICOLOGY 
+13.1 Carcinogenesis, 
+Mutagenesis, Impairment of 
+Fertility 
+ 
+FDA stated that carcinogenesis studies 
+were not performed with dordaviprone, and 
+that dordaviprone is not genotoxic. 
+13.2 Animal Toxicology 
+and/or Pharmacology 
+ 
+FDA included toxicity details from the dog 
+study. 
+14 CLINICAL STUDIES 
+ 
+FDA revised the text for clarity, brevity 
+and for consistency with oncology labeling 
+practice. All numbers were adjudicated, 
+and landmark duration of response limited 
+to two time points.  
+16 HOW 
+SUPPLIED/STORAGE 
+AND HANDLING 
+ 
+FDA presented this information in a 
+tabular format to improve clarity. 
+Reference ID: 5638121
+
+
+===== PAGE 211 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+210 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Figure 19.3: Applicant – Impact of Significant Covariates on Exposure (Cmax and AUC) 
+ 
+Abbreviations: AUC=area under the concentration-time curve; CI=confidence interval; Cmax=maximum concentration; 
+PPK=population pharmacokinetics. 
+Notes: Reference subject is defined as an oncology patient with a body weight of 70.3 kg and baseline albumin of 4.3 g/dL. Body 
+weight and albumin groupings represent the 5th, 25th, 50th, 75th, and 95th percentiles of the covariate value in the PPK 
+dataset. Interindividual variability is displayed as the 50% and 90% prediction intervals for a reference subject. Clinically 
+relevant limits are considered 0.8 to 1.25. 
+Source: Chimerix_ONC201_ForestPlot_2024.R 
+Reference ID: 5638121
+
+
+===== PAGE 216 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+215 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Table 19.4: Applicant – Univariate Evaluation of Exposure – ORR Relationship 
+Model 
+AIC 
+p-Value 
+RANO-HGG 
+ 
+ORR – AUC0-168 
+40.7 
+0.911 
+ 
+ORR – Cmax 
+40.5 
+0.643 
+RANO-LGG 
+ 
+ORR – AUC0-168 
+40.2 
+0.077 
+ 
+ORR – Cmax 
+40.8 
+0.379 
+RANO 2.0 
+ 
+ORR – AUC0-168 
+44.8 
+0.252 
+ 
+ORR – Cmax 
+45.6 
+0.467 
+Abbreviations: AIC=Akaike information criterion; AUC0-168=area under the concentration-time curve over a 168-hour dosing 
+interval; Cmax=maximum concentration; ORR=objective response rate 
+Source: CHIM-PMX-ONC201-2784_ER_Efficacy-20241007.Rmd; m5.3.3.5 
+Table 19.5: Applicant – Cox Proportional Hazards Model Results 
+Model 
+AIC 
+p-Value 
+Overall Analysis Population 
+ 
+OS – Cmax 
+1459.94 
+0.57 
+ 
+OS – AUC0-168 
+1458.90 
+0.26 
+Recurrent, Non-DIPG Population 
+ 
+OS – Cmax 
+699.99 
+0.03 
+ 
+OS – AUC0-168 
+701.79 
+0.068 
+Abbreviations: AIC=Akaike information criterion; AUC0-168=area under the concentration-time curve over a 168-hour dosing 
+interval; Cmax=maximum concentration; DIPG=diffuse intrinsic pontine glioma; OS=overall survival 
+Source: CHIM-PMX-ONC201-2784_ER_Efficacy-20241007.Rmd; m5.3.3.5 
+19.4.2.3. ER (safety) Executive Summary 
+The FDA’s Assessment: 
+Exposure-response analysis was performed by the applicant to characterize the relationship 
+between dordaviprone exposures and selected safety endpoints including Grade ≥3 Any TEAE, 
+Grade ≥3 neurological TEAE, Grade ≥3 TEAE of special interest (noninfectious 
+encephalopathy/delirium, extrapyramidal syndrome, torsades de pointes/QT prolongation, or 
+embolic and thrombotic events). Total of 264 subjects from Study ONC006, ONC013 and 
+ONC014 were included in the E-R safety analysis and no clear E-R relationship were observed 
+between dordaviprone exposures and the selected safety endpoints. 
+Reference ID: 5638121
+
+
+===== PAGE 223 =====
+
+NDA Multi-Disciplinary Review and Evaluation 
+NDA 219876 
+Dordaviprone 
+222 
+Version date: March 1, 2024 (ALL NDA/ BLA reviews) 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Background 
+Dordaviprone (also known as ONC201, ONC201•2HCl) is a small-molecule protease activator, 
+which is being developed for the treatment of H3 K27M mutant diffuse glioma in adult and 
+pediatric patients weighing at least 10 kg with progressive disease following prior therapy. The 
+proposed dosage of dordaviprone is 625 mg (five 125 mg capsules) orally once weekly for adult 
+and pediatric patients weighing at least 52.5 kg, and dose scaled by body weight, orally once 
+weekly for pediatric patients weighing less than 52.5 kg. The available dosage strength is 125 mg 
+capsules.  
+Dordaviprone plasma exposures (Cmax, AUClast and AUCinf) increased approximately dose 
+proportional over the range of 125 mg to 625 mg following oral administration of single doses of 
+dordaviprone in healthy males based on the power model (Study ONC201-101, Part A). 
+Following multiple doses of dordaviprone at the 375 and 625 mg QW dose in patients with 
+advanced solid tumors, exposure increased with increasing dose and no accumulation was 
+observed (Study ONC002). Compared to the fasted state, the median Tmax was delayed by 
+approximately 2 hours, AUC was unchanged and Cmax decreased by approximately 40% in 
+healthy adult subjects following a single oral dose of 625 mg dordaviprone after a standardized 
+FDA high-fat meal (ONC201-101).   
+Dordaviprone is primarily metabolized by CYP3A4 in vitro, followed by CYP2D6 (ONC201-
+NCA-100). Contribution of CYP3A4 in dordaviprone metabolism was confirmed by a clinical 
+DDI study with the strong CYP3A4 inhibitor itraconazole. Itraconazole 200 mg once daily 
+increase dordaviprone AUCinf and Cmax by 4.48- and 1.93-fold, respectively when co-
+administered with a single 125 mg dordaviprone (Study ONC201-103). The human ADME study 
+in healthy male adult patients (Study ONC201-106) following a single oral dose of 625 mg 
+dordaviprone showed that approximately 91% of the dose administered orally was recovered, in 
+which approximately 70% and 20% of the dose were recovered in the urine and the feces, 
+respectively. Unchanged parent drug in feces represented less than 0.3% of the dose, indicating 
+that dordaviprone was well absorbed. Less than 0.2% of the dose was excreted as unchanged 
+drug in the urine, indicating that renal elimination of dordaviprone was minimal. The apparent 
+oral clearance of dordaviprone was approximately 36 L/h. 
+Based on in vitro drug interaction studies, dordaviprone is determined to be a reversible inhibitor 
+but not a time-dependent inhibitor of the CYP enzymes studied (Study I5678). Based on the 
+hepatocyte induction study (15676-RPT03761), dordaviprone is an inducer of CYP1A2, 
+CYP2B6, and CYP3A4 because, at 50 times of unbound plasma peak concentration (Cmax = 14.4 
+mM), dordaviprone increased mRNA expression of CYP1A2, CYP2B6, and CYP3A4 greater 
+than 2-fold in at least one donor, and a concentration-dependent increase was observed in 
+CYP3A4 mRNA but not in CYP1A2 and CYP2B6 mRNA, likely due to decrease in hepatocyte 
+viability at dordaviprone concentrations no less than 20 mM. Dordaviprone is not a substrate 
+(Study C19207) but an inhibitor (Study I5679) of all the transporters tested (Table 19.7). Clinical 
+drug interaction studies with dordaviprone as a precipitant have not been conducted. Refer to 
+Reference ID: 5638121
+
+
+===== PAGE 235 =====
+
+NDA 219876
+Pharmacometrics 
+Secondary Reviewer
+Ye Xiong, PhD
+CDER/OTS/OCP/
+DPM
+Sections: 6, 19.4
+Select one:
+x Authored
+  xApproved
+Signature:
+Physiologically-
+based 
+pharmacokinetic 
+(PBPK) modeling
+Reviewer
+Ying-Hong Wang, PhDCDER/OTS/OCP/
+DPM
+Sections: 6, 19.4
+Select one:
+x
+Authored
+  ___Approved
+Signature:
+Physiologically-
+based 
+pharmacokinetic 
+(PBPK) modeling
+Secondary Reviewer
+Manuela Grimstein, 
+Ph.D
+CDER/OTS/OCP/
+DPM
+Sections: 6, 19.4
+Select one:
+x
+Authored
+xApproved
+Signature:
+Clinical 
+Pharmacology 
+Secondary Reviewer
+Stacy Shord, PharmD
+CDER/OTS/OCP/
+DCPII
+Sections: 6, 19.4
+Select one:
+x Authored
+  x Approved
+Signature:
+Clinical 
+Pharmacology 
+Division Director
+Nam Atiqur Rahman, 
+PhD
+CDER/OTS/OCP/
+DCPII
+Sections: 6, 19.4
+Select one:
+___ Authored     x 
+Approved
+Signature:
+Associate Director 
+for Labeling (ADL)
+Barbara Scepura, MSN, 
+CRNP
+CDER/OND/OOD/
+DOII
+  
+  Section: 11
+Select one:
+_xAuthored
+Approved
+Signature:Barbara A. Scepura -S
+Digitally signed by Barbara A. Scepura -S 
+Date: 2025.07.29 17:27:23 -04'00'
+YE XIONG -S
+Digitally signed by YE XIONG -S 
+Date: 2025.07.30 11:21:29 
+-04'00'
+Ying-hong Wang -S
+Digitally signed by Ying-hong Wang -S 
+Date: 2025.07.30 11:50:11 -04'00'
+Ying-hong Wang -S
+Digitally signed by Ying-hong Wang -S 
+Date: 2025.07.30 11:50:44 -04'00'
+Stacy Shord -S
+Digitally signed by Stacy Shord -S 
+Date: 2025.07.30 11:59:24 -04'00'
+NAM A. RAHMAN -S
+Digitally signed by NAM A. RAHMAN -S 
+Date: 2025.07.31 13:58:07 -04'00'
+Reference ID: 5638121

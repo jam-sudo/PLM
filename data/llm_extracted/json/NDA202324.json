@@ -1,0 +1,42 @@
+{
+  "nda": "NDA202324",
+  "drug_name": "axitinib",
+  "pk_tuples": [
+    {
+      "dose_mg": 5, "dose_original": "5 mg single dose",
+      "route": "oral", "formulation": "tablet", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": null, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 21, "tmax_h": 3.5, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 274,
+      "t_half_h": 4.0, "cl_L_h": 36.7, "vd_L": 119,
+      "source_page": 19, "confidence": "medium",
+      "notes": "Population PK model estimates, fed state; AUC0-24 274 ng*h/mL; CL/F 36.7, Vc/F 119 L"
+    },
+    {
+      "dose_mg": 5, "dose_original": "5 mg single dose",
+      "route": "oral", "formulation": "tablet", "food": "fed",
+      "population": "patient", "n_subjects": null, "dose_schedule": "single_dose",
+      "cmax_ng_ml": null, "tmax_h": 4.0, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 137.6,
+      "t_half_h": null, "cl_L_h": 36.3, "vd_L": null,
+      "source_page": 22, "confidence": "high",
+      "notes": "Table 3/4, Study A4061044 cancer patients; AUC0-12 137.6; CL/F 36.3 L/hr"
+    },
+    {
+      "dose_mg": 5, "dose_original": "5 mg BID steady state",
+      "route": "oral", "formulation": "tablet", "food": "fed",
+      "population": "patient", "n_subjects": null, "dose_schedule": "steady_state",
+      "cmax_ng_ml": null, "tmax_h": 2.0, "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 265,
+      "t_half_h": 4.1, "cl_L_h": 37.8, "vd_L": 160,
+      "source_page": 22, "confidence": "high",
+      "notes": "Table 4 multiple dose 5 mg BID steady-state in cancer patients; AUC0-24 265; Rac=1.37 for AUC"
+    },
+    {
+      "dose_mg": 5, "dose_original": "5 mg PO single dose",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 16, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 34, "tmax_h": null, "auc_inf_ng_h_ml": 150, "auc_last_ng_h_ml": null,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 16, "confidence": "high",
+      "notes": "Study A4061003 mass balance, [14C]-axitinib single 5 mg oral dose in healthy male subjects"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "nda": "NDA205677",
+  "drug_name": "tasimelteon",
+  "pk_tuples": [
+    {
+      "dose_mg": 1, "dose_original": "1 mg",
+      "route": "oral", "formulation": "capsule", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 8.3, "tmax_h": 0.50, "auc_inf_ng_h_ml": 14.0, "auc_last_ng_h_ml": null,
+      "t_half_h": 1.11, "cl_L_h": null, "vd_L": null,
+      "source_page": 49, "confidence": "high",
+      "notes": "Study CN116-001 single ascending dose, geometric mean"
+    },
+    {
+      "dose_mg": 3, "dose_original": "3 mg",
+      "route": "oral", "formulation": "capsule", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 15.6, "tmax_h": 0.63, "auc_inf_ng_h_ml": 20.8, "auc_last_ng_h_ml": null,
+      "t_half_h": 1.48, "cl_L_h": null, "vd_L": null,
+      "source_page": 49, "confidence": "high",
+      "notes": "Study CN116-001 single ascending dose, geometric mean"
+    },
+    {
+      "dose_mg": 10, "dose_original": "10 mg",
+      "route": "oral", "formulation": "capsule", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 66.6, "tmax_h": 0.75, "auc_inf_ng_h_ml": 110.8, "auc_last_ng_h_ml": null,
+      "t_half_h": 1.95, "cl_L_h": null, "vd_L": null,
+      "source_page": 49, "confidence": "high",
+      "notes": "Study CN116-001 single ascending dose, geometric mean"
+    },
+    {
+      "dose_mg": 30, "dose_original": "30 mg",
+      "route": "oral", "formulation": "capsule", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 103.5, "tmax_h": 0.75, "auc_inf_ng_h_ml": 188.9, "auc_last_ng_h_ml": null,
+      "t_half_h": 1.95, "cl_L_h": null, "vd_L": null,
+      "source_page": 49, "confidence": "high",
+      "notes": "Study CN116-001 single ascending dose, geometric mean"
+    },
+    {
+      "dose_mg": 100, "dose_original": "100 mg",
+      "route": "oral", "formulation": "capsule", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 312.8, "tmax_h": 1.25, "auc_inf_ng_h_ml": 935.3, "auc_last_ng_h_ml": null,
+      "t_half_h": 4.8, "cl_L_h": null, "vd_L": null,
+      "source_page": 49, "confidence": "high",
+      "notes": "Study CN116-001 single ascending dose, geometric mean"
+    },
+    {
+      "dose_mg": 300, "dose_original": "300 mg",
+      "route": "oral", "formulation": "capsule", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 6, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 900.5, "tmax_h": 1.00, "auc_inf_ng_h_ml": 2943.2, "auc_last_ng_h_ml": null,
+      "t_half_h": 5.07, "cl_L_h": null, "vd_L": null,
+      "source_page": 49, "confidence": "high",
+      "notes": "Study CN116-001 single ascending dose, geometric mean"
+    },
+    {
+      "dose_mg": 50, "dose_original": "50 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": 10, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 261, "tmax_h": 1.00, "auc_inf_ng_h_ml": 697, "auc_last_ng_h_ml": null,
+      "t_half_h": 2.79, "cl_L_h": null, "vd_L": null,
+      "source_page": 21, "confidence": "high",
+      "notes": "Young males, Study CNN116-003; arithmetic mean (SD)"
+    },
+    {
+      "dose_mg": 50, "dose_original": "50 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "elderly", "n_subjects": 10, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 604, "tmax_h": 0.50, "auc_inf_ng_h_ml": 1429, "auc_last_ng_h_ml": null,
+      "t_half_h": 2.99, "cl_L_h": null, "vd_L": null,
+      "source_page": 21, "confidence": "high",
+      "notes": "Elderly males, Study CNN116-003; arithmetic mean (SD)"
+    },
+    {
+      "dose_mg": 50, "dose_original": "50 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "healthy_adult", "n_subjects": 10, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 426, "tmax_h": 0.88, "auc_inf_ng_h_ml": 920, "auc_last_ng_h_ml": null,
+      "t_half_h": 3.44, "cl_L_h": null, "vd_L": null,
+      "source_page": 21, "confidence": "high",
+      "notes": "Young females, Study CNN116-003; arithmetic mean (SD)"
+    },
+    {
+      "dose_mg": 50, "dose_original": "50 mg",
+      "route": "oral", "formulation": "capsule", "food": "not_specified",
+      "population": "elderly", "n_subjects": 10, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 601, "tmax_h": 0.75, "auc_inf_ng_h_ml": 1466, "auc_last_ng_h_ml": null,
+      "t_half_h": 3.30, "cl_L_h": null, "vd_L": null,
+      "source_page": 21, "confidence": "high",
+      "notes": "Elderly females, Study CNN116-003; arithmetic mean (SD)"
+    }
+  ]
+}

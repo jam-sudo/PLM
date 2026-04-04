@@ -1,0 +1,54 @@
+{
+  "nda": "NDA203312",
+  "drug_name": "carbidopa/levodopa ER (IPX066)",
+  "pk_tuples": [
+    {
+      "dose_mg": 390.0, "dose_original": "IPX066 97.5-390 mg CD-LD (single dose)",
+      "route": "oral",
+      "formulation": "ER",
+      "food": "fasted",
+      "population": "healthy_adult",
+      "n_subjects": 22, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 1325.64, "tmax_h": 4.5,
+      "auc_inf_ng_h_ml": 7243.98, "auc_last_ng_h_ml": 6752.81,
+      "t_half_h": 1.91, "cl_L_h": null, "vd_L": null,
+      "source_page": 23, "confidence": "high", "notes": "Levodopa PK from Study IPX066-B08-10; dose_mg is 390 mg levodopa component (CD-LD 97.5-390 mg)"
+    },
+    {
+      "dose_mg": 100.0, "dose_original": "Sinemet IR 25-100 mg CD-LD",
+      "route": "oral",
+      "formulation": "IR",
+      "food": "fasted",
+      "population": "healthy_adult",
+      "n_subjects": 22, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 1094.36, "tmax_h": 1.0,
+      "auc_inf_ng_h_ml": 2250.63, "auc_last_ng_h_ml": 2215.35,
+      "t_half_h": 1.55, "cl_L_h": null, "vd_L": null,
+      "source_page": 23, "confidence": "high", "notes": "Levodopa PK from Sinemet IR active comparator, 100 mg LD"
+    },
+    {
+      "dose_mg": 100.0, "dose_original": "Sinemet CR 25-100 mg CD-LD",
+      "route": "oral",
+      "formulation": "ER",
+      "food": "fasted",
+      "population": "healthy_adult",
+      "n_subjects": 22, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 854.96, "tmax_h": 1.5,
+      "auc_inf_ng_h_ml": 2403.06, "auc_last_ng_h_ml": 2372.43,
+      "t_half_h": 1.55, "cl_L_h": null, "vd_L": null,
+      "source_page": 23, "confidence": "high", "notes": "Levodopa PK from Sinemet CR active comparator, 100 mg LD"
+    },
+    {
+      "dose_mg": 100.0, "dose_original": "Stalevo 25-100-200 mg CD-LD-entacapone",
+      "route": "oral",
+      "formulation": "tablet",
+      "food": "fasted",
+      "population": "healthy_adult",
+      "n_subjects": 22, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 1026.77, "tmax_h": 1.5,
+      "auc_inf_ng_h_ml": 3290.75, "auc_last_ng_h_ml": 3250.82,
+      "t_half_h": 1.57, "cl_L_h": null, "vd_L": null,
+      "source_page": 23, "confidence": "high", "notes": "Levodopa PK from Stalevo active comparator (combined with entacapone), 100 mg LD"
+    }
+  ]
+}

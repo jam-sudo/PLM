@@ -1,0 +1,1774 @@
+
+
+===== PAGE 12 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+xi 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 127. Comparison of Oteseconazole Plasma PK Parameters Under Fasted vs. 
+Fed (High-Fat, High-Calorie) Conditions ..................................................................166 
+Table 128. Comparison of Oteseconazole Plasma PK Parameters Under Fasted vs. 
+Fed (Low-Fat, Low-Calorie) Conditions ...................................................................166 
+Table 129. Oteseconazole Plasma PK Parameters for 150 mg 
+ Tablet 
+Compared to the 150 mg 
+ Capsule Under Fed Conditions ......................166 
+Table 130. Mean Cumulative Recovery (% Dose) of Total Radioactivity in Urine and 
+Feces Following a Single Oral Dose of [14C] Oteseconazole to Healthy Female 
+Subjects ......................................................................................................................168 
+Table 131. PK Parameters of Plasma Oteseconazole and Plasma and Whole Blood 
+Radioactivity ..............................................................................................................170 
+Table 132. Relative Bioavailability of Midazolam in the Presence of Oteseconazole ....172 
+Table 133. Digoxin PK Parameters-Summary of Statistical Comparisons .....................173 
+Table 134. Rosuvastatin PK Parameters - Summary of Statistical Comparison .............175 
+Table 135. Summary of Statistical Comparisons of Plasma Ethinyl Estradiol 
+Pharmacokinetic Parameters Following the Administration of a Single Dose of 35 
+μg Ethinyl Estradiol/1 mg Norethindrone Alone on Day 1 or Coadministration of 
+a Single Dose of 35 μg Ethinyl Estradiol/1 mg Norethindrone With Multiple 
+Doses of 150 mg VT-1161 on Day 21 (PK Population) ............................................176 
+Table 136. Summary of Statistical Comparisons of Plasma NE Pharmacokinetic 
+Parameters Following the Administration of a Single Dose of 35 μg EE/1 mg NE 
+Alone on Day 1 or Coadministration of a Single Dose of 35 μg EE/1 mg NE With 
+Multiple Doses of 150 mg Oteseconazole on Day 21................................................177 
+Table 137. Percentage of Subjects With Therapeutic Cure at TOC Visit (Day 28) ........178 
+Table 138. Mean PK Parameters Following Single a Dose of 300 or 600 mg 
+Oteseconazole ............................................................................................................179 
+Table 139. Percentage of Subjects With 1 of More Culture-Verified Acute VVC 
+Infections Through Week 48 (Intent-to-Treat Population) ........................................180 
+Table 140. Summary of Oteseconazole PK by Treatment Arm ......................................180 
+Table 141. Oteseconazole Cmin(ng/mL) Presented as Mean (SD) ...................................182 
+Table 142. Summary of Oteseconazole Noncompartmental Pharmacokinetic 
+Parameters by Treatment and Day .............................................................................183 
+Table 143. Logistic Regression for the Proportion of Subjects With ≥ 1 Culture-
+Verified Acute VVC Episodes During the Maintenance Phase .................................184 
+Table 144. Utility of the Population PK Model ...............................................................184 
+Table 145. Oteseconazole Clinical Studies Used for the Population Pharmacokinetic 
+Analysis......................................................................................................................186 
+Table 146. Summary of Baseline Demographic Characteristics .....................................191 
+Table 147. Parameter Estimates From the Final Population PK Model ..........................195 
+Table 148. Bioanalytical Methods ...................................................................................204 
+Reference ID: 4973894
+(b) (4)
+(b) (4)
+
+
+===== PAGE 16 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+1 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Glossary 
+ADME 
+absorption, distribution, metabolism, excretion  
+AE 
+adverse event 
+AESI 
+adverse event of special interest 
+ALT 
+alanine aminotransferase 
+AST 
+aspartate aminotransferase 
+AUC 
+area under the concentration-time curve 
+AUC0-24h 
+area under the curve from 0 to 24 hours 
+AUC0-72h 
+area under the curve from 0 to 72 hours 
+AUCτ 
+area under the concentration-time curve during the dosing interval 
+AUC0-∞ 
+area under the curve from zero to infinity 
+AUCR 
+area under the curve ratio 
+BCRP 
+breast cancer resistance protein 
+BID 
+twice daily 
+BMI 
+body mass index 
+BV 
+bacterial vaginosis 
+Ca2+ 
+calcium 
+CL/F 
+apparent clearance 
+Cmax 
+maximum plasma concentration 
+Cmin 
+minimum plasma concentration 
+CPK 
+creatine phosphokinase 
+Cr 
+creatinine 
+CT 
+computed tomography 
+CYP 
+cytochrome P450 isoenzyme 
+DDI 
+drug-drug interaction 
+DPMH 
+Division of Pediatric and Maternal Health  
+ECG 
+electrocardiogram 
+ER 
+emergency room 
+ETA 
+interindividual random effect 
+FDA 
+Food and Drug Administration 
+GCP 
+good clinical practice 
+GERD 
+gastroesophageal reflux disease 
+GLP 
+good laboratory practice 
+IC50 
+half maximal inhibitory concentration 
+ICH 
+International Conference on Harmonisation 
+IND 
+investigational new drug 
+IR 
+information request 
+ISS 
+integrated summary of safety 
+ITT 
+intent to treat 
+IV 
+intravenous 
+K+ 
+potassium 
+Ka 
+absorption rate constant 
+KOH 
+potassium hydroxide 
+LC-MS/MS 
+liquid chromatography with tandem mass spectrometry 
+Reference ID: 4973894
+
+
+===== PAGE 17 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+2 
+Integrated Review Template, version 2.0 (04/23/2020) 
+LD 
+loading dose 
+LLOQ 
+lower limit of quantification 
+MATE 
+multidrug and toxic compound extrusion 
+MCS 
+mental component score 
+MI 
+multiple imputation 
+MIC 
+minimum inhibitory concentration 
+MIC50 
+minimum inhibitory concentration to inhibit growth of 50% of organisms 
+MIC90 
+minimum inhibitory concentration to inhibit growth of 90% of organisms 
+mITT 
+modified intent-to-treat 
+MRHD 
+maximum recommended human dosage 
+MRI 
+magnetic resonance imaging 
+NDA 
+new drug application 
+NOAEL 
+no observed adverse effect level 
+OATP 
+organic anion transporting polypeptides 
+OCT 
+organic cation transporter 
+OFV 
+objective function value 
+OTE 
+oteseconazole 
+P-gp 
+P-glycoprotein 
+PI 
+Prescribing Information 
+PK 
+pharmacokinetic 
+popPK 
+population pharmacokinetic 
+PT 
+preferred term 
+Q/F 
+apparent intercompartmental clearance 
+QD 
+once daily 
+RVVC 
+recurrent vulvovaginal candidiasis 
+SAE 
+serious adverse event 
+SF-36 
+36 item short form survey 
+SOC 
+system organ class 
+T1/2 
+half life 
+TEAE 
+treatment-emergent adverse event 
+Tmax 
+time to maximum concentration 
+TOC 
+test of cure 
+ULN 
+upper limit of normal 
+URI 
+upper respiratory infection 
+UTI 
+urinary tract infection 
+V2/F 
+apparent central volume of distribution 
+V3/F 
+apparent peripheral volumes of distribution 
+Vz/F 
+apparent volume of distribution during terminal phase 
+VVC  
+vulvovaginal candidiasis 
+wnl 
+within normal limits 
+ 
+ 
+Reference ID: 4973894
+
+
+===== PAGE 35 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+20 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Characteristic 
+Drug Information 
+Dosage proportionality 
+Oteseconazole exposures increased in a dose-proportional manner while Cmax increased less than dose-proportionally over a 
+dose range of 20 to 320 mg. 
+Accumulation 
+Mean accumulation ratio following daily dose administration for 7 days was 4.5 to 6.2 for a dose range of 40 to 320 mg. 
+Bridge between to-be-
+marketed and clinical trial 
+formulations 
+The to-be-marketed formulation was identical to the Phase 3 trial formulation except in appearance of the capsule shell. 
+ 
+Absorption 
+Bioavailability 
+Absolute bioavailability of oteseconazole was not determined. Based on the recovery of radiolabeled oteseconazole in the 
+human mass balance study, it is estimated to be ~75%. 
+Tmax 
+4.0 - 9.67 h  
+Food effect (fed/fasted) 
+Geometric least square 
+mean and 90% CI 
+Meal Type 
+AUC GMR (90% CI) 
+Cmax GMR (90% CI) 
+Tmax (h) 
+High-fat, high-calorie meal 
+versus fasted 
+1.36 (1.15 – 1.60) 
+1.45 (1.19 – 1.77) 
+Prolonged from 5 h (fasted) 
+to 6.7 (fed, high-fat meal)  
+Low-fat, low-calorie meal 
+versus fasted  
+1.02 (0.86 – 1.21) 
+1.17 (0.95 – 1.43) 
+4.9 
+A high-fat, high-calorie meal was defined as 900-1000 kcal with 500-600 kcal from fat. 
+A low-fat, low-calorie meal was defined as 650 kcal with 117 kcal from fat. 
+ 
+Distribution 
+Volume of distribution 
+423 L 
+Plasma protein binding 
+≥ 99.5% at oteseconazole concentrations of 0.26 – 2.5 µg/mL.  
+Drug as substrate of 
+transporters 
+Oteseconazole is not a substrate of P-gp, BCRP, OATP1B1/B3, OAT1/3 or OCT2 transporters. It is unknown whether 
+oteseconazole is a substrate of the MATE transporter. 
+ 
+Elimination 
+Mass balance results 
+Following administration of 600 mg [14C]oteseconazole, 82% of the administered dose was recovered in excreta; 56% was 
+recovered in feces and 26% was recovered in urine. No metabolites were identified. 
+Clearance  
+0.253 L/h 
+Half-life  
+Median terminal half-life is 138 days (for subject weighing 70 kg) 
+Metabolic pathway(s) 
+No oteseconazole metabolites were detected in incubations with pooled human liver microsomes or in human mass balance 
+studies.  
+Primary excretion pathways 
+(% dosage)  
+Oteseconazole appears to be primarily excreted by biliary excretion. An estimated 66% of the absorbed dose is excreted in 
+feces, and 34% is excreted in urine. 
+Reference ID: 4973894
+
+
+===== PAGE 36 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+21 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Characteristic 
+Drug Information 
+ 
+Intrinsic Factors and Specific Populations 
+Body weight 
+The predicted oteseconazole AUC in subjects weighing <40 kg was up to 2-fold higher than the AUC in subjects with body 
+weight 60 – 70 kg. Because only 1 subject weighing <40 kg (actual weight 36 kg) was identified across Phase 3 clinical 
+studies, the clinical significance of this observation is unknown. 
+Age 
+No clinically significant differences in the PK of oteseconazole were observed based on age.  
+Renal impairment 
+PopPK analyses indicate that mild to moderate renal impairment (eGFR 30-89 mL/min based on the MDRD equation) does 
+not significantly alter the elimination of oteseconazole. However, use of oteseconazole is not recommended in the setting of 
+severe renal impairment or ESRD due to the potential for increased drug accumulation. 
+Hepatic impairment 
+The effect of hepatic impairment on the PK of oteseconazole was not evaluated. Because biliary excretion appears to be the 
+primary elimination pathway for oteseconazole, increased accumulation of oteseconazole may occur in the setting of hepatic 
+impairment. Mild impairment (Child-Pugh A) is not expected to significantly alter the elimination of oteseconazole. However, 
+use of oteseconazole is not recommended in the setting of moderate to severe hepatic impairment (Child-Pugh B-C) due to 
+the potential for increased drug accumulation. 
+ 
+Drug Interaction Liability (drug as perpetrator) 
+Inhibition/induction of 
+metabolism 
+In vitro, oteseconazole was an inducer and inhibitor of CYP3A4/5.  
+In vivo, coadministration of oteseconazole with midazolam (CYP3A4 substrate) did not result in clinically significant inhibition 
+or induction of midazolam metabolism. 
+Inhibition/induction of 
+transporter systems 
+In vitro, oteseconazole was an inhibitor of BCRP.  
+Results of clinical drug-drug interaction studies indicate that oteseconazole had no clinically meaningful effect on the PK of 
+digoxin (P-gp substrate). 
+Results of clinical drug-drug interaction studies indicate that coadministration of oteseconazole with rosuvastatin (BCRP 
+substrate) resulted in a clinically significant increase in rosuvastatin exposure. 
+Abbreviations: AUC, area under the curve; AUC24, area under the curve at 24 hours; BCRP, breast cancer resistance protein; Cmax, maximum plasma concentration; Cmin, minimum plasma 
+concentration; CYP, cytochrome P450 isoenzyme; eGFR, estimated glomerular filtration rate; ESRD, end stage renal disease; GMR, geometric mean ratio; LC/MS/MS, liquid chromatography with 
+tandem mass spectrometry; MATE, multidrug and toxic compound extrusion; MDRD, modification of diet in renal disease; OATP, organic anion transporting polypeptides; P-gp, P-glycoprotein; PK, 
+pharmacokinetics, TQT, thorough QT. 
+ 
+Reference ID: 4973894
+
+
+===== PAGE 120 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+107 
+Integrated Review Template, version 2.0 (04/23/2020) 
+consecutive days, but the proposed maintenance dose is 150 mg weekly. Therefore, low to no 
+induction is expected at the recommended dose. Also, no clinically significant differences in 
+pharmacokinetics of oral contraceptives of ethinyl estradiol and norethindrone, CYP3A4 
+substrate, were observed when administered concomitantly with oteseconazole (see details 
+below). Therefore, the review team accepted the Applicant’s proposal that no dosage adjustment 
+is needed when CYP3A4 substrates are co-administered with oteseconazole.  
+Substrates of P-gp and BCRP 
+Clinical drug interaction study (VMT-VT-1161-CL-015) showed that digoxin Cmax and area 
+under the curve from 0 to 24 hours (AUC0-24h) were similar (differences in mean ratios were 
+approximately 6-13%) upon coadministration of digoxin with oteseconazole. However, 
+coadministration of a single dose of 150 mg oteseconazole increased rosuvastatin Cmax, 
+AUC0-24h, and area under the curve from zero to infinity (AUC0-∞) approximately 84% to 87%; 
+and coadministration of 150 mg oteseconazole for 14 days increased rosuvastatin Cmax, AUC0-24h 
+and AUC0-∞ approximately 94% to 118%. The review team agrees with the Applicant that 
+oteseconazole inhibits BCRP but does not inhibit P-gp. However, the review team disagrees with 
+the Applicant’s proposed labeling language, 
+ 
+ Instead, based on the mitigation strategy recommended 
+for approved drugs which also have drug interaction with rosuvastatin, increase rosuvastatin’s 
+systemic exposure at a similar level, and increased creatinine kinase in clinical studies, the 
+review team recommends using the lowest possible starting dose or consider reducing the dose of 
+drugs that are BCRP substrates and monitor for adverse reactions.  
+Combined Oral Contraceptive 
+When a combined oral contraceptive containing ethinyl estradiol (EE) and norethindrone (NE) 
+was co-administered with oteseconazole in a clinical drug interaction study, EE Cmax, AUC0-24h, 
+AUC0-t, and AUC0-∞, were increased approximately 12% to 20% and NE Cmax, AUC0-t, and 
+AUC0-∞, were similar (difference of 3% to 7%) compared to when administered alone. 
+Therefore, no clinically meaningful effect of the concomitant use of oral contraceptives 
+with oteseconazole would be anticipated, and thus no dosage adjustment is needed.   
+8.3. Plans for Pediatric Drug Development 
+The oteseconazole IND had an agreed initial pediatric study plan that contained plans to request 
+a partial waiver in pediatric patients less than 12 years of age as well as all male patients and to 
+enroll female patients 12 to less than 18 years of age. Eligibility criteria for the phase 3 trials 
+included postmenarchal females ages 12 years old and above; however, only 3 adolescent 
+subjects enrolled into the phase 3 trials. Based on the preclinical findings and the review team’s 
+decision to contraindicate the use of oteseconazole in females who are not of reproductive 
+potential, studies in adolescents will be waived. This will be addressed in the appropriate 
+sections of the oteseconazole US prescribing information. 
+Reference ID: 4973894
+(b) (4)
+(b) (4)
+
+
+===== PAGE 121 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+108 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Oteseconazole was presented to the Pediatric Review Committee on December 14, 2021. The 
+PeRC agreed with the Division’s recommendation to grant a full waiver for pediatric studies in 
+the above-mentioned groups for the following reasons: 
+• Less than 12 years of age and males of all ages because studies are impossible or highly 
+impracticable 
+• For females >12 to <17 years of age because the product will be unsafe for use in this age 
+group. 
+8.4. Pregnancy and Lactation 
+Animal Data 
+The nonclinical information in Table 54 was used in support of the indicated labeling sections. 
+Additional nonclinical data are located in Sections 13.1 and 13.2, and the final labeling.  
+Table 54. Nonclinical Data Supporting Labeling on Pregnancy and Lactation 
+Labeling Section 
+Nonclinical data 
+8.1 Pregnancy 
+Ocular abnormalities including cataracts, opacities, exophthalmos, buphthalmos, 
+optic nerve atrophy, retinal atrophy, lens degeneration and hemorrhage were 
+observed in the offspring of pregnant rats administered oteseconazole from 
+Gestation Day 6 through Lactation Day 20 at 7.5 mg/kg day (about 3.5 times the 
+recommended human dose based on AUC comparisons). Opacities were 
+consistently observed in pups after oteseconazole dosing of pregnant dams from 
+the three rat strains tested: Crl:CD(SD), Crl:WI(Han) and Hsd:SD. 
+8.2 Lactation 
+There are no data available regarding the presence of oteseconazole in animal 
+milk. It is unclear if the ocular abnormalities observed in a pre and postnatal 
+studies resulted from pre-natal exposure or exposure via milk or both. 
+8.3 Females of 
+reproductive 
+potential 
+Ocular abnormalities including cataracts were observed in pre- and postnatal 
+studies in three rat strains (see nonclinical data supporting Section 8.1 Pregnancy, 
+above). These findings, along with a half-life of 138 days in humans, may indicate 
+a risk to children exposed to oteseconazole in utero, even if the treatment with 
+oteseconazole ended months before the patient became pregnant. 
+Source: 
+Abbreviations: AUC, area under the curve. 
+A total of 29 pregnancies occurred during the three phase 3 and the supportive phase 2b dose 
+ranging clinical trials: 20 oteseconazole exposed females and 9 placebo exposed females. Among 
+the 20 oteseconazole exposed females who became pregnant, 9 were in the phase 2b trial, with 4 
+of 9 subjects receiving 150 mg x 3 months (low dose); 2 of 9 subjects receiving the150 mg x 6 
+months regimen (low dose); 2 of 9 subjects receiving the 300 mg x 3 months regimen (high 
+dose) and a single subject received the 300 mg x 6 months regimen (high dose). 
+In light of the pre-and postnatal development ocular findings in rat pups, the Division consulted 
+the Division of Pediatric and Maternal Health (DPMH) and the Division of Ophthalmology (DO) 
+for input on the potential clinical implications of these nonclinical findings on oteseconazole 
+labeling in pregnant and lactating females and females of reproductive potential. 
+Pregnancy 
+A summary of all pregnancy outcomes in the phase 1-3 trials are described below and a tabular 
+summary of these pregnancies can be found in Section 17.5in the Appendix. 
+Reference ID: 4973894
+
+
+===== PAGE 132 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+119 
+Integrated Review Template, version 2.0 (04/23/2020) 
+13.1.3. Safety Pharmacology 
+Table 60. Safety Pharmacology Studies 
+Study/ Study No.  
+Findings  
+Study 101222.WJB: Effect of VT-1161 
+on Cloned hERG Potassium Channels 
+Expressed in Human Embryonic Kidney 
+Cells 
+The IC50 for the inhibitory effect of VT-1161 on hERG 
+potassium current was 1.9µM. 
+Study 0200RV22.002: 
+Neuropharmacological Profile (NPP) of 
+VT-1161 in Rats Study  
+Species/strain: Rat, Sprague Dawley 
+Number/sex/group: 10 males/group 
+Doses: 0, 30, 100, 300, 1000 mg/kg/day  
+Route of administration: Oral gavage 
+Dosing Frequency: Once 
+No drug-related neuropharmacology effects were observed. 
+Study 1275RV22.002: Evaluation of 
+Respiratory Function of VT-1161 
+Following Single-Dose Oral 
+Administration in Sprague Dawley Rats.  
+Species/strain: Rat, Sprague Dawley 
+Number/sex/group: 4 males/group 
+Dose: 0, 100, 300, 1000 mg/kg/day  
+Route of administration: Oral gavage 
+Dosing Frequency: Once 
+No biologically relevant effects on respiratory rate, tidal 
+volume, or minute volume in conscious male rats. 
+Study: 1259DV22.002: Evaluation of 
+Cardiovascular Function Following 
+Administration of VT-1161 in Conscious 
+Telemetered Male Beagle Dogs  
+Species/strain: Dog, beagle 
+Number/sex/group: 4 males/group 
+Dose: 30, 100 and 300 mg/kg/day  
+Route of administration: Oral gavage 
+Dosing Frequency: Single dose 
+No consistent or significant drug-related effects on heart rate, 
+or systolic, diastolic, or mean arterial blood pressure, or ECG. 
+The average plasma concentration at 30 hours post dose for 
+the highest (300 mg/kg) dose was 24,150 ng/mL. 
+Source: Reviewer generated table. 
+Abbreviations: AUC, area under the curve; ECG, electrocardiogram; hERG, human ether a-go-go-related gene; IC50, concentration 
+inh biting 50% activity. 
+13.1.4. General Toxicology  
+Study 2139-002: A 26-Week Oral Toxicity Study in Rats With a 17-Week 
+Recovery Period.  
+Oteseconazole dosing for 26 weeks in rats resulted in changes in the liver, adrenals, thyroid, 
+kidneys, and ovaries with no significant effects at 0.15 mg/kg and minimal, nonadverse findings 
+representing an extension of the drug’s pharmacology or of questionable human relevance 
+(thyroid follicular cell hypertrophy/hyperplasia, hepatocellular vacuolation, hepatocellular 
+hypertrophy and renal tubular pigment) at 0.5 mg/kg day, about 0.2 times the maximum 
+recommended human dosage (MRHD) based on area under the concentration-time curve (AUC) 
+comparisons.  
+Reference ID: 4973894
+
+
+===== PAGE 133 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+120 
+Integrated Review Template, version 2.0 (04/23/2020) 
+At doses ≥1.5 mg/kg/day (about 1.3 times the MRHD based on AUC comparisons, additional 
+findings in rats included increased cholesterol, globulin, platelet counts, mild, reversible 
+prolongations in APTT, increased organ weights (liver, thyroid, adrenal), adrenal gland 
+vacuolation, chronic progressive nephropathy, hepatocellular hypertrophy/hyperplasia, 
+multinucleated hepatocytes, increased Kupffer cell pigment, sex cord /stromal hyperplasia with 
+(at 5 mg/kg) decreased prostate weight, increased lung histiocytosis, hepatocellular necrosis, 
+increases cytochrome P450 content (+100%), Thyroxine (+525%) and Triiodothyroxine 
+glucuronidation (+265 %). 
+At the end of the 17-week recovery period, increased platelet count, decreased reticulocytes and 
+thyroid follicular hyperplasia were observed at doses ≥1.5 mg/kg/day while tubular pigment, 
+hepatocellular hypertrophy, hepatocellular necrosis, multinucleated hepatocytes and pigmented 
+Kupffer cells persisted only at 5 mg/kg (about 6 times the MRHD based on AUC comparisons). 
+The no observed adverse effect level (NOAEL) was considered to be 0.5 mg/kg which was 
+associated with a maximum plasma concentration (Cmax) of 741 ng/mL and an AUC of 
+14,295 ngꞏhr/mL (about 0.2 times the MRHD based on AUC comparisons).  
+Table 61. Methods for Study 2139-002 
+Study Features and Methods 
+Details 
+Conducting laboratory and location: 
+GLP compliance 
+Yes 
+Dose and frequency of dosing: 
+0, 0.15, 0.5, 1.5 and 5 mg/kg. Daily 
+Route of administration: 
+Oral gavage 
+Formulation/Vehicle: 
+0.5% (w/w) carboxymethylcellulose (medium viscosity) 
+in deionized water, 
+Species/Strain: 
+Rattus norvegicus, CD® [Crl:CD®(SD)] 
+Number/Sex/Group: 
+20 rats/sex/group 
+Age: 
+6 weeks old 
+Satellite groups 
+Recovery animals were allowed a 17-week, drug-free 
+recovery period: Controls (10/sex), 1.5 mg/kg (10/sex) 
+and 5 mg/kg (10/sex) 
+Toxicokinetics rats: 6/sex/dose 
+Deviation from study protocol affecting 
+interpretation of results: 
+No 
+Table 62. Observations and Results: Changes From Control 
+Parameters  
+Major Findings 
+Mortality 
+Dose (mg/kg/day) 
+0 
+0.15 
+0.5 
+1.5 
+5.0 
+Mortality 
+1 
+ 
+1 
+1 
+1 
+Clinical signs 
+No drug-related clinical signs 
+Body weights 
+No biologically significant drug-related effects on body weight 
+Ophthalmoscopy  
+There were no drug-related ophthalmoscopy findings 
+Dose (mg/kg/day) 
+0 
+0.15 
+0.5 
+1.5 
+5.0 
+Chorioretinal hypoplasia 
+2 
+0 
+2 
+0 
+0 
+Retinal atrophy 
+1 
+0 
+0 
+0 
+0 
+Hematology 
+1.5 mg/kg: Platelets +17%, neutrophils -18%  
+5.0 mg/kg: Platelets +31, Neutrophils -44%, -Hemoglobin +13%, 
+Mean corpuscular hemoglobin -11 %. 
+Coagulation 
+1.5 mg/kg: APTT +15% 
+5.0 mg/kg: APTT +27% (males) 
+Reference ID: 4973894
+(b) (4)
+
+
+===== PAGE 136 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+123 
+Integrated Review Template, version 2.0 (04/23/2020) 
+and 5 mg/kg/day. The incidence/severity of chronic progressive nephropathy was reduced at the 
+end of the recovery period compared to the end of dosing and was comparable to control at 
+1.5 mg/kg. The drug-induced exacerbation of chronic progressive nephropathy in rats may not be 
+predictive of human toxicity since chronic progressive nephropathy has no counterpart in 
+humans. 
+The significance of persistent multinucleated hepatocytes is unclear, but it was only seen in the 
+high dose rats, is believed to be a rat-specific finding and is also seen with drugs such as 
+rifabutin (Scampini et al. 1993). Multinucleated hepatocytes may result from the fusion of 
+hepatocytes (Hayashi et al. 2008). There were no biologically significant increases in liver 
+tumors in the two-year rat study of oteseconazole. 
+13.1.5. Pharmacokinetics 
+Table 66. Summary of 26-Week Oral Repeat-Dose Mean Plasma Oteseconazole Toxicokinetic 
+Parameters in Rat 
+ 
+0.15 mg/kg 
+0.5 mg/kg 
+1.5 mg/kg 
+5 mg/kg 
+Variable 
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+Day 1 
+Cmax (ng/mL) 
+25 
+23 
+104 
+78 
+234 
+229 
+791 
+837 
+Tmax (hr) 
+4 
+6 
+6 
+4 
+4 
+6 
+6 
+24 
+AUC0-24 
+(ngꞏhr/mL) 
+107 
+157 
+1740 
+1280 
+4740 
+4230 
+16,600 
+16,300 
+Day 55 
+Cmax (ng/mL) 
+151 
+45 
+1020 
+471 
+2960 
+3140 
+11,500 
+13,800 
+Tmax (hr) 
+0 
+4 
+2 
+4 
+24 
+2 
+2 
+6 
+AUC0-24 
+(ngꞏhr/mL) 
+2820 
+537 
+16,400 
+7640 
+61,500 
+65,900 
+229,000 
+290,000 
+Week 26 
+Cmax (ng/mL) 
+124 
+54 
+885 
+597 
+3840 
+4270 
+13 600 
+20,100 
+Tmax (hr) 
+4 
+8 
+6 
+8 
+6 
+4 
+2 
+8 
+AUC0-24 
+(ngꞏhr/mL) 
+2590 
+880 
+18,600 
+9990 
+80,500 
+83,300 300,000 
+426,000 
+Racc 
+24.2 
+5.6 
+10.7 
+10.8 
+17 
+19.7 
+18.1 
+26.1 
+CLss/F 
+(mL/h/kg) 
+57.9 
+171 
+26.9 
+50.1 
+18.6 
+18.0 
+16.7 
+11.7 
+t½ (h) 
+- 
+- 
+109 
+- 
+203 
+144 
+163 
+190 
+Source: Reviewer generated table. 
+Abbreviations: AUC0-24, area under the curve from 0 to 24 hours; CLss, clearance at steady state; Cmax, maximum plasma 
+concentration; F, female; M, male; Racc; accumulation ratio; t1/2, half-life; Tmax, time to maximum plasma concentration. 
+Study # 2130-001. A 39-Week Oral Toxicity Study of VT-1161 in Dogs With a 
+33-Week Recovery 
+Key Study Findings  
+• Dogs were dosed with oteseconazole for 39 weeks at 0.75, 1.5, 5.5 and 17 mg/kg, 
+equivalent to between 1 and 26 times the MRHD based on AUC comparisons 
+• Reversible effects seen at all doses were consistent with the pharmacology (impaired 
+steroidogenesis) and included enlarged adrenals, increased adrenal weights, adrenal 
+hypertrophy/hyperplasia, vacuolation, mononuclear cell infiltration increased cholesterol 
+and reduced prostate weights. Adrenal gland ‘degeneration’ was observed in recovery 
+animals at doses ≥5.5 mg/kg/day 
+Reference ID: 4973894
+
+
+===== PAGE 141 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+128 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 72. Observations and Results for Study 2130-009 
+Parameters 
+Major Findings  
+Mortality  
+No drug-related mortality. One 3 mg/kg male sacrificed in extremis 
+on Day 61 and one 10 mg/kg male found dead Day 23 (cause 
+unknown) 
+Clinical signs 
+No test drug-related clinical findings 
+Body weights 
+No biologically significant drug-related changes. 
+Organ weights 
+MD: +62% relative liver weight 
+HD: +103 % relative liver weight 
+Fertility 
+Fertility was unaffected by oteseconazole dosing 
+Male mating, fertility, fecundity index was 96-100% in all groups.  
+Sperm evaluations 
+ 
+Oteseconazole dose 
+0 mg/kg 
+0.5 mg/kg 
+3 mg/kg 
+10 mg/kg 
+Total sperm count per cauda 
+epididymis x 108 
+3.2 
+3.6 
+3.2 
+2.4* 
+% normal sperm 
+96 
+96 
+92* 
+76* 
+Sperm motility (%) 
+82 
+85 
+79 
+61* 
+% detached head 
+4 
+4 
+7* 
+22* 
+% no hook 
+0.05 
+0.18 
+0.92* 
+1.95* 
+Sperm concentration 
+(x108/g) cauda epididymis 
+(Day 75) 
+10.9 
+11.7 
+10.5 
+8.7* 
+Sperm concentration 
+(x108/g) cauda epididymis 
+(12 weeks recovery) 
+10.7 
+- 
+- 
+9.1* 
+Toxicokinetics 
+ 
+ 
+ 
+ 
+Day 42 AUC (ng*h/mL) 
+- 
+12,400 
+118,000 
+604,000 
+Source:  Reviewer generated table 
+Abbreviations: AUC, area under the curve; HD, MD, maintenance dose. 
+Study 2130-008: An Oral Study of Fertility and Early Embryonic 
+Development in Female Rats  
+Key Study Findings 
+• Maternal toxicity consisted of transient reductions in premating bodyweight change at 5 
+and 25 mg/kg and gestational bodyweight changes at 25 mg/kg. 
+• Fertility index, percent post-implantation loss and mean number or early and late 
+resorptions were numerically and statistically different from concurrent controls but were 
+within the range of historical control values. 
+• The NOAEL for maternal toxicity was 1.5 mg/kg and the NOAEL for fertility and 
+embryo-fetal development was 25 mg/kg, with an AUC estimated to be 
+898,600 ng*h/mL, equivalent to about 14 times the MRHD based on AUC comparisons. 
+Reference ID: 4973894
+
+
+===== PAGE 146 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+133 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 79. Observations and Results for Study 2130-007 
+Parameters 
+Major Findings  
+Mortality 
+At 15 mg/kg/day, four rabbits aborted on GD 25, GD 26, GD 27, and GD 
+25 and one delivered early prior to euthanasia on GD 29. Animals that 
+aborted were euthanized on the same day. All other animals survived.  
+Clinical signs 
+At 15 mg/kg/day, test article-related observations consisted of decreased 
+activity (one animal on GD 17-22), absent/few feces (13 animals 
+beginning on GD 12), red material in pan on GD 25-27 (five animals [four 
+of which aborted or delivered early]), and thin appearance beginning on 
+GD 21 (11 animals). Similar test article-related findings were observed at 
+2 and 5 mg/kg/day, but were transient in nature, observed at a low 
+incidence (1-4 days per animal), and not considered adverse. 
+Body weights 
+HD:  -6 % GD 29 
+Body weight gain 
+HD: -35%, GD 29 
+Food consumption 
+HD: -26 % GD 0 to GD 29 
+Necropsy findings 
+Cesarean section data  
+No significant effects on number of corpora lutea, implantation sites, 
+viable fetuses, sex ratio, post-implantation loss, litter size, early 
+resorptions, late resorptions at any dose compared to control. 
+Necropsy findings 
+Offspring 
+LD: micrognathia in one animal 
+HD: -12 % reduced fetal body weights 
+Micrognathia not seen in historical controls at this lab but was only seen 
+in one low-dose animal. Micrognathia has been reported in historical 
+control New Zealand White rabbits in published literature (Ema et al. 
+2012).  
+Other findings were seen at a low incidence, similar to controls or within 
+the range of historical control data and not considered test article related. 
+Source: Reviewer generated table 
+Abbreviations: GD, gestation day. 
+Table 80. Oteseconazole Pharmacokinetics in Pregnant Rabbits 
+Parameter 
+0 mg/kg 
+2 mg/kg 
+5 mg/kg 
+15 mg/kg 
+Day 19 AUC (ng*h/mL) 
+- 
+50,000 
+137,000 
+470,000 
+Exposure multiple 
+ 
+0.6 
+1.6 
+5.5 
+Source: Reviewer generated table 
+Abbreviations: AUC, area under the curve. 
+Study 1234001: An Oral (Gavage) Study of the Effects of VT-1161 on Pre- and 
+Postnatal Development, Including Maternal Function and Toxicokinetics, in 
+Rats.  
+Key Study Findings 
+• Drug-related increases in opacities and exophthalmos were observed at 7.5 mg/kg, a dose 
+equivalent to 3.5 times the clinical exposure based on AUC comparisons 
+• Oteseconazole concentration in pup plasma was 2 to 5 times maternal plasma 
+concentration and declined between Day 4 and Day 21. 
+• The NOAEL for maternal toxicity was 7.5 mg/kg and the NOAEL for pre- and post-natal 
+development was 3 mg/kg (AUC of 57,833 ng*h/mL, an exposure similar to the clinical 
+exposure)  
+Conducting laboratory and location: 
+Reference ID: 4973894
+(b) (4)
+
+
+===== PAGE 173 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+160 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Figure 9. Vaginal CFU Measured on Days 7 (1 Day Post-Treatment) and 10 (4 Days Post-Treatment) 
+in a Murine Model of Vaginal Candidiasis Following Inoculation With Isolate AR466-06 (Left) and 
+Isolate LP1158-07 (Right) 
+ 
+Source: Figure 3 of Applicant’s ISR VMT-LSU-2 
+Abbreviations: CFU, colony forming units. 
+Table 121. Statistical Analyses of Mean CFU Data (P-values Based on Mann-Whitney U Test) 
+AR466-06 
+JJ330-06 
+LP1158-07 
+Variables 
+Day 7 
+Day 10 
+Day 7 
+Day 10 
+Day 7 
+Day 10 
+Oteseconazole versus vehicle 
+0.002 
+0.06 
+0.0003 
+0.0005 
+0.085 
+0.001 
+Oteseconazole versus fluconazole 
+0.006 
+<0.001 
+0.24 
+0.002 
+0.31 
+0.06 
+Source: Summarized from Figures 2 and 3 of Applicant’s ISR VMT-LSU-2 
+Abbreviations: CFU, colony forming units. 
+14.2.1.1. Human PK Studies in Healthy Volunteers 
+Single Ascending Dose 
+Study VMT-VT-1161-CL-001 was a single ascending dose study to characterize the PK, safety 
+and tolerability of oteseconazole in 64 healthy adult subjects. This study also featured an 
+exploratory objective to evaluate the effect of high-fat food on the bioavailability of 
+oteseconazole. Subjects were enrolled sequentially to 6 cohorts with 8 subjects per cohort, and 
+randomly allocated 3:1 to receive either oteseconazole (at doses of 5, 10, 20, 40, 80 or 160 mg) 
+or placebo under fasted conditions (defined as an overnight fast of at least 10 h with continued 
+fasting for 4 h post-dosing). Food effect was evaluated in two additional cohorts (7 and 8), where 
+subjects received 320 mg oteseconazole under fasted conditions or 30 min after a high-fat meal 
+(defined as ~900 kcal total; 50% fat), respectively. 
+Blood sampling for PK assessment was conducted pre-dose and at pre-specified times through 
+72 h post-dosing during a 4-day confinement period. Thereafter, outpatient PK blood samples 
+were obtained on Days 7 and 14 for Cohorts 1-6, and on Days 28 and 42 for Cohorts 7 and 8. 
+Plasma PK samples were analyzed using a validated LC-MS/MS method. Pharmacokinetic 
+assessments included: Cmax, time to maximum concentration (Tmax), the area under the curve 
+from zero to infinity (AUC0-∞), apparent volume of distribution during terminal phase (Vz/F), 
+apparent clearance (CL/F), and half-life (t1/2). 
+Sixty of the sixty-four enrolled subjects completed the study. Oteseconazole was well tolerated 
+and no study discontinuations were attributed to treatment-emergent adverse events (TEAEs); all 
+Reference ID: 4973894
+
+
+===== PAGE 174 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+161 
+Integrated Review Template, version 2.0 (04/23/2020) 
+4 subjects who failed to complete the study were lost to follow-up. The PK population was 
+comprised of subjects with a sufficient number of concentration-time data to provide a PK 
+profile for noncompartmental analysis. Because most of the plasma oteseconazole concentrations 
+were below the lower limit of quantification (LLOQ) of 20.0 ng/mL for subjects who received a 
+dose of 5 mg or 10 mg, data from these cohorts were excluded from the PK summary statistics 
+presented in Table 122. Plasma concentration-time profiles for dose levels of 20 – 320 mg are 
+shown in Figure 10. 
+Table 122. Mean (±SD) PK Parameters for Oteseconazole in PK Population 
+Dose (mg) 
+Cmax (ng/mL) 
+Tmax (h) 
+AUC0-inf 
+(h·ng/mL) 
+CL/F (L/h) 
+Vz/F (L) 
+t1/2 (h) 
+20 
+44.7 (13.2) 
+5.01 (1.08) 
+16145 (6339) 
+1.39 (0.49) 
+696 (123) 
+393 (166) 
+40 
+79.7 (26.4) 
+9.67 (2.34) 
+35037 (15137) 
+1.30 (0.51) 
+939 (228) 
+548 (183) 
+80 
+165 (51.2) 
+4.67 (1.03) 
+84635 (35187) 
+1.08 (0.41) 
+761 (181) 
+536 (220) 
+160 
+180 (49.0) 
+5.67 (2.66) 
+108869 (36981) 
+1.67 (0.73) 1397 (415) 
+618 (169) 
+320 (fasted) 
+338 (101) 
+5.67 (2.34) 
+241971 (35056) 
+1.35 (0.25) 1649 (349) 
+873 (261) 
+320 (fed) 
+988 (305) 
+6.68 (2.09) 953119 (501688) 
+0.41 (0.17) 
+741 (129) 1467 (641) 
+Source: Summarized from Table 11-3 of Applicant’s ISR VMT-VT-1161-CL-001 
+N = 6 for all PK parameters except at the 20-mg dose, where N = 6 for Cmax and Tmax, and N = 5 for other parameters. 
+Abbreviations: AUC0-inf, area under the curve from zero to infinity; CL/F, apparent clearance; Cmax, maximum plasma concentration; 
+PK, pharmacokinetic; t1/2, half-life; Tmax, time to maximum plasma concentration; Vz/F, apparent volume of distribution during terminal 
+phase. 
+Reviewer’s Comment: Of note, the oteseconazole formulation used in this study was a 
+ capsule subject to a more pronounced food effect than the Phase 3 
+ 
+capsule formulation (see Study VMT-VT-1161-CL-013). The elimination half-life summarized in 
+Table 122 was estimated over the sampling period and does not represent the true elimination 
+t1/2. 
+Figure 10. Mean Oteseconazole Plasma Concentration-Time Plots (20 – 320 mg) 
+ 
+Source: Figure 11-1 of Applicant’s ISR VMT-VT-1161-CL-001 
+Abbreviations: h, hour. 
+Reference ID: 4973894
+(b) (4)
+(b) (4)
+
+
+===== PAGE 175 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+162 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Based on power model analysis, the AUC of oteseconazole increased in a dose-proportional 
+manner while Cmax increased less than dose proportionally for the dose range of 20 mg to 320 mg 
+(Table 123). 
+Table 123. Analysis of Dose Proportionality for Dose Range of 20 mg to 320 mg 
+ 
+Source: Table 6-4 of Applicant’s ISR VMT-VT-1161-CL-001 
+Abbreviations: SE, standard error. 
+Multiple Ascending Dose 
+Study VMT-VT-1161-CL-002 was a multiple ascending dose study to evaluate the PK, safety 
+and tolerability of oteseconazole in 32 healthy adult subjects. Subjects were enrolled into 4 
+dosage groups of 40, 80, 160 and 320 mg in which they were randomized 3:1 to receive 
+oteseconazole or placebo, respectively. Following an overnight fast of at least 10 hours, doses 
+were administered 30 minutes after a standardized high-fat meal (900 kcal with 50% of caloric 
+content from fat). Blood samples were collected pre-dose and at pre-specified times post-dosing 
+for the 7 consecutive days of daily dosing. Subjects returned on Days 14, 21, 35, 28 and 49 for 
+additional safety, PK and laboratory assessments. PK samples were assayed using a validated 
+LC-MS/MS method. Pharmacokinetic assessments included: Cmax, minimum plasma 
+concentration (Cmin), Tmax, area under the curve to the last quantifiable time point (AUC0-τ), Vz/F, 
+CL/F, accumulation ratio (Racc), and t1/2. Cmax, Cmin, Tmax, area under the concentration-time 
+curve during the dosing interval (AUCτ), and t1/2 were estimated by noncompartmental analysis . 
+Additionally, a two-compartment model with first order absorption and a lag-time for absorption 
+was used in compartmental analysis to improve estimates for CL/F and t1/2. 
+Oteseconazole was well-tolerated and all but one subject (enrolled in the 80 mg cohort) failed to 
+complete the study. This was due to the only adverse event (AE) (constipation) reported in this 
+study and deemed unrelated to study drug. Consistent with its long half-life, significant 
+accumulation was observed following repeat administration of oteseconazole, with the greatest 
+accumulation observed at the highest dose (Table 124). Both Cmax and AUCτ increased in an 
+approximately dose proportional manner over the 40 to 320-mg dose range. Generally, Vz/F 
+increased with increasing dose; CL/F decreased between the 40 and 80-mg dose levels but 
+remained similar between the 80 to 320-mg dose levels. Mean concentration-time profiles at 
+each dose level are provided in Figure 11. 
+Table 124. Mean (± SD) of Day 7 NCA PK Parameters 
+Dose (mg) 
+Cmax (ng/mL) 
+Tmax (h) 
+AUCτ (h·ng/mL) 
+Cmin (ng/mL) 
+Racc 
+t1/2 (h) 
+40 
+531 (106) 
+4.00 (0.00) 
+10202 (2287) 
+315 (71.4) 4.76 (0.31) 2103 (1060) 
+80 
+1130 (379) 
+6.80 (1.10) 
+23143 (8862) 
+742 (315) 4.46 (0.78) 2445 (1426) 
+160 
+1920 (445) 
+5.00 (1.10) 
+38661 (9787) 
+1250 (319) 4.62 (1.17) 3227 (1570) 
+320 
+3300 (859) 
+5.01 (1.68) 
+67164 (18034) 
+2240 (704) 6.16 (2.46) 5207 (3934) 
+Source: Table 11-3 of Applicant’s ISR VMT-VT-1161-CL-002 
+Abbreviations: AUCτ, area under curve during dosing interval; Cmax, maximum plasma concentration; Cmin, minimum plasma 
+concentration; NCA, noncompartmental analysis; PK, pharmacokinetic; Racc, accumulation ratio; t1/2, half-life; Tmax, time to maximum 
+plasma concentration. 
+Reference ID: 4973894
+
+
+===== PAGE 176 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+163 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 125. Mean (± SD) Compartmental PK Parameters 
+Dose (mg) 
+Tlag (h) 
+t1/2 β (h) 
+CL/F (L/h) 
+Vz/F (L) 
+40 
+1.92 (0.59) 
+1593 (882) 
+0.37 (0.12) 
+122 (19) 
+80 
+1.90 (0.40) 
+2567 (2049) 
+0.25 (0.14) 
+116 (18) 
+160 
+1.60 (0.70) 
+2704 (1149) 
+0.24 (0.11) 
+160 (29) 
+320 
+1.60 (0.35) 
+4324 (2949) 
+0.20 (0.14) 
+215 (34) 
+Source: Table 6-6 of Applicant’s ISR VMT-VT-1161-CL-002 
+Abbreviations: CL/F, apparent clearance; PK, pharmacokinetic; t1/2, half-life; Tlag, lag time; TVz/F, apparent volume of distribution 
+during terminal phase. 
+Figure 11. Mean Oteseconazole Plasma Concentration-Time Profiles at Day 7 
+ 
+Source: Figure 11-2 of Applicant’s ISR VMT-VT-1161-CL-002 
+Abbreviations: h, hour. 
+VMT-VT-1161-CL-008: Multiple Dose and PK in Healthy Western Versus 
+Japanese Subjects 
+Study CL-008 was a Phase 1, open-label study to determine the safety, tolerability and PK of 
+multiple doses of 300 mg and 600 mg oteseconazole in healthy Western and Japanese subjects. A 
+total of 51 subjects, 25 Japanese and 26 Western healthy volunteers were randomized to receive 
+either 300 mg or 600 mg. Doses were administered at the clinical study site 30 min after the start 
+of breakfast once daily for 14 days. Blood samples were collected pre-dose and at Days 2-12, 
+Day 14-17 and at the Day 28 follow-up visit. Subjects returned on Days 14, 21, 35, 28 and 49 for 
+additional safety, PK and laboratory assessments. PK samples were assayed using a validated 
+LC-MS/MS method. Pharmacokinetic assessments included: Cmax, Cmin, Tmax, area under the 
+curve from 0 to 72 hours (AUC0-72h) (for the Day 14 dose), Vz/F, CL/F and t1/2, which were 
+summarized using noncompartmental analysis. 
+As with previous studies, oteseconazole was well tolerated. In the 300-mg dose group, 11 out of 
+13 Japanese and 12 out of 14 Western subjects completed the study. One Japanese subject 
+discontinued the study due to AEs; other discontinuations were due to physician decision, 
+protocol violation and withdrawal by subject. Similarly, in the 600-mg dose group, 10 out of 12 
+Japanese subjects and all 12 Western subjects completed the study. Discontinuations at the 
+Reference ID: 4973894
+
+
+===== PAGE 177 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+164 
+Integrated Review Template, version 2.0 (04/23/2020) 
+higher dose level were due to protocol violation and withdrawal by subject. Table 126 
+summarizes PK parameters by dose level for Japanese and Western subjects. 
+Reviewer’s Comment: At the 300-mg dose level, Cmax and AUC0-72h were ~32% and 20% 
+higher, respectively, in Japanese subjects. At the 600-mg dose level, these differences in Cmax and 
+AUC0-72h were ~17% and 5%, respectively. The reason underlying the small difference in 
+exposure at the 300-mg dose level may be due to differences in body weight, which was shown to 
+be a covariate for oteseconazole exposure in the population PK model. In the 300 mg cohorts, 
+mean body weight for Japanese subjects was 60.25 kg, compared to 76.46 kg in Western subjects 
+(i.e.,~27% lower body weight in Japanese subjects). In the 600 mg cohorts, this difference was 
+less pronounced (67.29 kg versus 71.27 kg). Given the lack of difference in the safety and 
+tolerability of oteseconazole between populations, these differences in exposure are not expected 
+to be clinically significant. 
+Table 126. Mean Oteseconazole Plasma PK Parameters in Japanese Versus Western Subjects 
+ 
+Abbreviations: z, elimination rate constant; AUC0-72, area under the curve from hour 0-72; CL/F, apparent clearance; Cmax, 
+maximum plasma concentration; CV%, coefficient of variation; PK, pharmacokinetic; t1/2, half-life; Tmax, time to maximum plasma 
+concentration. 
+Reference ID: 4973894
+
+
+===== PAGE 178 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+165 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Food Effect 
+Study VMT-VT-1161-CL-013 was a Phase 1, open-label study intended to assess the effect of 
+high-fat, high-calorie and low-fat, low-calorie meals on the bioavailability of oteseconazole. This 
+study was also intended to bridge the 
+ tablet formulation used in Phase 1 extrinsic 
+factor studies and Phase 2b studies to the Phase 3 capsule formulation. To meet these goals, 44 
+healthy adult females were allocated to 1 of 4 cohorts as follows: 
+• Fasted cohort (N=12): received a single 150 mg capsule on following an overnight fast of 
+at least 10 h 
+• High-fat, high-calorie fed cohort (N=12): received a 150 mg capsule 30 minutes after the 
+start of a high-fat, high-calorie meal (900-1000 kcal with 500-600 kcal from fat) 
+• Low-fat, low-calorie fed cohort (N=12): received a 150 mg capsule 30 minutes after the 
+start of a low-fat, low-calorie meal (650 kcal with 117 kcal from fat)  
+• Comparative bioavailability cohort (N=8): received a 
+ 150-mg tablet 30 
+minutes after the start of a high-fat, high-calorie meal.  
+Reviewer’s Comment: Although the total caloric content of the low-fat, low-calorie meal 
+exceeds the 400-500 kcal recommended by the FDA guidance for industry titled, “Assessing the 
+Effects of Food on Drugs in INDs and NDAs” (February 2019), the total number of kcal from fat 
+falls within the recommended 100-125 kcal range for such as meal. 
+PK samples were collected pre-dose and through 72 h post-dose and analyzed using a validated 
+LC-MS/MS method for assessment of the following PK parameters: Cmax, Tmax, AUC0-∞, 
+AUC0-72h, Vz/F, CL/F, and t1/2. To assess the impact of food on oteseconazole exposure, an 
+analysis of variance (ANOVA) was conducted using cohort designation as fixed effect. Least-
+square means of Cmax and AUC0-72h were estimated to obtain the geometric mean ratios (GMRs) 
+for the fed versus fasted cohorts.  
+With the exception of 1 subject (in the low-fat, low-calorie fed cohort) who experienced 
+vomiting 4 h post-dosing, all other subjects completed the study and were included in the PK 
+analysis. High-fat, high-calorie food was found to increase the Cmax and AUC0-72h by 45% and 
+36%, respectively as summarized in Table 127. However, following administration of a low-fat, 
+low-calorie meal, Cmax and AUC0-72h increased by only 17% and 2%, respectively (Table 128). 
+Under fed conditions, Cmax and AUC0-72h associated with the 150 mg 
+ tablet was 
+comparable to that of the Phase 3 150 mg capsule formulation as shown in Table 129. 
+Reference ID: 4973894
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 179 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+166 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 127. Comparison of Oteseconazole Plasma PK Parameters Under Fasted vs. Fed (High-Fat, 
+High-Calorie) Conditions 
+ 
+Abbreviations: ANOVA, analysis of variance; AUC0-72, area under the curve from hour 0-72; Cmax, maximum plasma concentration; 
+CV%, coefficient of variation; MSE, mean squared error; PK, pharmacokinetic. 
+Table 128. Comparison of Oteseconazole Plasma PK Parameters Under Fasted vs. Fed (Low-Fat, 
+Low-Calorie) Conditions 
+ 
+Abbreviations: ANOVA, analysis of variance; AUC0-72, area under the curve from hour 0-72; Cmax, maximum plasma concentration; 
+CV%, coefficient of variation; MSE, mean squared error; PK, pharmacokinetic. 
+Table 129. Oteseconazole Plasma PK Parameters for 150 mg 
+ Tablet Compared to the 
+150 mg 
+ Capsule Under Fed Conditions 
+ 
+Abbreviations: AUC0-72, area under the curve from hour 0-72; Cmax, maximum plasma concentration; CV%, coefficient of variation; 
+PK, pharmacokinetic; Tmax, time to maximum plasma concentration. 
+Reference ID: 4973894
+(b) (4)
+(b) (4)
+
+
+===== PAGE 183 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+170 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 131. PK Parameters of Plasma Oteseconazole and Plasma and Whole Blood Radioactivity 
+ 
+Abbreviations: z, elimination rate constant; AUC0-inf, area under the curve from hour 0 to infinite; AUClast, area under the curve to the 
+last quantifiable time point; CL/F, apparent clearance; Cmax, maximum plasma concentration; PK, pharmacokinetic; t1/2, half-life; Tmax, 
+time to maximum plasma concentration; Vz/F, apparent volume of distribution during terminal phase. 
+Reviewer’s Comment: In the proposed labeling, the Applicant states that oteseconazole has an 
+oral bioavailability of 94% based on mass balance study results. In response to an IR (dated July 
+21st 2021) which sought clarification on the Applicant’s approach to determining oral 
+bioavailability from mass balance study results, the Applicant offered the following explanation:  
+• Based on the expectation that elimination of oteseconazole continues after study 
+termination on Day 278 (at which point cumulative 81.6% of radioactivity had 
+been recovered), the Applicant anticipates that recovery would eventually reach 
+100%. 
+• The 6.32% of radioactivity excreted via feces during the first 408 h collection 
+interval is exclusively nonabsorbed oteseconazole. 
+• Using the assumption that recovery would eventually reach 100% and that 6.32% 
+of oteseconazole was excreted unabsorbed, the oral bioavailability of 
+oteseconazole was estimated to be 94%. 
+However, the final sampling timepoints suggest that recovery of radioactivity has plateaued 
+around 81.6%. Thus, it's unclear that continued collection of excreta would culminate in 100% 
+recovery of the radiolabeled dose. Therefore, it would be more appropriate to assume 81.6% 
+cumulative recovery in estimating bioavailability. If 6.32% of oteseconazole is excreted as 
+unabsorbed drug, and 81.6% of total radioactivity is recovered, the estimated oral 
+bioavailability of oteseconazole is 75.3%. 
+Effect of Oteseconazole on the QTc Interval 
+The effect of oteseconazole on the QTc interval was evaluated in Study VMT-VT-1161-CL-018, 
+a double-blind, randomized, multiple-dose, placebo- and positive-controlled, crossover study in 
+59 healthy female volunteers. Subjects were randomized to oteseconazole, moxifloxacin 
+(positive control)/placebo or placebo/moxifloxacin in a 2:1:1 ratio. In the oteseconazole arm, 
+600 mg of oteseconazole was administered daily on Days 1-13 followed by a 1200-mg dose on 
+Day 14. For the moxifloxacin/placebo arm, a single dose of 400 mg moxifloxacin was 
+Reference ID: 4973894
+
+
+===== PAGE 186 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+173 
+Integrated Review Template, version 2.0 (04/23/2020) 
+< 0.75, or the terminal elimination phase was not evident, and therefore, values for λz and its 
+associated parameters, (i.e., t½, AUC0-∞, CL/F, and Vz/F) were considered not calculable and 
+were not reported. These are presented as missing in the PK parameter tables. As around 81% 
+of subjects on day 1 and around 94% of subjects on day 3 were excluded for AUC0-∞ assessment, 
+AUC0-∞ of digoxin is not a reliable PK parameter for DDI assessment in this study. As digoxin is 
+a long half-life drug (t1/2: 1.5-2 days), it is unknown whether AUC0-24h of digoxin is a reliable PK 
+parameter to evaluate the DDI study. A literature search was conducted to find out whether P-gp 
+inhibitor can have an inhibition effect on digoxin within 24 hours. The results showed that the 
+inhibition effect on digoxin by a P-gp inhibitor can be observed within 24 hours (e.g., capmatinib 
+(Grande et al. 2021) and fostamatinib (Martin et al. 2015). Therefore, Cmax and AUC0-24h of 
+digoxin were used for DDI assessment in this study. The study results suggest that the Cmax and 
+AUC0-24h of digoxin were not affected in the presence of single or multiple doses of 
+oteseconazole. Note that the current study was conducted under the worst-case scenario as 
+oteseconazole was given 150 mg daily for 14 days. Therefore, it is unlikely there is a significant 
+DDI between oteseconazole and P-gp substrates at the proposed maintenance dose of 
+oteseconazole, and thus no dosage adjustment is needed for drugs that are P-gp substrates when 
+co-administered with oteseconazole.  
+Table 133. Digoxin PK Parameters-Summary of Statistical Comparisons 
+ 
+Reference ID: 4973894
+
+
+===== PAGE 189 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+176 
+Integrated Review Template, version 2.0 (04/23/2020) 
+GMRs, mean peak and extend of exposure to EE, as measured by mean Cmax, AUC0-24h, AUC0-t, 
+and AUC0-∞, were approximately 12% to 20% higher following multiple daily doses of 
+oteseconazole. As the exposure increase is less than 40%, it is unlikely the proposed dosage 
+regimen of oteseconazole would have a significant clinical impact on the EE’s exposure. 
+Table 135. Summary of Statistical Comparisons of Plasma Ethinyl Estradiol Pharmacokinetic 
+Parameters Following the Administration of a Single Dose of 35 μg Ethinyl Estradiol/1 mg 
+Norethindrone Alone on Day 1 or Coadministration of a Single Dose of 35 μg Ethinyl 
+Estradiol/1 mg Norethindrone With Multiple Doses of 150 mg VT-1161 on Day 21 (PK Population) 
+ 
+Abbreviations: ANOVA, analysis of variance; AUC0-inf, area under the curve from hour 0 to infinite; AUC0-τ, area under the curve to 
+the last quantifiable time point; Cmax, maximum plasma concentration; CV%, coefficient of variance; EE, ethinyl estradiol ; MSE, 
+mean squared error; PK, pharmacokinetic; NE, norethindrone. 
+The Cmax, AUC0- τ, and AUC0-∞ of NE were similar following the coadministration of a single 
+dose of 35 µg EE/1 mg NE with multiple doses of 150 mg oteseconazole on Day 21 and the 
+administration of a single dose of 35 μg EE/1 mg NE alone on Day 1. Therefore, it is unlikely the 
+proposed dosage regimen of oteseconazole would have a significant clinical impact on the 
+exposure of NE. Overall, no clinically meaningful effect of the concomitant use of oral 
+contraceptives with oteseconazole would be anticipated, and thus no dosage adjustment is 
+needed. 
+Reference ID: 4973894
+
+
+===== PAGE 190 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+177 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 136. Summary of Statistical Comparisons of Plasma NE Pharmacokinetic Parameters 
+Following the Administration of a Single Dose of 35 μg EE/1 mg NE Alone on Day 1 or 
+Coadministration of a Single Dose of 35 μg EE/1 mg NE With Multiple Doses of 150 mg 
+Oteseconazole on Day 21 
+ 
+Abbreviations: ANOVA, analysis of variance; AUC0-inf, area under the curve from hour 0 to infinite; AUC0-τ, area under the curve to 
+the last quantifiable time point; Cmax, maximum plasma concentration; CV%, coefficient of variance; EE, ethinyl estradiol ; MSE, 
+mean squared error; NE, norethindrone 
+Phase 2 Studies 
+Study VMT-VT-1161-CL-004 
+Study CL-004 was a Phase 2a, randomized, double-blind, dose-ranging study to evaluate the 
+efficacy and safety of oteseconazole in comparison to a single 150-mg dose of fluconazole in the 
+treatment of subjects with moderate to severe acute vulvovaginal candidiasis. Subjects were 
+initially randomized 3:3:2 to oteseconazole dosing regimens of 300 mg QD or 600 mg QD for 3 
+days, or a single dose of fluconazole (plus placebo to maintain blinding). Following an interim 
+analysis of safety, efficacy and PK, a third oteseconazole dose level (600 mg twice daily [BID] 
+for 3 days) was added to the study, and subjects were enrolled in a 3:1 ratio to the high dose 
+oteseconazole arm and fluconazole, respectively. The primary efficacy objective was to evaluate 
+the composite of clinical and mycological efficacy of the 3 oteseconazole dose levels compared 
+to fluconazole at the test of cure (TOC) i.e., Day 28 visit. Secondary objectives included: 
+• Evaluation of the safety and tolerability of oteseconazole at the 3 dose levels 
+• Evaluation of clinical efficacy alone at the TOC 
+• Evaluation of mycological efficacy alone at Days 7, 14 and TOC 
+• Evaluation of PK of the 3 oteseconazole dose levels  
+Oteseconazole dose selection for this study was informed by the safety and PK of oteseconazole 
+in SAD and MAD studies as well as findings from nonclinical studies in a murine model of 
+vaginal candidiasis. Results from the murine studies indicated that plasma oteseconazole 
+concentrations ≥ 1 µg/mL were associated with >90% median reduction in fungal burden. Based 
+on the exposures observed in Phase 1 SAD and MAD studies, the 3 oteseconazole dosing 
+regimens were predicted through modeling and simulation to yield Cmin values in excess of the 
+1 µg/mL threshold.  
+Reference ID: 4973894
+
+
+===== PAGE 191 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+178 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Subjects were instructed to take study drug 30 minutes after consuming a meal, however the 
+types and caloric contents of meals were not specified. Sparse PK sampling was conducted 
+beginning at baseline through 168 days post-dosing and analyzed using a validated LC-MS/MS 
+method. Additionally, samples were obtained from consenting subjects on Study Day 1 at pre-
+dose and 1, 2, 3, 4, 5, 6 and 8 h post-dosing. The oteseconazole plasma PK parameters of interest 
+in this study were: Cmax, Cmin, Tmax, area under the curve from 0 to 8 hours (AUC0-8h) and t1/2.  
+Of the 40 female subjects randomized to the oteseconazole treatment arms (where N = 12 to 15 
+subjects/treatment group), 35 subjects completed the study. Nineteen subjects treated with 
+oteseconazole were reported to have TEAEs, none of which led to study discontinuation; five 
+subjects who received oteseconazole were lost to follow-up. The primary efficacy endpoint of 
+therapeutic cure was achieved in 64.3%, 75% and 78.6% of subjects in the 300 mg QD, 600 mg 
+QD and 600 mg BID treatment arms, respectively, compared to 66.7% for fluconazole in the ITT 
+population as summarized in Table 137. Statistically, there was no significant difference in cure 
+rates for any of the oteseconazole arms compared to fluconazole. PK parameters following single 
+dose administration of 300 mg or 600 mg are summarized in Table 138. Mean Cmin values at 24 
+hours following the final dose were calculated using the estimated t1/2 obtained on Days 7 to 168 
+and determined to be 0.71 µg/mL, 1 µg/mL and 2.8 µg/mL for the 300 mg QD, 600 mg QD and 
+600 mg BID treatment arms, respectively. 
+Per the Applicant, the comparatively higher cure rates for the 600 mg QD and 600 mg BID arms 
+compared to the 300 mg QD arm may be attributed to the lower oteseconazole exposures 
+(particularly Cmin) in the low dose group.  
+Table 137. Percentage of Subjects With Therapeutic Cure at TOC Visit (Day 28) 
+ 
+Source: Table 11-12 of Applicant’s ISR VMT-VT-1161-CL-004 
+Abbreviations: bid, twice daily; ITT, intent to treat; mITT, modified intent to treat; q.d., once daily; TOC, test of cure. 
+Reference ID: 4973894
+
+
+===== PAGE 192 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+179 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 138. Mean PK Parameters Following Single a Dose of 300 or 600 mg Oteseconazole 
+Dose (mg) 
+Cmax (µg/mL) 
+Tmax (h) 
+AUC0-8h (h·µg/mL) 
+300 
+0.41 (0.17) 
+4.21 (0.81) 
+1.87 (0.60) 
+600 
+0.97 (0.086) 
+5.75 (1.71) 
+4.23 (0.94) 
+Source: Table 4-1 of Applicant’s Pharmacokinetics Report for Study VMT-VT-1161-CL-004 
+Abbreviations: AUC0-8h, area under the curve from 0 to 8 hours; Cmax, maximum plasma concentration; h, hour; PK, pharmacokinetic; 
+Tmax, time to maximum plasma concentration 
+Reviewer’s Comment: Numerically, the efficacy of the 300 mg QD regimen is comparable to 
+that of the fluconazole arm, while the 600 mg treatment arms provide numerically higher 
+efficacy rates. While the sample size is small, observations from the study support use of 600 mg 
+QD as part of the loading dose/treatment of acute VVC. 
+Study VMT-VT-1161-CL-006 
+Study CL-006 was a Phase 2b, randomized, placebo-controlled dose-ranging study to evaluate 
+the efficacy of 4 oteseconazole dosing regimens for the prevention of culture-verified acute VVC 
+through Week 48 (of the study) in subjects with RVVC. Secondary objectives were to: 
+• Evaluate the proportion of subjects with culture-verified acute VVC through Week 24 
+• Evaluate the safety and tolerability of the oteseconazole dosing regimens through Week 
+48 
+• Evaluate the PK of the 4 dosing regimens. 
+The study was conducted in two phases: subjects (N=254) were first enrolled in an induction 
+phase in which they received 3 doses of 150 mg fluconazole administered every 72 h for the 
+treatment of the acute episode of VVC, followed by a maintenance phase in which they were 
+randomized to 1 of 5 treatment arms. Subjects who were determined to have resolution of their 
+acute VVC infection at 14 days post-initiation of fluconazole treatment were then randomized to 
+the 5 maintenance phase treatment arms as follows: 
+• 150 mg oteseconazole daily for 1 week + 150 mg oteseconazole weekly for 11 weeks + 
+placebo for 12 weeks (N=42) 
+• 150 mg oteseconazole daily for 1 week + 150 mg oteseconazole weekly for 23 weeks 
+(N=43) 
+• 300 mg oteseconazole daily for 1 week + 300 mg oteseconazole weekly for 11 weeks + 
+placebo for 12 weeks (N=43) 
+• 300 mg oteseconazole daily for 1 week + 300 mg oteseconazole weekly for 23 weeks 
+(N=41) 
+• Placebo daily for 1 week + placebo weekly for 23 weeks (N=46) 
+Selection of the oteseconazole dosing regimens was informed by safety and PK data from Phase 
+1 SAD and MAD studies, preclinical murine efficacy studies, and the Phase 2a dose-ranging 
+study in subjects with acute VVC. Based on the results of these preceding studies, dosing 
+regimens anticipated to yield Cmin values ≥ 1 µg/mL were selected for evaluation. Subjects were 
+instructed to take study drug 30 minutes after the main meal of the day at the same time of day 
+throughout the study. Sparse PK sampling was conducted beginning at baseline through Week 
+48, and samples were analyzed using a validated LC-MS/MS method. Additionally, samples 
+were obtained from consenting subjects on Study Day 7 at pre-dose and 1, 2, 3, 4, 5, 6 and 8 h 
+post-dosing. For this study, the plasma PK parameters of interest were: Cmax, Cmin, Tmax and 
+AUC0-8h (at Day 7). 
+Reference ID: 4973894
+
+
+===== PAGE 197 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+184 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Table 143. Logistic Regression for the Proportion of Subjects With ≥ 1 Culture-Verified Acute VVC 
+Episodes During the Maintenance Phase 
+ 
+Source: Table ISE.26.2 of Applicant’s Summary of Clinical Efficacy 
+Abbreviations: BLQ, below the limit quantification; MI, multiple imputations; VVC, vulvovaginal candidiasis 
+14.3. Pharmacometrics Review 
+In general, the Applicant’s population PK analysis is considered acceptable in capturing 
+oteseconazole’s PK. More specifically, the developed model was used to support the current 
+submission as outlined below: 
+Table 144. Utility of the Population PK Model 
+Utility of the final model 
+Reviewer’s Comments 
+Derive 
+exposure 
+metrics and 
+PK 
+parameters 
+• The popPK was used to assess the 
+adequacy of the proposed fixed 
+dosing in all patients from 
+adolescents to adults. 
+• The popPK model was used to 
+predict oteseconazole maximum 
+and minimum concentrations (Cmax 
+and Cmin) and the area under the 
+concentration-time curve over the 
+dosing interval (AUCτ) after each 
+dose, as well as predict 
+oteseconazole half-life. 
+• PK simulations shows that at lower body 
+weights ranging from 29 to <40 kg (expected 
+to be most prevalent in younger adolescent 
+population < 16 years old), the median AUCτ, 
+median Cmax, and median Cmin is about 2-fold 
+the median values observed in patients with 
+body weight ranging from 60 to 70 kg (Figure 
+15 and Figure 16). 
+• The clinical studies did not include adolescent 
+patients younger than 16 years old (3 patients 
+with age 16 to 17 years old). No treatment-
+emergent adverse events (TEAEs) were 
+observed in these patients. Only one patient 
+weighing <40 kg was enrolled in the Phase 3 
+studies (VMT-VT-1161-CL-011, VMT-VT-
+1161-CL-012, VMT-VT-1161-CL-017), and 
+patients weighing between 40 to 59 kg did not 
+have increased AEs compared to those 
+weighing at least 60 kg. Therefore, given the 
+favorable safety profile of oteseconazole, no 
+dose adjustment based on body weight is 
+warranted in adolescent patients.  
+Source: Reviewer 
+Abbreviations: AEs, adverse events; AUCτ, area under the curve during a dosing interval; Cmax, maximum plasma concentration; 
+Cmin, minimum plasma concentration; PopPK, population pharmacokinetics. 
+14.3.1. Applicant’s Population PK Analysis 
+The population pharmacokinetic (popPK) analysis was based on PK data from 8 studies (Table 
+145): four Phase 1 studies in healthy subjects and four Phase 2 studies in different patients’ 
+populations with interdigital tinea pedis (VMT-VT-1161-CL-003), toenail onychomycosis 
+Reference ID: 4973894
+
+
+===== PAGE 207 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+194 
+Integrated Review Template, version 2.0 (04/23/2020) 
+Base PK model  
+The pharmacokinetics of oteseconazole was best described by a 2-compartment distribution 
+model with linear elimination from the central compartment. Absorption was characterized as 
+first-order with a lag time. The PK model was parameterized in terms of apparent clearance 
+(CL/F), apparent central and peripheral volumes of distribution (V2/F and V3/F respectively), 
+apparent intercompartmental clearance (Q/F), absorption rate constant (Ka) and absorption lag 
+time. Between subject variability was estimated on CL/F, V2/F, V3/F and Ka. The residual error 
+model consisted of a combined additive and proportional error model. 
+Covariates Analysis 
+Age, gender, race, body weight, body mass index (BMI), health status (healthy volunteer, VVC, 
+onychomycosis), diet (fasted, regular, or high-fat meal), formulation (capsules, over-
+encapsulated tablets, tablets without over-encapsulation), total bilirubin, albumin, alanine 
+aminotransferase (ALT), aspartate aminotransferase (AST), estimated glomerular filtration 
+(using the modification of diet in renal disease [MDRD] formula) were the examined covariates 
+during covariate model selection. 
+The following covariates were included in the final model: 
+• Body Weight (time varying covariate) on CL/F, Q/F, V2/F and V3/F using a power 
+model, centered at 70 kg 
+• Race (white versus all other groups) on CL/F (using an exponential model) 
+• Total Bilirubin (time varying covariate) on CL/F using a power model, centered at a 
+median total serum bilirubin level of 0.5 mg/dL 
+• Albumin (time varying covariate) on V2/F using a power model, centered at a median 
+albumin level of 4.4 g/dL 
+• Formulation (capsules and non-over-encapsulated tablets) on the relative oral 
+bioavailability (F1) 
+• Study VMT-VT-1161-CL-002 on V2/F (using an exponential model) 
+• Study VMT-VT-1161-CL-007 on Ka (using an exponential model) 
+Final Model 
+The parameter estimates from the final popPK model for oteseconazole are listed in Table 147. 
+According to the popPK model, an average 70 kg white individual with a normal total bilirubin 
+level of 0.5 mg/dL, normal albumin level of 4.4 g/dL, and receiving the capsules formulation, the 
+population estimates for oteseconazole CL/F, V2/F, Q/F, V3/F, F1, Ka and absorption lag time 
+are 0.253 L/h (6.07 L/day), 423 L, 44.5 L/h, 894 L, 1.9 (i.e., 90% higher bioavailability 
+compared to over-encapsulated tablets), 0.278 h-1 and 0.956 h. The estimated interindividual or 
+between subject variability expressed as coefficient of variation (%CV) was 155%, 53%, 56% 
+and 334% for CL/F, V2/F, V3/F, and Ka, respectively. The interindividual random effect (ETA) 
+shrinkage from the final popPK model was 14.8%, 42.3%, 16.6%, and 43.3% for CL/F, V2/F, 
+V3/F, and Ka. 
+Reference ID: 4973894
+
+
+===== PAGE 209 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+196 
+Integrated Review Template, version 2.0 (04/23/2020) 
+1.0, and the physiological reason for this deviation from the theoretical value is unknown. 
+According to the Applicant, the clinical implications are likely limited, as the long half-life of 
+oteseconazole (4126 h) results in a very small peak to trough ratio. 
+Two studies that used the over-encapsulated tablets formulation (studies VMT-VT-1161-CL-003 
+and VMT-VT-1161-CL-004) showed 90% lower bioavailability. According to the Applicant, the 
+lower F1 for the over-encapsulated tablets formulation could be partly attributed to the 
+nonstandardized caloric content of the meals taken prior to dosing (Table 146).  
+An effect of race was found on CL/F, with non-Caucasian subjects having 48% higher clearance 
+than Caucasian subjects. The majority of non-Caucasian subjects were African American (about 
+82%, Table 146). According to the Applicant, the reason for this effect is unknown, but the effect 
+was moderate in size and is unlikely to have clinical implications. 
+Total bilirubin was found to be negatively correlated with clearance, with an estimated average 
+effect of about 13% lower CL/F for a total bilirubin level of 1.5 mg/dL (median of observed total 
+bilirubin levels > 1.2 mg/dL), and about 19% lower CL/F for the highest observed total bilirubin 
+level of 2.7 mg/dL. Based on an information request (see Section 14.3.3), 49 subjects reported 
+total bilirubin values above normal. The vast majority were mild, occurred on a single occasion 
+and had resolved at the subsequent visit. Total bilirubin increases were balanced between subject 
+receiving oteseconazole and placebo. Most reported total bilirubin increases were in study VT-
+1161-CL-005 (Table 146), in which 11 subjects were identified with 3 or more consecutive high 
+total bilirubin values, and 8 of the 11 subjects had a normal total bilirubin value at their last study 
+visit. In most cases increases in total bilirubin were associated with increases in both direct and 
+indirect bilirubin. For most subjects, no obvious association between increased total bilirubin and 
+underlying medical condition or concomitant medications can be made. In a revised population 
+PK analysis, the Applicant evaluated the relationship between direct bilirubin as well as indirect 
+bilirubin levels (as a time varying continuous variable) and oteseconazole CL/F, in order to 
+determine whether total bilirubin, indirect bilirubin, or direct bilirubin is the best predictor of 
+clearance. The revised popPK model with direct bilirubin as a covariate on CL/F provided a 
+better fit (lower objective function value [OFV]) compared to the original final popPK model 
+(i.e., with total bilirubin as covariate on CL/F, see Table 147). In the revised popPK model all the 
+PK parameters remained comparable to the original model, with the exception of the estimated 
+effect of direct bilirubin on CL/F. According to the revised model, direct (conjugated) bilirubin 
+was found to be negatively correlated with CL/F, with an estimated 22% lower CL/F for a direct 
+bilirubin level of 0.4 mg/dL (median of observed direct bilirubin levels > 0.3 mg/dL), and about 
+34 % lower CL/F for the highest observed direct bilirubin level of 0.6 mg/dL. 
+Serum albumin was negatively correlated with the apparent central volume of distribution V2/F, 
+with an estimated 24% higher V2/F for the lowest observed albumin level of 3.3 g/dL, an 
+estimated 13% lower V2/F for the highest observed albumin level of 5.3 g/dL. However, all 
+enrolled subjects had normal serum albumin levels. 
+According to the popPK model, subjects in study VMT-VT-1161-CL-002 were estimated to 
+have 47% lower V2/F compared to the other studies. This study was in healthy adult subjects 
+receiving oteseconazole after ingestion of a high-fat meal. High-fat meals are expected to 
+influence oteseconazole bioavailability, which according to the popPK model parameterization 
+should also be reflected in the apparent clearance CL/F. However, a trend of higher CL/F was 
+observed from the covariate plots between study VMT-VT-1161-CL-002 and CL/F. According 
+Reference ID: 4973894
+
+
+===== PAGE 215 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+202 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+Source: Reviewer’s Analysis 
+Abbreviations: AUC, area under the curve; AUClast, area under the curve to the last quantifiable time point; Cmax, maximum plasma 
+concentration; Cmin, minimum plasma concentration. 
+Figure 16. Ratio of Median Predicted Oteseconazole AUCτ, Cmax, and Cmin Under the Proposed 
+Regimen in Adolescent and Adults With Recurrent Vulvovaginal Candidiasis, Stratified by Body 
+Weight. 
+ 
+Reference ID: 4973894
+
+
+===== PAGE 216 =====
+
+NDA 215888 
+Vivjoa (oteseconazole) 
+203 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+ 
+Source: Reviewer’s Analysis 
+Note: The vertical dashed line (ratio of 1) represents the ratio in median AUCτ, Cmax or Cmin for the reference group with subject 
+weighing 60 to <70 kg. 
+Abbreviations: AUC, area under the curve; AUClast, area under the curve to the last quantifiable time point; Cmax, maximum plasma 
+concentration; Cmin, minimum plasma concentration. 
+Reference ID: 4973894

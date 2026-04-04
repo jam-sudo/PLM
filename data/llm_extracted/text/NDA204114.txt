@@ -1,0 +1,887 @@
+
+
+===== PAGE 4 =====
+
+4.1 
+PHARMACOMETRICS REVIEW............................................................................................40 
+4.2 
+GENOMICS REVIEW ...........................................................................................................49 
+ 
+List of Tables 
+Table 1. Solubility of trametinib...................................................................................................................7 
+Table 2. Summary of clinical pharmacology and clinical studies.................................................................8 
+Table 3. Median percent change from baseline in H scores of exploratory biomarkers by dose................10 
+Table 4. PK parameters following a single dose of trametinib (day 1).......................................................13 
+Table 5. PK parameters following repeat doses of trametinib (day 15)......................................................15 
+Table 6. PK parameters following a 2 mg oral dose of unlabeled trametinib.............................................16 
+Table 7. Major components in plasma after a single 2 mg oral dose of [14C]-trametinib†..........................19 
+Table 8. Enzymatic and cellular activities of trametinib and M5 ...............................................................19 
+Table 9. Percentage of [14C]-GSK1120212 recovered from excreta (urine and feces)...............................20 
+Table 10. Major radiolabeled components of excreted dose found in urine and feces†‡ ............................20 
+Table 11.  IC50 and calculated R1 values for trametinib inhibition..............................................................27 
+Table 12. EC50, Emax, and calculated R3 values for trametinib induction....................................................27 
+Table 13. AUC ratio of midazolam (sensitive CYP3A probe substrate) ....................................................28 
+Table 14. Steady-state PK parameters of everolimus .................................................................................28 
+Table 15. IC50 and calculated R values for trametinib inhibition of transporters........................................29 
+Table 16. Permeability at pH 7.4 and 5.5 in MDCKII-MDR1 cells ...........................................................31 
+Table 17. PK parameters of a single dose of trametinib after a high-fat meal............................................32 
+Table 18. Summary of inter-assay accuracy and precision.........................................................................34 
+ 
+List of Figures 
+Figure 1. Chemical structure of trametinib DMSO.......................................................................................6 
+Figure 2. PFS by predicted average trametinib concentration (Cavg)..........................................................10 
+Figure 3. Proportion of patients with skin-related adverse events (left) and diarrhea (right) versus 
+predicted average trametinib concentration (Cavg) for the registration trial (MEK114267)...............11 
+Figure 4. Mean concentration-time profiles after a single dose of trametinib (day 1)................................13 
+Figure 5. Mean concentration-time profiles after QD doses of trametinib (day 15)...................................14 
+Figure 6. The metabolism of trametinib after a single radiolabeled dose in two patients...........................18 
+Figure 7. Dose-exposure relationship following single doses of 0.125 to 10 mg trametinib......................21 
+Figure 8. Dose proportionality of trametinib after repeat QD doses...........................................................21 
+Figure 9. Exposure of trametinib by renal function....................................................................................23 
+Figure 10. Apparent clearance of trametinib in patients with organ impairment........................................23 
+ 
+NDA 204114/Trametinib 
+ 
+ Page 2 of 58 
+Reference ID: 3289560
+
+
+===== PAGE 6 =====
+
+Key Drug 
+Development 
+Question 
+Rationale 
+PMR 
+Does trametinib 
+prolong 
+QT/QTc 
+intervals? 
+No adequate 
+data to rule out 
+the QT 
+prolongation 
+potential of 
+trametinib. 
+ 
+Complete a clinical trial to evaluate the potential for trametinib to prolong the 
+QT/QTc interval in an adequate number of patients administered repeat doses of 
+trametinib in accordance with the principles of the FDA Guidance for Industry 
+entitled “E14 Clinical Evaluation of QT/QTc Interval Prolongation.” Submit the 
+final report that includes central tendency, categorical and concentration-QT 
+analyses, along with a thorough review of cardiac safety data. 
+Final Protocol Submission: Submitted 
+Trial Completion: August 2014 
+Final Report Submission: April 2015 
+ 
+Should the dose 
+of trametinib be 
+reduced in 
+patients with 
+moderate and 
+severe hepatic 
+impairment? 
+Fraction of dose 
+excreted is 
+>80% in feces 
+indicating that 
+hepatic 
+elimination is 
+the major 
+elimination 
+pathway. 
+Conduct a pharmacokinetic trial to determine the appropriate dose of trametinib 
+in patients with hepatic impairment in accordance with the FDA Guidance for 
+Industry entitled “Pharmacokinetics in Patients with Impaired Hepatic 
+Function: Study Design, Data Analysis, and Impact on Dosing and Labeling.”  
+ 
+Final Protocol Submission: September 2013 
+Trial Completion: June 2015 
+Final Report Submission: December 2015 
+ 
+ 
+1.2.2 Additional Comment to Be Conveyed under IND 102175  
+Consider conducting an in vitro study to determine if trametinib is a substrate of OATP in 
+accordance with the draft FDA Guidance for Industry “Drug Interaction Studies — Study 
+Design, Data Analysis, and Implications for Dosing and Labeling.”   
+ 
+Signatures: 
+ 
+ 
+Reviewer: Ruby Leong, Pharm.D. 
+Division of Clinical Pharmacology V 
+Team Leader: Hong Zhao, Ph.D.  
+Division of Clinical Pharmacology V 
+Reviewer: Jingyu (Jerry) Yu, Ph.D. 
+Division of Pharmacometrics 
+Acting Team Leader: Nitin Mehrotra, Ph.D.  
+Division of Pharmacometrics 
+Reviewer: Stacy S. Shord, Pharm.D. 
+Genomics Group 
+Acting Team Leader: Rosane Charlab Orbach, Ph.D. 
+Genomics Group 
+ 
+Acting Associate Director:  
+Michael Pacanowski, Pharm.D., MPH 
+Genomics Group 
+ 
+Division Director: NAM Atiqur Rahman, Ph.D.  
+Division of Clinical Pharmacology V 
+ 
+ 
+Cc:  DOP2: 
+RPM – N Griffin; MO – M Theoret; MTL – S Demko 
+ 
+DCPV:  DDD – B Booth  
+NDA 204114/Trametinib 
+ 
+ Page 4 of 58 
+Reference ID: 3289560
+
+
+===== PAGE 7 =====
+
+A Required Office of Clinical Pharmacology Office Level Briefing was held on February 8, 
+2013.  
+1.3 
+SUMMARY OF IMPORTANT CLINICAL PHARMACOLOGY AND BIOPHARMACEUTICS         
+FINDINGS 
+ADME: The mean absolute bioavailability of a single 2 mg oral dose of trametinib is 72%, with 
+median time to achieve peak concentrations (Tmax) of 1.5 hours. The increase in exposure is 
+greater than dose proportional after a single dose of 0.125 to 10 mg, and dose-proportional 
+following repeat doses of 0.125 to 4 mg. Following oral administration of 2 mg trametinib daily 
+(QD), geometric mean Cmax, Ctrough (pre-dose concentration), and AUC(0-τ) at day 15 are 22.2 
+ng/mL, 12.1 ng/mL, and 370 ng·hr/mL, respectively. Inter-patient variability at steady state is 
+22% in AUC and 28% in Cmax. Trametinib is highly protein bound (97.4%). 
+Trametinib undergoes non-CYP450 mediated metabolism predominantly via deacetylation to 
+form M5 or in combination with hydroxylation to form M7. Following repeat doses of 
+trametinib, the parent drug is the major component (≥ 75%) in plasma, with M5 and M7 each 
+constituting approximately 10% of drug-related material. Following oral administration of [14C]-
+trametinib, > 80% of excreted radioactivity was recovered in the feces while < 20% of excreted 
+radioactivity was recovered in the urine with < 0.1% of the excreted dose as parent drug in urine. 
+The estimated elimination half-life based on the population pharmacokinetic (popPK) analysis is 
+3.9 to 4.8 days. The accumulation ratio on day 15 relative to day 1 is approximately 6.  
+Food Effect: Administration of a single 2 mg dose of trametinib with a high-fat, high-calorie 
+meal resulted in a 70% decrease in Cmax and a 24% decrease in AUC0-168h, compared to fasted 
+conditions. The Applicant recommends that trametinib be administered one hour before or two 
+hours after a meal, similar to the fasted conditions in clinical trials. Considering the 
+approximately lower peak to trough ratio at steady state (2) as compared to that after a single 
+dose (4 to 5), a 70% decrease in Cmax observed after a single dose would be less pronounced after 
+repeat dosing, and a 24% decrease in AUC is not considered clinically important as efficacy was 
+also achieved in patients whose dose was reduced to 1.5 mg (a 25% dose reduction due to 
+intolerability) in the registration trial. However, given that a single dose of trametinib taken with 
+a high-fat meal resulted in a 24% decrease in systemic exposure and the clinical efficacy of 
+trametinib was established under fasted conditions, the review team recommends avoiding 
+administration of trametinib with a high-fat meal to preserve clinical efficacy while providing a 
+less restricted dosing condition for better compliance. 
+ 
+Organ Impairment: Formal clinical studies have not been conducted to evaluate the effect of 
+organ impairment on the pharmacokinetics (PK) of trametinib. A popPK analysis showed that 
+mild and moderate renal impairment and mild hepatic impairment did not influence the apparent 
+clearance of trametinib, hence no dose adjustment is recommended for patients with mild or 
+moderate renal impairment and for patients with mild hepatic impairment. No data is available in 
+patients with severe renal impairment and in patients with moderate or severe hepatic 
+impairment. Based on the results of a mass balance study and the popPK analysis suggesting that 
+hepatic elimination is the major route while renal excretion is a minor route of elimination for 
+trametinib, the Applicant is requested to conduct a clinical trial to determine the appropriate 
+trametinib dose in patients with hepatic impairment under a post marketing requirement (PMR).   
+ 
+NDA 204114/Trametinib 
+ 
+ Page 5 of 58 
+Reference ID: 3289560
+
+
+===== PAGE 8 =====
+
+Drug Interactions: Trametinib is not a substrate of CYP450 or efflux transporters P-gp or BCRP 
+in vitro. However, it is not known if trametinib is a substrate for OATP. An IND comment will 
+be sent to the applicant to consider conducting an in vitro study to determine if trametinib is a 
+substrate of OATP. 
+In vitro studies with human hepatic microsomes showed that trametinib (at concentrations of 
+0.01 to 10 µM) does not inhibit CYP enzymes including CYP1A2, CYP2A6, CYP2B6, 
+CYP2C9, CYP2C19, CYP2D6, and CYP3A4, and transporters including OATP1B1, OATP1B3, 
+P-gp, and BCRP at a clinically relevant systemic concentration of 0.04 µM (calculated R1 values 
+< 1.1). Trametinib inhibits CYP2C8 with an R1 value of 1.2, which is slightly greater than the 
+cutoff value of 1.1.  
+ 
+In vitro studies with primary human hepatocytes indicated that trametinib has the potential to 
+induce CYP3A4, but not CYP2B6 or CYP2C8. Based on cross-study comparisons, oral 
+administration of trametinib 2 mg QD with everolimus (sensitive CYP3A4 substrate) 5 mg QD 
+had no clinically important effect on the exposure (AUC and Cmax) of everolimus. 
+ 
+Population PK and Exposure-Response Analyses: The popPK analysis did not identify 
+clinically important effects of body weight, age, gender, mild and moderate renal impairment, or 
+mild hepatic impairment as covariates on clearance or volume of distribution of trametinib. 
+Using PK, efficacy, and safety data from the registration trial, no evident exposure-response (E-
+R) relationships were found for the efficacy endpoint of PFS or for adverse events (AEs) 
+including cardiac-related events, diarrhea, visual disorders, hypertension, skin-related events, 
+hepatic disorders, and pneumonitis.  
+2 
+QUESTION-BASED REVIEW 
+2.1 
+GENERAL ATTRIBUTES  
+2.1.1 What are the highlights of the chemistry and physical-chemical properties of the 
+drug substance and the formulation of the drug product? 
+Due to low solubility of the trametinib parent form, a dimethyl sulfoxide (DMSO) solvate form, 
+trametinib DMSO (GSK1120212B) is used 
+ Trametinib DMSO 
+(Figure 1), herein referred to as trametinib, has a molecular weight of 693.5 g/mol, Log P value 
+of 4.99, and basic pKa of 0.25. The proposed drug product is available as 0.5, 1, and 2 mg 
+tablets.   
+Figure 1. Chemical structure of trametinib DMSO 
+ 
+NDA 204114/Trametinib 
+ 
+ Page 6 of 58 
+Reference ID: 3289560
+(b) (4)
+
+
+===== PAGE 11 =====
+
+Study 
+Number 
+Study  
+Design 
+Study  
+Population 
+Assessment 
+Dosing regimen 
+BRAF inhibitor)  
+MEK114267 
+Phase 3, open label, 
+randomized (2:1), 
+active-controlled  
+Advanced or metastatic 
+BRAF V600E or V600K 
+mutation- positive 
+melanoma 
+Efficacy, 
+safety, popPK  
+2 mg QD trametinib or 
+chemotherapy: dacarbazine 1000 
+mg/m2 Q3W or paclitaxel 175 
+mg/m2 Q3W 
+ADME: Absorption, distribution, metabolism, excretion; FIH: First-in-human; LD: Loading dose; PD: 
+Pharmacodynamics;  PK: Pharmacokinetics; PopPK: Population pharmacokinetics;  QD: Once daily;  Q3W: Every three 
+weeks 
+ 
+Trametinib plasma concentration data from Study MEK111054, MEK113583, and MEK114267 
+were used to develop a PopPK model [Report No. 120486] to assess the potential influence of 
+covariates on inter-patient variability in trametinib PK parameters. Trametinib plasma 
+concentration data from Study MEK113583 and MEK114267 were used to explore exposure-
+response relationships for selected efficacy and safety endpoints [Report No. 130902]. 
+ 
+2.2.2 What is the basis for selecting the response endpoints or biomarkers and how are 
+they measured in clinical pharmacology and clinical studies? 
+The primary efficacy outcome measure of the registration trial MEK114267 was progression-
+free survival (PFS), as assessed by blinded independent review committee (BIRC).  
+Exploratory PD biomarkers indicative of MAP-kinase pathway inhibition (pERK), tumor cell 
+proliferation (Ki67), and apoptosis induction (p27) were assessed by immunohistochemistry 
+(IHC) staining of tumor tissue collected at baseline and day 15 of cycle 1 in Study MEK111054. 
+See Section 2.2.4.1 for assessment of relationships between dose and exploratory PD 
+biomarkers.   
+2.2.3 Are the active moieties in the plasma (or other biological fluid) appropriately 
+identified and measured to assess pharmacokinetic parameters and exposure-
+response relationships? 
+Yes. Trametinib was the major component in human plasma after oral administration and it was 
+appropriately identified and measured to assess PK parameters (refer to Section 2.6). Although 
+the M5 metabolite inhibited BRAF catalyzed MEK1 activation by binding to unphosphorylated 
+MEK1 (U-MEK1) and cellular ERK phosphorylation at IC50 values similar to that of trametinib, 
+M5 accounted for < 11% of plasma radioactivity and in blood, trametinib was the major 
+component (> 75%), with M5 constituting < 7% of drug-related material. 
+ 
+2.2.4 Exposure-response 
+2.2.4.1 What are the characteristics of the exposure-response relationships (dose-response, 
+concentration-response) for efficacy?   
+The Pharmacometrics review concluded that based on data from Study MEK114267, there is no 
+evident exposure-response (E-R) relationship for the efficacy endpoint of PFS as determined by 
+a multivariate Cox-proportional hazards analysis (Figure 2). In addition, there is no E-R 
+relationship for response rate (complete and partial response) (data not shown). 
+  
+NDA 204114/Trametinib 
+ 
+ Page 9 of 58 
+Reference ID: 3289560
+
+
+===== PAGE 13 =====
+
+2.2.4.2 What are the characteristics of the exposure-response relationships (dose-response, 
+concentration-response) for safety? 
+Analyses conducted by the Applicant showed that there were no evident E-R relationships for 
+AEs including cardiac-related events, diarrhea, visual disorders, hypertension, skin-related 
+events (Figure 3), hepatic disorders, and pneumonitis. Patients with a higher Cavg appear to have 
+a higher incidence of diarrhea (Figure 3).   
+ 
+Figure 3. Proportion of patients with skin-related adverse events (left) and diarrhea (right) versus 
+predicted average trametinib concentration (Cavg) for the registration trial (MEK114267) 
+ 
+   
+ 
+Source: Report No. 130902, Figure 6, Pages 42-43 
+ 
+Three cases of chorioretinopathy were reported in patients receiving loading doses of trametinib 
+(6/6/2 mg [n=6] and 10/10/3 mg [n=4]) or trametinib 4 mg QD [n=3] in Study MEK111054, 
+suggesting that these ocular events may be related to initial higher exposure to trametinib after 
+loading doses.  
+ 
+2.2.4.3 Does this drug prolong the QT or QTc interval? 
+The Applicant included an analysis of QT/QTc intervals in 50 patients with solid tumors from 
+Study MEK111054. The final study report for a dedicated cardiovascular safety study 
+(MEK114655) will be submitted post marketing. 
+The predicted median change in QTcP at mean steady state Cmax (22 ng/mL) following 2 mg QD 
+dosing was 2.2 ms (90% CI: 0.2, 4.0). At the highest Cmax observed following 2 mg QD and the 
+10/10/3 mg loading dose regimen, the median change in QTcP was 3.2 ms (0.3, 6.0) and 8.0 ms 
+(0.7, 14.9), respectively. Using a non-linear mixed effects model, the Applicant determined that 
+the slope of the relationship between QT interval corrected for heart rate with a population factor 
+(QTcP) and trametinib concentrations was not statistically significant with 95% CI including the 
+null value (slope of 0.0987 [-0.0001, 0.197] ms per ng/mL). 
+ 
+2.2.4.4 Is the dose and dosing regimen selected by the applicant consistent with the known 
+relationship between dose-concentration-response, and is there any unresolved dosing 
+or administration issue? 
+The rationale for the Applicant’s proposed dosing regimen of 2 mg QD was based on the 
+following:  
+NDA 204114/Trametinib 
+ 
+ Page 11 of 58 
+Reference ID: 3289560
+
+
+===== PAGE 14 =====
+
+ 
+Response rate (partial response and complete response) in BRAF V600 mutation-positive 
+melanoma patients of 44% (7/16) at 2 mg QD compared to 36% (5/14) at 2.5 mg QD.    
+ 
+Less AEs ≥ Grade 3, rash or skin-related toxicities ≥ Grade 2, rate of ocular events, and 
+incidence of AEs leading to dose reductions at 2 mg QD compared to 2.5 or 3 mg QD.  
+ 
+Greater inhibition of pERK and Ki67 and increase in p27 biomarkers at 2 mg versus doses of 
+0.5 or 1.0 mg. Mean trametinib concentrations following 2 mg QD dosing exceed the pre-
+clinical target concentration of 10.4 ng/mL over the 24-hour dosing interval. 
+ 
+Given that only one dose level was studied in the Phase 2 and 3 trials and evident E-R 
+relationships for efficacy and safety were not found with the 2 mg QD dose regimen, a 
+conclusion on the appropriateness of the proposed dose regimen based on a relationship between 
+dose-concentration-response cannot be drawn.   
+ 
+The Applicant proposes in the labeling that trametinib should be administered one hour before or 
+two hours after a meal, consistent with fasting conditions in all the clinical trials. Given that a 
+single dose of trametinib taken with a high-fat meal resulted in a 24% decrease in systemic 
+exposure and the clinical efficacy of trametinib was established under fasted conditions, the 
+review team recommends avoiding administration of trametinib with a high-fat meal to preserve 
+clinical efficacy while providing a less restricted dosing condition for better compliance. Refer to 
+Section 2.5.3 for the results of the food effect study and Section 3 for recommended labeling 
+modifications.    
+ 
+2.2.5 What are the PK characteristics of the drug? 
+2.2.5.1 What are the single dose and multiple dose PK parameters? 
+The increase in exposure (AUC) is greater than dose proportional after a single dose of 0.125 to 
+10 mg and dose-proportional following repeat doses of 0.125 to 4 mg. Trametinib has 
+approximately 6-fold accumulation with 2 mg repeat QD dosing. The estimated elimination half-
+life based on the population PK model is 3.9 to 4.8 days. 
+ 
+Single dose PK parameters: In the FIH Study MEK111054, PK samples were collected up to 24 
+or 96 hours after the first dose of 0.125 to 10 mg trametinib and mean concentration-time 
+profiles are shown in Figure 4. Single dose PK parameters of trametinib were determined using 
+noncompartmental analyses and summarized in Table 4.  
+NDA 204114/Trametinib 
+ 
+ Page 12 of 58 
+Reference ID: 3289560
+
+
+===== PAGE 17 =====
+
+ 
+Table 5. PK parameters following repeat doses of trametinib (day 15) 
+Source: Study MEK111054 final study report, Table 67, Page 120 
+ 
+ 
+2.2.5.2 How does the PK of the drug and its major active metabolites in healthy volunteers 
+compare to that in patients? 
+Trametinib has not been studied in healthy volunteers. 
+  
+2.2.5.3 What are the characteristics of drug absorption? 
+In the absolute bioavailability study, [14C]-trametinib was administered as an intravenous (IV) 
+push 1.5 hours post-oral dose to coincide with the tmax of trametinib following oral 
+administration. PK samples were collected up to 240 hours post-oral dose and PK parameters for 
+unlabeled trametinib and [14C]-trametinib are shown in Table 6. The mean absolute 
+bioavailability of trametinib is 72.3% (90% CI: 50%, 105%), determined by the ratio of dose-
+normalized AUC0-last observed after a 2 mg oral dose of unlabeled trametinib and a 5 µg IV 
+microdose of [14C]-trametinib. The geometric mean AUC0-last and AUC0-∞ were 289- and 337-
+fold lower, respectively, after an IV microdose relative to the 2 mg oral dose (for a 400-fold 
+difference in dose).  
+ 
+NDA 204114/Trametinib 
+ 
+ Page 15 of 58 
+Reference ID: 3289560
+
+
+===== PAGE 18 =====
+
+Table 6. PK parameters following a 2 mg oral dose of unlabeled trametinib  
+and a 5 µg IV microdose of [14C]-trametinib 
+ 
+ 
+Source: Study MEK115064 final study report, Table 6, Page 28 
+ 
+Administration of a single 2 mg dose of trametinib with a high-fat, high-calorie meal resulted in 
+decreased rate and extent of absorption, indicated by a 70% and 24% decrease in Cmax and 
+AUC0-last, respectively, as compared to fasted conditions. Refer to Section 2.5.3.  
+ 
+2.2.5.4 What are the characteristics of drug distribution? 
+Following a 5 µg IV dose of trametinib, the volume of distribution is determined to be 1060 L. 
+Given that CL and t1/2 after a 5 µg IV microdose relative to the 2 mg oral dose were comparable 
+(Table 6), this volume of distribution determined by a subtherapeutic IV dose of 5 µg is 
+considered reliable. The apparent central (Vc/F) and peripheral volume of distribution (Vp/F) as 
+determined by the population PK analysis is 214 L and 568 L, respectively.      
+Trametinib is 97.4% and 96.2% bound to human plasma proteins (type of plasma proteins, 
+albumin or alpha glycoprotein, is unspecified) at concentrations of 500 ng/mL and 5,000 ng/mL, 
+respectively [Study UH2007/00095]. 
+The mean blood to plasma ratio in human blood in vitro is concentration-dependent, ranging 
+from 3.4, 3.2, to 1.1 at concentrations of 1, 10, and 50 ng/mL, respectively [Study 11DMM044]. 
+Results from the mass balance study (MEK113708) showed that there is preferential association 
+of radioactivity with red blood cells, reaching a plateau three hours post-dose with a blood to 
+NDA 204114/Trametinib 
+ 
+ Page 16 of 58 
+Reference ID: 3289560
+
+
+===== PAGE 19 =====
+
+plasma concentration ratio of approximately 3. 
+ 
+2.2.5.5 Does the mass balance study suggest renal or hepatic as the major route of 
+elimination?  
+The mass balance study (MEK113708) in two patients with solid tumors who received a single 
+dose of 2 mg [14C]-trametinib as an oral solution and whose blood, urine, and feces samples were 
+collected up to 240 hours (10 days) post-dose, suggests that hepatic elimination appears to be the 
+major route of elimination.  
+ 
+2.2.5.6 What are the characteristics of drug metabolism?   
+Results from an in vitro study [07DMM114] using human cDNA expressed isozymes (CYP1A2, 
+2C8, 2C9, 2C19, 2D6, and 3A4) and human liver microsomes showed formation of metabolites 
+in the absence of NADPH, indicating that trametinib primarily undergoes non-CYP450 mediated 
+metabolism. Incubations with microsomal protein and recombinant CYPs resulted in metabolism 
+< 7% of [14C]-trametinib. Metabolites formed from NADPH-dependent oxidative metabolism 
+accounted for approximately 1% and 3% of [14C]-trametinib radioactivity in human liver 
+microsomes and recombinant CYP450 enzymes, respectively, indicating that CYP450-mediated 
+oxidative metabolism is a minor pathway. CYP3A4 was the only isoenzyme of those tested that 
+appears to be involved in the formation of metabolites (M7, M12, M13, M16, M17, M22), as 
+shown by the absence of metabolites in incubations with azamulin (CYP3A4 inhibitor) and 
+presence of metabolites in incubations with recombinant CYP3A4. 
+ 
+Trametinib is metabolized via deacetylation to form M5; deacetylation in combination with 
+hydroxylation to form M7; glucuronidation of M5 to form M6, and glucuronidation of M7 to 
+form M9 (Figure 6). The specific enzyme responsible for deacetylation has not been identified; 
+however the Applicant claims that deacetylation is likely mediated by hydrolytic esterases. 
+NDA 204114/Trametinib 
+ 
+ Page 17 of 58 
+Reference ID: 3289560
+
+
+===== PAGE 22 =====
+
+Table 9. Percentage of [14C]-GSK1120212 recovered from excreta (urine and feces) 
+ 
+ 
+Patient 1001 
+Patient 1004 
+Total [14C]-GSK1120212 
+recovered from excreta  
+48.2% 
+37.1% 
+     Feces  
+ 
+ 
+          % of excreted dose 
+81.3% 
+94.3% 
+          % of oral dose 
+39.2% 
+35.0% 
+     Urine  
+ 
+ 
+          % of excreted dose 
+18.6% 
+5.6% 
+          % of oral dose 
+9.0% 
+2.1% 
+Source: Study MEK113708 final study report 
+ 
+Table 10. Major radiolabeled components of excreted dose found in urine and feces†‡ 
+ 
+ 
+Urine 
+Feces 
+Parent 
+0.02%, * 
+27.4%, 45.0% 
+M5 
+1.78%, * 
+16.3%, <LLQ 
+M7 
+4.48%, * 
+22.4%, <LLQ 
+M9 
+0.08%, * 
+ND 
+† Results are shown for Patient 1001, Patient 1004                                                    
+‡ Results are approximate as information on parent and metabolite identification 
+in urine were missing at time intervals of 6-12h, 12-24h, 72-96h, 96-120h, 144-
+168h, 192-216h; and time intervals of 0-24h, 24-48h, 96-120h, 144-168h, 192-
+216h in feces                                                                                                               
+* Not characterized due to low levels of radioactivity                                               
+LLQ: Lower limit of quantitation; ND: Not detected                                                 
+Source: Report 11DMM005, Table 4 and 5, Pages 25-28 
+ 
+Additional metabolites, M12, M13, M15, and M17, were found in urine samples collected over 
+24 hours following administration of trametinib 10 mg on days 1 and 2, and 3 mg on days 3 to 
+15. 
+ 
+Elimination 
+CL/F of trametinib determined by noncompartmental analyses is 5.4 L/hr, similar to the apparent 
+clearance of 4.9 L/hr in women and 6.2 L/hr in men estimated using a population PK analysis. 
+The plasma IV CL is 3.21 L/hr, which represents approximately 1% of liver blood flow 
+(assuming human liver blood flow of 81 L/hr and a blood to plasma ratio of 3.0). The moderate 
+to high absolute bioavailability and low CL suggest low hepatic extraction of trametinib. The 
+estimated elimination half-life based on the population PK model is 3.9 to 4.8 days.  
+ 
+NDA 204114/Trametinib 
+ 
+ Page 20 of 58 
+Reference ID: 3289560
+
+
+===== PAGE 23 =====
+
+2.2.5.8 Based on PK parameters, what is the degree of linearity or non-linearity based in the 
+dose-concentration relationship? 
+After single doses of 0.125 to 10 mg, AUC0-24h of trametinib is generally linear up to 3 mg 
+(Figure 7), and greater than dose proportional at higher doses as indicated by a mean slope (90% 
+CI) of 1.30 (1.08, 1.52) using a power model. Cmax increases dose-proportionally with a mean 
+slope (90% CI) of 1.08 (0.90, 1.25). Both AUC0-24h and Cmax are dose proportional after repeat 
+QD doses of 0.125 to 4 mg as indicated by a mean slope (90% CI) of 1.10 (1.00, 1.21) and 1.03 
+(0.91, 1.15), respectively, using a power model (Figure 8).  
+ 
+Figure 7. Dose-exposure relationship following 
+single doses of 0.125 to 10 mg trametinib 
+Figure 8. Dose proportionality of trametinib after 
+repeat QD doses 
+  
+ 
+    
+Source: Study MEK111054 final study report, Table 
+11.10, Pages 1468-71 
+Source: Study MEK111054 final study report, Figure 4, 
+Page 122 
+ 
+ 
+2.2.5.9 How do the PK parameters change with time following chronic dosing? 
+The mean accumulation ratio (day15/day1) with repeat doses of 2 mg trametinib is 
+approximately 6.0. Refer to Table 4 and Table 5 for single and multiple dose PK parameters. 
+2.2.5.10 What is the inter- and intra-subject variability of the PK parameters in volunteers and 
+patients and what are the major causes of variability? 
+Trametinib has not been studied in healthy volunteers. Inter-patient variability on day 15 is 22% 
+in AUC and 28% in Cmax. Based on the population PK analysis, the inter-patient variability in 
+apparent clearance (CL/F) and apparent central volume of distribution (Vc/F) was 24% and 77%, 
+respectively.  
+ 
+The population PK analysis assessed the influence of covariates including age, body weight, 
+height, sex, albumin, total bilirubin, international normalized ratio (INR), mild to moderate renal 
+impairment (CLcr [based on Cockcroft-Gault or MDRD] and glomerular filtration rate [GFR]), 
+tumor types (e.g., melanoma vs. others), BRAF V600 mutation (E vs. K vs. others), study, and 
+mild hepatic impairment. The pharmacometrics review concluded that none of these covariates 
+had a clinically important influence on the CL/F and V/F of trametinib. Effects of race and 
+CYP3A4 inhibitors/inducers were not tested in the model since the majority of patients in the 
+NDA 204114/Trametinib 
+ 
+ Page 21 of 58 
+Reference ID: 3289560
+
+
+===== PAGE 24 =====
+
+datasets were Caucasian (97%), and did not receive CYP3A4 inhibitors (97%) or inducers 
+(99%).  
+ 
+2.3 
+INTRINSIC FACTORS 
+2.3.1 What intrinsic factors influence exposure and/or response, and what is the impact of 
+any differences in exposure on effectiveness or safety responses? 
+No formal studies have been conducted to assess the effect of age, race, weight, height, or organ 
+dysfunction on exposure and response to trametinib. The Applicant’s population PK (popPK) 
+analysis, verified by our pharmacometrics review, did not identify clinically important effects of 
+body weight, age, gender, mild and moderate renal impairment, and mild hepatic impairment as 
+covariates on clearance or volume of distribution of trametinib.  
+Relationship between Gender and Exposure 
+The popPK analysis showed that CL/F of trametinib in men was 26% higher than that in women 
+(6.2 vs. 4.9 L/hr), which is not considered to be a clinically important difference requiring dose 
+modification. The difference in body weight between men and women may contribute in part to 
+this observed gender difference. 
+ 
+Relationship between Race and Exposure 
+Assessment of the effect of race using a popPK analysis is not possible, as the majority of the 
+patients (97%) in the clinical trials are Caucasian. 
+Relationship between Weight and Exposure 
+Patients with minimum or maximum body weight were estimated to have AUC, Cmax, and trough 
+concentration (Ctrough) within 15%, 30%, and 10%, respectively, of the typical values of a median 
+body weight of 79 kg. This difference is not considered to be clinically important, suggesting 
+that the fixed (flat) dosing approach is acceptable. 
+Relationship between Age and Exposure 
+The popPK analysis showed that age (<65 years [n=351, 71%], 65-75 years [n=114, 23%], and 
+≥75 years [n=28, 6%]) has no notable influence on trametinib PK. 
+Relationship between Renal Impairment and Exposure 
+The Applicant did not conduct a formal study to assess the effect of renal impairment on the PK 
+of trametinib. Results from the mass balance study (MEK113708) showed that <20% of the 
+excreted dose was recovered in the urine, indicating that renal excretion is a minor route of 
+elimination. No differences in trametinib exposure (AUC) were observed in patients with mild to 
+moderate renal impairment relative to patients with normal renal function (Figure 9).  
+NDA 204114/Trametinib 
+ 
+ Page 22 of 58 
+Reference ID: 3289560
+
+
+===== PAGE 27 =====
+
+2.3.2.2 Pediatric  
+Trametinib has been granted an orphan drug status for the proposed indication. The Applicant 
+requests a waiver for pediatric studies stating that studies are impossible or highly impractical, as 
+the number of pediatric patients with the proposed indication is extremely small. Potential 
+trametinib pediatric development plans were discussed at the Pediatric Subcommittee of the 
+Oncologic Drugs Advisory Committee (ODAC) meeting held on December 4, 2012.  
+2.3.2.3 Gender 
+Gender was not identified as a significant covariate influencing trametinib PK based on a popPK 
+analysis which included 203 (41%) women and 290 (59%) men. The popPK analysis showed 
+that CL/F of trametinib in men was 26% higher than that observed in women (6.2 vs. 4.9 L/hr), 
+which is not considered to be a clinically important difference requiring any gender-related dose 
+adjustment. The difference in body weight between men and women may contribute in part to 
+this observed gender difference. 
+2.3.2.4 Race/Ethnicity 
+The effect of race on trametinib PK was not evaluated given that the majority of patients in the 
+clinical trials are Caucasian (97%). 
+ 
+2.3.2.5 Renal Impairment 
+Renal impairment was not identified as a significant covariate influencing trametinib PK based 
+on a popPK analysis which included patients with normal renal function (GFR ≥90 
+mL/min/1.73m2, n=231, 47%), mild renal impairment (GFR 60 to <90 mL/min/1.73m2, n=223, 
+45%), and moderate renal impairment (GFR 30 to <60 mL/min/1.73m2, n=35, 7%). Given that 
+renal excretion is not the major elimination pathway, a PMR for a study in patients with severe 
+renal impairment is not warranted. Refer to Section 2.3.1. 
+ 
+2.3.2.6 Hepatic Impairment 
+Hepatic impairment was not identified as a significant covariate influencing trametinib PK based 
+on a popPK analysis which included patients with normal hepatic function (total bilirubin and 
+AST ≤ULN, n=429, 87%) and mild hepatic impairment (total bilirubin ≤ULN and AST >ULN or 
+total bilirubin >1.0-1.5 x ULN and any AST, n=64, 13%). Based on the results of the mass 
+balance study suggesting that hepatic elimination is the major route of elimination, the Applicant 
+is requested to conduct a clinical trial to determine the appropriate trametinib dose in patients 
+with hepatic impairment under a PMR. Refer to Section 2.3.1. 
+2.3.2.7 What pregnancy and lactation use information is there in the application? 
+The proposed labeling states that trametinib can cause fetal harm when administered to pregnant 
+women, and lists trametinib under pregnancy category D.  
+It is not known whether trametinib is excreted in human milk. The proposed labeling states that a 
+decision should be made whether to discontinue nursing or the drug, taking into account the 
+importance of the drug to the mother.  
+NDA 204114/Trametinib 
+ 
+ Page 25 of 58 
+Reference ID: 3289560
+
+
+===== PAGE 30 =====
+
+components, which further indicates that trametinib has the potential to induce CYP3A4 (Table 
+13). 
+ 
+Table 13. AUC ratio of midazolam (sensitive CYP3A probe substrate) 
+ 
+ 
+ 
+Source: Response to information request (SN 29)  
+ 
+Although in vitro results showed that trametinib has the potential to induce CYP3A4, cross-study 
+comparisons suggest that oral administration of 2 mg trametinib QD with everolimus (sensitive 
+CYP3A4 substrate) 5 mg QD had no clinically important effect on the exposure (AUC and Cmax) 
+of everolimus in vivo (Table 14). Therefore, a PMR for a drug interaction study to evaluate the 
+effect of trametinib as an inducer of a CYP3A4 probe substrate is not warranted. 
+ 
+Table 14. Steady-state PK parameters of everolimus  
+following monotherapy and in combination with trametinib 
+ 
+ 
+AUC0-6h (%CV) 
+[Range] 
+Cmax (%CV) 
+[Range] 
+Ctrough (%CV) 
+[Range] 
+Study MEK112110a 
+(trametinib 2 mg QD 
+plus everolimus 5 mg 
+QD)  
+(n=5; cohort 6)  
+113 (26.0) 
+[75.9-148] 
+38.5 (31.0) 
+[27.9-57.3] 
+5.38 (51.9) 
+[2.8-8.0] 
+Everolimus 5 mg QD  
+monotherapyb 
+(n=4) 
+97.1 (33.3) 
+[56.6-129] 
+30.2 (31.1) 
+[18.0-38.7] 
+5.28c (41.6) 
+[3.1-7.3] 
+a PK samples collected on day 15 at pre-dose (0), 1, 2, 4, and 6 hours post-dose 
+b Data from Study C2101 submitted in NDA 22334. PK samples collected at week 4 at pre-dose 
+(0), 1, 2, 4, 6, 8, and 24 hours post-dose  
+c n=3 
+ 
+2.4.2.4 Is the drug an inhibitor and/or an inducer of transporters? 
+Trametinib is not considered an in vivo inhibitor of P-glycoprotein (P-gp), Breast Cancer Resistance 
+Protein (BCRP), OATP1B1, or OATP1B3 [Study 07DMM111] as the calculated R values are 
+<0.1 (Table 15). Furthermore, trametinib R values calculated from predicted gastrointestinal 
+concentrations were <10 for inhibition of P-gp and slightly greater than 10 for BCRP, suggesting 
+that in vivo drug interaction studies are not warranted.  
+ 
+NDA 204114/Trametinib 
+ 
+ Page 28 of 58 
+Reference ID: 3289560
+
+
+===== PAGE 34 =====
+
+concentrations in Period 1. Administration of a single 2 mg dose of trametinib with a high-fat, 
+high-calorie meal resulted in a 70% decrease in corrected Cmax and a 24% decrease in corrected 
+AUC0-168h, compared to fasted conditions (n=22) (Study MEK113709) (Table 17). A high-fat, 
+high-calorie meal delayed tmax by a median of 3.9 hours.   
+ 
+Table 17. PK parameters of a single dose of trametinib after a high-fat meal  
+compared to fasted conditions 
+ 
+ 
+ 
+Source: Study 113709 final study report, Table 13, Page 35  
+ 
+The Applicant proposes trametinib be administered one hour before or two hours after a meal, 
+similar to the fasted conditions in clinical trials. Considering the approximately lower peak to 
+trough ratio at steady state (2) as compared to that after a single dose (4 to 5), a 70% decrease in 
+Cmax observed after a single dose would be less pronounced after repeat dosing, and a 24% 
+decrease in AUC is not considered clinically important as efficacy was also achieved in patients 
+whose dose was reduced to 1.5 mg (a 25% dose reduction due to intolerability) in the registration 
+trial. Therefore, unnecessary restriction of trametinib administration in the fasted state may be 
+burdensome to patients, resulting in a compliance issue. Although it is uncertain whether the 
+amount of food, caloric content, or fat content contributed to decreased exposure of trametinib, a 
+high-fat meal is typically expected to have a more marked effect on bioavailability than a low-fat 
+meal. Given that a single dose of trametinib taken with a high-fat meal (worst-case scenario) 
+resulted in a 24% decrease in systemic exposure and the clinical efficacy of trametinib was 
+established under fasted conditions, the review team recommends avoiding administration of 
+trametinib with a high-fat meal to preserve clinical efficacy while providing a less restricted 
+dosing condition for better compliance.       
+2.5.4 When would a fed BE study be appropriate and was one conducted?  
+Not applicable.  
+2.5.5 How do dissolution conditions and specifications ensure in vivo performance and 
+quality of the product? 
+Refer to Biopharmaceutics review.  
+NDA 204114/Trametinib 
+ 
+ Page 32 of 58 
+Reference ID: 3289560
+
+
+===== PAGE 44 =====
+
+Figure 2:  Proportion of Subjects with Skin Disorders versus Predicted Average Trametinib 
+Concentration for Phase 3 Study (MEK114267) 
+ 
+ 
+Sources: Sponsor’s Report: Exposure-Response Analysis of the Effect of Trametinib, a MEK inhibitor, on 
+Efficacy and Safety Endpoints, Page 43 
+1.1.3 Is dose adjustment warranted for intrinsic or extrinsic factors based on population 
+PK analysis? 
+No. Figure 3 suggests that body weight, age, gender, normal (n=231)/mild (n=223) /moderate 
+(n=35) renal impairment, and normal (n=429)/mild (n=64) hepatic impairment are not clinically 
+important covariate on oral clearance of trametinib. It does not support a dose adjustment for 
+these intrinsic factors.  
+ 
+A total of 493 cancer subjects treated with trametinib were included in the population PK 
+dataset. The majority of subjects was White/Caucasian (96.8%), and did not receive CYP3A4 
+inhibitors (97.2%) or inducers (99.4%). Thus the effects of race, CYP3A4 inhibitors or inducers 
+on oral clearance of trametinib were not clear based on population PK model. 
+ 
+NDA 204114/Trametinib 
+ 
+ Page 42 of 58 
+Reference ID: 3289560
+
+
+===== PAGE 47 =====
+
+Figure 5:  Proportion of Subjects with Diarrhea versus Predicted Average Trametinib 
+Concentration for Phase 3 Study (MEK114267) 
+ 
+ 
+ 
+Reviewer’s Comments: We agree that there is no evident E-R relationship for efficacy and safety 
+based on data from Phase 2 and Phase 3 trial. However, the data is not sufficient to draw 
+conclusions regarding whether or not the proposed dose of 2 mg q.d. is appropriate based on E-
+R relationship for efficacy and safety due to the narrow exposure range caused by low PK 
+variability and one dose regimen used in Phase 2 and Phase 3 trial. This limits the full 
+exploration of E-R relationship to assess the benefit risk profile at a higher or lower dose than 2 
+mg q.d. 
+ 
+3.2     POPULATION PK ANALYSIS 
+The primary goal of population PK analysis was to characterize the population PK of trametinib, 
+assess sources of variability in PK parameters based on data collected in three clinical studies 
+and identify clinical relevant covariates that influence exposure to trametinib. The population PK 
+model is a 2-compartment model with first order elimination with fast and slow first-order 
+absorption rate constant.  
+ 
+Continuous covariates were included using a power model, an example is shown in equation 
+below for the effect of body weight on CL/F: 
+ 
+ 
+ 
+Categorical covariates were included as shown in equation below for the effect of Sex on CL/F 
+(SEX=0 for female and SEX=1 for male) 
+ 
+ 
+ 
+In the final model, the clearance is described as below: 
+Sex
+weight
+TVCL
+)
+26
+.1(
+*
+)
+79
+/
+(
+*
+91
+.4
+211
+0
+
+ 
+NDA 204114/Trametinib 
+ 
+ Page 45 of 58 
+Reference ID: 3289560

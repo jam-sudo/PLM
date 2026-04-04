@@ -1,0 +1,970 @@
+
+
+===== PAGE 3 =====
+
+2 
+ 
+Contents 
+1. EXECUTIVE SUMMARY .......................................................................................................... 4 
+1.1 Recommendations ................................................................................................................... 4 
+1.2 Post-Marketing Requirements ................................................................................................. 5 
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT........................................... 6 
+2.1 Pharmacology and Clinical Pharmacokinetics ........................................................................ 6 
+2.2 Dosing and Therapeutic Individualization .............................................................................. 7 
+2.2.1 General dosing .................................................................................................................. 7 
+2.2.2 Therapeutic individualization ........................................................................................... 7 
+2.3 Outstanding Issues ................................................................................................................... 7 
+2.4 Summary of Labeling Recommendations ............................................................................... 8 
+3. COMPREHENSIVE CLINICAL PHARMACOLOGY REVIEW .............................................. 8 
+3.1 Overview of the Product and Regulatory Background ........................................................... 8 
+3.2 General Pharmacological and Pharmacokinetic Characteristics ............................................. 9 
+3.3 Clinical Pharmacology Questions ......................................................................................... 10 
+3.3.1 To what extent does the available clinical pharmacology information provide pivotal or 
+supportive evidence of effectiveness?...................................................................................... 11 
+3.3.2 Is the proposed general dosing regimen appropriate? ..................................................... 12 
+3.3.3 Is an alternative dosing regimen and management strategy required for subpopulations 
+based on intrinsic factors? ........................................................................................................ 12 
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the 
+appropriate management strategy? ........................................................................................... 13 
+3.3.5 Is the to-be-marketed formulation the same as the clinical trial formulation, and if not, 
+are there bioequivalence data to support the to-be-marketed formulation? ............................. 16 
+4. Appendices ................................................................................................................................. 18 
+4.1 Summary of Bioanalytical Method Validation and Performance ......................................... 18 
+4.2 Applicant’s Population PK Analyses .................................................................................... 20 
+4.3 Applicant’s Analysis on the Effect of CLB and NCLB on Efficacy of STP ........................ 25 
+4.3.1 Covariate Analysis (Logistic Regression)....................................................................... 25 
+4.3.2 Non-model based analysis .............................................................................................. 27 
+4.4 Reviewer’s Analyses to evaluate the contribution of stiripentol independent of increased 
+clobazam and norclobazam exposure on efficacy ....................................................................... 31 
+4.4.1 Exposure-Response Analysis of STP by Adjusting for CLB/NCLB Exposures ............ 31 
+4.4.2 Evaluation of Exposure-Response (ER) Relationship of CLB/NCLB ........................... 32 
+4.4.3 Subgroup Analysis of Patients with Minimal Increase in CLB/NCLB Exposures from 
+Baseline in the STP Treatment Arms of the STICLO Studies ................................................. 33 
+4.5 Individual Study Summaries ................................................................................................. 34 
+Study BC481: Bioavailability Study of Stiripentol after Single Oral Administration of Two 
+500 mg Stiripentol Formulations (Capsule and 
+) in 24 Healthy Male Volunteers ........ 34 
+Study BC337: Study of pharmacokinetics, safety, tolerability of stiripentol (diacomit®) 
+following single oral administration of 500 mg, 1000 mg, 2000 mg stiripentol to male healthy 
+volunteers. ................................................................................................................................ 39 
+Study BC287: Pharmacokinetic study comparing racemic stiripentol and stiripentol isomers 
+after single oral administration of a dose equal to 1200 mg of each isomer, 1200 mg and 2400 
+Reference ID: 4279864
+(b) (4)
+
+
+===== PAGE 6 =====
+
+5 
+ 
+Bridge between the “to-be- 
+marketed” and clinical trial 
+formulations 
+To-be-marketed formulations were used in clinical trials. The 
+applicant has developed two dosage formulations of STP:  
+Capsules of 250 mg and 500 mg and powder for oral 
+suspension in 
+ 250 and 500 mg. A relative 
+bioavailability was conducted comparing exposures of 
+stiripentol following administration of 500 mg powder for 
+oral suspension in 
+formulation and 500 mg capsule 
+after single oral administration. 
+ 
+. The mean 
+values for AUC(0-t) and AUC(0-∞) were comparable for 
+both formulations. However, the mean stiripentol Cmax was 
+23% higher after administration of the test 
+ in 
+comparison to that obtained after dosing with the capsules. 
+This change does not appear to be clinically significant (see 
+section 3.3.5 for further details). 
+ 
+1.2 Post-Marketing Requirements  
+Key Issue(s) to 
+be Addressed 
+Rationale 
+Key Considerations for 
+Design Features 
+Effect of hepatic impairment 
+on PK of stiripentol and its 
+metabolites  
+Stiripentol is primarily 
+metabolized in liver. 
+A clinical study to evaluate the 
+pharmacokinetics, safety, and tolerability of 
+stiripentol in subjects with varying degrees of 
+hepatic function.  
+Effect of strong CYP3A and 
+CYP2C19 and UGT 
+inducers on the 
+pharmacokinetics of 
+stiripentol 
+Stiripentol is primarily 
+metabolized by CY3A4, 
+CYP2C19 and glucuronidation.  
+A drug-drug interaction study to evaluate the 
+effects of rifampin on the pharmacokinetics of 
+stiripentol in healthy volunteers.  
+ 
+ 
+Effect of stiripentol on the 
+pharmacokinetics of a 
+CYP1A2 substrate  
+Stiripentol is an inhibitor and an 
+inducer of CYP1A2. 
+A drug-drug interaction study to evaluate the 
+potential effects of stiripentol on the 
+pharmacokinetics of caffeine in healthy 
+volunteers 
+Effect of stiripentol on the 
+pharmacokinetics of 
+CYP2B6 sensitive substrate 
+Stiripentol is an inhibitor and an 
+inducer of CYP2B6.  
+A drug-drug interaction study to evaluate the 
+potential effects of stiripentol on the 
+pharmacokinetics of CYP2B6 sensitive 
+substrate in healthy volunteers 
+Effect of stiripentol on the 
+pharmacokinetics of 
+CYP3A4 sensitive substrate 
+Stiripentol is an inhibitor and an 
+inducer of CYP3A4.  
+A drug-drug interaction study to evaluate the 
+potential effects of stiripentol on the 
+pharmacokinetics of CYP3A4 sensitive 
+substrate in healthy volunteers 
+Reference ID: 4279864
+(b) (4)
+(b) (4)
+ 
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 7 =====
+
+6 
+ 
+Effect of stiripentol on the 
+pharmacokinetics of 
+CYP2C19 sensitive 
+substrate  
+Stiripentol is an inhibitor of 
+CYP2C19. 
+A drug-drug interaction study to evaluate the 
+potential effects of stiripentol on the 
+pharmacokinetics of a CYP2C19 sensitive 
+substrate in healthy volunteers 
+Effect of stiripentol on the 
+pharmacokinetics of P-gp 
+sensitive substrate  
+Stiripentol is an inhibitor of P-gp. A drug-drug interaction study to evaluate the 
+potential effects of stiripentol on the 
+pharmacokinetics of a P-gp sensitive substrate 
+in healthy volunteers. 
+Effect of stiripentol on the 
+pharmacokinetics of BCRP 
+sensitive substrate  
+Stiripentol is an inhibitor of 
+BCRP. 
+A drug-drug interaction study to evaluate the 
+potential effects of stiripentol on the 
+pharmacokinetics of a BCRP sensitive substrate 
+in healthy volunteers. 
+2. SUMMARY OF CLINICAL PHARMACOLOGY ASSESSMENT 
+ 
+2.1 Pharmacology and Clinical Pharmacokinetics 
+Stiripentol is purported to act by potentiation of GABAergic neurotransmission and possibly 
+of glutamatergic neurotransmission. Stiripentol acts postsynaptically as a direct allosteric 
+modulator of the GABA-A receptor, and binds to the GABA receptor supramolecular 
+complex at a site distinct from many commonly used anticonvulsant, sedative and anxiolytic 
+drugs. The following is a summary of the clinical pharmacokinetics of stiripentol: 
+Absorption: Stiripentol is well absorbed by the oral route since the majority of an oral dose is 
+excreted in urine. Stiripentol Tmax ranges from 1.25-2.96 hours under fed conditions. Absolute 
+bioavailability is unknown. A dedicated food effect study on the bioavailability of STP was not 
+conducted. In Phase 3 studies STP capsules were administered with meals, 2 or 3 times per day.   
+Distribution: Stiripentol binds extensively to circulating plasma proteins (about 99%). The 
+apparent volume of distribution (Vss) ranges from 32 to 192 L, as body weight increases from 
+10 to 60 kg. 
+Metabolism: Stiripentol is extensively metabolized; 13 different metabolites having been found 
+in urine. The main metabolic processes are oxidative cleavage of the methylenedioxy system and 
+glucuronidation. In vitro studies indicate that CYP1A2, CYP2C19, CYP2C9, and CYP3A4 are 
+the main liver cytochrome P450 isoenzymes involved in metabolism. 
+ 
+Elimination: The mean elimination half-life ranged from 4.5 to 13 hours, increasing with dose. 
+Following oral administration of stiripentol, urinary metabolites accounted collectively for the 
+majority (73%) of the dose; a further 13-24% was recovered in feces as unchanged drug. 
+Reference ID: 4279864
+
+
+===== PAGE 10 =====
+
+9 
+ 
+ 
+3.2 General Pharmacological and Pharmacokinetic Characteristics 
+ 
+SUMMARY OF CLINICAL PHARMACOLOGY AND PHARMACOKINETICS 
+Pharmacology 
+ 
+Mechanism of Action 
+Stiripentol antiepileptic activity is thought to involve potentiation of the 
+GABAergic and glutamatergic transmissions in the CNS. Stiripentol 
+enhances the cortical glutamatergic transmission by increasing glutamate 
+release from nerve terminals. The exact mechanism of action is not 
+completely understood.  In vitro, STP has been shown to directly enhance 
+GABAA receptor-mediated transmission by acting both postsynaptically at 
+a neuronal site coupled to the GABAA receptor and presynaptically to 
+increase GABA release from nerve terminals.  
+Active Moieties 
+The only known active moieties in plasma are the two STP enantiomers. 
+There are no known active metabolites circulating in plasma. 
+QT Prolongation 
+A QTc study using a supra-therapeutic dose of STP was not conducted. A 
+PMR will be issued for the applicant to perform and submit the results of a 
+thorough QT trial. 
+General Information  
+Bioanalysis 
+Analytical methodology was based on high performance liquid 
+chromatography (HPLC) and detected only STP (parent drug) in plasma 
+.The 3 metabolites resulting from cleavage of the methylenedioxy ring (p-
+OH, m-OH and di-OH) could not be detected. The limit of sensitivity of this 
+method was 1 µg/mL. A summary of the method validation reports is 
+included as an appendix. 
+Healthy Volunteers vs 
+Patients 
+The multiple-dosing of 3,000 mg in healthy adults yields concentrations 
+similar to those obtained in pediatric Dravet patients treated with 50 
+mg/kg/day (cross study-comparison).  
+Drug exposure at 
+steady state following 
+the therapeutic 
+dosing regimen 
+In the pivotal trial STICLO France (BC.299), mean (± SD) age was 9.4 (± 
+4.0) years, mean (± SD) dose was 48.9 (±1.8) mg/kg/day and mean (± SD) 
+minimum plasma concentration was 10.0 (± 3.6) mg/L. In STICLO Italy 
+(BC.385), mean (± SD) age was 9.2 (± 3.6) years, mean (± SD) dose was 
+50.6 (±4.2) mg/kg/day and mean (± SD) minimum plasma concentration 
+was 10.2 (± 2.98) mg/L. 
+Dose Proportionality 
+The pharmacokinetics of stiripentol were slightly non-linear. The median 
+half-lives were 4.3 hours, 10.3 hours, and 11.9 hours following 500 mg, 
+1000 mg, and 2000 mg doses, respectively.  
+Variability 
+For single doses of 500 mg, 1,000 mg, and 2,000 mg, the STIUNI study 
+(BC.337) the following table provides coefficients of variation for Cmax 
+and AUC normalized with respect to dose.   
+Parameter 
+STP 500 mg STP 1,000 mg STP 2,000 mg  
+Cmax 
+44.9% 
+27.7% 
+34.9% 
+AUC 
+42.5% 
+33.3% 
+30.7% 
+Reference ID: 4279864
+
+
+===== PAGE 11 =====
+
+10 
+ 
+For multiple dosing, inter-subject variability in Cmin values for healthy 
+subjects were 20.3% and 27.2% on Days 12 and 13 sing at 1,500 mg given 
+twice a day.  
+ADME  
+Absorption 
+Stiripentol was administered as an oral capsule in most of the studies. The 
+PK data was characterized by a two-compartment model with zero order 
+absorption. 
+Tmax  
+The median Diacomit Tmax ranged from 2 to 3 hours. 
+Distribution 
+ 
+The apparent volume of distribution increased from 32 L to 192 L in 
+children as body weight increased from 10 to 60 kg. High plasma protein 
+binding was observed for stiripentol (about 99 %). 
+Elimination 
+Mean Terminal 
+Elimination half-life 
+The half-life of elimination ranges from 4.5 hours to 13 hours, increasing 
+over dose range of 500 mg to 2000 mg. 
+Metabolism 
+Primary metabolic 
+pathway(s) [in vitro] 
+Metabolic pathway for stiripentol was not clearly elucidated. Stiripentol is a 
+substrate of several CYP enzymes including CYP1A2, CYP2C19 and 
+CYP3A4. The metabolic stability of STP was evaluated in a CYP 
+phenotyping assay and the results suggest that none of the single CYP play 
+a major contribution to the metabolism. In addition, STP is glucuronidated, 
+but the specific UGTs that are involved are not known. The oxidative 
+metabolism accounts for approximately 75% of the total metabolism of 
+STP. 
+Inhibitor/Inducer (in 
+vitro) 
+In vitro studies indicate that stiripentol inhibits CYP1A2, CYP2B6, 
+CYP2C19, CYP2C8, CYP2D6 and CYP3A4. Stiripentol induces CYP1A2, 
+CYP2B6, and CYP3A4 in vitro at clinically relevant concentrations (see 
+section 3.34 for further details).  
+Transporter Systems (in 
+vitro) 
+Stiripentol is not a substrate of P-gp, BCRP, OATP1B1, OATP1B3, OAT1, 
+OAT3, or OCT2. However, stiripentol is a significant inhibitor of P-gp and 
+BCRP, with IC50 values of 92.1 and 2.34 μM, respectively. Stiripentol is 
+not a significant inhibitor of OATP1B1, OATP1B3, OAT1, OAT3, or 
+OCT2 at the tested concentrations.  
+Excretion 
+Following a single oral dose of 1200 mg STP in a metabolic study 
+(Moreland et al., 1986), 13 metabolites accounted for 73.3% and 97.8% of 
+the dose, respectively in 2 subjects. A fecal excretion investigation was 
+carried out in 3 subjects (2 males, 1 female) given a 1,200 mg dose with 
+collections on Days 0, 1, 2, 3-4 (combined), and 5-7 (combined). A mean 
+18.1% of dose was recovered unchanged STP in feces. 
+ 
+3.3 Clinical Pharmacology Questions 
+ 
+Reference ID: 4279864
+
+
+===== PAGE 13 =====
+
+12 
+ 
+ 
+3.3.2 Is the proposed general dosing regimen appropriate? 
+Yes, the proposed dosing regimen is appropriate for the general population. 
+The applicant proposes an oral dosing regimen of 50 mg/kg administered in 2 or 3 divided doses. 
+Two pivotal trials, Study BC.299 (STICLO France) and Study BC.385 (STICLO Italy), evaluated 
+stiripentol at the proposed dose of 50 mg/kg daily in Dravet syndrome patients (N=64). The 
+effectiveness of the proposed dosing regimen was demonstrated in these two pivotal trials and the 
+safety profile was acceptable.  
+ 
+3.3.3 Is an alternative dosing regimen and management strategy required for subpopulations 
+based on intrinsic factors? 
+Based on a population PK analysis, body weight was identified as a significant covariate for 
+clearance (CL/F) and volume of distribution (V/F). Both CL/F and V/F increase as body weight 
+increases, as shown in the table below. Since body weight-based dosing regimen, i.e. 50 
+mg/kg/day has been proposed, no further dose adjustment based on body weight is necessary. 
+After adjusting for body weight, age and sex did not show significant effect on STP PK.   
+ 
+Body weight 
+CL/F (L/hr) 
+V/F (L) 
+T1/2 (hr) 
+10 
+2.60± 0.18 
+32.0 ± 3.8 
+8.5 
+± 1.3 
+20 
+3.51± 0.24 
+63.9 ± 7.7 
+12.6 ± 1.9 
+30 
+4.19± 0.29 
+95.9 ± 11.5 
+159 ± 2.4 
+40 
+4.74± 0.33 
+127.8 ± 15.3 
+18.7 ± 2.8 
+50 
+5.22± 0.36 
+159.8 ± 19.2 
+21.2 ± 3.2 
+60 
+5.65± 0.40 
+191.8 ± 23.0 
+23.5 ± 3.5 
+ 
+Hepatic Impairment: There was no dedicated study of the pharmacokinetics and metabolism of 
+STP in hepatically impaired patients in this submission. Stiripentol is metabolized primarily by 
+the liver; administration to patients with moderate to severe liver impairment is not 
+recommended. A PMR will be issued to the applicant to conduct a study in patients with hepatic 
+impairment. 
+Renal Impairment: There was no dedicated study of the pharmacokinetics and metabolism of 
+STP in renally impaired patients in this submission. However, mass balance study indicates that 
+majority of the dose (>73%) was recovered in urine in the form of 13 metabolites and 18% fecal 
+recovery. Therefore, STP administration to patients with moderate to severe renal impairment is 
+not recommended. Considering the incidence of renal impairment in Dravet syndrome patients is 
+rare, no dedicated PK study in patients with renal impairment is required. 
+Reference ID: 4279864
+
+
+===== PAGE 14 =====
+
+13 
+ 
+Pharmacogenomics: Stiripentol is metabolized by CYP1A2, CYP2C19 and CYP3A4. In 
+addition, STP is glucuronidated, but the specific UGTs that are involved are not known. Since 
+STP is a substrate for several CYP isoforms, and a significant fraction of STP dose is 
+glucuronidated, it is not expected to be subject to gene polymorphisms and associated ethnic 
+differences. 
+3.3.4 Are there clinically relevant food-drug or drug-drug interactions and what is the 
+appropriate management strategy? 
+No dedicated clinical drug-drug interaction studies were conducted for stiripentol. However, 
+effects of stiripentol on concomitant administration with clobazam and valproate were evaluated 
+from the pivotal clinical studies. The effects of other extrinsic factors such as herbal products, 
+diet, smoking, and alcohol use on the dose or exposure / response for stiripentol were not assessed 
+in a formal study. The in vitro drug interaction potential, clinical drug-drug interactions between 
+STP, clobazam, valproate are further discussed in this section. 
+ 
+In Vitro DDI Potential 
+Stiripentol Metabolism: Metabolic pathway for stiripentol was not clearly elucidated. Stiripentol 
+is a substrate of several CYP enzymes including CYP1A2, CYP2C19 and CYP3A4. The 
+metabolic stability of STP was evaluated in a CYP phenotyping assay and the results suggest that 
+none of the single CYP play a major contribution to the metabolism. In addition, STP is 
+glucuronidated, but the specific UGTs that are involved are not known. The oxidative metabolism 
+accounts for approximately 75% of the total metabolism of STP. According to the applicant, such 
+interactions involving inhibition of CYPs or UGTs have not been reported.   
+ 
+Estimation of Percent (%) Contribution by Various CYPs to the Total Elimination of a STP Dose 
+ 
+CYP 
+% metabolized 
+% of metabolic clearance 
+% of dose 
+CYP1A2 
+75 
+27 
+20 
+CYP2C19 
+54 
+19.6 
+15 
+CYP3A4 
+50 
+18 
+14 
+CYP3A5 
+40 
+15 
+11 
+CYP2C9 
+29 
+11 
+8 
+CYP2D6 
+27 
+10 
+7.5 
+ 
+CYP Inhibition Potential 
+In vitro studies indicate that stiripentol inhibits CYP1A2, CYP2B6, CYP2C19, CYP2C8, and 
+CYP3A. In vitro CYP inhibition potential was evaluated in human liver microsomes (HLM) using 
+probe substrates for each CYP enzyme. Table below represents IC50 values calculated for each 
+enzyme based on inhibition of activity. 
+ 
+Assay  
+ 
+IC50 
+ 
+CYP1A2 inhibition (HLM, phenacetin substrate) 
+6.6 µM 
+CYP2B6 inhibition (HLM, bupropion substrate) 
+14 µM 
+CYP2C19 inhibition (HLM, omeprazole substrate 
+9.2 µM 
+CYP2C8 inhibition (HLM, paclitaxel substrate) 
+6.8 µM 
+Reference ID: 4279864
+
+
+===== PAGE 15 =====
+
+14 
+ 
+CYP2C9 inhibition (HLM, diclofenac substrate) 
+130 µM  
+CYP2D6 inhibition (HLM, dextromethorphan substrate) 
+N.C. 
+CYP3A inhibition (HLM, midazolam substrate) 
+13 µM 
+CYP3A inhibition (HLM, testosterone substrate) 
+21 µM 
+ 
+Current DDI guidance states that the initial assessment of the investigational drug as an reversible 
+inhibitor of CYP enzymes should be based on the basic model R1=1+ [Imax,u]/Ki. A R1 value > 1.02 
+would trigger further investigation of the DDI potential by either using a mechanistic model or 
+conducting a clinical DDI study. The STP IC50 values towards CYP450s isoenzymes and the 
+calculated basic model ratio based on unbound STP Cmax are presented in the table below (calculated 
+by the reviewer): 
+ 
+CYP450 
+isoenzyme 
+IC50 
+(μM) 
+Ki 
+(μM) 
+R1 value* 
+1A2 
+6.6 
+3.3 
+1.286 
+2B6 
+14 
+7 
+1.135 
+2C8 
+6.8 
+3.4 
+1.277 
+2C9 
+130 
+65 
+1.015 
+2C19 
+9.2 
+4.6 
+1.205 
+2D6 
+N.C 
+N.C 
+N.C 
+3A4 
+13 
+6.5 
+1.145 
+ 
+ 
+Source: IC50 data from report Eurofins 100029108.  
+  *R1=1+ [Imax,u]/Ki ; where [Imax,u] represents the mean unbound steady-state Cmax value for unbound drug 
+following administration of the highest proposed clinical dose and Ki= IC50/2. The maximum STP concentration was 
+calculated using the largest body weight (60 kg) and the recommended dose of 50 mg/kg/day. STP concentration = 
+3,000 mg/day / 135.6 L/day = 22.1 mg/L. The corresponding Molar concentration is [Imax,u] = 0.01x22.1 x 
+1,000/234.295 = 0.943 µM  (plasma protein-binding of STP is 99%). 
+ 
+The calculated R1 values were above the threshold of 1.02 triggering further assessment of 
+CYP450 inhibitory interaction for CYP1A2, CYP2B6, CYP2C8, CYP2C19 and CYP3A4. A 
+PMR will be issued to the applicant to perform and submit DDI interaction studies evaluating 
+STP as an inhibitor of CYP1A2, CYP2B6, CYP2C19, CYP2C8 and CYP3A4. 
+ 
+Transporter Interactions: 
+Stiripentol is not a substrate of P-gp, BCRP, OATP1B1, OATP1B3, OAT1, OAT3, or OCT2. 
+However, stiripentol is a significant inhibitor of P-gp and BCRP, with IC50 values of 92.1 and 
+2.34 μM, respectively. Stiripentol is not a significant inhibitor of OATP1B1, OATP1B3, OAT1, 
+OAT3, or OCT2 at the tested concentrations. 
+ 
+Note: The Cmax unbound/ IC50 value (R=0.403) calculated indicates that STP is likely to cause 
+drug-drug interactions with BCRP substrates.  A PMR will be issued to the applicant to perform 
+Reference ID: 4279864
+
+
+===== PAGE 17 =====
+
+16 
+ 
+were associated with statistically significant (17-35%) decreases three primary metabolites formed 
+by cytochrome(s) P450. Since the clinical relevance of relatively small decreases in VPA 
+metabolite plasma levels is unknown, VPA dose adjustment when administered with STP is not 
+necessary based on PK interaction. 
+ 
+Seven PMRs related to drug-drug interactions studies will be issued to the sponsor (see section 
+1.2). Examples of the most commonly used concomitant CYP enzymes substrates include 
+following drugs. Midazolam and diazepam are known to cause respiratory depression at high 
+blood levels. Drugs including warfarin, theophylline are narrow therapeutic index drugs, can 
+cause seizures, bleeding at high blood concentrations.    
+CYP1A2: warfarin, theophylline, caffeine 
+CYP3A4: Midazolam, triazolam, quinidine 
+CYP2C19: Diazepam, clopidogrel  
+P-gp: Carbamazepine 
+BCRP: Methotrxate, prazosin, glyburide, cimetidine, sulfasalazine, and rosuvastatin 
+ 
+Food Effect 
+A dedicated food effect study on the bioavailability of STP was not conducted. In Phase 3 
+studies STP capsules were administered with meals, 2 or 3 times per day. The applicant 
+claimed that stiripentol degrades rapidly in an acidic environment (e.g. exposure to gastric 
+acid on an empty stomach). However, the stability of stiripentol (powder
+ and capsule) 
+assayed in simulated gastric fluid (acidic environment plus stomach lytic enzymes) 
+demonstrated that stiripentol was stable for up to 6 hours. A dedicated food effect study is not 
+needed as STP administration with food is supported by Phase 3 study dosing instructions and 
+gastric stability studies. Administration with food is convenient in this population.   
+3.3.5 Is the to-be-marketed formulation the same as the clinical trial formulation, and if not, 
+are there bioequivalence data to support the to-be-marketed formulation? 
+The to-be-marketed (TBM) formulations are same as clinical trial formulations. The sponsor has 
+developed two dosage formulations of STP: Capsules of 250 mg and 500 mg containing 
+povidone, sodium starch glycolate 
+, and magnesium stearate and powder for oral 
+suspension in 
+ 250 and 500 mg containing povidone, sodium starch glycolate 
+, 
+ glucose 
+, erythrosine, titanium dioxide, aspartame, 
+ flavor, carmellose 
+sodium, and hydroxyethylcellulose as inactive ingredients. A relative bioavailability was 
+conducted comparing exposures of stiripentol following administration of 500 mg powder for 
+oral suspension in 
+ formulation and 500 mg capsule after single oral administration in 24 
+healthy males. The 
+ formulation was not bioequivalent to the capsule formulation. The 
+mean values for AUC(0-t) and AUC(0-∞) were comparable for both formulations. However, the 
+mean stiripentol Cmax was 23% higher after administration of the test 
+ in comparison to 
+that obtained after dosing with the capsules. The point estimate (1.23) and the 90 % confidence 
+interval (1.10-1.37) was higher than the upper limit of the bioequivalence range (0.80-1.25) as 
+shown in Table 2 below. 
+ 
+Reference ID: 4279864
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 22 =====
+
+21 
+ 
+The objectives of this analysis were to evaluate the steady state population pharmacokinetic 
+parameters of stiripentol in children with Dravet syndrome treated with stiripentol + valproate + 
+clobazam and to evaluate the influence of age, weight, sex and co-medications on the 
+pharmacokinetic parameters of stiripentol. 
+Data: 
+The database includes 35 children and 139 STP concentrations. There was no concentration below 
+the lower limit of quantification of the method. Typically, the data of a patient were obtained 
+during two consecutive days, after at least two weeks of treatment with STP, CLB and VPA. 
+Methods: 
+Different structural models including 1 or 2 compartments with first-order or saturable Michaelis-
+Mention elimination from the central compartment and a first-order or a zero-order absorption 
+process were tested.  
+Interindividual variability was described by a multivariate lognormal distribution with mean 
+vector and variance-covariance matrix to be estimated. Interoccasion variability in CL/F was also 
+considered. Residual variability was described by a combined error model using both additive 
+and proportional error. The population parameters were estimated by nonlinear regression on the 
+mixed-effects model by a parametric maximum likelihood approach implemented in the software 
+NONMEM VI with FOCEI.  
+A stepwise approach was used to build the covariate model with forward addition and backward 
+elimination.  
+Visual predictive check (VPC) and bootstrap were used for model evaluation. 
+Results: 
+The analysis dataset consisted of 139 STP concentrations from 35 patients, out of which 18 were 
+boys and 17 were girls. The age and body weight information are shown in Table 3. 
+Table 3. Demographic data 
+ 
+Source: Applicant’s population PK report, appendix 16.1.10, Table 8.1.1-2 
+The results show that a one-compartment model with first order absorption and elimination rate 
+best fitted the data. The typical value of STP apparent clearance and apparent volume of 
+distribution were related to body weight through allometric scaling. Once body weight was 
+included in the model, sex and age were not significantly related to STP clearance and volume of 
+distribution. The final model parameter estimates are shown in Table 4. 
+Reference ID: 4279864
+
+
+===== PAGE 26 =====
+
+25 
+ 
+Table 5. Summary statistics of the bootstrap using the final model 
+ 
+Source: Applicant’s population PK report, appendix 16.1.10, Table 8.1.5-2 
+Reviewer’s comments: 
+Overall, the population PK analysis for stiripentol when co-administered with clobazam and 
+valproate is reasonable. Body weight, body surface area, age, sex, and CYP2C19 genotype were 
+tested in the covariate modeling. Body weight was the only significant covariate retained in the 
+final model affecting the apparent clearance and volume of distribution based on the data from 
+35 subjects.  
+4.3 Applicant’s Analysis on the Effect of CLB and NCLB on Efficacy of STP 
+4.3.1 Covariate Analysis (Logistic Regression) 
+Objective: 
+The objective of this analysis was to address FDA’s concern regarding the contribution of 
+CLB/NCLB to efficacy as a result of the potent pharmacokinetic interactions with STP. 
+Data: 
+Data from studies STICLO France and STICLO Italy were used in this analysis. The number of 
+patients enrolled and who received treatment in STICLO France was 41, out of which 21 received 
+STP plus CLB and VPA and 20 received placebo plus CLB and VPA. The number of patients 
+enrolled and who received treatment in study STICLO Italy was 23, out of which 12 received STP 
+Reference ID: 4279864
+
+
+===== PAGE 37 =====
+
+36 
+ 
+Sensitivity (LLOQ, µg/mL) 
+0.1 µg/mL 
+ 
+Pharmacokinetic 
+Assessments 
+The pharmacokinetic parameters were calculated, using the WinNonlin. 
+The following pharmacokinetic parameters were derived for each subject 
+after each of the 2 treatments administered: Cmax, Tmax, tlag, Ke, AUC0-
+t, AUC0-inf and Frel. 
+Safety 
+Assessments 
+Adverse events (AEs), standard laboratory assessments, vital signs, 
+electrocardiograms and physical examination. 
+Statistical 
+Methods 
+To assess the bioequivalence of the two formulations of stiripentol, an 
+analysis of variance followed by the calculation of the 90 % confidence 
+intervals for the ratio test/reference of Cmax and AUC were performed. 
+Values of Cmax and AUC were a priori log-transformed. Bioequivalence 
+was concluded if the corresponding 90 % confidence intervals for the ratio 
+of the mean were included between 0.80 and 1.25 for AUC0-∞ (or AUCO-
+t) and Cmax. 
+ 
+RESULTS: 
+ 
+A total of 24 Caucasian male subjects between 20 and 43 years old participated to this 
+study. Following table represents summary of demographic data. 
+ 
+Summary of demographic data 
+ 
+ 
+PHARMACOKINETICS 
+ 
+Figure below represents PK profiles of stiripentol following administration of
+ and capsule 
+formulations. 
+ 
+Mean (SD) plasma concentration-time profiles of stiripentol 
+Reference ID: 4279864
+(b) (4)
+
+
+===== PAGE 38 =====
+
+37 
+ 
+ 
+ 
+ 
+The mean PK parameters of stiripentol are summarized in the following table: 
+ 
+ 
+ 
+ 
+ The mean stiripentol Cmax was 23 % higher after administration of the test 
+ in 
+comparison to that obtained after dosing with the reference capsules. The point estimate 
+(1.23) and the 90 % confidence interval (1.10-1.37 was higher than the upper limit of the 
+bioequivalence range (0.80-1.25). 
+ The mean AUC0-t and AUC0-inf, were comparable between the two treatments with an 
+average difference of 10 % and 6 %, respectively. The 90 % confidence intervals were 
+within 0.80-1.25.  
+ The tmax was not statistically different between the two treatments. 
+ 
+ 
+ 
+ 
+Reference ID: 4279864
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 41 =====
+
+40 
+ 
+Linear Range (ng/mL) 
+0.1 to 20 mg/L 
+Sensitivity (LLOQ, ng/mL) 
+0.1 mg/L 
+ 
+Pharmacokinetic 
+Assessments 
+Pharmacokinetic parameters including Cmax, Tmax, t1/2, MRT, AUC0-t 
+and AUC0-infwere evaluated. Calculation of pharmacokinetic parameters 
+were based firstly on a non-compartmental model and secondly after using 
+a compartmental approach. In the compartmental approach, the kinetics 
+were analyzed based on a two-compartment model using a first order or 
+zero-order process of absorption, with lag time to absorption. The variation 
+according to the dose of each parameter (Cmax and AUC0-t) was studied 
+using repeated measures analysis of variance (following log 
+transformation) with verification using the non-parametric FRIEDMAN’s 
+test. The dose-parameter relationship was then analyzed by using linear 
+regression for all subjects and by calculating the PEARSON’s correlation 
+coefficient for each subject. 
+Safety 
+Assessments 
+Adverse events (AEs), standard laboratory assessments, vital signs, ECG, 
+blood pressure and pulse rate  
+Statistical 
+Methods 
+Individual pharmacokinetic parameters were listed and mean, standard 
+deviation, minimum value, maximum value, median and size of the data 
+set were tabulated. Analysis of Cmax, AUC0-t. AUC0-inf was carried out by 
+analysis of variance (ANOVA) on the logarithmically transformed data. 
+Analysis of MRT and t1/2 was carried out by ANOV A on natural data. The 
+analysis of Tmax was based on the non-parametric Friedman test. 
+ 
+RESULTS: 
+ 
+The two-compartment model with zero-order absorption process satisfactorily described 
+stiripentol’s kinetics. Mean kinetic parameters (Cmax, lag time, T max, T1/2, AUC0-inf) obtained 
+with this model are listed in table below. 
+ 
+Kinetic parameters: two compartment model zero-order absorption. 
+ 
+ 
+ 
+Reference ID: 4279864
+
+
+===== PAGE 42 =====
+
+41 
+ 
+Analysis of the Cmax, and AUC0-t parameters and the dose relationship using linear regression 
+method 
+ 
+ 
+ 
+Following table represents Cmax and AUC normalized to 500 mg dose. 
+ 
+Mean (SD) Values of Cmax and AUC Normalized with Respect to the 500 mg Dose 
+ 
+ 
+Statistical tests supported non-linearity, i.e., more than proportional increases in AUC. The ratio 
+increased significantly with dose (Friedman’s test, p<0.05). 
+ 
+ 
+CONCLUSIONS: 
+ Overall, the PK parameters were slightly non-linear. The median half-life changed from 
+10.3 hours to 11.9 hours following 1000 mg and 2000 mg doses respectively. 
+ The compartmental analysis showed that a twocompartment model with zero order 
+absorption provided the best fit to the data. 
+ The absorption phase was responsible for the non-linearity observed, but the elimination 
+phase was linear.  
+Reference ID: 4279864
+
+
+===== PAGE 43 =====
+
+42 
+ 
+Study BC287: Pharmacokinetic study comparing racemic stiripentol and 
+stiripentol isomers after single oral administration of a dose equal to 1200 mg 
+of each isomer, 1200 mg and 2400 mg of racemic stiripentol in 6 healthy 
+volunteers. 
+ 
+Objectives: 
+ 
+To define the pharmacokinetic profile of two stiripentol enantiomers and to study racemate 
+metabolism at two different doses. 
+ 
+Study Design 
+This was a randomized, crossover pharmacokinetic study with single 
+administration of 4 forms of stiripentol. 
+Study Population 
+Healthy subjects (males and females) 
+Age: 18-40 years 
+BMI: 18 to 35 kg/m2. 
+6 patients enrolled and completed 
+Dose/Dosing 
+Regimen/Study 
+Duration 
+Treatment A: 4 capsules dosed at 300 mg of (+) stiripentol enantiomer. 
+Treatment B: 4 capsules dosed at 300 mg of (-) stiripentol enantiomer. 
+Treatment C: 4 capsules dosed at 300 mg of stiripentol in a racemic form.  
+Treatment D: 8 capsules dosed at 300 mg of stiripentol in a racemic form.  
+ 
+Treatments A, B, C and D were given in 4 periods of single administration 
+separated by a 7 day wash-out period. 
+Sampling: 
+Blood samples: 0,15 min, 30 min , 45 min, 1,  1.30,  2, 3, 4, 6, 8, 10, 12 
+and 24 hours after administration. Urine collections: 0 (just before taking 
+the drug) and the following intervals: 0-12/12-24h. 
+Analysis 
+Plasma samples were assayed by a chiral normal phase HPLC method 
+resulting from a small modification of the method of Zhang et al. (1994). 
+Detection of the analytes was conducted by a fluorescence detector. 
+The excitation wavelength was set at 290 nm. Separation of urinary 
+glucuronides was performed using the same conditions as used for plasma 
+samples. Calibration standards in plasma and brain homogenate were 
+prepared over a racemic stiripentol concentration range of 6.67-250 µg/ml 
+and 7.8- 306.8 µg/g, respectively. The detection limit was 1 µg /ml in 
+plasma and 2 µg g/ g in brain for each enantiomer. The inter-day 
+coefficients of variation obtained by replicate assay of a set of spiked 
+plasma (8 µg/ml) and brain homogenate (6.67 µg /g) samples were 
+consistently < 10%. 
+Pharmacokinetic 
+Assessments 
+The primary population pharmacokinetic parameters (clearance and 
+volume) were estimated. Individual exposure parameters (AUC and Cmax) 
+were estimated. 
+Statistical 
+Methods 
+Subject characteristics: average and standard deviation. 
+Side-effects: descriptive report. 
+ 
+Note: See following information request sent in the filing letter and sponsor’s response.  
+Reference ID: 4279864
+
+
+===== PAGE 44 =====
+
+43 
+ 
+ 
+ 
+Reviewer’s Comments: Without detailed analytical reports, the integrity of data obtained from 
+this study cannot be assured. In Clinical Pharmacology aid submitted by the sponsor, this study is 
+reported to be supportive of the label contrary to the statement in the sponsor’s response above.  
+ 
+RESULTS: 
+ 
+Plasma concentration-time curve of STP enantiomers after a single oral dose of 1,200 mg of 
+racemic drug 
+ 
+ 
+ 
+ 
+Administration of enantiomers: For the R and S enantiomers, mean (SD) Cmax values were 8.57 
+(4.27) and 5.74 (3.61) mg/L, respectively. The corresponding CL/F values were 25.54 (10.76) and 
+72.72 (42.62) L/hr. A larger apparent oral clearance for the S enantiomer was observed. 
+ 
+Reference ID: 4279864
+
+
+===== PAGE 45 =====
+
+44 
+ 
+PK Parameters of STP Enantiomers and Racemic Drug in Six Subjects 
+ 
+ 
+ 
+ 
+Following administration of the R enantiomer, measurement of plasma AUCs of the two 
+enantiomers showed that the R/S AUC ratio was 180. The percent of dose excreted in urine was 
+4.84% as R-STP glucuronide and 1.42% as S-STP glucuronide. Some conversion from the R to 
+the S enantiomer occurs, shown by trace amounts of the S enantiomer and the large AUC ratio of 
+180. 
+ 
+When the S enantiomer was administered, appreciable concentrations of the R enantiomer were 
+present in plasma yielding an AUC S/R ratio of 3.1. The percent of dose excreted in urine as S-
+STP glucuronide was relatively large, 44 %, while no R-STP glucuronide was detected. The 
+plasma data suggest that the S enantiomer is converted to the R enantiomer.  
+ 
+The urine data suggest that formation of glucuronide is much easier for the S enantiomer than for 
+the R enantiomer. The S enantiomer has a much larger clearance than the R enantiomer. 
+ 
+Excretion of Glucuronides after Administration of STP Enantiomers and Racemic Drug to 
+Six Subjects 
+ 
+ 
+ 
+ 
+The percent dose recovered in urine as combined (R-STP and S-STP) glucuronides was 23 to 
+28%. The S isomer accounted for 90-92% of the total (R-STP and S-STP) glucuronides that 
+accounted for 23 to 28% of the dose. 
+ 
+CONCLUSIONS: 
+The data suggest that inter conversion of S enantiomer to the R enantiomer is significant when S 
+enantiomer was administered. However, a minor conversion from R to S enantiomer was 
+observed when R enantiomer was administered. 
+Reference ID: 4279864

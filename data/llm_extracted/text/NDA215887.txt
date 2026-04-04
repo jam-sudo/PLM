@@ -1,0 +1,936 @@
+
+
+===== PAGE 7 =====
+
+NDA 215887
+Qalsody (tofersen)
+vi
+Integrated Review Template, version 3.0 (05/25/2022)
+14. Clinical Pharmacology .....................................................................................184
+14.1. In Vitro Studies..........................................................................................184
+14.2. In Vivo Studies ..........................................................................................185
+14.3. Bioanalytical Method Validation and Performance ..................................191
+14.3.1. Plasma NfL Assay Used in Studies 101C and 102 .............................191
+14.3.2. CSF Total SOD1 Assay Used in Studies 101C and 102.....................196
+14.4. Immunogenicity Assessment—Impact of PK/PD, Efficacy, and Safety...197
+14.5. Pharmacometrics Assessment....................................................................199
+14.5.1. Evidence From Literature: Demonstration of the Prognostic Value 
+of Plasma NfL Levels in ALS...................................................................199
+14.5.2. Evidence From the Tofersen Clinical Program: Model-Based 
+Approach to Identify Prognostic Factors That Affect ALSFRS-R Total 
+Scores........................................................................................................207
+14.5.3. Analysis with Causal Inference Modeling..........................................211
+14.5.4. Population Pharmacokinetic and Pharmacodynamic Analyses of 
+Tofersen ....................................................................................................225
+14.5.4.1. Pharmacokinetic Analysis of Tofersen.........................................225
+14.5.4.2. Population PK-SOD1 Analysis of Tofersen.................................230
+14.5.4.3. Population PK-NfL Analysis of Tofersen ....................................233
+14.6. Pharmacogenetics ......................................................................................237
+14.7. Supporting Information From Other Biomarkers......................................238
+14.7.1. CSF SOD1...........................................................................................238
+14.7.2. CSF NfL..............................................................................................240
+14.7.3. Phosphorylated Neurofilament Heavy Chain (pNfH).........................241
+14.8. Additional Comments on the Enrichment Criteria of Study 233AS101 
+Part C ............................................................................................................243
+14.8.1. Exploratory Evaluation of Disease Progression in Placebo Based on 
+the Enrichment Criteria Using the Prerandomization Slope.....................243
+14.8.2. Evaluation of mITT Population Enrichment Based on SOD1 
+Genotypes..................................................................................................244
+14.9. PK/PD Supporting Dose Selection............................................................246
+15. Study/Trial Design ...........................................................................................247
+15.1. Additional Statistical Concerns .................................................................247
+16. Efficacy ............................................................................................................248
+16.1. Quality of Life Measures in Study 102......................................................248
+Reference ID: 5163540
+
+
+===== PAGE 19 =====
+
+NDA 215887
+Qalsody (tofersen)
+xviii
+Integrated Review Template, version 3.0 (05/25/2022)
+Glossary
+AC
+advisory committee
+ADA
+antidrug antibodies
+ADL
+Associate Director for Labeling
+ADME
+absorption, distribution, metabolism, and excretion 
+ADR
+adverse drug reaction
+AE
+adverse event
+ALS
+amyotrophic lateral sclerosis 
+ALSAQ-5
+Amyotrophic Lateral Sclerosis Assessment Questionnaire 5-item
+ALSFRS-R
+ALS Functional Rating Scale-Revised 
+ANCOVA
+analysis of covariance
+ASO
+antisense oligonucleotide
+AUC
+area under the concentration-time curve
+CFB
+change from baseline
+CFR
+Code of Federal Regulations
+CI
+confidence interval
+Cmax
+maximum plasma concentration
+CNS
+central nervous system
+COA
+clinical outcome assessment
+COU
+context of use
+DILI
+drug-induced liver injury
+DMC
+data monitoring committee
+EC50
+half maximal effective concentration
+ECG
+electrocardiogram
+EDTA
+ethylenediaminetetraacetic acid
+EQ-5D
+European Quality of Life Five Dimension Questionnaire 
+EQ-5D-5L
+European Quality of Life Five Dimension Five Level Questionnaire
+FDA
+Food and Drug Administration
+FMQ
+Food and Drug Administration Medical Dictionary for Regulatory Activities 
+query
+FSS
+Fatigue Severity Scale 
+GMR
+geometric mean ratio
+HHD
+handheld dynamometry
+HR
+hazard ratio
+ICH
+International Council for Harmonisation
+ICV
+intracerebroventricular
+IND
+investigational new drug
+ITT
+intent-to-treat
+LLOQ
+lower limit of quantitation
+LOOCV
+leave-one-out-cross-validation
+MAD
+multiple-ascending-dose
+MI
+multiple imputation
+mITT
+modified intent-to-treat
+MMRM
+mixed model for repeated measures
+Reference ID: 5163540
+
+
+===== PAGE 20 =====
+
+NDA 215887
+Qalsody (tofersen)
+xix
+Integrated Review Template, version 3.0 (05/25/2022)
+NDA
+new drug application
+NfL
+neurofilament light chain
+OLE
+open-label extension
+OPQ
+Office of Pharmaceutical Quality
+PD
+pharmacodynamic
+PI
+Prescribing Information
+PBPK
+physiologically based pharmacokinetic
+PK
+pharmacokinetic
+PMC
+postmarketing commitment
+PMR
+postmarketing requirement
+SAE
+serious adverse event
+SAP
+statistical analysis plan
+SD
+standard deviation
+SOC
+system organ class
+SVC
+slow vital capacity
+TEAE
+treatment-emergent adverse event
+Tmax
+time to maximum concentration
+TQT
+thorough QT
+VAS
+visual analog scale
+WBC
+white blood cell
+Reference ID: 5163540
+
+
+===== PAGE 35 =====
+
+NDA 215887
+Qalsody (tofersen)
+34
+Integrated Review Template, version 3.0 (05/25/2022)
+Characteristic
+Drug Information
+Dose proportionality
+Tofersen exposure in CSF increased with dose in a less-than-dose-proportional 
+manner, with steady-state CSF concentrations of the 100 mg dose being 
+approximately 2- to 3-fold higher than those observed for the 20 mg dose. Dose 
+proportionality cannot be reliably evaluated in plasma; however, there were 
+roughly dose-proportional increases in Cmax and AUC values over the evaluated 
+dose range from 20 mg to 100 mg.
+Accumulation
+No accumulation in CSF or plasma exposure with monthly dosing
+Time to achieve 
+steady-state
+At the end of loading dose period (3 doses administered every 2 weeks)
+Bridge between to-be-
+marketed and clinical 
+study/study 
+formulations
+Not applicable (NA). The to-be-marketed formulation was used in the clinical 
+studies.
+Absorption
+Bioavailability
+Tofersen is administered intrathecally
+Tmax
+2 to 6 h in plasma
+Food effect (fed/fasted) 
+Geometric least square 
+mean and 90% CI
+NA
+Distribution
+Volume of distribution
+58.2 L (central volume of distribution)
+Plasma protein binding 98%
+Drug as substrate of 
+transporters
+Not a substrate of BCRP, MDR1, MATE1, MATE2-K, OAT1, OAT3, OATP1B1, 
+OATP1B3, OCT1, or OCT2 SLC transporters
+Elimination
+Mass balance results
+Human mass balance study was not conducted
+Clearance
+9 L/h in plasma
+Half-life
+Approximate 1 month in CSF and unknown in blood
+Metabolic pathway(s)
+Expected pathway is nuclease-mediated hydrolysis based on experiences with 
+similar classes of ASOs and animal studies
+Primary excretion 
+pathways (% dose)
+Unknown
+Intrinsic Factors and Specific Populations
+Body weight
+Bodyweight does not affect the PK of tofersen based on results from population 
+PK analysis
+Age
+Age does not affect the PK of tofersen based on results from population PK 
+analysis
+Renal impairment
+Not evaluated
+Hepatic impairment
+Not evaluated but the risk of increase in exposure in patients with hepatic 
+impairment is considered low because tofersen does not undergo hepatic 
+metabolism
+Drug Interaction Liability (Drug as Perpetrator)
+Inhibition/induction of 
+metabolism
+Not an inducer or inhibitor of CYP450 in vitro
+Inhibition/induction of 
+transporter systems
+Not an inhibitor of MATE1, MATE2-K, OAT1, OAT3, OATP1B1, OATP1B3, 
+OCT1, OCT2 SLC, BCRP, BSEP, and MDR1 transporters in vitro
+Reference ID: 5163540
+
+
+===== PAGE 36 =====
+
+NDA 215887
+Qalsody (tofersen)
+35
+Integrated Review Template, version 3.0 (05/25/2022)
+Characteristic
+Drug Information
+Immunogenicity (If Applicable)
+Bioanalysis
+A multitiered ADA assay based on ELISA was used to detect ADA against 
+tofersen in ALS patients
+Incidence
+58.4% of patients developed treatment-emergent ADAs
+Clinical impact
+The presence of ADA appears to decrease plasma clearance by 32%. Effect of 
+ADA on tofersen concentration in CSF is unknown. No discernible effect of ADA 
+status on total SOD1 protein reduction or plasma NfL reduction was observed. 
+Effect of ADA on efficacy is unknown. No discernible effect of ADA on safety 
+was found.
+Source: Reviewer’s analysis and compiled data from 2.7.1 Summary of Biopharmaceutics Studies and Associated Analytical 
+Methods and 2.7.2 Summary of Clinical Pharmacology Studies 
+Abbreviations: ADA, antidrug antibodies; ALS, amyotrophic lateral sclerosis; ASO, antisense oligonucleotide; AUC, area under the 
+concentration-time curve; AUC0-24, area under the concentration-time curve from time 0 to time 24; AUCss, area under the 
+concentration-time curve steady-state; CI, confidence interval; Cmax, maximum concentration; CSF, cerebrospinal fluid; Ctrough, 
+trough concentration; CYP450, cytochrome P450; DARRTS, Document Archiving, Reporting and Regulatory Tracking System; 
+ELISA, enzyme-linked immunosorbent assay; IRT, Interdisciplinary Review Team; NfL, neurofilament light chain; PK, 
+pharmacokinetic; SD, standard deviation; SOD1, superoxide dismutase 1; Tmax, time to maximum concentration
+6. Efficacy (Evaluation of Benefit)
+6.1. Assessment of Dose and Potential 
+Effectiveness
+The proposed dosing regimen for tofersen consists of three loading doses of tofersen 100 mg 
+once every 2 weeks, followed by 100 mg maintenance doses once every 4 weeks administered 
+via intrathecal (IT) bolus injection. The selected dose (i.e., 100 mg) was the highest dose 
+evaluated in clinical Study 233AS101 Part B and showed a higher reduction in CSF total SOD1 
+protein and plasma NfL compared to other evaluated doses (i.e., 20, 40, 60 mg monthly dosing, 
+refer to Section 14.1 for a detailed discussion). 
+The efficacy of the proposed dose was evaluated and supported by the findings from clinical 
+studies 101C and 102, using NfL reduction as a reasonably likely surrogate to predict slowing of 
+clinical function decline (refer to Section 6.3 for a detailed discussion). Other results from PK-
+SOD1/NfL modeling and PBPK modeling were also submitted by the Applicant to support the 
+dose selection. There are some uncertainties for these modeling and simulations that limit their 
+interpretability (refer to Section 14.9 for a detailed discussion). However, the selected dosing 
+regimen of 100 mg tofersen, administered via IT injection, is considered appropriate and is 
+supported by the predicted clinical benefit using reduction in NfL as a surrogate endpoint via the 
+accelerated approval pathway.
+Reference ID: 5163540
+
+
+===== PAGE 69 =====
+
+NDA 215887
+Qalsody (tofersen)
+68
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 16. Demographics, Disease Characteristics, and Neurofilament Metrics Used in the Analyses
+A. List of Potential Prognostic Factors
+Demographics
+Disease Characteristics
+Age
+ALSFRS-R total score
+Time from symptom onset
+Sex
+ALSFRS-R slope
+Site of onset
+Weight
+Plasma NfL
+Edaravone or Riluzole use
+Height
+Plasma pNfH
+SOD1 protein
+BMI
+Slow vital capacity (SVC)
+B. Various Metrics of Neurofilaments Explored
+Baseline NfL (pg/mL)
+NfL-time slope
+NfL change (pg/mL)
+Log NfL (pg/mL)
+NfL change (%)
+Log daily area under NfL-time curve (pg/mL)
+NfL ratio to baseline
+Log linear-model-estimated area under NfL-time curve 
+until Week 28 (pg·day/mL)
+Source: Clinical Pharmacology Reviewer’s analysis
+Abbreviations: ALSFRS-R, revised amyotrophic lateral sclerosis functional rating scale; BMI, body mass index; NfL, neurofilament 
+light chain; SOD1, superoxide dismutase 1
+Two regression methods were used: linear regression and lasso regression. The findings of both 
+methods suggested that baseline levels of plasma NfL were a significant predictor (p<0.001) for 
+ALSFRS-R change from baseline (CFB) at Week 28, even after adjusting for multiple potential 
+baseline prognostic factors and various transformations of NfL metrics. These analyses may be 
+affected by the limited sample size (n=33). However, these results, along with the meta-analysis 
+of the literature data outlined above, support the prognostic value of plasma NfL in ALS. Refer 
+to Section 14.5.2 for detailed discussion on a model-based approach to identify prognostic 
+factors that affect ALSFRS-R total scores based on evidence from the tofersen clinical program.
+6.3.2.2.3. Relationship Between Reduction in Plasma NfL 
+and Clinical Endpoints
+Considering the prognostic value of plasma NfL levels in ALS, further analyses were conducted 
+to evaluate the relationship between plasma NfL reduction with tofersen treatment and reduction 
+in clinical decline.
+Longitudinal Changes in Plasma NfL and ALSFRS-R
+Longitudinal changes in plasma NfL and ALSFRS-R suggested a potential relationship between 
+the reductions in plasma NfL in the tofersen treatment group and reduction in decline of clinical 
+endpoints.
+This analysis focused on the entire (ITT) data set so as to provide the largest number of patients, 
+and broadest range of NfL changes and ALSFRS-R changes to assess the relationship. Data 
+from the ITT population (N=108) of Study 101C show that the mean NfL reductions in the 
+tofersen treatment group began at Week 4 and peaked as early as Week 16. Beyond Week 16, the 
+mean reductions in plasma NfL were consistent with those at Week 16. Although the changes in 
+ALSFRS-R in the tofersen group relative to the placebo group were not statistically significant 
+through Week 28, numerical differences were observed after Week 8 and continued through 
+Week 28 (Figure 10). This could indicate that a treatment effect of slowing of disease 
+progression may not become apparent until several weeks after treatment initiation.
+Reference ID: 5163540
+
+
+===== PAGE 183 =====
+
+NDA 215887
+Qalsody (tofersen)
+182
+Integrated Review Template, version 3.0 (05/25/2022)
+Body Weight and Food Consumption
+Body weight was assessed on dosing days. Food consumption was assessed weekly until 
+cohabitation. There were no drug effects on body weight or food consumption.
+Toxicokinetics
+TK parameters were not assessed in males. In females, TK parameters were assessed on GD 6 
+and 14.
+Table 89. BIIB037 TK Parameters
+Day
+Dose (mg/kg) Cmax (ng/mL) AUC0-last (ng·h/mL)
+3
+963
+1810
+10
+3630
+8460
+6
+30
+16,400
+52,300
+3
+1390
+3420
+10
+5860
+17,200
+14
+30
+12,800
+50,500
+Source: Pharmacology Toxicology Reviewer’s Analysis
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration
+Dosing Solution Analysis
+Dosing solutions were within 10% of the nominal values.
+Necropsy
+Males: There were no drug-effects on sperm parameters. Histology findings consisted of 
+vacuolated and amphophilic macrophages in the interstitial tissues of the testis and epididymis 
+(MDM, HDM), and seminiferous tubule degeneration or dilation, spermatid retention in testis 
+(HDM).
+Females: There were no drug effects on mating, estrous cycling, mating index, fertility index, or 
+ovarian and uterine parameters. Pregnancy rates ranged from 81.8 to 100%. The percentages of 
+dams per group with any resorptions were 52.9% (C), 50.0% (LDF), 70.6% (MDF), and 94.4% 
+(HDF). There were no drug-related malformations or effects on litter parameters.
+13.2.4. Embryonic Fetal Development
+Non-GLP, Dose Range-Finding Study (Rabbit)
+A non-GLP DRF in was conducted in female NZW rabbits (five/group) to inform dosing for the 
+pivotal EFD study. Doses of 0, 3, 10, and 30 mg/kg tofersen were administered by SC injection 
+every other day on GDs 7 to 19. There were no drug-related effects on maternal, uterine, or fetal 
+parameters.
+Reference ID: 5163540
+
+
+===== PAGE 185 =====
+
+NDA 215887
+Qalsody (tofersen)
+184
+Integrated Review Template, version 3.0 (05/25/2022)
+Day
+Dose (mg/kg) Cmax (ng/mL) AUC0-last (ng·h/mL)
+3
+4140
+23,800
+10
+11,900
+87,500
+19
+30
+41,100
+283,000
+Source: Pharmacology Toxicology Reviewer’s Analysis
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration
+Dosing Solution Analysis
+Dosing solutions were with 10% of the nominal values.
+Necropsy
+There were no gross findings at necropsy.
+Cesarean Section Data
+There were no drug effect on pregnancy or number of corpora lutea, implantations, 
+preimplantation loss, number of fetuses, or number of early, late, or total resorptions. There were 
+no dead fetuses in any group. There were no drug effects on male/female ratio, postimplantation 
+loss, or mean fetal weights.
+Offspring
+There were no drug-related external, visceral, or skeletal malformations.
+13.2.5. Special Toxicology Studies
+A 13-Week Impurity Qualification Toxicity Study When Administered as an Intrathecal 
+Bolus Injection in Cynomolgus Monkey
+The potential toxicity of tofersen process impurities and degradation products was assessed by 
+Q2W IT administration over a 13-week period in male and female cynomolgus monkeys 
+(4/sex/group). Groups were administered vehicle or 10 mg tofersen from one of three drug 
+batches (TAM1, TAM2, or TAM3) that had been enriched with process impurities and 
+degradation products. IT administration was conducted Q2W for 13 weeks.
+Reference ID: 5163540
+
+
+===== PAGE 189 =====
+
+NDA 215887
+Qalsody (tofersen)
+188
+Integrated Review Template, version 3.0 (05/25/2022)
+Source: 2.7.2 Summary of Clinical Pharmacology Studies, Table 1
+Abbreviations: ALS, amyotrophic lateral sclerosis; CNS, central nervous system; CSF, cerebrospinal fluid; GCP, good clinical 
+practice; IT, intrathecal; MAD, multiple ascending dose; mITT, modified intent-to-treat; NA, not applicable; PD, pharmacodynamic; 
+PK, pharmacokinetic; SOD1, superoxide dismutase 1
+Study 233AS101 Part A (Single Ascending Dose)
+Twenty SOD1-ALS patients were enrolled and dosed in Part A as a randomized, double-blind, 
+placebo-controlled, single-ascending-dose study. Five participants were assigned to placebo and 
+3, 3, 3, and 6 to tofersen 10, 20, 40, and 60 mg, respectively. A total of 19 participants (95%) 
+completed Part A. The CSF tofersen concentration increased with dose in a less-than dose-
+proportional fashion. In plasma, the median Cmax, and AUC0-24 were roughly dose-proportional; 
+however, high PK variability was observed across tofersen levels (Table 94). Following a 
+tofersen single dose, there were no meaningful changes in CSF SOD1 protein or neurofilament 
+levels in CSF or plasma.
+Table 94. Plasma PK Parameters of Tofersen on Day 1 – SAD PK Population
+Parameter
+Tofersen 10 mg
+N=3
+Tofersen 20 mg
+N=3
+Tofersen 40 mg
+N=3
+Tofersen 60 mg
+N=6
+AUC0-24h (h·ng/mL) mean (SD)
+1050 (811)
+1040 (200)
+2920 (600)
+5730 (2850)
+Cmax (ng/mL) mean (SD)
+81.7 (67.8)
+85.1 (52.6)
+203 (31.1)
+687 (488)
+Tmax (h) median
+4
+6
+6
+2
+Source: Clinical Study Report 233AS101 (Parts A & B), Table 46
+Abbreviations: AUC0-24h,.area under the concentration-time curve from 0 to 24 h; Cmax, maximum plasma concentration; 
+PK, pharmacokinetics; SAD, single ascending dose; SD, standard deviation; Tmax, time to achieve maximum concentration
+Study 233AS101 Part B (MAD)
+Part B was a randomized, double-blind, placebo-controlled, MAD study that evaluated four dose 
+levels of tofersen (20, 40, 60, and 100 mg) in SOD1-ALS subjects. In total, 50 subjects were 
+randomized in a 3:1 tofersen-to-placebo ratio. Tofersen CSF concentrations increased with dose 
+level, generally in a less-than dose- proportional manner. Steady state was achieved immediately 
+Reference ID: 5163540
+
+
+===== PAGE 190 =====
+
+NDA 215887
+Qalsody (tofersen)
+189
+Integrated Review Template, version 3.0 (05/25/2022)
+after the loading period. Moderate to high inter- and intraparticipant variabilities in the CSF 
+concentration profiles were observed. There was little to no apparent BIIB067 accumulation in 
+plasma or CSF following monthly dosing. The plasma PK parameters are listed in Table 95.
+Table 95. Plasma PK Parameters of Tofersen on Day 1 – MAD PK Population
+Parameter
+Tofersen 20 mg
+N=10
+Tofersen 40 mg
+N=10
+Tofersen 60 mg
+N=9
+Tofersen 100 mg
+N=10
+AUC0-24h (h·ng/mL) 
+mean (SD)
+1192.82 (630.494) 3501.00 (2005.443) 4970.60 (2732.748) 13662.68 (7932.218)
+Cmax (ng/mL)
+mean (SD)
+121.85 (118.837)
+350.92 (315.466)
+603.56 (569.433)
+1414.40 (1124.249)
+Tmax (hr) median
+6
+6
+2
+3
+Source: Clinical Study Report 233AS101 (Parts A & B), Table 47
+Abbreviations: AUC0-24h,.area under the concentration-time curve from 0 to 24 h; Cmax, maximum plasma concentration; 
+MAD, multiple ascending dose; PK, pharmacokinetics; SD, standard deviation; Tmax, time to achieve maximum concentration
+Geometric mean ratios of SOD1 protein concentrations from baseline to Day 85 decreased by 
+1%, 27%, 21%, and 36% in the tofersen 20, 40, 60, and 100 mg groups, respectively, and 3% in 
+the placebo group (Figure 33). At Day 85, the difference between the 100 mg group and the 
+placebo group was statistically significant (p<0.0001).
+Figure 33. CSF SOD1 Geometric Mean Ratio to Baseline Values (95% CI) by Visit From MMRM 
+Analysis – Part B (MAD) PD Population
+Source: Clinical Study Report 233AS101 (Parts A & B), Figure 9
+Abbreviations: BLQ, below limit of quantitation; CSF, cerebrospinal fluid; LS, least squares; MAD, multiple ascending dose; 
+MMRM, mixed model for repeated measures; PD, pharmacodynamic; SOD1, superoxide dismutase 1
+Reference ID: 5163540
+(b) (6)
+
+
+===== PAGE 192 =====
+
+NDA 215887
+Qalsody (tofersen)
+191
+Integrated Review Template, version 3.0 (05/25/2022)
+Ctrough showed little to no accumulation with monthly dosing after the loading phase, indicating 
+that the effective half-life of tofersen in CSF is approximately 1 month (Figure 35). At the end of 
+treatment (Day 197), the mean CSF Ctrough was 24 ng/mL (CV% of 101%).
+Tofersen PK in plasma was evaluated with PK sampling collected at pre-dose, 1, 2, 4, and 6 h 
+post-dose on Days 1 and 85. Predose plasma samples were collected at each visit. A limited 
+number of subjects had their plasma PK profiles for post-dose 1 to 6 h evaluated (N=22 on Day 1 
+and N=18 on Day 85) due to inadvertent omission of post-dose PK sampling in the original 
+protocol for Study 101C. Based on the available PK data, the median Tmax of plasma tofersen 
+was 4 h post-dose. Minimal or no accumulation in plasma was observed. The AUC0-24h and Cmax 
+values were generally consistent between Day 1 and Day 85 PK, with high intersubject 
+variability.
+Figure 35. CSF Tofersen Concentration (ng/mL) Mean Values ±SE by Visit (Linear Scale) – PK 
+Population
+Source: Study report of 233AS101 Part C, Figure 28
+Abbreviation: PK, pharmacokinetic
+PK characterization of tofersen in CSF and plasma from pooled studies (233AS101 Part A, B, 
+and C) was conducted via population PK modeling; see Section 14.5.4.1.
+Study 233HV101
+Study 233HV101 was an open-label, single-dose study designed to determine the safety, 
+tolerability, and distribution of a microdose of 99mTc-MAG3-BIIB067 (radiolabeled tofersen) co-
+administered with unlabeled tofersen in healthy adult subjects. Eight subjects without ALS were 
+exposed to a single dose of tofersen. Of them, only three subjects completed the study: two 
+received unlabeled tofersen at 100 mg plus a microdose of 99mTc-MAG3-BIIB067 at 100 µg, and 
+Reference ID: 5163540
+
+
+===== PAGE 210 =====
+
+NDA 215887
+Qalsody (tofersen)
+209
+Integrated Review Template, version 3.0 (05/25/2022)
+Methods: Linear and lasso regression methods were used. No imputation method was used for 
+missing data due to limited missing variables. For both methods, the dependent variable was the 
+ALSFRS-R total score change from baseline at Week 28. Independent variables included all 
+baseline study variables in Table 101, total SOD1 protein (Study 2), and plasma NfL and NfH 
+levels. Various transformations of neurofilament data included log neurofilament level, change 
+from baseline, percentage change from baseline, ratio to baseline, neurofilament-time slope, log 
+daily area under the neurofilament-time curve (daily_NfL_AUC or daily_NfH_AUC), and log 
+linear-model-estimated area under the neurofilament-time curve (NfL_AUC_est or 
+NfH_AUC_est). All baseline continuous variables were scaled so that all predictors were in the 
+same range.
+For linear regression analysis, the neurofilament data transformations were tested separately to 
+prevent multicollinearity. For each biomarker data transformation, final linear model was 
+identified by the Akaike information criterion in a stepwise algorithm using the covariates listed 
+in Table 101. Because lasso regression analysis can handle multicollinearity, all study variables 
+including the neurofilament metrics were used simultaneously. Analyses were conducted using 
+the function cv.glmnet in the glmnet package for R.
+To evaluate the prediction accuracy of the methods, leave-one-out-cross-validation (LOOCV) 
+was used. Briefly in this method, a model was developed from a data after removing one 
+observation in each run. For each developed model, prediction was made for the removed 
+observation. Evaluation metrics was then calculated using all observations and predictions. The 
+predictors identified from each run were also summarized to identify commonly selected 
+predictors among all runs.
+Results
+Correlations among the study variables were first evaluated (Figure 43). The ALSFRS-R total 
+score change from baseline at Week 28 was associated with plasma NfL (r=-0.65, p<0.001), NfH 
+(r=-0.36, p<0.05), %SVC (r=0.36, p<0.05), and time from onset (r=0.39, p<0.05). DP, as 
+represented by the ALSFRS-R slope, was correlated (r> ±0.25) with baseline ALSFRS-R total 
+score, plasma NfL, plasma pNfH, and age. Several neurofilament metrics were explored in 
+addition to baseline neurofilament levels (Table 102). The results suggested baseline plasma NfL 
+to be the preferred neurofilament metric for evaluating the association with ALSFRS-R change 
+from baseline at Week 28.
+Reference ID: 5163540
+
+
+===== PAGE 211 =====
+
+NDA 215887
+Qalsody (tofersen)
+210
+Integrated Review Template, version 3.0 (05/25/2022)
+Figure 43. Sample Correlation Plot of Baseline Characteristics
+Source: Reviewer’s analysis
+Slope: ALSFRS-R prerandomization slope
+Triple asterisk (***), p<0.0001, double asterisk (**), p<0.01; single asterisk (*), p<0.05, dot(.), p<0.1
+Abbreviations: ALS, amyotrophic lateral sclerosis; ALSFRS-R, revised ALS functional rating scale; BMI, body mass index; 
+NfH, neurofilament heavy chain; NfL, neurofilament light chain; %SVC, percent slow vital capacity
+Table 102. Correlations of Neurofilament Levels With ΔALSFRS-R Total Score at Week 28
+Baseline Characteristic
+Pearson Correlation 
+Coefficients
+Baseline NfL (pg/mL)
+-0.65
+NfL change (pg/mL)
+-0.30
+NfL change (%)
+-0.10
+NfL ratio to baseline
+-0.10
+NfL-time slope
+-0.22
+Log NfL (pg/mL)
+-0.57
+Log daily area under NfL-time curve (pg/mL)
+-0.60
+Log linear-model-estimated area under NfL-time curve until Week 28 (pg.day/mL)
+-0.60
+Baseline NfH (pg/mL)
+-0.36
+NfH change (pg/mL)
+-0.18
+NfH change (%)
+0.03
+NfH ratio to baseline
+0.03
+NfH-time slope
+-0.17
+Reference ID: 5163540
+
+
+===== PAGE 212 =====
+
+NDA 215887
+Qalsody (tofersen)
+211
+Integrated Review Template, version 3.0 (05/25/2022)
+Baseline Characteristic
+Pearson Correlation 
+Coefficients
+Log NfH (pg/mL)
+-0.36
+Log daily area under NfH-time curve (pg/mL)
+-0.42
+Log linear-model-estimated area under NfH-time curve until Week 28 (pg.day/mL)
+-0.40
+Source: Reviewer’s analysis
+Abbreviations: ΔALSFRS-R, change in revised amyotrophic lateral sclerosis functional rating scale; NfH, neurofilament heavy chain; 
+NfL, neurofilament light chain
+Linear regression: The summary of linear regression findings including adjusted R-squared and 
+residual standard error, and significant study variables (p<0.01) are shown in Table 103. The 
+result suggested that baseline NfL was significant predictor for ALSFRS-R change at Week 28 in 
+all the model tested. Other study variables such as SVC, sex, ALSFRS-R and NfH change or 
+slope were also appeared significant in some of the test models. The LOOCV analysis (total of 
+33 runs) identified the same predictors (p<0.01); i.e., NfL (33 runs), SVC (6 runs), and sex (2 
+runs) and height (1 runs).
+Table 103. Summary of Linear Regression Analysis Using Various Neurofilaments Metrices
+Neurofilament Metrics
+R2
+RSE Significant Study Variables (p<0.01)
+Logarithm (NfX)
+0.63
+5.094 SVC, baseline NfL
+Change from baseline
+0.72
+4.412 Baseline NfL, NfH change
+% Change from baseline
+0.61
+5.241 Baseline NfL
+Ratio to baseline
+0.61
+5.241 Baseline NfL
+Slope
+0.75
+4.178 ALSFRS-R, sex, NfH slope, baseline NfL
+Log NfX_AUC_day
+0.71
+4.673 Sex, baseline NfL
+Log NfX_AUC_est
+0.61 
+5.231 Baseline NfL
+Source: Reviewer’s analysis
+Abbreviations: ALS, amyotrophic lateral sclerosis; ALSFRS-R, revised ALS functional rating scale; NfH, neurofilament heavy chain; 
+NfL, neurofilament light chain; NfX: neurofilament light chain or heavy chain; NfX_AUC_day, daily area under neurofilament-time 
+curve; NfX_AUC_est, linear-model-estimated area under neurofilament-time curve; R2, adjusted R-squared; RSE, residual standard 
+error; SVC, slow vital capacity
+Lasso regression: The final model identified baseline plasma NfL as only important predictors 
+(using lambda within one standard error for model selection), consistent with linear regression 
+results. The LOOCV analysis (total of 33 runs) identified baseline Nfl (33 runs), SVC (9 runs), 
+Nfl_AUC_est (2 runs), and ALSFRS-R (1 run) as predictors. Evaluation metrics for both 
+regression techniques using the LOOCV method are summarized in Table 104, and indicate 
+similar model performance by linear and lasso regression analyses.
+Table 104. Evaluation Metrics for Linear and Lasso Regression Using LOOCV Analysis
+Parameter
+Linear Regression 
+N=33
+Lasso Regression 
+N=33
+Relative squared error
+0.909
+0.836
+Root mean squared error
+7.89
+7.57
+Mean absolute error
+6.36
+6.04
+Relative absolute error
+0.957
+0.909
+Mean squared error
+62.2
+57.3
+Source: Reviewer’s analysis
+Lower error values suggest better model performance
+Abbreviations: LOOCV, leave-one-out cross-validation
+Reference ID: 5163540
+
+
+===== PAGE 227 =====
+
+NDA 215887
+Qalsody (tofersen)
+226
+Integrated Review Template, version 3.0 (05/25/2022)
+Figure 51. Relationship Between Plasma NfL Reduction at Week 16 and Reduction in Clinical 
+Worsening of ALSFRS-R Total Score According to Baseline NfL Level
+Source: Reviewer’s analysis
+Black dashed line represents 60% reduction in NfL.
+Numbers represents changes in ALSFRS-R total score at 60% NfL reduction.
+Abbreviations: ALSFRS-R, revised amyotrophic lateral sclerosis functional rating scale; NfL, neurofilament light chain
+14.5.4. Population Pharmacokinetic and Pharmacodynamic 
+Analyses of Tofersen
+This is a review of the Applicant’s pharmacometric study report (CPP-21-004), which 
+characterizes the PK and pharmacodynamics (PD) of tofersen in SOD1-ALS subjects.
+14.5.4.1. Pharmacokinetic Analysis of Tofersen
+Applicant’s Analysis
+Objectives: To characterize the plasma and CSF PK of tofersen in SOD1-ALS subjects, and to 
+identify the covariates affecting PK variability.
+Data: The PK data of 166 subjects from Study 101 and Study 102 were used for the analysis. 
+The covariate characteristics of the data are provided in Table 109.
+Reference ID: 5163540
+
+
+===== PAGE 228 =====
+
+NDA 215887
+Qalsody (tofersen)
+227
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 109. Summary Statistics of the Subjects in the Final Modeling Dataset
+Source: CPP-21-004, p. 31, Table 5
+* For continuous variables, mean (minimum, maximum) values are provided.
+Abbreviations: ADA, antidrug antibodies; BMI, body mass index; BSA, body surface area; CRCL, creatinine clearance; F, female; M, 
+male; PKPD, pharmacokinetics pharmacodynamics
+Method: Nonlinear mixed effect PK modeling in serum and CSF was conducted using 
+NONMEM, v. 7.4.3. Two PK models were developed to characterize the PK exposures in 
+plasma and CSF. For the plasma PK model, covariate modeling was first performed using a full 
+model approach and subsequently by stepwise backward elimination (p<0.01) to identify the 
+parsimonious PK model. The CSF PK model was based on only trough concentrations; therefore, 
+covariate analysis was not conducted. The final PK models were evaluated using goodness-of-fit 
+plots and visual predictive checks.
+Results: The plasma PK of tofersen was described by a two-compartment model with linear 
+elimination and a depot compartment. Subject-level ADA status and baseline body surface area 
+were added on clearance, and sex was added on central volume of distribution. For the PK in 
+CSF, a one-compartment linear model was used. The results of the CSF PK model were derived 
+to provide an approximation of exposure for the population PKPD models of NfL and SOD1 
+protein. The population PK parameter estimates from the final PK models are listed in Table 
+110. The PK models were able to reasonably characterize the observed data (Figure 52).
+Reference ID: 5163540
+
+
+===== PAGE 229 =====
+
+NDA 215887
+Qalsody (tofersen)
+228
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 110. Population Parameter Estimates of the Final Population PK Model for Tofersen
+A.
+Plasma
+B.
+CSF
+Source: Summary of Clinical Pharmacology, p. 105, Table 20; CPP-21-004, p. 49, Table 9
+Abbreviations: ADA, antidrug antibody; BSA, body surface area; CI, confidence interval; CL, clearance; CSF, cerebrospinal fluid; 
+CV, coefficient of variation; Ka, rate constant of absorption; PK, pharmacokinetics; RSE, residual standard error; 
+Q, intercompartmental clearance; V2, plasma central volume of distribution; V3, plasma peripheral volume of distribution
+Reference ID: 5163540
+
+
+===== PAGE 230 =====
+
+NDA 215887
+Qalsody (tofersen)
+229
+Integrated Review Template, version 3.0 (05/25/2022)
+Figure 52. Prediction-Corrected Visual Predict Check of the Final PK Model of Tofersen in Plasma
+Source: CPP-21-004, p. 48, Figure 9
+Abbreviations: PK, pharmacokinetic
+Reviewer’s Comments
+Reviewer was able to reproduce the PK models for tofersen in plasma and CSF, with similar 
+model diagnostic plots (Figure 53). The plasma PK model suggested that AD- positive subjects 
+had 42.9% lower clearance; and female subjects had 57.9% lower central volume of distribution. 
+The PK model did not identify race, bodyweight, or age as important covariates influencing the 
+PK of tofersen. The Applicant conducted a further analysis by adding race on both clearance 
+and/or volume of distribution parameter of the final plasma PK model. However, race was not 
+identified as a covariate in the analysis, possibly due to collinearity with baseline BSA. The 
+result should be interpreted with caution as the estimated effect may be affected by the small 
+dataset, sparse sampling, and underlying effects not captured by the current model. Also, the 
+plasma and CSF compartments are downstream of the CNS, which is the tofersen site of action. 
+In clinical studies, the dose of tofersen was not adjusted based on race, sex, bodyweight, or age. 
+No conclusion can be drawn for the efficacy subgroup analysis based on sex and other covariates 
+due to the small sample size and baseline study imbalances between the treatment groups.
+An IR was sent to the Applicant on March 30, 2023, to evaluate the impact of time-varying ADA 
+on plasma/CSF PK exposure, total CSF SOD1 protein, and plasma NfL levels. The Applicant 
+responded on March 03, 2023. The PK dataset was revised by adding 39 ADA-positive subjects, 
+and the resulting PK model included time-varying ADA as a covariate on clearance. The revised 
+PK model showed that the presence of ADA decreased plasma clearance by 32%. The impact of 
+ADA on CSF PK exposure was not evaluated.
+Reference ID: 5163540
+
+
+===== PAGE 234 =====
+
+NDA 215887
+Qalsody (tofersen)
+233
+Integrated Review Template, version 3.0 (05/25/2022)
+Figure 55. Prediction-Corrected Visual Predictive Check of the Final PK-SOD1 Model of Tofersen
+Source: CPP-21-004, p. 72, Figure 19
+The red solid and dashed lines represent the median, 5th, and 95th percentile of observed data; shaded areas represent the 95% 
+prediction intervals of the simulated 50th (red), 5th, and 95th (blue) percentiles
+Abbreviations: PK, pharmacokinetic; SOD1, superoxide dismutase 1
+Figure 56. Population Mean Simulations of CSF SOD1 Reduction at Different Doses (Two Loading 
+Doses With Monthly Maintenance Doses) Based on the Final CSF PK-SOD1 Model
+Source: CPP-21-004, p. 74, Figure 20
+Dotted vertical line represents cut off at the end of 6 months. Shaded area: 95% confidence interval of uncertainty.
+Abbreviations: CSF, cerebrospinal fluid; PK, pharmacokinetic; SOD1, superoxide dismutase 1; TRT, treatment group
+Reviewer’s Comments
+The reviewer was able to reproduce the PK-SOD1 models for tofersen, with similar model 
+diagnostic plots (Figure 57). The PK/PD model reasonably described the data, with the estimated 
+Emax of ~40% of the baseline and the EC50 was in the range of the exposures produced by the 
+Reference ID: 5163540
+
+
+===== PAGE 239 =====
+
+NDA 215887
+Qalsody (tofersen)
+238
+Integrated Review Template, version 3.0 (05/25/2022)
+Figure 60. Goodness-of-Fit Plot of the Final PK-NfL Model of Tofersen
+Source: Reviewer’s analysis
+Red line represents loess spline approximations of the data; black solid line represents line of unity.
+Abbreviations: NfL, neurofilament light chain; PK, pharmacokinetic
+References
+1. CPP-21-004-BIIB067: Population Pharmacokinetic and Pharmacodynamic Analysis of 
+BIIB067 Tofersen data, dated April 2022
+2. 2.7.2 Summary of Clinical Pharmacology Report
+14.6. Pharmacogenetics
+Refer to Section 14.8.2.
+Reference ID: 5163540

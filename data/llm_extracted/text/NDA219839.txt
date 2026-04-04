@@ -1,0 +1,2667 @@
+
+
+===== PAGE 12 =====
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+11
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+Glossary 
+ADME
+Absorption, Distribution, Metabolism, Excretion 
+ADR
+Adverse Drug Reaction
+AE
+Adverse Event
+AESI
+Adverse Event of Special Interest
+ALP
+Alkaline Phosphatase
+ALT
+Alanine Aminotransferase
+APTT
+Activated Partial Thromboplastin Time
+ARA
+Acid Reducing Agents
+AST
+Aspartate Aminotransferase
+ATP
+Adenosine Triphosphate
+AUC
+Area Under the Plasma Concentration-time Curve
+AUCss
+Area Under the Plasma Concentration-time Curve at Steady State
+AUC0-inf
+Area Under the Plasma Concentration-time Curve from Time 0 to Infinite Time
+BBB
+Blood-Brain Barrier
+BCRP
+Breast Cancer Resistance Protein
+BCS
+Biopharmaceutics Classification System
+BDC
+Bile Duct Cannulation
+BLA
+Biologics License Application
+BLRM
+Bayesian Logistic Regression Model
+BM
+Brain Metastasis
+BTB
+Brain Tumor Barrier
+BTD
+Breakthrough Therapy Designation
+CDER
+Center for Drug Evaluation and Research
+CDRH
+Center for Devices and Radiological Health
+CDTL
+Cross-Discipline Team Leader
+CDx
+Companion Diagnostic
+CFR
+Code of Federal Regulations
+CI
+Confidence Interval
+CLcr
+Creatinine Clearance
+Cmax
+Maximum Plasma Concentration
+CMC
+Chemistry, Manufacturing, and Controls
+CNS
+Central Nervous System
+COA
+Clinical Outcome Assessment
+cORR
+Confirmed Objective Response Rate
+CPK
+Creatine Phosphokinase
+CQA
+Critical Quality Attributes
+C-QTc
+Concentration QTc 
+Reference ID: 5618719
+
+
+===== PAGE 15 =====
+
+NDA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+14
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+SAD
+Single Ascending Dose
+SAE
+Serious Adverse Event
+SAP
+Statistical Analysis Plan
+SD
+Standard Deviation
+SOC
+System Organ Class
+SoD
+Sum of Diameters
+SOP
+Standard Operating Procedure
+SRC
+Safety Review Committee
+t1/2
+Elimination Half-life
+tmax
+Time to Reach Maximum Plasma Concentration
+TdP
+Torsades de Pointes
+TEAE
+Treatment-Emergent Adverse Event
+TESAE
+Treatment-Emergent Serious Adverse Events
+TKI
+Tyrosine Kinase Inhibitor
+TRAE
+Treatment-Related Adverse Events
+ULN
+Upper Limit of Normal (the high limit of a reference range)
+UMVUE
+Uniformly Minimum Variance Unbiased Estimator
+U.S.
+United States
+USPI
+United States Prescribing Information
+WBDC
+Web Based Data Capture
+Reference ID: 5618719
+
+
+===== PAGE 33 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+32
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+Sunvozertinib did not exhibit substantial off-target activity against other targets at clinically 
+relevant concentrations (free Cmax of approximately 60 nM at the highest recommended dose of 
+200 mg), although sunvozertinib inhibited ALK4 with IC50 values as low as 150 nM.  
+Sunvozertinib inhibited human ether-a-go-go related gene (hERG) current at a concentration of 
+1.21 μM, which corresponds to a ~20-fold exposure margin from the unbound Cmax of 
+sunvozertinib (~60 nM), thereby suggesting low potential for QT prolongation. Additionally, the 
+toxicology studies in dogs did not show QT prolongation or any other cardiac electrophysiologic 
+effects. Sunvozertinib had no effect on the respiratory system or central nervous system (CNS) of
+rats receiving a single oral dose at levels up to 100 mg/kg.  
+Sunvozertinib bound to plasma protein of various species in a concentration-dependent manner. 
+In human plasma, 91.46% of sunvozertinib was bound to plasma protein at the 1 μM 
+concentration. Following a single dose of radiolabeled sunvozertinib in pigmented rats, a wide 
+distribution of sunvozertinib was observed with the highest radioactivity found in the cecum and 
+small intestine contents, adrenal gland, pituitary gland, spleen, and uveal tract. Distribution of 
+sunvozertinib-derived radioactivity in the uveal tract, meninges, and pigmented fur indicated 
+melanin binding. Radioactivity in the brain and spinal cord remained below the limit of 
+quantification, indicating that sunvozertinib has a low tendency to cross the blood-brain barrier.  
+There were no major (>10%) human metabolites identified. Elimination studies showed that 
+sunvozertinib administered orally or intravenously was primarily excreted via the fecal route in 
+rats (88.7% and 85.3%, respectively) with minimal excretion via the urinary route (1.3% and 
+3.8%, respectively). Animal to human exposure multiples were calculated using the area under 
+the curve (AUC) of 8,060 hr*ng/mL in patients at the highest recommended clinical dose of 200 
+mg/day. 
+The Applicant conducted 13-week repeat-dose toxicology studies in rats and dogs with a 
+recovery period of 4 weeks. At the high dose of 35 mg/kg, findings in rats included increased 
+incidence of flaky tails, tail ridging, and head scabbing that was associated with folliculitis and 
+inflammation of the tail. Additionally, increased sinusoidal macrophages in the lymph nodes 
+ZHUH REVHUYHG DW  PJNJ $W GRVHV  PJNJ DFFXPXODWLRQ RI IRDP\ PDFURSKDJHV LQ WKH
+lung, erythrophagocytosis in the mesenteric lymph nodes, and atrophy of the mammary glands 
+that occurred only in males (approximately 0.3 times the clinical AUC at the 200 mg human 
+dose) were observed in rats. These findings were generally reversible. Ocular toxicities 
+(hemorrhage of the anterior chamber of the eye) were observed in rats at 35 mg/kg 
+(approximately 0.8 times the clinical AUC at the 200 mg human dose) and persisted through the 
+recovery period. Hematologic toxicities in rats included reversible decreased red blood cell 
+parameters and increased white blood cells. In dogs, increased instances of loose or liquid feces 
+and hyperplasia in the lungs and liver ZHUH REVHUYHG DW GRVHV  PJNJ $W GRVHV  PJNJ LQ
+dogs, inflammation in the lungs and liver, and erythrophagocytosis in the lymph nodes were 
+observed. These findings in dogs were generally reversible. Of note, a single male dog at 6 
+mg/kg exhibited moderate alveolar flooding/hemorrhage in the lung that was associated with 
+Reference ID: 5618719
+
+
+===== PAGE 34 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+33
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+moderate broncho-alveolar inflammation, minimal granulomatous inflammation, and epithelial 
+hyperplasia in the bronchioles. Hematologic toxicities in dogs included reversible decreases in 
+red blood cell parameters.  
+Findings observed in one or both species consistent with clinical experience included effects on 
+the gastrointestinal tract, skin, lung, eyes, and decreased red blood cell parameters. 
+Sunvozertinib was not mutagenic in an in vitro bacterial reverse mutation assay. Additionally, 
+sunvozertinib did not cause chromosomal aberrations in an in vitro chromosome aberration assay 
+in Chinese hamster ovary (CHO) cells. Sunvozertinib was not clastogenic in an in vivo bone 
+marrow micronucleus test in rats and did not demonstrate phototoxic potential in a GLP-
+compliant in vitro assay with mouse fibroblasts.  
+The Applicant did not conduct a carcinogenicity study with sunvozertinib; consistent with ICH 
+S9, these studies are not warranted for the development of a drug intended for the treatment of 
+patients with advanced cancer. Dedicated fertility studies with sunvozertinib were also not 
+conducted; however, histopathology findings in the GLP 4-week repeat-dose toxicology study in 
+dogs showed that male animals exhibited slight to moderate degeneration of the seminiferous 
+tubules in the testes at 12/8 mg/kg (approximately 0.2 times the clinical AUC at the 200 mg 
+human dose). Additionally, findings in a 14-day dose-range finding study in dogs showed that 
+IHPDOH DQLPDOV H[KLELWHG VOLJKW DWURSK\ RI WKH YDJLQDO HSLWKHOLXP DW  PJNJ DSSUR[LPDWHO\
+1.4 times the clinical AUC at the 200 mg human dose). 
+To address the potential reproductive effects of sunvozertinib, the Applicant conducted a GLP-
+compliant embryo-fetal development study in Wistar Han rats. Once daily oral administration of 
+sunvozertinib to pregnant rats during the period of organogenesis (Gestation Day [GD] 6 to 17) 
+did not affect embryo-fetal survival at doses up to 40 mg/kg/day (0.6 times the clinical AUC at 
+the 200 mg human dose); however, treatment with 40 mg/kg resulted in an increased incidence 
+of misaligned sternebra (skeletal variation) noted in fetuses as compared to controls. Maternal 
+toxicity was characterized by a decrease in body weight at 40 mg/kg sunvozertinib which 
+FRUUHODWHG ZLWK GHFUHDVHG IRRG FRQVXPSWLRQ DW  PJNJ VXQYR]HUWLQLE  WLPHV WKH FOLQLFDO
+AUC at the 200 mg human dose) compared to controls. 
+A GLP-compliant embryo-fetal development study in rabbits was also performed. Once daily 
+oral administration of sunvozertinib to pregnant rabbits during the period of organogenesis (GD 
+6 to 19) resulted in a dose-dependent decrease in maternal weight gain starting at 0.5 mg/kg 
+(approximately 0.02 times the clinical AUC at the 200 mg human dose). Fetal toxicities included 
+YLVFHUDO PDOIRUPDWLRQV RI WKH KHDUW GLODWLRQ RI WKH DRUWD DQG DRUWLF DUFK DW  PJNJ LQ
+addition to narrow pulmonary arteries and absHQW PHGLDQ OREHV LQ WKH OXQJ DW  PJNJ
+DSSUR[LPDWHO\  WLPHV WKH FOLQLFDO $8& DW WKH  PJ KXPDQ GRVH DQG  PJNJ
+respectively. Skeletal variations included increases in instances of supernumerary bone of the 
+fontanellar and shortened 13th ULJKW ULEV DW  PJNJ
+Reference ID: 5618719
+
+
+===== PAGE 43 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+42
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+In the in vivo pharmacokinetic (PK) and pharmacodynamic (PD) relationship of sunvozertinib in 
+xenograft models (Applicant’s Figure 1; Pharmacology Report 07), FDA acknowledges that 
+higher doses of sunvozertinib led to higher drug concentrations in the plasma and greater 
+modulation of pEGFR (Tyr1068 and Tyr1173) and pERK (Thr202/Tyr204) relative to control 
+(vehicle) group. FDA also notes that at low doses of sunvozertinib (12.5 mg/kg) pERK was not 
+suppressed relative to control (vehicle) group whereas both pEGFR Tyr1068 and pEGFR 
+Tyr1173 shows some suppression at 2 hours post-dose.  
+FDA did not review the studies in Pharmacology Report 8 investigating the anti-tumor activity of 
+sunvozertinib in a mouse brain metastasis xenograft model carrying EGFR exon19del (PC-9 
+model) as it is not relevant to the proposed clinical indication. 
+Secondary Pharmacology 
+The Applicant’s Position:
+Sunvozertinib showed good selectivity in the secondary pharmacology research. 
+Sunvozertinib and DZ0753 were screened in diverse sets of in vitro radioligand binding, enzymatic 
+and functional assays, which covered 101 distinct molecular targets, including different types of 
+receptors, ion channels, transporters,
+and enzymes (100042609_ESP, 100042610_DSP,
+100042828_ESP, 100042830_DSP). In these studies, sunvozertinib was active against 55 targets.
+The IC50 values for these targets were further determined and the results showed that they were 
+70-fold higher than that for EGFR exon20ins (2.1 nM, Module 2.6.2/Section 1.1). DZ0753 showed 
+similar weak activities against 52 targets with 50-fold higher IC50. 
+The FDA’s Assessment:
+The Applicant uses terminology such as “weak” and “good” to describe study results; such terms 
+should be avoided as they are vague, subjective, and promotional. 
+FDA generally agrees with the Applicant’s summary of the secondary pharmacology data but 
+does not agree with the calculations of fold difference between IC50 values of EGFR exon20ins 
+and investigated molecular targets. See Tables 5 and 6 for updated fold changes. The unbound 
+Cmax of sunvozertinib at the recommended human dose of 200 mg calculated by the FDA 
+nonclinical team is ~60 nM. Given the IC50 value for inhibition of ALK4 (IC50 = 150 nM) is 
+greater than the free Cmax (~60 nM) at the recommended 200 mg dose, this target is unlikely to 
+be clinically significant for sunvozertinib. 
+Table 5. Inhibition or Stimulation Effects of Sunvozertinib in Cellular and Nuclear 
+Receptor Functional Assays (FDA Table) 
+Reference ID: 5618719
+
+
+===== PAGE 45 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+44
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+Study #78102-220836, the active metabolite DZ0753 inhibited the function of hERG channel 
+with an IC50 of 8.18 μM, suggesting low potential for QT prolongation. 
+5.4
+ADME/PK
+Data:
+Absorption
+In vivo PK studies (78104-18-417, 78104-18-418), in vitro permeability study (ADME-DIH-220218-Caco-2 BCS),
+4-week repeated dose toxicology studies (78103-18-326, 78103-18-327), 13-week repeated dose toxicology studies
+(JXB0023, JXB0024), reproductive and development toxicology studies (665-0081-DR, 78111-220447)
+The absorption rate was moderate in rats, dogs and rabbits with time to reach maximum plasma 
+concentration (tmax) between 0.5 and 4 hours. The extent of oral absorption was moderate in rats 
+and dogs with bioavailability of 39.6% and 48.8%, respectively. Sunvozertinib exhibited high 
+passive permeability in biopharmaceutics classification system (BCS) calibrated Caco-2 assay.
+Sunvozertinib exposure increased approximately in a dose-proportional manner in preclinical 
+PK, general toxicology, and reproductive and development toxicity studies. There was no 
+apparent sex difference in exposure for rats and dogs, and no marked accumulation was observed 
+in these species, which is consistent with its half-life of ~7 hours in rats and 9 to 10 hours in 
+dogs from PK studies.
+Distribution
+In vitro studies (ADME-DIH-180802-PPB, ADME-DIH-201112-1-Blood Partition), in vivo study (DZP/02),
+quantitative whole-body autography (QWBA) study (DZP/23)
+In vitro, sunvozertinib was highly bound to plasma proteins in all species tested. Over the 
+concentration range evaluated, there was a trend for increased unbound fraction of sunvozertinib 
+in a concentration-dependent manner in mouse, rat, rabbit, dog, and human plasma (ranging 
+from 2.18% to 13.3%). The mean blood-to-plasma ratio of sunvozertinib in vitro was 0.695, 
+which was considered low partition of sunvozertinib to human blood cells. However, 
+sunvozertinib-derived radioactivity was distributed more to blood cells than to plasma in rats in 
+vivo. 
+The QWBA data indicated that [14C]-sunvozertinib was widely distributed throughout the body 
+in rats after a single oral dose, whereas distribution of radioactivity into CNS tissues was low. 
+The elimination was slow for several tissues in partially pigmented rats (including uveal tract, 
+meninges, eye, spleen, adrenal gland, thyroid gland, pituitary gland, bone marrow, ex-orbital 
+lachrymal gland and thymus), and was not yet complete by 60 days post-dose. Results also 
+suggested sunvozertinib-derived radioactivity had affinity to melanin in partially pigmented rats.
+Metabolism
+In vitro and in vivo metabolism studies (DZP/03, DZP/24)
+Biotransformation of sunvozertinib has been examined in hepatocytes of rat and dog (the species 
+used for nonclinical general toxicology studies) and human. The metabolism of sunvozertinib 
+in hepatocytes was primarily to form oxidative and N-dealkylated products with direct 
+Reference ID: 5618719
+
+
+===== PAGE 46 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+45
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+conjugation to a range of glutathione, cysteine-glycine, cysteine and glucuronide metabolites. 
+Metabolite profiling studies were performed to characterize circulating metabolites after 
+multiple doses of sunvozertinib in rats, dogs, and human. Overall, the data indicated that 
+unchanged sunvozertinib was the primary circulating entity in human, and two human 
+metabolites, including demethylated metabolite DZ0753 and cysteine conjugate metabolite 
+M704, were slightly greater than 10% of the total ultraviolet area. These two metabolites were 
+detected in at least one species in toxicology studies.
+Excretion
+Rat mass balance studies (DZP/02)
+In intact rats, fecal excretion was the major route of elimination of sunvozertinib and its 
+metabolites, whereas urinary excretion was a minor route of elimination. In bile duct cannulation 
+(BDC) rats, biliary excretion is an important route for the elimination of the radioactive dose. 
+Further, in vivo metabolism data showed that unchanged sunvozertinib was excreted to a limited 
+extent, indicating metabolism was the major route of elimination. Also, the metabolites of 
+sunvozertinib were primarily excreted via bile in BDC rats.
+PK Drug Interactions
+In vitro metabolic studies (ADME-DIH-180802-CYP Phenotyping, DZP/25, XF2225), CYP inhibition studies
+(ADME-DIH-180802-CYP Inhibition, ADME-DIH-180802-CYP TDI, ADME-DIH-201112-CYP TDI, ADME-
+DIH-CYP KI/kinact, 
+205087,
+225091), CYP induction studies (ADME-DIH-180802-CYP Induction,
+21DIZAP1R1), transporter substrate studies (ADME-DIH-180802-P-gp Substrate, ADME-DIH-180802-BCRP 
+Substrate, 20DIZAP2), transporter inhibition studies (ADME-DIH-180802-P-gp Inhibition, ADME-DIH-180802-
+BCRP inhibition, ADME-DIH-180802-SLC inhibition, CYP1958 R15)
+CYP mediated drug interaction potential  
+In vitro, cytochrome P450 (CYP)3A4/5 were the principal CYP enzymes responsible for human 
+metabolism of sunvozertinib. DZ0753 was formed via CYP3A enzyme. Moreover, DZ0753 was 
+predominantly metabolized via glutathione conjugation with CYP metabolism being minimal.
+Sunvozertinib was a reversible inhibitor of CYP2D6 and CYP3A4 in vitro, but not a time-
+dependent inhibitor of other CYP isoforms tested. Sunvozertinib induced CYP3A4 and CYP2C8 
+messenger ribonucleic acid (mRNA) in primary human hepatocytes, but not CYP1A2, CYP2B6, 
+CYP2C9 and CYP2C19.
+Transporter mediated drug interaction potential
+In vitro, sunvozertinib was a substrate of permeability glycoprotein (P-gp) but not breast cancer 
+resistant protein (BCRP) and organic anion transporting polypeptide (OATP)1B1/3.  
+Sunvozertinib showed inhibition of P-gp, BCRP, OATP1B1/3, organic cation transport (OCT)2, 
+multidrug and toxin extrusion (MATE)1 and MATE2-K in vitro, with identification of potential 
+for in vivo inhibition (by calculation/extrapolation) for OATP1B1, P-gp and BCRP using the 
+approaches recommended by FDA in vitro drug-drug interaction (DDI) guidance.
+The Applicant’s Position:
+Reference ID: 5618719
+(b) 
+(4)
+(b) 
+(4)
+
+
+===== PAGE 47 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+46
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+Sunvozertinib has high in vitro Caco- SHUPHDELOLW\ ZKHQ DFWLYH WUDQVSRUW LV VDWXUDWHG  30 ȝM),
+and an oral bioavailability estimated at 39.6% in rats and 48.8% in dogs, suggesting favorable 
+absorption properties. Exposure generally increases in a dose-proportional manner. No obvious 
+sex difference and marked accumulation were observed following repeated oral dosing.  
+Sunvozertinib is highly plasma protein bound across species, with a high volume of distribution in 
+rat and dog, indicating extensive distribution outside of body water. In a QWBA study with albino 
+and partially pigmented rats, [14C]-sunvozertinib-derived radioactivity was widely distributed 
+throughout the body, particularly with the tissues containing melanin.  
+All notable human metabolites identified were also found in rat and dog hepatocytes. DZ0753 was 
+not considered as a major metabolite as it presented less than 10% of drug related materials in 
+plasma from human mass balance study, as well as similar pharmacology activity and plasma 
+binding as sunvozertinib. 
+Excretion of sunvozertinib was primarily as metabolites via the biliary/fecal route.
+As a victim of DDI, sunvozertinib exposure may be affected by coadministration with CYP3A4/5 
+inhibitors or inducers. 
+As a perpetrator of DDI at clinically relevant doses, sunvozertinib induced CYP3A4 and CYP2C8 
+mRNA expression in vitro, possibly through pregnane X receptor (PXR). Activation of PXR may
+induce the expression of transporter such as P-gp. Sunvozertinib itself has the potential for hepatic 
+OATP1B1, intestinal P-gp and BCRP inhibition.  
+The FDA’s Assessment:
+FDA generally agrees with the Applicant’s summaries of the nonclinical ADME/PK data, with 
+additional notable findings described below. All the in vitro PK drug-drug interaction studies 
+(e.g., cytochrome P450 metabolism and transporter studies) were reviewed by FDA’s clinical 
+pharmacology team; see Section 6 for FDA’s assessment of these studies.  
+Type of Study
+Major Findings 
+Absorption
+Pharmacokinetic of DZD9008 in Wistar 
+Han Rats Following Oral and Intravenous 
+Administration at Different Dose Levels/ 
+78104-18-417
+x
+No sex differences were observed.
+x
+Following a single oral administration at 3 mg/kg, the mean absolute 
+bioavailability (F = PO AUCinf / IV AUCinf) was calculated by FDA 
+to be 39.6%.
+x
+Following a 7-day repeated once daily oral dosing at 9 mg/kg, there 
+is no marked accumulation for AUC0-t and Cmax after repeated dose.
+Sunvozertinib Combined Male and Female PK Parameters Following Single or Multiple Dose to Rats 
+Reference ID: 5618719
+
+
+===== PAGE 48 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+47
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+All results are average value from male and female rats; results are expressed as mean (n = 3/sex) except for tmax which is 
+expressed as median (n =3/sex); NA: not applicable; D1= day 1; D7 = day 7; a: not calculated because only two PK points 
+were detected after the Cmax; IV Dosing Vehicle: 5% DMSO, 95% SBE-ȕ-CD (30%, w/v) in water; PO Dosing Vehicle: 
+0.5% HPMC, 0.1% Tween 80 in water.  
+(Adapted from Applicant’s Submission)
+Pharmacokinetics of DZD9008 in Beagle 
+Dogs Following Oral and Intravenous 
+Administration at Different Dose Levels / 
+78104-18-418
+x
+No sex differences were observed.
+x
+Following a single oral administration at 1 mg/kg, the mean 
+absolute bioavailability (F = PO AUCinf / IV AUCinf) was calculated 
+by FDA to be 51.1%. 
+x
+Following a 7-day repeated once daily oral dosing at 9 mg/kg, there 
+is no marked accumulation for AUC0-t and Cmax after repeated dose. 
+Sunvozertinib Combined Male and Female PK Parameters Following Single or Multiple Dose to Dogs
+All results are averaged value from male and female rats; results are expressed as mean (n = 3/sex) except for tmax which 
+is expressed as median (n =3/sex); NA: not applicable; D1 = day 1; D7 = day 7; IV Dosing Vehicle: 5% DMSO, 95% 
+SBE-ȕ-CD (30%, w/v) in water; PO Dosing Vehicle: 0.5% HPMC, 0.1% Tween 80 in water.
+(Adapted from Applicant’s Submission)
+Distribution
+Determination of in vitro Binding of 
+DZD9008 and DZ0753 to Plasma Proteins 
+in the Mouse, Rat, Dog and Human, as 
+well as Human Serum Albumin and 
+Human Į-acid Glycoprotein Solutions / 
+ADME-DIH-180802-PPB and ADME-
+DIH-211124-PPB
+x
+Plasma protein binding of metabolite DZ0753 was concentration-
+dependent in mouse and rat plasma, but concentration-independent 
+in rabbit, dog, and human plasma
+x
+Sunvozertinib and the metabolite DZ0753 were 91.46% and 
+91.62%, respectively, bound to human plasma protein at 1 μM, 
+which is the more relevant concentration based on the mean Cmax
+(412 ng/mL; ~0.71 μM) in patients given 200 mg sunvozertinib
+Non-Clinical Metabolism Study 
+(Absorption, Distribution, Metabolism and 
+Excretion Studies Following a Single Oral 
+or Intravenous Dose Administration of 
+[14C]-DZD9008 to Male and Female Rats) 
+/ DZP/02
+x
+Wistar Han rats (n=3/sex) received a single oral administration of 
+10 mg/kg [14C]-sunvozertinib
+x
+No sex difference in the exposure of both sunvozertinib or 
+radioactivity was observed in male and female rats
+x
+Up to 6 hours post-dose, blood-to-plasma ratios ranged between 
+0.72 and 2.58, increasing up to 7.81 at 48 hours post-dose 
+Dose 
+(mg/kg)
+Route of 
+administration 
+Dose 
+frequency
+tmax (hr)
+Cmax (μM)
+AUC0-t
+(μM·hr)
+AUCinf 
+(μM·hr)
+t1/2 (hr)
+CL 
+(mL/min/kg)
+Vss 
+(L/kg)
+3
+IV
+Single
+-
+- 
+2.67
+2.8
+6.37
+30.8
+13.6
+3
+PO
+Single
+4
+0.12
+1.02
+1.11
+6.84
+-
+- 
+9
+PO
+Single
+4
+0.34
+3.7
+3.87
+6.77
+-
+- 
+27
+PO
+Single
+3
+1.01
+10.8
+10.9
+6.77
+-
+- 
+9 (D1)
+PO
+Single
+4
+0.34
+2.91
+NAa
+NAa
+-
+- 
+9 (D7)
+PO
+Multiple
+4
+0.51
+4.71
+NA
+NA
+-
+- 
+Dose 
+(mg/kg)
+Route of 
+administration 
+Dose 
+frequency
+tmax (hr)
+Cmax (μM)
+AUC0-t
+(μM·hr)
+AUCinf 
+(μM·hr)
+t1/2 (hr)
+CL 
+(mL/min/kg)
+Vss 
+(L/kg)
+1
+IV
+Single
+-
+- 
+0.75
+0.94
+13.9
+30.9
+29.5
+1
+PO
+Single
+2
+0.05
+0.37
+0.48
+9.07
+-
+- 
+3
+PO
+Single
+2
+0.18
+1.15
+1.40
+10.5
+-
+- 
+9
+PO
+Single
+1.5
+0.42
+3.18
+3.39
+8.72
+-
+- 
+3 (D1)
+PO
+Single
+2
+0.14
+0.91
+1.11
+10.7
+-
+- 
+3 (D7)
+PO
+Multiple
+3
+0.09
+0.94
+NA
+NA
+-
+- 
+Reference ID: 5618719
+
+
+===== PAGE 55 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+54
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+Dose (mg/kg/day)
+0 
+15
+25
+35
+Sex
+M 
+F 
+M 
+F 
+M 
+F 
+M 
+F 
+Mammary Gland
+Atrophy (Total)
+(2)
+(0)
+(4)
+-
+(9)
+-
+(10)
+(0)
+Slight
+1
+0
+1
+-
+2
+-
+0
+0
+Moderate
+0
+0
+3
+-
+3
+-
+5
+0
+Marked
+1
+0
+0
+-
+4
+-
+5
+0
+Lungs
+Accumulation of foamy 
+macrophages (Total)
+(0)
+(1)
+(4)
+(5)
+(2)
+(6)
+(2)
+(8)
+Minimal
+0
+1
+4
+4
+1
+5
+0
+5
+Slight
+0
+0
+0
+1
+1
+1
+2
+2
+Moderate
+0
+0
+0
+0
+0
+0
+0
+1
+Animal Number Evaluated
+(End of Recovery Phase)
+5
+5
+0 
+0 
+0 
+0 
+5 
+5 
+Lungs
+Accumulation of foamy 
+macrophages (Total)
+(1)
+(0)
+(0)
+(0)
+(0)
+(0)
+(3)
+(2)
+Minimal
+1
+0
+0
+0
+0
+0
+2
+1
+Slight
+0
+0
+0
+0
+0
+0 
+1 
+1 
+Mammary Gland
+Atrophy (Total)
+(0)
+(0)
+(0)
+(0)
+(0)
+(0)
+(0)
+(2)
+Slight
+0
+0
+0
+0
+0
+0 
+0 
+1 
+Moderate
+0
+0
+0
+0
+0
+0
+0
+1
+Source: Applicant Table. 
+Table 10 
+TK Parameters of Sunvozertinib in 13-Week Rat Toxicity Study 
+Dose 
+Phase
+Toxicokinetic 
+Parameters a
+Dose(mg/kg/day)
+15
+25
+35
+15
+25
+35
+Male
+Male
+Male
+Female
+Female
+Female
+Day 1 
+Tmax (hr)
+4.0
+2.0
+2.0
+4.0
+2.0
+2.0
+Cmax ± SE 
+(μmol/L)
+0.27±0.02 
+0.47±0.06
+0.83±0.15
+0.32±0.05
+0.57±0.11 
+0.59±0.19 
+AUC0-24 ± SE
+(hr*μmol/L)
+3.15±0.30
+5.53±0.39
+9.01±0.30
+3.29±0.62 
+5.82±0.27
+7.86±0.99
+Day 87
+Tmax (hr)
+2.0
+4.0
+4.0
+4.0
+2.0
+4.0
+Cmax ± SE 
+(μmol/L)
+0.28±0.09 
+0.60±0.08 
+0.75±0.15
+0.32±0.02
+0.69±0.02
+0.71±0.04 
+AUC0-24 ± SE
+(hr*μmol/L)
+3.89±0.30
+9.02±0.93
+10.9±1.05 
+3.84±0.37
+7.91±0.69
+9.81±0.51 
+Source: Applicant Table. 
+a:Cmax (μmol/L) = ng/mL/(584.09 g/mol), AUC0-24 (μmol*h/L) =ng*h/mL/(584.09 g/mol). 
+Study Title (Number): A 28-Day Oral Toxicity and Toxicokinetic Study of DZD9008 with a 
+Reference ID: 5618719
+
+
+===== PAGE 58 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+57
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+Toxicokinetics
+x
+Systemic exposure of sunvozertinib (Cmax and AUC0-24) increased in a broadly dose proportional 
+manner.
+x
+There was no notable sex difference or accumulation.
+TK parameters refer to Table 11.
+Table 11
+TK Parameters in 4-Week Rat Study
+Dose Phase
+Day 1
+Day 42
+Sex
+Male
+Female
+Male
+Female
+Dose
+(mg/kg/day)
+25
+50
+65
+25
+50
+65
+25
+15
+35
+25
+15
+35
+Tmax (hr)
+4.0
+4.0
+4.0
+2.0
+2.0
+2.0
+2.0
+2.0
+2.0
+2.0
+2.0
+2.0
+Cmax ± SD (μmol/L)
+0.82±
+0.06
+1.32±
+0.16
+1.74±
+0.23
+0.73±
+0.22
+1.70±
+0.10
+2.09±
+0.24
+1.04±
+0.09
+0.62±
+0.06
+1.32±
+0.10
+1.04±
+0.07
+0.87±
+0.08
+1.46±
+0.12
+AUClast ±SD 
+(hr*μmol/L)
+9.41±
+0.66
+18.9±
+1.30
+24.7±
+1.94
+8.57±
+0.65
+19.0±
+0.78
+29.2±
+1.88
+11.4±
+0.53
+6.29±
+0.21
+16.6±
+1.15
+9.99±
+0.44
+6.40±
+0.35
+16.9±
+1.00
+Source: Applicant Table. 
+Study Title (Number): DZD9008 - 13 Week Oral (Gavage) Toxicity Study in the Dog with a 
+4 Week Treatment-Free Period (JXB0024) 
+Key Study Findings 
+x
+Male and female dogs were orally administered (gavage) with sunvozertinib at 1, 3 or 6 
+mg/kg/day. The NOAEL is 6 mg/kg/day. 
+GLP compliance: Yes
+Methods
+Dose and frequency of dosing:
+1, 3 and 6 mg/kg/day, once daily for 13 weeks
+Route of administration:
+Oral gavage
+Formulation/Vehicle:
+0.5% hydroxypropyl methylcellulose (HPMC) (w/v) with 0.1% Tween 
+80 (v/v) in water
+Species/Strain:
+Beagle dog
+Number/Sex/Group:
+Main study: 3 sex/group; recovery (control and high dose group only): 2
+sex/group 
+Age:
+9 months
+Satellite groups:
+No
+Observations and Results: changes from control 
+Mortality
+No sunvozertinib related mortality.
+Clinical signs
+Reversible abnormal feces, including loose or liquid feces, abnormal colored feces and 
+gelatinous feces, were noted at 3 and/or 6 mg/kg/day.
+Body weight
+No drug related finding.
+Food consumption
+No drug related finding.
+Ophthalmoscopy
+No drug related finding.
+ECG
+No drug related finding.
+Hematology
+Reversible slight changes of red blood cell, haemoglobin and hematocrit were noted in 
+Reference ID: 5618719
+
+
+===== PAGE 59 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+58
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+both sexes at 6 mg/kg/day at the end of dosing phase.
+Dose (mg/kg/day)
+1
+3
+6
+Sex
+M
+F
+M
+F
+M
+F
+Red blood cell
+Week 13
+-
+-
+-
+-
+-9.1%
+-9.7%
+Haemoglobin
+Week 13
+-
+-
+-
+-
+-10.1%
+-8.1%
+Hematocrit
+Week 13
+-
+-
+-
+-
+-9.5%
+-6.5%
+Week 13 is the end of dosing phase.
+Coagulation
+No drug related finding.
+Clinical Chemistry
+Reversible slight decreases of potassium and albumin were noted in PDOHV  
+PJNJGD\ DQG IHPDOHV   PJNJGD\ at the end of dosing phase.
+Dose (mg/kg/day)
+1
+3
+6
+Sex
+M
+F
+M
+F
+M
+F
+K
+Week 13
+-
+-5.7%
+-5.7%
+-11.2%
+-
+-7.9%
+Albumin
+Week 13
+-
+-5.2%
+-9.6%
+-8.0%
+-24.1%
+-18.4%
+Week 13 is the end of dosing phase.
+Urinalysis
+No drug related finding
+Gross pathology
+Reversible various changes in the lungs were noted at the end of dosing phase.
+Dose (mg/kg/day)
+0
+1
+3
+6
+Sex
+M
+F
+M
+F
+M
+F
+M
+F
+Animal Number (End of 
+dosing phase)
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+3 
+Lung
+Abnormal colour (Total)
+(0)
+(1)
+(1)
+(1)
+(0)
+(1)
+(2)
+(1)
+General
+0
+0
+0
+0
+0
+1
+0
+0
+Right cranial lobe
+0
+0
+1
+0
+0
+0
+0
+0
+Left cranial lobe
+0
+0
+0
+0
+0
+0
+1
+0
+Left median lobe
+0
+0
+0
+1
+0
+0
+1
+1
+Right caudal lobe
+0
+1
+0
+0
+0
+0
+0
+0
+Abnormal area (Total)
+(0)
+(0)
+(0)
+(0)
+(0)
+(0)
+(0)
+(1)
+Left median lobe
+0
+0
+0
+0
+0
+0
+0
+1
+Abnormal consistency 
+(Total)
+(0) 
+(0) 
+(0) 
+(0) 
+(0) 
+(0) 
+(0) 
+(1) 
+Left median lobe
+0
+0
+0
+0
+0
+0
+0
+1
+Gross Pathology (End of 
+recovery phase)
+-
+-
+-
+-
+-
+-
+-
+-
+Organ weight 
+No drug related finding.
+Histopathology 
+No drug related finding.
+Toxicokinetics
+x
+Systemic exposure of sunvozertinib (Cmax and AUC0-24) increased in a dose 
+proportional manner.
+x
+There was no sex difference or accumulation.
+TK parameters refer to Table 12.
+Table 12 
+TK Parameters of Sunvozertinib in 13-Week Dog Study
+Dose 
+Phase
+Toxicokinetics 
+Parameter a
+Dose (mg/kg/day)
+1
+3
+6
+1
+3
+6
+Male
+Male
+Male
+Female
+Female
+Female
+Day 1 
+Tmax [Range] (hr)
+4.0 - 4.0
+2.0 - 2.0
+2.0 - 8.0
+2.0 - 12.0
+2.0 - 2.0
+0.5 - 12.0
+Cmax ± SD 
+(μmol/L)
+0.03±0.01
+0.11±0.02 
+0.20±0.16
+0.02±0.01 
+0.08±0.01
+0.17±0.08 
+Reference ID: 5618719
+
+
+===== PAGE 60 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+59
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+AUC0-24 ± SD 
+(hr*μmol/L)
+0.31±0.10
+1.18±0.26
+2.38±1.69
+0.28±0.17
+0.85±0.22 
+2.14±0.92 
+Day 90
+Tmax [Range] (hr)
+2.0 - 4.0
+4.0 - 8.0
+4.0 - 8.0
+0.5 - 4.0
+0.5 - 4.0
+0.5 - 12.0
+Cmax ± SD
+(μmol/L)
+0.03±0.01 
+0.08±0.04
+0.13±0.04
+0.04±0.02
+0.11±0.05 
+0.19±0.12
+AUC0-24 ± SD 
+(hr*μmol/L)
+0.47±0.04
+1.34±0.88
+2.23±0.77 
+0.37±0.14
+1.43±0.86 
+2.48±1.42
+Source: Applicant Table. 
+a:Cmax (μmol/L) = ng/mL/(584.09 g/mol), AUC0-24 (μmol*h/L) =ng*h/mL/(584.09 g/mol). 
+Study Title (Number): A 28-Day Oral Toxicity and Toxicokinetic Study of DZD9008 with a 
+28-Day Recovery Period in Beagle Dogs (78103-18-327) 
+Key Study Findings 
+x
+Beagle dogs were orally administered (gavage) with sunvozertinib at 3, 6, 12/8 (males) or 
+12 (females) mg/kg/day. The NOAEL is 3 mg/kg/day for males and 6 mg/kg/day for 
+females. The dose of high dose group in males was adjusted from 12 to 8 mg/kg/day from 
+Day 13 due to GI tract toxicities.
+x
+Major clinical signs included reversible and dose dependent diarrhea, vomiting, body 
+ZHLJKW ORVV DQG SRRU DSSHWLWH DW   PJNJGD\ LQ PDOHV DQG  Pg/kg/day in females.   
+x
+Microscopic findings were seen in the colon (gland ectasia). 
+GLP compliance: Yes
+Methods
+Dose and frequency of dosing:
+3, 6, 12/8 (males) or 12 (females) mg/kg/day, once daily for 4 weeks
+Route of administration:
+Oral gavage
+Formulation/Vehicle:
+0.5% hydroxypropyl methylcellulose (HPMC) (w/v) with 0.1% Tween 
+80 (v/v) in sterile water for injection
+Species/Strain:
+Beagle dog
+Number/Sex/Group:
+Main study: 3 sex/group; recovery: 2 sex/group 
+Age:
+8-10 months
+Satellite groups:
+No
+Observations and Results: changes from control 
+Mortality
+No sunvozertinib related mortality.
+Clinical signs
+Major clinical sign included reversible and dosage dependent abnormal feces, vomiting 
+thinness, decreased activity and reduced food intake in males   PJNJGD\ DQG IHPDOHV  
+mg/kg/day.
+Body weight
+Reversible body weight decrease was mainly noted in males   PJNJGD\ and females at 12 
+mg/kg/day.
+Food 
+consumption
+Reversible low food intake was noted in males   PJNJGD\ DQG females at 12 mg/kg/day.
+Ophthalmoscopy
+No drug related finding.
+Reference ID: 5618719
+
+
+===== PAGE 71 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+70
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+Observations and Results: changes from control 
+Mortality
+No sunvozertinib related mortality.
+Clinical signs
+No remarkable finding. 
+Body weight
+Adjusted body weight gain decreased (-13.39%, -31.77%, -36.95%, respectively, relative 
+to control) at 0.5, 1.5, or 5 mg/kg/day.
+Food consumption
+Food consumption decreased (up to -13.3%, -18.5%, -19.1%, respectively, relative to 
+control) at 0.5, 1.5, or 5 mg/kg/day.
+Gross pathology
+No drug related finding. 
+Histopathology
+Histopathology changes in fetuses, including heart malformations and increased 
+supernumerary bone of fontanelle bone ZHUH QRWHG DW   PJNJGD\
+Dilated aorta and aortic arch were also noted in fetuses at 0.5 mg/kg/day, as the incidence 
+was still within the range of historical control data, the relationship to sunvozertinib is not 
+clear.
+Dose (mg/kg/day)
+0
+0.5
+1.5
+5
+Number of Pregnant 
+Animals
+Female:22
+Female:24
+Female:23
+Female:23
+Visceral Examination of 
+Fetusesa
+Heart, Aorta, dilated
+-
+0.6%/5.00%
+1.0%/9.09%
+1.0%/8.70%
+Heart, Aortic arch, dilated
+-
+0.6%/5.00%
+1.0%/9.09%
+1.0%/8.70%
+Heart, Ventricular septum, 
+defect
+-
+-
+0.5%/4.55% 
+-
+Heart, Pulmonary artery, 
+narrow
+-
+-
+0.5%/4.55% 
+1.0%/8.70% 
+Two-chambered heart, right A-
+V valve absent
+-
+-
+-
+0.5%/4.35% 
+Skeletal Anomalies of 
+Fetusesa
+Supernumerary bone of 
+fontanelle bone
+1.0%/4.55% 
+-
+3.7%/13.64% 
+2.9%/13.04% 
+a: data presented as fetus incidence/litter incidence. Bold data are sunvozertinib related 
+changes.
+Toxicokinetics
+x The TK of sunvozertinib and its metabolite DZ0753 were analyzed on GD 6 and GD 19.
+x Systemic exposure of sunvozertinib and DZ0753 (Cmax and AUC0-24) increased in a dose 
+proportional manner.
+x There was no marked accumulation.
+TK parameters refer to Table 14.
+Table 14 
+TK Parameters in Embryo-Fetal Development Toxicity Study in Rabbits
+TK Parameters of Sunvozertinib in Rabbit Plasma
+Gestation 
+Day
+Toxicokinetics Parameter a
+Dose (mg/kg/day)
+0.5
+1.5
+5
+Female
+Female
+Female
+GD 6
+Median Tmax (hr)
+2.0 
+2.0 
+1.0 
+Cmax ± SD (μmol/L)
+0.03 ± 0.01
+0.09 ± 0.02
+0.46 ± 0.12
+AUC0-24 ± SD (hr*μmol/L)
+0.20 ± 0.06
+0.51 ± 0.11
+2.04 ± 0.50
+GD 19
+Median Tmax (hr)
+2.0 
+2.0 
+1.0 
+Reference ID: 5618719
+
+
+===== PAGE 72 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+71
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+Cmax ± SD (μmol/L)
+0.04 ± 0.01
+0.15 ± 0.04
+0.69 ± 0.30
+AUC0-24 ± SD (hr*μmol/L)
+0.27 ± 0.03
+0.91 ± 0.37
+3.54 ± 1.58
+TK Parameters of DZ0753 in Rabbit Plasma
+Gestation 
+Day
+Toxicokinetics Parameter a
+Dose (mg/kg/day)
+0.5
+1.5
+5
+Female
+Female
+Female
+GD 6
+Median Tmax (hr)
+2.0 
+2.0 
+1.0 
+Cmax ± SD (μmol/L)
+0.007 ± 0.002
+0.02 ± 0.01
+0.09 ± 0.03
+AUC0-24 ± SD (hr*μmol/L)
+0.05 ± 0.02
+0.14 ± 0.04
+0.45 ± 0.13
+GD 19
+Median Tmax (hr)
+2.0 
+2.0 
+1.0 
+Cmax ± SD (μmol/L)
+0.008 ± 0.002
+0.025 ± 0.008
+0.12 ± 0.05
+AUC0-24 ± SD (hr*μmol/L)
+0.07 ± 0.01
+0.22 ± 0.09
+0.83 ± 0.40
+Source: Applicant Table. 
+a:Cmax (μmol/L) = ng/mL/(584.09 g/mol), AUC0-24 (μmol*h/L) =ng*h/mL/(584.09 g/mol).
+Study Title (Number): An Embryo-fetal Development and Toxicokinetic Study of DZD9008 
+Administered by Oral Gavage in Wistar Han Rats (78111-220447)
+Key Study Findings 
+x
+Sunvozertinib resulted in lower body weight, body weight gain and food consumption than 
+FRQWUROV DW   PJNJGD\
+x
+Sunvozertinib-related effects on the embryo-fetal included a higher incidence of 
+misaligned sternebra at 40 mg/kg/day. 
+x
+NOAEL of sunvozertinib for maternal and embryo-fetal development toxicity was 40 
+mg/kg/day. 
+GLP compliance: Yes.
+Methods
+Dose and frequency of dosing:
+10, 20, 40 mg/kg/day, once daily on GD 6-17
+Route of administration:
+Oral gavage
+Formulation/Vehicle:
+0.5% hydroxypropyl methylcellulose (HPMC) (w/v) with 0.1% Tween 
+80 (v/v) in sterile water for injection
+Species/Strain:
+Wistar Han rat
+Number/Sex/Group:
+Main study: 25, 23, 25, 23 pregnant females at 0, 10, 20 and 40 
+mg/kg/day, respectively.
+TK animal: 5 females at 0 mg/kg/day; 10 females/group at 0.5, 1.5 and 
+5 mg/kg/day.
+Age:
+10-13 weeks
+Satellite groups:
+Toxicokinetics assessment
+Observations and Results: changes from control 
+Mortality
+No sunvozertinib related mortality.
+Reference ID: 5618719
+
+
+===== PAGE 73 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+72
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+Clinical signs
+No remarkable finding. 
+Body weight
+Lower body weight and body weight gain WKDQ FRQWUROV ZHUH QRWHG DW   PJNJGD\
+Food consumption
+/RZHU IRRG FRQVXPSWLRQ WKDQ FRQWUROV ZHUH QRWHG DW   PJNJGD\
+Gross pathology
+No drug related finding. 
+Histopathology
+Sunvozertinib-related misaligned sternebra was noted in fetuses at 40 mg/kg/day.
+Dose (mg/kg/day)
+0
+10
+20
+40
+Number of Pregnant Animals
+Female:25
+Female:23
+Female:25
+Female:23
+Skeletal Anomalies of Fetuses
+Misaligned sternebraa
+0.6%/4.0%
+0.8%/4.3%b
+0%/0%
+4.1%/17.4%b
+a: data presented as fetus incidence/litter incidence. b: The finding noted at 10 mg/kg/day is not 
+considered as sunvozertinib related due to the comparable incidence with controls, however, the 
+finding at 40 mg/kg/day was likely sunvozertinib related. Bold data are sunvozertinib related 
+changes.
+Toxicokinetics
+x The TK of sunvozertinib and its metabolite DZ0753 were analyzed on GD 6 and GD 17.
+x Systemic exposure of sunvozertinib and DZ0753 (Cmax and AUC0-24) generally increased 
+in a dose proportional manner.
+x There was no marked accumulation.
+TK parameters refer to Table 15.
+Table 15 
+TK Parameters in Embryo-Fetal Development Toxicity Study in Rats 
+TK Parameters of Sunvozertinib in Rat Plasma
+Gestation Day
+Toxicokinetics Parameter a
+Dose (mg/kg/day)
+10
+20
+40
+Female
+Female
+Female
+GD 6
+Tmax (hr)
+2.0
+2.0
+2.0
+Cmax ± SD (μmol/L)
+0.34 ± 0.06
+0.73 ± 0.06
+1.55 ± 0.16
+AUC0-24 ± SD (hr*μmol/L)
+3.25 ± 0.22
+6.92 ± 0.35
+14.1 ± 0.56
+GD 17
+Tmax (hr)
+4.0
+4.0
+2.0
+Cmax ± SD (μmol/L)
+0.30 ± 0.02
+0.54 ± 0.06
+0.59 ± 0.02
+AUC0-24 ± SD (hr*μmol/L)
+3.13 ± 0.10
+7.16 ± 0.82
+8.57 ± 0.50
+TK Parameters of DZ0753 in Rat Plasma
+Gestation Day
+Toxicokinetics Parameter a
+Dose (mg/kg/day)
+10
+20
+40
+Female
+Female
+Female
+GD 6
+Tmax (hr)
+2.0
+2.0
+2.0
+Cmax ± SD (μmol/L)
+0.01 ± 0.003
+0.02 ± 0.001
+0.06 ± 0.006
+AUC0-24 ± SD (hr*μmol/L)
+0.08 ± 0.007
+0.19 ± 0.01
+0.50 ± 0.04
+GD 17
+Tmax (hr)
+2.0
+2.0
+2.0
+Cmax ± SD (μmol/L)
+0.009 ± 0.001
+0.02 ± 0.006
+0.02 ± 0.002
+AUC0-24 ± SD (hr*μmol/L)
+0.10 ± 0.004
+0.24 ± 0.03
+0.28 ± 0.03
+Source: Applicant Table. 
+a: Cmax (μmol/L) = ng/mL/(584.09 g/mol), AUC0-24 (μmol*h/L) =ng*h/mL/(584.09 g/mol).
+Reference ID: 5618719
+
+
+===== PAGE 77 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+76
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+Toxicokinetic Parameters for Sunvozertinib         Toxicokinetic Parameters for Metabolite DZ0753
+h=hours; AUC0-24 = AUC from time zero to 24 hours post dose
+(Adapted from Applicant’s Submission)
+Study Title/Number: An Embryo-fetal Development and Toxicokinetic Study of DZD9008 
+Administered by Oral Gavage in Wistar Han Rats / Study No. 78111-220447
+Key Study Findings: See Applicant’s position. 
+Methods: See Applicant’s position. The dose justification to use 40 mg/kg as the high dose in the 
+current study was based on the rat dose range-finding EFD study #78111-220446 which showed 
+that at 45 mg/kg/day there was an increased incidence of decreased thymus size and a significant 
+reduction in mean fetal body weight compared to control. 
+Observations and Results
+Parameters
+Major Findings
+Body Weights and Food Consumption
+There was a statistically significant decrease in 
+mean body weight up to -8.7% on GD 15-21 in 
+rats dosed with 40 mg/kg sunvozertinib 
+compared to controls. On GD 6-9, lower mean 
+body weight gains (up to -50%) were observed 
+LQ UDWV GRVHG ZLWK  PJNJ VXQYR]HUWLQLE
+compared to controls. On GD 12-21, lower 
+mean body weight gains (up to -31%) were 
+observed in rats dosed with 40 mg/kg 
+sunvozertinib compared to controls. Lower 
+mean food consumption (up to -16.4%) was 
+REVHUYHG LQ UDWV GRVHG ZLWK  PJNJ
+sunvozertinib compared to controls.
+Necropsy Findings
+Cesarean Section Data
+Pre-implantation loss showed statistically 
+significant increase in 40 mg/kg/day dose 
+group, but it was not considered sunvozertinib-
+related since the animals were dosed after 
+embryonic implantation.
+Cesarean Section Findings (Embryo-fetal Development Study; Rats)  
+Dose (mg/kg) 
+0 
+10 
+20 
+40 
+# Mated females 
+29 
+29 
+34 
+25 
+# Pregnant (%) 
+25 (86.2%) 
+23 (79.3%) 
+25 (73.5%) 
+23 (92.0%) 
+Mean # corpora lutea 
+14.2 
+14.0 
+14.0 
+14.2 
+Day
+Dose
+(mg/kg)
+Cmax 
+(ng/mL)
+AUC0-24
+(ng·h/mL)
+Tmax (h)
+0.5
+18
+117
+2
+1.5
+50
+300
+2
+5
+268
+1190
+1
+0.5
+23
+156
+2
+1.5
+85
+530
+2
+5
+405
+2070
+1
+GD 6
+GD 19
+Day
+Dose
+(mg/kg)
+Cmax 
+(ng/mL)
+AUC0-24
+(ng·h/mL)
+Tmax (h)
+0.5
+4
+28
+2
+1.5
+11
+80
+2
+5
+54
+259
+1
+0.5
+5
+40
+2
+1.5
+14
+124
+2
+5
+69
+472
+1
+GD 6
+GD 19
+Reference ID: 5618719
+
+
+===== PAGE 79 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+78
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+At 10, 20, or 40 mg/kg/day on GD 20, fetal 
+mean plasma concentrations at 4 hours post 
+dose for sunvozertinib were 27.4, 32.9, and 93.9 
+ng/mL, respectively, and DZ0753 were 
+BLLOQ, 0.209, and 1.1 ng/mL, respectively.
+Toxicokinetic Parameters for Sunvozertinib        Toxicokinetic Parameters for Metabolite DZ0753
+h=hours; AUC0-24 = AUC from time zero to 24 hours post dose
+(Adapted from Applicant’s Submission)
+Study Title/Number: Oral Dose Range Finding Study on Embryofetal Development 
+Toxicity in Rabbits / Study No. 665-0080-DR
+Time-mated female rabbits (9/group) were administered sunvozertinib 0, 5, 15, and 45/30 mg/kg 
+once daily via oral gavage during GD 6-19. On GD 12, animals receiving 45 mg/kg were 
+reduced to 30 mg/kg due to mortality, decreased body weight, and decreased food consumption. 
+Surviving animals were euthanized on GD 29. Fetal examinations for this study were limited to 
+weight, sex, crown-rump length, and gross external alterations. Toxicokinetics analysis showed 
+systemic exposure increased generally proportional to dose, with no accumulation observed. At 
+45/30 mg/kg, six pregnant animals were found dead or had aborted and exhibited soiled coats, 
+decreased defecation, decreased body weights, embryo-like material in the bedding, and/or 
+prostration and cold to touch. At necropsy, gross findings included focal dark red discoloration of 
+the kidney and white solid content in the right atrium of the heart in two animals. Additional 
+maternal toxicities in surviving animals not described by the Applicant included decreased 
+GHIHFDWLRQ DW   PJNJ DQG GHFUHDVHG JUDYLG XWHULQH ZHLJKW DW  PJNJ $GGLWLRQDOO\ SRVW-
+implantation losses were observed at 45/30 mg/kg.  
+Study Title/Number: A Dose Range Finding Embryo-fetal Development Study of DZD9008 
+Administered by Oral Gavage in Wistar Han Rats / Study No. 78111-220446 
+Time-mated female Wistar Han rats (8/group) were administered 0, 15, 30, or 45 mg/kg 
+sunvozertinib once daily via oral gavage during GD 6-17 and were euthanized on GD 21. Fetal 
+examinations in this non-GLP study were limited to weight, sex, crown-rump length, and gross 
+external alterations. Toxicokinetics were not evaluated. There were no early mortalities. 
+Treatment with sunvozertinib resulted in an increased incidence of anus/nose staining at doses 
+ PJNJ DQG KXQFKHG SRVWXUH DW  PJNJ 6XQYR]HUWLQLE induced maternal toxicity was 
+FKDUDFWHUL]HG ORZHU ERG\ ZHLJKWERG\ ZHLJKW JDLQ WKDQ FRQWUROV DW  PJNJ IURP *'V -21 
+DQG GHFUHDVHG IRRG FRQVXPSWLRQ WKDQ FRQWUROV DW  PJNJ $W QHFURSV\ GHFUHDVHG WK\PXV VL]H
+Day
+Dose
+(mg/kg)
+Cmax 
+(ng/mL)
+AUC0-24
+(ng·h/mL)
+Tmax (h)
+10
+201
+1899
+2
+20
+426
+4041
+2
+40
+907
+8208
+2
+10
+173
+1831
+4
+20
+314
+4185
+4
+40
+347
+5003
+2
+GD 6
+GD 17
+Day
+Dose
+(mg/kg)
+Cmax 
+(ng/mL)
+AUC0-24
+(ng·h/mL)
+Tmax (h)
+10
+5.58
+44.2
+2
+20
+13
+109
+2
+40
+35
+282
+2
+10
+5.05
+54.4
+2
+20
+12.9
+138
+2
+40
+11.8
+159
+2
+GD 6
+GD 17
+Reference ID: 5618719
+
+
+===== PAGE 93 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+92
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+impairment, compared with patients with normal renal function (CLcr   P/PLQ N =
+198).  
+x
+Mild Hepatic Impairment: The human mass balance study indicated that metabolic 
+clearance was the primary route of sunvozertinib elimination. Based on PopPK analysis, 
+no clinically meaningful difference in sunvozertinib PK was observed in patients with mild 
+(NCI-ODWG Group B, N = 57) hepatic impairment, compared with patients with normal 
+hepatic function (N = 406). 
+x
+Moderate Hepatic Impairment: A dedicated hepatic impairment study revealed that 
+moderate hepatic impairment (Child-Pugh B, N = 8) did not have a clinically meaningful 
+impact on the sunvozertinib PK. When staging with NCI-ODWG criteria, moderate hepatic 
+impairment (NCI-ODWG Group C, N = 4) increased Cmax and AUC0-inf of sunvozertinib 
+by 36% and 12%, respectively, as compared with matched healthy controls. However, the 
+differences are not regarded clinically meaningful.  
+Concomitant medication instruction (sunvozertinib as victim)
+In vitro, sunvozertinib is metabolized by CYP3A4/5 and also a substrate of P-gp. Therefore, 
+coadministration of CYP3A4 inhibitors/inducers may alter sunvozertinib PK. 
+In a clinical pharmacology study (WU-KONG7), the effect of strong inhibitor of CYP3A4 
+(itraconazole) and strong inducer of CYP3A4 (carbamazepine) on sunvozertinib PK was evaluated.
+The effect of moderate inhibitors of CYP3A4 (erythromycin, verapamil and fluconazole) and weak
+or moderate inducers of CYP3A4 (dexamethasone and efavirenz) on sunvozertinib PK was 
+evaluated using PBPK modeling.  
+Here under are the effects of the extrinsic factors on sunvozertinib PK: 
+x
+Effect of CYP3A4 inhibitors: Coadministration of multiple doses of a strong CYP3A4 
+inhibitor, itraconazole, increased the geomean Cmax and AUC0-inf of a single oral dose of 
+sunvozertinib by 32% and 51%, respectively. 
+ 
+ 
+  
+x
+Effect of CYP3A4 inducers: Coadministration of multiple doses of a strong CYP3A4 
+inducer, carbamazepine, decreased the geomean Cmax and AUC0-inf of a single oral dose of 
+sunvozertinib by 38% and 48%, respectively. PBPK DDI simulations of concomitant use 
+of sunvozertinib with moderate inducer (efavirenz) predicted the decreases in Cmax by 24% 
+and AUC0-inf by 46%.  
+Concomitant medication instruction (sunvozertinib as perpetrator) 
+As a perpetrator of DDI at clinically relevant doses, sunvozertinib has the induction potential for
+CYP3A4 and inhibition potential for hepatic OATP1B1, intestinal P-gp and BCRP. The induction 
+potential was demonstrated in vitro for CYP3A4 mRNA via nuclear receptor PXR, which also 
+regulates the expression of transporters such as P-gp. Therefore, sunvozertinib has the induction 
+potential for transporters, consequently decreasing the exposure of these transporter substrates. 
+Reference ID: 5618719
+(b) (4)
+
+
+===== PAGE 95 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+94
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+x
+Effect on P-gp or BCRP substrates: Monitor for adverse reactions of the BCRP or P-gp
+substrates, where minimal concentration changes may lead to increased risk of adverse 
+reactions, when coadministered with sunvozertinib. 
+The FDA’s Assessment:
+FDA agrees with the Applicant that no dose adjustment is needed in the intended patient
+population based on age (19 to 96 years), sex, race (Asian 62%, White 28%, Black or African 
+American 8%), body weight (30 to 118 kg), smoking status, mild to moderate renal impairment 
+(CLcr 30 to 89 mL/min, estimated by Cockcroft-*DXOW DQG PLOG ELOLUXELQ  8/1 DQG $67 !
+ULN or bilirXELQ ! WR [ 8/1 DQG DQ\ $67 WR PRGHUDWH ELOLUXELQ   WR  [ 8/1 DQG DQ\
+AST) hepatic impairment.
+Regarding DDI, the FDA generally agrees with Applicant’s analysis but updated the following 
+two PBPK analyses based on the recommended dosage of 200 mg QD: 
+1) Moderate CYP3A inhibitor: The FDA updated PBPK simulation, using a 200 mg QD
+sunvozertinib FDA recommended dosage, and predicted increases in sunvozertinib Cmax
+by 26% and AUC by 29%, with concomitant use of fluconazole (moderate CYP3A 
+inhibitor).  
+2) Moderate CYP3A inducer: Similarly, the FDA updated PBPK simulation for 
+concomitant use of sunvozertinib (200 mg QD) with efavirenz (moderate CYP3A 
+inducer) predicted decreases of sunvozertinib Cmax by 40% and AUC by 44%. 
+FDA partially agrees with proposed DDI management strategies and recommended the 
+following:  
+x
+CYP3A inhibitors: FDA agrees with avoiding concomitant use of strong CYP3A 
+inhibitors. Based on the recommended dosage of 200 mg QD and magnitude of 
+sunvozertinib exposure increase, FDA updated the dose adjustment recommendation that,
+if concomitant use of strong CYP3A inhibitor is unavoidable, the sunvozertinib dosage
+should be reduced from 200 mg to 150 mg QD.
+ 1) The predicted 
+increase of sunvozertinib AUC is 1.3-fold following concomitant use of fluconazole 
+(moderate CYP3A inhibitor) at 200 mg, which result in a sunvozertinib AUC equivalent 
+to a 260 mg dose; 2) Depending on the dose level used, some moderate CYP3A inhibitors 
+(e.g., fluconazole at 50-100 mg) may have a smaller impact on sunvozertinib AUC. 3) 
+While the safety profile is characterized up to 300 mg clinically, the efficacy below 200 
+mg is unclear. Therefore, concomitant use with moderate CYP3A inhibitors would result 
+in an acceptable safety profile, which is lower than the exposure at 300 mg. However, a 
+dose reduction, when concomitant use is necessary, would potentially lead to a 
+subtherapeutic exposure, as a result of variability in the magnitude of the effect of 
+moderate CYP3A inhibitors. Therefore, concomitant use of sunvozertinib with moderate 
+Reference ID: 5618719
+(b) (4)
+
+
+===== PAGE 97 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+96
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+x
+Effect of sunvozertinib on CYP2D6 substrate: In vitro studies showed that sunvozertinib is 
+a weak reversible inhibitor of CYP2D6. No to weak inhibitory effect on desipramine 
+(sensitive CYP2D6 substrate) was predicted with multiple doses of 300 mg sunvozertinib 
+in cancer patients using PBPK modelling. Therefore, no dose adjustment for CYP2D6 
+substrate is necessary when sunvozertinib is coadministered.
+FDA agrees with recommending sunvozertinib administration with food, no restriction for 
+concomitant use with ARAs and no dose adjustment for concomitant use with CYP2D6 
+substrates. In vitro, sunvozertinib induces CYP2C8. No dedicated DDI study was conducted to 
+evaluate the interaction potential of sunvozertinib with CYP2C8 substrate as CYP2C8 is 
+generally less inducible than CYP3A4 and sunvozertinib decreased midazolam (sensitive 
+CYP3A substrate) AUC by 23%. The induction potential of sunvozertinib on CYP2C8 is 
+expected to be small and not clinically meaningful.  
+Additionally, FDA also assessed therapeutic individualization for patients with severe hepatic 
+and renal impairment. The effects of severe hepatic impairment (total bilirubin > 3 x ULN and 
+any AST) and severe renal impairment (CLcr 15 to 29 mL/min) on the pharmacokinetics of 
+sunvozertinib have not been studied. However, PMRs will not be issued based on following 
+reasons:  
+1) Sunvozertinib is primarily metabolized by CYP3A, the impact of severe hepatic 
+impairment on sunvozertinib AUC is expected to be no larger than that of strong 
+CYP3A inhibitors (e.g., itraconazole increased sunvozertinib AUC by 51%).  
+2) The safety margin of sunvozertinib has been established up to 300 mg. Based on a 
+recommended dose of 200 mg, severe hepatic impairment is expected to increase 
+sunvozertinib exposure no larger than the exposure achieved at 300 mg. Therefore, no 
+dosage adjustment is needed for patients with severe hepatic impairment at the 
+recommended 200 mg QD dosage. 
+3) Sunvozertinib is minimally excreted renally (~5%). An indirect effect on 
+sunvozertinib exposure due to impaired renal function may come from its effect of 
+altering drug metabolism or transport pathways. However, similar to severe hepatic 
+impairment, the magnitude of sunvozertinib AUC increase is expected to be no larger 
+than that of strong CYP3A inhibitors. Therefore, no dosage adjustment is needed  for 
+patients with severe renal impairment at the recommended 200 mg QD dosage. 
+6.2.2.3 Outstanding Issues
+Data and the Applicant’s Position:
+Not applicable. 
+The FDA’s Assessment:
+No outstanding issues are identified from a clinical pharmacology perspective. 
+Reference ID: 5618719
+
+
+===== PAGE 99 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+98
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+QT Prolongation
+Based on the concentration-QTc analysis, a mean effect on ǻQTcF > 10 ms can 
+be excluded across the full observed plasma concentration ranges of 
+sunvozertinib 
+General Information
+Bioanalysis
+All PK samples were analyzed with validated bioanalytical methods in all 
+clinical studies of sunvozertinib. 
+Healthy vs. Patients
+Patient status (healthy participant vs patient) was identified as a significant 
+covariate of sunvozertinib PK parameters. The population PK predicted AUC 
+in healthy participants is ~38% lower than that in NSCLC patients.
+Drug Exposure at Steady State 
+Following the Therapeutic Dosing 
+Regimen
+Population pharmacokinetic analysis estimated the geometric mean (%CV) of 
+steady-state AUC and steady-state Cmax of sunvozertinib were 12,089 (42%) 
+h*ng/mL and 619 (45%) ng/mL at 300 mg QD, respectively.
+Maximally Tolerated Dose or 
+Exposure
+400 mg QD was determined as the MTD.
+Dose Proportionality
+Sunvozertinib AUC and Cmax generally increased dose proportionally over the 
+dose range of 50 mg to 400 mg following repeat QD dosing in NSCLC patients. 
+Parameter
+Slope
+90% CI of the Slope
+Css, max (ng/mL)
+1.21
+(1.054, 1.372)
+AUCss (h*ng/mL)
+1.18
+(1.014, 1.338)
+[Source: Module 2.7.2/Section 3.2.5]
+Accumulation
+The mean accumulation ratios were about 2.8 folds in AUC and 2.2 folds in 
+Cmax after multiple dosing of sunvozertinib.
+Variability
+From integrated PK of phase 1 studies, geometric CV% of single dose Cmax and 
+AUC0-inf were 60.7% and 58.5%, respectively; geometric CV% of multiple 
+dose Css.max and AUCss were 50.1% and 46.5%, respectively. 
+Absorption
+Bioavailability
+The absolute bioavailability of sunvozertinib is unknown.
+tmax
+Sunvozertinib median tmax was approximately 4 to 7 hours across 50 mg to 400 
+mg in NSCLC patients.
+Food effect (Fed/fasted)
+In WU-KONG12D, no clinically meaningful differences in AUC and Cmax of 
+sunvozertinib were observed following administration of a single 300 mg dose 
+with a high-fat meal (approximately 1,000 calories, approximately 50% fat), 
+compared to administration under fasting conditions in healthy participants.
+Sunvozertinib
+High-Fat 
+GLS mean
+Fasted 
+GLS mean
+GLS mean ratios 
+(Fed/Fasted) (90%CI)
+Cmax (ng/mL)
+208
+188
+1.107 (0.953, 1.285)
+AUC0-inf (h*ng/mL)
+7473
+6885
+1.085 (1.003, 1.175)
+[Source: Module 2.7.1/Section 2.2.3]
+Distribution
+Volume of Distribution
+Following a single oral dose of 300 mg sunvozertinib, the mean (SD) apparent 
+volume of distribution (Vz/F) was 1842 (1263) L in NSCLC patients.
+Plasma protein binding
+The in vitro binding of sunvozertinib to human plasma proteins ranged from 
+approximately 89.0% to 93.5%.
+Blood to plasma ratio
+The human blood to plasma partitioning for sunvozertinib was 0.695. 
+Elimination
+Terminal Half-Life
+The mean (SD) half-life (t1/2) of sunvozertinib was 48.0 (9.3) hours.
+Clearance
+The mean (SD) apparent clearance (CL/F) was 25.7 (13.2) L/h.
+Metabolism
+Reference ID: 5618719
+(b) (4)
+
+
+===== PAGE 226 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+226
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+outside the 80-125% range at the 5th and 95th 
+body weight percentile in NSCLC patients, 
+however, the variability related to body weight 
+was less than the overall variability in individual 
+predicted exposures in NSCLC patients. Finally, 
+individual relative exposures within body weight 
+quartiles showed considerable overlap between 
+body weight quartiles as the overall variability in 
+exposure. Taken 
+together, 
+these 
+findings 
+warranted no dose adjustments for sunvozertinib 
+based on body weight in NSCLC patients. Figure 
+15
+Analysis 
+Based 
+on 
+Simulation 
+(optional)
+Not Applicable
+Labeling Language
+Description
+Acceptability
+[FDA’s comments]
+12.3 PK
+As the recommended 
+dosage for this 
+regulatory approval is 
+200 mg, the steady-
+state Cmax and AUC 
+of sunvozertinib was 
+updated accordingly: 
+The steady-state Cmax 
+and AUC of 
+sunvozertinib are 412 
+(45%) ng/mL and 
+8,060 (42%) h*ng/mL, 
+respectively.
+Table 74: Summary of Continuous Baseline Characteristics and Laboratory Values in the 
+Population PK Dataset, Stratified by Study
+WK1A
+(N=112)
+WK1B
+(N=202)
+WK2
+(N=48)
+WK6
+(N=101)
+WK7
+(N=40)
+WK12
+(N=68)
+Overall
+(N=571)
+Body weight (Kg)
+Mean (SD)
+67.3 (15.6)
+65.1 (14.6)
+64.3 (13.7)
+64.1 (11.7)
+75.4 (12.8)
+76.3 (11.8)
+67.3 (14.4)
+Median 
+[Min, Max]
+65.0 
+[39.0, 115]
+64.0 
+[33.0, 118]
+64.0 
+[30.0, 103]
+64.5 
+[38.0, 91.0]
+75.8 
+[53.3, 104]
+77.1 
+[53.0, 105]
+65.7 
+[30.0, 118]
+BMI (Kg/m2)
+Mean (SD)
+25.1 (4.51)
+24.4 (4.45)
+23.7 (3.73)
+24.1 (3.42)
+25.2 (2.62)
+25.7 (2.86)
+24.7 (3.99)
+Median 
+[Min, Max]
+24.6 
+[15.8, 40.3]
+24.0 
+[13.9, 39.4]
+23.3 
+[15.3, 32.1]
+24.0 
+[17.2, 32.5]
+25.5 
+[20.5, 29.3]
+26.2 
+[19.9, 29.9]
+24.4 
+[13.9, 40.3]
+BSA (m2)
+Mean (SD)
+1.72 (0.217)
+1.69 (0.202)
+1.71 (0.211)
+1.69 (0.182)
+1.89 (0.212)
+1.89 (0.187)
+1.74 (0.214)
+Reference ID: 5618719
+(b) (4)
+
+
+===== PAGE 230 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+230
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+Parameters
+Estimates
+%RSE
+Bootstrap 95%CI
+Shrinkage (%)
+CL/F DZD9008 variance
+0.133
+6.48
+[0.119, 0.15]
+3.93
+CL/F DZD9008-Vc/F DZD9008 covariance
+0.151
+7.17
+[0.133, 0.17]
+- 
+Vc/F DZD9008 variance
+0.324
+6.98
+[0.278, 0.369]
+5.37
+CL/F DZD9008 -CL/F DZ0753 covariance
+0.145
+8.23
+[0.128, 0.167]
+-
+Vc/F DZD9008 -CL/F DZ0753 covariance
+0.183
+8.98
+[0.154, 0.216]
+-
+CL/F DZ0753 variance
+0.261
+8.02
+[0.22, 0.302]
+9.07
+CL/F DZD9008 -Vc/F DZ0753 covariance
+0.112
+13.9
+[0.0841, 0.139]
+-
+Vc/F DZD9008 -Vc/F DZ0753 covariance
+0.290
+9.39
+[0.239, 0.345]
+-
+CL/F DZ0753-Vc/F DZ0753 covariance
+0.211
+12.5
+[0.164, 0.26]
+- 
+Vc/F DZ0753 variance
+0.379
+11.3
+[0.299, 0.472]
+11.9
+Ka variance
+0.357
+7.52
+[0.31, 0.421]
+16.8
+Residual variability
+DZD9008 RUV variance
+0.322
+1.76
+[0.31, 0.332]
+5.66
+DZ0753 RUV variance
+0.375
+1.88
+[0.359, 0.389]
+5.22
+Source: Applicant Table. Module 5.3.3.5/PopPK Report/Table 10.
+DZD9008 = sunvozertinib; CI = confidence interval; CL/F = apparent oral clearance; HV = healthy volunteer status; Ka = 
+absorption rate constant; Q/F = intercompartmental clearance; RSE = relative standard error; RUV = residual unexplained 
+variability; Vc/F = apparent central volume of distribution; Vp/F = apparent peripheral volume of distribution.
+Reference ID: 5618719
+
+
+===== PAGE 234 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+234
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+Figure 1515: Impact of Significant Covariates on Exposure 
+Source: Applicant Figure. Module 5.3.3.5/PopPK Report/Figure 11.
+AUC=area under the curve; CI = confidence interval; HV = healthy volunteer. DZD9008 = sunvozertinib.
+Notes: The dotted line represents the reference NSCLC patient with a body weight of 65.7 kg corresponding to the median body 
+weight in the analysis population, the gray area represents the 80-125% range. Error bars represent 95% CI.
+The FDA’s Assessment:
+PopPK Analysis  
+The PopPK analysis data set included 13964 PK samples for sunvozertinib and DZ0753 from 
+571 unique participants (108 healthy volunteers and 463 patients). The proportion of parent and 
+metabolite below the lower limit of quantification (BLQ) samples was 2.10% and 7.30%, 
+respectively. The M6 method was used to handle data below the limit of quantification postdose.  
+The final model provided a joint description of sunvozertinib and DZ0753 plasma 
+concentrations. The sunvozertinib PK was found to be adequately described by a two-
+compartment model with 2 transit-compartments to describe the oral absorption. The model 
+included a pathway to describe pre- systemic biotransformation of sunvozertinib to DZ0753 to 
+account for Cmax of the metabolite occurring nearly simultaneously or earlier compared to 
+Cmax of the parent, as observed in densely sampled PK data obtained in healthy volunteers. The 
+pre-systemic biotransformation was implemented as a first-order conversion rate parameter 
+describing mass transfer and metabolism of sunvozertinib to DZ0753 from the second transit 
+compartment to the central compartment of the metabolite. The PK of metabolite DZ0753 was 
+described by a two-compartment model. Patient status and body weight were retained in the final 
+model covariates on apparent systemic clearance and apparent systemic central volume of both 
+sunvozertinib and DZ0753. Interindividual variability was estimated on Ka, CL/F for both 
+Reference ID: 5618719
+
+
+===== PAGE 262 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+262
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+Sunvozertinib PBPK Model  
+The PBPK analyses were performed using the software Simcyp®.  
+The absorption and distribution of sunvozertinib were described using a mechanistic absorption 
+model (Simcyp Advanced Dissolution, Absorption and Metabolism (ADAM) model) and a 
+minimal PBPK model with single-adjustment compartment (SAC), respectively.  
+The fraction of sunvozertinib absorbed (fa) was estimated from in vitro solubility, dissolution and 
+permeability data. Sunvozertinib exhibited pH-dependent solubility. In vitro dissolution profile for 
+the tablet formulation in buffers at different pH values were used to describe both the fasted (pH 
+1.2) and fed (pH 4.5) profiles and used as model input parameters, without additional fitting.  
+Food had limited impact on oral bioavailability of sunvozertinib in healthy subjects. The AUCinf 
+and Cmax increased by 21% and 16%, respectively, when sunvozertinib was given with a low-fat 
+meal. However, food decreased GI adverse effects, thus, sunvozertinib is proposed to be taken with 
+food.  
+The human mass balance study (DZ2021E0003) showed that 10.3% and 78.6% of sunvozertinib 
+dose was excreted in urine and feces, respectively, with 5.6% and 7.3% of the dose as unchanged 
+drug, respectively.  
+Two major plasma metabolites of sunvozertinib, DZ0753 (10.3%) and the cysteine conjugate
+M704 (12.2%), were identified (Report DZP/24). The formation of DZ0753 was completely 
+inhibited by ketoconazole in vitro, suggesting CYP3A-mediated formation. Formation of 
+metabolite M704 (M4) was not inhibited by ketoconazole (Report DZP/25). 
+In vitro phenotyping study indicated that CYP3A4/5 was the main CYP isoform responsible for 
+sunvozertinib metabolism (Report ADME-DIH-180802-CYP Phenotyping). In vitro hepatocyte 
+inhibition data and clinical DDI data with itraconazole were used to assign the relative contribution 
+of CYP3A4 to the clearance of sunvozertinib. In human hepatocytes, the metabolism of 
+sunvozertinib was inhibited by ketoconazole, with an estimated relative contribution of CYP3A 
+(fmCYP3A) by 38.8% (Report DZP/25). If assuming the clinical CYP3A inhibition of 
+sunvozertinib by itraconazole was complete and with negligible gut metabolism, the vivo 
+fmCYP3A4 could be calculated as 33.7% based on this DDI data (Study DZ2021E0008). A mean 
+fmCYP3A4 value of 36%, calculated from both in vitro and in vivo estimates of fmCYP3A4, was 
+used in the model. Sunvozertinib elimination by glutathione conjugation was accounted for in the 
+‘additional hepatic intrinsic clearance’ (Report DZP/24). 
+In vitro study demonstrated that sunvozertinib was a reversible inhibitor of CYP2D6 (IC50=6.30 
+ȝM and CYP3A4 (IC50 = 18.2-21.1 ȝM). The CYP2D6 and CYP3A4 IC50 values were adjusted 
+to Ki values of 3.2 ȝM and 9.1 ȝM, respectively, using the Cheng-Prusoff equation and used as 
+model input parameters (Report ADME-DIH-180802-CYP Inhibition). The correction for 
+unbound Ki was done using the measured unbound fraction in in vitro incubation (fumic=0.53, 
+Report ADME-AZH-171115-Human Mic Fu). Two In vitro studies demonstrated that 
+sunvozertinib was not a time-dependent inhibitor of CYP3A (Reports 
+205087, ADME-DIH-
+CYP KI/kinact, ADME-DIH-180802-CYP TDI) and CYP2D6 (Reports 
+225091 and ADME-
+DIH-180802-CYP TDI). The clinical DDI study (DZ2021E0009) with the sensitive CYP3A4 
+Reference ID: 5618719
+(b) (4)
+(b) (4)
+
+
+===== PAGE 265 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+265
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+Prediction of PK change of sunvozertinib in cancer patients following repeat oral doses of 
+200 mg QD and 300 mg QD for 18 days administered in the absence of fluconazole and 
+following 18 days dosing with fluconazole 200 mg QD, under fed conditions.
+Prediction of PK change of sunvozertinib in cancer patients following repeat oral doses of 
+200 mg QD and 300 mg QD for 18 days administered in the absence of efavirenz and 
+following 15 days dosing with efavirenz 600 mg QD on day 4, under fed conditions.
+Prediction of PK change of sunvozertinib in cancer patients following repeat oral doses of 
+200 mg QD and 300 mg QD for 18 days administered in the absence of dexamethasone 
+and following 14 days dosing with dexamethasone 8 mg QD, under fed conditions.
+Prediction of PK change of desipramine in extensive metabolizers of CYP2D6 in patients 
+with cancer, following a single dose of 50 mg in the absence of sunvozertinib and following 
+18 days dosing with sunvozertinib 200 mg QD. 
+Results 
+Predictive performance of PBPK model to describe sunvozertinib PK
+The PBPK model of sunvozertinib reasonably predict the observed PK in healthy subjects
+following oral administration of single doses of 100, 200, 300 and 400 mg, under fasted and fed 
+conditions (Study DZ2021E0004, parts A, B, C and D). Most of the predictions for AUCinf and 
+&PD[ KDG D SUHGLFWLRQ HUURU  DQG DOO SUHGLFWLRQV KDG D 3( YDOXH  7DEOH  7KH
+predicted median Tmax was around 6 hours (min-max= 1.25 -11 hours) compared to observed 
+median value of 6 hours (min-max= 6-8 hours). The predicted mean half-life for the 300 mg dose 
+was 43.8 hours compared to observed mean value of 45.5 hours (PE=-4%).
+Following administration of multiple doses of sunvozertinib 300 mg, under fed conditions to 
+patients with cancer (Study DZ2020E0001), the predicted AUC and Cmax values on Days 1 and 
+ KDG 3( YDOXHV  7KH SUHGLFWHG PHDQ &WURXJK ZDV  QJP/ FRPSDUHG to observed 
+mean value of 422 ng/mL hours (PE=-1%) (Table 2).
+Overall, the percent prediction errors (%PE) for AUC and Cmax in healthy volunteers and cancer 
+SDWLHQWV ZHUH   DFURVV WKH GRVH UDQJH VLPXODWHG  WR  PJ H[FHSW IRU WKH $8&LQI
+from the 400 mg group in the Study DZ2019E0001, SAD in cancer patients (PE=137%) (Table 
+77. A comparison of the predicted versus observed plasma concentration-time profiles of 
+sunvozertinib, following single and multiple oral dosing, is shown in Figure 28.  
+Reference ID: 5618719
+
+
+===== PAGE 268 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+268
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘
+Table 8973. Predicted and observed Cmax and AUC values of sunvozertinib the absence 
+and presence of strong CYP3A modulators 
+PK data are geometric means. Cmax and AUC ratios are expressed as with/without modulator. Observed: Study
+DZ2021E0008 parts A and B (Source: CSR DZ2021E0008 and simulation output files of the report AST/7/C).
+Reference ID: 5618719
+
+
+===== PAGE 269 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+269
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ 
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘  
+Figure 2929.: Predicted and observed plasma PK profiles of sunvozertinib co-administered 
+with strong CYP3A modulators 
+Linear (A) and log-linear (B) predicted (lines) and observed (circles; n = 19; Clinical Study DZ2021E0008 part A 
+plasma concentration-time profiles of sunvozertinib following a single 100 mg dose in the absence of itraconazole 
+(solid line) and on the 4th day of 14 days of dosing of itraconazole 200 mg QD (dashed line) to healthy subjects under 
+low fat fed conditions. The grey lines represent mean values of simulated individual trial and the black lines portray 
+the mean data of the simulated population (n = 190) (Source: Figures 7 of the report AST/7/C).
+Linear (C) and log-linear (D) predicted (lines) and observed (circles; n = 20; Clinical Study DZ2021E0008 part B)
+plasma concentration-time profiles of DZD9008 following a single 300 mg dose of sunvozertinib in the absence of 
+carbamazepine (solid line, open circles) and on the 15th day of 27 days of dosing of carbamazepine (dashed line, filled 
+circles) to healthy subjects under fed conditions. The grey lines represent mean values of simulated individual trial 
+and the black lines portray the mean data of the simulated population (n = 200). (Source Figure 17 of the report 
+AST/7/C).
+The elimination of sunvozertinib decreased following coadministration with itraconazole. The
+observed sunvozertinib CL/F decreased around 50% with itraconazole coadministration 
+(sunvozertinib alone range: 27.9 L/h to 65.4 L/h; with itraconazole: 14.0 L/h to 40.7 L/h), while 
+the model predicted a CL/F decrease of around 45%. Likewise, the observed mean t1/2 increased 
+from 60.4 hours (sunvozertinib alone) to 70.8 hours (with itraconazole). The model predicted mean 
+t1/2 increase from 51.5 hours (sunvozertinib alone) to 57 hours (with itraconazole). The 
+elimination of sunvozertinib increased slightly following coadministration with carbamazepine. 
+The observed mean t1/2 decreased from 51 hours (sunvozertinib alone) to 45.5 hours (with 
+carbamazepine). The model predicted mean t1/2 decrease from 50 hours (sunvozertinib alone) to 
+46.9 hours (with carbamazepine).
+Reference ID: 5618719
+
+
+===== PAGE 270 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NDA 219839} 
+{ZEGFROVY, sunvozertinib} 
+270
+Version date: March 1, 2024 (ALL NDA/ BLA reviews)
+ŝƐĐůĂŝŵĞƌ͗ /Ŷ ƚŚŝƐ ĚŽĐƵŵĞŶƚ͕ ƚŚĞ ƐĞĐƟŽŶƐ ůĂďĞůĞĚ ĂƐ ͞ĂƚĂ͟ ĂŶĚ ͞dŚĞ ƉƉůŝĐĂŶƚ͛Ɛ WŽƐŝƟŽŶ͟ ĂƌĞ ĐŽŵƉůĞƚĞĚ ďǇ ƚŚĞ
+ƉƉůŝĐĂŶƚ ĂŶĚ ĚŽ ŶŽƚ ŶĞĐĞƐƐĂƌŝůǇ ƌĞŇĞĐƚ ƚŚĞ ƉŽƐŝƟŽŶƐ ŽĨ ƚŚĞ &͘
+Prediction of the DDI effect of CYP3A modulators on the PK of sunvozertinib  
+Simulations were conducted to predict the effect of moderate CYP3A inhibitors or inducers on the 
+PK of sunvozertinib following multiple sunvozertinib doses of 200 mg and 300 mg QD in cancer 
+patients. The predicted geometric mean ratios of AUCtau and Cmax for sunvozertinib in the 
+absence and presence of a CYP3A modulator are listed in Table 79. 
+Table 9074. Predicted PK changes of sunvozertinib by co-administration of CYP3A modulators  
+Data are geometric means ratios of Cmax and AUC, calculated as with/without modulator. (Source: simulation 
+output files of report AST/7/C and *reviewer’s independent analysis).
+After multiple-dose administration of sunvozertinib 200 mg QD or 300 mg QD, a weak interaction 
+effect was predicted with concomitant use of the moderate CYP3A inhibitor fluconazole. Both 
+GMRs for sunvozertinib Cmax and AUCtau were around 1.3.  
+6LPLODUO\ 3%3. SUHGLFWHG D ZHDN LQWHUDFWLRQ HIIHFW $8& *05  - <50%) with concomitant 
+use of a moderate CYP3A inducer. Sunvozertinib Cmax and AUCtau decreased by approximately 
+40% with concomitant use of the moderate CYP3A inducer efavirenz.  No DDI effect was 
+predicted with the weak CYP3A inducer dexamethasone (Cmax and AUC GMRs < 20%). 
+Prediction of interaction effect of sunvozertinib on the PK of a CYP2D6 substrate
+Sunvozertinib was determined to be a reversible inhibitor of CYP2D6, with no time-dependent 
+inhibition potential. Simulations were conducted to evaluate the potential for drug-interaction of 
+sunvozertinib (200 mg QD) with the sensitive CYP2D6 substrate desipramine (50 mg SD) in 
+cancer patients who are extensive metabolizers (EM) of CYP2D6.  No DDI effect on desipramine 
+Reference ID: 5618719

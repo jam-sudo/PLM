@@ -1,0 +1,26 @@
+{
+  "nda": "NDA204114",
+  "drug_name": "trametinib",
+  "pk_tuples": [
+    {
+      "dose_mg": 2.0,
+      "dose_original": "2 mg QD",
+      "route": "oral",
+      "formulation": "tablet",
+      "food": "fasted",
+      "population": "patient",
+      "n_subjects": null,
+      "dose_schedule": "steady_state",
+      "cmax_ng_ml": 22.2,
+      "tmax_h": 1.5,
+      "auc_inf_ng_h_ml": null,
+      "auc_last_ng_h_ml": 370.0,
+      "t_half_h": 103.2,
+      "cl_L_h": null,
+      "vd_L": 1060.0,
+      "source_page": 7,
+      "confidence": "high",
+      "notes": "Trametinib 2 mg QD steady state (Day 15), Cmax 22.2 ng/mL, AUC0-tau 370 ng*h/mL, Ctrough 12.1 ng/mL. Median Tmax 1.5 h (single dose). Protein binding 97.4%. Elimination t1/2 3.9-4.8 days (using 4.3 days ~ 103 h). V 1060 L from IV microdose. Advanced melanoma patients"
+    }
+  ]
+}

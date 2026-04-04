@@ -1,0 +1,2126 @@
+
+
+===== PAGE 8 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+3 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ Other Toxicology Studies ........................................................................................ 65 
+5.5.6.
+6 
+Clinical Pharmacology ............................................................................................................ 66 
+ 
+Executive Summary ........................................................................................................ 66 
+6.1.
+ 
+Summary of Clinical Pharmacology Assessment ............................................................ 70 
+6.2.
+ Pharmacology and Clinical Pharmacokinetics ........................................................ 70 
+6.2.1.
+Absorption ........................................................................................................................ 70 
+Distribution ....................................................................................................................... 70 
+Metabolism ....................................................................................................................... 71 
+Excretion ........................................................................................................................... 71 
+ General Dosing and Therapeutic Individualization ................................................. 71 
+6.2.2.
+ 
+Comprehensive Clinical Pharmacology Review ............................................................. 73 
+6.3.
+ General Pharmacology and Pharmacokinetic Characteristics ................................ 73 
+6.3.1.
+ Clinical Pharmacology Questions ............................................................................ 78 
+6.3.2.
+6.3.2.1. 
+Does the clinical pharmacology program provide supportive evidence of 
+effectiveness to justify the proposed abemaciclib starting doses in early and advanced 
+metastatic breast cancer? ................................................................................................. 78 
+6.3.2.2. 
+Do the available clinical pharmacology, safety and efficacy data provide 
+evidence to support further dose optimization to improve the risk‐benefit profile of 
+abemaciclib in the proposed indications? ........................................................................ 80 
+6.3.2.3. 
+Can predicted DDI using PBPK modeling adequately support labeling dosing 
+recommendations? ........................................................................................................... 84 
+6.3.2.4. 
+Is an alternative dosing regimen or management strategy required for 
+subpopulations based on intrinsic patient factors? ......................................................... 86 
+6.3.2.5. 
+Are there clinically relevant food‐drug or drug‐drug interactions, and what is 
+the appropriate management strategy? .......................................................................... 87 
+7 
+Statistical and Clinical and Evaluation ................................................................................... 89 
+ 
+Sources of Clinical Data and Review Strategy ................................................................ 89 
+7.1.
+ Table of Clinical Studies .......................................................................................... 89 
+7.1.1.
+ Review Strategy ...................................................................................................... 93 
+7.1.2.
+ 
+Review of Relevant Individual Trials Used to Support Efficacy ...................................... 94 
+7.2.
+ MONARCH 2 ............................................................................................................ 94 
+7.2.1.
+ MONARCH 1 .......................................................................................................... 112 
+7.2.2.
+ Study Results ......................................................................................................... 130 
+7.2.3.
+Reference ID: 4159689
+
+
+===== PAGE 14 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+9 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Table 68. Pharmacokinetic and Covariate Parameters in Final Population Model. ................... 234 
+Table 69. Parameter Estimates of the PK‐Change in Tumor Size Model for MONARCH 2 ........ 238 
+Table 70. Parameter Estimates of the PK‐Change in Tumor Size Model for MONARCH 1 ........ 239 
+Table 71. Parameter Estimates for Time to First Diarrhea Event Model (MONARCH 2) ........... 240 
+Table 72. Parameter Estimates for Time to First Diarrhea Event Model (Pooled Dataset) ....... 240 
+Table 73. Pharmacokinetic and Covariate Parameters in the Final Neutropenia Model ........... 241 
+Table 74. Summary of linearity evaluations in simulated dose escalation studies (50‐200 mg 
+BID). Slope, the lower bound and upper bound of 95%CI of slope are reported as the median 
+from 1000 simulated studies. ..................................................................................................... 242 
+Table 75 List of bioanalytical methods used in the clinical development of abemaciclib ......... 246 
+Table 76 Percentage of samples that failed Incurred Sample Reanalyses ................................. 248 
+Table 77. Observed DDI Effects of Clarithromycin and Rifampin on Abemaciclib PK ................ 251 
+Table 78. Applicant’s Labeling Dosing Recommendations ......................................................... 252 
+Table 79. Summary of the Clinical Studies and Simulations for the Development, Verification, 
+and Application of the Abemaciclib PBPK Model ....................................................................... 252 
+Table 80. Comparison of Predicted and Observed PK Parameters of Abemaciclib and 
+Metabolites (M2, M20, M18) Following a Single Oral Dose of Abemaciclib 200 mg ................ 257 
+Table 81. Observed and Simulated Exposure Following a Single Dose of Abemaciclib ............. 258 
+Table 82. Abemaciclib PBPK Model Input Parameters for Abemaciclib ..................................... 262 
+Table 83. Abemaciclib PBPK Model Input Parameters for LSN2839567 (M2) ........................... 263 
+Table 84. Abemaciclib PBPK Model Input Parameters for LSN3106726 (M20) ......................... 263 
+Table 85. Abemaciclib PBPK Model Input Parameters for LSN3106729 (M18) ......................... 264 
+Table 86. Metabolite: Parent Ratios Following Oral Single Doses of Abemaciclib 50 or 200 mg
+..................................................................................................................................................... 264 
+Table 87. Comparison of Predicted AUC Ratios of Total Analytes with Different FG ................. 265 
+Table 88. Observed and Simulated Midazolam AUC Ratios Following Various CYP3A4 Inhibitors
+..................................................................................................................................................... 265 
+Reference ID: 4159689
+
+
+===== PAGE 45 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+40 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ 
+Human metabolites M2 and M20 are structurally similar to abemaciclib and present in human 
+plasma at >10% of abemaciclib‐related molecules. Following administration of a single dose of 
+150 mg [14C]abemaciclib to healthy subjects, M2 and M20 plasma exposures were 13% and 
+26%, respectively, of total drug‐related exposure. In single‐dose PK studies, M2 was present at 
+5‐9% in rat plasma and 15‐18% in dog plasma relative to total parent and metabolites. M20 was 
+not detected in rat and dog plasma in single‐dose studies, but was present at <1% and <7% in 
+rat and dog plasma, respectively, relative to abemaciclib exposure in repeat‐dose toxicity 
+studies. M2, M20, and abemaciclib had comparable inhibitory activity in the presence of 
+purified CDKs, including CDK4 and CDK6. As observed with abemaciclib, both metabolites 
+caused G1 cell cycle arrest and inhibited Rb phosphorylation and expression of cell cycle 
+markers Topo IIα and pHH3. M2 and M20 arrested cell growth after four to six days of 
+treatment and upregulated expression of senescence biomarkers after eight days of treatment. 
+In general, M20 activity was comparable to abemaciclib. M2 activity was 2 to 5‐fold lower than 
+that observed in abemaciclib‐treated cells. 
+ 
+Abemaciclib exposure (Cmax and AUC) in rats and dogs increased with increasing dose and was 
+generally dose proportional across the dose range tested. Pharmacokinetic analysis did not 
+demonstrate gender differences in either species. Oral bioavailability was 30 to 60% following a 
+single oral dose in rats, and the elimination half‐life was 3 to 10 h. Abemaciclib equally 
+partitioned in blood and plasma and was primarily excreted through the biliary/fecal route in 
+rats and dogs with approximately 90% in feces. 
+ 
+In GLP‐compliant, safety pharmacology studies, abemaciclib and its active metabolites inhibited 
+hERG channel currents with IC50 values >1.65 µM and >10 µM, respectively, which are higher 
+than concentrations achieved in patients at the maximum recommended clinical dose. Dogs 
+receiving a single dose of 10 mg/kg abemaciclib demonstrated a slight decrease in blood 
+pressure of 7‐8% relative to vehicle controls. Abemaciclib had no effect on heart rate or ECG 
+parameters in dogs receiving single doses up to 10 mg/kg and demonstrated no effect on 
+respiratory and CNS function in rats receiving single doses up to 50 mg/kg. 
+ 
+The Applicant evaluated abemaciclib in GLP‐compliant, repeat‐dose, toxicology studies in rats 
+and dogs with daily oral administration for up to 13 weeks. In both species, abemaciclib caused 
+lung inflammation and affected organs with rapidly dividing cells, including bone marrow 
+(hypocellularity), lymphoid organs (lymphoid depletion, atrophy), and gastrointestinal (GI) tract 
+(atrophy, lymphoid depletion, necrosis, hemorrhage, hyperplasia), consistent with its 
+mechanism of action. In dogs, a dose of 10 mg/kg caused early mortalities on Day 12 and 15 
+due to severe GI and hematologic toxicity. Clinical signs included decreased activity, tremors, 
+cold to touch, dehydration, reduced food consumption, body weight loss, fecal changes, 
+vomiting, weakness, and partially closed eyes. Abemaciclib also caused renal toxicity (tubular 
+degeneration/ regeneration, vacuolation, dilatation) in rats at doses ≥10 mg/kg and mild to 
+severe effects on male reproductive organs (intratubular cellular debris, hypospermia, tubular 
+Reference ID: 4159689
+
+
+===== PAGE 46 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+41 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+dilatation, and degeneration/necrosis) at doses ≥10 mg/kg in rats and ≥0.3 mg/kg in dogs. 
+These doses in rats and dogs resulted in exposures that were 2 and 0.02 times, respectively, the 
+exposure (AUC) in humans at the maximum recommended dose of 200 mg twice daily (BID).  
+ 
+In general, toxicological findings were consistent with clinical adverse events of pneumonitis 
+and hematologic and GI toxicities. Animal toxicology studies did not show evidence of 
+thromboembolic events or elevated ALT and AST levels, which were observed in clinical trials. 
+The majority of patients had increased serum creatinine in the first 28‐day cycle until treatment 
+discontinuation. Elevated serum creatinine was due to reversible inhibition of renal tubular 
+transporters rather than acute renal injury or reduced glomerular function. Abemaciclib did not 
+increase serum creatinine in rats or dogs. In rats and dogs, the major route of elimination was 
+hepatic, with only a small fraction (~3‐7%) eliminated by the kidneys.   
+ 
+Abemaciclib and metabolites M2 and M20 (mesylate salts) were not mutagenic in an in vitro 
+bacterial reverse mutation (Ames) assay at concentrations up to 5000 µg/plate or clastogenic in 
+an in vitro chromosomal aberration assay in Chinese hamster ovary cells or human peripheral 
+blood lymphocytes. Abemaciclib was not clastogenic in an in vivo rat bone marrow 
+micronucleus assay. Metabolites M2 and M20 did cause an increase in endoreduplication in an 
+in vitro chromosomal aberrations test in CHO cells, but this was likely due to the mechanism of 
+action of cell cycle disruption and not due to genotoxicity.  Metabolite M2 was present in rat 
+plasma, so it was evaluated in the negative in vivo rat bone marrow micronucleus assay.  The 
+weight of evidence suggests that abemaciclib and its metabolites are not genotoxic. 
+ 
+The Applicant did not conduct fertility studies with abemaciclib, and these studies are not 
+warranted to support a marketing application in the proposed patient population, per ICH S9. In 
+repeat‐dose toxicology studies, abemaciclib caused adverse effects in the testis, epididymis, 
+prostate, and seminal vesicles, suggesting a potential risk of impaired fertility in male patients. 
+Toxicological findings in male reproductive organs, including decreased organ weights, 
+intratubular cellular debris, hypospermia, tubular dilatation, atrophy, and 
+degeneration/necrosis, occurred at doses ≥10 mg/kg/day in rats and ≥0.3 mg/kg/day in dogs.  
+ 
+Based on its mechanism of action and findings in animal toxicology studies, abemaciclib may 
+cause fetal harm if administered to a pregnant woman. In an embryo‐fetal development study, 
+pregnant rats received oral doses up to 15 mg/kg abemaciclib during the period of 
+organogenesis. Doses ≥4 mg/kg caused decreased fetal body weights and increased the 
+incidence of cardiovascular and skeletal malformations and variations, including absent 
+innominate artery and aortic arch, malpositioned subclavian artery, unossified sternebra, 
+bipartite ossification of thoracic centrum, and rudimentary or nodulated ribs in the absence of 
+maternal toxicity. At 4 mg/kg, maternal systemic exposures were similar to the human 
+exposure (AUC) at the maximum recommended clinical dose. Females of reproductive potential 
+should use effective contraception during treatment and for three weeks following the last 
+dose of Verzenio. Due to potential adverse reactions in breast‐fed children from abemaciclib, 
+Reference ID: 4159689
+
+
+===== PAGE 52 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+47 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ER+/HER2‐ luminal breast cancer (Study #CCGS314, #CCGS319, and #CCGS321). Addition of 
+hormonal therapy to 50 mg/kg abemaciclib further reduced tumor growth by 15 to 50% and 
+prolonged the anti‐tumor response compared to abemaciclib alone. Tumor analysis 
+demonstrated a corresponding decrease in mRNA expression of cell cycle‐related genes and 
+inhibition of cell cycle markers phosphorylated Rb, Topo IIα, and pHH3 (Study #CCGS319). 
+ 
+Safety Pharmacology 
+The Applicant evaluated the effects of abemaciclib on hERG channel currents using stably 
+transfected HEK293 cells (Study #090210.FMD). Due to solubility limitations, the highest 
+concentration tested was 1.65 µM abemaciclib, which resulted in 33.7% inhibition of hERG 
+channel currents. The Applicant also assessed the inhibitory activity of human metabolites M2, 
+M18, and M20 (Study #140516.FMD). IC50 values for these metabolites were all greater than 10 
+µM. Abemaciclib and its metabolites are low potency inhibitors of hERG channels, indicating a 
+low risk of hERG channel inhibition. 
+ 
+The effects of abemaciclib on blood pressure, heart rate, and ECG parameters were assessed in 
+a GLP‐compliant cardiovascular telemetry study in unrestrained conscious Beagle dogs (Study 
+#692944). Dogs received a single oral dose of 0, 0.3, 1, or 10 mg/kg abemaciclib using a 4x4 
+crossover design with at least seven days between each dose. ECG tracings were collected prior 
+to each dose and at 1, 2, 4, 6, 24, and 48 h post‐dose. Dogs receiving 10 mg/kg abemaciclib 
+demonstrated statistically significant decreases in blood pressure. Abemaciclib caused a 
+decrease in systolic blood pressure up to 7.1% compared to controls at 12 to 14 h and 17 to 19 
+h post‐dose and reduced diastolic pressure up to 8.5% compared to controls at 5, 14, 19, 21, 26, 
+and 45 h post‐dose. Decreases in mean arterial pressure up to 7.4% were noted at 5, 12 to 14, 
+17 to 19, 26, and 45 h post‐dose. No adverse findings were observed at ≤1 mg/kg (Cmax = 24.8 
+ng/mL; AUC0‐24h = 334 ng∙h/mL from Study #8000445). 
+ 
+One dog receiving 10 mg/kg abemaciclib had ventricular premature complexes at 22 to 46 h 
+post‐dose and episodes of paroxysmal ventricular tachycardia or accelerated idioventricular 
+rhythm at 22 to 48 h post‐dose. The Applicant proposed that these findings may be due to 
+ventricular irritation from the insertion site of the left ventricular pressure transducer or 
+positive ECG electrode; however, this animal did not experience adverse effects after receiving 
+lower dose levels or vehicle control, so this finding is possibly test article‐related. 
+ 
+The Applicant evaluated the effect of abemaciclib on respiratory and central nervous system 
+(CNS) function in GLP‐compliant studies in male Sprague Dawley rats (Study #692943, 692942). 
+Rats received a single oral dose of 0, 10, 30, or 50 mg/kg prior to respiratory evaluation at 1, 2, 
+4, 6, 24 and 48 h post‐dose and prior to CNS evaluation. Respiratory and CNS function were 
+comparable to vehicle controls at doses up to 50 mg/kg abemaciclib (Cmax=1330 ng/mL; AUC0‐
+24h=23000 ng∙h/mL from Study #803871). 
+ 
+ADME/PK  
+5.4.
+Reference ID: 4159689
+
+
+===== PAGE 53 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+48 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Type of Study 
+Major Findings 
+Absorption 
+ 
+Dose‐exposure relationship of 
+LY2835219 in male Sprague Dawley 
+rats following a single oral dose of 5, 
+15, 40, or 80 mg/kg of LY2835219 and 
+pharmacokinetics following a single 
+intravenous infusion dose of 5 mg/kg 
+of LY2835219 (Study # 8243‐263) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Rat 
+Plasma PK parameters of abemaciclib following a 
+single oral or IV dose to male rats (n = 3/group): 
+ 
+5 
+mg/mg 
+15 
+mg/kg 
+40 
+mg/kg 
+80 
+mg/kg 
+5 IV 
+mg/kg 
+Cmax 
+(ng/mL) 
+167 
+510 
+789 
+1020 
+1610 
+AUC0‐48h 
+(ng∙h/mL) 
+1380a 
+7040 
+22000 
+39300 
+4620b 
+T1/2 
+(h) 
+3.2 
+5.9 
+10.3 
+NRc 
+3.25 
+CL 
+(mL/kg/h) 
+NA 
+NA 
+NA 
+NA 
+1090 
+Vd 
+(L/kg) 
+NA 
+NA 
+NA 
+NA 
+3.56 
+Bioavailability
+(%) 
+29.9 
+50.8 
+59.5 
+53.2 
+NA 
+aAUC from 0 to last measurable time point (12 h) 
+bAUC from 0 to last measurable time point (24 h) 
+cNot reported due to %CV greater than 100% 
+Distribution 
+ 
+In vitro investigation of LY2835219 
+binding to mouse, rat, dog, and human 
+plasma proteins and human liver 
+microsomes using equilibrium dialysis 
+(Study # N0574) 
+ 
+ 
+Mean protein binding of abemaciclib (% bound): 
+Mouse: 98‐99% 
+Rat: 98‐99% 
+Dog: 95‐97% 
+Human: 96‐98% 
+Human liver microsomes: 85‐91% 
+In vitro protein binding of LY2835219 
+metabolites LSN2839567, LSN3106726, 
+and LSN3106729 in mouse, rat, dog, 
+monkey, and human plasma and 
+human liver microsomes (Study # 
+LY2835219‐Metab‐prelim‐pb) 
+ 
+ 
+ 
+ 
+ 
+Mean protein binding of metabolites (% bound) 
+ 
+Mouse 
+plasma 
+Rat 
+plasma 
+Dog 
+plasma 
+Human 
+plasma 
+Human 
+microsomes 
+M2 
+94 
+92 
+83 
+89 
+67 
+M20 
+90 
+93 
+76 
+94 
+39 
+M18 
+89 
+82 
+69 
+91 
+59 
+ 
+Pharmacokinetics, distribution, 
+metabolism, and elimination of 
+[14C]LY2835219 in male Sprague 
+Dawley and male and female Long 
+Evans rats following a single 10‐mg/kg 
+oral dose of [14C]LY2835219 (Study # 
+8221544PK) 
+Rat 
+‐ Mean blood‐to‐plasma ratio = 0.94‐1.24 
+‐ Cmax in most tissues occurred at 8 h post‐dose. 
+‐ Highest maximum concentrations detected in GI 
+tract contents 
+‐ Highest tissue concentrations in SD rats were 
+observed in preputial gland, exorbital lacrimal gland, 
+Reference ID: 4159689
+
+
+===== PAGE 54 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+49 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Type of Study 
+Major Findings 
+harderian gland, intra‐orbital lacrimal gland, thyroid, 
+and pituitary gland. 
+‐ High peak tissue levels were in the kidney, spleen, 
+liver, salivary gland, and adrenal medulla. 
+‐ Moderate to low levels were in the testis.  
+‐ Low levels of radioactivity were in brain tissues up to 
+8 h post‐dose 
+Metabolism 
+ 
+Metabolism of LY2835219 in biliary 
+cannulated and intact male Sprague 
+Dawley rats following a single 10 
+mg/kg oral dose of [14C]LY2835219 
+(Study # 8221544ME) 
+ 
+ 
+ 
+ 
+ 
+Rat 
+Following a single oral dose of 10 mg/kg abemaciclib 
+to intact SD rats (% of total parent and metabolites): 
+‐ Plasma: 74‐81% parent, 5‐9% M2, 5‐9% M13 
+‐ Feces: 36% parent, 10% M1, 38% M2, 4% M14 
+‐ Urine:  <1.5% parent and metabolites 
+Following a single oral dose of 10 mg/kg abemaciclib 
+to cannulated SD rats: 
+‐ Feces: 13% parent, 19% M2 
+‐ Bile: 12% M2, 5% M7, <4% parent and metabolites 
+Metabolism of LY2835219 in male 
+beagle dogs following a single 3 mg/kg 
+(50‐µCi/kg) oral dose or a single 1 
+mg/kg (15 µCi/kg) intravenous dose of 
+[14C]LY2835219 (Study # 8221545ME) 
+Dog 
+Following a single oral dose of 3 mg/kg abemaciclib to 
+dogs (% of total parent and metabolites): 
+‐ Plasma: 90‐100% parent, 15‐18% M2 
+‐Feces: 11% parent, 46% M2, 6% M20, 6% M1, ≤5% 
+M14, M18, M21, and M22 
+‐ Urine: <1% parent and metabolites 
+Excretion 
+ 
+Pharmacokinetics, distribution, 
+metabolism, and elimination of 
+[14C]LY2835219 in male Sprague 
+Dawley and male and female Long 
+Evans rats following a single 10‐mg/kg 
+oral dose of [14C]LY2835219 (Study # 
+8221544PK) 
+Rat 
+‐ Following a single oral dose of 10 mg/kg, mean 
+recovery of radioactivity was ~94‐96%, with ~90% 
+recovered by 48 h post‐dose. 
+‐ In intact rats, fecal excretion was the major route of 
+elimination with ~91% in feces and ~3% in urine. 
+‐ In bile duct‐cannulated rats, total radioactivity 
+eliminated in feces, bile, and urine was 35%, 51.6% 
+and 6.6%, respectively. 
+Pharmacokinetics, metabolism, and 
+elimination of [14C]LY2835219 in male 
+beagle dogs following a single 3‐mg/kg 
+(50‐µCi/kg) oral dose or a single 1‐
+mg/kg (15‐µCi/kg) intravenous dose of 
+[14C]LY2835219 (Study # 8221545PK) 
+Dog 
+‐ Following a single oral dose of 3 mg/kg or IV dose of 
+1 mg/kg, mean recovery of radioactivity was ~90%. 
+Approximately 84% of total radioactivity was 
+recovered by 72 h post‐dose.  
+‐ Fecal excretion was the major route of elimination 
+with ~86% in feces and ~2‐3% in urine. 
+TK data from general toxicology 
+studies 
+3‐month repeat dose study in rats 
+Rat  
+Abemaciclib  
+‐ Tmax: 4 to 12 h 
+Reference ID: 4159689
+
+
+===== PAGE 55 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+50 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Type of Study 
+Major Findings 
+(Study # 8000444) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+‐ Accumulation: yes, ~2 to 4‐fold 
+‐ Dose proportional 
+Day 
+Sex 
+Dose level 
+(mg/kg) 
+Cmax 
+(ng/mL) 
+AUC0‐24 
+(ng∙h/mL) 
+1 
+ 
+M 
+3 
+59.2 
+735 
+10 
+194 
+2990 
+30 
+606 
+10500 
+F 
+3 
+102 
+1170 
+10 
+277 
+3960 
+30 
+711 
+13000 
+91 
+ 
+M 
+3 
+210 
+3020 
+10 
+574 
+10200 
+30 
+1400 
+30100 
+F 
+3 
+280 
+3760 
+10 
+875 
+15600 
+30 
+1540 
+32000 
+ 
+Metabolite M2 (LD below LLOQ on Day 1) 
+‐ Tmax: 2 to 12 h (Day 29), 0.5 to 8 h (Day 91) 
+‐ Accumulation: yes, 5.8 to 16.4‐fold at ≥10 mg/kg 
+‐ Greater than dose proportional 
+‐ 4 to 14% of abemaciclib exposure 
+Metabolite M20 (LD, MD below LLOQ on Day 1) 
+‐ Tmax: 2 to 12 h (Day 91) 
+‐ Accumulation: yes, 3.4‐fold at 30 mg/kg 
+‐ Dose proportional 
+‐ <1% of abemaciclib exposure when calculable 
+3‐month repeat dose study in dogs 
+Dog 
+Reference ID: 4159689
+
+
+===== PAGE 56 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+51 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Type of Study 
+Major Findings 
+(Study # 8000445) 
+Abemaciclib  
+‐ Tmax: 2.7 to 5.3 h 
+‐ Accumulation: yes, 1.6 to 2.3‐fold 
+‐ Dose proportional 
+Day 
+Sex 
+Dose level 
+(mg/kg) 
+Cmax 
+(ng/mL) 
+AUC0‐24 
+(ng∙h/mL) 
+1 
+ 
+M 
+0.3 
+6.2 
+73.8 
+1 
+24.8 
+334 
+3 
+50.5 
+735 
+F 
+0.3 
+6.3 
+60.2 
+1 
+21.6 
+236 
+3 
+46.6 
+611 
+91 
+ 
+M 
+0.3 
+11.3 
+148 
+1 
+49.0 
+743 
+3 
+105 
+1730 
+F 
+0.3 
+7.8 
+98.4 
+1 
+38.5 
+488 
+3 
+98.4 
+1400 
+ 
+Metabolite M2 (LD below LLOQ) 
+‐ Tmax: 2.8 to 5.3 h at ≥1 mg/kg 
+‐ Accumulation: yes, 1.6 to 2.6‐fold at ≥1 mg/kg 
+‐ Greater than dose proportional 
+‐ 10 to 33% of abemaciclib exposure when calculable 
+ 
+metabolite M20 (LD, MD below LLOQ on Day 1) 
+‐ Tmax: 3 to 8 h at ≥1 mg/kg 
+‐ Accumulation: yes, 3.3‐fold at 3 mg/kg 
+‐ Dose proportional 
+‐ <7% of abemaciclib exposure when calculable 
+TK data from reproductive toxicology 
+studies 
+Embryo‐fetal development study in 
+rats (Study # 8299046) 
+Rat (maternal values) 
+Abemaciclib 
+‐ Tmax: 4 to 12 h 
+‐ Accumulation: yes, 1.4 to 1.9‐fold 
+‐ Greater than dose proportional 
+‐Cmax and AUC0‐24h (GD17) 
+    1 mg/kg: 54.6 ng/mL; 843 ng∙h/mL 
+    4 mg/kg: 348 ng/mL; 5250 ng∙h/mL 
+    15 mg/kg: 826 ng/mL; 17800 ng∙h/mL 
+ 
+Metabolite M2 (LD below LLOQ) 
+‐ Tmax: 4 to 12 h 
+‐ Accumulation: yes, 1.9 to 2.5‐fold 
+‐ Greater than dose proportional 
+‐ 2 to 8% of abemaciclib when calculable 
+ 
+Metabolites M20 and M18 were below LLOQ 
+Reference ID: 4159689
+
+
+===== PAGE 75 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+70 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ Summary of Clinical Pharmacology Assessment  
+6.2.
+Abemaciclib is a weakly basic, small molecule (MW: 506.6 g/mol) which reversibly inhibits 
+cyclin‐dependent kinase 4 (CDK4) and cyclin‐dependent kinase 6 (CDK6) at respective IC50 
+values ranging from 1.2 to 2.0 nM and 2.0 to 9.9 nM. Of note, the major systemic metabolites 
+of abemaciclib (M2, M18, and M20) are pharmacologically equipotent to the parent drug and 
+present in plasma at similar extent as abemaciclib. Abemaciclib suppresses tumor cellular 
+proliferation through inhibition of CDK4/CDK6‐dependent phosphorylation of the 
+retinoblastoma protein thereby thwarting formation of complexes and factors required for 
+transition into the DNA synthesis or S phase of the cell cycle.    
+Approximately dose proportional and linear pharmacokinetic properties were observed after a 
+single oral administration of abemaciclib at doses ranging from 50 to 600 mg and repeated oral 
+doses ranging from 50 to 200 mg twice daily. The systemic exposure of abemaciclib was highly 
+variable as illustrated by an observed intra‐ and inter‐subject variability of 15%CV and >60%CV, 
+respectively. The estimated geometric mean elimination half‐life (CV%) of abemaciclib, M2 or 
+M20 was 18.3 hours (72%), 20.4 hours (67%), and 17 hours (63%), respectively. After five days 
+of repeated twice daily administration, the exposure of abemaciclib reached steady state with 
+an estimated geometric mean accumulation ratio of 3.2 (59% CV). Of note, abemaciclib is 
+almost exclusively eliminated by the liver where it undergoes capacity‐limited clearance.  
+Consequently, the unbound intrinsic clearance is the primary determinant of the unbound 
+steady state exposure, and ultimately the pharmacological effects of abemaciclib and its 
+equipotent metabolites.    
+ Pharmacology and Clinical Pharmacokinetics 
+6.2.1.
+Absorption: The mean fraction of the administered oral dose of abemaciclib available 
+systemically is 0.45 (19% CV) while the median [range] time to maximal plasma concentration, 
+tmax, is 8.00 hours [4.1‐24.0]. The tmax for the major metabolites typically occurs within 3 to 10 
+hours following oral administration.  Clinically relevant alterations in the extent of abemaciclib 
+absorption from reduction in gastric acid are not expected since the 200 mg drug product 
+remains soluble in 250 mL of aqueous solution at pH 6.8. Thus, a clinical trial investigating the 
+effects of co‐administration of gastric acid reducing agents on the exposure of abemaciclib is 
+not warranted.  No clinically relevant food effect on abemaciclib exposure was observed 
+following concomitant administration with a high‐fat meal (approximately 800 to 1000 calories 
+with 150 calories from protein, 250 calories from carbohydrate, and 500 to 600 calories from 
+fat).  
+Distribution: In vitro, abemaciclib binds to human plasma proteins in a concentration‐
+independent manner from 152 ng/mL to 5066 ng/mL. The mean (standard deviation, SD) bound 
+fraction was 96.3% (1.1) for abemaciclib, 93.4% (1.3) for M2, 96.8% (0.8) for M18, and 97.8% 
+(0.6) for M20. The geometric mean systemic volume of distribution is approximately 690.3 L 
+(49% CV). 
+Reference ID: 4159689
+
+
+===== PAGE 76 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+71 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Metabolism: In humans, the metabolism and elimination of abemaciclib are characterized by 
+intestinal and hepatic biotransformation via oxidative reactions by cytochrome P450 (CYP) 3A4 
+to several equipotent active metabolites, which primarily include N‐desethylabemaciclib (M2), 
+hydroxy‐N‐desethylabemaciclib (M18), and hydroxyabemaciclib (M20). In plasma, abemaciclib 
+and its major active metabolites M2, M18, and M20 circulated in similar abundance as their 
+AUCs respectively accounted for 34%, 13%, 5%, and 26% of the total abemaciclib‐derived 
+radioactivity.  
+Excretion: Following a 336‐hour collection period, biliary excretion was the primary route of 
+elimination of abemaciclib and its derived moieties as 81% and 3% of the orally administered 
+radioactive dose was recovered in feces and urine, respectively. Overall, unchanged 
+abemaciclib and its metabolites respectively accounted for 7% and 47% of the administered 
+dose excreted in feces.   
+ 
+General Dosing and Therapeutic Individualization 
+6.2.2.
+General Dosing 
+The proposed dosage regimens of orally administered abemaciclib 150 mg twice daily in 
+combination with fulvestrant and abemaciclib 200 mg twice daily as monotherapy, without 
+regard to food, are acceptable.  Refer to section 6.3.2 for further details and discussion. 
+ 
+Therapeutic Individualization 
+ 
+Organ Dysfunction 
+Renal function is not expected to impact the exposure of abemaciclib since abemaciclib and its 
+major metabolites are primarily eliminated in the liver. Based on the results of a popPK analysis, 
+no changes in abemaciclib PK were observed in patients with mild (Cockroft Gault creatinine 
+clearance, CLcr≥60 mL/min and <90 mL/min, n=186), or moderate (CLcr≥30 mL/min and <60 
+mL/min, n=64) renal impairment, relative to those with normal renal function (CLcr ≥ 90 
+mL/min, n=233). Following  the administration of a single 150 mg oral dose of abemaciclib, no 
+clinically relevant changes in the systemic exposure of abemaciclib was noted in subjects with 
+mild (Child‐Pugh category A, n=9), or moderate (Child‐Pugh category B, n=10) hepatic 
+impairment, relative to those with normal hepatic function (n=10).  The terminal half‐life of 
+abemaciclib, as well as the systemic exposure of total abemaciclib analytes (abemaciclib + M2 + 
+M18 + M20), were doubled in subjects with severe (Child‐Pugh category C, n=6) hepatic 
+impairment relative to those with normal liver function. Consequently, no starting dose 
+adjustment is necessary for patients with mild or moderate hepatic or renal impairment. The 
+recommended dosing frequency for the starting dose of abemaciclib in patients with severe 
+hepatic impairment is once daily.  
+ 
+Drug‐Drug Interactions 
+The concomitant administration of strong CYP3A modulators altered the PK of abemaciclib in 
+vivo. The co‐administration of 500 mg twice daily doses of clarithromycin, a strong CYP3A4 
+Reference ID: 4159689
+
+
+===== PAGE 89 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+84 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+However, there are several uncertainties and risks with the approach to increase the proposed 
+dose in the combination setting. Although a positive exposure response between abemaciclib 
+concentration and tumor shrinkage in MONARCH 2 was observed, the collected longitudinal 
+target tumor lesion data only included patients with measurable disease whose disease 
+progression and response may not be representative of the typical patient in the early line 
+setting. Notwithstanding the aforementioned discrepancies with the MONARCH 2 analysis, 
+substantiated with data from the majority of patients treated in MONARCH 1. Presently, the 
+mechanisms or reasons for the observed higher incidence of abemaciclib‐related diarrhea at 
+the 200 mg dose in combination with fulvestrant compared to when it is administered as 
+monotherapy have not been elucidated. PopPK analyses of abemaciclib PK data in plasma, as 
+well as the known metabolic pathways and properties of fulvestrant do not support any 
+indication for a drug‐drug interaction between fulvestrant and abemaciclib. Although unlikely, it 
+is not known whether the PK of the circulating active metabolites is altered in the presence of 
+fulvestrant. Modeling‐based analyses support the hypothesis that the diarrhea is a localized 
+effect as the unit dose, instead of the systemic concentration, was predictive of the incidence 
+or median time‐to‐occurrence of diarrhea. These noted concerns regarding dose optimization 
+were communicated and extensively discussed with the applicant throughout the review cycle. 
+The applicant informed the FDA that the administration of abemaciclib with prophylaxis anti‐
+diarrheal therapy is currently being evaluated as part of the clinical development program of 
+the drug. The applicant agreed to submit these data to the FDA for review upon completion of 
+the trial. The applicant will also investigate whether the co‐administration of abemaciclib with 
+food affects the tolerability of the drug with regards to the incidence and/or severity of 
+diarrhea as a post‐marketing requirement.  
+ 
+6.3.2.3. 
+Can predicted DDI using PBPK modeling adequately support 
+labeling dosing recommendations? 
+Abemaciclib has three major circulating active metabolites, N‐desethylabemaciclib (M2), 
+hydroxy‐N‐desethylabemaciclib (M18), and hydroxyabemaciclib (M20), which respectively 
+account for 13%, 5%, and 26% of the total analytes AUC in plasma following a single oral dose 
+of 150 mg abemaciclib in healthy subjects. A dedicated DDI study in healthy subjects, Study 
+JPBE, showed that clarithromycin (500 mg twice daily) increased the systemic exposure of 
+abemaciclib by 3.4‐fold and increased the systemic exposure of total analytes (abemaciclib plus 
+three active metabolites (M2, M20, and M18)) by 2.2‐fold. Conversely, DDI Study JPBF reported 
+that concomitant use of rifampin, (a strong CYP3A4 inducer), with a single oral dose of 200 mg 
+abemaciclib reduced the systemic exposure of abemaciclib and total analytes by 95% and 77%, 
+respectively. PBPK models were developed to describe the PK profiles (such as AUC) of 
+abemaciclib and its three active metabolites and predict the DDI potential between abemaciclib 
+and CYP3A modulators.    
+ 
+Reference ID: 4159689
+
+
+===== PAGE 90 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+85 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Given abemaciclib and these three active metabolites are generally equipotent for binding to 
+the CDK4/6 target for efficacy and safety with different fraction unbound, the relative potency 
+adjusted unbound AUC was used to determine total effective exposure of abemaciclib and its 
+metabolites (potency adjusted unbound exposure). The potency adjusted unbound exposure 
+was calculated by converting the analyte concentrations to molar units (nmol∙h/mL) and 
+accounting for the different fraction unbound and CDK4 IC50s of abemaciclib plus its active 
+metabolites. Table 11 summarized the ratios of simulated exposure of abemaciclib, abemaciclib 
+total analyte, and potency adjusted unbound exposure with and without CYP3A modulators.   
+ 
+Table 11 Simulated geometric mean abemaciclib, total analyte, and potency adjusted 
+unbound exposure change (auc ratio) following a single 200 mg dose of abemaciclib and 
+various CYP3A modulators 
+ 
+Abemaciclib 
+Total Analyte
+CDK4 IC50 Adjusted 
+unbound Exposure 
+Ketoconazolea 
+↑ 15.73‐fold 
+↑ 6.87‐fold
+↑ 2.87‐fold 
+Itraconazolea 
+↑ 7.15‐fold 
+↑ 3.78‐fold
+↑ 2.16‐fold 
+Clarithromycina 
+↑ 4.95‐fold 
+↑ 2.76‐fold
+↑ 1.71‐fold 
+Diltiazemb 
+↑ 3.95‐fold 
+↑ 2.41‐fold
+↑ 1.66‐fold 
+Verapamilb 
+↑ 2.28‐fold 
+↑ 1.63‐fold
+↑ 1.31‐fold 
+Rifampinc 
+↓ 93% 
+↓ 71%
+↓ 67% 
+Carbamazepinec 
+↓ 80% 
+↓ 52%
+↓ 38% 
+ a Strong CYP3A4 inhibitors; b Moderate CYP3A4 inhibitors; c Strong CYP3A4 inducers 
+Summarized from Table A8 of PBPK review (section 6.3.2.3) 
+ 
+Table 11 shows that ketoconazole and itraconazole (strong CYP3A inhibitors) can increase the 
+potency adjusted unbound exposure by 2.87‐fold and 2.16‐fold, respectively.  However, the PK 
+of abemaciclib is differentially affected by ketoconazole in comparison to other strong CYP3A 
+inhibitors. For example, simulations predicted 5.0‐ and 7.2‐fold increases in exposure of 
+abemaciclib following co‐administration of a single 200 mg dose of abemaciclib with 
+clarithromycin and itraconazole, respectively. With ketoconazole, the model predicted an up to 
+16‐fold increase in abemaciclib exposure. Given the magnitude of exposure change in the 
+context of the exposure‐response relationships for safety and effectiveness observed with 
+abemaciclib plus its active metabolites, the following recommendations are provided with 
+regard to concomitant use of strong CYP3A inhibitors:     
+ Avoid concomitant use of ketoconazole given the predicted up to 16‐fold increase of 
+abemaciclib and potential concerns for unknown off‐target toxicities. 
+ In patients with recommended starting doses of 200 mg twice daily or 150 mg twice 
+daily, reduce the VERZENIO dose to 100 mg twice daily with concomitant use of other 
+strong CYP3A inhibitors.  
+Reference ID: 4159689
+
+
+===== PAGE 92 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+87 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+abemaciclib did not alter glomerular filtration rate (GFR) as measured by iohexol clearance and 
+serum cystatin C in this trial. These results provided conclusive evidence to exclude 
+concentration‐dependent renal toxicity effects from abemaciclib at the evaluated and proposed 
+clinical dose. 
+     
+Hepatic impairment 
+Abemaciclib primarily undergoes capacity‐limited hepatic metabolism via CYP3A4 and exits the 
+body through biliary excretion to feces. The exposure (AUC0‐INF) and terminal half‐life of 
+abemaciclib in plasma increased two‐fold in subjects with severe hepatic impairment (Child‐
+Pugh category C, n=6) relative to healthy subjects. The unbound exposure of abemaciclib plus 
+its active metabolites (M2 + M18 + M20) in plasma also doubled in subjects with severe hepatic 
+impairment relative to those with normal liver function.  The applicant submitted an analysis 
+incorporating the relative potency‐adjusted unbound AUC of abemaciclib plus its active 
+analytes (M2 + M18 + M20) in plasma for the hepatic impairment trial using the unbound 
+fraction results from the ex‐vivo samples of the subjects involved in the trial. Compared to the 
+approach of using the total drug exposure in plasma, a similar two‐fold increase in the potency‐
+adjusted unbound exposure was observed in subjects with severe hepatic impairment relative 
+to those with normal liver function. Hence, the proposed adjustment to the dosing frequency of 
+the starting dose from twice daily to once daily is adequately justified for patients with severe 
+hepatic dysfunction.  
+6.3.2.5. 
+Are there clinically relevant food‐drug or drug‐drug interactions, 
+and what is the appropriate management strategy? 
+Food‐drug interaction 
+No. The exposure of abemaciclib was not altered following co‐administration with a high fat 
+meal (approximately 800 to 1000 calories with 150 (15%) calories from protein, 250 (25%) 
+calories from carbohydrate, and 500 to 600 (50%) calories from fat). In trial JPCC, the Cmax and 
+AUC0‐INF of total abemaciclib analytes increased by 9% and 26%, respectively in the fed state 
+compared to fasted. Based on the exposure‐response relationship for neutropenia, a 30% 
+increase in abemaciclib Cmax would yield a 9% to 15% increase in the inhibitory effects on 
+neutrophil progenitors. These changes are not expected to have clinically meaningful 
+deleterious effects on the tolerability of abemaciclib with regards to myelosuppression. Thus, 
+the applicant’s proposal to administer abemaciclib without regard to food, as evaluated in 
+registration trials MONARCH 1 and MONARCH 2, is acceptable. However, it is plausible that co‐
+administration of abemaciclib with meals may improve its tolerability with regards to 
+gastrointestinal adverse events without affecting efficacy. A PMR was issued to investigate the 
+incidence of dose reductions and interruptions due to severe diarrhea following dosing of 
+abemaciclib in three different administration conditions: fed, fasted 
+ 
+ and without regards to meals.  
+ 
+Reference ID: 4159689
+(b) (4)
+
+
+===== PAGE 190 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+185 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ 
+Abemaciclib plus Fulvestrant 
+N=441 
+Placebo plus Fulvestrant 
+N=223 
+ 
+All Grades 
+n (%) 
+Grade 3  
+n (%) 
+Grade 
+4  
+n (%) 
+All 
+Grades n 
+(%) 
+Grade 
+3  
+n (%) 
+Grade 
+4  
+n (%) 
+Diarrhea 
+381 (86.4) 
+59 (13.4) 
+0 
+55 (24.7) 
+1 (0.4) 
+0 
+Neutrophil count decreased 
+204 (46.3) 
+116 (26.3) 
+13 (2.9)
+9 (4.0) 
+3 (1.3) 
+1 (0.4) 
+Fatiguea 
+207 (46.9) 
+14 (3.2) 
+0 
+75 (33.6) 
+2 (0.9) 
+0 
+Nausea 
+199 (45.1) 
+12 (2.7) 
+0 
+52 (23.3) 
+3 (1.3) 
+0 
+Infections and Infestations 
+193 (43.8) 
+24 (5.4) 
+6 (1.4) 
+59 (26.5) 
+8 (3.6) 
+1 (0.4) 
+Abdominal painb 
+153 (34.7) 
+9 (2.0) 
+0 
+34 (15.2) 
+2 (0.9) 
+0 
+Anemiac 
+127 (28.8) 
+31 (7.0) 
+1 (0.2) 
+8 (3.6) 
+2 (0.9) 
+0 
+White blood cell count 
+decreased/leukopenia 
+125 (28.3) 
+39 (8.8) 
+1 (0.2) 
+4 (1.8) 
+0 
+0 
+Decreased appetite 
+118 (26.8) 
+5 (1.1) 
+0 
+27 (12.1) 
+1 (0.4) 
+1 (0.4) 
+Vomiting 
+114 (25.9) 
+4 (0.9) 
+0 
+23 (10.3) 
+4 (1.8) 
+0 
+Headache 
+88 (20.0) 
+3 (0.7) 
+0 
+34 (15.2) 
+1 (0.4) 
+0 
+Rashd 
+81 (18.4) 
+7 (1.6) 
+0 
+19 (8.6) 
+0 
+0 
+Dysgeusia 
+79 (17.9) 
+0 
+0 
+6 (2.7) 
+0 
+0 
+Thrombocytopenia, platelet 
+count decreased 
+70 (15.8) 
+12 (2.7) 
+6 (1.4) 
+6 (2.7) 
+0 
+1 (0.4) 
+Alopecia 
+68 (15.4) 
+0 
+0 
+4 (1.8) 
+0 
+0 
+Stomatitisd 
+61 (13.8) 
+2 (0.5) 
+0 
+20 (9.0) 
+0 
+0 
+Cough 
+59 (13.4) 
+1 (0.2) 
+0 
+25 (11.2) 
+0 
+0 
+ALT increased 
+58 (13.2) 
+18 (4.1) 
+1 (0.2) 
+11 (4.9) 
+3 (1.3) 
+0 
+Blood creatinine increasedf 
+58 (13.2) 
+8 (1.8) 
+0 
+2 (0.9) 
+0 
+0 
+Pruritisg 
+56 (12.7) 
+0 
+0 
+12 (5.4) 
+0 
+0 
+AST increased  
+55 (12.5) 
+10 (2.3) 
+0 
+15 (6.7) 
+6 (2.7) 
+0 
+Dizzinessh 
+58 (13.2) 
+4 (0.9) 
+0 
+13 (5.8) 
+0 
+0 
+Weight decreased 
+45 (10.2) 
+1 (0.2) 
+0 
+5 (2.2) 
+1 (0.4) 
+0 
+Pyrexia 
+46 (10.4) 
+1 (0.2) 
+1 (0.2) 
+13 (5.8) 
+1 (0.4) 
+0 
+a Terms pooled: fatigue, asthenia, malaise 
+bTerms pooled: abdominal discomfort, abdominal pain, abdominal pain upper, abdominal pain 
+lower, abdominal tenderness 
+cTerms pooled: anemia, red blood cell count low 
+dTerms pooled: Dermatitis, dermatitis acneiform, dermatitis allergic, dermatitis bullous, 
+dermatitis contact, dermatitis exfoliative, eczema, rash, rash macular, rash maculopapular, rash 
+papular, rash pruritic, rash pustular 
+eTerms pooled: stomatitis, mucosal inflammation 
+fTerms pooled: blood creatinine increased, blood creatine increased (sic), acute kidney injury, 
+renal failure, renal impairment, creatinine renal clearance abnormal, creatinine renal clearance 
+decreased 
+Reference ID: 4159689
+
+
+===== PAGE 237 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+232 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ 
+ 
+ 
+Source: Pop PK 02 report (update), Table 7.1 
+Results 
+29925 PK data for abemaciclib and its major metabolites (M2 and M20) from 990 individuals were used in the 
+popPK analysis.  Baseline characteristics for subjects in the popPK analysis were summarized in an Appendix. 
+In base model development, a 2‐compartment structural model with parallel first and zero order absorption in 
+terms of absorption lag time (ALAG1), absorption rate constant (KA), central volume of distribution (V1), peripheral 
+volume of distribution (V2), clearance (CL), and inter‐compartmental clearance (Q) best described abemaciclib PK. 
+Absolute bioavailability is 32% lower in subjects with diarrhea than in subjects without diarrhea (0.19 vs. 0.28). VPC 
+suggested that the empiric model over‐predicted the IV exposure and therefore under‐predicted absolute 
+bioavailability of the oral formulations (Appendix). 
+Reference ID: 4159689
+
+
+===== PAGE 238 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+233 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Figure 17. Base Empirical Model Structure. 
+ 
+Source: Pop PK 02 report, Figure 8.5 
+Covariates were screened for significance based on criteria of accounting for at least a 10% relative decrease in 
+variability in the empiric model. Weight was included in base model development; hence it was not tested as an 
+additional covariate. Covariates that appeared significant (formulation on lag time and KA) were tested in the 
+mechanistic model (Table 67).  
+Table 67. Covariates Tested in the Empirical Model. 
+ 
+Abbreviations: AGE = baseline age; ALAG1 = lag time; ALBM = albumin; ALKP = alkaline phosphatase; ALT = alanine transaminase; AST = 
+aspartate transaminase; CGCL = baseline creatinine clearance; CL = clearance; D2 = duration of zero order absorption; F = absolute 
+bioavailability; FORM = formulation; GEN = gender; IND = CYP3A‐inducers, concomitant medications; INH = CYP3A‐inhibitors, concomitant 
+medications; KA = absorption rate constant; LOPE = loperamide, concomitant medications; OPIO = opioids, concomitant medications; 
+POPU = population; RACE = race; TBI = total bilirubin; TPRO = total protein; V1 = central volume of distribution; WTE = baseline weight. 
+Red: Covariates had > 10 % relative decrease in ETA values and parameter values were precisely estimated (relative standard errors <30%). 
+These covariates were considered for inclusion in the mechanistic model except for CGCL on KA (lack of clinical relevance) and WTE on KA 
+(since weight was already on various parameters in the mechanistic model). 
+Orange: Covariates had > 10 % relative decrease in ETA values, but parameter values were not precisely estimated and/or small magnitude of 
+effect. These covariates were not included in mechanistic model. 
+Yellow: Covariates had < 10 % relative decrease in ETA values and were not included in mechanistic model. 
+Source: Pop PK 02 report, Table 8.5 
+The final mechanistic model structure was shown in Figure 18. Parameter estimates and nonparametric bootstrap 
+medians are reported in Table 68. Goodness‐of‐fit plots for the final model were shown in Figure 19. VPC 
+suggested general concordance of model predictions with the observed abemaciclib, M2, and M20 concentration‐
+time profiles (Figure 20). In general, there was a random distribution of residual values suggesting no consistent 
+bias in the predicted concentrations. The absorption of abemaciclib was slow and highly variable. The C3 
+formulation had a longer zero order absorption lag time and a slightly lower maximum absorption rate than the 
+early phase formulations. Post hoc analysis suggested comparable abemaciclib exposure across different capsule 
+formulations. Due to a lack of diarrhea records in the large part of dataset, the estimated effect of diarrhea on the 
+fraction entering gut (Fa) should be interpreted with caution. Between‐subject variability in intrinsic clearance of 
+Reference ID: 4159689
+
+
+===== PAGE 239 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+234 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+abemaciclib (CLint) was comparable in healthy subjects and in patients. The inter‐occasional variability (IOV) in 
+CLint was estimated to be 105% in patients. IOV could not be estimated in healthy subjects as there was no 
+repeated dosing in the population. Given the low η‐shrinkage, covariate‐η plots were used to evaluate potential 
+covariate relationships. No trends were observed for the covariates of interest such as hepatic metastases, age, 
+race, sex, and renal function. 
+Figure 18. Mechanistic Model Structure.  
+ 
+Source: Pop PK 02 report (Update),Figure 7.2 
+Table 68. Pharmacokinetic and Covariate Parameters in Final Population Model. 
+Parameter 
+Estimate 
+(%SEE) 
+Variabilitya 
+(%SEE) 
+Shrinkage 
+(%) 
+Bootstrap Median  
+(95% CI) 
+Variabilitya (95% CI) 
+Fraction of dose entering gut 
+compartment, Fa 
+0.92 (0.00) 
+7.1 (fixed)b 
+48.4 
+0.89 (0.88, 0.89) 
+7.1 (fixed)b 
+Fraction of Fa absorbed via transit 
+compartments 
+0.493 (0.2) 
+7.1 (fixed) 
+40.6 
+0.487 (0.473,0.504) 
+7.1 (fixed) 
+Maximum rate of absorption, 
+Ka,max (µmol/h) 
+94.1 (3) 
+61.0 (7.4) 
+9.5 
+93.8 (86.3, 104.8) 
+61.8 (56.5, 70.1) 
+Km for saturable absorption (µmol) 
+53.6 (0.3) 
+7.1 (fixed) 
+48.0 
+52.0 (50.0, 53.6) 
+7.1 (fixed) 
+Mean transit time, MTT (h) 
+1.54 (2.4) 
+76.9 (5.7) 
+17.2 
+1.55 (1.45, 1.67) 
+76.4 (68.4, 87.7) 
+Central volume (L) 
+549 (2.1) 
+70.3 (10.9) 
+9.8 
+535 (511, 560) 
+69.6 (64.4, 74.8) 
+Q (L/h) 
+4.37 (0.3) 
+7.1 (fixed) 
+46.5 
+4.54 (4.30, 4.76) 
+7.1 (fixed) 
+Peripheral volume (L) 
+174 (0.3) 
+7.1 (fixed) 
+47.1 
+176 (166, 186) 
+7.1 (fixed) 
+Zero order abs. duration (h) 
+2.84 (6.1) 
+390.9 (2.0) 
+26.4 
+3.14 (2.63, 3.65) 
+485 (369, 622) 
+Absorption lag time (h) 
+1.71 (0.5) 
+7.1 (fixed) 
+31.9 
+1.72 (1.64, 1.78) 
+7.1 (fixed) 
+Rate constant for formation of M2 
+from gut (h‐1) 
+0.347 (0.3) 
+7.1 (fixed) 
+34.2 
+0.363 (0.350, 0.376) 
+7.1 (fixed) 
+Rate constant for formation of M20 
+from gut (h‐1) 
+0.259 (0.3) 
+7.1 (fixed) 
+36.9 
+0.276 (0.264, 0.290) 
+7.1 (fixed) 
+CLint to form M2 in liver (L/h)c 
+285 (0.3) 
+BSV: 
+H: 41.2 (5.6) 
+P: 44.5 (5.0) 
+WSV: 
+P:104.9 (1.8) 
+BSV: 
+H: 4.1 
+P: 13.0 
+280 (264, 302) 
+BSV: 
+H: 40.2 (34.4, 46.0) 
+P: 47.3 (41.7, 55.6) 
+WSV: 
+P: 100.6 (90.0, 110.3) 
+CLint to form M20 in liver (L/h)c 
+819 (0.3) 
+ 
+774 (745, 810) 
+CLint of M2 in liver (L/h) 
+259 (1.1) 
+31.5 (12.3) 
+23.5 
+256 (245, 271) 
+31.9 (27.5, 38.3) 
+CLint of M20 in liver (L/h) 
+452 (1.1) 
+31.3 (3.2) 
+22.0 
+438 (424, 453) 
+31.6 (27.1, 38.8) 
+Box‐cox shape for random effects of  0.292 (6.1) 
+‐ 
+ 
+0.220 (0.187, 0.251) 
+‐ 
+Reference ID: 4159689
+
+
+===== PAGE 240 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+235 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Parameter 
+Estimate 
+(%SEE) 
+Variabilitya 
+(%SEE) 
+Shrinkage 
+(%) 
+Bootstrap Median  
+(95% CI) 
+Variabilitya (95% CI) 
+zero order duration 
+Diarrhea effect on Fad 
+‐1.28 (1.4) 
+‐ 
+ 
+‐0.563 (‐1.146, 2.42x10‐8) 
+‐ 
+C2 on absorption lage 
+0.822 (3.1) 
+‐ 
+ 
+0.809 (0.617,1.109) 
+‐ 
+C3 on absorption lage 
+1.06 (1.2) 
+‐ 
+ 
+1.0 (0.83, 1.13) 
+‐ 
+Formulation on Ka max
+f 
+‐0.16 (19.6)
+‐ 
+ 
+‐0.166 (‐0.249,‐0.069) 
+‐ 
+Correlation between variability for 
+MTT and zero order duration 
+ 
+0.335 (28.9) 
+ 
+ 
+0.329 (0.216, 0.420) 
+Correlation between variability in 
+CLint of M2 and M20 
+ 
+0.88 (17.4) 
+ 
+ 
+0.885 (0.844, 0.919) 
+IIV for residual error 
+ 
+65.6 (3.7) 
+10.6 
+ 
+61.5 (57.8,65.5) 
+Prop. error parent ‐ oral (%) 
+17.0 (1.5) 
+ 
+9.6 
+18.4 (17.3,19.8) 
+ 
+Prop. error M2 (%) 
+15.7 (1.3) 
+ 
+5.8 
+17.1 (16.3,18.1) 
+ 
+Prop. error M20 (%) 
+10.4 (1.8) 
+ 
+5.4 
+11.5 (10.8,12.4) 
+ 
+Prop. error parent ‐ IV (%) 
+61.6 (fixed) 
+61.6 (fixed) 
+Additive error parent (oral)  
+0.000001 (fixed) 
+0.000001 (fixed) 
+Additive error M2 (µmol/L) 
+0.000001 (fixed) 
+0.000001 (fixed) 
+Additive error M20 (µmol/L) 
+0.000001 (fixed) 
+0.000001 (fixed) 
+Abbreviations: BSV = between subject variability; CI = confidence interval; CV = coefficient of variation; SEE = standard error of the estimate; 
+WSV = within‐subject variability (no WSV for healthy individuals); H = healthy subjects; P = patients. 
+a. Reported as %CV, calculated as: 100 ∙ sqrt(exp(^2)‐1), where ^2 is the NONMEM output for the inter‐subject variability of the parameter. 
+b. Fixed OMEGA to 0.005 to facilitate efficiency of SAEM algorithm. 
+c. Variability incorporated in model on total CLint which was sum of the typical values of CLint to form M2 and CLint to form M20. CLint = 
+(TVCLint,form,m2 + TVCLint,form,m20)*exp(BSV+WSV). 
+d. Estimate is on the logit parameter for Fa. This translates to a 8% decrease in Fa when there is diarrhea. 
+e. ALAG8 = TVALAG8*(1+0.822*FORM1)*(1+1.06*FORM2). Where FORM1 has a value of zero except for individuals with C2 formulation, and 
+FORM2 has a value of zero except for individuals with the C3 formulation where the values are then set to 1. 
+f. Ka,max = TVKa,max *(1‐0.16*FORM2). Where FORM2=0 except for individuals with the C3 formulation where it is set to 1. 
+Source: Adapted from Pop PK 02 report (Update), Table 8.4 
+Figure 19. Goodness‐of‐Fit Plot for the Final Mechanistic Model. (Upper Left) Observation vs. population 
+prediction; (Upper Right) Observation vs. individual prediction. (Lower) Conditional weighted residuals vs. Time. 
+ 
+Reference ID: 4159689
+
+
+===== PAGE 241 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+236 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ 
+Source: Pop PK 02 report (Update), Attachment 3 
+Figure 20. Prediction‐Corrected Visual Predictive for Log Abemaciclib vs Time after Dose in Study JPBL. (Left) 
+Abemaciclib. (Middle) M2. (Right) M20. 
+ 
+Source: Pop PK 02 report (Update), Figure 8.4, 8.5, and 8.6. 
+Reviewer’s Comments:  
+1. The final mechanistic model is not optimized for describing abemaciclib PK after oral administration of the C3 
+formulation. While Study JPCA suggests dose proportional PK after a single dose of 200‐600 mg abemaciclib, 
+the model predicts a less than dose proportional increase in abemaciclib exposure over the same range. Non‐
+linearity is introduced by the saturable absorption from the last transit compartment to systemic circulation 
+and the parallel process of metabolism into M2 and M20 in the last transit compartment. When absorption 
+rate is saturated, more parent drug becomes available for metabolism and absorption as M2 and M20, and 
+hence the reduced bioavailability of the parent drug. It should be noted that Study JPCA was not included in 
+popPK analysis to inform model development.  
+Despite of inconsistent conclusions on PK linearity in the wider range, model prediction supports the 
+labeling claim of close to dose proportionality exposure increase between 50‐200 mg with the C3 formulation 
+(which is bioequivalent to the commercial formulation with closely matched PK profiles). Because of the 
+extensive computational burden and acceptable model performance in describing abemaciclib PK in the 
+registration studies, further optimization of the PK model is not pursued. The sequential approach in exposure‐
+response analysis, which relies on individual estimates of PK parameters from the final model, is found 
+acceptable.  
+2. The effect of diarrhea on bioavailability should be interpreted with caution. Due to a lack of end time of 
+diarrhea AE in multiple studies, diarrhea effect on bioavailability was evaluated as a static covariate in the final 
+model. That is, if a patient expereinced diarrhea anytime during the study treatment, diarrhea effect was 
+added on bioavailabily throughout the course of PK sampling. Diarrhea effect on bioavailability would be 
+systemically underestimated if modeled as a static covariate. In an subset of popPK dataset where the end time 
+of diarrhea AE was available and diarrhea effect on bioavailability was modeled as a time‐varying covariate 
+( per Response to Information Request), diarrhea was estimated to reduce Fa by 16% and absolute 
+bioavailabiliyt by 10%. Considering that the estimate in the subset remains small (10% decreasein absolute 
+bioavailability), the change of bioavailability due to diarrhea could be concluded as not clinically meaningful.  
+3. Monte Carlo noise in the objective function value obtained from the SAEM/IMP estimation meant that reliance 
+on the OFV would not be ideal. Other measures of model improvement such as goodness‐of‐fit plots and 
+Reference ID: 4159689
+
+
+===== PAGE 246 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+241 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Table 73. Pharmacokinetic and Covariate Parameters in the Final Neutropenia Model 
+Parameter 
+Estimate 
+BSV 
+(%CV) 
+Bootstrap median 
+(95% CI) 
+Bootstrap BSV (CV%) 
+(95% CI) 
+Baseline neutrophil (109 cells/L) 
+3.25 
+40.4 
+3.27 (3.23, 3.47) 
+40.3 (38.0,42.1) 
+Mean transit time, MTT (h) 
+190 
+21.7 
+190 (186, 195) 
+21.9 (21.5,24.0) 
+Gamma                                                           
+0.369 
+41.4 
+0.368 (0.348, 0.376) 
+41.4 (40.0, 48.5) 
+Effect of fulvestrant on progenitor pool (%)    
+5.53 
+70.6 
+5.53 (5.34, 6.11) 
+70.6 (67.1, 80.1) 
+Effect of abemaciclib on progenitor pool (%)   
+17.0 
+0.245 
+17.0 (16.6, 18.6) 
+0.245 (0.245, 0.245) 
+Cmax ss total relationship for abemaciclib effect a 
+1.09 
+ 
+1.07 (0.901, 1.13) 
+ 
+Proportional residual variability 
+0.0285 
+ 
+0.0282 (0.0208, 0.305) 
+ 
+a Relationship = 6 * log(1+Cmax,ss,total), where Cmax,ss,total is predicted from the assigned dose. 
+Source: Pop PK 02 report (Update), Table 8.12 
+Reviewer’s Comments:  
+1. The applicant’s exploratory analysis of the exposure‐response or dose‐response relationships ontumor size 
+change, diarrhea AE, and neutrophil change from baseline are acceptable. The reviewers agree with 
+applicant’s conclusions on the negative relationship between starting dose and the time to first diarrhea event 
+and the positive relationship between abemaciclib exposure and neutrophil decrease. The reviewers agree that 
+there is a positive E‐R relationship for tumor size in both the MONARCH 1 and MONARCH 2 studies. 
+2. After obtaining the dynamic tumor size model, the applicant conducted a time‐to‐event analysis to evaluate 
+the risk of disease progression in MONARCH 2. Post hoc tumor size model parameters, simulated tumor size 
+change from baseline, hepatic metastases, and ECOG status were tested as a predictor of hazard. An interval 
+censoring approach was employed in the analysis. Study result is not presented in this review. However, it is 
+noted that patients without measurable disease appear to have a lower baseline hazard of disease progression 
+than patients with measurable disease. The difference is reflected in a separation in the K‐M curves for PFS in 
+patients with or without measurable disease, in both the control and abemaciclib arms.   
+ 
+13.4.1.3. 
+Reviewer’s Analysis 
+Objectives 
+ 
+Evaluate covariate effect on abemaciclib steady state exposure by graphical analysis. 
+ 
+Evaluate dose proportionality of oral abemaciclib formulations. 
+ 
+Simulate tumor response rate with 200 mg BID or 150 mg BID dosing regimen in the monotherapy indication. 
+Data, Software, Methods 
+Name 
+Description 
+Link to EDR  
+run10‐lst.txt; patab10.txt 
+final mechanistic model output and 
+post hoc PK parameters 
+nda208716\0003\m5\datasets\population‐
+pk\analysis\programs\pk‐base‐final‐mechanistic 
+jpbn‐tumor‐size‐survival‐cat‐psn‐
+csv.txt; run4‐lst.txt; 
+patab4.txt 
+MONARCH 1 tumor size change 
+model input, output, and post hoc 
+model parameters 
+nda208716\0013\m5\datasets\population‐
+pk\analysis\programs\base 
+Individual post hoc PK parameters in 990 subjects were used to predict steady state exposure metrics after 50‐600 
+mg single dose or 50‐200 BID doses without dose modification. Boxplots were used to identify potential covariate 
+relationships between abemaciclib steady state exposure at 200 mg BID vs. renal function category, age, body 
+weight, gender, race, and the presence of hepatic metastases. Dose proportionality was evaluated by simulating 
+dose escalation studies in which predicted abemaciclib exposures from a given number of patients on C3 were 
+randomly selected for analysis.   
+Individual post hoc PK parameters and tumor size change parameters in 132 patients in MONARCH 1 were used to 
+predict tumor size over time profiles, assuming that patients were on 200 mg BID, 175 mg BID, 150 mg BID, or 125 
+mg BID dosing regimen without dose modification. The average daily dose in the MONARCH 1 study is 175 mg BID, 
+Reference ID: 4159689
+
+
+===== PAGE 247 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+242 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+representing the actual exposure with a starting dose of 200 mg BID and and with similar diarrhea management 
+measures as used in MONARCH 1. The average daily dose after first dose reduction in the MONARCH 1 study is 125 
+mg BID, representing the actual exposure with a starting dose of 150 mg BID. Response rate were calculated at 4‐
+week intervals, representing the percentage of patients with a greater than 30% tumor size reduction from 
+baseline.  
+The Reviewer’s simulation of abemaciclib exposure is based on the assumption that no new diarrhea events 
+occurred during the course of treatment. In addition, the tumor size model alone does not take into account of 
+disease progression in the non‐target lesion and new lesion. The reviewer’s analysis on efficacy outcome solely 
+relies on tumor size modeling. Therefore, the simulated response rate is expected to be higher than that was 
+observed in a clinical study at the corresponding dose level.  
+NONMEM (v7.3), Pirana (2.9.0), and R (v3.2.2) were used for the FDA reviewer’s analysis. 
+Results and Discussion 
+There were no relationships between covariates of interest and Cmax,ss, Cmin,ss, or AUCtau. Figure 16 shows the 
+boxplot of AUCtau distribution across covariate range after excluding extreme predictions in steady state metrics 
+(i.e. AUCtau between the 2.5% or 97.5% quantiles of the population were included). Conclusions are the same with 
+all data included. 
+The final mechanistic model implies less than dose proportional PK of oral abemaciclib formulations due to 
+saturable absorption and the competing gut metabolism. However, the degree of non‐linearity is not significant. Of 
+the 644 subjects who were treated with the C3 formulation, the slope between log transformed AUC vs. log 
+transformed dose level was 0.96 between 50‐200 mg single dose or BID doses.  In simulated dose escalation 
+studies with different sample sizes, there is high a chance of concluding linear PK within the dose range of 50‐200 
+mg. It should be noted that the commercial formulation (T1) was not included in the popPK analysis to inform PK 
+linearity evaluation. However, the C3 formulation was demonstrated to be bioequivalent to the commercial 
+formulation, with closely matched PK profiles.  Therefore, the estimates of PK parameters and linearity conclusions 
+based on simulated dose escalation studies should be similar between the two formulations.  
+Table 74. Summary of linearity evaluations in simulated dose escalation studies (50‐200 mg BID). Slope, the 
+lower bound and upper bound of 95%CI of slope are reported as the median from 1000 simulated studies. 
+Sample Size 
+Slope 
+Lower Bound 
+Upper Bound 
+Chances of Failure to Conclude Linearity 
+20 
+0.9616 
+0.8703 
+1.0530 
+0 
+40 
+0.9619 
+0.8957 
+1.0282 
+0 
+60 
+0.9616 
+0.9063 
+1.0169 
+0.006 
+80 
+0.9616 
+0.9136 
+1.0097 
+0.029 
+100 
+0.9617 
+0.9191 
+1.0044 
+0.140 
+Sources: FDA’s reviewer’s analysis 
+Simulation suggests a trend of higher response rate being associated with a higher dose level in the MONARCH 1 
+population.  Response rate, based on target lesion at 52 weeks after the start of treatment, is predicted to be 
+31.1% with the 200 mg BID dose vs. 25.0% with the 150 mg BID dose, and 29.5% with the 175 mg BID dose vs. 
+18.9% with the 125 mg BID dose. It is more beneficial, from an efficacy perspective, to start patients on the 
+proposed 200 mg BID dose than on the 150 mg BID dose.   
+The major AE events leading to dose reduction in MONARCH 1 are diarrhea and neutropenia. In the nearly 50% of 
+patients who experienced dose reduction, the median duration of the 200 mg BID dose was 39 days (25‐67 days). 
+Most incidences of Grade 3 or above diarrhea and neutropenia occurred within the first month on treatment and 
+are considered manageable with anti‐diarrhea treatment or dose reduction. As the overall safety and tolerability 
+profile in MONARCH 1, with a 200 mg BID dose, is considered acceptable, starting patients with a 150 mg BID dose 
+does not bring additional benefit from a safety perspective. 
+Simulation of tumor size change in MONARCH 2 also suggests a higher target lesion response rate with a 200 mg 
+BID dosing regimen compared to a 150 mg BID dosing regimen (66.1% vs. 55.9% in patients with measurable 
+Reference ID: 4159689
+
+
+===== PAGE 254 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+249 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ 
+Dose proportionality assessment 
+ 
+The applicant evaluated the dose proportionality properties of abemaciclib in trials JPBA 
+(formulation C1, multiple doses in patients) and JPCA (formulation C3, single dose in healthy 
+subjects).  In trial JPBA, the dose proportionality assessment was evaluated over single and 
+repeated Q12H doses of abemaciclib ranging from 50 mg to 275 mg and 75 to 200 mg, 
+respectively. In general the exposure of abemaciclib increased in an approximately dose 
+proportional manner after single and repeated doses.  After a single administration, the mean 
+dose normalized ratio (90%CI) for Cmax and AUC0‐INF of abemaciclib was respectively 1.11 (0.64, 
+1.91) and 1.61 (0.85, 3.05).  For repeated doses, the dose normalized ratio (90% CI) for Cmax 
+and AUC0‐tau were 0.84 (0.38, 1.83) and 0.96 (0.43, 2.13). The reviewers concur with the 
+applicant’s conclusion that the study was not powered to statistically assess dose 
+proportionality given the high inter‐subject variability in Cmax (117% CV) and AUC0‐last (96% CV). 
+On the other hand, the results of trial JPCA, established statistical evidence of dose 
+proportionality for abemaciclib after a single dose for doses ranging from 200 mg to 600 mg.  
+There is no evidence of marked time‐dependent changes in the PK of abemaciclib based on the 
+results of trial JPBA and popPK simulations (see the PM review in section Pharmacometrics 
+Review). Thus, it is acceptable to conclude that abemaciclib exhibit approximately linear PK 
+properties. 
+ 
+ 
+Physiologically‐Based Pharmacokinetic Modeling Review 
+13.4.3.
+13.4.3.1. 
+Objectives 
+The main objectives of this review are to 1) evaluate the adequacy of the Applicant’s 
+conclusions regarding the ability of a physiologically‐based pharmacokinetic (PBPK) model to 
+predict the drug‐drug interaction (DDI) potential of VERZENIO (abemaciclib) as a victim of the 
+CYP3A metabolic pathway; 2) provide dosing recommendations based on the predicted DDI 
+potential. To support its conclusions, the applicant provided the following PBPK modeling and 
+simulation reports and response to information requests:  
+• 
+In the study report entitled “Prediction of the Effect of CYP3A4 Inhibitors on the Systemic 
+Exposure of Abemaciclib (LY2835219) and its Active Metabolites LSN2839567, LSN3106726 
+and LSN3106729 in Humans After a 200 mg Oral Dose of Abemaciclib (LY2835219) Using 
+Physiologically‐Based Pharmacokinetic (PBPK) Modeling” [1].  
+• 
+In the study report entitled “Prediction of the Effect of CYP3A4 Inhibitors on the Systemic 
+Exposure of Abemaciclib (LY2835219) and its Active Metabolites LSN2839567, LSN3106726, 
+and LSN3106729 after a 50‐mg Oral Dose of LY2835219 in Cancer Patients Using 
+Physiologically‐Based Pharmacokinetic (PBPK) Modeling” [2]. 
+Reference ID: 4159689
+
+
+===== PAGE 255 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+250 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+• 
+In the study report entitled “Prediction of the Effect of CYP3A Inducers on the Systemic 
+Exposure of Abemaciclib (LY2835219) and its Active Metabolites LSN2839567, LSN3106726 
+and LSN3106729 in Humans using Physiologically‐based Pharmacokinetic (PBPK) Modeling” 
+[3]. 
+• 
+In the study report entitled “Mechanistic Absorption Modeling of Abemaciclib (LY2835219) 
+and particle size sensitivity analysis” [4].  
+• 
+Response to FDA Information Request received on July 5, 2017 [5].  
+• 
+Response to FDA Information Request received on July 10, 2017 [6]. 
+13.4.3.2. 
+Background 
+ Abemaciclib is an inhibitor of cyclin D‐dependent kinases 4 and 6 (CDK4 and CDK6) for the 
+ 
+ 
+. The proposed dosing regimen of abemaciclib 
+is 200 mg orally twice daily (BID) as a 
+ or 150 mg BID in combination with 
+fulvestrant. Abemaciclib (LY2835219) is metabolized by CYP3A to form 3 major circulating 
+active metabolites, M2 (N‐desethylabemaciclib; LSN2839567), M20 (hydroxyabemaciclib;  
+LSN3106726), and M18 (hydroxy‐N‐desethylabemaciclib; LSN3106729), which respectively 
+account for 13%, 26%, and 5% of the total analytes AUC in plasma following a single oral dose 
+of 150 mg abemaciclib in healthy subjects. Abemaciclib and its metabolites (M2, M20, M18) are 
+generally equipotent for binding to the CDK4/6 target for efficacy and safety. The IC50 for 
+inhibition of CDK4 by abemaciclib was 1.57 nM versus 1.24, 1.46, and 1.54 nM for metabolites 
+M2, M18, and M20, respectively. Similarly, the IC50 for inhibition of CDK6 was 2.0, 1.33, 2.65, 
+and 1.86 nM for abemaciclib, M2, M18, and M20, respectively [7]. Neutropenia is a known on‐
+target effect of binding to CDK4/6 and exposure‐response relationships for safety (i.e., 
+neutropenia) with abemaciclib and metabolites have been observed.   
+ 
+PBPK models for abemaciclib have been developed by the Applicant to predict the effect of 
+CYP3A modulators on the pharmacokinetics (PK) of abemaciclib. In this submission, the 
+Applicant used PBPK models to predict the effect of ketoconazole, itraconazole, diltiazem, 
+verapamil, and carbamazepine on abemaciclib PK. Clinical DDI studies were conducted to 
+evaluate the effects of clarithromycin, a strong CYP3A inhibitor (Study JPBE) and rifampin, a 
+strong CYP3A inducer (Study JPBF), on abemaciclib PK. These data were used to verify the 
+abemaciclib PBPK model. Table 77 summarizes the observed AUC and Cmax ratios of abemaciclib 
+coadministered with clarithromycin and rifampin following a single dose of abemaciclib 50 mg 
+or 200 mg, with abemaciclib alone as reference. Potency‐adjusted unbound exposure (relative 
+potency adjusted unbound AUC of abemaciclib plus its active metabolites) was calculated by 
+converting the analyte concentrations to molar units (nmol∙h/mL) and accounting for the 
+fraction unbound and CDK4/6 IC50s of abemaciclib, M2, M20, and M18. 
+ 
+Reference ID: 4159689
+(b) (4)
+(b) (4)
+
+
+===== PAGE 256 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+251 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Table 77. Observed DDI Effects of Clarithromycin and Rifampin on Abemaciclib PK 
+ 
+Abemaciclib 50 mg +  
+clarithromycin 500 mg BIDa 
+Abemaciclib 200 mg +  
+rifampin 600 mg QDb 
+ 
+AUC Ratio1 
+Geometric Mean 
+(90% CI) 
+Cmax Ratio1
+Geometric Mean 
+(90% CI) 
+AUC Ratio1
+Geometric Mean  
+(90% CI) 
+Cmax Ratio1 
+Geometric Mean 
+(90% CI) 
+Abemaciclib 
+3.37 
+(2.85, 3.99) 
+1.30
+(1.10, 1.52) 
+0.05
+(0.04, 0.06) 
+0.08 
+(0.07, 0.09) 
+M2 
+1.32 (1.14, 1.53) 
+0.33 (0.27, 0.40)
+0.35 (0.32, 0.38)
+0.96 (0.81, 1.13)
+M20 
+0.94 
+(0.84, 1.06) 
+0.27
+(0.21, 0.34) 
+0.20
+(0.19, 0.22) 
+0.64 (0.56, 0.73)
+M18 
+‐ 2 
+‐ 2 
+1.31 (1.18, 1.44)
+4.26 (3.42, 5.31)
+Total Analytes 
+2.19 
+(1.87, 2.56) 
+0.93
+(0.79, 1.09) 
+0.23
+(0.21, 0.25) 
+0.55 
+(0.50, 0.61) 
+1Ratios expressed as abemaciclib + perpetrator/abemaciclib alone. 
+2M18 concentrations were below limit of quantification following coadministration of abemaciclib and 
+clarithromycin. 
+Source: aJPBE Final Study Report, Tables 7.2, 7.9, Pages 23, 35; bJPBF Final Study Report, Tables 7.2, 7.10, Pages 23, 
+36. 
+ 
+Based on the observed data from the clinical DDI studies and PBPK analyses, the Applicant 
+proposed the following dosing recommendations in the USPI: 
+• 
+Avoid concomitant use of CYP3A inducers. 
+• 
+• 
+• 
+ 
+Reference ID: 4159689
+(b) (4)
+
+
+===== PAGE 260 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+255 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Interacting 
+Drugs 
+(purposes) 
+Simulation Design 
+Clinical Study Design 
+Carbamazepine oral 400 mg BID for 24 days, 
+abemaciclib 200 mg single dose on day 7 
+with carbamazepine under fasted 
+conditions. 
+ 
+13.4.3.3.1. 
+Model Building 
+ 
+The abemaciclib PBPK models were built using in vitro data and data from clinical studies JPBD, 
+JPBE, and JPBS in healthy subjects and JPBE in patients. A first order absorption model was 
+utilized. The Applicant estimated the fraction escaping gut metabolism (FG) following 
+abemaciclib 200 mg based on observed data from the human absolute bioavailability study 
+(JPBS) and the human mass balance study (JPBD).  
+ 
+Bioavailability parameter (F) is the product of three absorption parameters: fraction absorbed 
+(Fa), fraction escaping hepatic metabolism (FH) and FG according to the equation F = Fa × Fg × Fh. 
+The value of F was 0.45 according to the results of the absolute bioavailability study following 
+an oral single 200 mg dose of abemaciclib (Study JPBS); Fa was determined as 0.91 based on the 
+mass balance study (Study JPBD). Study JPBD reported less than 10% of abemaciclib was 
+recovered in feces following a single oral dose of 150 mg abemaciclib. Given that abemaciclib is 
+mostly metabolized by CYP3A in liver, the mean systemic plasma clearance (CLiv) of 24 L/h 
+following a single intravenous (IV) dose of abemaciclib was used as a surrogate for hepatic 
+clearance (CLliver). By assuming hepatic blood flow (Qh) as 80 L/h and blood to plasma ratio (B:P) 
+of 0.84 and FH=0.64, FG was calculated to be 0.77 for abemaciclib 200 mg; however, the 
+Applicant used an FG value of 1 when dosing abemaciclib at 50 mg to describe a 2‐fold 
+difference in metabolite:parent ratios observed at 200 mg compared with those at 50 mg 
+(Appendix Table 86).  On June 27, 2017, FDA issued an information request to provide a 
+mechanistic rationale for differences in Fg based on the dose of 50 mg versus 200 mg.  
+ 
+In the Applicant’s IR response [6], the Applicant described that a fit‐for‐purpose PBPK modeling 
+approach was used to develop the abemaciclib PBPK models, and two Fg were used in order to 
+describe the clinically observed PK of abemaciclib at 50 mg and 200 mg. The Applicant’s  
+assumption that Fg varies at these two doses is based on 1) no change in FH observed due to a 
+lack of change in half‐life between 50 mg and 200 mg (Study JPBA); 2) dose‐dependent 
+absorption (Fa) is unlikely given high permeability of abemaciclib and fast dissolution in the 
+stomach [4, 6]; and 3) a trend towards a slight increase of gut wall metabolism with increasing 
+dose and no Fa change in the population PK analysis; therefore, the Applicant states that this 
+observed difference is likely due to metabolic differences and not absorption changes [6]. FDA 
+reviewers note that differences in the predicted AUC ratio of total analytes in the 
+presence/absence of CYP3A inhibitors with different FG values were minimal (less than 20%) 
+Reference ID: 4159689
+
+
+===== PAGE 261 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+256 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+(Appendix Table 87). The observed DDI between abemaciclib (50 mg single dose) and 
+clarithromycin (500 mg BID) from the clinical Study JPBE was used to inform the fraction of 
+abemaciclib metabolized by CYP3A4 (fm,CYP3A4) in the PBPK model. Abemaciclib fm,CYP3A4 was 
+determined to be 0.89. The fm,CYP3A4 for M2, M20, and M18 were 0.40, 0.74, and 0.05, 
+respectively, and were determined by fitting the observed AUC and AUC ratios from the clinical 
+Study JPBF.   Figure 26 shows the proposed metabolic pathways for abemaciclib and its active 
+metabolites.  
+  
+Figure 26. Diagram of the Metabolic Pathways for Abemaciclib and Active Metabolites 
+ 
+ 
+Source: ‘LY2835219 MM CYP3A4 Inh 200mg’ Final Study Report, Figure 1, Page 17. 
+ 
+13.4.3.3.2. 
+Model Verification 
+  
+Reference ID: 4159689
+
+
+===== PAGE 262 =====
+
+NDA/BLA Multi‐disciplinary Review and Evaluation NDA 208716 
+VERZENIO (abemaciclib) 
+ 
+ 
+257 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+The PBPK models for abemaciclib and its three active metabolites were able to reproduce the 
+observed PK parameters following abemaciclib 200 mg from the in vivo DDI study (JPBF) and   
+observed concentration‐time profiles of total analyte in healthy subjects (JPBF) and in patients 
+with cancer. Table 80 shows that simulated AUCinf and Cmax of abemaciclib and its metabolites 
+were within 0.8 and 1.25‐fold of the observed values.  
+Table 80. Comparison of Predicted and Observed PK Parameters of Abemaciclib and 
+Metabolites (M2, M20, M18) Following a Single Oral Dose of Abemaciclib 200 mg 
+ 
+*Observed data from Study JPBF. 
+Source: ‘LY2835219 MM CYP3A4 Inh 200mg’ Final Study Report, Table 9, Page 15. 
+ 
+Simulations of repeat doses of abemaciclib 200 mg BID showed a geometric mean AUC of 3844 
+ng∙h/mL, which is comparable to that simulated for a single dose of abemaciclib 200 mg. This is 
+expected since linear PK was observed for abemaciclib.  
+ 
+13.4.3.3.3. 
+Model Applications 
+The Applicant conducted the following simulations to prospectively predict the PK of 
+abemaciclib and total analytes: 
+ 200 mg single oral doses of abemaciclib in the presence of moderate CYP3A inhibitors, 
+diltiazem and verapamil. 
+ 200 mg single oral dose of abemaciclib in the presence of a strong CYP3A inducer, 
+carbamazepine. 
+ 
+For the predicted interaction with ketoconazole, the Applicant assumed that CYP3A‐mediated 
+metabolism of abemaciclib was completely inhibited and the CYP3A‐mediated clearance was 
+set to zero. The 
+ reduction in CYP3A intrinsic clearance by ketoconazole was chosen to 
+reproduce the literature reported AUC ratio 
+ for midazolam (a sensitive CYP3A 
+substrate), assuming Fg of midazolam is 
+ and fm,CYP3A is 
+ [1]. For the predicted interaction 
+with itraconazole, the Applicant assumed that 90% CYP3A‐mediated metabolism of abemaciclib 
+was inhibited. The 
+ reduction in CYP3A intrinsic clearance by itraconazole was chosen to 
+Reference ID: 4159689
+COPYRIGHT 
+PROTECTED 
+MATERIAL
+(b) (4)
+(b) (4)
+(b) 
+(4)
+(b) 
+(4)

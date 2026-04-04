@@ -1,0 +1,1765 @@
+
+
+===== PAGE 16 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+15 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+CDRH Scientific Reviewer 
+Meerie Sheen 
+CDRH Branch Chief (Acting) 
+Rama Kamesh Bikkavilli 
+OPQ=Office of Pharmaceutical Quality 
+OPDP=Office of Prescription Drug Promotion 
+OSI=Office of Scientific Investigations 
+OSE= Office of Surveillance and Epidemiology 
+DEPI= Division of Epidemiology 
+DMEPA=Division of Medication Error Prevention and Analysis 
+DRISK=Division of Risk Management 
+DPV=Division of Pharmacovigilance 
+CDRH=Center for Devices and Radiological Health 
+ 
+Glossary 
+aBA 
+Absolute bioavailability 
+ADC 
+Antibody-drug-conjugate 
+ADME 
+Absorption, distribution, metabolism, excretion 
+AE 
+Adverse Event 
+ALT 
+Alanine transaminase 
+AST 
+Aspartate transaminase 
+AUC0-24,ss 
+Area under the concentration-time curve over 24 h at steady state 
+BI 
+Boehringer Ingelheim 
+BIcMQ 
+Boehringer Ingelheim customized MedDRA Query 
+BID 
+Two times a day 
+BLA 
+Biologics License Application 
+BLQ 
+Below the limit of quantitation 
+BMI 
+Body Mass Index 
+BRA 
+Benefit-risk assessment 
+CDX 
+Cell line-derived xenograft 
+CI 
+Confidence interval 
+CL 
+Clearance 
+ClinRO 
+Clinician reported outcome 
+CMC 
+Chemistry and Manufacturing Controls 
+Cmax,ss 
+Maximal plasma concentration at steady state 
+Cmin,ss 
+Trough plasma concentration at steady state 
+CNS 
+Central nervous system 
+CO 
+Clinical overview 
+COA 
+Clinical outcome assessment 
+CR 
+Complete response 
+CTCAE 
+Common terminology criteria for adverse events 
+CTP 
+Clinical trial protocol 
+Reference ID: 5639413
+
+
+===== PAGE 46 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+45 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+5 Nonclinical Pharmacology/Toxicology 
+5.1 Executive Summary 
+Zongertinib (BI 1810631) is a small molecule inhibitor of human epidermal growth factor 
+receptor 2 (HER2), including wild-type HER2 and activating HER2 mutations. The established 
+pharmacological class for zongertinib is kinase inhibitor. HER2/ERBB2 is a member of the 
+epidermal growth factor (EGFR) family of transmembrane receptor tyrosine kinases (RTKs). 
+There are four ErbB RTKs: EGFR (ERBB1), HER2 (ERBB2), HER3 (ERBB3), and HER4 (ERBB4). Upon 
+ligand binding to the extracellular domain of ErbB family members, EGFR, HER3, or HER4 homo- 
+or heterodimerize with ErbB family members. While no extracellular ligand has yet been 
+identified to specifically bind to the HER2 receptor (i.e., it is considered an orphan receptor), it 
+is the preferred dimerization partner for other ErbB family members. Once ligand binding 
+occurs, the intracellular tyrosine kinase domain (TKD) is activated by auto- or 
+transphosphorylation, resulting in a signal transduction cascade. ErbB signaling activates several 
+pathways involved in cell proliferation, survival, differentiation, and migration, including 
+PI3K/AKT/mTOR and JAK/STAT pathways (Arteaga CL, 2014). 
+ 
+In an in vitro kinase screen, zongertinib inhibited wild-type HER2 with an IC50 value of 8 nM, 
+suggesting zongertinib could cause HER2-related adverse reactions. HER2 mutations affecting 
+the TKD often cluster within exon 20 of the HER2 gene, resulting in constitutive activation of 
+the kinase domain (Robichaux J, 2018). HER2 TKD mutations also encompass exons 19 and 21. 
+In primary pharmacology studies, zongertinib inhibited the in vitro proliferation of lung cancer 
+cells expressing HER2 exon 20 insertion mutations (A775_G776insYVMA) or amplification of 
+wild-type HER2 at concentrations achievable at the recommended clinical dose of 120 mg (free 
+Cmax of approximately 30 nM based on approximately 99% mean plasma protein binding and a 
+human steady-state Cmax of 3000 nM). In HEK293 cells transduced to express the HER2 YVMA 
+insertion mutation, zongertinib inhibited phosphorylation of ERK, a downstream effector of 
+HER2. Zongertinib also decreased mRNA levels of dual specificity phosphatase 6 (DUSP6), a 
+negative regulator of the RAS/MAPK pathway (Yang Y, 2022). The Applicant did not evaluate 
+the effect of zongertinib on non-TKD HER2 mutations in lung cancer cells. Overall, in vitro 
+studies demonstrated that zongertinib inhibits wild-type HER2 and TKD HER2 mutations at 
+clinically relevant concentrations. In addition, zongertinib exhibited in vivo anti-tumor activity in 
+several xenograft models of lung cancer harboring TKD HER2 mutations. In one model, mice 
+implanted with patient-derived lung cancer cells (ST-3107) expressing HER2 exon 20-YVMA 
+demonstrated dose-dependent tumor growth inhibition (TGI) of ≥119% following twice daily 
+oral administration of ≥30 mg/kg zongertinib.  
+ 
+In secondary pharmacology enzyme binding studies, 10 µM zongertinib inhibited kappa, 5HT3, 
+GR, sodium (Na+) channel, and phosphodiesterase 4D2 (PDE4D2) by 53%, 89%, 53%, 61%, and 
+Reference ID: 5639413
+
+
+===== PAGE 47 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+46 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+79%, respectively, compared to control inhibitors. IC50 values were not determined. In a panel 
+of 397 kinases, 1 µM of zongertinib inhibited 7 kinases >55%, including HER2 (IC50 = 8 nM) and 
+HER4 (IC50 = 49 nM) at concentrations considered clinically relevant.  
+ 
+Zongertinib inhibited in vitro human ether-à-go-go related gene (hERG) potassium channel 
+current with an IC50 of 11.41 µM in a safety pharmacology assessment, which is approximately 
+380-fold higher than the human free steady-state Cmax of 30 nM. Additional cardiovascular 
+safety pharmacology assessments did not reveal cardiovascular toxicity in telemetered 
+conscious dogs, and QTc prolongation was not observed in general toxicology studies. 
+Consistent with the nonclinical data, QTc prolongation was not observed in patients treated 
+with zongertinib. Zongertinib also had no effect on the central nervous system (CNS) in animals, 
+as demonstrated in a functional observational battery (FOB). Moreover, zongertinib had no 
+effect on respiratory function in rats. 
+ 
+Zongertinib was highly bound to plasma protein (≥99%) in rats, dogs, and rabbits, which were 
+all species utilized in the toxicology studies submitted by the Applicant. Zongertinib showed 
+similar 99% mean protein binding in human plasma. Whole-body autoradiography in pigmented 
+male rats revealed that isotope-labeled zongertinib was distributed to the CNS, male gonads, 
+skin, and eyes. Brain-to-plasma ratios were ≤0.01, suggesting zongertinib showed minimal 
+crossing of the blood-brain barrier in rats. Zongertinib was detected for up to ~200 hours in the 
+total eyeball, and up to ~470 hours in the melanin-containing region of the ocular bulb of the 
+eye, indicating a much longer half-life in eye tissue than in plasma. Zongertinib did not induce 
+ocular toxicity in patients, and ocular toxicity in animals was limited to one dog in a 4-week 
+repeat-dose toxicology study exhibiting unilateral atrophy and mixed cell infiltration in the 
+cornea. Although skin was not a target organ observed in toxicology studies conducted in rats 
+or dogs, the nonclinical distribution findings may, in part, explain the skin toxicity observed in 
+patients.  
+ 
+There were no unique human metabolites detected in in vitro hepatocytes. There were 11 
+human metabolites identified in pooled plasma from patients with lung cancer, but none were 
+major metabolites. While three of the metabolites identified in patient plasma were unique to 
+humans, M585(1), M673(1), and M745(1), they pose little risk to humans because they 
+comprise <1% of the total drug-related material (TDRM) and <1% of total zongertinib 
+metabolites.   
+ 
+The Applicant evaluated the safety of zongertinib administered orally once daily in rats and 
+dogs in 28-day and 91-day GLP-compliant general toxicology studies using Sprague Dawley rats 
+and Beagle dogs. Oral administration is consistent with the intended clinical route of 
+administration. The major target organs of zongertinib in rats and/or dogs included the 
+gastrointestinal (GI) tract, adrenal gland, and oral mucosa. There were no zongertinib-related 
+Reference ID: 5639413
+
+
+===== PAGE 48 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+47 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+deaths in either species. Treatment with zongertinib resulted in yellow discoloration in the fur, 
+tissues, and/or skin in rats and dogs, along with systemic pigmentation within macrophages in 
+the 13-week rat study. These findings were likely attributed to the color of the drug substance, 
+were partially reversible, and were not considered adverse. Yellow discoloration of the skin was 
+not seen in clinical trials. 
+ 
+In the 4-week repeat-dose toxicology study in dogs, zongertinib induced redness and lesions of 
+the oral mucosa (hard palate, buccal mucosa, tongue, lips) at doses ≥10 mg/kg/day (≥0.3 times 
+the human exposure based on AUC at the recommended dose), which correlated with 
+histologic erosion/ulcer and led to impaired food consumption and body weight loss at 20 
+mg/kg/day. Dogs exposed to zongertinib for 91 days also had clinical signs of redness of the 
+buccal mucosa, gums, and lower lip at 6 mg/kg/day (0.8 times the human exposure based on 
+AUC at the recommended dose). Clinically relevant oral mucosa findings were added to Section 
+13.2 of the HERNEXEOS label. Rats in the 4-week study exhibited congestion/hemorrhage of the 
+adrenal gland at doses ≥30 mg/kg/day and increased vacuolation, single cell necrosis, and 
+hypertrophy of the adrenal glands at 270 mg/kg/day (approximately 36 times the human 
+exposure based on AUC at the recommended dose), which correlated with increased adrenal 
+gland weight. Dogs had minimal hyperplasia of the adrenal cortex at doses ≥20 mg/kg/day, and 
+one dog exhibited slight vacuolation at 50 mg/kg/day (approximately 4 times the human 
+exposure based on AUC at the recommended dose). Because stress can contribute to adrenal 
+findings and because of large exposure margins at doses that caused adrenal effects in rats, the 
+clinical relevance of these findings is uncertain.  
+ 
+Zongertinib was negative for genotoxicity in the following studies: an in vitro bacterial reverse 
+mutation (Ames) assay in the presence or absence of microsomal (S9) mix, and an in vivo 
+peripheral blood micronucleus test coupled with comet assays conducted in hepatic and 
+duodenal tissue isolated from male rats following 4 days of oral exposure. Consistent with the 
+principles discussed in the ICH S9 guidance, carcinogenicity studies are not expected for 
+development of a drug intended for the treatment of patients with advanced cancer.  
+ 
+Dedicated fertility studies were not conducted with zongertinib and are not warranted for the 
+proposed indication; however, there were dose-related findings in reproductive organs in the 
+rat general toxicology study following a 91-day exposure, suggesting that zongertinib may 
+impair male and female fertility. Histopathology findings included dose-dependent vacuolation 
+of the testis of male rats after 91 days at doses ≥10 mg/kg (≥5.7 times the human exposure 
+based on AUC at the recommended dose), which was distinct from the pigmented 
+macrophages observed systemically (mentioned above). There were also findings of minimal to 
+mild dose-dependent atrophy of the prostate gland at doses ≥30 mg/kg (≥8.4 times the human 
+exposure based on AUC at the recommended dose). Female rats had findings of minimal 
+atrophy of the uterus, and hyperplasia/hyperkeratosis of the cervix and vagina at 90 mg/kg 
+Reference ID: 5639413
+
+
+===== PAGE 49 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+48 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+(approximately 17 times the human exposure based on AUC at the recommended dose). 
+Findings in reproductive organs (added to Section 13.1 of the HERNEXEOS label) were reversible 
+following a 4-week recovery period except for vacuolation in the testis. 
+ 
+The Applicant conducted GLP-compliant embryo-fetal development (EFD) studies in rats and 
+rabbits. In a GLP-compliant study, rats received oral zongertinib during the period of 
+organogenesis [gestation day (GD) 7 to 18]. Zongertinib caused delayed development of the 
+urinary system and kidney hydronephrosis at 60 mg/kg/day (approximately 19 times the human 
+exposure based on AUC at the recommended dose). Zongertinib also caused slight dose-
+dependent decreases in fetal weight. When higher doses were examined in a non-GLP dose 
+range-finding study, once daily oral administration of zongertinib to rats during the period of 
+organogenesis resulted in increased post-implantation loss, decreases in the number of live 
+fetuses, and decreased fetal weights at doses ≥90 mg/kg/day (approximately ≥29 times the 
+human exposure based on AUC at the recommended dose). Treated dams had no clinical signs 
+at doses as high as 270 mg/kg/day (approximately 57 times the human exposure based on AUC 
+at the recommended dose). Findings from the dose range-finding study were not added to 
+Section 8.1 of the label because they occurred at exposures ˃25 times the human exposure. In a 
+GLP-compliant EFD study in rabbits, oral administration of zongertinib during the period of 
+organogenesis (GD 6 to 19) did not result in adverse embryo-fetal findings at doses up to 120 
+mg/kg/day (2.4 times the human exposure based on AUC at the recommended dose). 
+Zongertinib was maternally toxic to rabbits, so higher doses could not be investigated. In 
+addition, published literature have demonstrated that HER2 is critically important in embryo-
+fetal development. Notably, mice expressing catalytically inactive HER2 die at mid-gestation 
+due to cardiac dysfunction (Chan R, 2002). 
+ 
+Considering these findings, a warning for embryo-fetal toxicity will be included in the label for 
+HERNEXEOS. Based on FDA guidance, “Oncology Pharmaceutical: Reproductive Toxicity Testing 
+and Labeling Recommendations,” for embryo-fetal toxic drugs that are non-genotoxic, and 
+considering a terminal half-life of 45 hours, FDA recommends advising females of reproductive 
+potential to use effective contraception during treatment with HERNEXEOS and for 2 weeks (5 
+half-lives rounded up) after the last dose (U.S. Food and Drug Administration, 2019). In 
+addition, there is no data regarding zongertinib or its metabolites in breastmilk. Because of the 
+potential for serious adverse reactions in breastfed children, the nonclinical review team 
+recommends advising patients not to breastfeed during treatment with HERNEXEOS and for 2 
+weeks after the last dose. The Applicant provided a justification for not including a duration of 
+contraception in males. FDA accepted this approach based on modeling of embryo-fetal 
+exposures under a worst-case scenario [seminal fluid concentration assumed equal to human 
+plasma Cmax at the recommended dose, assumption of complete absorption in female partners, 
+Bowman et al. (Bowman CJ, 2023)] that showed substantial margins of safety from Cmax values 
+observed at the no observed adverse effect level (NOAEL) doses in the rat (30 mg/kg) and 
+Reference ID: 5639413
+
+
+===== PAGE 55 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+54 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+ 
+The Cmax of unbound zongertinib was calculated by the FDA clinical pharmacology and 
+nonclinical teams to be 30 nM at the recommended dose of 120 mg/day. 
+ 
+The Applicant employed two fluorescence resonance energy transfer (FRET)-based commercial 
+kinase activity assays (Z’-Lyte biochemical assay and LanthaScreen® Eu Kinase Binding Assay) to 
+determine zongertinib kinase activity in a panel of 397 kinases (Study # n00280432). At 1 µM, 
+zongertinib inhibited 7 kinases by >55%. Only 2 kinases, HER2 and ERBB4, were inhibited at 
+clinically relevant concentrations (free Cmax of ~30 nM at 120 mg) (FDA Table 7). Five 
+additional kinases were inhibited at concentrations ~3 to 25-fold greater. 
+ 
+FDA Table 7: Zongertinib Kinase Activity 
+ 
+Source: Applicant Table reproduced from Study # n00280432 
+FDA did not review the non-GLP safety pharmacology studies described in Applicant Table 5, 
+but instead reviewed the GLP-compliant studies under the Safety Pharmacology section below. 
+ 
+ 
+Safety Pharmacology 
+The Applicant’s Position: 
+The core battery of safety pharmacology studies summarized in the following table (Applicant - 
+Table 8) was conducted according to GLP and in an OECD country. No relevant effects have 
+been observed and the proarrhythmic potential is considered to be low. 
+Reference ID: 5639413
+
+
+===== PAGE 56 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+55 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Applicant - Table 8: GLP Safety Pharmacology Studies 
+Study type 
+Species/test 
+system 
+Dosage/ 
+Concentration 
+Main result 
+GLP Reference 
+Effect on 
+hERG channel 
+current (36 ± 1°C) 
+HEK293 cells 
+expressing the hERG 
+channel in vitro 
+0.3, 1, 3, 10 μM 
+IC50 = 11.41 μM 
+(based on achieved 
+concentrations) 
+Yes n00282101 
+Central Nervous 
+System Assessment 
+(Modified Irwin) 
+Conscious rat 
+(RccHan®:WIST) 
+0, 30, 90, 270 mg/kg 
+No relevant effects Yes n00281017 
+Respiratory 
+function 
+Conscious rat 
+(RccHan®:WIST) 
+0, 30, 90, 270 mg/kg 
+No relevant effects Yes n00279420 
+Cardiovascular 
+function 
+Conscious 
+telemetered  
+Beagle dog 
+0, 5, 10, 20 mg/kg 
+No relevant effects Yes n00282102 
+ 
+The FDA’s Assessment: 
+FDA generally agrees with the Applicant’s data, with additional pertinent details below.  
+ 
+• In the hERG channel inhibition study (# 00282101), the target concentrations were 0, 0.3, 1, 
+3, and 10 µM. Once the study was complete, samples of the zongertinib concentrations 
+were recovered and analyzed. The actual concentrations were only 34%-65% of anticipated: 
+0, 0.120, 0.341, 1.83, and 5.70 µM. The mean free Cmax of zongertinib is ~30 nM at the 
+recommended human dose, which is ~370-fold lower than the IC50 (11.41 µM) for hERG 
+channel inhibition.   
+• The study assessing respiratory function was conducted using only male rats (#n00279420).  
+• Animals received single oral doses of zongertinib in the in vivo safety pharmacology studies 
+summarized in Applicant-Table 8. 
+ 
+5.4 ADME/PK 
+The Applicant’s Position: 
+The pharmacokinetic (PK) profiles of zongertinib in preclinical species (mouse, rat, dog, and 
+minipig) are characterized by low clearance (CL), small to moderate volume of distribution at 
+steady state (Vss), and moderate oral bioavailability (Fpo). Zongertinib is well absorbed from the 
+GI tract as indicated by its high absolute oral bioavailability in humans (76%) and moderate 
+absolute oral bioavailability in preclinical species (31 to 60%). In general, there was no 
+substantial change in zongertinib plasma exposure following repeated oral dosing of 
+zongertinib to rats, rabbits, or dogs. There was no apparent sex-based difference in zongertinib 
+plasma exposure in rats or dogs.  
+ 
+Reference ID: 5639413
+
+
+===== PAGE 58 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+57 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+none of the metabolites are relevant with respect to MIST-related safety considerations. Also, 
+none of the identified metabolites have a plasma exposure level exceeding 25% of parent drug 
+exposure, and none of the metabolites identified represents at least 10% of total circulating 
+drug-related material at steady state. Therefore, none of the identified human metabolites of 
+zongertinib are considered relevant with respect to the potential to cause drug-drug 
+interactions as a perpetrator.  
+ 
+Following oral dosing of [14C]zongertinib to rats, 13 metabolites were identified in plasma and 
+excreta. Similar to the metabolites observed in humans, these metabolites were formed via 
+mono-oxidation, N-demethylation, dealkylation, di-hydroxylation, glucuronidation, and a 
+combination of these processes. Glutathione conjugation and degradation of the glutathione 
+conjugate were also observed. Unchanged zongertinib represented the majority (86%) of 
+extractable radioactivity in rat plasma and represented on average 56% of the orally 
+administered dose in rat feces.  
+ 
+In 14C-ADME studies conducted in Wistar Han rats and healthy humans, radioactivity associated 
+with a single oral dose of [14C]zongertinib was primarily excreted into feces (89% in rats and 
+92.5% in humans). A very small fraction of dosed radioactivity appeared in urine (1.0% in rats 
+and 1.3% in humans). Following an intraduodenal dose of [14C]zongertinib to anesthetized rats, 
+a small fraction (~14%) of the administered radioactive dose was recovered in the bile at up to 
+6 h after dosing. 
+ 
+The potential for zongertinib to cause drug-drug interactions (DDIs) as a perpetrator was 
+assessed using calculation methods outlined in current regulatory guidances, zongertinib 
+steady-state plasma exposure data from the Phase I trials, and inhibition or induction 
+parameters determined from in vitro studies. From these calculations, oral administration of 
+zongertinib at the currently planned therapeutic dose of 120 mg QD (Cmax,ss = 3.21 µM) could 
+potentially cause clinically relevant induction of CYP3A4 and CYP2C8; inactivation of CYP3A4; 
+and inhibition of UGT2B17, P-gp, BCRP, OATP1B1, OATP1B3, MATE1, and MATE2-K. A clinical 
+DDI trial (1479-0014) was performed to investigate the potential for zongertinib (120 mg QD) to 
+modulate the enzyme activity of CYP2C8, CYP2C19, and CYP3A4 using repaglinide, omeprazole, 
+and midazolam as probe substrates, respectively. Another clinical DDI trial (1479-0015) was 
+performed to investigate the potential for zongertinib (120 mg QD) to inhibit these transporters 
+using probe substrates dabigatran etexilate (P-gp), rosuvastatin (OATP1B1, OATP1B3, and 
+BCRP), metformin (MATE1, MATE2-K, and OCT2), and furosemide (OAT1 and OAT3).  
+ 
+In summary, a series of in vitro and in vivo nonclinical pharmacokinetic and metabolism studies 
+have been conducted. The results from these studies describe the absorption, distribution, 
+metabolism, and excretion characteristics of zongertinib. The data have been used to predict 
+the potential for DDIs upon coadministration of zongertinib with other drugs, and several of 
+Reference ID: 5639413
+
+
+===== PAGE 59 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+58 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+these predictions have been evaluated clinically or are being evaluated. These results support 
+the registration of zongertinib as an oral treatment for specific cancer types in humans. 
+Absorption 
+Zongertinib PK in animal species and prediction of human PK [n00279573] 
+The PK of zongertinib in preclinical species is characterized by low clearance (CL), small to moderate 
+apparent volume of distribution at steady state (Vss), and moderate oral bioavailability. 
+ 
+Route 
+PK Parameter a 
+Mouse 
+(NMRI) 
+(n = 3f/route) 
+Rat 
+(Wistar Han) 
+(n = 3m/route) 
+Dog 
+(beagle) 
+(n = 3m/route) 
+Minipig 
+(Göttingen) 
+(n =3, m/f b) 
+IV 
+Dose (mg/kg) 
+1 
+1 
+0.5 
+0.5 
+AUC0-inf (nM•h) 
+3,800 
+17,300 
+2,680 
+2,860 
+CL (mL/min/kg) 
+8.19 
+2.02 
+5.97 
+5.5 
+Vss (L/kg) 
+0.45 
+0.33 
+1.34 
+1.08 
+t½ (h) 
+1.03 
+2.55 
+3.38 
+4.25 
+MRTdisp (h) 
+0.91 
+2.82 
+3.77 
+3.28 
+Oral 
+Dose (mg/kg) 
+3 
+3 
+10 
+3 
+Cmax (nM) 
+1,200 
+2,480 
+2,670 
+82.4 
+tmax (h) a 
+2  
+2  
+4 
+8  
+AUC0-inf (nM•h) 
+4,680 
+16,100 
+32,200 
+5,200 
+MRTtot (h) 
+3.2 
+4.27 
+14.6 
+7.75 
+Bioavailability 
+42% 
+31% 
+60% 
+31% 
+a PK parameters are presented as arithmetic mean values, except tmax values which are presented as median values. 
+b Two males and one female for the IV route; three females for the oral route. 
+ 
+PK of radioactivity and zongertinib after oral administration of [14C]zongertinib to rats [n00292317] 
+The PK of zongertinib and total radioactivity were investigated following a single oral dose of 
+10 mg/kg [14C]zongertinib to male and female Wistar Han rats. There were no apparent sex-based 
+differences in plasma exposure of zongertinib or total radioactivity. Half-life values in rats were 
+substantially longer for total radioactivity (50 h in males and 75 h in females) than for unchanged 
+zongertinib (3.1 h in males and 3.6 h in females), suggesting that covalent binding of [14C]zongertinib 
+to plasma proteins occurred, especially at late time points. Zongertinib represented 21% (male) and 
+16% (female) of total radioactivity exposure (AUC0-inf) in rats. 
+ 
+Distribution 
+Species comparison of in vitro binding of [14C]zongertinib in mouse, rat, rabbit, dog, and human 
+plasma and to human serum albumin and human α1-acid glycoprotein [n00279937] 
+Zongertinib was determined to be highly protein bound (>99%) in human plasma and plasma from all 
+animal species evaluated. The percentage of unbound zongertinib (fu) in plasma was 0.074% in Wistar 
+Han rat; 0.46% in human; 0.73% in CD-1 mouse; and 1.0% in CByB6F1 mouse, rabbit, and beagle dog. 
+In human plasma, zongertinib was mainly bound to serum albumin with only a minor contribution of 
+Reference ID: 5639413
+
+
+===== PAGE 62 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+61 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Identification of human cytochrome P450 isoforms responsible for the metabolism of zongertinib 
+[n00282230] and  
+Assessment of CYP450 isoforms involved in zongertinib metabolism [n00282422]: 
+Results of CYP reaction phenotyping in HLM and rCYPs indicate that CYP-mediated zongertinib 
+metabolism was principally via CYP3A4/3A5. As such, CYP3A is estimated to represent 48-62% of total 
+hepatic metabolism. This is consistent with the results from two clinical DDI trials. Itraconazole, a 
+strong inhibitor of CYP3A4 and moderate inhibitor of P-gp, increased zongertinib Cmax by 27% and 
+AUC0-inf by 41% [c42362953, trial 1479-0004]. Carbamazepine, a strong inducer of CYP3A4 and 
+moderate inducer of P-gp, reduced zongertinib Cmax by 43% and AUC0-inf by 63% [c43437359, trial 
+1479-0011]. 
+ 
+Determination of human UGT isoforms involved in the metabolism of zongertinib [n00299024] 
+Results of UGT reaction phenotyping in HLM and rUGTs indicate that zongertinib glucuronidation is 
+via UGTs 1A4, 1A1, 1A3, and 2B17. Of the 13-25% of zongertinib estimated to be metabolized by 
+UGTs, UGT1A4 is estimated to account for 8-16% of total hepatic metabolism, and UGTs 1A1, 1A3, 
+and 2B17 are collectively estimated to account for 5-9% of total hepatic metabolism. As such, co-
+medications that modulate UGT activities are not expected to cause clinically relevant changes in 
+zongertinib plasma exposure, as none of the UGT isozymes contribute to ≥25% of zongertinib total CL. 
+ 
+Evaluation of induction potential of cytochrome P450 isoforms by zongertinib in cultured human 
+hepatocytes [n00278549] 
+Zongertinib: Assessment of CYP induction potential in primary human hepatocytes using the basic 
+models R3 and F2 according to FDA and EMA guidance [n00279936] 
+The potential for zongertinib to induce mRNA expression of CYPs 1A2, 2B6, 2C8, 2C9, and 3A4 was 
+assessed using sandwich-cultured primary human hepatocytes, incubated with zongertinib at 
+concentrations up to its maximal solubility of 10 µM. Concentration-dependent relevant induction 
+(>2-fold increase in mRNA expression) was observed for CYP2C8 and CYP3A4, but no such induction 
+was observed for CYP1A2, CYP2B6, or CYP2C9. Based on the most conservative donor evaluated, 
+induction of CYP2C8 was characterized by an EC50 value of 0.08 µM and an Emax value of 3.2, and 
+induction of CYP3A4 was characterized by an EC50 value of 0.01 µM and an Emax value of 2.6. The 
+potential for clinically relevant induction of CYP2C8 and CYP3A4 was assessed using calculation 
+methods outlined in FDA, PMDA, EMA, and ICH guidances [R20-0261, P19-01288, P21-11010, 
+P24-03774] and experimentally determined induction parameters (EC50 and Emax values). From these 
+calculations, oral administration of zongertinib at the currently planned therapeutic dose of 120 mg 
+QD dose (Cmax,ss = 3.21 µM) could potentially cause clinically relevant induction of CYP2C8 and CYP3A4. 
+ 
+Zongertinib: In vitro inhibition studies on cytochrome P450 dependent metabolic reactions 
+[n00279830]; In vitro binding of zongertinib to HLM [n00282022] 
+The potential for zongertinib to inhibit and inactivate CYP isoforms 1A2, 2B6, 2C8, 2C9, 2C19, 2D6, 
+and 3A was evaluated in HLM. Zongertinib did not inhibit CYPs 1A2 or 2B6 at incubation 
+concentrations up to 50 µM. Zongertinib reversibly inhibited CYPs 2C8, 2C9, 2C19, and 2D6, and 
+irreversibly inactivated CYP3A. The potential for clinically relevant inhibition of these CYP enzymes 
+was assessed using calculation methods outlined in FDA, PMDA, EMA, and ICH guidances [R20-0261, 
+P19-01288 , P21-11010, P24-03774] and experimentally determined inhibition and inactivation 
+Reference ID: 5639413
+
+
+===== PAGE 63 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+62 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+parameters (Ki,u, KI,u, and kinact). From these calculations, oral administration of zongertinib at the 
+currently planned therapeutic dose of 120 mg QD dose (Cmax,ss = 3.21 µM) could potentially cause 
+clinically relevant inactivation of CYP3A, but is not expected to cause clinically relevant inhibition of 
+CYPs 2C8, 2C9, 2C19, or 2D6.  
+ 
+In vitro inhibition of human UGT enzyme activity by zongertinib [n00303501] 
+The potential for zongertinib to inhibit UGT isoforms 1A1, 1A3, 1A4, 2B7, and 2B17 was evaluated in 
+HLM. Zongertinib did not cause >50% inhibition of UGT1A1 or UGT1A3 up to the highest incubation 
+concentration of 50 µM. Zongertinib inhibited UGTs 1A4, 2B7, and 2B17 with IC50 values of 1.1, 19, 
+and 0.71 µM, respectively. The potential for clinically relevant inhibition of these UGT enzymes was 
+assessed using calculation methods outlined in FDA, PMDA, EMA, and ICH guidances [R20-0261, 
+P19-01288 , P21-11010, P24-03774] and the Ki,u values estimated from experimentally determined 
+IC50 values. From these calculations, oral administration of zongertinib at the currently planned 
+therapeutic dose of 120 mg QD dose (Cmax,ss = 3.21 µM) could potentially cause clinically relevant 
+inhibition of UGT2B17 only.   
+ 
+In vitro inhibitor profiling of zongertinib with human MATE transporter isoforms [n00280781] 
+In vitro evaluation of interaction of zongertinib with human ABC and SLC transporters [n00282184] 
+Potential interactions of zongertinib with major human uptake and efflux transporters were 
+investigated in vitro. The estimated membrane permeability of zongertinib across Caco-2 cell 
+monolayers was moderate (Papp = 6.8-9.0 x 10-6 cm/sec) with an efflux ratio of 2.1 in the presence of 
+2% BSA, but was high (Papp = 16-20 x 10-6 cm/sec) with an efflux ratio of <1.3 in the absence of BSA. 
+Zongertinib is considered a weak substrate of both P-gp and BCRP, as coincubation with both a P-gp 
+inhibitor (zosuquidar) and a BCRP inhibitor (fumitremorgin C) diminished the efflux ratio of 
+zongertinib across the Caco-2 cell monolayers (in the presence of 2% BSA). The classification of 
+zongertinib as a weak substrate of P-gp and BCRP is based on the low measured efflux ratio (only 2.1) 
+of zongertinib in the presence of 2% BSA, a lack of directional transport when the BSA level is <0.5%, 
+and its high permeability in the absence of BSA. Therefore, P-gp or BCRP is not likely to restrict 
+zongertinib absorption from the GI tract, which is also evidenced by the high absolute oral 
+bioavailability of zongertinib in humans (76%) and an approximate dose-proportional increase in 
+steady state plasma exposure with oral doses ranging from 15 to 150 mg BID and 60 to 360 mg QD in 
+patients. As such, coadministration of zongertinib with drugs that are P-gp and BCRP inhibitors is not 
+expected to cause clinically relevant increases in zongertinib exposure. 
+ 
+Zongertinib was determined not to be a substrate of the uptake transporters OATP1B1 or OATP1B3.  
+As such, coadministration of zongertinib with drugs that are OATP1B1 and/or OATP1B3 inhibitors is 
+not expected to cause clinically relevant increases in zongertinib exposure. 
+ 
+In in vitro studies, zongertinib inhibited P-gp, BCRP, OATP1B1, OATP1B3, MATE1, and MATE2-K in a 
+concentration dependent manner but did not cause >50% inhibition of OAT1, OAT3, or OCT2 at 
+concentrations up to 1.6 µM. IC50 values for inhibition of transporters are shown in the table below. 
+Based on calculations using methods outlined in the ICH, FDA, and PMDA DDI guidances, oral 
+administration of zongertinib at the currently planned therapeutic dose of 120 mg QD (Cmax,ss = 3.21 
+µM) could potentially cause clinically relevant inhibition of P-gp, BCRP, OATP1B1, OATP1B3, MATE1, 
+Reference ID: 5639413
+
+
+===== PAGE 64 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+63 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+and MATE2-K. However, based on the FDA DDI guidance alone, clinically relevant inhibition of MATE1 
+and MATE2-K by zongertinib at 120 mg QD dose is unlikely. According to the FDA, PMDA, and ICH DDI 
+criteria, clinically relevant inhibition of OAT1, OAT3, and OCT2 by zongertinib is considered unlikely 
+when zongertinib Cmax,ss <16 µM. 
+ 
+Profiles of zongertinib as a potential substrate or inhibitor of major drug transporters 
+Transporter 
+Substrate 
+Inhibition IC50 (µM) 
+ABC 
+transporter 
+P-gp 
+Yes 
+0.14 
+BCRP 
+Yes 
+0.080 
+SLC 
+transporter 
+OATP1B1 
+No 
+0.18 
+OATP1B3 
+No 
+0.094 
+OAT1 
+N.D. a 
+>1.6 b 
+OAT3  
+N.D. 
+>1.6 b 
+OCT2 
+N.D. 
+>1.6 b 
+MATE1 
+N.D. 
+0.74 
+MATE2-K 
+N.D. 
+0.60 
+a N.D. = not determined. Zongertinib exposure is not expected to be impacted by inhibition of renal transporters, as renal 
+excretion is a trivial pathway (<1%) of zongertinib elimination. 
+b Zongertinib did not cause >50% inhibition of OAT1, OAT3, or OCT2 up to the highest test concentrations of 1.6 µM 
+(measured), so IC50 values were estimated to be >1.6 µM. 
+ 
+Excretion 
+Excretion of radioactivity in urine, feces, and bile after oral administration of [14C]zongertinib to rats 
+[n00289742]  
+In Wistar Han rats administered a single oral dose of [14C]zongertinib (10 mg/kg), 89% of the total 
+radioactive dose was recovered in feces and 1.0% was recovered in urine. The remaining radioactivity 
+unaccounted for in feces and urine was identified as radioactivity remaining in the rat carcass (6.9%). 
+Following intraduodenal administration of [14C]zongertinib (10 mg/kg) to anesthetized rats, 16.8% and 
+10.9% of dosed radioactivity was recovered from the bile of male and female rats, respectively, within 
+6 h of dosing. Similarly, results from the human ADME trial also demonstrated that orally 
+administered radioactivity was predominately excreted into feces (92.5% of the dose) with a very 
+small fraction (1.3% of the dose) recovered in urine [c43542365, trial 1479-0006]. 
+ 
+Summary PK parameters from pharmacokinetic studies 
+4-week and 13-week repeat-dose toxicity studies in rats, studies 8442502 [n00282481] and 20324187 
+[n00301352] 
+Zongertinib plasma exposure in rats increased roughly dose-proportionally from 10 to 30 mg/kg/day 
+and increased less than dose-proportionally from 30 to 90 and from 90 to 270 mg/kg/day. There were 
+no substantial changes in zongertinib exposure following repeated dosing. There was no consistent 
+trend to suggest a sex-based difference in zongertinib exposure. 
+ 
+Reference ID: 5639413
+
+
+===== PAGE 65 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+64 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+4-week and 13-week repeat-dose toxicity studies in dogs, studies 20B068 [n00278943] and 50100TCC 
+[n00301353] 
+Zongertinib plasma exposure in dogs increased supraproportionally with increasing dose level from 
+10 to 50 mg/kg/day (4-week study) and increased roughly dose-proportionally with increasing dose 
+level from 1.5 to 6 mg/kg/day (13-week study). There were no substantial changes in zongertinib 
+exposure following repeated dosing. There was no consistent trend to suggest a sex-based difference 
+in zongertinib exposure. 
+ 
+Integrative summary table of Cmax and AUC parameters across toxicology studies (general, 
+reproductive, and carcinogenicity, if conducted) 
+No major human metabolites have been identified. 
+No carcinogenicity studies have been conducted. 
+TK data from repeat-dose toxicity, cardiovascular safety, and embryo-fetal developmental studies are 
+tabulated below: 
+Study type, 
+GLP status 
+Species, 
+Strain 
+Dosing 
+duration 
+Daily 
+dose 
+(mg/kg) 
+Cmax,ss [nM]       
+m, f, or m/f a 
+AUC0-24,ss [nM*h]    
+m, f, or m/f a 
+Report No. 
+Repeat-Dose 
+Toxicity 
+Non-GLP 
+Rat, 
+HanWistar 
+2 weeks 
+40 
+130 
+420 
+15,200 
+65,000 
+84,000 
+141,000 
+641,000 
+1,270,000 
+n00281427 
+Repeat-Dose 
+Toxicity 
+GLP 
+Rat, 
+HanWistar 
+4 weeks 
+30 
+90 
+270 
+23,400/38,100 
+53,400/56,600 
+105,000/78,200 
+230,000/337,000 
+576,000/677,000 
+1,240,000/1,140,000 
+n00282481 
+Repeat-Dose 
+Toxicity 
+GLP 
+Rat, 
+HanWistar 
+13 weeks 
+10 
+30 
+90 
+25,600/19,300 
+34,300/47,900 
+53,500/69,700 
+192,000/95,500 
+280,000/302,000 
+489,000/561,000 
+n00301352 
+Repeat-Dose 
+Toxicity 
+Non-GLP  
+Dog, 
+Beagle 
+2 weeks 
+ 
+100 
+60 
+4,530/2,630 
+9,590/1,820 
+31,000/49,200 
+86,600/9,130 
+n00276961 
+Repeat-Dose 
+Toxicity 
+GLP 
+Dog, 
+Beagle 
+4 weeks 
+10 
+20 
+50 
+621/968 
+1,950/2,160 
+11,400/11,800 
+7,010/11,500 
+19,600/22,600 
+131,000/136,000 
+n00278943 
+Repeat-Dose 
+Toxicity 
+Non-GLP  
+Dog, 
+Beagle 
+20 days 
+20 days 
+28 days 
+1 
+5 
+10 
+844/393 
+3,280/2,590 
+5,490/6,310 
+6,280/2,570 
+19,400/13,400 
+40,300/36,400 
+n00292500 
+Repeat-Dose 
+Toxicity 
+GLP 
+Dog, 
+Beagle 
+13 weeks 
+1.5 
+3 
+6 
+996/920 
+2,040/996 
+2,120/3,230 
+7,220/9,450 
+17,700/12,100 
+19,200/32,400 
+n00301353 
+Cardiovascular 
+safety 
+GLP 
+Dog, 
+Beagle 
+1 day 
+5 
+10 
+20 
+313/909 
+1,380/1,450 
+1,270/5,800 
+2,560/12,700 
+16,900/14,200 
+15,400/64,100 
+n00282102 
+Embryo-fetal 
+Development 
+Non-GLP  
+Rat, 
+HanWistar 
+GD 7 to 
+GD 17 
+30 
+90 
+270 
+51,000 
+78,800 
+117,000 
+495,000 
+982,000 
+1,920,000 
+n00292914 
+Embryo-fetal 
+Development 
+GLP 
+Rat, 
+HanWistar 
+GD 7 to 
+GD 18 
+10 
+30 
+60 
+10,700 
+54,600 
+47,900 
+92,100 
+577,000 
+625,000 
+n00298815 
+Reference ID: 5639413
+
+
+===== PAGE 67 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+66 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+n00303501, n00280781, n00282184) and reviewed ADME studies conducted in healthy 
+volunteers and patients (Study # n0030054, n00308022). See the Clinical Pharmacology review 
+in Section 6. 
+For the FDA assessment of the high permeability claim for zongertinib, refer to the OPQ Review 
+and Evaluation uploaded to DARRTS dated June 26, 2025. 
+ 
+The FDA Clinical Pharmacology team determined that the mean clinical steady state Cmax and 
+AUC at the recommended daily dose of 120 mg zongertinib are 3000 nM and 33,500 nM*h, 
+respectively. In consultation with the clinical pharmacology team, animal to human zongertinib 
+exposures multiples were calculated using these Cmax and AUC values rather than the values 
+provided in the Applicant’s position. When determining estimated exposure multiples for 
+labeling purposes, FDA does not consider NOAEL values from general toxicology studies 
+submitted to support oncology indications. Finally, it is not the FDA’s standard practice to 
+consider protein binding when comparing AUC exposures. Thus, FDA’s calculated exposure 
+multiples were not adjusted for fraction unbound (fu) in rats and consequently vary from those 
+provided in the Applicant’s table. Exposure multiples for relevant findings are provided in the 
+Executive Summary. 
+ 
+Distribution 
+Quantitative whole-body autoradiography in male pigmented rats demonstrated that [14C]zongertinib 
+is distributed to the CNS, male gonads, skin, and eyes (n00292304, n00282411). Compared to the 
+radiation detected in plasma (n00282411), it was 1.7-fold higher in gonads, 1.5 times higher in skin, 
+and up to 10 times higher in the eyeball. While the half-life of radioactivity observed in the total 
+eyeball was ~200 hours, it was ~470 hours in the melanin-containing tissues of the ocular bulb, which 
+includes the uveal tract and retinal pigment epithelium. Therefore, zongertinib has high affinity and 
+longer half-life in eye tissue. Up to 2.2% of total radioactivity was observed in CNS regions within 24 
+hours of oral dosing, primarily in regions outside the blood-brain barrier (BBB). Radiation was 
+observed at 1.9-fold greater concentration in the pituitary gland, part of the CNS region not protected 
+by the BBB, than in plasma. Brain-to-plasma ratios were ≤0.01, suggesting zongertinib showed limited 
+crossing of the BBB in rats.  
+5.5 Toxicology 
+5.5.1 General Toxicology 
+The Applicant’s Position: 
+The repeat-dose toxicity of zongertinib was evaluated in rats and dogs for up to 13 weeks daily 
+oral treatment.  
+ 
+Reference ID: 5639413
+
+
+===== PAGE 89 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+88 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+2) Lower ORR in the 1st AUC quartile with a safety margin characterized up to 240 mg QD. 
+ISSUE #2 – Intrinsic Factors: Body weight is a significant covariate on the pharmacokinetics (PK) 
+of zongertinib. No clinically significant differences in zongertinib PK were observed based on 
+age, sex, race, mild renal or mild hepatic impairment. The effects of moderate and severe renal 
+impairment, end-stage renal disease and moderate and severe hepatic impairment on 
+zongertinib PK have not been studied.  
+ISSUE #3 – Extrinsic Factors: 
+• Zongertinib is a substrate for CYP3A, P-gp and BCRP. Clinical DDI studies were conducted 
+with itraconazole (P-gp and strong CYP3A inhibitor) and carbamazepine (strong CYP3A 
+inducer). PBPK modeling was used to predict the effect of moderate CYP3A inducers.   
+o The labeling recommends avoiding concomitant use of strong CYP3A inducers. If 
+concomitant use cannot be avoided, increase HERNEXEOS dose from 120 mg to 
+240 mg for patients with body weight < 90 kg and from 180 mg to 360 mg for 
+patients with body weight ≥ 90 kg given that zongertinib AUC decreased by 63% 
+and Cmax decreased by 41% following concomitant use of a strong CYP3A 
+inducer. 
+o The PBPK model was considered likely to underestimate the effects of the 
+moderate CYP3A inducer, efavirenz, on the PK of zongertinib. A PMC will be 
+issued to evaluate a moderate CYP3A inducer on the PK of zongertinib. 
+o No clinically significant differences in zongertinib PK were observed when used 
+concomitantly with strong CYP3A, P-gp, BCRP inhibitors. 
+• In vitro, zongertinib inhibits and induces CYP3A and CYP2C8. Clinical DDI studies showed 
+no clinically significant differences in the PK of a CYP3A and CYP2C8 substrates when 
+used concomitantly with HERNEXEOS. 
+• In vitro, zongertinib inhibits BCRP, P-gp, OATP1B1/B3, and MATE1/2-K.  
+o The labeling recommends avoiding concomitant use with certain BCRP 
+substrates and to consider alternative therapies. A clinical DDI study showed that 
+rosuvastatin (BCRP substrate) Cmax increased by 3-fold and AUC by 2.3-fold 
+following concomitant use of HERNEXEOS.  
+o Clinical DDI studies were conducted and showed no clinically significant 
+differences in the PK of dabigatran (P-gp substrate), endogenous biomarker 
+CPI/III (OATP1B1/B3 substrate) and metformin (MATE1/2-K substrate).  
+• Zongertinib displays pH-dependent solubility. A clinical DDI study showed no clinically 
+significant differences in zongertinib PK when used concomitantly with rabeprazole 
+(proton pump inhibitor). 
+ 
+The Office of Clinical Pharmacology has reviewed the information contained in NDA 219042. 
+This NDA is approvable from a clinical pharmacology perspective. The key review issues with 
+Reference ID: 5639413
+
+
+===== PAGE 92 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+91 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+BCRP substrate approved product labeling. 
+For other BCRP substrates, monitor for 
+increased adverse reactions and adjust the 
+dosages of those substrates as clinically 
+appropriate. 
+Labeling 
+Labeling language was reviewed and updated 
+according to the guidance of clinical pharmacology 
+section of labeling for human prescription drug and 
+biological products – content and format (published 
+December 2016). 
+The Applicant and FDA have reached an agreement 
+on the FDA and Applicant proposed revisions to the 
+labeling. 
+Bridge between the to-be-marketed 
+and clinical trial formulations 
+The Applicant conducted relative bioavailability and 
+bioequivalence (BE) studies (1479-0003 and 1479-
+0019) to bridge between the to-be-marketed tablets 
+formulation and the clinical tablets formulation. 
+PMR 
+Conduct a clinical drug-drug interaction study to 
+evaluate the effects of a moderate CYP3A inducer on 
+the pharmacokinetics of zongertinib. Collect 
+pharmacokinetic information for zongertinib and 
+utilize this information to determine the appropriate 
+dose of zongertinib when co-administered with 
+CYP3A inducers. 
+ 
+6.2 Summary of Clinical Pharmacology Assessment 
+6.2.1 Pharmacology and Clinical Pharmacokinetics 
+Data: 
+Refer to Section 6.3.1 for general pharmacology and pharmacokinetic characteristics.  
+ 
+The Applicant’s Position: 
+• The clinical pharmacology of zongertinib has been characterized in 8 healthy volunteer trials 
+and in the Beamion LUNG-1 trial in cancer patients (all trials are included in the NDA 
+submission) 
+• Data in the dossier contain pharmacokinetic properties following single and multiple dose in 
+healthy subjects and in cancer patients 
+Reference ID: 5639413
+
+
+===== PAGE 93 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+92 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+• Human ADME properties of zongertinib were described by integrating results from in vitro 
+and in vivo clinical pharmacology studies 
+• Zongertinib has a high absolute bioavailability of 76.2%. Considering the blood clearance and 
+the hepatic first pass extraction ratio of ~10%, the fraction of dose absorbed was 84.4% for 
+the tablet and 89.7% for the oral solution, indicating high permeability. Hence, zongertinib is 
+considered as a compound showing BCS class II-like behavior 
+• Effects of other drugs on zongertinib: zongertinib is a victim of strong CYP3A4 inducers like 
+rifampicin and carbamazepine and co-administration must be avoided. Zongertinib can be 
+administered with moderate or weak CYP3A4 inducers. Strong CYP3A4, P-gp and BCRP 
+inhibitors and gastric-acid reducing agents had no clinically relevant effect on zongertinib 
+exposure 
+• Effects of zongertinib on other medicinal products: zongertinib inhibits the intestinal BCRP 
+transporter and may increase the exposure of sensitive BCRP substrates. Co-administration 
+with sensitive BCRP substrates is not recommended  
+• Zongertinib did not impact the exposure of substrates of CYP3A4, CYP2C8, P-gp, 
+OATP1B1/B3, OAT1, OAT3, OCT2, MATE-1, MATE-2K to a clinically relevant extent at the 120 
+mg QD dose 
+• The QT evaluation in Beamion LUNG-1 supports the conclusion that zongertinib caused 
+neither QT prolongation exceeding the threshold of regulatory concern nor a relevant heart 
+rate effect for the investigated exposures at doses up to 360 mg QD (three times the 
+recommended dose of 120 mg QD) 
+• In addition, exposure-efficacy and exposure-safety analysis conducted for zongertinib 
+supported the use of the recommended dose of 120 mg once daily in patients with 
+pretreated NSCLC, as exposure levels associated with 120 mg provided comparable efficacy 
+as those associated with 240 mg QD, while providing a more tolerable safety profile in terms 
+of mild and moderate safety events 
+ 
+The FDA’s Assessment: 
+FDA generally agrees with the Applicant’s position on the PK characteristics of zongertinib 
+except the prediction of the effect of a moderate CYP3A inducer on the exposure of 
+zongertinib. There was a significant effect of a strong CYP3A inducer on the exposure of 
+zongertinib from study 1479-0011 (zongertinib AUC decreased by 63% and Cmax decreased by 
+41% following concomitant use of carbamazepine 600 mg once daily for 7 days). Therefore, the 
+Applicant developed a PBPK model to evaluate the effect of a moderate CYP3A inducer, 
+efavirenz, on the exposure of zongertinib. FDA considered that the PBPK model is likely 
+underestimate the effects of the moderate CYP3A inducer, efavirenz, on the PK of zongertinib 
+due to several factors: (1) Efavirenz and carbamazepine induce similar metabolic pathways and 
+transporters. However, the carbamazepine model failed to accurately reproduce 
+carbamazepine induced changes in zongertinib, indicating the involvement of pathways in 
+addition to CYP3A. (2) There is uncertainty regarding the contributions of individual uridine 
+Reference ID: 5639413
+
+
+===== PAGE 100 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+99 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+1) Based on the PopPK analysis, body weight is the covariate with the greatest effect on 
+exposure. Patients weighing 110 kg had an approximate 29% lower AUCss compared to 
+those weighing 70 kg. 
+FDA Figure 3: Forest Plots Illustrating the Relative Effects of Significant Covariates in the Final 
+Zongertinib PK Model on AUC0-24,ss for 120 mg QD 
+ 
+Source: Applicant’s popPK analysis report, Figure 25 
+ 
+2) Lower ORR in the 1st AUC quartile for patients treated with 120 mg versus patients with 
+higher exposure at the 120 mg and 240 mg dose levels in Cohort 1 in Beam LUNG-1.  
+This may suggest that some patients may not achieve sufficient drug concentrations 
+required for a clinical response.  Specifically, patients within the 1st AUC quartile at the 
+120 mg QD dosage had lower ORR versus all higher AUC quartiles at the 120 mg and 240 
+mg dose levels.  
+FDA Figure 4: Observed OR Presented by Zongertinib AUC0-24,ss Quartiles, for the Patients 
+Treated With 120 mg QD Zongertinib in Cohort 1 Beam LUNG-1 
+ 
+Source: Applicant’s response to IR, SDN24 
+Reference ID: 5639413
+
+
+===== PAGE 104 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+103 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+The FDA’s Assessment: 
+A PMC will be issued to evaluate the effect of a moderate CYP3A inducer on the PK of 
+zongertinib. 
+• Conduct a clinical drug-drug interaction study to evaluate the effects of a moderate 
+CYP3A inducer on the pharmacokinetics of zongertinib. Collect pharmacokinetic 
+information for zongertinib and utilize this information to determine the appropriate 
+dose of zongertinib when co-administered with CYP3A inducers. 
+ 
+6.3 Comprehensive Clinical Pharmacology Review 
+6.3.1 General Pharmacology and Pharmacokinetic Characteristics 
+Data: 
+The clinical pharmacokinetics of zongertinib was characterized by integrating results from in 
+vitro and in vivo clinical pharmacology studies in healthy volunteers (mass balance, absolute 
+bioavailability, food effect, effect of drugs elevating gastric pH, DDI as victim, DDI as 
+perpetrator) and in cancer patients. Results are described below.  
+ 
+Overview of Biopharmaceutics 
+Zongertinib substance is a yellow to dark yellow or orange 
+ solid. The free 
+base has a molecular weight of 535.60 g/mol. Zongertinib is a highly lipophilic compound. It 
+shows a pH dependent solubility with increased solubility at acidic conditions. Zongertinib is 
+slightly hygroscopic and stable in the solid state also under temperature, humidity, and 
+photostability stress conditions. In solution, under acidic stress conditions, the compound 
+undergoes hydrolytic degradation. In cellular assays, zongertinib exhibits moderate intrinsic 
+permeability. The absolute bioavailability of 76.2% supports moderate to high permeability of 
+zongertinib in humans. Considering the blood clearance and the hepatic first pass extraction 
+ratio of ~10%, the fraction of dose absorbed was 84.4% for the tablet and 89.7% for the oral 
+solution, indicating high permeability. Hence, zongertinib is considered as a compound showing 
+BCS class II-like behavior. 
+ 
+During the clinical development three zongertinib formulations were investigated. The 
+commercial form is an immediate-release film-coated tablet 
+ 
+-iCF). All patients in the Phase Ib part of Beamion LUNG-1 have received
+ iCF tablets. 
+Bioequivalence of the
+iCF tablets manufactured by two different companies 
+ and 
+Hovione) has been shown. For details regarding the different formulations used in clinical trials, 
+refer to the Summary of Biopharmaceutics [c43193608]. 
+ 
+Zongertinib shows an approximately dose-proportional exposure in patients [c43193627, 
+Section 3.2]. In line with this, there is no difference in dose normalized bioavailability of the 
+Reference ID: 5639413
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 105 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+104 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+iCF tablets in healthy volunteers used at two tablet strengths (15 mg and 60 mg) and at 
+dose levels from 15 to 240 mg. 
+ 
+Zongertinib 
+iCF formulation at the dose level of 240 mg QD zongertinib showed a slightly 
+positive food effect with an increase in AUC and Cmax by approximately 26%.  Therefore, 
+zongertinib can be taken with or without food, as convenient for the patient. For details, refer 
+to the Summary of Biopharmaceutics [c43193608, Section 3.2]. 
+ 
+PK in healthy volunteers 
+Absorption and distribution: Zongertinib is rapidly absorbed with a median tmax of 2 h and a 
+high absolute bioavailability of 76.2%. Zongertinib solubility is pH-dependent but 
+coadministration of the proton pump inhibitor rabeprazole with zongertinib, given as 
+ 
+formulation, had no clinically relevant effect on zongertinib bioavailability. The in vitro protein 
+binding of zongertinib is high (>99%), and human serum albumin was the main binding protein. 
+Zongertinib covalently binds to proteins. Zongertinib has a blood-to-plasma ratio of 0.7 and 
+follows multi-phasic disposition kinetics in humans. It has a steady state volume of distribution 
+of 138 L [c43193627, Section 1.1.2]. 
+ 
+Metabolism and elimination: Zongertinib is eliminated predominantly via metabolism. Three 
+metabolic pathways play a role for zongertinib metabolism: Oxidation (principally via 
+CYP3A4/5), glucuronidation (UGTs 1A4, 1A1, 1A3, and 2B17), and glutathione conjugation 
+(including its breakdown metabolites) [c43193627, Section 1.1.3].  
+ 
+Metabolite profiling and structure identification were investigated in plasma, urine, and feces 
+following a single oral dose of 60 mg [14C]zongertinib to male healthy volunteers (Trial 1479-
+0006) and a total of 14 metabolites were identified across the matrices. Unchanged zongertinib 
+represented the majority (75%) of total radioactivity in plasma (AUC0-168h). The two most 
+abundant circulating metabolites were M551(1) (mono-oxidation) and M656(1) (cysteine 
+conjugate). The plasma exposure of each individual metabolite represents <10% of total drug-
+related material (AUC0-168h). Hence, none of the identified human metabolites are major 
+metabolites, and therefore zongertinib metabolites are not relevant with respect to MIST-
+related safety considerations or potential contribution to drug-drug interactions [c43193627, 
+Section 1.1.3]. 
+ 
+Zongertinib showed a plasma clearance of 106 mL/min after single intravenous infusion 
+indicating that zongertinib is a low clearance drug. The apparent terminal half-life of 
+[14C]zongertinib in healthy volunteers was 42.7 h after i.v. administration of radioactive 
+zongertinib microtracer in the absolute bioavailability investigation.  
+ 
+Reference ID: 5639413
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 106 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+105 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+After oral administration of a single 60 mg dose of radiolabelled zongertinib approximately 94% 
+of the radioactive dose was recovered within 11 days after dosing, with 93% recovered in feces 
+(31% unchanged) and 1.3% recovered in urine (0.2% unchanged). The renal clearance of 
+zongertinib was <0.25 mL/min, which is negligible comparing to 106 mL/min systemic clearance 
+[c43193627, Section 1.1.4]. Therefore, renal excretion is not considered to be a relevant 
+elimination pathway for zongertinib. 
+ 
+Clinical Pharmacokinetics in cancer patients: Noncompartmental PK (NCA) as well as PopPK 
+analyses were performed in patients with advanced solid tumors (Phase Ia of Beamion LUNG-1) 
+and NSCLC patients (Phase Ib of Beamion LUNG-1), all harboring HER2 mutations. Patients in 
+Beamion LUNG-1 showed a similar PK profile and exposure compared to healthy volunteers. 
+There was no significant difference of the PK profile between patients with NSCLC and patients 
+with other advanced solid tumors [c43193627, Section 3.2]. 
+ 
+Plasma exposure of zongertinib increases approximately dose-proportionally in the range of 15 
+mg to 150 mg BID and 60 mg to 360 mg QD at steady state in patients [M2.7.2, Section 3.2] and 
+after single doses in the range of 15 mg - 240 mg in healthy volunteers [M2.7.1, section 3.1.2].  
+ 
+Zongertinib accumulates after multiple oral QD dosing with an accumulation ratio of 1.31 for 
+Cmax and 1.47 for AUC. The effective half-life of zongertinib derived from the PopPK model is 
+11.7 h which supports the attainment of steady-state after approximately 2.5 days.  
+ 
+Inter-individual variability in patients on 120 mg QD appeared to be slightly higher compared to 
+healthy volunteers based on gCV values of 43.2% for AUC0-4,ss and 41.2% for Cmax,ss in Beamion 
+LUNG-1. Intra-individual variability in patients was 28.6% based on Cpre,ss,norm at 120 mg QD.  
+ 
+No time dependent PK was observed and a comparable plasma exposure was maintained in 
+patients over at least 12 month based on Ctrough concentrations [c43193627, Section 1.1.5]. In 
+line with this, the PopPK analysis indicated no significant deviation from time independent 
+clearance [c44247865].  
+ 
+An overview of the influence of intrinsic and extrinsic factors on PK is provided in Section 
+6.3.2.2.  
+ 
+Effects on the QT interval 
+In Beamion LUNG-1, the effect of zongertinib on QTcF was investigated after the first dose and 
+at steady state across the entire dose range of 15 mg BID to 360 mg QD. The maximum 
+predicted mean value from a random coefficient model for the QTcF change from baseline and 
+the maximum upper limit of the 2-sided 90% CI was <10 msec (i.e. the threshold of regulatory 
+concern according to ICH E14) for all dose groups and at the highest gMean Cmax value 
+Reference ID: 5639413
+
+
+===== PAGE 107 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+106 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+corresponding to the 360 mg QD dose group. For heart rate (HR), the predicted mean value for 
+the HR change from baseline was 4.5 beats/min at the 360 mg QD dose. These findings support 
+the conclusion that zongertinib caused neither QT prolongation exceeding the threshold of 
+regulatory concern nor a relevant heart rate effect for the investigated exposures at doses up 
+to 360 mg QD (3x the recommended dose of 120 mg QD) [c43193627].  
+ 
+Effects of zongertinib on other medicinal products 
+Based on in vitro data and the clinical plasma exposure to 120 mg zongertinib (Cmax,ss 3,2 µM, 
+refer to IB version 6, [c32836122]) several potential drug drug interaction liabilities with 
+zongertinib as a perpetrator were identified [c43193627, Section 1.1.8.2]. 
+ 
+Effects of zongertinib on CYP substrates 
+A dedicated healthy volunteer trial (1479-0014) was performed to investigate the effect of 
+multiple oral doses of 120 mg zongertinib as a perpetrator on the exposure of midazolam 
+(sensitive substrate of CYP3A4), repaglinide (sensitive substrate of CYP2C8), and of omeprazole 
+(sensitive substrate of CYP2C19). Data are summarized below and in [206893_2688280]. 
+ 
+Effect of zongertinib on midazolam (CYP3A4 substrate)  
+Coadministration of multiple once daily doses of 120 mg zongertinib with the sensitive CYP3A4 
+substrate midazolam resulted in a slight increase in midazolam Cmax by 17% (90% CI: 8%, 27%) 
+and AUC by 6% (90% CI: -5%, 17%). Overall, the results did not indicate a clinically relevant 
+effect of zongertinib on midazolam exposure. Therefore, zongertinib is not expected to alter 
+the exposure of drugs that are CYP3A4 substrates to a clinically relevant extent.  
+ 
+Effect of zongertinib on repaglinide (CYP2C8 substrate) 
+Coadministration of multiple once daily doses of 120 mg zongertinib with the sensitive CYP2C8 
+substrate repaglinide increased repaglinide Cmax by 44% (90% CI: 24%, 69%) and AUC by 30% 
+(90% CI: 10%, 53%). Overall, the results of zongertinib coadministration on repaglinide exposure 
+indicated only weak inhibition of CYP2C8. Therefore, zongertinib is not expected to alter the 
+exposure of drugs that are CYP2C8 substrates to a clinically relevant extent. 
+ 
+Effect of zongertinib on omeprazole (CYP2C19 substrate) 
+In vitro studies were did not show a concentration-dependent increases (>2-fold) in mRNA 
+expression or enzyme activity of CYP2C19 [206893_10915446]. Together with the in vitro 
+inhibition data (Ki,u of 0.5 µM for CYP2C19) and a total Cmax,ss after a daily dose of 120 mg QD of 
+3.21 µM, it is considered unlikely that zongertinib would cause clinically relevant interactions 
+with drugs that are CYP2C19 substrates. Omeprazole results from 1479-0014 could not be 
+interpreted in terms of zongertinib perpetrator potential on CYP2C19 due to high omeprazole 
+absorption variability between subjects and periods which occurred independent from 
+Reference ID: 5639413
+
+
+===== PAGE 108 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+107 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+zongertinib administration. Taken together, based on in vitro studies an interaction of 
+zongertinib with CYP2C19 in vivo is unlikely.  
+ 
+Effects of zongertinib on transporter substrates 
+A second healthy volunteer trial (1479-0015) investigated the impact of 120 mg zongertinib on 
+the following transporter probe substrates: single dose zongertinib on dabigatran etexilate (P-
+gp) or multiple doses of zongertinib on rosuvastatin (OATP1B1, OATP1B3, and BCRP), 
+metformin (MATE1, MATE2-K, and OCT2), and furosemide (OAT1 and OAT3). Results are 
+summarized below and in 206893_3075312. 
+ 
+Effect of zongertinib on dabigatran etexilate (P-gp substrates) 
+Coadministration of a single dose of 120 mg zongertinib with the P-gp substrate dabigatran 
+etexilate (trial 1479-0015) resulted in a mild increase in dabigatran plasma Cmax by 24% (90% CI: 
+-4%, 60%) and AUC by 34% (90% CI: 6%, 70%). Overall, the results of zongertinib 
+coadministration on dabigatran exposure indicate a mild inhibition effect on intestinal P-gp. 
+Based on this result, zongertinib is not expected to alter the bioavailability of co-administered 
+drugs whose absorption is known to be dependent on P-gp to a clinically relevant extent. 
+ 
+Effect of zongertinib on furosemide (OAT1/OAT3 substrate and a substrate of BCRP) 
+Coadministration of multiple once daily doses of 120 mg zongertinib with the OAT1 and OAT3 
+substrate furosemide (trial 1479-0015) resulted in an increase in furosemide Cmax by 50% (90% 
+CI: 16%, 93%) and AUC by 38% (90% CI: 20%, 58%). Renal clearance of furosemide (CLR,0-24) 
+decreased slightly by 7% and fe0-24 increased by approximately 40% in the test compared to the 
+reference period. The negligible effect of zongertinib on renal clearance of furosemide indicates 
+no relevant inhibition of OAT1 or OAT3 transporters in the kidney. However, the increased total 
+exposure together with the increased fe0-24 in the absence of a relevant change of renal 
+clearance of furosemide may indicate inhibition of the intestinal efflux transporter BCRP. 
+Furosemide has recently been identified as a substrate of BCRP [R24-4751], and zongertinib 
+inhibits intestinal BCRP in vitro and in vivo (see rosuvastatin DDI data below). Based on these 
+results, zongertinib is not expected to alter the exposure of drugs that are substrates of OAT1 
+and OAT3 to a clinically relevant extent.  
+ 
+Effect of zongertinib on metformin (OCT2, MATE-1, MATE-2K substrate) 
+Coadministration of multiple once daily doses of 120 mg zongertinib with the OCT2, MATE-1 
+and MATE-2K substrate metformin in trial 1479-0015 resulted in a slight decrease in metformin 
+Cmax by 24% (90% CI: -32%, -16%) and AUC by 17% (90% CI: -24%, -10%).  
+Renal clearance (CLR, 0-24) of metformin was slightly decreased by 8% and the fraction of the 
+dose excreted in urine (fe0-24) decreased by approximately 24%. 
+ 
+Reference ID: 5639413
+
+
+===== PAGE 109 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+108 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+The observation of no relevant change in CLR, 0-24 of metformin indicates that inhibition of renal 
+transporters like OCT2, MATE-1 or MATE-2K is unlikely. The slight decrease in Cmax and AUC of 
+metformin together with a similarly reduced fraction excreted into urine in the presence of 
+zongertinib can be explained by slightly reduced absorption of metformin. The exact 
+mechanism behind this interaction with metformin is unknown. 
+ 
+Based on these results, zongertinib is not expected to alter the exposure of drugs that are 
+substrates of OCT2, MATE-1 and MATE-2K to a relevant extent.  
+ 
+Effect of zongertinib on rosuvastatin (BCRP, OATP1B1, OATP1B3 substrate) 
+Coadministration of multiple once daily doses of 120 mg zongertinib with the BCRP, OATP1B1 
+and OATP1B3 substrate rosuvastatin in trial 1479-0015 resulted in an increase in rosuvastatin 
+Cmax by 202% (90% CI: 147%, 268%) and AUC by 130% (90% CI: 96%, 171%). Rosuvastatin CLR, 0-24 
+decreased slightly by 7%, while fe0-24 increased by approximately 148%.  
+ 
+As recommended by the ICH M12 DDI guideline, plasma coproporphyrin I (CPI) was assessed as 
+an endogenous biomarker of hepatic OATP1B1/1B3 inhibition. If the AUC-ratio of this 
+biomarker compared to baseline is below an increase of 25% (or 1.25), a clinical DDI via 
+OATP1B1/1B3 inhibition is unlikely. When the probe drug cocktail was coadministered with 
+zongertinib, the adjusted gMean of coproporphyrin I was 6% lower for Cmax and 14% lower for 
+AUC0-tz. The CPI data indicate that a clinically relevant inhibition of the liver uptake transporters 
+OATP1B1/1B3 by zongertinib is unlikely.  
+ 
+Together, these results indicate an increase in absorption of rosuvastatin or bioavailability 
+when co-administered with zongertinib, and indicate an inhibition of the intestinal efflux 
+transporter BCRP by zongertinib. Therefore, zongertinib is expected to increase the exposure of 
+sensitive BCRP substrates to a clinically relevant extent, co-administration is not recommended. 
+No dose adaptation is needed for comedications that are substrates of OATP1B1 or OATP1B3.  
+ 
+Applicant - Table 18: Summary of Effects of 120 mg Zongertinib Once Daily on Other Drugs or 
+Endogenous Biomarkers 
+Concomitant drug (dose) or endogenous biomarker 
+Ratio (90% CI) of exposure of concomitant 
+drug with/without zongertinib 
+Ratio of renal 
+clearance  
+Cmax 
+AUC 
+RCLR,0-24 (gCV%) 
+CYP3A4 substrate midazolam (1 mg) 
+1.17 (1.08, 1.27) 
+1.06 (0.95, 1.17) 
+NA 
+CYP2C8 substrate repaglinide (0.5 mg) 
+1.44 (1.24, 1.69) 
+1.30 (1.10, 1.53) 
+NA 
+P-gp substrate dabigatran etexilate (150 mg)1  
+1.24 (0.96, 1.60) 
+1.34 (1.06, 1.70) 
+NA 
+OAT1/OAT3 substrate2 furosemide (1 mg) 
+1.50 (1.16, 1.93) 
+1.38 (1.20, 1.58) 
+0.93 (15.4) 
+OCT2/ MATE-1/2-K substrate3 metformin (10 mg) 
+0.76 (0.68, 0.84) 
+0.83 (0.76, 0.90) 
+0.92 (19.9) 
+BCRP/OATP1B1/1B3 substrate4 rosuvastatin (10 mg) 
+3.02 (2.47, 3.68) 
+2.30 (1.96, 2.71) 
+0.93 (16.2) 
+Reference ID: 5639413
+
+
+===== PAGE 110 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+109 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+Coproporphyrin I 
+0.94 (0.89, 0.98) 
+0.86 (0.82, 0.91) 
+NA 
+1 Dabigatran etexilate was administered following a single dose of zongertinib 
+2 Effect of zongertinib on furosemide is likely driven by BCRP inhibition and not OAT1/OAT3 inhibition 
+3 Effect of zongertinib on metformin is not driven by inhibition of OCT2/ MATE-1/2K 
+4 Effect of zongertinib on rosuvastatin is likely driven by BCRP inhibition and not by OATP1B1/1B3 inhibition 
+ 
+The Applicant’s Position: 
+Refer to 6.2.1. 
+ 
+FDA’s Assessment: 
+Pharmacology 
+Mechanism of Action  
+Zongertinib is a kinase inhibitor of human epidermal growth 
+factor receptor 2 (HER2). In vitro, zongertinib inhibited 
+phosphorylation of HER2, downstream signaling of HER2 
+(phosphorylation of ERK), and proliferation of lung cancer cells 
+harboring HER2 tyrosine kinase domain activating mutations. 
+Administration, formulation 
+type, strengths 
+Zongertinib is formulated as tablets at strength of 60 mg. The 
+recommended dosing regimen is 120 mg for patients with 
+body weight < 90 kg and 180 mg for patients with body weight 
+≥ 90 kg administered orally QD with or without food. 
+ 
+QT Prolongation 
+The relationship between plasma concentrations of 
+zongertinib and QTc interval changes was evaluated using data 
+from Beamion LUNG-1.  
+At 2.6 times the mean maximal concentration provided by the 
+recommended dose of HERNEXEOS 120 mg, a mean increase in 
+the QTc interval > 20 ms was not observed. 
+General Information 
+Bioanalysis 
+Bioanalytical information for zongertinib is provided in Section 
+19.4. 
+ 
+Dose range tested in clinical 
+trials 
+20 mg to 320 mg for zongertinib 
+Dose proportionality 
+Zongertinib showed dose proportional increase in AUC and 
+Cmax across 60-320 mg dose range. 
+Accumulation 
+Approximately 1.5-fold accumulation for AUC was observed at 
+steady state at the approved recommended dosage. 
+Absorption 
+Zongertinib median (min, max) time to maximum plasma 
+concentration (Tmax) is approximately 2 hours (min, max: 2, 6 
+hours). Zongertinib absolute oral bioavailability is 76%. 
+Reference ID: 5639413
+
+
+===== PAGE 111 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+110 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+No clinically significant differences in zongertinib Cmax and 
+AUC were observed following administration of a single 240 
+mg dose (2 times the approved recommended dose) with a 
+high-fat meal (approximately 1,000 calories, approximately 
+50% fat). 
+Distribution 
+Zongertinib plasma protein binding is > 99%. The apparent 
+(oral) volume of distribution is 118 L (29%). 
+Metabolism 
+Based on in vitro metabolite profiling, CYP-mediated oxidation 
+pathways represent 48% to 62% (mainly CYP3A4 and CYP3A5), 
+glucuronidation 13% to 25% (mainly UGT1A4), and glutathione 
+conjugation 13% to 26% of total hepatic metabolism. 
+Unchanged zongertinib represented the majority (75%) of total 
+radioactivity in plasma. 
+Elimination 
+Zongertinib effective half-life is 12 hours (21%) with an 
+apparent (oral) clearance of 115 mL/min (31%). 
+Excretion 
+After a single oral dose of radiolabeled zongertinib 60 mg to 
+healthy participants, approximately 93% of the dose was 
+recovered in feces (31% unchanged) and 1.3% in urine (0.2% 
+unchanged). 
+DDI potentials 
+Effect of other drugs on zongertinib  
+• Effect of CYP3A Inducers on Lazertinib: Zongertinib AUC 
+decreased by 63% and Cmax decreased by 41% 
+following concomitant use of carbamazepine (strong 
+CYP3A inducer) 600 mg once daily for 7 days. The effect 
+of concomitant use of moderate CYP3A inducers on 
+zongertinib Cmax and AUC are unknown. 
+• No clinically significant differences in zongertinib 
+pharmacokinetics were observed when used 
+concomitantly with strong CYP3A, P-gp, BCRP inhibitors 
+and rabeprazole (proton pump inhibitor). 
+ 
+Effect of zongertinib on other drugs 
+• Rosuvastatin (BCRP substrate) Cmax increased by 3-fold 
+and AUC by 2.3-fold following concomitant use of a 
+single dose of HERNEXEOS 120 mg daily for 12 days. 
+• No clinically significant differences in the PK of the 
+following were observed when used concomitantly 
+with HERNEXEOS: midazolam (a CYP3A substrate), 
+Reference ID: 5639413
+
+
+===== PAGE 115 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation {NME NDA 219042} 
+{Hernexeos (zongertinib) tablets} 
+ 
+ 
+ 
+114 
+Version date: June 2022 (ALL NDA/ BLA reviews) 
+ 
+Disclaimer: In this document, the sections labeled as “Data” and “The Applicant’s Position” are completed by the 
+Applicant and do not necessarily reflect the positions of the FDA.  
+ 
+The FDA’s Assessment: 
+FDA agrees that the clinical pharmacology program provided evidence of effectiveness for the 
+proposed dosage of zongertinib 120 mg QD for patients with body weight < 90 kg and the FDA 
+recommended 180 mg QD dosage for patients with body weight ≥ 90 kg. Refer to Section 
+6.2.2.1 for details. 
+                                                                                                                                                                                                        
+ 
+6.3.2.2 Is the proposed dosing regimen appropriate for the general 
+patient population for which the indication is being sought? 
+Data: 
+Population Pharmacokinetic (PopPK) analysis 
+PopPK analyses were performed based on 396 patients with advanced solid tumors (Phase Ia) 
+and NSCLC patients (Phase Ib) in the Beamion LUNG-1 trial. The final zongertinib PopPK model 
+is a 2-compartment model with sequential zero- and first-order absorption and first-order 
+elimination from the central compartment. Graphical exploration and model diagnostics did not 
+indicate any structural time-dependent effects in zongertinib PK. In addition, no deviation from 
+dose proportional PK was found.  
+ 
+Effect of intrinsic factors on zongertinib PK 
+An effect of body weight at baseline on apparent clearance, apparent central volume of 
+distribution, apparent

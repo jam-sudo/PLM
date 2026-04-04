@@ -1,0 +1,26 @@
+{
+  "nda": "NDA022006",
+  "drug_name": "vigabatrin",
+  "pk_tuples": [
+    {
+      "dose_mg": 1500,
+      "dose_original": "1.5 g bid",
+      "route": "oral",
+      "formulation": "tablet",
+      "food": "not_specified",
+      "population": "patient",
+      "n_subjects": null,
+      "dose_schedule": "multiple_dose",
+      "cmax_ng_ml": 61000,
+      "tmax_h": 1.0,
+      "auc_inf_ng_h_ml": null,
+      "auc_last_ng_h_ml": null,
+      "t_half_h": 7.5,
+      "cl_L_h": 7.0,
+      "vd_L": null,
+      "source_page": 38,
+      "confidence": "high",
+      "notes": "Adult epilepsy patients multiple dose 1.5g bid; Cmax 61 µg/mL converted to ng/mL; Vss=1.1 L/kg"
+    }
+  ]
+}

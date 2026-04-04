@@ -1,0 +1,360 @@
+
+
+===== PAGE 3 =====
+
+2 
+ 
+2.3. 
+General Clinical Pharmacology................................................................................................ 8 
+2.3.1. 
+What are the design features of the clinical pharmacology studies?.......................................... 8 
+2.3.2. 
+Are the active moieties in plasma and clinically relevant tissues appropriately identified and 
+measured to assess pharmacokinetic parameter and exposure response relationships?............... 9 
+2.4. 
+What are the PK characteristics of the drug? ............................................................................ 9 
+2.4.1. 
+What are the PK parameters of dapagliflozin, saxagliptin and metformin in adult subjects? ...... 9 
+2.4.2. 
+What is the effect of food on the proposed drug product? .......................................................11 
+2.4.3. 
+How is the proposed to-be-marketed formulation linked to the clinical formulation? ...............11 
+2.5. 
+Bioanalytical..........................................................................................................................12 
+2.5.1. 
+What are the analytical methods used to measure dapagliflozin, saxagliptin and metformin in 
+plasma? ................................................................................................................................12 
+2.5.2. 
+What are the results for the re-analysis of the incurred samples? .............................................13 
+2.5.3. 
+What are the findings from OSIS inspection?.........................................................................13 
+ 
+List of Tables 
+Table 1: Comparison of PK parameters of dapagliflozin, saxagliptin and metformin following single dose 
+administration in healthy subjects .......................................................................................................... 4 
+Table 2: List of FDA-approved products containing dapagliflozin and saxagliptin ................................... 5 
+Table 3: Listing of clinical pharmacology/clinical studies ....................................................................... 6 
+Table 4: Mean (CV%) PK parameters of dapagliflozin, saxagliptin and metformin in healthy subjects 
+(Study D168AC00001) .......................................................................................................................... 9 
+Table 5: Comparison of PK parameters of dapagliflozin, saxagliptin and metformin under fasted vs fed 
+condition............................................................................................................................................. 11 
+Table 6: Validation summary of bioanalytical method for dapagliflozin ................................................ 12 
+Table 7: Validation summary of bioanalytical method for saxagliptin.................................................... 12 
+Table 8: Validation summary of bioanalytical method for metformin .................................................... 13 
+ 
+List of Figures 
+Figure 1: Chemical structure of dapagliflozin, saxagliptin and metformin HCl ........................................ 7 
+Figure 2: Schematic illustration of the formulation design principle of the Dapa/Saxa/Met XR tablet ....... 7 
+Figure 3: Plasma concentration-time profile for dapagliflozin in healthy subjects (Study D168AC00001)
+ ........................................................................................................................................................... 10 
+Figure 4: Plasma concentration-time profile for saxagliptin in healthy subjects (Study D168AC00001).. 10 
+Figure 5: Plasma concentration-time profile for metformin in healthy subjects (Study D168AC00001) .. 10 
+ 
+1. 
+ EXECUTIVE SUMMARY 
+AstraZeneca (Applicant) has submitted NDA 210874 under the 505(b)(1) pathway seeking marketing 
+approval for dapagliflozin/saxagliptin/metformin hydrochloride (HCL) (Dapa/Saxa/Met) as an adjunct to 
+diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus (T2DM) 
+ 
+  The drug product is an extended 
+release oral tablet with four strengths: Dapa/Saxa/Met 2.5/2.5/1000 mg, 5/2.5/1000 mg, 5/5/1000 mg and 
+10/5/1000 mg.  The proposed starting total daily dose for patients not currently taking dapagliflozin is 
+Dapa/Saxa/Met 5/5/1000 or 2000 mg taken orally, once daily in the morning with food.   
+The clinical pharmacology program included a single Phase 1 comparative pharmacokinetic (PK)/food 
+effect study (D168AC00001) in which the systemic exposure of dapagliflozin, saxagliptin and metformin 
+following administration of single oral dose of the triple combination product – Dapa/Saxa/Met 5/2.5/1000 
+mg – were compared with that from administration of single oral dose of saxagliptin 2.5 mg (ONGLYZA) 
++ dapagliflozin/metformin HCL 5/1000 mg (XIGDUO XR) in healthy subjects under fed condition (Cohort 
+Reference ID: 4410229
+(b) (4)
+
+
+===== PAGE 4 =====
+
+3 
+ 
+1).  Similar comparison was also performed following single oral dose administration of triple combination 
+product – Dapa/Saxa/Met 10/5/1000 mg with that following single oral administration of Saxagliptin 5 mg 
+(ONGLYZA) + dapagliflozin/metformin HCl 10/1000 mg (XIGDUO XR) in healthy subjects (Cohort 2).   
+In addition, the effect of food on the triple combination product was evaluated in each cohort.  This study 
+was conducted to bridge the data generated in the two pivotal Phase 3 studies in T2DM patients (Studies 
+D1683C00005 and CV181169) that used monocomponents of dapagliflozin, saxagliptin and metformin 
+HCl.1  The Applicant requested biowaiver for the other two strengths – Dapa/Saxa/Met 2.5/2.5/1000 mg 
+and 5/5/1000 mg.  The following are the major findings from the current review –  
+1. Following single dose administration of Dapa/Saxa/Met 5/2.5/1000 mg in healthy subjects under 
+fed condition, the mean peak concentration (Cmax) and total systemic exposure (AUCinf) of 
+dapagliflozin were 42.3 ng/mL and 239.9 ng.hr/mL, respectively, of saxagliptin were 10.6 ng/mL 
+and 51.6 ng.hr/mL, respectively, and of metformin were 1098 ng/mL and 10930 ng.hr/mL, 
+respectively (Cohort 1, Study D168AC00001). 
+2. In the same study (Cohort 2), following single dose administration of Dapa/Saxa/Met 10/5/1000 
+mg, the Cmax and AUCinf dapagliflozin were 75.7 ng/mL and 463.6 ng.hr/mL, respectively, of 
+saxagliptin were 20.9 ng/mL and 102.6 ng.hr/mL, respectively, and of metformin were 1057 ng/mL 
+and 10470 ng.hr/mL, respectively. 
+3. The geometric mean ratio (GMR) of Cmax and AUCinf of dapagliflozin, saxagliptin and metformin 
+were, in general, comparable between Dapa/Saxa/Met triple combination products (i.e., 5/2.5/1000 
+mg and 10/5/1000 mg) and their respective reference arms (i.e., single dose administration of 
+ONGLYZA+XIGDUO XR) under fed condition. 
+4. There was no clinically meaningful effect of food on the systemic exposure of dapagliflozin, 
+saxagliptin and metformin from the triple combination product.  Under fed condition, the Cmax and 
+AUCinf of saxagliptin and metformin were comparable to that under fasting condition for both 
+strengths – Dapa/Saxa/Met 5/2.5/1000 mg and 10/5/1000 mg.  While AUCinf of dapagliflozin was 
+comparable, Cmax was reduced by approximately 38% under fed condition.  This reduction in Cmax 
+is consistent with previous findings of dapagliflozin and is not considered clinically meaningful.2 
+ 
+1.1. Recommendations 
+The Office of Clinical Pharmacology/Division of Clinical Pharmacology 2 (OCP/DCP2) has reviewed the 
+clinical pharmacology data submitted under NDA 210874 and finds the data acceptable to support approval. 
+ 
+1.2. Post Marketing Requirement 
+None.  
+ 
+1.3. Summary of Important Clinical Pharmacology Findings 
+The clinical program for Dapa/Saxa/Met triple combination product includes two pivotal Phase 3 
+efficacy/safety studies (D1683C00005 and CV181169) that utilized a dual add-on strategy to evaluate the 
+combination of dapagliflozin and saxagliptin when added to metformin in adults with T2DM who had 
+inadequate glycemic control.  Both the Phase 3 studies were conducted using monoproducts of 
+dapagliflozin, saxagliptin and metformin HCl; refer to the Clinical Review by Dr. Frank Pucino for 
+additional detail.   
+To bridge clinical data generated in the two pivotal Phase 3 studies with the proposed fixed dose triple 
+combination product, the Applicant conducted a Phase 1 comparative pharmacokinetic (PK)/food effect 
+                                              
+1 Studies D1683C00005 and CV181169 were also submitted as an efficacy supplement under NDA 209091 (QTERN). 
+2 Prescribing information of XIGDUO XR (dated 02/22/2019) 
+Reference ID: 4410229
+
+
+===== PAGE 5 =====
+
+4 
+ 
+study (D168AC00001) in which healthy subjects received a single oral dose of Dapa/Saxa/Met 5/2.5/1000 
+mg under fasted and fed condition or saxagliptin 2.5 mg (ONGLYZA) + dapagliflozin/metformin HCL 
+5/1000 mg ((XIGDUO XR) under fed condition in a crossover fashion (Cohort 1).  In Cohort 2, healthy 
+subjects received the highest strength of the triple combination product, Dapa/Saxa/Met 10/5/1000 mg, 
+under fasted and fed condition, or saxagliptin 5 mg (ONGLYZA) + dapagliflozin/metformin HCl 10/1000 
+mg (XIGDUO XR) under fed condition in a crossover fashion.   
+The results from this study demonstrated that the geometric mean ratio (GMR) of Cmax of dapagliflozin 
+following single dose administration of Dapa/Saxa/Met 5/2.5/1000 mg and 10/5/1000 mg to that of the 
+respective reference arm (i.e., single dose administration of ONGLYZA + XIGDUO XR) under fed 
+condition were 1.14 and 0.93, respectively, while that of AUCinf were 1.03 and 0.98, respectively.  The 
+GMR of Cmax of saxagliptin following single dose administration of Dapa/Saxa/Met 5/2.5/1000 mg and 
+10/5/1000 mg to that of the respective reference arm were 1.00 and 0.94, respectively, while that of AUCinf 
+were 1.00 and 1.01, respectively.  The GMR of Cmax of metformin following single dose administration of 
+Dapa/Saxa/Met 5/2.5/1000 mg and 10/5/1000 mg to that of the reference arm were 1.05 and 0.96, 
+respectively, while that of AUCinf were 0.99 and 0.94, respectively.  
+The comparison in PK parameters from this study is summarized in Table 1. 
+Table 1: Comparison of PK parameters of dapagliflozin, saxagliptin and metformin following single 
+dose administration in healthy subjects  
+ 
+PK 
+parameter 
+GMR (90% CI) 
+Dapa/Saxa/Met 5/2.5/1000 vs 
+ONGLYZA 2.5 + XIGDUO 
+XR 5/1000 
+GMR (90% CI) 
+Dapa/Saxa/Met 10/5/1000 vs 
+ONGLYZA 5 + XIGDUO 
+XR 10/1000 
+Dapagliflozin 
+Cmax 
+ 
+1.14 (1.01 – 1.28) 
+ 
+0.93 (0.83 – 1.03) 
+AUCt 
+1.03 (0.94 – 1.12) 
+0.98 (0.90 – 1.07) 
+AUC 
+1.03 (0.94 – 1.12) 
+0.98 (0.90 – 1.07) 
+Saxagliptin 
+Cmax 
+1.00 (0.85 – 1.17)  
+0.94 (0.83 – 1.06) 
+AUCt 
+1.00 (0.88 – 1.15) 
+1.01 (0.91 – 1.11) 
+AUC 
+1.00 (0.88 – 1.14)  
+1.01 (0.91 – 1.11) 
+Metformin 
+Cmax 
+1.05 (0.95 – 1.17) 
+0.96 (0.86 – 1.07) 
+AUCt 
+0.99 (0.88 – 1.10) 
+0.96 (0.86 – 1.06) 
+AUC 
+0.99 (0.88 – 1.12) 
+0.94 (0.84 – 1.06) 
+Source: NDA 210874, Module 2.7; Summary of Biopharmaceutic Studies 
+In general, PK of dapagliflozin, saxagliptin and metformin were comparable between the triple combination 
+and ONGLYZA+XIGDUO XR.  The 90% CI for GMR of Cmax, AUCt and AUCinf of saxagliptin and 
+metformin were within the prespecified bioequivalence margin of 0.8 – 1.25 for both strengths.  The upper 
+bound of 90% CI for GMR of Cmax of dapagliflozin for the lower strength was 1.28, outside of the 
+prespecified bioequivalence margin.  However, the 90% CI for GMR of dapagliflozin AUCt and AUCinf 
+both were within the margin of 0.8 – 1.25.  In addition, for the highest strength product, the GMR of all 
+three PK parameters (i.e., Cmax, AUCt and AUCinf) for dapagliflozin were within 0.8 – 1.25.  Since this 
+deviation is for peak exposures for one of the component of the FDC, not consistently observed for both 
+strengths, and difference being on the higher side with regards to the relative exposure to reference single 
+components, there are no efficacy related concerns due to assurance of total exposure being comparable by 
+the bioequivalence criteria; the observed marginally higher Cmax from the lower strength does not appear to 
+Reference ID: 4410229
+
+
+===== PAGE 10 =====
+
+9 
+ 
+In addition, two pivotal Phase 3 studies were submitted in support of this application, in which efficacy and 
+safety of the triple combination product were evaluated in patients with T2DM.  Refer to the Clinical 
+Review by Dr. Frank Pucino for details on the Phase 3 studies. 
+ 
+2.3.2. Are the active moieties in plasma and clinically relevant tissues appropriately identified and 
+measured to assess pharmacokinetic parameter and exposure response relationships? 
+Dapagliflozin, saxagliptin and metformin concentrations in plasma samples were measured.  Concentration 
+of the active metabolite of saxagliptin – 5-hydroxy saxagliptin – were also quantified. 
+ 
+2.4.  
+What are the PK characteristics of the drug? 
+2.4.1. What are the PK parameters of dapagliflozin, saxagliptin and metformin in adult subjects? 
+Single oral doses of Dapa/Saxa/Met 5/2.5/1000 mg and 10/5/1000 mg were administered to healthy subjects 
+under fasted and fed conditions in Study D168AC00001.  The mean PK parameters are summarized in 
+Table 4 and the plasma concentration-time profiles of dapagliflozin, saxagliptin and metformin are shown 
+in Figure 3, Figure 4 and Figure 5, respectively.  The key pharmacokinetic characteristics of the three 
+components of triple FDC are as follows: 
+• In healthy subjects, Cmax and AUCinf of dapagliflozin were 42.3 ng/mL and 239.9 ng.hr/mL, 
+respectively, for Dapa/Saxa/Met 5/2.5/1000 mg dose and were 75.7 ng/mL and 463 ng.hr/mL, 
+respectively, for Dapa/Saxa/Met 10/5/1000 mg under fed condition.   
+• The Cmax and AUCinf of saxagliptin were 10.6 ng/mL and 51.6 ng.hr/mL, respectively, for 
+Dapa/Saxa/Met 5/2.5/1000 mg dose and were 20.9 ng/mL and 102.6 ng.hr/mL, respectively, for 
+Dapa/Saxa/met 10/5/1000 mg dose.  
+• The Cmax and AUCinf of metformin were 1098 ng/mL and 10930 ng.hr/mL, respectively, for 
+Dapa/Saxa/Met 5/2.5/1000 mg and were 1057 ng/mL and 10470 ng.hr/mL, respectively, for 
+Dapa/Saxa/Met 10/5/1000 mg dose.  The pre-dose concentrations of dapagliflozin, saxagliptin and 
+metformin between the study periods were not quantifiable, suggesting that the washout period of 7 
+– 14 days was adequate and pre-dose concentrations did not contribute to the PK results.  
+ 
+Table 4: Mean (CV%) PK parameters of dapagliflozin, saxagliptin and metformin in healthy 
+subjects (Study D168AC00001) 
+ 
+PK parameter 
+Dapa/Saxa/Met 
+5/2.5/1000 mg 
+Dapa/Saxa/Met 
+10/5/1000 mg 
+Dapagliflozin 
+Cmax (ng/mL) 
+42.3 (40) 
+75.7 (25) 
+AUCt (ng.hr/mL) 
+232.5 (24) 
+452.4 (22) 
+AUC (ng.hr/mL) 
+239.9 (24) 
+463.6 (22) 
+Saxagliptin 
+Cmax (ng/mL) 
+10.6 (37) 
+20.9 (27) 
+AUCt (ng.hr/mL) 
+50.1 (36) 
+100.9 (27) 
+AUC (ng.hr/mL) 
+51.6 (35) 
+102.6 (26) 
+Metformin 
+Cmax (ng/mL) 
+1098 (27) 
+1057 (24) 
+AUCt (ng.hr/mL) 
+10780 (34) 
+10420 (30) 
+AUC (ng.hr/mL) 
+10930 (34) 
+10470 (31) 
+Source: NDA 210874, Module 5.3; D168AC00001 Study report 
+ 
+Reference ID: 4410229
+
+
+===== PAGE 12 =====
+
+11 
+ 
+ONGLYZA + XIGDUO XR, i.e., 90% CI for the GMR of Cmax and AUCinf were within 0.8 – 1.25 for both 
+doses. 
+2.4.2. What is the effect of food on the proposed drug product? 
+The effect of food on the proposed triple combination drug product was evaluated in healthy subjects in 
+Study D168AC10001, in which subjects received a single oral dose of Dapa/Saxa/Met 5/2.5/1000 mg or 
+10/5/1000 mg under fasting and fed condition (light-fat, low-calorie meal).  Since diet and exercise are part 
+of the recommended treatment of T2DM, a standard light meal was employed rather than a high-fat meal 
+in order to replicate the recommended clinical guidelines.  This is consistent with XIGDUO XR application 
+where a light-fat meal was utilized to assess the effect of food on dapagliflozin/metformin HCl XR product. 
+In general, food had no effect on PK of dapagliflozin, saxagliptin and metformin.  The 90% CI for GMR of 
+Cmax and AUCinf for saxagliptin and metformin were within 0.8 – 1.25 (Table 5); comparison of plasma 
+concentration-time profile under fasted and fed condition for dapagliflozin, saxagliptin and metformin are 
+outlined in Figure 3, Figure 4 and Figure 5, respectively.  For dapagliflozin, while the 90% CI for GMR of 
+AUCinf under fed condition were 0.98 and 0.95 for Dapa/Saxa/Met 5/2.5/1000 mg and Dapa/Saxa/Met 
+10/5/1000 mg, respectively, Cmax was reduced by 38% and 39% for the two strengths, respectively.  This 
+reduction in Cmax under fed condition is consistent with previous findings of dapagliflozin and is not 
+considered clinically meaningful. 
+ 
+Table 5: Comparison of PK parameters of dapagliflozin, saxagliptin and metformin under fasted vs 
+fed condition 
+ 
+PK parameter 
+GMR (90%CI) fed 
+vs fasted 
+Dapa/Saxa/Met 
+5/2.5/1000 mg 
+GMR (90%CI) fed 
+vs fasted 
+Dapa/Saxa/Met 
+10/5/1000 mg 
+Dapagliflozin 
+Cmax  
+0.62 (0.55 – 0.70) 
+0.61 (0.55 – 0.68) 
+AUCt 
+0.98 (0.90 – 1.07) 
+0.95 (0.87 – 1.03) 
+AUC  
+0.98 (0.90 – 1.07) 
+0.95 (0.87 – 1.04) 
+Saxagliptin 
+Cmax  
+0.91 (0.77 – 1.06) 
+0.84 (0.75 – 0.95) 
+AUCt 
+1.11 (0.67, 1.26) 
+1.12 (1.02 – 1.23 
+AUC  
+1.10 (0.97 – 1.25) 
+1.12 (1.02 – 1.23) 
+Metformin 
+Cmax  
+1.05 (0.95 – 1.17) 
+0.96 (0.86 – 1.07) 
+AUCt 
+0.99 (0.88 – 1.10) 
+0.96 (0.86 – 1.06) 
+AUC  
+0.99 (0.88 – 1.12) 
+0.94 (0.84 – 1.06) 
+Source: NDA 210874, Module 2.7; Summary of Biopharmaceutics Review 
+ 
+2.4.3. 
+How is the proposed to-be-marketed formulation linked to the clinical formulation? 
+The batches used in Study D168AC10001 were identical to the proposed commercial formulations except 
+for the color in the outer film-coat.  For Dapa/Saxa/Met 5/2.5/1000 mg and 10/5/1000 mg, light pink and 
+yellow color tablets were used, respectively, for the BE studies.  The proposed commercial drug products 
+will have 
+ for Dapa/Saxa/Met 5/2.5/1000 mg and 10/5/1000 mg, respectively.  The 
+Applicant communicated the change in color during a Type C meeting dated 01/15/2018.  The Agency 
+agreed that adequate batch release, dissolution and stability data would support the change of color in the 
+to-be-marketed product.  
+ 
+Reference ID: 4410229
+(b) (4)

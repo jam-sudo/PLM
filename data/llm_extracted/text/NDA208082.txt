@@ -1,0 +1,1445 @@
+
+
+===== PAGE 7 =====
+
+been previously quantified from samples throughout the same 216-hour post-dose 
+time course (Study Report SD-809-C-12, Listing 16.2.6.2).
+Reviewer’s Comments: According to SD-809-C-12 study report (see below), 
+elimination half-life for the total plasma radioactivity could only be calculated in 1 
+subject. Therefore, according to this report, the AUCinf for total plasma radioactivity 
+could not be adequately estimated for 5 out of the 6 subjects. 
+From Original NDA 208082 Submission, Clinical Study Report SD-809-C-12 Amendment 
+01 (
+113049) Version 2.0 (06 March 2015), Page 66 of 287: 
+Pharmacokinetic parameter estimates for whole blood and plasma total radioactivity are 
+presented in Data Listings 16.2.6.1 and 16.2.6.2, and summarized in Tables 14.2.8.1 and 
+14.2.8.2, respectively. Following oral administration of 25 mg [14C]-SD-809, 
+concentrations of total radioactivity in plasma were detected at 0.67 h (i.e., 40 min) after 
+dosing in all subjects. Maximum concentrations occurred between 0.67 and 6.00 h post-
+dose in individual subjects; thereafter, concentrations declined in a biphasic manner. 
+Maximal concentrations for each subject ranged from 90.7 to 148.5 ng equivalents/mL in 
+plasma. Radioactivity in plasma was less than 2 x background for the majority of subjects 
+by 96 h and was below the limit of detection by 144 h post-dose for all subjects. An 
+elimination half-life could only be calculated in 1 subject and is therefore not included in 
+Table 7. The geometric mean MRT for total radioactivity was 22.9 h.
+ 
+6
+Reference ID: 4060256
+(b) (4)
+
+
+===== PAGE 9 =====
+
+However, according to the sponsor (Table 1 below), elimination rate constant can be 
+reliably estimated for 4 out of 6 subjects in the mass-balance study. 
+Source: NDA 208082, Sequence No. 0024, 1.6.2 Meeting Background Materials (July 22, 
+2016)
+In the Type A Meeting Briefing document, the sponsor had accepted AUCinf for 5 of the 
+6 subjects. One subject was excluded due to AUC%extrap >45%.
+In light of FDA’s comments, the sponsor revisited the criteria for accepting elimination 
+rate constants in the original mass balance study report and believes that r2 > 0.75 and 
+%AUCextrap less than 25% are the most relevant to the current analysis of total drug-
+related material. 
+Upon this re-evaluation, the sponsor considers 4 out of the 6 subjects in the mass-balance 
+study as acceptable, as their r2 for elimination rate constants were greater than 0.75, and 
+AUCextrap values ranged from 8.4% to 16.3% (See Table 1 above). In a single subject 
+(S005; See Table 1 above), the r2 for elimination rate constant was less than 0.75; this 
+AUCinf could be considered not evaluable. 
+The sponsor further argues that, based on AUCinf, assessment of the systemic exposures 
+to M1 and M4 at steady state indicate that, across the dose range (7.5 mg to 22.5 mg 
+BID), M1 corresponds to on average 6.5% (range across 3 doses: 4.5% to 8.8%) and M4 
+8
+Reference ID: 4060256
+
+
+===== PAGE 11 =====
+
+Observed Data
+Extrapolated to Equipotent Dosea
+Metabolite
+AUC0-24b
+Cmax
+AUC0-24
+Cmax
+BID Dose
+SD-809
+22.5 mg
+TBZ
+25 mg
+SD-809
+22.5 mg
+TBZ
+25 mg
+SD-809
+24 mg
+TBZ
+50 mg
+SD-809
+24 mg
+TBZ
+50 mg
+M1
+498
+95
+26.8
+5.74
+531
+190
+28.6
+11.5
+M4
+257
+491
+23.8
+54.3
+274
+981
+25.4
+109
+a Equipotent Dose=Observed AUC/Cmax for M1/M4* (24 mg/22.5 mg for SD-809) or (50 mg/25 mg for TBZ)
+b AUCτ•2=AUC0-24
+Abbreviations: AUC0-24, area under the concentration-time curve from time 0 to 24 hours; AUCτ, area under the 
+concentration-time curve over the dosing interval; BID, twice daily; Cmax, maximum concentration AUC=ng•h/mL, 
+Cmax=ng/mL 
+To compare their exposures at the maximum  recommended daily dose for each treatment, steady-state 
+areas under the concentration-time curve from time 0 to 24 hours post-dose (AUC0-24) were normalized to 
+24 mg BID SD-809 from the 22.5 mg treatment group or 50 mg BID for tetrabenazine. 
+Source: NDA 208082, 2.7.2 Summary of Clinical Pharmacology Studies, Table 16
+The results from the single-dose mass-balance study show the same trend for M1 
+exposures.
+2.4 Results of the Evaluation of M1 and M4 with Respect to Total Drug 
+Related Material (TDRM)
+The systemic exposures to M1 and M4, expressed as a % of TDRM using AUC0-∞ for 
+both metabolites and TDRM, are shown below. (Note: The applicant has included subject 
+S005 in the analysis even though initially considered excluding this subject).
+Applicant’s Analysis Using AUCinf
+SD-809 Individual Exposure (AUC0-∞) Parameters and TDRM for M1 and M4 in 
+Subjects S001 through S006 (Cohort 1)
+AUC0-∞
+( h•ng/mL)
+S001
+S002
+S003
+S004
+S005
+S006
+Mean (SD)
+M1 
+346
+322
+447
+223
+457
+326
+353 (87.4)
+M4 
+185
+158
+294
+194
+213
+243
+214 (48)
+TDRM 
+3750
+3220
+4370
+NCa
+5290
+4450
+4220 (781)
+SD-809: Percentage of TDRM Ratio in Subjects S001 through S006 (Cohort 1) b
+Metabolite
+S001
+S002
+S003
+S004
+S005
+S006
+Mean (SD)
+M1
+9.2
+10.0
+10.2
+NCa
+8.6
+7.3
+9.1 (1.2)
+M4
+4.9
+4.9
+6.7
+NCa
+4.0
+5.5
+5.2 (1.0)
+Data calculated from following equation: AUC0-∞ of M1 or M4/AUC0-∞ of total plasma sample radioactivity
+a  NC = not used for group mean of AUC0-∞ total radioactivity, as %AUCextrap ~45%.
+10
+Reference ID: 4060256
+
+
+===== PAGE 12 =====
+
+b ng equiv were calculated from each plasma sample: ng eq/mL= ((DPM/sample- background dpm)/mL)•% efficiency)) 
+/ specific activity for each individual’s SD-809 dose (dpm/mg). The ng eq/mL, or total radioactivity, represents the 
+TDRM in each sample.
+Abbreviations: AUC0-∞, area under the concentration-time curve from time 0 extrapolated to infinity; DPM, 
+disintegrations per minute; NC, Not calculated; SD, standard deviation; TDRM, total drug-related material
+Reviewer’s Comments: The applicant used the following criteria for calculating the PK 
+parameters for M1 and M4 (Report DP-2016-065, Section 3.4. Pharmacokinetic 
+Analysis):
+For calculating pharmacokinetic parameters, a BLQ value at time 0, at a sampling time 
+before the first quantifiable plasma concentration, or at a sampling time between 2 
+quantifiable concentrations was treated as zero. All other BLQ values were treated as 
+missing.
+However, the same criteria were not applied to calculating the PK parameters for TDRM. 
+For example, for Subject 006, the BLQ value at 96 h was excluded (instead of setting to 
+0).
+Source: Clinical Study Report SD-809-C-12 Amendment 01 
+113049) Version 2.0
+06 March 2015
+The reviewer re-analyzed the PK parameters for M1, M4 and TDRM for all subjects 
+using non-compartmental analysis (NCA); the results of this analysis are presented 
+below. Of note, for subjects 002, 004 and 005, the slope (and therefore AUC0-∞ of 
+TDRM) could not be reliably estimated. An example is shown below. 
+11
+Reference ID: 4060256
+(b) (4)
+
+
+===== PAGE 14 =====
+
+The systemic exposures to M1 and M4, expressed as a % of TDRM using AUC0-t for 
+M1/M4 metabolites and TDRM, are presented below:
+SD-809 Individual Exposure (AUC0-t) Parameters and TDRM for M1 and M4 in 
+Subjects S001 through S006 (Cohort 1)
+AUC0-t
+ (h•ng/mL)
+S001
+S002
+S003
+S004
+S005
+S006
+Mean
+(SD)
+M1 
+339
+319
+440
+217
+448
+319
+347 (86.5)
+M4 
+181
+156
+292
+191
+209
+238
+211 (48.2)
+TDRM 
+3310
+2700
+4000
+1980
+3980
+3760
+3290 (809)
+SD-809: Percentage of TDRM Ratio in Subjects S001 through S006 (Cohort 1) a
+Metabolite
+S001
+S002
+S003
+S004
+S005
+S006
+Mean
+(SD)
+M1
+10.2
+11.8
+11.0
+11.0
+11.3
+8.5
+10.6 (1.2)
+M4
+5.5
+5.8
+7.3
+9.7
+5.3
+6.3
+6.6 (1.7)
+Data calculated from following equation: AUC0-t of M1 or M4/AUC0-t of total plasma sample radioactivity
+a ng equiv were calculated from each plasma sample: ng eq/mL= ((DPM/sample- background dpm)/mL)•% efficiency)) 
+/ specific activity for each individual’s SD-809 dose (dpm/mg). The ng eq/mL, or total radioactivity, represents the 
+TDRM in each sample.
+Abbreviations: AUC0-t, area under the plasma concentration-time curve from time 0 to the time of the last measurable 
+concentration; DPM, disintegrations per minute; NC, Not calculated; SD, standard deviation; TDRM, total drug-related 
+material
+Source: Reviewer’s analysis
+2.5 Discussion of the Results of the Evaluation of M1 and M4 with 
+Respect to TDRM
+The applicant has validated sensitive assays for M1 and M4 and reanalyzed M1 and M4 
+in retained clinical samples of subject treated with SD-809 as requested in the Complete 
+Response Letter (May 27, 2016). 
+The sponsor has re-evaluated the criteria for acceptance of the elimination rate constants 
+(from the original SD-809-C-12 report) and %AUCextrap to determine which subjects were 
+suitable for calculation of the percentage of total drug-related material for M1. The 
+sponsor has used the following criteria (see Table 1): r2 > 0.75 and %AUCextrap less than 
+25% and ratio of the duration of time used to derive the regression constant/half-life >1.
+Reviewer’s Comments: The sponsor did not provide a convincing justification for using 
+these acceptance criteria. In addition, the sponsor acknowledges that the elimination rate 
+constant of TDRM cannot be reliably estimated from 2 of the 6 subjects (using the above 
+criteria). in fact, the elimination rate constant of TDRM could not be reliably estimated 
+for 3 of the 6 subjects. It is arguable whether or not excluding half of the subjects dosed 
+with SD-809 in the mass balance study from the estimation of the metabolite/ TDRM ratio 
+is appropriate.
+13
+Reference ID: 4060256
+
+
+===== PAGE 23 =====
+
+ 
+2 
+ 
+TABLE OF CONTENTS 
+ 
+TABLE OF CONTENTS ............................................................................................................................... 2 
+1.0 
+EXECUTIVE SUMMARY ................................................................................................................ 4 
+1.1 
+RECOMMENDATION ............................................................................................................ 4 
+1.2   OVERALL SUMMARY OF CLINICAL PHARMACOLOGY FINDINGS ............................... 5 
+2.0  
+QUESTION BASED REVIEW ....................................................................................................... 7 
+2.1  
+GENERAL ATTRIBUTES ......................................................................................................... 7 
+2.1.1 
+Drug/Drug Product Information: ................................................................ 7 
+2.1.2 
+Mechanism of action and therapeutic indication: ...................................... 8 
+2.1.3 
+Proposed dosages and route of administration: ......................................... 8 
+2.2 
+ GENERAL CLINICAL PHARMACOLOGY ............................................................................ 8 
+2.2.1 
+What are the clinical studies used to support dosing or claims and what 
+are their design features? .......................................................................................... 8 
+2.2.2 
+What are the clinical endpoints and how are they measured in clinical 
+pharmacology and clinical studies? ........................................................................ 12 
+2.2.3 
+What are the characteristics of exposure/effectiveness relationships? .. 12 
+2.2.4 
+What are the characteristics of exposure-safety relationships? ............. 12 
+2.2.5 
+Are the proposed dosage regimens adequately supported by the clinical 
+trials and consistent with the dose-response relationship? .................................. 13 
+2.2.6 
+Does SD-809 prolong QT or QTc interval? .............................................. 13 
+2.2.7 
+Are the active moieties in the plasma (or other biological fluid) 
+appropriately identified and measured to assess pharmacokinetic parameters?
+ 
+13 
+2.2.9 
+What are the basic pharmacokinetic parameters of SD-809 after single 
+and multiple doses? .................................................................................................. 18 
+2.2.10 Do the pharmacokinetic parameters change with time following chronic 
+dosing? 21 
+2.2.11  What is the variability in the PK data? ................................................... 21 
+2.2.12 How do the pharmacokinetics of the drug in healthy volunteers compare 
+to that in patients? .................................................................................................... 21 
+2.2.13 Based on the pharmacokinetic parameters, what is the degree of 
+linearity or nonlinearity in the dose-concentration relationship? ....................... 22 
+2.3 
+INTRINSIC FACTORS ...........................................................................................................23 
+2.3.1 
+What intrinsic factors influence exposure and/or response and what is 
+the impact of any differences in exposure on the pharmacodynamics? Based on 
+what is known about exposure response relationships and their variability, is 
+dosage adjustment needed for any of the subgroups? .......................................... 23 
+2.4     EXTRINSIC FACTORS ................................................................................................................24 
+2.4.1 
+Is SD-809 a substrate, inhibitor or inducer of CYP enzymes or major 
+transporters?............................................................................................................. 24 
+2.4.2 
+Are there any in-vivo drug-drug interaction studies that indicate the 
+exposure alone and/or exposure response  relationships are different when drugs 
+are coadministered? If yes, is there a need for dosage adjustment? ................... 25 
+2.4.2.1 
+ Influence of other drugs on SD-809: ........................................................................................... 25 
+2.5 
+GENERAL BIOPHARMACEUTICS .....................................................................................28 
+Reference ID: 3914812
+
+
+===== PAGE 26 =====
+
+ 
+5 
+Xenazine with respect to the levels of the active metabolites and on the condition 
+that there are no new significant metabolites that are unique to SD-809. However, 
+the results of the mass balance study (SD-809-C-12) to compare the metabolism 
+of SD-809 to that of TBZ are inconclusive. It is recommended that the sponsor 
+assess the concentration of circulating SD-809-related metabolites for the purpose 
+of determining if there are major metabolites in humans dosed with SD-809. 
+Whether this could be done post approval will be decided by the non-clinical and 
+clinical teams.  
+• The daily dose of SD-809 should not exceed 36 mg in patients taking strong 
+CYP2D6 inhibitors and in patients who are CYP2D6 poor metabolizers. 
+• The activity (VMAT2 and off-target binding) of the metabolites M1 and M4 
+should be evaluated. This could be done post approval as a PMR. 
+ 
+ 
+1.2   OVERALL SUMMARY OF CLINICAL PHARMACOLOGY FINDINGS 
+ 
+Parent compounds SD-809 and TBZ are rapidly and extensively metabolized to α-HTBZ 
+and β-HTBZ, which exhibit considerably greater exposure in plasma than parent. The α-
+HTBZ and β-HTBZ metabolites of SD-809 and TBZ are potent inhibitors of VMAT2 in 
+the central nervous system and contribute to the therapeutic benefit of both molecules for 
+the reduction of chorea in patients with HD. In vitro studies of VMAT2, the primary 
+pharmacological target of SD-809 and TBZ, indicated that the HTBZ metabolites from 
+both compounds inhibited VMAT2 binding. 
+ 
+General Pharmacokinetics (ADME characteristics) of SD-809 
+Absorption: Following oral administration of SD-809, the extent of absorption is >80%. 
+After oral dosing, plasma concentrations of SD-809 are generally below the limit of 
+detection by 3 hours post-dose because of the rapid and extensive hepatic metabolism of 
+SD-809 by carbonyl reductase to the active metabolites α-HTBZ and β-HTBZ. Peak 
+plasma concentrations (Cmax) of α-HTBZ and β-HTBZ are reached within 3 to 4 hours 
+post-dosing. Food had no effect on (α+β)-HTBZ AUC, however Cmax was increased by 
+approximately 50% with food. SD-809 was administered with food in all clinical studies 
+and is recommended to be administered with food; this is acceptable. 
+Distribution: The median volume of distribution (Vc/F) of the α-HTBZ, and the β-HTBZ 
+metabolites are approximately 500 L and 730 L, respectively, in the HD patient 
+population (Population PK report SD-809-CLN-078). 
+Metabolism: SD-809, like TBZ, is rapidly converted by carbonyl reductase to the active 
+metabolites α-HTBZ and β-HTBZ, which are O-dealkylated by CYP450 enzymes, 
+principally CYP2D6 (with minor contribution of CYP1A2), to form 9- and 10-desmethyl-
+α- and β-DHTBZ. Subsequently, they are metabolized to sulfate or glucuronide 
+conjugates.  
+Systemic exposure to total (α+β)-HTBZ following SD-809 administration is 
+approximately 2-fold greater than following TBZ administration. 
+At least two major circulating metabolites, α-HTBZ and monohydroxy tetrabenazine 
+(M4), have been identified after oral administration of SD-809; however the metabolite 
+profiling and identification results of the mass balance study are inconclusive.  
+Reference ID: 3914812
+
+
+===== PAGE 27 =====
+
+ 
+6 
+Elimination: SD-809 is primarily renally eliminated in the form of metabolites (83% of 
+the dose recovered in the urine). The half-life of total (α+β)-HTBZ from SD-809 is 
+approximately 9 to 10 hours. 
+Dose proportionality: A linear dose dependence of Cmax and AUC was observed for the 
+active metabolites α-HTBZ and β-HTBZ following single or multiple doses of SD-809 (6 
+mg to 24 mg and 7.5 mg BID to 22.5 mg BID). 
+Pharmacokinetics in patients:  
+PK of SD-809 was similar between healthy subjects and HD patients based on 
+comparision between phase 1 study data in healthy subjects and exposure data in HD 
+patients derived from popPK analysis. 
+Intrinsic Factors: 
+The pharmacokinetics of SD-809 and its primary metabolites have not been formally 
+studied in specific populations, including pediatric, geriatric subjects and patients with 
+renal or hepatic impairment. There was no apparent effect of gender on the PK of α-
+HTBZ or β-HTBZ. 
+Per the Xenazine label, the exposure to α-HTBZ and β-HTBZ was 30-39% greater in 
+patients with hepatic impairment and the mean TBZ Cmax in hepatically impaired subjects 
+was approximately 7- to 190-fold higher than that in healthy subjects. Similar to 
+Xenazine, SD-809 is contraindicated for patients with hepatic impairment.  
+CYP2D6 poor metabolizers: please refer to Extrinsic Factors below. 
+Extrinsic Factors: 
+SD-809, like TBZ, is rapidly converted in the liver by carbonyl reductase to its active 
+metabolites α-HTBZ and β-HTBZ, which are subsequently metabolized principally by 
+CYP2D6. Strong CYP2D6 inhibitors markedly increase exposure to the active 
+metabolites of TBZ (Xenazine label). The daily dose of Xenazine should not exceed 50 
+mg per day and the maximum single dose of Xenazine should not exceed 25 mg in 
+patients taking strong CYP2D6 inhibitors and in patients who are CYP2D6 poor 
+metabolizers. The sponsor proposes to remove this restriction for SD-809 as the 
+metabolism of deuterated α-HTBZ and β-HTBZ by CYP2D6 is attenuated relative to 
+non-deuterated α-HTBZ and β-HTBZ. However, the results of an in vivo drug-drug 
+interaction (DDI) study conducted with SD-809 still showed a 3-fold increase in total 
+(α+β)-HTBZ exposures when a strong CYP2D6 inhibitor (paroxetine) was co-
+administered with SD-809. Because of this, the SD-809 dose was capped at 18 mg BID 
+(36 mg daily) in patients taking strong CYP2D6 inhibitors in the efficacy and safety 
+trials. Therefore, the daily dose of SD-809 should not exceed 36 mg in patients taking 
+strong CYP2D6 inhibitors and in patients who are CYP2D6 poor metabolizers. 
+In Vitro Studies: In vitro metabolism studies (conducted with TBZ) indicated that there is 
+no meaningful inhibition or induction of CYP-based enzymes by TBZ and its metabolites 
+α-HTBZ and β-HTBZ at concentrations that are relevant for dosing. In addition, the SD-
+809 metabolites with exposures >25% of (α+β)-HTBZ, e.g. 2-methylpropanoic acid 
+metabolite of β-HTBZ (M1) and monohydroxy tetrabenazine (M4), have been evaluated 
+in a panel of in vitro DDI studies; the results indicate that M1/M4 are not expected to 
+cause clinically relevant drug interactions. 
+Biopharmaceutics: 
+The biopharmaceutics team has identified the presence of 
+ excipients 
+in the proposed drug product; in addition, during the clinical development, the sponsor 
+Reference ID: 3914812
+(b) (4)
+
+
+===== PAGE 34 =====
+
+ 
+13
+inhibitor). Therefore, it was concluded by the QT review team that clinically relevant QT 
+prolongation might be expected in some patients at the highest therapeutic dose of 24 mg 
+b.i.d., especially in CYP2D6 poor metabolizers or patients co-administered a strong 
+CYP2D6 inhibitor. Moreover, these findings are in line with those for Xenazine.  
+ 
+2.2.5 Are the proposed dosage regimens adequately supported by the clinical trials 
+and consistent with the dose-response relationship? 
+ 
+Yes. The SD-809 dose range was selected to match the systemic exposure to total (α+β)-
+HTBZ across the range of approved Xenazine dose levels (12.5 mg to 100 mg per day). 
+Based on Phase 1 study results and modeling and simulations, the dose range for SD-809 
+was predicted to be 6 mg to 48 mg per day, e.g. half the milligram dose of TBZ. This 
+dosing is supported by the efficacy results of the pivotal trial SD-809-C-15 (First-HD).  
+In addition, in the second phase 3 trial SD-809-C-16 (ARC-HD), subjects who switched 
+overnight from a stable dosing regimen of Xenazine to a predicted AUC-matched dosing 
+regimen of SD-809 experienced no loss in control of chorea, as assessed by the UHDRS 
+TMC and Total Motor Scores, at Week 1. 
+Dose adjustment was permitted after Week 1; the mean weekly dose was increased from 
+20.3 at Week 1 to 33.5 mg at Week 8, indicating potential improvement in chorea control 
+and/or improvement in tolerability following SD-809 dose adjustment. 
+Please refer to the review by Dr Kenneth Bergmann (Medical Officer, DNP) for more 
+details. 
+ 
+2.2.6 Does SD-809 prolong QT or QTc interval? 
+ 
+A randomized, double-blind, placebo- and positive-controlled, six-period, crossover 
+study was conducted to evaluate the effects of SD-809 and TBZ on the corrected QT 
+(QTc) interval (study SD-809-C-21).  
+However, according to the Interdisciplinary Review Team, the design of this study is not 
+adequate to evaluate the effect of study drugs on the QT interval:  
+There is a clear limitation of this TQT study that the plasma alpha- and beta-HTBZ 
+concentrations achieved with the single dose of 24 mg SD-809 do not cover the expected 
+steady state exposure (Cmax) following the highest therapeutic dose of 24 mg b.i.d. and 
+the worst case clinical scenario (CYP2D6 poor metabolizer or administered a strong 
+CYP2D6 inhibitor). Similar to Xenazine, a statistically significant exposure response 
+relationship between the sum concentration of the active metabolites (α+β) and QT has 
+been observed. Clinically relevant QT prolongation might be expected in some patients at 
+the highest therapeutic dose of 24 mg b.i.d., especially in CYP2D6 poor metabolizers or 
+patients co-administered a strong CYP2D6 inhibitor. 
+ 
+2.2.7 Are the active moieties in the plasma (or other biological fluid) appropriately 
+identified and measured to assess pharmacokinetic parameters? 
+ 
+Yes. Two validated assays were used: ALM.TBZ.1 for measuring the concentrations of 
+TBZ and its α- and β-HTBZ metabolites in human plasma and ALM.SD809.1 for SD-809 
+Reference ID: 3914812
+
+
+===== PAGE 35 =====
+
+ 
+14
+and its deuterated α- and β-HTBZ metabolites with ranges 0.100 ng/mL to 10.0 ng/mL 
+for SD-809 or TBZ and 0.500 ng/mL to 100 ng/mL for HTBZ metabolites. 
+Separate validated assays were used to measure the 9-O- and 10-O-desmethyl metabolites 
+of deuterated and non-deuterated α-HTBZ and β-HTBZ (SD-809-CLN-050 and SD-809-
+CLN-051) with ranges 0.500 to 50.0 ng/mL for O-desmethyl-metabolites. 
+Details pertaining to assay methodology, assay validation, acceptance criteria, and 
+stability are provided in Section 2.6 and the individual study reviews. 
+ 
+2.2.8  
+What are the general ADME characterstics of SD-809? 
+ 
+Absorption: 
+ 
+After oral dosing, plasma concentrations of SD-809 were very low because of the rapid 
+and extensive hepatic metabolism of SD-809 to the active metabolites α-HTBZ and β-
+HTBZ.  
+ 
+ 
+Two initial ER formulations were evaluated (study AUS-SD-809-CTP-07). The Cmax 
+values for total (α+β)-HTBZ were lower for both SD-809 formulations in the fed and 
+Reference ID: 3914812
+
+
+===== PAGE 36 =====
+
+ 
+15
+fasted states at a dose level of 15 mg than for TBZ at a dose level of 25 mg. The Tmax 
+values were significantly later for total (α+β)-HTBZ for both SD-809 formulations in the 
+fed and fasted states compared with TBZ (2.5 to 6 hours compared with 1 hour). The 
+apparent half-life was significantly longer for total (α+β)-HTBZ following SD-809 in the 
+fed and fasted states compared with TBZ. 
+Food had no effect on (α+β)-HTBZ AUC, however Cmax was increased by approximately 
+50% with food for Formulation A.  
+ 
+ 
+ 
+Notes: SD-809 Formulation A was selected for use in the future clinical trials.  
+SD-809 was administered with food in all subsequent clinical studies. 
+ 
+In addition, the results of another phase 1 study (SD-809-C-11) demonstrated that the 
+SD-809 formulation (A) was not sensitive to meal composition: The relative 
+bioavailability of d6-HTBZ metabolites for administration of SD-809 18 mg with a high-
+fat meal compared with administration with a standard meal met the criteria for BE for 
+Cmax, AUC0-t, and AUCinf.  
+ 
+ 
+Following oral administration of SD-809, the extent of absorption is at least 80% based 
+on the results of the mass balance study: After administration of single oral doses of 
+[14C]-SD-809 to six healthy subjects, 74.78 – 86.48 % of the SD-809 dose was excreted 
+in the urine. 
+ 
+Reference ID: 3914812
+
+
+===== PAGE 39 =====
+
+ 
+18
+2. 
+Plasma pooling strategy  
+The plasma pooling for metabolite identification and profiling is questionable. Plasma 
+samples from only 4 time points (2, 2.5, 6, and 12 h) were selected for pooling for 
+metabolite profiling. Although the max concentration of radioactivity in plasma was 
+observed at 3-4 h post- dose, these time points were not included in the pooling. This 
+pooling strategy has the potential to change the percent of total plasma radioactivity for 
+each metabolite and could be responsible for the discrepancy between the original data 
+for Xenazine (NDA 21894) and the SD-809-C-12 study results related to the status of 9-
+O-desmethyl-β-DHTBZ as a MHM. 
+Please refer to the SD-809-C-12 Individual study review for details.  
+OCP Recommendation: It is recommended that the sponsor assess the concentration of 
+circulating SD-809-related metabolites for the purpose of determining if there are major 
+metabolites in humans dosed with SD-809. Whether this could be done post approval will 
+be decided by the non-clinical and clinical teams. 
+In addition, as the sponsor is unable to reference the activity of the metabolites M1 and 
+M4 from past experience with Xenazine, M1 and M4 need to be evaluated in in vitro 
+studies (VMAT2 and off-target binding). This could be done post approval as a PMR. 
+ 
+Elimination: 
+ 
+SD-809 is primarily renally eliminated in the form of metabolites (83% of the dose 
+recovered in the urine, SD-809-C-12 mass balance study report). The half-life of total 
+(α+β)-HTBZ from SD-809 is approximately 9 to 10 hours. 
+The median clearance values (CL/F) of the α-HTBZ, and the β-HTBZ metabolites of 
+SD-809 are approximately 47 L/hour and 70 L/hour, respectively, in the HD patient 
+population without impaired CYPD2D6 function or CYP2D6 inhibition (Population PK 
+report SD-809-CLN-078). 
+ 
+2.2.9 What are the basic pharmacokinetic parameters of SD-809 after single and 
+multiple doses?  
+ 
+Pharmacokinetic parameters of SD-809 and its active metabolites after single and 
+multiple doses are shown in the tables below.  
+ 
+Mean Pharmacokinetic Parameters (%CV) for SD-809 following Single and 
+Multiple Oral Doses of SD-809  
+  
+ 
+Reference ID: 3914812
+
+
+===== PAGE 42 =====
+
+ 
+21
+ 
+ 
+2.2.10 Do the pharmacokinetic parameters change with time following chronic 
+dosing? 
+No.  
+Individual Cmax and systemic exposure (AUC) values at steady-state for total (α+β)-
+HTBZ were generated and normalized to dose levels intended for labeling. Dose-
+normalized PK parameters did not differ comparing Weeks 9 and 12 (SD-809-CLN-078: 
+Population PK Analysis of SD-809 in Subjects with Chorea with HD). 
+ 
+2.2.11  
+What is the variability in the PK data? 
+ 
+The inter-individual variability in CL/F, estimated via population pharmacokinetics, was 
+38.2 % for α-HTBZ CL/F and 67.3% for β-HTBZ. The inter-individual variability of 
+Vd/F was 12.8 % for α-HTBZ and 23.9% for β-HTBZ. 
+ 
+2.2.12 
+How do the pharmacokinetics of the drug in healthy volunteers 
+compare to that in patients? 
+ 
+Population PK models previously constructed for α-HTBZ and β-HTBZ in Phase 1 
+studies were updated with PK concentration-time data collected in a Phase 3 trial (SD-
+809-C-15 [First-HD]). 
+To compare exposure to total (α+β)-HTBZ from SD-809 in the HD subject population 
+with healthy volunteers, PK parameters from Study SD-809-C-15 were estimated for 
+subjects with HD with functional CYP2D6 (defined as not receiving a concomitant 
+CYP2D6 inhibitor and not a PM phenotype). The parameters were normalized to a dose 
+of 15 mg BID and compared to results from healthy subjects administered 15 mg BID in 
+Study AUS-SD-809-CTP-07 Part 2. Peak and systemic exposure (AUC) values in 
+subjects with HD were similar to the exposure in healthy volunteers receiving equivalent 
+doses. 
+ 
+Comparison of Steady-State Exposure of Total (α+β)-HTBZ in Healthy Volunteers 
+and Simulations from Subjects with HD Following 15 mg BID Dosing 
+Reference ID: 3914812
+
+
+===== PAGE 62 =====
+
+ 
+3
+PK and Initial Tolerability Studies 
+ 
+I. 
+AUS-SD-809-CTP-06: A phase 1, randomized, double-blind, single-dose 
+crossover study to compare the pharmacokinetics, safety and tolerability of 
+SD-809 (d6-tetrabenazine) with tetrabenazine in healthy volunteers. 
+ 
+Objectives: 
+• To compare the pharmacokinetics of SD-809 (d6-tetrabenazine) and tetrabenazine and 
+their respective α- and β-dihydrotetrabenazine (HTBZ) metabolites. 
+• To evaluate the safety and tolerability of a single dose of SD-809 and tetrabenazine. 
+ 
+Study Design 
+Randomized, double-blind, two-period, crossover study 
+Study Population* 
+21 healthy subjects, male and female, 18-50 years old * 
+19 subjects included in the PK analysis 
+Treatment Group 
+Each subject received a single oral dose of each treatment (see dosage 
+and admin), separated by a minimum seven day wash-out period.  
+Dosage and Administration 
+Tetrabenazine (TBZ), 25 mg (powder in size 4 gelatin capsules) ** 
+SD-809, 25 mg (powder in size 4 gelatin capsules) 
+Subjects fasted for at least 4 hours pre and 4 hours post dosing 
+PK Sampling: plasma 
+pre-dose, 20 and 40 min, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 12, 16, 24, 36, 48, 60 
+and 72 hours post-dose for each treatment period 
+Analysis 
+LC-MS/MS method for TBZ/SD-809 and HTBZ metabolites 
+Range: 0.100 ng/mL to 10.0 ng/mL for SD-809 or TBZ 
+0.500 ng/mL to 100 ng/mL for HTBZ metabolites 
+PK Assessment 
+Cmax, tmax, AUC0-t, AUC0-inf, t1/2 , Vd/F, CL/F of TBZ and metabolites*** 
+Safety Assessment 
+Adverse events, vital signs, electrocardiograms, clinical chemistry  
+PD Assessment 
+None 
+ 
+* Four subjects had diminished CYP2D6 function, defined as poor metabolizers (PM) in the study, 
+although all of these PMs had at least one functional allele. 
+**TBZ used was synthesized by Auspex  
+*** Tetrabenazine (SD-808) 
+SD-809 (SD-809) 
+α-HTBZ (SD-946) 
+β-HTBZ (SD-947) 
+d6-α-HTBZ (SD-948) 
+d6-β-HTBZ (SD-949) 
+ 
+Bioanalytical Assays: 
+Two validated assays were used: ALM.TBZ.1 for measuring the concentrations of TBZ 
+and its α- and β-HTBZ metabolites in human plasma and ALM.SD809.1 for SD-809 and 
+its deuterated α- and β-HTBZ metabolites.   
+Assays were validated for clinical use at 
+.  
+In both assays, analytes and the Internal Standards (IS) were extracted from human 
+plasma using a liquid-liquid extraction.  
+Reference ID: 3914812
+(b) (4)
+
+
+===== PAGE 63 =====
+
+ 
+4
+The IS for samples assayed with ALM.TBZ.1 were the deuterated forms of the analytes 
+while the IS for samples assayed with ALM.SD809.1 were the non-deuterated forms of 
+the analytes.  
+The analytes were separated by HPLC on a C18 column and detected using API4000 
+MS/MS detector in positive MRM mode.  
+Plasma concentrations of individual subjects at each time point and performance of the 
+validated assays generating these results are reported in AUS-SD-809-CTP-06 Analytical 
+Phase Report. 
+Reviewer’s Comments:  
+The performance of the assays (ALM.TBZ.1 and ALM.SD809.1) for TBZ/SD-809 and α- 
+and β-HTBZ metabolites during the analysis of the study samples is acceptable. 
+Details of the validation results are presented in Bioanalytical Study Reports. 
+The sponsor claims that the statistical analysis for the O-desmethyl metabolites followed 
+the analysis plan for the parent drug and the alpha- and beta-dihydrotetrabenazine 
+metabolites as described in the Pharmacokinetic Statistical Analysis Plan (PK-SAP), 
+dated 25 Aug 2011. However, only α- and β-HTBZ metabolites are mentioned in the 
+CSR and in 16.1.9.1 Statistical Analysis Plan (Sept 2011):  
+9.5.4 Drug Concentration Measurement: Tetrabenazine and its α- and β-HTBZ 
+metabolites from individual patients were measured in one assay while SD-809 and its 
+deuterated α- and β-HTBZ metabolites were measured in another.  
+This analysis is reported in SD-809-CLN-016 - Analytical Phase Report Addendum. 
+Some of the validation summary in this Addendum include validation results from Study 
+07, which was conducted later. 
+Also, it is not indicated in the report how the samples were split (from the ones analyzed 
+for TBZ, α- and β-HTBZ) and how they were stored (study conducted 2 years earlier than 
+the additional analysis of the samples). Therefore, the results for the O-desmethyl 
+metabolites should be considered exploratory and interpreted with caution. 
+ 
+Pharmacokinetic Results: 
+ 
+Pharmacokinetics of Tetrabenazine and SD-809 
+Plasma concentrations of both TBZ and SD-809 were low relative to the concentrations 
+observed for their metabolites. TBZ and SD-809 concentrations reached a max at 
+approximately one hour, declined rapidly thereafter and were below the limit of detection 
+in most subjects by three hours. Mean Cmax was about 0.3 ng/ml for both TBZ and SD-
+809. Elimination half-lives for the majority of subjects were not calculable.  
+The pharmacokinetics of TBZ and SD-809 did not show appreciable differences in either 
+EMs or the wider population (all evaluable subjects, including IMs). 
+ 
+Pharmacokinetics of α-HTBZ and d6-α-HTBZ 
+Plasma concentrations of α-HTBZ and d6-α-HTBZ were higher than those measured for 
+β-HTBZ and parent drug.  
+In EMs, the mean half-lives were almost double for d6-α-HTBZ (7.95 hours) than for α-
+HTBZ (4.51 hours). This resulted in a greater than two fold increase in overall exposure 
+(AUCinf 316 versus 137 ng·hr/mL). Cmax values were slightly higher (mean 44.4 versus 
+Reference ID: 3914812
+
+
+===== PAGE 71 =====
+
+ 
+12
+II. 
+AUS-SD-809-CTP-07: A Phase 1 Study to Evaluate the Pharmacokinetics of 
+Two Extended Release (ER) Formulations of SD-809 with and without Food, 
+compared to Tetrabenazine Tablets and the Pharmacokinetics and Dose 
+Proportionality of the Selected Formulation Following Single and Multiple 
+Doses 
+ 
+Objectives: 
+• Evaluate the safety and pharmacokinetics of two candidate formulations of SD-809 ER 
+relative to tetrabenazine (TBZ) 
+• Evaluate the effect of food on the bioavailability of SD-809 ER 
+• Select a formulation of SD-809 ER for use in future clinical studies 
+• Evaluate the dose-proportionality of single and multiple doses of SD-809 ER 
+• Compare steady state pharmacokinetics of SD-809 ER and tetrabenazine 
+ 
+Study Design 
+Part 1: randomized, open-label, single-dose, five-way crossover study 
+of TBZ and two SD-809 ER formulations in healthy subjects 
+Part 2: open-label, single and multiple ascending dose study of SD-809 
+ER and TBZ in healthy subjects 
+Study Population 
+Two separate cohorts of 24 healthy subjects for Part 1 and Part 2. 
+Healthy male or female subjects aged ≥18 and ≤50 years inclusive; 
+CYP2D6 extensive or intermediate metabolizer phenotype. 
+Treatment Groups 
+5 treatment groups in Part 1, two treatment groups in Part 2 (see dosage 
+and admin)  
+Dosage and Administration 
+Part 1: a single oral dose of each of the following: 
+• Tetrabenazine 25 mg (fasted state) * 
+• SD-809 ER 15 mg formulation A (fasted state) 
+• SD-809 ER 15 mg formulation B (fasted state) 
+• SD-809 ER 15 mg formulation A (fed state) 
+• SD-809 ER 15 mg formulation B (fed state) 
+Part 2: SD-809 Formulation A in the fed state and TBZ in the fasted 
+state** 
+PK Sampling: plasma 
+See *** 
+Analysis 
+LC-MS/MS method for TBZ and metabolites, including deuterated and 
+non-deuterated forms of α- and β-dihydrotetrabenazine (HTBZ) and the 
+O-desmethyl-metabolites of α- and β-HTBZ 
+Range: 0.100 ng/mL to 10.0 ng/mL for SD-809 or tetrabenazine  
+0.500 ng/mL to 100 ng/mL for HTBZ metabolites 
+0.500 to 50.0 ng/mL for O-desmethyl-metabolites 
+PK Assessment 
+Cmax, tmax, AUC0-t, AUC0-12, AUC0-inf, t1/2 , Rac, Vd/F, CL/F of TBZ/SD-
+809 and metabolites 
+Safety Assessment 
+Adverse events, vital signs, electrocardiograms, clinical chemistry  
+PD Assessment 
+None 
+ 
+* TBZ from 
+ source was used 
+** Dosing in Part 2: 
+Reference ID: 3914812
+(b) (4)
+
+
+===== PAGE 73 =====
+
+ 
+14
+The Cmax values for total (α+β)-HTBZ were lower for both SD-809 ER formulations in 
+the fed and fasted states at a dose level of 15 mg than for tetrabenazine at a dose level of 
+25 mg. The Tmax values were significantly later for total (α+β)-HTBZ for both SD-809 
+ER formulations in the fed and fasted states compared with tetrabenazine (2.5 to 6 hours 
+compared with 1 hour). The apparent half-life was significantly longer for total (α+β)-
+HTBZ following SD-809 ER in the fed and fasted states compared with tetrabenazine. 
+Note: The t1/2 appears to be longer in the fasted state for both formulations. 
+ 
+ 
+ 
+Mean Plasma Concentration of Total HTBZ by Treatment (Part 1) 
+ 
+ 
+There was a food effect for both SD-809 ER formulations, with significantly higher Cmax 
+of the HTBZ metabolites administration after food than when fasting and an increase of 
+50% for formulation A and 100% for formulation B. 
+The AUC0-t was increased slightly (11% for formulation A) when administered in the fed 
+state, but to a lesser extent as compared to Cmax. 
+Based on the pharmacokinetic data observed in Part 1, SD-809 ER formulation A, was 
+selected for use in Part 2. 
+Note: SD-809 was administered with food in all subsequent studies. 
+ 
+Reference ID: 3914812
+
+
+===== PAGE 74 =====
+
+ 
+15
+Comparison of Pharmacokinetic Parameters for SD-809 Formulations, Fed vs 
+Fasted – Part 1 
+ 
+ 
+Part 2:  
+With single doses and at steady state, the terminal elimination half-lives for d6-α-HTBZ, 
+d6-β-HTBZ, and d6-(α+β)-HTBZ following all SD-809 ER doses administered were 
+longer than their non-deuterated counterparts in the tetrabenazine control.  
+The median Tmax of HTBZ analytes was 3 to 4 hours post-dose for both single dose and 
+steady state across the dose range of SD-809 ER, compared with approximately 1 hour 
+for tetrabenazine.  
+At steady state, the peak to trough fluctuation for total (α+β)-HTBZ of SD-809 was much 
+lower (3 to 4 fold) than those observed for the corresponding analytes of tetrabenazine 
+(approximately 11-fold). 
+ 
+ 
+ 
+ 
+Reference ID: 3914812
+
+
+===== PAGE 76 =====
+
+ 
+17
+ 
+ 
+ 
+Linearity with dose was assessed using a power regression model. The estimates of the 
+exponents of dose for each of Cmax and AUC were slightly greater than unity although 
+these differences were not statistically significant. The r² value was at least 85% for each 
+of these parameters, indicating that linear dose dependence was able to explain most of 
+the variation across dose levels for these parameters.  
+ 
+Table of Linear Regression Analysis of α- and β-HTBZ Pharmacokinetic 
+Parameters across Treatments and Dose Levels 
+ 
+ 
+ 
+In conclusion, the pharmacokinetics of d6-α-HTBZ, d6-β-HTBZ, and d6-(α+β)-HTBZ 
+are approximately linear with dose with the data suggesting increases in AUC and Cmax 
+which are slightly greater than dose proportional. 
+The dose of SD-809 ER, estimated to provide total (α+β)-HTBZ exposure comparable to 
+that from tetrabenazine 25 mg (determined from regression models of single-dose 
+exposure AUCinf and steady state AUC0-12),  was 11.4 – 13.2 mg. 
+ 
+Reference ID: 3914812
+
+
+===== PAGE 79 =====
+
+ 
+20
+III. 
+SD-809-C-12: An Open-Label, Two-Period Study Designed to Evaluate and 
+Compare the Mass Balance Recovery, Metabolite Profile and Metabolite 
+Identification of Oral Doses of Both [14C]-SD-809 and [14C]-Tetrabenazine in 
+Healthy Male Subjects 
+ 
+Objectives: 
+• To determine the mass balance recoveries after single oral doses of 14C-SD-809 and 
+[14C]-tetrabenazine (TBZ) 
+• To determine the routes and rates of excretion of SD-809 and TBZ 
+• To provide plasma, urine and feces samples for metabolite profiling and structural 
+identification following oral doses of [14C]-SD-809 and [14C]-tetrabenazine 
+• To determine the pharmacokinetics of total radioactivity in plasma after a single oral 
+dose of [14C]-SD-809 and [14C]-tetrabenazine 
+• To determine the pharmacokinetics of SD-809, d6-alpha-dihydrotetrabenazine 
+(d6-α-HTBZ) and d6-beta-dihydrotetrabenazine (d6-β-HTBZ) in plasma after a single 
+oral dose of [14C]-SD-809 
+Study Design 
+2-period, 2-cohort, open-label study in healthy male subjects 
+Study Population 
+6 healthy male subjects/cohort (total of 12) between 35 and 65 years; 
+CYP2D6 extensive or intermediate metabolizer phenotype. 
+Treatment Groups 
+Cohort 1: Single oral dose of 25 mg [14C]-SD-809 
+Cohort 2: Single oral dose of 25 mg [14C]-tetrabenazine 
+Dosage and 
+Administration* 
+Cohort 1: Single oral dose of 25 mg [14C]-SD-809 containing NMT 
+2.92 MBq (79 μCi) [14C] in the fasted state 
+Cohort 2: Single oral dose of 25 mg [14C]-TBZ containing NMT 2.92 
+MBq (79 μCi) [14C] in the fasted state 
+PK Sampling:  
+ 
+Blood/Plasma: pre-dose, 20 and 40 min, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 12, 18, 
+24, 36, 48, 72, 96, 120, 144, 168, 192 and 216 hour for total 
+radioactivity and PK analysis (plasma only) for the metabolites with 
+validated assays. One pooled plasma sample/cohort for metabolite 
+identification (semi-quatitative analysis)**  
+Urine and feces: pre-dose, 0–6, 6–12, 12–24 h, then daily until Day 7 
+(144 h post-dose) with final collection on 168 h post-dose** 
+Analysis*** 
+Total radioactivity: quantitative radiochemical analysis 
+Validated LC-MS/MS method for TBZ/SD-809 and deuterated and 
+non-deuterated forms of α- and β-dihydrotetrabenazine (HTBZ) and the 
+O-desmethyl-metabolites of α- and β-HTBZ in plasma 
+Semi-quantitative methods for all other metabolites of TBZ/SD-809* 
+PK Assessment 
+Plasma: Cmax, Tmax, AUC0-t, AUC0-12, AUC0-inf, t1/2 , MRT of TBZ/SD-
+809 and metabolites 
+Urine and feces: Ae and %Fe and Total Ae and %Total Fe, where total 
+represents urine and feces combined 
+Safety Assessment 
+Adverse events, vital signs, electrocardiograms, clinical chemistry  
+*Unlabelled SD-809 and TBZ drug substances were provided by 
+ Chemistry 
+for radiolabelling. The radiolabeled products were formulated as 25 mg hard gelatin capsules. 
+** Urinary metabolites were identified and quantified from a single urine cohort sample pooled 
+over the 0 to 72 h. Plasma metabolites were identified and quantified from individual plasma 
+samples pooled over the 2 to 12 h post-dose, e.g. 2-, 2.5-, 6-, and 12-h time points. 
+** Four different analyses/reports were generated; these are described under Analytical Methods 
+Reference ID: 3914812
+(b) (4)
+
+
+===== PAGE 91 =====
+
+ 
+32
+Bioavailability Studies 
+ 
+IV. 
+SD-809-C-11: A Relative Bioavailability Study of Three Dose Strengths of 
+SD-809 ER 
+ 
+Objectives: 
+• To evaluate the relative bioavailability of three dose strengths and four dose levels of 
+SD-809 when administered as single doses following a standard meal. 
+• To evaluate the effect of a high-fat meal on the relative bioavailability of a single 18-mg 
+dose of SD-809 compared to a standard meal. 
+ 
+Study Design 
+Randomized, open-label, 5-way crossover study of single doses of SD-809 
+tablets in healthy subjects 
+Study Population 
+N = 32 subjects, male and female, 18-45 years old, CYP2D6 extensive or 
+intermediate metabolizers 
+Treatment Group 
+Treatment A: 6 mg SD-809 (1 x 6 mg tablet) following a standard meal 
+Treatment B: 12 mg SD-809 (1 x 12 mg tablet) following a standard meal 
+Treatment C: 18 mg SD-809 (1 x 18 mg tablet) following a standard meal 
+Treatment D: 24 mg SD-809 (1 x 18 mg tablet and 1 x 6 mg tablet) 
+following a standard meal 
+Treatment E: 18 mg SD-809 (1 x 18 mg tablet) following a high-fat meal 
+Dosage and 
+Administration 
+See trt group 
+PK Sampling: plasma 
+predose and at 0.5, 1, 1.5, 2, 2.5, 3, 3.5, 4, 5, 6, 8, 12, 16, 24, 36, 48, 60, 72 
+and 96 h post (each) dose 
+Analysis 
+LC-MS/MS method for SD-809 and HTBZ metabolites 
+Range: 0.100 ng/mL to 10.0 ng/mL for SD-809  
+0.500 ng/mL to 100 ng/mL for HTBZ metabolites 
+PK Assessment 
+Cmax, tmax, AUC0-t, AUC0-inf, t1/2 , CL/F of SD-809 and metabolites 
+Safety Assessment 
+Adverse events, vital signs, electrocardiograms, clinical chemistry  
+PD Assessment 
+none 
+ 
+Bioanalytical Assay: 
+Plasma samples were assayed for SD-809 and its α-HTBZ and β-HTBZ metabolites by 
+validated liquid chromatography/tandem mass spectrometry (LC-MS/MS) methods. The 
+range was from 0.100 to 10.0 ng/mL for SD-809 and 0.500 to 100 ng/mL for both d6-α- 
+and β-HTBZ. Details of the validation are presented in 4.1.4 Bioanalytical Study Reports.  
+The validation of the assays and the performance of the assays for SD-809 and its 
+metabolites during the analysis of the study samples are acceptable. 
+ 
+Pharmacokinetic Results: 
+The following study drugs were administered during the course of the study: SD-809 
+Tablets 6 mg, 12 mg and 18 mg. All strengths Manufactured by: 
+ 
+. 
+Reviewer’s Comment: However, the SD-809 commercial formulation (and the one used 
+in the efficacy trials SD-809-C-15 and SD-809-C-16) was supplied as tablet formulation 
+Reference ID: 3914812
+(b) (4)
+(b) (4)
+
+
+===== PAGE 94 =====
+
+ 
+35
+ 
+ 
+A regression analysis test indicated a linear dose dependence (with 95% CI for the 
+exponent 0.95 - 1.19) over the dose range studied (6 mg to 24 mg). A similar analysis 
+was performed for Cmax and AUC0-t for total d6-(α+β)-HTBZ and for Cmax, AUC0-t, and 
+AUCinf for α-HTBZ and β-HTBZ separately. Only AUC0-t for β-HTBZ showed an 
+exponent that was concluded to be different from one. 
+The dose dependence of AUCinf of total d6-(α+β)-HTBZ is presented in the figure below 
+as the individual values along with the means and standard deviations at each dose level. 
+ 
+ 
+ 
+Note: The highest AUCinf at each dose level was for Subject 011, who was an 
+intermediate metabolizer. 
+Conclusions: There was a linear dose dependence of PK parameters Cmax, AUC0-t, and 
+AUCinf of the HTBZ metabolites of SD-809 across the dose range of 6 mg to 24 mg 
+Reference ID: 3914812
+
+
+===== PAGE 95 =====
+
+ 
+36
+administered with a standard meal, as shown by the power regression analysis of Cmax 
+and AUC as a function of dose. 
+ 
+Comparison of PK Parameters for SD-809 18 mg by Meal Type 
+ 
+ 
+The relative bioavailability of d6-HTBZ metabolites for administration of SD-809 18 mg 
+with a high-fat meal compared with administration with a standard meal met the criteria 
+for bioequivalence for Cmax, AUC0-t, and AUCinf. These results demonstrated that the SD-
+809 formulation was not sensitive to meal composition. 
+ 
+Safety results: 
+There were no serious AEs in this study. Constipation and abdominal distension were the 
+AEs with highest incidence, each reported by four subjects. 
+Two subjects discontinued early: Subject 025 withdrew consent for study participation 
+for personal reasons after Period 2. Subject 003 was discontinued by the PI due to an AE 
+of syncope that occurred prior to dosing in Period 4, 5 days postdose following Treatment 
+A (6 mg standard meal). According to the sponsor, the AE was not related to study 
+medication (plasma concentrations of SD-809, α-HTBZ and β-HTBZ were all below 
+LOQ by 24 hours postdose in Period 3). 
+ 
+ 
+ 
+ 
+Reference ID: 3914812
+APPEARS THIS WAY ON ORIGINAL
+
+
+===== PAGE 96 =====
+
+ 
+37
+Healthy Subject PD and PK/PD Studies 
+ 
+V. 
+SD-809-C-21: A Randomized Double-Blind, Placebo- and Positive-Controlled 
+Crossover Study to Evaluate the Effects of Single Doses of SD-809 
+(Deutetrabenazine) and Tetrabenazine on the Corrected QT Interval 
+ 
+Objectives:  
+• To evaluate the effects of SD-809 (deutetrabenazine) and tetrabenazine (TBZ) on 
+the corrected QT (QTc) interval 
+• To evaluate the safety and pharmacokinetics of SD-809  
+ 
+Study Design 
+Randomized, double-blind, placebo- and positive-controlled, six-period, 
+crossover study 
+Study Population 
+48 heathy subjects, males and females, 18-50 years old, CYP2D6 
+extensive or intermediate metabolizers 
+Treatment Group 
+Trt A: 12 mg SD-809 plus moxifloxacin placebo and placebo for TBZ*  
+Trt B: 24 mg SD-809 plus moxifloxacin placebo and placebo for TBZ  
+Trt C: SD-809 placebo plus moxifloxacin placebo and placebo for TBZ 
+Trt D: 400 mg moxifloxacin plus SD-809 placebo and placebo for TBZ  
+Trt E: 50 mg TBZ plus moxifloxacin placebo and SD-809 placebo 
+Trt F: Placebo for TBZ plus moxifloxacin placebo and SD-809 placebo 
+Dosage and 
+Administration 
+Within each treatment period, subjects received a single dose of study 
+drug. 
+Treatments A, B, C, and D were administered in the fed state, following 
+a standard breakfast; trt. E and F were administered under fasting 
+conditions. 
+Washout periods of a minimum 5-day between doses. 
+PK Sampling: plasma 
+Pre-dose and at 0.5, 1, 1.5, 2, 2.5, 3, 4, 5, 6, 8, 10, and 24 h post dose 
+Analysis 
+LC-MS/MS method for SD-809/TBZ and HTBZ metabolites 
+Range: 0.100 ng/mL to 10.0 ng/mL for SD-809/TBZ  
+0.500 ng/mL to 100 ng/mL for HTBZ metabolites 
+PK Assessment 
+Cmax, tmax, AUC0-t, AUC0-inf, t1/2 , CL/F of SD-809 and metabolites 
+Safety Assessment 
+Vital signs, adverse events, ECG, clinical chemistry  
+PD Assessment 
+Electrocardiograms were collected continuously via a Holter monitor 
+from approximately 1.5 hours prior to each study drug administration 
+through 24 hours after dosing. 
+Primary outcome measures: 
+ The placebo-adjusted change from baseline in QTcF (ΔΔQTcF) at 
+each time point (same as PK sample collection time points) after a single 
+low dose (12 mg) and high dose (24 mg) of SD-809 
+ ΔΔQTcF at each time point after a single dose (50 mg) of TBZ 
+ 
+* Tetrabenazine from 
+ source was used in this study. 
+ 
+Bioanalytical Assays: 
+Reference ID: 3914812
+(b) (4)
+
+
+===== PAGE 97 =====
+
+ 
+38
+Two validated assays were used: ALM.TBZ.1 for measuring the concentrations of TBZ 
+and its α- and β-HTBZ metabolites in human plasma and ALM.SD809.1 for SD-809 and 
+its deuterated α- and β-HTBZ metabolites.   
+Note: The internal standards for ALM TBZ.1 were the analytes for ALM SD-809.1 and 
+vice versa. The assays were validated in the following ranges:  
+0.100 ng/mL to 10.0 ng/mL for SD-809 or tetrabenazine  
+0.500 ng/mL to 100 ng/mL for HTBZ metabolites 
+Reviewer’s Comment: The validation of the assays and the performance of the assays 
+for TBZ/SD-809 and the metabolites during the analysis of the study samples are 
+acceptable. Details of the validation results are presented in Bioanalytical Study Reports. 
+ 
+Pharmacokinetic Results: 
+Selection of Doses: The 24-mg SD-809 dose is the maximum single dose in the proposed 
+SD-809 product labeling and was predicted to provide comparable exposure (AUC) to a 
+50-mg dose of TBZ. A 50-mg dose of TBZ has been shown to induce QTc prolongation 
+of approximately 8 msec (Lundbeck, 2012 Label). Additional studies of TBZ 50 mg in 
+the presence of CYP2D6 inhibitors did not further increase the effect on the QTc interval. 
+Thus, evaluation of higher doses of SD-809 was not deemed necessary. 
+Reviewer’s comment: According to the QT Interdisciplinary Review Team, the design 
+of this study is not adequate to evaluate the effect of study drugs on the QT interval 
+(single-dose, no supratherapeutic dose, please refer to the PK/PD results section). 
+ 
+Mean Total (α+β)-HTBZ Plasma Concentration Profiles for SD-809 (12 mg and 24 
+mg) and Tetrabenazine 50 mg (N=41) 
+ 
+ 
+The pharmacokinetics for total (α+β)-HTBZ after SD-809 administration in the 12-24 mg 
+dose range appeared dose-proportional (Cmax and AUC with the 24-mg dose were 
+approximately twice the Cmax and AUC with the 12-mg dose). 
+ 
+ 
+ 
+Reference ID: 3914812
+
+
+===== PAGE 99 =====
+
+ 
+40
+Extrinsic Factor PK Studies 
+ 
+VI. 
+SD-809-C-08: A Drug Interaction Study of SD-809 ER and Repeated Doses 
+of Paroxetine 
+ 
+Objective: to evaluate the effect of a potent CYP2D6 inhibitor on the pharmacokinetics 
+and safety of a single dose of SD-809 ER. 
+ 
+Study Design 
+Open-label, sequential, drug-drug interaction study in 24 healthy 
+subjects 
+Study Population 
+24 healthy male and female subjects who were CYP2D6 extensive or 
+intermediate metabolizers, 18-50 years old 
+Treatment Group 
+Each subject received an oral dose of SD-809 22.5 mg, administered as 
+one 15 mg tablet and one 7.5 mg tablet* on Days 1 and 11 and 20 mg 
+paroxetine on Days 4 to 12. 
+Dosage and Administration 
+Subjects received a single 22.5 mg oral dose of SD-809 on Day 1 
+followed by a 72-hour washout. Subjects then received paroxetine on 
+Days 4 to 12 to achieve steady-state. On Day 11, another single dose of 
+SD-809 was administered followed by a 72-hour washout. 
+SD-809 was administered approximately 30 minutes following the start 
+of a standardized breakfast meal with moderate fat content (35%). 
+PK Sampling: plasma 
+SD-809: Pre-dose and at 1, 2, 2.5, 3, 3.5, 4, 4.5, 5, 6, 7, 8, 10, 12, 16, 
+24, 36, 48, 60 and 72 hours post-dose 
+Paroxetine: 1 h pre-dose on Days 9 and 10. 
+Analysis 
+LC-MS/MS assays for SD-809 and metabolites, including deuterated α- 
+and β-dihydrotetrabenazine (HTBZ) and the O-desmethyl-metabolites 
+of α- and β-HTBZ 
+Range: 0.100 ng/mL to 10.0 ng/mL for SD-809  
+0.500 ng/mL to 100 ng/mL for HTBZ metabolites 
+0.500 to 50.0 ng/mL for O-desmethyl-metabolites 
+LC-MS/MS assay for paroxetine, range 0.500 to 50.0 ng/mL 
+PK Assessment 
+Cmax, tmax, AUC0-t, AUC0-inf, t1/2 , Vd/F, CL/F of SD-809 and metabolites 
+Safety Assessment 
+Adverse events, vital signs, electrocardiograms, clinical chemistry  
+PD Assessment 
+change from baseline in QTcF, with changes in QTcB as a secondary 
+analysis 
+ 
+* These are the initial Formulation A strengths, manufactured by 
+  
+Later, e.g., in Study SD-809-C-11, different strengths (6mg, 12mg, 18 mg) were used. The 
+commercial strengths are 6mg, 9mg and 12 mg. 
+ 
+Bioanalytical Assays: 
+The following validated LC-MS/MS assays were used for the analysis of SD-809, its 
+metabolites and paroxetine in plasma samples in this study: ALM SD-809.1, ALM004 
+and ALM014. 
+The ranges of the first assay (ALM SD-809.1) were from 0.100 to 10.0 ng/mL for SD-
+809 and 0.500 to 100 ng/mL for deuterated α- and β-HTBZ.  
+Reference ID: 3914812
+(b) (4)
+
+
+===== PAGE 122 =====
+
+ 
+63
+XVI. SD-809-NC-003: In Vitro Stability of Tetrabenazine, SD-809, alpha-
+dihydrotetrabenazine (HTBZ), beta- HTBZ, d6-alpha- HTBZ and d6-beta- 
+HTBZ in Human CYP1A2, 2D6 and 3A4 isozymes 
+ 
+Objectives:  
+1) Investigate whether the Phase 1 metabolism of tetrabenazine (TBZ) is similar to or 
+different than that of its deuterated analog SD-809 in human CYP1A2, CYP2D6, and 
+CYP3A4 isozymes.  
+2) Investigate whether the Phase 1 metabolism of the metabolites of TBZ (i.e. alpha-
+HTBZ and beta-HTBZ) are similar to or different than those of their deuterated analogs 
+d6-alpha-HTBZ and d6-beta-HTBZ in human CYP1A2, CYP2D6, and CYP3A4 isozymes. 
+The in vitro evaluation was performed by Auspex. 
+ 
+Methods: TBZ, alpha-HTBZ, beta-HTBZ, SD-809, d6-alpha-HTBZ, d6-beta-HTBZ 
+were incubated with human CYP1A2, CYP2D6, and CYP3A4 isozymes and the respective 
+test article half-life (t1/2) was determined if possible. Test articles were analyzed with 
+HPLC-MS/MS. 
+ 
+Results: 
+SD-809 and TBZ  
+In in vitro human liver test systems, SD-809 and TBZ were metabolized rapidly; half-
+lives could not be calculated in S9. The half-lives of SD-809 and TBZ in human liver 
+microsomes were twelve minutes or less under the test conditions and were similar (i.e., 
+within 10% of each other) (see Table below). 
+Both TBZ and SD-809 were rapidly metabolized in the presence of CYP3A4, with 
+relatively little metabolism in the presence of CYP1A2 (half-life: 135 and 164 minutes, 
+respectively) or CYP2D6 (half-life: 178 and 204 minutes, respectively). In the three 
+tested CYP enzymes, the stability of SD-809 was similar to that of TBZ, indicating that 
+the substitution of deuterium for hydrogen in the O-linked methyl groups of SD-809 did 
+not alter the CYP-dependent metabolism of SD-809 relative to tetrabenazine. 
+ 
+Half-lives of SD-809 and Tetrabenazine after Incubation with Human S9, Human 
+Liver Microsomes, or Recombinant CYP1A2, CYP2D6, and CYP3A4 
+ 
+ 
+α-HTBZ and β-HTBZ:  
+The rates of metabolism, measured as substrate loss of deuterated α- and β-HTBZ, were 
+compared to the corresponding nondeuterated forms after incubation with human liver S9 
+Reference ID: 3914812
+
+
+===== PAGE 123 =====
+
+ 
+64
+fraction (SD-809-NC-002), with human liver microsomes (SD-809-NC-001), and with 
+CYP enzymes (SD-809-NC-003).  
+In in vitro human liver test systems, the metabolic half-life of deuterated α-HTBZ was 
+greater than that of nondeuterated α-HTBZ by 48.5%. Across the two assays, the 
+metabolic half-life of deuterated β-HTBZ was greater than that of nondeuterated β-HTBZ 
+by 105% to 138% (SD-809-NC-001, SD-809-NC 002). 
+The half-lives of nondeuterated α-HTBZ and β-HTBZ were shortest in the presence of 
+CYP2D6 isozymes (SD-809-NC-003), consistent with this enzyme’s predominant role in 
+HTBZ metabolism (per the Xenazine label).  
+In the presence of CYP2D6, the half-life of deuterated α-HTBZ was greater than that of 
+nondeuterated α-HTBZ by 226%, while the metabolic half-life of deuterated β-HTBZ 
+was greater than that of nondeuterated α-HTBZ by 138%. There was measurable loss of 
+α-HTBZ and, to a lesser degree, β-HTBZ in the presence of CYP3A4 isozymes with 
+similar (within 31%) rates comparing deuterated and nondeuterated forms. 
+ 
+Half-lives of Deuterated and Nondeuterated α-HTBZ and β-HTBZ after Incubation 
+with Human S9, Human Liver Microsomes, or Recombinant CYP1A2, CYP2D6, 
+and CYP3A4 
+ 
+ 
+Reference ID: 3914812
+APPEARS THIS WAY ON ORIGINAL
+
+
+===== PAGE 161 =====
+
+NDA 208082 
+ 
+Page 2 of 16 
+Pharmacometrics Review 
+study experienced dose increase after week 1, suggesting that the 2:1 conversion ratio 
+might not be optimal.) 
+ 
+To assess the overall comparability of exposure observed in the Switch Cohort, non-
+normalized plasma concentrations of total (α+β)-HTBZ observed over approximately 6 
+hours after administration of Xenazine (Day 0) or SD-809 (Week 8) at steady state were 
+presented below (Figure 1), allowing comparison of Xenazine with SD-809. 
+Figure 1 Non-normalized total (α+β)-HTBZ plasma concentrations at Baseline 
+(Xenazine) and at Week 8 (SD-809) 
+ 
+Source: Information amendment clinical 0047 page 7 
+However, the SD-809 dose for the same subject could be different from that at Week 0 
+due to permitted dose adjustment to optimize chorea control after Week 1. Therefore, to 
+appropriately compare exposure following administration of Xenazine and SD-809 over 
+the intended dose range, concentrations and parameters were normalized to the maximum 
+single dose for each treatment, i.e. 37.5 mg for Xenazine and 24 mg for SD-809. Dose–
+normalized plasma concentrations of total (α+β)-HTBZ in the Switch Cohort following 
+administration of Xenazine and SD-809 appears to be in similar range, as shown in 
+Figure 2. In addition, dose-normalized observed Cmax were compared between Xenazine 
+and SD-809 in the rich sampling subgroup in the Switch Cohort. The result shows that 
+Cmax of SD-809 at highest proposed dose appears to be covered by Cmax of Xenazine at 
+highest approved dose, as shown in Table 1. Therefore, the PK bridging between SD-809 
+and Xenazine is acceptable if the highest recommend daily dose of SD-809 is 48 mg (24 
+mg BID).  
+ 
+Reference ID: 3914812
+APPEARS THIS WAY ON ORIGINAL
+
+
+===== PAGE 167 =====
+
+NDA 208082 
+ 
+Page 8 of 16 
+Pharmacometrics Review 
+Figure 4 Schematic Representation of Population PK Models for α-HTBZ and β-
+HTBZ 
+ 
+Source: Study report SD-809-CLN-078 page 13 
+ 
+3.1.4 Covariate Model 
+Covariates were tested on clearance and volume of distribution parameters. Intrinsic 
+covariates included age, sex, race, body weight, CYP2D6 phenotype, CRCL, and liver 
+function test (BIL, PT). Extrinsic covariates included daily dose levels and CYP2D6 
+inhibitors (presence or absence of strong inhibitor). The final model included body 
+weight as a covariate on clearance and volume of distribution terms, as well as impaired 
+CYP2D6 function as a covariate on clearance.  
+3.1.5 Final Model Results 
+Parameter estimates of the final models are provided in Table 5.Due to the sparseness of 
+data in study SD-809-C-15, structural PK models of α-HTBZ and β-HTBZ previously 
+estimated from Phase 1 data were used to model concentration-time profiles. Absorption 
+and distribution parameters were fixed based on a population PK model developed in the 
+healthy volunteers using Phase 1 data form studies AUS-SD-809-CTP-07 Part 2, SD-809-
+C-08 and SD-809-C-11 CL/F and Vc/F as well as the corresponding random effects and 
+covariate effects were estimated in the current model.  
+Reference ID: 3914812
+APPEARS THIS WAY ON ORIGINAL

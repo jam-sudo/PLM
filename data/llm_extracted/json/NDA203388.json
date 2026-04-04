@@ -1,0 +1,66 @@
+{
+  "nda": "NDA203388",
+  "drug_name": "vismodegib",
+  "pk_tuples": [
+    {
+      "dose_mg": 150.0, "dose_original": "150 mg single dose, fasted",
+      "route": "oral",
+      "formulation": "capsule",
+      "food": "fasted",
+      "population": "patient",
+      "n_subjects": 13, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 4213.0, "tmax_h": 26.9,
+      "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 535051.0,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 72, "confidence": "high", "notes": "Cancer patients, single dose PK Table 29; converted from μM using MW=421.3 g/mol (Cmax 10.0 μM × 421.3; AUC0-168 1270 μM·h × 421.3)"
+    },
+    {
+      "dose_mg": 150.0, "dose_original": "150 mg single dose, low-fat",
+      "route": "oral",
+      "formulation": "capsule",
+      "food": "fed",
+      "population": "patient",
+      "n_subjects": 3, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 4761.0, "tmax_h": 4.0,
+      "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 594033.0,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 72, "confidence": "high", "notes": "Cancer patients, single dose PK Table 29 low-fat meal; converted from μM (Cmax 11.3 μM; AUC 1410 μM·h), MW=421.3"
+    },
+    {
+      "dose_mg": 150.0, "dose_original": "150 mg single dose, high-fat",
+      "route": "oral",
+      "formulation": "capsule",
+      "food": "high_fat_meal",
+      "population": "patient",
+      "n_subjects": 13, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 5814.0, "tmax_h": 24.8,
+      "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 707784.0,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 72, "confidence": "high", "notes": "Cancer patients, single dose PK Table 29 high-fat meal; converted from μM (Cmax 13.8; AUC 1680), MW=421.3"
+    },
+    {
+      "dose_mg": 150.0, "dose_original": "150 mg QD Day 14, fasted",
+      "route": "oral",
+      "formulation": "capsule",
+      "food": "fasted",
+      "population": "patient",
+      "n_subjects": 13, "dose_schedule": "steady_state",
+      "cmax_ng_ml": 12301.0, "tmax_h": 4.33,
+      "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 294067.0,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 74, "confidence": "high", "notes": "Cancer patients, Day 14 PK Table 30 fasted; converted from μM (Cmax 29.2; AUC0-24 698), MW=421.3"
+    },
+    {
+      "dose_mg": 150.0, "dose_original": "150 mg QD Day 14, fed",
+      "route": "oral",
+      "formulation": "capsule",
+      "food": "fed",
+      "population": "patient",
+      "n_subjects": 13, "dose_schedule": "steady_state",
+      "cmax_ng_ml": 13018.0, "tmax_h": 22.2,
+      "auc_inf_ng_h_ml": null, "auc_last_ng_h_ml": 306285.0,
+      "t_half_h": null, "cl_L_h": null, "vd_L": null,
+      "source_page": 74, "confidence": "high", "notes": "Cancer patients, Day 14 PK Table 30 fed; converted from μM (Cmax 30.9; AUC0-24 727), MW=421.3"
+    }
+  ]
+}

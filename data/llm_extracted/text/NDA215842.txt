@@ -1,0 +1,2198 @@
+
+
+===== PAGE 3 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+ii
+Integrated Review Template, version 3.0 (05/25/2022)
+Table of Contents
+Table of Tables ............................................................................................................vii
+Table of Figures...........................................................................................................xii
+Glossary .......................................................................................................................xv
+I. Executive Summary..................................................................................................17
+1. Summary of Regulatory Action ...........................................................................17
+2. Benefit-Risk Assessment......................................................................................18
+2.1. Benefit-Risk Framework ...............................................................................18
+2.2. Conclusions Regarding Benefit-Risk ............................................................21
+II. Interdisciplinary Assessment...................................................................................22
+3. Introduction ..........................................................................................................22
+3.1. Review Issue List...........................................................................................23
+3.1.1. Key Efficacy Review Issues ...................................................................23
+3.1.1.1. Interpretability of AUC (Area Under Curve) as a Descriptor of 
+Efficacy....................................................................................................23
+3.1.2. Key Safety Review Issues.......................................................................23
+3.2. Approach to the Clinical Review...................................................................24
+4. Patient Experience Data .......................................................................................26
+5. Pharmacologic Activity, Pharmacokinetics, and Clinical Pharmacology............27
+5.1. Nonclinical Assessment of Potential Effectiveness.......................................27
+5.1.1. Primary Pharmacology............................................................................27
+5.1.2. Proof of Concept for Efficacy in Animal Models...................................27
+5.2. Clinical Pharmacology/Pharmacokinetics.....................................................28
+6. Efficacy (Evaluation of Benefit) ..........................................................................31
+6.1. Assessment of Dose and Potential Effectiveness ..........................................31
+6.2. Clinical Studies/Trials Intended to Demonstrate Efficacy ............................33
+6.2.1. Study DCR-PHXC-201...........................................................................33
+6.2.1.1. Design, DCR-PHXC-201 .................................................................33
+6.2.1.2. Eligibility Criteria, DCR-PHXC-201 ...............................................34
+6.2.1.3. Statistical Analysis Plan, DCR-PHXC-201......................................36
+6.2.1.4. Results of Analyses, DCR-PHXC-201.............................................38
+6.3. Key Efficacy Review Issues..........................................................................48
+6.3.1. The Interpretability of AUC as Descriptor of Efficacy...........................48
+Reference ID: 5253559
+
+
+===== PAGE 11 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+x
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 74. Final Parameter Estimates for the Population PK Model................................132
+Table 75. Summary of Demographics for the PKPD Dataset* .......................................135
+Table 76. Parameter Estimates for the Final Population PKPD Model...........................137
+Table 77. Model-Predicted Fold Change in Cmax,ss and AUCtau,ss With Patients Aged 
+≥12 Years With a Body Weight ≥50 Kg and Normal Renal Function as Reference.147
+Table 78. Percentage of PH1 Patients in the Normal and Near-Normal Range in 
+Adults, Adolescents, and Pediatrics (Normal Renal Function) .................................149
+Table 79. Percentage of PH1 Patients in the Normal and Near-Normal Range in 
+Adults, Adolescents, and Pediatrics (Mild Renal Impairment) .................................150
+Table 80. Percentage of PH1 Patients in the Normal and Near-Normal Range in 
+Adults, Adolescents, and Pediatrics (Moderate Renal Impairment)..........................150
+Table 81. Dependence of AUC on Time Sequence of Collected Data............................155
+Table 82. Single Imputation for AUC vs. Observed Values of 24 h Urinary Oxalate 
+for Data Collected Between First Screening and Day 30 ..........................................157
+Table 83. Impact of Single Linear Imputation on Mean and Variance of Percentage 
+Change in 24 h Uox Given the Same AUC* .............................................................157
+Table 84. Change in 24 h Urinary Oxalate Excretion, Imputation on Days 90 to 180 
+Only............................................................................................................................158
+Table 85. Primary Endpoint, 24 h Uox AUC Δ% Days 90 to 180, Asian Participants 
+Excluded ....................................................................................................................159
+Table 86. Primary Endpoint, 24 h Uox AUC Δ% Days 90 to 180, Adults <50 kg 
+Excluded ....................................................................................................................159
+Table 87. Tipping Point Analysis, PH1 and PH2 Participants ........................................160
+Table 88. Tipping Point Analysis, PH1 Participants .......................................................161
+Table 89. Alternative Methods for Percentage Change in 24 h Urinary Oxalate 
+Concentration, Days 90 to 180, PH1 mITT...............................................................161
+Table 90. Participants With Treatment-Emergent Adverse Events by Preferred Term, 
+Safety Population, Trials DCR-PHXC-201...............................................................163
+Table 91. Participants With Serious Adverse Events by System Organ Class and 
+Preferred Term, Safety Population, DCR-PHXC-201, PH1 Only.............................165
+Table 92. Participants With Adverse Events Leading to Treatment Discontinuation by 
+System Organ Class and Preferred Term, Safety Population, DCR-PHXC-201, 
+PH1 Only ...................................................................................................................166
+Table 93. Participants With Treatment Emergent Adverse Events, DCR-PHXC-201, 
+PH1 Only ...................................................................................................................166
+Table 94. Participants With Adverse Events by System Organ Class and FDA 
+Medical Query (Narrow), Safety Population, DCR-PHXC-201, PH1 Only .............168
+Reference ID: 5253559
+
+
+===== PAGE 14 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+xiii
+Integrated Review Template, version 3.0 (05/25/2022)
+Figure 22. Pvcvpc for the Final Population PKPD Model...............................................139
+Figure 23. Maturation Function.......................................................................................140
+Figure 24. Simulated Nedosiran Concentration-Time Profiles Stratified by Renal 
+Function .....................................................................................................................141
+Figure 25. Model-Predicted Effect of Renal Function on Fold Change in AUCtau,Ss......141
+Figure 26. Model-Predicted Effect of Renal Function on Fold Change in Cmax,ss...........142
+Figure 27. Simulated Nedosiran Concentration-Time Profiles Stratified by Age 
+(Normal Renal Function)...........................................................................................143
+Figure 28. Model-Predicted Effect of Age on Fold Change in AUCtau,ss (Normal 
+Renal Function)..........................................................................................................143
+Figure 29. Model-Predicted Effect of Age on Fold Change in Cmax,ss (Normal Renal 
+Function)....................................................................................................................144
+Figure 30. Model-Predicted Effect of Age on Fold Change in AUCtau,ss (Mild Renal 
+Function)....................................................................................................................144
+Figure 31. Model-Predicted Effect of Age on Fold Change in Cmax,Ss (Mild Renal 
+Function)....................................................................................................................145
+Figure 32. Model-Predicted Effect of Age on Fold Change in AUCtau,ss (Moderate 
+Renal Function)..........................................................................................................145
+Figure 33. Model-Predicted Effect of Age on Fold Change in Cmax,Ss (Moderate Renal 
+Function)....................................................................................................................146
+Figure 34. Simulated 24 h Urinary Oxalate-Time Profiles Stratified by Age (Normal 
+Renal Function)..........................................................................................................148
+Figure 35. Simulated 24 h Urinary Oxalate-Time Profiles Stratified by Age (Mild 
+Renal Impairment) .....................................................................................................148
+Figure 36. Simulated 24 h Urinary Oxalate-Time Profiles Stratified by Age (Moderate 
+Renal Impairment) .....................................................................................................149
+Figure 37. PKPD Simulation for Representative Patients With Normal Renal 
+Function .....................................................................................................................151
+Figure 38. PKPD Simulation for Representative Patients With Mild Renal 
+Impairment.................................................................................................................152
+Figure 39. PKPD Simulation for Representative Patients With Moderate Renal 
+Impairment.................................................................................................................152
+Figure 40. PKPD Simulation for Representative Patients of Age ≥12 Years..................153
+Figure 41. PKPD Simulation for Representative Patients of Age 6 to <12 Years ..........153
+Figure 42. PKPD Simulation for a Representative Pediatric Patient Aged 11 Years 
+With Body Weight of 47 kg, Receiving 3.3 mg/kg or 128 mg Nedosiran ................154
+Reference ID: 5253559
+
+
+===== PAGE 26 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+25
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 3. Clinical Studies/Trials Submitted in Support of Efficacy and/or Safety Determinations1 for Νedosiran
+Trial 
+Identifier
+Trial 
+Population Trial Design
+Regimen (Number Treated), 
+Duration
+Primary and Key Secondary 
+Endpoints
+No. of Patients 
+Planned; Actual 
+Randomized
+No. of 
+Centers and 
+Countries
+201
+Patients with 
+PH1 or PH2
+Control type: Placebo 
+concurrent
+Randomization: 
+Adaptive randomization
+Blinding: Double-blind
+Biomarkers: 
+No biomarkers
+Innovative design 
+features: None
+Drug (established name): 
+Nedosiran 
+Dose:
+170 mg (adults/adolescents 
+weighing ≥50 kg
+136 mg (adults/adolescents 
+weighing <50 kg)
+Number treated: 23
+Duration (quantity and units): 
+6 months, 1 dose/month
+Primary:
+AUC from Day 90 to Day 180, 
+based on percent change
+from Baseline in 24 h Uox
+Secondary:
+The proportion of participants with 
+a 24 h Uox level <0.46 mmol/24 h 
+or 0.46 to <0.60 mmol/24 h 
+(adjusted per 1.73 m2 BSA in 
+participants aged <18 years) on at 
+least 2 consecutive visits, 
+beginning with Day 90
+Planned: 36
+Actual: 35
+Centers: 19 
+Countries: 11
+301
+Patients with 
+PH1, PH2, 
+or PH3
+Control type: No 
+treatment concurrent 
+(single-arm)
+Randomization: 
+No randomization
+Blinding: Open-label
+Biomarkers: No 
+biomarkers
+Innovative design 
+features: None
+Drug (established name): 
+Nedosiran 
+Dose:
+170 mg (adults/adolescents 
+weighing ≥50 kg)
+136 mg (adults/adolescents 
+weighing <50 kg)
+Number treated: 51
+Duration (quantity and units): up to 
+36 months, 1 dose/month
+Primary: not reported
+Secondary: not reported
+Planned: NA
+Actual: None
+Centers: 18
+Countries: 11
+Source: Clinical Study Report and adsl.xpt.
+1 Includes all submitted clinical trials, even if not reviewed in-depth, except for Phase 1 and pharmacokinetic studies.
+Abbreviations: AUC, area under curve; BSA, body surface area; PH1, primary hyperoxaluria 1; PH2, primary hyperoxaluria 2; PH3, primary hyperoxaluria 3; Uox, urinary oxalate
+Reference ID: 5253559
+
+
+===== PAGE 29 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+28
+Integrated Review Template, version 3.0 (05/25/2022)
+
+In a mouse model of PH1 with knockout of the alanine-glyoxylate aminotransferase gene 
+involved in limiting glyoxylate oxidation to oxalate, administration of the mouse active 
+analog of nedosiran (DCR-m355) at doses of 0.5, 1, and 5 mg/kg caused dose-dependent 
+suppression of hepatic LDH protein, which correlated with a reduction in the urinary oxalate-
+to-creatinine ratio, indicating that inhibition of hepatic LDHA mRNA expression reduced 
+oxalate production.
+
+Administration of DCR-m355 (5 mg/kg) to mice subjected to running on a treadmill resulted 
+in reduced expression of LDHA mRNA in the liver, with no effect on skeletal muscle LDHA 
+mRNA expression or changes in measures of skeletal muscle LDHA isozyme activity as 
+assessed using circulating lactate, pyruvate and creatine kinase levels, thus demonstrating 
+selective knockdown of liver LDHA mRNA.
+5.2. Clinical Pharmacology/Pharmacokinetics
+Table 5. Summary of Clinical Pharmacology and Pharmacokinetics
+Characteristic
+Drug Information
+Pharmacologic Activity
+Established 
+pharmacologic class 
+(EPC)
+Nedosiran is a lactate dehydrogenase A (LDHA)-directed small interfering 
+ribonucleic acid (siRNA) indicated for the treatment of primary hyperoxaluria 
+type 1 (PH1) to lower urinary oxalate levels in pediatric and adult patients.
+Mechanism of action
+Nedosiran is a double-stranded siRNA that reduces production of oxalate by 
+the liver by targeting LDHA messenger ribonucleic acid (mRNA) via the RNA 
+interference pathway.
+Active moieties
+Nedosiran
+QT prolongation
+Safety pharmacology studies in monkeys did not demonstrate QT or QTc 
+(Bazett’s; QTcB) prolongation after three subcutaneous repeat doses of 30 and 
+300 mg/kg administered on Days 1,4, and 10, respectively. The IC50 for the 
+inhibitory effect of nedosiran on human ether-a-go-go (hERG) potassium 
+current is estimated to provide a safety margin of >390-fold compared to the 
+unbound maximum plasma concentration (Cmax) values in patients receiving 
+the maximum recommended dose (160 mg once monthly) of nedosiran. 
+Exposures achieved after clinical doses of nedosiran are not expected to 
+produce meaningful hERG-related QT prolongation.
+General Information
+Bioanalysis
+Nedosiran concentrations in the plasma and urine were measured using a 
+validated anion-exchange high performance liquid chromatography (AEX-
+HPLC) method with a quantification range of 1 to 2000 ng/mL. Urinary oxalate 
+was measured using an enzymatic oxidation-based colorimetric method with a 
+quantification range of 50-2000 µmol/L. The performance of bioanalytical 
+methods and the results of quantification were acceptable.
+Healthy participants 
+versus patients
+The exposures (area under the concentration-time curve from time 0 to the last 
+observed concentration [AUC0-last] and Cmax) in participants with PH1 were 1.3 
+to 1.6-fold higher compared to healthy participants after single doses of 1.5, 3, 
+and 6 mg/kg
+Drug exposure at 
+steady state following 
+the therapeutic dosing 
+regimen (or single 
+dose, if more relevant 
+for the drug)
+Parameter
+Mean (percentage coefficient of variation [CV])a
+AUC(0-τ) (h·ng/mL)
+14,700 (36.0)
+Cmax (ng/mL) 
+607 (52.5)
+a Population pharmacokinetic (PK) prediction for monthly dosing of 170 mg in 
+adolescents/adults
+Reference ID: 5253559
+
+
+===== PAGE 30 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+29
+Integrated Review Template, version 3.0 (05/25/2022)
+Characteristic
+Drug Information
+Range of effective 
+dose(s) or exposure
+Doses that were evaluated were either body weight based (3.3 mg/kg in 9 to 
+11-year-olds) or weight band-based in adolescents and adults (160 mg for 
+≥50 kg and 128 mg for <50 kg) and targeted near-complete inhibition of oxalate 
+production in the liver. With the above dosing, 24 h urinary oxalate was 
+reduced by a placebo-adjusted least-squares mean average (standard error 
+[SE]) of 59% (11%) from Baseline in PH1 participants in Study DCR-PHXC-201
+Maximally tolerated 
+dose or exposure
+A maximum tolerated dose (MTD) was not determined. The highest tested 
+clinical dose was 12 mg/kg (single ascending dose in healthy participants, 
+Study DCR-PHXC-101)
+Dose proportionality
+Nedosiran exhibited a dose-proportional increase in plasma exposure following 
+single subcutaneous doses from 1.5 to 6.0 mg/kg (Study DCR-PHXC-103)
+Accumulation
+No accumulation in plasma is observed with once-monthly dosing
+Time to achieve steady 
+state
+Maximal reduction in mean urinary oxalate from baseline was achieved 
+between 3 to 4 months with once monthly dosing
+Bridge between to-be-
+marketed and clinical 
+trial/study formulations
+The to-be-marketed formulations – a vial (0.5 mL) and a prefilled syringe 
+(0.8 mL or 1 mL) – were used for subcutaneous administration in the clinical 
+trials
+Absorption
+Tmax
+6 h (range 2 to 12 h)
+Distribution
+Volume of distribution
+126 L (Apparent Vz/F)
+Plasma protein binding
+Plasma protein binding is expected to be greater than 86% at clinically relevant 
+concentrations. Binding was determined as 86% at 5 µg/mL, while binding 
+decreased at 10 and 20 µg/mL to 74% and 51%, respectively. Binding was not 
+assessed at clinically relevant concentrations of nedosiran below 1.5 µg/mL 
+due to technical issues related to detection of very low unbound 
+concentrations.
+Drug as substrate of 
+transporters
+Nedosiran was not a substrate for uptake or efflux transporters
+Elimination
+Mass balance results
+A human radiolabeled absorption, distribution, metabolism, excretion study was 
+not conducted due to the risk of prolonged residence time in liver. Following 
+administration of 5 mg/kg [3H]-nedosiran to mice, the distribution of 
+radioactivity was predominately to the liver and the urinary bladder (liver uptake 
+and renal elimination).
+Clearance
+5.7 L/h (CL/F)
+Half-life
+The terminal plasma half-life of nedosiran was 15 h
+Metabolic pathway(s)
+Nedosiran was not identified to be a substrate for cytochrome P450 (CYP) 
+enzymes
+Primary excretion 
+pathways (% dose)
+22-35% of nedosiran was excreted unchanged in urine over the nedosiran 
+dose range of 1.5 to 6 mg/kg in participants with PH1
+Reference ID: 5253559
+
+
+===== PAGE 33 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+32
+Integrated Review Template, version 3.0 (05/25/2022)
+The population PK model simulation showed the three groups (patients ≥12 years of age with 
+body weight ≥50 kg, patients ≥12 years of age with body weight <50 kg, and pediatric patients 
+aged 6 to <12 years of age) achieved a similar nedosiran area under the concentration-time curve 
+(AUC) at steady state with the proposed dosing regimen. The steady-state maximum plasma 
+concentration (Cmax) appeared to be 76% higher in pediatric patients 6 to <12 years of age 
+(estimated median Cmax of 896 ng/mL) compared with that in patients ≥12 years of age with 
+body weight ≥50 kg (estimated median Cmax of 510 ng/mL). Of note, in the Phase 1 Study DCR-
+PHXC-101, no concerning findings were seen in three healthy volunteers who received a single 
+nedosiran dose of 12 mg/kg, which resulted in an arithmetic mean Cmax over 4010 ng/mL (over 
+two-fold higher than the maximum estimated steady state Cmax [approximately 1500 ng/mL] in 
+pediatric patients 6 to <12 years of age with the proposed dosing regimen). As discussed 
+elsewhere in this review, data from clinical studies conducted in patients with PH have also not 
+identified any major safety concerns for nedosiran. The higher pediatric Cmax is within a safe 
+range identified in nonclinical studies. In addition, a new dose cap of 128 mg proposed by the 
+review team for pediatric patients 6 to <12 years of age could attenuate the increased Cmax for 
+pediatric patients. Hence, the higher estimated Cmax at steady state for pediatric patients 6 to 
+12 years of age is not considered a major safety concern.
+To further support dose selection, a population PK/PD model was developed based on data from 
+46 participants with PH1 in Studies DCR-PHXC-101, DCR-PHXC-201, and DCR-PHXC-301. 
+The 46 participants were between 9 to 46 years of age (only 1 pediatric participant [a 9-year-old] 
+was <12 years of age), with body weight ranging from 35 kg to 116 kg. The covariate analysis 
+did not reveal any statistically significant covariate effects. Because no patient <9 years of age 
+was included in the PK/PD model development, the effect of age on the PK/PD relationship in 
+pediatric patients below 9 years of age remains uncertain. PK/PD model simulations indicate that 
+the proposed dosing regimen results in a similar 24 h Uox response in participants ≥12 years of 
+age with body weight ≥50 kg, participants ≥12 years of age with body weight <50 kg, and 
+pediatric participants aged 9 to <12 years of age. See Section 14.5 for details.
+Conclusions on the Proposed Dosing Regimen
+Because the PK/pharmacodynamics (PD) model development did not include data from pediatric 
+patients below 9 years of age, the effect of age on the PK/PD relationship is unknown for the age 
+group 6 to <9 years of age. 
+ 
+ 
+ 
+ 
+ 
+ The review team also recommends including an additional dose cap at 128 mg for 
+pediatric patients 9 to <12 years of age and body weight <50 kg to prevent a potential decrease in 
+dose when 11-year-old patients who weigh <50 kg turn 12 years of age. The PKPD simulations 
+also confirmed that the dose cap of 128 mg would not compromise efficacy in patients 9 to 
+<12 years of age weighing <50 kg (see Section 14.6).
+Reference ID: 5253559
+(b) (4)
+
+
+===== PAGE 42 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+41
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 12. Primary Endpoint, 24 h Uox AUC Δ% Days 90 to 180, mITT Population
+Population
+Placebo
+Nedosiran
+Difference
+(95% CI)
+p-Value
+PH1 and PH2
+1664 (N=12)
+-3507 (N=22)
+-5172
+(-7414, -2929)
+<0.0001
+PH1
+1317 (N-11)
+-4575 (N=17)
+-5892
+(-8101, -3683) 
+<0.0001
+Source: Reviewer program primary efficacy AUC urinary oxalate mi itt.sas, adapted from analysis for CSR Tables A1 and A10.
+Abbreviations: AUC, area under the concentration-time curve; CI, confidence interval; CSR, clinical study report; mITT, modified 
+intent-to-treat; PH1/2, primary hyperoxaluria type1/2; Uox, urinary oxalate
+As previously discussed, the Applicant’s use of the mITT rather than the ITT population may fail 
+to preserve the original randomization. Therefore, estimates using the ITT population are 
+preferable and, henceforth, unless otherwise stated, all results provided subsequently in this 
+review are based on the ITT population. The results from the ITT population (Table 13) are 
+consistent with the Applicant’s analysis conducted on the mITT population (Table 12).
+Table 13. Primary Endpoint, 24 h Uox AUC Δ% Days 90 to 180, ITT Population
+Population
+Placebo
+Nedosiran
+Difference
+(95% CI)
+p-Value
+PH1 and PH2
+1490 (N=12)
+-3486 (N=23)
+-4976
+(-7149,-2803) 
+<0.0001
+PH1
+980 (N=11)
+-4557 (N=18)
+-5537
+(-7692, -3382) 
+<0.0001
+Source: Reviewer program primary efficacy AUC urinary oxalate mi itt.sas.
+Abbreviations: AUC, area under the concentration-time curve; CI, confidence interval; CSR, clinical study report; ITT, intent-to-treat; 
+PH1/2, primary hyperoxaluria type1/2; Uox, urinary oxalate
+Additional analyses were conducted to explore the impact of the baseline imbalance in treatment 
+assignments among Asian participants and a reduced dosing regimen during the trial among 
+adults weighing <50 kg. Rerandomization tests (to compensate for the adaptive randomization) 
+and tipping point analyses (to assess for the impact of missing data) were also conducted. These 
+analyses confirmed the robustness of the primary endpoint analysis findings. See Section 16 for 
+further discussion.
+Secondary Efficacy Endpoints
+Urinary Oxalate
+The percentage of participants with normalized or near-normalized 24 h Uox at two consecutive 
+visits during Days 90 to 180 was statistically significantly higher in the nedosiran arm (48%) 
+than in the placebo arm (0%) (Table 15). However, the mean Baseline value of Uox was lower in 
+the nedosiran arm than in the placebo arm (mean baseline value of 1330μmol/day and 
+1965μmol/day, respectively). This imbalance is further illustrated in Figure 2, which shows that 
+the lowest 10 Baseline values occurred in patients randomized to nedosiran. Given this 
+imbalance, the results of this secondary endpoint analysis are challenging to interpret. An 
+Reference ID: 5253559
+
+
+===== PAGE 49 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+48
+Integrated Review Template, version 3.0 (05/25/2022)
+6.3. Key Efficacy Review Issues
+6.3.1. The Interpretability of AUC as Descriptor of 
+Efficacy
+Interpretability and statistical properties of the Applicant’s primary endpoint, AUC for 
+percentage change from Baseline in 24 h Uox from study Days 90 to 180, and the relationship 
+between AUC and mean percentage change in 24 h Uox.
+Background
+Regulations and guidance state that the principal objective for Section 14 of the label is 
+“to provide the information that is most useful to prescribers in treating their patients,” and that 
+the label should include “endpoints the Agency has accepted as evidence of effectiveness, or 
+closely related endpoints that may be more easily understood.” Although the Agency did not 
+object to the Applicant’s proposal to assess the efficacy of nedosiran using the AUC for 
+percentage change from Baseline in 24 h Uox from study Days 90 to 180, such an endpoint may 
+not be an ideal descriptor of nedosiran’s effect on Uox or easily understood by prescribers.
+Assessment
+Section 16.1 of the review discuss the statistical properties of the Applicant’s primary endpoint 
+and associated challenges with its interpretation as a descriptor of efficacy. Unlike mean 
+percentage change, the value of AUC may vary according to the temporal sequence in which the 
+underlying values of percentage change are recorded and, as a consequence, in small trials, such 
+as the present one, AUC is more likely to generate random highs and lows in mean outcome that 
+are not clinically meaningful. Further complicating interpretation of AUC as a measure of mean 
+percentage change, a single value of AUC may represent several different values of mean 
+percentage change in Uox. These two issues would be expected to add “noise” in the calculation 
+of AUC that could bias towards the null hypothesis of no treatment effect of nedosiran. The fact 
+that the treatment effect of nedosiran on AUC was large and highly statistically significant 
+despite this “noise” supports the conclusion that there is a true treatment effect.
+One other issue with the Applicant’s calculation of AUC is that it uses single imputation of 
+missing values, in direct violation of recommendations by the National Academy of Sciences 
+based on the fact that single imputation methods underestimate uncertainty in estimates of 
+treatment effect. Also, the single imputation method used, linear interpolation, produces results 
+that do not match observed data. Although these latter two issues raise uncertainty about the Uox 
+values imputed for 87 of the 90 days used to calculate AUC, it is noteworthy that nedosiran 
+shows consistently large reductions in Uox on Days 90, 120, 150, and 180 compared to Baseline.
+Conclusion
+Although the Agency did not object to the Applicant’s proposal to assess the efficacy of 
+nedosiran using this primary endpoint, it may not be easily understood by prescribers and also 
+has undesirable statistical properties. The Applicant wishes to still include this endpoint in the 
+labeling because it was the primary efficacy endpoint of the trial. This is acceptable but, 
+consistent with the regulations discussed in the Background section, the review team has also 
+Reference ID: 5253559
+
+
+===== PAGE 52 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+51
+Integrated Review Template, version 3.0 (05/25/2022)
+than the exposure achieved in humans dosed at 2.8 mg/kg, which resulted in an AUClast of 
+13.6 µg·h/mL (Table 22). Nedosiran is quickly cleared from the plasma and taken up by the 
+tissues, and the tissue residence time is very long (elimination half-life in the liver ranged from 
+12 to 23 days), which is much longer than the plasma distribution phase; therefore, the plasma 
+exposure levels (AUC) may not reflect the full spectrum of the drug concentration-time curve in 
+the tissues. For this reason, the safety margin is also estimated using body surface area-based 
+dose scaling, which represents a more conservative (compared to AUC) estimate of 8.6-fold 
+higher than the MRHD of 2.8 mg/kg (Table 23).
+Table 22. Safety Margins by Plasma Exposure
+Study
+NOAEL
+(mg/kg)
+Nonclinical Exposure 
+(AUC0-48h μg·h/mL)
+Human Exposure*
+Safety Multiples
+6-month mouse (juvenile)
+300
+526
+38
+9-month monkey (juvenile)
+100
+400
+29
+Source: Nonclinical Review analysis.
+* Maximum recommended human dose (MRHD) 2.8 mg/kg systemic exposures of AUClast 13.6 μg·h/mL.
+Abbreviations: AUC, area under the concentration-time curve; NOAEL, no observed adverse effect level
+Table 23. Safety Margins by Dose (Body Surface Area-Based Scaling)
+Study
+NOAEL
+(mg/kg)
+HED
+(mg/kg)
+MRHD 2.8 mg/kg
+Safety Multiples
+6-month mouse (juvenile)
+300
+24
+8.6
+9-month monkey (juvenile)
+100
+32
+11.4
+Source: Nonclinical Review analysis.
+MRHD, 170 mg/dose (2.8 mg/kg).
+Abbreviations: HED, human equivalent dose; MRHD, maximum recommended human dose; NOAEL, no observed adverse effect 
+level
+7.2. Potential Risks or Safety Concerns Based on 
+Drug Class or Other Drug-Specific Factors
+Potential Risks With GalNAC-Conjugated siRNAs
+Toxicities associated with GalNAC-conjugated siRNA products include injection site reactions, 
+serum ALT and AST elevations, increases in serum creatinine and decreases in eGFR, positive 
+antidrug antibodies (ADA), and hypersensitivity (including anaphylactic reactions).
+Potential Risks Due to Drug-Specific Factors
+Nedosiran inhibits LDHA, which metabolizes glyoxylate to oxalate. In patients with PH1 treated 
+with nedosiran, the precursor glyoxylate is expected to be converted to glycolate by glyoxylate 
+reductase/hydroxypyruvate reductase. Effects of chronic elevations in plasma or urine glycolate 
+are unknown; however, the available clinical and nonclinical data suggest such elevations are 
+likely to be benign. In humans, the gene HAO1 encodes glycolate oxidase, an enzyme that 
+converts glycolate to glyoxylate in the peroxisomes of liver cells. As such, suppression of HAO1 
+is expected to lead to the accumulation of glycolate. Glycolate is highly water-soluble and 
+readily excreted in urine. In a case report published in 2014, an 8-year-old male with a 
+homozygous splice site mutation in HAO1 was noted to have marked elevations of urinary 
+glycolate. He had normal kidney and liver function, and no kidney stones (Frishberg et al. 2014). 
+Similarly, glyoxalate-deficient mice (Hao1−/−) have asymptomatic marked urinary glycolate 
+Reference ID: 5253559
+
+
+===== PAGE 90 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+89
+Integrated Review Template, version 3.0 (05/25/2022)
+Study Information
+Findings
+Study No./Study Title
+17-DEV-006/Respiratory Safety Study in Conscious 
+Cynomolgus Monkeys
+Species: Cynomolgus monkey
+Number: 4 males/dose group
+Dose: 30, 300 mg/kg, 
+single SC injection
+Nedosiran had no adverse effect on respiratory function in 
+conscious cynomolgus monkeys following a single dose of SC 
+injection up to 300 mg/kg.
+Study No./Study Title:
+17-DEV-006/Cardiovascular Safety Study in Conscious 
+Cynomolgus Monkeys
+Species: Cynomolgus monkey
+Number: 4 males/dose
+Dose: 30, 300 mg/kg
+Single SC injection
+Nedosiran caused minor increases in heart rate, decrease in 
+mean RR interval, and fluctuations in mean blood pressure at a 
+dose level of 300 mg/kg (plasma concentration 52,818 ng/mL at 
+8 h), which is estimated to be 81-fold the MRHD of 2.8 mg/kg 
+(Cmax 649 ng/mL).
+Source: Applicant’s nonclinical study report
+Abbreviations: cDNA, complementary deoxyribonucleic acid; Cmax, maximum plasma concentration; CNS, central nervous system; 
+HEK, human embryonic kidney; hERG, human ether-a-go-go-related gene; MRHD, maximum recommended human dose; SC, 
+subcutaneous
+13.1.2. Pharmacokinetics/ADME/Toxicokinetics
+General pharmacokinetics (PK) including absorption, distribution, metabolism, and excretion, 
+and toxicokinetics of nedosiran were characterized in mice and monkeys (Table 43).
+Table 43. Major Findings of PK Studies
+Study No / Study Title
+Major Findings
+Study Title
+Absorption
+Study No: 17-DEV-002, 17-DEV-003
+Species: Mice
+(3M/3F per dose group), 
+Cynomolgus monkey
+(4-6 M/4-6 F/dose group).
+Dose: Mice 3, 100 mg/kg;
+Monkey 3, 100, 300 mg/kg
+Repeated dose SC injection.
+Nedosiran is absorbed rapidly with a Tmax of 0.5 to 2 h and 
+1.5 to 8 h in mice and monkeys, respectively. Peak plasma 
+concentration rapidly declined in a multiexponential manner, 
+with an initial rapid distribution phase to tissues, followed by a 
+much slower terminal elimination phase, indicating equilibrium 
+between plasma and tissue concentration. Subcutaneous 
+bioavailability was 4% in mice and 8% in monkeys at a dose of 
+3 mg/kg. Plasma elimination half-life was approximately 4 h.
+Study Title:
+Distribution
+Study No: 17-DEV-007, 17-DEV-003, 
+20-L1360-M-0067.
+Species: Mice (3 M/3 F), 
+Cynomolgus monkey
+(4-6 M/4-6 F/dose group),
+Dose Nedosiran: Mice 3, 30, 
+100 mg/kg; Monkey 30, 100, 300 mg/kg
+[3H]-Nedosiran mice 5 mg/kg
+Nedosiran is distributed primarily to the liver, and to a lesser 
+extent to the kidney. The mean liver-to-kidney concentration 
+ratios at 48 h after the second dose were 30.3 (dose 30 mg/kg), 
+13.9 (dose 100 mg/kg), and 7.5 (dose 300 mg/kg). 
+Concentrations in other organs, including skeletal muscle, 
+brain, and reproductive tissues, were less than 2% of those in 
+the liver.
+[3H]-nedosiran (5 mg/kg) administered to mice by SC injection 
+distributed primarily to the liver and urinary bladder. Tissues 
+with measurable radioactivity were kidney, lung, bone marrow, 
+spleen, lymph node, salivary gland, and thyroid gland.
+No apparent differences in plasma protein binding were 
+observed among the species tested (mouse, 
+cynomolgus monkey, and human). Plasma protein binding 
+ranged from 86% to 88% at 5 μg/mL, 74% to 85% at 10 μg/mL, 
+and 46% to 51% at 20 μg/mL.
+Reference ID: 5253559
+
+
+===== PAGE 93 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+92
+Integrated Review Template, version 3.0 (05/25/2022)
+Parameter
+Major Findings
+Toxicokinetics
+On Day 1, maximum plasma concentration (Cmax) increased in a dose-
+proportional manner from 30 mg/kg to 100 mg/kg (3.9-fold for a 3.3-fold increase 
+in dose) and 300 mg/kg (9.3-fold for a 10-fold increase in dose). On Day 169, 
+Cmax was dose proportional at 100 mg/kg (3.2-fold) and less than dose 
+proportional at 300 mg/kg (6.8-fold). Total exposure (AUClast) on Days 1 and 169 
+was greater than dose proportional over the dose range evaluated (100 mg/kg: 
+4.8- and 4.6-fold, respectively; 300 mg/kg: 20.5- and 17.2-fold, respectively). 
+Group mean accumulation ratios for Cmax ranged from 1.34 to 1.85 and for 
+AUClast ranged from 1.68 to 1.99. Tmax was observed at the first (1 h) or second 
+(2 h) time point postdose. Plasma elimination half-life could not be determined in 
+mice. No sex-related difference in plasma concentration of nedosiran was 
+apparent.
+Tissue concentration
+The tissue concentration of nedosiran was higher in the liver than the kidney. The 
+concentration of nedosiran in both tissues increased with increasing dose and 
+was less than dose proportional in the liver and greater than dose proportional in 
+the kidney. Over a 10-fold dose range, mean nedosiran concentration increased 
+3-fold in the liver and up to 17-fold in the kidney.
+Source: Applicant’s Nonclinical Study Report.
+Abbreviations: AUClast, area under the concentration-time curve from dosing to the time of the last measured concentration; Tmax, 
+time to maximum plasma concentration
+Study Title: 39-Week Repeat-Dose Study of Nedosiran in Juvenile and Adult Monkey
+Key Study Findings
+
+In the chronic 9-month study in the cynomolgus monkey (Table 46), nedosiran administered 
+SC once every 4 weeks was associated with minimal to moderate basophilic macrophage 
+hypertrophy in the liver Kupffer cells, mesenteric lymph node, and injection sites at doses 
+≥30 mg/kg, and in the mandibular lymph nodes and testes at a dose of 300 mg/kg. 
+Microscopy evaluation of the liver revealed an increase in the number and size of clear 
+vacuoles and lysosomes within hepatocytes in the 300 mg/kg dose group, but there was no 
+degeneration or necrosis (Table 47).
+
+During the 8-week recovery period, the findings of macrophage basophilic hypertrophy were 
+partially reversed at the injection site; however, the findings in the liver, lymph nodes and 
+testes were still evident in the 300 mg/kg dose group.
+
+Hypertrophic, basophilic changes in the Kupffer cell/macrophage in the liver and lymph 
+nodes could be due to accumulation of the test article and have been reported with this class 
+of oligonucleotides.
+
+Findings of basophilic hypertrophy of macrophages in sexually mature monkeys may not 
+suggest adverse effects on fertility because in a dedicated study on fertility and embryonic 
+development study in male mice, there were no nedosiran- or DCR-m355a-related effects on 
+mating and fertility parameters, sperm motility, sperm density, or sperm morphology, 
+reproductive organ weights (testes, epididymides, prostate, and seminal vesicles), and no 
+macroscopic observations were detected at necropsy examination.
+
+In the juvenile monkey, the histological findings in the liver, lymph nodes and testes were 
+still evident in the 300 mg/kg dose group, and hence, the NOAEL for nedosiran was 
+considered to be 100 mg/kg, with corresponding AUC0-48h 400 µg·h/mL, which is 
+Reference ID: 5253559
+
+
+===== PAGE 95 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+94
+Integrated Review Template, version 3.0 (05/25/2022)
+Parameter
+Major Findings
+Histopathology
+Adequate battery: Yes
+Peer reviewed: Yes
+At terminal necropsy, increases in the incidence and/or severity of the 
+Kupffer cell basophilic hypertrophy and hepatocyte basophilia in the liver and 
+macrophage basophilic hypertrophy in the mesenteric lymph node were 
+noted in both the juvenile and young-adult animals. Minimal to mild 
+basophilic hypertrophy of the Kupffer cells/macrophages in the liver, 
+mesenteric lymph node, and injection sites was noted at doses ≥30 mg/kg. 
+Additional findings included minimal hepatocyte hypertrophy and mixed 
+inflammatory cell infiltration in the liver (juvenile monkey), and macrophage 
+basophilic hypertrophy in the mandibular lymph nodes and testes in the 
+300 mg/kg dose group. Transmission electron microscopy revealed an 
+increase in the number and size of lysosomes, which contained amorphous 
+electron-dense material, which were not consistent with phospholipidosis. 
+The absence of degeneration or necrosis, or effects on other features of the 
+cell and subcellular organelles, suggests that the observed changes were not 
+adverse. At recovery necropsy, macrophage basophilic hypertrophy was still 
+evident in the liver, lymph nodes, and testes in juveniles dosed with 100 and 
+300 mg/kg and in young adults dosed with 300 mg/kg, whereas the findings 
+at the injection sites and mixed inflammatory cell infiltrates in the liver were 
+resolved.
+Toxicokinetics
+Cmax increased in an approximately dose-proportional manner with a 10-fold 
+increase in dose resulting in a 9.0-fold and 9.3-fold increase in Cmax on 
+Days 1 and 253, respectively. AUC0-48 increased in a greater than dose-
+proportional manner, i.e., a 10-fold increase in dose from 30 to 300 mg/kg 
+resulted in 24- and 23-fold increases in AUC0-48 on Days 1 and 253, 
+respectively. Accumulation ratios were similar across dose levels and ranged 
+from 0.993 to 1.29 for Cmax and from 1.25 to 1.44 for AUC0-48. Accumulation 
+was similar in juvenile and young adult animals at the 300 mg/kg dose, with 
+AUC0-48 accumulation ratios of 1.25 and 1.36, respectively. Tmax values 
+ranged from 1.8 to 11 h and tended to increase with dose. The plasma 
+elimination half-life was approximately 4 h. No remarkable sex-related 
+differences in exposure were observed on Day 1 or 253. No age-related 
+differences in toxicokinetics were evident.
+Tissue concentration
+The tissue concentration of nedosiran increased with dose, although the 
+increases were less than dose proportional. Concentration of nedosiran at 
+terminal sacrifice (Day 255) were higher in the liver than in the kidney. On 
+Day 309 (8 weeks after the last dose), the tissue concentrations of nedosiran 
+were 40.0 to 77.8% (liver) and 7.35 to 16.0% (kidney) of those on Day 255, 
+with the apparent rate of decrease more rapid in the kidney than in the liver.
+Pharmacodynamic 
+analysis
+By Day 255, nedosiran induced significant reduction in LDHA mRNA 
+expression (92% reduction), and this reduction persisted for at least 8 weeks 
+post-dose (Day 309), with no recovery of LDHA mRNA expression. No age-
+related difference in the concentration of RNA-induced silencing complex-
+loaded nedosiran was observed between juvenile and young-adult animals at 
+the 300 mg/kg dose level.
+Source: Applicant’s Nonclinical Study Report.
+Abbreviations: ALT, alanine aminotransferase; AST, aspartate aminotransferase; AUC0-48, area under the concentration-time curve 
+from time 0 to 48 h; CK, creatinine kinase; Cmax, maximum plasma concentration; G-CSF, granulocyte colony stimulating factor; IFN, 
+interferon; IL, interleukin; LDH, lactate dehydrogenase; LDHA, lactate dehydrogenase A; Tmax, time to maximum plasma 
+concentration; TNF, tumor necrosis factor
+Reference ID: 5253559
+
+
+===== PAGE 110 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+109
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 61. PK Parameters for Nedosiran Following Single Subcutaneous Doses in Healthy Participants (Group a) and PH Patients (Group 
+B)
+Group
+Dose 
+(mg/kg) N
+Cmaxa
+(ng/mL)
+Tmaxa (h)
+AUC0-lasta
+(h·ng/mL)
+AUC0-∞a
+(h·ng/mL)
+t½a
+(h)
+CL/Fa
+(L/h)
+VZ/Fa
+(L)
+CLRa
+(L/h)
+Fea
+(%)
+A
+0.3
+(0.28 FAE)
+3
+62.0
+(24.8)
+8.00
+(6.00, 8.00)
+1190
+(22.9)
+1440b
+(6.41)
+7.12b
+(6.66)
+19.0b
+(1.74)
+195b
+(8.41)
+3.62
+(21.5)
+15.2
+(7.64)
+A
+1.5
+(1.4 FAE)
+3
+389
+(24.7)
+6.00
+(4.00, 8.00)
+6160
+(29.9)
+6380
+(27.1)
+5.34
+(13.4)
+17.3
+(9.96)
+134
+(22.2)
+2.94
+(19.4)
+15.0
+(2.78)
+A
+3.0
+(2.8 FAE)
+3
+649
+(50.8)
+12.0
+(0.50, 24.0)
+15,500
+(25.0)
+13,100c
+12.1c
+14.3c
+250c
+3.36
+(17.9)
+16.5
+(23.3)
+A
+6.0
+(5.6 FAE)
+3
+1570
+(8.77)
+6.00
+(2.02, 12.0)
+35,700
+(24.8)
+35,800
+(24.5)
+13.8
+(45.0)
+11.5
+(23.2)
+226
+(51.2)
+3.32
+(43.9)
+21.2
+(53.2)
+A
+12.0
+(11.3 FAE)
+3
+4010
+(6.20)
+12.0
+(6.02, 12.0)
+84,500
+(3.32)
+NC
+NC
+NC
+NC
+3.48
+(17.6)
+29.4
+(11.8)
+B
+1.5
+(1.4 FAE)
+6
+547
+(29.7)
+8.00
+(0.550, 12.0)
+9990
+(16.3)
+10700d
+(6.06)
+4.57d
+(10.8)
+12.6b (14.6)
+83.6d
+(23.6)
+3.42
+(38.1)
+21.5
+(45.2)
+B
+3.0
+(2.8 FAE)
+8
+1050
+(46.9)
+8.03
+(6.00, 12.0)
+20,400
+(35.9)
+15900e
+5.45e
+12.2e
+96.3e
+3.47
+(68.3)
+26.6
+(55.4)
+B
+6.0
+(5.6 FAE)
+4
+2090
+(33.6)
+8.00
+(7.92, 12.0)
+45,200
+(32.2)
+28200e
+7.27e
+9.97e
+105e
+3.94
+(81.3)
+34.5
+(80.5)
+Source: Study DCR-PHXC-101 CSR.
+a Arithmetic mean and %CV are reported for all parameters except for Tmax, which is shown as median and minimum, maximum.
+b n=2.
+c n=1.
+d n=4.
+e n=1.
+Abbreviations: CV, coefficient of variation; AUC0-∞, area under the concentration-time curve from time 0 to infinity; AUC0-last, area under the concentration-time curve from time 0 to last 
+quantifiable time point; CL/F, apparent clearance; CLR, renal clearance; Cmax, maximum observed concentration; FAE, free acid equivalent; Fe, fraction excreted unchanged in the urine; 
+N, number of participants; NC, not calculated; t1/2, half-life; Tmax, time to maximum observed concentration, Vz/F, apparent volume of distribution (terminal phase)
+Reference ID: 5253559
+
+
+===== PAGE 112 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+111
+Integrated Review Template, version 3.0 (05/25/2022)
+DCR-PHXC-102 (Intrinsic factor PK): Single Dose Study in Participants With Severe 
+Renal Impairment and End-Stage Renal Disease (ESRD)
+Study Design
+Study DCR-PHXC-102 was an open-label study conducted to characterize the effects of severe 
+renal impairment and hemodialysis (in patients with ESRD) on the PK of nedosiran. The control 
+group was healthy participants with normal renal function and was matched for gender, age 
+(±10 years), and weight (±20%) with the other test groups (Table 62). The participants received a 
+single dose of nedosiran sodium (170 mg) by SC injection on Day 1 and serial PK samples were 
+collected at predose, 0.25, 0.5, 1, 2, 4, 6, 8, 10, 12, 24, 48, 72, 96, 168, 336, and 672 h (Day 28) 
+postdose. In Group 1a, blood samples collected during hemodialysis for PK assessment were 
+drawn from both the line entering and the line exiting the dialyzer (representing arterial and 
+venous blood samples, respectively). Dialysate samples in Group 1a were obtained every 30 min 
+for the duration of dialysis on Day 1. Pooled urine (for participants with urine output) was 
+obtained at predose (single void), 0 to 6, >6 to 12, >12 to 24, >24 to 48, >48 to 72, and >72 to 
+96 h postdose.
+Table 62. Study Design of DCR-PHXC-102
+Group
+Number of 
+Participants 
+Enrolled
+Hemodialysis / 
+Renal Function 
+Status
+eGFRa at 
+Screening 
+(mL/min/1.73 m2) Dosing Schedule
+Pharmacokinetic 
+Sample Type
+Group 1a
+8
+Stable 
+hemodialysis
+Severe RI/ESRDb
+<30 On Day 1, 8 h 
+before dialysis
+Plasma, urine, 
+dialysate
+Group 1b
+8
+Stable 
+hemodialysis
+Severe RI/ESRDb
+<30 On Day 1, 2 h 
+after dialysis
+Plasma, urine
+Group 2
+8 No hemodialysis 
+Severe RI/ESRDb
+<30 On Day 1
+Plasma, urine
+Group 3
+10c Normal renal 
+function
+≥90 On Day 1
+Plasma, urine
+Source: Study DCR-PHXC-102 Clinical Study Report Section 10.1.
+a eGFR estimated using the CKD-EPI equation.
+b Severe RI is defined as eGFR <30 mL/min/1.73 m2; ESRD is defined as an eGFR <15 mL/min/1.73 m2.
+c Due to matching requirements, 2 additional participants were enrolled in Group 3, for a total of 10, rather than the 8 prespecified in 
+the protocol.
+Abbreviations: CKD-EPI, chronic kidney disease epidemiology collaboration; eGFR, estimated glomerular filtration rate; ESRD, end-
+stage renal disease; RI, renal impairment
+Results
+In participants with normal renal function, mean renal clearance was 3.2 L/h, and the mean 
+unchanged drug eliminated over the first 96 h was 15.2%. Exposures increased with impairment 
+of renal function, but the time to the maximum plasma concentration was not affected. During 
+the 4 h dialysis period only 4% of drug was eliminated; however, overall exposure (AUC and 
+Cmax) was 30% lower in Group 1a (participants who were dosed 8 h before hemodialysis), as 
+compared to Group 1b (those dosed 2 h after hemodialysis) and the reasons for these 
+observations are not clear.
+Reference ID: 5253559
+
+
+===== PAGE 114 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+113
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 63. PK Parameters of Nedosiran Following a Single Dose in Patients With Severe Renal Impairment With or Without Hemodialysis 
+(Study DCR-PHXC-102)
+Cmax
+(ng/mL)
+Tmax
+(h)
+AUC0-last 
+(h·ng/mL)
+AUC0-∞
+(h·ng/mL)
+t½
+(h)
+CL/F
+(L/h)
+VZ/F (L)
+CLR
+(L/h)
+Fe
+(%)
+Groupa
+Doseb
+(mg)
+N
+Mean 
+(%CV)
+N
+Median 
+(Min, Max)
+N
+Mean 
+(%CV)
+N
+Mean 
+(%CV)
+N
+Mean 
+(%CV)
+N
+Mean 
+(%CV)
+N
+Mean 
+(%CV)
+N
+Mean 
+(%CV)
+N
+Mean 
+(%CV)
+1a
+170
+8
+757
+(47.2)
+8
+11.0
+(4.00, 24.0)
+8
+18300
+(44.8)
+5
+15200
+(32.3)
+5
+13.6
+(53.2)
+5
+12.1
+(29.6)
+5
+223
+(51.1)
+1
+0.0396
+(NA)
+1
+0.344
+(NA)
+1b
+170
+8
+1190
+(45.1)
+8
+9.00
+(2.00, 12.0)
+8
+25500
+(40.8)
+4
+26800
+(32.8)
+4
+43.2
+(163)
+4
+6.79
+(26.9)
+4
+297
+(141)
+1
+0.0924
+(NA)
+1
+1.07
+(NA)
+2
+170
+8
+982
+(83.5)
+8
+10.0
+(0.25, 24.0)
+8
+19800
+(24.7)
+0
+NC
+0
+NC
+0
+NC
+0
+NC
+7
+0.417
+(76.6)
+7
+4.27
+(49.0)
+3
+170 10
+315
+(35.6)
+10
+10.0
+(0.50, 12.0)
+10
+8390
+(23.2)
+9
+8410
+(24.4)
+9
+8.27
+(28.5)
+9
+21.9
+(36.5)
+9
+280
+(75.3)
+7
+3.15
+(22.0)
+7
+15.2
+(19.8)
+Source: DCR-PHXC-102 CSR, Section 16.1.13.
+a Group 1a: Severe RI/ESRD participants stable on hemodialysis given nedosiran 8 h before dialysis; Group 1b: Severe RI/ESRD participants stable on hemodialysis given nedosiran 
+2 h after dialysis; Group 2: Severe RI/ESRD participants who do not require hemodialysis; Group 3: Participants with normal renal function.
+b Dose expressed in sodium salt weight.
+Abbreviations: AUC0-∞, area under the concentration-time curve from time 0 to infinity; AUC0-last, area under the concentration-time curve from time 0 to last quantifiable time point; 
+CL/F, apparent clearance; CLR, renal clearance (calculated as CLR(0-last)); Cmax, maximum observed concentration; CV, coefficient of variation; FAE, free acid equivalent; fe, fraction 
+excreted unchanged in urine; N, number of participants; NA, not applicable; NC, not calculated; PK, pharmacokinetics; t1/2, half-life; Tmax, time to maximum observed concentration, 
+Vz/F, apparent volume of distr bution (terminal phase)
+Reference ID: 5253559
+
+
+===== PAGE 115 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+114
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 64. Statistical Analysis of PK Parameters in Study DCR-PHXC-102
+Test Group
+Reference Group
+Groupinga
+(Test vs. Reference)
+PK Parameter (Unit)
+Geometric Mean
+N Geometric Mean
+N
+Ratio of
+Geometric Means
+90% CI of Ratio of 
+Geometric Means
+AUC0-last (h·ng/mL)
+19,280
+8
+8137
+10
+2.37
+(1.90, 2.96)
+AUC0-∞ (h·ng/mL)
+NC
+0
+8129
+9
+NC
+NC
+Group 2 vs. Group 3
+Cmax (ng/mL)
+811
+8
+289
+10
+2.81
+(1.79, 4.40)
+AUC0-last (h·ng/mL)
+16,831
+8
+8137
+10
+2.07
+(1.54, 2.78)
+AUC0-∞ (h·ng/mL)
+14,583
+5
+8129
+9
+1.79
+(1.33, 2.42)
+Group 1a vs. Group 3
+Cmax (ng/mL)
+673
+8
+289
+10
+2.33
+(1.51, 3.58)
+AUC0-last (h·ng/mL)
+23,544
+8
+8137
+10
+2.89
+(2.15, 3.89)
+AUC0-∞ (h·ng/mL)
+25,847
+4
+8129
+9
+3.18
+(2.31, 4.38)
+Group 1b vs. Group 3
+Cmax (ng/mL)
+1058
+8
+289
+10
+3.66
+(2.36, 5.69)
+AUC0-last (h·ng/mL)
+16,831
+8
+23,544
+8
+0.72
+(0.49, 0.11)
+AUC0-∞ (h·ng/mL)
+14,583
+5
+25,847
+4
+0.56
+(0.38, 0.83)
+Group 1a vs. Group 1b
+Cmax (ng/mL)
+673
+8
+1058
+8
+0.64
+(0.39, 1.04)
+Source: DCR-PHXC-102 Clinical Study Report, Section 16.1.13.
+a Group 1a: Severe RI/ESRD participants stable on hemodialysis given nedosiran 8 h before dialysis; Group 1b: Severe RI/ESRD participants stable on hemodialysis given nedosiran 
+2 h after dialysis; Group 2: Severe RI/ESRD participants who do not require hemodialysis; Group 3: Participants with normal renal function.
+Abbreviations: AUC0-∞, area under the concentration-time curve from time 0 to infinity; AUC0-last, area under the concentration-time curve from time 0 to last quantifiable time point; CI, 
+confidence interval; Cmax, maximum observed concentration; CSR, clinical study report; ESRD, end-stage renal disease; N, number of participants; NC, not calculated; PK, 
+pharmacokinetics; RI, renal impairment
+Reference ID: 5253559
+
+
+===== PAGE 117 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+116
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 65. PK Parameters of Nedosiran Following a Single Dose in Japanese and Caucasian Healthy Participants
+Dose 
+(mg/kg)
+Cohort
+N
+Cmaxa
+(ng/mL)
+Tmaxa
+(h)
+AUC0-lasta
+(h·ng/mL)
+AUC0-∞a
+(h·ng/mL)
+t½a
+(h)
+CL/Fa
+(L/h)
+VZ/Fa
+(L)
+CLRa
+(L/h)
+fea
+(%)
+323
+10.0
+7290
+7180b
+5.89b
+17.1b
+147b
+3.25b
+18.4
+Caucasian
+6
+(22.6)
+(4.00, 12.0)
+(17.4)
+(15.0)
+(21.1)
+(30.3)
+(38.7)
+(35.1)
+(6.68)
+326
+8.00
+6910
+7180c
+6.54c
+16.0c
+154c
+3.7c
+22.2
+1.5
+(1.4 FAE)
+Japanese
+6
+(32.3)
+(0.50, 24.0)
+(9.93)
+(5.10)
+(19.2)
+(15.1)
+(35.3)
+(21.4)
+(7.33)
+684
+7.99
+13700
+13400c
+6.79c
+17.8c
+175c
+2.87c
+17.7
+Caucasian
+6
+(23.8)
+(1.00, 12.0)
+(8.61)
+(9.91)
+(5.08)
+(8.15)
+(10.3)
+(19.3)
+(21.2)
+497
+7.00
+12300
+12400
+7.09
+15.6
+161
+3.47
+22.3
+3.0
+(2.8 FAE)
+Japanese
+6
+(37.3)
+(1.00, 12.0)
+(12.7)
+(12.9)
+(17.3)
+(23.6)
+(30.1)
+(30.4)
+(21.9)
+1350
+8.00
+30100
+27100d
+5.89d
+12.7d
+108d
+2.27d
+18.8
+Caucasian
+6
+(26.9)
+(4.00, 12.0)
+(16.9)
+(28.6)
+(12.7)
+(7.64)
+(20.2)
+(6.42)
+(13.7)
+1140
+8.00
+29900
+26100d
+10.7d
+13.9d
+204d
+3.85d
+26.8
+6.0
+(5.6 FAE)
+Japanese
+6
+(21.4)
+(6.00, 12.0)
+(20.6)
+(22.2)
+(66.4)
+(15.6)
+(53.6)
+(10.9)
+(20.5)
+Source: Study DCR-PHXC-103 CSR, Section 16.1.13 PK report.
+a Arithmetic mean and %CV are reported for all parameters except for Tmax, which is shown as median and minimum, maximum.
+b n=3.
+c n=4.
+d n=2.
+Abbreviations: AUC0-∞, area under the concentration-time curve from time 0 to infinity; AUC0-last, area under the concentration-time curve from time 0 to last quantifiable time point; 
+CL/F, apparent clearance; CLR, renal clearance; Cmax, maximum observed concentration; CV, coefficient of variation; FAE, free acid equivalent; fe, fraction excreted unchanged in 
+urine; N, number of participants; PK, pharmacokinetics; t½, half-life; Tmax, time to maximum observed concentration, Vz/F, apparent volume of distribution (terminal phase)
+Reference ID: 5253559
+
+
+===== PAGE 118 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+117
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 66. Statistical Analysis of PK Parameters in Japanese vs. Caucasian Healthy Participants
+Dose 
+(mg/kg)
+PK Parameter 
+(Unit)
+Ratio (%) of 
+Geometric Means 
+(Japanese vs. Caucasian)
+90% CI of Ratio 
+of Geometric Me
+ans
+No. of Participants 
+(Japanese, Caucasian)
+AUC0-last (h·ng/mL)
+95.6
+(81.8, 111.8)
+6, 6
+AUC0-∞ (h·ng/mL)
+100.7
+(85.4, 118.7)
+4, 3
+1.5 
+(1.4 FAE) Cmax (ng/mL)
+97.3
+(69.1, 136.9)
+6, 6
+AUC0-last (h·ng/mL)
+89.7
+(79.9, 100.7)
+6, 6
+AUC0-∞ (h·ng/mL)
+92.2
+(79.8, 106.4)
+6, 4
+3.0 
+(2.8 FAE) Cmax (ng/mL)
+71.2
+(52.4, 96.9)
+6, 6
+AUC0-last (h·ng/mL)
+98.8
+(80.7, 121)
+6, 6
+AUC0-∞ (h·ng/mL)
+97.1
+(45.6, 207.1)
+2, 2
+6.0 
+(5.6 FAE) Cmax (ng/mL)
+85.5
+(64.3, 113.6)
+6, 6
+Source: Study DCR-PHXC-103 Clinical Study Report, Section 16.1.13 PK Report.
+Abbreviations: AUC0-∞, area under the concentration-time curve from time 0 to infinity; AUC0-last, area under the concentration-time 
+curve from time 0 to last quantifiable time point; CI, confidence interval; Cmax, maximum observed concentration; FAE, free acid 
+equivalent; PK, pharmacokinetics
+DCR-PHXC-201 (Double-Blind Efficacy Study): Multiple Dose Study with PK and PD in 
+PH Patients (Children and Adults)
+Study Design
+The study design is described in Section 6.2.1.1. Adult and adolescent participants weighing at 
+least 50 kg received 6 nedosiran doses of 170 mg (160 mg FAE) administered monthly (or 
+matching placebo), while those weighing less than 50 kg received nedosiran doses of 136 mg 
+(128 mg FAE) administered monthly (or matching placebo). Participants who were 6 to 11 years 
+old received a monthly nedosiran dose of 3.5 mg/kg (3.3 mg/kg FAE), but not to exceed 136 mg 
+(128 mg FAE) in total dose (or matching placebo). The blood samples for PK were obtained as 
+per the following schedules:
+
+Age ≥18 years: Days 1 and 30: predose and at 5, 15, and 30 min and 1, 2, 4, 6, 10, and 12 h 
+postdose; Days 2 and 31: 24 h postdose; Day 150: Predose and at 2, 6, and 12 h postdose.
+
+Age 6 to 17 years: Days 1 and 30: predose and at 30 min and 2 and 10 h postdose; Days 2 
+and 31: 24 h postdose; Day 150: predose and at 2 and 10 h postdose.
+Results
+The median body weight in adults, adolescent, and pediatric participants were 66, 59.6, and 
+33 kg, respectively. The median eGFR was higher in adolescent and pediatric patients (94 and 
+142 mL/min/m2, respectively) compared with the median eGFR in adult patients 
+(79 mL/min/m2). Overall, there were 4 patients with moderate renal impairment (RI) and 7 
+patients with mild RI. Of these 11 patients with renal impairment, only 2 patients were 
+adolescent patients with mild RI. A total of 33 participants completed study treatment and 
+continued into the long-term extension study, Study DCR-PHXC-301.
+Reference ID: 5253559
+
+
+===== PAGE 119 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+118
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 67. Mean (%CV) PK Parameters of Nedosiran in Adult and Adolescent Participants After 
+Dosing With 170 mg of Nedosiran Sodium (FAE of 160 mg) and Pediatric Patients After Dosing 
+With 3.5 mg/kg (FAE of 3.3 mg/kg)
+Day
+N
+Cmax
+(ng/mL)
+Tmaxa
+(h)
+AUC0-last
+(h·ng/mL)
+Rac(Cmax)
+Rac(AUC)
+t1/2
+(h)
+Vz/F
+(L)
+Adultsb
+1
+12 821 (34.1) 10.8 (0.967, 12.1) 13000 (28.3)
+NA
+NA
+11.9c (NC) 126c (NC)
+30
+11 844 (44.1)
+6.00 (2.00, 11.6) 13600 (36.3) 1.03 d (24.6)
+1.03e (20.9) 15.0f (68.1)
+NA
+150
+8 742 (64.7)
+11.6 (2.02, 12.0)
+6690 (51.0)
+1.40 (52.5)
+0.948 g (38.2)
+NA
+NA
+Adolescentsb,h
+1
+5 435 (65.8) 2.00 (0.500, 10.0)
+7080 (43.1)
+NA
+NA
+NC
+NC
+30
+5 381 (46.2) 9.65 (0.500, 10.0)
+6870 (40.5) 1.01d (30.8)
+1.03 (15.4)
+NC
+NA
+6 to 11 years oldi
+1
+2
+614
+6.2 (2.1, 10.2)
+10100
+NA
+NA
+NC
+NC
+Source: Tables 7 to 11 in Section 16.1.13 (PK and ADA report) of Study DCR-PHXC-201 Clinical Study Report.
+a Arithmetic mean and %CV are reported for all parameters except for Tmax, which is shown as median and minimum, maximum.
+b For adult participants, PK samples were collected up to 24 h postdose on Days 1 and 30; and up to 12 h postdose on Day 150. 
+For adolescent participants, PK samples were collected up to 24 h postdose on Days 1 and 30.
+c n=2.
+d Calculated as Rac(Cmax)=Cmax (Day 30 or Day 150)÷Cmax (Day 1).
+e Rac(AUC) on Day 30 was calculated as Rac(AUC)=AUC0-24 (Day 30)÷AUC0-24 (Day 1).
+f n=5.
+g Rac(AUC) on Day 150 was calculated as AUC0-12 (Day 150)÷AUC0-12(Day 1).
+h Summary statistics for Day 150 in adolescent patients are not presented due to limited data.
+i Summary statistics for Days 30 and 150 in pediatric patients are not presented due to limited data.
+Abbreviations: AUC0-last, area under the concentration-time curve from time 0 to last quantifiable time point; Cmax, maximum observed 
+concentration; CV, coefficient of variation; FAE, free acid equivalent; N, number of participants; NA, not applicable; NC, not 
+calculated; PK, pharmacokinetics; Rac(AUC), AUC accumulation ratio; Rac(Cmax), Cmax accumulation ratio; t½, elimination half-life; Tmax, 
+time to maximum observed concentration; Vz/F, apparent volume of distribution
+Figure 9. Comparison of Exposures by Renal Function Category (Study DCR-PHXC-201) After 
+Repeated Dosing With Nedosiran
+Source: Figure 10 in Section 16.1.13 (PK and ADA report) of Study DCR-PHXC-201 Clinical Study Report.
+Abbreviations: AUC0-last, area under the concentration-time curve from time 0 to last quantifiable time point; Cmax, maximum observed 
+concentration
+PK sampling for nedosiran in DCR-PHXC-201 did not extend beyond 24 h (Days 1, 30) or 12 h 
+(Day 150). Given the limited PK sampling, the plasma exposure comparisons are limited to the 
+first 12 to 24 h. In adults and adolescents, the plasma exposure of nedosiran did not seem to 
+change with time suggesting no accumulation following repeated monthly dosing. There were 
+very limited PK data in the 6- to 11-year-old pediatric participants. Based on the initial 12 to 
+24 h (Cmax) sampling period, no differences in the exposures were observed between participants 
+with normal renal function and those with mild to moderate renal impairment.
+Reference ID: 5253559
+
+
+===== PAGE 132 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+131
+Integrated Review Template, version 3.0 (05/25/2022)
+The nedosiran PK can be described by a two-compartment disposition model with a dual-transit 
+absorption model to better describe the biphasic absorption of nedosiran when administered 
+subcutaneously (Figure 14). A dual linear and nonlinear Michaelis-Menten model was 
+implemented to describe the over proportional increase in PK exposure as dose increased. 
+Between-subject variability was included on apparent central volume of distribution, absorption 
+transit rate constant for the slow pathway, absorption transit rate constant for the fast pathway, 
+maximum metabolic rate, and fraction of the dose absorbed via the slow pathway. The parameter 
+estimates are shown in Table 74.
+Figure 14. Schematic of the Population Pharmacokinetics Model
+Source: dic202005-253335, Figure 23.
+Reference ID: 5253559
+
+
+===== PAGE 133 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+132
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 74. Final Parameter Estimates for the Population PK Model
+Source: dic202005-253335-supp1, Table 9.
+Standard errors obtained by importance sampling.
+Abbreviations: CV, coefficient of variation; eGFR, estimated glomerular filtration rate; PH1, primary hyperoxaluria type 1; 
+PK, pharmacokinetics; RSE, relative standard error; WT, weight
+Allometric scaling by body weight was included on clearance (including apparent clearance from 
+the central compartment, apparent intercompartmental clearance) and volume terms (including 
+apparent central volume of distribution, apparent volume of distribution for the peripheral 
+compartment) with exponents fixed to 0.75 and 1, respectively. Additionally, eGFR was included 
+as a covariate on apparent clearance from the central compartment and apparent central volume 
+of distribution. Body weight was found to be a significant covariate on absorption transit rate 
+constant for the slow pathway and absorption transit rate constant for the fast pathway. In 
+addition, a diagnosis of PH1 was found to be a significant covariate on absorption transit rate 
+constant for the slow pathway. Vitamin B6 use at study start was tested and was not recognized 
+as a significant covariate.
+The evaluation of the populaton PK model was based on the model described in the main report 
+rather than the model described previously in supplement 1. The PK samples and model structure 
+were identical for the two models with minor change in parameter estimates (fold-change <5%). 
+Plots of observed versus population predicted plasma concentrations and observed versus 
+individual predicted plasma concentrations are presented below in Figure 15. Plots of the 
+observed versus the population predicted concentrations demonstrated acceptible bias, with the 
+majority of data evenly scattered around the line of unity. Plots of the observed concentrations 
+versus the individual predicted concentrations, which account for random effects, were more 
+tightly scattered around the line of unity. There appears to be no obvious bias as demonstrated by 
+the trend line for the data directly overlaying the line of unity. Additional diagnostic plots of 
+conditional weighted residuals are shown in Figure 16, which highlight that the final model fitted 
+the data with relatively good precision and acceptible bias.
+Reference ID: 5253559
+
+
+===== PAGE 143 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+142
+Integrated Review Template, version 3.0 (05/25/2022)
+Figure 26. Model-Predicted Effect of Renal Function on Fold Change in Cmax,ss
+Source: dic202005-253335, Figure 67.
+The solid black line represents the median of the reference group, defined as adolescents and adults (weight ≥50 kg) diagnosed 
+with PH1 receiving 170 mg dose of nedosiran Q1M. Dashed red lines represent the 80-125% range of the reference group. The blue 
+dots and error bars represent the median and 95% (2.5th to 97.5th percentiles of the simulations) prediction intervals (PI) based on 
+1000 simulated subjects within each group including between-subject variability.
+The dose level in the figure refers to nedosiran sodium weight, e.g. 170 mg, 136 mg, and 3.5 mg nedosiran sodium contain 160 mg, 
+128 mg, and 3.3 mg free base nedosiran, respectively.
+Abbreviations: Cmax,ss, maximum plasma concentration at steady-state; PH1, primary hyperoxaluria type 1; Q1M, monthly
+The following proposed nedosiran dosing regimens were evaluated in the simulations:
+
+170 mg Q1M: Reference group – adolescents and adults with PH1 (age ≥12 to <65 years and 
+weight ≥50 kg) with normal, mild, or moderate RI
+
+136 mg Q1M: Adolescents and adults with PH1 (age ≥12 to <65 years and weight <50 kg) 
+with normal, mild, or moderate RI
+
+3.5 mg/kg Q1M: Children (age 6 to <12 years) with PH1 with normal, mild, or moderate RI
+Simulated nedosiran concentration-time profiles following the first dose for the above scenarios 
+are displayed in Figure 27. From the simulations, pediatric patients (age 6 to <12 years) are 
+expected to have a relatively higher Cmax and faster elimination compared to adolescents and 
+adults (age ≥12 years). The PK exposure metrics (AUCtau,ss and Cmax,ss) of the simulated dosing 
+regimens for adults and adolescents over varying renal function categories (normal, mild RI, and 
+moderate RI) are summarized in Figure 28, Figure 29, Figure 30, Figure 31, Figure 32, and 
+Figure 33. Patients with age ≥12 years and body weight ≥50 kg receiving 170 mg Q1M 
+nedosiran who were in the corresponding renal function category were used as the reference 
+group.
+Reference ID: 5253559
+
+
+===== PAGE 147 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+146
+Integrated Review Template, version 3.0 (05/25/2022)
+Figure 33. Model-Predicted Effect of Age on Fold Change in Cmax,Ss (Moderate Renal Function)
+Source: dic202005-253335, Figure 130
+The solid black line represents the median of the reference group, defined as adolescents and adults (weight ≥50 kg) diagnosed 
+with PH1 receiving 170 mg dose of nedosiran Q1M. Dashed red lines represent the 80-125% range of the reference group. The blue 
+dots and error bars represent the median and 95% (2.5th to 97.5th percentiles of the simulations) prediction intervals (PI) based on 
+1000 simulated subjects within each group including between subject variability.
+The dose level in the figure refers to nedosiran sodium weight, e.g., 170 mg, 136 mg, and 3.5 mg nedosiran sodium contain 160 mg, 
+128 mg, and 3.3 mg free base nedosiran, respectively.
+Abbreviations: Cmax,ss, maximum plasma concentration at steady-state; PH1, primary hyperoxaluria type 1; Q1M, monthly
+Reviewer’s Comment
+The minimum age of participants involved in the population PK model development was 9 years. 
+Given that maturation of renal and hepatic function is close to complete by 6 years of age and a 
+maturation function for eGFR was included in the population PK model simulation, the 
+estimated nedosiran PK profile down to 6 years of age is acceptable.
+Based on population PK simulations, the Cmax at steady state is higher for patients 6 to 
+<12 years of age and patients of age ≥12 years and body weight <50 kg as compared to the 
+reference group of patients of age ≥12 years and body weight ≥50 kg for each of the 
+corresponding categories of renal function (normal, mild RI, and moderate RI). In contrast, the 
+AUC at steady state for the three age groups is similar. The model further indicates that PK 
+exposures (Cmax and AUC) increase as renal function (normal, mild RI, and moderate RI) 
+decreases.
+The Reviewer summarized the fold-change in Cmax and AUC at steady state for different age and 
+renal function groups using only patients aged ≥12 years with a body weight ≥50 kg and normal 
+renal function as reference (Table 77). The steady state Cmax for the pediatric patients aged 6 to 
+<12 years with normal, mild RI, and moderate RI increased by 76%, 99%, and 125%, 
+respectively, compared to the reference. For patients with age ≥12 years with body weight 
+<50 kg, the fold-change in Cmax varied from approximately 1.5 to 2. The steady state AUC had 
+relatively less of an increase compared with Cmax.
+The clinical team has confirmed that the safety profile was acceptable in the three healthy 
+volunteers who received a single dose of 12 mg/kg nedosiran in DCR-PHXC-101, which resulted 
+in a Cmax of approximately 3000 ng/mL and, according to the clinical team, no major safety 
+Reference ID: 5253559
+
+
+===== PAGE 156 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+155
+Integrated Review Template, version 3.0 (05/25/2022)
+16. Efficacy
+16.1. Random Highs and Lows From Use of AUC 
+to Calculate Mean Percentage Change in Uox
+Use of AUC to calculate mean change at steady-state will generate noise that is noninformative 
+to clinical outcome. In the analyses shown in Table 81, the last three measurements from 
+participant 
+ were used to provide a case study of the statistical properties of AUC to 
+calculate percentage change from baseline urinary oxalate (Uox). The rows in Table 81 differ 
+only in the order in which measurements were taken. Although the mean percentage change in 
+Uox is exactly the same for each row, equal to -4%, the magnitudes and directions of the AUC 
+vary. For a sufficiently large trial, the AUCs will average out to provide a useful point estimate 
+of percentage change – this can be seen by taking the average of the six AUCs in Table 81 and 
+dividing by 60, the number of days over which AUC was calculated; the result is the -4% seen as 
+the average AUC in each row. However, for small sample sizes, such “averaging out” will be 
+less likely to occur, and the use of AUC as a measure of percent change may increase uncertainty 
+in the calculated mean Uox and, as shown in the last row of Table 81, AUC may not even reflect 
+the sign of percentage change.
+Table 81. Dependence of AUC on Time Sequence of Collected Data
+Timepoint
+AUC Replicate
+Percentage Change Uox
+AUC
+Day 120
+Day 150
+Day 180
+Replicate 1
+45%
+-30%
+-27%
+-630.00
+Replicate 2
+45%
+-27%
+-30%
+-585.00
+Replicate 3
+-27%
+45%
+-30%
+495.00
+Replicate 4
+-27%
+-30%
+45%
+-630.00
+Replicate 5
+-30%
+-27% 
+45%
+-585.00
+Replicate 6
+-30%
+45%
+-27%
+495.00
+Source: Reviewer program endpoints and auc.xls, data from participant 
+.
+Abbreviations: AUC, area under the concentration-time curve; Uox, urinary oxalate
+The Applicant’s use of AUC implicitly uses single-imputation of missing data to measure 
+percent change in urinary oxalate. The Applicant’s use of such imputation contradicts 
+recommendations by the National Academy of Sciences. Figure 43 illustrates this point (i.e., that 
+such single imputation is implicit in the Applicant’s calculation of AUC). In Figure 43, AUC 
+from Days 90 to 180 is calculated as an area from four actual data points (in blue) observed on 
+Days 90, 120, 150, and 180, and with values for the 87 other days after Day 90 (within red box) 
+imputed to lie on line-segments connecting the two nearest measured endpoints.
+Reference ID: 5253559
+(b) (6)
+(b) (6)
+
+
+===== PAGE 157 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+156
+Integrated Review Template, version 3.0 (05/25/2022)
+Figure 43. Applicant’s Calculation of AUC Using Single Imputation. Measured Data Points in Blue
+Source: Adapted from Figure 5 of the protocol.
+Abbreviation: AUC, area under the concentration-time-curve
+The imputed data point for data missing on each day is then calculated as a single imputation 
+using linear interpolation between the values of the adjacent two data points actually observed. 
+However, as discussed below, such single imputation fails to take into account variability 
+inherent in the imputation and, if the mean of the imputed values is not equal to the mean of the 
+interpolated data point, the calculated value of AUC may not reflect the actual mean percentage 
+change in UO24 experienced by each patient over the specified time period.
+To examine the validity of the Applicant’s single imputation method, one can make use of actual 
+data from UO24 collected by the Applicant. Data were collected at first screening and 30 days 
+after randomization. Data were also collected at intermediate time points, between first screening 
+and 30 days and, for such intermediate timepoints, one can examine the correspondence between 
+singly-imputed and actual values – if single linear imputation between data collected between the 
+first and the 30-day measurement is correct, the measured and imputed data will be the same.
+However, measured and imputed data are not the same. In particular, all of the single imputations 
+used in the Applicant’s calculation of AUC inappropriately reduced the magnitude of the percent 
+change in urinary oxalate concentration for each participant (Table 82). A linear regression on 
+the data in Table 82 indicates a nominally significant relationship between observed data as a 
+function of singly imputed data for the calculation of AUC (p=0.04); however the slope is only 
+0.06, with only 20% of the variance in the observed data explained by the Applicant’s 
+imputation.
+Reference ID: 5253559
+
+
+===== PAGE 158 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+157
+Integrated Review Template, version 3.0 (05/25/2022)
+Table 82. Single Imputation for AUC vs. Observed Values of 24 h Urinary Oxalate for Data 
+Collected Between First Screening and Day 30
+24-hour Urinary Oxalate
+Participant
+N
+Single Imputation for AUC
+Observed
+1
+0.3
+4.8
+1
+2.1
+-18.9
+1
+-0.3
+14.8
+1
+0.0
+-21.8
+1
+-0.2
+-0.6
+Source: Reviewer program auc imputation urinary oxalate.sas.
+Abbreviations: AUC, area under the concentration-time curve; N, number of participants
+The single linear-interpolation-based imputations used by the Applicant altered the mean and 
+standard deviation of percentage change. As an example, Table 83 shows observed data from 
+subject 
+ collected on Days 120, 150, and 180 and, like AUC, applies 
+interpolation to the intermediate points. The calculated mean and standard deviation of 
+percentage change from Baseline is altered according to the number of imputations conducted. 
+According to the original data (top row of Table 83), the mean percentage change in UO24 is -
+4.00 and the standard deviation is 42.46. Adding a single linear interpolation imputation halfway 
+between each observed data point (second row), the mean change in UO24 is reduced from -4.00 
+to -6.60 and the standard deviation is reduced from 42.46 to 32.81. Adding yet another 
+imputation (third row) further decreases the calculated mean and standard deviation. AUC 
+calculations by the Applicant over 90 days may be considered as involving even more such 
+imputations, adding 87 data points to the 4 originally observed.
+Table 83. Impact of Single Linear Imputation on Mean and Variance of Percentage Change in 24 h 
+Uox Given the Same AUC*
+Imputation
+Observed and Imputed Values for Percentage Change in Uox
+Mean
+St Dev
+Original data
+45
+-30
+-27
+-4.00
+42.46
+One midpoint
+45
+7.5
+-30
+-28.5
+-27
+-6.60
+32.81
+Two midpoints
+45
+26.25
+7.5
+-11.25
+-30
+-29.25
+-28.5
+-27.75
+-27
+-8.33
+28.15
+Source: Reviewer program endpoints and auc.xls.
+* Calculated AUC=-630.00 for all three rows.
+Abbreviations: AUC, area under the concentration-time curve; St Dev, standard deviation
+To summarize, the statistical properties of AUC of percentage change and its relationship to 
+mean percentage change have not yet been established. Unlike mean percentage change, the 
+value of AUC may vary according to the temporal sequence in which the underlying values of 
+percent change are recorded and, as a consequence, in small trials, such as the present one, AUC 
+is more likely to generate random highs and lows in mean outcome that are not clinically 
+relevant. Further, as shown in Table 83, in which the AUC values for all rows are the same, 
+equal to 630, a single value of AUC may map to several values of mean percentage change, i.e., 
+there is no one-to-one correspondence between AUC and mean percentage change. The 
+Applicant’s calculation of AUC also involves single imputation of missing values, in direct 
+violation of recommendations by the National Academy of Sciences, and the imputation method 
+used, linear interpolation, produces results that do not match collected data (Table 82). For these 
+reasons, AUC is not an ideal endpoint to use in clinical trials when the clinical question of 
+interest aligns with mean percentage change.
+Reference ID: 5253559
+(b) (6)
+(b) (6)
+
+
+===== PAGE 160 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+159
+Integrated Review Template, version 3.0 (05/25/2022)
+16.3. Potential Impact of Randomization 
+Imbalances According to Race
+All Asian participants in this trial were assigned to the nedosiran arm. Although there is no 
+reason to believe that participants who were Asian might have a larger response than other 
+groups, analyses were conducted excluding Asian participants. When the data were reanalyzed 
+with Asian participants excluded, the least square estimated magnitude of treatment effect and 
+(nominal) statistical significance were retained (Table 85).
+Table 85. Primary Endpoint, 24 h Uox AUC Δ% Days 90 to 180, Asian Participants Excluded
+Population
+Placebo
+Nedosiran
+Difference*
+(95% CI)
+p-Value
+PH1 and PH2
+1960
+(N=12)
+-3369
+(N=17)
+-5328
+(-7790, -2867)
+<0.0001
+PH1
+1250
+(N=11)
+-4460
+(N=13)
+-5710
+(-8210, -3210)
+<0.0001
+Source: Reviewer program primary efficacy AUC urinary oxalate mi itt.sas.
+* Statistical significance and confidence intervals nominal only – endpoint selected post hoc without multiplicity adjustment. 
+Calculated using mixed model repeated measures combined using Rubin’s rule.
+Abbreviations: AUC, area under the concentration-time curve; CI, confidence interval; PH1/2, primary hyperoxaluria type ½; Uox, 
+urinary oxalate
+16.4. Potential Impact of Randomization to 
+Larger Than Labeled Adult Doses
+As mentioned in the footnote to Table 84, dosing for adults weighing <50 kg was changed during 
+the trial; in Version 4 of the protocol released on April 20, 2019, dosing for this group of adults 
+was changed from 170 mg monthly to 137 mg monthly. Two such adults received the higher 
+dose before the dosing change, and no such adults were enrolled after the dosing change, 
+Without the two adults weighing less than 50 kg who received a higher dose than that proposed 
+in labeling, the magnitude of the treatment effect and (nominal) statistical significance of the 
+primary endpoint were retained (Table 86).
+Table 86. Primary Endpoint, 24 h Uox AUC Δ% Days 90 to 180, Adults <50 kg Excluded
+Population
+Placebo
+Nedosiran
+Difference*
+(95% CI)
+p-Value
+PH1 and PH2
+1433
+(N=12)
+-3546
+(N=21)
+-4979
+(-7246, -2712)
+<0.0001
+PH1
+946
+(N=11)
+-4645
+(N=16)
+-5591
+(-7849, -3333)
+<0.0001
+Source: Reviewer program primary efficacy AUC urinary oxalate mi itt.sas.
+* Statistical significance and confidence intervals nominal only – endpoint selected post hoc without multiplicity adjustment. 
+Calculated using mixed model repeated measures combined using Rubin’s rule.
+Abbreviations: AUC, area under the concentration-time curve; CI, confidence interval; PH1/2, primary hyperoxaluria type 1/2; Uox, 
+urinary oxalate
+Reference ID: 5253559
+
+
+===== PAGE 161 =====
+
+NDA 215842
+Rivfloza (nedosiran)
+160
+Integrated Review Template, version 3.0 (05/25/2022)
+16.5. Potential Impact of Missing Data on 
+Analysis Results
+Sensitivity analysis to account for potential inaccuracies in the imputation of missing data should 
+address a broad range of 'extreme' scenarios in which the investigational treatment has no or even 
+negative effects on outcome among participants missing data. The Applicant did not provide 
+extensive sensitivity analyses and so these analyses were conducted by the review team.
+Tipping point sensitivity analyses were conducted by the review team using multiple imputation, 
+with 50 datasets in which missing data (Table 11) were imputed for Uox normalized by body 
+surface area for participants ≤18 years of age, as in the primary analysis, at Days 90, 120, 150, or 
+180. Imputations were conducted using multiple regression with the following independent 
+variables: treatment, age category, eGFR category, and day. For each of these datasets, specified 
+shifts were applied to the imputed values for each treatment arm, and these shifted values were 
+used to calculate for each trial participant a new value for UO24 AUC Δ% Days 90 to 

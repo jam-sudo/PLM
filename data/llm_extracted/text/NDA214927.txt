@@ -1,0 +1,1976 @@
+
+
+===== PAGE 113 =====
+
+NDA 214927  
+arimoclomol 
+xiii 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+Table of Figures 
+Figure 1. Heat Shock Response and Chaperone Functions of HSPs .............................. 11 
+Figure 2. Lipid Trafficking Defects in Niemann-Pick Type C Disease (Left = Normal; 
+Right = NPC)........................................................................................................ 12 
+Figure 3. Niemann-Pick Disease Type C Spectrum of Neurologic and Systemic 
+Manifestations ...................................................................................................... 13 
+Figure 4. Statistical Modeling of the Natural History of NPC Progression by Total 
+NPCCSS .............................................................................................................. 14 
+Figure 5. Comparison of Predicted Arimoclomol Exposure Between 
+ 
+ and Recommended Dosage Regimen ...................................................... 32 
+Figure 6. Comparison of Predicted Steady-State Arimoclomol Exposure (AUC and 
+Cmax) Between 
+ Dosing Regimen and Recommended Dosage 
+Regimen ............................................................................................................... 32 
+Figure 7. Arimoclomol Exposure-Response Relationship for 5DNPCCSS With 
+Additive Effect of Miglustat .................................................................................. 34 
+Figure 8. Study NPC-002 Trial Design (PAP and OLE) ............................................... 37 
+Figure 9. Estimated Cumulative Distribution Function for Change From Baseline in 
+5DNPCCSS .......................................................................................................... 46 
+Figure 10. Plot of 5-Domain NPCCSS Score Over Time .............................................. 52 
+Figure 11. Mean Change in 5-Domain NPCCSS Score Over Time by Miglustat 
+Subgroups ............................................................................................................ 55 
+Figure 12. Example - Graphical Illustration of Validity and Reliability of COA Scores . 62 
+Figure 13. Scatter Plot of PAS Score and NPCCSS Swallow Domain Scale Score ........ 69 
+Figure 14. 5-Domain NPCCSS Score for Discontinued or Early Escape Patients .......... 75 
+Figure 15. Individual Serum Creatinine Values in Patients With At Least One On-
+Treatment Serum Creatinine ≥1.5X Baseline in Study NPC-002 (All Treated with 
+Arimoclomol) ..................................................................................................... 108 
+Figure 16. Structure of Arimoclomol Citrate.............................................................. 119 
+Figure 17. Proposed Biotransformation Pathway of Arimoclomol .............................. 169 
+Figure 18. Dose-Normalized Cmax and AUC0-inf Following Single Dose 
+Administrations Across Arimoclomol Clinical Trials ........................................... 179 
+Figure 19. Relationships between Arimoclomol Cmax and AUC0-inf And Dose 
+Following Single Dose Administrations of Arimoclomol Across Clinical Trials.... 179 
+Figure 20. Study OR-ARI-MET-01: Correlation Between Arimoclomol Human 
+Serum and Plasma Concentrations ....................................................................... 184 
+Figure 21. Structure of Selected Covariate PopPK Model (Run030) ........................... 192 
+Reference ID: 4813446
+(b) (4)
+(b) (4)
+
+
+===== PAGE 143 =====
+
+NDA 214927  
+arimoclomol 
+27 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+Characteristic 
+Drug Information 
+Maximally tolerated dosage 
+or exposure 
+A maximally tolerated dose has not been determined. 
+Dosage proportionality 
+The PK of arimoclomol is linear and dose proportional within the range of 62 to 372 mg TID 
+Accumulation 
+Accumulation ratio was 1.36 following multiple three times a day oral doses of 248 mg. 
+Time to achieve steady 
+state 
+Steady state plasma concentrations are typically achieved within 24 hours of TID dosing 
+Bridge between to-be-
+marketed and clinical trial 
+formulations 
+Different formulations were used in arimoclomol clinical trials and the to-be-marketed formulation was not used in Study NPC-
+002. The submitted dissolution data supported bridging of the formulations used in clinical trials and also the bridge between 
+the to-be-marketed formulation and the formulation used in Study NPC-002. Of note, cross-study PK comparisons and the 
+PopPK analysis results did not indicate a significant effect of formulation on arimoclomol PK. 
+Absorption 
+Bioavailability 
+The absolute bioavailability of arimoclomol following oral administration has not been determined.  
+Tmax 
+0.25-3.0 hours 
+Food effect (fed/fasted) 
+Geometric least square 
+mean and 90% CI 
+Food had no significant effect on PK of arimoclomol. Arimoclomol can be administered with or without food. In the CT-ORZY-
+NPC-002 clinical trial, for patients with swallowing difficulties, arimoclomol was dispersed in liquid (water, apple juice) or soft 
+food (yoghurt, apple sauce) for oral administration.  
+ 
+The effect of food on arimoclomol PK was evaluated in Studies AALS-004 following a 62 mg oral dose (formulation code D2) 
+and AALS-011 following a 248 mg oral dose (formulation code G1). Arimoclomol PK was assessed in the fasted state and 
+following a high-fat meal consisting of 150 calories from protein, 250 calories from carbohydrates, and 500-600 calories from 
+fat. These studies are considered supportive because the to-be marketed formulation was not used; no studies were 
+conducted evaluating the effect of food on arimoclomol PK using the to-be-marketed formulation. However, dissolution data 
+were submitted that supported bridging of the formulations used in the food effect studies to the to-be-marketed formulation. 
+As such, no further assessment of food effect is needed. The results of each food effect study are summarized below.  
+ 
+AALS-011: Fed: Fasted ratios of least square means (90% CI) 
+AUC0-inf 103 (99.5, 106.9) 
+Cmax 
+89.9 (81.4, 99.3) 
+Tmax 
+Median value increased from 1.5 to 3.0 hours in fed state 
+ 
+AALS-004: Fed: Fasted ratios of least square means (90% CI) 
+AUC0-inf 101 (95.6, 106.3) 
+Cmax 
+94.9 (88.0, 102.4) 
+Tmax 
+Median value increased from 1.5 to 3.0 hours in fed state 
+Reference ID: 4813446
+
+
+===== PAGE 144 =====
+
+NDA 214927  
+arimoclomol 
+28 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+Characteristic 
+Drug Information 
+Distribution 
+Volume of distribution 
+The apparent volume of distribution of arimoclomol is approximately 211 L at steady state following 248 mg TID oral dose 
+administration in adult healthy subjects. 
+Plasma protein binding 
+10%; independent of concentration within the range of 0.4 to 16 µM 
+Drug as substrate of 
+transporters 
+Based on in vitro studies, arimoclomol is a substrate of MATE1 and MATE2-K. Arimoclomol is not a substrate of OAT1, 
+OAT3, and OCT2.  
+Elimination 
+Mass balance results 
+Following a 100 mg oral dose of arimoclomol, total serum radioactivity reached maximum concentrations within 2.0 hours. 
+Urinary excretion accounted for 77.5% of the administered dose and fecal excretion accounted for 12.0% of the administered 
+dose. The parent drug accounted for the highest percentage contribution to total radioactivity. 
+Clearance  
+The mean (CV%) CL/F at steady state following 248 mg three times a day dosing in adult healthy subjects was 34.4 (18%) 
+L/hr. 
+Half-life  
+4.3±0.3 hr 
+Metabolic pathway(s) 
+The primary metabolic pathways are glutathionylation via glutathione-S-transferase, O-glucuronidation via UGT1A3, UGT1A9, 
+UGT2B4, UGT2B7, and UGT2B17, and NO-cleavage via an unknown mechanism. CYP450 enzymes do not contribute to 
+arimoclomol metabolism to a clinically meaningful extent. 
+Intrinsic Factors and Specific Populations 
+Body weight 
+Body weight was identified as a significant covariate on arimoclomol clearance. Subjects with higher body weight had higher 
+clearance and lower arimoclomol concentrations. At the recommended body weight-tiered dosage regimen, the exposure of 
+arimoclomol (AUC and Cmax) at steady-state is predicted to be similar across different body weight groups.  
+Age 
+Based on the population PK analysis, age did not significantly affect arimoclomol exposure. The median age of subjects was 
+24 years (range 2 to 76 years). 
+Renal impairment 
+Mild to moderate renal impairment is not expected to have a clinically meaningful effect on arimoclomol exposure. The impact 
+of severe renal impairment on arimoclomol PK has not been evaluated. 
+Hepatic impairment 
+Mild to moderate hepatic impairment is not expected to have a clinically meaningful effect on arimoclomol exposure. The 
+impact of severe hepatic impairment on arimoclomol PK has not been evaluated. 
+Drug Interaction Liability (drug as perpetrator) 
+Inhibition/induction of 
+metabolism 
+Based on in vitro studies, arimoclomol did not inhibit CYP1A2, CYP2B6, CYP2C9, CYP2C19, CYP2D6, or CYP3A4 or induce 
+CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 and CYP3A4 at clinically relevant concentrations. 
+Inhibition/induction of 
+transporter systems 
+Based on in vitro studies, arimoclomol inhibited OCT2 with IC50 of 9.72 µM, MATE1 with IC50 of 132 µM and MATE2-K with 
+IC50 of 48.5 µM. Arimoclomol did not inhibit OATP1B1, OATP1B3, OAT1, or OAT3 transporters.  
+Source: Applicant’s Summary of Clinical Pharmacology Studies. 
+Abbreviations: AUC, area under the concentration-time curve; CI, confidence interval; Cmax, maximum plasma concentration; CL, clearance; CL/F, clearance after oral administration; CV, coefficient 
+of variation; CYP, cytochrome P450; GMR, geometric mean ratio; HPLC, high performance liquid chromatography; IC50, half maximal inhibitory concentration; MS, mass spectrometry; MTD, 
+maximum tolerated dose; PK, pharmacokinetics; tid, three times daily; Tmax, time to maximum plasma concentration; TQT, thorough QT; UGT, Uridine 5'-diphospho-glucuronosyltransferase. 
+Reference ID: 4813446
+
+
+===== PAGE 229 =====
+
+NDA 214927  
+arimoclomol 
+113 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+collected for PK assessment at predose and 0.25, 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 12, 24, 48, 72, 96, 
+and 144 hours after dosing. The PK results are summarized in Table 42. 
+Arimoclomol exposure was similar across groups; the geometric mean ratio for AUC0-inf was 
+1.05 (90% CI: 0.81, 1.36) for subjects with mild hepatic impairment, and 1.17 (90% CI: 0.89, 
+1.52) for subjects with moderate hepatic impairment compared to subjects with normal hepatic 
+function. Maximum plasma concentrations were also similar across groups; the geometric mean 
+ratio for Cmax was 1.05 (90% CI: 0.82, 1.33) for subjects with mild hepatic impairment, and 1.08 
+(90% CI: 0.84, 1.38) for subjects with moderate hepatic impairment compared to subjects with 
+normal hepatic function. Based on these results, mild to moderate hepatic impairment is not 
+expected to have a clinically meaningful effect on arimoclomol exposure. Subjects with severe 
+hepatic impairment were not included in the study; therefore, the impact of severe hepatic 
+impairment on arimoclomol PK is unknown.  
+Exposures (AUC) and maximum plasma concentrations for the M2 metabolite were also similar 
+in subjects with mild and moderate hepatic impairment compared to subjects with normal hepatic 
+function. Exposures and maximum plasma concentrations for the M105 metabolite were lower in 
+subjects with mild and moderate hepatic impairment. The geometric mean ratio for AUC0-τ of 
+M105 was 0.41 (90% CI: 0.20, 0.83) for subjects with mild hepatic impairment, and 0.22 (90% 
+CI: 0.11, 0.44) for subjects with moderate hepatic impairment compared to subjects with normal 
+hepatic function. The geometric mean ratio for Cmax for M105 was 0.46 (90% CI: 0.29, 0.73) for 
+subjects with mild hepatic impairment, and 0.29 (90% CI: 0.18, 0.47) for subjects with moderate 
+hepatic impairment compared to subjects with normal hepatic function. The M105 metabolite is 
+not expected to contribute to arimoclomol activity and therefore these differences are not 
+expected to be clinically meaningful.  Arimoclomol has not been formally evaluated in patients 
+diagnosed with severe hepatic impairment.  The effects in this population are unknown.  
+Table 42. Pharmacokinetics of Arimoclomol Following a Single Oral Administration of 248 mg 
+Arimoclomol in Study OR-ARI-HEP-01  
+PK Parameters 
+Mild Hepatic 
+Impairment 
+(n=8) 
+Moderate Hepatic 
+Impairment 
+(n=8) 
+Normal Hepatic 
+Function 
+(n=8) 
+AUC0-inf (hr*ng/mL) 
+7936 (31%) 
+8680 (18%) 
+7502 (36%) 
+Cmax (ng/mL) 
+1420 (33%) 
+1345 (26%) 
+1289 (30%) 
+Tmax (hr) 
+1.0 [0.5-2.0] 
+2.0 [1.5-6.0] 
+1.25 [1.0-2.0] 
+t1/2 (hr) 
+4.8 (21%) 
+4.9 (19%) 
+4.4 (18%) 
+CL/F (L/hr) 
+31.3 (31%) 
+28.5 (18%) 
+33.1 (36%) 
+Vz/F (L) 
+215 (25%) 
+202 (23%) 
+212 (28%) 
+Source: Table 10, CSR of Study OR-ARI-HEP-01; arimoclomol citrate concentrations were converted to arimoclomol 
+concentrations. 
+Tmax is reported as median [min-max] and other PK parameters are reported as geometric mean (CV%).  
+Abbreviations: AUC0-inf = area under the concentration-time curve from time 0 to infinity; CL/F = apparent total clearance; Cmax = 
+maximum observed plasma concentration; CV = coefficient of variation (%); PK, pharmacokinetic; t1/2 = terminal elimination half-life; 
+Tmax = time to maximum plasma concentration; Vz/F = apparent total volume of distribution. 
+8.1.2. Renal Impairment 
+The effect of mild to moderate renal impairment on arimoclomol PK was assessed in Study OR-
+ARI-REN-01 and the results were provided in an interim study report. At the time of the NDA 
+review, the study was ongoing to complete enrollment of patients with severe renal impairment. 
+Enrolled male and female subjects, age 18 to 75 years, were categorized based on the Chronic 
+Kidney Disease Epidemiology Collaboration equation as having normal renal function 
+Reference ID: 4813446
+
+
+===== PAGE 230 =====
+
+NDA 214927  
+arimoclomol 
+114 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+(estimated glomerular filtration rate [GFR] ≥90 mL/min/1.73 m2), or mild (estimated GFR ≥60 
+mL/min/1.73 m2 and <90 mL/min/1.73 m2), moderate (estimated GFR ≥30 mL/min/1.73 m2 and 
+<60 mL/min/1.73 m2), or severe (estimated GFR <30 mL/min/1.73 m2) renal impairment. Eight 
+subjects in each group received a single oral dose of 248 mg arimoclomol (administered as two 
+124 mg capsules) and blood samples were collected for PK assessment at predose, and 0.25, 0.5, 
+1, 1.5, 2, 2.5, 3, 4, 6, 8, 12, 24, 48, 72, 96, and 144 hours after dosing. The PK results are 
+summarized in Table 43. 
+Arimoclomol exposure in subjects with mild renal impairment was similar to subjects with 
+normal renal function; the geometric mean ratio for AUC0-inf was 1.10 (90% CI: 0.92, 1.32). 
+However, arimoclomol exposure was higher in subjects with moderate renal impairment 
+compared to those with normal renal function; the geometric mean ratio for AUC0-inf was 1.43 
+(90% CI: 1.17, 1.76). Cmax was higher in patients with mild renal impairment (geometric mean 
+ratio 1.35; 90% CI:1.07, 1.70) but similar in subjects with moderate renal impairment (geometric 
+mean ratio 0.98; 90% CI: 0.75, 1.26) compared to subjects with normal renal function. The 
+exposure differences observed in patients with mild to moderate renal impairment are not 
+expected to be clinically meaningful. Subjects with severe renal impairment were not included in 
+the study; therefore, the impact of severe renal impairment on arimoclomol PK is unknown.  
+Exposures to the M2 metabolite increased with increasing severity of renal impairment. The 
+geometric mean ratio of M2 for AUC0-inf was 1.23 (90% CI: 0.86, 1.77) for subjects with mild 
+renal impairment, and 2.62 (90% CI: 1.75, 3.93) for subjects with moderate renal impairment 
+compared to subjects with normal renal function. Similarly, the geometric mean ratio of M2 for 
+Cmax was 1.19 (90% CI: 0.88, 1.60) for subjects with mild renal impairment, and 1.85 (90% CI: 
+1.32, 2.58) for subjects with moderate renal impairment compared to subjects with normal renal 
+function. Exposures to the M105 metabolite also increased with increasing severity of renal 
+impairment. The geometric mean ratio of M105 for AUC0-τ was 1.13 (90% CI: 0.81, 1.59) for 
+subjects with mild renal impairment, and 2.29 (90% CI: 1.57, 3.36) for subjects with moderate 
+renal impairment compared to subjects with normal renal function. Similarly, the geometric 
+mean ratio of M105 for Cmax was 1.08 (90% CI: 0.78, 1.48) for subjects with mild renal 
+impairment, and 1.98 (90% CI: 1.38, 2.83) for subjects with moderate renal impairment 
+compared to subjects with normal renal function.  The M2 and M105 metabolites are not 
+expected to contribute to the pharmacological effect of arimoclomol; however, the impact of 
+increased exposure to these metabolites on the safety of arimoclomol has not been assessed.  
+Table 43. Pharmacokinetics of Arimoclomol Following a Single Oral Administration of 248 mg 
+Arimoclomol in Study OR-ARI-REN-01  
+PK Parameters 
+Mild Renal 
+Impairment 
+(n=8) 
+Moderate Renal 
+Impairment 
+(n=8) 
+Normal Renal 
+Function 
+(n=8) 
+AUC0-inf (hr*ng/mL) 
+7626 (17%) 
+9362 (26%) 
+7068 (18%) 
+Cmax (ng/mL) 
+1891 (23%) 
+1370 (22%) 
+1389 (26%) 
+Tmax (hr) 
+0.75 [0.5-1.5] 
+1.50 [1.5-3.0] 
+1.25 [0.5-2.0] 
+t1/2 (hr) 
+3.8 (5%) 
+5.1 (31%) 
+4.3 (7%) 
+CL/F (L/hr) 
+32.4 (17%) 
+26.4 (26%) 
+35.2 (18%) 
+Vz/F (L) 
+176 (15%) 
+193 (13%) 
+219 (15%) 
+Source: Table 8, CSR of Study OR-ARI-REN-01; arimoclomol citrate concentrations were converted to arimoclomol concentrations. 
+Tmax is reported as median [min-max] and other PK parameters are reported as geometric mean (CV%).  
+Abbreviations: AUC0-inf = area under the concentration-time curve from time 0 to infinity; CL/F = apparent total clearance; Cmax = 
+maximum observed plasma concentration; CV = coefficient of variation (%); PK, pharmacokinetic; t1/2 = terminal elimination half-life; 
+Tmax = time to maximum plasma concentration; Vz/F = apparent total volume of distribution.  
+Reference ID: 4813446
+
+
+===== PAGE 232 =====
+
+NDA 214927  
+arimoclomol 
+116 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+8.2.3. Food Effect 
+Study AALS-004 was an open-label, randomized, 2-treatment, 2-way crossover, bioavailability, 
+food-effect study of a single dose of arimoclomol administered orally at 62 mg in 18 normal 
+healthy male and female subjects under either fasted conditions (10-hour fast) or fed conditions 
+(after a standard FDA high-fat breakfast). The PK results are summarized in Table 44. 
+Arimoclomol exposure (AUC0-inf) was similar following administration in the fed and fasted 
+states with a mean ratio of 101% (90% CI 95.6, 106.2). The Cmax was also similar in the fed and 
+fasted states with a mean ratio of 94.9% (90% CI 88.0, 102.4). The time to achieve maximum 
+plasma concentration was delayed from 1.5 hours to 3.0 hours in the fed state. These data 
+indicate that the effect of food on arimoclomol pharmacokinetics is unlikely to be clinically 
+meaningful.  
+Table 44. Effect of Food on the PK of Arimoclomol Following a Single Oral Dose of 62 mg 
+Arimoclomol in Healthy Subjects in Study AALS-004 
+PK Parameters 
+Period 1 (Fasted) 
+(n=17) 
+Period 2 (Fed) 
+(n=18) 
+Fed/Fasted Ratios 
+of Least Square Means 
+(90% CI) 
+AUC0-inf (ng*hr/mL) 
+1817 (22%) 
+1794 (20%) 
+101 (95.6, 106.2) 
+Cmax (ng/mL) 
+292 (26%) 
+272 (16%) 
+94.9 (88.0, 102.4) 
+Tmax (hr) 
+1.5 (0.5, 3.0) 
+3.0 (1.5, 4.0) 
+N/A 
+Source: Table 2-2, Summary of biopharmaceutical studies and associated analytical methods. 
+Tmax is reported as median [min-max]; AUC and Cmax are reported as arithmetic mean (CV%). ANOVA performed on natural log 
+transformed parameters. 
+Abbreviations: AUC0-inf,area under the concentration-time curve from time 0 to infinity; CI, confidence interval; Cmax, maximum 
+observed plasma concentration; CV, coefficient of variation (%); PK, pharmacokinetic; Tmax, time to maximum serum concentration. 
+Study AALS-011 was an open-label, randomized, 2-treatment, 2-way crossover, bioavailability, 
+food-effect study, of a single dose of arimoclomol, administered orally at 248 mg in 20 normal 
+healthy male and female subjects under either fasted conditions (10-hour fast) or fed conditions 
+(after a standard FDA high-fat breakfast). The PK results are summarized in Table 45. 
+Arimoclomol exposure (AUC0-inf) was similar following administration in the fed and fasted 
+states with a mean ratio of 103% (90% CI: 99.5, 106.9). The Cmax was slightly lower in the fed 
+state with a mean ratio of 89.9 (90% CI: 81.4, 99.3), but the bounds of the 90% CI were within 
+the acceptance range for bioequivalence. The time to achieve maximum plasma concentration 
+was delayed from 1.5 hours to 3.0 hours in the fed state. These data similarly indicate that the 
+effect of food on arimoclomol pharmacokinetics is unlikely to be clinically meaningful. 
+Table 45. Effect of Food on the PK of Arimoclomol Following a Single Oral Dose of 248 mg in 
+Healthy Subjects in Study AALS-011 
+PK Parameters 
+Period 1 (Fasted) 
+(n=20) 
+Period 2 (Fed) 
+(n=20) 
+Fed/Fasted Ratios 
+of Least Square Means 
+(90% CI) 
+AUC0-inf (ng*hr/mL) 
+7540 (25%) 
+7767 (25%) 
+103 (99.5, 106.9) 
+Cmax (ng/mL) 
+1330 (40%) 
+1169 (40%) 
+89.9 (81.4, 99.3) 
+Tmax (hr) 
+1.5 [1.0, 2.5] 
+3.0 [1.0, 4.1] 
+N/A 
+Source: Table 2-3, Summary of biopharmaceutical studies and associated analytical methods. 
+ANOVA performed on natural log transformed parameters. 
+Tmax is reported as median [min-max]; AUC and Cmax are reported as arithmetic mean (CV%).  
+Abbreviations: AUC0-inf, area under the concentration-time curve from time 0 to infinity; CI, confidence interval; Cmax, maximum 
+observed plasma concentration; CV, coefficient of variation (%); PK, pharmacokinetic; Tmax, time to maximum serum concentration. 
+Reference ID: 4813446
+
+
+===== PAGE 233 =====
+
+NDA 214927  
+arimoclomol 
+117 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+The dosing scheme used in Study NPC-002 
+ is shown 
+in Table 9. The dose could be administered as a whole capsule with or without food, dissolved in 
+10 mL of liquid, or a tablespoon of soft food, or dissolved and administered via a gastric tube. 
+The effect of food on arimoclomol PK was evaluated in the two studies described above: AALS-
+004 following a 62 mg oral dose (formulation code D2) and AALS-011 (formulation code G1) 
+following a 248 mg oral dose. Formulation D2 (62 mg arimoclomol,
+% microcrystalline 
+cellulose [MCC]), which was used in the AALS-004 trial,
+ 
+ 
+ 
+ Formulation G1 (248 mg 
+arimoclomol), which was used in the AALS-011 trial, is different from formulation D2 and all 
+the to-be-marketed formulations, 
+ 
+ 
+As noted above, no effect of food on arimoclomol AUC or Cmax was observed in AALS-004 or 
+AALS-011; however, time to maximum plasma concentration (Tmax) was delayed from 
+approximately 1.5 hours to approximately 3 hours. The delay in Tmax is not anticipated to be 
+clinically meaningful. These studies are considered supportive because the to-be-marketed 
+formulation was not used. However, dissolution data were submitted that supported bridging of 
+the formulations used in the food effect studies to the to-be-marketed formulation. No relative 
+bioavailability studies were conducted evaluating the impact of administering arimoclomol 
+mixed with liquids or soft foods; however, arimoclomol was stable for up to two hours after 
+mixing in apple juice, apple sauce, yogurt, and pudding and a study showed that arimoclomol 
+capsules can be opened and suspended in 20 mL tap water and administered through a feeding 
+tube without loss of drug product. In Study NPC-002, patient acceptability/palatability data 
+showed that 53% (at Visit 2), 58% (at Visit 3), and 56% (at Visit 4) of patients administered their 
+dose of arimoclomol in a dissolved state. Thus, the majority of patients assessed in Study NPC-
+002 were administered arimoclomol in a dissolved state. Moreover, to investigate whether the 
+different administration methods had an influence on the PK of arimoclomol, administration 
+method was included as a parameter in the PopPK analysis. The PopPK results indicated that any 
+influence on administration method was small and did not appear to be clinically meaningful. 
+Collectively, these data support administering arimoclomol as a whole capsule with or without 
+food, dissolved in 10 mL of liquid, or a tablespoon of soft food, or dissolved and administered 
+via a gastric tube, as was administered in Study NPC-002.  
+8.3. Plans for Pediatric Drug Development 
+The clinical development program included pediatric patients and the labeled indication will 
+include pediatric patients 2 years of age and older
+with 
+NPC. 
+There are no further plans for pediatric clinical investigation.   
+8.4. Pregnancy and Lactation 
+Pregnant patients were excluded from enrollment in Study NPC-002. The nonclinical studies in 
+pregnant rats and rabbits suggest risk to, embryo-fetal mortality, fetal structural anomalies, at 
+doses above the proposed human doses. These studies are summarized below with the safety 
+margins in Table 46 at the end of this section. Based on these findings, labeling will reflect that 
+Reference ID: 4813446
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 244 =====
+
+NDA 214927  
+arimoclomol 
+128 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+13.1.2. ADME/PK 
+Table 50. ADME/PK Studies and Findings 
+Study/ Study No. 
+Major Findings 
+General ADME/PK Studies 
+ 
+Study title: [14C]-arimoclomol: 
+Absorption,  
+Metabolism and Excretion in the Rat 
+ 
+Study Number 8384372  
+Following a single oral administration of 14C-arimoclomol at a 
+dose of 375 mg/kg, drug-related radioactivity was rapidly 
+absorbed and detected in plasma at the first sampling time of 
+0.25 hours. A mean plasma Cmax of 60,400 ng equiv/g was 
+achieved at a Tmax of 1-hour post dose. The estimated t1/2 of 
+radioactivity in plasma was 16.7 hours while the plasma 
+calculated systemic exposure (AUC0-t) of total radioactivity was 
+536,000 h•ng equivalents/g indicating complete clearance from 
+the plasma (Tlast) by 48 hours post dose. The primary routes of 
+arimoclomol metabolism in rat and plasma serum were by 
+glutathione conjugation to M107, followed by dealkylation to M2 
+with secondary metabolism to the sulphate conjugate M103 with 
+subsequent oxidation to M101, M102 or M105. There were no 
+dose dependent effects observed in the rat plasma profiles. In 
+intact male rats a mean of 54% of arimoclomol dose was 
+excreted in the urine and 33% in feces with 94.6% radioactivity 
+recovery. In male bile duct-cannulated rats, a mean of 61.2% of 
+the dose was excreted in urine, 30.8% was secreted in bile, and 
+2.55% was excreted in feces with 92% of the oral dose absorbed 
+and 96.5% of overall mean recovery of radioactivity. 
+Pharmacokinetic study of BRX-345 
+rats. 
+ 
+Study Number 00/544-303P  
+After a single IV and oral dose of 16 mg/kg arimoclomol in male 
+and female rats, the combined male and female plasma Cmax of 
+2.33 mg/l (oral) and 5.59 mg/L (IV) at a Tmax of 15 min and 5 min. 
+respectively. The combined AUCtot was 201.09 min•mg/ml (oral) 
+and 232.98 min•mg/ml (IV) with a t1/2 of 129.50 min. and 345 
+min, respectively. Arimoclomol showed a biphasic kinetics with a 
+rapid distribution and a slower elimination phase. The drug 
+clearance was high at 70 ml/kg/min and 69 ml/kg/min at the oral 
+and IV administration, respectively. Its clearance was higher 
+than the hepatic plasma flow suggesting drug elimination by the 
+liver and kidneys. Arimoclomol absorption was fast and its 
+bioavailability was good. 
+Reference ID: 4813446
+
+
+===== PAGE 245 =====
+
+NDA 214927  
+arimoclomol 
+129 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+Study/ Study No. 
+Major Findings 
+General ADME/PK Studies  
+ 
+Study title: Absorption, Metabolism, 
+and Excretion of 14C-BRX-345 
+Following Oral Administration to Intact 
+and Bile Duct-Cannulated Dogs 
+ 
+Study Number 7027-124 
+Following a single oral administration of 14C-BRX-345 
+(arimoclomol) to intact male and female beagle dogs, drug-
+derived radioactivity in plasma of male dogs was observed at 2 
+hours post dose with a mean plasma Cmax value of 31.6 µg 
+equivalents/g whereas, in female dogs, the mean plasma Cmax of 
+39.2 µg equivalents/g was observed at 0.5 hours post dose. The 
+mean elimination half-lives of radioactivity in the plasma of male 
+and female dogs were 56.3 to 61.7 hours. The mean AUC0-t of 
+total radioactivity in the plasma of male and female dogs were 
+429 to 437 h•µg eq/g. The elimination appeared to be biphasic 
+with approximately 80 to 90% of plasma radioactivity eliminated 
+with a mean t1/2 of 2 to 4 hours and a fraction of 10 to 20% 
+eliminated with a t1/2 of 140 to 180 hours. The major route of 
+arimoclomol metabolism in dog and plasma serum is an 
+apparent dichlorination and probable glutathione conjugation, 
+cysteine-glycine conjugation, sulfide formation followed by 
+further oxidation or reduction of molecules. A total of 23 
+metabolites, including the major metabolites M2, M5 and M105 
+were identified in plasma, urine, bile, and feces. In intact male 
+dogs, a mean of 56.4% of the drug dose was excreted in urine 
+and 16.5% was excreted in feces through 96 hours post dose. In 
+female dogs, a mean of 48.7% of the drug dose was excreted in 
+urine and 17.8% was excreted in feces through 96 hours post 
+dose. The overall mean recoveries of radioactivity were 84.3% 
+and 82.2% in male and females, respectively.  
+In male bile duct-cannulated dogs, a mean of 62.6% of the dose 
+was excreted in urine, 22.1% was secreted in bile, and 2.15% 
+was excreted in feces through 96 hours post dose. At least, 
+84.7% of the oral dose was absorbed while the overall mean 
+recovery of drug-derived radioactivity was 89.6%. 
+Study title: Binding Study With 
+[14C]BRX-345 in Human, Dog and Rat 
+Serum 
+ 
+Study Number BRX-345/PRE-FK-002 
+The free fraction values of BRX-345 were found to be about 90% 
+in human serum, 87% in dog serum and 91% in rat serum at 0.4-
+16µM ligand concentration range, indicating that the binding of 
+BRX-345 to serum proteins is negligible. 
+Reference ID: 4813446
+
+
+===== PAGE 246 =====
+
+NDA 214927  
+arimoclomol 
+130 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+Study/ Study No. 
+Major Findings 
+Study title: Metabolite Identification 
+and Profiling After [14C]BRX-345 Oral 
+Dosing in Male CD-1 Mice 
+ 
+Study Number 287N-0801  
+Following a single oral dose of 2500 mg/kg BRX-345 to male 
+CD-1 mice, BRX-345 was the major compound observed in 
+plasma 2hr postdosing and accounted for 59.1% of the total 
+radioactivity in plasma over the 24hr postdosing period. 
+Metabolites M47, M3, M45, M39 in addition to trace amounts of 
+M44 and M2 were observed in the later postdosing period (12-
+24hr.). In urine samples, the parent compound was the major 
+component over the 48hr postdosing period, accounting for 
+68.2% of the total radioactivity in urine. M2 was the major 
+metabolite observed in urine. In fecal samples, the parent 
+compound accounted for 13.5% of the total radioactivity over 
+48h postdosing period. M48, M43 and M31 were the major 
+metabolites observed in feces. The major biotransformation 
+pathways of BRX-345 is the glutathione conjugation at the 
+chloro-alkene function group, hydrolysis of the chloro-alkene 
+moiety, and reduction of the pyridine N-oxide to pyridine moiety. 
+Direct glucuronidation of BRX-345 was also detected. 
+Abbreviations: ADME, absorption distribution metabolism elimination; AUC0-t, area under the concentration-time curve from time 
+zero to last measurable concentration; AUCtot; total areas under the concentration-time curve; Cmax, maximum plasma concentration; 
+PK, pharmacokinetic; t1/2, terminal half-life; Tmax, time to maximum plasma concentration. 
+13.1.3. Additional Metabolism Studies 
+Arimoclomol is not a direct time- or metabolism-dependent inhibitor of CYP1A2, CYP2B6, 
+CYP2C8, CYP2C9, CYP2C19, or CYP3A4/5 at clinically relevant concentrations. Direct 
+inhibition of CYP2D6 was observed with a half maximal inhibitory concentration (IC50) of 
+190µM. However, since the IC50 is much higher than the clinical exposure (6.8µM) the 
+inhibition is not considered clinically relevant.  
+The potential risk for metabolism-based drug-drug interactions with arimoclomol is considered 
+low because it is metabolized via several routes and eliminated unchanged in urine 
+(approximately 42% in human). However, since arimoclomol is a substrate of the MATE 
+transporters, comedicated compounds that are inhibitors of MATE transporters could potentially 
+affect the elimination and lead to increased exposure of arimoclomol. 
+Based on the results of the in vitro transporter inhibition studies, arimoclomol is predicted not to 
+cause clinically relevant inhibition of P-gp, BCRP, OATP1B1, OATP1B3, OAT1, OAT3, or 
+MATE1 but may cause clinically relevant inhibition of MATE2-K (for MATE2-K only: 
+following administration of a dose ≥248 mg three times a day; 744 mg/day, corresponding to 
+1,200 mg arimoclomol citrate). In an in vitro transporter study, arimoclomol was shown to be an 
+inhibitor of the OCT2 transporter (with initial inhibitory activity of this transporter at the 
+maximum plasma concentration [Cmax] for individual human doses higher than 400 mg), which 
+might provide an explanation for the adverse effect of a modest transient increase in serum 
+creatinine.  
+Reference ID: 4813446
+
+
+===== PAGE 247 =====
+
+NDA 214927  
+arimoclomol 
+131 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+13.1.4. Toxicokinetic Data 
+Study No. 05/099-303P 
+The sex-combined Cmax value of 29.9 μg/mL and AUClast value 378 h*μg/mL occurred with a 
+half-life of 1.5 hr at a time to maximum plasma concentration (Tmax) of 0.5 and 1 hours postdose 
+on Day 180 (Table 51).  
+Table 51. Day 180 TK Parameters for the Rat 
+Study Title: 
+6-Month Pharmacokinetic Study of BRX-345 in Rats 
+Sample collection times: 
+0 (predose), 0.5, 1, 2, 4, 8, 12 and 24 hours after treatment. 
+Accumulation: 
+The drug did not accumulate over time. The clearance did not change 
+with the increase in dose level. There was a tendency towards a higher 
+clearance on Day 27 for all groups compared to the other days. The 
+volume of distribution did not change with the increase in dose level for 
+the 200 and 400 mg/kg dose groups, but higher values were seen in the 
+900 mg/kg dose group.  
+Dose proportionality: 
+The increase in Cmax was not proportional to the increase in the dose 
+level. The AUC values increased linearly with the increase in dose 
+levels. The AUC values decreased from Day 1 to Day 27 and then 
+increased up to Day 180. 
+NOAEL: 
+The NOAEL in male and female rats is 200 mg/kg/day. 
+Safety margin: 
+Based on the AUC at the NOAEL of 200 mg/kg/day and the 600 mg 
+maximum clinical dose, the safety margin is 2X. 
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration; NOAEL, no observed adverse 
+effect level, TK, toxicokinetic. 
+Study No. 05/982-201K 
+The average Cmax value of 18.94, 22.76 μg/mL (male and female, respectively) and AUCinf 
+values of 84.20, 96.31 hr*μg/ml (male and female, respectively) occurred with a half-life of 2.33 
+hr in males and 1.96 hr in females at a Tmax of 1.00 to 1.25 hr in males and females at 24 hours 
+postdose on Week 52. Cmax increased with increasing dose concentration and remained constant 
+from Week 0 to Week 52. The AUCs increased with increasing concentrations at Week 0; in 
+Weeks 13, 26, 39 and 52, the dose-corrected AUC for the 160 mg/kg dose group was lower than 
+for the 25 mg/kg dose group due to the twice/day dosing and lack of adequate sampling near Tmax 
+of the second dose. No differences in the TK parameters were gender-related (Table 52).  
+Table 52. Week 52 TK Parameters for the Dog 
+Study Title: 
+Toxicokinetic Report – 52-week Repeated Dose Oral Toxicity Study 
+of Test Item BRX-345 in Beagle Dogs. 
+Sample collection times: 
+0.5- and 24-hours postdosing. 
+Accumulation: 
+The drug did not accumulate over time. 
+Dose proportionality:  
+Proportionality between daily dose and Cmax was observed for Week 0, 
+but not at subsequent weeks, presumably in part because of the change 
+in dosing regimen of the 160 mg/kg dose group. Linear proportionality 
+with the administered dose was observed for the calculated AUC values 
+in Week 0. It was not possible to calculate a scientifically sound AUC in 
+Weeks 13, 26, 39 and 52 for the high dose group. 
+NOAEL: 
+The NOAEL in male and female dogs is 160 mg/kg/day. 
+Safety margin: 
+Based on the AUC at the NOAEL of 160 mg/kg/day and the 600 mg 
+maximum clinical dose, the safety margin is 10X. 
+Abbreviations: AUC, area under the concentration-time curve, Cmax, maximum plasma concentration, NOAEL, no observed adverse 
+effect level; TK, toxicokinetic. 
+Reference ID: 4813446
+
+
+===== PAGE 266 =====
+
+NDA 214927  
+arimoclomol 
+150 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+Feed Consumption 
+Food consumption was determined twice weekly prior to mating in male and female animals and 
+during the postpairing phase for males. Daily food consumption was recorded in female animals 
+from gestation day 0 to 13. 
+During the first week of dosing, mean food consumption for males dosed at 750 or 1000 mg/kg 
+was significantly and dose-dependently reduced. Mean food consumption in the male animals 
+was similar to controls from prepairing Day 8 onwards. During the postpairing phase, mean food 
+consumption increased by 8% in the 750 mg/kg males and increased by 12% in the 1000 mg/kg 
+dosed males. Food consumption in the 500 mg/kg males was similar to controls. 
+Food consumption in female animals during the prepairing and gestation phases was similar to 
+that of controls. 
+Toxicokinetics 
+Blood samples for TK analysis were taken from three male rats per timepoint at predose and 1, 2, 
+4, 8, and 24 hours postdose on Prepairing Days 1 and 28. 
+Following once-daily oral gavage administration to male rats, arimoclomol citrate was absorbed 
+with Tmax values of 1 hour on Day 1 and 1 or 2 hours on Day 28 of the prepairing phase. 
+Exposure on Days 1 and 28 resulted in increased Cmax and AUC0-t, with increasing dose level 
+from 500 to 1000 mg/kg/day. The increase in Cmax and AUC0-t values were approximately dose 
+proportional on Days 1 and 28 of the prepairing phases. Arimoclomol Cmax and AUC0-t values 
+were lower on Day 28 than on Day 1 of the prepairing phase (Table 62). 
+Table 62. Arimoclomol Citrate TK Parameters in Male Rat Plasma, Study 8376167  
+ 
+Abbreviations: AUC0-t, area under the concentration-time curve from time zero to last measurable concentration; Cmax, maximum 
+plasma concentration; PK, pharmacokinetic; t1/2, terminal half-life; Tmax, time to maximum plasma; TK, toxicokinetic. 
+Dosing Solution Analysis 
+Formulations were prepared for use in animals on the first day of dosing, end of the dosing 
+phase, and during the Day 28 TK blood sampling in male animals. Formulations were analyzed 
+Reference ID: 4813446
+(b) (4)
+
+
+===== PAGE 270 =====
+
+NDA 214927  
+arimoclomol 
+154 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+Toxicokinetics 
+Maternal blood for TK evaluations were collected on gestation days 6 and 17 at predose and 1, 3, 
+and 5 hours postdose from treated animals, and 1-hour postdose from control animals. 
+Following oral gavage dosing, arimoclomol was absorbed with Tmax values of 1 hour on 
+gestation days 6 and 17. After Cmax, arimoclomol concentrations declined, with half-life (t1/2) 
+values ranging from 1.3 to 1.5 hours on gestation day 6 and from 2.2 to 4.1 hours on gestation 
+day 17. 
+Maternal exposure to arimoclomol citrate on gestation days 6 and 17 resulted in increased Cmax 
+and AUC0-t with an increase in dose from 500 to 1000 mg/kg/day. The increase in Cmax and 
+AUC0-t values were generally dose proportional, with reduced exposure of arimoclomol citrate 
+observed on gestation day 17, compared to gestation day 6. Accumulation ratio values ranged 
+from 0.429 to 0.621 for Cmax and from 0.692 to 0.756 for AUC0-t 
+Dosing Solution Analysis 
+Formulations were prepared for use in animals on the first day of dosing, end of the dosing 
+phase, and during the Day 6 and Day 17 TK blood sampling in pregnant female animals. 
+Formulations were analyzed to determine concentration on first day and end of dosing in 
+animals, and dosing on Days 6 and 17 in TK female animals. 
+Results show that the mean percentage of the nominal concentration was between 90% and 
+110%, with a relative standard deviation of ≤5.0%.  
+Necropsy 
+Animals were sacrificed by cervical dislocation after anesthesia and complete necropsies were 
+performed on all female animals on gestation day 21, with a recording of macroscopic 
+abnormalities for all tissues collected. 
+There were no test article-related observations seen in dams. 
+Cesarean Section Data (Implantation Sites, Pre- and Postimplantation Loss, 
+etc.) 
+Progress and outcome of pregnancy were evaluated with number of corpora lutea, implantations, 
+fetal status (live/dead), and placental weight recorded. 
+Pregnancy was unaffected by arimoclomol administration, as all animals had live fetuses except 
+for a female from the 1000 mg/kg/day dose group. Two control animals had complete 
+parturition, along with a female dosed at 500 mg/kg/day prior to necropsy. 
+At terminal necropsy, all uterine parameters, including the mean number of implantations, live 
+fetuses, and postimplantation losses, for treated dams were comparable with controls. Fetal sex 
+and mean fetal weight were comparable to control values. In female rats dosed at 
+1000 mg/kg/day, the observed mean uterine gravid weight at 10% lower than controls was due to 
+a single female, and therefore considered incidental.  
+Reference ID: 4813446
+
+
+===== PAGE 273 =====
+
+NDA 214927  
+arimoclomol 
+157 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+Clinical Signs 
+Each animal was examined daily (am/pm) one-hour postdose from gestation day 7 to necropsy. 
+There were no test article-related clinical observations. Incidental observations seen in controls 
+and treatment groups include sores/lesions, hair loss, and/or staining. A control female animal 
+and two 200 mg/kg/day dosed animals were observed with thin appearance between gestation 
+days 15 and 29. These animals showed body weight losses and reduced food consumption in 
+addition to one of the treated females not getting pregnant and the other with broken upper teeth. 
+The thin appearance was not considered test article-related.  
+Body Weight 
+Animal body weights were recorded on gestation days 4, 7, 8, 9, 12, 15, 19, 20, 24 and 29. 
+Test article-related changes of cumulative reduction in mean body weight gain of -61% was seen 
+in the 200 mg/kg/day dose group over the dosing period, when compared to the controls. This 
+adverse body weight change was reversed at the end of the dosing period, with a rebound body 
+weight gain significantly higher than controls between gestation day 20 and 29, and comparable 
+to controls towards the end of the dosing period. The minor differences in body weight gain 
+observed in animals dosed at 100 or 150 mg/kg/day and control animals were considered 
+incidental. 
+Feed Consumption 
+Food consumption in pregnant females was determined once daily from gestation day 4 until 
+necropsy by calculation as g/animal/day. 
+Test article-related changes in food consumption were seen in animals dosed at 150 and 
+200 mg/kg/day with some animals virtually stopping food consumption during the latter half of 
+the dosing period. However, the animals recovered following the end of dosing and even 
+consumed more food than control animals during this period. There was no effect on food 
+consumption seen in animals from the 100 mg/kg/day dose group in comparison to controls. 
+Toxicokinetics 
+Maternal blood for TK evaluations were collected on gestation days 7 and 19 at predose and 0.5, 
+1, 2, 4 and 8 hours postdose from treated animals from the marginal ear vein. 
+Following oral gavage dosing, arimoclomol was absorbed with Tmax values of 1 hour on 
+gestation day 7 and 0.5 or 1 hour on gestation day 19. After reaching Cmax, arimoclomol 
+concentrations declined, with half-life (t1/2) values ranging from 0.884 to 1.01 hours on gestation 
+day 7 and from 0.947 to 1.19 hours on gestation day 19. These t1/2 values indicate that 
+arimoclomol exposure is not dose or time dependent. Exposure to arimoclomol resulted in 
+increased Cmax and AUC0-t values, with the increase in dose level from 100 to 200 mg/kg/day. 
+The increases in arimoclomol Cmax and AUC0-t values were approximately dose proportional 
+(within a factor of twice the dose increment) on gestation day 7 and 19. Test article Cmax and 
+AUC0-t values were generally similar on gestation day 7 and 19, indicating that there was no 
+accumulation of arimoclomol after multiple doses in pregnant rabbits (Table 67). 
+Reference ID: 4813446
+
+
+===== PAGE 274 =====
+
+NDA 214927  
+arimoclomol 
+158 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+Table 67. Arimoclomol Citrate TK Parameters in Rabbit Plasma, Study 8376166 
+ 
+Abbreviations: AUC Abbreviations: AUC0-t, area under the concentration-time curve from time zero to last measurable concentration; 
+Cmax, maximum plasma concentration; t1/2, terminal half-life; Tmax, time to maximum plasma; TK, toxicokinetic. 
+Dosing Solution Analysis 
+Test article formulations were prepared weekly as a suspension in purified water, and also 
+prepared for use on each day of TK sampling of the study with first and last day of dosing 
+analyzed to determine the achieved concentration of arimoclomol citrate. 
+The mean percentage of the nominal concentration was between 90 to 110% with a relative 
+standard deviation ≤5.0%. 
+Necropsy 
+Animals were terminated on gestation day 29 by intravenous injection of sodium pentobarbitone. 
+All lesions were recorded and retained in relevant fixative. 
+At terminal necropsy, there were no test article-related observations seen. Incidental macroscopic 
+findings were confined to moderately sore ear in a 100 mg/kg/day dosed animal and a pale 
+placenta in a 150 mg/kg/day dosed animal. 
+Cesarean Section Data (Implantation Sites, Pre- and Post-Implantation Loss, 
+etc.) 
+The ovaries and uteri were removed and examined to determine pregnancy status and 
+measurement of C-section parameters. 
+The number of pregnant rabbits was not affected by arimoclomol treatment. With the exception 
+of one animal each dosed with vehicle control or 150 or 200 mg/kg/day, all animals were 
+pregnant, and at terminal necropsy, all remaining pregnant dams from control and treatment 
+groups had live fetuses. 
+All of the measured uterine parameters, including the mean number of implantations, live 
+fetuses, and pre- and postimplantation losses for treated rabbits were comparable to controls. The 
+fetal sex ratio was unaffected by the administration of the test article and the mean fetal weights 
+for treated animals were similar to controls. 
+Reference ID: 4813446
+
+
+===== PAGE 288 =====
+
+NDA 214927  
+arimoclomol 
+172 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+14.2. In Vivo Studies 
+14.2.1. OR-ARI-MET – 01: Interventional, open-label, 
+single-group, multiple-dose study investigating 
+the pharmacokinetic properties of arimoclomol 
+(BRX-345) and its metabolites following oral 
+administration to healthy young men 
+Six healthy male subjects received 248 mg arimoclomol three times daily on Day 1 to Day 5 then 
+a single 248 mg dose on Day 6. Blood samples for PK assessment were collected on Day 1 (pre-
+morning dose and 0.25, 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, and 8 hours post-morning dose), on Days 2-5 
+(pre-morning dose), and on Day 6 (pre-morning dose, and 0.25, 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 12, 
+24 48, 96, 120, and 168 hours post-dose). The PK results are summarized in Table 75. 
+Table 75. Single and Multiple-Dose Pharmacokinetic Parameters of Arimoclomol in Study OR-ARI-
+MET-01 
+ 
+Source: Table 2-4, Summary of Clinical Pharmacology Studies.  
+Geometric mean (CV%) values are presented for AUC0-inf, AUC0-8h, Cmax, t½, CL/F, Vz/F and AI. Median (min,max) values are 
+presented for tmax.  
+Abbreviations: AI, Accumulation Index; AUC, area under the curve 
+14.2.2. Study 40338: Single Ascending Dose First-In-
+Man Study After Oral Administrations of 
+Arimoclomol in Male Healthy Volunteers  
+Group A (N=6 subjects) was administered four escalating doses of arimoclomol (50 mg, 200 mg, 
+400 mg, and 800 mg) or placebo and Group B (N=6 subjects) was administered three escalating 
+Reference ID: 4813446
+
+
+===== PAGE 289 =====
+
+NDA 214927  
+arimoclomol 
+173 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+doses of arimoclomol (100 mg, 400 mg, and 600 mg) or placebo. A blood sample was collected 
+for pharmacokinetic (PK) analysis at: 0.5, 1, 1.5, 2, 3, 4, 6, 8, 12, and 24 hours postdose. Tmax 
+ranged between 0.5 and 1.1 hours, mean half-life ranged between 2.5 and 6.2 hours, and a 
+proportional increase in AUC and Cmax was observed with increasing arimoclomol dose.  
+14.2.3. Study 40343: A Double-Blind Multiple Dose 
+Study After Oral Administrations of Arimoclomol 
+in Male Healthy Volunteers 
+Group A (N=9 subjects) received a 50 mg capsule or placebo as a single dose on the morning of 
+Day 1 and then 50 mg or placebo three times a day on Days 2 to 9 with a single 50-mg dose on 
+the morning of Day 10. Group B (N=9 subjects) received 100 mg capsules or placebo in a similar 
+regimen as per Group A. A blood sample was collected for pharmacokinetic (PK) analysis at: 
+0.5, 1, 1.5, 2, 3, 4, 6, 8, and 12 hours postdose on Day 1 and Day 10. An additional blood sample 
+was collected for PK analysis each morning prior to the first dose on Days 2 to 8, and prior to 
+each dose on Day 9.  
+After single-dose administration of 50 mg arimoclomol (Group A), the AUC0-8h (geometric mean 
+0.517 μg/mL*h), AUC0-tz (0.621 μg/mL*h), and AUC0-inf (0.680 μg/mL*h) were about half the 
+corresponding values observed after single-dose administration of 100 mg arimoclomol (Group 
+B), with an AUC0-8h (geometric mean 1.079 μg/mL*h), AUC0-tz (1.266 μg/mL*h) and AUC0-inf 
+(1.303 μg/mL*h). Similarly, Cmax following administration of 50 mg arimoclomol was about half 
+of the Cmax following administration of 100 mg arimoclomol (A: 0.168 μg/ml versus B: 0.358 
+μg/ml). Tmax (0.917 h) and the single dose half-life (A: 4.12 h, B: 3.32 h) appeared to be 
+independent from the dose. 
+Multiple doses separated by a dosing interval of 8 hours resulted in an accumulation ratio 
+(Racc = AUC0-8h,md/AUC0-8h,sd) of 1.4 to 1.5 independently from dose. 
+14.2.4. AALS-002: A Phase I Mass Balance Study to 
+Investigate the Absorption, Metabolism, and 
+Excretion of [14C]Arimoclomol Following Single 
+Oral Dose Administration in Healthy Male 
+Subjects 
+Six male subjects were administered 100 mg (100 µCi) [14C]- arimoclomol orally in the fasted 
+state. Blood samples for PK analysis were collected at the following timepoints beginning on 
+Day 1: 0 hour (predose), 0.25, 0.5, 1, 1.5, 2, 2.5, 3, 4, 6, 8, 12, 24, 36, 48, 72, 96, 120, 144, and 
+168 hours postdose. Urine samples were collected at the following timepoints beginning on Day 
+-1: -24 to 0 hours (i.e., predose), 0 to 6, 6 to 12, 12 to 24, 24 to 48, 48 to 72, 72 to 96, 96 to 120, 
+120 to 144, and 144 to 168 hours postdose. Fecal samples collected at the following timepoints 
+beginning on Day -1: -24 to 0 hours (i.e., predose), 0 to 24, 24 to 48, 48 to 72, 72 to 96, 96 to 
+120, 120 to 144, and 144 to 168 hours postdose. Blood and excreta sample collection continued 
+every 24 hours after 168 hours postdose, until the clinic discharge criteria were met (up to a 
+maximum of 336 hours postdose).  
+Following oral administration of arimoclomol, total serum radioactivity reached maximum 
+concentrations by 2.00 hours postdose and declined in a bi-exponential manner, with a rapid 
+Reference ID: 4813446
+
+
+===== PAGE 292 =====
+
+NDA 214927  
+arimoclomol 
+176 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+3 that is expected to cover the highest clinical exposure scenario. The mean (upper 90% 
+confidence interval) QTcF increase from baseline was 2.9 (4.3) msec. As such, the QT-IRT 
+Review team concluded that there is no significant QTc prolongation effect of arimoclomol 
+(Refer to QT-IRT review by Dr. Girish Bende dated February 11, 2021).  
+14.3. Formulations Used in Arimoclomol Clinical 
+Trials and PK Results 
+The proposed to-be-marketed drug products are arimoclomol 
+ 47 mg, 62 mg, 93 mg, and 
+124 mg capsules. Arimoclomol has high solubility and low permeability (BCS Class 3).  
+During the clinical development of arimoclomol the formulation was modified with respect to 
+ The drug 
+products used in the pivotal Study NPC-002, the food-effect studies (AALS-004 and AALS-
+011), and the to-be-marketed drug products differ with respect to 
+ 
+ (Table 77). The Applicant did not conduct a clinical bioequivalence 
+study to bridge the different formulations used in different clinical trials. However, the excipients 
+used across the different formulations
+are not known to affect 
+the rate and extent of drug absorption, and the
+and hydroxypropyl methylcellulose 
+capsule formulations are both rapidly dissolving. The submitted dissolution data demonstrate that 
+the different formulations of arimoclomol have high solubility across the pH range and are 
+adequate to support bridging of formulations (see Section 9). In addition, the PopPK analysis did 
+not demonstrate a significant effect of formulation on arimoclomol PK; this analysis is 
+supportive of formulation bridging and similarity of bioanalytical methods. 
+Based on pooled non-compartmental PK analysis, the PK parameters of arimoclomol following a 
+single dose of 31-469 mg and multiple t.i.d doses of 62-372 are summarized in Table 78 and 
+Table 79, respectively. Dose normalized AUC0-inf and Cmax across the formulations used in 
+different clinical trials are shown in Figure 18, which suggest the formulations do not have a 
+significant impact on PK. The relationships between arimoclomol exposure (AUC0-inf and Cmax) 
+and dose based on pooled data across clinical trials are shown in Figure 19. The estimates of the 
+proportionality coefficient (90% CI) for Cmax and AUC0-inf were 1.14 (1.07 – 1.20) and 1.03 (0.98 
+– 1.08), respectively, which indicates dose-proportionality at the dose range of 62-372 mg 
+following multiple dose administrations. 
+Reference ID: 4813446
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 295 =====
+
+NDA 214927  
+arimoclomol 
+179 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+Figure 18. Dose-Normalized Cmax and AUC0-inf Following Single Dose Administrations Across 
+Arimoclomol Clinical Trials 
+Cmax 
+ 
+AUC0-inf 
+ 
+Source: Figure 3-2, Summary of Biopharmaceutical Studies and Associated Analytical Methods 
+Figure 19. Relationships between Arimoclomol Cmax and AUC0-inf And Dose Following Single 
+Dose Administrations of Arimoclomol Across Clinical Trials 
+Cmax 
+ 
+AUC0-inf 
+ 
+Source: Figure 3-1, Summary of Biopharmaceutical Studies and Associated Analytical Methods 
+14.4. Summary of Bioanalytical Method 
+Validation and Performance 
+PK Assays 
+The bioanalytical methods used for quantification of arimoclomol in clinical trials are 
+summarized in Table 80. The assay validation and performance parameters for the bioanalytical 
+methods used for the determination of arimoclomol concentrations in human plasma and serum 
+(method validation IDs: 8316767, 8396597; 
+) are summarized in 
+Table 81. and Table 82. Of note, PK samples from six subjects from the OR-ARI-MET-01 Trial 
+were collected and analyzed according to the methods 8316767 & 8396597. Figure 20 shows the 
+correlation between serum and plasma arimoclomol concentrations which indicate no significant 
+differences between serum and plasma arimoclomol concentrations in the PK samples. The 
+summaries of bioanalytical method life cycle information are provided in Table 84, Table 85, 
+Table 86, and Table 87. All clinical trial PK samples were analyzed within the stability of 
+arimoclomol in serum, plasma, and urine. 
+Reference ID: 4813446
+(b) (4)
+
+
+===== PAGE 309 =====
+
+NDA 214927  
+arimoclomol 
+193 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+Table 89. Parameter Estimates for the Final PopPK Model (Run030) 
+Parameter 
+Unit 
+Estimate 
+RSE%[1] 
+LLCI[2] 
+ULCI[3] 
+CLpop4 
+L/h 
+39.7 
+2.37 
+37.9 
+41.5 
+Vc4 
+L 
+4.33 
+13.4 
+3.19 
+5.47 
+Vp4 
+L 
+102 
+12.0 
+78.1 
+126 
+Q4 
+L/h 
+27.1 
+24.5 
+14.1 
+40.1 
+KApop 
+h-1 
+0.338 
+12.2 
+0.257 
+0.419 
+KTRpop 
+h-1 
+17.2 
+3.98 
+15.9 
+18.5 
+β 
+- 
+0.533 
+7.62 
+0.453 
+0.613 
+ΘAGE 
+- 
+0.00715 
+25.2 
+0.00362 
+0.0107 
+CL (ω2) 
+- 
+0.0578 
+16.4 
+0.0392 
+0.0764 
+CL (CV) 
+% 
+24.4 
+ 
+20.0 
+28.2 
+CL shrinkage 
+% 
+5.3 
+ 
+ 
+ 
+KTR (ω2) 
+- 
+0.151 
+20.3 
+0.0918 
+0.211 
+KTR (CV) 
+% 
+40.4 
+ 
+30.8 
+48.5 
+KTR shrinkage 
+% 
+23.5 
+ 
+ 
+ 
+KA (ω2) 
+- 
+0.0784 
+25.8 
+0.0388 
+0.118 
+KA (CV) 
+% 
+28.6 
+ 
+19.9 
+35.4 
+KA shrinkage 
+% 
+15.8 
+ 
+ 
+ 
+Source: Table 10-5 of Applicant’s PPK report. 
+1 RSE = relative standard error (100·SE/estimate). 
+2 
+LLCI = lower limit of 95% confidence interval (estimate - 1.96·SE). 
+3 ULCI = upper limit of 95% confidence interval (estimate +1.96·SE). 
+4 Apparent PK parameters, equivalent to CLpop/F, Vc/F, Vp/F, and Q/F, respectively. 
+Abbreviations: β, allometric component; ΘAGE, parameter describing influence of age on KA; CL, clearance; CLpop, population 
+estimate of clearance; CV, coefficient of variation; KA, absorption rate constant; KTR, transit compartment rate constant; PopPK, 
+population pharmacokinetics; Q, intercompartmental clearance; RSE, relative standard error; Vc, volume of distribution for central 
+compartment; Vp, column of distribution of peripheral compartment. 
+Clinical Pharmacology’s comment on Applicant’s PPK analysis: The inclusion of absorption 
+transit compartments improved the fittings of data significantly by reducing time-dependent 
+fitting bias (as demonstrated in Figure 10-1 of the Applicant’s population pharmacokinetics 
+report). KTR is estimated to be 17.2 h-1 with inter-individual variability of 39% (KTR ranging 
+from 5.942 to 34.46 h-1). The Applicant’s report did not provide possible physiological 
+explanation of KTR and its variability. The age effect on Ka is 0.00715, suggesting about 0.7% 
+increase in Ka with aging one year, which does not seem to be clinically significant. While the 
+individual predicted arimoclomol exposure was found to be higher with miglustat co-
+administration (Figure 23), miglustat was not formally tested as a covariate on arimoclomol PK 
+in the Applicant’s analysis. 
+Reference ID: 4813446
+
+
+===== PAGE 313 =====
+
+NDA 214927  
+arimoclomol 
+197 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+Table 92. Summary of Statistical Testing for Influence of Covariates and Exposure Variables on 
+ΔPD 
+Variable 
+ΔCHT[1]
+ΔUECH[2] ΔHSP70[3] ΔGM3P[4] ΔGM3C[5]
+ΔGB3P[6]
+ΔNLC4[7]
+N (Visit 4) 
+32
+25
+14
+28
+25
+28
+25
+N (Visit 6) 
+27
+24
+12
+24
+21
+24
+22
+Transformation 
+None
+None
+Box-Cox
+Box-Cox
+None
+None
+Box-Cox
+Analysis type 
+Para[8] Non-para[9]
+Para
+Para
+Para
+Non-para
+Para
+AUC(0-8)ss at V4 
+NS
+NS
+NS
+NS
+p=0.0480
+NS
+NS
+AUC(0-8)ss at V6 
+NS
+NS
+NS
+NS
+p=0.0364
+NS
+NS
+Cmaxss at V4 
+NS
+NS
+NS
+NS
+p=0.0076
+NS
+NS
+Cmaxss at V6 
+NS
+NS
+NS
+NS
+p=0.0194
+NS
+NS
+Cminss at V4 
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+Cminss at V6 
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+Age[10] at V4 
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+Age[10] at V6 
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+Wght[11] at V4 
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+Wght[11] at V6 
+NS
+p=0.0176
+NS
+NS
+NS
+NS
+NS
+Hght[12] at V4 
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+Hght[12] at V6 
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+BMI[13] at V4 
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+BMI[13] at V6 
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+MIGSTAT[14] at V4 
+NS
+NS
+NS
+NS
+NS
+NS
+NS
+MIGSTAT[14] at V6 
+NS
+NS
+NS
+p=0.0230
+NS
+NS
+NS
+Source: Table 2-1 of Applicant’s exposure-response analysis. 
+1 cholestane-triol in serum. 
+2 unesterified cholesterol in PBMC. 
+3 heat-shock protein 70 in PBMC. 
+4 GM3 in plasma. 
+5 GM3 in PBMC. 
+6 GB3P in plasma. 
+7 NLC4 in PBMC. 
+8 m parametric statistical analysis used. 
+9 nonparametric statistical analysis used. 
+10 age at screening. 
+11 weight at screening. 
+12 height at screening. 
+13 body mass index at screening. 
+14 co-administration of miglustat. 
+Abbreviations: AUC, area under the concentration-time curve; BMI, body mass index; Cmax, maximum plasma concentration; Cmin, 
+minimum plasma concentration; NS, not significant; PD, pharmacodynamic. 
+Reference ID: 4813446
+
+
+===== PAGE 314 =====
+
+NDA 214927  
+arimoclomol 
+198 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+Table 93. Statistical Test Results for Influence of Covariates on Box-Cox Transformed ΔGM3C 
+Visit 
+Covariate[1] 
+F Statistic 
+Numerator 
+Degrees of 
+Freedom 
+Denominator 
+Degrees of 
+Freedom 
+P 
+4 
+AUC(0-8)ss 
+4.3621 
+1 
+23 
+0.0480 
+4 
+Cmaxss 
+8.5478 
+1 
+23 
+0.0076 
+4 
+Cminss 
+1.0883 
+1 
+23 
+0.3077 
+4 
+Age 
+0.0100 
+1 
+23 
+0.9211 
+4 
+Wght 
+0.2510 
+1 
+23 
+0.6212 
+4 
+Hght 
+0.7782 
+1 
+23 
+0.3868 
+4 
+BMI 
+0.9386 
+1 
+23 
+0.3427 
+4 
+MIGSTAT 
+4.0975 
+1 
+23 
+0.0547 
+6 
+AUC(0-8)ss 
+5.0701 
+1 
+19 
+0.0364 
+6 
+Cmaxss 
+6.5242 
+1 
+19 
+0.0194 
+6 
+Cminss 
+2.1570 
+1 
+19 
+0.1583 
+6 
+Age 
+0.7150 
+1 
+19 
+0.4083 
+6 
+Wght 
+0.7192 
+1 
+19 
+0.4070 
+6 
+Hght 
+0.1408 
+1 
+19 
+0.7116 
+6 
+BMI 
+0.0836 
+1 
+19 
+0.7756 
+6 
+MIGSTAT 
+1.8293 
+1 
+19 
+0.1921 
+Source: Table 9-9 of Applicant’s exposure-response report 
+1 Continuous covariates were analyzed using linear regression. MIGSTAT was analyzed using one way ANOVA. 
+Abbreviations: AUC, area under the concentration-time curve; BMI, body mass index; Cmaxss, maximum plasma concentration at 
+steady state. 
+Change in Serum Creatinine 
+Graphical analysis of the data revealed there was, on average, a rapid increase in serum 
+creatinine (SCR) soon after the start of treatment, where the increased level of mean SCR 
+(approximately 0.08 mg/dL above screening level) was then maintained throughout the rest of 
+the study. While there was an effect of arimoclomol treatment on SCR, the trajectories of SCR 
+were clearly not linear. The analysis of influence of covariates and exposure variables on SCR 
+instead focused on the change in serum creatinine from screening to Visit 2 (ΔSCR), with the 
+analysis of the ΔSCR data following the same methodology as used for analysis of changes in 
+PD biomarkers. The only significant exposure variable or covariate influence identified in the 
+analysis was that of co-administration of miglustat (p=0.027), with co-administration associated 
+with a more positive ΔSCR (+5.91μmol/L, 95% CI: 0.713, 11.1) as shown in Figure 26. 
+Reference ID: 4813446
+
+
+===== PAGE 317 =====
+
+NDA 214927  
+arimoclomol 
+201 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+Results 
+We conducted exploratory analyses to evaluate the effect of formulation, sample matrix and 
+study on arimoclomol PK. The results showed: 
+• No matrix (serum versus plasma) effect on arimoclomol PK: dose- and body weight-
+normalized arimoclomol AUC were similar between plasma PK and serum PK. The AUC 
+ratio of plasma matrix to serum matrix was 1.09 (95% CI: 86.7%, 131.3%). 
+• Lack of formulation (dry versus wet) effect on arimoclomol PK: dose- and body weight-
+normalized arimoclomol AUC were similar between dry formulation and wet formulation. 
+The AUC ratio of dry formulation to wet formulation was 1.00 (95% CI: 84.7, 114.7%). No 
+significant difference in PK was observed across studies.  For Study AALS-010 (the study 
+of arimoclomol effect on glomerular function), the estimated arimoclomol CL was ~20% 
+lower compared to other studies. 
+No study effect on PK, except for Study AALS-010 (the study of arimoclomol effect on 
+glomerular function), where the estimated arimoclomol clearance (CL) of was ~20% lower 
+compared to other studies. 
+To evaluate the impact of miglustat on arimoclomol CL, the ratio of population clearance 
+between combination and monotherapy (Ratio) and SE was estimated by: 
+CLi = RatioMig·(BWT/70)β·CLpop∙exp(ηi) 
+where Mig =1 for patients on combination and Mig =0 for patients on monotherapy, CLpop was 
+the typical value/population estimate of the CL, CLi was the value of CL for the ith individual, 
+and 𝜂𝜂i was a random interindividual effect in CL for the ith subject assuming to follow a normal 
+distribution with a mean of zero and variance ω2 (i.e., 𝜂𝜂 ~N[0, ω2]). The 95% confidence 
+interval of the Ratio was calculated using Estimate ± 1.96∙SE.  
+In Study NPC-002, there were 34 patients who had co-administration of miglustat. None of these 
+subjects had documented interruption in miglustat, and two subjects had a change in miglustat 
+dosing regimen during the treatment. There were 9 patients on arimoclomol monotherapy 
+without miglustat co-administration within the 6-month period prior to the first dose of 
+arimoclomol. In total, 91 patients on monotherapy from Phase 1 studies were also included in the 
+analysis. The Ratio was estimated to be 0.96 with a 95% CI of 0.88 to 1.04 (including 1), 
+suggesting lack of effect of miglustat on arimoclomol PK. As body weight is a significant 
+covariate on arimoclomol clearance, the individual body weight-adjusted clearance is plotted in 
+Figure 27 with the left panel for all data and the right panel for Study NPC-002 only, where no 
+apparent difference is observed between monotherapy and combination.  
+Reference ID: 4813446
+
+
+===== PAGE 322 =====
+
+NDA 214927  
+arimoclomol 
+206 
+Integrated Review Template, version 2.0 (04/23/2020) 
+ 
+Figure 32. Comparison of Predicted Steady-State Arimoclomol Exposure (AUC and Cmax) Between 
+Dosing Regimen (Upper Panels) and New Dosing Regimen (Bottom Panels) 
+ 
+Source: Figures G-1, G-2, G-5 and G6 of “pop-pk-addendum-report-2.pdf”, dated January 27, 2021, in response to FDA information 
+request. 
+Abbreviations: AUC, area under the concentration-time curve; Cmax, maximum plasma concentration. 
+14.5.4. FDA’s Analysis on Lyso-SM-509  
+As supportive evidence of the effectiveness for arimoclomol, the Applicant submitted biomarker 
+data of Lyso-SM-509 from Study NPC-002. Figure 33 shows the time course of individual 
+observation and the mean (± SD) of Lyso-SM-509 by treatment arms. The difference in Lyso-
+SM-509 change from baseline between arimoclomol and placebo arm appears significant at 
+Month 6, but less pronounced at Month 12. 
+Based on the submitted data, FDA reviewer conducted independent analysis to explore the E-R 
+relationship for change in Lyso-SM-509, and the correlation between change in Lyso-SM-509 
+with change in 5DNPCCSS at Month 6 and Month 12.  
+Reference ID: 4813446
+(b) (4)
+
+
+===== PAGE 540 =====
+
+NDA #214927
+Kenrick M. Semple, Ph.D., DABT
+113
+and arimoclomol-treated rats in litter viability, number of corpora lutea, live male, live 
+female, and total live rats (Table 15).
+Table 15 Litter data – group mean value on GD20.
+Parameters
+0 mg/kg
+100 mg/kg
+330 mg/kg
+1000 mg/kg
+No. Pregnant
+20
+20
+20
+20
+Corpora lutea/ rats
+11.9
+12.8
+12.1
+12.1
+Implantation sites/ rats
+11.3
+11.1
+11.0
+11.3
+Pre-implantation loss/ group (%)
+5.1
+14.0
+8.2
+7.2
+Post-implantation loss/ group (%)
+6.3
+10.3
+4.7
+16.2
+Resorptions/ group (%) Early
+0.7
+0.8
+0.5
+1.3
+Resorptions/ group (%) Late
+0.1
+0.0
+0.0
+0.7
+Resorptions/ group (%) Total
+0.8
+0.8
+0.5
+2.0
+Live young Male
+5.1
+5.3
+4.4
+4.2
+Live young Female
+5.4
+5.0
+6.1
+5.1
+Live young Total
+10.5
+10.3
+10.5
+9.3
+Sex ratio (%M)
+48.5
+53.5
+41.2
+42.3
+Note: Bold numbers denote significant findings.
+Necropsy/Gross Pathology 
+All dams were necropsied on GD 20 and all external features and orifices were 
+examined visually. Any abnormality in the appearance or size of any organ and tissue 
+(external and cut surface) was recorded and the required tissue samples preserved in 
+appropriate fixative. There were no treatment-related adverse gross necropsy findings 
+in this study.
+Toxicokinetics 
+Blood samples were collected at 5-, 5.5-, 7-, 8.5-, and 10-hours post-dose on GD 6 and 
+17. The AUC and Cmax of arimoclomol generally increased with increasing dose levels 
+from 100 to 1000 mg/kg/day at GD 6 and increased at GD 17; the increases in Cmax 
+and AUC5-10h values were generally dose proportional and there was no evidence of 
+accumulation observed between GD6 and GD17 after thrice daily dosing in pregnant 
+rats. T1/2 was generally 0.972 to 2.61 h on Days 6 and 17 at all doses (Table 16). 
+Table 16 Arimoclomol TK Parameters on GDs 6 and 17
+Day
+Dose 
+(mg/kg/day)
+Cmax 
+(ng/mL)
+AUC5-10 
+(hr.ng/mL)
+T1/2 
+(h)
+100
+3140.0
+6310.0
+0.972
+330
+12500.0
+25500.0
+1.05
+6
+1000
+34000.0
+91200.0
+2.61
+100
+3240.0
+6470.0
+1.16
+330
+10700.0
+23000.0
+1.03
+17
+1000
+17700.0
+57100.0
+1.33
+Reference ID: 5447492
+
+
+===== PAGE 628 =====
+
+ 
+ 
+4 
+ 
+Table of Figures 
+Figure 1. Comparison of AUC and Cmax of Arimoclomol by eGFR Categories and by 
+Weight Groups ........................................................................................................................................ 11 
+Figure 2. Exposure-response relationship for change from Baseline to Month 12 
+R4DNPCCSS and 5DNPCCSS in NPC-002 ....................................................................................... 18 
+Figure 3. Goodness-of-fit plot for the population pharmacokinetics final model of the FDA 
+reviewer’s analysis ................................................................................................................................ 34 
+Figure 4. Simulated Steady-State Cmax for for the Dosing Regimen Proposed by the 
+Applicant .................................................................................................................................................. 34 
+Figure 5. Simulated Steady-State Daily AUC for the Dosing Regimen Proposed by the 
+Applicant .................................................................................................................................................. 35 
+Figure 6. Simulated Steady-State Cmax for the TID Dosing Regimen Proposed by the 
+Applicant and One Level Lower in Dose Strength for BID Dosing ........................................... 36 
+Figure 7. Simulated Steady-State Daily AUCss for the TID Dosing Regimen Proposed by 
+the Applicant and One Level Lower in Dose Strength for BID Dosing .................................... 36 
+Figure 8. Exposure-Response Relationship for R4DNPCCS Explored with the Univariate 
+Linear Regression Analysis ................................................................................................................ 37 
+Figure 9. Multivariate Exposure-Response Relationship between R4DNPCCSS (Rescore 
+of NPCCSS4D) and Steady-State AUC ............................................................................................. 38 
+Figure 10. Multivariate Exposure-Response Relationship between 5DNPCCSS and 
+Steady-State AUC ................................................................................................................................... 39 
+Figure 11. Forest plot of subgroup analysis of the R4DNPCCSS endpoint by disease 
+characteristics – DB phase of NPC-002 (FAS) ............................................................................... 41 
+ 
+ 
+Reference ID: 5446462
+
+
+===== PAGE 639 =====
+
+ 
+ 
+15 
+ 
+Study NPC-002. Of note, cross-study PK comparisons and the 
+PopPK analysis results did not indicate a significant effect of 
+formulation on arimoclomol PK. 
+Absorption 
+Bioavailability 
+The absolute bioavailability of arimoclomol following oral 
+administration has not been determined. 
+Tmax 
+0.25-3.0 hours 
+Food effect 
+(fed/fasted) 
+Geometric least 
+square mean and 
+90% CI 
+Food had no significant effect on PK of arimoclomol. 
+Arimoclomol can be administered with or without food. In the 
+CT-ORZY-NPC-002 clinical trial, for patients with swallowing 
+difficulties, arimoclomol was dispersed in liquid (water, apple 
+juice) or soft food (yoghurt, apple sauce) for oral administration.  
+ 
+The effect of food on arimoclomol PK was evaluated in Studies 
+AALS-004 following a 62 mg oral dose (formulation code D2) 
+and AALS-011 following a 248 mg oral dose (formulation code 
+G1). Arimoclomol PK was assessed in the fasted state and 
+following a high-fat meal consisting of 150 calories from protein, 
+250 calories from carbohydrates, and 500-600 calories from 
+fat. These studies are considered supportive because the to-be 
+marketed formulation was not used; no studies were conducted 
+evaluating the effect of food on arimoclomol PK using the to-be-
+marketed formulation. However, dissolution data were 
+submitted that supported bridging of the formulations used in 
+the food effect studies to the to-be-marketed formulation. As 
+such, no further assessment of food effect is needed. The 
+results of each food effect study are summarized below. 
+ 
+AALS-011: Fed: Fasted ratios of least square means (90% CI) 
+AUC0-inf   103 (99.5, 106.9) 
+Cmax         89.9 (81.4, 99.3) 
+Tmax         Median value increased from 1.5 to 3.0 hours in fed 
+state 
+ 
+AALS-004: Fed: Fasted ratios of least square means (90% CI) 
+AUC0-inf   101 (95.6, 106.3) 
+Cmax        94.9 (88.0, 102.4) 
+ Tmax       Median value increased from 1.5 to 3.0 hours in fed       
+state 
+Distribution 
+Volume of 
+distribution 
+The apparent volume of distribution of arimoclomol is 
+approximately 211 L at steady state following 248 mg TID oral 
+dose administration in adult healthy subjects 
+Plasma protein 
+binding 
+10%; independent of concentration within the range of 0.4 to 16 
+μM 
+Reference ID: 5446462
+
+
+===== PAGE 640 =====
+
+ 
+ 
+16 
+ 
+Drug as substrate 
+of 
+transporters 
+Based on in vitro studies, arimoclomol is a substrate of MATE1 
+and MATE2-K. Arimoclomol is not a substrate of OAT1, OAT3, 
+and OCT2 
+Elimination 
+Mass balance 
+results 
+Following a 100 mg oral dose of arimoclomol, total serum 
+radioactivity reached maximum concentrations within 2.0 hours. 
+Urinary excretion accounted for 77.5% of the administered dose 
+and fecal excretion accounted for 12.0% of the administered 
+dose. The parent drug accounted for the highest percentage 
+contribution to total radioactivity 
+Clearance 
+The mean (CV%) CL/F at steady state following 248 mg three 
+times a day dosing in adult healthy subjects was 34.4 (18%) 
+L/hr 
+Half-life 
+4.3 ± 0.3 hr 
+Metabolic 
+pathway(s) 
+The primary metabolic pathways are glutathionylation via 
+glutathione-S-transferase, O-glucuronidation via UGT1A3, 
+UGT1A9, UGT2B4, UGT2B7, and UGT2B17, and NO-cleavage 
+via an unknown mechanism. CYP450 enzymes do not 
+contribute to arimoclomol metabolism to a clinically meaningful 
+extent 
+Intrinsic Factors and Specific Populations 
+Body weight 
+Body weight was identified as a significant covariate on 
+arimoclomol clearance. Subjects with higher body weight had 
+higher clearance and lower arimoclomol concentrations. At the 
+recommended body weight-tiered dosage regimen, the 
+exposure of arimoclomol (AUC and Cmax) at steady-state is 
+predicted to be similar across different body weight groups 
+Age 
+Based on the population PK analysis, age did not significantly 
+affect arimoclomol exposure. The median age of subjects was 
+24 years (range 2 to 76 years) 
+Renal impairment 
+Renal impairment was identified as a significant covariant on 
+arimoclomol exposure. The mean arimoclomol AUC0-inf 
+increased with greater severity of renal impairment. The mean 
+AUC0-inf value for arimoclomol in subjects with eGFR ≥ 60 to < 
+90 mL/min, ≥ 30 to < 60 mL/min, and < 30 mL/min were 
+approximately 9%, 40%, and 142% higher and a mean Cmax 
+values were 34% higher, 1% lower, and 14% higher compared 
+to subjects with normal renal function. Dosage adjustment by 
+reducing the dosing frequency from TID to BID is recommended 
+for patients with eGFR <50 mL/min. At the recommended BID 
+dosage, patients with eGFR ≥15 to < 50 mL/min would achieve 
+similar AUC and Cmax as the corresponding TID dosage in 
+patients with eGFR >50 mL/min across body weight subgroups. 
+Hepatic impairment 
+Mild-to-moderate hepatic impairment is not expected to have a 
+clinically meaningful effect on arimoclomol exposure. The 
+Reference ID: 5446462
+
+
+===== PAGE 641 =====
+
+ 
+ 
+17 
+ 
+impact of severe hepatic impairment on arimoclomol PK has not 
+been evaluated. 
+Drug Interaction Liability (drug as perpetrator) 
+Inhibition/induction 
+of metabolism 
+Based on in vitro studies, arimoclomol did not inhibit CYP1A2, 
+CYP2B6, CYP2C9, CYP2C19, CYP2D6, or CYP3A4 or induce 
+CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19 and CYP3A4 
+at clinically relevant concentrations 
+Inhibition/induction 
+of transporter 
+systems 
+Based on in vitro studies, arimoclomol inhibited OCT2 with IC50 
+of 9.72 μM, MATE1 with IC50 of 132 μM and MATE2-K with 
+IC50 of 48.5 μM. Arimoclomol did not inhibit OATP1B1, 
+OATP1B3, OAT1, or OAT3 transporters 
+Source: Summary of Clinical Pharmacology Studies 
+Abbreviations: AUC, area under the concentration-time curve; CI, confidence interval; Cmax, maximum plasma concentration; CL, 
+clearance; CL/F, clearance after oral administration; CV, coefficient of variation; CYP, cytochrome P450; GMR, geometric mean 
+ratio; HPLC, high performance liquid chromatography; IC50, half maximal inhibitory concentration; MS, mass spectrometry; MTD, 
+maximum tolerated dose; PK, pharmacokinetics; TID, three times daily; Tmax, time to maximum plasma concentration; TQT, 
+thorough QT; UGT, Uridine 5'-diphospho-glucuronosyltransferase. 
+3.2 Clinical Pharmacology Review Questions 
+3.2.1 To what extent does the available clinical pharmacology information provide pivotal 
+or supportive evidence of effectiveness? 
+Substantial evidence of effectiveness of arimoclomol in combination with miglustat for 
+the treatment of NPC patients 2 years of age and older was established with one 
+adequate and well controlled (A&WC) trial (study NPC-002) and confirmatory evidence. 
+From a clinical pharmacology perspective, the exposure-response relationship for 
+efficacy may contribute to the confirmatory evidence package while the PD biomarker 
+data were not considered adequate to serve as part of confirmatory evidence. 
+ 
+Exposure-response relationships for efficacy 
+The FDA review team conducted exposure-response relationship analyses between 
+arimoclomol exposure and clinical responses including R4DNPCCSS score, and the 
+original 5DNPCCSS and 4DNPCCSS in study NPC-002. NPC-002 is a randomized, 
+double-blind, placebo-controlled trial followed by an OLE phase where patients who 
+received placebo during the double-blind phase were switched to arimoclomol and 
+patients who received arimoclomol during the double-blind phase continued treatment 
+with arimoclomol. The double-blind phase was 12-months in duration to assess the 
+efficacy and safety of arimoclomol in pediatric and adult patients with NPC 2 to 19 years 
+of age. The majority of patients (n=39; 78%) were receiving miglustat treatment as 
+standard of care prior to arimoclomol treatment and were on miglustat for six months or 
+longer at the time of enrollment: 26 (76%) patients in the arimoclomol group and 13 
+(81%) patients in the placebo group. Participants were randomized 2:1 to receive 
+arimoclomol based on body weight or placebo and randomization was stratified by 
+miglustat use (Y/N) at baseline. The arimoclomol dosing regimens in study NPC-002 
+are shown in Table 4.  
+ 
+Table 5. Arimoclomol dosing regimens in study NPC-002 
+Patient body weight 
+Investigational dosing  
+Reference ID: 5446462
+
+
+===== PAGE 649 =====
+
+ 
+ 
+25 
+ 
+subjects with renal impairment compared to subjects with normal renal function and the 
+lower the value of the CL/F corresponded with greater severity of renal impairment (or 
+lower eGFR values). The AUC0-inf of arimoclomol citrate increased by 40% and 142% in 
+subjects with eGFR ≥ 30 to < 60 mL/min and < 30 mL/min, respectively, compared to 
+subjects with normal renal function. Subjects with eGFR ≥ 30 to < 60 mL/min had a 9% 
+increase. The Cmax values were similar when arimoclomol was administered in subjects 
+with eGFR ≥

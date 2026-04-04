@@ -1,0 +1,2028 @@
+
+
+===== PAGE 8 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+7 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Table of Figures 
+ 
+Figure 1:  Larotrectinib Structure and Chemical Name ................................................................ 37 
+Figure 2: Tumor pTrk Expression and Larotrectinib Concentrations in Plasma (top) and Tumor 
+(bottom) in Murine Allografts ....................................................................................................... 47 
+Figure 3: Inhibition of pTrkA (top left), pERK (top right), and pAkt (bottom) by Larotrectinib in 
+Nude Mice Harboring ΔIg2-mutant TrkA ...................................................................................... 48 
+Figure 4: Effect of Larotrectinib on the Survival of Mice Harboring Subcutaneously-implanted 
+NTRK2-overexpressing Neuroblastoma Tumors ........................................................................... 49 
+Figure 5: Effect of Larotrectinib on GI Transit in the Rat .............................................................. 51 
+Figure 6: Effect of Larotrectinib on Gastric Secretion Volume (L) and pH (R) .............................. 51 
+Figure 7: Overall Clinical Response Across NTRK Gene Fusions, Tumor Types or Status of Prior 
+Radiotherapy ................................................................................................................................. 96 
+Figure 8: Overall Response Rate Across Exposure Quartile in Day 1 ............................................ 96 
+Figure 9: Distribution of Average Larotrectinib Concentration (Cavg) in Day 1 Across Outcomes 
+of Safety Events of Interest ........................................................................................................... 98 
+Figure 10: Distribution of Maximum Larotrectinib Concentrations (Cmax) in Day 1 Across 
+Outcomes of Safety Events of Interest ......................................................................................... 99 
+Figure 11: Mean Plasma Concentration-Time Profiles of Larotrectinib in Subjects with Normal 
+Renal Function and Patients with ESRD ...................................................................................... 100 
+Figure 12: Mean Plasma Concentration-Time Profiles of Larotrectinib in Subjects with Normal 
+Hepatic Function and Patients with Impaired Hepatic Function ................................................ 101 
+Figure 13: Larotrectinib Mean Plasma Concentration-Time Profiles after Administering 
+Larotrectinib Capsule in Subjects Under Fasted and Fed States, and After Administering Solution 
+in a Fasted State .......................................................................................................................... 102 
+Figure 14: Mean Plasma Concentration-Time Profiles of Larotrectinib in Subjects Receiving 
+Larotrectinib With and Without Coadministration of Itraconazole ........................................... 104 
+Figure 15: Mean Plasma Concentration-Time Profiles of Larotrectinib in Subjects Receiving 
+Larotrectinib With and Without the Coadministration of Single Dose of Rifampin (P-gp inhibitor) 
+or of Multiple Doses of Rifampin (CYP34A Inducer) ................................................................... 105 
+Figure 16: Alanine Aminotransferase and Aspartate Aminotransferase Profiles for All Subjects
+..................................................................................................................................................... 106 
+Figure 17: Study Schema for LOXO-TRK-14001 .......................................................................... 114 
+Figure 18: Schedule of Assessments for LOXO-TRK-14001 ........................................................ 115 
+Figure 19: Study Schema for LOXO-TK-15002 ............................................................................ 119 
+Figure 20: Goodness of Fit Plots of the Final Model in Adult and Pediatric Subjects ................ 213 
+Figure 21: Visual Predictive Checks of Larotrectinib Concentration-Time Data stratified by 
+Formulation and Age .................................................................................................................. 214 
+Figure 22: Relationship between post-hoc CL and Alkaline phosphatase and Weight from Base 
+Model .......................................................................................................................................... 215 
+Figure 23: Covariate Effects on Larotrectinib Clearance. ........................................................... 216 
+Figure 24: Steady-state Larotrectinib Exposure based on Post-hoc PK Parameters across Age 
+Groups. ........................................................................................................................................ 217 
+Reference ID: 4354090
+
+
+===== PAGE 44 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+43 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ 
+Loxo Oncology evaluated the effects of larotrectinib on vital organ function in a panel of in vitro 
+and in vivo safety pharmacology studies. Larotrectinib was a weak hERG inhibitor (IC50 of 147 
+µM), and there was no effect on ECG interval durations (including QT) or waveform 
+morphologies in monkeys following administration of a single oral dose of 100 mg/kg. There 
+were also no clear effects on respiratory endpoints in rats at an oral dose of 100 mg/kg. 
+Larotrectinib appeared to increase GI motility in the rat following administration of a single oral 
+dose of ≥10 mg/kg. This corresponded to an increase in gastric secretion at a dose of 100 
+mg/kg, but there was no evidence that larotrectinib irritated the gastric mucosa. 
+ 
+Larotrectinib had limited brain distribution (< 2% of plasma concentrations) in rats when 
+administered at an IV dose of 1 mg/kg or an oral dose of 100 mg/kg; in the quantitative whole 
+body radiography study performed with larotrectinib, no CNS distribution was observed.  
+Consistent with this finding, there were no clear effects of larotrectinib on CNS function in a 
+stand-alone single dose in vivo safety pharmacology study in rats at doses up to 100 mg/kg.  
+Behavioral observations suggestive of CNS effects did, however, occur in longer-term rat 
+toxicology studies.  These behaviors included decreased elicited responses and increased 
+findings of appearance-related changes (barbered fur, lacrimation, salivation, exophthalmos), 
+abnormal gait, decreased reactivity to handling, decreased activity, and atypical posture in the 
+adult study.  In a juvenile rat toxicology, signs suggestive of CNS effects were more pronounced 
+and included head-tilt, impaired equilibrium, head flick, circling, and tremors as well as signs 
+consistent with stereotypic behaviors, such as excessive grooming resulting in scabs and hair 
+loss.  Neurotoxicity has been observed clinically, as well. 
+ 
+Loxo Oncology evaluated the safety of larotrectinib in toxicology studies of up to 13 weeks 
+duration in the rat and the monkey. In the rat, preterm deaths attributable to skin lesions 
+occurred primarily at the high-dose of 150/100/75 mg/kg/Day (8.4-times the clinical AUC of 
+4351 ng*hr/mL at the 100 mg twice-daily dose) in males and 150/100/40 mg/kg/Day in females 
+(3.4-times the clinical AUC). These findings were observed in Trk-deficient mice and 
+hypothesized to result from deficits in nociception (Smeyne, et al., 1994). In a shorter-term 
+study in the rat, findings of decreased corpora lutea and uterine atrophy were also observed at 
+twice-daily doses of 100 mg/kg/Day. Other than the skin, there were no clear toxicological 
+target organs identified. Increased body weight, which correlated with increased feed 
+consumption, occurred in this and other animal studies in multiple species, particularly in 
+females. These increases in feed consumption are consistent with the observed effects of Trk 
+inhibition in animals and humans with deficiencies in TrkB signaling. Mice hemizygous for brain-
+derived neurotrophic factor (BDNF, the ligand for TrkB) developed hyperphagia and obesity, a 
+finding that parallels observations in humans that carry a single copy of the missense mutation, 
+Y722C, a mutation of NTRK2 (encoding TrkB), that is associated with hyperphagic obesity, 
+memory impairment, and decreased learning and nociception (Yeo, et al., 2004). 
+ 
+In the 13-week monkey study, there were no preterm deaths and there was no evidence of 
+significant target organ toxicity at doses of up to 100 mg/kg/Day. Based on AUC, exposures in 
+Reference ID: 4354090
+
+
+===== PAGE 45 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+44 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+this study were approximately 12-22 times higher on Day 91 than those achieved at the twice-
+daily clinical dose of 100 mg. Adverse clinical signs were limited to GI findings (emesis and 
+discolored/liquid/ mucoid feces).  
+ 
+Although not generally warranted for the treatment of children with advanced cancer, Loxo 
+Oncology also performed a study to evaluate the effect of larotrectinib administration in 
+juvenile rats. Animals received larotrectinib between postnatal days (PNDs) 7-70, corresponding 
+to the neonatal through young adult stages, and were evaluated for growth, attainment of 
+sexual maturity, reproductive fitness, learning and memory, and sensory and neurobehavioral 
+effects. Several preterm deaths occurred (13 high-dose, 2 mid-dose, 2 low-dose, and 1 control), 
+most which were of undetermined causality. In addition to the CNS-related clinical signs 
+described above, there were decreases in hindlimb grip strength and foot splay in mid- and 
+high-dose animals, decreased motor activity, and, in the Biel water maze swim trial, high-dose 
+females displayed an increase in the number of errors. This observed memory deficiency in 
+female mice is also consistent with known effects of TrkA signaling deficiencies in humans 
+associated with the rare recessive disorder, congenital insensitivity to pain and anhidrosis 
+(CIPA; Indo, et al., 1996).  Other findings included a transient decrease in the rate of growth (as 
+measured by tibia length) in high-dose animals and a delay in markers of sexual maturity in 
+mid- and high-dose males and high-dose females. The delay in sexual maturation correlated 
+with a decrease in pregnancies in the mid- and high-dose groups; however, no effects were 
+observed on pre-coital intervals and no effects were noted in estrous cyclicity. No effects were 
+observed in sperm quality or in cesarean section data. Exposures achieved in this study were 
+approximately 4 times higher at the high dose of 70 mg/kg/Day than those at the 100 mg twice 
+daily clinical dose. 
+ 
+Carcinogenicity studies were not conducted or required to support the use of larotrectinib in 
+the proposed indication. Larotrectinib was negative for induction of genetic mutations in 
+bacteria and in the mouse lymphoma assay, and for induction of micronucleated polychromatic 
+erythrocytes in the bone marrow of mice. 
+ 
+Dedicated fertility studies were not conducted and are not warranted to support the 
+development of a drug intended for the treatment of advanced cancer; however, Loxo 
+Oncology included an assessment of male reproductive function in the 13-week rat toxicology 
+study. At exposures of up to 8.4 times higher than those achieved at the clinical dose of 100 mg 
+twice-daily there were no histological changes in spermatogenesis and no decreases in sperm 
+quality parameters. In the 1-month toxicology studies in females, there was a dose-dependent 
+decrease in corpora lutea at daily doses ≥ 60 mg/kg/day (~10 times the clinical AUC) and 
+uterine atrophy at 200 mg/kg/day. In addition, a dose-dependent reduction in the number of 
+gravid dams following confirmed mating, occurred in the juvenile toxicology study at doses of 
+12 and 45 mg/kg/day (0.58-4-fold higher than the clinical AUC at the 100 mg twice daily dose). 
+Because both sexes were treated prior to mating, clear attribution of these effects by sex is not 
+possible; however, because of the observed reproductive histological findings in females and 
+Reference ID: 4354090
+
+
+===== PAGE 46 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+45 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+the absence of histologically-defined gonadal effects males, a statement regarding potential 
+effects on female fertility is warranted. 
+ 
+Administration of larotrectinib to pregnant rats during the period between implantation and 
+closure of the hard palate (Gestation Days (GDs) 6-17) was associated with maternal toxicity.  
+Three high-dose dams (240 mg/kg/Day; 120 mg/kg twice-daily) were euthanized in moribund 
+condition during GDs 12-17. Preterminal clinical signs included rales, labored respiration, and 
+gasping. While there was no evidence of embryolethality in rats, there was equivocal evidence 
+that larotrectinib induced malformations and/or variations in developing fetuses: one fetus 
+from a mid-dose dam (80 mg/kg/day; ~11 times the exposure at the 100 mg BID clinical dose) 
+had the rare malformation of anasarca, and another fetus from a mid-dose dam had lobular 
+dysgenesis of the lungs. The frequency of both malformations exceeded the laboratory’s 
+maximum historical frequency on a percent-per-litter basis.  
+ 
+In the rabbit, administration of larotrectinib during GDs 7-20 was associated with maternal 
+mortality in two high-dose dams (150 mg/kg/day administered as a divided dose; ~20-times the 
+human AUC at the clinical dose of 100 mg twice daily).  These animals exhibited preterminal 
+clinical signs of ataxia and prostration. There was no evidence of embryolethality, but an 
+increase in omphalocele (4 fetuses in 2 litters) was observed at the low-dose of 30 mg/kg/day 
+(~0.7 times the clinical AUC). The incidence of this malformation exceeded the laboratory’s 
+maximum historical control rate.   
+ 
+Though the developmental findings in the animal embryo-fetal development studies were not 
+clearly dose-dependent, the malformations that did occur were outside of the range of 
+historical controls and are relatively rare.  Consultation with additional 
+pharmacology/toxicology staff with reproductive expertise suggests that these types of rare 
+findings are not expected to show clear dose-dependency and should be reported as potentially 
+related to the test-article.  In addition, there are unresolved concerns about the use of 
+larotrectinib during pregnancy due to the established role of Trk proteins in neuronal 
+development (Tucker et al., 2001; Smeyne, R. et al., 1994).  Published reports of congenital 
+somatic mutations in TRK proteins or their ligands suggest a relationship between deficient Trk 
+signaling and development of schizophrenia, mood disorders, obesity, and peripheral sensory 
+and motor disorders (Krantz, T., 2015; Otnaess, M., et al., 2009; Knable, M. 1999; Lewis, D., et 
+al., 2005; Indo, Y. et al., 1996; Yeo, at al., 2004). While embryo-fetal development studies can 
+detect malformations in brain structure, they are not designed to assess motor development or 
+psychiatric function. Although a pre- and postnatal development study may be capable of 
+evaluating some endpoints of concern, these studies are not typically required for a drug 
+intended to treat patients with advanced cancer.  The observation that CNS findings in the 
+juvenile animal study were more pronounced than those in older animals suggests that 
+developing animals are at increased risk for neurological effects with larotrectinib. Given the 
+published literature on the importance of Trk signaling in neural development, including human 
+syndromes, the limitations of the embryo-fetal development studies to assess the toxicities of 
+particular concern following disruption of this pathway, and the available animal data there is a 
+Reference ID: 4354090
+
+
+===== PAGE 51 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+50 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Line 
+Origin 
+Mutation 
+IC50 
+IC90 
+Activity in 
+Xenografts* 
+BA/F3 
+Mouse pro-B cell 
+MPRIP-NTRK1  
+(transfection) 
+~35 nM 
+~125 nM 
+N/A 
+CUTO-3.29 
+Human lung 
+adenocarcinoma 
+MPRIP-NTRK1 
+(Transfection) 
+~ 100 nM 
+N/A 
+60-200 mg/kg 
+MO-91 
+Human AML 
+ETV6-NTRK3 
+< 10 nM 
+~7 nM 
+60-200 mg/kg 
+N/A = not assessed; *Maximal activity at 200 mg/kg in all models. Doses were administered by 
+once daily oral gavage for 14 days. AUC: 14,053 and 62,696 ng*hr/mL for the 60 and 200 mg/kg 
+dose, respectively; Cmax 1,085 and 4,824 ng/mL for the 60 and 200 mg/kg doses, respectively. 
+ 
+Secondary Pharmacology 
+In a panel of over 50 receptor targets (Study LOXO-101-Pharm-019), no significant radioligand 
+displacement was observed. The potential for off-target larotrectinib activity was also 
+evaluated against a panel of neurological receptors and transporters, including dopamine (D2S, 
+D2L), muscarinic (M1, M2, M3), sigma (σ1 or σ2), or neurokinin (NK1) receptors, the Pregnane X 
+receptor (PXR), and the dopamine transporter. There was no activity against any of the targets 
+in this panel at concentrations of up to 10 µM (Study: LOXO-101-pharm-020).   
+ 
+Safety Pharmacology 
+Loxo Oncology evaluated the ability of larotrectinib to inhibit the hERG channel using whole cell 
+patch clamp in stably-transfected HEK293 cells (Study: LOXO-101-spharm-001). The IC50 
+identified in this assay was 147 µM. 
+ 
+A cardiovascular safety study was also performed in the monkey. Surgically-telemetered male 
+monkeys received escalating doses of 0, 3, 10, 30, and 100 mg/kg larotrectinib by nasogastric 
+gavage. Doses were separated by a 5-7-day washout. There was no evidence of drug-related 
+changes on mean ECG interval durations, waveform morphologies, or blood pressure 
+measurements. A small decrease in heart rate was observed in high-dose animals; however, 
+because all animals received all doses, the effect cannot be separated from the effect of 
+procedural acclimatization, particularly since even in the pre-dose monitoring period, animals 
+at the 30 and 100 mg/kg dose interval appeared to have lower mean heart rates than the same 
+animals exhibited in earlier dosing intervals.  
+ 
+The effect of larotrectinib on the rate of GI propulsion was evaluated in a single dose study in 
+the rat (Study: LOXO-101-spharm-008). Rats received a single dose of vehicle (Labrafac® 
+Lipophil WL1349), larotrectinib, or morphine (20 mg/kg SC; reference item) and at 45 minutes 
+post-dose, were administered 2.5 mL of a 10% charcoal suspension in 5% gum Arabic. When 
+animals were euthanized 20 minutes later, the distance between the pylorus to the carbon 
+bolus was measured. The transit rate was calculated as a percentage of the total intestinal tract 
+length between pylorus and cecum. As shown in Figure 5, treatment with larotrectinib resulted 
+in mild dose-dependent increases in GI transit rate in this study.  
+ 
+Reference ID: 4354090
+
+
+===== PAGE 53 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+52 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+The effects of larotrectinib on CNS function were evaluated following administration of a single 
+oral dose in rats.  Animals received a single dose of 0 (vehicle), 0 (naïve), 10, 30, or 100 mg/kg 
+larotrectinib and were observed at 0 (predose), 0.5, 1, 2, 5, and 24 hours post-dose. Endpoints 
+evaluated included a functional observational battery, and monitoring of physiological 
+parameters, such as pupil dilation and body temperature.  
+ 
+There was a decrease in mean postural scores in animals treated with larotrectinib at between 
+1-5 hours post-dose compared with naïve or vehicle control groups. The finding was not 
+considered adverse, but the magnitude of the effect was dose-related at 1 hour post-dose. 
+There were no other meaningful changes observed; minor fluctuations in some endpoints were 
+observed compared with naïve- or vehicle-control groups; however, they lacked a relationship 
+to dose, and/or were comparable to one of the two negative control groups. 
+ 
+ADME/PK  
+Type of Study 
+Major Conclusions 
+Protein Binding 
+Assessment of Reversible 
+Protein Binding of ARRY-470 
+in Mouse, Rat, Dog, Monkey 
+and Human Plasma by 
+Equilibrium Dialysis (Study: 
+LOXO-101-dmpk-008) 
+There were no significant differences in protein binding between 
+monkeys, rats, and humans. Protein binding in dogs was about 
+10% lower than that observed in humans. 
+ 
+ 
+0.1 µM 
+1 µM 
+10 µM 
+Human 
+72.0 
+69.4 
+68.3 
+Monkey 
+67.2 
+68.4 
+65.6 
+Dog 
+59.9 
+60.6 
+61.4 
+Rat 
+59.9 
+65.1 
+63.9 
+Mouse 
+63.1 
+61.8 
+56.3 
+Absorption 
+Single-dose 
+pharmacokinetics of 
+larotrectinib in rats (Study: 
+LOXO-101-DMPK-016) 
+ 
+Single-dose 
+pharmacokinetics of 
+larotrectinib in monkeys 
+(Study: LOXO-101-DMPK-
+018) 
+A single-dose absolute bioavailability PK study was performed in 
+the rat using an oral dose of 30 or 100 mg/kg in 20% solutol and 
+an IV dose of 1 mg/kg in PEG400/20% EtOH/40% Saline. 
+Bioavailability in the rat was apparently dose-related and 
+approached 80%. 
+ 
+ 
+Cmax 
+(µg/mL) 
+AUCt 
+(µg*hr/mL) 
+%F 
+30 mg/kg PO 
+0.85 
+6.83 
+48.6 
+100 mg/kg PO 
+5.17 
+34.7 
+79.2 
+ 
+A single-dose absolute bioavailability PK study was performed in 
+the monkey at an oral dose of 20 mg/kg in 20% solutol, 
+compared with an IV dose of 1 mg/kg in PEG400/20% EtOH/40% 
+saline. The absolute bioavailablility in the monkey approached 
+100% 
+ 
+Cmax 
+(µg/mL) 
+AUC∞ 
+(µg*hr/mL) 
+%F 
+Reference ID: 4354090
+
+
+===== PAGE 54 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+53 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Type of Study 
+Major Conclusions 
+1 mg/kg IV 
+0.98 
+0.546 
+N/A 
+20 mg/kg PO 
+1.43 
+8.13 
+100 
+Distribution 
+Brain and liver tissue 
+distribution of larotrectinib 
+in rats (Study: LOXO-101-
+dmpk-019) 
+A single-dose distribution study of larotrectinib following 
+administration of an IV dose of 1 mg/kg and an oral dose of 100 
+mg/kg in male rats. Brain exposure was very low (0.2-1.5%) in 
+this study following IV and oral exposures. 
+ 
+Regimen 
+Brain : Plasma 
+Liver : Plasma 
+1 mg/kg IV 
+0.002 
+0.73 
+100 mg/kg PO 
+0.015 
+1.18 
+Brain and liver tissue 
+distribution of larotrectinib 
+in MDR1A and 
+MDR1A/MDR1B/BCRP 
+knockout mice (Study: 
+LOXO-101-dmpk-020) 
+A study to evaluate the effect of the transporters, 
+Mdr1a/Mdr1b/Bcrp, on brain distribution in the mouse following 
+a single IV larotrectinib dose of 1 mg/kg. Brain penetration was 
+increased at Cmax by about 10% in the mdr1 knockout (KO) mice 
+relative to WT mice. Although distribution to the brain was 
+relatively minor in both KO and WT animals, he half-life was 
+much longer in the brain than in the plasma.  
+ 
+Evaluation of the free drug 
+concentration of 
+larotrectinib in Rat 
+striatum and blood using 
+MetaQuant microdialysis 
+(Study: LOXO-101-dmpk-
+035) 
+Larotrectinib distribution to the striatum was evaluated by 
+microdialysis following administration of a single oral dose of 50 
+mg/kg in rats. Plasma and tissue concentrations were evaluated 
+for up to 240 minutes post-dose. Concentrations in the striatum 
+continued to rise for up to 4 hours following oral administration, 
+suggesting that the half-life is longer in the CNS compartment 
+than in the blood. (right – squares = total concentration; circles = 
+free drug). 
+ 
+larotrectinib brain (L) and plasma (R) distribution in the rat 
+Reference ID: 4354090
+
+
+===== PAGE 55 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+54 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Type of Study 
+Major Conclusions 
+ 
+Quantitative Whole-Body 
+Autoradiography in Male 
+Long Evans Rats After a 
+Single Oral Administration 
+of [14C] LOXO-101 (LOXO-
+101-dmpk-042) 
+Tissue distribution was evaluated in the rat following 
+administration of a single 10 mg/kg oral dose of [14C]larotrectinib 
+(21.0 µCi/mg). Quantitative whole body radiography was 
+evaluated for up to 672 hours (4 weeks) post-dose.  
+ 
+The highest concentrations were observed in the excretory 
+organs (bile, urine, kidneys, small intestine). There was no 
+specific binding to pigmented tissues. Except for the thyroid and 
+liver, where persistent, low-concentrations were detectable at 
+672 hours post-dose, the majority of the dose was eliminated by 
+24 hours. No CNS distribution was observed. 
+Metabolism 
+Identification of 
+larotrectinib and 
+Metabolites in Selected 
+Human, Rat, and Monkey 
+Samples (LOXO-101-dmpk-
+032) 
+Larotrectinib metabolism profiles were characterized in repeat-
+dose toxicology and clinical studies in rats, monkeys, and 
+humans.  
+ 
+Of the 23 metabolites identified, only one metabolite (M14) was 
+considered a major human metabolite (i.e. comprised ≥10% of 
+parental AUC). There were no unique human metabolites, and 
+quantitative toxicological coverage was obtained in at least one 
+species for all but one metabolite (M23); however, given the 
+metabolite’s low clinical exposure (~1% of parent AUC) further 
+toxicological assessment is not warranted for use in patients 
+with advanced cancer. 
+Excretion 
+[3H] ARRY-470 excretion and 
+mass balance of 
+radioactivity in intact and 
+bile-duct cannulated 
+cynomolgus monkeys 
+following a single oral dose 
+(Study: 1140-064) 
+ 
+The purpose of this study was to evaluate the major routes of 
+elimination of larotrectinib in intact and bile duct-cannulated 
+(BDC) monkeys (3/group) following administration of a single 
+oral dose of 27.22 in intact monkeys and 25.1 mg/kg in BDC 
+monkeys. Blood was collected at 0.5, 2, 4, and 8 hours post-
+dose. Bile (from BDC animals), urine and feces were collected for 
+up to 120 hours post-dose. In intact animals, the majority of the 
+radioactive dose was eliminated in the feces (54-87%), and 
+approximately 27% was eliminated in the urine.  In BDC animals, 
+most the radioactive dose was eliminated in the bile (46.81%); 
+feces and urine contained approximately 20% and 25%, 
+respectively, of the eliminated dose. Via the biliary and urinary 
+routes, elimination was complete by 24 hours post-dose. Via the 
+Reference ID: 4354090
+
+
+===== PAGE 59 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+58 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+elicited responses and increased findings of appearance-related changes (barbered fur, 
+lacrimation, salivation, exophthalmos), abnormal gait, decreased reactivity to handling, 
+decreased activity, and atypical posture. These changes were not completely reversible 
+following the 4-week post-dose recovery period. 
+Locomotor Activity 
+Assessment of locomotor activity was performed predose and once during weeks 13 
+(toxicology animals) and 17 (recovery cohort animals). Parameters assessed included basic 
+movement, xy ambulation, fine movement, and rearing.  
+ 
+There were no clear effects of treatment on any parameter evaluated. 
+Staging of 
+Spermatogenesis 
+A qualitative assessment of spermatogenic stages was performed on H&E-stained sections of 
+the testes and epididymides.  No effects of treatment were observed on spermatogenic 
+progression. 
+Male Reproductive 
+Assessment 
+An assessment of male reproductive function was performed on the first 10 males from each 
+group at the time of study termination and at the end of the recovery period. Parameters 
+assessed included sperm motility, sperm morphology, and sperm count.  There were no effects 
+of treatment on any sperm quality endpoint evaluated. 
+Toxicokinetics 
+• 
+Peak (Cmax) exposures to larotrectinib were generally proportional with dose on Day 1.  
+• 
+There was evidence of a sex-effect on exposure, as males generally exhibited about a 
+3-fold reduction in exposure compared with females.  
+• 
+Accumulation was difficult to assess because of the reduction in dose that was 
+implemented mid-study; however, the dose-adjusted (both Cmax and AUC) remained 
+relatively consistent for females between Day 1 and 91, whereas in males, the dose-
+adjusted exposures increased at the mid- and high-doses.  
+ 
+Day 
+Group 
+Sex 
+Dose 
+Cmax 
+AUC0-24 
+1 
+2 
+M 
+15 
+370 
+1380 
+F 
+1180 
+5910 
+3 
+M 
+50 
+980 
+5910 
+F 
+3440 
+14400 
+4 
+M 
+150 
+3410 
+21900 
+F 
+8940 
+62700 
+91 
+2 
+M 
+15 
+433 
+2250 
+F 
+10 
+500 
+3060 
+3 
+M 
+35 
+2180 
+11000 
+F 
+20 
+1410 
+6250 
+4 
+M 
+75 
+5510 
+36700 
+F 
+40 
+2230 
+14400 
+ 
+Table 7: Major Rat Histopathology Findings 
+Sex 
+  
+Male 
+Female 
+Group (mg/kg/Day) 
+Severity 
+0 
+15 
+50/35 
+150/100/75 
+0 
+15/10 
+50/20 
+150/100/40 
+Adipose (Brown), microvesiculation 
+Minimal 
+2 
+2 
+2,1‡ 
+Adrenal; vacuolation, increased 
+Minimal 
+1‡ 
+Brain; dilatation, ventricles 
+Slight 
+1 
+Epididymis; hypospermia 
+Marked 
+1 
+--spermatocele 
+Marked 
+1 
+Reference ID: 4354090
+
+
+===== PAGE 70 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+69 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Summary of fetal 
+variations 
+ 
+Toxicokinetics 
+Peak (Cmax) and overall exposures (AUC) were generally proportional with dose over the 12-fold 
+dose range on GDs 6 and 17. There was evidence of accumulation (up to 3-fold) over the 12-day 
+dose-period. 
+ 
+Cmax1 = peak exposure after first daily dose; Cmax2 = peak exposure after 2nd daily dose. 
+ 
+ 
+Study title:   Twice Daily (12 Hours Apart) Oral (Gavage) Study of the Effects of LOXO‐101 
+on Embryo/Fetal Development in Rabbits (Study: 428508) 
+Key Study Findings   
+• Mortality: one high‐dose dam was euthanized in extremis for a broken tibia (Day 11). The 
+Study Director considered this finding treatment-related because it occurred in a high-dose 
+animal and because impaired hindlimb use was also observed in the dose-ranging study. 
+• Another high-dose dam was euthanized for toxicity (Day 22). Premonitory clinical signs 
+included including ataxia, prostration, decreased defecation, and body weight loss.  
+• Malformations: Increase in the frequency of omphalocele and retroesophageal aortic arch 
+occurred in treated litters compared relative to concurrent controls or the maximum range 
+of the historical control database. 
+Reference ID: 4354090
+
+
+===== PAGE 74 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+73 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Retrocaval ureter 
+2/1.2* 
+1/0.4* 
+6/2.8* 
+2/0.9* 
+Liver, accessory lobule(s) 
+ 
+1/0.5* 
+ 
+ 
+Renal papilla(e) not developed and/or distended ureter(s) 
+ 
+ 
+ 
+1/0.4* 
+Liver, pale 
+ 
+ 
+ 
+1/0.5** 
+Hemorrhagic ring around the iris 
+ 
+ 
+ 
+1/0.9* 
+Skeletal Variations 
+13th rudimentary rib(s) 
+32/18.7* 
+20/11.2* 
+41/22.1* 
+45/23.0* 
+13th full rib(s) 
+59/37.0* 
+64/35.2* 
+54/28.0* 
+70/36.2* 
+Extra site of ossification anterior to sternebra #1 
+5/2.8* 
+4/3.1* 
+8/4.5* 
+2/1.3* 
+Sternebrae with thread-like attachment 
+ 
+1/0.6* 
+6/2.6* 
+4/1.8* 
+7th cervical rib(s) 
+4/2.8* 
+7/3.3* 
+6/3.3* 
+2/0.8* 
+Sternebra(e) #5 and/or #6 unossified 
+26/15.4* 
+19/10.9* 
+26/13.4* 
+16/7.6* 
+Sternebra(e) malaligned (slight or moderate) 
+2/1.3* 
+4/2.3* 
+1/0.4* 
+3/1.6* 
+27 presacral vertebrae 
+10/6.2* 
+14/8.0* 
+16/8.5* 
+22/11.1* 
+Extra site of ossification ventral to cervical centrum #2 
+ 
+ 
+1/0.5* 
+2/1.0 
+Hyoid arch(es) bent 
+5/3.0* 
+8/4.9* 
+6/3.4* 
+5/2.5* 
+Accessory skull bone(s) 
+ 
+1/0.4* 
+ 
+ 
+Vertebral centra not fully ossified 
+1/0.6* 
+ 
+ 
+ 
+25 presacral vertebrae 
+ 
+1/0.6* 
+ 
+ 
+*Within the range of historical control on a percent per litter basis 
+**Exceeds the range of historical control on a percent per litter basis 
+ 
+Toxicokinetics 
+Peak (Cmax) and overall exposures (AUC) were greater than dose‐proportional over 
+the 5‐fold dose range on GDs 7 and 20. There was evidence of accumulation (up to 
+approximately 3‐fold) between GDs 7‐20. 
+ 
+Prenatal and Postnatal Development 
+Not conducted, and not required to support a drug intended for the treatment of patients with 
+advanced cancer. 
+ 
+Juvenile Animal Data 
+Study title: A Twice Daily (12 hours apart) Oral (Gavage) Toxicity Study of LOXO‐101 in 
+Juvenile Rats with Recovery (WIL‐428502) (Sponsor Report: LOXO-101-TOX-021) 
+ 
+Key Study Findings  
+• Mortality: 18 preterm deaths occurred in F0 animals (12 high-dose; 3 mid-dose, and 2 
+low-dose animals, and 1 control). For the majority of animals, the cause of death was 
+undetermined. 
+Reference ID: 4354090
+
+
+===== PAGE 83 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+82 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Toxicokinetics 
+Exposures were generally similar between males and females. Peak (Cmax) and overall (AUC) 
+exposures in juvenile rats were greater than dose-proportional over the 38-fold dose-range. 
+There was evidence for accumulation at the mid- and high-doses on Days 28 and 70.  
+ 
+ 
+PND 
+Dose (mg/kg/Day) 
+AUC0-24 
+(ng*hr/mL) 
+Cmax1 
+(ng/mL) 
+Cmax2 
+(ng/mL) 
+7 
+0.4 
+127 
+6.12 
+19.8 
+4 
+2710 
+248 
+136 
+15 
+16200 
+772 
+1420 
+28 
+1.2 
+129 
+14.1 
+25.3 
+12 
+1450 
+183 
+223 
+45 
+9600 
+1020 
+1800 
+70 
+1.2 
+134 
+11.4 
+19 
+12 
+2560 
+228 
+333 
+45 
+17600 
+2510 
+2140 
+ 
+Table 8: Summary of selected histological findings in F0 males and females 
+Sex 
+  
+Male 
+Female 
+Group (mg/kg/Day) 
+  
+0 
+0.4/1.2 
+4/12 
+15/45 
+0 
+0.4/1.2 
+4/12 
+15/45 
+Adipose; inflammation, 
+mononuclear cell 
+Mild 
+ 
+ 
+1† 
+ 
+ 
+ 
+ 
+ 
+Adipose, Brown; mineralization 
+Minimal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1† 
+--hemorrhage, acute 
+Minimal 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+1 
+Moderate 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+--infiltrate, mononuclear cell 
+Minimal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+--inflammation, mixed cell 
+Minimal 
+1 
+Adrenal Cortex, congestion 
+Mild 
+1 
+Brain; hemorrhage, acute 
+Mild 
+1† 
+Moderate 
+1† 
+--necrosis 
+Moderate 
+1 
+Epididymis; reduced sperm, 
+luminal 
+Moderate 
+1 
+Esophagus; fibrosis 
+Mild 
+1† 
+--necrosis 
+Moderate 
+1† 
+Eyes; dysplasia, retinal 
+Minimal 
+2 
+1 
+--pythisis bulbi 
+P 
+1 
+Heart; infiltrate, mononuclear 
+cell 
+Minimal 
+1† 
+--fibrosis 
+Minimal 
+1 
+--hemorrhage, acute 
+Mild 
+1† 
+--Infiltrate, mononuclear cell 
+Minimal 
+2 
+3 
+--infiltrate, mixed cell 
+Mild 
+1† 
+--inflammation, mixed cell 
+Minimal 
+1† 
+Mild 
+1 
+1† 
+Reference ID: 4354090
+
+
+===== PAGE 88 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+87 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+inhibitor is 
+unavoidable. 
+PMC 
+Determination of an 
+appropriate 
+larotrectinib dose for 
+patients with 
+concomitant use of 
+moderate 
+CYP3A4 
+inducers using a PBPK 
+modeling and analysis. 
+In study LOXO-TRK-16010, 
+coadministration of 
+larotrectinib with multiple 
+doses of a strong CYP3A 
+inducer (rifampin) decreased 
+the AUCinf of larotrectinib by 
+81% and decreased Cmax by 
+71% as compared to 
+larotrectinib administered 
+alone. 
+The PMC study results will 
+determine dosage 
+modification when 
+coadministration of a 
+mild to moderate CYP3A4 
+inducer is 
+unavoidable. 
+Develop and validate a 
+PBPK model to assess 
+the effects of 
+ 
+a moderate 
+CYP3A4 inducer on the 
+exposure of 
+larotrectinib, 
+respectively. 
+ Summary of Clinical Pharmacology Assessment  
+ 
+Pharmacology and Clinical Pharmacokinetics 
+The pharmacokinetics of larotrectinib were studied in healthy subjects and in adult and 
+pediatric patients with locally advanced or metastatic solid tumors with an activating NTRK 
+gene fusions. In healthy subjects who received a single dose of larotrectinib capsules, systemic 
+exposure of larotrectinib was dose proportional over the dose range of 100 mg to 400 mg and 
+slightly greater than dose proportional at doses of 600 mg to 900 mg.  
+ 
+In adult patients who received larotrectinib capsules 100 mg twice daily, peak plasma levels 
+(Cmax) of larotrectinib were achieved at approximately 1 hour after oral administration. 
+Larotrectinib steady-state geometric mean (GM) ([coefficient of variation (CV%)] for Cmax was 
+788 ng/mL (81%) and for AUC0-24h was 4351 ng*h/mL (92%). 
+ 
+In pediatric patients, larotrectinib exposure was within the range of values observed in adults at 
+the same dose per body surface area; the GM (CV%) of larotrectinib AUC0-24h was 3348 ng/mL 
+(66%) for 1 month to <2 years old (N=9), 4135 ng/mL (36%) for 2 to <12 years old (N=15), and 
+3108 ng/mL (69%) for 12 to <18 years to (N=9). 
+ 
+Absorption 
+The mean absolute bioavailability of larotrectinib capsules was 34% (range: 32% to 37%). In 
+healthy subjects after administration of a single 100 mg dose, the AUCinf and Cmax of 
+Reference ID: 4354090
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 89 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+88 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+larotrectinib oral solution were 8% and 36% higher, respectively, compared to that of the oral 
+capsule.  
+ 
+The AUC of larotrectinib was similar and the Cmax was reduced by 35% after oral administration 
+of a single 100 mg larotrectinib capsule to healthy subjects taken with a high-fat meal 
+compared to the Cmax and AUC in the fasted state.  
+ 
+Distribution 
+Larotrectinib is 70% bound to human plasma proteins in vitro and independent of drug 
+concentrations. The blood-to-plasma concentration ratio is 0.9. The GM (%CV) apparent volume 
+of distribution (Vd/F) is 374 L (48%) following oral administration of a single [14C] radiolabeled 
+100 mg dose in healthy subjects.  
+ 
+Elimination 
+The GM (CV%) apparent clearance (CL) is 98 L/h (44%) and the mean (standard deviation) 
+terminal half-life is 2.9 hours (1.5) following oral administration of a single [14C] radiolabeled 
+100 mg dose in healthy subjects. 
+ 
+Metabolism 
+Larotrectinib is metabolized predominantly by CYP3A4. Metabolism was mediated primarily by 
+oxidative N-dealkylation with subsequent cleavage of the 3-hydroxypyrrolidine carboxamide 
+moiety and formation of the secondary glucuronide metabolite (M14). 
+  
+Following oral administration of a single [14C] radiolabeled 100 mg dose of larotrectinib to 
+healthy subjects, unchanged larotrectinib constituted 19% and glucuronide metabolite (M14) 
+constituted 26% of the major circulating radioactive drug components in plasma. All remaining 
+plasma metabolites were present at trace to minor levels (< 5%). 
+ 
+Excretion 
+Following oral administration of a single [14C] radiolabeled 100 mg dose of larotrectinib to 
+healthy subjects, 58% (5% unchanged) of the administered radioactivity was recovered in feces 
+and 39% (20% unchanged) was recovered in urine.  
+ 
+Dose Selection Rationale and Dose- and Exposure-Response Relationships 
+Larotrectinib dosing regimens of 100 mg BID for adults and of 100 mg/m2 BID with a maximum 
+of 100 mg BID for pediatric patients were selected as the recommended Phase 2 dose (RP2D) 
+for study LOXO-TRK-15002 based on the results from studies LOXO-TRK-14001 and LOXO-TRK-
+15003. A maximum tolerated dose (MTD) for larotrectinib was not reached in either study and 
+the ORR and depth of response was relatively flat and independent of age. No evident ER 
+relationships for safety were identified in this application and adverse events of interest 
+including ALT elevation, AST elevation, neutropenia and neurologic AE were selected as safety 
+endpoints in the analyses.   
+Reference ID: 4354090
+
+
+===== PAGE 90 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+89 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ 
+General Dosing and Therapeutic Individualization 
+General Dosing 
+The proposed dosing regimen of larotrectinib for adults is 100 mg orally twice daily and for 
+pediatric patients is 100 mg/m2 orally twice daily with a maximum of 100 mg per dose with or 
+without food.  
+ 
+Therapeutic Individualization 
+No dose adjustment is recommended for patients with mild (Child-Pugh A) hepatic impairment; 
+however, dose adjustment is recommended for patients with moderate (Child-Pugh B) or 
+severe (Child-Pugh C) hepatic impairment. In study LOXO-TRK-17013, increases in larotrectinib 
+AUC0-inf (1.3-, 2- and 3.2-fold) and Cmax (1.1-, 1.1- and 1.5-fold) were observed in subjects with 
+mild, moderate and severe hepatic impairment, respectively as compared to those with normal 
+hepatic function.  
+ 
+No dose adjustment is recommended for patients with underlying mild to severe renal 
+impairment (CLcr 15-89 mL/min). In study LOXO-TRK-17014, increases in larotrectinib AUC0-inf 
+(1.5-fold) and Cmax (1.3-fold) were observed in subjects with end stage renal disease as 
+compared to those with normal renal function. The magnitude of exposure increase is expected 
+to be smaller in patients with underlying mild to severe renal impairment than in patients with 
+end stage renal disease. 
+ 
+Dose adjustment is recommended for the coadministration of strong CYP3A4 inhibitors or 
+inducers with larotrectinib. In study LOXO-TRK-16010, increases in larotrectinib Cmax (2.8-fold) 
+and AUC (4.3-fold) were observed with the coadministration of a strong CYP3A4 inhibitor 
+(itraconazole).  Decreases in larotrectinib Cmax by 70% and AUC by 80% were observed with the 
+coadministration of a strong CYP3A4 inducer (rifampin) in study LOXO-TRK-16010.  
+ 
+No dose adjustment is recommended for coadministration of P-gp inhibitors with larotrectinib. 
+In study LOXO-TRK-16010, increases in larotrectinib Cmax (1.8-fold) and AUC (1.7-fold) were 
+observed with the coadministration a single dose of a P-gp inhibitor (Rifampin). Given that the 
+use of a P-gp inhibitor is generally in a short term, the magnitude of increase in larotrectinib 
+exposure is within the clinical experience; and safety-exposure relationship is flat; dose 
+adjustment when coadministering larotrectinib with a P-gp inhibitor is not considered 
+necessary.   
+ 
+Based on the consistency of responses seen across different NTRK gene fusions, no specific 
+subset of patients should be excluded from treatment with larotrectinib. 
+ 
+Outstanding Issues 
+No outstanding issues other than the requested PMR and PMC studies are identified from a 
+Clinical Pharmacology perspective 
+Reference ID: 4354090
+
+
+===== PAGE 91 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+90 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ 
+Summary of Labeling Recommendations 
+ 
+Drug-Drug Interactions 
+Coadministration with CYP3A4 Inhibitors: If concomitant use of a strong CYP3A inhibitor cannot 
+be avoided, a 50% reduction in the larotrectinib dose is recommended with the 
+coadministration of a strong CYP3A4 inhibitor.  The effects of weak or moderate CYP3A4 
+inhibitors on the exposure of larotrectinib have not been studied.  
+ 
+Coadministration with CYP3A4 inducers: If concomitant use of a strong CYP3A inducer cannot 
+be avoided, a doubling of the larotrectinib dose is recommended with the coadministration of a 
+strong CYP3A4 inducer.  The effects of weak or moderate CYP3A4 inducers on the exposure of 
+larotrectinib have not been studied.  
+ 
+Coadministration with sensitive CYP3A4 substrates:  If coadministration of sensitive CYP3A4 
+substrates cannot be avoided, monitor patients for increased adverse reactions of these drugs.  
+ 
+Organ Impairment 
+Patients with Renal Impairment: No dose adjustment is recommended for patients with renal 
+impairment (creatinine clearance, CLcr <89 mL/min by Cockcroft-Gault equation).  
+ 
+Patients with Hepatic Impairment: No dose adjustment is recommended for patients with mild 
+(Child-Pugh A) hepatic impairment. A reduction in the larotrectinib starting dose from 100 mg 
+BID to 50 mg BID is recommended for patients with underlying moderate (Child-Pugh B) to 
+severe (Child-Pugh C) hepatic impairment.  
+ 
+Food effect 
+Larotrectinib can be administered without regard to food as the larotrectinib AUC was not 
+altered and Cmax was decreased by 35% when larotrectinib was administered with a high fat 
+meal. 
+  
+ Comprehensive Clinical Pharmacology Review 
+ 
+General Pharmacology and Pharmacokinetic Characteristics 
+ 
+Pharmacology  
+ 
+Mechanism of 
+Action  
+Larotrectinib (LOXO-101) is an ATP-competitive inhibitor of the 
+tropomyosin receptor kinases (TRKs), a family of tyrosine kinases 
+that bind neurotrophin growth factors, which are important to the 
+formation and function of the nervous system. The TRK family is 
+comprised of 3 transmembrane proteins—TRKA, TRKB and TRKC—
+encoded by the NTRK1, NTRK2 and NTRK3 genes, respectively. The 
+neurotrophins (ligands) corresponding to each TRK receptor are 
+nerve growth factor (NGF) for TRKA, brain-derived growth factor 
+Reference ID: 4354090
+
+
+===== PAGE 92 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+91 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+(BDGF) and neurotrophin-4/5 for TRKB, and neurotrophin-3 (NT-3) 
+for TRKC. Ligand binding triggers receptor oligomerization and 
+phosphorylation of specific tyrosine residues in the intracytoplasmic 
+kinase domain, which activates signal transduction pathways 
+leading to proliferation, differentiation, and survival in neoplastic 
+and normal neuronal cells. 
+Active Moieties  
+Larotrectinib 
+QT Prolongation  
+Concentration-QTc analysis of the healthy volunteer study showed 
+an absence of relationship between larotrectinib concentration and 
+QTc with a two-sided upper 90% confidence interval below 10 ms 
+over the studied dose range of 100 to 900 mg. This study did not 
+include a positive control, however the requirement for inclusion of 
+a positive control can be waived if the study includes doses 
+resulting in exposures that are 2-fold higher than the worst-case 
+exposure scenario (ICH E14 Q&A (R3) 5.1). The highest dose in this 
+study (900 mg) resulted in a Cmax that is ~7.8-fold higher than the 
+Cmax for the highest recommended therapeutic dose (100 mg BID) 
+and ~2.8-fold higher than the supratherapeutic exposure scenario 
+(co-administration with a strong CYP3A4 and P-gp inhibitor).  
+General Information 
+ 
+Bioanalysis  
+Larotrectinib was measured using validated LC-MS/MS assay 
+methods over the range of 1 to 1000 ng/mL [Report LOXO-101-
+DMPK-030, 53 and 54]. Accuracy (%RE) and precision (%CV) of the 
+quality controls (QCs) for the runs used in measuring larotrectinib 
+plasma concentrations were ≤15%, which are acceptable based on 
+the current Bioanalytical Method Validation Draft FDA Guidance for 
+Industry. 
+Healthy vs. Patients  
+Based on a popPK analysis, the geometric means (%CV) of post-hoc 
+clearance (CL) in healthy subjects (N=34) and patients (N=147) were 
+76.1 (45%) L/h and 44.6 (70%) L/h, respectively. 
+Drug Exposure at 
+Steady State  
+The geometric mean (%CV) steady-state AUC0-24h was 4351 ng∙h/mL 
+(92%) following larotrectinib 100 mg BID dosage regimen. 
+Range of Effective 
+Dose or Exposure  
+The minimally effective larotrectinib dose defined as the mean 
+steady-state trough concentrations (33 ng/ml (77 nM)) exceeds the 
+IC50 (5 to 12 nM) for inhibition of TRKA, TRKB and TRKC.  
+Maximally Tolerated 
+Dose or Exposure  
+A maximum tolerated dose (MTD) was not established in Phase 1 
+studies LOXO-TRK-14001 or LOXO-TRK-15003. The highest assessed 
+dosage in study LOXO-TRK-14001 was 200 BID (n=6). 18 of the 176 
+adult patients (10%) received doses higher than 100 mg BID 
+recommended dose. 
+Dose Proportionality  The single-dose pharmacokinetics of larotrectinib are linear from 
+100 mg to 400 mg and slightly supra-proportional at doses of 600 
+mg to 900 mg in healthy volunteers.  
+Reference ID: 4354090
+
+
+===== PAGE 93 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+92 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Accumulation  
+The geometric mean (%CV) accumulation ratio following 
+larotrectinib 100 mg BID was 1.1 (58%). 
+Variability  
+The inter-subject variability (CV%) at steady-state AUC0-24h was 73% 
+and Cmax was 65% in patients given 100 mg BID of larotrectinib.  
+Absorption 
+ 
+Bioavailability 
+The mean absolute bioavailability of larotrectinib capsules was 34% 
+(range: 32% to 37%).  
+Tmax 
+Following larotrectinib 100 mg BID, the median Tmax is 0.9 hours 
+(range: 0.5 - 9 hours). 
+Food effect 
+After oral administration of a single dose of larotrectinib 100 mg 
+capsule to healthy subjects taken with a high-fat meal, the AUC of 
+larotrectinib was similar, but the Cmax was reduced by 35% 
+compared to the Cmax and AUC in the fasted state. 
+Distribution 
+ 
+Volume of 
+Distribution  
+The mean (CV%) volume of distribution (Vd/F) of larotrectinib is 374 
+L (48%) following oral administration of a single [14C] radiolabeled 
+100 mg dose in healthy subjects. 
+Plasma Protein 
+Binding  
+Larotrectinib is 70% bound to human plasma proteins in vitro and 
+independent of drug concentrations. The blood-to-plasma 
+concentration ratio is 0.9. 
+As Substrate of 
+Transporters  
+Larotrectinib is a substrate for P-gp and BCRP. In overexpressing 
+BCRP and P-gp cell line, the estimate Km for both transporters is 
+>300 μM. Larotrectinib is not a substrate of OAT1, OAT3, OCT1, 
+OCT2, OATP1B1, or OATP1B3. 
+Elimination 
+ 
+Terminal Elimination 
+Half-Life (SD) 
+Following oral administration of 100 mg BID dose of larotrectinib, 
+the geometric mean (CV%) of the apparent clearance of 
+larotrectinib is 98 L/h (44%) and the mean (standard deviation) 
+terminal half-life is 2.9 (1.5) following oral administration of a single 
+[14C] radiolabeled 100 mg dose in healthy subjects. 
+Effective Elimination 
+Half-Life (SD) 
+Not applicable as the half-life of larotrectinib is short (2-3 hours) 
+and repeat dosing does not result in accumulation of larotrectinib.   
+Metabolism 
+ 
+Fraction 
+Metabolized, %dose  
+ 
+The fraction of the dose metabolized is approximately 75%, based 
+on the mean percentage of the dose recovered as metabolites in 
+the excreta. 
+Primary Metabolic 
+Pathway(s)  
+ 
+CYP3A4 is mainly responsible for the metabolism of larotrectinib 
+based on human cytochrome P450 reaction phenotyping 
+experiments with isoform-specific antibodies in human liver 
+microsomes.  
+ 
+Based on the results of a mass balance, larotrectinib metabolism is 
+Reference ID: 4354090
+
+
+===== PAGE 94 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+93 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+mediated primarily by oxidative N-dealkylation with the subsequent 
+cleavage of the 3-hydroxypyrrolidine carboxamide moiety and 
+formation of the secondary glucuronide M14, the most abundant 
+circulating and excreted metabolite.  
+Excretion 
+ 
+Primary Excretion 
+Pathways, % dose 
+(SD)  
+Following administration of a single dose 100 mg dose of [14C] 
+radiolabeled larotrectinib, 57.8% of the administered radioactivity 
+was recovered in feces and 39.2% was recovered in urine. Most of 
+the administered radioactivity (85.7%) was recovered in the first 96 
+hours postdose. The overall mean recovery of radioactivity in urine 
+and feces was 97.1% over the 312-hour sampling period. 
+Larotrectinib was the most abundant radioactive component 
+excreted and accounted for 19.9% of dose in urine and for 5.5% of 
+dose in feces.  
+Interaction liability 
+(Drug as Victim) 
+ 
+Inhibition/Induction 
+of Metabolism 
+Coadministration of larotrectinib with multiple doses of a strong 
+CYP3A inhibitor (itraconazole) increased the AUCinf of larotrectinib 
+by 4.3-fold and the Cmax by 2.8-fold as compared to larotrectinib 
+administered alone. 
+ 
+Coadministration of larotrectinib with multiple doses of a strong 
+CYP3A inducer (rifampin) decreased the AUCinf of larotrectinib by 
+81% and Cmax by 71% as compared to larotrectinib administered 
+alone. 
+Inhibition/Induction 
+of Transport 
+Systems 
+Larotrectinib is a substrate for P-gp and BCRP; it is not a substrate 
+of OAT1, OAT3, OCT1, OCT2, OATP1B1, or OATP1B3. 
+ 
+Coadministration of larotrectinib with a single dose of a P-gp 
+inhibitor (rifampin), increased the AUCinf of larotrectinib by 1.7-fold 
+and the Cmax by 1.8-fold as compared to larotrectinib administered 
+alone. 
+Effects on 
+Absorption 
+The solubility of larotrectinib, determined by the shake-flask 
+method, exceeds 0.75 mg/ml regardless of pH (1.0, 3.0, 5.0, 6.8, 
+and 7.5). Based on the results, larotrectinib is a highly soluble 
+molecule and pH modifying agents are unlikely to influence the 
+absorption of larotrectinib. 
+Interaction liability 
+(Drug as 
+perpetrator) 
+ 
+Inhibition/Induction 
+of Metabolism  
+Larotrectinib is an inhibitor of CYP3A4; it is not an inhibitor of 
+CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, or CYP2D6 at clinically 
+Reference ID: 4354090
+
+
+===== PAGE 95 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+94 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+relevant concentrations. Larotrectinib is an inducer of CYP3A4; it is 
+not an inducer of CYP1A2 and CYP2B6 at clinically relevant 
+concentrations.  
+ 
+Coadministration of multiple doses of larotrectinib with a sensitive 
+CYP3A4 substrate (midazolam) increased the AUCinf and Cmax of 
+midazolam by 1.7-fold as compared to midazolam administered 
+alone. The AUCinf and Cmax of 1-hydroxymidazolam, the main 
+metabolite of midazolam, increased 1.4-fold as compared to when 
+midazolam was administered alone.  
+Inhibition/Induction 
+of Transporter 
+Systems  
+Larotrectinib is not an inhibitor of BCRP, P-gp, OAT1, OAT3, OCT1, 
+OCT2, OATP1B1, OATP1B3, BSEP, MATE1 and MATE2-K at clinically 
+relevant concentrations. 
+ 
+ 
+Clinical Pharmacology Questions 
+ 
+Does the clinical pharmacology program provide supportive evidence of effectiveness? 
+The primary evidence of effectiveness was from the primary analysis set (PAS) which consisted 
+of the first 55 patients – both pediatric and adult patients – enrolled in Study LOXO-TRK-14001, 
+LOXO-TRK-15002 and LOXO-TRK-15003 with solid tumors harboring an NTRK gene fusion.  As 
+shown in the clinical review, the ORR in the PAS set of 55 patients was 75% (95% CI: 61, 85). 
+Based on the primary Independent Review Committee (IRC) review, 22% of the patients had 
+achieved a complete response (CR) and an additional 1 (2%) patient had a surgical CR. Twenty-
+eight (51%) patients had achieved a partial response (PR). The remaining patients had either 
+stable disease 8 (15%), progressive disease 5 (9%) or non-evaluable disease 2 (4%).  
+ 
+The majority of patients in the PAS (N = 50) had an NTRK gene fusion identified using local next 
+generation sequencing (NGS) testing with the remaining patients (N = 5) having NTRK gene 
+fusions identified or inferred using local fluorescence in situ hybridization (FISH) testing.  A PMC 
+is planned to develop a companion diagnostic (see section 4.4). 
+ 
+The distribution of NTRK gene fusions in the PAS is provided in the clinical review (section 
+8.1.5).  The most common NTRK gene fusions were ETV6-NTRK3, TPM3-NTRK1, and LMNA-
+NTRK1.  Three IFS patients were inferred to have NTRK gene fusions based on FISH results, 
+including 1 patient with concurrent ETV6 and NTRK3 rearrangements identified at similar 
+frequencies in separate assays, and 2 patients with ETV6 gene rearrangements detected but 
+who were not assessed for NTRK3 gene rearrangements.  In addition, 1 patient enrolled in 
+Study LOXO-TRK-15002 with an ETV6-NTRK3 gene fusion had an NTRK3 G623R mutation that 
+was associated with acquired resistance to a prior TKI therapy [PMID: 28578312] and had a best 
+response following treatment with larotrectinib of PD.  Four additional patients enrolled in the 
+phase 1 Study LOXO-TRK-14001 and not included in the PAS had NTRK point mutations 
+Reference ID: 4354090
+
+
+===== PAGE 100 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+99 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Figure 10: Distribution of Maximum Larotrectinib Concentrations (Cmax) in Day 1 Across 
+Outcomes of Safety Events of Interest  
+ 
+Source: Reviewer’s Analysis based on “ADAE.xpt”, “ADLB.xpt”, “ADSL.xpt” and “ADEX.xpt”.   
+ 
+Is an alternative dosing regimen or management strategy required for subpopulations based 
+on intrinsic patient factors? 
+ 
+Renal impairment   
+Dose reduction is not recommended for patients with renal impairment (RI).  
+ 
+Loxo Oncology conducted a PK study (LOXO-TRK-17014) in matched (age, sex and BMI) healthy 
+subjects (N=8) and subjects with end-stage renal disease (ESRD) who required dialysis (N=8).  As 
+depicted in Figure 11, the systemic exposure (AUC and Cmax) of larotrectinib increased in ESRD 
+subjects as compared to healthy subjects with normal renal function (creatinine clearance, CLcr 
+≥ 90 mL/min as estimated by Cockcroft-Gault equation) following oral administration of a single 
+100 mg dose of larotrectinib capsule under fasting conditions on a non-dialysis day. The 
+geometric mean ratio (GMR) [90% CI] of the AUCinf of larotrectinib was 1.5 [0.87, 2.45] and of 
+the Cmax was 1.3 [0.76, 2.06] for subjects with ESRD as compared to subjects with normal renal 
+function. The pharmacokinetics of larotrectinib in patients with moderate to severe RI (CLcr ≤ 
+60 mL/min) have not been studied; however, the magnitude of exposure increase is expected 
+to be smaller in patients with underlying mild to severe renal impairment than in patients with 
+end stage renal disease. 
+ 
+Reference ID: 4354090
+
+
+===== PAGE 101 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+100 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Based on comparative popPK analysis, larotrectinib clearance was similar between patients 
+with mild (CLcr 60-89ml/min, N=72), moderate RI (CLcr 30-59ml/min, N=31), severe (CLcr 15-29 
+ml/min, N=3) and patients (N=74) with normal (CLcr ≥90 ml/min) renal function. Based on these 
+PK data, the overall safety profile, and the lack of clear exposure response relationship for 
+safety, dose reduction in patients with RI is not considered necessary. 
+ 
+Figure 11: Mean Plasma Concentration-Time Profiles of Larotrectinib in Subjects with Normal 
+Renal Function and Patients with ESRD 
+ 
+Source: FDA Analysis 
+ 
+Hepatic impairment  
+Dose reduction is recommended for patients with moderate to severe hepatic impairment (HI). 
+Loxo Oncology conducted a PK study (LOXO-TRK-17013) in matched (age, sex and BMI) healthy 
+subjects (N=7) and subjects with mild (Child-Pugh A, N=8), moderate (Child-Pugh B, N=8) and 
+severe (Child-Pugh C, N=6) HI. As depicted in Figure 12, the exposure (AUC) of larotrectinib 
+increased in subjects with HI as compared to healthy subjects with normal hepatic function. The 
+GMR [90% CI] of the larotrectinib AUCinf was 1.3 [0.93, 1.85] in subjects with mild HI, 2 [1.46, 
+2.70] in subjects with moderate HI and 3.2 [1.95, 5.26] in subjects with severe HI as compared 
+to that in subjects with normal hepatic function. The corresponding GMR [90% CI] of the Cmax 
+were 1.1 [0.8, 1.5], 1.3 [0.9, 1.7] and 1.5 [0.9, 2.7]. Additionally, based on popPK analysis, CL is 
+lower in patients with higher alkaline phosphatase value, which is consistent with the finding 
+that larotrectinib clearance is reduced in patients with moderate to severe hepatic impairment 
+in the dedicated clinical study. Given that the AUCinf in subjects with moderate to severe HI is 2 
+to 3.2-fold higher than that in subjects with normal hepatic function, a 50% dose reduction is 
+Reference ID: 4354090
+
+
+===== PAGE 102 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+101 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+recommended for patients with moderate to severe HI. Dose adjustment in patients with mild 
+HI is not considered necessary.   
+ 
+Figure 12: Mean Plasma Concentration-Time Profiles of Larotrectinib in Subjects with Normal 
+Hepatic Function and Patients with Impaired Hepatic Function   
+ 
+ 
+Source: FDA Analysis  
+ 
+Are there clinically relevant food-drug or drug-drug interactions, and what is the appropriate 
+management strategy? 
+ 
+Food-Drug Interactions  
+Larotrectinib can be administered with or without food.  
+ 
+The effect of food on larotrectinib PK was evaluated in a randomized, three period crossover 
+study (Study LOXO-TRK-16007) in 18 healthy subjects with a 7-day washout period. Healthy 
+subjects received a single oral dose of 100 mg larotrectinib capsule under fasting conditions 
+(overnight fast and continued the fast for at least 4 hours post-dose) or under fed conditions 
+(high-fat meal). The composition of the high-fat meal was consistent with the 
+recommendations in the FDA Food Effect Guidance for Industry. As depicted in Figure 13, the 
+Cmax of larotrectinib decreased 35% and the Tmax was delayed by 2 hours after a high-fat meal as 
+compared to that in a fasted state; the GMR [90% CI] of the larotrectinib Cmax was 0.65 [0.56, 
+0.76] and the AUCinf was 1.05 [ 0.96, 1.15]. These results support the labeling recommendation 
+of administering larotrectinib with or without food. 
+Reference ID: 4354090
+
+
+===== PAGE 103 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+102 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ 
+Oral solution of Larotrectinib  
+No dose adjustment is recommended for patients receiving the oral solution of larotrectinib. 
+ 
+The bioavailability of the capsule vs solution was evaluated in a randomized, three period 
+crossover study in 18 healthy subjects with a 7-day washout period. In Study LOXO-TRK-16007, 
+the bioavailability of the oral solution formulation was compared to the capsule formulation in 
+healthy subjects under fasting conditions. As depicted in Figure 13, the Cmax of larotrectinib 
+increased 36% with the oral solution as compared to the capsule when administered in a fasted 
+state. The GMR [90% CI] of the Cmax of larotrectinib was 1.36 [1.18, 1.57] and of the AUCinf was 
+1.04[ 0.96, 1.14] for the larotrectinib oral solution as compared to the larotrectinib capsule in a 
+fasted state. Given the magnitude of increase in exposure of larotrectinib, the overall safety 
+profile and lack of clear exposure response relationship for safety, no dose adjustment is 
+recommended for patients receiving the oral solution dosage form of larotrectinib. 
+ 
+Figure 13: Larotrectinib Mean Plasma Concentration-Time Profiles after Administering 
+Larotrectinib Capsule in Subjects Under Fasted and Fed States, and After Administering 
+Solution in a Fasted State 
+ 
+ 
+Source: FDA Analysis  
+ 
+Reference ID: 4354090
+
+
+===== PAGE 104 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+103 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Drug-Drug Interactions (DDI) 
+ 
+Effects of Other Drugs on Larotrectinib  
+ 
+CYP3A4 Inhibitors  
+Dose reduction is recommended when coadministering a strong CYP3A4 inhibitor with 
+larotrectinib.  
+ 
+The effects of itraconazole (a strong CYP3A4 inhibitor) on the PK of larotrectinib were evaluated 
+in an open-label, 2-period, fixed-sequence study in healthy subjects (N=12) with a washout 
+period of 7 days (LOXO-TRK-16010). As depicted in Figure 14, the systemic exposure (AUC and 
+Cmax) of larotrectinib increased when larotrectinib was coadministered with itraconazole (a 
+strong CYP3A inhibitor). Following oral coadministration of a single 100 mg larotrectinib capsule 
+with itraconazole 200 mg once daily for 7 days in healthy subjects, the GMR [90% CI] of the 
+AUCinf of larotrectinib was 4.3 [3.8, 5.0] and of the Cmax was 2.8 [2.3, 3.5] as compared to 
+larotrectinib administered alone. Given that coadministration of larotrectinib with a strong 
+CYP3A inhibitor resulted in more than 4-fold increase in larotrectinib AUCinf, coadministration of 
+strong CYP3A4 inhibitors during larotrectinib should be avoided, if possible. If strong CYP3A4 
+inhibitors cannot be avoided, a 50% dose reduction of larotrectinib is recommended. The 
+effects of moderate and weak CYP3A4 inhibitors on the PK of larotrectinib have not been 
+studied. Loxo Oncology has agreed to conduct a physiological-based pharmacokinetics (PBPK) 
+assessment of the effect of CYP3A4 moderate 
+ inhibitors on larotrectinib exposure as 
+a PMR study.  
+ 
+Reference ID: 4354090
+(b) (4)
+
+
+===== PAGE 105 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+104 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+Figure 14: Mean Plasma Concentration-Time Profiles of Larotrectinib in Subjects Receiving 
+Larotrectinib With and Without Coadministration of Itraconazole 
+ 
+ 
+Source: FDA Analysis  
+ 
+CYP3A4 inducers  
+An increase in dose is recommended when coadministering a strong CYP3A4 inducer with 
+larotrectinib.  
+ 
+The effects of rifampin (a strong CYP3A4 inducer) on the PK of larotrectinib were evaluated in 
+an open-label, 2-period, fixed-sequence study in healthy subjects (N=12) with a washout period 
+of 7 days (LOXO-TRK-16010). As depicted in Figure 15, the systemic exposure (AUC and Cmax) of 
+larotrectinib decreased in subjects who were coadministered larotrectinib with rifampin. 
+Following oral administration of rifampin (a strong CYP3A inducer) 600 mg once daily for 11 
+days and coadministration of a single 100 mg larotrectinib capsule to healthy subjects, the GMR 
+[90% CI] of the AUCinf of larotrectinib was 0.19 [0.16, 0.24] and of the Cmax was 0.29 [0.23, 0.37] 
+as compared to larotrectinib administered alone. Given that coadministration of larotrectinib 
+with a strong CYP3A inducer resulted in an 80% decrease in larotrectinib AUCinf, 
+coadministration of strong CYP3A4 inducers during larotrectinib should be avoided if possible. If 
+a strong CYP3A4 inducer cannot be avoided, a doubling of larotrectinib dose is recommended. 
+The effects of CYP3A moderate and weak inducers on the pharmacokinetics of larotrectinib 
+have not been studied. Loxo Oncology has agreed to conduct a PBPK assessment of the effect 
+of moderate and weak inducers of CYP3A4 on larotrectinib as a PMC study.  
+ 
+P-gp Inhibitor  
+No dose adjustment is recommended when coadministering larotrectinib with a P-gp inhibitor.  
+Reference ID: 4354090
+
+
+===== PAGE 106 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+105 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+ 
+The effects of rifampin (a P-gp inhibitor) on the PK of larotrectinib were evaluated in an open-
+label, 2-period, fixed-sequence study in healthy subjects (N=12) with a washout period of 7 
+days (LOXO-TRK-16010). As depicted in Figure 15, the systemic exposure (AUC and Cmax) of 
+larotrectinib increased when coadministering larotrectinib with rifampin (a P-gp inhibitor). 
+Following oral coadministration of a single 100 mg larotrectinib capsule with a single dose of 
+600 mg rifampin to healthy subjects, the GMR [90% CI] of the AUCinf of larotrectinib was 1.7 
+[1.5, 1.8] and of Cmax was 1.8 [1.5, 2.2] as compared to larotrectinib administered alone. Given 
+the short-term use of p-gp inhibitors, magnitude of increase in exposure of larotrectinib, the 
+overall safety profile and lack of clear exposure response relationship for safety, dose reduction 
+is not considered necessary when coadministering larotrectinib with a P-gp inhibitor 
+ 
+Figure 15: Mean Plasma Concentration-Time Profiles of Larotrectinib in Subjects Receiving 
+Larotrectinib With and Without the Coadministration of Single Dose of Rifampin (P-gp 
+inhibitor) or of Multiple Doses of Rifampin (CYP34A Inducer)  
+ 
+ 
+Source: FDA Analysis  
+ 
+Effect of Larotrectinib on CYP3A4 substrates  
+Co-administration of larotrectinib with sensitive CYP3A4 substrates should be avoided, if 
+possible. If co-administration of these sensitive CYP3A4 substrates cannot be avoided, monitor 
+patients for increased adverse events of these drugs. 
+ 
+The effects of larotrectinib on the PK of larotrectinib were evaluated in an open-label, fixed-
+sequence study in healthy subjects (N=12) with a washout period of 7 days (LOXO-TRK-16012). 
+Healthy subjects received larotrectinib capsule 100 mg BID for 10 days followed by 
+coadministration of a single 2 mg dose of midazolam in healthy subjects. The GMR [90% CI] of 
+the AUCinf of midazolam was 1.7 [1.5, 2.0] and of Cmax was 1.7 [1.5, 1.9] as compared to 
+Reference ID: 4354090
+
+
+===== PAGE 107 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+106 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+midazolam administered alone. The AUCinf and Cmax of 1-hydroxymidazolam, was 1.4 [1.2, 1.6] 
+and 1.4 [1.5, 1.7], respectively as compared to midazolam administered alone.  Of note, the 
+systemic exposure (AUCinf and Cmax) of larotrectinib also increased 1.6-fold when comparing 
+the exposure on days 3 and 12 of study LOXO-TRK-16012.  Additionally, as depicted in Figure 
+16, grade 1-3 ALT and AST elevations occurred around day 12 in 4 subjects (25%) after they had 
+received larotrectinib in combination with midazolam. An increase in ALT /AST is consistent 
+with the known safety profile of larotrectinib; however, no other studies in healthy subjects had 
+reported ALT/AST elevations. It is unclear how the coadministration of larotrectinib with 
+midazolam would induce liver enzyme elevations. A possible mechanism may involve inhibition 
+of UDP-glucuronosyltransferases (UGT’s) given that both molecules are glucuronidated and an 
+increase in 1-hydroxymidazolam concentrations was observed. The potential for larotrectinib to 
+inhibit UGTs has not been evaluated; FDA requested that Loxo Oncology investigate this 
+potential effect.  
+ 
+Figure 16: Alanine Aminotransferase and Aspartate Aminotransferase Profiles for All Subjects 
+ 
+Source: Study Report #8361372 page 247 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+ 
+               
+Brian D. Furmanski., Ph.D. 
+ 
+ 
+ 
+Hong Zhao., Ph.D. 
+Clinical Pharmacology Reviewer 
+ 
+ 
+Clinical Pharmacology Team Leader 
+Reference ID: 4354090
+
+
+===== PAGE 211 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+210 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+The population PK model included 3 Phase 1 trials (LOXO-TRK-16007, LOXO-TRK-16012 and 
+LOXO-TRK-14001), 1 Phase 1/2 trial (LOXO-TRK-15003), and 1 Phase 2 trial (LOXO-TRK-15002), 
+comprising 34 healthy subjects and 147 patients. 33 pediatric patients between 1 month and 18 
+years old were included in the popPK analysis. The demographics of healthy volunteers and 
+patients were summarized in Table 47 and Table 48. 
+ 
+The population PK analysis was conducted independently by the reviewer. The PK of 
+Larotrectinib was characterized with a two-compartment model described by first-order 
+absorption (Ka), volume of distribution (V/F), and linear clearance (CL/F) from the central 
+compartment. An additive residual error model was employed for log-transformed data. The 
+final model showed a significant effect of alkaline phosphatase on CL/F as well as an effect of 
+albumin, body surface area, formulation and disease status on volume of distribution. No signs 
+of model misspecification were identified in the goodness-of-fit plots (Figure 20). Prediction-
+corrected visual predictive check showed that the final model in general adequately described 
+the observed PK profile of larotrectinib in adult and pediatric subjects with administration of 
+capsule or solution (Figure 21). VPC diagnostic plot also suggested the model may 
+underestimate the lower quartile of the concentration. Bootstrap analyses demonstrated 
+consistency in parameter estimates and indicated the robustness of the model.  
+ 
+Parameter estimates of final model with significant covariates were provided in Table 3. The 
+shrinkage in CL and V2 were 13% and 38%, respectively. The effects of all evaluated covariates 
+on the larotrectinib PK parameters were illustrated in the forest plot based on 1000 bootstrap 
+results of final covariate model (Figure 23). The effects of these covariates on PK parameters 
+were illustrated though comparing the PK parameter in a patient with extreme (5th or 95th 
+percentile) covariate value relative to the parameter in a patient with the median covariate 
+value. Alkaline phosphatase has clinically relevant effect on CL. CL is lower in patients with 
+higher ALP value, which is consistent with the finding that larotrectinib clearance is reduced in 
+patients with moderate (Child-Pugh B) to severe (Child-Pugh C) hepatic impairment in the 
+dedicated clinical study. The relationship between alkaline phosphatase and clearance was also 
+evident through visual inspection from the base model (Figure 22). The ratios of clearance in 
+patients with mild or moderate renal impairment compared to patients with normal renal 
+function were estimated to be 1.16 (0.89, 1.54) and 0.76 (0.51, 1.08). Age (1 month to 82 
+years), sex, race (127 White and 23 Black patients), and have no clinically relevant effect on the 
+clearance of larotrectinib. Although overall body weight (3.8kg to 179.4kg) has no clinically 
+relevant effect on the clearance, the visual inspection of Figure 22 suggests that weight may be 
+related to the clearance in pediatric patients. Albumin, body surface area, formulation and 
+disease status were found to affect volume of distribution based on popPK analysis. In 
+sponsor’s analysis, weight was a statistically significant effect on CL. The different results may 
+be due to failure to include other significant covariates such as ALP and exclusion of PK data 
+from study LOXO-TRK-15002 in sponsor’s popPK analysis.  
+ 
+The steady state larotrectinib exposure in all patients with evaluable PK data were calculated 
+based on post-hoc PK parameters. As shown in Figure 24, larotrectinib exposure achieved with 
+Reference ID: 4354090
+
+
+===== PAGE 212 =====
+
+NDA Multidisciplinary Review and Evaluation NDA 210861 and NDA 211710 
+VITRAKVI (larotrectinib) 
+ 
+ 
+ 
+211 
+Version date: February 1, 2016 for initial rollout (NME/original BLA reviews) 
+100 mg/m2 BID in pediatric patients was within adult patient exposure with 100 mg BID. There 
+appears to be a trend that younger pediatric patients have lower exposure than older pediatric 
+patients. However, even for the age group between 1 month to 1 years old, the larotrectinib 
+exposure was still within the range of exposure observed in 55 adult patients. The post-hoc 
+estimate of Cavg is more reliable than Cmin and Cmax as the shrinkage in clearance is much 
+lower than the shrinkage in volume of distribution. The post-hoc CL was used to calculate 
+AUC0-24h for each age group and the following statement has been included in the 
+larotrectinib label: “In pediatric patients, the larotrectinib geometric mean (%CV) AUC0-24h by 
+age subgroup was: 3348 (66%) ng/mL in patients 1 month to <2 years (N=9), 4135 (36%) ng/mL 
+in patients 2 to <12 years (N=15), and 3108 (69%) ng/mL and in patients 12 to <18 years (N=9).” 
+ 
+Table 47: Summary of Categorical Covariates for the Healthy Subjects and Patients in the 
+PopPK Analysis 
+Variable 
+Group 
+Counts 
+ 
+ 
+Healthy 
+Subjects 
+Patients 
+Age Category 
+0.083 to 0.25 yrs 
+ 
+1 
+Age Category 
+> 0.25 to 0.5 yrs 
+2 
+Age Category 
+> 0.5 to 1 yr 
+3 
+Age Category 
+> 1 to 2 yrs 
+3 
+Age Category 
+> 2 to 6 yrs 
+8 
+Age Category 
+> 6 yrs to 12 yrs 
+7 
+Age Category 
+> 12 yrs 
+34 
+123 
+Ethnicity 
+Hispanic 
+13 
+15 
+Ethnicity 
+Missing 
+10 
+Ethnicity 
+Non-Hispanic 
+21 
+117 
+Ethnicity 
+Others 
+5 
+Formulation 
+Capsule 
+17 
+66 
+Formulation 
+Solution 
+17 
+81 
+Race 
+Black 
+12 
+11 
+Race 
+Missing 
+1 
+19 
+Race 
+Others 
+11 
+Race 
+White 
+21 
+106 
+Sex 
+Female 
+7 
+71 
+Sex 
+Male 
+27 
+76 
+Study 
+14001 
+66 
+Study 
+15002 
+47 
+Study 
+15003 
+34 
+Study 
+16007 
+18 
+Study 
+16012 
+16 
+Source: Reviewer’s Analysis based on “poppkpd_composite_23jan2018.xpt” 
+ 
+ 
+Reference ID: 4354090

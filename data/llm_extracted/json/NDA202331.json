@@ -1,0 +1,114 @@
+{
+  "nda": "NDA202331",
+  "drug_name": "azilsartan medoxomil/chlorthalidone (Edarbyclor)",
+  "pk_tuples": [
+    {
+      "dose_mg": 80, "dose_original": "azilsartan 80 mg as FDC 80/25 (TAK/P tablets)",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 24, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 4586.3, "tmax_h": 3.0, "auc_inf_ng_h_ml": 41994.8, "auc_last_ng_h_ml": 41371.7,
+      "t_half_h": 13.4, "cl_L_h": null, "vd_L": null,
+      "source_page": 27, "confidence": "high",
+      "notes": "Study TAK491cld_104 Group 1 azilsartan from FDC, fasted; Tablets TAK/P formulation"
+    },
+    {
+      "dose_mg": 80, "dose_original": "azilsartan 80 mg monotherapy tablet",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 22, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 5369.7, "tmax_h": 2.0, "auc_inf_ng_h_ml": 47493.7, "auc_last_ng_h_ml": 46902.5,
+      "t_half_h": 13.4, "cl_L_h": null, "vd_L": null,
+      "source_page": 27, "confidence": "high",
+      "notes": "Study TAK491cld_104 reference TAK 536 monotherapy tablet, fasted"
+    },
+    {
+      "dose_mg": 25, "dose_original": "chlorthalidone 25 mg as FDC 80/25 (CLD/P tablets)",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 23, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 270.3, "tmax_h": 1.0, "auc_inf_ng_h_ml": 4810.8, "auc_last_ng_h_ml": 4158.9,
+      "t_half_h": 46.1, "cl_L_h": null, "vd_L": null,
+      "source_page": 27, "confidence": "high",
+      "notes": "Study TAK491cld_104 Group 2 chlorthalidone from FDC, fasted"
+    },
+    {
+      "dose_mg": 25, "dose_original": "chlorthalidone 25 mg monotherapy",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 22, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 198.1, "tmax_h": 1.8, "auc_inf_ng_h_ml": 4385.5, "auc_last_ng_h_ml": 3748.2,
+      "t_half_h": 48.7, "cl_L_h": null, "vd_L": null,
+      "source_page": 27, "confidence": "high",
+      "notes": "Study TAK491cld_104 chlorthalidone reference tablet monotherapy, fasted"
+    },
+    {
+      "dose_mg": 80, "dose_original": "azilsartan 80 mg as FDC 80/25 fasted (food effect study)",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 23, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 5251.3, "tmax_h": 3.0, "auc_inf_ng_h_ml": 45678.2, "auc_last_ng_h_ml": 45234.9,
+      "t_half_h": 12.0, "cl_L_h": null, "vd_L": null,
+      "source_page": 30, "confidence": "high",
+      "notes": "Food effect study Group 1, TAK 536 from fixed combination tablet, fasted"
+    },
+    {
+      "dose_mg": 80, "dose_original": "azilsartan 80 mg FDC fed (high fat meal)",
+      "route": "oral", "formulation": "tablet", "food": "high_fat_meal",
+      "population": "healthy_adult", "n_subjects": 23, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 5632.5, "tmax_h": 3.0, "auc_inf_ng_h_ml": 39216.0, "auc_last_ng_h_ml": 38454.6,
+      "t_half_h": 9.5, "cl_L_h": null, "vd_L": null,
+      "source_page": 30, "confidence": "high",
+      "notes": "Food effect study Group 1, TAK 536 from FDC tablet with high-fat meal"
+    },
+    {
+      "dose_mg": 25, "dose_original": "chlorthalidone 25 mg as FDC 80/25 fasted",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 23, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 181.2, "tmax_h": 2.0, "auc_inf_ng_h_ml": 4318.3, "auc_last_ng_h_ml": 3615.1,
+      "t_half_h": 40.2, "cl_L_h": null, "vd_L": null,
+      "source_page": 30, "confidence": "high",
+      "notes": "Food effect study Group 1, CLD from fixed combination tablet, fasted"
+    },
+    {
+      "dose_mg": 25, "dose_original": "chlorthalidone 25 mg FDC fed",
+      "route": "oral", "formulation": "tablet", "food": "high_fat_meal",
+      "population": "healthy_adult", "n_subjects": 23, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 186.0, "tmax_h": 4.0, "auc_inf_ng_h_ml": 4920.8, "auc_last_ng_h_ml": 4326.7,
+      "t_half_h": 37.7, "cl_L_h": null, "vd_L": null,
+      "source_page": 30, "confidence": "high",
+      "notes": "Food effect study Group 1, CLD from FDC tablet with high-fat meal"
+    },
+    {
+      "dose_mg": 80, "dose_original": "azilsartan 80 mg free combination fasted",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 23, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 4198.4, "tmax_h": 2.0, "auc_inf_ng_h_ml": 38034.3, "auc_last_ng_h_ml": 37574.3,
+      "t_half_h": 12.8, "cl_L_h": null, "vd_L": null,
+      "source_page": 31, "confidence": "high",
+      "notes": "Food effect study Group 2, TAK 536 free combination (separate tablets), fasted"
+    },
+    {
+      "dose_mg": 80, "dose_original": "azilsartan 80 mg free combination fed",
+      "route": "oral", "formulation": "tablet", "food": "high_fat_meal",
+      "population": "healthy_adult", "n_subjects": 23, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 3330.7, "tmax_h": 2.0, "auc_inf_ng_h_ml": 30102.5, "auc_last_ng_h_ml": 29639.3,
+      "t_half_h": 12.4, "cl_L_h": null, "vd_L": null,
+      "source_page": 31, "confidence": "high",
+      "notes": "Food effect study Group 2, TAK 536 free combination tablets with high-fat meal"
+    },
+    {
+      "dose_mg": 25, "dose_original": "chlorthalidone 25 mg free combination fasted",
+      "route": "oral", "formulation": "tablet", "food": "fasted",
+      "population": "healthy_adult", "n_subjects": 23, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 239.7, "tmax_h": 1.0, "auc_inf_ng_h_ml": 4448.3, "auc_last_ng_h_ml": 3758.5,
+      "t_half_h": 41.7, "cl_L_h": null, "vd_L": null,
+      "source_page": 31, "confidence": "high",
+      "notes": "Food effect study Group 2, CLD free combination tablets, fasted"
+    },
+    {
+      "dose_mg": 25, "dose_original": "chlorthalidone 25 mg free combination fed",
+      "route": "oral", "formulation": "tablet", "food": "high_fat_meal",
+      "population": "healthy_adult", "n_subjects": 24, "dose_schedule": "single_dose",
+      "cmax_ng_ml": 181.8, "tmax_h": 2.0, "auc_inf_ng_h_ml": 4461.2, "auc_last_ng_h_ml": 3877.3,
+      "t_half_h": 40.3, "cl_L_h": null, "vd_L": null,
+      "source_page": 31, "confidence": "high",
+      "notes": "Food effect study Group 2, CLD free combination tablets with high-fat meal"
+    }
+  ]
+}

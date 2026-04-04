@@ -1,0 +1,1268 @@
+
+
+===== PAGE 3 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 2 of 88 
+ 
+3.2 
+POPULATION PHARMACOKINETICS REVIEW ................................................ 65 
+List of Tables 
+Table 1. Summary of ixazomib clinical pharmacology and clinical studies.....................................10 
+Table 2. Clinical studies included in the Ixazomib PK-QTc analysis.............................................14 
+Table 3. Phase 3 Study C16010 progression-free survival results ................................................16 
+Table 4. Ixazomib PK parameters following single-dose oral administration in patients .................16 
+Table 5. Ixazomib PK parameters following multiple-dose oral administration in ixazomib 
+monotherapy....................................................................................................................17 
+Table 6. Ixazomib PK parameters following multiple-dose oral administration in ixazomib 
+combination therapy with LenDex .....................................................................................18 
+Table 7. Summary of covariate values included in the popPK analyses........................................23 
+Table 8. Plasma protein binding for ixazomib by renal function....................................................25 
+Table 9. Geometric least squares mean ratios for ixazomib CMAX and AUC in renal impairment 
+study ...............................................................................................................................26 
+Table 10. Summary of treatment-emergent adverse events in renal impairment study...................27 
+Table 11. Plasma protein binding for ixazomib by hepatic function...............................................28 
+Table 12. Geometric least squares mean ratios for ixazomib CMAX and AUC in hepatic impairment 
+study ...............................................................................................................................29 
+Table 13. Summary of treatment-emergent adverse events in renal impairment study...................30 
+Table 14. Efflux transport of ixazomib.......................................................................................32 
+Table 15. Top concomitant medications used by ≥ 10% of patients in Phase 3 Study C16010........34 
+Table 16. Effect of concomitant ketoconazole on ixazomib PK ...................................................36 
+Table 17. Effect of concomitant clarithromycin on ixazomib PK .................................................37 
+Table 18. Effect of concomitant rifampin on ixazomib PK ..........................................................39 
+Table 19. Effect of capsule formulation on ixazomib PK ............................................................42 
+Table 20. Effect of high-fat meal on ixazomib PK......................................................................43 
+Table 21. PK assays used in ixazomib clinical studies.................................................................44 
+Table 22. Validated ixazomib PK accuracy and precision values.................................................45 
+ 
+List of Figures 
+Figure 1. Ixazomib citrate – Ixazomib reaction and associated physical/chemical properties. .......... 8 
+Figure 2. Probability of thrombocytopenia (left) and rash (right) vs. ixazomib daily AUC. .............13 
+Figure 3. Day 1 (left) and Day 15 (right) ixazomib PK profile following once weekly monotherapy 
+Reference ID: 3843176
+
+
+===== PAGE 4 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 3 of 88 
+ 
+dosing in patients with R/R MM. .......................................................................................17 
+Figure 4. Day 1 (left) and Day 15 (right) ixazomib PK profile following once weekly combination 
+dosing with LenDex in patients with newly diagnosed MM. ................................................18 
+Figure 5. Mean cumulative percent of radioactive dose recovered in urine and feces after a single 
+oral solution dose of 4.1 mg [14C]-ixazomib in patients. ......................................................20 
+Figure 6. Metabolic pathway of ixazomib. .................................................................................21 
+Figure 7. Plot comparison of ixazomib CMAX (top) and AUC (bottom) by renal function (red bars 
+denote the geometric mean)..............................................................................................26 
+Figure 8. Plot comparison of ixazomib CMAX (top) and AUC (bottom) by hepatic function (red bars 
+denote the geometric mean)..............................................................................................29 
+Figure 9. Individual predicted AUC for ixazomib monotherapy or combination therapy with 
+lenalidomide and dexamethasone.......................................................................................33 
+Figure 10. Study C16009 design................................................................................................35 
+Figure 11. Individual AUC from the ketoconazole and clarithromycin DDI studies (red bars denote 
+the geometric mean). .......................................................................................................37 
+Figure 12. Individual CMAX from the ketoconazole and clarithromycin DDI studies (red bars denote 
+the geometric mean). .......................................................................................................38 
+Figure 13. Individual AUC from the rifampin DDI study (red bars denote the geometric mean). ...39 
+Figure 14. Individual CMAX from the rifampin DDI study (red bars denote the geometric mean). ...40 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 3843176
+
+
+===== PAGE 5 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 4 of 88 
+ 
+1 
+EXECUTIVE SUMMARY 
+ 
+Ixazomib is a small molecule inhibitor of the 20S proteasome. The sponsor is seeking approval of 
+ixazomib for the treatment of patients with multiple myeloma who have received at least one prior 
+therapy. The proposed dosing regimen is 4 mg orally on Days 1, 8, 15 of a 28-day cycle, to be 
+administered in combination with lenalidomide and dexamethasone (LenDex).  
+ 
+The consideration for approval is based on the findings of the Phase 3 study where the safety and 
+efficacy of Ixazomib+LenDex vs. Placebo+LenDex were compared in patients with 
+relapsed/refractory multiple myeloma (n=722). The primary endpoint was progression-free survival 
+(PFS) assessed by an Independent Review Committee. Treatment with Ixazomib+LenDex resulted 
+in a median PFS improvement of 4 months (20.0 months vs. 15.9 months, hazard ratio 0.82 [95% 
+CI: 0.67, 1.0]). The Phase 3 data showed no Exposure-Response (E-R) relationship for efficacy. 
+However, E-R relationships for safety (thrombocytopenia, rash, gastrointestinal (GI) toxicities 
+including diarrhea) were observed. These E-R relationships for safety support dose modifications in 
+patients who experience thrombocytopenia, rash or GI toxicities including diarrhea. In addition, the 
+E-R analyses for safety support reduced starting dose for patients with severe renal 
+impairment/ESRD dialysis (3 mg), moderate or severe hepatic impairment (3 mg).  
+ 
+Ixazomib is rapidly absorbed (TMAX ~1 hr) with an estimated absolute bioavailability of 58%. In 
+mass balance evaluation, mean total recovery was 84% of administered dose, of which 62% 
+recovered in urine (3.3% as unchanged drug) and 22% recovered in feces. Hepatic and renal 
+impairment studies showed that ixazomib systemic exposure was increased by 13-42% in patients 
+with moderate or severe hepatic impairment and those with severe renal impairment or end stage 
+renal disease requiring dialysis compared to patients with normal hepatic and renal functions. 
+ 
+In vitro and clinical studies were conducted to characterize the metabolism and drug-drug 
+interaction potential of ixazomib. In vitro studies indicate that both non-CYP and CYP enzymes 
+may contribute to ixazomib metabolism. Clinical DDI studies with strong CYP3A4 inhibitors 
+ketoconazole and clarithromycin did not show clinically meaningful effects on ixazomib systemic 
+exposure. On the other hand, clinical study with the strong CYP3A4 inducer rifampin showed 
+significant decrease in ixazomib exposure (AUC ↓74%, CMAX ↓54%).  
+ 
+The submitted NDA data support the approval of ixazomib for the proposed patient population at 
+the proposed dosing regimen.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 3843176
+
+
+===== PAGE 8 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 7 of 88 
+ 
+ADME  
+The absolute bioavailability of ixazomib is estimated to be 58%. Following oral administration, 
+ixazomib is rapidly absorbed with a median TMAX of 1 hour. It is highly bound to human plasma 
+proteins at 99% with a blood-to-plasma ratio of 10. Mass balance evaluation showed that 
+approximately 62% and 22% of the radiolabeled dose were recovered, respectively, in the urine and 
+feces. Of those in the urine, only 3% was recovered as the unchanged drug. Metabolite profiling 
+from the mass balance study was not complete at the time of NDA submission. In vitro metabolism 
+studies show non-CYP and CYP enzymes contribute to ixazomib metabolism. Ixazomib has a half-
+life of about 10 days and systemic clearance of 1.9 L/h with minimal renal clearance (6%). Based 
+on population PK analysis, ixazomib is dose-proportional in the dose range of 0.2 to 10.6 mg.  
+ 
+Hepatic and Renal Impairment  
+No dose adjustment is needed for patients with mild hepatic impairment or mild/moderate renal 
+impairment, based on population PK analyses of Phase 3 data. However, dose reductions to 3 mg 
+are recommended in patients with moderate/severe hepatic impairment or severe renal 
+impairment/end stage renal disease requiring dialysis, based on clinical studies showing ~13-42% 
+systemic exposure increases in these groups. 
+ 
+Drug-Drug Interactions (DDIs) 
+The contribution of CYP enzymes in the biotransformation of ixazomib is 3A4 (42%), 1A2 (26%), 
+2B6 (16%), 2C8 (6.0%), 2D6 (4.8%), 2C19 (4.8), 2C9 (<1%) at supra-therapeutic concentrations. 
+Clinical DDI studies with strong CYP3A4 inhibitors ketoconazole (when accounting for period 
+effect) and clarithromycin did not show clinically meaningful effects on ixazomib PK. However, 
+clinical study with strong CYP3A4 inducer rifampin showed significant decrease in ixazomib 
+exposure (AUC ↓74%, CMAX ↓54%). To avoid sub-therapeutic ixazomib concentrations, 
+concomitant use of strong CYP3A4 inducers should be avoided.  
+ 
+Ixazomib was not identified as a reversible or time-dependent inhibitor or inducer of CYP enzymes 
+or any major drug transporters. It was identified as a low affinity substrate of P-gp transporter.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Reference ID: 3843176
+
+
+===== PAGE 13 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 12 of 88 
+ 
+Dex (optional, Days 1, 8, 15, 
+22) in 28-day cycles. 
+C16018 
+Hepatic 
+impairment 
+(moderate or 
+severe) 
+Phase 1, open-label, 
+multi-center 
+Advanced solid 
+tumors or 
+hematologic 
+malignancies 
+(n=48, PK=43) 
+with the 
+following: 
+-normal hepatic 
+function 
+-moderate HI 
+-severe HI 
+Part A (PK): 
+4 mg (normal hepatic), 2.3 mg 
+(moderate HI), or 1.5 mg 
+(severe HI) Ixa SD (Day 1) in 
+15-day period. 
+ 
+Part B (optional): 
+Ixa QW at Part A dose (with 
+possible escalation) for 3 wks 
+(Days 1, 8, 15) in 28-day 
+cycles. 
+C16013 
+PO combination 
+with LenDex, PK 
+in Asians 
+Phase 1, open-label, 
+dose confirmation 
+Asians with R/R 
+MM (n=43, 
+PK=24) 
+4 mg Ixa QW for 3 wks (Days 
+1, 8, 15) + 25 mg Len (Days 1-
+21) + 40 mg Dex (Days 1, 8, 15, 
+22) in 28-day cycles. 
+TB-
+MC01003
+4 
+PO monotherapy 
+or combination 
+with LenDex, PK 
+in Japanese 
+Phase 1, open-label 
+Japanese with 
+R/R MM (n=14, 
+PK=14, 7 each in 
+monotherapy or 
+combination) 
+Monotherapy: 
+4 mg Ixa QW for 3 wks (Days 
+1, 8, 15) in 28-day cycles. 
+ 
+Combination with LenDex: 
+4 mg Ixa QW for 3 wks (Days 
+1, 8, 15) + 25 mg Len (Days 1-
+21) + 40 mg Dex (Days 1, 8, 15, 
+22) in 28-day cycles. 
+IV = intravenous, PO = oral, PK = pharmacokinetics, PD = pharmacodynamics, Ixa = ixazomib, Len = 
+lenalidomide, Dex = dexamethasone, LenDex = lenalidomide + dexamethasone, FIH = first-in-human, MTD = 
+maximum tolerated dose, RP2D = recommended Phase 2 dose, SD = single dose, R/R = relapsed and/or 
+refractory, ND = newly diagnosed, MM = multiple myeloma, AL = systemic light chain amyloidosis, RI = renal 
+impairment, ESRD = end-stage renal disease, HI = hepatic impairment, DDI = drug-drug interaction, BA = 
+bioavailability, E-R = exposure-response, ADME = absorption, distribution, metabolism, excretion, QW = once 
+weekly, BIW = twice weekly, QD = once daily, BID = twice daily 
+ 
+2.2.2 What is the basis for selecting the response endpoints or biomarkers and how are 
+they measured in clinical pharmacology and clinical studies? 
+The primary endpoint in the registration Study C16010 was progress-free survival (PFS), defined as 
+the time from randomization date to the first documented date of disease progression based on 
+central laboratory results and International Myeloma Working Group (IMWG) criteria as evaluated 
+by an Independent Review Committee (IRC), or death due to any cause, whichever occurred first. 
+Additional outcome measures included overall survival (OS), overall response rate (ORR), duration 
+of response (DOR) and time to progression (TTP). 
+2.2.3 Are the active moieties in the plasma (or other biological fluid) appropriately 
+identified and measured to assess pharmacokinetic parameters and exposure-
+response relationships? 
+Reference ID: 3843176
+
+
+===== PAGE 17 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 16 of 88 
+ 
+Table 3. Phase 3 Study C16010 progression-free survival results 
+ 
+(Source: FDA Biostatistics) 
+ 
+The results of E-R analyses for efficacy did not show a relationship between ixazomib systemic 
+exposure and clinical response or PFS. However, results of E-R analyses for safety showed 
+significant relationships (p-value < 0.05) between ixazomib systemic exposure and select AEs (rash, 
+peripheral neuropathy, diarrhea, nausea, vomiting, fatigue, thrombocytopenia, anemia)—see Section 
+2.2.4.2 for details. Ixazomib systemic exposure was not found to be a significant predictor of time 
+to first dose reduction (refer to Pharmacometrics Review in Section 3.1).  
+ 
+2.2.5 What are the PK characteristics of the drug? 
+2.2.5.1 What are the single dose and multiple dose PK parameters? 
+Single- and multiple-dose PK of ixazomib have been evaluated in the clinical pharmacology studies 
+listed in Table 1.  
+ 
+Single-Dose Monotherapy 
+Single-dose PK parameters from Renal Impairment Study C16015 and Hepatic Impairment Study 
+C16018 are provided in Table 4—only control group patients (those with normal renal or hepatic 
+function) are shown.  
+ 
+Table 4. Ixazomib PK parameters following single-dose oral administration in patients 
+PK Parameter 
+Study C16015 
+(3 mg, n=18) 
+Study C16018 
+(4 mg, n=12) 
+TMAX (h) 
+1.04 (0.47-4.0) 
+0.95 (0.48-4.0) 
+CMAX (ng/mL) 
+26 (56) 
+61 (54) 
+AUC0-168h (h∙ng/mL) 
+347 (42) 
+846 (44) 
+AUC0-LAST (h∙ng/mL) 
+575 (38) 
+1160 (41) 
+TMAX values provided as median and range, others as geometric mean (%CV). 
+ 
+Multiple-Dose Monotherapy 
+Once-weekly dosing of ixazomib monotherapy in patients with R/R MM was evaluated in Study 
+C16004. The ixazomib dose range evaluated was 0.24 to 3.95 mg/m2 QW for 3 weeks in 28-day 
+Reference ID: 3843176
+
+
+===== PAGE 20 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 19 of 88 
+ 
+2.2.5.2 How does the PK of the drug and its major active metabolites in healthy volunteers 
+compare to that in patients? 
+Ixazomib is a cytotoxic agent. All clinical studies were conducted in cancer patients or those with 
+systemic light-chain amyloidosis. Therefore, PK comparison between healthy subjects and patients 
+cannot be conducted. 
+2.2.5.3 What are the characteristics of drug absorption? 
+Following oral administration, ixazomib is absorbed rapidly with an overall median TMAX of 1 h. 
+Following multiple-dose administration, plasma exposure of ixazomib generally increased dose 
+proportionally over a dose range of 0.48 to 3.95 mg/m2 (1.4 to 8.9 mg actual administered). Based 
+on population PK analysis, no apparent relationship was observed between dose (0.2 to 10.6 mg) 
+and oral clearance, supporting dose-linearity within this dose range. Absolute bioavailability was 
+estimated to be 58% based on population PK analyses of IV and oral PK data. 
+2.2.5.4 What are the characteristics of drug distribution? 
+Based on population PK modeling, the volume of distribution at steady state was estimated to be 
+543 L. Ixazomib is highly bound to plasma proteins, mainly albumin, at 99%. Plasma protein binding 
+was not found to be affected by organ impairment (renal or hepatic) status. Ixazomib distributes into 
+red blood cells with a blood/plasma ratio of approximately 10, which appears consistent with its 
+mechanism of action against 20S proteasomes in red blood cells. 
+2.2.5.5 Does the mass balance study suggest renal or hepatic as the major route of 
+elimination?  
+In Study C16016, the mass balance of ixazomib was assessed in 7 patients with advanced or 
+metastatic solid tumor or lymphoma. A single dose of 4.1 mg [14C]-ixazomib oral solution was 
+administered to patients. Blood samples for ixazomib plasma PK and total radioactivity and 
+metabolite profiles were collected over a 35-day period. Samples in urine and feces were collected 
+post-dose continuously for 8-days and then intermittently for up to 35 days. The mean total recovery 
+of administered dose was 84% with 62% of the dose recovered in urine (3.3% as unchanged drug) 
+and 22% of the dose recovered in feces (Figure 5). Metabolite profiling was not complete at the 
+time of NDA submission. 
+Reference ID: 3843176
+
+
+===== PAGE 22 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 21 of 88 
+ 
+ 
+Figure 6. Metabolic pathway of ixazomib. 
+(Source: Sponsor’s Report MLN9708-31259, Figure 1) 
+ 
+2.2.5.7 What are the characteristics of drug excretion? 
+The mass balance study (C16016) showed that the mean total recovery of 4.1 mg [14C]-ixazomib 
+was 84% with 62% of the dose recovered in the urine (3.3% as unchanged drug) and 22% 
+recovered in the feces. It indicated that most of the drug recovered in the urine is in the form of 
+metabolites. 
+Elimination 
+Based on population PK analysis, plasma clearance of ixazomib is 1.86 L/h (apparent clearance is 
+3.21 L/h, based on oral bioavailability of 58%) and the geometric mean terminal half-life is 9.5 days. 
+Based on mass balance study (C16016), renal clearance was observed to be 0.07 L/h and 0.06 L/h 
+for Day 1 and 15, respectively.  
+ 
+2.2.5.8 Based on PK parameters, what is the degree of linearity or non-linearity based in the 
+dose-concentration relationship? 
+Following multiple-dose administration, plasma exposure of ixazomib generally increased dose 
+proportionally over a dose range of 0.48 to 3.95 mg/m2 (1.4 to 8.9 mg actual administered). Based 
+Reference ID: 3843176
+
+
+===== PAGE 23 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 22 of 88 
+ 
+on population PK analysis, no apparent relationship was observed between dose (0.2 to 10.6 mg) 
+and apparent oral clearance, supporting dose-linearity within this dose range. 
+ 
+2.2.5.9 How do the PK parameters change with time following chronic dosing? 
+Following both IV and oral once weekly dosing, an approximately 2-fold accumulation for AUC 
+was observed following Day 15 dose (Tables 5 and 6). Trough concentrations increased through 
+Cycle 1, suggesting that steady-state was not achieved by the time of last dose administration in a 
+28-day cycle. 
+2.2.5.10 What is the inter- and intra-subject variability of the PK parameters in volunteers 
+and patients and what are the major causes of variability? 
+As mentioned in Section 2.2.5.2, all ixazomib clinical studies were conducted in patients. Following 
+single-dose administration of 4 mg ixazomib (Study C16018), the inter-patient variability (%CV) was 
+estimated to be 54% CMAX and 41-44% for AUC. Following multiple-dose administration of 
+ixazomib (Study C16004), the inter-patient variability was 61-70% for CMAX and 49-53% for AUC 
+after Day 1 administration and 26-61% for CMAX and 53% for AUC after Day 15 administration. 
+Following multiple-dose administration of ixazomib in combination with LenDex (Study C16005), the 
+inter-patient variability was 34-52% for CMAX and 17-54% for AUC after Day 1 administration and 
+39-82% for CMAX and 10-14% for AUC after Day 15 administration. 
+  
+2.3 INTRINSIC FACTORS 
+2.3.1 What intrinsic factors influence exposure and/or response, and what is the impact 
+of any differences in exposure on effectiveness or safety responses? 
+No formal studies have been conducted to assess the effect of covariates such as age, sex, body 
+surface area (BSA), race, hepatic impairment (mild) or renal impairment (mild, moderate) on 
+exposure and response to ixazomib. However, internal Pharmacometrics Review and sponsor’s 
+population PK (popPK) analyses both showed that age, sex, BSA, race, smoking status, mild 
+hepatic impairment or mild/moderate renal impairment are not clinically significant covariates on 
+ixazomib exposure.  
+A list of covariate values included in the popPK analyses is shown in Table 7. 
+ 
+ 
+Reference ID: 3843176
+
+
+===== PAGE 24 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 23 of 88 
+ 
+Table 7. Summary of covariate values included in the popPK analyses 
+ 
+(Sponsor’s Population PK Report MIL-PKPD-MLN9708-021, Table 11) 
+ 
+Relationship between Body Size and Exposure 
+The popPK analysis did not identify body weight (median: 76 kg, range: 37-151 kg) as a significant 
+covariate influencing ixazomib PK. Body surface area (median: 1.9 m2, range: 1.2-2.7 m2) was 
+included as the only covariate in the final model to explain 13% of the variability on the second 
+peripheral compartment (V4), however it was not found to influence ixazomib central clearance or 
+volume of distribution. This supports sponsor’s fixed dosing approach. 
+2.3.2 Based upon what is known about exposure-response relationships and their 
+variability and the groups studied, healthy volunteers vs. patients vs. specific 
+populations, what dosage regimen adjustments, if any, are recommended for each 
+of these groups?  
+See Sections below. 
+2.3.2.1 Elderly 
+The popPK analysis did not identify age (mean: 63 years, range: 23-91 years) including elderly age 
+(n ≥ 65= 396, ≥ 75= 100, ≥ 85= 7) as a significant covariate influencing ixazomib PK. No dose 
+adjustment is needed based on patient age. 
+2.3.2.2 Pediatric  
+The sponsor has not conducted clinical studies of ixazomib in pediatric patients. Ixazomib was 
+Reference ID: 3843176
+
+
+===== PAGE 26 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 25 of 88 
+ 
+seen in Table 8 below. 
+ 
+Table 8. Plasma protein binding for ixazomib by renal function 
+ 
+Data shown as mean ± standard deviation 
+(Source: Sponsor’s C16015 Clinical Study Report, Table 11-a) 
+ 
+Plots of observed ixazomib CMAX and AUC by renal function are shown in Figure 7, statistical 
+analysis of results is shown in Table 9, and summary of observed TEAEs in Table 10. The results 
+showed that severe RI or ESRD increased ixazomib AUC by 36-42%. Pre- and post-dialyzer 
+ixazomib PK concentrations during hemodialysis were similar, indicating that ixazomib is not 
+dialyzable.  
+ 
+Reference ID: 3843176
+
+
+===== PAGE 27 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 26 of 88 
+ 
+ 
+ 
+Figure 7. Plot comparison of ixazomib CMAX (top) and AUC (bottom) by renal function (red bars 
+denote the geometric mean). 
+ 
+Table 9. PK parameters and geometric least squares mean ratios for ixazomib CMAX and AUC in 
+renal impairment study 
+Parameter 
+Normal Renal 
+Function 
+Severe  
+RI 
+ESRD 
+Severe/Normal 
+Ratio 
+ESRD/Normal 
+Ratio 
+DN CMAX  
+(ng/ml/mg) 
+8.60 (56) 
+15.1 (80) 
+6.23 (82) 
+1.76 
+0.72 
+DN AUC0-LAST 
+((h∙ng/ml/mg) 
+192 (38) 
+271 (51) 
+261 (35) 
+1.42 
+1.36 
+DN CMAX  
+0.100 (66) 
+0.159 (86) 
+0.071 (57) 
+1.59 
+0.71 
+Reference ID: 3843176
+
+
+===== PAGE 29 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 28 of 88 
+ 
+Study C16018 evaluated the PK and safety of a single-dose ixazomib in patients with normal 
+hepatic function and those with moderate or severe HI (based on NCI definition of organ 
+dysfunction). In Part A, patients received a single-dose dose of ixazomib capsule (4 mg for normal 
+hepatic function, 2.3 mg for moderate HI, 1.5 mg for severe HI) with PK sampling until Day 15. 
+Those who tolerated Part A dose went on to Part B in which ixazomib was administered orally on 
+Days 1, 8, 15 of a 28-day cycle at the same dose in Part A or according to dose modification 
+guidelines. A total of 48 patients were enrolled with 36 PK-evaluable patients (n=13 normal hepatic 
+function, n=15 moderate HI, n=18 severe HI). Plasma protein binding was measured. In Part A, 
+PK samples were collected at the following times: pre-dose, then post-dose 0.5, 1, 1.5, 2, 3, 4, 8, 24, 
+48, 72, 96, 120, 144, 168, 240, 264, 336 h. In Part B, PK samples were collected at the following 
+times: pre-dose on Day 1 of Cycles 2, 3.  
+ 
+Results 
+The results showed that plasma protein binding does not change significantly by hepatic function, as 
+seen in Table 11 below. 
+ 
+Table 11. Plasma protein binding for ixazomib by hepatic function 
+ 
+Data shown as mean ± standard deviation 
+(Source: Sponsor’s C16015 Clinical Study Report, Table 11.a) 
+ 
+Plots of observed ixazomib CMAX and AUC by hepatic function are shown in Figure 8, statistical 
+analysis of results is shown in Table 12, and summary of observed TEAEs in Table 13. The 
+results showed that moderate or severe HI increased ixazomib AUC by 13-27%.  
+ 
+Reference ID: 3843176
+
+
+===== PAGE 30 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 29 of 88 
+ 
+ 
+ 
+Figure 8. Plot comparison of ixazomib CMAX (top) and AUC (bottom) by hepatic function (red bars 
+denote the geometric mean).  
+ 
+Table 12. PK parameters and geometric least squares mean ratios for ixazomib CMAX and AUC in 
+hepatic impairment study 
+Parameter 
+Normal Hepatic 
+Function 
+Moderate 
+HI 
+Severe  
+HI 
+Moderate/Normal 
+Ratio 
+Severe/Normal 
+Ratio 
+DN CMAX  
+(ng/ml/mg) 
+15.3 (54) 
+18.5 (63) 
+17.4 (70) 
+1.21 
+1.14 
+DN AUC0-LAST 
+((h∙ng/ml/mg) 
+289 (41) 
+368 (49) 
+326 (49) 
+1.27 
+1.13 
+Reference ID: 3843176
+
+
+===== PAGE 31 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 30 of 88 
+ 
+DN CMAX  
+(ng/ml/mg, unbound) 
+0.127 (47) 
+0.162 (80) 
+0.154 (84) 
+1.27 
+1.21 
+DN AUC0-LAST 
+(h∙ng/ml/mg, unbound) 
+2.41 (50) 
+3.19 (61) 
+2.96 (63) 
+1.32 
+1.23 
+where HI = hepatic impairment, DN = dose-normalized 
+values presented as geometric mean (CV%) 
+ 
+Table 13. Summary of treatment-emergent adverse events in renal impairment study 
+ 
+(Source: Sponsor’s C16018 Clinical Study Report, Table 12.c) 
+ 
+The increased ixazomib AUC of up to 27 % in patients with moderate or severe HI and the 
+exposure-safety findings (see Section 3.1) support the reduced ixazomib starting dose of 3 mg in 
+patients with moderate or severe HI. 
+ 
+2.3.2.7 What pregnancy and lactation use information is there in the application? 
+There are no human data regarding the effect of ixazomib on pregnancy or the development of 
+embryo or fetus, however embryo-fetal studies in animals showed that ixazomib has the potential to 
+cause embryo-fetal lethality. 
+ 
+Reference ID: 3843176
+(b) (4)
+(b) (4)
+
+
+===== PAGE 33 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 32 of 88 
+ 
+µL/h by efflux transport. P-gp mediated transport of ixazomib contributed approximately 19% of its 
+total transport. The studies seemed to indicate that ixazomib is not a high-affinity substrate of P-gp 
+and that contribution of P-gp to overall ixazomib membrane permeation clearance is low.  
+ 
+Table 14. Efflux transport of ixazomib 
+ 
+(Source: Sponsor’s RPT-01131 Amendment 2 Report, Table 1) 
+ 
+2.4.2.6 Does the label specify co-administration of another drug and, if so, has the interaction 
+potential between these drugs been evaluated? 
+Yes, the labeling specifies administration of ixazomib in combination with lenalidomide and 
+dexamethasone. The recommended starting doses for the combination agents are as follows: 
+ Lenalidomide: 25 mg daily on Days 1-21 of a 28-day treatment cycle 
+ Dexamethasone: 40 mg on Days 1, 8, 15 and 22 of a 28-day treatment cycle 
+  
+No meaningful pharmacokinetic interaction is expected between ixazomib in combination with 
+lenalidomide and dexamethasone, based on the following: 
+ Similar PK parameters for ixazomib when administered as a monotherapy (Studies C16003 
+and C16004) vs. when administered in combination with lenalidomide and dexamethasone 
+(Studies C16005 and C16008). Population PK analyses also did not identify combination 
+therapy with lenalidomide and dexamethasone as a significant covariate on ixazomib PK 
+(Figure 9). 
+ Ixazomib is not expected to affect the lenalidomide or dexamethasone PK for the following 
+reasons: lenalidomide is predominantly renally cleared while dexamethasone is 
+predominantly metabolized by CYP3A; ixazomib is not an inhibitor of CYP3A4 enzymes or 
+Reference ID: 3843176
+
+
+===== PAGE 37 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 36 of 88 
+ 
+ Period 1: 2.5 mg ixazomib single dose was administered on Day 1 alone in patients. 
+Ixazomib PK samples were collected at the following time points: pre-dose then post-dose 
+on Days 1 (30 m, 1, 1.5, 2, 3, 4, 8 h), 2, 3, 4, 5, 6, 7, 8, 11, 12.  
+ Period 2: 2.5 mg ixazomib single dose was administered on Day 15 with concomitant 
+ketoconazole in same patients from Period 1. 400 mg ketoconazole QD was administered on 
+Days 12-25. Ixazomib PK samples were collected at the following time points: pre-dose 
+then post-dose on Days 15 (30 m, 1, 1.5, 2, 3, 4, 8 h), 16, 17, 18, 19, 20, 21, 22, 25, 26. 
+ Results: a least-squares geometric mean ratio of 1.01 was observed for CMAX and 2.08 for 
+AUC0-264h, as seen in Table 16. 
+ Conclusion: The results of this study are likely confounded (i.e., ixazomib exposure in 
+presence of ketoconazole is over-estimated) by the period effect observed in ARMS 2 and 
+3 (discussed in the above Preamble). To resolve this issue, the sponsor added 
+clarithromycin DDI study as ARM 5 with an updated design, discussed below. 
+ 
+Table 16. Effect of concomitant ketoconazole on ixazomib PK 
+(Source: Sponsor’s C16009 Clinical Study Report, Table 11.b)  
+ 
+ARM 5: To evaluate the effect of clarithromycin (a strong CYP3A4 inhibitor) on the single-dose 
+PK of ixazomib, the sponsor conducted an in vivo single-period study in patients by administering 
+ixazomib in the presence of clarithromycin. The PK data from ARM 1/Period 1 were used as a 
+comparator (see Figure 11). In ARM 5, patients were treated with 500 mg of clarithromycin 
+twice daily on Days 1-16. On Day 6, 2.5 mg ixazomib was given in combination with clarithromycin 
+and rich PK samples were collected until Day 17 post-dose. Ixazomib CMAX and AUC did not show 
+meaningful change when given in combination with clarithromycin (Table 17). There is no 
+significant DDI effect of concomitant clarithromycin on ixazomib PK. 
+ 
+Reference ID: 3843176
+
+
+===== PAGE 38 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 37 of 88 
+ 
+Table 17. Effect of concomitant clarithromycin on ixazomib PK 
+ 
+(Source: Sponsor’s C16009 Clinical Study Report Addendum, Table 2.e) 
+ 
+Combined Ketoconazole and Clarithromycin DDI Analysis 
+Individual AUC and CMAX observed in the ketoconazole and clarithromycin DDI studies are shown 
+in Figures 11 and 12, respectively. Regarding the ketoconazole study, when considering a period 
+effect of 1.6-2.2X on AUC, the net effect of ketoconazole on ixazomib PK becomes minimal to 
+none. No clinically meaningful DDI effect was observed in the clarithromycin study. Therefore, 
+when taken together, both the ketoconazole and clarithromycin study results support sponsor’s 
+recommendation of no dosing adjustment in patients who are on concomitant strong CYP3A4 
+inhibitors.  
+ 
+ 
+ 
+ Figure 11. Individual AUC from the ketoconazole and clarithromycin DDI studies (red bars 
+denote the geometric mean). 
+Reference ID: 3843176
+
+
+===== PAGE 39 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 38 of 88 
+ 
+ 
+ 
+ 
+ 
+DDI with Strong CYP3A Inducer 
+To evaluate the effect of clarithromycin (a strong CYP3A4 inhibitor) on the single-dose PK of 
+ixazomib, the sponsor conducted an in vivo single-period study in patients by administering ixazomib 
+in the presence of clarithromycin. The PK data from ARM 1/Period 1 were used as a comparator 
+(see Figure 10). In ARM 5, patients were treated with 500 mg of clarithromycin twice daily on 
+Days 1-16. On Day 6, 2.5 mg ixazomib was given in combination with clarithromycin and rich PK 
+samples were collected until Day 17 post-dose. Ixazomib CMAX and AUC did not show meaningful 
+change when given in combination with clarithromycin (Table 17). There is no significant DDI 
+effect of concomitant clarithromycin on ixazomib PK. 
+ 
+ARM 4: To evaluate the effect of rifampin (a strong CYP3A4 inducer) on single-dose ixazomib 
+PK, the sponsor conducted an in vivo single-period study in patients by administering ixazomib in the 
+presence of rifampin. The PK data from ARM 2/Period 1 were used as a comparator (see Figure 
+10). In ARM 4, patients were treated with 600 mg rifampin once daily on Days 1-14. On Day 8, 4 
+mg ixazomib was given in combination with rifampin and rich PK samples were collected until Day 
+15 post-dose. Concomitant administration with rifampin decreased Ixazomib CMAX and AUC by 
+approximately 54% and 74%, respectively (Table 18). There is a significant DDI effect of 
+concomitant rifampin on ixazomib PK. 
+Figure 12. Individual CMAX from the ketoconazole and clarithromycin DDI studies (red bars 
+denote the geometric mean). 
+Reference ID: 3843176
+
+
+===== PAGE 40 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 39 of 88 
+ 
+Table 18. Effect of concomitant rifampin on ixazomib PK 
+ 
+(Source: Sponsor’s C16009 Clinical Study Report, Table 11.e) 
+ 
+Rifampin DDI Analysis 
+Individual AUC and CMAX observed in the rifampin DDI study are shown in Figures 13 and 14, 
+respectively. Due to the significant exposure decrease of ixazomib in the presence of rifampin, the 
+study results support  sponsor’s recommendation of avoid concomitant use of strong CYP3A4 
+inducers with ixazomib. 
+ 
+ 
+ 
+ 
+ 
+Figure 13. Individual AUC from the rifampin DDI study (red bars denote the geometric mean). 
+Reference ID: 3843176
+
+
+===== PAGE 43 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 42 of 88 
+ 
+CI, results presented in Table 19. The results showed that ixazomib exposure (CMAX and 
+AUC) are similar following administration of Capsule A or Capsule B formulation. 
+ Conclusion: Ixazomib PK following Capsule A or Capsule B administration are similar. 
+Additionally, based on the PK similarity between formulations, Period 1 of this ARM may 
+be used as the control PK arm (4 mg ixazomib alone) for the rifampin DDI study in ARM 4. 
+ 
+Table 19. Effect of capsule formulation on ixazomib PK 
+ 
+ (Source: Sponsor’s C16009 Clinical Study Report, Table 11.c)  
+ 
+2.5.3 What is the effect of food on the bioavailability (BA) of the drug from the dosage 
+form? What dosing recommendation should be made, if any, regarding 
+administration of the product in relation to meals or meal types? 
+In all ixazomib clinical studies, ixazomib was administered in fasted state. To characterize the effect 
+of food on single-dose ixazomib PK, the sponsor conducted an in vivo 2-sequence, 2-period cross-
+over study in which patients were randomized 1:1 to either food condition sequence, as outlined 
+below: 
+ 
+ARM 3 (Study C16009): 
+ Design: Patients were randomized according to sequence to receive 4 mg single dose 
+ixazomib with or without a standard high-fat breakfast on Day 1 followed by 4 mg single 
+dose ixazomib of the alternate food condition on Day 15 of a 28-day PK cycle. The high-fat 
+meal consisted of the following: 2 fried or scrambled eggs, 2 strips of bacon, 2 slices of 
+toasted bread with butter, hash brown, whole milk totaling approximately 56 g fat, 55 g 
+carbohydrates, 32 g protein, 844 calories. Ixazomib PK samples were collected at the 
+following time points: pre-dose then post-dose on Days 1 (30 m, 1, 1.5, 2, 3, 4, 8 h), 2, 3, 4, 5, 
+8, 9, 10 and pre-dose then post-dose on Days 15 (30 m, 1, 1.5, 2, 3, 4, 8 h), 16, 17, 18, 19, 22, 
+23, 24. 
+ Results: ANOVA analysis showed a period effect for AUC0-216h indicating ~2.2-fold 
+higher exposures in Period 2 vs. Period 1. This period effect was incorporated in the 
+statistical analysis during the estimation of least squares geometric mean ratios and its 90% 
+CI, results presented in Table 20. The results showed a high-fat meal decreased ixazomib 
+CMAX by 69% and AUC by 28%. 
+Reference ID: 3843176
+
+
+===== PAGE 49 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 48 of 88 
+ 
+ 
+Figure 15. Probability of greater than Grade 3 thrombocytopenia vs. average daily AUC of ixazomib. The olive 
+color shaded region represents the 95% confidence interval (CI). The observed rate (95% CI) in placebo+LenDex arm is in 
+red, predicted adverse event rate (95% CI) for a typical patient with 4 mg dose in green, predicted adverse event rate (95% CI) 
+for a patient with reduced clearance by 29% (patient with severe renal impairment) with 4 mg dose in light blue, and predicted 
+adverse event rate (95% CI) for a patient with reduced clearance by 29% with 3 mg dose in purple. 
+ 
+Figure 16. Probability of greater than Grade 2 rash vs. average daily AUC of ixazomib. The olive color shaded 
+region represents the 95% confidence interval (CI). The observed rate (95% CI) in placebo+LenDex arm is in red, predicted 
+adverse event rate (95% CI) for a typical patient with 4 mg dose in green, predicted adverse event rate (95% CI) for a patient 
+with reduced clearance by 29% (patient with severe renal impairment) with 4 mg dose in light blue, and predicted adverse event 
+rate (95% CI) for a patient with reduced clearance by 29% with 3 mg dose in purple. 
+Reference ID: 3843176
+
+
+===== PAGE 50 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 49 of 88 
+ 
+ 
+Figure 17. Probability of greater than Grade 2 diarrhea vs. average daily AUC of ixazomib. The olive color 
+shaded region represents the 95% confidence interval (CI). The observed rate (95% CI) in placebo+LenDex arm is in red, 
+predicted adverse event rate (95% CI) for a typical patient with 4 mg dose in green, predicted adverse event rate (95% CI) for 
+a patient with reduced clearance by 29% (patient with severe renal impairment) with 4 mg dose in light blue, and predicted 
+adverse event rate (95% CI) for a patient with reduced clearance by 29% with 3 mg dose in purple. 
+ 
+As shown in Figure 15, Figure 16 and Figure 17, the probability of having an event of 
+thrombocytopenia, rash or diarrhea increases with increasing time-averaged daily AUC (average 
+daily dose up to the date of event/individual clearance predicted by population PK model). The 
+applicant proposes to modify dose based on thrombocytopenia, rash or peripheral neuropathy and 
+the step size for the reduction is summarized below: 
+ 
+Recommended starting dose*  
+First reduction to 
+Second reduction to 
+Discontinue 
+4 mg 
+3 mg 
+2.3 mg 
+ 
+If platelet count drops below 30,000/mm3, both ixazomib and lenalidomide are to be withheld until 
+recovery. Upon recovery, treatment is to start with reduced dose of lenalidomide dose and the same 
+dose of ixazomib. If platelet count falls to <30,000/mm3 again, then ixazomib dose is reduced to next 
+lower dose. The same scenario is proposed for greater than Grade 2 rash and for greater than 
+Grade 2 neuropathy. However, the proposed labeling indicates a need of dose adjustment for severe 
+gastrotoxicities including diarrhea in “Warnings and Precautions” section 
+ 
+  
+ 
+The exposure-response relationships for thrombocytopenia and rash support the proposed dose 
+modification schemes based on these safety endpoints. Furthermore, dose modification based on 
+gastrointestinal toxicities such as diarrhea should be included as well as these safety endpoints. 
+Reference ID: 3843176
+(b) (4)
+
+
+===== PAGE 51 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 50 of 88 
+ 
+1.3 Are the proposed dose reductions for the starting dose in patients with 
+moderate/severe hepatic impairment, severe renal impairment, or ESRD requiring 
+hemodialysis reasonable? 
+Yes. Based on the exposure-response relationships for safety endpoints including thrombocytopenia, 
+rash, and anemia, the higher of adverse events is predicted with higher exposure of ixazomib. 
+Therefore, reduced dose of ixazomib to 3 mg for patients with increased exposures appears to be 
+reasonable. 
+ 
+As shown in Figure 15, the predicted event rate of thrombocytopenia for a patient with typical 
+clearance following 4 mg dose of ixazomib was estimated to be ~23%. If the clearance is reduced 
+in a patient due to severe hepatic impariment or severe renal impairment, the probability of having 
+thrombocytopenia increases. From Study C16018, the applicant found that AUCs in patients with 
+moderate hepatic impairment and severe impairment increased by 32% and 23%, respectivly. From 
+Study C16015, AUC in patients with severe renal impairment was found to be 39% higher 
+compared to patients with normal renal function. If a reduced dose of 3 mg is given to patients with 
+reduced clearance of drug by ~29%, the predicted probability of having thrombocytopenia is 
+reduced to the value which is close to the typical patient with 4 mg dose of ixazomib (Figure 15). 
+Similar trends were observed with other safety endpoints such as a rash or diarrhea (Figure 16, 
+Figure 17) Therefore, the applicant’s proposed starting dose of 3 mg for patients with 
+moderate/severe hepatic impairment, severe rennal impairment or ESRD requiring hemodialysis 
+appear to be reasonable.  
+1.4 Is the difference in PFS between patients with CrCL <60 mL/min and those with 
+CrCL ≥60 mL/min due to the difference in the drug disposition or drug action in 
+these groups of patients? 
+It is unlikely. There was no significant difference in ixazomib PK between patients with different 
+renal function (see Section 3. Reviewer’s analysis) which is consistent with negligible excretion of 
+ixazomib in urine as unchanged drug (~3%). The apparent effect of creatinine clearance on PFS 
+appears to be due the difference in the baseline disease condition. Furthermore, deterioration of 
+renal function has been reported to be associated with disease progression of multiple myeloma. 
+Reference ID: 3843176
+
+
+===== PAGE 57 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 56 of 88 
+ 
+4 REVIEWER’S ANALYSIS 
+4.1 Introduction 
+The purpose of the analysis is to evaluate the applicant’s analysis and the proposed dose 
+modification. Additionally, the effect of renal function on PFS identified by the statistics reviewer 
+was further evaluated in conjunction with the potential effect of renal function on ixazomib 
+exposure, which was unlikely based on the pharmacokinetics characteristic of the drug. 
+4.2 Objectives 
+Analysis objectives were: 
+1. To evaluate the applicant’s exposure-response analysis for efficacy and safety to justify the 
+proposed dose and the dose modification scheme 
+2. To evaluate the apparent effect of creatinine clearance on PFS 
+4.3 Methods 
+Exposure (daily AUC) was estimated in each individual using post-hoc estimates of individual 
+clearance using population PK analysis and actual dose given to the individual. Cumulative dose 
+given to the individual up to the day an event occurred was divided by estimated clearance (CL/F) 
+and then averaged by day. 
+4.3.1 Datasets 
+Data sets used for the analysis are summarized in Table 29. 
+ 
+Table 29. Datasets for analyses 
+Study Number 
+Name  
+Link to EDR 
+Population PK 
+ 
+mln9708-pk-20150331-csv.xpt 
+\\cdsesub1\evsprod\NDA208462\0000\m5\datasets\
+pop-pk\analysis\legacy\datasets 
+Exposure-response 
+analysis 
+ader.xpt 
+\\cdsesub1\evsprod\NDA208462\0000\m5\datasets\
+exposure-response analysis\analysis\legacy\datasets 
+Safety data 
+adae.xpt 
+\\cdsesub1\evsprod\NDA208462\0000\m5\datasets\
+iss\analysis\legacy\datasets 
+Updated PFS data 
+(submitted on Oct 9, 
+2015) 
+adtte xpt 
+\\cdsesub1\evsprod\NDA208462\0021\m5\datasets\
+c16010\analysis\legacy\datasets 
+ 
+4.3.2 Software 
+NONMEM (version 7.3) was used for post-hoc estimates of individual parameters including 
+clearance (CL) and bioavailability (F). R (version 2.13) was used for statistical and graphical 
+analyses. 
+Reference ID: 3843176
+
+
+===== PAGE 58 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 57 of 88 
+ 
+4.4 Results 
+4.4.1 Exposure-response for efficacy 
+Cox-regression analysis showed no significant relationship between ixazomib daily AUC and 
+progression-free survival (Figure 20, p-value=0.4 with 1st interim data; Figure 21, p-value=0.31 
+with 2nd interim data). There are no notable differences in baseline risk factors by exposure quartile 
+(Q1, Q2, Q3 and Q4 where Q4 is the highest quartile) of ixazomib daily AUC as shown in Figure 
+22. The distribution of risk factors by exposure quartile with 2nd interim data also showed similar 
+profiles (not shown).  
+ 
+  
+ 
+Figure 20. Progression free survival by ixazomib daily AUC quartile . Q1 is the lowest and Q4 is the highest 
+quartile of the exposure (Q1: 33.5-84.2 ng*L/hr, Q2:84.8-117.3 ng*L/hr, Q3: 117.3-147.5ng*L/hr, Q4: 147.8-276.4 
+ng*L/hr), LenDex is the lenalidomide/dexamethasone active control arm. The analysis was performed with 1st interim data for 
+PFS where an event for PFS was reported in days. Thus the exact day for an event was utilized for time-averaged daily AUC. 
+Reference ID: 3843176
+
+
+===== PAGE 59 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 58 of 88 
+ 
+ 
+Figure 21. Progression free survival by ixazomib daily AUC quartile . Q1 is the lowest and Q4 is the highest 
+quartile of the exposure (Q1: 10.0-69.0 ng*L/hr, Q2:69.5-97.4 ng*L/hr, Q3: 97.8-132.2 ng*L/hr, Q4: 132.9-260.3 ng*L/hr), 
+LenDex is the lenalidomide/dexamethasone active control arm. The analysis was performed with 2nd interim data for PFS 
+(submitted on Oct 9, 2015) where an event for PFS was reported in months. Thus time-averaged daily AUC was calculated by 
+dividing time-averaged monthly AUC by 30 days. 
+ 
+Reference ID: 3843176
+
+
+===== PAGE 63 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 62 of 88 
+ 
+ 
+Figure 26. Probability of greater than Grade 3 anemia vs. average daily AUC of ixazomib. The olive color 
+shaded region represents the 95% confidence interval (CI). 
+4.4.3 Potential effect of CrCL on PFS 
+There was an apparently significant difference in PFS by Region, Prior Therapy and CrCL (≥60 
+mL/min vs. <60 mL/min). To evaluate a potential effect of those identified covariates on ixazomib 
+PK, boxplots were generated. 
+ 
+ 
+Figure 27. Boxplots for average daily AUC of ixazomib by Region, Number of prior lines of therapy, and 
+Creatinine Clearance.  
+ 
+ 
+Reference ID: 3843176
+
+
+===== PAGE 68 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 67 of 88 
+ 
+Figure 30. 
+Estimated effect on covariates on ixazomib exposure based on  
+ 
+ 
+ 
+reviewer’s analysis including the NCI criteria for hepatic  
+ 
+ 
+ 
+impairment.  
+Note: 
+Estimated influence of covariates on ixazomib area under the curve (AUC). Circles and 
+ 
+lines are estimates of the mean effect and 95% confidence interval (CI); The black 
+ 
+horizontal lines represent no change and ±20% change in AUC. The red vertical lines 
+ 
+represent reviewer’s estimates of the boundaries of therapeutic exposure. The lower line is 
+ 
+based on the observed effect of rifampicin (RIF) on ixazomib from study C16009, (0.26 
+ 
+[0.18-0.37]). The higher line is based on the estimated exposure at the maximum tolerated 
+ 
+dose (MTD), of 5.5 mg, estimated by dose proportionality principles. Estimated exposures 
+ 
+are relative to the typical patient. The typical patient was a white 65 year old man with a 
+ 
+BSA of 1.87 m2, 83.5 ml/min creatinine clearance, with normal hepatic function based on 
+ 
+NCI criteria, and not taking concomitant CYP1A2 inhibitors. Combinations of several 
+ 
+covariate characteristics may result in higher exposure than what is seen in the plot.   
+  
+Source: Model: run28.mod 
+ 
+Dataset: MLN9708_PK_20150331.csv 
+ 
+R script: run28_sim_uncert.R 
+ 
+ 
+ 
+ 
+Reference ID: 3843176
+
+
+===== PAGE 73 =====
+
+ 
+ 
+ NDA 208462 
+ 
+ 
+Page 72 of 88 
+ 
+a Upper limit of normal  (17.1 μM total bilirubin) 
+b Mild impairment is defined as total bilirubin >1-1.5 x ULN by the applicant 
+c Mild renal impairment; Creatinine clearance  60-89 mL/min, Moderate renal impairment Creatinine clearance  30-59 mL/min, Severe renal 
+impairment Creatinine clearance  15-29 mL/min 
+d Effect size is estimated based on linear regression of post-hoc estimates of individual AUC.   
+2 RESULTS OF SPONSOR’S ANALYSIS 
+The analysis included data from seven Phase 1 studies (C16001, C16002, C16003, C16004, C16007, 
+C16013, and TB-MC010034), two Phase 1/2 studies (C16005, C16008) and one Phase 3 study 
+(C16010), Table 33. Applicant’s narratives of the trials are listed in Table 34.   
+ 
+The applicant developed a population PK model based on the 10 studies listed above. Covariates 
+were selected for inclusion into the final population PK model based on a pre-defined list of relevant 
+parameter-covariate relationships. All covariates were included in the analysis dataset as subject-
+specific baseline covariates, except CYP-modulatory concomitant drugs which were included as 
+time-dependent covariates. Univariate and multivariate covariates were tested for significance 
+based on the likelihood ratio test and included if they were found to be statistically significant and 
+reduced the corresponding random effect variance by more than 10%. The final model was 
+constructed using a forward-selection (p<0.01), backward-elimination method (p<0.001).  
+ 
+The observed ixazomib IV and oral plasma concentration data were described by a three 
+compartment model with linear distribution and elimination kinetics, including first order linear 
+absorption with lag time describing the oral dose PK profile. The developed model included log-
+normally distributed patient-level random effects on systemic clearance (CL), absolute 
+bioavailability of an oral dose (F), and volume of the second peripheral compartment (V4). Residual 
+unexplained variability of the log transformed ixazomib plasma concentration was described by an 
+additive error model with time-varying variance. 
+ 
+Body surface area (BSA) on V4 was included as the only patient covariate in the final model. 
+Inclusion of BSA explained 12.6% of the variability on V4. Patients at the 5th and 95th percentiles 
+of BSA were predicted to have 37% lower and 46% higher V4, respectively, than the median 
+patient. BSA does not impact AUC∞ as BSA was not identified as a covariate on CL. 
+ 
+Other patient covariates, including sex, age, race, mild or moderate renal impairment (creatinine 
+clearance > 30 mL/min), mild hepatic impairment (total bilirubin 1-1.5 times ULN), and smoking 
+status, were not found to impact ixazomib pharmacokinetics, suggesting that no dose adjustment is 
+required based on these covariates. Additionally, there was no effect of either CYP1A2 or 
+CYP3A4-modulatory concomitant drugs (as a time varying covariate) on the PK of ixazomib. 
+Tested covariate-parameter relationships are summarized in Table 32. Final parameter estimates 
+are shown in Table 39. Selection of goodness of fit plots provided by the applicant is shown in 
+Figure 32. Plots of applicant’s estimate of covariate effect are also shown in Figure 33. 
+Source:  Population PK report, Synopsis 
+ 
+Figure 32. 
+Selected goodness of fit plots provided by the applicant 
+Reference ID: 3843176

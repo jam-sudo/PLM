@@ -1,0 +1,2067 @@
+
+
+===== PAGE 3 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+2 
+2.4 
+Extrinsic Factors............................................................................................31 
+2.5 
+General Biopharmaceutics ............................................................................36 
+2.6 
+Analytical Section .........................................................................................39 
+3 
+Appendices................................................................................................................41 
+3.1 
+Pharmacometrics Review..............................................................................41 
+ 
+List of Tables 
+ 
+Table 1.   Summary of the Pivotal and the Supportive Efficacy Trials ......................................9 
+Table 2.   Overview of Clinical Pharmacology Related Trials Submitted in the NDA............10 
+Table 3.   Pharmacokinetic Parameters of Single Dose Bosutinib in Healthy Volunteers.......19 
+Table 4.   Pharmacokinetic Parameters of Single Dose Bosutinib in Cancer Patients .............19 
+Table 5.   Pharmacokinetic Parameters of Multiple Dose Bosutinib in Cancer Patients..........20 
+Table 6.   Statistical Analysis of Dose-Normalized Pharmacokinetic Parameters Estimated 
+for Single Doses of Bosutinib Ranging from 200 – 800 mg Taken with a High Fat 
+Meal in Healthy Volunteers in Trial 3160A1-103-EU .............................................24 
+Table 7.   Statistical Analysis of Dose-Normalized Pharmacokinetic Parameters Estimated 
+for Single Doses of Bosutinib Ranging from 100 – 600 mg Taken with a High Fat 
+Meal and Ketoconazole in Healthy Volunteers in Trial 3160A4-1114-EU..............24 
+Table 8.   Summary of Bosutinib Pharmacokinetic Parameters Following a Single Oral Dose 
+of Bosutinib 200 mg in Child-Pugh Class A, B and C and in Healthy Volunteers...28 
+Table 9.   Response in Patients With and Without Bcr-Abl Mutations at Baseline .................29 
+Table 10. Summary of Bosutinib Trials Evaluating the Effect of a Strong CYP3A4 Inhibitor 
+and a Strong CYP3A4 Inducer..................................................................................32 
+Table 11. Summary of Bosutinib Pharmacokinetic Parameters Following a Single 100 mg 
+Dose of Bosutinib Alone or in Combination with Ketoconazole in Healthy 
+Volunteers in Trial 3160A4-104-US.........................................................................33 
+Table 12. Summary of Bosutinib Pharmacokinetic Parameters Following Single Ascending 
+Oral Doses of Bosutinib in Combination with Ketoconazole in Healthy Volunteers 
+in Trial 3160A4-1114-EU. ........................................................................................34 
+Table 13. Summary of Mean PK Parameters of Bosutinib after a Single Oral Dose of 
+Bosutinib 500 mg Alone and in Combination With Multiple Oral Doses of 
+Ketoconazole 400 mg in Healthy Volunteers Under Fed Conditions in Trial 
+3160A4-105-US. .......................................................................................................34 
+Reference ID: 3165861
+
+
+===== PAGE 4 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+3 
+Table 14. Simcyp Simulations of the Effect of CYP3A inhibitors on Bosutinib PK...............34 
+Table 15. Summary of Bosutinib Pharmacokinetic Parameters Following a Single Oral Dose 
+of Bosutinib Either Alone or in Combination with Rifampin in Healthy Volunteers 
+in Trial 3160A4-1106-US.... .....................................................................................35 
+Table 16. Solubility of Bosutinib in Different Aqueous Media at 37°C Across the pH Range 
+of 1 - 8 ..... .................................................................................................................36 
+Table 17. Permeability of Bosutinib in Caco-2 Monolayers Incubated for 2 Hours at 37°C...36 
+Table 18. Composition of Bosutinib 100 and 500 mg Film Coated Tablets.............................37 
+Table 19. Bosutinib Mean Pharmacokinetic Parameters Following a Single Oral Dose of 
+400 mg Bosutinib Administered Fasting or with a High Fat Meal in Healthy 
+Volunteers. ................................................................................................................38 
+Table 20. Summary of the LC/MS/MS Analytical Methods for Bosutinib and its Major 
+Metabolites................................................................................................................40 
+ 
+List of Figures 
+ 
+Figure 1. Structural Formula of Bosutinib Monohydrate ...........................................................8 
+Figure 2. Plot Showing that Probability of Major Cytogenetic Response at 24 Weeks Does 
+Not Increase With Increasing Bosutinib Exposure ...................................................12 
+Figure 3. Exposure-Response Plot for Grade 3+ Rash  ...........................................................13 
+Figure 4. Plot Showing That an Exposure-Response Relationship for Grade 3+ Diarrhea was 
+Observed....................................................................................................................14 
+Figure 5. A Plot Showing the Sponsor’s Exposure-Response Analysis for Diarrhea that 
+Suggests an Exposure-Response Relationship Exists  .............................................14 
+Figure 6. Plots Showing no Exposure-Response Relationships Were Observed for Grade 3+ 
+Thrombocytopenia (Left Panel) or Neutropenia (Right Panel) ................................15 
+ Figure 7. Plots Showing no Exposure-Response Relationships Were Observed for Grade 3+ 
+Nausea (Left Panel) or Vomiting (Right Panel)  ......................................................15 
+Figure 8. Plot Showing No Exposure-Response Relationships Were Observed for Grade 3+ 
+Increases in Alanine Aminotransferases (ALT, Left Panel) or Aspartate 
+Aminotransferases (AST, Right Panel).....................................................................16 
+Figure 9. The Proposed Metabolic Pathways for Bosutinib Based on Metabolites Observed                
+in Human Plasma, Urine and Feces in Trial # 3160A4-1112-US.............................22 
+Figure 10. Bosutinib Individual and Mean AUC Values versus Dose after Administration of 
+Single Ascending Oral Doses of Bosutinib to Healthy Subjects Under Fed 
+Reference ID: 3165861
+
+
+===== PAGE 5 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+4 
+Conditions (Trial # 3160A1-103-EU).......................................................................23 
+Figure 11. Plot Showing Bosutinib Clearance is Reduced Approximately 30% in CML                 
+Patients with Moderate Renal Impairment  ..............................................................25 
+Figure 12. Plot Showing Bosutinib Clearance Is Correlated with Weight...............................26 
+Figure 13. Plot Showing that Race or Gender Do Not Affect Bosutinib Clearance  ...............26 
+Figure 14. Plot Showing Age Does Not Affect Bosutinib CL..................................................27 
+Figure 15. Mean Concentration versus Time Profile of Bosutinib in Plasma Following a                  
+Single 100 mg Oral Dose of Bosutinib Alone or in Combination with                  
+Ketoconazole (Keto) in Healthy Volunteers in Trial 3160A4-104-US ....................33 
+Figure 16. Bosutinib Mean (±SD) Plasma Concentration-Time Profiles Following a Single                  
+Oral 400 mg Dose of Bosutinib Administered Fasting and with a High Fat Meal                  
+in Healthy Volunteers................................................................................................38 
+  
+Reference ID: 3165861
+
+
+===== PAGE 7 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+6 
+1.3 
+Summary of Clinical Pharmacology Findings 
+ 
+Bosutinib is a tyrosine kinase inhibitor (TKI), specifically an inhibitor of Bcr-Abl and the Src-
+family kinases including Src, Lyn and Hck. Bosutinib is proposed for the treatment of chronic 
+phase (CP), accelerated phase (AP) or blast phase (BP) Ph+ chronic myelogenous leukemia 
+(CML) in adult patients with resistance or intolerance to prior therapy. The proposed oral dosing 
+regimen is 500 mg once daily taken with food. 
+ 
+A pivotal phase 1/2 trial and a supportive phase 3 trial were submitted to support the proposed 
+indication and dosing regimen. Data from a total of 15 single and multiple dose trials were 
+submitted to support the Clinical Pharmacology Section of the NDA. The single dose trials were 
+performed in healthy volunteers and consisted of three bioequivalence trials, a dose escalation 
+trial, a food effect trial, a mass balance trial, a thorough QT trial, a hepatic impairment trial and 
+four drug interaction trials. Multiple dose PK data were available from two dose escalation trials 
+in patients with solid tumors and sparse PK data were also available from the pivotal phase 2 
+trial.  
+ 
+Bosutinib exhibits approximately linear PK in the dose range of 200 – 800 mg. The median Tmax 
+in cancer patients ranged from 3 to 6 hours. The mean elimination half-life of bosutinib after a 
+single dose in patients ranged from 19 to 30 hours. The mean accumulation ratio observed 
+ranged from 2 – 3 at steady-state. In a food-effect trial, a high-fat meal caused a 2-fold increase 
+in exposure. Food also increased tolerability to bosutinib in a dose escalation trial, as such, 
+bosutinib was co-administered with food in patient trials. Based on an oral mass balance trial, 
+radioactivity recoveries in feces and urine were 91% and 3%, respectively. The absolute 
+bioavailability of bosutinib has not been determined. 
+ 
+Bosutinib is primarily metabolized by CYP3A4. Concomitant ketoconazole (strong CYP3A4 
+inhibitor) increased bosutinib Cmax 5-fold and AUC 9-fold.  Concomitant rifampin (strong 
+CYP3A4 inducer) decreased the Cmax and AUC of bosutinib by 86% and 94%, respectively. 
+Therefore, the use of strong and moderate CYP3A4 inhibitors and inducers should be avoided. 
+Simulation with Simcyp predicted that moderate CYP3A4 inhibitors could increase exposure to 
+bosutinib 2 - 5 fold. A PMR will be issued in order to evaluate, in humans, the influence of 
+moderate CYP3A4 inhibitors on the exposure to bosutinib so as to identify an appropriate dose 
+for concomitant administration with such drugs. In vitro, bosutinib is a substrate and an inhibitor 
+of P-gp.  A 2-fold increase in exposures was observed in patients with hepatic impairment.  A 
+dose adjustment to 200 mg is recommended in patients with mild, moderate and severe hepatic 
+impairment.  
+ 
+No exposure-response relationships for effectiveness or safety were observed.  No exposure-
+response relationship was observed for the primary endpoint of MCYR at 24 weeks in CML 
+patients randomized to receive 500 mg bosutinib.  No clinically meaningful exposure-response 
+relationships were identified for grade 3 or higher rash, diarrhea, neutropenia, thrombocytopenia, 
+nausea, vomiting and increases in liver transaminase levels. In a thorough QT trial bosutinib did 
+not cause significant changes in placebo adjusted, baseline-corrected QTc. 
+ 
+Reference ID: 3165861
+
+
+===== PAGE 12 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+11 
+2.2.2 What is the basis for selecting the response endpoints (i.e., clinical or surrogate 
+endpoints) or biomarkers (collectively called pharmacodynamics (PD)) and how are they 
+measured in clinical pharmacology and clinical trials? 
+ 
+The primary endpoint for the pivotal trial was MCyR at 24 weeks in the imatinib-resistant 
+second-line CP CML population. MCyR was the primary endpoint used in the pivotal trials for 
+both currently approved tyrosine kinase inhibitors (dasatinib and nilotinib) in CP CML after 
+prior imatinib failure. In the submitted pivotal trial, cytogenetic status was determined based on 
+the ratio of the number of Ph+ cells to the number of cells analyzed. MCyR at week 24 
+considered those with a partial and complete response at that specific time point.  
+ 
+MCyR at 24 weeks was also used as the efficacy endpoint in third line CP CML. Overall 
+hematologic response (OHR) was used as the efficacy end point in AP and BP Ph+ CML. OHR 
+included complete hematologic responses (CHR), no evidence of leukemia (NEL), minor 
+hematologic response (MiHR) and return to chronic phase (RCP). Hematologic responses were 
+based on peripheral blood assessments and clinical assessments of extramedullary disease. 
+ 
+In the pivotal trial, the primary efficacy endpoint was MCyR rate at Week 24 in imatinib-
+resistant second-line CP CML subjects. The MCyR rate was 35.5% (90% CI: 29.7, 41.7) with a 
+1-sided p<0.001.  For third-line CP CML patients, the MCyR at Week 24 was 26.9%.  The 
+overall hematologic response rate at 48 weeks was 55.1% in AP CML patients and 28.3% in BP 
+CML patients. The supportive trial (3160A4-3000-WW) was a phase 3 trial in the 1st line setting 
+in which bosutinib failed to show superiority to imatinib with an adjusted odds ratio estimate of 
+complete cytogenetic response (CCyR) at 1 year of 1.10 (95% CI: 0.74, 1.63). 
+ 
+2.2.3 Are the active moieties in the plasma (or other biological fluid) appropriately 
+identified and measured to assess pharmacokinetic parameters and exposure response 
+relationships? 
+ 
+Yes. Plasma samples from clinical trials were assessed for the parent drug (bosutinib) which is 
+the active moiety. Several of the clinical trials assessed exposures to the major metabolites, M2 
+and M5, which are inactive (please refer to the pharmacology review for more details). M2 and 
+M5 were the major metabolites found in plasma in the mass balance trial and pharmacokinetic 
+trials such as 3160A4-1106-US. The mean AUC ratio of metabolites to parent drug was 0.196 
+for M2 and 0.251 for M5.  
+ 
+Exposure Response 
+ 
+2.2.4 What are the characteristics of the exposure-response relationships (dose-response, 
+concentration-response) for efficacy?   
+ 
+No exposure-response relationship was observed for the primary endpoint of major cytogenetic 
+response (MCYR) at 24 weeks (Figure 2) in CML patients randomized to receive 500 mg 
+bosutinib. The efficacy analysis for the pivotal trial # 3160A4-200-WW used patients that were 
+imatinib resistant or imatinib intolerant and had evaluable PK data (266 subjects).  The sponsor 
+conducted a logistic regression analysis of the data and their final logistic model indicates there 
+Reference ID: 3165861
+
+
+===== PAGE 14 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+13 
+Figure 3:  Exposure-Response Plot for Grade 3+ Rash 
+ 
+ 
+Text on the plot describes the logistic model equation and p-value for the coefficient on 
+bosutinib exposure.  Blue symbols are the probability of having grade 3+ rash by 
+exposure bins.  Ten exposure bins were assigned, each containing data from 75 
+individuals.  The solid line and green shaded area indicate the logistic model prediction 
+and 90% confidence interval of the model prediction. Vertical bars denote the range of 
+bosutinib AUC values in each exposure bin 
+ 
+ 
+Grade 3+ diarrhea events did not increase with increasing bosutinib exposures (Figure 4).  
+Whereas, the sponsor’s analysis suggests there is an exposure-response relationship for Grade 1+ 
+diarrhea events (Figure 5).  This may potentially be explained by the lower number of patients 
+with Grade 3+ events (n=68) compared with the Grade 1+ events (n=567) creating more 
+uncertainty in the analysis. 
+ 
+The primary differences between the reviewers and sponsor’s analyses were: 
+ The reviewer’s analysis evaluated Grade 3 events or higher 
+ The reviewer’s analysis calculated the individual bosutinib AUC values based on the time-
+averaged dose prior to the occurrence of the adverse event. 
+AUCi = Dosei/CLi 
+where the subscript i refers to the individual, Dose refers to the time-average dose prior to 
+the adverse event and CL refers to bosutinib clearance. 
+The sponsor’s analysis used the mode dose for the individual regardless of when the adverse 
+event occurred. 
+ 
+ 
+ 
+Reference ID: 3165861
+
+
+===== PAGE 20 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+19 
+Table 3: Pharmacokinetic Parameters of Single Dose Bosutinib in Healthy Volunteers  
+Trial 
+Dose Regimen 
+N 
+Cmax 
+(ng/mL) 
+AUC 
+(ng*hr/mL) 
+Tmax (hr)
+T1/2 (hr) 
+CL/F (L/hr) 
+103-EU 
+Caps 
+200 mg (Fasted) 
+200 mg (High fat) 
+400 mg (Fasted) 
+400 mg (High fat) 
+600 mg (High fat) 
+800 mg (High fat) 
+6 
+6 
+12 
+6 
+6 
+5 
+16.9 ± 11.3 
+42.5 ± 10.3 
+62.1 ± 40.8 
+88.0 ± 23.1 
+141 ± 48.2 
+216 ± 85.8 
+474 ± 116 
+1080 ± 326 
+1150 ± 625 
+1770 ± 292 
+2960 ± 681 
+4000 ± 1530 
+6 (3-36) 
+6 (3-8) 
+3 (2-6) 
+6 (4-6) 
+6 (4-24) 
+6 (4-8) 
+42.0 ± 3.4 
+39.1 ± 12.7 
+37.3 ± 10.1 
+32.4 ± 8.6 
+32.6 ± 6.7 
+33.8 ± 8.2 
+443 ± 102 
+199 ± 61 
+462 ± 266 
+231 ± 34 
+214 ± 58 
+246 ± 156 
+1110-
+US 
+Tablet 
+400 mg (fasted) 
+400 mg (High fat) 
+24 
+23 
+55.9 ± 29.6 
+89.5 ± 24.1 
+1310 ± 598 
+2060 ± 448 
+6 (3-8) 
+6 (2-8) 
+35.5 ± 11.2 
+31.9 ± 5.9 
+369 ± 168 
+204 ± 45 
+300 mg (fasted) 
+Commercial 
+27 
+43.9 ± 18.3 
+ 
+1160 ± 424 
+ 
+6 (2-8) 
+ 
+36.6 ± 10.8 
+ 
+294 ± 106 
+ 
+1115-
+US 
+Tablet 
+300 mg (fasted) 
+Clinical tablet 
+28 
+44.9 ± 20.9 
+1200 ± 498 
+6 (2-7) 
+35.5 ± 7.5 
+330 ± 295 
+500 mg (medium-
+fat) Commercial 
+ 
+31 
+89.0 ± 35.8 
+ 
+2140 ± 837 
+ 
+3 (1-7) 
+ 
+31.5 ± 6.4 
+ 
+277 ± 125 
+ 
+1120-
+US 
+Tablet 
+500 mg (medium-
+fat) Clinical tablet 
+30 
+83.2 ± 36.6 
+2070 ± 749 
+3.5 (1-
+12) 
+32.5 ± 5.7 
+277 ± 111 
+PK parameters presented as Mean ± SD except Tmax is presented as Median (min- max) 
+ 
+Table 4: Summary of (Mean±SD) Pharmacokinetic Parameters of Single Dose Bosutinib in Cancer 
+Patients 
+Trial 
+Dose 
+(mg) 
+N 
+Cmax (ng/mL) 
+ 
+AUC 
+(ng*hr/mL) 
+Tmax
+a (hr) 
+T1/2 (hr) 
+CL/F (L/hr) 
+100-US 
+50 
+100 
+200 
+300 
+400 
+500 
+600 
+4 
+4 
+6 
+7 
+54 
+13 
+10 
+4.89 ± 3.69 
+17.0 ± 9.8 
+43.1 ± 26.9 
+63.7 ± 34.7 
+117 ± 69 
+125 ± 63 
+206 ± 190 
+129 ± 131b 
+284 ± 73 
+920 ± 338 
+1200 ± 736 
+2340 ± 1230c 
+2950 ± 1470 
+4300 ± 3310 
+6 (4-8) 
+4 (2-6) 
+6 (2-8) 
+6 (3-6) 
+4 (1-9) 
+4 (2-8) 
+6 (1-8) 
+12.9 ± 7.4b 
+18.6 ± 4.9 
+20.8 ± 6.1 
+17.1 ± 6.0 
+18.6 ± 7.7c 
+21.9 ± 7.4 
+19.9 ± 5.5 
+721 ± 535b 
+366 ± 75 
+242 ± 81 
+419 ± 412 
+260 ± 318c 
+207 ± 89 
+207 ± 118 
+200-WW 
+(Pivotal 
+Trial) 
+400 
+500 
+600 
+3 
+3 
+12 
+89.3 ± 50.0 
+101 ± 35.6 
+120 ± 40.2 
+2530d 
+2760 ± 687 
+2420 ± 457f 
+4 (3-48) 
+6 (6-6) 
+4 (2-49) 
+22.9d 
+22.5 ± 1.7 
+22.2 ± 5.0f 
+177d  
+189 ± 48 
+258 ± 61f 
+aMedian (min - max); bN = 3; cN = 47; dN = 2, SD not calculated and eN = 8 
+ 
+Multiple Dose PK in Cancer Patients 
+ 
+Multiple dose PK (Table 5) is summarized from the two trials discussed under the section on 
+single dose PK in patients. The dose ranges included were 50 – 600 mg daily. Following 
+multiple dose administration, the mean accumulation ratio observed compared to single dose PK 
+ranged from 2 – 3. Overall, the PK parameters showed high inter-subject variability. 
+ 
+Reference ID: 3165861
+
+
+===== PAGE 21 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+20 
+Table 5: Summary of (Mean±SD) Pharmacokinetic Parameters of Multiple Dose Bosutinib in Cancer 
+Patients  
+Trial 
+Dose 
+(mg) 
+N 
+Cmax 
+(ng/mL) 
+AUC 
+(ng*hr/mL) 
+Tmax
+a (hr) 
+T1/2 (hr) 
+CL/F (L/hr) 
+100-US 
+50 
+100 
+200 
+300 
+400 
+500 
+600 
+3 
+4 
+5 
+5 
+69 
+10 
+2 
+6.9 ± 3.1 
+19.6 ± 3.3 
+95.4 ± 60.0 
+76.6 ± 37.0 
+190 ± 116 
+273 ± 197 
+182, 425 
+114 ± 33 
+329 ± 58 
+1670 ± 1130 
+1170 ± 699b 
+2900 ± 1700d 
+3580 ± 1820e 
+3160, 5280 
+4 (3-6) 
+3.5 (2-4) 
+4 (3-6) 
+4 (3-6) 
+4 (1-8) 
+5 (1-8) 
+3.5 (3-4) 
+25.8 ± 12.3 
+64.7 ± 67.3 
+30.0 ± 20.1 
+19.4 ± 7.5 b 
+19.9 ± 16.7c 
+23.3 ± 15.0e 
+21.4, 11.2 
+467 ±148 
+310 ±49 
+162 ±93 
+361 ±264 b 
+180 ±103d 
+186 ±113e 
+190, 114 
+200-WW 
+(Pivotal 
+Trial) 
+400 
+500 
+600 
+3 
+3 
+12 
+146 ± 20 
+200 ± 12 
+208 ± 73 
+2720 ± 442 
+3650 ± 425 
+3630 ± 1270l 
+4 (3-6) 
+6 (4-8) 
+6 (3-11) 
+46.0 ± 32.3 
+21.7 ± 4.6 
+25.9 ± 24.9k 
+150 ± 23 
+138 ± 17 
+185 ± 66l 
+aMedian (min- max); bN=4;  cN=53; dN=58; eN=9; fN=7; gN=9 
+ 
+2.2.10 How does the PK of the drug and its major active metabolites in healthy volunteers 
+compare to that in patients? 
+ 
+The single dose exposures appear to be comparable between healthy volunteers and cancer 
+patients as shown in Section 2.2.9. Multiple doses were not used in healthy volunteer trials.  
+ 
+2.2.11 What are the characteristics of drug absorption? 
+ 
+The mean Tmax of bosutinib ranged from 3.5 – 6 hours in cancer patients. Based on low solubility 
+and permeability, bosutinib monohydrate can be classified as a BCS Class IV compound (see 
+Section 2.5.1 of the review for more discussion). The absolute bioavailability has not been 
+established. BCS Class IV compounds generally have poor and highly variable bioavailability. 
+Based on an in vitro study (RPT-71680) with Caco-2 cells, bosutinib is a substrate and an 
+inhibitor of P-gp. In the food effect trial # 3160A4-1110-US, a high-fat meal increased bosutinib 
+AUC 1.7-fold and Cmax 1.8-fold compared with bosutinib administration under fasting conditions 
+(Table 19). 
+ 
+2.2.12 What are the characteristics of drug distribution? 
+ 
+Plasma Protein Binding: Bosutinib is highly bound to plasma proteins in vitro (94 - 96%). 
+Protein binding of bosutinib was not observed to be concentration dependant (100, 1 000 and 10 
+000 ng/mL). Bosutinib was found to bind to human serum albumin (HSA) 95.4 % and to α1-acid 
+glycoprotein (AGP) 71.4%. In the dedicated hepatic impairment Trial # 3160A4-1111-EU, 
+plasma protein binding was found to be similar in healthy volunteers and those with mild, 
+moderate and severe hepatic impairment (>99% binding). 
+ 
+Blood to Plasma Ratio: In vitro, the whole blood to plasma ratio for bosutinib was approximately 
+1.2 at the concentration of 1 µM (0.53 µg/mL). In the human mass balance trial 3160A4-1112-
+US, the mean whole blood to plasma ratio could not be determined due to the low dose of 
+radioactivity used.  
+ 
+Reference ID: 3165861
+
+
+===== PAGE 22 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+21 
+Tissue Distribution: The apparent volume of distribution (Vd) based on single dose PK in cancer 
+patients was 6 000 – 11 000 L, which may suggest that bosutinib is extensively distributed to 
+peripheral tissues. However, the Vd may be overestimated if the bioavailability of bosutinib is 
+low. An absolute bioavailability study has not been performed, but bosutinib likely has low 
+bioavailability because it is a BCS Class IV compound.  
+ 
+Transporter Proteins: Based on an in vitro study (RPT-71680) with Caco-2 cells, bosutinib is a 
+substrate of P-gp with concentration dependant permeability (1, 10 and 100 μM). This was 
+confirmed in the in vitro study RPT-80268. Bosutinib is an inhibitor of P-gp with an IC50 of 2 
+μM, in vitro. The I/Ki (I based on steady-state Cmax of 270 ng/mL at the 500 mg dose and Ki 
+assumed to be IC50/2) was approximately 0.5. Based on the I/Ki of >0.1, it has the potential to 
+inhibit P-gp in humans. Other transporter proteins have not been evaluated. 
+ 
+2.2.13 Does the mass balance trial suggest renal or hepatic as the major route of 
+elimination?  
+ 
+In the mass balance trial (3160A4-1112-US), six healthy male volunteers received 500 mg  of  
+oral 14C-labeled bosutinib. Each volunteer was supposed to receive 0.1 µCi of 14C-labeled 
+bosutinib, but due to a pharmacy calculation error, the radioactivity dose was 0.01 µCi. 
+ 
+The urine samples were pooled from 0 – 24 hours and the fecal samples were pooled for 0 – 24 
+hours and from 24 – 144 hours for analysis. The pooling was done due to the low radioactivity 
+dose administered. The total radioactivity recovered over 216 hours was 94.6±7.49 % (range of 
+82.6 – 104 %) of the total dose, with 91.3±8.39% (range 79.4 – 102.5%) recovered in feces and 
+3.29±1.4% (range 1.54 – 5.73) recovered in urine.  
+ 
+Since the absolute bioavailability of bosutinib was not assessed, it is not clear what proportion 
+the administered dose recovered in feces was excreted following systemic absorption. Based on 
+metabolic profiling of the samples from this mass balance trial (reported in RPT-79197), the 
+parent drug bosutinib (up to 40%) and its metabolites M5 (up to 22 %) and M2 (up to 7.3%) 
+were detected in feces. Bosutinib (72%) and M2 (7.5%) were detected in urine. Due to the low 
+radioactivity dose, the relative distribution of the moieties based on radioactivity could not be 
+assessed in the blood or plasma. However, the plasma PK parameters as assessed by LC/MS/MS 
+were similar in this mass balance trial as those seen in trial 3160A4-1106-US (all three moieties 
+were assessed in this trial). The mean AUC ratio of metabolites to parent drug was 0.196 for M2 
+and 0.251 for M5. The parent drug appears to be the major moiety in plasma.  
+ 
+2.2.14 What are the characteristics of drug metabolism?   
+ 
+Bosutinib is primarily metabolized by CYP3A4.  The main circulating metabolites in human 
+plasma are M2 (oxydechlorinated bosutinib) and M5 (N-desmethyl bosutinib). The mean AUC 
+ratio of metabolites to parent drug was 0.196 for M2 and 0.251 for M5.  
+ 
+In vitro 
+ 
+Metabolic Profiling and Identification: Based on the metabolic profiling of samples from the 
+Reference ID: 3165861
+
+
+===== PAGE 24 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+23 
+Figure 10: Bosutinib Individual and Mean AUC Values versus Dose after Administration of Single 
+Ascending Oral Doses of Bosutinib to Healthy Subjects Under Fed Conditions (Trial # 3160A1-103-EU) 
+ 
+Source: Figure 3-3 from Page 65 in summary-clin-pharm.pdf 
+ 
+In addition, the reviewer used a linear fixed effects model in Phoenix WinNonLin to assess 
+proportionality using data from trials 103-EU and 1114-EU. For the trial 103-EU data, the tests 
+to reference ratios were within the 80 – 125% confidence interval limits for Cmax and AUC 
+(Table 6). For the data from trial 1114-EU, the test to reference ratios were within the 80 – 
+125% confidence interval limits for Cmax and AUC for most dose levels, but the AUC ratio was 
+130 for the 600 mg (Table 7). However, taken together, the totality of data from both trials 
+suggests the Cmax and AUC of bosutinib increase in proportion with the dose.  
+Reference ID: 3165861
+
+
+===== PAGE 25 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+24 
+Table 6: Statistical Analysis of Dose-Normalized Pharmacokinetic Parameters Estimated for Single 
+Doses of Bosutinib Ranging from 200 – 800 mg Taken with a High Fat Meal in Healthy Volunteers in 
+Trial 3160A1-103-EU 
+PK Parameter 
+Dose 
+LS Mean (normalized to 
+200 mg) 
+Test/Ref Ratio 
+(%) 
+90% CI 
+200 ( Ref) 
+41.29 
+ 
+ 
+400 
+42.85 
+103.79 
+(70.93, 151.87) 
+600 
+44.39 
+107.51 
+(73.47, 157.32 
+Cmax (ng/mL) 
+800 
+48.76 
+118.08 
+(79.21, 176.03) 
+200 ( Ref) 
+1041.98 
+ 
+ 
+400 
+874.74 
+83.95 
+(61.10, 115.35) 
+600 
+962.67 
+92.39 
+(67.24, 126.95) 
+AUC∞  (hr*ng/mL) 
+800 
+919.12 
+88.21 
+(63.21, 123.10) 
+ 
+Table 7: Statistical Analysis of Dose-Normalized Pharmacokinetic Parameters Estimated After Single 
+Doses of Bosutinib Ranging from 100 – 600 mg Taken with a High Fat Meal and Ketoconazole in 
+Healthy Volunteers in Trial 3160A4-1114-EU 
+PK Parameter 
+Dose 
+LS Mean (normalized 
+to 100 mg) 
+Test/Ref Ratio 
+(%) 
+90% CI 
+100 ( Ref) 
+57.21 
+ 
+ 
+200 
+56.85 
+99.37 
+(67.88, 145.47) 
+300 
+59.16 
+103.40 
+(70.63, 151.36) 
+400 
+53.71 
+93.87 
+(64.13, 137.41) 
+500 
+70.79 
+123.74 
+(84.53, 181.13) 
+Cmax (ng/mL) 
+600 
+69.29 
+121.11 
+(82.73, 177.29) 
+ 
+100 ( Ref) 
+2887.32 
+ 
+ 
+200 
+3278.75 
+113.56 
+(83.14, 155.09) 
+300 
+2809.87 
+97.32 
+(71.25, 132.92) 
+400 
+2445.35 
+84.69 
+(62.01, 115.67) 
+500 
+3188.25 
+110.42 
+(80.85, 150.81) 
+AUC∞  (hr*ng/mL) 
+600 
+3778.24 
+130.86 
+(95.81, 178.72) 
+ 
+2.2.17 How do the PK parameters change with time following chronic dosing? 
+ 
+Mean accumulation ratios of 2 - 3 were observed at steady-state compared to single dose 
+exposures. The clearance appears to be the same after a single dose as with multiple doses. The 
+PK variability was high for both single and multiple dose PK (see Table 4 and Table 5).  
+ 
+2.2.18 What is the inter- and intra-subject variability of PK parameters in volunteers and   
+patients, and what are the major causes of variability? 
+ 
+High PK variability was observed in both the healthy volunteer and patient trials (CV of 58 - 
+73% in the patient population PK model). High variability was observed in some of the healthy 
+volunteer trials using an overnight fast before dosage administration. As such, some of the 
+bosutinib variability may be attributed to the BCS Class IV classification. BCS Class IV drugs 
+are generally considered to have poor and highly variable bioavailability. In the patient trials, 
+bosutinib was taken with non-standardized meals. Since a high-fat meal increases exposures 
+two-fold, the administration of bosutinib with non-standardized food may contribute to the high 
+inter-patient variability.  
+Reference ID: 3165861
+
+
+===== PAGE 27 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+26 
+Figure 12: Plot Showing Bosutinib Clearance and Volume of Distribution are Correlated with Weight 
+Weight (kg)
+Clearance (L/hr)
+100
+120
+140
+160
+50
+100
+150
+200
+|
+| | | | | | | |
+|
+|
+ 
+Weight (kg)
+Central volume of distribution (L)
+3500
+4000
+4500
+5000
+5500
+6000
+50
+100
+150
+200
+|
+| | | | | | | |
+|
+|
+ 
+Individual CL and Vd data from the sponsor’s final population PK model were assigned to ten quantiles by weight.  
+Data are shown as mean  S.D. 
+ 
+Relationship between Race, Gender or Age and Exposure: Race, gender and age do not 
+appear to influence the clearance of bosutinib.  
+ 
+Figure 13:  Plot Showing that Race or Gender Do Not Affect Bosutinib Clearance  
+-1
+0
+1
+2
+(N=615)
+(N=47)
+(N=151)
+(N=90)
+ 
+               White      Black      Asian     Other 
+Race 
+-1
+0
+1
+2
+(N=478)
+(N=425)
+ 
+                        Male                   Female 
+                             Gender 
+Individual CL data from the sponsor’s final population PK are shown by race category 
+ 
+Inter-Individual Variability for CL 
+Inter-Individual Variability for CL 
+Reference ID: 3165861
+
+
+===== PAGE 28 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+27 
+Figure 14:  Plot Showing Age Does Not Affect Bosutinib CL 
+Age (yr)
+Clearance (L/hr)
+100
+120
+140
+160
+20
+40
+60
+80
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+ 
+Individual CL data from the sponsor’s final population PK model were assigned to ten quantiles by weight.  Data 
+are shown as mean  S.D. 
+ 
+Relationship between Renal Impairment and Exposure: Variability in the PK data did not 
+permit a reliable assessment of the effect of creatinine clearance on the CL of bosutinib using 
+population PK analysis. Bosutinib clearance is reduced approximately 30% in CML patients 
+with moderate renal impairment (based on NCI criteria: CrCl of 20-39 mL/min) as shown in 
+Figure 11. Based on the mass balance trial, 3% of bosutinib was detected in urine. The exact 
+contribution of the renal route cannot be determined as the absolute bioavailability is not known. 
+See page 57 in Appendix 1 for further details on the evaluation of CRCL as a covariate on 
+bosutinib CL. 
+ 
+Relationship between Hepatic Impairment and Exposure: 
+ 
+Trial 3160A4-1111-EU was an open-label, single dose trial that evaluated the pharmacokinetics 
+and safety of bosutinib in volunteers with mild (Child-Pugh A), moderate (Child-Pugh B) and 
+severe (Child-Pugh C) hepatic impairment (N=6 each) and in matched healthy adults (N=9). 
+Each volunteer received a single 200 mg dose on day 1 given five minutes after completion of a 
+standardized medium fat breakfast (20% fat and 550 calories).  Blood samples were collected for 
+up to 96 hours post-dose. Blood samples were collected for protein binding analyses at 3, 6 and 
+24 hours post-dose.  
+ 
+Bosutinib Cmax and AUC increased by approximately 2-fold in those with Child Pugh A, B and C 
+hepatic impairment  as compared to the healthy volunteers. The median Tmax was decreased and 
+the mean elimination half-life increased in hepatic impairment (Table 8).  Plasma protein 
+binding was similar in healthy volunteers and in those with hepatic impairment (>99% binding).  
+ 
+The most frequently reported treatment emergent adverse events (TEAE) were prolonged QT 
+interval (N=10, 37%), nausea (N=3, 11%) and vomiting (N=2, 7.4%). QTc interval was > 450 
+Reference ID: 3165861
+
+
+===== PAGE 29 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+28 
+ms in 9 hepatically impaired patients (6 of the 9 patients in the Child-Pugh C group), although 
+none of the patients had a QTc interval > 450 ms at baseline.  Of these 9, five had increases > 30 
+msec (4 in Child-Pugh C), but no QTc prolongation > 60 msec was seen. The QT effects do not 
+appear to be associated with exposures since the Cmax and AUC of volunteers with QTc 
+prolongation were not higher than those without QTc prolongation. In addition, in the Thorough 
+QT trial, supra-therapeutic bosutinib exposures resulting from concomitant ketoconazole did not 
+result in clinically meaningful changes in the QT interval. Therefore, the mild QTc prolongation 
+signal observed in the hepatic impairment trial may not be clinically or mechanistically 
+meaningful.   
+ 
+The applicant proposes a dose adjustment to 200 mg in patients with hepatic impairment. This 
+dose adjustment appears to be reasonable based on the bosutinib exposure. These exposures will 
+be in a similar range as those seen at the 500 mg in the pivotal BE trial 1120-US that also used a 
+standard medium fat meal (30% fat).  
+ 
+Table 8: Summary of Bosutinib Pharmacokinetic Parameters Following a Single Oral Dose of Bosutinib 
+200 mg in Child-Pugh Class A, B and C and in Healthy Volunteers 
+PK Parameter 
+Healthy (N=9) 
+CP A (N=6) 
+CP B (N=6) 
+CP C (N=6) 
+Cmax (ng/mL) 
+34.0 ± 10.5 
+86.7 ± 45.5 
+68.4 ± 24.2 
+58.8 ± 41.4 
+LSGM Cmax (%) 
+N/A 
+242 (158 – 370) 
+199 (130 – 305) 
+152 (99 – 232) 
+Tmax (hr)a 
+4.0 (1.0 - 8.0) 
+2.5 (0.5 - 4.0) 
+2.0 (1.0 - 4.0) 
+1.5 (1.0 - 3.0) 
+T1/2 
+55.0 ± 15.8 
+85.7 ± 8.7 
+112.5 ± 37.9 
+111.1 ± 33.7 
+AUC0-∞ (ng*h/mL) 
+914 ± 334 
+1980 ± 450 
+1870 ± 688 
+1780 ± 778 
+LSGM AUC0-∞ (%) 
+N/A 
+225 (160 – 315) 
+200 (143 – 281) 
+191 (137 – 268) 
+Cl/F (L/h/kg) 
+3.0 ± 1.3 
+1.2  ± 0.4 
+1.5 ± 0.6 
+1.5 ± 0.4 
+ 
+Relationship between Mutations in the Drug Target and Response 
+ 
+Nearly 100 different Bcr-Abl mutations have been identified thus far. Bcr-Abl mutations have 
+been observed in approximately 35 to 45% of CML patients with imatinib resistance, although 
+the reported mutation frequency can vary based on the study and/or patient population.  Some of 
+the Bcr-Abl mutations have also been associated with resistance to dasatinib and nilotinib. In 
+particular, the T315I mutation is considered resistant to all the currently approved Bcr-Abl 
+inhibitors used to treat CML. Preliminary data from Trial 3160A4-200-WW suggest that CML 
+patients with a T315I Bcr-Abl mutation also show less favorable responses to bosutinib.  In 
+addition, in preclinical studies submitted by the applicant bosutinib did not have activity in 
+T315I and V299L Bcr-Abl mutant cells. 
+ 
+Bcr-Abl mutations in Trial 3160A4-200-WW:  
+ 
+Samples for Bcr-Abl mutational analysis were collected at screening and the end of treatment in 
+both the pivotal 3160A4-200-WW and the supportive phase 3 trial 3160A4-3000-WW. However, 
+mutation data from the supportive trial were not submitted due to low sample acquisition (< 10% 
+of patients at baseline and < 20% at the end of treatment). Mutational analysis was performed by 
+sequencing of the entire Bcr-Abl transcript. If bone marrow aspirate was not available, a 
+peripheral blood sample was acceptable.  
+ 
+Reference ID: 3165861
+
+
+===== PAGE 31 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+30 
+unknown mutation status to be enrolled. Four of the 31 patients positive for the T315I mutation 
+at baseline were enrolled after the amendment.  
+ 
+Since this amendment was included in the Trial 3160A4-200-WW protocol, we recommend that 
+the information regarding the amendment be included in Section 14.1 of the Bosulif® label 
+(Clinical Studies).  
+ 
+Treatment Emergent Bcr-Abl Mutations: Samples for analysis of Bcr-Abl mutations were 
+collected in 25% of patients during treatment in the pivotal trial. A new mutation (different from 
+mutations detected at baseline) was detected in 28% of analyzed patients.  T315I was the most 
+frequent new mutation (7/15, 47%) in the second line CP population and V299L (4/9, 44%) was 
+the most frequent in the third line CP population.  
+ 
+2.3.2  Based upon what is known about exposure-response relationships and their 
+variability and the groups studied, healthy volunteers vs. patients vs. specific populations, 
+what dose adjustments, if any, are recommended for each of these groups?  If dose 
+adjustments are not based upon exposure-response relationships, describe the alternative 
+basis for the recommendation.  
+ 
+Pediatric patients 
+ 
+Safety and effectiveness have not been established in pediatric patients. 
+ 
+Renal impairment 
+ 
+Based on the lack of exposure-response relationships for efficacy and safety (Sections 2.2.4 and 
+2.2.5), within the studied dose range, dose adjustment for the 30% reduction in bosutinib 
+clearance for patients with moderate renal impairment (based on NCI criteria: CrCl of 20-39 
+mL/min) are likely not necessary (Section 2.3.1).  Bosutinib has not been studied in patients with 
+CrCl < 20 ml/min. 
+ 
+Hepatic impairment 
+ 
+The applicant evaluated the relationship between hepatic impairment and exposure in Trial # 
+3160A4-1111-EU. Bosutinib Cmax and AUC increased by approximately 2-fold in those with 
+Child Pugh A, B and C hepatic impairment  as compared to the healthy volunteers (Section 
+2.3.1).  The applicant proposes a dose adjustment to 200 mg in patients with hepatic impairment. 
+This dose adjustment appears reasonable based on bosutinib exposure.  
+ 
+2.3.3 What pregnancy and lactation use information is there in the application? 
+ 
+The safety and effectiveness of bosutinib have not been established in pregnancy and in lactating 
+women.  
+ 
+2.4 
+EXTRINSIC FACTORS 
+ 
+Reference ID: 3165861
+
+
+===== PAGE 32 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+31 
+2.4.1 What extrinsic factors (drugs, herbal products, diet, smoking, and alcohol use) 
+influence dose-exposure and/or -response and what is the impact of any differences in 
+exposure on response? 
+ 
+The effects of extrinsic factors such as herbal products, diet, smoking and alcohol use on the 
+dose-exposure and/or dose-response for bosutinib were not assessed in a formal study. 
+ 
+Drug-drug interactions  
+ 
+2.4.2 Is there an in vitro basis to suspect in vivo drug-drug interactions? 
+ 
+As a CYP substrate: CYP3A4 is the major isozyme responsible for the metabolism of bosutinib. 
+The effect of a strong CYP3A4 inhibitor (ketoconazole) and an inducer (rifampin) on the PK 
+bosutinib were evaluated in humans. The clinical trials are discussed in Section 2.4.3. 
+ 
+As a CYP inhibitor or inducer: Based on in vitro studies, bosutinib is unlikely an inhibitor or 
+inducer of any of the major CYPs in humans at clinically relevant doses. Based on in vitro 
+experiment # RPT-53488, bosutinib inhibited CYP 3A4, 2C19 and 2D6 with Ki values of 27, 27 
+and 10 µM, respectively. The I/Ki at the 500 mg dose is approximately 0.05 for CYP2D6 which 
+is less than 0.1 and suggests that a clinically significant interaction is unlikely. Since CYP3A4 is 
+expressed in the GI the R value for gut exposure was considered for the 500 mg dose and was 
+approximately 1.1 [Rgut = 1+ ((500/250)/ (548) * 1000/27)], which is less than 11. CYP3A4 
+inhibition is unlikely in the gut or plasma. Based on in vitro experiment # RPT-79459, bosutinib 
+did not exhibit mechanism based (NADPH dependant) inhibition of CYP 2C9, 2C19, 2D6 or 3A. 
+Based on in vitro experiment # RPT-69677, bosutinib did not induce CYP 1A2, 2B6, 2C9, 2C19 
+or 3A4.  
+ 
+Based on pH dependant solubility: Bosutinib has pH dependant solubility, in vitro. The applicant 
+evaluated the effect of a proton pump inhibitor (PPI) on bosutinib in humans as discussed in 
+Section 2.4.6. 
+ 
+2.4.3 Is the drug a substrate of CYP enzymes in vivo?   
+ 
+Bosutinib is a CYP3A4 substrate, in vitro. Based on geometric mean ratios, up to a 5-fold 
+increase in Cmax and a 9-fold increase in AUC were observed when bosutinib was co-
+administered with ketoconazole as compared with bosutinib administered alone (Table 10). 
+Rifampin decreased the Cmax of bosutinib by 86% and the AUC by 94% compared to that 
+observed when bosutinib was dosed alone (Table 10). Therefore, the use of strong and moderate 
+CYP3A4 inhibitors and inducers should be avoided. In addition, a PMR will be issued to require 
+a trial with a moderate CYP3A4 inhibitor to identify an appropriate dose for concomitant 
+administration.   
+ 
+The effect of multiple dose ketoconazole on single dose bosutinib was evaluated in Trial 
+3160A4-104-US (bosutinib 100 mg under fasting conditions). In addition, Trial 3160A4-1114-
+EU (bosutinib 100 - 600 mg given with a standardized high-fat meal) and the through QT Trial # 
+3160A4-105-US give additional information regarding the effect of ketoconazole on the PK of 
+Reference ID: 3165861
+
+
+===== PAGE 33 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+32 
+bosutinib. The effect of multiple dose rifampin on single dose bosutinib was evaluated in Trial 
+3160A4-1106-US (bosutinib 500 mg given with a standardized medium fat meal). 
+ 
+Table 10: Summary of Bosutinib Trials Evaluating the Effect of a Strong CYP3A4 Inhibitor and a Strong 
+CYP3A4 Inducer 
+Trial 
+Dosing Regimen 
+Fold Change 
+Dedicated 
+Ketoconazole DDI  
+Trial 104-US (N=24) 
+Bosutinib 100 mg (over-night fast ) ± 
+Ketoconazole 400 mg dose 
+Cmax - ↑ 5.2 fold 
+AUC - ↑ 8.6 fold 
+ 
+Thorough QT Trial 
+105-US (N=60) 
+Part A: Single dose bosutinib 500 mg, 
+placebo or moxifloxacin 400 mg  
+Part B:  Single dose bosutinib 500 mg or 
+placebo  with a medium-fat meal  + 
+ketoconazole 400 mg 
+Cmax - ↑ 2.9 fold 
+AUC - ↑ 6.5 fold 
+ 
+Ketoconazole DDI 
+Trial 1114-EU (N=48) 
+Single dose bosutinib 100 – 600 mg on Day 
+2 with a high-fat meal ± ketoconazole 400 
+mg dose Days 1 - 5  
+Cmax - ↑ 3.3 fold 
+AUC - ↑ 7.3 fold 
+(cross study comparison at 
+500 mg dose) 
+Dedicated Rifampin 
+DDI Trial 1106-US 
+(N=24) 
+Single dose bosutinib 500 mg Days 1 and 14 
+with a medium-fat meal  ± Rifampin 600 mg 
+Days 8-17 
+Cmax - ↓ 7.3 fold 
+AUC - ↓ 13 fold 
+ 
+ 
+Ketoconazole: Trial 3160A4-104-US was an open-label, randomized, 2-treatment period, 2-
+sequence crossover trial in 24 healthy volunteers (dedicated drug interaction trial).  Bosutinib 
+100 mg oral capsule was dosed after an overnight fast of at least 10 hours on Day 1 of each 
+period. Ketoconazole 400 mg oral tablets were dosed on Days -1 through 4. Based on the 
+geometric mean, a 5.2-fold increase in Cmax and an 8.6-fold increase in AUC were observed 
+when bosutinib was co-administered with ketoconazole as compared with bosutinib administered 
+alone. The mean bosutinib concentration time profile is shown in Figure 15 and the PK is 
+summarized in Table 11.  
+ 
+Reference ID: 3165861
+
+
+===== PAGE 34 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+33 
+Figure 15: Mean Concentration versus Time Profile of Bosutinib in Plasma Following a Single 100 mg 
+Oral Dose of Bosutinib Alone or in Combination with Ketoconazole (Keto) in Healthy Volunteers in Trial 
+3160A4-104-US 
+ 
+Source: Figure 7-1 from Page 29 in csr70105-report-body.pdf 
+ 
+Table 11: Summary of Bosutinib Pharmacokinetic Parameters Following a Single 100 mg Dose of 
+Bosutinib Alone or in Combination with Ketoconazole in Healthy Volunteers in Trial 3160A4-104-US 
+PK Parameter 
+Bosutinib Alone (N=24) 
+Bosutinib + Keto (N=24) 
+Cmax (ng/mL) 
+7.01 ± 3.17 
+38.36 ± 20.64 
+Tmax (hr)a 
+6.00 (2.00 - 8.00) 
+6.00 (6.00 – 36.0) 
+T1/2 
+46.19 ± 16.39 
+69.04 ± 29.05 
+AUCt  (ng*h/mL) 
+233 ± 105 
+1694 ± 674 
+AUC0-∞ (ng*h/mL) 
+323 ± 138 
+2631 ± 791 
+Cl/F (L/h) 
+399 ± 272 
+42.41 ± 16.50 
+Pair-Wise Comparison Based on Least Square Geometric mean (LSGM) 
+ 
+Cmax (ng/mL) 
+AUC0-∞ (ng*h/mL) 
+LSGM Ratio (90% CI) 
+5.2 ( 4.3 – 6.2) 
+8.6 (7.5 – 9.9) 
+ 
+Trial 3160A4-1114-EU was a randomized, double-blind, sponsor-unblinded, placebo-
+controlled, single-center, sequential-group trial performed in healthy adult volunteers assessing 
+single bosutinib doses ranging from 100 – 600 mg co-administered with multiple doses of 
+ketoconazole. Ketoconazole 400 mg was dosed using 200 mg oral tablets on Days -1 through 4. 
+Bosutinib 100 mg oral capsules or placebo were used on Day 1 based on the group (100, 200, 
+300, 400, 500 and 600 mg) after a standardized high-fat breakfast on Day 1. When compared to 
+exposures observed at a dose of 200 and 400 mg with a high-fat meal in trial 3160A1-103-EU a 
+6 fold increase in AUC was observed. This 6 fold increase can be attributed to the concomitant 
+ketoconazole.  The bosutinib PK is summarized in Table 12. 
+ 
+Reference ID: 3165861
+
+
+===== PAGE 35 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+34 
+Table 12: Summary of Bosutinib Pharmacokinetic Parameters Following Single Ascending Oral Doses of 
+Bosutinib in Combination with Ketoconazole in Healthy Volunteers in Trial 3160A4-1114-EU 
+ 
+ 
+Trial 3160A4-105-US was a single-dose, crossover, placebo and moxifloxacin controlled two 
+part trial performed to assess the effect on QTc after administration of bosutinib (Section 2.2.6). 
+Bosutinib was given as a single dose of five 100 mg capsules and the matching placebo was also 
+given as 5 capsules with a standard medium fat meal (30% fat). Ketoconazole increased the Cmax 
+of bosutinib 2.9 fold and the AUC 6.5 fold (Table 13). The mean Cmax decreased 4.9 fold for M2 
+and 4 fold for M5 when bosutinib was co-administered with ketoconazole, but the AUC was not 
+significantly changed. 
+ 
+Table 13: Summary of Mean PK Parameters of Bosutinib after a Single Oral Dose of Bosutinib 500 mg 
+Alone and in Combination With Multiple Oral Doses of Ketoconazole 400 mg in Healthy Volunteers 
+Under Fed Conditions in Trial 3160A4-105-US 
+ 
+Bosutinib Alone  (N=56) 
+Bosutinib + Ketoconazole 
+(N=54) 
+Cmax (ng/mL) 
+114 ± 39.8 
+326 ± 77.2 
+Tmax (hr) 
+5 (1.5 – 12) 
+8 (3 – 12) 
+T1/2 (hr) 
+22.3 ± 3.6 
+36.6 ± 9.6 
+AUC 0-∞ (ng*hr/mL) 
+2330 ± 823 
+15200 ± 4480 
+ 
+Dr. Ping Zhao used Simcyp to simulate the effect of ketoconazole on bosutinib under fed 
+conditions. The ketoconazole simulated Cmax and AUC ratios were similar to those observed in 
+the thorough QT trial, but lower than those observed in the dedicated drug interaction trial 
+3160A4-104-US. Based on the simulation, moderate CYP3A4 inhibitors may increase the 
+exposure of bosutinib 2 – 4 fold. Therefore, a PMR will be issued to identify the appropriate 
+dose of bosutinib when used concomitantly with moderate inhibitors. 
+ 
+Table 14: Simcyp Simulations of the Effect of CYP3A inhibitors on Bosutinib PK 
+Inhibitor 
+Category 
+Cmax Ratio 
+AUC Ratio 
+Fluvoxetine 
+Weak 
+1.0 
+1.0 
+Fluvoxamine 
+Weak 
+1.0 
+1.0 
+Fluconazole 
+Moderate 
+1.6 
+2.0 
+Erythromycin 
+Moderate 
+2.5 
+3.8 
+Ketoconazole 
+Strong 
+3.6 (observed 2.9) 
+5.8 (observed 6.5) 
+ 
+Reference ID: 3165861
+
+
+===== PAGE 36 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+35 
+Rifampin: Trial 3160A4-1106-US evaluated the effect of multiple oral doses of rifampin (Days 
+8 -17) on the PK profile of a single oral dose of bosutinib (Day 1 and 14) in healthy volunteers. 
+The bosutinib dose was administered after a standardized medium-fat breakfast (30% fat) and 
+rifampin 600 mg was dosed in a fasted state. Based on geometric mean, concomitant rifampin 
+decreased the Cmax and AUC of bosutinib by 86% and 94%, respectively, compared to bosutinib 
+alone (Table 15). 
+ 
+Table 15:  Summary of Bosutinib Pharmacokinetic Parameters Following a Single Oral Dose of 
+Bosutinib Either Alone or in Combination with Rifampin in Healthy Volunteers in Trial 3160A4-1106-
+US 
+PK Parameter 
+Bosutinib Alone (N=24) 
+Bosutinib +Rifampin (N=24) 
+Cmax (ng/mL) 
+112 ± 29.4 
+16.0 ± 6.69 
+Tmax (hr)a 
+6.00 (2.00 - 12.00) 
+3.00 (1.00 - 6.00) 
+T1/2 
+33.84 ± 7.65 
+20.37 ± 5.47 
+AUC0-∞ (ng*h/mL) 
+2740 ± 790 
+207 ± 45.9 
+Cl/F (L/h) 
+197 ± 57.3 
+2530 ± 555 
+ 
+2.4.4 Is the drug an inhibitor and/or an inducer of CYP enzymes? 
+ 
+Based on in vitro studies, bosutinib is unlikely to inhibit or induce any major CYPs (Section 
+2.4.2). The inhibition or induction potential for CYPs has not been evaluated in humans. 
+ 
+2.4.5 Are other metabolic/transporter pathways important? 
+ 
+Bosutinib is a substrate and inhibitor of P-gp. Based on an in vitro study (RPT-71680) with 
+Caco-2 cells, bosutinib is a substrate of P-gp with concentration dependant permeability 
+(concentrations of 1, 10, and 100 μM assessed). It is an inhibitor of P-gp, with an IC50 of 2 μM in 
+vitro. The I/Ki (using plasma Cmax at the 500 mg dose) was approximately 0.5. No studies have 
+been conducted with other transporter proteins. 
+ 
+2.4.6 Are there any other in vivo drug-drug interaction studies? 
+ 
+Bosutinib has pH dependant solubility in vitro. Bosutinib is highly soluble at or below pH 5 and 
+the solubility reduces above pH 5. When a single 400 mg oral dose of bosutinib was co-
+administered with multiple oral doses of lansoprazole 60 mg, exposures to bosutinib decreased 
+by 46% for Cmax and by 26% for AUC0-∞ compared to when bosutinib was administered alone 
+(Trial 3160A4-1108-US). The applicant recommended antacids should be considered as an 
+alternative to proton pump inhibitors (PPIs) and administration times of bosutinib and antacids 
+should be separated whenever possible.   
+ 
+The effect of pH on bosutinib was evaluated in an open-label, healthy volunteer trial (N=24). 
+Single dose bosutinib 400 mg was dosed using 100 mg oral tablets either alone on Day 1 and 
+with lansoprazole on Day 15. All doses were preceded by an overnight fast of at least 10 hours. 
+A wash-out period of 14 days was used. 
+Reference ID: 3165861
+
+
+===== PAGE 39 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+38 
+minutes after the completion of an FDA recommended standard high-fat-meal (B) on Day 1 of 
+each period. Bosutinib was given as a single dose of four 100 mg capsules using the phase 3 
+formulation (bioequivalent to the commercial tablets). Dosing in both periods was preceded by 
+an overnight fast of at least 10 hours. PK samples were collected up to 96 hours post-dose.  
+ 
+Figure 16: Bosutinib Mean (±SD) Plasma Concentration-Time Profiles Following a Single Oral 400 mg 
+Dose of Bosutinib Administered Fasting and with a High Fat Meal in Healthy Volunteers 
+ 
+Source: Figure 8-1 from Page 28 in csr78372-report-body.pdf 
+ 
+Table 19: Bosutinib Mean Pharmacokinetic Parameters Following a Single Oral Dose of 400 mg 
+Bosutinib Administered Fasting or with a High Fat Meal in Healthy Volunteers 
+PK Parameter 
+Fasting (N=24) 
+Fed (N=23) 
+Cmax (ng/mL) 
+55.9 ± 29.6 
+89.5 ± 24.1 
+Tmax (hr)a 
+6.02 (3.02 - 8.02) 
+6.02 (2.02 - 8.02) 
+T1/2 
+35.50 ± 11.24 
+31.93 ± 5.93 
+AUCt  (ng*h/mL) 
+1160 ± 570 
+1860 ± 409 
+AUC0-∞ (ng*h/mL) 
+1310 ± 598 
+2060 ± 448 
+Cl/F (L/h) 
+369 ± 168 
+204 ± 45.2 
+Pair-Wise Comparison Based on Least Square Geometric mean (LSGM) 
+ 
+Cmax (ng/mL) 
+AUC0-∞ (ng*h/mL) 
+LSGM Ratio (90% CI) 
+1.8 (1.4, 2.2) 
+1.7 (1.5, 1.9) 
+a Median (range) 
+ 
+Preliminary assessment of food effect with the earlier capsule formulation was performed in 
+Study # 3160A1-103-EU (N=55). This was a single-dose, dose-escalation trial in healthy 
+volunteers. A single oral dose of bosutinib 200 or 400 mg was given to volunteers after an 
+overnight fast.  In addition, single doses of 200, 400, 600 and 800 mg were administered 5 
+minutes after consuming an FDA standardized high-fat meal. Fifty five volunteers participated in 
+this study. 
+ 
+A high-fat meal increased bosutinib AUC 2.3-fold and Cmax 2.5-fold compared with bosutinib 
+administration under fasting conditions at the 200 mg dose. A high-fat meal resulted in an AUC 
+Reference ID: 3165861
+
+
+===== PAGE 41 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+40 
+2.6.5 What is the range of the standard curve? How does it relate to the requirements for 
+clinical studies? What curve fitting techniques are used?  
+ 
+The LC/MS/MS methods developed are discussed in section 2.6.4. The concentration ranges, 
+correlation coefficients and inter assay precision and accuracy for the analytes are summarized 
+for each method in Table 20.  
+ 
+Table 20: Summary of the LC/MS/MS Analytical Methods for Bosutinib and its Major Metabolites 
+Method 
+Analytes 
+Conc Range 
+(ng/mL) 
+Correlation 
+Coefficient 
+Inter-assay 
+precision (CV%) 
+Inter-assay 
+accuracy (CV%) 
+LOG 2561-
+2908.0 
+Bos 
+1 - 250 
+> 0.9919 
+5.7% 
+10% 
+TM.498 
+Bos 
+1 - 500 
+> 0.9984 
+5.1% 
+7.5% 
+Bos 
+1 - 500 
+> 0.9979 
+4.6% 
+6.8% 
+M2 
+0.5 - 200 
+> 0.9989 
+5% 
+3.2% 
+TM.794 
+M5 
+0.5 - 500 
+> 0.9967 
+6.2% 
+6.6% 
+Bos 
+1 - 200 
+> 0.9973 
+NC 
+9% 
+M2 
+0.5 - 200 
+> 0.9982 
+NC 
+4.7% 
+TM.978 
+M5 
+0.5 - 200 
+> 0.9978 
+NC 
+5.5% 
+NC – was not calculated due to insufficient number of replicates 
+ 
+Results for bosutinib, M2 and M5 were calculated using peak area ratios of analyte to internal 
+standard and calibration curves were generated using a weighted (1/x2) linear least-squares 
+regression. The mean bosutinib steady state Cmax from multiple doses of 500 mg based on 
+population PK was 255 ± 152 ng/mL. The mean Cmax was < 200 ng/mL in the dose ranges 
+analyzed in the single dose trials in healthy volunteers except the mean Cmax was increased up to 
+420 ng/mL with the use of ketoconazole. In trial # 3160A4-1114-EU, where ketoconazole was 
+used, the method with the upper limit of 500 ng/mL was used.  
+ 
+Replicates of QC samples were performed at low QC, medium QC and high QC concentrations 
+that were within the calibration curve range. Mean inter-assay QC precision and accuracy were 
+within 9.8 % and within 10.2% for bosutinib, within 5.6 % and within 9.4% for M5 and within 
+5.4% and within 8.7% for M2, respectively. 
+Reference ID: 3165861
+
+
+===== PAGE 43 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+42 
+reduce the rate of grade 3+ rash, on a population level.  The current dosing regimen recommends dose 
+interruption and reduction of the dose by 100 mg upon reinitiating therapy, for serious adverse events.  
+Exposure-response relationships for rash were not evaluated on an individual level. No other significant 
+relationships for grade 3+ safety events were identified.  Details of this analysis and results are described 
+below. 
+ 
+A logistic regression was applied to model the probability of having a grade 3 or higher adverse event 
+(e.g. rash) versus bosutinib exposure (AUC) using data from both studies 200 and 3000.  These clinical 
+trials are described further starting on page 46. 
+ 
+Figure 18.  Exposure-response for grade 3+ Rash.  Text on the plot describes the logistic model equation and 
+p-value for the coefficient on bosutinib exposure.  Blue symbols are the probability of having grade 3+ rash 
+by exposure bins.  Ten exposure bins were assigned, each containing data from 75 individuals.  The solid line 
+and green shaded area indicate the logistic model prediction and 90% confidence interval of the model 
+prediction. Vertical bars denote the range of bosutinib AUC values in each exposure bin. 
+ 
+ 
+Grade 3+ diarrhea events did not increase with increasing bosutinib exposures (Figure 19).  Whereas, the 
+sponsor’s analysis suggests there is an exposure-response relationship for grade 1+ diarrhea events 
+(Figure 20).  This may potentially be explained by the lower number of patients with grade 3+ events 
+(n=68) compared with the grade 1+ events (n=567) creating more uncertainty in the analysis. 
+ 
+The primary differences between the reviewers and sponsor’s analyses were. 
+ 
+The reviewer’s analysis evaluated grade 3 events or higher 
+ 
+The reviewer’s analysis calculated the individual bosutinib AUC values based on the time-
+averaged dose prior to the occurrence of the adverse event. 
+AUCi = Dosei/CLi 
+where the subscript i refers to the individual, Dose refers to the time-average dose prior to the 
+adverse event, and CL refers to bosutinib clearance. 
+The sponsor’s analysis used the mode dose for the individual regardless of when the adverse 
+event occurred (see page 46). 
+ 
+Reference ID: 3165861
+
+
+===== PAGE 46 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+45 
+Figure 23.  No exposure-response relationships were observed for grade 3+ increases in alanine 
+aminotransferases (ALT, left panel) or aspartate aminotransferases (AST, right panel).  Blue symbols are the 
+probability of having grade 3+ adverse event by exposure bins.  Ten exposure bins were assigned, each 
+containing data from 75 individuals.  Vertical bars denote the range of bosutinib AUC values in each 
+exposure bin. 
+ALT Increased 
+AST Increased 
+ 
+ 
+Do the exposure response relationships for efficacy and safety support the proposed dose 
+adjustments for safety events?  
+ 
+Yes, the exposure-response for effectiveness plot ( 
+Figure 17) supports reducing the dose for safety events.  The mean AUC for the 400 and 500 mg doses 
+are 4087 ng•mL/hr and 5216 ng•mL/hr, respectively.  Based on  
+Figure 17, dose decreases to 400 mg for safety events are not expected to reduce the effectiveness of 
+bosutinib. 
+ 
+Can the population PK data for creatinine clearance provide reasonable assessment of 
+bosutinib clearance in patients with severe renal impairment or ESRD? 
+ 
+No.  Variability in the PK data did not permit a reliable assessment of the effect of creatinine clearance on 
+the CL of bosutinib.  See page 57 for further details on the evaluation of CRCL as a covariate on 
+bosutinib CL. 
+ 
+RECOMMENDATIONS 
+ 
+The Division of Pharmacometrics in the Office of Clinical Pharmacology has reviewed this application 
+and finds it acceptable. 
+ 
+LABEL STATEMENTS 
+ 
+No labeling revisions are to be made based on this review. 
+ 
+PERTINENT REGULATORY BACKGROUND 
+ 
+Bosutinib is a new molecular entity of the tyrosine kinase inhibitor class.  Pfizer is submitting this new 
+Reference ID: 3165861
+
+
+===== PAGE 49 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+48 
+bioavailability positive and centered on a value of 1 (for the 400 mg dose). The fitted relationship is 
+shown in Figure 24. 
+ 
+Figure 24.  Effect of dose on relative bioavailability in the final model. 
+ 
+ 
+The final population PK model was used to simulate individual estimates of bosutinib AUC, Cmax, tmax, 
+and Cmin for exposure-response analyses with metrics of efficacy and safety. 
+ 
+“The post-hoc PK parameters for the final PK model were estimated using the POSTHOC option 
+of the $ESTIMATION step of NONMEM. These were merged with a database of the most 
+frequent (mode) dose used in each patient and sample times from 0 to 24 h at 0.5 h intervals 
+representing the inter-dose interval. The final model was used to estimate Cmax, tmax and Cmin 
+from the simulated individual bosutinib concentration-time curves.  AUC was estimated as 
+Dosei/CLi, where the subscript i represents the individual values of mode dose and post-hoc 
+clearance.” 
+(Source: Sponsor’s Study Report PMAR-217, page 17) 
+ 
+Reviewer’s Comments: The sponsor’s population PK model is acceptable for fitting the observed PK data 
+and capturing each individual’s PK parameters.  However, the sponsor’s final model does not account 
+for the effect of weight or creatinine clearance on the central volume of distribution and clearance (see 
+page 54).  Therefore, using this model to extrapolate to a new population is not be appropriate.  The 
+availability of individual PK parameter values makes its use for characterization of individual bosutinib 
+exposure reasonable. 
+ 
+EXPOSURE-RESPONSE ANALYSES FOR EFFICACY AND SAFETY 
+ 
+Methodology 
+ 
+The sponsor used both graphical and modeling analyses to evaluate exposure-response relationships. 
+Observed probabilities of events were defined as the number of events/number of observations and were 
+plotted for each exposure bin and plotted adjacent the best fit model.  Exposure metrics (AUC, Cmax, Cmin) 
+were grouped to give an approximately equal number of observations in each bin. The number of bins 
+chosen was selected to give a minimum of 20 observations in each bin. 
+Both logistic and ordered-logistic regression models were used to characterize exposure-response 
+relationships for efficacy and safety metrics.  Five model structures (constant, linear, log-linear, Emax and 
+sigmoidal Emax) were evaluated for each exposure metric and efficacy/safety metric based on the 
+Reference ID: 3165861
+
+
+===== PAGE 50 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+49 
+minimum value of the objective function (MVOF).  For each model the following logit function was used 
+to describe probability (P) as a function of the log odds (LO): 
+
+
+LO
+LO
+e
+e
+
+1
+P
+ 
+The log odds for each model are described by Equation 1 through Equation 5. 
+Equation 1.  Constant Model 
+Constant
+LO 
+ 
+Equation 2.  Linear Model 
+AUC
+Slope
+ 
+ 
+Constant
+LO
+
+
+
+ 
+Equation 3.  Log-Linear Model 
+
+
+AUC
+LOG
+Slope
+ 
+ 
+Constant
+LO
+
+
+
+ 
+Equation 4.  Emax Model 
+AUC
+AUC
+AUC
+E
+ 
+ 
+Constant
+LO
+50
+Max
+
+
+
+
+ 
+Equation 5.  Sigmoid Emax Model 
+
+
+
+AUC
+AUC
+AUC
+E
+ 
+ 
+Constant
+LO
+50
+Max
+
+
+
+
+ 
+ 
+Reviewer’s Comments:The sponsor’s approach to evaluating exposure-response for ordinal and binary 
+data is acceptable.  The reviewer’s analysis evaluates the grade 3/4 safety events since this is the grade of 
+event that was used to recommend reducing the dose in Trial 200 and Trial 3000. 
+ 
+Analysis for Efficacy: 
+ 
+Based on  
+Figure 17, the sponsor concluded “there was no evidence of an exposure-response relationship for Major 
+Cytogenetic Response at 24 weeks.” 
+ 
+Reviewer’s Comments:The sponsor’s analysis of exposure response for effectiveness is reasonable.  While 
+a clear exposure-response relationship for major cytogenetic response at 24 weeks was not observed in 
+the studied exposure range, the study met its primary efficacy endpoint.  Thus, an exposure response may 
+exist, and the flat response curve observed in  
+Figure 17 potentially means that the exposures achieved were in the plateau of effect. 
+ 
+Analysis for Safety: 
+ 
+The safety analysis used pooled data for the patients in Studies 200 and 3000 with evaluable PK data.  
+Ordinal safety metrics (Table 23) were examined as listed below for the exposure metrics AUC, Cmax, and 
+Cmin (graphical analysis only for Cmin).   
+ 
+Reference ID: 3165861
+
+
+===== PAGE 53 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+52 
+Figure 28.  Exposure-response analyses for normalized liver transaminase values, ALT (left panel) and AST 
+(right panel).  Symbols are observed data. Black line is line of best fit for linear regression with the 
+confidence intervals for the line shown as a grey ribbon. Red line is the upper limit of the reference values for 
+ALT and AST (40 and 35 IU/L). 
+ 
+(Source: Sponsor’s Study Report PMAR-217, Figures 15 & 21) 
+ 
+Based on these safety analyses, the sponsor concluded: 
+ 
+ 
+“An exposure-response relationship was identified for diarrhea severity which could be described 
+by an Emax exposure-response relationship. The predicted probability of the incidence of diarrhea 
+ranged from 0.575 for the lowest bosutinib AUC bin (1384 ng/ml*h) to 0.797 for the highest 
+bosutinib AUC bin (12919 ng/ml*h).”  (See Figure 20) 
+ 
+“There was evidence to support a weak exposure-response relationship for the incidence of rash. 
+The relationship between the probability of the incidence of rash and bosutinib AUC could be 
+described by a log-linear model. The predicted probability of rash was 0.216 for the lowest AUC 
+bin (1384 ng/mL•hr) and 0.419 at the highest AUC (12919 ng/mL•hr).” (See Figure 25) 
+ 
+“There was no evidence to support an exposure-response relationship the incidence of 
+thrombocytopenia adverse events. The data could be described by a constant probability model. 
+The predicted probability of the incidence of thrombocytopenia was 0.288 regardless of bosutinib 
+exposure.”  (See  
+ 
+Figure 26, Left Panel) 
+ 
+“There was no evidence to support an exposure-response relationship for the incidence of 
+neutropenia. The data could be described by a constant probability model with an incidence of 
+neutropenia of 0.158 regardless of bosutinib exposure.”  (See  
+ 
+Figure 26, Right Panel) 
+ 
+“There was no evidence to support an exposure-response relationship for nausea incidence. The 
+data could be described by a constant probability model. The predicted probability of the 
+incidence of nausea was 0.403 regardless of bosutinib exposure.”  (See Figure 27, Left Panel) 
+ 
+“There was no evidence to support an exposure-response relationship for vomiting incidence. The 
+data could be described by a constant probability model. The predicted probability of the 
+incidence of vomiting was 0.346 regardless of bosutinib exposure.”  (See Figure 27, Right 
+Panel) 
+ 
+“There was no evidence to support an exposure-response relationship for the incidence of alanine 
+transaminase (ALT) adverse events. The data could be described by a constant probability model. 
+The overall probability of the incidence of an ALT adverse event was 0.208 regardless of 
+bosutinib exposure.”  (See  
+ 
+Figure 28, Left Panel) 
+ 
+“There was no evidence to support an exposure-response relationship for the incidence or severity 
+Reference ID: 3165861
+
+
+===== PAGE 55 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+54 
+Software 
+ 
+NONMEM VI (Icon, Ellicott City, MD) was used to review the sponsor’s Population pharmacokinetic 
+analysis and test model covariates. The statistical software R (www.r-project.org) and S-plus (Tibco, Palo 
+Alto, CA) were used to generate all plots. 
+ 
+Models 
+ 
+No original models were developed and applied as part of this review.  Evaluation of the sponsor’s final 
+population PK model is discussed on page  57.   
+ 
+RESULTS 
+ 
+Population PK 
+ 
+Population PK Model 
+ 
+The sponsor’s population PK model was reviewed to determine if the structural and covariate models for 
+bosutinib were appropriate.  The sponsor’s final model was run on their datasets.  Goodness-of-fit plots 
+were generated to assess the structural model.  Plots of between-subject variability versus covariates were 
+used to determine if certain covariate effects should be included in the model. 
+ 
+The goodness of fit plots in Figure 29 indicate the sponsor’s final PK model reasonably describes the 
+central tendency of the bosutinib data.  Shrinkage of the inter-individual variability of CL, in the final 
+model, is 12.4%. Whereas for the central and peripheral volume of distribution parameters the values 
+were 18.6% and 54.0%.  Shrinkage was 24.7% for the first-order absorption rate-constant. 
+ 
+Reference ID: 3165861
+
+
+===== PAGE 58 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+57 
+Figure 31.  Distribution of inter-subject variability for bosutinib central volume of distribution (V2) is 
+correlated with weight. 
+Weight (kg)
+-0.3
+-0.2
+-0.1
+0.0
+0.1
+50
+100
+150
+200
+|
+| | | | | | | |
+|
+|
+ 
+These plots raise the question: Why were weight and/or creatinine clearance excluded from the final 
+population PK model as covariates of bosutinib clearance and volume of distribution?  An attempt to 
+address this question is described on page 57. 
+ 
+Figure 32 shows that race and gender did not impact the CL of bosutinib. 
+ 
+Figure 32.  Plots of inter-subject variability for bosutinib CL against potential categorical covariates. 
+-1
+0
+1
+2
+(N=615)
+(N=47)
+(N=151)
+(N=90)
+ 
+               White      Black      Asian     Other 
+Race 
+-1
+0
+1
+2
+(N=478)
+(N=425)
+ 
+                        Male                   Female 
+                             Gender 
+ 
+Effect of creatinine clearance on bosutinib exposure 
+ 
+The aim of this review with regards to the PK is to establish if the population PK analysis can be used to 
+estimate the clearance in patients with severe renal impairment (creatinine clearance < 20 mL/min using 
+the National Cancer Institute criteria). 
+Inter-Individual Variability for CL 
+Inter-Individual Variability for CL 
+               Inter-Individual Variability for V2 
+Reference ID: 3165861
+
+
+===== PAGE 59 =====
+
+ 
+ 
+NDA 203-341 Review – Bosutinib 
+58 
+Since 1) the population PK model did not include creatinine clearance (CRCL) as a covariate and 2) 
+bosutinib clearance appeared to be potentially correlated with CRCL and/or body weight (Figure 30 and 
+Figure 31), a forward-inclusion model building approach was performed to determine if creatinine 
+clearance can be used to describe bosutinib clearance. 
+ 
+In the first stage of the model-building approach both creatinine clearance and weight were added into the 
+sponsor’s final model, one parameter at a time (Table 25).  The drop in minimum value of the objective 
+function (MVOF) and Figure 31 suggested that weight is a significant covariate on V2.  While creatinine 
+clearance as a covariate on clearance lowered the MVOF more than weight as a covariate on the V2, there 
+was no reduction in the inter-individual variation on CL.  Whereas, weight on V2 decreased the inter-
+subject variability of V2 by only 1.3%. 
+ 
+Table 25.  Results of adjustments to the sponsor’s final model.  Only CRCL and weight (WT) were tested as 
+covariates on either CL or central volume of distribution (V2). 
+Model Description
+MVOF
+CL
+V2
+CL
+V2
+Sponsor's Final Model
+60786
+59.9
+47.6
+---
+---
+       plus CRCL on CL
+60691
+60.4
+47.4
+0.465
+---
+       plus WT on CL
+60786
+60.1
+47.6
+0.0146
+---
+       plus WT on V2
+60758
+59.3
+46.3
+---
+0.377
+       plus WT on CL and WT on V2
+60748
+60.4
+46.0
+0.291
+0.495
+       plus CRCL on CL and WT on V2
+60640
+45.3
+50.7
+0.281
+0.009
+Exponent for Covariate on
+%CV for
+ 
+ 
+In the second stage of covariate addition, weight was a covariate on V2 for each tested model.  The 
+objective function improved significantly for the addition of either weight or CRCL as covariates on CL 
+(Table 25).  However, inter-individual variability was not consistently improved for either CRCL or 
+weight as covariates on CL.  Further, when CRCL was included in the model, the covariate relationship 
+for V2 and weight was not fitted properly (Figure 33) and the exponent (0.009) for the effect of weight on 
+V2 did not appear reasonable as an allometric parameter. 
+ 
+Figure 33.  The covariate relationship for bosutinib central volume of distribution (V2) was not properly 
+estimated when CRCL was included as a covariate on clearance. 
+Weight (kg)
+Central volume of distribution (L)
+3000
+3500
+4000
+4500
+5000
+50
+100
+150
+200
+|
+| | | | | | | |
+|
+|
+ 
+In conclusion, statistically significant improvements in the population PK model were observed 
+with the addition of weight and/or CRCL.  However, neither weight nor CRCL meaningfully 
+reduced the inter-subject variability for bosutinib CL or Vd..  It is likely that the majority of the PK 
+data were too sparse to evaluate covariate effects on both clearance and volume of distribution parameters 
+Reference ID: 3165861

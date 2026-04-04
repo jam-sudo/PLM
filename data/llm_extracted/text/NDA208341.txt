@@ -1,0 +1,2000 @@
+
+
+===== PAGE 3 =====
+
+2
+In the absence of a large clinical dataset for the use of SOF/VEL with PPI, a more cautious 
+approach may be warranted. The Agency and the applicant have reached the following 
+agreements:
+
+Allow coadministration of omeprazole with SOF/VEL only when it is medically necessary.
+o
+ In ASTRAL 3, VEL AUC exposures were 30% lower in relapsers compared to 
+non-relapsers. Thus, even this degree of decrease in VEL AUC may be 
+problematic.
+o
+Since SOF/VEL is administered under fed conditions and omeprazole should be 
+administered under fasted conditions (based on recommendations in the 
+omeprazole label), there is concern over the practicality of dosing in the real 
+world when a patient needs to consider the dose of omeprazole to take (20 mg), 
+time of day to take two different drugs (SOF/VEL 4 hours before omeprazole), 
+and prandial condition of each drug administration. In considering the worst case 
+scenario, there were significant decreases in exposure for both SOF and VEL 
+that could impact efficacy for patients with any HCV genotype.
+
+SOF/VEL should not be used with other PPIs, because the use of SOF/VEL with other 
+proton pump inhibitors has not been studied. 
+
+SOF/VEL should be administered with food and taken 4 hours before omeprazole 20 
+mg, because the impact of omeprazole on VEL is relatively less as compared to when 
+omeprazole is administered 2 hours ahead of SOF/VEL as shown in the following table. 
+There is 33% and 28% reduction on VEL Cmax and AUC, respectively, as compared to 
+that when SOF/VEL is administered under fasted conditions without omeprazole. 
+Because administration of SOF/VEL with a high-fat/high-calorie or a moderate-
+fat/moderate-calorie meal resulted in a 21% and 34% increase in VEL AUC, and 
+SOF/VEL can be given with or without food, for patients who take SOF/VEL under fed 
+conditions, the true effect of omeprazole on VEL exposures could actually be more. 
+Therefore, use of omeprazole or other PPIs with SOF/VEL is not recommended unless 
+medically necessary.
+Drug Interactions: Changes in Pharmacokinetic Parameters for Velpatasvir in the 
+Presence of Omeprazole
+Mean Ratio (90% CI) of Velpatasvir PK 
+With/Without Coadministered Drug
+No Effect=1.00
+Dose of 
+Omeprazole
+(mg)
+SOF Dose
+(mg)a
+VEL Dose
+(mg)a
+N
+Cmax
+AUC
+20 once daily 2 
+hours prior to  
+SOF/VEL
+400 single 
+dose fed
+100 single 
+dose fed
+40
+0.52 (0.43, 0.64)
+0.62 (0.51, 0.75)
+20 once daily 4 
+hours after  
+SOF/VEL
+400 single 
+dose fed
+100 single 
+dose fed
+38
+0.67 (0.58, 0.78)
+0.74 (0.63, 0.86)
+a SOF/VEL was administered under fasted conditions in the reference arms.
+Reference ID: 3947635
+(b) (4)
+
+
+===== PAGE 18 =====
+
+14 
+ 
+2.2.5 What are the PK characteristics of the drug and its major metabolite?  
+2.2.5.1 What are the single dose and multiple dose PK parameters?  
+Following administration of SOF as a single agent or as a component of SOF/VEL, the majority 
+of SOF-related drug exposure is attributable to GS-331007. For SOF/VEL, the median time at 
+which maximum SOF plasma concentrations were achieved (Tmax) occurred at 0.5 hours. 
+Consistent with the short half-life (median, 0.5 hours), SOF was not detectable at 24 hours 
+postdose. GS-331007 median Tmax occurred later (3 hours) relative to that of SOF and GS-
+331007 exhibited a half-life of approximately 25 hours. 
+ 
+Accumulation of SOF following once-daily dosing of SOF/VEL is not expected based on the 
+short half-life relative to the once-daily dosing schedule. Evaluation of accumulation ratios using 
+cross-study comparisons from these studies shows modest accumulation for GS-331007 of 
+approximately 32% and 40% for Cmax and AUC, respectively. 
+ 
+Following administration of a single dose of SOF/VEL, the median Tmax for VEL was 
+approximately 3 hours. The median half-life was estimated to be approximately 15 hours, 
+supporting once-daily dosing. Consistent with a moderate half-life relative to a once-daily dosing 
+schedule, VEL accumulation of < 2-fold was observed following multiple-dose administration of 
+VEL or SOF/VEL. 
+ 
+Population PK exposures for SOF, GS-331007 and VEL following once-daily administration of 
+VEL and SOF in HCV-infected subjects are shown in the next section (Section 2.2.5.2) 
+ 
+2.2.5.2 How does the PK of the drug in healthy volunteers compare to that in patients?  
+ 
+Based on population PK modeling, mean VEL exposure observed in HCV-infected subjects was 
+lower (AUCtau: 37%↓, Cmax: 41%↓, and Ctau: 38%↓) than observed in healthy subjects. 
+These observations are likely due to lower relative bioavailability and higher CL and Vc (which 
+results in the net effect of shorter t1/2) for HCV-infected subjects. Mean SOF and GS-331007 
+exposures (AUCtau and Cmax) observed in HCV-infected subjects and healthy subjects were 
+similar. This table includes subjects who were coadministered SOF and VEL with and without 
+RBV. RBV use has no effect on SOF or VEL exposure, but decreases GS-331007 AUC by 20%. 
+Therefore GS-331007 results were reanalyzed with or without RBV by the review team.  The 
+relative ratio of the GS-331007 exposures for HCV-infected subjects vs. healthy subjects is 
+similar following coadministration of SOF and VEL with or without RBV. 
+ 
+Reference ID: 3908046
+
+
+===== PAGE 19 =====
+
+15 
+ 
+SOF, GS-331007 and VEL PK Parameters after Once-Daily Administration of VEL and SOF 
+in HCV-Infected Subjects (Population PK Analysis from Phase 2 and 3 Studies) or 
+Healthy Subjects (Population PK Analysis from Phase 1 Studies) (Source: Applicant’s 
+Summary of Clinical Pharmacology) 
+PK Parameter 
+Mean (%CV) 
+%GMR (90% CI) 
+HCV-Infected Subjects 
+(Population PK) 
+Healthy Subjects 
+(Population PK) 
+SOF 
+N = 982 
+N = 331 
+AUCtau (h*ng/mL) 
+1262 (37.2) 
+1272 (24.3) 
+96.0 (92.7, 99.3) 
+Cmax (ng/mL) 
+566 (31.4) 
+550 (33.3) 
+103.9 (100.4, 107.5) 
+GS-331007 
+N = 1428 
+N = 331 
+AUCtau (h*ng/mL) 
+13967 (28.0) 
+12040 (19.5) 
+113.8 (110.9, 116.8) 
+Cmax (ng/mL) 
+868 (27.6) 
+817 (21.1) 
+104.6 (101.9, 107.4) 
+VEL 
+N = 1425 
+N = 331 
+AUCtau (h*ng/mL) 
+2967 (50.2) 
+4556 (38.7) 
+62.8 (59.9, 65.9) 
+Cmax (ng/mL) 
+259 (53.9) 
+421 (39.0) 
+58.5 (55.4, 61.7) 
+Ctau (ng/mL) 
+41 (65.0) 
+65 (54.2) 
+62.1 (58.7, 65.8) 
+Analyses included all HCV-infected subjects who received SOF 400 mg and VEL 100 mg as either single agents or a 
+FDC in Study GS-US-337-0122, GS-US-342-0102, GS-US-342-0109, GS-US-342-1138, GS-US-342-1139, or GS-
+US-342-1140 and healthy subjects in Study GS-US-342-0104, GS-US-342-1167, GS-US-342-1326, or GS-US-342-
+1346. 
+ 
+2.2.5.3 What are the characteristics of drug absorption?  
+The pharmacokinetic properties of SOF, GS-331007 and VEL have been evaluated in healthy 
+adult subjects and in subjects with chronic hepatitis C. Following oral administration of 
+SOF/VEL, SOF was absorbed with a peak median plasma concentration 0.5–1.0 hour post-
+dose. Median peak plasma concentration of GS-331007 was observed 3.0 hours post-dose. 
+VEL median peak concentration was observed 3.0 hours post-dose. 
+ 
+Food increases the exposure of both SOF and VEL. The effect of food on the absorption of SOF 
+and VEL is discussed in See Section 2.5.3.  
+ 
+VEL solubility decreases as pH increases. Drugs that increase gastric pH are expected to 
+decrease plasma concentrations of VEL. The effect of acid-reducing agents on VEL absorption 
+is discussed in Section 2.4.2 (Drug-Drug Interaction). 
+ 
+SOF and VEL are substrates of P-gp and BCRP. Therefore, drugs that are inducers or inhibitors 
+of P-gp or BCRP may affect the absorption of SOF and VEL. See Section 2.4.2 (Drug-Drug 
+Interaction) for detailed discussion. 
+2.2.5.4 What are the characteristics of drug distribution?  
+SOF is approximately 61–65% bound to human plasma proteins and the binding is independent 
+of drug concentration over the range of 1 microgram/mL to 20 microgram/mL. Protein binding of 
+Reference ID: 3908046
+
+
+===== PAGE 20 =====
+
+16 
+ 
+GS-331007 was minimal in human plasma. After a single 400 mg dose of [14C]-SOF in healthy 
+subjects, the blood to plasma ratio of 14C-radioactivity was approximately 0.7. 
+ 
+VEL is greater than 99.5% bound to human plasma proteins and binding is independent of drug 
+concentration over the range of 0.09 microgram/mL to 1.8 microgram/mL. After a single 100 mg 
+dose of [14C]-VEL in healthy subjects, the blood to plasma ratio of 14C-radioactivity ranged 
+between 0.52 and 0.67. 
+2.2.5.5 Does the mass balance study suggest renal or hepatic as the major route of 
+elimination?  
+Elimination is primarily hepatic for SOF and renal for GS-331007. Following administration of 
+[14C]-SOF, mean total recovery of the radioactive dose was > 92%, consisting of approximately 
+80%, 14%, and 2.5% recovered in urine, feces, and respired air, respectively. The majority 
+(78%) of the dose recovered in the urine was as GS-331007. Recovery of SOF, as unchanged 
+drug, in the urine and feces was low, suggesting SOF is mainly metabolized to form GS-
+331007. Consistent with substantial excretion of GS-331007 in the urine, clinically significant 
+changes in GS-331007 PK were noted with marked renal impairment. 
+ 
+Biliary excretion of parent drug is a major route of elimination for VEL.  Following single-dose 
+oral administration of [14C]VEL to healthy human males, unchanged VEL contributed the major 
+portion (approximately 99%) of circulating radioactivity in plasma, with 0.4% and 0.7% of the 
+total radioactivity attributed to metabolites [14C]M18 and [14C]M19, respectively. The major route 
+of excretion of radioactivity was via feces, with approximately 94% of the administered 
+radioactivity recovered in feces. Unchanged VEL was the major component excreted in feces 
+and accounted for a mean of 77% of the administered radioactivity. Approximately 0.4% of the 
+dose was recovered in urine through 24 hours postdose as unchanged VEL and metabolites. 
+The results from bile duct-cannulated rats and dogs showed unchanged parent drug accounted 
+for 11.7% and 55.5% of the radioactivity was recovered in bile, respectively, which supports the 
+hypothesis that biliary excretion of parent drug is a major route of elimination for VEL in human. 
+In agreement with the mass-balance study results, VEL AUC and Cmax were only 50% and 
+11% higher, respectively, in subjects with severe renal impairment compared with control 
+subjects with normal renal function. Exploratory analyses showed no statistically significant 
+correlation between eGFR and primary VEL PK parameters (AUC or Cmax). 
+2.2.5.6 What are the characteristics of drug metabolism?  
+Screening assays demonstrated that SOF, GS-566500, and GS-331007 were minimally 
+metabolized by CYP, flavin monooxygenase (FMO), and uridine diphosphate 
+glucuronosyltransferase (UGT) enzymes; therefore, SOF and its major metabolites should not 
+be affected (victim drug) by coadministration with inhibitors or inducers of CYP isozymes, FMO 
+enzymes, or UGT enzymes. 
+ 
+The primary metabolic route of SOF is via hydrolase cleavage, which ultimately results in the 
+formation of GS-331007. Sequential intracellular activation by generally low affinity and high 
+capacity hydrolase ([carboxyl esterase 1 [CES1], cathepsin A [CatA], histidine triad nucleotide 
+binding protein 1[HINT1]) and nucleotide phosphorylation (uridine monophosphate-cytidine 
+monophosphate [UMP-CMP] kinase, nucleoside diphosphate [NDP] kinase) pathways resulted 
+in the formation of the pharmacologically active nucleoside analog triphosphate GS-461203. 
+ 
+Reference ID: 3908046
+
+
+===== PAGE 22 =====
+
+18 
+ 
+2.2.5.9 How do the PK parameters change with time following chronic dosing?  
+The PK of single- and multiple-ascending doses of SOF (100, 200, and 400 mg for 28 days; 
+100-mg tablet formulation) were evaluated in treatment-naive subjects with genotype 1 HCV 
+infection. SOF and its metabolites exhibited time-independent PK with minimal accumulation 
+(accumulation ratio is near 1). 
+ 
+ The PK of single- and multiple-ascending doses of VEL (5, 25, 50, 100, and 150 mg) was 
+evaluated in subjects with genotype 1a, 1b, 2, 3, or 4 HCV infection. VEL exhibited a time-
+independent PK profile across the evaluated dose range. Across all doses, accumulation was 
+limited (≤ 44% for any exposure parameter), a finding consistent with the half-life of VEL (15 
+hours). 
+2.2.5.10 What is the inter- and intra-subject variability of PK parameters in volunteers 
+and patients, and what are the major causes of variability?  
+SOF 
+Overall, inter-subject variability expressed as percent coefficient of variation (%CV) was 
+moderate for SOF oral clearance (CL/F) but high for apparent central volume of distribution 
+(Vc/F).  
+ 
+Based on the population pharmacokinetic analysis, the inter-individual variability for the 
+apparent oral clearance (CL/F) and apparent volume of distribution (Vc/F) was 48% and 95%, 
+respectively. Hepatic impairment, sex, and food were identified as covariates that contributed 
+significantly to the variability of CL/F.  
+ 
+Female subjects had a 14% lower CL/F than male subjects. Food was predicted to decrease 
+CL/F by 30%. No additional causes of SOF variability were identified as significant from the 
+population pharmacokinetic analysis. However, these sources of variability in PK parameters 
+were not found to impact exposures to a clinically relevant extent in clinical efficacy trials. There 
+was insufficient data available to characterize the intra-subject variability of SOF from the 
+available pharmacokinetic data.  
+ 
+GS-331007 
+The inter-individual variability for GS-331007 was low (24%) for apparent oral clearance (CL/F) 
+and moderate (44%) for apparent volume of distribution based on a population pharmacokinetic 
+analysis.  
+ 
+This analysis identified a statistically significant impact of baseline creatinine clearance (4% 
+drop in GS-331007 clearance for a 10% decrease in creatinine clearance), gender (16% lower 
+CL/F in women), race (8% higher clearance in Hispanic or Latino patients), RBV use (23% 
+increase in clearance with RBV use), and statin use (11% lower clearance) on the apparent 
+clearance (CL/F). 
+ 
+Similarly, the analysis identified a significant impact of body weight, RBV use (46% increase in 
+Vc/F), and gender (18% decrease in Vc/F in women) on Vc/F. However, these sources of 
+variability in PK parameters were not found to impact exposures to a clinically relevant extent in 
+clinical efficacy trials. No additional significant causes of GS-331007 variability were identified 
+from the population pharmacokinetic analysis. There was insufficient data available to 
+characterize the intra-subject variability of GS-331007 from the available pharmacokinetic data. 
+ 
+Reference ID: 3908046
+
+
+===== PAGE 28 =====
+
+24 
+ 
+identified as a statistically significant covariate for SOF, but not GS-331007. Compared with 
+subjects without cirrhosis, subjects with decompensated cirrhosis had higher SOF exposure 
+(AUCtau: 77.3%↑, Cmax: 31.4%↑) and similar GS-331007 exposures. These results are 
+consistent with the findings from the dedicated hepatic impairment study for SOF, which 
+demonstrated modestly higher SOF exposure in subjects with moderate and severe hepatic 
+impairment and no significant change in the PK of GS-331007 (Study P2938-0515). As these 
+increased exposures were not clinically relevant, no dose adjustment of SOF is recommended 
+for patients with mild, moderate, or severe hepatic impairment. 
+ 
+Compensated cirrhosis did not have a significant effect on VEL exposures in HCV-infected 
+subjects and was not a clinically relevant covariate based on population PK analyses. VEL 
+exposure parameters were approximately 10% lower in subjects with compensated cirrhosis 
+compared with subjects without cirrhosis. Compared with subjects without cirrhosis in the Phase 
+2 and 3 study population, subjects with decompensated cirrhosis (Study GS-US-342-1137) had 
+lower VEL Cmax (47%↓) and modestly lower VEL AUCtau (30%↓), with no significant change in 
+Ctau (%GMR: 105.8%). These results are consistent with the findings from the dedicated 
+hepatic impairment study for VEL, which demonstrated a decrease in VEL Cmax and a 
+prolonged t1/2 in subjects with moderate (CPT B) or severe (CPT C) hepatic impairment (Study 
+GS-US-281-0112). Although 30% reduction on VEL AUCtau was observed in subjects with 
+decompensated cirrhosis, high response rates observed in this population and lack of any 
+definitive PK/PD relationship (AUCtau vs SVR12) in Study GS-US-342-1137 as well across the 
+overall population in the Phase 2 or 3 studies suggest that the decrease in VEL AUC and Cmax 
+is not clinically meaningful. Accordingly, no dose adjustment for VEL is recommended for 
+patients with mild, moderate, or severe hepatic impairment. 
+ 
+Demographic Factors 
+ 
+Several demographic factors, such as age, gender, race, and body mass index (BMI), have 
+been evaluated to determine if these factors have effect on the PK of SOF, GS-331007 and 
+VEL. No effect has been found for age, race or BMI. Gender was identified as a statistically 
+significant covariate for SOF, GS-331007, and VEL PK, based on the population PK analyses. 
+SOF AUCtau and Cmax in female subjects are approximately 19% and 18% higher, 
+respectively, compared with male subjects. Female subjects had approximately 27% to 28% 
+higher AUCtau and Cmax for GS-331007, respectively, compared with male subjects. VEL 
+AUCtau, Cmax, and Ctau were approximately 47%, 43%, and 69% higher in female subjects 
+compared with male subjects. Considering the favorable safety profile of SOF/VEL and high 
+response rates in male and female subjects (SVR12 rates of 97.3% and 99.3%, respectively), 
+the relationships between sex and the exposures of SOF, GS-331007 or VEL were not 
+considered clinically relevant.  
+ 
+2.4 Extrinsic Factors 
+2.4.1 What extrinsic factors (drugs, herbal products, diet, smoking, and alcohol use) influence 
+exposure -response and what is the impact of any differences in exposure on response?  
+Only drug-drug interactions have been assessed. See section 2.4.2. 
+Reference ID: 3908046
+
+
+===== PAGE 37 =====
+
+33 
+ 
+addition, VEL is an inhibitor of OATP1B1 and OATP1B3. Coadministration of SOF/VEL with 
+drugs that are substrates of these transporters may increase the systemic exposure of such 
+drugs. As shown in the table above, most of the effects of VEL or SOF/VEL on coadministered 
+drugs, except the effects on tenofovir (TFV) (following coadministration of tenofovir disoproxil 
+fumarate (TDF) with SOF/VEL) or rosuvastatin, were minimal and are not considered clinically 
+significant.  
+ 
+The percent of TFV AUC increase is similar when SOF/VEL is coadministered with TDF 
+containing regimens including ritonavir-boosted protease inhibitors (PI), cobicistat (COBI), or 
+without boosted PI/COBI (not including EFV-based regimen). However, because of the effect of 
+boosted PI’s or COBI on TFV and additional increased TFV exposures caused by food, the 
+absolute TFV values are highest when SOF/VEL is coadministered with a boosted PI or COBI. 
+The following statement should be included in the US Package Insert: “Monitor for TFV-
+associated adverse reactions in patients receiving SOF/VEL concomitantly with a regimen 
+containing TDF. Refer to VIREAD or TRUVADA prescribing information for recommendations 
+on renal monitoring.”  Limited safety data are available from ASTRAL-5 (HIV/HCV coinfection) 
+where SOF/VEL was coadministered with a boosted PI or Stribild® (Elvitegravir/ 
+cobicistat/emtricitabine/tenofovir DF) in the study. Therefore, the statement “
+ 
+ is recommended for 
+coadministration of SOF/VEL with regimens containing tenofovir DF and either ritonavir or 
+cobicistat, until additional safety data from ASTRAL-5 become available. 
+ 
+VEL increased rosuvastatin (a substrate of BCRP and OATP1B1) Cmax and AUC by 
+approximately 2.7-fold. SOF/VEL only increased pravastatin (a substrate of OATP1B1) Cmax 
+and AUC by 28% and 35%, respectively, because although pravastatin is a selective substrate 
+for OATP1B1, it is not a sensitive OATP1B1 substrate. A large effect of OATP1B1 inhibition on 
+pravastatin has not been observed. The Agency recommends the applicant to conduct a drug 
+interaction study to evaluate the drug interaction between sofosbuvir/velpatasvir and 
+atorvastatin, because the results from the rosuvastatin study indicated that velpatasvir can 
+significantly increase the concentration of substrates of OATP and BCRP, such as atorvastatin. 
+While the results from rosuvastatin drug interaction results cannot be directly extrapolated to 
+atorvastatin and serious safety events (rhabdomyolysis) have been reported with use of 
+ledipasvir/sofosbuvir and atorvastatin, a PMR is needed to study the interaction between 
+sofosbuvir/velpatasvir and atorvastatin. See Dr. Sang Chang’s consult review for details. 
+ 
+2.4.2.9 Is there a known mechanistic basis for pharmacodynamic drug-drug interactions, 
+if any? 
+ 
+Although not directly studied, there is no known mechanistic basis for pharmacodynamic (PD) 
+drug-drug interactions (DDI) for VEL.  Serious symptomatic bradycardia has been observed 
+when SOF and another HCV direct acting antiviral (DAA) are coadministered with amiodarone.  
+Therefore, coadministration of amiodarone with SOF/VEL may also result in serious 
+symptomatic bradycardia and concomitant use is not recommended.  
+ 
+Reference ID: 3908046
+(b) (4)
+
+
+===== PAGE 38 =====
+
+34 
+ 
+2.5 General Biopharmaceutics 
+2.5.1 Based on the biopharmaceutics classification system (BCS) principles, in what class is this 
+drug and formulation? What solubility, permeability, and dissolution data support this 
+classification?  
+As shown in the Clinical Pharmacology review in NDA 204671, SOF is a high-solubility, low-
+permeability (BCS 3) compound.  
+ 
+VEL exhibits a pH-dependent solubility profile, and is practically insoluble (less than 0.1 mg/mL) 
+above pH 5, slightly soluble (3.6 mg/mL) at pH 2, and soluble (greater than 36 mg/mL) at pH 
+1.2.  See the Biopharmaceutics Reviewer’s review for details. The in vitro permeability studies 
+on VEL were carried out in Caco-2 cell monolayers. However, permeability values of VEL could 
+not be reliably obtained due to low recovery of the compound and poor reproducibility. The 
+report for this in vitro study was not submitted. 
+ 
+VEL increased the forward permeability of SOF by inhibiting its efflux transport across Caco-2 
+cell monolayers in vitro. These results are consistent with increases in SOF exposures observed 
+clinically in the context of the FDC. 
+2.5.2 What is the relative bioavailability (BA) of the proposed to-be-marketed formulation to the 
+pivotal clinical trial? Is clinical and analytical inspection required? 
+No pivotal bioequivalence study is required and no clinical or bioanalytical inspection is needed 
+for the relative BA study. The to-be-marketed SOF/VEL FDC tablets were used in the Phase 3 
+studies. (The formulation composition and manufacturing process for the SOF/VEL tablets used 
+in Phase 3 studies are identical to the proposed commercial product.) Some Phase 1 and 
+Phase 2 studies have utilized SOF and VEL single agents or a combination of these 2 single 
+agents. Relative BA studies have shown that similar plasma exposures of SOF, GS-331007 and 
+VEL were achieved following administration of SOF/VEL FDC and coadministration of 
+SOF+VEL as single agents. 
+2.5.3 What is the effect of food on the bioavailability (BA) of the drug from the dosage form? 
+What dosing recommendation should be made, if any, regarding administration of the product in 
+relation to meals or meal types?  
+ 
+The effect of food on the PK of VEL and SOF when administered as the SOF/VEL FDC tablet is 
+based on the results of Study GS-US-342-0104. Administration of SOF/VEL with a high-fat/high-
+calorie or a moderate-fat/moderate-calorie meal resulted in a 21% and 34% increase in VEL 
+AUC, with no change to 31% increases in VEL Cmax. Food slowed the rate of absorption of 
+SOF within SOF/VEL, with only modest alterations in bioavailability, as evidenced by < 2-fold 
+higher mean AUC and no change in mean Cmax. For GS-331007, an approximately 25% to 
+37% lower Cmax was observed following SOF/VEL administration with food, with no change in 
+AUC (Study GS-US-342-0104). These changes in exposure are not considered clinically 
+significant for any moiety. Accordingly, SOF/VEL has been administered without regard to food 
+in the Phase 2 and Phase 3 trials. 
+ 
+Reference ID: 3908046
+
+
+===== PAGE 44 =====
+
+40 
+ 
+ 
+ 
+In Cohort 4, food slowed the rate of absorption of SOF (Tmax 0.5 hours under fasted conditions 
+vs 2 hours under fed conditions) and GS-566500 (Tmax of 1.5 hours under fasted conditions vs 
+3 hours under fed conditions) with modest alteration in the bioavailability. The effects are not 
+considered clinically significant.  For GS-331007, an approximately 25% (following a moderate-
+fat meal) to 37% (following a high-calorie, high-fat meal) lower Cmax was observed upon 
+SOF/VEL (400/100 mg) administration with food with no change in AUC. The 90% CIs of the 
+GLSM ratios for AUC of GS-331007 remained within the bounds of 80% to 125%. Since the 
+decrease in GS-331007 Cmax was modest and the AUC parameters met PK equivalence 
+criteria, the effect of food on GS-331007 PK was not considered clinically significant. 
+ 
+These results were consistent with the data from previous Phase 1 studies (Studies P7977-
+1318, P7977-0111, and GS-US-337-0101), which demonstrated that SOF as a single agent or 
+as part of ledipasvir (LDV)/SOF FDC (90/400 mg) could be administered without regard to food. 
+Reference ID: 3908046
+
+
+===== PAGE 45 =====
+
+41 
+ 
+ 
+Compared with fasted conditions, a modest increase in VEL plasma exposure was achieved 
+upon administration of SOF/VEL (400/100 mg) with a high-calorie, high-fat meal (AUC 
+increased by 21% and Cmax increased by 5%) or with a moderate-fat meal (AUC increased by 
+34% and Cmax increased by 31%).  
+ 
+Conclusion:   
+• 
+Similar plasma exposures of SOF and its metabolites GS-566500 and GS-331007, and 
+higher exposure of VEL, were achieved following administration of SOF/VEL (400 mg/25 
+mg) compared with coadministration of SOF 400 mg + VEL 25 mg.  
+• 
+Similar plasma exposures of SOF, its metabolites GS-566500 and GS-331007, and VEL 
+were achieved following administration of SOF/VEL (400 mg/100 mg) compared with 
+coadministration of SOF 400 mg + VEL 100 mg.  
+• 
+Administration of SOF/VEL (400 mg/100 mg) with a moderate-fat meal or with a high-
+calorie, high-fat meal does not substantially alter the plasma exposure of SOF, its 
+metabolites GS-566500 and GS-331007, or VEL.  
+• 
+SOF/VEL can be used without regard to food. 
+ 
+4.1.2 General Pharmacokinetics/Pharmacodynamics 
+4.1.2.1 GS-US-281-0101: A Phase 1 Study in Healthy Volunteers to Evaluate the Safety, 
+Tolerability, and Pharmacokinetics of Velpatasvir, the Effect of Food on Velpatasvir 
+Pharmacokinetics, and the Pharmacokinetic Interactions between Velpatasvir and 
+Sofosbuvir (GS-7977) and its Metabolites 
+Objectives:  
+• 
+To characterize the single- and multiple-dose pharmacokinetics (PK) of velpatasvir 
+(VEL) 
+• 
+To perform a preliminary evaluation of the effect of concomitant food intake on VEL PK 
+• 
+To evaluate the effect of VEL on the PK of sofosbuvir (SOF) and metabolites, and the 
+effect of SOF on the PK of VEL 
+ 
+Study Design: The study was to proceed in 4 parts (Parts A, B, C, and D). 
+ 
+Part A: Single- and Multiple-Ascending Doses (Cohorts 1 to 4): Part A consisted of 4 
+randomized, double-blind cohorts of single- and multiple-ascending doses of VEL. Within each 
+cohort, unique subjects were randomized to receive either VEL (N = 12) or matching placebo (N 
+= 3). Subjects received a single dose of VEL or placebo in the fasted state on Day 1, followed 
+by a 6-day washout, and then subjects received once-daily doses of VEL or placebo in the 
+fasted state on Days 8 to 14. The doses of VEL evaluated 50 mg (Cohort 1), 150 mg (Cohort 2), 
+5 mg (Cohort 3) and 450 mg (Cohort 4). 
+ 
+Part B: Food Effect (Cohorts 5 and 6): Part B consisted of 2 open-label, parallel cohorts, 
+including a fasted/light breakfast cohort (Cohort 5) and a fasted/high-fat breakfast cohort 
+(Cohort 6). The 100-mg dose of VEL was selected for evaluation in Part B. Within each cohort, 
+12 subjects received a single dose of VEL in the fasted state on Day 1, followed by a 6-day 
+washout, and then subjects received a second single dose of VEL in the fed state (light 
+breakfast or high-fat breakfast for Cohorts 5 and 6, respectively) on Day 8. 
+ 
+Reference ID: 3908046
+
+
+===== PAGE 47 =====
+
+43 
+ 
+Table 1: Velpatasvir Pharmacokinetics after Administration of Single and Multiple Doses 
+of VEL under Fasted Conditions 
+ 
+VEL PK 
+Parameter 
+Mean (%CV) 
+VEL 
+5 mg 
+(N = 12) 
+VEL 
+50 mg 
+(N = 12) 
+VEL 
+100 mg 
+(N = 24) 
+VEL 
+150 mg 
+(N = 12) 
+VEL 
+450 mg 
+(N = 12) 
+Single Dose (Cohorts 1-6b) 
+AUClast (h*ng/mL) 134.2 (69.6) 
+2970.7 (40.1) 
+4985.6 (44.8) 
+4925.9 (48.0) 
+9503.8 (34.5) 
+AUCinf (h*ng/mL) 158.9 (64.0) 
+3017.2 (40.1) 
+5055.0 (45.3) 
+4978.3 (47.8) 
+9578.1 (34.3) 
+Cmax (ng/mL) 
+22.4 (55.4) 
+371.3 (32.7) 
+574.9 (37.2) 
+608.4  (46.7) 
+1121.6 (31.7) 
+Clast (ng/mL) 
+1.40 (26.9) 
+2.34 (61.4) 
+2.85 (80.3) 
+2.23 (40.1) 
+3.28 (50.5) 
+Tmax (h)a 
+1.50 (1.50, 
+2.00) 
+2.50  
+(2.00 3.00) 
+2.50  
+(2.50, 3.00) 
+2.75  
+(2.50, 3.50) 
+3.25 
+(2.50, 3.75) 
+Tlast (h) a 
+24.00 (14.00, 
+36.00) 
+72.00  
+(48.00, 96.00) 
+95.00  
+(71.50, 96.00) 
+96.00  
+(84.02, 96.00) 
+96.00 (96.00, 
+96.00) 
+t1/2 (h) a 
+11.20 (5.40, 
+16.89) 
+13.62  
+(10.62, 16.47) 
+15.73 
+(12.63, 17.11) 
+16.16  
+(14.55, 17.55) 
+14.97  
+(12.91, 16.73) 
+CL/F (mL/h) 
+58,398.0 
+(124.4) 
+19,188.4  
+(39.2) 
+24,617.9  
+(50.8) 
+72,185.5  
+(196.4)c 
+53,676.4  
+(42.5) 
+Multiple Dose (Cohorts 1-4b) 
+AUCtau (h*ng/mL) 172.3 (51.7) 
+3032.6 (40.4) 
+— 
+4890.8 (45.4) 
+9511.2 (40.9) 
+Cmax (ng/mL) 
+28.3 (49.3) 
+411.4 (40.7) 
+— 
+669.4 (48.1) 
+1195.7 (38.0) 
+Ctau (ng/mL) 
+2.2 (76.0) 
+37.9 (59.5) 
+— 
+63.4 (42.8) 
+127.7 (44.3) 
+Tmax (h) a 
+2.00  
+(1.25, 2.50) 
+2.50 
+(2.25, 3.00) 
+— 
+2.50  
+(2.50, 3.50) 
+3.00  
+(2.50, 4.25) 
+Tlast (h) a 
+24.00  
+(24.00, 24.00) 
+24.00  
+(24.00, 24.00) — 
+24.00  
+(24.00, 24.00) 
+24.00  
+(24.00, 24.00) 
+t1/2 (h) a 
+13.73  
+(13.19, 15.88) 
+13.02 (11.43, 
+16.23) 
+— 
+15.15  
+(12.03, 15.63) 
+11.74  
+(10.64, 13.12) 
+CLss/F (mL/h) 
+36,095.7 
+(46.4) 
+19,593.0  
+(50.5) 
+— 
+45,082.3  
+(88.3) 
+58,804.6  
+(57.3) 
+a      Tmax, Tlast, and t1/2, were reported as median (Q1, Q3). 
+b      VEL dosing by cohort: Cohort 1 = 50 mg, Cohort 2 = 150 mg, Cohort 3 = 5 mg, Cohort 4 = 450 mg, 
+Cohorts 5 and 6 (pooled in the fasted state) = 100 mg. 
+c      Mean (%CV) CL/F, AUCinf, and Cmax for the VEL 150-mg group excluding Subject 2687-2004 was 
+31,403.8 (40.5) mL/h, 5404 (36.2) h*ng/mL, and 660.5 (34.8) ng/mL, respectively. 
+ 
+Following single and multiple oral doses of VEL, maximum plasma concentrations occurred 
+between 1.50 and 3.25 hours (median Tmax). VEL exhibited nonlinear PK across the dose 
+range of 5 to 450 mg. Increases in exposure, as assessed by AUC and Cmax, were greater 
+than dose-proportional from 5 to 50 mg. Similar mean plasma exposures were observed upon 
+administration of GS-5816 100 and 150 mg and were driven by unexpectedly low exposures 
+(more than 10-fold lower than the values observed for other subjects) in a single subject 
+(Subject 2687-2004) in the 150-mg dose group. Mean (%CV) AUCinf and Cmax for the VEL 
+150-mg group excluding Subject 2687-2004 was 5404 (36.2) h*ng/mL and 660.5 (34.8) ng/mL, 
+respectively. Exclusion of this subject from PK analyses resulted in a less than dose-
+Reference ID: 3908046
+
+
+===== PAGE 48 =====
+
+44 
+ 
+proportional increase in exposure from 50 to 450 mg. Consistent with the half-life of VEL, 
+modest accumulation was observed with time. After multiple once-daily doses of VEL ≥ 5 mg, 
+the mean plasma concentrations of VEL at 24 hours postdose were above the protein-adjusted 
+concentration of a compound inhibiting virus replication by 50% [EC50: 0.027(0.024 ng/mL) to 
+1.7 nM (1.5ng/mL)] for genotype 1 to 6 HCV replicons. 
+ 
+The VEL PK parameters after administration of a single dose of VEL 100 mg under fasted and 
+fed conditions are presented in Table 2.  
+ 
+Table 2: Food Effects on Velpatasvir 
+ 
+VEL PK Parameter 
+GLSM 
+% GLSM Ratio (90% CI) 
+VEL 
+100 mg 
+Fed 
+(N = 12) 
+VEL 
+100 mg 
+Fasted 
+(N = 12) 
+Fed/Fasted 
+Light Breakfast (Cohort 5) 
+ 
+AUClast    (ng*h/mL) 
+6728.66 
+5389.63 
+124.84 (110.02, 141.67) 
+AUCinf (h*ng/mL) 
+6820.80 
+5469.11 
+124.72 (109.94, 141.48) 
+Cmax (ng/mL) 
+784.7
+581.72 
+134.89 (116.84, 155.74) 
+High-Fat Breakfast (Cohort 6) 
+ 
+AUClast    (h*ng/mL) 
+3222.57 
+3746.30 
+86.02 (73.17, 101.12) 
+AUCinf (h*ng/mL) 
+3267.75 
+3786.61 
+86.30 (73.43, 101.42) 
+Cmax (ng/mL) 
+364.3
+485.72 
+75.02 (62.56, 89.97) 
+ 
+Food slowed the rate of absorption of VEL without significantly impacting bioavailability. 
+Administration of VEL with a light breakfast resulted in 25% and 35% increases in AUC and 
+Cmax, respectively. Administration of VEL with a high-fat/high-calorie breakfast resulted in 14% 
+and 25% decreases in AUC and Cmax, respectively. These changes were not expected to have 
+a clinical consequence. It is noted that the exposures under fasted conditions were 20%-46% 
+higher in Cohort 5 compared to Cohort 6. It is not clear what factors contributed to the large 
+inter-cohort variability. 
+ 
+The statistical comparisons of the primary PK parameters for VEL, after administration of VEL 
+alone and in combination with a single dose of SOF and the primary PK parameters for SOF, 
+GS-566500, and GS-331007 after administration of SOF alone and in combination with VEL are 
+presented in the table below.  
+ 
+Reference ID: 3908046
+
+
+===== PAGE 49 =====
+
+45 
+ 
+Table 3: Drug-Drug Interaction between Sofosbuvir and Velpatasvir 
+VEL PK Parameter 
+GLSM 
+%GLSM Ratio (90% CI) 
+VEL 150 mg 
+(N = 18) 
+SOF 400 mg + VEL 
+150 mg (N = 18) 
+SOF+VEL/VEL 
+AUCtau(h*ng/mL) 
+7284.95 
+8138.22 
+111.71 (107.54, 116.04) 
+Cmax (ng/mL) 
+932.27 
+987.69 
+105.94 (101.86, 110.20) 
+Ctau (ng/mL) 
+101.09 
+118.90 
+117.61 (111.94, 123.57) 
+SOF PK Parameter 
+SOF 400 mg 
+(N = 18) 
+SOF 400 mg + VEL 
+150 mg (N = 18) 
+SOF+SOF/VEL 
+AUClast(h*ng/mL) 
+1154.59 
+2749.10 
+238.10 (214.62, 264.16) 
+AUCinf (h*ng/mL) 
+1159.50 
+2756.96 
+237.77 (214.27, 263.85) 
+Cmax (ng/mL) 
+880.28 
+1593.80 
+181.06 (149.43, 219.38) 
+GS-566500 
+PK Parameter 
+SOF 400 mg 
+(N = 18) 
+SOF 400 mg + VEL 
+150 mg (N = 18) 
+SOF+SOF/VEL 
+AUClast(h*ng/mL) 
+1615.7 
+2946.3 
+182.35 (167.52, 198.50) 
+AUCinf (h*ng/mL) 
+1671.8 
+2999.5 
+179.42 (165.03, 195.06) 
+Cmax (ng/mL) 
+395.6 
+639.6 
+161.68 (145.27, 179.94) 
+GS-331007 
+PK Parameter 
+SOF 400 mg 
+(N = 18) 
+SOF 400 mg + VEL 
+150 mg (N = 18) 
+SOF+SOF/VEL 
+AUClast(h*ng/mL) 
+11,173.87 
+12,610.86 
+112.86 (107.90, 118.05) 
+AUCinf (h*ng/mL) 
+11,842.52 
+13,774.96 
+116.32 (110.99, 121.90) 
+Cmax (ng/mL) 
+1080.97 
+693.62 
+64.17 (58.45, 70.44) 
+ 
+VEL plasma exposures (AUCtau, Cmax, and Ctau) were not affected by the coadministration of 
+SOF, and thus no dose adjustment is required for VEL. SOF plasma exposures increased 
+approximately 1.8- (Cmax) and 2.4-fold (AUC) when coadministered with VEL. GS-566500 
+Cmax and AUC increased approximately 1.6- and 1.8-fold, respectively, when SOF was 
+coadministered with VEL. GS-331007 Cmax decreased approximately 36%, but AUC was 
+unaffected by coadministration of SOF+VEL. 
+ 
+The effect of VEL on SOF (and GS-566500) exposure is likely due to VEL inhibition of the 
+intestinal efflux drug transporters P-glycoprotein (P-gp) and possibly breast cancer resistance 
+protein (BCRP), as SOF is known to be a substrate of these transporters. The increase in the 
+systemic exposure of SOF (and GS-566500) by VEL was similar to that seen previously with P-
+gp and/or BCRP inhibitors and does not warrant any SOF dose modification. 
+ 
+Conclusion:  
+• 
+VEL exhibited nonlinear PK across the evaluated single- or multiple-dose range. 
+Increases in exposure were more than dose-proportional up to 50 mg, and less than 
+dose-proportional above 50 mg; modest accumulation was seen with time, consistent 
+with half-life. 
+• 
+Food did not substantially alter the exposure of VEL; the clinical relevance of any 
+changes in PK were assessed within the clinical development program for VEL. 
+• 
+SOF plasma exposures increased approximately 1.8- (Cmax) and 2.4-fold (AUC) when 
+coadministered with VEL. GS-566500 Cmax and AUC increased approximately 1.6- and 
+1.8-fold, respectively, when SOF was coadministered with VEL. GS-331007 Cmax 
+decreased approximately 36%, but AUC was unaffected by coadministration of 
+SOF+VEL. VEL pharmacokinetics is not affected by coadministration with SOF. VEL and 
+SOF may be coadministered, with no dose adjustment required for either agent. 
+Reference ID: 3908046
+
+
+===== PAGE 54 =====
+
+50 
+ 
+The standard curve and QC data indicated that the plasma assay method for VEL was precise 
+and accurate. 
+ 
+ 
+Pharmacokinetics Results: Table 2 presents PK parameters of GS-5816 after single-dose and 
+multiple-dose administration of GS-5816 in subjects with genotype 1a, 1b, 2, 3, or 4 HCV 
+infection. GS-5816 Cmax and AUC increased in an approximately dose-proportional manner 
+between 25 mg and 150 mg. Increases in GS-5816 exposures were generally greater than 
+dose-proportional from 5 mg to 25 mg. Median time to reach maximal GS-5816 concentration 
+(Tmax) ranged between 2.25 to 2.75 hours after the first dose and 1.5 to 3.0 hours after multiple 
+(3) doses. On Day 3, the median half-life (t1/2) across cohorts ranged from approximately 14 to 
+20 hours, supporting once-daily dosing. With the small number of subjects, it is difficult to 
+determine whether exposures were statistically similar across all genotypes. However, the 
+population PK analysis for GS-5816 with multiple studies also shows that GS-5816 was similar 
+among genotypes. PK Table 3 shows the GS-5826 PK parameters by grouping all genotypes 
+with the same doses.  
+ 
+Reference ID: 3908046
+
+
+===== PAGE 75 =====
+
+71 
+ 
+The other PK parameters that were estimated in this study included Tmax, Clast, Tlast, λz, %AUCexp, 
+t1/2, V/F, and CL/F  (Table 2). GS-5816 plasma exposure parameter estimates (AUCinf and 
+AUClast) in subjects with hepatic impairment (moderate and severe) were similar to the 
+estimates in subjects with normal hepatic function. Compared to control subjects, observed Cmax 
+of GS-5816 was approximately 41% and 53% lower in subjects with moderate and severe 
+hepatic impairment, respectively. Median terminal t1/2 was prolonged in subjects with moderate 
+hepatic impairment (~23 h) and severe hepatic impairment (~31 h), compared to control 
+subjects (~18 h). The sponsor indicates that in subjects with hepatic impairment, the 
+simultaneous reduction in bioavailability and systemic clearance of GS-5816 contributed to the 
+observed similar exposures; regardless of a subject’s hepatic impairment status.  
+ 
+Table 2: GS-5816 plasma pharmacokinetic parameters following administration of a 
+single 100-mg dose in subjects with moderate or severe hepatic impairment and subjects 
+with normal hepatic function (source: Study Report Table 10-1) 
+ 
+ 
+Reference ID: 3908046
+
+
+===== PAGE 77 =====
+
+73 
+ 
+AUC of patients with decompensated cirrhosis was 27% lower than the hepatic normal or 
+subjects with compensated cirrhosis.  
+ 
+Additionally, protein binding results from the non-HCV-infected subjects (GS-US-281-0112) 
+shows that in comparison to control subjects, mean unbound drug fraction is 1.4 times and 2.2 
+times higher in subjects with moderate and severe hepatic impairment, respectively. Therefore, 
+higher clearance estimates could partly be a consequence of the reduced protein binding. 
+ 
+Overall, although these results indicate that hepatic impairment may differentially affect GS-
+5816 exposure in healthy vs. HCV-infected subjects, the lower exposures in HCV-infected 
+subjects are not likely to be clinically relevant, based on the efficacy results of the phase 3 trials.  
+ 
+Conclusions: 
+• 
+For GS-5816, dose modification is not warranted for patients with any degree of hepatic 
+impairment 
+• 
+Overall, GS-5816 is well-tolerated by subjects with moderate or severe hepatic 
+impairment 
+ 
+4.1.3.2 GS-US-281-1056: A Phase 1, Open-Label, Parallel-Group, Single-Dose Study to 
+Evaluate the Pharmacokinetics of GS-5816 in Subjects with Normal Renal Function and 
+Severe Renal Impairment 
+Study Rationale: In the Mass balance study (GS-US-281-1055), following a single dose of 
+radiolabeled [14C] GS-5816, approximately 0.4% of the dose was present in urine as parent and 
+metabolites. Given that renal excretion of GS-5816 is a minor pathway for elimination, the 
+sponsor has conducted this reduced (design) PK study to assess the effect of renal impairment 
+on GS-5816 PK. Additionally, in vitro study results indicated that GS-5816 is highly protein 
+bound (>99.5%); therefore, this study also included the assessment of GS-5816 protein binding 
+in subjects with renal impairment.  
+ 
+Primary Objective(s): To evaluate the single-dose PK of GS-5816 in subjects with severe renal 
+impairment and matched healthy control subjects. The primary endpoints were the PK 
+parameters AUClast, AUCinf, and Cmax of GS-5816. 
+ 
+Study Design: In this single dose study, 19 eligible subjects were enrolled in 2 groups (10 
+subjects in Group 1 and 9 subjects in Group 2). Subjects with calculated creatinine clearance 
+(CLcr) < 30 mL/min (using Cockcroft-Gault formula) were enrolled in the severe renal 
+impairment group (Group 1). Once a renally impaired subject completed through Day 6 of the 
+study, a healthy match (matched for age (± 10 years), sex, and BMI (± 15%)) was enrolled into 
+the control group (Group 2). However, because of the extended difficulty in identifying a healthy 
+match for one subject with severe renal impairment, only 9 subjects were enrolled in the control 
+group. Pharmacokinetic sampling was performed following a single oral dose of GS-5816 100 
+mg (2 × 50-mg tablets) with a light breakfast on Day 1 (Figure 1), until 120 hours postdose. 
+ 
+Reference ID: 3908046
+
+
+===== PAGE 80 =====
+
+ 
+76
+Table 3: GS-5816 plasma PK parameters following administration of GS-5816 in subjects 
+with severe renal impairment and normal renal function (source: Study Report Table 10-1) 
+ 
+ 
+Table 4: Statistical evaluations of GS-5816 plasma pk parameters following 
+administration of GS-5816 in subjects with severe renal impairment and normal renal 
+function (source: Study Report Table 10-2) 
+ 
+ 
+The other PK parameters that were estimated in this study included Tmax, Clast, Tlast, %AUCexp, 
+t1/2, V/F, and CL/F  (Table 3). In subjects with severe renal impairment, mean GS-5816 plasma 
+exposure (AUC) was approximately 43% higher compared to subjects with normal renal 
+function. However, reported mean estimates for Cmax and median t1/2 were similar between the 
+groups. Median time to reach Cmax (Tmax) was longer in subjects with severe renal impairment (4 
+hours) than in subjects with normal renal function (3 hours).  
+ 
+Protein Binding:  Protein binding was assessed at Tmax or at the time closest to Tmax. Protein 
+binding estimates were similar in subjects with severe renal impairment and with normal renal 
+function (Table 5).  
+ 
+Reference ID: 3908046
+
+
+===== PAGE 84 =====
+
+ 
+80
+Table 2: The effect of Velpatasvir on the PK of Probe Substrates 
+PK Parameter 
+GLSM 
+%GLSM Ratio 
+(90% CI) Test / Reference 
+Reference 
+Test Treatment 
+Pravastatin PK: Pravastatin + VEL (test) versus Pravastatin (reference) (N = 18)  
+AUClast 
+181.09 
+243.58 
+134.51 (117.30, 154.25) 
+AUCinf (h*ng/mL) 183.59 
+247.26 
+134.68 (117.52, 154.35) 
+Cmax (ng/mL) 
+81.22 
+103.92 
+127.94 (107.61, 152.12) 
+Rosuvastatin PK: Rosuvastatin + VEL (test) versus Rosuvastatin (reference) (N = 18) 
+AUClast 
+54.10 
+149.42 
+276.20 (252.26, 302.42) 
+AUCinf (h*ng/mL) 57.13 
+153.77 
+269.15 (246.31, 294.11) 
+Cmax (ng/mL) 
+5.70 
+14.86 
+260.57 (232.28, 292.30) 
+Digoxin PK: Digoxin + VEL (test) versus Digoxin (reference) (N = 21) 
+AUClast 
+9187.94 
+14,690.33 
+159.89 (140.68, 181.72) 
+AUCinf (h*pg/mL) 15,880.69 (N = 20) 21,335.82 (N = 20) 134.35 (112.78, 160.05) 
+Cmax (pg/mL) 
+1103.43 
+2077.33 
+188.26 (170.55, 207.81) 
+Cyclosporine PK: Cyclosporine + VEL (test) versus Cyclosporine (reference) (N = 12) 
+AUClast 
+11,708.02 
+10,369.34 
+88.57 (78.18, 100.34) 
+AUCinf (h*ng/mL) 12,726.49 
+11,245.24 
+88.36 (77.90, 100.23) 
+Cmax (ng/mL) 
+1905.21 
+1745.42 
+91.61 (82.20, 102.10) 
+ 
+Pravastatin AUC and Cmax were 35% and 28% higher, respectively, following coadministration 
+with VEL, relative to pravastatin administration alone. The magnitude of this interaction is 
+comparable to that observed with verapamil and is likely due to the first pass inhibition of 
+hepatic drug transporter OATP1B1 by VEL, and does not require pravastatin dose modification.   
+ 
+Reviewer’s note: The results may not apply to other statins which are more sensitive to 
+OATP1B1 transport, such as simvastatin acid, pitavastatin, etc. 
+ 
+Rosuvastatin AUC and Cmax were approximately 2.8-and 2.6-fold higher, respectively, 
+following coadministration with VEL, relative to rosuvastatin administration alone. The 
+magnitude of this interaction is comparable to that observed with atazanavir (ATV) boosted with 
+ritonavir (ATV/r) and lopinavir (LPV)/r and is likely due to first pass inhibition of intestinal drug 
+transporter BCRP as well as hepatic drug transporter OATP by VEL. In accordance with the 
+prescribing information on the use of rosuvastatin with ATV/r and LPV/r, rosuvastatin dose 
+should be limited to 10 mg once daily during concomitant use with VEL. Monitoring for signs and 
+symptoms of muscle weakness or myopathy, including rhabdomyolysis, during concomitant use 
+of rosuvastatin with VEL may be warranted.  
+ 
+Reviewer’s note: Although the warning for rosuvastatin may not be extrapolated to other statins, 
+an additional study should be conducted for atorvastatin, a substrate of OATP, P-gp and BCRP.  
+In addition, drugs that are substrates of multiple transporters that are inhibited by VEL and with 
+narrow therapeutic index should be avoided for coadministration with VEL (e.g., topotecan, a 
+substrate for P-gp and BCRP). 
+ 
+Digoxin AUClast, AUCinf, and Cmax were 60%, 34%, and 88% higher, respectively, following 
+coadministration with VEL, relative to digoxin administration alone. The increase in digoxin 
+exposure is likely due to pre-systemic inhibition of P-gp. This result does not preclude the use of 
+Reference ID: 3908046
+
+
+===== PAGE 85 =====
+
+ 
+81
+P-gp substrates with VEL, but for digoxin, a drug with a narrow therapeutic range, the following 
+precaution similar to the Lanoxin® (digoxin) US Package Insert is recommended: 
+“Measure serum digoxin concentrations before initiating SOF/VEL. Reduce digoxin 
+concentrations by decreasing the dose by approximately 15-30% or by modifying the  
+dosing frequency and continue monitoring.”. 
+ 
+Cyclosporine AUC and Cmax were not significantly altered following coadministration with VEL 
+relative to CsA administered alone. Cyclosporine is both a substrate of P-gp and CYP3A. In 
+vitro data suggest that VEL does not induce or inhibit CYP3A, and while VEL demonstrated to at 
+least weakly inhibit P-gp, simultaneous administration of VEL with CsA did not significantly 
+impact the PK of CsA. As only a minor decrease in CsA exposure was observed when 
+simultaneously administered with VEL, no CsA dose adjustment is necessary during 
+concomitant use with VEL. 
+ 
+Drug interaction potential between VEL and inducers and inhibitors of relevant CYP enzymes 
+and drug transport proteins was evaluated. The statistical comparisons of VEL PK parameters 
+AUClast, AUCinf, and Cmax when administered with rifampin, ketoconazole, or CsA or VEL 
+alone are presented in the table below. 
+ 
+Table 3: The effect of Probe inhibitors on Velpatasvir PK 
+ 
+PK Parameter 
+Geometric Least-Squares Mean 
+%GLSM Ratio (90% CI) 
+Test/Reference 
+Reference 
+Test Treatment 
+VEL PK: VEL + Multiple-Dose Rifampin (test) versus VEL (reference) (N = 12) 
+AUClast (h*ng/mL) 
+4845.7
+879.4
+18.15 (15.09, 21.82) 
+AUCinf (h*ng/mL) 
+4905.4
+907.2
+18.49 (15.41, 22.20) 
+Cmax (ng/mL) 
+658.3
+192.0
+29.17 (23.08, 36.86) 
+VEL PK: VEL + Ketoconazole (test) versus VEL (reference) (N = 12) 
+AUClast (h*ng/mL) 
+4574.4
+7659.9
+167.45 (131.21, 213.70) 
+AUCinf (h*ng/mL) 
+4647.4
+7962.8
+171.34 (134.70, 217.94) 
+Cmax (ng/mL) 
+543.3
+702.3
+129.27 (101.76, 164.22) 
+VEL PK: VEL + Single-Dose Rifampin (test) versus VEL (reference) (N = 12) 
+AUClast (h*ng/mL) 
+4153.0
+6108.6
+147.09 (117.52, 184.10) 
+AUCinf (h*ng/mL) 
+4219.4
+6166.1
+146.14 (116.93, 182.64) 
+Cmax (ng/mL) 
+528.8
+676.7
+127.98 (104.93, 156.10) 
+VEL PK: VEL + Cyclosporine (test) versus VEL (reference) (N = 12) 
+ 
+AUClast (h*ng/mL) 
+4153.0
+8425.9
+202.89 (151.33, 272.00) 
+AUCinf (h*ng/mL) 
+4219.4
+8553.5
+202.72 (151.46, 271.32) 
+Cmax (ng/mL) 
+528.8
+826.3
+156.27 (121.69, 200.67) 
+ 
+Substantial reductions in VEL AUC (approximately 82%) and Cmax (approximately 71%) were 
+observed following administration with multiple-dose rifampin, a strong inducer of CYP3A4/2C8 
+and P-gp compared with VEL administered alone. As such, VEL should not be administered 
+with strong inducers of CYP3A4/2C8 and P-gp. 
+ 
+VEL AUC and Cmax were approximately 70% and 29% higher, respectively, following 
+coadministration with ketoconazole, a strong inhibitor of CYP3A4/2C8 and P-gp, as compared 
+with VEL administered alone. As VEL concentrations increased only modestly following 
+Reference ID: 3908046
+
+
+===== PAGE 92 =====
+
+88 
+ 
+ 
+Table 2: Summary of Differences in Pharmacokinetic Parameters Following 
+Administration of SOF/VEL Alone or Coadministered with Famotidine or Omeprazole 
+ 
+Acid Reducing Agent 
+SOF PK Parameters 
+GS-566500 PK Parameters 
+AUClast 
+AUCinf 
+Cmax 
+AUClast 
+AUCinf 
+Cmax 
+Famotidine Simultaneous 
+↓17% 
+↓17% 
+↔ 
+↔ 
+↔ 
+↔ 
+Famotidine Staggered 
+↓20% 
+↓20% 
+↓23% 
+↓16% 
+↓16% 
+↓17% 
+Omeprazole Simultaneous 
+↓29% 
+↓29% 
+↓34% 
+↓30% 
+↓22% 
+↓27% 
+Omeprazole Staggered 
+↓44% 
+↓44% 
+↓45% 
+↓43% 
+↓37% 
+↓43% 
+Acid Reducing Agent 
+GS-331007 PK Parameters 
+VEL PK Parameters 
+AUClast 
+AUCinf 
+Cmax 
+AUClast 
+AUCinf 
+Cmax 
+Famotidine Simultaneous 
+↔ 
+↔ 
+↓16% 
+↓20% 
+↓19% 
+↓20% 
+Famotidine Staggered 
+↔ 
+↔ 
+↑20% 
+↓15% 
+↓15% 
+↓13% 
+Omeprazole Simultaneous 
+↔ 
+↔ 
+↑18% 
+↓37% 
+↓36% 
+ ↓37% 
+Omeprazole Staggered 
+↔ 
+↔ 
+ ↑26% 
+↓56% 
+↓55% 
+ ↓57% 
+Ninety percent CIs of the %GLSM ratios were within (↔), extended above (↑), or extended below (↓) 
+the equivalence boundaries of 80% to 125%. 
+ 
+Administration of SOF/VEL with famotidine 40 mg (simultaneously or staggered by 12 hours) did 
+not clinically significantly alter AUC or Cmax of SOF, GS-566500, GS-331007, or VEL. 
+ 
+Administration of SOF/VEL with omeprazole 20 mg (simultaneous or staggered by 12 hours) 
+under fasted conditions resulted in decreased SOF, GS-566500, and VEL exposures, and no 
+alteration in the AUC of GS-331007. 
+ 
+Conclusion:  
+• 
+SOF/VEL may be administered with famotidine up to 40 mg or equivalent. 
+• 
+SOF/VEL should not be administered with PPIs under fasted conditions. 
+ 
+4.1.4.4 GS-US-342-1709: A Phase 1 Study to Evaluate the Pharmacokinetics of 
+Sofosbuvir/Velpatasvir Fixed-Dose Combination (FDC) upon Administration with a 
+Representative Proton Pump Inhibitor  
+Objectives: To evaluate the relative bioavailability and PK of Sofosbuvir/Velpatasvir (SOF/VEL) 
+FDC upon co-administration with a representative PPI and food. 
+ 
+Study Design: This study included up to 4 cohorts (Cohorts 1 to 4) that comprised a total of 8 
+treatment sequences with 2 treatment sequences per cohort (ie, AB and BA [Cohort 1], CD and 
+DC [Cohort 2], EF and FE [Cohort 3], and GH and HG [Cohort 4]).  
+Reference ID: 3908046
+
+
+===== PAGE 96 =====
+
+92 
+ 
+ 
+Table 2: Summary of Differences in Pharmacokinetic Parameters Following 
+Administration of SOF/VEL Alone or Coadministered with Omeprazole 
+ 
+Dosing 
+Scheme 
+SOF PK Parameters 
+GS-566500 
+PK Parameters 
+GS-331007 PK 
+Parameters 
+GS-5816 PK Parameters
+AUClas
+AUCinf Cmax AUClas
+AUCinf Cma
+AUClas
+AUCinf Cma
+AUClas
+AUCinf Cmax 
+SOF/VEL 
+2 hours 
+After 
+OME 
+20 mg 
+↔ 
+↑8 
+↓16% 
+↑12 
+↑12 
+↔ 
+↔ 
+↔ 
+↔ 
+↓38% 
+↓38% 
+↓48% 
+SOF/ VEL 4 
+hours 
+Before 
+OME 
+20 mg 
+↔ 
+↔ 
+↓21% 
+↔ 
+↔ 
+↔ 
+↔ 
+↔ 
+↔ 
+↓26% 
+↓26% 
+↓33% 
+SOF/ VEL 
+4 hours 
+Before 
+OME 40 
+mg 
+↔ 
+↔ 
+↓30% 
+↔ 
+↔ 
+↔ 
+↔ 
+↔ 
+↔ 
+↓53% 
+↓53% 
+↓56% 
+OME = omeprazole 
+The 90% CIs of the %GLSM ratios were within (↔), extended above (↑), or extended below (↓) the 
+equivalence boundary of 80%. 
+ 
+Administration of SOF/VEL with food and omeprazole (regardless of timing or dose of 
+omeprazole) resulted in similar overall AUC of SOF or its metabolites GS-566500 and GS-
+331007, as compared to when SOF/VEL was administered alone under fasted conditions, . A 
+small decrease in SOF Cmax (16% to 30%) was observed following administration of SOF/VEL 
+with food and omeprazole. 
+ 
+Administration of SOF/VEL with food and omeprazole resulted in a decrease in VEL exposure. 
+The smallest decrease in VEL exposure (AUC: 26%, Cmax: 33%) was observed following 
+administration of SOF/VEL with food 4 hours before omeprazole 20 mg. A slightly larger 
+decrease in VEL exposure (AUC: 38%, Cmax: 48%) was observed when SOF/VEL was 
+administered with food 2 hours after omeprazole 20 mg. The largest decline in VEL exposure 
+(AUC: 53%, Cmax: 56%) was observed following SOF/VEL administration with food 4 hours 
+before omeprazole 40 mg. 
+ 
+Reviewer’s note: the reference SOF/VEL was given under fasted conditions. Therefore, 
+the reduced omeprazole effects could be partially due to the food effect on VEL (increased VEL 
+concentration by up to 34%)  rather than reduced omeprazole effect by food.  
+ 
+Conclusion:  
+• 
+The overall exposure of SOF and its metabolites were similar when SOF/GS-5816 was 
+administered with food and with omeprazole. 
+• 
+Staggering timing of omeprazole 20-mg administration modestly reduced GS-5816 
+exposure but not SOF or GS-331007 exposure when administered with food. 
+Reference ID: 3908046
+
+
+===== PAGE 100 =====
+
+96 
+ 
+ 
+Table 1: Effect of EFV/FTC/TDF, FTC/RPV/TDF, DTG, or EVG/COBI/FTC/TAF on SOF PK 
+SOF PK Parameter 
+GLSM 
+%GLSM Ratio (90% CI) 
+Test / Reference 
+SOF/GS-5816 
+(Reference, N = 14) 
+SOF/GS-5816 + EFV/FTC/TDF 
+(Test, N = 14) 
+AUCtau (ng•h/mL) 
+1989.8 
+1935.2 
+97.26 (83.19, 113.70) 
+Cmax (ng/mL) 
+1555.2 
+2148.2 
+138.13 (114.37, 166.82) 
+SOF/GS-5816 
+(Reference, N = 24) 
+SOF/GS-5816 + FTC/RPV/TDF 
+(Test, N = 24) 
+AUCtau (ng•h/mL) 
+2444.9 
+2845.3 
+116.38 (109.49, 123.70) 
+Cmax (ng/mL) 
+1674.7 
+1831.1 
+109.34 (95.37, 125.35) 
+SOF/GS-5816 
+(Reference, N = 24) 
+SOF/GS-5816 + DTG  
+(Test, N = 24) 
+AUCtau (ng•h/mL) 
+2279.4 
+2088.7 
+91.63 (84.60, 99.26) 
+Cmax (ng/mL) 
+1446.5 
+1276.0 
+88.22 (79.78, 97.54) 
+SOF/GS-5816 
+(Reference, N = 23) 
+SOF/GS-5816 + 
+EVG/COBI/FTC/TAF 
+(Test, N = 24) 
+AUCtau (ng•h/mL) 
+2601.3 
+3565.3 
+137.06 (123.53, 152.07) 
+Cmax (ng/mL) 
+1720.9 
+2116.0 
+122.96 (106.59, 141.84) 
+CI = confidence interval; GLSM = geometric least-squares (mean) 
+ 
+No significant effect has been observed on SOF AUC following coadministration of SOF/GS-
+5816 with EFV/FTC/TDF or on SOF AUC and Cmax following coadministration of SOF/GS-5816 
+with FTC/RPV/TDF.  A modest increase in SOF Cmax (approximately 38%) was observed when 
+administered with EFV/FTC/TDF, which is not considered clinically significant. Concomitant 
+administration of SOF/GS-5816 with EVG/COBI/FTC/TAF resulted in an approximate 37% 
+increase in SOF overall exposure (AUC). Of note, SOF plasma exposures are approximately 2-
+fold higher in the presence of GS-5816 (Study GS-US-281-0101), a finding attributed to the 
+inhibitory effects of GS-5816 on efflux transporters P-gp and/or BCRP for which SOF is a 
+substrate. Administration of SOF/GS-5816 with another P-gp and BCRP inhibitor (ie, COBI) 
+resulted in only incremental additional inhibition of these drug transporters. The magnitude of 
+increase in SOF plasma exposures caused by EVG/COBI/FTC/TAF was small and was not 
+deemed clinically relevant. 
+ 
+Reference ID: 3908046
+
+
+===== PAGE 104 =====
+
+100 
+ 
+ 
+Effect of Sofosbuvir/GS-5816 on Efavirenz (EFV), Rilpivirine (RPV), Dolutegravir (DTG), 
+Elvitegravir (EVG), Cobicistat (COBI), Emtricitabine (FTC), Tenofovir (TFV), and Tenofovir 
+Alafenamide Fumarate (TAF) 
+ 
+The effects of SOF/GS-5816 on EFV, RPV, DTG, EVG, COBI, FTC, TFV, and TAF were 
+summarized in Tables 5 to 12. 
+ 
+Table 5: Statistical Comparisons of EFV Plasma Pharmacokinetic Parameter Estimates 
+Following Administration of Multiple Doses of EFV/FTC/TDF or SOF/GS-5816 + 
+EFV/FTC/TDF (Cohort 1, EFV PK Analysis Set) 
+Efavirenz PK 
+Parameter 
+GLSM 
+%GLSM Ratio (90% CI) 
+Test / Reference 
+EFV/FTC/TDF 
+(Reference, N = 15) 
+SOF/GS-5816 + EFV/FTC/TDF 
+(Test, N = 15) 
+AUCtau (ng•h/mL) 
+46,755.7 
+39,930.0 
+85.40 (80.13, 91.02) 
+Cmax (ng/mL) 
+2895.3 
+2346.0 
+81.03 (73.82, 88.93) 
+Ctau (ng/mL) 
+1396.5 
+1255.5 
+89.91 (84.89, 95.22) 
+CI = confidence interval; GLSM = geometric least-squares (mean) 
+ 
+EFV exposures were approximately 10% to 19% lower following administration of SOF/GS-5816 
++ EFV/FTC/TDF. Because EFV significantly reduces the exposures of GS-5816 (Table 4), 
+SOF/GS-5816 should not be coadministered with EFV containing regimens. 
+ 
+Table 6: Statistical Comparisons of RPV Plasma Pharmacokinetic Parameter Estimates 
+Following Administration of Multiple Doses of FTC/RPV/TDF or SOF/GS-5816 + 
+FTC/RPV/TDF (Cohort 2, RPV PK Analysis Set) 
+Rilpivirine PK 
+Parameter 
+GLSM 
+%GLSM Ratio (90% CI) 
+Test / Reference 
+FTC/RPV/TDF 
+(Reference, N = 24) 
+SOF/GS-5816 + FTC/RPV/TDF 
+(Test, N = 24) 
+AUCtau (ng•h/mL) 
+2695.9 
+2561.0 
+95.00 (89.95, 100.33) 
+Cmax (ng/mL) 
+189.8 
+176.7 
+93.07 (88.18, 98.23) 
+Ctau (ng/mL) 
+91.6 
+88.0 
+96.11 (89.67, 103.01) 
+CI = confidence interval; GLSM = geometric least-squares (mean) 
+ 
+Table 7: Statistical Comparisons of DTG Plasma Pharmacokinetic Parameter Estimates 
+Following Administration of Multiple Doses of DTG or SOF/GS-5816 + DTG (Cohort 3, 
+DTG PK Analysis Set) 
+Dolutegravir PK 
+Parameter 
+GLSM 
+%GLSM Ratio (90% CI) 
+Test / Reference 
+DTG (Reference, N = 24) SOF/GS-5816 + DTG (Test, 
+N = 24) 
+AUCtau (ng•h/mL) 
+66,076.1 
+70,324.5 
+106.43 (100.68, 112.50) 
+Cmax (ng/mL) 
+4839.5 
+5134.1 
+106.09 (101.04, 111.39) 
+Ctau (ng/mL) 
+1607.6 
+1669.2 
+103.84 (97.74, 110.31) 
+CI = confidence interval; GLSM = geometric least-squares (mean) 
+Reference ID: 3908046
+
+
+===== PAGE 105 =====
+
+101 
+ 
+ 
+ 
+Table 8: Statistical Comparisons of EVG Plasma Pharmacokinetic Parameter Estimates 
+Following Administration of Multiple Doses of EVG/COBI/FTC/TAF or SOF/GS-5816 + 
+EVG/COBI/FTC/TAF (Cohort 4, EVG PK Analysis Set) 
+Elvitegravir PK 
+Parameter 
+GLSM 
+ 
+%GLSM Ratio (90% 
+CI) Test / Reference 
+EVG/COBI/FTC/TAF 
+(Reference, N = 23) 
+SOF/GS-5816 + EVG/COBI/FTC/TAF 
+(Test, N = 24) 
+AUCtau (ng•h/mL) 
+25,213.8 
+23,700.3 
+94.00 (88.05, 100.35) 
+Cmax (ng/mL) 
+2166.3 
+1876.6 
+86.62 (80.12, 93.66) 
+Ctau (ng/mL) 
+489.5 
+528.2 
+107.92 (97.01, 120.07) 
+CI = confidence interval; GLSM = geometric least-squares (mean) 
+ 
+SOF/GS-5816 had no effect on the PK of RPV, DTG or EVG. 
+ 
+Table 9: Statistical Comparisons of COBI Plasma Pharmacokinetic Parameter Estimates 
+Following Administration of Multiple Doses of EVG/COBI/FTC/TAF or SOF/GS-5816 + 
+EVG/COBI/FTC/TAF (Cohort 4, COBI PK Analysis Set) 
+Cobicistat PK 
+Parameter 
+GLSM 
+%GLSM Ratio (90% CI) 
+Test / Reference 
+EVG/COBI/FTC/TAF 
+(Reference, N = 23) 
+SOF/GS-5816 + EVG/COBI/FTC/TAF 
+(Test, N = 24) 
+AUCtau (ng•h/mL) 11,197.5 
+14,597.3 
+130.36 (122.97, 138.20) 
+Cmax (ng/mL) 
+1607.1 
+1857.0 
+115.55 (108.70, 122.83) 
+Ctau (ng/mL) 
+27.2 
+55.4 
+203.45 (166.78, 248.17) 
+CI = confidence interval; GLSM = geometric least-squares (mean) 
+ 
+COBI AUCtau, Cmax, and Ctau were approximately 30%, 16%, and 103% higher, respectively, 
+following administration of SOF/GS-5816 + EVG/COBI/FTC/TAF compared with 
+EVG/COBI/FTC/TAF alone, indicating an impact of SOF/GS-5816 on COBI PK. While COBI 
+Ctau increased approximately 2-fold, the impact on overall exposure (AUCtau) was minor due to 
+the relatively short COBI t1/2. The increase in COBI overall exposure when EVG/COBI/FTC/TAF 
+is administered with SOF/GS-5816 is not considered clinically relevant. 
+ 
+Table 10: Statistical Comparisons of TAF Plasma Pharmacokinetic Parameter Estimates 
+Following Administration of Multiple Doses of EVG/COBI/FTC/TAF or SOF/GS-5816 + 
+EVG/COBI/FTC/TAF (Cohort 4, TAF PK Analysis Set) 
+TAF PK 
+Parameter 
+GLSM 
+%GLSM Ratio (90% CI) 
+Test / Reference 
+EVG/COBI/FTC/TAF 
+(Reference, N = 23) 
+SOF/GS-5816 + EVG/COBI/FTC/TAF 
+(Test, N = 24) 
+AUCtau (ng•h/mL) 331.7 
+289.9 
+87.39 (81.06, 94.22) 
+Cmax (ng/mL) 
+307.6 
+244.8 
+79.57 (67.68, 93.54) 
+CI = confidence interval; GLSM = geometric least-squares (mean) 
+ 
+Reference ID: 3908046
+
+
+===== PAGE 106 =====
+
+102 
+ 
+ 
+Concomitant administration of EVG/COBI/FTC/TAF with SOF/GS-5816 did not alter overall TAF 
+PK. A modest decrease in TAF Cmax (approximately 20%) was observed when administered 
+with SOF/GS-5816.  As the overall exposure (AUC) of TAF was unchanged, 20% decrease in 
+Cmax observed following administration of SOF/GS-5816 with EVG/COBI/FTC/TAF in this 
+study is not considered clinically relevant. 
+ 
+Table 11: Statistical Summary of FTC PK 
+FTC PK Parameter 
+GLSM 
+%GLSM Ratio (90% CI) 
+Test / Reference 
+EFV/FTC/TDF 
+(Reference, N = 15) 
+SOF/GS-5816 + EFV/FTC/TDF 
+(Test, N = 15) 
+AUCtau (ng•h/mL) 
+9240.7 
+9857.9 
+106.68 (99.86, 113.96) 
+Cmax (ng/mL) 
+1733.0 
+1860.9 
+107.38 (97.71, 118.01) 
+Ctau (ng/mL) 
+60.4 
+66.3 
+109.71 (96.61, 124.59) 
+FTC/RPV/TDF 
+(Reference, N = 24) 
+SOF/GS-5816 + FTC/RPV/TDF 
+(Test, N = 24) 
+AUCtau (ng•h/mL) 
+9774.1 
+9719.1 
+99.44 (96.72, 102.23) 
+Cmax (ng/mL) 
+1934.8 
+1833.3 
+94.75 (89.64, 100.15) 
+Ctau (ng/mL) 
+74.3 
+77.8 
+104.69 (98.79, 110.93) 
+EVG/COBI/FTC/TAF 
+(Reference, N = 23) 
+SOF/GS-5816 + 
+EVG/COBI/FTC/TAF  
+(Test, N = 24) 
+AUCtau (ng•h/mL) 
+11,679.1 
+11,812.1 
+101.14 (98.08, 104.29) 
+Cmax (ng/mL) 
+2122.8 
+2161.2 
+101.81 (97.39, 106.44) 
+Ctau (ng/mL) 
+94.0 
+95.6 
+101.71 (96.80, 106.88) 
+CI = confidence interval; GLSM = geometric least-squares (mean) 
+ 
+SOF/GS-5816 had no effect on the PK of FTC. 
+ 
+Reference ID: 3908046
+
+
+===== PAGE 107 =====
+
+103 
+ 
+ 
+Table 12: Statistical Summary of TFV PK 
+TFV PK Parameter 
+GLSM 
+%GLSM Ratio (90% CI) Test 
+/ Reference 
+EFV/FTC/TDF 
+(Reference, N = 15) 
+SOF/GS-5816 + EFV/FTC/TDF 
+(Test, N = 15) 
+AUCtau (ng•h/mL) 
+2111.9 
+3817.3 
+180.75 (168.16, 194.29) 
+Cmax (ng/mL) 
+282.5 
+499.5 
+176.83 (153.12, 204.22) 
+Ctau (ng/mL) 
+39.5 
+87.2 
+220.71 (200.23, 243.30) 
+FTC/RPV/TDF 
+(Reference, N = 24) 
+SOF/GS-5816 + FTC/RPV/TDF 
+(Test, N = 24) 
+AUCtau (ng•h/mL) 
+3088.7 
+4317.8 
+139.79 (133.97, 145.87) 
+Cmax (ng/mL) 
+350.5 
+503.2 
+143.57 (132.73, 155.30) 
+Ctau (ng/mL) 
+57.1 
+104.9 
+183.86 (175.74, 192.36) 
+EVG/COBI/FTC/TAF 
+(Reference, N = 23) 
+SOF/GS-5816 + 
+EVG/COBI/FTC/TAF  
+(Test, N = 24) 
+AUCtau (ng•h/mL) 
+284.5 
+346.1 
+121.63 (118.09, 125.28) 
+Cmax (ng/mL) 
+17.1 
+20.4 
+119.68 (115.53, 123.98) 
+Ctau (ng/mL) 
+10.2 
+12.6 
+123.44 (119.27, 127.75) 
+CI = confidence interval; GLSM = geometric least-squares (mean) 
+ 
+Modest increases in TFV AUCtau, Cmax, and Ctau of approximately 81%, 77%, and 121%, 
+respectively, were observed following coadministration of SOF/GS-5816 + EFV/FTC/TDF 
+compared to EFV/FTC/TDF alone. Similarly, increases in TFV AUCtau, Cmax, and Ctau of 
+approximately 40%, 44%, and 84%, respectively, were observed following coadministration of 
+SOF/GS-5816 + FTC/RPV/TDF compared to FTC/RPV/TDF alone. Since administration of food 
+increases TFV AUC and Cmax, TFV exposures when administered as a component of 
+FTC/RPV/TDF were higher than TFV exposures when administered as a component of 
+EFV/FTC/TDF.  
+ 
+Overall, similar absolute TFV plasma exposures were achieved following treatment with 
+SOF/GS-5816 + EFV/FTC/TDF or SOF/GS-5816 + FTC/RPV/TDF. The effect of SOF/GS-5816 
+on TFV exposures following coadministration of SOF/GS-5816 with EFV/FTC/TDF or 
+FTC/RPV/TDF was similar to the effect of ledipasvir (LDV)/SOF on TFV exposures. Therefore, 
+similar to the Harvoni® US Package Insert, the following statement, monitor for tenofovir-
+associated adverse reactions in patients receiving SOF/VEL concomitantly with a regimen 
+containing tenofovir DF without a HIV protease inhibitor/ritonavir or cobicistat, is recommended. 
+ 
+Small increases in TFV PK primary PK parameters (AUCtau, Cmax, and Ctau) of approximately 
+1.2-fold were observed following coadministration of SOF/GS-5816 + EVG/COBI/FTC/TAF 
+compared to EVG/COBI/FTC/TAF alone. The magnitudes of the increases are not considered 
+clinically significant. 
+ 
+ 
+ 
+Reference ID: 3908046
+
+
+===== PAGE 159 =====
+
+155 
+ 
+ 
+Figure 1: Effect of Covariates on Velpatasvir Steady-State Exposure (AUC, Cmin and Cmax) 
+ 
+Source: Figure 12 on page 46 of applicant’s population PK report for GS-5816 
+Of note, healthy volunteers were estimated to have 61% higher steady state AUC than HIV 
+infected subjects, and female subjects had 43% higher steady state AUC than male subjects. 
+Subjects with moderate and severe hepatic impairment (CPT-B/C) had 26% lower AUC than 
+subjects with normal hepatic function. However, the difference in AUC caused by these factors 
+is not clinically significant and no VEL dose adjustments are necessary based on these factors. 
+1.1.2   What covariates significantly influence sofosbuvir pharmacokinetics and are any 
+dose adjustments necessary based on these changes? 
+Covariates identified to have significant influence on sofosbuvir oral clearance (CL/F) in the 
+Applicant’s population PK analysis for sofosbuvir (GS-7977) after administration of SOF and 
+velpatasvir (VEL) or SOF/VEL fixed-dose combination, were disease status and sex. Subjects 
+with moderate and severe hepatic impairment (CPT-B/C) had a 44.6% lower CL/F than subjects 
+with normal hepatic function. Female subjects were estimated to have 14% lower CL/F than 
+male subjects. Food slowed drug absorption and decreased ka by 29.8%. The effect of 
+covariates on sofosbuvir PK and exposure is summarized below in Table 2 and Figure 2. 
+Reference ID: 3908046
+
+
+===== PAGE 163 =====
+
+159 
+ 
+ 
+Data: Data for population PK analysis were pooled from 11 clinical studies (GS-US-342-0102, 
+GS-US-342-0104, GS-US-342-0109, GS-US-337-0122, GS-US-342-1137, GS-US-342-1138, 
+GS-US-342-1139, GS-US-342-1140 GS-US-342-1167, GS-US-342-1326, and GS-US-342-
+1346). A total of 18,459 data points from 2022 subjects were included in the model development 
+dataset.  
+ 
+Population PK Model Development 
+ 
+Base Model: The selected base model that best described the velpatasvir data was a two-
+compartment model with first-order absorption, first-order elimination from the central 
+compartment, and a lag time. The PK model was parameterized with clearance (CL), central 
+volume (Vc), inter-compartment clearance (Q), peripheral volume (Vp) absorption rate constant 
+(Ka) and a lag time (Tlag). The impact of food on Ka and Tlag were also included in the base 
+model. The scheme of the model is depicted in Figure 3. 
+ 
+Figure 3: Two-compartment PK Model with First Order Absorption 
+ 
+ 
+Final Model 
+Full population PK Model was constructed via forward inclusion of covariates of interest followed 
+by a reduction step removing covariates using a stepwise backward elimination method. The 
+criterion for retention was a change in likelihood ratio > 10.98 for 1 parameter (p< 0.001). The 
+final model includes the following parameter-covariate relationships: 
+ 
+ 
+The parameter estimates of the final model were summarized in the Table 6. Goodness-of-fit 
+plots and visual predictive check (VPC) plots are shown in Figure 4 and Figure 5, respectively. 
+Reference ID: 3908046
+
+
+===== PAGE 166 =====
+
+162 
+ 
+ 
+3.2  
+Population PK Analysis: Sofosbuvir 
+The applicant performed population pharmacokinetic analysis of sofosbuvir using the data 
+collected from 11 clinical studies.  The studies included treatments with VEL (100 mg or 25 mg) 
+in combination with SOF 400 mg, or SOF/VEL (400 mg/100 mg) FDC treatment.  
+ 
+Objectives: The objective of the analysis was to develop a model to characterize sofosbuvir 
+400 mg pharmacokinetics in the presence of velpatasvir, and the effects of demographic, 
+pathophysiologic, and HCV disease-related covariates on sofosbuvir PK parameters.  Model 
+predicted individual sofosbuvir exposure was also provided for additional exposure-response 
+analysis for safety and efficacy.  
+ 
+Data: Data for population PK analysis were pooled from 11 clinical studies (GS-US-342-0102, 
+GS-US-342-0104, GS-US-342-0109, GS-US-337-0122, GS-US-342-1137, GS-US-342-1138, 
+GS-US-342-1139, GS-US-342-1140 GS-US-342-1167, GS-US-342-1326, and GS-US-342-
+1346). A total of 8507 data points from 1519 subjects were included in the model development 
+dataset.  
+ 
+Population PK Model Development 
+ 
+Base Model: The selected base model that best described the sofosbuvir data was a one-
+compartment model with first-order absorption. The PK model was parameterized with 
+clearance (CL), volume of distribution (V),) absorption rate constant (Ka) and a lag time (Tlag). 
+The impact of food on Ka and Tlag were also included in the base model. The scheme of the 
+model is depicted in Figure 6.  
+ 
+Figure 6: One-compartment PK Model with First Order Absorption 
+ 
+ 
+Final Model 
+ 
+The full population PK Model was constructed via forward inclusion of covariates of interest 
+followed by a reduction step removing covariates using a stepwise backward elimination 
+method. The criterion for retention was a change in likelihood ratio > 10.98 for 1 parameter (p< 
+0.001). Assessed covariates included baseline demographic covariates (age, body weight, BMI, 
+sex, ethnicity, and race), pathophysiological covariates (CLCR, EGFR, HI, CIRR, IL28B, HCV 
+genotype, disease status, and concomitant medications), RBV usage, and food. 
+The parameter estimates of the final model were summarized below in the Table 7. The model 
+goodness-of-fit plots and VPC plots are shown in Figure 7 and Figure 8. 
+ 
+Reference ID: 3908046
+
+
+===== PAGE 169 =====
+
+165 
+ 
+ 
+However, while the final model generally captured the observed data, the fitting of the data as 
+shown in the goodness-of-fit plots is poor, either due to data quality or the model/covariate 
+structure.  
+ 
+3.3 
+Population PK Analysis: GS-331007 
+The applicant performed population pharmacokinetic analysis of GS-331007 (sofosbuvir 
+metabolite) using the data collected from 11 clinical studies.  The studies included treatments 
+with VEL (100 mg or 25 mg) in combination with SOF 400 mg, or SOF/VEL (400 mg/100 mg) 
+FDC treatment.  
+ 
+Objectives: The objective of the analysis was to develop a model to characterize GS-331007 
+pharmacokinetics following the combination treatment with sofosbuvir (400 mg) and velpatasvir 
+(100 mg). The effects of demographic, pathophysiologic, and HCV disease-related covariates 
+on GS-331007 PK parameters were also explored.  Model predicted individual sofosbuvir 
+exposure was generated for additional exposure-response analysis for safety and efficacy.  
+ 
+Data: Data for population PK analysis were pooled from 11 clinical studies (GS-US-342-0102, 
+GS-US-342-0104, GS-US-342-0109, GS-US-337-0122, GS-US-342-1137, GS-US-342-1138, 
+GS-US-342-1139, GS-US-342-1140 GS-US-342-1167, GS-US-342-1326, and GS-US-342-
+1346). A total of 18515 samples from 2025 subjects were included in the model development 
+dataset.  
+ 
+Population PK Model Development 
+ 
+Base Model: The selected base model that best described the GS-331007 data was a two-
+compartment model with first-order absorption, first order elimination from the central 
+compartment and a lag time, as illustrated in Figure 9.  The PK model was parameterized in 
+apparent clearance (CL/F), volume of distribution (Vc/F), apparent inter-compartment clearance 
+(Q/F), apparent peripheral volume (Vp/F), and absorption rate constant Ka.  
+ 
+Figure 9: Two-compartment Model Describing Plasma GS-331007 Concentration Time 
+Course Data Following an Oral Dose 
+ 
+Final Model 
+ 
+The full population PK Model was constructed via forward inclusion of covariates of interest 
+followed by a reduction step removing covariates using a stepwise backward elimination 
+method. The criterion for retention was a change in likelihood ratio > 10.98 for 1 parameter (p< 
+0.001). Assessed covariates included baseline demographic covariates (age, body weight, sex, 
+Reference ID: 3908046

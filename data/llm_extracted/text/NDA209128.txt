@@ -1,0 +1,970 @@
+
+
+===== PAGE 4 =====
+
+3 
+ 
+1. Executive Summary 
+1.1 
+Recommendation 
+The Office of Clinical Pharmacology/Division of Clinical Pharmacology 2 (OCP/DCP-2) and Division 
+of Pharmacometrics (DPM) has reviewed NDA 209128 resubmission dated May 3, 2018 and finds 
+it acceptable from clinical pharmacology perspective . As of today (10/16/18) when the review is 
+documented in DARRTS, the labeling negotiation is still ongoing with the applicant. The OCP 
+review team agrees with the applicant’s methodology to assess the risk associated with 
+accidental dosing of Dsuvia tablets in a 12 kg child.  
+ 
+1.2 
+Phase IV Commitments 
+None 
+ 
+1.3 
+Background 
+AcelRx Pharmaceuticals Inc., submitted an original NDA 209128 on December 12, 2016 for 
+sufentanil sublingual tablets 30 mcg [SST 30 mcg] (proposed trade name Dsuvia) via 505(b)(2) 
+regulatory pathway for the management of moderate to severe acute pain severe enough to 
+require an opioid agonist in adult patients in a medically supervised setting. It was for a drug-
+device combination product containing 30 mcg of a potent opioid agonist, sufentanil, to be 
+administered by a healthcare provider to the patient’s sublingual space in a medically supervised 
+setting, using the single-dose applicator (SDA), on an as needed basis with a minimum interval of 
+one hour between doses. The application referenced the agency’s previous findings of systemic 
+safety of the identified listed drug Sufenta (sufentanil citrate) injection (NDA 10950) and safety 
+data from a select group of patients receiving Zalviso (Sufentanil Sublingual Tablet 15 mcg) 
+ 
+[by establishing a pharmacokinetic bridge in a comparative bioavailability study as 
+discussed below].  
+The single dose and multiple dose PK of Dsuvia, absolute bioavailability in comparison with 
+Sufenta (sufentanil IV Injection) and comparative bioavailability between Dsuvia and 15 mcg 
+sufentanil sublingual tablet were determined in Study SAP101 in the original submission. A single 
+sublingual administration of Dsuvia has a bioavailability of approximately 53% relative to a one-
+minute IV sufentanil infusion of 30 mcg. Compared to IV administration, sublingual Cmax values 
+were 17-fold lower. After 12 multiple hourly doses over 11 hours, the geometric mean for the 
+AUC within a dosing interval (AUC0-60min) and Cmax values were increased by 3.7-fold and 2.3-
+fold greater compared to single-dose administration, respectively. Steady-state plasma 
+Reference ID: 4335931
+(b) (4)
+(b) (4)
+
+
+===== PAGE 6 =====
+
+5 
+ 
+2. Pharmacometrics Assessment: Population PK analyses 
+2.1 
+Applicant’s Risk Assessment Following Accidental Exposure for Sufentanil 
+Sublingual Tablet(s) 
+The applicant performed population PK modeling and simulation in the current resubmission to 
+assess the risk of accidental exposure of dropped sufentanil tablets in a pediatric population as it 
+was identified as one of the deficiencies in the previous submission. The purpose of the current 
+analysis is to address the following (i) what are the expected sufentanil exposures following 
+accidental exposures in pediatric population, and (ii) what is the risk associated with these 
+exposures based on comparison with pediatric and adult sufentanil exposures reported in the 
+published literature. 
+The adult population PK model that was previously submitted under 
+ (Zalviso), 
+reviewed by Dr. Naraharisetti (DARRTS 06/14/2014) and considered generally adequate and 
+acceptable was used for simulating sufentanil exposures in a pediatric population. It is worth 
+noting that the Zalviso program included sufentanil sublingual tablets (SST) of 15 mcg strength 
+only, while Dsuvia program includes SST of 30 mcg strength. The applicant performed study 
+SAP101 demonstrating that two 15 mcg SST (Zalviso) were bioequivalent to a single 30 mcg SST 
+(Dsuvia). Since the popPK model from Zalviso included data from adult population alone, the 
+applicant supplemented the analysis with intravenous sufentanil PK data from the literature 
+(Greeley et al1) of 19 pediatric patients undergoing cardiovascular procedures. The systemic 
+clearance values in these pediatric patients were reported to be in good agreement with the 
+relationship between systemic clearance and body weight derived from the adult popPK model 
+and is shown in Figure 1 below.  
+Subsequently, the applicant utilized the adult popPK model to simulate exposures following 
+accidental doses of 30 and 60 mcg in a ‘typical’ child weighing 12 kg (shown in Figure 2 below) 
+using the parameter estimates listed in Table 1 and under the following assumptions: 
+i. Sufentanil’s absorption characteristics from the sublingual space in the ‘typical’ child, such 
+as absorption rate (Ka) and lag time (Tlag) are similar to adults.  
+ii. Doses are administered simultaneously and retained in the sublingual space. The tablet is 
+absorbed through the sublingual space, and not swallowed.  
+iii. The relationships between apparent clearance (CL/F) and distributional clearance (Q/F) and 
+body weight in the ‘typical’ child are similar to that described in the adult popPK model.  
+iv. The PK parameters are independent of the number of tablets (dose-linearity shown in PK 
+studies of sufentanil sublingual tablets)   
+                                                     
+1 Greeley WJ, de Bruijn NP, Davis DP. Sufentanil pharmacokinetics in pediatric cardiovascular patients. Anesthesia & 
+Analgesia 1987; 66:1067-1072 
+Reference ID: 4335931
+(b) (4)
+
+
+===== PAGE 7 =====
+
+6 
+ 
+ 
+Figure 1 Sufentanil systemic clearance vs. weight based on adult sublingual sufentanil popPK 
+model overlaid with literature reported pediatric systemic clearance values 
+ 
+Source: RSK-7025 Rev. A – Figure on Page 4 
+ 
+Table 1 PK parameters used for simulation of pediatric exposures to sublingual sufentanil 
+tablets 
+ 
+Source: RSK-7025 Rev. A – Table 2 on Page 5  
+ 
+ 
+Reference ID: 4335931
+
+
+===== PAGE 10 =====
+
+9 
+ 
+Reviewer’s Comments 
+The applicant used the adult popPK model that was previously submitted under 
+ 
+(Zalviso), reviewed by Dr. Naraharisetti (DARRTS 06/14/2014) and considered generally adequate 
+and acceptable to simulate sufentanil exposures in pediatric subjects. This step is considered 
+acceptable because sufentanil sublingual tablet 30 mcg (Dsuvia) was demonstrated to be 
+bioequivalent to two 15 mcg sufentanil sublingual tablets (Zalviso) in PK study SAP101 (please 
+refer to review by Dr. Qiu, DARRTS 09/12/2017 for more details). Furthermore, the systemic 
+clearance values in pediatric patients reported in published literature was in good agreement with 
+the relationship between systemic clearance and bodyweight derived from the adult popPK 
+model, suggesting that this approach is reasonable. It is worth noting that the pediatric patients 
+included from the literature showed a reasonable distribution of pediatric subjects across ages 
+ranging from infants (1-24 months, N=7), children (2-12 years, N=7) and adolescents (N=5). 
+Subsequently, the applicant considered a child weighing 12 kg as ‘typical’ pediatric subject for the 
+purpose of simulations. This is considered acceptable as 12 kg is the 50th percentile for weight for 
+an 18-24-month child. The assumptions stated by the applicant for simulations in a ‘typical’ 
+pediatric subject seem reasonable and conservative, as heavier children would have lower plasma 
+concentrations. Additionally, the assumption that the tablet is absorbed through the sublingual 
+space is also conservative, since swallowing results in <10% bioavailability, compared to a 
+bioavailability of approximately 60% following sublingual absorption. Overall, the general 
+methodology and the steps used by the applicant to assess the risk associated with accidental 
+exposures to SST 30 or 60 mcg (Dsuvia) is reasonable and the reviewer considers the applicant’s 
+results acceptable. 
+The current reviewer also performed independent evaluation of sensitivity of the popPK models 
+from both the current resubmission and the previous submission under NDA 209128 (reviewed by 
+Dr. Kevin Krudys) to explore the impact of the differences in some of the popPK model parameters 
+as noted in section 2.2. It was found that the applicant’s predictions of the sufentanil exposures 
+following accidental exposures in ‘typical’ pediatric subject were conservative estimates 
+compared to the reviewer’s predictions based on the other popPK models.  
+ 
+ 
+Reference ID: 4335931
+(b) (4)
+
+
+===== PAGE 11 =====
+
+10 
+ 
+2.2 
+Applicant’s Population PK Analyses 
+A population PK analysis was previously submitted by the applicant under NDA 209128 (Dsuvia) 
+and was reviewed by Dr. Kevin Krudys (DARRTS 09/12/2017) and found to be generally adequate 
+and acceptable for the purpose of labeling recommendations. The dataset used for the current 
+analysis is identical to the one used in the previous submission and analysis. The purpose of the 
+current analysis was to evaluate (i) the impact of disease status (i.e., healthy vs. patients) on the 
+PK characteristics of sublingual (SL) sufentanil, (ii) the appropriateness of exponential vs. linear 
+model for explaining the inter-individual variability in the effect of age on the clearance of 
+sufentanil, and (iii) the effect of organ impairment on the apparent clearance while accounting 
+for potential impact of age and/or weight on clearance.  
+ 
+In total, the PK dataset included data from 1,062 healthy subjects and patients from eleven 
+studies with 7452 quantifiable PK samples. Please refer to the previous reviews by Dr. Krudys 
+(NDA 209128, DARRTS 09/12/2017) and Dr. Naraharisetti (
+ DARRTS 06/19/2014) for 
+more details on the key characteristics of the studies included in the PK dataset.   
+ 
+In general, the structural population PK model was similar to those reported previously for Zalviso 
+(
+ and previous submission of Dsuvia (NDA 209128). Details of the modeling 
+approach, including covariate selection can be found in the previous reviews by Dr. Krudys and 
+Dr. Naraharisetti. Briefly, sufentanil pharmacokinetics was described by a two compartment 
+linear model with first-order oral absorption (ka) and a lag time. For this analysis, the fraction 
+absorbed into the systemic circulation (F) was fixed to the estimated value of 0.531 from study 
+SAP101. A common bodyweight effect was estimated on clearance (CL), intercompartmental 
+clearance (Q), and volume of distribution of the central and peripheral compartments (V1, V2), 
+unlike separate bodyweight effects estimated only on CL and Q in previous analyses. Repeat 
+dosing was found to be a significant effect in decreasing in bioavailability (F) (rather than increase 
+in the systemic clearance), accounting for lower systemic exposures at steady-state compared to 
+single dose noted in study SAP101. A linear effect of age was found to be a significant covariate 
+on CL. Patient status (healthy vs. patient) was found to be a significant covariate on F and ka: 
+lower in patients than in healthy subjects.  
+The final parameter estimates of the popPK model based on bootstrap analysis are provided in 
+Table 2 and select goodness of fit plots and prediction corrected visual predictive checks are 
+shown in Figure 3 and Figure 4 respectively.  
+ 
+ 
+Reference ID: 4335931
+(b) (4)
+(b) (4)
+
+
+===== PAGE 13 =====
+
+12 
+ 
+Figure 4 Prediction corrected visual predictive check of the final popPK model 
+ 
+Source: ACX-PPK-259-001 Addendum – Figure 14 (lower panel) on Page 34  
+ 
+The impact of weight and age on the clearance of sufentanil is summarized in Figure 5 below. 
+Clearance increased with weight, 0.5% per kg referenced to the median weight of 80 kg and 
+decreased with age, 1.6% per year, referenced to median age of 56 years. Additionally, clearance 
+decreased 35% following administration of ketoconazole, a potent inhibitor of CYP3A4. Repeat 
+dosing resulted in a decrease of bioavailability from 53% to 35%. Lastly, bioavailability and 
+absorption rate was lower in patients compared to healthy subjects.  
+Hepatic and renal function were assessed in patients in all but two studies (SAP202 and SAP301). 
+Because two studies did not have data, hepatic and renal impairment were assessed with a post-
+hoc analysis, and were not included in the formal modeling. Hepatic function was evaluated 
+based on composite measures of AST ALT, total bilirubin, and serum creatinine with cut points 
+for each to define “normal”, “mild”, “moderate” and “severe”. For each of AST, ALT, total 
+bilirubin, and serum creatinine, “normal” was defined as a value < the upper limit of normal (ULN) 
+for that test. For ALT and AST, “mild” was defined as a value > ULN but ≤ 3 • ULN; “moderate” 
+was defined as value > 3 • ULN and ≤ 5 • ULN; and “severe” was defined as a value > 5 • ULN. For 
+bilirubin, “mild” was defined as a value > ULN but ≤ 1.5 • ULN; “moderate” was defined as value 
+> 1.5 • ULN and ≤ 3 • ULN; and “severe” was defined as > 3 • ULN. 
+Reference ID: 4335931
+
+
+===== PAGE 14 =====
+
+13 
+ 
+Renal impairment was based on serum creatinine and glomerular filtration rate (GFR) calculated 
+with the Cockcroft-Gault equation (“normal”: creatinine < ULN; “mild”: creatinine > ULN and GFR 
+> 60 ml/min; “moderate”: GFR between 30 and 60 ml/min; and “severe”: GFR ≤ 30 ml/min). 
+Based on post-hoc analysis, the post-hoc etas for clearance were plotted against hepatic and 
+renal impairment categories as shown in Figure 6 below. A total of 751 and 754 laboratory data 
+on hepatic and renal impairment data were used in the analysis. The normalized clearance (post-
+hoc clearance divided by the typical value) suggested that there was no evidence that hepatic or 
+renal impairment (or occurrence of both) affected sufentanil clearance.  
+Figure 5 Tornado plot showing the impact of age and bodyweight on sufentanil clearance for 
+all subjects in the PK analyses 
+ 
+Note: The vertical line is the "typical" value for clearance. For each entry, the rectangle delimits 
+90% of the values; the line spans the entire range of values. The top entry is based on the post hoc 
+values. The second and third entries are based on the impact of weight and age on sufentanil 
+clearance based on the final popPK model. Values appearing below the covariate text indicate 
+range [5th percentile – 95th percentile] of that covariate. 
+Source: ACX-PPK-259-001 Addendum – Figure 18 on Page 40 
+ 
+ 
+Reference ID: 4335931
+
+
+===== PAGE 15 =====
+
+14 
+ 
+ 
+Figure 6 Impact of hepatic and renal impairment on sufentanil clearance 
+ 
+Note: Normalized clearance vs hepatic (left panel) and renal (right panel) impairment. Values are 
+clearance divided by the typical value. A horizontal line appears at the median value. Subjects 
+with no impairment are displayed as a box plot whereas all data are presented for subjects with 
+mild, moderate, or severe impairment. For impaired subjects, the results are stratified by the 
+impairment of the other organ. 
+Source: ACX-PPK-259-001 Addendum – Figure 16 on Page 38 
+ 
+ 
+ 
+Reference ID: 4335931
+
+
+===== PAGE 16 =====
+
+15 
+ 
+Reviewer’s Comments: 
+The structural population PK model was consistent with previous analyses reviewed by Dr. Krudys 
+and Dr. Naraharisetti. However, there were a few differences in parameterization of the covariate 
+effects compared to previous analyses. For example, a single common effect of body weight was 
+retained as a covariate on clearance, intercompartmental clearance, volume of central and 
+peripheral volumes of distribution in this analysis, unlike separate bodyweight effects only on 
+clearance and intercompartmental clearance in the previous analyses. The applicant did not 
+provide a rationale for implementing a single common effect of bodyweight on the 
+aforementioned disposition metrics. The impact of repeat dosing was implemented only on the 
+bioavailability (decreasing from 53% to 35%), unlike the previous analyses where it was 
+implemented on both systemic clearance as well as bioavailability. Impact of age was 
+implemented as a linear effect on clearance, unlike the previous analyses where it was either a 
+dichotomous variable or an exponential model. Patient status (healthy vs. patient) was found to 
+be a statistically significant covariate on the absorption rate constant and bioavailability, which 
+was not evaluated in the previous analyses. Overall, owing to differences in parameterizing the 
+covariates in the current analysis compared to previous analyses, the final popPK parameter 
+estimates were different, most notably the central and peripheral volumes of distribution. The 
+reviewer agrees with the applicant’s argument in difficulty in accurate estimation of volume of 
+distribution and terminal half-life due in part to the lack of data collected more than 24 hours 
+post-dose. However, the current reviewer agrees with the prior assessment that, given the on-
+demand nature of sufentanil dosing, dose adjustment based on different weight and age groups 
+is not needed. Additionally, the current reviewer also agrees with previous reviewer’s conclusion 
+“for labeling purposes, we recommend using values from dedicated PK studies that had adequate 
+sampling, if available”. The metrics used for evaluating hepatic function do not support labeling 
+the impact of hepatic impairment. The metrics used for evaluating renal function and sample size 
+for patients with mild (N=30) and moderate (N=36) renal impairment are reasonable to support 
+labeling recommendations. Lastly, the reviewer also agrees with previous assessment and 
+labeling of ketoconazole interaction.     
+3. Detailed Labeling Recommendations 
+ 
+Additions are highlighted and deletions are double strikethrough in Red.  
+8.6 Hepatic Impairment 
+Because sufentanil is extensively metabolized in the liver, its clearance may decrease in patients 
+with hepatic impairment. Monitor closely for adverse events such as respiratory depression, 
+sedation, and hypotension [see Clinical Pharmacology (12.3)] 
+Reference ID: 4335931
+
+
+===== PAGE 17 =====
+
+16 
+ 
+8.7 Renal Impairment 
+Sufentanil and its metabolites are known to be excreted by the kidney. No significant changes 
+have been observed in subjects with mild or moderate renal impairment.  Monitor closely for 
+adverse events such as respiratory depression, sedation, and hypotension in patients with severe 
+renal impairment [see Clinical Pharmacology (12.3)] 
+[note: to keep them consistent with the list drug product, Sufenta, and as applicable to DSUVIA] 
+ 
+12.3 Pharmacokinetics 
+ 
+Absorption 
+A single sublingual administration of DSUVIA has a bioavailability of approximately 53% relative 
+to a one-minute IV sufentanil infusion of 30 mcg 
+ 
+. Compared to IV administration, sublingual Cmax values were 17-
+fold lower. The sublingual route of administration of sufentanil 
+ 
+ both 
+which severely limits bioavailability of swallowed (oral) sufentanil sublingual tablet 
+). 
+Following a single dose of DSUVIA, the mean AUC0-inf is 278 h*pg/mL, the average Cmax of 63.1 
+pg/mL occurs at a median Tmax of 1.00 hours,
+ 
+. After 
+12 multiple hourly doses over 11 hours
+the 
+geometric mean for the AUC within a dosing 
+interval (AUC0-60min) and Cmax values were increased by 3.7-fold and 2.3-fold 
+ 
+ greater compared to single-dose administration, 
+respectively. Steady-state plasma concentrations were achieved after 7 doses (Figure 1).  
+Reference ID: 4335931
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) 
+(4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 19 =====
+
+18 
+ 
+Distribution: 
+ 
+Plasma protein binding of sufentanil, related to the alpha acid glycoprotein concentration, was 
+approximately 93% in healthy males, 91% in mothers and 79% in neonates. 
+ 
+ 
+Elimination:  
+Following a single dose of DSUVIA, the mean terminal half-life is 13.4 hours, and the mean 
+apparent plasma clearance is 108 L/hour.  
+Metabolism:  The liver and small intestine are the major sites of biotransformation 
+ 
+Excretion: Approximately 80% of the IV administered dose of sufentanil is excreted within 24 
+hours and only 2% of the dose is eliminated as unchanged drug. 
+ 
+Specific Populations 
+Clearance is not significantly affected by race, sex, mild or moderate renal impairment based on 
+the population pharmacokinetics.   
+Drug Interaction Study 
+Co-administration of a single dose of sufentanil sublingual tablet 15 mcg with a strong CYP3A4 
+inhibitor, ketoconazole, results in 77% and 19% greater AUCinf and Cmax values of sufentanil, 
+respectively, compared to its administration alone. 
+Reference ID: 4335931
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 23 =====
+
+3
+to-be-marketed 30 mcg formulation was used in all Phase 3 studies. A different 
+formulation was used in the Phase 2 study SAP202. 
+In this 505(b)(2) application, the sponsor proposed to rely in part on the agency’s 
+previous findings of systemic safety of the identified listed drug, Sufenta (sufentanil 
+citrate) Injection (NDA 19-050) and safety data from a select group of patients on Zalviso 
+(Sufentanil Sublingual Tablet 15 mcg, also known as SST 15 mcg) 
+ by 
+establishing a pharmacokinetic bridge in the comparative bioavailability Study SAP101. 
+Study SAP101 was conducted in healthy volunteers under naltrexone blockade to 
+establish a pharmacokinetic bridge between a single sublingual dose of SST 30 mcg, a 
+single 30 mcg IV dose (Sufenta) and 2 sublingual doses of SST 15 mcg (dosed 20 
+minutes apart). The same study also evaluated multiple dose PK of SST 30 mcg given 
+every hour. The final to-be-marketed SST 30 mcg formulation was used in Study 
+SAP101. The sponsor conducted a population PK analysis including data from a 
+population PK analysis previously submitted for SST 15 mcg as part of the Zalviso NDA 
+ PK data from Study SAP101, sparse PK data from Phase 2 Study 
+SAP202 and two Phase 3 Studies SAP301 and SAP303 with SST 30 mcg.
+Absolute Bioavailability of A Single Sublingual Dose of SST 30 mcg in 
+Comparison to A Single IV Injection of Sufenta IV 30 mcg 
+Systemic exposure of sufentanil was greater for a single dose of Sufenta IV 30 mcg than 
+a single sublingual dose of SST 30 mcg. The mean absolute bioavailability of a single 
+sublingual dose of SST 30 mcg was approximately 53%. These PK results support for 
+bridging to the systemic safety information of Sufenta IV.
+Table 1 Mean ± SD (%CV) Sufentanil Pharmacokinetic Parameters for Single Dose of 
+Sufenta IV 30 mcg, Single Sublingual Dose of SST 30 mcg, and 2 Sublingual Doses of 
+SST 15 mcg (dosed 20 minutes apart) in Healthy Subjects under Naltrexone Block and 
+Statistical Analysis (Study SAP101)
+PK Parameter
+Sufenta IV 30 mcg
+(n = 35)
+Single SST 30 mcg 
+(n = 35)
+2 x SST 15 mcg
+(n = 35)
+AUCinf (pg.h/mL)
+Cmax (pg/mL)
+T1/2 (h)
+Tmax (h)a
+CL (mL/h)
+Amount Absorbed  
+(mcg)
+F (%)
+539.68 ± 112.12 
+(20.96%)
+1073.94 ± 968.17 
+(90.15%)
+13.72 ± 6.12 (44.6%)
+0.07 (0.02, 0.17)
+57878 ± 11446 (20%)
+30 mcg
+--
+277.68 ± 84.36 
+(30.38%)
+63.14 ± 23.49
+(37.21%)
+13.37 ± 8.89 (66.5%)
+1.00 (0.50, 2.00)
+--
+15.9 ± 5.2 (32.7%)
+52.86 ± 17.22 (32.6%)
+307.30 ± 79.08 
+(25.73%)
+66.00 ± 20.38 
+(30.88%)
+15.66 ± 9.38 (59.9%)
+1.17 (0.67, 2.00)
+--
+17.6 ± 5.2 (29.5%)
+58.76 ± 17.50 (29.8%)
+Geometric Mean Ratio
+(1 x SST 30 mcg/2 x SST 15 mcg) % (90% CI)
+AUCinf
+Cmax
+0.89 (0.81, 0.97)
+0.93 (0.84, 1.03)
+a tmax reported as median (min, max)
+Source: Tables 10, 11, and 12 of study SAP101 report. 
+Reference ID: 4151649
+(b) (4)
+(b) (4)
+
+
+===== PAGE 24 =====
+
+4
+Comparative Bioavailability between A Single Sublingual Dose of SST 30 mcg and 
+Two Sublingual Doses of SST 15 mcg (dosed 20 minutes apart)
+Median Tmax was 1 hour after administration of a single SST 30 mcg dose and 1.17 
+hours after administration of 2 doses of SST 15 mcg (dosed 20 minutes apart). Both 
+Cmax and AUC0-inf were bioequivalent for a single dose SST 30 mcg and 2 doses of 
+SST 15 mcg (dosed 20 minutes apart). The point estimate of the geometric mean ratio 
+(1 x SST 30 mcg /2 x SST 15 mcg) for sufentanil Cmax and AUCinf were 89% and 93%, 
+respectively. The corresponding 90% confidence intervals (CIs) were 81 – 97% and 84 – 
+103%, respectively. All these 90% CIs fell within the 80 to 125% BE limit (Table 1 
+above).
+Based on the PK results for a single SST 30 mcg and 2 doses of SST 15 mcg (dosed 20 
+minutes apart), similar exposure for a single SST 30 mcg and 2 doses of SST 15 mcg 
+(with 20 to 25 minutes between doses) was demonstrated based on PK 
+modeling/simulation (submitted to IND 113059 SN0027 on September 2, 2015). These 
+PK results support for bridging to the systemic safety information of 2 doses of SST 15 
+mcg (dosed 20 to 25 minutes apart).
+Multiple Dose PK of SST 30 mcg with Q1h Dosing Regimen
+Sufentanil concentrations accumulated upon multiple dosing of SST 30 mcg. The 
+analysis on pre-dose concentrations showed that steady state for SST 30 mcg after 
+multiple every hour dosing was achieved by 7 doses (or 360 minutes). At steady state, 
+the AUC within a dosing interval (AUC0-60min) and Cmax values were increased by 3.7-
+fold and 2.3-fold, respectively.
+Effect of Consumption of Hot, Cold and Various pH liquids: 
+The sponsor proposed to use the same approach of addressing the impact of 
+consumption of hot/cold and various pH liquids by labeling “patients 
+ not eat or 
+drink and minimize talking for 10 min after 
+”, which was considered acceptable 
+for SST 15 mcg and is acceptable for SST 30 mcg as well.
+Effect of Intrinsic and Extrinsic Factors on the PK of SST 30 mcg based on PopPK 
+Analysis: 
+The population PK analysis included data from a population PK analysis previously 
+submitted for SST 15 mcg as part of the Zalviso NDA 
+ PK data from 
+Study SAP101 and sparse PK data from Phase 2 Study SAP202, and two Phase 3 
+Studies SAP301 and SAP303 with SST 30 mcg. Body weight, repeat dosing, age and 
+ketoconazole were found to be significant covariates on sufentanil clearance. As 
+weight varies from the 5th to 95th percentiles, clearance varies from -19% to 
++29% of the value in a typical patient. As age varies from the 5th to 95th 
+percentiles, clearance varies from -18% to +37% of the value in a typical patient.  
+Due to the on-demand nature of dosing, however, sufentanil concentrations in 
+clinical trials were largely similar in patients with varying body weight and age 
+and therefore dose adjustment is not needed.
+2
+Question Based Review
+2.1
+General Attributes of the Drug
+Reference ID: 4151649
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 25 =====
+
+5
+1.
+What pertinent regulatory background or history contributes to the current 
+assessment of the clinical pharmacology of this drug product?
+AcelRx Pharmaceutical Inc. submitted an original 505(b)(2) NDA 209-128 on December 
+12, 2016 for Dsuvia for the management of moderate to severe acute pain severe 
+enough to require an opioid agonist, in adult patients in a medically supervised setting. A 
+single SST 30 mcg is to be administered sublingually on an as needed basis, with a 
+minimum of one hour between doses. Dsuvia is not for home use or for use in children. 
+The sponsor has conducted four (4) clinical efficacy/safety studies (1 Phase 2 Study 
+SAP202, 3 Phase 3 Studies SAP301, SAP302, and SAP303) with SST 30 mcg. The final 
+to-be-marketed 30 mcg formulation was used in all Phase 3 studies but a different 
+formulation was used in the Phase 2 study SAP202. 
+In this 505(b)(2) application, the sponsor proposed to rely in part on the agency’s 
+previous findings of systemic safety of the identified listed drug, Sufenta (sufentanil 
+citrate) Injection (NDA 19-050) and safety data from a select group of patients on Zalviso 
+(sufentanil sublingual tablet 15 mcg, also known as SST 15 mcg) 
+ by 
+establishing pharmacokinetic bridges in comparative bioavailability Study SAP101. The 
+final to-be-marketed SST 30 mcg formulation was used in Study SAP101.
+In the EOP2 meeting held on December 18, 2013, the Division stated that, if the 
+Sponsor demonstrated that the exposure with the single dose of SST 30 mcg was lower 
+than that with the two 15 mcg doses of Zalviso given 20 minutes apart (a total dose of 30 
+mcg), then it might be acceptable to use the same safety exposure data in the Zalviso 
+application. The Sponsor stated that they would conduct a study to demonstrate the 
+comparable Cmax levels. Because patients with mucositis can be prescribed another 
+product, the Sponsor was not planning to conduct PK studies in those patients 
+ 
+.  The Division agreed with the approach 
+ 
+ 
+ The Sponsor proposed to use the same approach as for Zalviso to address the 
+effect of pH and temperature on drug absorption and the Division agreed that this 
+seemed reasonable. 
+In the Pre-NDA meeting held on December 9, 2015, the Division agreed that patients 
+who received two 15-mcg doses of Zalviso given 20 to 25 minutes apart can supplement 
+the safety database requirements for Dsuvia based on comparable Cmax and AUC 
+between SST 30 mcg and 2 x SST 15 mcg (dosed 20 minutes apart) obtained from 
+Study SAP101 and the comparable PK for 2 doses of SST 15 mcg spaced at 20 through 
+25 minutes intervals from PK modeling. 
+Multiple dose PK of Dsuvia was also assessed in Study SAP101. The sponsor 
+conducted a population PK analysis (Report ACX-PPK-259-001) using data from a 
+population PK analysis previously submitted for SST 15 mcg as part of the Zalviso NDA 
+ PK data from Study SAP101, and sparse PK data from Phase 2 Study 
+SAP202 and two Phase 3 Studies SAP301 and SAP303 with SST 30 mcg to evaluate 
+the effects of intrinsic and extrinsic factors on the PK of SST 30 mcg. 
+2.
+What are the highlights of the chemistry and physico-chemical properties of the drug 
+substance, and the formulation of the drug product?
+Reference ID: 4151649
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 27 =====
+
+7
+3.
+What are the proposed mechanism(s) of action and therapeutic indication(s)?
+Sufentanil is an opioid analgesic. As an opioid agonist, the principle therapeutic action is 
+analgesia, the precise mechanism of which is not known, but the effects are thought to 
+be mediated through opioid-specific receptors, primarily the mu opioid receptor, in the 
+CNS. Opioid analgesics may also affect the emotional response to pain. There is no 
+intrinsic limit to the analgesic effect of sufentanil. In clinical practice, limitations are 
+imposed by its adverse effects, primarily nausea and vomiting, sedation, and respiratory 
+depression, which can result from high doses. In patients administered IV sufentanil, 
+there was no indication of any histamine release.
+Dsuvia is indicated for the management of moderate-to-severe acute pain severe 
+enough to require an opioid agonist and for which alternative treatments are inadequate, 
+in adult patients in a medically supervised setting.
+4.
+What are the proposed dosage(s) and route(s) of administration?
+Dsuvia sublingual tablet is to be administered by a healthcare professional in response 
+to pain using the single-dose applicator (SDA). The SDA is used as a placement aid for 
+the healthcare professional to administer sublingually a single sufentanil sublingual 
+tablet 30 microgram (SST 30 mcg), on an as needed basis, with a minimum of 1 hour 
+between doses. The dispensed sublingual tablet dissolves under the tongue and should 
+not be chewed or swallowed. Patients should not eat or drink and should minimize 
+talking for 10 minutes after each dose of Dsuvia.
+2.2
+General Clinical Pharmacology
+1. What is known about the PK characteristics of sufentanil for the listed drug Sufenta® 
+(sufentanil citrate) Injection (NDA 19-050) and the cross referenced product Zalviso 
+(sufentanil sublingual tablet 15 mcg) 
+?
+According to the Sufenta (sufentanil citrate) Injection labeling:
+
+Pharmacokinetics of intravenous sufentanil can be described as a three-
+compartment model, with a distribution time of 1.4 minutes, redistribution of 17.1 
+minutes and elimination half-life of 164 minutes in adults. 
+
+The elimination half-life of sufentanil is shorter (e.g. 97 +/- 42 minutes) in infants 
+and children, and longer in neonates (e.g. 434 +/- 160 minutes) compared to 
+that of adolescents and adults. 
+
+The liver and small intestine are the major sites of biotransformation. 
+Approximately 80% of the administered dose is excreted within 24 hours and 
+only 2% of the dose is eliminated as unchanged drug. 
+
+Plasma protein binding of sufentanil, related to the alpha acid glycoprotein 
+concentration, was approximately 93% in healthy males, 91% in mothers and 
+79% in neonates.
+According to the clinical pharmacology review of 
+ for Zalviso (sufentanil 
+sublingual tablet 15 mcg):
+
+The mean (SD) erosion time of sufentanil tablet from the sublingual space was 
+about 6.4 (3.1) min. 
+Reference ID: 4151649
+(b) (4)
+(b) (4)
+
+
+===== PAGE 28 =====
+
+8
+
+Peak sufentanil concentration was reached at a median Tmax of approximately 
+50 min. 
+
+The absolute bioavailability of SST 15 mcg was 58%. However, the absolute oral 
+bioavailability of SST 15 mcg was 8%, indicating extensive first pass of sufentanil 
+when administered orally. 
+
+The elimination half-life of a single SST 15 mcg by sublingual route was 10 h 
+where after Sufenta IV was 11 h. 
+
+Following multiple dose administration (40 repeated doses every 20 minutes), 
+Cmax was 8-fold higher than a single dose. There was a dose-stacking effect as 
+reflected by the fact that the AUC0-tau after multiple dose within a dosing interval 
+was 40% lower compared to AUCinf after a single dose suggested decreased 
+absorption after multiple dose. It was indicated that the decreased AUC after 
+repeated dosing was maybe due to swallowing of drug or the swallowing of saliva 
+with solubilized drug after certain doses. Steady state was achieved after 13 
+doses. 
+
+Concurrent administration of SST 15 mcg with ketoconazole increased the 
+AUCinf and Cmax of sufentanil by 77% and 19%, respectively. Although dose 
+reduction was not warranted because of the nature of dosing regimen for SST 15 
+mcg (i.e., as needed), warning language was needed to inform the drug 
+interaction with CYP3A4 inhibitors. 
+
+Population pharmacokinetic analysis concluded that sufentanil clearance 
+increased with weight increase, decreased with age increase, but not affected by 
+drug-lot, race, gender, or a concomitant CYP3A4 substrate. Due to limited data 
+from moderately and severely hepatically impaired patients and severely renally 
+impaired patients, the effect of moderate or severe hepatic dysfunction and 
+severe renal dysfunction may not have been detected. 
+
+It was acceptable to address the potential impact of consumption of hot/cold and 
+various pH liquids with SST 15 mcg by labeling as “patients 
+ not eat or 
+drink and minimize talking for 10 minutes after 
+”.  
+2. Were the active moieties in the plasma appropriately identified and measured to 
+assess the pharmacokinetics?
+The active moiety is sufentanil and its concentrations in plasma were measured for the 
+characterization of pharmacokinetics of SST 30 mcg. 
+2.3
+Intrinsic Factors
+1.
+What is the pediatric plan?
+The Division agreed with the waiver for 
+ years of age and deferral for 
+ according to the 
+agreed Pediatric Study Plan (PSP) in a communication dated November 2, 2017.
+2.
+What are the effects of different covariates on the pharmacokinetics of SST 30 
+mcg based on population pharmacokinetic analyses?
+The population PK analysis included data from a population PK analysis previously 
+submitted for SST 15 mcg as part of the Zalviso NDA 
+ PK data from 
+Study SAP101, and sparse PK data from Phase 2 Study SAP202 and two Phase 3 
+Reference ID: 4151649
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 29 =====
+
+9
+Studies SAP301 and SAP303 with SST 30 mcg. Body weight, repeat dosing, age and 
+ketoconazole were found to be significant covariates on sufentanil clearance. As 
+weight varies from the 5th to 95th percentiles, clearance varies from -19% to 
++29% of the value in a typical patient. As age varies from the 5th to 95th 
+percentiles, clearance varies from -18% to +37% of the value in a typical patient. 
+Sufentanil exposure was also higher after the first dose (relative to repeat doses) 
+and in patients receiving concomitant ketoconazole.   Due to the on-demand 
+nature of dosing, however, sufentanil concentrations in clinical trials were largely 
+similar in patients with varying body weight and age.
+2.4
+General Biopharmaceutics
+ 
+1.
+What is the absolute bioavailability and relative bioavailability of sufentanil following a 
+single dose administration of the proposed SST 30 mcg in comparison to a single 
+dose of the listed drug Sufenta 30 mcg and two doses of SST 15 mcg dosed 20 
+minutes apart (Zalviso under 
+), respectively?
+The absolute bioavailability of a single sublingual administration of SST 30 mcg was 
+53%. A single SST 30 mcg tablet (1 x 30 mg) and 2 doses of SST 15 mcg (dosed 20 
+minutes apart) showed bioequivalent AUCinf and Cmax, and similar median (min, max) 
+Tmax values (1.00 (0.50, 2.00) h for a single SST 30 mcg and 1.17 (0.67, 2.00) h for two 
+SST 15 mcg (dosed 20 minutes apart).
+In the comparative bioavailability study SAP101 conducted in healthy nonsmoking 
+subjects (ages 18 to 45 years), the absolute bioavailability and relative bioavailability of a 
+single sublingual administration of SST 30 mcg was determined by comparing with a 
+single IV administration of 30 mcg Sufenta and sublingual administration of two doses of 
+SST 15 mcg dosed 20 minutes apart, respectively. The same study also evaluated the 
+multiple dose PK of SST 30 mcg following 12 consecutive doses of 30 mcg every 1 hour. 
+Study SAP101 was a randomized, open-label, 2-sequence, 4-treatment, 4-period 
+crossover study in healthy volunteers under naltrexone blockade. The following 
+treatments were administered during the study:
+Treatment A: single dose of Sufenta IV (50 mcg/mL) 30 mcg infused over 1 min
+Treatment B: single dose of SST 30 mcg
+Treatment C: 2 consecutive doses of SST 15 mcg administered 20 minutes apart
+Treatment D: 12 consecutive doses SST 30 mcg administered every 1 hour
+Subjects were randomized to 1 of the 2 treatment sequences: ABCD or ACBD. 
+Treatment periods were separated by a 48 hour washout period. For treatment B, C, and 
+D, the site staff placed SSTs under each subject’s tongue with forceps. The SSTs were 
+allowed to dissolve under the tongue and were not to be crushed, chewed or swallowed. 
+Subjects were not to eat or drink and were to minimize talking for 10 minutes after a SST 
+was administered. Subjects received concomitant dosing of naltrexone 50 mg to clock 
+the opioid effects of sufentanil.
+Blood samples for pharmacokinetic determination were collected from each subject at 
+pre-dose, and at 1, 4, 7, 10, 15, 20, 30, 45 min and at 1, 1.5, 2, 3, 4, 6, 8, 10, 12, 14, and 
+24 hours post dose for Treatment A; at pre-dose and 10, 20, 30, 40, 50 min and at 1, 
+Reference ID: 4151649
+(b) (4)
+
+
+===== PAGE 31 =====
+
+11
+Descriptive statistics of PK parameters for Sufenta IV 30 mcg, SST 30 mcg and two SST 
+15 mcg are summarized in Table 1 in Executive Summary. Systemic exposure (AUCinf 
+and Cmax) of sufentanil for a single IV dose of Sufenta IV 30 mcg was greater than the 
+systemic exposures for the sublingual administration of a single SST 30 mcg. The mean 
+absolute bioavailability (F) value was approximately 53% for a single dose of SST 30 
+mcg administered sublingually. The Cmax of a single SST 30 mcg was about 6% of the 
+Cmax for Sufenta IV 30 mcg. 
+Single dose SST 30 mcg and 2 doses of SST 15 mcg were bioequivalent as the 90% 
+confidence intervals for both Cmax and AUCinf values falling within the BE range of 0.8 
+to 1.25. The 90% confidence intervals for the geometric mean ratios of Cmax values 
+were from 81% to 97%. The 90% confidence intervals for the geometric mean ratios of 
+AUCinf values were from 84% to 103%. Similar Tmax values were also observed. 
+Median (min, max) Tmax value was 1.00 (0.5, 2.00) h for the SST 30 mcg and 1.17 
+(0.67, 2.00) h for two doses of SST 15 mcg (dosed 20 minutes apart), respectively.
+Reviewer’s Comment: 
+(1) The sponsor’s identified list drug product Sufenta is approved for IV doses of up to 8 
+mcg/kg as an analgesic adjunct to general anesthesia, and at IV does ≥ 8 mcg/kg (8 to 
+30 mcg/kg) as a primary anesthetic agent for induction and maintenance of anesthesia. 
+Per the proposed labeling for SST 30 mcg, it is stated 
+ 
+In Study SAP101, it has been shown that the proposed SST 30 mcg had an absolute 
+bioavailability of 53% in comparison with Sufenta IV 30 mcg. Thus, the systemic 
+exposure of SST 30 mcg administered according to the proposed labeling will be less 
+than the approved dose of Sufenta IV and the PK bridging between SST 30 mcg and 
+Sufenta is established.   
+(2) The sponsor proposed to include patients from the completed Zalviso studies who 
+were dosed with two doses of 15 mcg tablet administered 20 to 25 minutes apart to 
+supplement the safety database for SST 30 mcg. Study SAP101 has shown 
+bioequivalent exposures of sufentanil (AUCinf and Cmax) and similar Tmax values 
+between a single dose of SST 30 mcg and 2 doses of SST 15 mcg (dosed 20 minutes 
+apart). Based on the PK results from SAP101, similar exposure for a single SST 30 mcg 
+and 2 doses of SST 15 mcg (dosed 20 – 25 minutes apart) was demonstrated based on 
+PK modeling/simulation (submitted to IND 113059 SN0027 on September 2, 2015). The 
+sufentanil concentration time profiles for 2 doses of SST 15 mcg dosed 20 minutes or 25 
+minutes apart are shown in Figure 3. Therefore, the PK bridging between SST 30 mcg 
+and 2 doses of SST 15 mcg dosed within 20 to 25 minutes is established.  
+Reference ID: 4151649
+(b) (4)
+(b) (4)
+
+
+===== PAGE 33 =====
+
+13
+Figure 4 Mean (± SD) Sufentanil Plasma Concentration versus Time for Treatments B 
+(single dose SST 30 mcg) and D (12 x SST 30 mcg administered every hour) (Study 
+SAP101)
+Table 4 Sufentanil Pharmacokinetic Parameters for Single Dose SST 30 mcg 
+(Treatments B) and Multiple Dose SST 30 mcg (Treatment D: 12 x SST 30 mcg 
+administered every hour) (Study SAP101)
+Parameter
+Single SST 30 mcg 
+(n = 32)
+12th Dose of SST 30 mcg 
+(n = 32)
+AUCinf (pg.h/mL)
+AUC0-60min (pg.h/mL)
+AUC0-720min (pg.h/mL)
+Cmax (pg/mL)
+T1/2 (h)
+Tmax (h)a
+269.82 ± 79.51 (29.47%)
+33.71 ± 16.23 (48.15%)
+196.26 ± 61.76 (31.47%)
+60.55 ± 22.65 (37.40%)a
+14.12 ± 9.09 (64.3%)
+1.00 (0.50, 2.00)
+--
+118.25 ± 34.45 (29.13%)
+--
+134.12 ± 39.51 (29.46%)
+12.68 ± 4.31 (34.0%)
+0.67 (0.33, 1.33)
+Geometric Mean Ratio
+(Last Dose (12th) of SST 30 mcg Q1H/Single Dose SST 30 mcg) (90% CI)
+AUC0-60min
+Cmax
+3.74 (3.25 – 4.31)
+2.27 (2.01 – 2.56)
+a tmax reported as median (min, max)
+Source: Tables 13 and 14 of Study SAP101 report. 
+Sufentanil concentrations accumulated with the dosing regimen of every 1 hour. After 
+the last of 12 consecutive doses of SST 30 mcg, AUC0-60min and Cmax were 
+increased by 3.7-fold and 2.3-fold, respectively. Analysis of the pre-dose concentrations 
+to determine the time to steady state for SST 30 mcg after multiple every hour dosing is 
+summarized in Table 5. Mean pre-dose concentration prior to each dose was compared 
+to the mean pre-dose concentrations pooled over all remaining doses. This analysis 
+showed that the first nonsignificant comparison was for the dose number of 7 and it 
+suggested that steady state was achieved by the 7th dose (or 360 minutes) of SST 30 
+mcg.
+Reference ID: 4151649
+
+
+===== PAGE 34 =====
+
+14
+Table 5 Analysis of Time to Steady State Based on Pre-Dose Concentrations
+3.
+How were the potential impacts of the consumption of hot, cold and various pH 
+liquids on SST 30 mcg absorption addressed?
+The sponsor has not conducted PK studies with either SST 15 mcg (Zalviso) or SST 30 
+mcg (Dsuvia) to evaluate the effects of consumption of hot, cold and various pH liquids 
+on sufentanil absorption. The sponsor proposed to use the same approach of 
+addressing the impact of consumption of hot/cold and various pH liquids by labeling 
+“patients 
+ not eat or drink and minimize talking for 10 min after 
+”. The 
+Division agreed with the approach at the EOP2 meeting.
+4.
+How was the potential impact of mucositis on SST absorption addressed?
+As discussed at the EOP2 meeting, the sponsor stated that because patients with 
+mucositis can be prescribed another product, the sponsor is not planning to conduct PK 
+studies in those patients 
+. The Division 
+agreed with the approach 
+ 
+. 
+5.
+Was the proposed final to-be-marketed formulation used in clinical studies?
+The final to-be-marketed SST 30 mcg product was used in the comparative 
+bioavailability study SAP101 and all of the Phase 3 studies (SAP301, SAP302, and 
+SAP303) except the Phase 2 Study SAP202. 
+The formulation used in the SAP202 differed from the proposed to-be-marketed 
+formulation (Table 6). The major difference is in the use of 
+, which is 
+Reference ID: 4151649
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 42 =====
+
+22
+Figure 1: Time-Course of Sufentanil in Patients Receiving the 30 mcg Tablet
+Source: ACX-PPK-259-001, Figure 1, Page 31.
+The population PK model was similar to the one reported previously for Zalviso. Details 
+of the modeling approach, including covariate selection can be found in the previous 
+review by Dr. Naraharisetti. Briefly, sufentanil pharmacokinetics was described with a 
+two-compartment linear model with first-order oral absorption and lag time. For this 
+analysis, the fraction absorbed (F) was fixed to the estimated value of 0.531 from 
+SAP101 to account for the IV dosing regimen in the first period of the study.  Similar to 
+the previous analysis, repeat dosing, body weight, age and ketoconazole were found to 
+be significant covariates on clearance and weight was found to be a covariate on inter-
+compartment clearance. The final parameter estimates are provided in Table 2 and 
+selected goodness-of-fit plots are displayed in Figure 2.
+Reference ID: 4151649
+
+
+===== PAGE 44 =====
+
+24
+Figure 2: Goodness-of-Fit Plots for the Final PK Model
+Source: ACX-PPK-259-001, Figure 4, Page 35.
+The impact of significant covariates on the clearance of sufentanil is summarized in 
+Table 3. As weight varies from the 5th to 95th percentiles, clearance varies from -19% to 
++29% of the value in a typical patient. As age varies from the 5th to 95th percentiles, 
+clearance varies from -18% to +37% of the value in a typical patient.  Due to the on-
+demand nature of dosing, however, sufentanil concentrations were largely similar in 
+patients with varying body weight and age (Figure 3).
+Reference ID: 4151649
+
+
+===== PAGE 46 =====
+
+26
+Reviewer’s Comments: The current analysis is largely in agreement with the previous 
+analysis reviewed by Dr. Naraharisetti and the current reviewer agrees with the prior 
+assessment that the “ population PK analysis is generally adequate and acceptable for 
+the purpose of labeling.” The magnitude of covariate effects (i.e., weight, age, 
+ketoconazole, and dose status) on clearance in this analysis is consistent with previous 
+findings. Importantly, the observed sufentanil concentrations in patients were similar in 
+different weight and age groups due to the on-demand nature of dosing, and therefore 
+dose adjustment is not needed. The parameter estimates from the current analysis were 
+similar to the previous analysis with the exception of central and peripheral volumes of 
+distribution (120 L and 1712 L in the current analysis, respectively vs. 68 L and 2200 L in 
+the previous analysis). We agree with the Sponsor, who noted in the previous population 
+PK report that “accurate estimation of the volume of distribution and terminal half-life is 
+difficult to achieve…” due in part to the lack of data collected more than 24 hours post-
+dose. For labeling purposes, we recommend using values from dedicated PK studies 
+that had adequate sampling, if available. The reviewer also agrees with the previous 
+review regarding issues related to hepatic and renal impairment and labeling of the 
+ketoconazole interaction. 
+Reference ID: 4151649

@@ -1,0 +1,1872 @@
+
+
+===== PAGE 7 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+6 
+Version date: April 2, 2018  
+Table 40. Cognitive Impairment ................................................................................................. 111 
+Table 41. Cognitive Impairment by Age Group .......................................................................... 111 
+Table 42. Speech Effects ............................................................................................................. 113 
+Table 43. Mood Effects ............................................................................................................... 113 
+Table 44. Sleep Effects ................................................................................................................ 114 
+Table 45. Hallucinations .............................................................................................................. 114 
+Table 46. Preferred terms included in KIT Class Effects ............................................................. 115 
+Table 47. KIT Associate Adverse Events ...................................................................................... 117 
+Table 48. Edema .......................................................................................................................... 117 
+Table 49. Myelosuppression ....................................................................................................... 118 
+Table 50. Rash ............................................................................................................................. 119 
+Table 51. Skin Pigment Changes ................................................................................................. 120 
+Table 52. Cardiac Disorders ........................................................................................................ 121 
+Table 53. Thyroid disorders ........................................................................................................ 121 
+Table 54. Common Treatment Emergent Adverse Events ......................................................... 122 
+Table 55. Laboratory Abnormalities Occurring in >10% of Patients .......................................... 124 
+Table 56. Vital Sign Abnormalities .............................................................................................. 125 
+Table 57. Point Estimates and the 90% CIs ................................................................................. 125 
+Table 58. TEAES with a Difference of Incidence Among Racial groups ...................................... 127 
+Table 68. Clinical PK Studies in NDA 212608 Submission ........................................................... 146 
+Table 69. Summary and Statistical Comparison of Avapritinib Pharmacokinetic Parameters After 
+Administration of Avapritinib 200 mg as 1 × 200 mg Tablet or 2 × 100 mg Capsules Under Fasted 
+Conditions (Study BLU-285-0101) ............................................................................................... 148 
+Table 70. Summary of Avapritinib PK on Cycle 1 Day 1 Following Avapritinib Single-dose (Upper 
+Table) and on Cycle 1 Day 15 Following Repeat-dose (Lower Table) in Patients with GIST (Study 
+BLU-285-1101) ............................................................................................................................ 151 
+Table 71. Summary of BLU111207 PK on Cycle 1 Day 1 Following Avapritinib Single-dose (Upper 
+Table) and on Cycle 1 Day 15 Following Repeat-dose (Lower Table) in Patients with GIST (Study 
+BLU-285-1101) ............................................................................................................................ 152 
+Table 72. Summary of BLU111208 PK on Cycle 1 Day 1 Following Avapritinib Single-dose (Upper 
+Table) and on Cycle 1 Day 15 Following Repeat-dose (Lower Table) in Patients with GIST (Study 
+BLU-285-1101) ............................................................................................................................ 153 
+Table 73: Parameter Estimates of the Final PopPK Model ......................................................... 160 
+Table 74: Primary Analysis: Summary of Best Response by Central Radiology per mRECIST 1.1 
+(Safety Population: PDGFRA Exon 18 Patients) .......................................................................... 165 
+Table 75: Baseline Covariates across 4 Exposure Quartiles in the Exposure-Efficacy Analyses.
+.......................................................................................................... Error! Bookmark not defined. 
+Table 76: Baseline Covariates across 4 Exposure Quartiles in the Exposure-Safety Analyses. .. 167 
+Table 77. Comparison of PBPK predicted and observed PK parameters for avapritinib ........... 173 
+Table 78. PBPK predicted and observed Cmax and AUC values of avapritinib in absence and 
+presence of itraconazole ............................................................................................................. 176 
+Table 79. PBPK predicted and observed Cmax and AUC values of avapritinib in absence and 
+presence of rifampin ................................................................................................................... 177 
+Reference ID: 4543562
+
+
+===== PAGE 8 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+7 
+Version date: April 2, 2018  
+Table 80. PBPK predicted Cmax and AUC ratios for avapritinib following single-dose and at 
+steady-state in the presence of CYP3A4 inhibitors using healthy population model ................ 178 
+Table 81. Comparison of population model predictions for Cmax and AUC ratios for avapritinib 
+steady-state in the presence of CYP3A4 modulators ................................................................. 179 
+ 
+ 
+ 
+Reference ID: 4543562
+
+
+===== PAGE 9 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+8 
+Version date: April 2, 2018  
+Table of Figures 
+Figure 1: Activity of Avapritinib on KIT Exon 17 Mutants in HMC1.2 and P815 Cells .................. 30 
+Figure 2: Activity of Avapritinib on Mutant PDGFRα D842V in CHO-K1 Cells .............................. 31 
+Figure 3: Anti-tumor Activity and Body Weight Changes Following Avapritinib in a  Mouse P815 
+Mastocytoma Tumor Model ......................................................................................................... 32 
+Figure 4: Anti-tumor Activity of Avapritinib in an Imatinib-resistant Patient-derived  Xenograft 
+Model of Human GIST ................................................................................................................... 33 
+Figure 5: Anti-tumor Activity and Inhibition of Mutant KIT in a Patient-derived  Xenograft Model 
+of Human GIST .............................................................................................................................. 33 
+Figure 6: Distribution of KIT mutated exons and responses - 4L+ population in Study BLU-285-
+1101  (N=110)................................................................................... Error! Bookmark not defined. 
+Figure 7. Study Scheme BLU-285-1101 ......................................................................................... 67 
+Figure 8: Effect of Formulation (Capsule versus 100 mg Tablet) on Avapritinib Dose-normalized 
+Cmax and AUC (Study BLU-285-1101) ........................................................................................ 149 
+Figure 9: Mean (+Standard Deviation) Plasma Concentration-Time Profiles of Avapritinib in 
+Patients with GIST (Study BLU-285-1101) .................................................................................. 154 
+Figure 10: Mean (+ Standard Deviation) Plasma Concentration-Time Profiles of BLU111207 and 
+BLU111208 in Patients with GIST (Study BLU-285-1101) ........................................................... 155 
+Figure 11: Power Analysis of Avapritinib Systemic Exposure vs Dose Following Administration of 
+Avapritinib in Patients With GIST (Study BLU-285-1101) ........................................................... 156 
+Figure 12: Schematic of the Base Population PK Model. ............................................................ 157 
+Figure 13: Goodness of Fit Plots of the Final Model ................................................................... 158 
+Figure 14: Visual Predictive Checks of Avapritinib Concentration-Time Data Stratified by 
+Population. .................................................................................................................................. 159 
+Figure 15: Covariate Effects on avapritinib Exposuer (AUC0-35 days or Cmax) ................................ 161 
+Figure 16: Comparison of post-hoc CL across hepatic function. ................................................ 162 
+Figure 17: Comparison of post-hoc CL across renal function. .................................................... 163 
+Figure 18: Observed Avapritinib Concentration-Time Profile across PPI Usage. ....................... 164 
+Figure 19: Boxplot of Best Overall Response vs Cave_ss. ........................................................... 166 
+Figure 20: Relationship between avapritinib Exposure and ORR in Patients with 4L+ GIST Tumor.
+.......................................................................................................... Error! Bookmark not defined. 
+Figure 21: Relationship between Avapritinib Exposure and Grade 3/4 AE and Cognitive Effects.
+..................................................................................................................................................... 167 
+Figure 22. PBPK predicted and observed PK profiles of avapritinib ........................................... 172 
+Figure 23. PBPK predicted and observed PK profiles of avapritinib following multiple dosing . 175 
+Figure 24. PBPK predicted hepatic CYP3A4 values following multiple dosing of avapritinib ..... 175 
+Figure 25. PBPK predicted and observed PK profile of avapritinib in absence and presence of 
+itraconazole................................................................................................................................. 176 
+ 
+ 
+ 
+ 
+Reference ID: 4543562
+
+
+===== PAGE 26 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+25 
+Version date: April 2, 2018  
+5 Nonclinical Pharmacology/Toxicology 
+ 
+Executive Summary  
+Avapritinib is a tyrosine kinase inhibitor that targets PDGFRα, PDGFRα D842 mutants, and other 
+exon 18 mutants, as well as KIT and multiple KIT exon 11, 11/17, and 17 mutants; the 
+established pharmacological class is kinase inhibitor. Certain mutations in PDGFRα and KIT can 
+result in the autophosphorylation and constitutive activation of these receptors which can 
+support cell proliferation in GIST. Specifically, avapritinib inhibited the kinase activity of wild-
+type PDGFRα (IC50 value of 1.4 nM) and PDGFRα D842 mutants (Y, I, and V with IC50 values of 
+0.12, 0.13, and 0.24 nM, respectively). Avapritinib also demonstrated activity against multiple 
+KIT exon 11, 11/17, and 17 mutants with IC50 values ≤ 25 nM. Although inhibition of wild-type 
+KIT occurred at an approximate 3-fold higher concentration (IC50 value of 73 nM) compared to 
+the KIT mutants, in a separate kinome screen, avapritinib bound to wild-type KIT, wild-type 
+PDGFRα, PDGFRβ, and colony stimulating factor 1 receptor (CSF1R) with Kds ≤ 17 nM. In in vitro 
+cellular assays, avapritinib inhibited the autophosphorylation of KIT D816V and PDGFRα D842V 
+mutants associated with resistance to FDA-approved approved kinase inhibitors, with IC50s of 4 
+nM and 30 nM, respectively. The M499 metabolite of avapritinib also inhibited KIT D816V 
+phosphorylation with an IC50 approximately 15 nM, suggesting that it is an active metabolite; 
+however, the predicted free Cmax of the more active M499 enantiomer is less than 2 nM, 
+suggesting this metabolite may not contribute significantly to the activity of avapritinib despite 
+having similar activity to the parent based on available data. Avapritinib also exhibited anti-
+tumor activity in a mouse mastocytoma tumor model with an activating KIT exon 17 mutation 
+and in an imatinib-resistant patient-derived xenograft model of human GIST with activating KIT 
+exon 11/exon17 mutations. 
+ 
+The Applicant conducted stand-alone GLP-compliant safety pharmacology studies in rats and 
+dogs to assess the effect of avapritinib on the central nervous system, pulmonary function, and 
+the cardiovascular system. In a modified Irwin test, rats administered 45 mg/kg/day of oral 
+avapritinib for 15 consecutive days showed an increased sensitivity to stimuli and tremors. To 
+further investigate these adverse findings, Blueprint conducted a non-GLP compliant 
+electroencephalographic (EEG) assessment in rats administered up to 50 mg/kg/day of oral 
+avapritinib for 9 consecutive days. At the highest dose tested, one rat had a seizure on Day 8 
+while another rat had adverse EEG findings that typically precede seizure activity. The mean 
+exposure levels (AUC) in these animals were approximately half of those observed clinically at 
+the 300 mg daily dose (15400 ng.h/mL). Consistent with these findings, seizures or tremors 
+occurred in general toxicology studies in dogs in both 4- and 13-week studies as well as in a 
+small number of patients with GIST. While avapritinib demonstrated little potential for off-
+target pharmacological activity against a panel of receptors, transporters, ion channels, and 
+enzymes at clinically relevant concentrations, avapritinib inhibited the type 2 sodium channel 
+with an IC50 of 0.3 μM. Allelic variations in the type 2 sodium channel have been associated with 
+seizure disorders (Heron et al., 2002; Sugaware et al., 2001; Schwarz et al., 2019). Although the 
+IC50 for type 2 sodium channel inhibition is higher than the predicted free Cmax of 20 nM in 
+Reference ID: 4543562
+
+
+===== PAGE 27 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+26 
+Version date: April 2, 2018  
+humans at the 300 mg daily dose, exposures in animal safety studies were higher than the 
+clinical exposure suggesting that inhibition of this pathway may contribute to seizures in 
+animals. In addition, avapritinib was able to cross the blood brain barrier (approximately 50% of 
+plasma concentrations following a single dose) and some tissue accumulation after repeated 
+dose administration is possible. A contributing role for avapritinib-mediated inhibition of the 
+type 2 sodium channel in clinical neurological symptoms cannot be excluded. 
+ 
+There were no avapritinib-related adverse effects on pulmonary function or the cardiovascular 
+system at single doses up to 45 mg/kg. Avapritinib blocked hERG channel potential with an IC50 
+of 2.4 μM; however, this IC50 is 1.5 times the free Cmax in humans at the 300 mg dose. 
+Consistent with these findings, avapritinib did not have effects on QT prolongation clinically or 
+in in vivo nonclinical studies. 
+ 
+The Applicant evaluated the toxicity of avapritinib in GLP-compliant repeated-dose toxicity 
+studies in rats and dogs. Rats received up to 30 mg/kg/day of oral avapritinib, once per day, for 
+3 months, resulting in mean exposure levels (AUC) up to 6 times the AUC of 15400 ng.h/mL in 
+humans at the 300 mg daily dose. At doses ≥ 20 mg/kg/day avapritinib resulted in the death of 
+five male animals. Although the Applicant did not determine a clear cause of death, toxicity 
+consisted of decreased cellularity in the bone marrow and thymus, anemia, thrombocytosis, 
+adrenal hypertrophy, thickness of the zone of hypertrophic cartilage, inflammation of the heart 
+and lungs, nephropathy, and liver toxicity. Anemia occurs clinically as well. Female reproductive 
+organ toxicity also occurred and consisted of cystic degeneration of corpora lutea at doses ≥ 5 
+mg/kg/day (a dose resulting in exposures approximately 1.3 times the human exposure based 
+on AUC at the 300 mg daily dose). This adverse female reproductive organ finding was included 
+in Section 13.1 of the label and advice that avapritinib may impair female fertility was included 
+in Section 8.3 of the label. Although tremors did not occur in the 3-month toxicity study in rats, 
+tremors did occur in rats administered oral avapritinib at doses ≥ 100 mg/kg/day (a dose 
+resulting in exposures based on AUC approximately 8 times those in humans at the 300 mg 
+daily dose) after 4 days of dosing in a 28-day toxicity study. 
+ 
+Dogs received up to 30 mg/kg/day of oral avapritinib, once per day, for 3 months, resulting in 
+mean exposure levels (AUC) up to 1.5 times those in humans at the 300 mg dose. Death 
+occurred in nearly all high-dose dogs due to multifocal hemorrhage in the spinal cord and brain.  
+Edema in the choroid plexus also occurred. Intracranial hemorrhage occurs clinically as well.  
+Though the clinical findings are included in the Warnings and Precautions section of the label, 
+due to the severity and low exposure multiples in dogs compared to humans, these nonclinical 
+findings were also included in Section 13.2 of the label. Dogs also displayed tremors that may 
+be related to the type 2 sodium channel off-target pharmacological activity, as described above, 
+or PDGFRα inhibition given that PDGFRα knockout mice have defective oligodendrocyte 
+development and severe hypomyelination in various regions of the brain, and tremors 
+(Fruttiger et al., 1999). Although tremors did not occur clinically, given the other CNS-related 
+adverse events in humans (seizures and cognitive effects), the occurrence of tremors in animals 
+was included in Section 13.2 of the label. Additional toxicities in dogs consisted of decreased 
+cellularity in the bone marrow, thymus, and lymph nodes, anemia, thrombocytosis, 
+Reference ID: 4543562
+
+
+===== PAGE 28 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+27 
+Version date: April 2, 2018  
+angiectasis/hemorrhage of adrenal glands, gastrointestinal infiltration/atrophy, and liver 
+toxicity. Male reproductive organ toxicity also occurred and consisted of hypo-spermatogenesis 
+at doses ≥ 7.5 mg/kg/day (approximately 0.4 times the human exposure based on AUC at the 
+300 mg daily dose). This adverse male reproductive organ finding was included in Section 13.1 
+of the label and advice that avapritinib may impair male fertility was included in Section 8.3 of 
+the label. 
+ 
+While in vitro assays suggested similar metabolism between rats, dogs, and humans, there was 
+a single metabolite, M690, identified at high levels in humans that was not present at 
+significant levels in rats or dogs. Though the toxicity of this metabolite was not assessed in 
+animal studies, the toxicity profile in humans vs. animals is similar, suggesting that M690 is not 
+contributing unique toxicity to the avapritinib profile. Based on a single dose in vivo 
+pharmacokinetic study in rats, the pharmacologically active metabolite M499 has appropriate 
+toxicological coverage to assess its safety. 
+ 
+In humans, avapritinib can cause adverse cognitive effects including memory impairment, 
+cognitive disorder, confusional state, and encephalopathy at the recommended 300 mg dose.  
+To investigate these adverse cognitive effects, the Applicant assessed the ability of avapritinib 
+to affect short-term learning using an operant reversal test, spatial memory using a 
+spontaneous alternation maze, and fear conditioning using a contextual fear conditional task in 
+rats administered 30 mg/kg/day (approximately 3 times the human exposure based on AUC at 
+the 300 mg daily dose) of oral avapritinib for up to 16 days. In contrast to the positive controls, 
+avapritinib did not affect learning, memory, or fear conditioning. Other than the type 2 sodium 
+channel discussed above, avapritinib did not inhibit any other tested CNS-related receptors at 
+clinically relevant concentrations, making inhibition of these receptors unlikely to be 
+contributing to the clinical effects. Based on recent literature, in addition to seizure disorders, 
+allelic variants in the type 2 sodium channel have also been associated with cognitive 
+impairment (Schwarz et al., 2019). Although the etiology of the adverse cognitive effects in 
+humans is not clear, as discussed above, avapritinib-induced inhibition of both PDGFRα and the 
+type 2 sodium channel may be involved.  
+ 
+The Applicant did not conduct studies investigating the carcinogenic potential of avapritinib as 
+such studies are not needed to support a marketing application for patients with advanced 
+cancer. Avapritinib was not mutagenic in a bacterial reverse mutation (Ames) assay. Avapritinib 
+was clastogenic in the in vitro chromosome aberration test in human peripheral blood 
+lymphocytes at concentrations ≥ 5 μg/mL (22-hour incubation); these aberrations appeared 
+structural rather than numerical. Avapritinib was, however, not clastogenic in the in vivo rat 
+bone marrow micronucleus test at doses up to 150 mg/kg. Based on the weight of evidence, 
+avapritinib was not considered genotoxic. 
+ 
+Dedicated fertility and pre- and post-natal development studies were neither conducted nor 
+necessary to support the development of avapritinib in patients with advanced cancer. PDGFRα 
+is critically important during embryogenesis including the development of the central nervous 
+system, neural crest, and a variety of mesenchymal cell types. KIT is critically important in the 
+Reference ID: 4543562
+
+
+===== PAGE 29 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+28 
+Version date: April 2, 2018  
+migration of embryonic stem cells and the development of pigment-forming cells, germ cells, 
+red blood cells, and mast cells. To address the potential for avapritinib-mediated reproductive 
+activity, the Applicant conducted an embryo-fetal development studies with avapritinib in rats.  
+Daily oral administration of avapritinib to pregnant rats resulted in decreased fetal body 
+weights, post-implantation loss, and increases in visceral (hydrocephaly, septal defect, and 
+stenosis of the pulmonary trunk) and skeletal (sternum) malformations at doses ≥ 10 
+mg/kg/day (a dose resulting in exposures approximately 2.7 times the exposure based on AUC 
+at the 300 mg human dose). Based on these adverse findings, the team recommends a warning 
+for embryo-fetal toxicity in Section 5 of the label. Because of the potential for embryo-fetal 
+toxicity, a recommendation for females and males of reproductive potential to use 
+contraception during treatment with avapritinib and, based on a half-life of 57 hours with an 
+additional month due to the positive in vitro chromosome aberration assay finding, 6 weeks 
+after the final dose is included in Section 8.3 of the label. Lactating women are advised not to 
+breastfeed during treatment with avapritinib and, based on a half-life of 57 hours, 2 weeks 
+after the final dose. 
+ 
+Based on the results from in vitro and in vivo phototoxicity studies, avapritinib has a slight 
+potential for phototoxicity. This potentially adverse finding was included in Section 13.2 of the 
+label.   
+ 
+There are no outstanding issues from a nonclinical perspective that would prevent the approval 
+of avapritinib for the treatment of patients with unresectable or metastatic GIST who have a 
+PDGFRA exon 18 mutation; therefore, the nonclinical team recommends approval. 
+ 
+ 
+Referenced NDAs, BLAs, DMFs 
+None 
+ 
+Pharmacology 
+Primary pharmacology 
+ 
+A. 
+In Vitro Studies 
+ 
+Avapritinib demonstrated in vitro inhibitory activity against human KIT and PDGFRα mutant 
+kinases (Study BPM-0001 and BPM-0006). Elucidation of the crystal structure of avapritinib in 
+complex with the KIT protein showed that avapritinib is an ATP competitive inhibitor that binds 
+to the active conformation of the KIT kinase (data not shown). Avapritinib demonstrated in 
+vitro inhibitory activity against KIT exon 17 mutant enzymes including KIT D816V (IC50= 0.27 
+nM) and PDGFRα exon 18 mutants including D842V (IC50= 0.24 nM). As shown in Table 1, 
+further examination in additional studies demonstrated that avapritinib inhibits the in vitro 
+activity of a variety of KIT and PDGFRα mutants (Study BPM-0050, BPM-0016, BPM-0006). 
+Furthermore, in response to several information requests, the Applicant submitted additional in 
+Reference ID: 4543562
+
+
+===== PAGE 36 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+35 
+Version date: April 2, 2018  
+in the ovaries, and red matting on the nasal and buccal at necropsy. Another 50 mg/kg/day 
+animal had a seizure on Day 8 which lasted for approximately 5 minutes and correlated to an 
+avapritinib plasma concentration of 6,710 ng/mL (13 uM; ~156 nM free drug based on 98.8% 
+protein binding). The seizure was characterized by repeated bursts of extremely high amplitude 
+EEG, occurring in 4-5 second intervals, and preceded by escalating sharp waves and myoclonic 
+movements. A third 50 mg/kg/day animal showed high amplitude bursts of organized sharp 
+waves accompanied with asymmetric facial grimaces, twitching of the face and eyes, and strong 
+myoclonic movements on Day 8. This animal had an avapritinib plasma concentration of 8,880 
+ng/mL (18 uM). 
+ 
+To evaluate the effect of avapritinib on the cardiovascular system and respiratory parameters, 
+the Applicant administered single 0, 15, 20, or 45 mg/kg doses of avapritinib to telemetered 
+male Beagle dogs (4/dose group) using a Latin square crossover design with approximately 7 
+days between doses (Study 
+-124501). Cardiovascular and respiratory data were obtained 
+from each animal for approximately 24 hours post-dose. There were no avapritinib-related 
+effects on cardiovascular parameters (heart rate, mean arterial blood pressure, and systolic, 
+diastolic, and pulse pressure), body temperature, ECG waveform morphology, duration of PR, 
+QRS, RR, QT, and QTcV intervals, respiratory parameters (respiratory frequency, tidal volume, 
+and minute volume), or the clinical condition of the animals. 
+ 
+To further evaluate the potential effects of avapritinib on the cardiovascular system, the 
+Applicant assessed the ability of avapritinib to inhibit the human ether-à-go-go related gene 
+(hERG) potassium channel stably expressed in HEK293 cells (human embryonic kidney cell type; 
+Study 140717.XSM). Avapritinib blocked hERG channel potential with an IC50 of 2.4 μM; 
+however, this IC50 is approximately 1.5-fold higher than the Cmax in humans at the 300 mg dose 
+(813 ng/mL; 1.6 μM) and is therefore unlikely to cause QT prolongation.   
+ 
+ADME/PK  
+Type of study 
+Major findings 
+Absorption 
+Pharmacokinetics of BLU112317-1 after 
+Intravenous and Oral Administrations to 
+Male SD rats; Study No. 
+-P13-8343R07 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A Pharmacokinetic Study of X720776 
+Following Single Oral Gavage 
+ 
+Male Sprague Dawley rats received a single 1 mg/kg 
+intravenous dose of avapritinib. 
+Cmax (ng/mL):   Not available                  
+AUC (ng.h/mL): 1997 
+T1/2 (hours): 8 
+ 
+Male Sprague Dawley rats received a single 2.5 mg/kg oral 
+dose of avapritinib. 
+Cmax (ng/mL):   432                  
+AUC (ng.h/mL): 4207 
+T1/2 (hours): 6 
+Bioavailability: 78% 
+ 
+Male Sprague Dawley rats received a single oral dose of 10, 
+30, 100, or 300 mg/kg of avapritinib.  Exposure levels were 
+Reference ID: 4543562
+(b) (4)
+(b) (4)
+
+
+===== PAGE 37 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+36 
+Version date: April 2, 2018  
+Type of study 
+Major findings 
+Administration to Male Sprague Dawley 
+Rats; Study No. BMC-20140123B-RPK 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pharmacokinetics of BLU112317-2 after 
+Intravenous and Oral Administrations to 
+Male Beagle dogs; Study No. 
+P14-
+8449D02 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Plasma Pharmacokinetic Study of X720776 
+Following Single Oral (PO) Administration 
+to Non-Naïve Male Beagle Dogs; Study No.  
+BMC-20140310 
+dose proportional from 10 to 30 mg/kg, and less than dose 
+proportional from 30 to 100 mg/kg and 100 to 300 mg/kg.   
+Cmax (ng/mL):   2143 (LD); 5483 (MLD); 9183 (MHD);  
+13800 (HD)                       
+AUC (ng.h/mL): 19333 (LD); 57167 (MLD); 142500 (MHD); 
+179333 (HD) 
+T1/2 (hours): 6-18 
+Bioavailability: Not available 
+ 
+Male Beagle dogs received a single 0.5 mg/kg intravenous 
+dose of avapritinib.   
+Cmax (ng/mL):   Not available                        
+AUC (ng.h/mL): 494 
+T1/2 (hours): 11 
+ 
+Male Beagle dogs received a single 1 mg/kg oral dose of 
+avapritinib.   
+Cmax (ng/mL):   56                        
+AUC (ng.h/mL): 765 
+T1/2 (hours): 11 
+Bioavailability: 77% 
+ 
+Male Beagle dogs received a single oral dose of 25 or 50 
+mg/kg/day of avapritinib.  Exposure levels were less than 
+dose proportional.  
+Cmax (ng/mL):   1262 (LD); 1513 (HD) 
+AUC (ng.h/mL): 21567 (LD); 27033 (HD) 
+T1/2 (hours): 10 
+Bioavailability: Not available 
+Distribution 
+Evaluation of Protein Binding of X720776 
+in Human, Monkey, Dog, Rat, and Mouse 
+Plasma Using Equilibrium Dialysis; Study 
+No. 
+P14-9193 
+ 
+ 
+A Pharmacokinetic, Mass Balance, and 
+Tissue Distribution Study of [14C]-Kiev 
+following Oral (Gavage) or Intravenous 
+(Bolus) Administration to Rats; Study No.  
+124696 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The Applicant assessed the in vitro protein binding of 
+avapritinib in rat, mouse, dog, monkey, and human plasma 
+at concentrations of 0.1, 1, and 10 μM.  Avapritinib 
+demonstrated high protein binding (>98.5%) in the plasma of 
+all species tested. 
+ 
+Male Sprague-Dawley rats received a single 30 mg/kg oral 
+dose of radiolabeled (14C) avapritinib.   
+• 
+Measurable levels of avapritinib were present in the 
+blood from 0.25 to 72 hours post-dose. 
+• 
+Cmax in plasma was 6990 ng/mL at 8 hours post-
+dose. 
+• 
+Avapritinib tissue concentrations were highest in 
+the lung and adrenal gland, and lowest in the uveal 
+tract and adipose tissue.   
+• 
+With exception to the adrenal, harderian, pituitary, 
+and thyroid glands, tissues were devoid of 
+avapritinib by 168 hours post-dose. 
+ 
+Male pigmented Long Evans rats received a single 30 mg/kg 
+oral dose of radiolabeled (14C) avapritinib. 
+Reference ID: 4543562
+(b) (4)
+(b) (4)
+
+
+===== PAGE 38 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+37 
+Version date: April 2, 2018  
+Type of study 
+Major findings 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Determination of Avapritinib 
+Concentrations in ISF, Plasma, CSF and 
+Brain Tissue, as Well as Neurotransmitter 
+Levels following a Single Oral 
+Administration to Sprague Dawley Rats; 
+Study No. 1666 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Cmax in plasma was 5470 ng/mL at 8 hours post-
+dose. 
+• 
+Avapritinib tissue concentrations were highest in 
+the uveal tract, pigmented skin, and adipose tissue.     
+• 
+With exception to the uveal tract and eye lens, 
+tissues were devoid of avapritinib by 168 hours 
+post-dose.   
+• 
+Avapritinib was still present in the uveal tract at 504 
+hours post-dose. 
+ 
+Male Sprague Dawley rats with surgically implemented 
+microdialysis probes in the prefrontal cortex and 
+hippocampus received a single 30 mg/kg oral dose of 
+avapritinib.  Plasma, brain interstitial fluid (ISF), 
+cerebrospinal fluid (CSF), and brain tissue were collected up 
+to 24 hours post-dose. 
+• 
+Cmax in plasma was 2140 ng/mL at 3 hours post-
+dose; Cmax in ISF was 73 ng/mL at 6.5 hours post-
+dose; Cmax in CSF was 1.24 ng/mL (sample taken at 
+24 hours post-dose); Cmax in brain tissue was 1030 
+ng/mg (~50% plasma concentration; sample taken 
+at 24 hours post-dose) 
+• 
+Avapritinib did not significantly alter 
+neurotransmitter levels (dopamine, serotonin, 
+glutamate, norepinephrine, gamma-aminobenzoic 
+acid, glycine, and acetylcholine) in ISF. 
+Reference ID: 4543562
+
+
+===== PAGE 39 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+38 
+Version date: April 2, 2018  
+Type of study 
+Major findings 
+Metabolism 
+In Vitro Metabolism of [3H]-BLU-285 in the 
+Presence of Cryopreserved Hepatocytes 
+and Liver Microsomes from Sprague-
+Dawley Rats, Beagle Dogs and Humans; 
+Study No. BLU-R4174 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Metabolite Profiles of [14C]-BLU-285 in 
+Plasma, Urine, Bile, and Feces of Rats 
+Following a Single IV and Oral Dose of 
+[14C]-BLU-285; Study No. BLU-R7153, and  
+Metabolite Profiles of BLU-285 in Plasma 
+of Beagle Dogs Following a Single Oral 
+Dose of 400 mg BLU-285; Study No. BLU-
+R8415 
+ 
+ 
+ 
+ 
+ 
+[3H] avapritinib was relatively stable in the presence of 
+human liver microsomes or hepatocytes with unchanged 
+avapritinib accounting for > 90% of total radioactivity.  The 
+primary metabolic pathways for [3H] avapritinib after 
+incubation with human liver microsomes or hepatocytes 
+were N-demethylation (M484) and oxidation of the primary 
+amine to a tertiary alcohol (M499).  These metabolites were 
+also present in rat and dog liver microsomes (see table 
+below) and hepatocytes. An oxidized N-demethylated 
+metabolite (M485), and hydroxylation/oxidation metabolites 
+(M514a/b) also occurred in rats and/or dog liver extracts. 
+ 
+Metabolites of Avapritinib in Liver Microsomes 
+ 
+ 
+Based on a separate pharmacokinetic study in humans, the 
+major human metabolic pathways of avapritinib were 
+hydroxy glucuronidation (M690) and oxidative deamination 
+(M499).  In these animal studies, male Sprague-Dawley rats 
+received a single 30 mg/kg oral dose of radiolabeled (14C) 
+avapritinib and male Beagle dogs received a single 400 mg 
+oral dose of avapritinib.  The major circulating metabolites 
+are shown in the following table, compared to levels in 
+human plasma. 
+ 
+Metabolites of Avapritinib in Rat, Dog, and Human Plasma 
+ 
+ND: Not Detected 
+ 
+Bile duct-cannulated male Sprague-Dawley rats received a 
+single 5 mg/kg intravenous dose of radiolabeled (14C) 
+avapritinib.  The level of avapritinib metabolites in bile were 
+4.8% for M499 and 5.7% for M690. 
+Excretion 
+A Pharmacokinetic, Mass Balance, and 
+Tissue Distribution Study of [14C]-Kiev 
+following Oral (Gavage) or Intravenous 
+(Bolus) Administration to Rats; Study No. 
+124696 
+ 
+In intact male Sprague Dawley rats, excretion following a 
+single oral dose of radiolabeled (14C) avapritinib was through 
+feces (91%) and urine (7%). 
+ 
+In bile duct-cannulated male Sprague Dawley rats, excretion 
+following a single intravenous dose of (14C) avapritinib was 
+through bile (54%), feces (32%), and urine (6%). 
+TK data from general toxicology studies 
+Refer to Section 5.5.1 
+TK data from reproductive toxicology 
+studies 
+ 
+Refer to Section 5.5.4 
+Reference ID: 4543562
+
+
+===== PAGE 55 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+54 
+Version date: April 2, 2018  
+Bridge between the to-be-
+marketed and clinical trial 
+formulations 
+ 
+The proposed to-be-marketed formulation is 100 mg strength 
+tablets, 200 mg strength tablets and 300 mg strength tablets. 
+The 100 mg strength tablet was used in the registrational 
+Study BLU-285-1101. A strength-based waiver was granted 
+for the 200 mg strength tablets based on in vitro data. 
+Post-Marketing Requirements and Commitments 
+PMC or 
+PMR 
+Key Issue(s) 
+to 
+be Addressed 
+Rationale 
+Key Considerations for 
+Design Features 
+PMR 
+Avapritinib 
+dose in 
+patients with 
+severe hepatic 
+impairment. 
+The effect of severe hepatic 
+impairment on the 
+exposure of avapritinib is 
+unknown and dose 
+adjustment may be needed. 
+Complete a pharmacokinetic trial to 
+determine an appropriate dose of avapritinib 
+to minimize toxicity in patients with severe 
+hepatic impairment in accordance with the 
+FDA Guidance for Industry entitled 
+“Pharmacokinetics in Patients with Impaired 
+Hepatic Function: Study Design, Data 
+Analysis, and Impact on Dosing and Labeling” 
+found at  
+https://www.fda.gov/downloads/Drugs/Guid
+anceComplianceRegulatoryInformation/Guid
+ances/UCM072123.pdf 
+ 
+ Summary of Clinical Pharmacology Assessment 
+ 
+Pharmacology and Clinical Pharmacokinetics 
+Avapritinib exhibited dose-proportional increases in AUC and Cmax across the dose range of 30 
+mg to 400 mg following both single dose and repeated doses. At the recommended dosage of 
+300 mg once daily, the mean (CV%) steady state Cmax of avapritinib was 813 ng/mL (52%) and 
+the mean steady state area under the concentration-time curve (AUC0-24h) was 15400 h•ng/mL 
+(48%). The mean plasma elimination half-life (t1/2) is 32 to 57 hours. Following repeated 300 mg 
+once daily administration, steady-state was achieved after 15 days and avapritinib accumulated 
+with a geometric mean accumulation ratio of 3.1 to 4.6. 
+ADME Properties 
+Absorption: The median time to peak concentration (Tmax) ranged from 2.0 to 4.1 hours 
+following single 30 mg to 400 mg doses of avapritinib. The Cmax of avapritinib was increased by 
+59% and the AUC0-INF was increased by 29% when avapritinib was taken with a high-calorie, 
+Reference ID: 4543562
+
+
+===== PAGE 56 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+55 
+Version date: April 2, 2018  
+high-fat meal (approximately 909 calories, 58 grams carbohydrate, 56 grams fat and 43 grams 
+protein) compared to those in the fasted state. 
+Distribution: The mean apparent volume of distribution of avapritinib is 1200 L. In vitro protein 
+binding of avapritinib is 98.8%. The blood-to-plasma ratio is 0.95. 
+Metabolism: Avapritinib is primarily metabolized by CYP3A4 and to a lesser extent by CYP2C9 in 
+vitro. Following a single oral dose of approximately 310 mg of radiolabeled avapritinib to 
+healthy subjects, unchanged avapritinib (49%) and its metabolites M690 (hydroxy glucuronide; 
+35%) and M499 (oxidative deamination; 14%) were the major circulating compounds. Following 
+oral administration of avapritinib 300 mg once daily in patients, the steady state AUC of M499 
+is approximately 80% of the AUC of avapritinib. M499 is not likely to contribute to efficacy at 
+the recommended dose of avapritinib. 
+Elimination: The mean t1/2 of avapritinib was 32 hours to 57 hours following single 30 mg to 400 
+mg doses of avapritinib. The steady state mean apparent oral clearance of avapritinib is 19.5 
+L/h. 
+Excretion: Following a single oral dose of approximately 310 mg of radiolabeled avapritinib to 
+healthy subjects, 70% of the radioactive dose was recovered in feces (11% unchanged) and 18% 
+in urine (0.23% unchanged). 
+ 
+General Dosing and Therapeutic Individualization 
+General Dosing 
+The proposed avapritinib dosing regimen is 300 mg orally once daily on an empty stomach at 
+least one hour before and two hours after a meal. The primary evidence of efficacy and safety 
+was provided by an open-label study, BLU-285-1101, in adult patients with unresectable or 
+metastatic GIST, including adult patients with unresectable or metastatic GIST harboring a 
+PDGFRα exon 18 mutation (including PDGFRα D842V mutations) and in adult patients with 
+unresectable or metastatic GIST treated with at least 3 prior lines of therapy. Additional safety 
+data are from a Phase 3 study in patients with advanced GIST (Study BLU-285-1303) and a dose 
+finding study in patients with AdvSM (Study BLU-285-2101). The proposed dosage is effective 
+and has a manageable safety profile. 
+Therapeutic Individualization 
+No clinically significant differences in the PK of avapritinib were observed based on, sex, race, 
+body weight, mild to moderate (renal impairment, or mild to moderate hepatic impairment. 
+The effect of severe renal impairment, end-stage renal disease, or severe hepatic impairment 
+on the pharmacokinetics of avapritinib is unknown. 
+From a mechanistic perspective, the proposed indication in PDGFRα exon 18 population is 
+acceptable based on available clinical and nonclinical evidence. 
+Outstanding Issues 
+Reference ID: 4543562
+
+
+===== PAGE 57 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+56 
+Version date: April 2, 2018  
+We will issue one PMR to assess the effect of severe hepatic impairment on the PK of 
+avapritinib. Refer to Post-Marketing Requirements and Commitments for details.   
+ Comprehensive Clinical Pharmacology Review 
+ 
+General Pharmacology and Pharmacokinetic Characteristics 
+Table 5: General Pharmacology and Pharmacokinetics 
+Pharmacology 
+Mechanism of 
+Action 
+Avapritinib is a tyrosine kinase inhibitor that targets PDGFRα and PDGFRα D842 mutants 
+as well as multiple KIT exon 11, 11/17 and 17 mutants. 
+Active Moieties Avapritinib is the major circulating moiety in human plasma. No major active metabolites 
+are identified. The most common circulating metabolites is M499, which has two 
+enantiomers: BLU111207 (35% of avapritinib AUC at steady state) and BLU111208 (42% of 
+avapritinib AUC at steady state). Both enantiomers have lower fraction unbound values 
+compared to that of avapritinib. BLU111207 is 10.5-fold less potent and BLU111208 is 3.1-
+fold less potent compared to avapritinib against KIT D816V in vitro. M499 is not likely to 
+contribute to efficacy at the recommended dose of avapritinib. 
+QT Prolongation The ability of avapritinib to prolong the QT interval was assessed in in an open-label, 
+single-arm study in patients with GIST. Avapritinib was administered to 27 patients at the 
+recommended dosage of 300 mg or 400 mg once daily. No large mean increase in QTc (i.e. 
+> 20 ms) was detected at the observed steady state geometric mean maximum 
+concentration (Cmax) of 899 ng/mL. 
+General Information 
+Bioanalysis 
+Avapritinib and its major metabolite in plasma were measured using validated LC/MS-MS 
+methods. A summary of the method validation reports is included as an appendix (19.5). 
+Healthy 
+Volunteers vs. 
+Patients 
+In a population PK analysis of avapritinib, the covariate analysis identified GIST disease 
+status (healthy subject or patient with GIST) as a significant covariate on the relative 
+bioavailability of avapritinib, where patients with GIST were expected to have 
+approximately 15% reduced bioavailability compared to healthy subjects. The effect of 
+GIST disease status on avapritinib PK is not considered to be clinically relevant. 
+Drug exposure at 
+steady state 
+following the 
+therapeutic 
+dosing regimen 
+AUC and Cmax were determined in Study BLU-285-1101 in patients at 300 mg once daily. 
+Following one single dose on Cycle 1 Day 1(C1D1), the geometric mean (CV%) AUC0-24h  was 
+4140 (47%)·ng•h/mL and Cmax was 264 (62%) ng/mL. Following multiple doses at steady 
+state on Cycle 1 Day 15 (C1D15), the geometric mean (CV%) AUC0-24h was 15,400 
+(48%)·ng•h/mL and Cmax was 813 (52%) ng/mL. See section 19.5 for details. 
+Reference ID: 4543562
+
+
+===== PAGE 58 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+57 
+Version date: April 2, 2018  
+Minimal 
+effective dose or 
+exposure 
+Not available. The 300 mg QD is the lowest starting dose in the dose expansion part (Part 
+2) of Study BLU-285-1101. Forty-three patients were initially treated at 400 mg QD in the 
+dose expansion part (Part 2) of the trial. However, based on a joint Investigator and 
+Sponsor review of the available safety, PK, pharmacodynamics, and clinical activity data on 
+13 June 2017, a new starting dose of 300 mg QD was selected as the initiation dose of 
+avapritinib for the remainder of the expansion part of the trial with the option for dose 
+escalation to 400 mg QD after 2 consecutive treatment cycles. None of the exon 18 
+patients had dose escalations from 300 to 400 mg. 
+Maximal 
+tolerated dose or 
+Avapritinib 400 mg once daily as a monotherapy. 
+Dose 
+Proportionality 
+Avapritinib exhibited dose-proportional increases in AUC and Cmax across the studied dose 
+range of 30 mg to 400 mg following both a single dose and repeated doses. See section 
+19.5 for detail.  
+Accumulation 
+Following repeated 300 mg once daily administration, steady-state was achieved after 15 
+days and avapritinib accumulated with a geometric mean accumulation ratio of 3.1 to 4.6. 
+Variability 
+In patients after 300 mg QD doses at steady state on C1D15, the geometric mean (CV%) 
+AUC0-24h and Cmax were 15400 (48%) ng•h/mL and 813 (52%) ng/mL, respectively. 
+Absorption 
+Oral 
+Absolute oral bioavailability has not been determined 
+Bioequivalent 
+(BE) Tablets 
+formulation  
+The proposed to-be-marketed formulation is 100 mg strength tablets, 200 mg strength 
+tablets and 300 mg strength tablets. The 100 mg strength tablet was used in the 
+registrational Study BLU-285-1101. A strength-based waiver was granted for the 200 mg 
+and 300 mg strength tablets based on in vitro data. During the development of avapritinib, 
+200 mg and 400 mg tablets were administered in healthy volunteer studies. 
+Bioequivalent 
+(BE) Tablets 1 × 
+400 mg /4 × 100 
+mg Strength 
+GMR (90% CI) 
+No clinically relevant difference between 4 × 100 mg and 1 × 400 mg strength tablets 
+under fasted conditions (N = 62). 
+Cmax 
+AUClast 
+AUC00-INF 
+1.05 (0.933, 1.19) 
+0.970 (0.900, 1.05) 
+0.969 (0.898, 1.05) 
+Bioequivalent 
+(BE) evulation of 
+1 × 200 mg 
+tablets/2 × 100 
+mg capsules 
+formulation 
+GMR (90% CI) 
+No clinically relevant difference between 1 × 200 mg tablets/2 × 100 mg capsules under 
+fasted conditions (N = 30). 
+Cmax 
+AUClast 
+AUC00-INF 
+0.898 (0.785, 1.03) 
+0.902 (0.808, 1.01) 
+0.942 (0.866, 1.02) 
+Oral Tmax 
+The Tmax was between 2 and 4 hours.  
+Food effect for 
+100 mg Tablets 
+Fasted/fed GMR 
+(90% CI) 
+Positive food effect  
+Cmax 
+AUClast 
+AUC00-INF 
+1.59 (1.38, 1.84) 
+1.27 (1.15, 1.40) 
+1.29 (1.14, 1.46) 
+Substrate 
+transporter 
+systems [in vitro] 
+Avapritinib is an inhibitor of P-glycoprotein (P-gp), BCRP, MATE1, MATE2-K, and BSEP, but 
+not an inhibitor of OATP1B1, OATP1B3, OAT1, OAT3, OCT1, or OCT2. Avapritinib is not a 
+substrate of P-gp or BCRP. The effect of M499 on transporter systems is unknown. 
+Reference ID: 4543562
+
+
+===== PAGE 59 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+58 
+Version date: April 2, 2018  
+Distribution 
+Volume of 
+Distribution  
+Mean apparent volume of distribution at steady-state is 1200 L. 
+Plasma Protein 
+Binding 
+98.8% 
+Blood to Plasma 
+Ratio 
+0.95 
+Elimination 
+Half-life 
+The mean plasma elimination half-life of avapritinib was 32 hours to 57 hours. 
+Clearance 
+The geometric mean apparent clearance (CL/F) at steady-state: 19.5 L/hr 
+Metabolism 
+Primary 
+metabolic 
+pathway(s)  
+Avapritinib is primarily metabolized by CYP3A4 and to a lesser extent by CYP2C9.  
+Inhibitor/Inducer In vitro, avapritinib is a time-dependent inhibitor as well as an inducer of CYP3A. In vivo, 
+avapritinib Cmax and AUC increased proportionally over the dose range of 30 mg to 400 mg 
+after single dose or at steady state after once daily dose without time-dependent PK 
+changes. The dose proportionality of avapritinib suggests that avapritinib is not a CYP3A 
+modulator at the above dose range as avapritinib is also a sensitive CYP3A substrate. 
+Avapritinib is an inhibitor of CYP2C9. Avapritinib is not an inhibitor of CYP1A2, CYP2B6, 
+CYP2C8, CYP2C19, or CYP2D6 at clinically relevant concentrations. Avapritinib is not an 
+inducer of CYP1A2 or CYP2B6. M499 is an inhibitor of CYP3A, CYP2C8, or CYP2C9. M499 is 
+not an inhibitor of CYP1A2, CYP2B6, CYP2C19, or CYP2D6 at clinically relevant 
+concentrations. 
+Excretion 
+Primary 
+excretion 
+pathways 
+Following a single oral dose of approximately 310 mg of radiolabeled avapritinib to healthy 
+subjects, 70% of the radioactive dose was recovered in feces (11% unchanged) and 18% in 
+urine (0.23% unchanged). 
+ 
+Clinical Pharmacology Questions 
+Does the clinical pharmacology program provide supportive evidence of effectiveness? 
+Yes. The primary evidence of effectiveness was obtained from Study BLU-285-1101. Study BLU-
+285-1101 was initiated as a first-in-human (FIH) study of avapritinib but was expanded with 
+registrational intent in advanced GIST based on initial efficacy observed in the dose escalation 
+phase. Details regarding Study BLU-285-1101 are provided in Section 7. 
+ 
+Forty-three patients with unresectable or metastatic GIST who harbor PDGFRα exon 18 
+mutations (including PDGFRα D842V mutation), regardless of prior therapy (PDGFRα exon 18 
+population) received starting doses of 300 or 400 mg avapritinib. The ORR was 83.7% (95% CI: 
+69.3%, 93.2%), with 36 of the 43 patients achieving a best confirmed response of CR or PR. The 
+Reference ID: 4543562
+
+
+===== PAGE 62 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+61 
+Version date: April 2, 2018  
+deletions/insertions (mostly in the D842-D846 region). Of note, based on these results, PDGFRα 
+T674I in exon 15 appears to confer resistance to avapritinib. For details refer to Nonclinical 
+Pharmacology/ Toxicology section 5.3.  
+ 
+Considering the responses with (resistant) D842V and a few other non-D842V genotypes, the 
+non-clinical data supporting activity against exon 18 mutations, and the rarity of PDGFRα non-
+D842V mutations, the applicant’s proposed indication for exon 18 is acceptable provided the 
+overall benefit-risk profile is acceptable. The representation of PDGFRα exon 18 mutations 
+should clearly be specified in Section 14.  
+ 
+Are there clinically relevant food-drug or drug-drug interactions, and what is the appropriate 
+management strategy? 
+Avapritinib is primarily metabolized by CYP3A4. CYP3A4 inhibitors or inducers have effects on 
+avapritinib exposure. Avoid coadministration of avapritinib with strong or moderate CYP3A 
+inhibitors. If coadministration of avapritinib with a moderate CYP3A inhibitor cannot be 
+avoided, reduce the dose of avapritinib from 300 mg once daily to 100 mg once daily. Avoid 
+coadministration of avapritinib with strong or moderate CYP3A inducers. 
+In vitro, avapritinib is a time-dependent inhibitor as well as an inducer of CYP3A. Avapritinib is 
+also an inhibitor of CYP2C9. The major metabolite M499 is an inhibitor of CYP3A, CYP2C8, or 
+CYP2C9. In vitro, avapritinib is not a CYP3A modulator at 300 mg once daily.  
+The Cmax and AUC of avapritinib were increased when avapritinib was taken with a high-calorie, 
+high-fat meal compared to the fasted state. Avapritinib is recommended to be administrated on 
+an empty stomach, at least one hour before or two hours after a meal. The influence of Proton 
+pump inhibitors (PPIs) on avapritinib bioavailability was not clinically significant based on a 
+population PK analysis.  
+Effect of CYP3A Inhibitors on Avapritinib  
+Coadministration of avapritinib 200 mg single dose with itraconazole (a strong CYP3A inhibitor) 
+200 mg twice daily on Day 1 followed by 200 mg once daily for 13 days increased avapritinib 
+Cmax by 1.4-fold and AUC0-INF by 4.2-fold in healthy subjects. Based on PBPK modeling, 
+coadministration of avapritinib 300 mg once daily with itraconazole 200 mg once daily is 
+predicted to increase avapritinib AUC by 7-fold at steady state. Coadministration of avapritinib 
+300 mg once daily with fluconazole 200 mg once daily (a moderate CYP3A inhibitor) is predicted 
+to increase avapritinib AUC by 3.1-fold at steady state. Coadministration of avapritinib with 
+cimetidine (a weak CYP3A inhibitor) is predicted to increase avapritinib AUC by 1.2-fold at 
+steady state. 
+Avoid coadministration of avapritinib with strong or moderate CYP3A inhibitors. If 
+coadministration of avapritinib with a moderate CYP3A inhibitor cannot be avoided, reduce the 
+dose of avapritinib from 300 mg orally once daily to 100 mg orally once daily. 
+Effect of CYP3A inducers on Avapritinib  
+Reference ID: 4543562
+
+
+===== PAGE 63 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+62 
+Version date: April 2, 2018  
+Coadministration of avapritinib 400 mg single dose with rifampin (a strong CYP3A inducer) 600 
+mg once daily for 18 days decreased avapritinib Cmax by 74% and AUC0-INF by 92% in healthy 
+subjects. Based on PBPK modeling, coadministration of avapritinib 300 mg once daily with 
+efavirenz (a moderate CYP3A inducer) is predicted to decrease avapritinib Cmax by 55% and AUC 
+by 62% at steady-state. Avoid coadministration of avapritinib with strong or moderate CYP3A 
+inducers. 
+Effect of Food on Avapritinib 
+The Cmax of avapritinib was increased by 59% and the AUC0-INF was increased by 29% when 
+TRADENAME was taken with a high-calorie, high-fat meal (approximately 909 calories, 58 grams 
+carbohydrate, 56 grams fat and 43 grams protein) compared to those in the fasted state. 
+Avapritinib is recommended to be administrated on an empty stomach, at least one hour 
+before or two hours after a meal. 
+Effect of Avapritinib on CYP3A Substrate  
+In vitro, avapritinib is a time-dependent inhibitor as well as an inducer of CYP3A and its major 
+metabolite M499 is also an inhibitor of CYP3A. In vivo, avapritinib Cmax and AUC increased 
+proportionally over the dose range of 30 mg to 400 mg after a single dose or at steady state 
+after once daily dosing without time-dependent PK changes. The dose proportionality of 
+avapritinib suggests that avapritinib is not a CYP3A modulator over the 30 to 400 mg dose range 
+as avapritinib is also a sensitive CYP3A substrate however there is no time-dependent changes 
+in its exposure.   
+Effect of Avapritinib on CYP2C8 or CYP2C9 Substrate  
+Avapritinib is an inhibitor of CYP2C9 (R1 = 1.02) and M499 is an inhibitor of CYP2C8 (R1 = 1.23) 
+or CYP2C9 (R1=1.16) using unbound Cmax at steady state and Ki values. None of the concomitant 
+CYP2C8 or CYP2C9 substrates with avapritinib in studies BLU-285-1101, BLU-285-1303 and BLU-
+285-2101 were sensitive substrates of CYP2C8 or CYP2C9. 
+Effect of Acid-Reducing Agents on Avapritinib 
+The aqueous solubility of avapritinib is pH-dependent, with higher pH resulting in lower 
+solubility. The effect of concomitant PPI use on avapritinib PK was evaluated in the popPK 
+model. During PK sample collection, 77 patients had 5 full days of PPI use, 7 patients had some 
+PPI use in the prior 5 days and 259 patients never used PPIs in the prior 5 days. The effect of 
+concomitant PPI use on relative bioavailability F1 is estimated to be 0.77. As there are 77 
+patients with 5 full days of PPI use in the analysis dataset, and the majority of PK samples (433 
+out of 718) were collected in the absorption phase within 4 hours of last dose, FDA agrees that 
+this estimate should be relatively reliable and the effect of gastric acid reducing agents on the 
+bioavailability of avapritinib is not clinically relevant. 
+ 
+ 
+X 
+ 
+ 
+ 
+ 
+ 
+  
+X 
+ 
+ 
+ 
+ 
+ 
+ 
+Wentao Fu 
+ 
+ 
+ 
+ 
+ 
+Jeanne Fourie Zirkelbach 
+Primary Reviewer 
+ 
+ 
+ 
+ 
+Team Leader 
+Reference ID: 4543562
+
+
+===== PAGE 151 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+150 
+Version date: April 2, 2018  
+PK Dose Proportionality 
+In patients with GIST in Study BLU-285-1101, avapritinib, its major metabolites BLU111207 and 
+BLU111208 PK profiles are shown in Figure 8 and Figure 9. Avapritinib, BLU111207 and 
+BLU111208 PK characteristics were evaluated after the first dose (C1D1) and after multiple 
+doses (C1D15), Table 61 to Table 63. Dose proportionality in Cmax and AUC of avapritinib was 
+evaluated using a power model across the dose range of 30 to 400 mg on C1D1 and C1D15, 
+Figure 10. The power model indicated dose-proportional PK from 30 to 400 mg. Similar power 
+model analyses suggested dose-proportional PK for BLU111207 and BLU111208 from 30 to 400 
+mg of avapritinib. 
+Tmax of avapritinib ranged from 2.0 to 4.1 hours following single doses of avapritinib 30 mg to 
+400 mg following multiple doses in Study BLU-285-1101, the geometric mean Cmax and AUC of 
+avapritinib is 813 ng/mL (1.63 µM) and 15400 ng•h/mL, respectively. Steady state 
+concentration of avapritinib was reached by day 15 following daily dosing and the mean 
+accumulation ratio was 3.1 to 4.6 after repeated dosing. At 300 mg, the AUC ratio for 
+BLU111207 and BLU111208 to parent drug was approximately 19% and 23%, respectively, on 
+C1D1, and approximately 35% and 42%, respectively, at steady state on C1D15. 
+ 
+ 
+Reference ID: 4543562
+
+
+===== PAGE 158 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+157 
+Version date: April 2, 2018  
+19.3.3 Population PK and/or PD Analyses 
+The goal of population PK analysis (popPK) was to develop a population pharmacokinetic (PK) 
+model to assess sources of variability (intrinsic and extrinsic covariates) of avapritinib in healthy 
+volunteers and patients. 
+ 
+The population PK model included 4 clinical trials, comprising 122 healthy subjects and 221 
+patients with gastrointestinal stromal tumors (GIST). The popPK analysis was conducted by the 
+applicant. The PK of avapritinib was characterized by a two-compartment model with 
+absorption modelled via 4 or 5 transit compartments that was dependent on tablet or capsule 
+formulation. The rate of absorption was modelled in terms of absorption transit rate constant 
+for tablets (KTRT) and absorption transit rate constant for capsules (KTRC). Disposition of 
+avapritinib was modelled in terms of apparent oral clearance (CL/F), apparent volume of 
+distribution for the central compartment (Vc/F), apparent inter-compartmental clearance (Q/F), 
+and apparent volume of distribution for the peripheral compartment (Vp/F). Between-subject 
+variability (BSV) was included on the absorption rate constant (KTR), CL/F, and Vc/F. Between-
+occasion variability (BOV) was included on KTR and relative bioavailability (F). A proportional 
+error model was used to describe residual unexplained variability (RUV) for avapritinib. A 
+schematic of the base model is shown in Figure 11. 
+ 
+Figure 11: Schematic of the Base Population PK Model. 
+ 
+Source: Applicant’s poppk report, Page 11 
+ 
+Reference ID: 4543562
+
+
+===== PAGE 160 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+159 
+Version date: April 2, 2018  
+Figure 13: Visual Predictive Checks of Avapritinib Concentration-Time Data Stratified by 
+Population. 
+ 
+Source: Reviewer’s Analysis based on “blu-285-all-20190206-1232.csv” 
+ 
+ 
+The influence of continuous and categorical covariates was tested for their statistical 
+significance on PK parameters in the model. Covariates were selected based on known or 
+hypothetical factors that could affect the PK. Concomitant administration of a proton pump 
+inhibitor (PPI) was defined using an event-level (time-varying) criteria, where there was no 
+concomitant PPI use if there is 0 to less than 5 consecutive days of PPI use prior to the PK 
+sample, and concomitant PPI use if there was equal or more than 5 consecutive days of PPI use 
+prior to the PK sample. Parameter estimates of final covariate model including significant 
+covariates developed by the applicant were provided in Table 64. The final model included 
+effects of lean body weight on Vc/F, formulation effect on absorption rate as well as an effect 
+of disease status (GIST) and PPI comedication on bioavailability. The effects of all evaluated 
+covariates on the avapritinib exposure (AUC from time 0 to 35 days and Cmax) were illustrated in 
+the forest plot (Figure 14). Overall, no intrinsic or extrinsic factors appear to have clinically 
+relevant effects on avapritinib exposure. The magnitude of the effect of evaluated covariates on 
+avapritinib exposure was minor (<0.5-fold change). 
+ 
+ 
+ 
+Reference ID: 4543562
+
+
+===== PAGE 170 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+169 
+Version date: April 2, 2018  
+Avapritinib proposed dosing regimen is 300 mg once daily (QD) as immediate-release film-
+coated tablets. After single dose (SD) administration of avapritinib in patients with GIST, median 
+Tmax ranged from 2 to 4 hours. Following single and multiple once daily dosing, avapritinib 
+exposure (Cmax and AUC) was dose-proportional across the dose range of 30 to 400 mg. 
+Following multiple once-daily (QD) administration, the geometric mean accumulation ratio was 
+3.1 to 4.6 in plasma. The geometric mean CL/F ranged between 17.2 and 28.6 L/h after single-
+dose administration and between 17.3 to 24.6 L/h after QD administration. The interindividual 
+variability (%CV) for PK parameters (Cmax, AUC24h, C24h) ranged between 20% to 73% in 
+patients following SD and QD dosing [BLU-285-1101]. 
+ 
+In vitro data showed the isoforms CYP3A4 (major) and CYP2C9 (minor) contribute to the 
+oxidative metabolism of avapritinib. Metabolic pathways of avapritinib included oxidation, 
+glucuronidation, oxidative deamination and N-dealkylation. Based on the ADME study in 
+healthy subjects [BLU-285-0103], unchanged avapritinib (49%) and metabolites M690 (hydroxy 
+glucuronide; 35%) and M499 (oxidative deamination; 14%) were the major circulating 
+radioactive components. In patients with GIST, the steady state AUC of BLU111207 and 
+BLU111208, the enantiomers of the active metabolite M499, were 35% and 42% of avapritinib 
+AUC, respectively. Those metabolites are reported to be less potent than avapritinib against KIT 
+D816V in vitro. Of note, these metabolites were not incorporated in the PBPK analyses. Fecal 
+excretion is the major elimination pathway for avapritinib and metabolites. Unchanged 
+avapritinib accounted for 11% and 0.23% of the administered radioactive dose excreted in feces 
+and urine, respectively [BLU-R7561]. 
+ 
+The exposure to avapritinib increased when administered under fed conditions (high fat meal): 
+Cmax and AUCinf increased by 59% and 29%, respectively, compared to fasted state [BLU-285-
+0102]. Avapritinib is proposed to be administered under fasted conditions (patients will be 
+instructed not to eat for at least 2 hours before and at least 1 hour after taking avapritinib). 
+ 
+In vitro, avapritinib was determined to be a competitive inhibitor, time-dependent inhibitor and 
+inducer of CYP3A4 [Report 1709171, CYP-0915-R4 and CYP0915-R3]. Avapritinib was not 
+determined to be a substrate of the efflux transporters P-gp or BCRP in vitro [Report OPT-2018-
+549].  
+Methods 
+PBPK model structure and development  
+The PBPK analyses were performed using the population-based PBPK software Simcyp® (V17R1, 
+Simcyp Ltd., a Certara Company, Sheffield, United Kingdom). The avapritinib PBPK model was 
+developed based on in vitro, human ADME study and clinical PK and DDI data.  
+ 
+Briefly, a first-order absorption model and a minimal PBPK model were used to describe the PK 
+of avapritinib. The first-order absorption rate (ka=1.3 1/h) with a lag time of 0.5 h was 
+optimized to capture the avapritinib PK profile and Tmax value observed in healthy subjects 
+administered 200 mg SD [BLU-285-0102]. The fraction absorbed (fa) was assumed to be 0.78 
+based on food effect study data (BLU-285-0102). This assumption was supported also by the 
+Reference ID: 4543562
+
+
+===== PAGE 171 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+170 
+Version date: April 2, 2018  
+percentage recovered of unchanged avapritinib in feces (mean 11%, range: 4-18%) from 
+metabolic profiling of human mass balance data [BLU-285-0103, BLU-R7561]. In vitro Caco-2 
+permeability data [Reports 
+P13-8376 and 
+P14-8616] were used to estimate the human 
+intestinal effective permeability (Peff human 1.59 x 10-4 cm/s) value and the hybrid intestinal 
+blood flow parameter (QGut=8.76 L/h). The unbound fraction in enterocytes (fuGut) was assumed 
+equal to unbound fraction in plasma.  
+ 
+The unbound fraction in plasma (fup=0.012) and blood to plasma concentration ratio 
+(B/P=0.95) values were determined in vitro [Reports BPM-0013 and 
+P14_9193]. Albumin 
+was assumed to be the main binding protein (no data available). The volume of distribution 
+parameter Vss (=8.42 L/kg) was estimated using allometric scaling of Vss values reported in 
+animal species accounting for species differences in plasma protein binding. 
+ 
+The enzyme kinetics (Clint,u) for CYP3A4 and CYPC9 were determined using the retrograde 
+approach, based on the relative contribution of each enzyme to the clearance of avapritinib.  In 
+vitro data from recombinant CYP enzymes, corrected for “Inter System Extrapolation Factors”, 
+were used to assign the relative contribution [Report 140415]. The estimates of fm were 0.90 
+and 0.10 for CYP3A4 and CYP2C9 respectively. The CL/F value of 18.4 L/h, reported in healthy 
+subjects following a single 200 mg oral dose of avapritinib [BLU-285-0102], was used in the 
+retrograde model. Based on the human ADME data, 0.23% of the avapritinib dose is excreted 
+unchanged in urine resulting in an estimated renal clearance (CLr) of 0.042 L/h [BLU-285-0103].  
+ 
+In-vitro data showed avapritinib is a competitive inhibitor, a time-dependent inhibitor (TDI) and 
+an inducer for CYP3A4. The CYP3A4 Indmax and IndC50 values were 5.7-fold and 0.36 μM, 
+respectively, based mRNA data [Report 1709171]. The CYP3A4 TDI parameters, KI (inhibitor 
+concentration causing half-maximal inactivation) and Kinact values were 12.3 μM and 1.8 h-1, 
+respectively [Report CYP-0915-R4]. The Ki value for competitive inhibition of CYP3A4 was 10.3 
+μM [Report CYP0915-R3]. Due to uncertainty in the non-specific microsomal binding (fumic; 
+applied to CYP3A4 KI value) and non-specific binding in hepatocyte incubations (fuinc; applied 
+to CYP3A4 IndC50 value), the impact of these values on the predicted net effect on CYP3A4 
+activity (auto-induction and auto-inhibition) was investigated during development of avapritinib 
+PBPK model. The Applicant reported the in-vitro TDI (corrected for the observed fumic value) 
+and induction parameters (assumed no non-specific binding), when incorporated in the 
+avapritinib PBPK model, would over-predict the steady-state drug exposure.  Accordingly, the 
+Applicant adjusted the observed fumic value to a predicted value of 0.91 based on protein 
+concentration of 0.1 mg/mL used in the in vitro study and used a predicted value of 0.53 for 
+fuinc.  
+ 
+Simulations were performed using the default healthy virtual population models.  For 
+simulations involving GIST patients the North European Caucasian population (“Sim- N Eur 
+Caucasian”) was used to accommodate the wider age range observed in this population (29 to 
+90 years; median 62 years; Study BLU-285-1101). The Applicant also proposed to develop a 
+virtual “GIST” population model based on the lower levels of albumin (37 g/L) observed in 
+patients with GIST [BLU-285-1101] compared to those reported in healthy subjects (45 g/L). To 
+Reference ID: 4543562
+(b) (4)
+(b) (4)
+(b) (4)
+
+
+===== PAGE 173 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+172 
+Version date: April 2, 2018  
+multiple dose (90, 135, 200 and 300 mg QD) in patients with GIST [BLU-285-1101]. Comparison 
+of observed PK profile versus PBPK predicted are shown in Figure 20 .   
+There was reasonable agreement between PBPK predicted and observed exposures in healthy 
+volunteer PK data. Overall, the predicted geometric mean values for AUC (AUCinf or AUCtau), 
+Cmax and Tmax were within ± 30% of the observed parameters (Table 67).  
+ 
+Figure 20. PBPK predicted and observed PK profiles of avapritinib 
+ 
+PBPK predicted mean (lines) and observed mean (circles) plasma concentration-time profiles of avapritinib following (A) a single 
+oral dose of avapritinib 200 mg in healthy subjects [n=30, Study BLU-285-0102]; (B) a single oral dose of avapritinib 400 mg in 
+healthy subjects [n=62, Study BLU-285-0105]; 300 mg QD for 15 days (C) on day 1, and (D) on day 15 in patients with GIST 
+[mean, n=110 individuals, Study BLU-285-1101].  The solid black line is the mean data for the simulated population and the gray 
+dashed lines represent the 5% and 95% percentiles. Simulations were conducted using the healthy population models “Sim-
+Healthy” or “Sim-N Eur Caucasian”. (Source: Avapritinib PBPK DDI Report and Avapritinib PBPK DDI Report -Revision 1). 
+ 
+The performance of the PBPK model for avapritinib to describe the PK in GIST patient 
+population was evaluated by comparison with the observed data in patients with GIST (Study 
+BLU-285-1101), using both the default healthy subject population model (“Sim-N Eur 
+Caucasian”) and the Applicant’s proposed “GIST” population model. Overall predicted PK 
+parameter values for avapritinib for both population models were within ±50% of the observed 
+clinical data (Table 67). There was a prediction bias for slightly higher exposure using the 
+healthy volunteer population compared to GIST population model, due to lower predicted CL/F.  
+Considering the interindividual variability in the steady-state PK of avapritinib (%CV for Cmax and 
+A 
+B 
+C 
+D 
+Reference ID: 4543562
+
+
+===== PAGE 174 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+173 
+Version date: April 2, 2018  
+AUC of 52.2% and 48.3%, respectively), the healthy subject population model was considered 
+adequate to predict the PK profile of avapritinib for patients with GIST. 
+ 
+ 
+ 
+ 
+Table 67. Comparison of PBPK predicted and observed PK parameters for avapritinib  
+Avapritinib 
+Dosing 
+Regimen  
+Study 
+Population 
+Observed 
+Predicted 
+Cmax  
+(ng/mL)  
+Tmax 
+(h) 
+AUC 
+(ng.hr/mL) 
+CL/F 
+(L/h) 
+Cmin 
+(ng/mL) 
+Virtual 
+population 
+Cmax 
+(ng/mL) 
+Tmax 
+(h) 
+AUC 
+(ng.hr/mL) 
+CL/F 
+(L/h) 
+Cmin 
+(ng/mL) 
+200 mg SD 
+Healthy 
+BLU-285-0102 
+209.5 
+4.4 
+11500 
+19.6 
+NA 
+Healthy 
+192.3 
+4.5 
+12187 
+21.3 
+NA 
+400 mg SD 
+Healthy 
+BLU-285-0105 
+473.2 
+4.0 
+26120 
+18.4 
+NA 
+Healthy 
+384 
+4.5 
+25460 
+21.4 
+NA 
+90 mg QD 
+Day 1 
+Patients 
+with GIST 
+BLU-285-1101 
+86.5 
+2.0 
+1310 
+19.6 
+NA 
+ 
+GIST 
+80.3 
+4.9 
+1564 
+23.8 
+NA 
+*Healthy 
+88 
+4.7 
+1761 
+19.0 
+NA 
+90 mg QD 
+Day 15 
+Patients 
+with GIST 
+BLU-285-1101 
+239 
+4.0 
+4660 
+20.2 
+161 
+GIST 
+248 
+3.4 
+5193 
+24.9 
+180 
+*Healthy 
+291 
+3.5 
+6158 
+20.0 
+216 
+135 mg QD 
+Day 1 
+Patients 
+with GIST 
+BLU-285-1101 
+132 
+4.0 
+1980 
+22.9 
+NA 
+GIST 
+119 
+4.6 
+2326 
+22.5 
+NA 
+*Healthy 
+126 
+4.7 
+2536 
+18.0 
+NA 
+135 mg QD 
+Day 15 
+Patients 
+with GIST 
+BLU-285-1101 
+435 
+2.0 
+8030 
+17.7 
+283 
+GIST 
+373 
+3.4 
+7826 
+23.9 
+272 
+*Healthy 
+415 
+3.4 
+8771 
+19.4 
+307 
+200 mg QD 
+Day 1 
+Patients 
+with GIST 
+BLU-285-1101 
+229 
+3.0 
+3170 
+23.3 
+NA 
+GIST 
+197 
+4.5 
+3821 
+22.1 
+NA 
+*Healthy 
+212 
+4.7 
+4253 
+17.4 
+NA 
+200 mg QD 
+Day 15 
+Patients 
+with GIST 
+BLU-285-1101 
+526 
+4.0 
+10100 
+22.3 
+334 
+GIST 
+598 
+3.5 
+12457 
+23.7 
+469 
+*Healthy 
+691 
+3.8 
+14589 
+18.9 
+510 
+300 mg QD 
+Day 1 
+Patients 
+with GIST 
+BLU-285-1101 
+305 
+4.0 
+4510 
+31.5 
+NA 
+GIST 
+307 
+4.5 
+5987 
+19.7 
+NA 
+*Healthy 
+310 
+5.3 
+6160 
+14.9 
+NA 
+300 mg QD 
+Day 15 
+Patients 
+with GIST 
+BLU-285-1101 
+905 
+4.0 
+16900 
+21.8 
+593 
+GIST 
+907 
+3.5 
+18874 
+21.8 
+648 
+*Healthy 
+969 
+3.8 
+20361 
+19.6 
+706 
+400 mg QD 
+Day 1 
+Patients 
+with GIST 
+BLU-285-1101 
+343 
+4.0 
+5310 
+29.9 
+NA 
+GIST 
+407 
+4.5 
+7957 
+19.1 
+NA 
+*Healthy 
+414 
+5.4 
+8259 
+17.4 
+NA 
+400 mg QD 
+Day 15 
+Patients 
+with GIST 
+BLU-285-1101 
+1140 
+4.0 
+21300 
+22.8 
+760 
+GIST 
+1197 
+3.5 
+24935 
+22.8 
+854 
+*Healthy 
+1292 
+3.8 
+27204 
+19.8 
+942 
+Data are presented as Mean. *Simulations were conducted with the default Healthy volunteer population model “Sim-N Eur 
+Caucasian” to allow coverage of the age range of the clinical study. NA: Not applicable; SD: single dose; QD: once-daily dosing; 
+AUC0-24h for SD, AUCtau for QD. (Source: CSRs, simulation output files). 
+ 
+Reviewer’s comments: 
+The Applicant proposed to build a virtual “GIST” population model based on the lower levels of 
+albumin (37 g/L) reported in patients with GIST [BLU-285-1101] compared to healthy subjects 
+(45 g/L). Albumin was assumed as the main binding protein and levels were reduced in the GIST 
+population model. Consequently, the GIST population model predicted higher fraction unbound 
+in plasma (fu=0.015) in patients with GIST compared to healthy subjects (fu= 0.012). The 
+increase in the unbound fraction resulted in a higher apparent clearance (CL/F) for the patients 
+with GIST. The Applicant noted that the resulting CL/F were consistent with the slightly higher 
+CL/F values reported in patients with GIST (CL/F= 18-28 L/h GIST) compared to healthy subjects 
+(CL/F=15-18 L/h). 
+Reference ID: 4543562
+
+
+===== PAGE 175 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+174 
+Version date: April 2, 2018  
+ 
+Refining physiological parameters using clinical observations (i.e., laboratory data) is an 
+important approach in PBPK modeling to reflect its population of interest. However, in the case 
+of avapritinib, other mechanisms for the higher CL/F, reported in patients with GIST in the trial 
+BLU-285-1101, were not considered in the proposed GIST population model.  
+ 
+For instance, avapritinib showed pH-dependent solubility in vitro (lower solubility at higher pH). 
+Thus, there is a potential for reduced bioavailability in higher gastric pH. The Applicant stated 
+patients with gastric/intestinal cancer (n = 89) may have higher gastric pH values compared to 
+healthy subjects (2.9 vs 6.6). Gastric pH value specific for the GIST population is not available. 
+There is a potential for GIST patients have lower bioavailability of avapritinib compared to 
+healthy subjects. Nonetheless, the changes in avapritinib PK related to GIST disease status were 
+not considered to be clinically relevant due to the observed interindividual variability in the PK. 
+Therefore, the healthy population PBPK model was considered adequate to predict the PK 
+profile of avapritinib for patients with GIST. 
+ 
+Q2. Can available data combined with PBPK analyses be used to estimate the interaction 
+effect of avapritinib on CYP3A? 
+Yes. Multiple dose PK data of avapritinib at 300 mg dose level was used to optimize the 
+interaction effect of avapritinib on CYP3A pathway. Comparison of predicted and observed 
+plasma concentrations of avapritinib following multiple oral doses of avapritinib (300 mg QD) is 
+shown in Figure 21A.  
+ 
+The CYP3A4 inactivation (KI and kinact) and induction data (Indmax and IndC50) of avapritinib 
+fairly estimated the steady-state drug exposure. The predicted mean Cmax and AUC values for 
+avapritinib 300 mg QD on Day 15 were within ±20% of the observed values (Table 67). The 
+predicted accumulation ratio (Rac=geo mean of AUC24h Day 15/ AUC24h Day 1) was 3.3-fold 
+compared to the observed ratio of 3.6 [BLU-285-1101].   
+ 
+The optimized CYP3A4 interaction parameters (fumic and fuinc values) were then applied 
+prospectively and verified in the other dosage regimens tested in the clinical study BLU-285-
+1101. Following once daily dosing of avapritinib 90 mg, 135 mg, 200 mg or 400 mg for 15 days 
+to patients with GIST, the simulated avapritinib Cmax, AUC and Cmin values were within ±50% of 
+the observed values [BLU-285-1101]. Comparison of simulated and observed plasma 
+concentrations of avapritinib following 400 mg QD dosing is shown in Figure 21B. 
+ 
+Reference ID: 4543562
+
+
+===== PAGE 177 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+176 
+Version date: April 2, 2018  
+CYP3A activities in the liver at steady state), following multiple doses of 90-400 mg avapritinib 
+QD, when CYP3A4 induction and TDI parameters were incorporated in avapritinib PBPK model.  
+ 
+The reviewer considered the use of the multiple dose PK data of avapritinib to optimize the 
+interaction effect of avapritinib on CYP3A pathway sufficient for the intended purposes.  
+Reasons are: 1) avapritinib is a sensitive CYP3A4 substrate (fmCYP3A4 >0.8); and 2) avapritinib 
+showed dose and time-independent PK.  
+ 
+Q3. Can PBPK analyses predict the interaction effect of a CYP3A4 inhibitor on the PK of 
+avapritinib?  
+Yes. PBPK simulations predicted the clinically observed DDI between avapritinib and 
+itraconazole in healthy volunteers given a single dose of 200 mg avapritinib and repeated doses 
+of 200 mg QD itraconazole (Figure 23). The predicted geometric mean PK parameters (Cmax, 
+AUC, and ratios) for avapritinib were within 10% of the observed values (Table 68). These 
+results suggest avapritinib PBPK model provided a reasonable estimate of the metabolic 
+contribution of CYP3A4 (fmCYP3A4=0.9) to avapritinib overall clearance at single-dose in vivo. 
+ 
+Table 68. PBPK predicted and observed Cmax and AUC values of avapritinib in absence and 
+presence of itraconazole 
+PK data are presented as mean values. Observed and predicted Cmax ratio and AUC ratio presented as geometric means, and 
+expressed as with inhibitor/without inhibitor. Observed values (N=19-20) from study BLU-285-0104. Trial design simulation: a 
+single oral dose of avapritinib (200 mg) in the absence of itraconazole (ITZ) and co-administered with ITZ on the 4th day of 14 
+days of dosing (200 mg BID day 1; 200 mg QD day 2-14). Simulations were conducted using the “Sim-Heathy” population model 
+(Source: Table 9 of avapritinib-PBPK-DDI-report).  
+ 
+Figure 23. PBPK predicted and observed PK profile of avapritinib in absence and presence of 
+itraconazole 
+ 
+PBPK predicted (lines) and observed (circles, Study BLU-285-0104) mean plasma concentration-time profiles (A) and 
+corresponding log-linear profile (B) of avapritinib following a single dose of avapritinib (200 mg) in the absence of itraconazole 
+(solid line) and on the 4th day of 14 days of dosing of itraconazole (day 1 200 mg BID; day 2-14 200 mg QD; dashed line). Lines 
+Treatment 
+Cmax (ng/mL) 
+AUCinf (ng.h/mL) 
+Cmax Ratio (90%CI) 
+AUCinf Ratio (90%CI) 
+Pred 
+Obs 
+Pred 
+Obs 
+Pred 
+Obs 
+Pred 
+Obs 
+Control 
+198 
+271 
+12729 
+13660 
+1.24 
+(1.23-1.25) 
+1.38 
+(1.21-1.57) 
+4.20 
+(4.07-4.34) 
+4.21 
+ (3.66-4.84) 
+with ITZ 
+246 
+361 
+54460 
+58950 
+A 
+B 
+Reference ID: 4543562
+
+
+===== PAGE 178 =====
+
+NDA/BLA Multi-disciplinary Review and Evaluation NDA 212608 AYVAKIT (avapritinib) 
+ 
+ 
+ 
+177 
+Version date: April 2, 2018  
+represent the mean for the simulated population (n = 200). Simulations were conducted using the “Sim-Heathy” population 
+model. (Source: Avapritinib-PBPK-DDI-report). 
+ 
+Reviewer’s comment 
+The design of the clinical DDI study was not fully optimized to evaluate the interaction effect 
+with itraconazole. For instance, avapritinib PK data were not collected long enough to capture 
+the entirety of avapritinib PK curve in the presence of a perpetrator (as illustrated in Figure 23).  
+Clinically, the mean half-life of avapritinib increased 3-fold from 52 h to 169 h with itraconazole 
+coadministration, and the percent AUC extrapolated was higher than 20% for most subjects, 
+suggesting that estimations of AUCinf, CL/F and half-life were potentially not robust [Clinical 
+Pharmacology Summary].  
+ 
+PBPK simulations were then conducted to evaluate the interaction effect of itraconazole on 
+avapritinib following single-dose and multiple-dose scenarios. Refer to Q5 for results.   
+Q4. Can PBPK analyses predict the interaction effect of a CYP3A4 inducer on the PK of 
+avapritinib?  
+Yes. For simulations of the DDI effect with rifampin, application of the default value for Indmax 
+resulted in 2-fold under-prediction of the decrease in exposure of avapritinib (400 mg SD) when 
+co-administered with rifampicin (600 mg QD). The predicted and observed geometric mean 
+Cmax and AUC ratios for avapritinib in the presence of rifampin were 0.57 and 0.20 versus 0.26 
+and 0.08, respectively.   
+ 
+However, application of a higher Indmax value (37 instead of 16) (modified rifampin model) 
+resulted in predicted geometric mean Cmax and AUC ratios for avapritinib in the presence of 
+rifampin within 1.4 and 1.2-fold of observed values [BLU-285-0104]. A comparison of predicted 
+and observed PK of avapritinib (400 mg SD) in the absence and presence 
