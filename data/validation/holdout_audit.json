@@ -1,0 +1,203 @@
+{
+  "n_checked": 17,
+  "suspect_count": 4,
+  "suspect_drugs": [
+    "cabozantinib",
+    "methylphenidate",
+    "posaconazole",
+    "sumatriptan"
+  ],
+  "audit_details": [
+    {
+      "drug": "azacitidine",
+      "ik": "NMUSYJAQQFHJEW",
+      "ho_dose": 300.0,
+      "ho_obs_cmax": 145.0,
+      "sisyphus_meta_cmax_ngml": 551.6778286371684,
+      "llm_median_cmax_at_dose": 144.0,
+      "log_llm_obs": -0.003,
+      "log_meta_obs": 0.58,
+      "verdict": "ok"
+    },
+    {
+      "drug": "cabozantinib",
+      "ik": "ONIQOQHATWINJY",
+      "ho_dose": 140.0,
+      "ho_obs_cmax": 9800.0,
+      "sisyphus_meta_cmax_ngml": 2434.932821695705,
+      "llm_median_cmax_at_dose": 563.5507246376812,
+      "log_llm_obs": -1.24,
+      "log_meta_obs": -0.605,
+      "verdict": "SUSPECT"
+    },
+    {
+      "drug": "levocetirizine",
+      "ik": "ZKLPARSLTMPFCP",
+      "ho_dose": 30.0,
+      "ho_obs_cmax": 450.0,
+      "sisyphus_meta_cmax_ngml": 450.3985856238123,
+      "llm_median_cmax_at_dose": 1620.0,
+      "log_llm_obs": 0.556,
+      "log_meta_obs": 0.0,
+      "verdict": "ok"
+    },
+    {
+      "drug": "clonidine",
+      "ik": "GJSURZIOUXUGAL",
+      "ho_dose": 0.3,
+      "ho_obs_cmax": 0.40072,
+      "sisyphus_meta_cmax_ngml": 0.26861271445442025,
+      "llm_median_cmax_at_dose": 0.591,
+      "log_llm_obs": 0.169,
+      "log_meta_obs": -0.174,
+      "verdict": "ok"
+    },
+    {
+      "drug": "colchicine",
+      "ik": "IAKHMKGGTNLKSZ",
+      "ho_dose": 1.0,
+      "ho_obs_cmax": 2.5,
+      "sisyphus_meta_cmax_ngml": 2.6064861259100556,
+      "llm_median_cmax_at_dose": 3.984166666666667,
+      "log_llm_obs": 0.202,
+      "log_meta_obs": 0.018,
+      "verdict": "ok"
+    },
+    {
+      "drug": "dapagliflozin",
+      "ik": "JVHXJTBJCFBINQ",
+      "ho_dose": 50.0,
+      "ho_obs_cmax": 121.809,
+      "sisyphus_meta_cmax_ngml": 127.38600910736552,
+      "llm_median_cmax_at_dose": 600.0,
+      "log_llm_obs": 0.692,
+      "log_meta_obs": 0.019,
+      "verdict": "ok"
+    },
+    {
+      "drug": "fruquintinib",
+      "ik": "BALLNEJQLSTPIO",
+      "ho_dose": 4.0,
+      "ho_obs_cmax": 113.0,
+      "sisyphus_meta_cmax_ngml": 99.44767612804172,
+      "llm_median_cmax_at_dose": 240.0,
+      "log_llm_obs": 0.327,
+      "log_meta_obs": -0.055,
+      "verdict": "ok"
+    },
+    {
+      "drug": "itraconazole",
+      "ik": "VHVPQPYKVGDNFY",
+      "ho_dose": 200.0,
+      "ho_obs_cmax": 500.0,
+      "sisyphus_meta_cmax_ngml": 451.1013233926684,
+      "llm_median_cmax_at_dose": 135.15,
+      "log_llm_obs": -0.568,
+      "log_meta_obs": -0.045,
+      "verdict": "ok"
+    },
+    {
+      "drug": "ketoconazole",
+      "ik": "XMAYWYJOQHXEEK",
+      "ho_dose": 800.0,
+      "ho_obs_cmax": 3000.0,
+      "sisyphus_meta_cmax_ngml": 923.7861775980809,
+      "llm_median_cmax_at_dose": 22200.0,
+      "log_llm_obs": 0.869,
+      "log_meta_obs": -0.512,
+      "verdict": "ok"
+    },
+    {
+      "drug": "lorlatinib",
+      "ik": "IIXWYSCJSQVBQM",
+      "ho_dose": 100.0,
+      "ho_obs_cmax": 501.29999999999995,
+      "sisyphus_meta_cmax_ngml": 664.2038487258864,
+      "llm_median_cmax_at_dose": 595.5,
+      "log_llm_obs": 0.075,
+      "log_meta_obs": 0.122,
+      "verdict": "ok"
+    },
+    {
+      "drug": "methylphenidate",
+      "ik": "DUGOZIWVEXMGBE",
+      "ho_dose": 21.0,
+      "ho_obs_cmax": 9.1,
+      "sisyphus_meta_cmax_ngml": 110.35463501027262,
+      "llm_median_cmax_at_dose": 28.269230769230766,
+      "log_llm_obs": 0.492,
+      "log_meta_obs": 1.084,
+      "verdict": "SUSPECT"
+    },
+    {
+      "drug": "morphine",
+      "ik": "BQJCRHHNABKAKU",
+      "ho_dose": 10.0,
+      "ho_obs_cmax": 18.65,
+      "sisyphus_meta_cmax_ngml": 43.416970736257014,
+      "llm_median_cmax_at_dose": 3.433333333333333,
+      "log_llm_obs": -0.735,
+      "log_meta_obs": 0.367,
+      "verdict": "check"
+    },
+    {
+      "drug": "posaconazole",
+      "ik": "RAGOYPUPXAKGKH",
+      "ho_dose": 600.0,
+      "ho_obs_cmax": 151.0,
+      "sisyphus_meta_cmax_ngml": 726.692115350588,
+      "llm_median_cmax_at_dose": 916.5,
+      "log_llm_obs": 0.783,
+      "log_meta_obs": 0.682,
+      "verdict": "SUSPECT"
+    },
+    {
+      "drug": "rivaroxaban",
+      "ik": "KGFYHTZWPPHNLQ",
+      "ho_dose": 40.0,
+      "ho_obs_cmax": 143.2,
+      "sisyphus_meta_cmax_ngml": 102.25612499042516,
+      "llm_median_cmax_at_dose": 417.66666666666663,
+      "log_llm_obs": 0.465,
+      "log_meta_obs": -0.146,
+      "verdict": "ok"
+    },
+    {
+      "drug": "sonidegib",
+      "ik": "VZZJRYRQSPEMTK",
+      "ho_dose": 200.0,
+      "ho_obs_cmax": 1030.0,
+      "sisyphus_meta_cmax_ngml": 349.17294758982,
+      "llm_median_cmax_at_dose": 104.0,
+      "log_llm_obs": -0.996,
+      "log_meta_obs": -0.47,
+      "verdict": "check"
+    },
+    {
+      "drug": "sumatriptan",
+      "ik": "KQKPFRSPSRPDEB",
+      "ho_dose": 200.0,
+      "ho_obs_cmax": 16.5,
+      "sisyphus_meta_cmax_ngml": 62.44909514359326,
+      "llm_median_cmax_at_dose": 2426.0,
+      "log_llm_obs": 2.167,
+      "log_meta_obs": 0.578,
+      "verdict": "SUSPECT"
+    },
+    {
+      "drug": "trazodone",
+      "ik": "PHLBKPHSAVXXEF",
+      "ho_dose": 100.0,
+      "ho_obs_cmax": 1620.0,
+      "sisyphus_meta_cmax_ngml": 501.464400381194,
+      "llm_median_cmax_at_dose": 3023.39,
+      "log_llm_obs": 0.271,
+      "log_meta_obs": -0.509,
+      "verdict": "ok"
+    }
+  ],
+  "plm_ho_aafe_original": 3.355,
+  "plm_ho_aafe_corrected": 3.133,
+  "sisyphus_meta_aafe_original": 2.19,
+  "sisyphus_meta_aafe_corrected": 2.189
+}

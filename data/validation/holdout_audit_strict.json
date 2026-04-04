@@ -1,0 +1,11 @@
+{
+  "suspects": [
+    {
+      "drug": "cabozantinib",
+      "ik": "ONIQOQHATWINJY",
+      "ho_obs": 9800.0,
+      "corrected": 574.2028985507246,
+      "log_diff": -1.232160695227222
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "corrections": {
+    "ONIQOQHATWINJY": {
+      "drug": "cabozantinib",
+      "original": 9800,
+      "corrected": 574,
+      "evidence": "LLM extracted 574 at 138mg oral single-dose (3 tuples, median), matches published FDA label 577 at 140mg"
+    }
+  },
+  "plm_original_ho": 3.355,
+  "plm_corrected_ho": 3.258,
+  "sisyphus_meta_original": 2.19,
+  "sisyphus_meta_corrected": 2.191
+}
