@@ -1,0 +1,90 @@
+{
+  "per_round": {
+    "round_1": {
+      "aafe": 2.282,
+      "bias": 0.17,
+      "f2": 49.5,
+      "f3": 74.2,
+      "n": 97
+    },
+    "round_2": {
+      "aafe": 2.126,
+      "bias": 0.211,
+      "f2": 59.8,
+      "f3": 77.3,
+      "n": 97
+    },
+    "round_3": {
+      "aafe": 2.304,
+      "bias": 0.242,
+      "f2": 49.5,
+      "f3": 68.0,
+      "n": 97
+    },
+    "round_4": {
+      "aafe": 2.263,
+      "bias": 0.144,
+      "f2": 50.5,
+      "f3": 73.2,
+      "n": 97
+    },
+    "round_5": {
+      "aafe": 2.222,
+      "bias": 0.159,
+      "f2": 54.6,
+      "f3": 75.3,
+      "n": 97
+    }
+  },
+  "aggregations": {
+    "3round_median": {
+      "aafe": 2.187,
+      "bias": 0.22,
+      "f2": 53.6,
+      "f3": 76.3,
+      "n": 97
+    },
+    "3round_geomean": {
+      "aafe": 2.127,
+      "bias": 0.208,
+      "f2": 53.6,
+      "f3": 76.3,
+      "n": 97
+    },
+    "5round_median": {
+      "aafe": 2.203,
+      "bias": 0.177,
+      "f2": 53.6,
+      "f3": 76.3,
+      "n": 97
+    },
+    "5round_geomean": {
+      "aafe": 2.156,
+      "bias": 0.185,
+      "f2": 52.6,
+      "f3": 76.3,
+      "n": 97
+    },
+    "5round_mean": {
+      "aafe": 2.176,
+      "bias": 0.216,
+      "f2": 51.5,
+      "f3": 76.3,
+      "n": 97
+    },
+    "5round_trimmed": {
+      "aafe": 2.144,
+      "bias": 0.205,
+      "f2": 53.6,
+      "f3": 77.3,
+      "n": 97
+    }
+  },
+  "strategy_names": [
+    "physiological",
+    "analogical",
+    "label_recall",
+    "structure_first",
+    "reverse_from_CL"
+  ]
+}

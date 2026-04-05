@@ -1,0 +1,25 @@
+{
+  "prior_best": 2.087,
+  "candidates": {
+    "Ridge": {
+      "aafe": 2.74,
+      "bias": 0.227
+    },
+    "Ridge-10": {
+      "aafe": 2.672,
+      "bias": 0.223
+    },
+    "Lasso-0.01": {
+      "aafe": 2.661,
+      "bias": 0.222
+    },
+    "GBR": {
+      "aafe": 2.715,
+      "bias": 0.23
+    },
+    "RF": {
+      "aafe": 2.684,
+      "bias": 0.214
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "n_training": 799,
+  "training_bias_mean": 0.015,
+  "training_bias_median": 0.019,
+  "training_aafe": 2.87,
+  "calibration_strategies": {
+    "raw (no calibration)": 2.126,
+    "constant mean offset": 2.103,
+    "constant median offset": 2.098,
+    "isotonic": 2.269,
+    "linear": 2.392,
+    "binned (4 bins)": 2.33
+  },
+  "best_strategy": "constant median offset",
+  "best_aafe": 2.098,
+  "uncalibrated_aafe": 2.126
+}
