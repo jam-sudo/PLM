@@ -1,0 +1,1 @@
+- [PLM Scale-Up Plan](project_scaleup_plan.md) — 7-phase plan to scale C-t extraction to 50-100 NDAs, targeting 500-1500 profiles
