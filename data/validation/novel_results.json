@@ -1,0 +1,95 @@
+{
+  "versions": {
+    "xgboost": "3.2.0",
+    "rdkit": "2023.09.6",
+    "sklearn": "1.7.2",
+    "numpy": "1.26.4",
+    "python": "3.10.12"
+  },
+  "ablation": {
+    "0_baseline": {
+      "aafe": 3.355,
+      "delta": 0.0,
+      "f2": 37.11340206185567,
+      "f3": 54.63917525773196,
+      "bias": 0.269
+    },
+    "0.5_isotonic": {
+      "aafe": 3.447,
+      "delta": 0.092,
+      "f2": 36.08247422680412,
+      "bias": 0.265
+    },
+    "1_ionization": {
+      "aafe": 3.397,
+      "delta": 0.042,
+      "f2": 38.144329896907216,
+      "bias": 0.28,
+      "new_feat_importance": [
+        0.006300000008195639,
+        0.007600000128149986,
+        0.013700000010430813,
+        0.001500000013038516,
+        0.003599999938160181
+      ]
+    },
+    "2a_asymm_alpha1.5": {
+      "aafe": 3.519,
+      "delta": 0.164,
+      "bias": 0.245
+    },
+    "2b_asymm_alpha2.0": {
+      "aafe": 3.455,
+      "delta": 0.1,
+      "bias": 0.214
+    },
+    "3_combined_ion_asymm": {
+      "aafe": 3.37,
+      "delta": 0.016,
+      "bias": 0.219,
+      "best_alpha": 2.0
+    },
+    "7_retrieval_delta": {
+      "aafe": 3.865,
+      "delta": 0.511,
+      "bias": 0.138
+    },
+    "9_winner_3seed": {
+      "config": "0_baseline",
+      "aafe_mean": 3.38,
+      "aafe_std": 0.018,
+      "ci_95": [
+        2.753,
+        4.053
+      ],
+      "bias": 0.269,
+      "low_F_improved": "0/18"
+    }
+  },
+  "diagnostics": {
+    "label_artifact": {
+      "correlation": 0.644,
+      "plm_mean_resid": 0.269,
+      "meta_mean_resid": 0.037,
+      "artifact_detected": false
+    },
+    "classifier": {
+      "cv_auc": 0.53,
+      "skip_iw": true
+    }
+  },
+  "summary": {
+    "baseline_aafe": 3.355,
+    "winner_aafe": 3.355,
+    "winner_config": "0_baseline",
+    "delta": 0.0,
+    "final_bias": 0.269,
+    "low_F_improved": "0/18",
+    "passed": {
+      "must": false,
+      "target": false,
+      "bias": false,
+      "low_f": false
+    }
+  }
+}

@@ -1,0 +1,778 @@
+{
+  "abiraterone": {
+    "actual_log_cd": -1.136677139879544,
+    "round1_log_cd": -0.721246399047171,
+    "round2_log_cd": -0.744727494896694,
+    "round3_log_cd": -0.645891560852599,
+    "median_log_cd": -0.721246399047171,
+    "median_err": 0.4154307408323731
+  },
+  "acamprosate": {
+    "actual_log_cd": -0.8692317197309762,
+    "round1_log_cd": -0.5804361804840066,
+    "round2_log_cd": -0.5804361804840066,
+    "round3_log_cd": -0.5804361804840066,
+    "median_log_cd": -0.5804361804840066,
+    "median_err": 0.28879553924696966
+  },
+  "adefovir dipivoxil": {
+    "actual_log_cd": 0.26481782300953643,
+    "round1_log_cd": 0.25527250510330607,
+    "round2_log_cd": 0.25527250510330607,
+    "round3_log_cd": 0.26481782300953643,
+    "median_log_cd": 0.25527250510330607,
+    "median_err": 0.009545317906230366
+  },
+  "alosetron": {
+    "actual_log_cd": 0.09691001300805642,
+    "round1_log_cd": 0.17609125905568124,
+    "round2_log_cd": 0.09691001300805642,
+    "round3_log_cd": 0.3521825181113625,
+    "median_log_cd": 0.17609125905568124,
+    "median_err": 0.07918124604762482
+  },
+  "alprazolam": {
+    "actual_log_cd": 0.8302507433549627,
+    "round1_log_cd": 1.0264523353652886,
+    "round2_log_cd": 1.0264523353652886,
+    "round3_log_cd": 1.0264523353652886,
+    "median_log_cd": 1.0264523353652886,
+    "median_err": 0.19620159201032583
+  },
+  "alvimopan": {
+    "actual_log_cd": -0.3396089015975329,
+    "round1_log_cd": -0.4771212547196625,
+    "round2_log_cd": -0.5351132016973491,
+    "round3_log_cd": 0.23257261500812942,
+    "median_log_cd": -0.4771212547196625,
+    "median_err": 0.13751235312212962
+  },
+  "amantadine": {
+    "actual_log_cd": 0.026452335365288505,
+    "round1_log_cd": 0.38299965887910103,
+    "round2_log_cd": 0.3607232641679488,
+    "round3_log_cd": 0.3607232641679488,
+    "median_log_cd": 0.3607232641679488,
+    "median_err": 0.3342709288026603
+  },
+  "apixaban": {
+    "actual_log_cd": 0.4014005407815441,
+    "round1_log_cd": 0.5440680443502757,
+    "round2_log_cd": 0.5440680443502757,
+    "round3_log_cd": 0.5314789170422551,
+    "median_log_cd": 0.5440680443502757,
+    "median_err": 0.1426675035687316
+  },
+  "atovaquone": {
+    "actual_log_cd": 1.24551266781415,
+    "round1_log_cd": 0.7781512503836436,
+    "round2_log_cd": 0.7781512503836436,
+    "round3_log_cd": 0.9030899869919435,
+    "median_log_cd": 0.7781512503836436,
+    "median_err": 0.4673614174305063
+  },
+  "azacitidine": {
+    "actual_log_cd": -0.31575325248468755,
+    "round1_log_cd": 0.8016323462331665,
+    "round2_log_cd": 0.47712125471966244,
+    "round3_log_cd": -0.31575325248468755,
+    "median_log_cd": 0.47712125471966244,
+    "median_err": 0.7928745072043499
+  },
+  "azithromycin": {
+    "actual_log_cd": 0.0,
+    "round1_log_cd": -0.09691001300805639,
+    "round2_log_cd": -0.09691001300805639,
+    "round3_log_cd": -0.09691001300805639,
+    "median_log_cd": -0.09691001300805639,
+    "median_err": 0.09691001300805639
+  },
+  "brincidofovir": {
+    "actual_log_cd": 0.2535456858028001,
+    "round1_log_cd": -0.9700367766225568,
+    "round2_log_cd": 0.2518119729937996,
+    "round3_log_cd": 1.084320885700036,
+    "median_log_cd": 0.2518119729937996,
+    "median_err": 0.0017337128090005316
+  },
+  "budesonide": {
+    "actual_log_cd": -0.3010299956639812,
+    "round1_log_cd": -0.07918124604762482,
+    "round2_log_cd": -0.07918124604762482,
+    "round3_log_cd": -0.17609125905568127,
+    "median_log_cd": -0.07918124604762482,
+    "median_err": 0.22184874961635637
+  },
+  "cabozantinib": {
+    "actual_log_cd": 1.845098040014257,
+    "round1_log_cd": 1.154901959985743,
+    "round2_log_cd": 1.0299632233774432,
+    "round3_log_cd": 1.0299632233774432,
+    "median_log_cd": 1.0299632233774432,
+    "median_err": 0.8151348166368138
+  },
+  "carbamazepine": {
+    "actual_log_cd": 0.22184874961635637,
+    "round1_log_cd": 0.765916793966632,
+    "round2_log_cd": 0.9622114391106001,
+    "round3_log_cd": 0.9622114391106001,
+    "median_log_cd": 0.9622114391106001,
+    "median_err": 0.7403626894942438
+  },
+  "carbinoxamine": {
+    "actual_log_cd": 0.47712125471966244,
+    "round1_log_cd": 0.6989700043360189,
+    "round2_log_cd": 0.6989700043360189,
+    "round3_log_cd": 0.8450980400142568,
+    "median_log_cd": 0.6989700043360189,
+    "median_err": 0.22184874961635642
+  },
+  "cimetidine": {
+    "actual_log_cd": 0.7687167036548979,
+    "round1_log_cd": 0.7596678446896306,
+    "round2_log_cd": 0.6532125137753437,
+    "round3_log_cd": 0.6989700043360189,
+    "median_log_cd": 0.6989700043360189,
+    "median_err": 0.069746699318879
+  },
+  "ciprofloxacin": {
+    "actual_log_cd": 1.7737864449811935,
+    "round1_log_cd": 0.7781512503836436,
+    "round2_log_cd": 0.7781512503836436,
+    "round3_log_cd": 0.7781512503836436,
+    "median_log_cd": 0.7781512503836436,
+    "median_err": 0.9956351945975499
+  },
+  "clomipramine": {
+    "actual_log_cd": 0.08872656395385518,
+    "round1_log_cd": 0.028028723600243534,
+    "round2_log_cd": -0.09691001300805639,
+    "round3_log_cd": -0.09691001300805639,
+    "median_log_cd": -0.09691001300805639,
+    "median_err": 0.18563657696191158
+  },
+  "clonidine": {
+    "actual_log_cd": 0.12571976396179552,
+    "round1_log_cd": 0.47712125471966244,
+    "round2_log_cd": 0.47712125471966244,
+    "round3_log_cd": 0.6020599913279624,
+    "median_log_cd": 0.47712125471966244,
+    "median_err": 0.3514014907578669
+  },
+  "clopidogrel": {
+    "actual_log_cd": 0.0,
+    "round1_log_cd": -1.6989700043360187,
+    "round2_log_cd": 1.066946789630613,
+    "round3_log_cd": 1.0,
+    "median_log_cd": 1.0,
+    "median_err": 1.0
+  },
+  "clozapine": {
+    "actual_log_cd": 0.7408887882647011,
+    "round1_log_cd": 0.20411998265592482,
+    "round2_log_cd": 0.5228787452803376,
+    "round3_log_cd": 0.13353890837021754,
+    "median_log_cd": 0.20411998265592482,
+    "median_err": 0.5367688056087763
+  },
+  "codeine": {
+    "actual_log_cd": 0.06383355420647029,
+    "round1_log_cd": 0.31875876262441283,
+    "round2_log_cd": 0.31875876262441283,
+    "round3_log_cd": 0.36797678529459443,
+    "median_log_cd": 0.31875876262441283,
+    "median_err": 0.25492520841794253
+  },
+  "colchicine": {
+    "actual_log_cd": 0.3979400086720376,
+    "round1_log_cd": 0.47712125471966244,
+    "round2_log_cd": 0.3979400086720376,
+    "round3_log_cd": 0.47712125471966244,
+    "median_log_cd": 0.47712125471966244,
+    "median_err": 0.07918124604762483
+  },
+  "dalfampridine": {
+    "actual_log_cd": 0.630427875025024,
+    "round1_log_cd": 0.3979400086720376,
+    "round2_log_cd": 0.3979400086720376,
+    "round3_log_cd": 0.3979400086720376,
+    "median_log_cd": 0.3979400086720376,
+    "median_err": 0.23248786635298635
+  },
+  "dapagliflozin": {
+    "actual_log_cd": 0.38670937350054196,
+    "round1_log_cd": 0.9030899869919435,
+    "round2_log_cd": 1.1958996524092338,
+    "round3_log_cd": 1.1986570869544226,
+    "median_log_cd": 1.1958996524092338,
+    "median_err": 0.8091902789086918
+  },
+  "darolutamide": {
+    "actual_log_cd": 0.9021842630309196,
+    "round1_log_cd": 0.8750612633917001,
+    "round2_log_cd": 0.8750612633917001,
+    "round3_log_cd": 0.9021842630309196,
+    "median_log_cd": 0.8750612633917001,
+    "median_err": 0.02712299963921949
+  },
+  "dasatinib": {
+    "actual_log_cd": -0.08512818245994969,
+    "round1_log_cd": 0.021189299069938092,
+    "round2_log_cd": 0.021189299069938092,
+    "round3_log_cd": 0.0,
+    "median_log_cd": 0.021189299069938092,
+    "median_err": 0.10631748152988778
+  },
+  "diclofenac": {
+    "actual_log_cd": 0.5228787452803376,
+    "round1_log_cd": 1.2218487496163564,
+    "round2_log_cd": 1.166331421766525,
+    "round3_log_cd": 1.2218487496163564,
+    "median_log_cd": 1.2218487496163564,
+    "median_err": 0.6989700043360187
+  },
+  "digoxin": {
+    "actual_log_cd": 0.17609125905568124,
+    "round1_log_cd": 0.17609125905568124,
+    "round2_log_cd": 0.25527250510330607,
+    "round3_log_cd": 0.17609125905568124,
+    "median_log_cd": 0.17609125905568124,
+    "median_err": 0.0
+  },
+  "donepezil": {
+    "actual_log_cd": -0.11350927482751812,
+    "round1_log_cd": 0.17609125905568124,
+    "round2_log_cd": 0.17609125905568124,
+    "round3_log_cd": 0.3979400086720376,
+    "median_log_cd": 0.17609125905568124,
+    "median_err": 0.28960053388319934
+  },
+  "erythromycin": {
+    "actual_log_cd": 0.5530087057273627,
+    "round1_log_cd": 0.4471580313422192,
+    "round2_log_cd": 0.47712125471966244,
+    "round3_log_cd": 0.47712125471966244,
+    "median_log_cd": 0.47712125471966244,
+    "median_err": 0.07588745100770028
+  },
+  "etodolac": {
+    "actual_log_cd": 1.9003671286564703,
+    "round1_log_cd": 1.6532125137753437,
+    "round2_log_cd": 1.845098040014257,
+    "round3_log_cd": 1.845098040014257,
+    "median_log_cd": 1.845098040014257,
+    "median_err": 0.05526908864221336
+  },
+  "famotidine": {
+    "actual_log_cd": 0.2612628687924935,
+    "round1_log_cd": 0.27300127206373764,
+    "round2_log_cd": 0.27300127206373764,
+    "round3_log_cd": 0.3979400086720376,
+    "median_log_cd": 0.27300127206373764,
+    "median_err": 0.011738403271244147
+  },
+  "febuxostat": {
+    "actual_log_cd": 0.7958800173440752,
+    "round1_log_cd": 1.3010299956639813,
+    "round2_log_cd": 1.3601514477826377,
+    "round3_log_cd": 1.3521825181113625,
+    "median_log_cd": 1.3521825181113625,
+    "median_err": 0.5563025007672873
+  },
+  "fesoterodine": {
+    "actual_log_cd": -0.6266281828186995,
+    "round1_log_cd": -0.3010299956639812,
+    "round2_log_cd": -0.3010299956639812,
+    "round3_log_cd": -0.3010299956639812,
+    "median_log_cd": -0.3010299956639812,
+    "median_err": 0.3255981871547183
+  },
+  "fluvoxamine": {
+    "actual_log_cd": -0.8239087409443188,
+    "round1_log_cd": -0.3979400086720376,
+    "round2_log_cd": -0.4559319556497244,
+    "round3_log_cd": -0.05551732784983137,
+    "median_log_cd": -0.3979400086720376,
+    "median_err": 0.42596873227228116
+  },
+  "fruquintinib": {
+    "actual_log_cd": 1.4510184521554574,
+    "round1_log_cd": 1.4771212547196624,
+    "round2_log_cd": 1.6532125137753437,
+    "round3_log_cd": 1.5740312677277188,
+    "median_log_cd": 1.5740312677277188,
+    "median_err": 0.1230128155722614
+  },
+  "glasdegib": {
+    "actual_log_cd": 0.9215130698187296,
+    "round1_log_cd": 0.9030899869919435,
+    "round2_log_cd": 0.9208187539523752,
+    "round3_log_cd": 0.9208187539523752,
+    "median_log_cd": 0.9208187539523752,
+    "median_err": 0.000694315866354378
+  },
+  "hydroxyzine": {
+    "actual_log_cd": -0.19145101446489543,
+    "round1_log_cd": 0.17652577082969897,
+    "round2_log_cd": 0.17652577082969897,
+    "round3_log_cd": 0.2064889942071422,
+    "median_log_cd": 0.17652577082969897,
+    "median_err": 0.36797678529459443
+  },
+  "indomethacin": {
+    "actual_log_cd": 1.187520720836463,
+    "round1_log_cd": 1.3979400086720377,
+    "round2_log_cd": 1.5440680443502757,
+    "round3_log_cd": 1.6532125137753437,
+    "median_log_cd": 1.5440680443502757,
+    "median_err": 0.3565473235138126
+  },
+  "isosorbide mononitrate": {
+    "actual_log_cd": 1.492061604512599,
+    "round1_log_cd": 1.1383026981662814,
+    "round2_log_cd": 1.1222158782728267,
+    "round3_log_cd": 1.2304489213782739,
+    "median_log_cd": 1.1383026981662814,
+    "median_err": 0.35375890634631757
+  },
+  "itraconazole": {
+    "actual_log_cd": 0.3979400086720376,
+    "round1_log_cd": 0.09691001300805642,
+    "round2_log_cd": 0.13033376849500614,
+    "round3_log_cd": 0.146128035678238,
+    "median_log_cd": 0.13033376849500614,
+    "median_err": 0.2676062401770315
+  },
+  "ketoconazole": {
+    "actual_log_cd": 0.5740312677277188,
+    "round1_log_cd": 0.9719712763997564,
+    "round2_log_cd": 0.909823369650912,
+    "round3_log_cd": 1.1760912590556813,
+    "median_log_cd": 0.9719712763997564,
+    "median_err": 0.3979400086720376
+  },
+  "ketorolac": {
+    "actual_log_cd": 1.4259687322722812,
+    "round1_log_cd": 1.7781512503836436,
+    "round2_log_cd": 1.8653014261025438,
+    "round3_log_cd": 1.8653014261025438,
+    "median_log_cd": 1.8653014261025438,
+    "median_err": 0.43933269383026263
+  },
+  "lamivudine": {
+    "actual_log_cd": 0.49291552190289434,
+    "round1_log_cd": 0.8239087409443188,
+    "round2_log_cd": 0.8519374645445623,
+    "round3_log_cd": 1.0,
+    "median_log_cd": 0.8519374645445623,
+    "median_err": 0.359021942641668
+  },
+  "lenacapavir": {
+    "actual_log_cd": -1.4089353929735007,
+    "round1_log_cd": -0.9330532103693868,
+    "round2_log_cd": -0.8004276450947959,
+    "round3_log_cd": -0.965237893740788,
+    "median_log_cd": -0.9330532103693868,
+    "median_err": 0.47588218260411386
+  },
+  "levocetirizine": {
+    "actual_log_cd": 1.1760912590556813,
+    "round1_log_cd": 1.4522976709946303,
+    "round2_log_cd": 1.4771212547196624,
+    "round3_log_cd": 1.4313637641589874,
+    "median_log_cd": 1.4522976709946303,
+    "median_err": 0.2762064119389489
+  },
+  "levofloxacin": {
+    "actual_log_cd": 0.7923916894982539,
+    "round1_log_cd": 1.041392685158225,
+    "round2_log_cd": 1.0606978403536118,
+    "round3_log_cd": 0.9731278535996987,
+    "median_log_cd": 1.041392685158225,
+    "median_err": 0.24900099565997103
+  },
+  "lorlatinib": {
+    "actual_log_cd": 0.7000977046130538,
+    "round1_log_cd": 0.7781512503836436,
+    "round2_log_cd": 0.8976270912904414,
+    "round3_log_cd": 0.7611758131557314,
+    "median_log_cd": 0.7781512503836436,
+    "median_err": 0.07805354577058987
+  },
+  "losartan": {
+    "actual_log_cd": 0.04921802267018165,
+    "round1_log_cd": 0.6283889300503115,
+    "round2_log_cd": 0.3424226808222063,
+    "round3_log_cd": 0.6434526764861874,
+    "median_log_cd": 0.6283889300503115,
+    "median_err": 0.5791709073801299
+  },
+  "mefenamic acid": {
+    "actual_log_cd": 0.6381690589202689,
+    "round1_log_cd": 1.3010299956639813,
+    "round2_log_cd": 1.3010299956639813,
+    "round3_log_cd": 1.3010299956639813,
+    "median_log_cd": 1.3010299956639813,
+    "median_err": 0.6628609367437124
+  },
+  "methylphenidate": {
+    "actual_log_cd": -0.3631779024128257,
+    "round1_log_cd": -0.2808266095756942,
+    "round2_log_cd": -0.3010299956639812,
+    "round3_log_cd": -0.4191293077419757,
+    "median_log_cd": -0.3010299956639812,
+    "median_err": 0.06214790674884452
+  },
+  "metronidazole": {
+    "actual_log_cd": 0.8129133566428556,
+    "round1_log_cd": 1.3010299956639813,
+    "round2_log_cd": 1.3010299956639813,
+    "round3_log_cd": 1.3010299956639813,
+    "median_log_cd": 1.3010299956639813,
+    "median_err": 0.4881166390211257
+  },
+  "montelukast": {
+    "actual_log_cd": 1.5440680443502757,
+    "round1_log_cd": 1.6532125137753437,
+    "round2_log_cd": 1.591064607026499,
+    "round3_log_cd": 1.6020599913279625,
+    "median_log_cd": 1.6020599913279625,
+    "median_err": 0.05799194697768684
+  },
+  "morphine": {
+    "actual_log_cd": 0.27067883614470634,
+    "round1_log_cd": 0.17609125905568124,
+    "round2_log_cd": 0.17609125905568124,
+    "round3_log_cd": 0.17609125905568124,
+    "median_log_cd": 0.17609125905568124,
+    "median_err": 0.0945875770890251
+  },
+  "moxifloxacin": {
+    "actual_log_cd": 1.0107238653917732,
+    "round1_log_cd": 0.9420080530223133,
+    "round2_log_cd": 0.9030899869919435,
+    "round3_log_cd": 0.8893017025063104,
+    "median_log_cd": 0.9030899869919435,
+    "median_err": 0.10763387839982963
+  },
+  "nilotinib": {
+    "actual_log_cd": 0.6879746200345556,
+    "round1_log_cd": 0.7201593034059569,
+    "round2_log_cd": 0.6283889300503115,
+    "round3_log_cd": 0.7403626894942439,
+    "median_log_cd": 0.7201593034059569,
+    "median_err": 0.032184683371401346
+  },
+  "norethindrone": {
+    "actual_log_cd": 0.7191654940892134,
+    "round1_log_cd": 0.6020599913279624,
+    "round2_log_cd": 0.7781512503836436,
+    "round3_log_cd": 0.7323937598229685,
+    "median_log_cd": 0.7323937598229685,
+    "median_err": 0.013228265733755129
+  },
+  "oxybutynin": {
+    "actual_log_cd": -0.6989700043360187,
+    "round1_log_cd": 0.20411998265592482,
+    "round2_log_cd": 0.07918124604762482,
+    "round3_log_cd": 0.20411998265592482,
+    "median_log_cd": 0.20411998265592482,
+    "median_err": 0.9030899869919435
+  },
+  "paroxetine": {
+    "actual_log_cd": -0.9030899869919435,
+    "round1_log_cd": 0.17609125905568124,
+    "round2_log_cd": 0.1903316981702915,
+    "round3_log_cd": 0.1903316981702915,
+    "median_log_cd": 0.1903316981702915,
+    "median_err": 1.0934216851622351
+  },
+  "penicillamine": {
+    "actual_log_cd": 0.47712125471966244,
+    "round1_log_cd": 0.8450980400142568,
+    "round2_log_cd": 0.6020599913279624,
+    "round3_log_cd": 0.6020599913279624,
+    "median_log_cd": 0.6020599913279624,
+    "median_err": 0.12493873660829996
+  },
+  "phenytoin": {
+    "actual_log_cd": 0.49485002168009407,
+    "round1_log_cd": 0.9719712763997564,
+    "round2_log_cd": 0.6989700043360189,
+    "round3_log_cd": 1.0511525224473812,
+    "median_log_cd": 0.9719712763997564,
+    "median_err": 0.4771212547196624
+  },
+  "pilocarpine": {
+    "actual_log_cd": 0.17609125905568124,
+    "round1_log_cd": 0.17609125905568124,
+    "round2_log_cd": 0.3010299956639812,
+    "round3_log_cd": 0.47712125471966244,
+    "median_log_cd": 0.3010299956639812,
+    "median_err": 0.12493873660829996
+  },
+  "pindolol": {
+    "actual_log_cd": 0.3437367347200374,
+    "round1_log_cd": 0.6989700043360189,
+    "round2_log_cd": 0.5228787452803376,
+    "round3_log_cd": 0.7533276666586115,
+    "median_log_cd": 0.6989700043360189,
+    "median_err": 0.35523326961598145
+  },
+  "pomalidomide": {
+    "actual_log_cd": 0.4240645254174879,
+    "round1_log_cd": 0.8750612633917001,
+    "round2_log_cd": 0.8750612633917001,
+    "round3_log_cd": 0.8750612633917001,
+    "median_log_cd": 0.8750612633917001,
+    "median_err": 0.4509967379742122
+  },
+  "ponatinib": {
+    "actual_log_cd": 0.08477481255808707,
+    "round1_log_cd": 0.22184874961635637,
+    "round2_log_cd": 0.21011034634511222,
+    "round3_log_cd": 0.21011034634511222,
+    "median_log_cd": 0.21011034634511222,
+    "median_err": 0.12533553378702517
+  },
+  "posaconazole": {
+    "actual_log_cd": -0.5991743030904743,
+    "round1_log_cd": 0.2632414347745814,
+    "round2_log_cd": 0.619788758288394,
+    "round3_log_cd": 0.6690067809585756,
+    "median_log_cd": 0.619788758288394,
+    "median_err": 1.2189630613788682
+  },
+  "pravastatin": {
+    "actual_log_cd": -0.2041199826559248,
+    "round1_log_cd": 0.09691001300805642,
+    "round2_log_cd": 0.05115252244738129,
+    "round3_log_cd": 0.13830269816628143,
+    "median_log_cd": 0.09691001300805642,
+    "median_err": 0.3010299956639812
+  },
+  "probenecid": {
+    "actual_log_cd": 1.216165902285993,
+    "round1_log_cd": 1.8750612633917,
+    "round2_log_cd": 1.8750612633917,
+    "round3_log_cd": 1.8750612633917,
+    "median_log_cd": 1.8750612633917,
+    "median_err": 0.6588953611057071
+  },
+  "progesterone": {
+    "actual_log_cd": -0.7619538968712045,
+    "round1_log_cd": -0.8239087409443188,
+    "round2_log_cd": -0.8239087409443188,
+    "round3_log_cd": -0.8239087409443188,
+    "median_log_cd": -0.8239087409443188,
+    "median_err": 0.061954844073114246
+  },
+  "quinine": {
+    "actual_log_cd": 0.6532125137753437,
+    "round1_log_cd": 0.8239087409443188,
+    "round2_log_cd": 0.8239087409443188,
+    "round3_log_cd": 0.7337321105952308,
+    "median_log_cd": 0.8239087409443188,
+    "median_err": 0.17069622716897503
+  },
+  "quizartinib": {
+    "actual_log_cd": 0.5198279937757188,
+    "round1_log_cd": 1.0,
+    "round2_log_cd": 0.7533276666586115,
+    "round3_log_cd": 0.7403626894942439,
+    "median_log_cd": 0.7533276666586115,
+    "median_err": 0.23349967288289275
+  },
+  "ramelteon": {
+    "actual_log_cd": -0.7417219847569687,
+    "round1_log_cd": -1.1529674602085436,
+    "round2_log_cd": -0.7269987279362623,
+    "round3_log_cd": -0.7647872888256622,
+    "median_log_cd": -0.7647872888256622,
+    "median_err": 0.02306530406869345
+  },
+  "ranitidine": {
+    "actual_log_cd": 0.16633142176652496,
+    "round1_log_cd": 0.2632414347745814,
+    "round2_log_cd": 0.2632414347745814,
+    "round3_log_cd": 0.36797678529459443,
+    "median_log_cd": 0.2632414347745814,
+    "median_err": 0.09691001300805643
+  },
+  "rifabutin": {
+    "actual_log_cd": -0.07918124604762482,
+    "round1_log_cd": -0.07918124604762482,
+    "round2_log_cd": -0.07918124604762482,
+    "round3_log_cd": -0.07918124604762482,
+    "median_log_cd": -0.07918124604762482,
+    "median_err": 0.0
+  },
+  "rivaroxaban": {
+    "actual_log_cd": 0.5538830266438743,
+    "round1_log_cd": 0.9719712763997564,
+    "round2_log_cd": 0.9719712763997564,
+    "round3_log_cd": 0.9719712763997564,
+    "median_log_cd": 0.9719712763997564,
+    "median_err": 0.4180882497558821
+  },
+  "ruxolitinib": {
+    "actual_log_cd": -0.18782891867262733,
+    "round1_log_cd": 1.3424226808222062,
+    "round2_log_cd": 1.146128035678238,
+    "round3_log_cd": 1.380211241711606,
+    "median_log_cd": 1.3424226808222062,
+    "median_err": 1.5302515994948336
+  },
+  "selegiline": {
+    "actual_log_cd": -1.0,
+    "round1_log_cd": -0.6989700043360187,
+    "round2_log_cd": -0.6020599913279624,
+    "round3_log_cd": -0.6020599913279624,
+    "median_log_cd": -0.6020599913279624,
+    "median_err": 0.3979400086720376
+  },
+  "sildenafil": {
+    "actual_log_cd": 0.13033376849500614,
+    "round1_log_cd": 0.6532125137753437,
+    "round2_log_cd": 0.6532125137753437,
+    "round3_log_cd": 0.6532125137753437,
+    "median_log_cd": 0.6532125137753437,
+    "median_err": 0.5228787452803376
+  },
+  "sirolimus": {
+    "actual_log_cd": 0.07918124604762482,
+    "round1_log_cd": 0.47712125471966244,
+    "round2_log_cd": 0.47712125471966244,
+    "round3_log_cd": 0.47712125471966244,
+    "median_log_cd": 0.47712125471966244,
+    "median_err": 0.3979400086720376
+  },
+  "sonidegib": {
+    "actual_log_cd": 0.711807229041191,
+    "round1_log_cd": 0.3521825181113625,
+    "round2_log_cd": 0.47712125471966244,
+    "round3_log_cd": 0.09691001300805642,
+    "median_log_cd": 0.3521825181113625,
+    "median_err": 0.3596247109298285
+  },
+  "sumatriptan": {
+    "actual_log_cd": -1.083546051450075,
+    "round1_log_cd": -0.22184874961635637,
+    "round2_log_cd": -0.22184874961635637,
+    "round3_log_cd": -0.1549019599857432,
+    "median_log_cd": -0.22184874961635637,
+    "median_err": 0.8616973018337186
+  },
+  "tamoxifen": {
+    "actual_log_cd": 0.3010299956639812,
+    "round1_log_cd": 0.3010299956639812,
+    "round2_log_cd": 0.3010299956639812,
+    "round3_log_cd": 0.3010299956639812,
+    "median_log_cd": 0.3010299956639812,
+    "median_err": 0.0
+  },
+  "tamsulosin": {
+    "actual_log_cd": 1.4022613824546801,
+    "round1_log_cd": 1.4771212547196624,
+    "round2_log_cd": 1.3979400086720377,
+    "round3_log_cd": 1.3979400086720377,
+    "median_log_cd": 1.3979400086720377,
+    "median_err": 0.0043213737826424126
+  },
+  "temozolomide": {
+    "actual_log_cd": 1.6989700043360187,
+    "round1_log_cd": 1.6989700043360187,
+    "round2_log_cd": 1.6989700043360187,
+    "round3_log_cd": 1.6989700043360187,
+    "median_log_cd": 1.6989700043360187,
+    "median_err": 0.0
+  },
+  "tenofovir disoproxil": {
+    "actual_log_cd": 0.1026623418971477,
+    "round1_log_cd": 0.0,
+    "round2_log_cd": 0.0,
+    "round3_log_cd": 0.0,
+    "median_log_cd": 0.0,
+    "median_err": 0.1026623418971477
+  },
+  "trazodone": {
+    "actual_log_cd": 1.209515014542631,
+    "round1_log_cd": 1.1139433523068367,
+    "round2_log_cd": 1.0,
+    "round3_log_cd": 0.9542425094393249,
+    "median_log_cd": 1.0,
+    "median_err": 0.209515014542631
+  },
+  "triazolam": {
+    "actual_log_cd": 0.47217114669236315,
+    "round1_log_cd": 0.7781512503836436,
+    "round2_log_cd": 0.7781512503836436,
+    "round3_log_cd": 0.7781512503836436,
+    "median_log_cd": 0.7781512503836436,
+    "median_err": 0.3059801036912805
+  },
+  "ulipristal": {
+    "actual_log_cd": 0.7683914130944873,
+    "round1_log_cd": 0.7533276666586115,
+    "round2_log_cd": 0.6690067809585756,
+    "round3_log_cd": 0.7533276666586115,
+    "median_log_cd": 0.7533276666586115,
+    "median_err": 0.015063746435875824
+  },
+  "upadacitinib": {
+    "actual_log_cd": -0.26626788940476925,
+    "round1_log_cd": 0.3979400086720376,
+    "round2_log_cd": 0.43270211493124955,
+    "round3_log_cd": 0.27300127206373764,
+    "median_log_cd": 0.3979400086720376,
+    "median_err": 0.6642078980768069
+  },
+  "valganciclovir": {
+    "actual_log_cd": 0.8091854841236124,
+    "round1_log_cd": 0.7781512503836436,
+    "round2_log_cd": 0.8310873255714422,
+    "round3_log_cd": 0.8519374645445623,
+    "median_log_cd": 0.8310873255714422,
+    "median_err": 0.021901841447829806
+  },
+  "venlafaxine": {
+    "actual_log_cd": -0.6258629060005871,
+    "round1_log_cd": 0.17609125905568124,
+    "round2_log_cd": 0.0,
+    "round3_log_cd": 0.17609125905568124,
+    "median_log_cd": 0.17609125905568124,
+    "median_err": 0.8019541650562684
+  },
+  "vilazodone": {
+    "actual_log_cd": 0.8920946026904804,
+    "round1_log_cd": 0.3521825181113625,
+    "round2_log_cd": 0.3979400086720376,
+    "round3_log_cd": 0.3979400086720376,
+    "median_log_cd": 0.3979400086720376,
+    "median_err": 0.49415459401844275
+  },
+  "vonoprazan": {
+    "actual_log_cd": -0.6812412373755872,
+    "round1_log_cd": 0.5228787452803376,
+    "round2_log_cd": 0.5740312677277188,
+    "round3_log_cd": 0.22184874961635637,
+    "median_log_cd": 0.5228787452803376,
+    "median_err": 1.2041199826559248
+  },
+  "zolpidem": {
+    "actual_log_cd": 1.0301947853567512,
+    "round1_log_cd": 1.0791812460476249,
+    "round2_log_cd": 0.9822712330395684,
+    "round3_log_cd": 1.0644579892269186,
+    "median_log_cd": 1.0644579892269186,
+    "median_err": 0.03426320387016735
+  },
+  "zonisamide": {
+    "actual_log_cd": 0.8239087409443188,
+    "round1_log_cd": 1.1249387366083,
+    "round2_log_cd": 1.1249387366083,
+    "round3_log_cd": 1.1249387366083,
+    "median_log_cd": 1.1249387366083,
+    "median_err": 0.30102999566398114
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "E0_baseline": {
+    "aafe": 3.355,
+    "bias": 0.269,
+    "f2": 37.1,
+    "f3": 54.6
+  },
+  "E1_baseline_plus_molformer": {
+    "aafe": 3.419,
+    "bias": 0.245,
+    "f2": 36.1,
+    "f3": 54.6
+  },
+  "E2_molformer_only": {
+    "aafe": 3.447,
+    "bias": 0.243,
+    "f2": 34.0,
+    "f3": 57.7
+  },
+  "E3_molformer_physchem_no_fp": {
+    "aafe": 3.47,
+    "bias": 0.245,
+    "f2": 35.1,
+    "f3": 55.7
+  }
+}

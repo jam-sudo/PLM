@@ -1,0 +1,71 @@
+{
+  "individual": {
+    "plm_baseline": {
+      "aafe": 3.355,
+      "bias": 0.269
+    },
+    "llm_direct": {
+      "aafe": 2.228,
+      "bias": 0.167
+    }
+  },
+  "plm_llm_error_correlation": 0.56,
+  "ensembles": {
+    "simple_avg": {
+      "aafe": 2.59,
+      "bias": 0.218,
+      "f2": 44.3
+    },
+    "w_plm0.1": {
+      "aafe": 2.261,
+      "bias": 0.177,
+      "f2": 55.7
+    },
+    "w_plm0.2": {
+      "aafe": 2.318,
+      "bias": 0.187,
+      "f2": 55.7
+    },
+    "w_plm0.3": {
+      "aafe": 2.397,
+      "bias": 0.198,
+      "f2": 51.5
+    },
+    "w_plm0.4": {
+      "aafe": 2.485,
+      "bias": 0.208,
+      "f2": 46.4
+    },
+    "w_plm0.5": {
+      "aafe": 2.59,
+      "bias": 0.218,
+      "f2": 44.3
+    },
+    "w_plm0.6": {
+      "aafe": 2.705,
+      "bias": 0.228,
+      "f2": 41.2
+    },
+    "w_plm0.7": {
+      "aafe": 2.842,
+      "bias": 0.238,
+      "f2": 41.2
+    },
+    "w_plm0.8": {
+      "aafe": 2.986,
+      "bias": 0.248,
+      "f2": 42.3
+    },
+    "w_plm0.9": {
+      "aafe": 3.152,
+      "bias": 0.259,
+      "f2": 41.2
+    },
+    "median_3way": {
+      "aafe": 2.212,
+      "bias": 0.158,
+      "f2": 55.7
+    }
+  },
+  "best": "median_3way"
+}

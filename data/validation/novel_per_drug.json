@@ -1,0 +1,778 @@
+{
+  "abiraterone": {
+    "actual_log_cd": -1.1366771459579468,
+    "baseline_pred": 0.21147513389587402,
+    "winner_pred": 0.21147513389587402,
+    "baseline_err": 1.3481522798538208,
+    "novel_err": 1.3481522798538208,
+    "nn_tanimoto": 0.2878787878787879
+  },
+  "acamprosate": {
+    "actual_log_cd": -0.8692317008972168,
+    "baseline_pred": 0.5416925549507141,
+    "winner_pred": 0.5416925549507141,
+    "baseline_err": 1.4109241962432861,
+    "novel_err": 1.4109241962432861,
+    "nn_tanimoto": 0.27906976744186046
+  },
+  "adefovir dipivoxil": {
+    "actual_log_cd": 0.26481783390045166,
+    "baseline_pred": 0.515232503414154,
+    "winner_pred": 0.515232503414154,
+    "baseline_err": 0.2504146695137024,
+    "novel_err": 0.2504146695137024,
+    "nn_tanimoto": 0.625
+  },
+  "alosetron": {
+    "actual_log_cd": 0.0969100147485733,
+    "baseline_pred": 0.8331401348114014,
+    "winner_pred": 0.8331401348114014,
+    "baseline_err": 0.7362301349639893,
+    "novel_err": 0.7362301349639893,
+    "nn_tanimoto": 0.40298507462686567
+  },
+  "alprazolam": {
+    "actual_log_cd": 0.8302507400512695,
+    "baseline_pred": 1.2747178077697754,
+    "winner_pred": 1.2747178077697754,
+    "baseline_err": 0.44446706771850586,
+    "novel_err": 0.44446706771850586,
+    "nn_tanimoto": 0.62
+  },
+  "alvimopan": {
+    "actual_log_cd": -0.33960890769958496,
+    "baseline_pred": 0.9243915677070618,
+    "winner_pred": 0.9243915677070618,
+    "baseline_err": 1.264000415802002,
+    "novel_err": 1.264000415802002,
+    "nn_tanimoto": 0.28378378378378377
+  },
+  "amantadine": {
+    "actual_log_cd": 0.026452334597706795,
+    "baseline_pred": 0.28773370385169983,
+    "winner_pred": 0.28773370385169983,
+    "baseline_err": 0.2612813711166382,
+    "novel_err": 0.2612813711166382,
+    "nn_tanimoto": 0.45454545454545453
+  },
+  "apixaban": {
+    "actual_log_cd": 0.40140053629875183,
+    "baseline_pred": 0.9837653636932373,
+    "winner_pred": 0.9837653636932373,
+    "baseline_err": 0.5823647975921631,
+    "novel_err": 0.5823647975921631,
+    "nn_tanimoto": 0.2375
+  },
+  "atovaquone": {
+    "actual_log_cd": 1.2455127239227295,
+    "baseline_pred": 0.49540287256240845,
+    "winner_pred": 0.49540287256240845,
+    "baseline_err": 0.750109851360321,
+    "novel_err": 0.750109851360321,
+    "nn_tanimoto": 0.2692307692307692
+  },
+  "azacitidine": {
+    "actual_log_cd": -0.3157532513141632,
+    "baseline_pred": 0.7661834359169006,
+    "winner_pred": 0.7661834359169006,
+    "baseline_err": 1.0819367170333862,
+    "novel_err": 1.0819367170333862,
+    "nn_tanimoto": 0.5625
+  },
+  "azithromycin": {
+    "actual_log_cd": 0.0,
+    "baseline_pred": 0.03333408012986183,
+    "winner_pred": 0.03333408012986183,
+    "baseline_err": 0.03333408012986183,
+    "novel_err": 0.03333408012986183,
+    "nn_tanimoto": 0.7386363636363636
+  },
+  "brincidofovir": {
+    "actual_log_cd": 0.2535456717014313,
+    "baseline_pred": 0.15994973480701447,
+    "winner_pred": 0.15994973480701447,
+    "baseline_err": 0.09359593689441681,
+    "novel_err": 0.09359593689441681,
+    "nn_tanimoto": 0.6271186440677966
+  },
+  "budesonide": {
+    "actual_log_cd": -0.3010300099849701,
+    "baseline_pred": 0.07505562156438828,
+    "winner_pred": 0.07505562156438828,
+    "baseline_err": 0.37608563899993896,
+    "novel_err": 0.37608563899993896,
+    "nn_tanimoto": 0.6266666666666667
+  },
+  "cabozantinib": {
+    "actual_log_cd": 1.8450980186462402,
+    "baseline_pred": 0.14176812767982483,
+    "winner_pred": 0.14176812767982483,
+    "baseline_err": 1.7033299207687378,
+    "novel_err": 1.7033299207687378,
+    "nn_tanimoto": 0.4657534246575342
+  },
+  "carbamazepine": {
+    "actual_log_cd": 0.2218487560749054,
+    "baseline_pred": 1.026347279548645,
+    "winner_pred": 1.026347279548645,
+    "baseline_err": 0.804498553276062,
+    "novel_err": 0.804498553276062,
+    "nn_tanimoto": 0.4594594594594595
+  },
+  "carbinoxamine": {
+    "actual_log_cd": 0.4771212637424469,
+    "baseline_pred": 0.20333026349544525,
+    "winner_pred": 0.20333026349544525,
+    "baseline_err": 0.27379101514816284,
+    "novel_err": 0.27379101514816284,
+    "nn_tanimoto": 0.6222222222222222
+  },
+  "levocetirizine": {
+    "actual_log_cd": 1.1760913133621216,
+    "baseline_pred": 0.9445483088493347,
+    "winner_pred": 0.9445483088493347,
+    "baseline_err": 0.23154300451278687,
+    "novel_err": 0.23154300451278687,
+    "nn_tanimoto": 0.48214285714285715
+  },
+  "cimetidine": {
+    "actual_log_cd": 0.7687166929244995,
+    "baseline_pred": 0.6778721809387207,
+    "winner_pred": 0.6778721809387207,
+    "baseline_err": 0.09084451198577881,
+    "novel_err": 0.09084451198577881,
+    "nn_tanimoto": 0.24324324324324326
+  },
+  "ciprofloxacin": {
+    "actual_log_cd": 1.7737864255905151,
+    "baseline_pred": 0.7218173146247864,
+    "winner_pred": 0.7218173146247864,
+    "baseline_err": 1.051969051361084,
+    "novel_err": 1.051969051361084,
+    "nn_tanimoto": 0.7457627118644068
+  },
+  "clomipramine": {
+    "actual_log_cd": 0.08872656524181366,
+    "baseline_pred": -0.4396664500236511,
+    "winner_pred": -0.4396664500236511,
+    "baseline_err": 0.528393030166626,
+    "novel_err": 0.528393030166626,
+    "nn_tanimoto": 0.7631578947368421
+  },
+  "clonidine": {
+    "actual_log_cd": 0.12571977078914642,
+    "baseline_pred": 0.3688948154449463,
+    "winner_pred": 0.3688948154449463,
+    "baseline_err": 0.24317504465579987,
+    "novel_err": 0.24317504465579987,
+    "nn_tanimoto": 0.5853658536585366
+  },
+  "clopidogrel": {
+    "actual_log_cd": 0.0,
+    "baseline_pred": 0.30918148159980774,
+    "winner_pred": 0.30918148159980774,
+    "baseline_err": 0.30918148159980774,
+    "novel_err": 0.30918148159980774,
+    "nn_tanimoto": 0.9183673469387755
+  },
+  "clozapine": {
+    "actual_log_cd": 0.740888774394989,
+    "baseline_pred": 0.31524184346199036,
+    "winner_pred": 0.31524184346199036,
+    "baseline_err": 0.42564693093299866,
+    "novel_err": 0.42564693093299866,
+    "nn_tanimoto": 0.5370370370370371
+  },
+  "codeine": {
+    "actual_log_cd": 0.0638335570693016,
+    "baseline_pred": 0.16337816417217255,
+    "winner_pred": 0.16337816417217255,
+    "baseline_err": 0.09954460710287094,
+    "novel_err": 0.09954460710287094,
+    "nn_tanimoto": 0.7142857142857143
+  },
+  "colchicine": {
+    "actual_log_cd": 0.3979400098323822,
+    "baseline_pred": 0.3350251019001007,
+    "winner_pred": 0.3350251019001007,
+    "baseline_err": 0.0629149079322815,
+    "novel_err": 0.0629149079322815,
+    "nn_tanimoto": 0.2631578947368421
+  },
+  "dalfampridine": {
+    "actual_log_cd": 0.630427896976471,
+    "baseline_pred": 0.36970415711402893,
+    "winner_pred": 0.36970415711402893,
+    "baseline_err": 0.260723739862442,
+    "novel_err": 0.260723739862442,
+    "nn_tanimoto": 0.45
+  },
+  "dapagliflozin": {
+    "actual_log_cd": 0.3867093622684479,
+    "baseline_pred": 0.7407582998275757,
+    "winner_pred": 0.7407582998275757,
+    "baseline_err": 0.3540489375591278,
+    "novel_err": 0.3540489375591278,
+    "nn_tanimoto": 0.6612903225806451
+  },
+  "darolutamide": {
+    "actual_log_cd": 0.902184247970581,
+    "baseline_pred": 0.8246227502822876,
+    "winner_pred": 0.8246227502822876,
+    "baseline_err": 0.07756149768829346,
+    "novel_err": 0.07756149768829346,
+    "nn_tanimoto": 0.2247191011235955
+  },
+  "dasatinib": {
+    "actual_log_cd": -0.08512818068265915,
+    "baseline_pred": 0.17047443985939026,
+    "winner_pred": 0.17047443985939026,
+    "baseline_err": 0.25560262799263,
+    "novel_err": 0.25560262799263,
+    "nn_tanimoto": 0.27450980392156865
+  },
+  "diclofenac": {
+    "actual_log_cd": 0.5228787660598755,
+    "baseline_pred": 1.5907131433486938,
+    "winner_pred": 1.5907131433486938,
+    "baseline_err": 1.0678343772888184,
+    "novel_err": 1.0678343772888184,
+    "nn_tanimoto": 0.725
+  },
+  "digoxin": {
+    "actual_log_cd": 0.1760912537574768,
+    "baseline_pred": 0.47435295581817627,
+    "winner_pred": 0.47435295581817627,
+    "baseline_err": 0.29826170206069946,
+    "novel_err": 0.29826170206069946,
+    "nn_tanimoto": 0.8133333333333334
+  },
+  "donepezil": {
+    "actual_log_cd": -0.11350927501916885,
+    "baseline_pred": 0.20707248151302338,
+    "winner_pred": 0.20707248151302338,
+    "baseline_err": 0.3205817639827728,
+    "novel_err": 0.3205817639827728,
+    "nn_tanimoto": 0.3076923076923077
+  },
+  "erythromycin": {
+    "actual_log_cd": 0.5530087351799011,
+    "baseline_pred": 0.7951419949531555,
+    "winner_pred": 0.7951419949531555,
+    "baseline_err": 0.2421332597732544,
+    "novel_err": 0.2421332597732544,
+    "nn_tanimoto": 0.922077922077922
+  },
+  "etodolac": {
+    "actual_log_cd": 1.9003671407699585,
+    "baseline_pred": 1.1172999143600464,
+    "winner_pred": 1.1172999143600464,
+    "baseline_err": 0.7830672264099121,
+    "novel_err": 0.7830672264099121,
+    "nn_tanimoto": 0.2463768115942029
+  },
+  "famotidine": {
+    "actual_log_cd": 0.2612628638744354,
+    "baseline_pred": 0.7953131198883057,
+    "winner_pred": 0.7953131198883057,
+    "baseline_err": 0.5340502262115479,
+    "novel_err": 0.5340502262115479,
+    "nn_tanimoto": 0.2638888888888889
+  },
+  "febuxostat": {
+    "actual_log_cd": 0.7958800196647644,
+    "baseline_pred": 1.1525911092758179,
+    "winner_pred": 1.1525911092758179,
+    "baseline_err": 0.35671108961105347,
+    "novel_err": 0.35671108961105347,
+    "nn_tanimoto": 0.2727272727272727
+  },
+  "fesoterodine": {
+    "actual_log_cd": -0.6266281604766846,
+    "baseline_pred": 0.5795212984085083,
+    "winner_pred": 0.5795212984085083,
+    "baseline_err": 1.2061494588851929,
+    "novel_err": 1.2061494588851929,
+    "nn_tanimoto": 0.6470588235294118
+  },
+  "fluvoxamine": {
+    "actual_log_cd": -0.8239087462425232,
+    "baseline_pred": 0.6272780895233154,
+    "winner_pred": 0.6272780895233154,
+    "baseline_err": 1.4511868953704834,
+    "novel_err": 1.4511868953704834,
+    "nn_tanimoto": 0.23809523809523808
+  },
+  "fruquintinib": {
+    "actual_log_cd": 1.4510184526443481,
+    "baseline_pred": 0.7713994383811951,
+    "winner_pred": 0.7713994383811951,
+    "baseline_err": 0.6796190142631531,
+    "novel_err": 0.6796190142631531,
+    "nn_tanimoto": 0.35
+  },
+  "glasdegib": {
+    "actual_log_cd": 0.9215130805969238,
+    "baseline_pred": 0.7673640251159668,
+    "winner_pred": 0.7673640251159668,
+    "baseline_err": 0.15414905548095703,
+    "novel_err": 0.15414905548095703,
+    "nn_tanimoto": 0.2716049382716049
+  },
+  "hydroxyzine": {
+    "actual_log_cd": -0.19145101308822632,
+    "baseline_pred": -0.09982901811599731,
+    "winner_pred": -0.09982901811599731,
+    "baseline_err": 0.091621994972229,
+    "novel_err": 0.091621994972229,
+    "nn_tanimoto": 0.5
+  },
+  "indomethacin": {
+    "actual_log_cd": 1.1875207424163818,
+    "baseline_pred": 1.721011757850647,
+    "winner_pred": 1.721011757850647,
+    "baseline_err": 0.5334910154342651,
+    "novel_err": 0.5334910154342651,
+    "nn_tanimoto": 0.8113207547169812
+  },
+  "isosorbide mononitrate": {
+    "actual_log_cd": 1.4920616149902344,
+    "baseline_pred": 0.8469278812408447,
+    "winner_pred": 0.8469278812408447,
+    "baseline_err": 0.6451337337493896,
+    "novel_err": 0.6451337337493896,
+    "nn_tanimoto": 0.7777777777777778
+  },
+  "itraconazole": {
+    "actual_log_cd": 0.3979400098323822,
+    "baseline_pred": 0.22615525126457214,
+    "winner_pred": 0.22615525126457214,
+    "baseline_err": 0.17178475856781006,
+    "novel_err": 0.17178475856781006,
+    "nn_tanimoto": 0.25
+  },
+  "ketoconazole": {
+    "actual_log_cd": 0.5740312933921814,
+    "baseline_pred": 0.1851574033498764,
+    "winner_pred": 0.1851574033498764,
+    "baseline_err": 0.3888738751411438,
+    "novel_err": 0.3888738751411438,
+    "nn_tanimoto": 0.29411764705882354
+  },
+  "ketorolac": {
+    "actual_log_cd": 1.4259687662124634,
+    "baseline_pred": 1.4924829006195068,
+    "winner_pred": 1.4924829006195068,
+    "baseline_err": 0.06651413440704346,
+    "novel_err": 0.06651413440704346,
+    "nn_tanimoto": 0.27450980392156865
+  },
+  "lamivudine": {
+    "actual_log_cd": 0.4929155111312866,
+    "baseline_pred": 0.7027902007102966,
+    "winner_pred": 0.7027902007102966,
+    "baseline_err": 0.20987468957901,
+    "novel_err": 0.20987468957901,
+    "nn_tanimoto": 0.6326530612244898
+  },
+  "lenacapavir": {
+    "actual_log_cd": -1.4089354276657104,
+    "baseline_pred": 0.2651379406452179,
+    "winner_pred": 0.2651379406452179,
+    "baseline_err": 1.674073338508606,
+    "novel_err": 1.674073338508606,
+    "nn_tanimoto": 0.20155038759689922
+  },
+  "levofloxacin": {
+    "actual_log_cd": 0.7923917174339294,
+    "baseline_pred": 0.9495555758476257,
+    "winner_pred": 0.9495555758476257,
+    "baseline_err": 0.1571638584136963,
+    "novel_err": 0.1571638584136963,
+    "nn_tanimoto": 0.45454545454545453
+  },
+  "lorlatinib": {
+    "actual_log_cd": 0.7000976800918579,
+    "baseline_pred": 0.9365940093994141,
+    "winner_pred": 0.9365940093994141,
+    "baseline_err": 0.23649632930755615,
+    "novel_err": 0.23649632930755615,
+    "nn_tanimoto": 0.29347826086956524
+  },
+  "losartan": {
+    "actual_log_cd": 0.04921802133321762,
+    "baseline_pred": 0.5277396440505981,
+    "winner_pred": 0.5277396440505981,
+    "baseline_err": 0.4785216152667999,
+    "novel_err": 0.4785216152667999,
+    "nn_tanimoto": 0.7580645161290323
+  },
+  "mefenamic acid": {
+    "actual_log_cd": 0.6381690502166748,
+    "baseline_pred": 1.2637584209442139,
+    "winner_pred": 1.2637584209442139,
+    "baseline_err": 0.6255893707275391,
+    "novel_err": 0.6255893707275391,
+    "nn_tanimoto": 0.7142857142857143
+  },
+  "methylphenidate": {
+    "actual_log_cd": -0.3631778955459595,
+    "baseline_pred": 0.16446900367736816,
+    "winner_pred": 0.16446900367736816,
+    "baseline_err": 0.5276468992233276,
+    "novel_err": 0.5276468992233276,
+    "nn_tanimoto": 0.36486486486486486
+  },
+  "metronidazole": {
+    "actual_log_cd": 0.8129133582115173,
+    "baseline_pred": 1.0875415802001953,
+    "winner_pred": 1.0875415802001953,
+    "baseline_err": 0.274628221988678,
+    "novel_err": 0.274628221988678,
+    "nn_tanimoto": 0.6410256410256411
+  },
+  "montelukast": {
+    "actual_log_cd": 1.5440680980682373,
+    "baseline_pred": 1.0607832670211792,
+    "winner_pred": 1.0607832670211792,
+    "baseline_err": 0.4832848310470581,
+    "novel_err": 0.4832848310470581,
+    "nn_tanimoto": 0.22
+  },
+  "morphine": {
+    "actual_log_cd": 0.270678848028183,
+    "baseline_pred": 0.2955615520477295,
+    "winner_pred": 0.2955615520477295,
+    "baseline_err": 0.02488270401954651,
+    "novel_err": 0.02488270401954651,
+    "nn_tanimoto": 0.640625
+  },
+  "moxifloxacin": {
+    "actual_log_cd": 1.0107238292694092,
+    "baseline_pred": 0.9903087615966797,
+    "winner_pred": 0.9903087615966797,
+    "baseline_err": 0.020415067672729492,
+    "novel_err": 0.020415067672729492,
+    "nn_tanimoto": 0.7058823529411765
+  },
+  "nilotinib": {
+    "actual_log_cd": 0.6879746317863464,
+    "baseline_pred": 0.761012077331543,
+    "winner_pred": 0.761012077331543,
+    "baseline_err": 0.07303744554519653,
+    "novel_err": 0.07303744554519653,
+    "nn_tanimoto": 0.5168539325842697
+  },
+  "norethindrone": {
+    "actual_log_cd": 0.7191655039787292,
+    "baseline_pred": 0.3995649516582489,
+    "winner_pred": 0.3995649516582489,
+    "baseline_err": 0.31960055232048035,
+    "novel_err": 0.31960055232048035,
+    "nn_tanimoto": 0.7169811320754716
+  },
+  "oxybutynin": {
+    "actual_log_cd": -0.6989700198173523,
+    "baseline_pred": 0.20212768018245697,
+    "winner_pred": 0.20212768018245697,
+    "baseline_err": 0.9010977149009705,
+    "novel_err": 0.9010977149009705,
+    "nn_tanimoto": 0.4576271186440678
+  },
+  "paroxetine": {
+    "actual_log_cd": -0.9030900001525879,
+    "baseline_pred": -0.11691612750291824,
+    "winner_pred": -0.11691612750291824,
+    "baseline_err": 0.7861738801002502,
+    "novel_err": 0.7861738801002502,
+    "nn_tanimoto": 0.2619047619047619
+  },
+  "penicillamine": {
+    "actual_log_cd": 0.4771212637424469,
+    "baseline_pred": 1.1681474447250366,
+    "winner_pred": 1.1681474447250366,
+    "baseline_err": 0.6910262107849121,
+    "novel_err": 0.6910262107849121,
+    "nn_tanimoto": 0.2608695652173913
+  },
+  "phenytoin": {
+    "actual_log_cd": 0.4948500096797943,
+    "baseline_pred": 1.1144318580627441,
+    "winner_pred": 1.1144318580627441,
+    "baseline_err": 0.6195818185806274,
+    "novel_err": 0.6195818185806274,
+    "nn_tanimoto": 0.46875
+  },
+  "pilocarpine": {
+    "actual_log_cd": 0.1760912537574768,
+    "baseline_pred": 0.684302568435669,
+    "winner_pred": 0.684302568435669,
+    "baseline_err": 0.5082113146781921,
+    "novel_err": 0.5082113146781921,
+    "nn_tanimoto": 0.2
+  },
+  "pindolol": {
+    "actual_log_cd": 0.3437367379665375,
+    "baseline_pred": 0.5444011688232422,
+    "winner_pred": 0.5444011688232422,
+    "baseline_err": 0.2006644308567047,
+    "novel_err": 0.2006644308567047,
+    "nn_tanimoto": 0.6444444444444445
+  },
+  "pomalidomide": {
+    "actual_log_cd": 0.4240645170211792,
+    "baseline_pred": 0.8506305813789368,
+    "winner_pred": 0.8506305813789368,
+    "baseline_err": 0.42656606435775757,
+    "novel_err": 0.42656606435775757,
+    "nn_tanimoto": 0.7368421052631579
+  },
+  "ponatinib": {
+    "actual_log_cd": 0.08477481454610825,
+    "baseline_pred": 0.4972613453865051,
+    "winner_pred": 0.4972613453865051,
+    "baseline_err": 0.4124865233898163,
+    "novel_err": 0.4124865233898163,
+    "nn_tanimoto": 0.3979591836734694
+  },
+  "posaconazole": {
+    "actual_log_cd": -0.5991743206977844,
+    "baseline_pred": 0.28790509700775146,
+    "winner_pred": 0.28790509700775146,
+    "baseline_err": 0.8870794177055359,
+    "novel_err": 0.8870794177055359,
+    "nn_tanimoto": 0.2871287128712871
+  },
+  "pravastatin": {
+    "actual_log_cd": -0.2041199803352356,
+    "baseline_pred": 0.24396377801895142,
+    "winner_pred": 0.24396377801895142,
+    "baseline_err": 0.448083758354187,
+    "novel_err": 0.448083758354187,
+    "nn_tanimoto": 0.8548387096774194
+  },
+  "probenecid": {
+    "actual_log_cd": 1.2161659002304077,
+    "baseline_pred": 1.3160709142684937,
+    "winner_pred": 1.3160709142684937,
+    "baseline_err": 0.09990501403808594,
+    "novel_err": 0.09990501403808594,
+    "nn_tanimoto": 0.2978723404255319
+  },
+  "progesterone": {
+    "actual_log_cd": -0.7619538903236389,
+    "baseline_pred": 0.0687369853258133,
+    "winner_pred": 0.0687369853258133,
+    "baseline_err": 0.830690860748291,
+    "novel_err": 0.830690860748291,
+    "nn_tanimoto": 0.723404255319149
+  },
+  "quinine": {
+    "actual_log_cd": 0.6532124876976013,
+    "baseline_pred": 0.3440355360507965,
+    "winner_pred": 0.3440355360507965,
+    "baseline_err": 0.3091769516468048,
+    "novel_err": 0.3091769516468048,
+    "nn_tanimoto": 0.24242424242424243
+  },
+  "quizartinib": {
+    "actual_log_cd": 0.5198280215263367,
+    "baseline_pred": 0.3406303822994232,
+    "winner_pred": 0.3406303822994232,
+    "baseline_err": 0.17919763922691345,
+    "novel_err": 0.17919763922691345,
+    "nn_tanimoto": 0.28
+  },
+  "ramelteon": {
+    "actual_log_cd": -0.7417219877243042,
+    "baseline_pred": 0.7015202045440674,
+    "winner_pred": 0.7015202045440674,
+    "baseline_err": 1.4432421922683716,
+    "novel_err": 1.4432421922683716,
+    "nn_tanimoto": 0.49122807017543857
+  },
+  "ranitidine": {
+    "actual_log_cd": 0.1663314253091812,
+    "baseline_pred": 0.6596892476081848,
+    "winner_pred": 0.6596892476081848,
+    "baseline_err": 0.4933578372001648,
+    "novel_err": 0.4933578372001648,
+    "nn_tanimoto": 0.5932203389830508
+  },
+  "rifabutin": {
+    "actual_log_cd": -0.0791812464594841,
+    "baseline_pred": 0.13766881823539734,
+    "winner_pred": 0.13766881823539734,
+    "baseline_err": 0.21685007214546204,
+    "novel_err": 0.21685007214546204,
+    "nn_tanimoto": 0.5583333333333333
+  },
+  "rivaroxaban": {
+    "actual_log_cd": 0.5538830161094666,
+    "baseline_pred": 0.871157705783844,
+    "winner_pred": 0.871157705783844,
+    "baseline_err": 0.31727468967437744,
+    "novel_err": 0.31727468967437744,
+    "nn_tanimoto": 0.4507042253521127
+  },
+  "ruxolitinib": {
+    "actual_log_cd": -0.1878289133310318,
+    "baseline_pred": 0.5315996408462524,
+    "winner_pred": 0.5315996408462524,
+    "baseline_err": 0.719428539276123,
+    "novel_err": 0.719428539276123,
+    "nn_tanimoto": 0.4788732394366197
+  },
+  "selegiline": {
+    "actual_log_cd": -1.0,
+    "baseline_pred": 0.11867989599704742,
+    "winner_pred": 0.11867989599704742,
+    "baseline_err": 1.1186798810958862,
+    "novel_err": 1.1186798810958862,
+    "nn_tanimoto": 0.42424242424242425
+  },
+  "sildenafil": {
+    "actual_log_cd": 0.1303337663412094,
+    "baseline_pred": 0.7523345947265625,
+    "winner_pred": 0.7523345947265625,
+    "baseline_err": 0.6220008134841919,
+    "novel_err": 0.6220008134841919,
+    "nn_tanimoto": 0.5
+  },
+  "sirolimus": {
+    "actual_log_cd": 0.0791812464594841,
+    "baseline_pred": 0.5563976168632507,
+    "winner_pred": 0.5563976168632507,
+    "baseline_err": 0.47721636295318604,
+    "novel_err": 0.47721636295318604,
+    "nn_tanimoto": 0.8727272727272727
+  },
+  "sonidegib": {
+    "actual_log_cd": 0.7118072509765625,
+    "baseline_pred": 0.6322168111801147,
+    "winner_pred": 0.6322168111801147,
+    "baseline_err": 0.07959043979644775,
+    "novel_err": 0.07959043979644775,
+    "nn_tanimoto": 0.30526315789473685
+  },
+  "sumatriptan": {
+    "actual_log_cd": -1.0835460424423218,
+    "baseline_pred": 0.18209069967269897,
+    "winner_pred": 0.18209069967269897,
+    "baseline_err": 1.265636682510376,
+    "novel_err": 1.265636682510376,
+    "nn_tanimoto": 0.8541666666666666
+  },
+  "tamoxifen": {
+    "actual_log_cd": 0.3010300099849701,
+    "baseline_pred": 0.19933271408081055,
+    "winner_pred": 0.19933271408081055,
+    "baseline_err": 0.10169729590415955,
+    "novel_err": 0.10169729590415955,
+    "nn_tanimoto": 0.7380952380952381
+  },
+  "tamsulosin": {
+    "actual_log_cd": 1.4022613763809204,
+    "baseline_pred": 1.196791172027588,
+    "winner_pred": 1.196791172027588,
+    "baseline_err": 0.20547020435333252,
+    "novel_err": 0.20547020435333252,
+    "nn_tanimoto": 0.3488372093023256
+  },
+  "temozolomide": {
+    "actual_log_cd": 1.6989699602127075,
+    "baseline_pred": 1.1090315580368042,
+    "winner_pred": 1.1090315580368042,
+    "baseline_err": 0.5899384021759033,
+    "novel_err": 0.5899384021759033,
+    "nn_tanimoto": 0.2926829268292683
+  },
+  "tenofovir disoproxil": {
+    "actual_log_cd": 0.1026623398065567,
+    "baseline_pred": 0.4804806113243103,
+    "winner_pred": 0.4804806113243103,
+    "baseline_err": 0.3778182864189148,
+    "novel_err": 0.3778182864189148,
+    "nn_tanimoto": 0.6551724137931034
+  },
+  "trazodone": {
+    "actual_log_cd": 1.2095149755477905,
+    "baseline_pred": 0.7461351156234741,
+    "winner_pred": 0.7461351156234741,
+    "baseline_err": 0.4633798599243164,
+    "novel_err": 0.4633798599243164,
+    "nn_tanimoto": 0.5522388059701493
+  },
+  "triazolam": {
+    "actual_log_cd": 0.4721711575984955,
+    "baseline_pred": 1.0368834733963013,
+    "winner_pred": 1.0368834733963013,
+    "baseline_err": 0.5647122859954834,
+    "novel_err": 0.5647122859954834,
+    "nn_tanimoto": 0.5263157894736842
+  },
+  "ulipristal": {
+    "actual_log_cd": 0.7683914303779602,
+    "baseline_pred": 0.43382588028907776,
+    "winner_pred": 0.43382588028907776,
+    "baseline_err": 0.33456555008888245,
+    "novel_err": 0.33456555008888245,
+    "nn_tanimoto": 0.7313432835820896
+  },
+  "upadacitinib": {
+    "actual_log_cd": -0.26626789569854736,
+    "baseline_pred": 0.8754560351371765,
+    "winner_pred": 0.8754560351371765,
+    "baseline_err": 1.141723871231079,
+    "novel_err": 1.141723871231079,
+    "nn_tanimoto": 0.24719101123595505
+  },
+  "valganciclovir": {
+    "actual_log_cd": 0.8091855049133301,
+    "baseline_pred": 0.6339038014411926,
+    "winner_pred": 0.6339038014411926,
+    "baseline_err": 0.17528170347213745,
+    "novel_err": 0.17528170347213745,
+    "nn_tanimoto": 0.7222222222222222
+  },
+  "venlafaxine": {
+    "actual_log_cd": -0.6258628964424133,
+    "baseline_pred": 0.13188746571540833,
+    "winner_pred": 0.13188746571540833,
+    "baseline_err": 0.757750391960144,
+    "novel_err": 0.757750391960144,
+    "nn_tanimoto": 0.717948717948718
+  },
+  "vilazodone": {
+    "actual_log_cd": 0.892094612121582,
+    "baseline_pred": 0.31061655282974243,
+    "winner_pred": 0.31061655282974243,
+    "baseline_err": 0.5814780592918396,
+    "novel_err": 0.5814780592918396,
+    "nn_tanimoto": 0.2823529411764706
+  },
+  "vonoprazan": {
+    "actual_log_cd": -0.6812412142753601,
+    "baseline_pred": 1.2114957571029663,
+    "winner_pred": 1.2114957571029663,
+    "baseline_err": 1.8927369117736816,
+    "novel_err": 1.8927369117736816,
+    "nn_tanimoto": 0.24050632911392406
+  },
+  "zolpidem": {
+    "actual_log_cd": 1.0301947593688965,
+    "baseline_pred": 0.8072116374969482,
+    "winner_pred": 0.8072116374969482,
+    "baseline_err": 0.22298312187194824,
+    "novel_err": 0.22298312187194824,
+    "nn_tanimoto": 0.24561403508771928
+  },
+  "zonisamide": {
+    "actual_log_cd": 0.8239087462425232,
+    "baseline_pred": 0.8011996746063232,
+    "winner_pred": 0.8011996746063232,
+    "baseline_err": 0.02270907163619995,
+    "novel_err": 0.02270907163619995,
+    "nn_tanimoto": 0.2857142857142857
+  }
+}
