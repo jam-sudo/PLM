@@ -1,0 +1,778 @@
+{
+  "abiraterone": {
+    "actual_log_cd": -1.136677139879544,
+    "geomean_pred": -0.7039551515988215,
+    "calibrated_pred": -0.7807021890691622,
+    "offset": 0.07674703747034073,
+    "abs_err": 0.3559749508103819,
+    "signed_err": 0.3559749508103819
+  },
+  "acamprosate": {
+    "actual_log_cd": -0.8692317197309762,
+    "geomean_pred": -0.5804361804840066,
+    "calibrated_pred": -0.803838263404081,
+    "offset": 0.22340208292007446,
+    "abs_err": 0.0653934563268952,
+    "signed_err": 0.0653934563268952
+  },
+  "adefovir dipivoxil": {
+    "actual_log_cd": 0.26481782300953643,
+    "geomean_pred": 0.2584542777387162,
+    "calibrated_pred": 0.12643243335166177,
+    "offset": 0.13202184438705444,
+    "abs_err": 0.13838538965787467,
+    "signed_err": -0.13838538965787467
+  },
+  "alosetron": {
+    "actual_log_cd": 0.09691001300805642,
+    "geomean_pred": 0.20839459672503335,
+    "calibrated_pred": 0.08987701162628992,
+    "offset": 0.11851758509874344,
+    "abs_err": 0.007033001381766504,
+    "signed_err": -0.007033001381766504
+  },
+  "alprazolam": {
+    "actual_log_cd": 0.8302507433549627,
+    "geomean_pred": 1.0264523353652886,
+    "calibrated_pred": 0.8043364610748223,
+    "offset": 0.2221158742904663,
+    "abs_err": 0.025914282280140477,
+    "signed_err": -0.025914282280140477
+  },
+  "alvimopan": {
+    "actual_log_cd": -0.3396089015975329,
+    "geomean_pred": -0.2598872804696274,
+    "calibrated_pred": -0.14595638454505921,
+    "offset": -0.11393089592456818,
+    "abs_err": 0.19365251705247366,
+    "signed_err": 0.19365251705247366
+  },
+  "amantadine": {
+    "actual_log_cd": 0.026452335365288505,
+    "geomean_pred": 0.36814872907166624,
+    "calibrated_pred": 0.19002889083390379,
+    "offset": 0.17811983823776245,
+    "abs_err": 0.16357655546861527,
+    "signed_err": 0.16357655546861527
+  },
+  "apixaban": {
+    "actual_log_cd": 0.4014005407815441,
+    "geomean_pred": 0.5398716685809355,
+    "calibrated_pred": 0.5049543810524206,
+    "offset": 0.03491728752851486,
+    "abs_err": 0.10355384027087655,
+    "signed_err": 0.10355384027087655
+  },
+  "atovaquone": {
+    "actual_log_cd": 1.24551266781415,
+    "geomean_pred": 0.8197974959197435,
+    "calibrated_pred": 0.7858059691074285,
+    "offset": 0.03399152681231499,
+    "abs_err": 0.45970669870672143,
+    "signed_err": -0.45970669870672143
+  },
+  "azacitidine": {
+    "actual_log_cd": -0.31575325248468755,
+    "geomean_pred": 0.3210001161560471,
+    "calibrated_pred": 0.4118117040261681,
+    "offset": -0.090811587870121,
+    "abs_err": 0.7275649565108557,
+    "signed_err": 0.7275649565108557
+  },
+  "azithromycin": {
+    "actual_log_cd": 0.0,
+    "geomean_pred": -0.09691001300805639,
+    "calibrated_pred": -0.06556734641188215,
+    "offset": -0.03134266659617424,
+    "abs_err": 0.06556734641188215,
+    "signed_err": -0.06556734641188215
+  },
+  "brincidofovir": {
+    "actual_log_cd": 0.2535456858028001,
+    "geomean_pred": 0.12203202735709288,
+    "calibrated_pred": 0.37033138763236145,
+    "offset": -0.24829936027526855,
+    "abs_err": 0.11678570182956133,
+    "signed_err": 0.11678570182956133
+  },
+  "budesonide": {
+    "actual_log_cd": -0.3010299956639812,
+    "geomean_pred": -0.11148458371697696,
+    "calibrated_pred": -0.17293243507682116,
+    "offset": 0.06144785135984421,
+    "abs_err": 0.12809756058716004,
+    "signed_err": 0.12809756058716004
+  },
+  "cabozantinib": {
+    "actual_log_cd": 1.845098040014257,
+    "geomean_pred": 1.0716094689135431,
+    "calibrated_pred": 1.0892441140179514,
+    "offset": -0.017634645104408264,
+    "abs_err": 0.7558539259963055,
+    "signed_err": -0.7558539259963055
+  },
+  "carbamazepine": {
+    "actual_log_cd": 0.22184874961635637,
+    "geomean_pred": 0.8967798907292774,
+    "calibrated_pred": 0.7598892409337452,
+    "offset": 0.13689064979553223,
+    "abs_err": 0.5380404913173888,
+    "signed_err": 0.5380404913173888
+  },
+  "carbinoxamine": {
+    "actual_log_cd": 0.47712125471966244,
+    "geomean_pred": 0.7476793495620981,
+    "calibrated_pred": 0.5572653082813517,
+    "offset": 0.19041404128074646,
+    "abs_err": 0.08014405356168924,
+    "signed_err": 0.08014405356168924
+  },
+  "levocetirizine": {
+    "actual_log_cd": 1.1760912590556813,
+    "geomean_pred": 1.4535942299577602,
+    "calibrated_pred": 1.360957674524487,
+    "offset": 0.09263655543327332,
+    "abs_err": 0.18486641546880556,
+    "signed_err": 0.18486641546880556
+  },
+  "cimetidine": {
+    "actual_log_cd": 0.7687167036548979,
+    "geomean_pred": 0.7039501209336644,
+    "calibrated_pred": 0.5505226392823582,
+    "offset": 0.15342748165130615,
+    "abs_err": 0.21819406437253963,
+    "signed_err": -0.21819406437253963
+  },
+  "ciprofloxacin": {
+    "actual_log_cd": 1.7737864449811935,
+    "geomean_pred": 0.7781512503836435,
+    "calibrated_pred": 0.714804439744739,
+    "offset": 0.06334681063890457,
+    "abs_err": 1.0589820052364547,
+    "signed_err": -1.0589820052364547
+  },
+  "clomipramine": {
+    "actual_log_cd": 0.08872656395385518,
+    "geomean_pred": -0.05526376747195642,
+    "calibrated_pred": -0.23067040227954308,
+    "offset": 0.17540663480758667,
+    "abs_err": 0.31939696623339825,
+    "signed_err": -0.31939696623339825
+  },
+  "clonidine": {
+    "actual_log_cd": 0.12571976396179552,
+    "geomean_pred": 0.5187675002557625,
+    "calibrated_pred": 0.3447941783410896,
+    "offset": 0.17397332191467285,
+    "abs_err": 0.2190744143792941,
+    "signed_err": 0.2190744143792941
+  },
+  "clopidogrel": {
+    "actual_log_cd": 0.0,
+    "geomean_pred": 0.12265892843153144,
+    "calibrated_pred": 0.5509934029951301,
+    "offset": -0.42833447456359863,
+    "abs_err": 0.5509934029951301,
+    "signed_err": 0.5509934029951301
+  },
+  "clozapine": {
+    "actual_log_cd": 0.7408887882647011,
+    "geomean_pred": 0.28684587876882667,
+    "calibrated_pred": 0.2115230644830715,
+    "offset": 0.07532281428575516,
+    "abs_err": 0.5293657237816296,
+    "signed_err": -0.5293657237816296
+  },
+  "codeine": {
+    "actual_log_cd": 0.06383355420647029,
+    "geomean_pred": 0.33516477018114,
+    "calibrated_pred": 0.2881572392534819,
+    "offset": 0.04700753092765808,
+    "abs_err": 0.2243236850470116,
+    "signed_err": 0.2243236850470116
+  },
+  "colchicine": {
+    "actual_log_cd": 0.3979400086720376,
+    "geomean_pred": 0.4507275060371208,
+    "calibrated_pred": 0.3637911886528778,
+    "offset": 0.08693631738424301,
+    "abs_err": 0.03414882001915981,
+    "signed_err": -0.03414882001915981
+  },
+  "dalfampridine": {
+    "actual_log_cd": 0.630427875025024,
+    "geomean_pred": 0.39794000867203766,
+    "calibrated_pred": 0.1705389011223703,
+    "offset": 0.22740110754966736,
+    "abs_err": 0.45988897390265365,
+    "signed_err": -0.45988897390265365
+  },
+  "dapagliflozin": {
+    "actual_log_cd": 0.38670937350054196,
+    "geomean_pred": 1.0992155754518667,
+    "calibrated_pred": 1.136950471396462,
+    "offset": -0.03773489594459534,
+    "abs_err": 0.75024109789592,
+    "signed_err": 0.75024109789592
+  },
+  "darolutamide": {
+    "actual_log_cd": 0.9021842630309196,
+    "geomean_pred": 0.88410226327144,
+    "calibrated_pred": 0.7961634330149779,
+    "offset": 0.0879388302564621,
+    "abs_err": 0.10602083001594165,
+    "signed_err": -0.10602083001594165
+  },
+  "dasatinib": {
+    "actual_log_cd": -0.08512818245994969,
+    "geomean_pred": 0.014126199379958728,
+    "calibrated_pred": -0.043167588218651194,
+    "offset": 0.057293787598609924,
+    "abs_err": 0.04196059424129849,
+    "signed_err": 0.04196059424129849
+  },
+  "diclofenac": {
+    "actual_log_cd": 0.5228787452803376,
+    "geomean_pred": 1.2033429736664125,
+    "calibrated_pred": 1.1088045979311296,
+    "offset": 0.0945383757352829,
+    "abs_err": 0.585925852650792,
+    "signed_err": 0.585925852650792
+  },
+  "digoxin": {
+    "actual_log_cd": 0.17609125905568124,
+    "geomean_pred": 0.20248500773822284,
+    "calibrated_pred": 0.36691881487285116,
+    "offset": -0.1644338071346283,
+    "abs_err": 0.19082755581716992,
+    "signed_err": 0.19082755581716992
+  },
+  "donepezil": {
+    "actual_log_cd": -0.11350927482751812,
+    "geomean_pred": 0.2500408422611334,
+    "calibrated_pred": 0.197019172873316,
+    "offset": 0.05302166938781738,
+    "abs_err": 0.3105284477008341,
+    "signed_err": 0.3105284477008341
+  },
+  "erythromycin": {
+    "actual_log_cd": 0.5530087057273627,
+    "geomean_pred": 0.46713351359384797,
+    "calibrated_pred": 0.5026974370123698,
+    "offset": -0.03556392341852188,
+    "abs_err": 0.05031126871499292,
+    "signed_err": -0.05031126871499292
+  },
+  "etodolac": {
+    "actual_log_cd": 1.9003671286564703,
+    "geomean_pred": 1.7811361979346192,
+    "calibrated_pred": 1.736207930336467,
+    "offset": 0.04492826759815216,
+    "abs_err": 0.16415919832000325,
+    "signed_err": -0.16415919832000325
+  },
+  "famotidine": {
+    "actual_log_cd": 0.2612628687924935,
+    "geomean_pred": 0.3146475175998376,
+    "calibrated_pred": 0.2077539334676431,
+    "offset": 0.10689358413219452,
+    "abs_err": 0.053508935324850404,
+    "signed_err": -0.053508935324850404
+  },
+  "febuxostat": {
+    "actual_log_cd": 0.7958800173440752,
+    "geomean_pred": 1.337787987185994,
+    "calibrated_pred": 1.2304217754736335,
+    "offset": 0.10736621171236038,
+    "abs_err": 0.4345417581295583,
+    "signed_err": 0.4345417581295583
+  },
+  "fesoterodine": {
+    "actual_log_cd": -0.6266281828186995,
+    "geomean_pred": -0.3010299956639812,
+    "calibrated_pred": -0.4520908152898357,
+    "offset": 0.1510608196258545,
+    "abs_err": 0.17453736752886378,
+    "signed_err": 0.17453736752886378
+  },
+  "fluvoxamine": {
+    "actual_log_cd": -0.8239087409443188,
+    "geomean_pred": -0.30312976405719777,
+    "calibrated_pred": -0.42047939614156743,
+    "offset": 0.11734963208436966,
+    "abs_err": 0.40342934480275133,
+    "signed_err": 0.40342934480275133
+  },
+  "fruquintinib": {
+    "actual_log_cd": 1.4510184521554574,
+    "geomean_pred": 1.5681216787409085,
+    "calibrated_pred": 1.5221268828820484,
+    "offset": 0.045994795858860016,
+    "abs_err": 0.07110843072659101,
+    "signed_err": 0.07110843072659101
+  },
+  "glasdegib": {
+    "actual_log_cd": 0.9215130698187296,
+    "geomean_pred": 0.9149091649655646,
+    "calibrated_pred": 0.8159346837405509,
+    "offset": 0.09897448122501373,
+    "abs_err": 0.10557838607817871,
+    "signed_err": -0.10557838607817871
+  },
+  "hydroxyzine": {
+    "actual_log_cd": -0.19145101446489543,
+    "geomean_pred": 0.18651351195551338,
+    "calibrated_pred": 0.04715192180849495,
+    "offset": 0.13936159014701843,
+    "abs_err": 0.23860293627339038,
+    "signed_err": 0.23860293627339038
+  },
+  "indomethacin": {
+    "actual_log_cd": 1.187520720836463,
+    "geomean_pred": 1.5317401889325524,
+    "calibrated_pred": 1.4853366169692421,
+    "offset": 0.04640357196331024,
+    "abs_err": 0.29781589613277903,
+    "signed_err": 0.29781589613277903
+  },
+  "isosorbide mononitrate": {
+    "actual_log_cd": 1.492061604512599,
+    "geomean_pred": 1.1636558326057942,
+    "calibrated_pred": 0.989175215559438,
+    "offset": 0.1744806170463562,
+    "abs_err": 0.502886388953161,
+    "signed_err": -0.502886388953161
+  },
+  "itraconazole": {
+    "actual_log_cd": 0.3979400086720376,
+    "geomean_pred": 0.12445727239376686,
+    "calibrated_pred": 0.14999690900570534,
+    "offset": -0.025539636611938477,
+    "abs_err": 0.24794309966633227,
+    "signed_err": -0.24794309966633227
+  },
+  "ketoconazole": {
+    "actual_log_cd": 0.5740312677277188,
+    "geomean_pred": 1.0192953017021165,
+    "calibrated_pred": 1.0234465193415627,
+    "offset": -0.0041512176394462585,
+    "abs_err": 0.4494152516138439,
+    "signed_err": 0.4494152516138439
+  },
+  "ketorolac": {
+    "actual_log_cd": 1.4259687322722812,
+    "geomean_pred": 1.836251367529577,
+    "calibrated_pred": 1.7371446981036127,
+    "offset": 0.09910666942596436,
+    "abs_err": 0.31117596583133156,
+    "signed_err": 0.31117596583133156
+  },
+  "lamivudine": {
+    "actual_log_cd": 0.49291552190289434,
+    "geomean_pred": 0.8919487351629604,
+    "calibrated_pred": 0.7676084021184314,
+    "offset": 0.12434033304452896,
+    "abs_err": 0.27469288021553706,
+    "signed_err": 0.27469288021553706
+  },
+  "lenacapavir": {
+    "actual_log_cd": -1.4089353929735007,
+    "geomean_pred": -0.8995729164016569,
+    "calibrated_pred": -0.8456568718684042,
+    "offset": -0.053916044533252716,
+    "abs_err": 0.5632785211050965,
+    "signed_err": 0.5632785211050965
+  },
+  "levofloxacin": {
+    "actual_log_cd": 0.7923916894982539,
+    "geomean_pred": 1.0250727930371786,
+    "calibrated_pred": 0.9734618314807439,
+    "offset": 0.05161096155643463,
+    "abs_err": 0.18107014198249005,
+    "signed_err": 0.18107014198249005
+  },
+  "lorlatinib": {
+    "actual_log_cd": 0.7000977046130538,
+    "geomean_pred": 0.8123180516099389,
+    "calibrated_pred": 0.7671147234773095,
+    "offset": 0.045203328132629395,
+    "abs_err": 0.0670170188642557,
+    "signed_err": 0.0670170188642557
+  },
+  "losartan": {
+    "actual_log_cd": 0.04921802267018165,
+    "geomean_pred": 0.5380880957862351,
+    "calibrated_pred": 0.5058464346846554,
+    "offset": 0.032241661101579666,
+    "abs_err": 0.45662841201447374,
+    "signed_err": 0.45662841201447374
+  },
+  "mefenamic acid": {
+    "actual_log_cd": 0.6381690589202689,
+    "geomean_pred": 1.3010299956639813,
+    "calibrated_pred": 1.1902084877928303,
+    "offset": 0.11082150787115097,
+    "abs_err": 0.5520394288725614,
+    "signed_err": 0.5520394288725614
+  },
+  "methylphenidate": {
+    "actual_log_cd": -0.3631779024128257,
+    "geomean_pred": -0.3336619709938837,
+    "calibrated_pred": -0.4563843508571459,
+    "offset": 0.12272237986326218,
+    "abs_err": 0.09320644844432019,
+    "signed_err": -0.09320644844432019
+  },
+  "metronidazole": {
+    "actual_log_cd": 0.8129133566428556,
+    "geomean_pred": 1.3010299956639813,
+    "calibrated_pred": 1.0960997199853466,
+    "offset": 0.20493027567863464,
+    "abs_err": 0.28318636334249103,
+    "signed_err": 0.28318636334249103
+  },
+  "montelukast": {
+    "actual_log_cd": 1.5440680443502757,
+    "geomean_pred": 1.6154457040432684,
+    "calibrated_pred": 1.6165466986898176,
+    "offset": -0.0011009946465492249,
+    "abs_err": 0.07247865433954193,
+    "signed_err": 0.07247865433954193
+  },
+  "morphine": {
+    "actual_log_cd": 0.27067883614470634,
+    "geomean_pred": 0.17609125905568124,
+    "calibrated_pred": 0.1378291190498543,
+    "offset": 0.03826214000582695,
+    "abs_err": 0.13284971709485205,
+    "signed_err": -0.13284971709485205
+  },
+  "moxifloxacin": {
+    "actual_log_cd": 1.0107238653917732,
+    "geomean_pred": 0.9114665808401892,
+    "calibrated_pred": 0.9028136069200823,
+    "offset": 0.008652973920106888,
+    "abs_err": 0.10791025847169089,
+    "signed_err": -0.10791025847169089
+  },
+  "nilotinib": {
+    "actual_log_cd": 0.6879746200345556,
+    "geomean_pred": 0.6963036409835041,
+    "calibrated_pred": 0.6289372421125591,
+    "offset": 0.06736639887094498,
+    "abs_err": 0.05903737792199648,
+    "signed_err": -0.05903737792199648
+  },
+  "norethindrone": {
+    "actual_log_cd": 0.7191654940892134,
+    "geomean_pred": 0.7042016671781915,
+    "calibrated_pred": 0.5880926312690157,
+    "offset": 0.11610903590917587,
+    "abs_err": 0.1310728628201977,
+    "signed_err": -0.1310728628201977
+  },
+  "oxybutynin": {
+    "actual_log_cd": -0.6989700043360187,
+    "geomean_pred": 0.16247373711982482,
+    "calibrated_pred": 0.04067840319791549,
+    "offset": 0.12179533392190933,
+    "abs_err": 0.7396484075339342,
+    "signed_err": 0.7396484075339342
+  },
+  "paroxetine": {
+    "actual_log_cd": -0.9030899869919435,
+    "geomean_pred": 0.18558488513208807,
+    "calibrated_pred": 0.11038994516111791,
+    "offset": 0.07519493997097015,
+    "abs_err": 1.0134799321530614,
+    "signed_err": 1.0134799321530614
+  },
+  "penicillamine": {
+    "actual_log_cd": 0.47712125471966244,
+    "geomean_pred": 0.6830726742233938,
+    "calibrated_pred": 0.5890816851939863,
+    "offset": 0.0939909890294075,
+    "abs_err": 0.11196043047432386,
+    "signed_err": 0.11196043047432386
+  },
+  "phenytoin": {
+    "actual_log_cd": 0.49485002168009407,
+    "geomean_pred": 0.9073646010610522,
+    "calibrated_pred": 0.8044837059232653,
+    "offset": 0.10288089513778687,
+    "abs_err": 0.3096336842431713,
+    "signed_err": 0.3096336842431713
+  },
+  "pilocarpine": {
+    "actual_log_cd": 0.17609125905568124,
+    "geomean_pred": 0.318080836479775,
+    "calibrated_pred": 0.19264128202687886,
+    "offset": 0.12543955445289612,
+    "abs_err": 0.01655002297119762,
+    "signed_err": 0.01655002297119762
+  },
+  "pindolol": {
+    "actual_log_cd": 0.3437367347200374,
+    "geomean_pred": 0.6583921387583227,
+    "calibrated_pred": 0.6086671650201292,
+    "offset": 0.04972497373819351,
+    "abs_err": 0.2649304303000918,
+    "signed_err": 0.2649304303000918
+  },
+  "pomalidomide": {
+    "actual_log_cd": 0.4240645254174879,
+    "geomean_pred": 0.8750612633917001,
+    "calibrated_pred": 0.7379308837148812,
+    "offset": 0.13713037967681885,
+    "abs_err": 0.31386635829739334,
+    "signed_err": 0.31386635829739334
+  },
+  "ponatinib": {
+    "actual_log_cd": 0.08477481255808707,
+    "geomean_pred": 0.21402314743552694,
+    "calibrated_pred": 0.09762274912152777,
+    "offset": 0.11640039831399918,
+    "abs_err": 0.012847936563440701,
+    "signed_err": 0.012847936563440701
+  },
+  "posaconazole": {
+    "actual_log_cd": -0.5991743030904743,
+    "geomean_pred": 0.5173456580071837,
+    "calibrated_pred": 0.6386729241042525,
+    "offset": -0.12132726609706879,
+    "abs_err": 1.2378472271947267,
+    "signed_err": 1.2378472271947267
+  },
+  "pravastatin": {
+    "actual_log_cd": -0.2041199826559248,
+    "geomean_pred": 0.09545507787390639,
+    "calibrated_pred": 0.06134771688505103,
+    "offset": 0.03410736098885536,
+    "abs_err": 0.2654676995409758,
+    "signed_err": 0.2654676995409758
+  },
+  "probenecid": {
+    "actual_log_cd": 1.216165902285993,
+    "geomean_pred": 1.8750612633917,
+    "calibrated_pred": 1.729151328155723,
+    "offset": 0.14590993523597717,
+    "abs_err": 0.51298542586973,
+    "signed_err": 0.51298542586973
+  },
+  "progesterone": {
+    "actual_log_cd": -0.7619538968712045,
+    "geomean_pred": -0.8239087409443188,
+    "calibrated_pred": -1.0232639259762095,
+    "offset": 0.19935518503189087,
+    "abs_err": 0.261310029105005,
+    "signed_err": -0.261310029105005
+  },
+  "quinine": {
+    "actual_log_cd": 0.6532125137753437,
+    "geomean_pred": 0.7938498641612894,
+    "calibrated_pred": 0.767926381087578,
+    "offset": 0.025923483073711395,
+    "abs_err": 0.11471386731223432,
+    "signed_err": 0.11471386731223432
+  },
+  "quizartinib": {
+    "actual_log_cd": 0.5198279937757188,
+    "geomean_pred": 0.8312301187176185,
+    "calibrated_pred": 0.8995070381421524,
+    "offset": -0.06827691942453384,
+    "abs_err": 0.3796790443664336,
+    "signed_err": 0.3796790443664336
+  },
+  "ramelteon": {
+    "actual_log_cd": -0.7417219847569687,
+    "geomean_pred": -0.8815844923234893,
+    "calibrated_pred": -0.9057649493194534,
+    "offset": 0.02418045699596405,
+    "abs_err": 0.16404296456248468,
+    "signed_err": -0.16404296456248468
+  },
+  "ranitidine": {
+    "actual_log_cd": 0.16633142176652496,
+    "geomean_pred": 0.2981532182812524,
+    "calibrated_pred": 0.18645763809679272,
+    "offset": 0.11169558018445969,
+    "abs_err": 0.02012621633026776,
+    "signed_err": 0.02012621633026776
+  },
+  "rifabutin": {
+    "actual_log_cd": -0.07918124604762482,
+    "geomean_pred": -0.07918124604762482,
+    "calibrated_pred": 0.05563006591259552,
+    "offset": -0.13481131196022034,
+    "abs_err": 0.13481131196022034,
+    "signed_err": 0.13481131196022034
+  },
+  "rivaroxaban": {
+    "actual_log_cd": 0.5538830266438743,
+    "geomean_pred": 0.9719712763997564,
+    "calibrated_pred": 0.8803617984029303,
+    "offset": 0.09160947799682617,
+    "abs_err": 0.32647877175905593,
+    "signed_err": 0.32647877175905593
+  },
+  "ruxolitinib": {
+    "actual_log_cd": -0.18782891867262733,
+    "geomean_pred": 1.2895873194040166,
+    "calibrated_pred": 1.179785825818907,
+    "offset": 0.10980149358510971,
+    "abs_err": 1.3676147444915343,
+    "signed_err": 1.3676147444915343
+  },
+  "selegiline": {
+    "actual_log_cd": -1.0,
+    "geomean_pred": -0.6343633289973146,
+    "calibrated_pred": -0.9073979314009554,
+    "offset": 0.27303460240364075,
+    "abs_err": 0.09260206859904463,
+    "signed_err": 0.09260206859904463
+  },
+  "sildenafil": {
+    "actual_log_cd": 0.13033376849500614,
+    "geomean_pred": 0.6532125137753437,
+    "calibrated_pred": 0.5976399742073963,
+    "offset": 0.05557253956794739,
+    "abs_err": 0.46730620571239023,
+    "signed_err": 0.46730620571239023
+  },
+  "sirolimus": {
+    "actual_log_cd": 0.07918124604762482,
+    "geomean_pred": 0.47712125471966244,
+    "calibrated_pred": 0.4981092385126827,
+    "offset": -0.02098798379302025,
+    "abs_err": 0.41892799246505785,
+    "signed_err": 0.41892799246505785
+  },
+  "sonidegib": {
+    "actual_log_cd": 0.711807229041191,
+    "geomean_pred": 0.3087379286130271,
+    "calibrated_pred": 0.2791179703613124,
+    "offset": 0.029619958251714706,
+    "abs_err": 0.43268925867987856,
+    "signed_err": -0.43268925867987856
+  },
+  "sumatriptan": {
+    "actual_log_cd": -1.083546051450075,
+    "geomean_pred": -0.19953315307281863,
+    "calibrated_pred": -0.3539382701077307,
+    "offset": 0.1544051170349121,
+    "abs_err": 0.7296077813423443,
+    "signed_err": 0.7296077813423443
+  },
+  "tamoxifen": {
+    "actual_log_cd": 0.3010299956639812,
+    "geomean_pred": 0.3010299956639812,
+    "calibrated_pred": 0.1819353779991672,
+    "offset": 0.119094617664814,
+    "abs_err": 0.119094617664814,
+    "signed_err": -0.119094617664814
+  },
+  "tamsulosin": {
+    "actual_log_cd": 1.4022613824546801,
+    "geomean_pred": 1.4243337573545791,
+    "calibrated_pred": 1.337285241677127,
+    "offset": 0.08704851567745209,
+    "abs_err": 0.06497614077755309,
+    "signed_err": -0.06497614077755309
+  },
+  "temozolomide": {
+    "actual_log_cd": 1.6989700043360187,
+    "geomean_pred": 1.6989700043360187,
+    "calibrated_pred": 1.495720102802892,
+    "offset": 0.20324990153312683,
+    "abs_err": 0.20324990153312683,
+    "signed_err": -0.20324990153312683
+  },
+  "tenofovir disoproxil": {
+    "actual_log_cd": 0.1026623418971477,
+    "geomean_pred": 0.0,
+    "calibrated_pred": -0.12428111582994461,
+    "offset": 0.12428111582994461,
+    "abs_err": 0.2269434577270923,
+    "signed_err": -0.2269434577270923
+  },
+  "trazodone": {
+    "actual_log_cd": 1.209515014542631,
+    "geomean_pred": 1.0227286205820538,
+    "calibrated_pred": 0.894777117782066,
+    "offset": 0.1279515027999878,
+    "abs_err": 0.31473789676056496,
+    "signed_err": -0.31473789676056496
+  },
+  "triazolam": {
+    "actual_log_cd": 0.47217114669236315,
+    "geomean_pred": 0.7781512503836435,
+    "calibrated_pred": 0.556065029403953,
+    "offset": 0.22208622097969055,
+    "abs_err": 0.08389388271158982,
+    "signed_err": 0.08389388271158982
+  },
+  "ulipristal": {
+    "actual_log_cd": 0.7683914130944873,
+    "geomean_pred": 0.7252207047585996,
+    "calibrated_pred": 0.641090000355676,
+    "offset": 0.08413070440292358,
+    "abs_err": 0.12730141273881135,
+    "signed_err": -0.12730141273881135
+  },
+  "upadacitinib": {
+    "actual_log_cd": -0.26626788940476925,
+    "geomean_pred": 0.3678811318890083,
+    "calibrated_pred": 0.27189130109705806,
+    "offset": 0.09598983079195023,
+    "abs_err": 0.5381591905018273,
+    "signed_err": 0.5381591905018273
+  },
+  "valganciclovir": {
+    "actual_log_cd": 0.8091854841236124,
+    "geomean_pred": 0.8203920134998827,
+    "calibrated_pred": 0.7739889928795366,
+    "offset": 0.04640302062034607,
+    "abs_err": 0.035196491244075756,
+    "signed_err": -0.035196491244075756
+  },
+  "venlafaxine": {
+    "actual_log_cd": -0.6258629060005871,
+    "geomean_pred": 0.11739417270378749,
+    "calibrated_pred": 0.030686580693289445,
+    "offset": 0.08670759201049805,
+    "abs_err": 0.6565494866938766,
+    "signed_err": 0.6565494866938766
+  },
+  "vilazodone": {
+    "actual_log_cd": 0.8920946026904804,
+    "geomean_pred": 0.3826875118184792,
+    "calibrated_pred": 0.34851714126951566,
+    "offset": 0.03417037054896355,
+    "abs_err": 0.5435774614209647,
+    "signed_err": -0.5435774614209647
+  },
+  "vonoprazan": {
+    "actual_log_cd": -0.6812412373755872,
+    "geomean_pred": 0.43958625420813763,
+    "calibrated_pred": 0.32006753459458553,
+    "offset": 0.1195187196135521,
+    "abs_err": 1.0013087719701728,
+    "signed_err": 1.0013087719701728
+  },
+  "zolpidem": {
+    "actual_log_cd": 1.0301947853567512,
+    "geomean_pred": 1.041970156104704,
+    "calibrated_pred": 0.8566549345566234,
+    "offset": 0.18531522154808044,
+    "abs_err": 0.1735398508001278,
+    "signed_err": -0.1735398508001278
+  },
+  "zonisamide": {
+    "actual_log_cd": 0.8239087409443188,
+    "geomean_pred": 1.1249387366083,
+    "calibrated_pred": 0.9226083857324454,
+    "offset": 0.2023303508758545,
+    "abs_err": 0.09869964478812665,
+    "signed_err": 0.09869964478812665
+  }
+}

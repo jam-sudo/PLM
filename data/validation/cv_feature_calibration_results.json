@@ -1,0 +1,27 @@
+{
+  "method": "CV-validated Lasso calibrator",
+  "n_training": 797,
+  "n_ho": 97,
+  "best_alpha": 0.01,
+  "cv_aafe_training": 2.512,
+  "ho_aafe": 2.043,
+  "ho_bias": 0.135,
+  "selected_features": {
+    "std": -0.0951,
+    "log_dose": -0.0059,
+    "MW": -0.0267,
+    "LogP": -0.0006,
+    "HBD": -0.0532,
+    "RingCount": -0.033,
+    "Charge": 0.0156,
+    "MinPC": 0.0383
+  },
+  "intercept": -0.0181,
+  "comparison": {
+    "plm_baseline": 3.355,
+    "sisyphus_meta_sota": 2.283,
+    "llm_raw_geomean": 2.127,
+    "llm_std_adaptive": 2.062,
+    "llm_lasso_cv": 2.043
+  }
+}
