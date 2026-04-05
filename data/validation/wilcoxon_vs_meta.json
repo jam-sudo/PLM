@@ -1,0 +1,15 @@
+{
+  "n_paired": 97,
+  "aafe_ours": 2.043,
+  "aafe_meta": 2.19,
+  "wilcoxon_two_sided_p": 0.4908,
+  "wilcoxon_one_sided_p_ours_lower": 0.2454,
+  "wins": 52,
+  "losses": 45,
+  "ties": 0,
+  "bootstrap_diff_mean": -0.138,
+  "bootstrap_diff_95ci": [
+    -0.508,
+    0.205
+  ]
+}

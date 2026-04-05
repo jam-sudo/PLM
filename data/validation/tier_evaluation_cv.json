@@ -1,0 +1,43 @@
+{
+  "original": {
+    "ours": 2.043,
+    "meta": 2.19,
+    "n": 97,
+    "delta": -0.148
+  },
+  "tier1": {
+    "ours": 2.021,
+    "meta": 2.176,
+    "n": 96,
+    "excluded": [
+      "cabozantinib"
+    ]
+  },
+  "tier2": {
+    "ours": 1.943,
+    "meta": 2.136,
+    "n": 93,
+    "excluded": [
+      "paroxetine",
+      "sumatriptan",
+      "cabozantinib",
+      "dapagliflozin"
+    ]
+  },
+  "tier3": {
+    "ours": 1.903,
+    "meta": 2.0,
+    "n": 88,
+    "excluded": [
+      "posaconazole",
+      "dapagliflozin",
+      "sumatriptan",
+      "paroxetine",
+      "cabozantinib",
+      "budesonide",
+      "oxybutynin",
+      "dasatinib",
+      "methylphenidate"
+    ]
+  }
+}
