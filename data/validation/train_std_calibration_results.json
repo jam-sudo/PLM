@@ -1,0 +1,22 @@
+{
+  "training_stats": {
+    "n": 797,
+    "residual_mean": -0.018,
+    "residual_median": -0.045,
+    "residual_std": 0.559,
+    "std_median": 0.217
+  },
+  "calibrator_coefs": {
+    "const_mean": -0.018,
+    "const_median": -0.045,
+    "linear_a": 0.136,
+    "linear_b": -0.565
+  },
+  "ho_results": {
+    "raw_geomean": 2.127,
+    "const_offset": 2.171,
+    "median_offset": 2.247,
+    "std_adaptive_linear": 2.062,
+    "std_adaptive_binned": 2.103
+  }
+}
