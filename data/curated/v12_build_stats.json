@@ -1,0 +1,69 @@
+{
+  "version": "v12",
+  "build_date": "2026-04-06",
+  "sources": {
+    "v10_combined": 4255,
+    "fda_regex": 991,
+    "llm_extraction": 1169,
+    "external_integrated": 8018
+  },
+  "total_raw": 14433,
+  "total_deduped": 12459,
+  "duplicates_removed": 1974,
+  "unique_drugs": 9307,
+  "tier_breakdown": {
+    "T1": 3625,
+    "T2": 788,
+    "T3": 54,
+    "T4": 7992
+  },
+  "source_breakdown": {
+    "Sisyphus_MMPK": 3625,
+    "PLM_FDA": 575,
+    "FDA_LLM": 213,
+    "FDA_regex": 54,
+    "ChEMBL": 7992
+  },
+  "with_log_cd": 12459,
+  "cross_validation_summary": {
+    "FDA_LLM_vs_FDA_regex": {
+      "n": 2326,
+      "aafe": 2.675,
+      "median_fold_error": 1.488,
+      "mean_log_ratio": -0.174,
+      "within_2fold_pct": 61.3,
+      "within_3fold_pct": 70.9,
+      "n_unique_drugs": 90
+    },
+    "FDA_LLM_vs_Sisyphus": {
+      "n": 327,
+      "aafe": 1.662,
+      "median_fold_error": 1.355,
+      "mean_log_ratio": -0.0103,
+      "within_2fold_pct": 76.5,
+      "within_3fold_pct": 89.0,
+      "n_unique_drugs": 65
+    },
+    "FDA_regex_vs_Sisyphus": {
+      "n": 185,
+      "aafe": 2.83,
+      "median_fold_error": 1.785,
+      "mean_log_ratio": 0.237,
+      "within_2fold_pct": 56.8,
+      "within_3fold_pct": 70.8,
+      "n_unique_drugs": 23
+    },
+    "FDA_LLM_vs_ChEMBL": {
+      "n": 0
+    },
+    "any_pair": {
+      "n": 3785,
+      "aafe": 3.54,
+      "median_fold_error": 1.845,
+      "mean_log_ratio": -0.1641,
+      "within_2fold_pct": 52.3,
+      "within_3fold_pct": 62.2,
+      "n_unique_drugs": 171
+    }
+  }
+}
