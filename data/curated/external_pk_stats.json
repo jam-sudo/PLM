@@ -1,0 +1,28 @@
+{
+  "sources": {
+    "fda_table_parser": {
+      "total": 1585,
+      "with_smiles": 1254,
+      "new_drugs": 80,
+      "enriched_existing": 1174
+    },
+    "llm_extraction": {
+      "total": 1333,
+      "with_smiles": 1184,
+      "new_drugs": 120
+    },
+    "chembl": {
+      "total": 8002,
+      "with_cmax": 8002,
+      "new_drugs": 7996
+    },
+    "pkdb": {
+      "total_fetched": 0,
+      "parsed": 0,
+      "new_drugs": 0
+    }
+  },
+  "total_new_drugs": 8018,
+  "total_new_tuples": 8196,
+  "total_enriched": 1174
+}

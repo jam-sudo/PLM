@@ -1,0 +1,13 @@
+{
+  "n_drugs": 800,
+  "fp_bits": 2048,
+  "fp_radius": 2,
+  "min_similarity": 0.15,
+  "top_k": 5,
+  "build_stats": {
+    "total": 801,
+    "added": 800,
+    "skipped_ho": 0,
+    "skipped_invalid": 1
+  }
+}
