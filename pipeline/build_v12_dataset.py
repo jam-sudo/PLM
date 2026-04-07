@@ -181,14 +181,27 @@ def load_llm_extraction() -> List[Dict]:
 
 
 def load_external_integrated() -> List[Dict]:
-    """Load external integrated data (ChEMBL, PK-DB, etc.)."""
+    """Load external integrated data (FDA-sourced only).
+
+    ChEMBL excluded: Cmax values are back-calculated (10^log_cd × dose),
+    not directly measured. 72% single-record, 100% no drug name,
+    systematic +1.07 log(C/D) bias vs Sisyphus. See audit 2026-04-07.
+    """
     path = Path('data/curated/external_pk_integrated.json')
     if not path.exists():
         return []
     with open(path) as f:
         data = json.load(f)
     entries = []
+    skipped_chembl = 0
     for e in data:
+        src = e.get('source', '')
+        all_src = str(e.get('all_sources', ''))
+        # EXCLUDE ChEMBL — back-calculated Cmax, not measured
+        if 'ChEMBL' in src or 'ChEMBL' in all_src or 'CHEMBL' in src:
+            skipped_chembl += 1
+            continue
+
         smiles = e.get('smiles', '')
         cmax = e.get('cmax_ng_ml') or e.get('cmax_ngml')
         dose = e.get('dose_mg')
@@ -197,13 +210,6 @@ def load_external_integrated() -> List[Dict]:
         ik = e.get('inchikey14') or smiles_to_ik14(smiles)
         if not ik:
             continue
-        src = e.get('source', '')
-        if 'ChEMBL' in src:
-            tier = 'T4'
-        elif 'FDA' in src:
-            tier = 'T3'
-        else:
-            tier = 'T4'
         entries.append({
             'smiles': smiles,
             'dose_mg': dose,
@@ -211,13 +217,15 @@ def load_external_integrated() -> List[Dict]:
             'drug': e.get('drug_name', ''),
             'inchikey14': ik,
             'source': src,
-            'tier': tier,
+            'tier': 'T3',  # All non-ChEMBL external = FDA-derived
             'route': e.get('route', ''),
             'formulation': e.get('formulation', ''),
             'food': e.get('food', ''),
             'population': e.get('population', ''),
             'dose_schedule': e.get('dose_schedule', ''),
         })
+    if skipped_chembl:
+        print(f"  (Excluded {skipped_chembl} ChEMBL entries — back-calculated Cmax)")
     return entries
 
 
@@ -475,6 +483,42 @@ def main():
     # Combine all
     all_entries = v10 + fda_regex + llm_ext + external
     print(f"\n  Total raw entries: {len(all_entries)}")
+
+    # ── Outlier removal ──
+    print("\n[4.5/6] Removing outliers...")
+    clean = []
+    outlier_reasons = defaultdict(int)
+    for e in all_entries:
+        dose = e.get('dose_mg', 0) or 0
+        cmax = e.get('cmax_ngml', 0) or 0
+        # Dose plausibility (small molecules: 0.001 mg to 5000 mg)
+        if dose > 5000:
+            outlier_reasons['dose>5000mg'] += 1
+            continue
+        if dose <= 0:
+            outlier_reasons['dose<=0'] += 1
+            continue
+        # Cmax plausibility
+        if cmax <= 0:
+            outlier_reasons['cmax<=0'] += 1
+            continue
+        if cmax > 500000:
+            outlier_reasons['cmax>500K'] += 1
+            continue
+        # log(C/D) range check: T1 reference [-2.88, 3.48]
+        # Use conservative [-3.0, 3.5] as hard cutoff
+        log_cd = math.log10(cmax / dose) if cmax > 0 and dose > 0 else None
+        if log_cd is not None and (log_cd < -3.0 or log_cd > 3.5):
+            outlier_reasons[f'log_cd_extreme({log_cd:.1f})'] += 1
+            continue
+        clean.append(e)
+
+    n_removed = len(all_entries) - len(clean)
+    all_entries = clean
+    print(f"  Removed {n_removed} outliers:")
+    for reason, cnt in sorted(outlier_reasons.items(), key=lambda x: -x[1]):
+        print(f"    {reason}: {cnt}")
+    print(f"  Remaining: {len(all_entries)}")
 
     # ── Cross-source validation (BEFORE dedup) ──
     print("\n[5/6] Running cross-source validation...")

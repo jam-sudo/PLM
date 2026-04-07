@@ -5,26 +5,24 @@
     "v10_combined": 4255,
     "fda_regex": 991,
     "llm_extraction": 1169,
-    "external_integrated": 8018
+    "external_integrated": 22
   },
-  "total_raw": 14433,
-  "total_deduped": 12503,
-  "duplicates_removed": 1930,
-  "unique_drugs": 9307,
+  "total_raw": 6410,
+  "total_deduped": 4501,
+  "duplicates_removed": 1909,
+  "unique_drugs": 1314,
   "tier_breakdown": {
     "T1": 3625,
-    "T2": 829,
-    "T3": 57,
-    "T4": 7992
+    "T2": 821,
+    "T3": 55
   },
   "source_breakdown": {
     "Sisyphus_MMPK": 3625,
-    "PLM_FDA": 575,
-    "FDA_LLM": 254,
-    "FDA_regex": 57,
-    "ChEMBL": 7992
+    "PLM_FDA": 574,
+    "FDA_LLM": 247,
+    "FDA_regex": 55
   },
-  "with_log_cd": 12503,
+  "with_log_cd": 4501,
   "cross_validation_summary": {
     "FDA_LLM_vs_FDA_regex": {
       "n": 2326,

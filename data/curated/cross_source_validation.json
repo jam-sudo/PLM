@@ -20025,7 +20025,7 @@
       "drug": "pralsetinib",
       "inchikey14": "GBLBJPZSROAGMF",
       "sources": {
-        "PLM_FDA": 8,
+        "PLM_FDA": 7,
         "FDA_regex": 4,
         "FDA_LLM": 1
       },
@@ -28948,8 +28948,7 @@
       "inchikey14": "CKTSBUTUHBMZGZ",
       "sources": {
         "PLM_FDA": 5,
-        "FDA_regex": 20,
-        "FDA_LLM": 16
+        "FDA_regex": 20
       },
       "pairs": [
         {
@@ -41194,7 +41193,7 @@
       "inchikey14": "ZSWMIFNWDQEXDT",
       "sources": {
         "Sisyphus": 6,
-        "FDA_regex": 16,
+        "FDA_regex": 14,
         "FDA_LLM": 19
       },
       "pairs": [
@@ -41877,7 +41876,7 @@
       "inchikey14": "FIHJKUPKCHIPAT",
       "sources": {
         "Sisyphus": 3,
-        "FDA_regex": 19,
+        "FDA_regex": 14,
         "FDA_LLM": 6
       },
       "pairs": [
