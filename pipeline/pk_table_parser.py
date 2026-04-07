@@ -107,6 +107,24 @@ CMAX_TABLE_PAT = re.compile(
     re.IGNORECASE
 )
 
+# FDA label format: "Cmax (ng/mL):   432" or "Cmax (ng/mL):  Not available"
+CMAX_LABEL_PAT = re.compile(
+    r'[Cc]\s*max\s*'
+    r'\(\s*((?:ng|mcg|µg|ug|mg|pg)\s*[/·]\s*(?:mL|ml|L|l))\s*\)\s*'
+    r'[:=]\s*'
+    r'([\d.,]+(?:\s*[±(][\d.,\s%]+[)]?)?)',
+    re.IGNORECASE
+)
+
+# Narrative: "Cmax of 432 ng/mL" or "Cmax was 432 ng/mL"
+CMAX_NARRATIVE_PAT = re.compile(
+    r'[Cc]\s*max\s+'
+    r'(?:of|was|is|=|approximately|about|~)\s*'
+    r'([\d.,]+)\s*'
+    r'((?:ng|mcg|µg|ug|mg|pg)\s*[/·]?\s*(?:mL|ml|L|l))',
+    re.IGNORECASE
+)
+
 # AUC patterns
 AUC_PAT = re.compile(
     r'AUC\s*(?:0?-?∞|inf|0-inf|last|0-t|0-24|0-τ|tau|0-72|0-48)?\s*'
@@ -213,7 +231,7 @@ def extract_pk_from_page(text: str, page_num: int) -> List[Dict]:
 
     # Extract Cmax values
     cmax_entries = []
-    for pat in [CMAX_TABLE_PAT, CMAX_PAT]:
+    for pat in [CMAX_TABLE_PAT, CMAX_LABEL_PAT, CMAX_PAT]:
         for m in pat.finditer(text):
             unit_str = m.group(1)
             val_str = m.group(2)
@@ -225,6 +243,19 @@ def extract_pk_from_page(text: str, page_num: int) -> List[Dict]:
                     'unit_raw': unit_str,
                     'val_raw': val_str,
                 })
+
+    # Narrative pattern: "Cmax of/was 432 ng/mL" (value before unit)
+    for m in CMAX_NARRATIVE_PAT.finditer(text):
+        val_str = m.group(1)
+        unit_str = m.group(2)
+        factor = find_unit_factor(unit_str, CONC_UNIT_FACTORS)
+        val = clean_number(val_str)
+        if val is not None and factor is not None and val > 0:
+            cmax_entries.append({
+                'cmax_ng_ml': val * factor,
+                'unit_raw': unit_str,
+                'val_raw': val_str,
+            })
 
     # Extract AUC values
     auc_entries = []

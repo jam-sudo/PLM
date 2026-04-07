@@ -1,11 +1,11 @@
 {
-  "total_ndas": 385,
-  "ndas_with_data": 158,
-  "total_tuples": 1613,
-  "valid_tuples": 1585,
-  "with_cmax": 1562,
-  "with_dose": 1231,
-  "with_dose_and_cmax": 1209,
+  "total_ndas": 397,
+  "ndas_with_data": 185,
+  "total_tuples": 1744,
+  "valid_tuples": 1716,
+  "with_cmax": 1694,
+  "with_dose": 1355,
+  "with_dose_and_cmax": 1334,
   "invalid_reasons": {
     "invalid_tmax(92.0)": 8,
     "invalid_tmax(146.0)": 4,
@@ -13,8 +13,8 @@
     "invalid_tmax(115.0)": 14
   },
   "new_vs_llm": {
-    "new_ndas": 15,
-    "overlap": 143,
-    "new_tuples": 76
+    "new_ndas": 19,
+    "overlap": 166,
+    "new_tuples": 91
   }
 }

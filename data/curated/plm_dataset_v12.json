@@ -3413,8 +3413,8 @@
     "n_sources": 13,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.664015
   },
@@ -3429,8 +3429,8 @@
     "n_sources": 5,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.513661
   },
@@ -8807,8 +8807,8 @@
     "n_sources": 6,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.002166
   },
@@ -8853,8 +8853,8 @@
     "n_sources": 10,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.922985
   },
@@ -8884,8 +8884,8 @@
     "n_sources": 6,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.814581
   },
@@ -9434,8 +9434,8 @@
     "n_sources": 5,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.001445
   },
@@ -11173,9 +11173,9 @@
     "n_sources": 27,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.378088
   },
@@ -12396,8 +12396,8 @@
     "n_sources": 7,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.419956
   },
@@ -12412,8 +12412,8 @@
     "n_sources": 21,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.411725
   },
@@ -12526,8 +12526,8 @@
     "n_sources": 8,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": -0.315753
   },
@@ -13015,10 +13015,11 @@
     "inchikey14": "QUIJNHUBAXPXFS",
     "source": "Sisyphus_MMPK",
     "tier": "T1",
-    "n_sources": 3,
+    "n_sources": 4,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.980666
   },
@@ -13860,8 +13861,8 @@
     "n_sources": 8,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": -1.073143
   },
@@ -14718,8 +14719,8 @@
     "n_sources": 9,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.599738
   },
@@ -15068,10 +15069,11 @@
     "inchikey14": "LIOLIMKSCNQPLV",
     "source": "Sisyphus_MMPK",
     "tier": "T1",
-    "n_sources": 5,
+    "n_sources": 6,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.885078
   },
@@ -19001,8 +19003,8 @@
     "n_sources": 3,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 1.242487
   },
@@ -19493,8 +19495,8 @@
     "n_sources": 8,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.246991
   },
@@ -21823,7 +21825,7 @@
     "inchikey14": "HEAUOKZIVMZVQL",
     "source": "Sisyphus_MMPK",
     "tier": "T1",
-    "n_sources": 3,
+    "n_sources": 4,
     "all_sources_list": [
       "Sisyphus_MMPK",
       "FDA_regex"
@@ -21841,8 +21843,8 @@
     "n_sources": 10,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.548389
   },
@@ -22446,8 +22448,8 @@
     "n_sources": 8,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.014308
   },
@@ -22462,8 +22464,8 @@
     "n_sources": 7,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.982949
   },
@@ -24122,8 +24124,8 @@
     "n_sources": 9,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.303166
   },
@@ -24135,10 +24137,11 @@
     "inchikey14": "JOOXLOJCABQBSG",
     "source": "Sisyphus_MMPK",
     "tier": "T1",
-    "n_sources": 9,
+    "n_sources": 10,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.362174
   },
@@ -27403,8 +27406,8 @@
     "n_sources": 9,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": -0.765736
   },
@@ -28498,11 +28501,11 @@
     "inchikey14": "XMAYWYJOQHXEEK",
     "source": "Sisyphus_MMPK",
     "tier": "T1",
-    "n_sources": 5,
+    "n_sources": 6,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.400826
   },
@@ -29594,10 +29597,11 @@
     "inchikey14": "ZKLPARSLTMPFCP",
     "source": "Sisyphus_MMPK",
     "tier": "T1",
-    "n_sources": 7,
+    "n_sources": 9,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.650413
   },
@@ -29991,8 +29995,8 @@
     "n_sources": 7,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": -0.163857
   },
@@ -35543,7 +35547,7 @@
     "inchikey14": "ZXERDUOLZKYMJM",
     "source": "Sisyphus_MMPK",
     "tier": "T1",
-    "n_sources": 9,
+    "n_sources": 14,
     "all_sources_list": [
       "Sisyphus_MMPK",
       "FDA_regex"
@@ -36416,8 +36420,8 @@
     "n_sources": 4,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.30103
   },
@@ -41179,10 +41183,11 @@
     "inchikey14": "RHXHGRAEPCAFML",
     "source": "Sisyphus_MMPK",
     "tier": "T1",
-    "n_sources": 4,
+    "n_sources": 6,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.017729
   },
@@ -43931,8 +43936,8 @@
     "n_sources": 10,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": -0.49485
   },
@@ -44843,8 +44848,8 @@
     "n_sources": 15,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.171726
   },
@@ -45028,8 +45033,8 @@
     "n_sources": 16,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.071807
   },
@@ -46386,9 +46391,10 @@
     "inchikey14": "SPMVMDHWKHCIDT",
     "source": "Sisyphus_MMPK",
     "tier": "T1",
-    "n_sources": 1,
+    "n_sources": 2,
     "all_sources_list": [
-      "Sisyphus_MMPK"
+      "Sisyphus_MMPK",
+      "FDA_regex"
     ],
     "log_cd": 1.145386
   },
@@ -47287,8 +47293,8 @@
     "n_sources": 32,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.491362
   },
@@ -48875,8 +48881,8 @@
     "n_sources": 20,
     "all_sources_list": [
       "Sisyphus_MMPK",
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.175898
   },
@@ -50938,8 +50944,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 1.459392
   },
@@ -50953,8 +50959,8 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 1.854306
   },
@@ -51010,8 +51016,8 @@
     "tier": "T2",
     "n_sources": 8,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.387216
   },
@@ -51107,9 +51113,10 @@
     "inchikey14": "IOVAZWDIRCRMTM",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 1,
+    "n_sources": 3,
     "all_sources_list": [
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": 0.221849
   },
@@ -51137,8 +51144,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.619789
   },
@@ -51166,8 +51173,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -2.477121
   },
@@ -51181,9 +51188,9 @@
     "tier": "T2",
     "n_sources": 13,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -51265,9 +51272,10 @@
     "inchikey14": "NTJOBXMMWNYJFB",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 1,
+    "n_sources": 2,
     "all_sources_list": [
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": 0.39794
   },
@@ -51281,8 +51289,8 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.30103
   },
@@ -51310,8 +51318,8 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.369216
   },
@@ -51333,9 +51341,10 @@
     "auc_ng_h_ml": 1374.0,
     "tmax_h": null,
     "t_half_h": 5.0,
-    "n_sources": 1,
+    "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.513551
   },
@@ -51417,11 +51426,11 @@
     "inchikey14": "OJNSNSZTGUACNI",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 9,
+    "n_sources": 10,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.283301
   },
@@ -51449,8 +51458,8 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.210853
   },
@@ -51464,8 +51473,8 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": -0.49485
   },
@@ -51517,9 +51526,9 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.176091
   },
@@ -51599,8 +51608,8 @@
     "t_half_h": null,
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.672991
   },
@@ -51648,9 +51657,9 @@
     "t_half_h": 4.4,
     "n_sources": 15,
     "all_sources_list": [
-      "FDA_table_parser",
+      "FDA_LLM",
       "FDA_regex",
-      "FDA_LLM"
+      "FDA_table_parser"
     ],
     "log_cd": 0.715801
   },
@@ -51798,8 +51807,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 2.907355
   },
@@ -51811,9 +51820,10 @@
     "inchikey14": "VSWBSWWIRNCQIJ",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 2,
+    "n_sources": 3,
     "all_sources_list": [
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": -0.431364
   },
@@ -52039,8 +52049,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -52126,9 +52136,9 @@
     "t_half_h": 13.4,
     "n_sources": 9,
     "all_sources_list": [
-      "FDA_table_parser",
+      "FDA_LLM",
       "FDA_regex",
-      "FDA_LLM"
+      "FDA_table_parser"
     ],
     "log_cd": 1.758372
   },
@@ -52180,8 +52190,8 @@
     "tier": "T2",
     "n_sources": 6,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.211125
   },
@@ -52281,8 +52291,8 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 1.18047
   },
@@ -52384,11 +52394,11 @@
     "inchikey14": "UXNXMBYCBRBRFD",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 14,
+    "n_sources": 17,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.945642
   },
@@ -52483,9 +52493,10 @@
     "auc_ng_h_ml": 964,
     "tmax_h": null,
     "t_half_h": null,
-    "n_sources": 5,
+    "n_sources": 6,
     "all_sources_list": [
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.728805
   },
@@ -52581,8 +52592,8 @@
     "t_half_h": 10.2,
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.322219
   },
@@ -52652,9 +52663,10 @@
     "auc_ng_h_ml": 2140.0,
     "tmax_h": 3.0,
     "t_half_h": 31.5,
-    "n_sources": 2,
+    "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": -0.74958
   },
@@ -52716,8 +52728,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -52743,9 +52755,10 @@
     "inchikey14": "FFHBJDQSGDNCIV",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 1,
+    "n_sources": 2,
     "all_sources_list": [
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": 1.863323
   },
@@ -52757,10 +52770,11 @@
     "inchikey14": "FFHBJDQSGDNCIV",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 9,
+    "n_sources": 10,
     "all_sources_list": [
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.711204
   },
@@ -52788,8 +52802,8 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": -0.657577
   },
@@ -52839,9 +52853,10 @@
     "inchikey14": "FFHBJDQSGDNCIV",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 1,
+    "n_sources": 2,
     "all_sources_list": [
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -52895,11 +52910,11 @@
     "inchikey14": "AILRADAXUVEEIR",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 7,
+    "n_sources": 9,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.556303
   },
@@ -52913,9 +52928,9 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.906095
   },
@@ -52957,8 +52972,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.958607
   },
@@ -52972,8 +52987,8 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.965238
   },
@@ -53011,9 +53026,9 @@
     "tier": "T2",
     "n_sources": 14,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.460898
   },
@@ -53041,8 +53056,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.30103
   },
@@ -53084,8 +53099,8 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": -0.154902
   },
@@ -53099,8 +53114,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.477121
   },
@@ -53114,9 +53129,9 @@
     "tier": "T2",
     "n_sources": 8,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 1.30103
   },
@@ -53210,9 +53225,9 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -53378,8 +53393,8 @@
     "t_half_h": 2.03,
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.480007
   },
@@ -53393,9 +53408,9 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 1.193125
   },
@@ -53433,8 +53448,8 @@
     "t_half_h": 2.33,
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.604226
   },
@@ -53472,8 +53487,8 @@
     "t_half_h": 2.53,
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.522183
   },
@@ -53485,11 +53500,11 @@
     "inchikey14": "ZCCUWMICIWSJIX",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 15,
+    "n_sources": 18,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 1.499916
   },
@@ -53513,8 +53528,8 @@
     "t_half_h": 2.62,
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.493783
   },
@@ -53538,8 +53553,8 @@
     "t_half_h": 2.9,
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.484157
   },
@@ -53595,9 +53610,9 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.529361
   },
@@ -53611,8 +53626,8 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.49485
   },
@@ -53626,9 +53641,9 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -53666,8 +53681,8 @@
     "t_half_h": 52.53,
     "n_sources": 8,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.20412
   },
@@ -53729,8 +53744,8 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 1.653213
   },
@@ -53758,9 +53773,9 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 1.349601
   },
@@ -53830,8 +53845,8 @@
     "tier": "T2",
     "n_sources": 9,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": 1.465383
   },
@@ -53845,9 +53860,9 @@
     "tier": "T2",
     "n_sources": 10,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.79588
   },
@@ -53859,11 +53874,11 @@
     "inchikey14": "PIBARDGJJAGJAJ",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 25,
+    "n_sources": 27,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.920819
   },
@@ -53995,8 +54010,8 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -54010,8 +54025,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.875061
   },
@@ -54097,9 +54112,9 @@
     "tier": "T2",
     "n_sources": 9,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.61997
   },
@@ -54137,8 +54152,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.045757
   },
@@ -54166,8 +54181,8 @@
     "tier": "T2",
     "n_sources": 6,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.619789
   },
@@ -54179,10 +54194,11 @@
     "inchikey14": "NBGABHGMJVIVBW",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 4,
+    "n_sources": 5,
     "all_sources_list": [
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.376577
   },
@@ -54220,8 +54236,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.075547
   },
@@ -54245,8 +54261,8 @@
     "t_half_h": 8.6,
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.11581
   },
@@ -54406,9 +54422,9 @@
     "tier": "T2",
     "n_sources": 6,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.946922
   },
@@ -54422,9 +54438,9 @@
     "tier": "T2",
     "n_sources": 9,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 1.20412
   },
@@ -54448,8 +54464,8 @@
     "t_half_h": null,
     "n_sources": 22,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.780557
   },
@@ -54605,9 +54621,9 @@
     "tier": "T2",
     "n_sources": 14,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.558349
   },
@@ -54621,8 +54637,8 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.933053
   },
@@ -54636,9 +54652,9 @@
     "tier": "T2",
     "n_sources": 7,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.129095
   },
@@ -54680,8 +54696,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": -0.262277
   },
@@ -54948,8 +54964,8 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -54987,8 +55003,8 @@
     "tier": "T2",
     "n_sources": 8,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": -0.23251
   },
@@ -55016,8 +55032,8 @@
     "tier": "T2",
     "n_sources": 9,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": -0.488342
   },
@@ -55045,8 +55061,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -55074,9 +55090,9 @@
     "tier": "T2",
     "n_sources": 18,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.740363
   },
@@ -55104,9 +55120,9 @@
     "tier": "T2",
     "n_sources": 23,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.71265
   },
@@ -55162,8 +55178,8 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.39794
   },
@@ -55177,8 +55193,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.30103
   },
@@ -55384,8 +55400,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.416906
   },
@@ -55435,9 +55451,10 @@
     "auc_ng_h_ml": 1520,
     "tmax_h": 1.1,
     "t_half_h": null,
-    "n_sources": 7,
+    "n_sources": 13,
     "all_sources_list": [
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.614194
   },
@@ -55514,9 +55531,9 @@
     "tier": "T2",
     "n_sources": 11,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -55530,8 +55547,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -55545,8 +55562,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": 0.079181
   },
@@ -55574,8 +55591,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.154902
   },
@@ -55617,8 +55634,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -55736,8 +55753,8 @@
     "t_half_h": null,
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.966142
   },
@@ -55875,8 +55892,8 @@
     "tier": "T2",
     "n_sources": 6,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.823909
   },
@@ -56015,8 +56032,8 @@
     "t_half_h": 16.5,
     "n_sources": 6,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.189841
   },
@@ -56030,9 +56047,9 @@
     "tier": "T2",
     "n_sources": 7,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.90309
   },
@@ -56060,9 +56077,9 @@
     "tier": "T2",
     "n_sources": 8,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 1.713659
   },
@@ -56144,9 +56161,10 @@
     "inchikey14": "VAZNEHLGJGSQEL",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 1,
+    "n_sources": 2,
     "all_sources_list": [
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": -0.525426
   },
@@ -56158,11 +56176,11 @@
     "inchikey14": "VAZNEHLGJGSQEL",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 6,
+    "n_sources": 9,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.018322
   },
@@ -56176,8 +56194,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.150932
   },
@@ -56215,8 +56233,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.20412
   },
@@ -56376,8 +56394,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": 1.653213
   },
@@ -56419,8 +56437,8 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.778151
   },
@@ -56448,8 +56466,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.30103
   },
@@ -56485,9 +56503,10 @@
     "auc_ng_h_ml": 5880.0,
     "tmax_h": 2.0,
     "t_half_h": 42.0,
-    "n_sources": 1,
+    "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.778151
   },
@@ -56746,8 +56765,8 @@
     "t_half_h": 8.4,
     "n_sources": 11,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": -0.769551
   },
@@ -56771,8 +56790,8 @@
     "t_half_h": 4.4,
     "n_sources": 7,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": -0.914115
   },
@@ -56904,11 +56923,11 @@
     "inchikey14": "VPNYRYCIDCJBOM",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 12,
+    "n_sources": 13,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -56922,9 +56941,9 @@
     "tier": "T2",
     "n_sources": 6,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -57070,8 +57089,8 @@
     "t_half_h": 7.5,
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.345047
   },
@@ -57095,8 +57114,8 @@
     "t_half_h": 10.2,
     "n_sources": 7,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": -0.17177
   },
@@ -57162,8 +57181,8 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.789147
   },
@@ -57191,9 +57210,9 @@
     "tier": "T2",
     "n_sources": 8,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -57231,8 +57250,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.790988
   },
@@ -57378,8 +57397,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": -0.119186
   },
@@ -57391,11 +57410,11 @@
     "inchikey14": "QADPYRIHXKWUSV",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 19,
+    "n_sources": 20,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 1.701326
   },
@@ -57563,8 +57582,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.79588
   },
@@ -57578,8 +57597,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.114922
   },
@@ -57593,8 +57612,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": 0.69897
   },
@@ -57622,9 +57641,9 @@
     "tier": "T2",
     "n_sources": 6,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.841638
   },
@@ -57662,9 +57681,9 @@
     "t_half_h": null,
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_table_parser",
+      "FDA_LLM",
       "FDA_regex",
-      "FDA_LLM"
+      "FDA_table_parser"
     ],
     "log_cd": 0.937852
   },
@@ -57836,10 +57855,11 @@
     "inchikey14": "NYNZQNWKBKUAII",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 2,
+    "n_sources": 3,
     "all_sources_list": [
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.896526
   },
@@ -57917,9 +57937,10 @@
     "inchikey14": "WXNXCEHXYPACJF",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 1,
+    "n_sources": 2,
     "all_sources_list": [
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": -0.39794
   },
@@ -57933,9 +57954,9 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.380211
   },
@@ -57949,9 +57970,9 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.146128
   },
@@ -57999,8 +58020,8 @@
     "t_half_h": null,
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.423355
   },
@@ -58081,8 +58102,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": -0.30103
   },
@@ -58108,10 +58129,10 @@
     "inchikey14": "IIXWYSCJSQVBQM",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 3,
+    "n_sources": 4,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -58125,8 +58146,8 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": -0.443697
   },
@@ -58154,9 +58175,9 @@
     "tier": "T2",
     "n_sources": 17,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.294466
   },
@@ -58313,9 +58334,9 @@
     "tier": "T2",
     "n_sources": 12,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -58329,8 +58350,8 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -58354,8 +58375,8 @@
     "t_half_h": null,
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": -0.949234
   },
@@ -58403,8 +58424,8 @@
     "t_half_h": 22.04,
     "n_sources": 9,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 2.097882
   },
@@ -58442,9 +58463,9 @@
     "tier": "T2",
     "n_sources": 13,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.062148
   },
@@ -58458,9 +58479,9 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.221849
   },
@@ -58532,8 +58553,8 @@
     "t_half_h": null,
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 2.2088
   },
@@ -58561,8 +58582,8 @@
     "tier": "T2",
     "n_sources": 7,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": 0.09691
   },
@@ -58576,8 +58597,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -58657,8 +58678,8 @@
     "t_half_h": 14.63,
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.785223
   },
@@ -58696,8 +58717,8 @@
     "tier": "T2",
     "n_sources": 7,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -58721,8 +58742,8 @@
     "t_half_h": 15.62,
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.671217
   },
@@ -58736,9 +58757,9 @@
     "tier": "T2",
     "n_sources": 20,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -58752,8 +58773,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -58767,8 +58788,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.30103
   },
@@ -58782,8 +58803,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.823909
   },
@@ -58865,10 +58886,11 @@
     "inchikey14": "YZBLFMPOMVTDJY",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 3,
+    "n_sources": 4,
     "all_sources_list": [
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.653213
   },
@@ -58920,8 +58942,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -58933,10 +58955,11 @@
     "inchikey14": "WJBLNOPPDWQMCH",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 4,
+    "n_sources": 6,
     "all_sources_list": [
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.124939
   },
@@ -58998,9 +59021,9 @@
     "tier": "T2",
     "n_sources": 6,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.30103
   },
@@ -59036,10 +59059,11 @@
     "inchikey14": "UZHSEJADLWPNLE",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 2,
+    "n_sources": 3,
     "all_sources_list": [
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -59067,8 +59091,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.045757
   },
@@ -59110,8 +59134,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 1.101231
   },
@@ -59153,9 +59177,9 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.346787
   },
@@ -59167,11 +59191,11 @@
     "inchikey14": "DQCKKXVULJGBQN",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 7,
+    "n_sources": 9,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -59185,9 +59209,9 @@
     "tier": "T2",
     "n_sources": 17,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.823909
   },
@@ -59243,9 +59267,9 @@
     "tier": "T2",
     "n_sources": 17,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -59273,8 +59297,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.133539
   },
@@ -59302,8 +59326,8 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -59317,8 +59341,8 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.653213
   },
@@ -59346,8 +59370,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.711807
   },
@@ -59431,8 +59455,8 @@
     "tier": "T2",
     "n_sources": 17,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": -0.853872
   },
@@ -59446,8 +59470,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": -0.60206
   },
@@ -59461,8 +59485,8 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": -0.391474
   },
@@ -59476,9 +59500,9 @@
     "tier": "T2",
     "n_sources": 22,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.221849
   },
@@ -59534,8 +59558,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": 0.850306
   },
@@ -59559,8 +59583,8 @@
     "t_half_h": 59.9,
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 2.127105
   },
@@ -59740,9 +59764,10 @@
     "auc_ng_h_ml": 130.2,
     "tmax_h": 1.5,
     "t_half_h": null,
-    "n_sources": 3,
+    "n_sources": 7,
     "all_sources_list": [
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.458789
   },
@@ -59814,8 +59839,8 @@
     "t_half_h": null,
     "n_sources": 6,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.335979
   },
@@ -59854,8 +59879,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.744727
   },
@@ -59893,9 +59918,9 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.363178
   },
@@ -59937,8 +59962,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.30103
   },
@@ -59994,8 +60019,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.079181
   },
@@ -60057,8 +60082,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.072288
   },
@@ -60072,8 +60097,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.619789
   },
@@ -60101,8 +60126,8 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.875061
   },
@@ -60126,8 +60151,8 @@
     "t_half_h": 3.8,
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.284807
   },
@@ -60227,8 +60252,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": 1.662758
   },
@@ -60300,8 +60325,8 @@
     "t_half_h": 33.5,
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.624282
   },
@@ -60343,8 +60368,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.823909
   },
@@ -60372,8 +60397,8 @@
     "tier": "T2",
     "n_sources": 6,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.30103
   },
@@ -60387,8 +60412,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -60492,8 +60517,8 @@
     "t_half_h": 18,
     "n_sources": 13,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.122762
   },
@@ -60617,8 +60642,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": 0.579784
   },
@@ -60646,9 +60671,9 @@
     "tier": "T2",
     "n_sources": 14,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 1.0
   },
@@ -60690,8 +60715,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.045757
   },
@@ -60747,9 +60772,9 @@
     "tier": "T2",
     "n_sources": 9,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.477121
   },
@@ -60777,9 +60802,9 @@
     "tier": "T2",
     "n_sources": 6,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -60821,8 +60846,8 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": -0.568636
   },
@@ -60878,8 +60903,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -60997,8 +61022,8 @@
     "tier": "T2",
     "n_sources": 7,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 1.963788
   },
@@ -61010,10 +61035,11 @@
     "inchikey14": "QZRSNVSQLGRAID",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 14,
+    "n_sources": 15,
     "all_sources_list": [
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 1.041393
   },
@@ -61027,8 +61053,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -61042,8 +61068,8 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": 0.0
   },
@@ -61113,9 +61139,9 @@
     "tier": "T2",
     "n_sources": 7,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.118099
   },
@@ -61171,8 +61197,8 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.181005
   },
@@ -61198,10 +61224,11 @@
     "inchikey14": "AOMXMOCNKJTRQP",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 2,
+    "n_sources": 3,
     "all_sources_list": [
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.637224
   },
@@ -61239,9 +61266,9 @@
     "t_half_h": null,
     "n_sources": 8,
     "all_sources_list": [
-      "FDA_table_parser",
+      "FDA_LLM",
       "FDA_regex",
-      "FDA_LLM"
+      "FDA_table_parser"
     ],
     "log_cd": 0.029384
   },
@@ -61773,8 +61800,8 @@
     "t_half_h": null,
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.747381
   },
@@ -61948,8 +61975,8 @@
     "tier": "T2",
     "n_sources": 7,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.30103
   },
@@ -61963,8 +61990,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.20412
   },
@@ -61978,8 +62005,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.30103
   },
@@ -62055,9 +62082,9 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.875061
   },
@@ -62099,8 +62126,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.60206
   },
@@ -62142,8 +62169,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -62293,8 +62320,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 1.201397
   },
@@ -62308,8 +62335,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.548185
   },
@@ -62435,9 +62462,9 @@
     "tier": "T2",
     "n_sources": 7,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.948847
   },
@@ -62451,8 +62478,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -1.39794
   },
@@ -62480,8 +62507,8 @@
     "tier": "T2",
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.920819
   },
@@ -62523,8 +62550,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -62538,8 +62565,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.30103
   },
@@ -62563,8 +62590,8 @@
     "t_half_h": null,
     "n_sources": 6,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": -0.065502
   },
@@ -62708,8 +62735,8 @@
     "t_half_h": null,
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": -0.884389
   },
@@ -62747,9 +62774,9 @@
     "tier": "T2",
     "n_sources": 11,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.055517
   },
@@ -62763,9 +62790,9 @@
     "tier": "T2",
     "n_sources": 9,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.017033
   },
@@ -62826,10 +62853,11 @@
     "inchikey14": "KQKPFRSPSRPDEB",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 2,
+    "n_sources": 4,
     "all_sources_list": [
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.740363
   },
@@ -62843,9 +62871,9 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.176091
   },
@@ -62869,8 +62897,8 @@
     "t_half_h": 2.4,
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.71391
   },
@@ -62884,9 +62912,9 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.196295
   },
@@ -62900,9 +62928,9 @@
     "tier": "T2",
     "n_sources": 6,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.041393
   },
@@ -62972,8 +63000,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -62987,9 +63015,9 @@
     "tier": "T2",
     "n_sources": 6,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.79588
   },
@@ -63219,8 +63247,8 @@
     "t_half_h": null,
     "n_sources": 8,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 2.259275
   },
@@ -63465,8 +63493,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.261263
   },
@@ -63578,8 +63606,8 @@
     "tier": "T2",
     "n_sources": 9,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.30103
   },
@@ -63729,11 +63757,11 @@
     "inchikey14": "XSFPZBUIBYMVEA",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 12,
+    "n_sources": 15,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.254306
   },
@@ -63747,9 +63775,9 @@
     "tier": "T2",
     "n_sources": 18,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -1.657577
   },
@@ -63763,8 +63791,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.367977
   },
@@ -63913,8 +63941,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.920819
   },
@@ -63970,8 +63998,8 @@
     "tier": "T2",
     "n_sources": 7,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.69897
   },
@@ -64106,8 +64134,8 @@
     "t_half_h": 42.5,
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 1.330671
   },
@@ -64193,8 +64221,8 @@
     "tier": "T2",
     "n_sources": 4,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 1.255273
   },
@@ -64256,8 +64284,8 @@
     "tier": "T2",
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -64295,9 +64323,9 @@
     "tier": "T2",
     "n_sources": 13,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": -0.09691
   },
@@ -64333,10 +64361,11 @@
     "inchikey14": "BTSOGEDATSQOAF",
     "source": "PLM_FDA",
     "tier": "T2",
-    "n_sources": 5,
+    "n_sources": 10,
     "all_sources_list": [
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.737193
   },
@@ -64350,9 +64379,9 @@
     "tier": "T2",
     "n_sources": 7,
     "all_sources_list": [
-      "FDA_regex",
+      "PLM_FDA",
       "FDA_LLM",
-      "PLM_FDA"
+      "FDA_regex"
     ],
     "log_cd": 0.823909
   },
@@ -64400,8 +64429,8 @@
     "t_half_h": 11.32,
     "n_sources": 14,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.578723
   },
@@ -64522,9 +64551,9 @@
     "t_half_h": null,
     "n_sources": 8,
     "all_sources_list": [
-      "FDA_table_parser",
+      "FDA_LLM",
       "FDA_regex",
-      "FDA_LLM"
+      "FDA_table_parser"
     ],
     "log_cd": 0.419405
   },
@@ -64572,8 +64601,8 @@
     "t_half_h": null,
     "n_sources": 7,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.405517
   },
@@ -64597,8 +64626,8 @@
     "t_half_h": null,
     "n_sources": 7,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.278754
   },
@@ -64612,8 +64641,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_regex",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_regex"
     ],
     "log_cd": -0.933053
   },
@@ -64789,8 +64818,8 @@
     "tier": "T2",
     "n_sources": 3,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": 0.0
   },
@@ -64884,8 +64913,8 @@
     "tier": "T2",
     "n_sources": 6,
     "all_sources_list": [
-      "FDA_LLM",
-      "PLM_FDA"
+      "PLM_FDA",
+      "FDA_LLM"
     ],
     "log_cd": -0.79588
   },
@@ -65105,8 +65134,8 @@
     "t_half_h": 3.0,
     "n_sources": 2,
     "all_sources_list": [
-      "FDA_regex",
-      "FDA_LLM"
+      "FDA_LLM",
+      "FDA_regex"
     ],
     "log_cd": 0.29281
   },
@@ -65208,6 +65237,30 @@
     "log_cd": -0.534617
   },
   {
+    "smiles": "C1CCN(CC1)C[C@H](CON=C(C2=C[N+](=CC=C2)[O-])Cl)O",
+    "dose_mg": 375.0,
+    "cmax_ngml": 2330.0,
+    "drug": "arimoclomol",
+    "inchikey14": "SGEIEGAXKLMUIZ",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA214927",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 1,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 0.793325
+  },
+  {
     "smiles": "C[C@@H]1CC[C@H]2[C@H]([C@@H](O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)OC(=O)CCC(=O)O)C",
     "dose_mg": 5.0,
     "cmax_ngml": 24.6,
@@ -65280,6 +65333,30 @@
     "log_cd": -0.566497
   },
   {
+    "smiles": "CN1C[C@H]2[C@H](C1)C3=C(C=CC(=C3)Cl)OC4=CC=CC=C24",
+    "dose_mg": 1.2,
+    "cmax_ngml": 11.5,
+    "drug": "asenapine",
+    "inchikey14": "VSWBSWWIRNCQIJ",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA212268",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 4,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 0.981517
+  },
+  {
     "smiles": "COC1=C(C=C(C=C1)CNC2=NC(=NC=C2C(=O)NCC3=NC=CC=N3)N4CCC[C@H]4CO)Cl",
     "dose_mg": 4.0,
     "cmax_ngml": 648.0,
@@ -65326,6 +65403,30 @@
       "FDA_regex"
     ],
     "log_cd": 2.774517
+  },
+  {
+    "smiles": "C1CC1CN[C@@H](C2=CC(=C(C=C2)F)NC(=O)C3=CC(=NN3C4=CC=CC(=C4)CN)C(F)(F)F)C5=CC=CC(=C5)C#N",
+    "dose_mg": 20.0,
+    "cmax_ngml": 196.5,
+    "drug": "berotralstat",
+    "inchikey14": "UXNXMBYCBRBRFD",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA214094",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 1,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 0.992333
   },
   {
     "smiles": "CN1CCN(CC1)CCCOC2=C(C=C3C(=C2)N=CC(=C3NC4=CC(=C(C=C4Cl)Cl)OC)C#N)OC",
@@ -65592,6 +65693,30 @@
     "log_cd": -0.467458
   },
   {
+    "smiles": "CC1=C(C=CC2=C1N=C(N2)[C@@]3(CCCN3C(=O)C4=C(C=CC(=C4)OC)N5N=CC=N5)C)Cl",
+    "dose_mg": 450.0,
+    "cmax_ngml": 1006.0,
+    "drug": "daridorexant",
+    "inchikey14": "NBGABHGMJVIVBW",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA214985",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 1,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 0.349385
+  },
+  {
     "smiles": "C1[C@@H]([C@H](O[C@H]1N2C=CC(=NC2=O)N)CO)O",
     "dose_mg": 133.3,
     "cmax_ngml": 18.77,
@@ -65755,8 +65880,8 @@
     "t_half_h": null,
     "n_sources": 7,
     "all_sources_list": [
-      "FDA_table_parser",
-      "FDA_regex"
+      "FDA_regex",
+      "FDA_table_parser"
     ],
     "log_cd": -0.39794
   },
@@ -65783,6 +65908,30 @@
       "FDA_regex"
     ],
     "log_cd": 0.22917
+  },
+  {
+    "smiles": "CC1=C(C(=O)N(C(=O)N1CC2=C(C=CC=C2F)C(F)(F)F)C[C@@H](C3=CC=CC=C3)NCCCC(=O)O)C4=C(C(=CC=C4)OC)F",
+    "dose_mg": 300.0,
+    "cmax_ngml": 18500.0,
+    "drug": "elagolix",
+    "inchikey14": "HEAUOKZIVMZVQL",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA210450",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 5,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 1.79005
   },
   {
     "smiles": "CC1=NN(C=N1)C2=NC=C(C3=C2N(C=C3C(=O)C(=O)N4CCN(CC4)C(=O)C5=CC=CC=C5)COP(=O)(O)O)OC",
@@ -65929,6 +66078,198 @@
     "log_cd": -1.35164
   },
   {
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C",
+    "dose_mg": 10.0,
+    "cmax_ngml": 617.0,
+    "drug": "ibrexafungerp",
+    "inchikey14": "BODYFEUFKHPRCK",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA214900",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 2,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 1.790285
+  },
+  {
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C",
+    "dose_mg": 20.0,
+    "cmax_ngml": 1100.0,
+    "drug": "ibrexafungerp",
+    "inchikey14": "BODYFEUFKHPRCK",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA214900",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 1,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 1.740363
+  },
+  {
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C",
+    "dose_mg": 25.0,
+    "cmax_ngml": 4200.0,
+    "drug": "ibrexafungerp",
+    "inchikey14": "BODYFEUFKHPRCK",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA214900",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 1,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 2.225309
+  },
+  {
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C",
+    "dose_mg": 30.0,
+    "cmax_ngml": 1128.0,
+    "drug": "ibrexafungerp",
+    "inchikey14": "BODYFEUFKHPRCK",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA214900",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 1,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 1.575188
+  },
+  {
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C",
+    "dose_mg": 35.0,
+    "cmax_ngml": 1730.0,
+    "drug": "ibrexafungerp",
+    "inchikey14": "BODYFEUFKHPRCK",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA214900",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 1,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 1.693978
+  },
+  {
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C",
+    "dose_mg": 40.0,
+    "cmax_ngml": 1723.0,
+    "drug": "ibrexafungerp",
+    "inchikey14": "BODYFEUFKHPRCK",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA214900",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 4,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 1.634225
+  },
+  {
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C",
+    "dose_mg": 50.0,
+    "cmax_ngml": 2630.0,
+    "drug": "ibrexafungerp",
+    "inchikey14": "BODYFEUFKHPRCK",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA214900",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 2,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 1.720986
+  },
+  {
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C",
+    "dose_mg": 60.0,
+    "cmax_ngml": 2746.0,
+    "drug": "ibrexafungerp",
+    "inchikey14": "BODYFEUFKHPRCK",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA214900",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 1,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 1.660549
+  },
+  {
     "smiles": "CC[C@@H](C1=NC2=C(C(=CC=C2)F)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5",
     "dose_mg": 20.0,
     "cmax_ngml": 1927.0,
@@ -66073,6 +66414,30 @@
     "log_cd": 1.220108
   },
   {
+    "smiles": "CC(C)(C(=O)N[C@H](CC1=CNC2=CC=CC=C21)C(=O)N[C@H](CC3=CNC4=CC=CC=C43)NC=O)N",
+    "dose_mg": 0.5,
+    "cmax_ngml": 10.25,
+    "drug": "macimorelin",
+    "inchikey14": "UJVDJAPJQWZRFR",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA205598",
+    "route": "",
+    "formulation": "",
+    "food": "fasted",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 1,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 1.311754
+  },
+  {
     "smiles": "CN(CC1=CN=C2C(=N1)C(=NC(=N2)N)N)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O",
     "dose_mg": 25.0,
     "cmax_ngml": 606.0,
@@ -66193,6 +66558,30 @@
     "log_cd": 0.189397
   },
   {
+    "smiles": "CC1=CC(=NN1)NC2=NC(=NC(=C2)C)C3CCC(CC3)(C(=O)N[C@@H](C)C4=CN=C(C=C4)N5C=C(C=N5)F)OC",
+    "dose_mg": 40.0,
+    "cmax_ngml": 2090.0,
+    "drug": "pralsetinib",
+    "inchikey14": "GBLBJPZSROAGMF",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA213721",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 1,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 1.718086
+  },
+  {
     "smiles": "COCCCN1CCC(CC1)NC(=O)C2=CC(=C(C3=C2OCC3)N)Cl.C(CC(=O)O)C(=O)O",
     "dose_mg": 0.31,
     "cmax_ngml": 66.1,
@@ -66215,6 +66604,30 @@
       "FDA_regex"
     ],
     "log_cd": 2.32884
+  },
+  {
+    "smiles": "CN(C)C(=O)C1=CC2=CN=C(N=C2N1C3CCCC3)NC4=NC=C(C=C4)N5CCNCC5",
+    "dose_mg": 100.0,
+    "cmax_ngml": 1820.0,
+    "drug": "ribociclib",
+    "inchikey14": "RHXHGRAEPCAFML",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA209092",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 1,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 1.260071
   },
   {
     "smiles": "CC(C)(/C=C(\\C#N)/C(=O)N1CCC[C@H](C1)N2C3=NC=NC(=C3C(=N2)C4=C(C=C(C=C4)OC5=CC=CC=C5)F)N)N6CCN(CC6)C7COC7",
@@ -66308,8 +66721,8 @@
     "t_half_h": null,
     "n_sources": 5,
     "all_sources_list": [
-      "FDA_table_parser",
-      "FDA_regex"
+      "FDA_regex",
+      "FDA_table_parser"
     ],
     "log_cd": 0.40824
   },
@@ -66336,6 +66749,54 @@
       "FDA_regex"
     ],
     "log_cd": 0.998453
+  },
+  {
+    "smiles": "CC1([C@@H]2CC[C@]1(C(=O)C2)CS(=O)(=O)O)C.CNCC1=CC=C(C=C1)C2=C3CCNC(=O)C4=C3C(=CC(=C4)F)N2",
+    "dose_mg": 15.0,
+    "cmax_ngml": 2542.0,
+    "drug": "rucaparib",
+    "inchikey14": "INBJJAFXHQQSRW",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA209115",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": 7400.0,
+    "tmax_h": null,
+    "t_half_h": 5.2,
+    "n_sources": 2,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 2.229084
+  },
+  {
+    "smiles": "C[C@@H](C(=O)C1=NC2=C(NC1)N=C(NC2=O)N)O",
+    "dose_mg": 1000.0,
+    "cmax_ngml": 3310.0,
+    "drug": "sepiapterin",
+    "inchikey14": "VPVOXUSPXFPWBN",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA219666",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 1,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 0.519828
   },
   {
     "smiles": "CCOC(=O)[C@H](CC1=CC=C(C=C1)C2=CC(=NC(=N2)N)O[C@H](C3=C(C=C(C=C3)Cl)N4C=CC(=N4)C)C(F)(F)F)N.C1=CC=C(C=C1)C(=O)NCC(=O)O",
@@ -66384,6 +66845,30 @@
       "FDA_regex"
     ],
     "log_cd": 0.292256
+  },
+  {
+    "smiles": "C=CC(CCC(=O)O)N",
+    "dose_mg": 50.0,
+    "cmax_ngml": 61000.0,
+    "drug": "vigabatrin",
+    "inchikey14": "PJDFLNIOAUIZSL",
+    "source": "FDA_regex",
+    "tier": "T3",
+    "confidence": "medium",
+    "nda": "NDA022006",
+    "route": "",
+    "formulation": "",
+    "food": "not_specified",
+    "population": "",
+    "dose_schedule": "",
+    "auc_ng_h_ml": null,
+    "tmax_h": null,
+    "t_half_h": null,
+    "n_sources": 1,
+    "all_sources_list": [
+      "FDA_regex"
+    ],
+    "log_cd": 3.08636
   },
   {
     "smiles": "C=CC(=O)N1CCC(CC1)[C@@H]2CCNC3=C(C(=NN23)C4=CC=C(C=C4)OC5=CC=CC=C5)C(=O)N",

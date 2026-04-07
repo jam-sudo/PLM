@@ -3,35 +3,35 @@
   "build_date": "2026-04-06",
   "sources": {
     "v10_combined": 4255,
-    "fda_regex": 991,
+    "fda_regex": 1098,
     "llm_extraction": 1169,
     "external_integrated": 22
   },
-  "total_raw": 6410,
-  "total_deduped": 4501,
-  "duplicates_removed": 1909,
-  "unique_drugs": 1314,
+  "total_raw": 6517,
+  "total_deduped": 4520,
+  "duplicates_removed": 1997,
+  "unique_drugs": 1315,
   "tier_breakdown": {
     "T1": 3625,
     "T2": 821,
-    "T3": 55
+    "T3": 74
   },
   "source_breakdown": {
     "Sisyphus_MMPK": 3625,
     "PLM_FDA": 574,
     "FDA_LLM": 247,
-    "FDA_regex": 55
+    "FDA_regex": 74
   },
-  "with_log_cd": 4501,
+  "with_log_cd": 4520,
   "cross_validation_summary": {
     "FDA_LLM_vs_FDA_regex": {
-      "n": 2326,
-      "aafe": 2.675,
-      "median_fold_error": 1.488,
-      "mean_log_ratio": -0.174,
-      "within_2fold_pct": 61.3,
-      "within_3fold_pct": 70.9,
-      "n_unique_drugs": 90
+      "n": 2549,
+      "aafe": 2.684,
+      "median_fold_error": 1.503,
+      "mean_log_ratio": -0.1368,
+      "within_2fold_pct": 61.0,
+      "within_3fold_pct": 70.6,
+      "n_unique_drugs": 103
     },
     "FDA_LLM_vs_Sisyphus": {
       "n": 327,
@@ -43,25 +43,25 @@
       "n_unique_drugs": 65
     },
     "FDA_regex_vs_Sisyphus": {
-      "n": 185,
-      "aafe": 2.83,
-      "median_fold_error": 1.785,
-      "mean_log_ratio": 0.237,
-      "within_2fold_pct": 56.8,
-      "within_3fold_pct": 70.8,
-      "n_unique_drugs": 23
+      "n": 200,
+      "aafe": 2.838,
+      "median_fold_error": 1.798,
+      "mean_log_ratio": 0.1933,
+      "within_2fold_pct": 54.0,
+      "within_3fold_pct": 69.5,
+      "n_unique_drugs": 28
     },
     "FDA_LLM_vs_ChEMBL": {
       "n": 0
     },
     "any_pair": {
-      "n": 3785,
-      "aafe": 3.54,
-      "median_fold_error": 1.845,
-      "mean_log_ratio": -0.1641,
-      "within_2fold_pct": 52.3,
-      "within_3fold_pct": 62.2,
-      "n_unique_drugs": 171
+      "n": 4073,
+      "aafe": 3.533,
+      "median_fold_error": 1.874,
+      "mean_log_ratio": -0.1453,
+      "within_2fold_pct": 52.2,
+      "within_3fold_pct": 62.1,
+      "n_unique_drugs": 175
     }
   }
 }
