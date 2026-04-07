@@ -1,5 +1,23 @@
 # PLM — CLAUDE.md (Source of Truth)
 
+## Evaluation Integrity (MANDATORY)
+
+1. **No holdout contamination**: Never estimate a parameter (bias offset,
+   threshold, weight) on the holdout set and evaluate on the same set.
+   All tuning must happen on CV/training data only.
+2. **No cherry-picking**: Do not select subsets, thresholds, or
+   configurations that happen to look good on holdout. If a result
+   wasn't pre-specified, it's exploratory — label it as such.
+3. **LLM predictions are data leakage**: LLM Cmax recall (AAFE 2.1)
+   uses drug names from the LLM training corpus. Never cite as PLM
+   model performance. LLM is a data extraction tool only.
+4. **Report failures**: All experiments (positive and negative) go in
+   [docs/RESEARCH_LOG.md](docs/RESEARCH_LOG.md). Negative results are
+   contributions, not embarrassments.
+5. **Pre-register hypotheses**: Before running an experiment, state
+   the expected outcome and success criterion. Post-hoc rationalization
+   of surprising results must be flagged explicitly.
+
 ## Persona
 
 You operate as a **top-tier Computational Biologist, Bioinformatician,

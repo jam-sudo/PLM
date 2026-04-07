@@ -148,6 +148,25 @@
 
 ---
 
+### F7. Tanimoto-Gated Ensemble
+- **Date**: 2026-04-07
+- **Hypothesis**: PLM accuracy correlates with nn_tanimoto to training set; drugs close to training set should get higher PLM weight in ensemble
+- **Method**: Pearson/Spearman correlation of nn_tanimoto vs PLM absolute error; stratified analysis by Tanimoto bins
+- **Result**: r = -0.088 (p=0.39) — no correlation. PLM wins 35% at low Tanimoto, 50% at mid, 18% at high. No usable pattern.
+- **File**: `data/validation/plm_sisyphus_error_correlation.json`
+- **Why it failed**: Tanimoto similarity (Morgan FP) captures structural similarity but PK is driven by specific ADME mechanisms (CYP, transporters) that don't correlate with overall structural similarity
+- **Lesson**: Chemical similarity ≠ PK prediction confidence. Need mechanism-specific confidence (e.g., "do I know the CYP substrate class?") not generic similarity
+- **Status**: Abandoned. MW 450-600 pattern noted (PLM wins 61.5%, N=13) but too small to act on
+
+### I3. PLM-Sisyphus Error Correlation Analysis
+- **Date**: 2026-04-07
+- **Result**: Pearson r = 0.644 (signed errors), r = 0.366 (absolute errors)
+- **Oracle best-of-2**: AAFE 1.794 (vs Meta 2.190, PLM 3.355)
+- **PLM wins on 34% of drugs**, opposite error direction on 35%
+- **w=0.1 ensemble**: AAFE 2.198 (≈ Meta parity, no improvement)
+- **Bias**: PLM +0.269 overprediction, Meta +0.037 (near-unbiased)
+- **Conclusion**: Ensemble potential exists (r < 0.7) but cannot be exploited with current methods without cherry-picking
+
 ## Key Metrics Timeline
 
 | Experiment | Best AAFE | Type | Notes |
