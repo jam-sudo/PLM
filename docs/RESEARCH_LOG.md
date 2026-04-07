@@ -210,6 +210,21 @@
 - **Conclusion**: Data is too contaminated for direct use. Would require: (a) text-based human/animal classification of each assay description, (b) mg/kg detection and body weight correction, (c) cross-validation against known human PK values
 - **Status**: BLOCKED. Needs significant re-extraction work
 
+### F11. DailyMed ADME Feature Merge
+- **Date**: 2026-04-07
+- **Pre-registered hypothesis**: Filling TDC NaN features with DailyMed-extracted ADME data (F, PPB, t1/2, CYP, transporters) increases MI and reduces AAFE
+- **Pre-registered success criterion**: AAFE < 3.1
+- **Method**: Extracted ADME features from 84/97 holdout drugs via DailyMed API. Merged 37 NaN fills into TDC. Retrained XGBoost with same architecture
+- **Result**: AAFE 3.355 → 3.358 (+0.003). **FAIL.** 8 drugs improved, 7 degraded, net zero
+- **File**: `data/validation/dailymed_feature_merge_results.json`
+- **Why it failed**:
+  1. Only 37 NaN fills across 29 drugs — too sparse to shift the overall distribution
+  2. Regex-extracted values are noisy (no validation against ground truth)
+  3. Training set features unchanged (DailyMed only extracted for holdout drugs) — feature distribution mismatch
+  4. The 73% model capacity gap (Shannon S7) may require fundamentally different features, not just filling NaN in existing ones
+- **Lesson**: Sparse feature fills (37 values across 29 drugs) don't measurably change a 3,546-sample model. Need dense coverage AND training set parity
+- **Status**: FAIL
+
 ### S7. Information-Theoretic Ceiling Analysis
 - **Date**: 2026-04-07
 - **Method**: Shannon information theory applied to PLM prediction problem

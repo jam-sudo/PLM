@@ -1,0 +1,18 @@
+{
+  "pre_registration": {
+    "hypothesis": "DailyMed ADME fills NaN \u2192 more MI \u2192 lower AAFE",
+    "success_criterion": "AAFE < 3.1"
+  },
+  "merge_stats": {
+    "nan_fills": 37,
+    "drugs_updated": 29
+  },
+  "results": {
+    "baseline_aafe": 3.355,
+    "expanded_aafe": 3.358,
+    "delta": 0.003
+  },
+  "verdict": "FAIL",
+  "n_improved": 8,
+  "n_degraded": 7
+}
