@@ -1,0 +1,38 @@
+{
+  "baseline": {
+    "label": "baseline",
+    "n_train": 3546,
+    "n_train_drugs": 868,
+    "n_holdout": 97,
+    "aafe": 3.355,
+    "f2_pct": 1.0,
+    "f3_pct": 1.0
+  },
+  "expanded": {
+    "label": "expanded",
+    "n_train": 3881,
+    "n_train_drugs": 1202,
+    "n_holdout": 97,
+    "aafe": 3.469,
+    "f2_pct": 1.0,
+    "f3_pct": 1.0
+  },
+  "expanded_w0.3": {
+    "label": "expanded_w0.3",
+    "n_train": 3881,
+    "n_train_drugs": 1202,
+    "n_holdout": 97,
+    "aafe": 3.491,
+    "f2_pct": 1.0,
+    "f3_pct": 1.0
+  },
+  "drugbank_only": {
+    "label": "drugbank_only",
+    "n_train": 705,
+    "n_train_drugs": 697,
+    "n_holdout": 97,
+    "aafe": 4.143,
+    "f2_pct": 1.0,
+    "f3_pct": 1.0
+  }
+}

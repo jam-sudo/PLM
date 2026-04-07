@@ -1,97 +1,137 @@
 # PLM: Pharmacological Language Model
 
-Predicting human plasma concentration-time profiles directly from molecular structure, bypassing IVIVE error propagation chains.
+Predicting human plasma Cmax directly from molecular structure and dosing conditions, bypassing the IVIVE error propagation chain inherent in traditional PBPK approaches.
 
 ## Concept
 
-Traditional PBPK: `SMILES → CLint → fup → Peff → Kp → IVIVE → ODE → C(t) → Cmax`
-- 7 sequential models, each with prediction error
-- Errors propagate multiplicatively through the chain
+**Traditional PBPK** chains 7+ sequential models, each with prediction error that propagates multiplicatively:
 
-PLM: `[SMILES, dose, route, formulation] → C(t) → Cmax, AUC, tmax, t1/2`
-- Single model, no intermediate ADME parameters
-- Error propagation chain eliminated
+```
+SMILES → CLint → fup → Peff → Kp → IVIVE → ODE → C(t) → Cmax
+```
 
-## Data Source
+**PLM** collapses this into a single prediction:
 
-FDA Clinical Pharmacology & Biopharmaceutics Reviews from drugs@FDA.
-~1,200 small molecule NDAs (2000-2025), each containing 3-5 concentration-time figures.
-Target: 3,000-4,000 digitized C-t profiles with standardized metadata.
+```
+[SMILES, dose, route, formulation] → Cmax
+```
 
-## Architecture (Planned)
+## Current Results
 
-**Phase 1 — XGBoost Multi-Output Baseline**
-- Morgan FP + [dose, route, formulation, food_effect] → 13 timepoint log-concentrations
-- Fast to train, works at N=3,000
+| Model | AAFE | 2-fold% | Evaluation | N |
+|-------|------|---------|------------|---|
+| PLM XGBoost (CV best) | **3.275** | 38.2% | 5-fold GroupKFold | 3,490 |
+| PLM XGBoost (holdout) | **3.355** | — | 97-drug holdout | 97 |
+| Sisyphus Meta | 2.283 | ~50% | 107-drug holdout | 107 |
+| Sisyphus ML | 2.336 | — | 107-drug holdout | 107 |
+| Sisyphus Engine | 3.416 | — | 107-drug holdout | 107 |
 
-**Phase 2 — Encoder-Decoder Transformer**
-- SMILES tokenizer + dose/route embeddings → autoregressive C(t) generation
-- Requires N > 10,000 (FDA + EMA + literature)
+Gap to Sisyphus Meta: ~1.5x. Primary bottleneck: training data size and chemical space coverage.
 
-**Phase 3 — Sisyphus Ensemble**
-- Blend physics-based C(t) (Sisyphus engine) with data-driven C(t) (PLM)
-- Timepoint-level weighted averaging
+Full experiment history (39 experiments, including failures): [docs/RESEARCH_LOG.md](docs/RESEARCH_LOG.md)
+
+## Data Pipeline
+
+456 FDA Clinical Pharmacology & Biopharmaceutics Reviews → structured PK data.
+
+| Stage | Output | Count |
+|-------|--------|-------|
+| PDF download (drugs@FDA) | FDA review PDFs | 456 |
+| Figure extraction (PyMuPDF) | Figure images | 14,000+ |
+| Auto-digitization (EasyOCR + OpenCV) | C-t profiles | 592/927 (63.9%) |
+| LLM table extraction (Claude) | PK tuples (Cmax, AUC, t1/2) | 1,333 from 226 drugs |
+| Unit normalization | Standardized ng/mL | All data |
+| Training set (v10 + Sisyphus) | Model-ready profiles | 3,490 |
+| Holdout set | Evaluation drugs (Sisyphus-aligned) | 97 drugs |
+
+## Model
+
+XGBoost with drug-level GroupKFold cross-validation.
+
+- **Features**: Morgan FP 2048-bit + log10(dose) + route/formulation/food one-hot + physicochemical descriptors + TDC ADME predictions
+- **Target**: log10(Cmax_ngml / dose_mg) — dose-normalized, dimensionless
+- **Evaluation**: Cmax AAFE on 97-drug holdout (no drug overlap with training)
+- **Unit convention**: All concentrations in ng/mL. Sisyphus predictions in mg/L (1 mg/L = 1000 ng/mL, converted at comparison boundaries)
+
+## Clinical Trial Simulator
+
+Standalone PK-driven trial simulator in `simulator/`. Simulates virtual clinical trials with:
+
+- 1-compartment PK engine with allometric scaling and absorption lag time
+- Two-state Markov adherence model with dose-timing jitter
+- Concentration-dependent AE model (Cmax-driven sigmoid)
+- Emax efficacy model (Ctrough-driven)
+- PK-AE feedback loop: adverse events reduce adherence, reducing exposure
+- Multi-arm dose-finding support
+
+```bash
+python -m pytest tests/test_simulator.py -v    # 78 tests
+python -m simulator.demo                        # 4-arm dose-finding demo
+python -m simulator.real_drug_test              # Random real drug simulation
+```
 
 ## Project Structure
 
 ```
 PLM/
-├── README.md
-├── CLAUDE.md                    # Source of truth for Claude Code
-├── LICENSE
-├── requirements.txt
-├── data/
-│   ├── raw/                     # Downloaded FDA PDFs
-│   │   └── .gitkeep
-│   ├── figures/                 # Extracted figure images
-│   │   └── .gitkeep
-│   ├── digitized/               # Digitized C-t profiles (JSON/CSV)
-│   │   └── .gitkeep
-│   ├── curated/                 # QC-passed, standardized profiles
-│   │   └── .gitkeep
-│   └── splits/                  # Train/val/test splits
-│       └── .gitkeep
-├── pipeline/
-│   ├── __init__.py
-│   ├── scraper.py               # FDA PDF download automation
-│   ├── figure_extractor.py      # PDF → figure images (PyMuPDF)
-│   ├── digitizer.py             # Figure → data points (ChartOCR/LLM)
-│   ├── caption_parser.py        # Caption → metadata (Claude API)
-│   ├── normalizer.py            # Unit harmonization, interpolation
-│   └── quality_filter.py        # Automated QC checks
+├── CLAUDE.md                          # Project spec (source of truth)
+├── docs/
+│   ├── RESEARCH_LOG.md                # All experiments: successes + failures
+│   └── scaleup_plan.md               # PDF extraction scale-up plan
+├── pipeline/                          # Data extraction & experiments (33 scripts)
+│   ├── scraper.py                     #   FDA PDF download
+│   ├── figure_extractor.py            #   PDF → figure images
+│   ├── auto_digitizer.py              #   Figure → C-t data (OCR + curve tracing)
+│   ├── llm_extractor.py              #   PDF text → PK table extraction (LLM)
+│   ├── normalizer.py                  #   Unit normalization (ng/mL standard)
+│   ├── novel_experiment.py            #   Latest XGBoost experiment
+│   ├── ho_diagnostic.py               #   Holdout error decomposition
+│   └── ...                            #   + 26 more experiment/evaluation scripts
 ├── models/
-│   ├── __init__.py
-│   ├── xgb_multioutput.py       # Phase 1: XGBoost baseline
-│   ├── transformer.py           # Phase 2: Encoder-decoder
-│   └── ensemble.py              # Phase 3: Sisyphus + PLM blend
+│   ├── train_xgboost.py               # Phase 1 XGBoost trainer
+│   ├── pretrain_adme_xgb.py           # ADME feature pretraining
+│   ├── novel_phase{1,2,3}.pkl         # Trained model checkpoints
+│   └── *_results.json                 # Experiment results
+├── simulator/                         # Clinical trial simulator
+│   ├── patient.py                     #   Virtual population generator
+│   ├── pk_engine.py                   #   Analytical PK + PLM adapter stub
+│   ├── adherence.py                   #   Markov adherence + jitter
+│   ├── pharmacology.py                #   AE (sigmoid) + efficacy (Emax)
+│   ├── trial.py                       #   Multi-arm trial engine
+│   ├── visualize.py                   #   Publication-quality plots
+│   └── demo.py                        #   4-arm dose-finding demo
+├── data/
+│   ├── raw/                           # 456 FDA PDFs (not in git)
+│   ├── curated/                       # Cleaned datasets (v0.4 → v10)
+│   ├── llm_extracted/                 # LLM-extracted PK tuples
+│   ├── validation/                    # Holdout definition + 39 result JSONs
+│   └── trial_sim_plots/               # Simulator output plots
+├── tests/
+│   └── test_simulator.py              # 78 unit tests
 ├── evaluation/
-│   ├── __init__.py
-│   ├── metrics.py               # AAFE, %2-fold, C-t RMSE
-│   └── benchmark.py             # Holdout evaluation, comparison vs Sisyphus
-├── notebooks/
-│   ├── 01_feasibility_test.ipynb
-│   └── .gitkeep
-├── scripts/
-│   └── .gitkeep
-└── tests/
-    └── .gitkeep
+│   └── metrics.py                     # AAFE, fold-accuracy metrics
+└── requirements.txt
 ```
 
-## Evaluation
+## Setup
 
-Primary: Cmax AAFE on holdout set (drug-level time-split)
-Secondary: AUC AAFE, tmax MAE, C(t) log-RMSE
-Benchmark: vs Sisyphus (AAFE 2.283), vs Sanofi hierarchical ML (2-fold 40-60%)
+```bash
+pip install -r requirements.txt
+```
+
+Requires Python 3.10+. Key dependencies: RDKit, XGBoost, scikit-learn, PyMuPDF, EasyOCR.
+
+FDA PDFs are not included in the repository (too large). To reproduce from scratch, run `pipeline/scraper.py` with access to drugs@FDA.
 
 ## Related Work
 
-- Sisyphus PBPK Platform: [github.com/jam-sudo/Sisyphus](https://github.com/jam-sudo/Sisyphus)
+- **Sisyphus PBPK Platform**: [github.com/jam-sudo/Sisyphus](https://github.com/jam-sudo/Sisyphus) — physics-based PK prediction (AAFE 2.283)
 - Jia et al. (2025) J Med Chem — 800 digitized C-t profiles, PBPK hybrid
-- Pillai et al. (2024) Clin Transl Sci — Sanofi ML framework for PK profiles
+- Pillai et al. (2024) Clin Transl Sci — Sanofi ML framework (2-fold 40-60%)
 
-## Status
+## License
 
-**Pre-feasibility** — Validating FDA PDF extraction pipeline.
+MIT
 
 ## Author
 

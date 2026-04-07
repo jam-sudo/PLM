@@ -40,29 +40,53 @@ PLM (Pharmacological Language Model) predicts human plasma concentration-time
 profiles directly from [SMILES, dose, route, formulation], eliminating the
 IVIVE error propagation chain inherent in traditional PBPK approaches.
 
-## Current Phase: Phase 1 XGBoost Baseline Complete
+## Current Phase: XGBoost Baseline + Data Expansion
 
-### Completed: Full Pipeline (Feasibility → Scale-Up → Model)
-- [x] 266 ClinPharmR PDFs downloaded from FDA
-- [x] 13,108 figures extracted, 927 C-t candidates identified
+### Completed Pipeline
+- [x] 456 ClinPharmR PDFs downloaded from FDA
+- [x] 14,000+ figures extracted, 927 C-t candidates identified
 - [x] Auto-digitizer v2: 592/927 success (63.9%)
 - [x] Dataset v0.4: 427 profiles, 100 drugs, 90 SMILES
 - [x] Dataset v0.5 (cleaned): 199 profiles, 72 drugs, Sisyphus cross-validated
-- [x] Phase 1 XGBoost: AAFE 5.2 (Sisyphus-validated subset, N=67)
+- [x] Phase 1 XGBoost baseline: AAFE 10.1 → 3.3 (table extraction + feature eng)
+- [x] LLM-based PK table extraction from FDA PDFs (data tool, not predictor)
+- [x] Holdout defined: 97 drugs (from Sisyphus 107, matched by InChIKey)
+- [x] Clinical trial simulator POC (simulator/ package)
 
-### XGBoost Results
-| Dataset | N | Drugs | AAFE | 2-fold% |
-|---------|---|-------|------|---------|
-| v0.4 noisy | 316 | 81 | 10.1 | 19% |
-| v0.5 cleaned | 199 | 71 | 7.8 | 22% |
-| v0.5 Sis-validated | 67 | 30 | **5.2** | 19% |
-| Sisyphus Meta | ~500 | ~200 | **2.3** | ~50% |
+### PLM Model Progression (structure-based, no leakage)
+| Version | AAFE | 2-fold% | Type | Notes |
+|---------|------|---------|------|-------|
+| v0.4 figure-digitized | 10.1 | 19% | CV | Auto-digitization noise |
+| v2 table-extracted | **3.275** | **38.2%** | CV | PDF table extraction |
+| v3 clean holdout | 3.723 | 36.1% | HO | Cleaned + holdout eval |
+| v6 tuned holdout | 3.964 | 32.0% | HO | Feature engineering |
+| Sisyphus Meta | **2.283** | ~50% | HO | N=107 benchmark |
 
-### Next Goal: Close gap to Sisyphus AAFE 2.3
-- Primary bottleneck: data quality (auto-digitization noise)
-- Path 1: Manual C-t digitization for 200+ high-quality profiles
-- Path 2: Improved auto-digitizer (CNN classifier + better OCR)
-- Path 3: Direct PK table extraction from PDF text (bypass figures)
+### LLM Predictions (DATA LEAKAGE — not PLM performance)
+| Method | AAFE | Notes |
+|--------|------|-------|
+| LLM direct | 2.228 | LLM recalls Cmax from training corpus |
+| LLM 5-round trimmed | 2.144 | Multi-prompt aggregation |
+| LLM CoT median | 2.187 | Chain-of-thought |
+
+**WARNING**: LLM predictions use drug NAME → Cmax recall, not SMILES → Cmax
+prediction. Holdout drugs are marketed compounds present in LLM training
+data (medical literature, FDA labels). This is **data leakage**, not
+generalizable prediction. LLM results are useful as a data extraction
+tool (mining PK tables from PDFs) but MUST NOT be cited as PLM model
+performance. For novel compounds with no published PK, LLM cannot predict.
+
+### Current Status
+- **PLM XGBoost (real performance): AAFE 3.3 (CV), 3.7-4.0 (holdout)**
+- Gap to Sisyphus: ~1.5x (3.3 vs 2.3)
+- Primary bottleneck: training data size (199 profiles vs Sisyphus ~500)
+- LLM value: data extraction tool (mining PK from FDA PDFs), not predictor
+
+### Next Steps
+- Data expansion: 200 → 1000+ profiles (LLM table extraction from 456 PDFs)
+- Close AAFE gap: 3.3 → sub-3.0 (data quantity is primary lever)
+- External validation against Sanofi/Jia 2025 dataset
+- Trial simulator integration: plug PLMPKEngine into simulator/
 
 ## Architecture Decisions
 
@@ -103,23 +127,30 @@ Interpolation to fixed grid for model input:
 - Nonlinear PK drugs flagged in metadata
 
 ### Formulation Encoding
-Categories: IR_tablet, IR_capsule, ER_tablet, ER_capsule,
-solution, suspension, sublingual, IV_bolus, IV_infusion,
-IM_injection, SC_injection, transdermal, other
+Categories: IR_tablet, IR_capsule, IR_capsule_soft, ER_tablet,
+ER_capsule, solution, suspension, sublingual, IV_bolus, IV_infusion,
+IM_injection, SC_injection, transdermal, ODT, other
 
 ### Food Effect Encoding
-Categories: fasted, fed, not_specified
+Categories: fasted, fed, fed_highfat, fed_standard, fed_light, not_specified
 
-## Model Phases
+## Model Approaches
 
-### Phase 1: XGBoost Multi-Output (current target)
+### XGBoost Multi-Output (baseline, AAFE 3.3 CV)
 - Features: Morgan FP 2048 + [log10(dose), route_onehot, form_onehot, food_onehot]
+- Extended features explored: ADME pretrained encoder, 3D descriptors,
+  ionization state, physicochemical properties
 - Target: 13 timepoint log10(C/dose) values
-- One XGBoost model per timepoint, or sklearn MultiOutputRegressor
-- Evaluation: Cmax AAFE on drug-level time-split holdout
+- Evaluation: Cmax AAFE on drug-level holdout (97 drugs)
 
-### Phase 2: Transformer (future, N > 10,000)
-### Phase 3: Sisyphus Ensemble (future)
+### LLM as Data Extraction Tool (NOT a predictor)
+- Extracts PK tables from FDA review PDFs → structured JSON
+- Useful for expanding training data (mining Cmax/AUC/t1/2 from 456 PDFs)
+- LLM "predictions" (AAFE 2.1-2.2) are data leakage: LLM recalls
+  published PK from training corpus, not structure-based prediction
+- Cannot generalize to novel compounds without published PK data
+
+### Future: Transformer (requires N > 10,000 profiles)
 
 ## Key Constraints
 
@@ -136,19 +167,38 @@ Categories: fasted, fed, not_specified
 - Sisyphus Engine AAFE: 3.416
 - Sanofi (Jia 2025): Cmax 2-fold 40-60% (N=106 test)
 
+## Unit Convention (CRITICAL)
+- All concentrations stored as **ng/mL** in training data (`cmax_ng_ml`)
+- Sisyphus predictions stored as **mg/L** (`cmax_sisyphus_meta_mgL`)
+- Conversion: **1 mg/L = 1000 ng/mL** (applied at comparison boundaries)
+- Model target: **log10(C_ngml / dose_mg)** — dimensionless
+- Audit (2026-04-07): all ×1000 conversions verified correct across pipeline
+
 ## Dependencies
 - Python 3.10+
 - PyMuPDF (fitz) — PDF processing
 - RDKit — molecular features
-- XGBoost — Phase 1 model
+- XGBoost — baseline model
 - scikit-learn — preprocessing, evaluation
 - easyocr — figure axis label OCR
 - opencv-python-headless — curve tracing
 - requests — FDA download
 - numpy, pandas, matplotlib, scipy
 
+## Repository Structure
+- `pipeline/` — PDF extraction, digitization, normalization, experiments
+- `models/` — XGBoost training, ADME pretraining, result JSONs
+- `simulator/` — Clinical trial simulator (PK engine, adherence, efficacy)
+- `data/validation/` — Holdout definition, all experiment results
+- `data/curated/` — Cleaned datasets (v0.4, v0.5)
+- `data/raw/` — 456 FDA PDFs (not in git)
+- `tests/` — Simulator unit tests (78 tests)
+- `docs/RESEARCH_LOG.md` — All experiment results (successes + failures)
+- `docs/scaleup_plan.md` — PDF extraction scale-up plan
+
 ## Repository Rules
 - No FDA PDFs committed to git (too large, add to .gitignore)
 - Digitized data (JSON/CSV) committed to git
-- All experiments documented in this file
+- Experiment results stored in data/validation/*.json
+- **All experiments (success + failure) documented in [docs/RESEARCH_LOG.md](docs/RESEARCH_LOG.md)**
 - Gate-based experimental protocol (same as Sisyphus)

@@ -1,1 +1,4 @@
-- [PLM Scale-Up Plan](project_scaleup_plan.md) — 7-phase plan to scale C-t extraction to 50-100 NDAs, targeting 500-1500 profiles
+- [PLM Scale-Up Plan](project_scaleup_plan.md) — 7-phase plan to scale C-t extraction to 50-100 NDAs
+- [Research Log Location](project_research_log.md) — docs/RESEARCH_LOG.md has all experiment results (6 successes, 6 failures, 2 leakage warnings)
+- [Data Quality > Quantity](feedback_data_quality.md) — DrugBank synthetic experiment proved noisy data hurts model (AAFE +0.11)
+- [LLM Predictions = Leakage](feedback_llm_leakage.md) — LLM AAFE 2.1 is memorized recall, not model performance; user corrected this
