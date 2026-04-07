@@ -191,6 +191,15 @@
 - **Lesson**: The auto-digitizer's 63.9% success rate was not bottlenecked by OCR quality — it failed because 36% of "C-t candidates" were never C-t curves to begin with
 - **Status**: Low ROI. VLM digitizer script preserved (`pipeline/vlm_digitizer.py`) for future use on confirmed C-t figures
 
+### F10. ChEMBL Conservative Salvage
+- **Date**: 2026-04-07
+- **Pre-registered hypothesis**: Conservatively filtered ChEMBL (dose>=100mg, log_cd within v10 range) adds 174 novel drugs without introducing noise
+- **Method**: Filter 8,002 → 174 entries (dose>=100mg, log_cd in [p10,p90] of v10). Added to training with w=1.0, 0.3, 0.1
+- **Result**: AAFE 3.355 → 3.372 (w=1.0), 3.427 (w=0.3), 3.444 (w=0.1). All worse. **FAIL**
+- **File**: `data/validation/chembl_salvage_results.json`
+- **Why it failed**: Even after aggressive filtering, remaining animal data contamination and unit inconsistencies add noise. v10 data quality is strictly superior
+- **Status**: FAIL. ChEMBL data confirmed unusable for PLM training in current form
+
 ### I4. ChEMBL 8,002 Data Quality Audit
 - **Date**: 2026-04-07
 - **Finding**: ChEMBL PK expansion (8,002 entries) has 3 overlapping data quality issues:

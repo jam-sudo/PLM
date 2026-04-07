@@ -1,0 +1,22 @@
+{
+  "pre_registration": {
+    "hypothesis": "Conservative ChEMBL filter (dose>=100, log_cd in v10 range) improves PLM",
+    "success_criterion": "AAFE < 3.300"
+  },
+  "chembl_filter": {
+    "dose_min": 100,
+    "log_cd_range": [
+      -0.34,
+      1.52
+    ],
+    "n_filtered": 174,
+    "n_valid": 174
+  },
+  "results": {
+    "baseline": 3.355,
+    "expanded_w1.0": 3.372,
+    "expanded_w0.3": 3.427,
+    "expanded_w0.1": 3.444
+  },
+  "verdict": "FAIL"
+}
