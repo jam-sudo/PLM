@@ -131,6 +131,11 @@ def load_fda_table_parsed() -> List[Dict]:
             'tier': 'T3',
             'confidence': e.get('confidence', 'medium'),
             'nda': e.get('nda', ''),
+            'route': e.get('route', ''),
+            'formulation': e.get('formulation', ''),
+            'food': e.get('food', ''),
+            'population': e.get('population', ''),
+            'dose_schedule': e.get('dose_schedule', ''),
             'auc_ng_h_ml': e.get('auc_ng_h_ml'),
             'tmax_h': e.get('tmax_h'),
             't_half_h': e.get('t_half_h'),
@@ -163,6 +168,11 @@ def load_llm_extraction() -> List[Dict]:
             'tier': 'T2',
             'confidence': e.get('confidence', 'medium'),
             'nda': e.get('nda', ''),
+            'route': e.get('route', ''),
+            'formulation': e.get('formulation', ''),
+            'food': e.get('food', ''),
+            'population': e.get('population', ''),
+            'dose_schedule': e.get('dose_schedule', ''),
             'auc_ng_h_ml': e.get('auc_inf_ng_h_ml') or e.get('auc_last_ng_h_ml'),
             'tmax_h': e.get('tmax_h'),
             't_half_h': e.get('t_half_h'),
@@ -202,15 +212,56 @@ def load_external_integrated() -> List[Dict]:
             'inchikey14': ik,
             'source': src,
             'tier': tier,
+            'route': e.get('route', ''),
+            'formulation': e.get('formulation', ''),
+            'food': e.get('food', ''),
+            'population': e.get('population', ''),
+            'dose_schedule': e.get('dose_schedule', ''),
         })
     return entries
 
 
 # ─── Deduplication ───────────────────────────────────────────────
 
+def normalize_condition(val: str) -> str:
+    """Normalize condition string for dedup comparison."""
+    if not val or val in ('', 'not_specified', 'unknown', 'None', None):
+        return ''
+    return val.strip().lower()
+
+
+def condition_key(e: Dict) -> str:
+    """Build a condition key for dedup: formulation|food|route.
+    Empty string if no conditions specified (matches anything)."""
+    form = normalize_condition(e.get('formulation', ''))
+    food = normalize_condition(e.get('food', ''))
+    route = normalize_condition(e.get('route', ''))
+    return f"{form}|{food}|{route}"
+
+
+def conditions_match(key1: str, key2: str) -> bool:
+    """Two condition keys match if they're identical,
+    or if either has all-empty fields (no info → assume same)."""
+    if key1 == key2:
+        return True
+    # If either is fully empty (no condition info), treat as match
+    if key1 == '||' or key2 == '||':
+        return True
+    # Partial match: compare non-empty fields
+    parts1 = key1.split('|')
+    parts2 = key2.split('|')
+    for p1, p2 in zip(parts1, parts2):
+        if p1 and p2 and p1 != p2:
+            return False  # Explicit conflict
+    return True
+
+
 def dedup_entries(all_entries: List[Dict]) -> Tuple[List[Dict], dict]:
-    """Deduplicate entries by InChIKey14 + dose (within tolerance).
-    When duplicates exist, keep the highest-tier entry."""
+    """Deduplicate entries by InChIKey14 + dose + conditions.
+
+    Condition-aware: same drug+dose but different formulation (IR vs ER),
+    food (fasted vs fed), or route (oral vs IV) are KEPT as separate entries.
+    Only true duplicates (same drug, dose, conditions) are merged."""
 
     tier_priority = {'T1': 0, 'T2': 1, 'T3': 2, 'T4': 3}
 
@@ -226,28 +277,47 @@ def dedup_entries(all_entries: List[Dict]) -> Tuple[List[Dict], dict]:
 
     deduped = []
     dup_stats = {'total_before': len(all_entries), 'duplicates_removed': 0,
-                 'unique_drugs': len(by_ik), 'no_inchikey': len(no_ik)}
+                 'unique_drugs': len(by_ik), 'no_inchikey': len(no_ik),
+                 'condition_preserved': 0}
 
     for ik, entries in by_ik.items():
-        # Sort by tier priority (T1 first), then by source
+        # Sort by tier priority (T1 first)
         entries.sort(key=lambda e: tier_priority.get(e.get('tier', 'T4'), 4))
 
-        # Group by dose
-        dose_groups = []
+        # Group by dose + condition
+        dose_cond_groups = []
         for e in entries:
             dose = e.get('dose_mg')
+            ckey = condition_key(e)
             matched = False
-            for group in dose_groups:
-                if dose_match(dose, group[0].get('dose_mg', 0)):
+            for group in dose_cond_groups:
+                ref = group[0]
+                ref_ckey = condition_key(ref)
+                if dose_match(dose, ref.get('dose_mg', 0)) and conditions_match(ckey, ref_ckey):
                     group.append(e)
                     matched = True
                     break
             if not matched:
-                dose_groups.append([e])
+                dose_cond_groups.append([e])
 
-        for group in dose_groups:
-            # Keep the best-tier entry
-            best = group[0]  # already sorted by tier
+        # Track how many extra entries we preserved due to conditions
+        if len(dose_cond_groups) > 1:
+            # Check if any were saved by condition differentiation
+            dose_only_groups = []
+            for e in entries:
+                dose = e.get('dose_mg')
+                matched = False
+                for group in dose_only_groups:
+                    if dose_match(dose, group[0].get('dose_mg', 0)):
+                        group.append(e)
+                        matched = True
+                        break
+                if not matched:
+                    dose_only_groups.append([e])
+            dup_stats['condition_preserved'] += len(dose_cond_groups) - len(dose_only_groups)
+
+        for group in dose_cond_groups:
+            best = group[0]  # highest tier
             best['n_sources'] = len(group)
             best['all_sources_list'] = list(set(e.get('source', '') for e in group))
             deduped.append(best)
