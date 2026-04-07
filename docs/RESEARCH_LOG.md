@@ -210,6 +210,21 @@
 - **Conclusion**: Data is too contaminated for direct use. Would require: (a) text-based human/animal classification of each assay description, (b) mg/kg detection and body weight correction, (c) cross-validation against known human PK values
 - **Status**: BLOCKED. Needs significant re-extraction work
 
+### S7. Information-Theoretic Ceiling Analysis
+- **Date**: 2026-04-07
+- **Method**: Shannon information theory applied to PLM prediction problem
+- **Key Results**:
+  - Channel capacity (SMILES→Cmax): 2.50 bits/prediction
+  - Model captures: 0.318 bits (12.7% of channel)
+  - CV R² = 0.356 (64% of variance unexplained)
+  - Noise floor AAFE: 1.269 (theoretical best)
+  - **Model capacity gap: 1.537** (noise→CV, 73% of total error)
+  - **Generalization gap: 0.549** (CV→holdout, 27% of total error)
+- **Critical insight**: 10 failed experiments were all attacking the generalization gap (27%) while the model capacity gap (73%) was the true bottleneck. 87% of predictable information in SMILES→Cmax channel is not captured by current features.
+- **Feature MI decomposition**: Morgan FP alone = 0.125 bits (5%), all features = 0.318 bits (13%). TDC ADME features contribute 60% of captured information despite being available for only 58% of holdout drugs.
+- **Prescription**: New information sources needed — not more data points with same features, but higher-coverage ADME features (CYP panel, transporter, continuous F, in-vitro CL)
+- **Status**: PARADIGM SHIFT. Redirects strategy from data expansion to feature coverage expansion.
+
 ## Key Metrics Timeline
 
 | Experiment | Best AAFE | Type | Notes |
