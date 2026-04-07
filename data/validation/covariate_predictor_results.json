@@ -1,0 +1,43 @@
+{
+  "n_entries": 513,
+  "n_drugs": 126,
+  "baselines": {
+    "no_change": {
+      "aafe": 1.852,
+      "within_2x": 73.9
+    },
+    "condition_mean": {
+      "aafe": 1.654,
+      "within_2x": 77.2
+    }
+  },
+  "models": {
+    "ridge": {
+      "n": 513,
+      "n_drugs": 126,
+      "mae_log2": 0.808,
+      "r2": -0.0636,
+      "aafe": 1.751,
+      "within_1.5x": 52.8,
+      "within_2x": 72.5
+    },
+    "gbr": {
+      "n": 513,
+      "n_drugs": 126,
+      "mae_log2": 0.7666,
+      "r2": 0.0031,
+      "aafe": 1.701,
+      "within_1.5x": 54.4,
+      "within_2x": 75.2
+    },
+    "rf": {
+      "n": 513,
+      "n_drugs": 126,
+      "mae_log2": 0.7172,
+      "r2": 0.0615,
+      "aafe": 1.644,
+      "within_1.5x": 59.6,
+      "within_2x": 77.0
+    }
+  }
+}
