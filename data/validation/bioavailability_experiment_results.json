@@ -1,0 +1,38 @@
+{
+  "pre_registration": {
+    "hypothesis": "Predicted F feature reduces low-F overprediction",
+    "success_criteria": [
+      "overall AAFE < 3.2",
+      "F<20% AAFE < 4.0"
+    ]
+  },
+  "f_classifier_cv_auc": 0.71,
+  "results": {
+    "baseline": {
+      "aafe": 3.355,
+      "bias": 0.2687,
+      "n": 97,
+      "aafe_f_high": 2.627,
+      "aafe_f_low": 6.018,
+      "aafe_f_unknown": 3.906,
+      "n_f_high": 47,
+      "n_f_low": 9,
+      "n_f_unknown": 41
+    },
+    "with_F_feature": {
+      "aafe": 3.407,
+      "bias": 0.2716,
+      "n": 97,
+      "aafe_f_high": 2.681,
+      "aafe_f_low": 6.861,
+      "aafe_f_unknown": 3.846,
+      "n_f_high": 47,
+      "n_f_low": 9,
+      "n_f_unknown": 41
+    }
+  },
+  "verdict": {
+    "overall_improved": false,
+    "f_low_improved": false
+  }
+}

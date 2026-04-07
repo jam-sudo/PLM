@@ -1,0 +1,34 @@
+[
+  {
+    "image_path": "/home/jam/PLM/data/figures/NDA022075/NDA022075_ClinPharmR_p155_img00.png",
+    "note": "Combined from 3 image fragments: p155_img00 (main plot left/peak), p155_img01 (inset 0-48h), p155_img02 (extended 0-400h). Legend in p155_img03.",
+    "drug_name": "istradefylline",
+    "nda": "NDA022075",
+    "y_unit": "ng/mL",
+    "x_unit": "h",
+    "curve_label": "Fasted (control arm, open circles/dotted line)",
+    "dose_info": "single dose, dose not labeled on figure",
+    "timepoints_h": [0, 1, 2, 3, 4, 5, 8, 12, 16, 24, 48, 75, 100, 150, 200, 250, 300, 350],
+    "concentrations": [0, 5, 80, 140, 150, 145, 58, 42, 35, 30, 12, 8, 5, 3, 1.5, 1, 0.5, 0.3],
+    "cmax_estimated": 150,
+    "tmax_estimated_h": 4,
+    "confidence": "medium",
+    "confidence_notes": "Figure split across 3 image fragments requiring cross-referencing. Peak region (0-6h) read from main plot (y up to 300 ng/mL). Mid elimination (8-48h) from inset (y up to ~120 ng/mL). Terminal phase (50-350h) from extended plot (y up to ~80 ng/mL). Points in extended plot are small and scale reconciliation introduces uncertainty. Istradefylline t1/2 ~99h from PK table on p234 supports very slow terminal decline."
+  },
+  {
+    "image_path": "/home/jam/PLM/data/figures/NDA022075/NDA022075_ClinPharmR_p155_img00.png",
+    "note": "Combined from 3 image fragments: p155_img00, p155_img01, p155_img02. Fed arm from same food effect study.",
+    "drug_name": "istradefylline",
+    "nda": "NDA022075",
+    "y_unit": "ng/mL",
+    "x_unit": "h",
+    "curve_label": "Fed (treatment arm, filled circles/solid line)",
+    "dose_info": "single dose, dose not labeled on figure",
+    "timepoints_h": [0, 1, 2, 3, 4, 5, 8, 12, 16, 24, 48, 75, 100, 150, 200, 250, 300, 350],
+    "concentrations": [0, 15, 150, 260, 265, 240, 80, 55, 50, 42, 22, 15, 10, 5, 3, 2, 1, 0.5],
+    "cmax_estimated": 265,
+    "tmax_estimated_h": 4,
+    "confidence": "medium",
+    "confidence_notes": "Same figure fragment issues as fasted curve. Fed arm shows ~1.8x higher Cmax vs fasted, consistent with typical food effect for lipophilic drugs. Peak values (260-265 ng/mL) read from main plot y-axis. Terminal phase values have higher uncertainty due to small data points in compressed extended plot."
+  }
+]

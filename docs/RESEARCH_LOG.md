@@ -148,6 +148,20 @@
 
 ---
 
+### F8. Bioavailability Feature Addition
+- **Date**: 2026-04-07
+- **Pre-registered hypothesis**: Adding predicted P(F>20%) as feature reduces low-F overprediction
+- **Pre-registered success criteria**: F<20% AAFE 6.0→<4.0 OR overall AAFE 3.355→<3.2
+- **Method**: XGBoost classifier on TDC bioavailability data (640 drugs, AUC=0.710), P(F>20%) + log(F_proxy) as 2 extra features
+- **Result**: Overall 3.355→3.407 (+0.052 worse), F<20% 6.018→6.861 (+0.843 worse). **Both criteria FAIL**
+- **File**: `data/validation/bioavailability_experiment_results.json`, `pipeline/bioavailability_experiment.py`
+- **Why it failed**:
+  1. F classifier AUC=0.710 — too weak to provide useful signal
+  2. N=9 low-F drugs in holdout — model can't learn to use F feature meaningfully
+  3. Weak feature adds noise → spurious XGBoost splits → overfitting
+- **Lesson**: Predicted feature is only useful when the predictor itself is strong (AUC>0.85+). Weak predictions add noise, not signal
+- **Status**: FAIL. Both criteria missed.
+
 ### F7. Tanimoto-Gated Ensemble
 - **Date**: 2026-04-07
 - **Hypothesis**: PLM accuracy correlates with nn_tanimoto to training set; drugs close to training set should get higher PLM weight in ensemble
@@ -166,6 +180,26 @@
 - **w=0.1 ensemble**: AAFE 2.198 (≈ Meta parity, no improvement)
 - **Bias**: PLM +0.269 overprediction, Meta +0.037 (near-unbiased)
 - **Conclusion**: Ensemble potential exists (r < 0.7) but cannot be exploited with current methods without cherry-picking
+
+### F9. VLM Figure Re-Digitization (low yield)
+- **Date**: 2026-04-07
+- **Hypothesis**: Claude vision can extract C-t data from 335 figures that OCR-based auto-digitizer failed on, recovering ~100+ profiles
+- **Method**: Caption-based classification identified 192 "C-t candidates". Processed 32 figures across 2 batches using Claude vision
+- **Result**: 3 C-t curves extracted from 32 figures (9.4% hit rate). Projected yield for all 192: ~18 curves
+- **Why low yield**: Most "failed" figures are actually PK parameter tables (not plots), PD plots, study design tables, or legend fragments. Caption keywords like "concentration" appear in table captions too
+- **Extracted**: Istradefylline fasted/fed (2 curves), R-warfarin (1 curve)
+- **Lesson**: The auto-digitizer's 63.9% success rate was not bottlenecked by OCR quality — it failed because 36% of "C-t candidates" were never C-t curves to begin with
+- **Status**: Low ROI. VLM digitizer script preserved (`pipeline/vlm_digitizer.py`) for future use on confirmed C-t figures
+
+### I4. ChEMBL 8,002 Data Quality Audit
+- **Date**: 2026-04-07
+- **Finding**: ChEMBL PK expansion (8,002 entries) has 3 overlapping data quality issues:
+  1. **Animal data contamination**: `assay_organism` filter doesn't catch entries where organism=None. Rat/mouse PK data mixed with human
+  2. **mg/kg → mg dose parsing error**: 64% of entries have dose ≤10mg (median 10mg vs v10 median 60mg). Regex extracts "10 mg" from "10 mg/kg" descriptions
+  3. **Persistent log_cd shift**: Even at matched dose bins, ChEMBL log_cd is +0.7 higher than v10 (~5x Cmax/dose), likely from animal PK or nM→ng/mL conversion issues
+- **File**: `data/curated/chembl_pk_expansion.json`, `pipeline/chembl_expansion.py`
+- **Conclusion**: Data is too contaminated for direct use. Would require: (a) text-based human/animal classification of each assay description, (b) mg/kg detection and body weight correction, (c) cross-validation against known human PK values
+- **Status**: BLOCKED. Needs significant re-extraction work
 
 ## Key Metrics Timeline
 

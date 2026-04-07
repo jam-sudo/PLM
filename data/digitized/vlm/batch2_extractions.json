@@ -1,0 +1,103 @@
+[
+  {
+    "image_path": "data/figures/NDA213006/NDA213006_ClinPharmR_p069_img00.png",
+    "source_nda": "NDA213006",
+    "drug_name": "warfarin",
+    "analyte": "R-warfarin",
+    "y_unit": "ng/mL",
+    "timepoints_h": [0, 2, 4, 6, 10, 20, 25, 36, 48, 72, 96, 120, 132, 144],
+    "concentrations": [0, 500, 540, 500, 360, 350, 340, 300, 250, 195, 150, 105, 80, 65],
+    "curve_label": "R-warfarin Alone (control arm, blue triangles)",
+    "study_context": "DDI study: R-warfarin alone vs R-warfarin + vibegron. Control arm extracted.",
+    "dose_mg": 25,
+    "dose_note": "Assumed standard 25 mg warfarin DDI study dose; not explicitly visible in figure",
+    "route": "oral",
+    "formulation": "IR_tablet",
+    "n_timepoints": 14,
+    "cmax_estimated_ng_ml": 540,
+    "tmax_estimated_h": 4,
+    "confidence": "medium",
+    "confidence_notes": "Mean curve with error bars clearly visible. Moderate resolution. Y-axis gridlines at 160 intervals allow reasonable interpolation. Warfarin dose assumed not confirmed from figure."
+  },
+  {
+    "image_path": "data/figures/NDA209531/NDA209531_ClinPharmR_p042_img01.png",
+    "source_nda": "NDA209531",
+    "drug_name": "nusinersen",
+    "skipped": true,
+    "skip_reason": "Nusinersen is an antisense oligonucleotide (not a small molecule), excluded per project scope. Additionally, this is a spaghetti plot of individual subjects (not a mean curve), with low image resolution making reliable digitization infeasible.",
+    "figure_description": "Two-panel individual subject PK spaghetti plot. Plasma Concentration (ng/mL) vs Time After First Dose (h). LP Injection vs Sham Procedure. Panels split by CSF concentration threshold (<=100 vs >100 nmol/L)."
+  },
+  {
+    "image_path": "data/figures/NDA209531/NDA209531_ClinPharmR_p088_img00.png",
+    "skipped": true,
+    "skip_reason": "File does not exist."
+  },
+  {
+    "image_path": "data/figures/NDA211192/NDA211192_ClinPharmR_p040_img00.png",
+    "skipped": true,
+    "skip_reason": "Table (AUC, Cmax, Tmax for males/females at different doses), not a C-t plot."
+  },
+  {
+    "image_path": "data/figures/NDA211192/NDA211192_ClinPharmR_p040_img01.png",
+    "skipped": true,
+    "skip_reason": "Table (AUC, Cmax, Tmax combined sexes at different doses), not a C-t plot."
+  },
+  {
+    "image_path": "data/figures/NDA212994/NDA212994_ClinPharmR_p143_img01.png",
+    "skipped": true,
+    "skip_reason": "Table of metabolite structures (KP415 prodrug, d-MPH, RA, 6-oxo-RA with M/z and matrix info), not a C-t plot."
+  },
+  {
+    "image_path": "data/figures/NDA213006/NDA213006_ClinPharmR_p058_img01.png",
+    "skipped": true,
+    "skip_reason": "Table of subject enrollment/completion numbers, not a C-t plot."
+  },
+  {
+    "image_path": "data/figures/NDA213006/NDA213006_ClinPharmR_p073_img00.png",
+    "skipped": true,
+    "skip_reason": "Table of study design (Nordette/Vibegron dosing schedule), not a C-t plot."
+  },
+  {
+    "image_path": "data/figures/NDA214998/NDA214998_ClinPharmR_p036_img00.jpeg",
+    "skipped": true,
+    "skip_reason": "PD plot (VLVOT in mmHg vs Cavg168 in ng/mL). Exposure-response relationship, not a concentration-time plot."
+  },
+  {
+    "image_path": "data/figures/NDA215866/NDA215866_ClinPharmR_p086_img00.jpeg",
+    "skipped": true,
+    "skip_reason": "Table of population PK model parameters (transition probabilities, drug effects, covariate effects), not a C-t plot."
+  },
+  {
+    "image_path": "data/figures/NDA215866/NDA215866_ClinPharmR_p089_img00.jpeg",
+    "skipped": true,
+    "skip_reason": "Multi-panel PD response plots (score vs Time in weeks over ~48 weeks). Panels: Overall, Mild, Moderate/Severe, etc. PD efficacy data, not PK concentration-time."
+  },
+  {
+    "image_path": "data/figures/NDA022063/NDA022063_ClinPharmR_p093_img00.png",
+    "skipped": true,
+    "skip_reason": "Table of PK parameters (Cmax, Tmax, AUC, Cmin, CL/F) for single and multiple doses at 12.5-75 mg, not a C-t plot."
+  },
+  {
+    "image_path": "data/figures/NDA022484/NDA022484_ClinPharmR_p016_img01.png",
+    "skipped": true,
+    "skip_reason": "PD plot (Blood glucose change from baseline in mmol/L vs Time in hours). Shows meal effects (Breakfast, Snack, Warm meal labels). Not a PK concentration-time plot."
+  },
+  {
+    "image_path": "data/figures/NDA022484/NDA022484_ClinPharmR_p037_img00.png",
+    "skipped": true,
+    "skip_reason": "File does not exist."
+  },
+  {
+    "image_path": "data/figures/NDA022483/NDA022483_ClinPharmR_p037_img00.png",
+    "source_nda": "NDA022483",
+    "drug_name": "imiquimod",
+    "skipped": true,
+    "skip_reason": "Semi-log serum concentration plot but X-axis is treatment cycle/day number (0-24), not hours. Shows trough concentrations across multi-week topical treatment course in pg/mL range. Not a standard single-dose C-t profile suitable for PLM modeling. Topical drug with negligible systemic exposure.",
+    "figure_description": "Semi-Log Scale. Serum R-837 (imiquimod) and S-26704/S-27700 (metabolite) concentrations in pg/mL across 24 treatment cycles/days."
+  },
+  {
+    "image_path": "data/figures/NDA203414/NDA203414_ClinPharmR_p041_img00.png",
+    "skipped": true,
+    "skip_reason": "Table of PK sampling schedule (treatment groups, study days, and timepoints), not a C-t plot."
+  }
+]
