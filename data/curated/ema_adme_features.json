@@ -1,0 +1,191 @@
+[
+  {
+    "drug": "abiraterone",
+    "slug": "zytiga",
+    "status": "download_failed"
+  },
+  {
+    "drug": "apixaban",
+    "slug": "eliquis",
+    "status": "ok",
+    "n_features": 8,
+    "features": {
+      "cyp_enzymes": [
+        "2C9",
+        "2C19",
+        "3A4",
+        "2C8",
+        "1A2",
+        "2J2"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 1.0,
+      "oatp_substrate": 1.0
+    }
+  },
+  {
+    "drug": "azacitidine",
+    "slug": "onureg",
+    "status": "download_failed"
+  },
+  {
+    "drug": "budesonide",
+    "slug": "kinpeygo",
+    "status": "download_failed"
+  },
+  {
+    "drug": "cabozantinib",
+    "slug": "cometriq",
+    "status": "download_failed"
+  },
+  {
+    "drug": "clopidogrel",
+    "slug": "clopidogrel-zentiva",
+    "status": "download_failed"
+  },
+  {
+    "drug": "dapagliflozin",
+    "slug": "edistride",
+    "status": "download_failed"
+  },
+  {
+    "drug": "darolutamide",
+    "slug": "nubeqa",
+    "status": "download_failed"
+  },
+  {
+    "drug": "dasatinib",
+    "slug": "sprycel",
+    "status": "download_failed"
+  },
+  {
+    "drug": "febuxostat",
+    "slug": "adenuric",
+    "status": "download_failed"
+  },
+  {
+    "drug": "fesoterodine",
+    "slug": "toviaz",
+    "status": "download_failed"
+  },
+  {
+    "drug": "fruquintinib",
+    "slug": "fruzaqla",
+    "status": "download_failed"
+  },
+  {
+    "drug": "glasdegib",
+    "slug": "daurismo",
+    "status": "download_failed"
+  },
+  {
+    "drug": "ketoconazole",
+    "slug": "ketoconazole-esteve",
+    "status": "download_failed"
+  },
+  {
+    "drug": "lamivudine",
+    "slug": "zeffix",
+    "status": "download_failed"
+  },
+  {
+    "drug": "lenacapavir",
+    "slug": "yeytuo",
+    "status": "download_failed"
+  },
+  {
+    "drug": "levofloxacin",
+    "slug": "quinsair",
+    "status": "download_failed"
+  },
+  {
+    "drug": "lorlatinib",
+    "slug": "lorviqua",
+    "status": "download_failed"
+  },
+  {
+    "drug": "nilotinib",
+    "slug": "tasigna",
+    "status": "download_failed"
+  },
+  {
+    "drug": "oxybutynin",
+    "slug": "kentera",
+    "status": "download_failed"
+  },
+  {
+    "drug": "pomalidomide",
+    "slug": "imnovid",
+    "status": "download_failed"
+  },
+  {
+    "drug": "ponatinib",
+    "slug": "iclusig",
+    "status": "download_failed"
+  },
+  {
+    "drug": "posaconazole",
+    "slug": "noxafil",
+    "status": "download_failed"
+  },
+  {
+    "drug": "quizartinib",
+    "slug": "vanflyta",
+    "status": "download_failed"
+  },
+  {
+    "drug": "rivaroxaban",
+    "slug": "xarelto",
+    "status": "download_failed"
+  },
+  {
+    "drug": "ruxolitinib",
+    "slug": "opzelura",
+    "status": "download_failed"
+  },
+  {
+    "drug": "sildenafil",
+    "slug": "viagra",
+    "status": "download_failed"
+  },
+  {
+    "drug": "sirolimus",
+    "slug": "rapamune",
+    "status": "download_failed"
+  },
+  {
+    "drug": "sonidegib",
+    "slug": "odomzo",
+    "status": "download_failed"
+  },
+  {
+    "drug": "temozolomide",
+    "slug": "temodal",
+    "status": "download_failed"
+  },
+  {
+    "drug": "tenofovir disoproxil",
+    "slug": "viread",
+    "status": "download_failed"
+  },
+  {
+    "drug": "ulipristal",
+    "slug": "ellaone",
+    "status": "download_failed"
+  },
+  {
+    "drug": "upadacitinib",
+    "slug": "rinvoq",
+    "status": "download_failed"
+  },
+  {
+    "drug": "zonisamide",
+    "slug": "zonegran",
+    "status": "download_failed"
+  }
+]

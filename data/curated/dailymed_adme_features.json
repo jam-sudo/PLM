@@ -1,0 +1,1647 @@
+[
+  {
+    "drug": "abiraterone",
+    "ik": "GZOSMCIZMLWJML",
+    "status": "ok",
+    "tdc_existing": 1,
+    "n_new_features": 7,
+    "features": {
+      "cyp_enzymes": [
+        "1A2",
+        "2C19",
+        "2C8",
+        "2C9",
+        "2D6",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "acamprosate",
+    "ik": "AFCGFAGUEYAMAO",
+    "status": "ok",
+    "tdc_existing": 2,
+    "n_new_features": 7,
+    "features": {
+      "cyp_enzymes": [
+        "1A2"
+      ],
+      "cyp3a4_substrate": 0.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "adefovir dipivoxil",
+    "ik": "WOZSCQDILHKSGG",
+    "status": "not_found",
+    "tdc_existing": 0
+  },
+  {
+    "drug": "alosetron",
+    "ik": "JSWZEAMFRNKZNL",
+    "status": "ok",
+    "tdc_existing": 3,
+    "n_new_features": 12,
+    "features": {
+      "bioavailability_pct": 50.0,
+      "bioavailability_binary": 1.0,
+      "ppb_pct": 82.0,
+      "half_life_h": 1.5,
+      "clearance_Lh": 36.0,
+      "cyp_enzymes": [
+        "1A2"
+      ],
+      "cyp3a4_substrate": 0.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "alprazolam",
+    "ik": "VREFGVBLTWBCJP",
+    "status": "not_found",
+    "tdc_existing": 5
+  },
+  {
+    "drug": "alvimopan",
+    "ik": "UPNUIXSCZBYVBB",
+    "status": "ok",
+    "tdc_existing": 0,
+    "n_new_features": 7,
+    "features": {
+      "cyp_enzymes": [
+        "1A2"
+      ],
+      "cyp3a4_substrate": 0.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "amantadine",
+    "ik": "DKNWSYNQZKUICI",
+    "status": "ok",
+    "tdc_existing": 3,
+    "n_new_features": 3,
+    "features": {
+      "ppb_pct": 67.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "apixaban",
+    "ik": "QNZCBYKSOIHPEH",
+    "status": "ok",
+    "tdc_existing": 1,
+    "n_new_features": 13,
+    "features": {
+      "bioavailability_pct": 50.0,
+      "bioavailability_binary": 1.0,
+      "ppb_pct": 87.0,
+      "half_life_h": 12.0,
+      "vd_L": 21.0,
+      "clearance_Lh": 3.3,
+      "cyp_enzymes": [
+        "1A2",
+        "2A6",
+        "2B6",
+        "2C19",
+        "2C8",
+        "2C9",
+        "2D6",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 1.0
+    }
+  },
+  {
+    "drug": "atovaquone",
+    "ik": "KUCQYCKVKVOKAY",
+    "status": "ok",
+    "tdc_existing": 3,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "azacitidine",
+    "ik": "NMUSYJAQQFHJEW",
+    "status": "ok",
+    "tdc_existing": 2,
+    "n_new_features": 7,
+    "features": {
+      "cyp_enzymes": [
+        "1A2",
+        "2B6",
+        "2C19",
+        "2C8",
+        "2C9",
+        "2D6",
+        "2E1",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 1.0
+    }
+  },
+  {
+    "drug": "azithromycin",
+    "ik": "MQTOSJVFKKJCRP",
+    "status": "ok",
+    "tdc_existing": 3,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "brincidofovir",
+    "ik": "WXJFKKQWPMNTIM",
+    "status": "ok",
+    "tdc_existing": 0,
+    "n_new_features": 8,
+    "features": {
+      "half_life_h": 113.0,
+      "cyp_enzymes": [
+        "1A2",
+        "2B6",
+        "2C19",
+        "2C8",
+        "2C9",
+        "2D6",
+        "4F2"
+      ],
+      "cyp3a4_substrate": 0.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 1.0
+    }
+  },
+  {
+    "drug": "budesonide",
+    "ik": "VOVIALXJUBGFJZ",
+    "status": "ok",
+    "tdc_existing": 3,
+    "n_new_features": 7,
+    "features": {
+      "cyp_enzymes": [
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "cabozantinib",
+    "ik": "ONIQOQHATWINJY",
+    "status": "ok",
+    "tdc_existing": 1,
+    "n_new_features": 8,
+    "features": {
+      "half_life_h": 55.0,
+      "cyp_enzymes": [
+        "1A1",
+        "1A2",
+        "2A6",
+        "2B6",
+        "2C19",
+        "2C8",
+        "2C9",
+        "2D6",
+        "2E1",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "carbamazepine",
+    "ik": "FFGPTBGBLSHEPO",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 3,
+    "features": {
+      "ppb_pct": 76.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "carbinoxamine",
+    "ik": "OJFSXZCBGQGRNV",
+    "status": "ok",
+    "tdc_existing": 0,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "levocetirizine",
+    "ik": "ZKLPARSLTMPFCP",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 8,
+    "features": {
+      "vd_L": 0.4,
+      "cyp_enzymes": [
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "cimetidine",
+    "ik": "AQIXAKUUQRKLND",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 3,
+    "features": {
+      "half_life_h": 2.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "ciprofloxacin",
+    "ik": "MYSWGUAQZAJSOK",
+    "status": "ok",
+    "tdc_existing": 5,
+    "n_new_features": 7,
+    "features": {
+      "cyp_enzymes": [
+        "1A2"
+      ],
+      "cyp3a4_substrate": 0.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "clomipramine",
+    "ik": "GDLIGKIOYRNHDA",
+    "status": "not_found",
+    "tdc_existing": 4
+  },
+  {
+    "drug": "clonidine",
+    "ik": "GJSURZIOUXUGAL",
+    "status": "ok",
+    "tdc_existing": 3,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "clopidogrel",
+    "ik": "GKTWGGQPFAXNFI",
+    "status": "ok",
+    "tdc_existing": 3,
+    "n_new_features": 8,
+    "features": {
+      "half_life_h": 6.0,
+      "cyp_enzymes": [
+        "1A2",
+        "2B6",
+        "2C19",
+        "2C8"
+      ],
+      "cyp3a4_substrate": 0.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "clozapine",
+    "ik": "QZUDBNBUXVUHMW",
+    "status": "ok",
+    "tdc_existing": 7,
+    "n_new_features": 9,
+    "features": {
+      "ppb_pct": 97.0,
+      "half_life_h": 12.0,
+      "cyp_enzymes": [
+        "1A2",
+        "2D6",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "codeine",
+    "ik": "OROGSEYTTFOCAN",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 9,
+    "features": {
+      "ppb_pct": 25.0,
+      "half_life_h": 2.9,
+      "cyp_enzymes": [
+        "1A2",
+        "2D6",
+        "2E1",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "colchicine",
+    "ik": "IAKHMKGGTNLKSZ",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 7,
+    "features": {
+      "cyp_enzymes": [
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "dalfampridine",
+    "ik": "NUKYPUAOHBNCPY",
+    "status": "ok",
+    "tdc_existing": 2,
+    "n_new_features": 10,
+    "features": {
+      "bioavailability_pct": 96.0,
+      "bioavailability_binary": 1.0,
+      "vd_L": 2.6,
+      "cyp_enzymes": [
+        "1A2",
+        "2A6",
+        "2B6",
+        "2C19",
+        "2C8",
+        "2C9",
+        "2D6",
+        "2E1",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "dapagliflozin",
+    "ik": "JVHXJTBJCFBINQ",
+    "status": "ok",
+    "tdc_existing": 1,
+    "n_new_features": 8,
+    "features": {
+      "ppb_pct": 91.0,
+      "cyp_enzymes": [
+        "1A2"
+      ],
+      "cyp3a4_substrate": 0.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "darolutamide",
+    "ik": "BLIJXOOIHRSQRB",
+    "status": "ok",
+    "tdc_existing": 0,
+    "n_new_features": 10,
+    "features": {
+      "bioavailability_pct": 30.0,
+      "bioavailability_binary": 1.0,
+      "ppb_pct": 92.0,
+      "cyp_enzymes": [
+        "1A2",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 1.0
+    }
+  },
+  {
+    "drug": "dasatinib",
+    "ik": "ZBNZXTGUTAYRHI",
+    "status": "ok",
+    "tdc_existing": 1,
+    "n_new_features": 10,
+    "features": {
+      "half_life_h": 3.0,
+      "vd_L": 2505.0,
+      "clearance_Lh": 363.8,
+      "cyp_enzymes": [
+        "1A2",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "diclofenac",
+    "ik": "DCOPUUMXTXDBNB",
+    "status": "ok",
+    "tdc_existing": 7,
+    "n_new_features": 8,
+    "features": {
+      "ppb_pct": 99.0,
+      "cyp_enzymes": [
+        "2C8",
+        "2C9",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "digoxin",
+    "ik": "LTMHDMANZUZIPE",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "donepezil",
+    "ik": "ADEBPBSSDYVVLD",
+    "status": "ok",
+    "tdc_existing": 2,
+    "n_new_features": 9,
+    "features": {
+      "ppb_pct": 96.0,
+      "half_life_h": 70.0,
+      "cyp_enzymes": [
+        "2B6",
+        "2C19",
+        "2C8",
+        "2D6",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "erythromycin",
+    "ik": "ULGZDMOVFRHVEP",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "etodolac",
+    "ik": "NNYBQONXHNTVIJ",
+    "status": "ok",
+    "tdc_existing": 2,
+    "n_new_features": 3,
+    "features": {
+      "ppb_pct": 99.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "famotidine",
+    "ik": "XUFQPHANEAPEMJ",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 7,
+    "features": {
+      "cyp_enzymes": [
+        "1A2"
+      ],
+      "cyp3a4_substrate": 0.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "febuxostat",
+    "ik": "BQSJTQLCZDPROO",
+    "status": "ok",
+    "tdc_existing": 2,
+    "n_new_features": 7,
+    "features": {
+      "cyp_enzymes": [
+        "1A2",
+        "2D6"
+      ],
+      "cyp3a4_substrate": 0.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "fesoterodine",
+    "ik": "DCCSDBARQIPTGU",
+    "status": "ok",
+    "tdc_existing": 0,
+    "n_new_features": 7,
+    "features": {
+      "cyp_enzymes": [
+        "1A2",
+        "2D6",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "fluvoxamine",
+    "ik": "CJOFXWAVKWHTFT",
+    "status": "ok",
+    "tdc_existing": 2,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "fruquintinib",
+    "ik": "BALLNEJQLSTPIO",
+    "status": "ok",
+    "tdc_existing": 0,
+    "n_new_features": 7,
+    "features": {
+      "cyp_enzymes": [
+        "1A2",
+        "2B6",
+        "2C19",
+        "2C8",
+        "2C9",
+        "2D6"
+      ],
+      "cyp3a4_substrate": 0.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 1.0
+    }
+  },
+  {
+    "drug": "glasdegib",
+    "ik": "SFNSLLSYNZWZQG",
+    "status": "ok",
+    "tdc_existing": 0,
+    "n_new_features": 12,
+    "features": {
+      "bioavailability_pct": 77.0,
+      "bioavailability_binary": 1.0,
+      "ppb_pct": 91.0,
+      "half_life_h": 17.4,
+      "clearance_Lh": 6.45,
+      "cyp_enzymes": [
+        "1A2",
+        "2B6",
+        "2C19",
+        "2C8",
+        "2C9",
+        "2D6",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 1.0
+    }
+  },
+  {
+    "drug": "hydroxyzine",
+    "ik": "ZQDWXGKKHFNSQK",
+    "status": "ok",
+    "tdc_existing": 1,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "indomethacin",
+    "ik": "CGIGDMFJXJATDK",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "isosorbide mononitrate",
+    "ik": "YWXYYJSYQOXTPL",
+    "status": "not_found",
+    "tdc_existing": 2
+  },
+  {
+    "drug": "itraconazole",
+    "ik": "VHVPQPYKVGDNFY",
+    "status": "ok",
+    "tdc_existing": 3,
+    "n_new_features": 9,
+    "features": {
+      "bioavailability_pct": 55.0,
+      "bioavailability_binary": 1.0,
+      "cyp_enzymes": [
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "ketoconazole",
+    "ik": "XMAYWYJOQHXEEK",
+    "status": "not_found",
+    "tdc_existing": 2
+  },
+  {
+    "drug": "ketorolac",
+    "ik": "OZWKMVRBQXNZKK",
+    "status": "ok",
+    "tdc_existing": 3,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "lamivudine",
+    "ik": "JTEGQNOMFQHVDC",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 1.0
+    }
+  },
+  {
+    "drug": "lenacapavir",
+    "ik": "BRYXUCLEHAUSDY",
+    "status": "ok",
+    "tdc_existing": 0,
+    "n_new_features": 8,
+    "features": {
+      "ppb_pct": 11700.0,
+      "cyp_enzymes": [
+        "1A2",
+        "2B6",
+        "2C19",
+        "2C8",
+        "2C9",
+        "2D6",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 1.0
+    }
+  },
+  {
+    "drug": "levofloxacin",
+    "ik": "GSDSWSVVBLHKDQ",
+    "status": "ok",
+    "tdc_existing": 5,
+    "n_new_features": 3,
+    "features": {
+      "ppb_pct": 38.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "lorlatinib",
+    "ik": "IIXWYSCJSQVBQM",
+    "status": "ok",
+    "tdc_existing": 0,
+    "n_new_features": 10,
+    "features": {
+      "bioavailability_pct": 81.0,
+      "bioavailability_binary": 1.0,
+      "ppb_pct": 66.0,
+      "cyp_enzymes": [
+        "1A2",
+        "2B6",
+        "2C19",
+        "2C8",
+        "2C9",
+        "2D6",
+        "3A4",
+        "3A5"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 1.0
+    }
+  },
+  {
+    "drug": "losartan",
+    "ik": "PSIFNNKUMBGKDQ",
+    "status": "ok",
+    "tdc_existing": 3,
+    "n_new_features": 5,
+    "features": {
+      "bioavailability_pct": 33.0,
+      "bioavailability_binary": 1.0,
+      "half_life_h": 2.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "mefenamic acid",
+    "ik": "HYYBABOKPJLUIN",
+    "status": "not_found",
+    "tdc_existing": 1
+  },
+  {
+    "drug": "methylphenidate",
+    "ik": "DUGOZIWVEXMGBE",
+    "status": "ok",
+    "tdc_existing": 3,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "metronidazole",
+    "ik": "VAOCPAMSLUNLGC",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "montelukast",
+    "ik": "UCHDWCPVSPXUMX",
+    "status": "ok",
+    "tdc_existing": 6,
+    "n_new_features": 10,
+    "features": {
+      "bioavailability_pct": 64.0,
+      "bioavailability_binary": 1.0,
+      "ppb_pct": 99.0,
+      "cyp_enzymes": [
+        "2C8",
+        "2C9",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "morphine",
+    "ik": "BQJCRHHNABKAKU",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 3,
+    "features": {
+      "half_life_h": 15.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "moxifloxacin",
+    "ik": "FABPRXSRWADJSP",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 9,
+    "features": {
+      "ppb_pct": 50.0,
+      "half_life_h": 14.0,
+      "cyp_enzymes": [
+        "1A2",
+        "2C19",
+        "2C9",
+        "2D6",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "nilotinib",
+    "ik": "HHZIURLSWUIHRB",
+    "status": "ok",
+    "tdc_existing": 0,
+    "n_new_features": 8,
+    "features": {
+      "ppb_pct": 98.0,
+      "cyp_enzymes": [
+        "2B6",
+        "2C8",
+        "2C9",
+        "2D6",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "norethindrone",
+    "ik": "VIKNJXKGJWUCNN",
+    "status": "ok",
+    "tdc_existing": 0,
+    "n_new_features": 9,
+    "features": {
+      "bioavailability_pct": 64.0,
+      "bioavailability_binary": 1.0,
+      "cyp_enzymes": [
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "oxybutynin",
+    "ik": "XIQVNETUBQGFHX",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 9,
+    "features": {
+      "half_life_h": 2.5,
+      "vd_L": 193.0,
+      "cyp_enzymes": [
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "paroxetine",
+    "ik": "AHOUBRCZNHFOSL",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 8,
+    "features": {
+      "half_life_h": 17.5,
+      "cyp_enzymes": [
+        "2D6",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "penicillamine",
+    "ik": "VVNCNSJFMMFHPL",
+    "status": "ok",
+    "tdc_existing": 1,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "phenytoin",
+    "ik": "CXOFVDLJLONNDW",
+    "status": "ok",
+    "tdc_existing": 2,
+    "n_new_features": 8,
+    "features": {
+      "half_life_h": 14.0,
+      "cyp_enzymes": [
+        "2C19",
+        "2C9"
+      ],
+      "cyp3a4_substrate": 0.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "pilocarpine",
+    "ik": "QCHFTSOMWOSFHM",
+    "status": "ok",
+    "tdc_existing": 0,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "pindolol",
+    "ik": "JZQKKSLKJUAGIC",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 4,
+    "features": {
+      "ppb_pct": 40.0,
+      "half_life_h": 8.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "pomalidomide",
+    "ik": "UVSMNLNDYGZFPF",
+    "status": "ok",
+    "tdc_existing": 0,
+    "n_new_features": 9,
+    "features": {
+      "half_life_h": 9.5,
+      "clearance_Lh": 12.0,
+      "cyp_enzymes": [
+        "1A2",
+        "2C19",
+        "2D6",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "ponatinib",
+    "ik": "PHXJVRSECIGDHY",
+    "status": "ok",
+    "tdc_existing": 1,
+    "n_new_features": 8,
+    "features": {
+      "ppb_pct": 99.0,
+      "cyp_enzymes": [
+        "1A2",
+        "2B6",
+        "2C19",
+        "2C8",
+        "2C9",
+        "2D6",
+        "3A4",
+        "3A5"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 1.0
+    }
+  },
+  {
+    "drug": "posaconazole",
+    "ik": "RAGOYPUPXAKGKH",
+    "status": "ok",
+    "tdc_existing": 1,
+    "n_new_features": 7,
+    "features": {
+      "cyp_enzymes": [
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "pravastatin",
+    "ik": "TUZYXOIXSAXUGO",
+    "status": "ok",
+    "tdc_existing": 6,
+    "n_new_features": 4,
+    "features": {
+      "bioavailability_pct": 17.0,
+      "bioavailability_binary": 0.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "probenecid",
+    "ik": "DBABZHXKTCFAPX",
+    "status": "not_found",
+    "tdc_existing": 3
+  },
+  {
+    "drug": "progesterone",
+    "ik": "RJKFOVLPORLFTN",
+    "status": "not_found",
+    "tdc_existing": 1
+  },
+  {
+    "drug": "quinine",
+    "ik": "LOUPRKONTZGTKE",
+    "status": "ok",
+    "tdc_existing": 6,
+    "n_new_features": 8,
+    "features": {
+      "half_life_h": 11.1,
+      "cyp_enzymes": [
+        "1A2",
+        "2C19",
+        "2C8",
+        "2C9",
+        "2D6",
+        "2E1",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "quizartinib",
+    "ik": "CVWXJKQAOSCOAB",
+    "status": "ok",
+    "tdc_existing": 0,
+    "n_new_features": 7,
+    "features": {
+      "cyp_enzymes": [
+        "1A2",
+        "2B6",
+        "2C19",
+        "2C8",
+        "2C9",
+        "2D6",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 1.0
+    }
+  },
+  {
+    "drug": "ramelteon",
+    "ik": "YLXDSYKOBKBWJQ",
+    "status": "ok",
+    "tdc_existing": 1,
+    "n_new_features": 7,
+    "features": {
+      "cyp_enzymes": [
+        "1A2",
+        "2C19",
+        "2C9",
+        "2D6",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "ranitidine",
+    "ik": "VMXUWOKSQNHOCA",
+    "status": "ok",
+    "tdc_existing": 5,
+    "n_new_features": 4,
+    "features": {
+      "half_life_h": 2.75,
+      "vd_L": 1.4,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "rifabutin",
+    "ik": "ATEBXHFBFRCZMA",
+    "status": "ok",
+    "tdc_existing": 3,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "rivaroxaban",
+    "ik": "KGFYHTZWPPHNLQ",
+    "status": "ok",
+    "tdc_existing": 1,
+    "n_new_features": 11,
+    "features": {
+      "bioavailability_pct": 66.0,
+      "bioavailability_binary": 1.0,
+      "half_life_h": 7.0,
+      "clearance_Lh": 10.0,
+      "cyp_enzymes": [
+        "1A2",
+        "2J2",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 1.0
+    }
+  },
+  {
+    "drug": "ruxolitinib",
+    "ik": "HFNKQEVNSGCOJV",
+    "status": "ok",
+    "tdc_existing": 1,
+    "n_new_features": 8,
+    "features": {
+      "ppb_pct": 97.0,
+      "cyp_enzymes": [
+        "1A2",
+        "2C9",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 1.0
+    }
+  },
+  {
+    "drug": "selegiline",
+    "ik": "MEZLKOACVSPNER",
+    "status": "ok",
+    "tdc_existing": 3,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "sildenafil",
+    "ik": "BNRNXUUZRGQAQC",
+    "status": "not_found",
+    "tdc_existing": 7
+  },
+  {
+    "drug": "sirolimus",
+    "ik": "QFJCIRLUMZQUOT",
+    "status": "ok",
+    "tdc_existing": 2,
+    "n_new_features": 7,
+    "features": {
+      "cyp_enzymes": [
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "sonidegib",
+    "ik": "VZZJRYRQSPEMTK",
+    "status": "ok",
+    "tdc_existing": 0,
+    "n_new_features": 8,
+    "features": {
+      "ppb_pct": 97.0,
+      "cyp_enzymes": [
+        "1A2",
+        "2B6",
+        "2C9"
+      ],
+      "cyp3a4_substrate": 0.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 1.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 1.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 1.0
+    }
+  },
+  {
+    "drug": "sumatriptan",
+    "ik": "KQKPFRSPSRPDEB",
+    "status": "ok",
+    "tdc_existing": 6,
+    "n_new_features": 6,
+    "features": {
+      "bioavailability_pct": 15.0,
+      "bioavailability_binary": 0.0,
+      "half_life_h": 2.5,
+      "vd_L": 2.7,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "tamoxifen",
+    "ik": "NKANXQFJJICGDU",
+    "status": "not_found",
+    "tdc_existing": 2
+  },
+  {
+    "drug": "tamsulosin",
+    "ik": "DRHKJLXJIQTDTD",
+    "status": "ok",
+    "tdc_existing": 3,
+    "n_new_features": 7,
+    "features": {
+      "cyp_enzymes": [
+        "2D6",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "temozolomide",
+    "ik": "BPEGJWRSRHCHSN",
+    "status": "ok",
+    "tdc_existing": 3,
+    "n_new_features": 4,
+    "features": {
+      "half_life_h": 1.8,
+      "vd_L": 0.4,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "tenofovir disoproxil",
+    "ik": "JFVZFKDSXNQEJW",
+    "status": "not_found",
+    "tdc_existing": 0
+  },
+  {
+    "drug": "trazodone",
+    "ik": "PHLBKPHSAVXXEF",
+    "status": "ok",
+    "tdc_existing": 5,
+    "n_new_features": 8,
+    "features": {
+      "ppb_pct": 95.0,
+      "cyp_enzymes": [
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "triazolam",
+    "ik": "JOFWLTCLBGQGBO",
+    "status": "ok",
+    "tdc_existing": 6,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "ulipristal",
+    "ik": "HKDLNTKNLJPAIY",
+    "status": "ok",
+    "tdc_existing": 2,
+    "n_new_features": 7,
+    "features": {
+      "cyp_enzymes": [
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 0.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 1.0
+    }
+  },
+  {
+    "drug": "upadacitinib",
+    "ik": "WYQFJHHDOKWSHR",
+    "status": "not_found",
+    "tdc_existing": 0
+  },
+  {
+    "drug": "valganciclovir",
+    "ik": "WPVFJKSGQUFQAP",
+    "status": "ok",
+    "tdc_existing": 0,
+    "n_new_features": 3,
+    "features": {
+      "half_life_h": 18.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "venlafaxine",
+    "ik": "PNVNVHUZROJLTJ",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 10,
+    "features": {
+      "bioavailability_pct": 45.0,
+      "bioavailability_binary": 1.0,
+      "ppb_pct": 30.0,
+      "cyp_enzymes": [
+        "2D6"
+      ],
+      "cyp3a4_substrate": 0.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "vilazodone",
+    "ik": "SGEGOXDYSFKCPT",
+    "status": "not_found",
+    "tdc_existing": 0
+  },
+  {
+    "drug": "vonoprazan",
+    "ik": "BFDBKMOZYNOTPK",
+    "status": "ok",
+    "tdc_existing": 0,
+    "n_new_features": 8,
+    "features": {
+      "half_life_h": 7.0,
+      "cyp_enzymes": [
+        "2B6",
+        "2C19",
+        "2D6",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 1.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "zolpidem",
+    "ik": "ZAFYATHCZYHLPB",
+    "status": "ok",
+    "tdc_existing": 4,
+    "n_new_features": 2,
+    "features": {
+      "pgp_substrate": 0.0,
+      "bcrp_substrate": 0.0
+    }
+  },
+  {
+    "drug": "zonisamide",
+    "ik": "UBQNRHZMVUUOMG",
+    "status": "ok",
+    "tdc_existing": 1,
+    "n_new_features": 8,
+    "features": {
+      "ppb_pct": 40.0,
+      "cyp_enzymes": [
+        "2D6",
+        "3A4"
+      ],
+      "cyp3a4_substrate": 1.0,
+      "cyp2d6_substrate": 1.0,
+      "cyp2c9_substrate": 0.0,
+      "cyp2c19_substrate": 0.0,
+      "cyp1a2_substrate": 0.0,
+      "pgp_substrate": 1.0,
+      "bcrp_substrate": 0.0
+    }
+  }
+]
