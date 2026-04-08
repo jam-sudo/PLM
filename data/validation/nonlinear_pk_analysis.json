@@ -1,0 +1,47 @@
+{
+  "analysis": "nonlinear_pk_stratification",
+  "date": "2026-04-08",
+  "nonlinear_drugs": [
+    "phenytoin",
+    "carbamazepine",
+    "paroxetine",
+    "posaconazole",
+    "itraconazole",
+    "clopidogrel",
+    "sirolimus",
+    "clozapine",
+    "probenecid",
+    "digoxin",
+    "tamoxifen"
+  ],
+  "n_nonlinear": 11,
+  "n_linear": 86,
+  "stratified_aafe": {
+    "llm_nonlinear": 3.276,
+    "llm_linear": 1.923,
+    "xgb_nonlinear": 2.837,
+    "xgb_linear": 3.427
+  },
+  "routing": {
+    "method": "NL\u2192XGBoost, Linear\u2192LLM+calibrator",
+    "aafe": 2.009,
+    "gain_vs_llm_pct": 1.6
+  },
+  "oracle": {
+    "method": "per-drug best of LLM vs XGBoost",
+    "aafe": 1.834
+  },
+  "nonlinear_mechanisms": {
+    "phenytoin": "saturable_metabolism",
+    "carbamazepine": "autoinduction",
+    "paroxetine": "saturable_metabolism",
+    "posaconazole": "saturable_absorption",
+    "itraconazole": "saturable_absorption",
+    "clopidogrel": "saturable_activation",
+    "sirolimus": "saturable_metabolism",
+    "clozapine": "saturable_metabolism",
+    "probenecid": "saturable_transport",
+    "digoxin": "saturable_transport",
+    "tamoxifen": "autoinhibition"
+  }
+}

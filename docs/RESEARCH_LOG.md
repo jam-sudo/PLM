@@ -240,6 +240,33 @@
 - **Prescription**: New information sources needed — not more data points with same features, but higher-coverage ADME features (CYP panel, transporter, continuous F, in-vitro CL)
 - **Status**: PARADIGM SHIFT. Redirects strategy from data expansion to feature coverage expansion.
 
+### S8. Non-Linear PK Stratification Analysis
+- **Date**: 2026-04-08
+- **Method**: Classified 11/97 holdout drugs as non-linear PK (saturable metabolism, absorption, transport, autoinduction). Computed stratified AAFE for LLM+calibrator vs XGBoost.
+- **Non-linear drugs**: phenytoin, carbamazepine, paroxetine, posaconazole, itraconazole, clopidogrel, sirolimus, clozapine, probenecid, digoxin, tamoxifen
+- **Key Results**:
+  - LLM+calibrator: NL AAFE 3.276 (N=11), Linear AAFE **1.923** (N=86)
+  - XGBoost baseline: NL AAFE **2.837** (N=11), Linear AAFE 3.427 (N=86)
+  - LLM excels on linear drugs (1.923 vs 3.427), XGBoost better on non-linear (2.837 vs 3.276)
+  - Worst LLM outliers: posaconazole (17.3x over), paroxetine (10.3x over) — both saturable mechanisms
+  - Mechanism-aware routing (NL→XGB, Linear→LLM): AAFE **2.009** (1.6% gain)
+  - Oracle per-drug best-of-2: AAFE **1.834** (10.2% gain ceiling)
+  - LLM wins 67/97 drugs overall (69%)
+- **Interpretation**: LLM's pharmacological knowledge is well-calibrated for standard linear PK but systematically overpredicts Cmax for drugs with saturable mechanisms (recalls "typical" PK unaware of dose-dependent non-linearity). Non-linear PK drugs are a specific, identifiable failure mode.
+- **File**: `data/validation/nonlinear_pk_analysis.json`
+- **Status**: SUCCESS. Identifies actionable error decomposition. Simple NL routing gives small gain (1.6%) due to N=11, but the linear-only AAFE of 1.923 demonstrates LLM capability on well-behaved drugs.
+
+### I5. Post-Cutoff Prospective Validation Set Assembly
+- **Date**: 2026-04-08
+- **Purpose**: Address transductive limitation — assemble drugs approved AFTER Claude's training cutoff (May 2025) for truly prospective evaluation
+- **Method**: Identified 19 oral small molecule NMEs approved June 2025 – April 2026 from FDA. Retrieved SMILES from PubChem. Compiled dose + Cmax from FDA labels and web sources.
+- **Ready to test**: 9 drugs with SMILES + Cmax confirmed (taletrectinib, sebetralstat, zongertinib, dordaviprone, imlunestrant, remibrutinib, sevabertinib, tradipitant, relacorilant)
+- **Need Cmax extraction**: 10 drugs with NDA numbers identified, FDA label extraction pending
+- **Key drugs**: orforglipron (first oral GLP-1 RA, approved 2026-04-01 — 7 days ago), relacorilant (2026-03-25)
+- **File**: `data/validation/post_cutoff_candidates.json`, `data/validation/post_cutoff_smiles.json`
+- **Next step**: Run XGBoost predictions on 9 ready drugs, then run LLM CoT for comparison. LLM should fail (no pretraining knowledge), establishing genuine from-scratch prediction capability.
+- **Status**: DATA ASSEMBLED. Awaiting prediction runs.
+
 ## Key Metrics Timeline
 
 | Experiment | Best AAFE | Type | Notes |
@@ -255,6 +282,10 @@
 | Phase D tuned | 3.964 | HO | Feature engineering overfitting |
 | Novel baseline | 3.355 | HO | Current best holdout |
 | DrugBank expansion | 3.469 | HO | Synthetic data hurts (F1) |
+| LLM CoT + Lasso CV-cal | **2.043** | HO | Current best (Phase 4) |
+| NL routing (NL→XGB) | **2.009** | HO | Mechanism-aware routing (S8) |
+| Linear-only subset | **1.923** | HO | LLM on 86 linear drugs (S8) |
+| Oracle best-of-2 | **1.834** | HO | Per-drug routing ceiling (S8) |
 | Sisyphus Meta | **2.283** | HO | Benchmark target |
 
 ## Cross-References

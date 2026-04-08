@@ -1,0 +1,47 @@
+{
+  "taletrectinib": {
+    "smiles": "C[C@H](COC1=CC=C(C=C1)C2=CN=C3N2N=C(C=C3)N[C@H](C)C4=CC(=CC=C4)F)N",
+    "mw": "405.5",
+    "inchikey": "HEVHTYMYEMEBPX-HZPDHXFCSA-N"
+  },
+  "sebetralstat": {
+    "smiles": "COCC1=NN(C=C1C(=O)NCC2=NC=CC(=C2F)OC)CC3=CC=C(C=C3)CN4C=CC=CC4=O",
+    "mw": "491.5",
+    "inchikey": "KGMPDQIYDKKXRD-UHFFFAOYSA-N"
+  },
+  "zongertinib": {
+    "smiles": "CC1=C(C=CC(=C1)NC2=NC=NC3=CN=C(N=C32)N4CCC(CC4)NC(=O)C=C)OC5=CC6=C(C=C5)N(C=N6)C",
+    "mw": "535.6",
+    "inchikey": "YSGNGFPNTLERCR-UHFFFAOYSA-N"
+  },
+  "dordaviprone": {
+    "smiles": "CC1=CC=CC=C1CN2C(=O)C3=C(CCN(C3)CC4=CC=CC=C4)N5C2=NCC5",
+    "mw": "386.5",
+    "inchikey": "VLULRUCCHYVXOH-UHFFFAOYSA-N"
+  },
+  "imlunestrant": {
+    "smiles": "C1C(CN1CCOC2=CC=C(C=C2)[C@@H]3C4=C5C=CC(=CC5=NC=C4C6=C(O3)C=C(C=C6)C(F)(F)F)O)CF",
+    "mw": "524.5",
+    "inchikey": "UVBQMXOKKDCBJN-MUUNZHRXSA-N"
+  },
+  "remibrutinib": {
+    "smiles": "CC1=C(C=C(C=C1NC(=O)C2=C(C=C(C=C2)C3CC3)F)F)C4=C(C(=NC=N4)N)OCCN(C)C(=O)C=C",
+    "mw": "507.5",
+    "inchikey": "CUABMPOJOBCXJI-UHFFFAOYSA-N"
+  },
+  "sevabertinib": {
+    "smiles": "COC1=C(C=CC=C1Cl)NC2=C(NC3=C2C(=O)NCC3)C4=C(C=NC=C4)OC[C@@H]5COCCO5",
+    "mw": "484.9",
+    "inchikey": "VYQVHWNNPKOJEA-AWEZNQCLSA-N"
+  },
+  "tradipitant": {
+    "smiles": "C1=CC=C(C(=C1)C(=O)C2=C(N=CC=C2)C3=C(N(N=N3)CC4=CC(=CC(=C4)C(F)(F)F)C(F)(F)F)C5=CC=NC=C5)Cl",
+    "mw": "587.9",
+    "inchikey": "CAVRKWRKTNINFF-UHFFFAOYSA-N"
+  },
+  "relacorilant": {
+    "smiles": "CN1C=C(C=N1)S(=O)(=O)N2CCC3=CC4=C(C[C@@]3(C2)C(=O)C5=NC=CC(=C5)C(F)(F)F)C=NN4C6=CC=C(C=C6)F",
+    "mw": "586.6",
+    "inchikey": "WANIDIGFXJFFEL-SANMLTNESA-N"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "description": "6 drugs from Sisyphus 107 not in PLM data \u2014 recoverable for holdout expansion",
+  "date": "2026-04-08",
+  "n_complete": 6,
+  "drugs": [
+    {
+      "name": "bexagliflozin",
+      "smiles": "C1CC1OCCOC2=CC=C(C=C2)CC3=C(C=CC(=C3)C4C(C(C(C(O4)CO)O)O)O)Cl",
+      "inchikey": "BTCRKOKVYTVOLU-SJSRKZJXSA-N",
+      "inchikey14": "BTCRKOKVYTVOLU",
+      "dose_mg": 20.0,
+      "cmax_obs_ngml": 134.0,
+      "cmax_sisyphus_meta_mgL": 0.09300690271977205
+    },
+    {
+      "name": "leflunomide",
+      "smiles": "Cc1oncc1C(=O)Nc1ccc(C(F)(F)F)cc1",
+      "inchikey": "VHOGYURTWQBHIL-UHFFFAOYSA-N",
+      "inchikey14": "VHOGYURTWQBHIL",
+      "dose_mg": 100,
+      "cmax_obs_ngml": 7200.0,
+      "cmax_sisyphus_meta_mgL": 1.3131195989869373
+    },
+    {
+      "name": "lopinavir",
+      "smiles": "Cc1cccc(C)c1OCC(=O)N[C@@H](Cc1ccccc1)[C@@H](O)C[C@H](Cc1ccccc1)NC(=O)[C@H](C(C)C)N1CCCNC1=O",
+      "inchikey": "KJHKTHWMRKYKJE-SUGCFTRWSA-N",
+      "inchikey14": "KJHKTHWMRKYKJE",
+      "dose_mg": 400,
+      "cmax_obs_ngml": 9800.0,
+      "cmax_sisyphus_meta_mgL": 0.9796581681984781
+    },
+    {
+      "name": "molnupiravir",
+      "smiles": "CC(C)C(=O)OCC1C(C(C(O1)N2C=CC(=NC2=O)NO)O)O",
+      "inchikey": "HTNPEHXGEKVIHG-QCNRFFRDSA-N",
+      "inchikey14": "HTNPEHXGEKVIHG",
+      "dose_mg": 800.0,
+      "cmax_obs_ngml": 2330.0,
+      "cmax_sisyphus_meta_mgL": 2.8802624992614763
+    },
+    {
+      "name": "prasugrel",
+      "smiles": "CC(=O)Oc1cc2c(s1)CCN(C(C(=O)C1CC1)c1ccccc1F)C2",
+      "inchikey": "DTGLZDAWLRGWQN-UHFFFAOYSA-N",
+      "inchikey14": "DTGLZDAWLRGWQN",
+      "dose_mg": 60,
+      "cmax_obs_ngml": 631.0,
+      "cmax_sisyphus_meta_mgL": 0.2098601757500976
+    },
+    {
+      "name": "ranolazine",
+      "smiles": "CC1=C(C(=CC=C1)C)NC(=O)CN2CCN(CC2)CC(COC3=CC=CC=C3OC)O",
+      "inchikey": "XKLMZUWKNUAPSZ-UHFFFAOYSA-N",
+      "inchikey14": "XKLMZUWKNUAPSZ",
+      "dose_mg": 500.0,
+      "cmax_obs_ngml": 2600.0,
+      "cmax_sisyphus_meta_mgL": 1.5413368907177438
+    }
+  ]
+}
