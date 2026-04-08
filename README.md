@@ -18,17 +18,17 @@ SMILES → CLint → fup → Peff → Kp → IVIVE → ODE → C(t) → Cmax
 
 ## Current Results
 
-| Model | AAFE | 2-fold% | Evaluation | N |
-|-------|------|---------|------------|---|
-| PLM XGBoost (CV best) | **3.275** | 38.2% | 5-fold GroupKFold | 3,490 |
-| PLM XGBoost (holdout) | **3.355** | — | 97-drug holdout | 97 |
-| Sisyphus Meta | 2.283 | ~50% | 107-drug holdout | 107 |
-| Sisyphus ML | 2.336 | — | 107-drug holdout | 107 |
-| Sisyphus Engine | 3.416 | — | 107-drug holdout | 107 |
+| Model | AAFE | 2-fold% | Evaluation | N (profiles) | N (drugs) |
+|-------|------|---------|------------|--------------|-----------|
+| PLM XGBoost (CV best) | **3.275** | 38.2% | 5-fold GroupKFold | 3,490 | 1,191 |
+| PLM XGBoost (holdout) | **3.355** | 37.1% | 97-drug holdout | — | 97 |
+| Sisyphus Meta | 2.283 | ~50% | 107-drug holdout | — | 107 |
+| Sisyphus ML | 2.336 | — | 107-drug holdout | — | 107 |
+| Sisyphus Engine | 3.416 | — | 107-drug holdout | — | 107 |
 
 Gap to Sisyphus Meta: ~1.5x. Primary bottleneck: training data size and chemical space coverage.
 
-Full experiment history (39 experiments, including failures): [docs/RESEARCH_LOG.md](docs/RESEARCH_LOG.md)
+Full experiment history (22 experiments, including failures): [docs/RESEARCH_LOG.md](docs/RESEARCH_LOG.md)
 
 ## Data Pipeline
 
@@ -75,18 +75,19 @@ python -m simulator.real_drug_test              # Random real drug simulation
 ```
 PLM/
 ├── CLAUDE.md                          # Project spec (source of truth)
+├── SYSTEM.md                          # System architecture review
 ├── docs/
 │   ├── RESEARCH_LOG.md                # All experiments: successes + failures
-│   └── scaleup_plan.md               # PDF extraction scale-up plan
-├── pipeline/                          # Data extraction & experiments (33 scripts)
+│   └── scaleup_plan.md                # PDF extraction scale-up plan
+├── pipeline/                          # Data extraction & experiments (37 scripts)
 │   ├── scraper.py                     #   FDA PDF download
 │   ├── figure_extractor.py            #   PDF → figure images
 │   ├── auto_digitizer.py              #   Figure → C-t data (OCR + curve tracing)
-│   ├── llm_extractor.py              #   PDF text → PK table extraction (LLM)
+│   ├── llm_extractor.py               #   PDF text → PK table extraction (LLM)
 │   ├── normalizer.py                  #   Unit normalization (ng/mL standard)
 │   ├── novel_experiment.py            #   Latest XGBoost experiment
 │   ├── ho_diagnostic.py               #   Holdout error decomposition
-│   └── ...                            #   + 26 more experiment/evaluation scripts
+│   └── ...                            #   + 30 more experiment/evaluation scripts
 ├── models/
 │   ├── train_xgboost.py               # Phase 1 XGBoost trainer
 │   ├── pretrain_adme_xgb.py           # ADME feature pretraining
@@ -99,12 +100,16 @@ PLM/
 │   ├── pharmacology.py                #   AE (sigmoid) + efficacy (Emax)
 │   ├── trial.py                       #   Multi-arm trial engine
 │   ├── visualize.py                   #   Publication-quality plots
-│   └── demo.py                        #   4-arm dose-finding demo
+│   ├── demo.py                        #   4-arm dose-finding demo
+│   └── real_drug_test.py              #   Random real drug simulation
 ├── data/
 │   ├── raw/                           # 456 FDA PDFs (not in git)
-│   ├── curated/                       # Cleaned datasets (v0.4 → v10)
+│   ├── curated/                       # Cleaned datasets (v0.1 → v11)
+│   ├── digitized/                     # Auto-digitized C-t profiles
+│   ├── figures/                       # Extracted figure images
 │   ├── llm_extracted/                 # LLM-extracted PK tuples
-│   ├── validation/                    # Holdout definition + 39 result JSONs
+│   ├── splits/                        # Train/test split definitions
+│   ├── validation/                    # Holdout definition + 50 result JSONs
 │   └── trial_sim_plots/               # Simulator output plots
 ├── tests/
 │   └── test_simulator.py              # 78 unit tests
@@ -119,7 +124,9 @@ PLM/
 pip install -r requirements.txt
 ```
 
-Requires Python 3.10+. Key dependencies: RDKit, XGBoost, scikit-learn, PyMuPDF, EasyOCR.
+Requires Python 3.10+. Key dependencies: RDKit, XGBoost, scikit-learn, PyMuPDF.
+
+For auto-digitization (optional): `pip install easyocr opencv-python-headless`
 
 FDA PDFs are not included in the repository (too large). To reproduce from scratch, run `pipeline/scraper.py` with access to drugs@FDA.
 
