@@ -1,0 +1,459 @@
+{
+  "avapritinib": {
+    "smiles": "C[C@](C1=CC=C(C=C1)F)(C2=CN=C(N=C2)N3CCN(CC3)C4=NC=NN5C4=CC(=C5)C6=CN(N=C6)C)N",
+    "mw": "498.6",
+    "inchikey": "DWYRIWUZIJHQKQ-SANMLTNESA-N"
+  },
+  "bempedoic acid": {
+    "smiles": "CC(C)(CCCCCC(CCCCCC(C)(C)C(=O)O)O)C(=O)O",
+    "mw": "344.5",
+    "inchikey": "HYHMLYSLQUKXKP-UHFFFAOYSA-N"
+  },
+  "berotralstat": {
+    "smiles": "C1CC1CN[C@@H](C2=CC(=C(C=C2)F)NC(=O)C3=CC(=NN3C4=CC=CC(=C4)CN)C(F)(F)F)C5=CC=CC(=C5)C#N",
+    "mw": "562.6",
+    "inchikey": "UXNXMBYCBRBRFD-MUUNZHRXSA-N"
+  },
+  "capmatinib": {
+    "smiles": "CNC(=O)C1=C(C=C(C=C1)C2=NN3C(=CN=C3N=C2)CC4=CC5=C(C=C4)N=CC=C5)F",
+    "mw": "412.4",
+    "inchikey": "LIOLIMKSCNQPLV-UHFFFAOYSA-N"
+  },
+  "fostemsavir": {
+    "smiles": "CC1=NN(C=N1)C2=NC=C(C3=C2N(C=C3C(=O)C(=O)N4CCN(CC4)C(=O)C5=CC=CC=C5)COP(=O)(O)O)OC",
+    "mw": "583.5",
+    "inchikey": "SWMDAPWAQQTBOG-UHFFFAOYSA-N"
+  },
+  "lonafarnib": {
+    "smiles": "C1CN(CCC1CC(=O)N2CCC(CC2)[C@@H]3C4=C(CCC5=C3N=CC(=C5)Br)C=C(C=C4Br)Cl)C(=O)N",
+    "mw": "638.8",
+    "inchikey": "DHMTURDWPRKSOA-RUZDIDTESA-N"
+  },
+  "nifurtimox": {
+    "smiles": "CC1CS(=O)(=O)CCN1/N=C/C2=CC=C(O2)[N+](=O)[O-]",
+    "mw": "287.29",
+    "inchikey": "ARFHIAQFJWUCFH-IZZDOVSWSA-N"
+  },
+  "opicapone": {
+    "smiles": "CC1=C(C(=[N+](C(=C1Cl)C)[O-])Cl)C2=NOC(=N2)C3=CC(=C(C(=C3)O)O)[N+](=O)[O-]",
+    "mw": "413.2",
+    "inchikey": "ASOADIZOVZTJSR-UHFFFAOYSA-N"
+  },
+  "osilodrostat": {
+    "smiles": "C1CC2=CN=CN2[C@H]1C3=C(C=C(C=C3)C#N)F",
+    "mw": "227.24",
+    "inchikey": "USUZGMWDZDXMDG-CYBMUJFWSA-N"
+  },
+  "ozanimod": {
+    "smiles": "CC(C)OC1=C(C=C(C=C1)C2=NC(=NO2)C3=C4CC[C@@H](C4=CC=C3)NCCO)C#N",
+    "mw": "404.5",
+    "inchikey": "XRVDGNKRPOAQTN-FQEVSTJZSA-N"
+  },
+  "pemigatinib": {
+    "smiles": "CCN1C2=C3C=C(NC3=NC=C2CN(C1=O)C4=C(C(=CC(=C4F)OC)OC)F)CN5CCOCC5",
+    "mw": "487.5",
+    "inchikey": "HCDMJFOHIXMBOV-UHFFFAOYSA-N"
+  },
+  "pralsetinib": {
+    "smiles": "CC1=CC(=NN1)NC2=NC(=NC(=C2)C)C3CCC(CC3)(C(=O)N[C@@H](C)C4=CN=C(C=C4)N5C=C(C=N5)F)OC",
+    "mw": "533.6",
+    "inchikey": "GBLBJPZSROAGMF-SIYOEGHHSA-N"
+  },
+  "relugolix": {
+    "smiles": "CN(C)CC1=C(SC2=C1C(=O)N(C(=O)N2CC3=C(C=CC=C3F)F)C4=NN=C(C=C4)OC)C5=CC=C(C=C5)NC(=O)NOC",
+    "mw": "623.6",
+    "inchikey": "AOMXMOCNKJTRQP-UHFFFAOYSA-N"
+  },
+  "rimegepant": {
+    "smiles": "C1C[C@H](C2=C(C=CC=N2)[C@H]([C@@H]1C3=C(C(=CC=C3)F)F)N)OC(=O)N4CCC(CC4)N5C6=C(NC5=O)N=CC=C6",
+    "mw": "534.6",
+    "inchikey": "KRNAOFGYEFKHPB-ANJVHQHFSA-N"
+  },
+  "ripretinib": {
+    "smiles": "CCN1C2=CC(=NC=C2C=C(C1=O)C3=CC(=C(C=C3Br)F)NC(=O)NC4=CC=CC=C4)NC",
+    "mw": "510.4",
+    "inchikey": "CEFJVGZHQAGLHS-UHFFFAOYSA-N"
+  },
+  "risdiplam": {
+    "smiles": "CC1=CC(=NN2C1=NC(=C2)C)C3=CC(=O)N4C=C(C=CC4=N3)N5CCNC6(C5)CC6",
+    "mw": "401.5",
+    "inchikey": "ASKZRYGFUPSJPN-UHFFFAOYSA-N"
+  },
+  "selpercatinib": {
+    "smiles": "CC(C)(COC1=CN2C(=C(C=N2)C#N)C(=C1)C3=CN=C(C=C3)N4CC5CC(C4)N5CC6=CN=C(C=C6)OC)O",
+    "mw": "525.6",
+    "inchikey": "XIIOFHFUYBLOLW-UHFFFAOYSA-N"
+  },
+  "selumetinib": {
+    "smiles": "CN1C=NC2=C1C=C(C(=C2F)NC3=C(C=C(C=C3)Br)Cl)C(=O)NOCCO",
+    "mw": "457.7",
+    "inchikey": "CYOHGALHFOKKQC-UHFFFAOYSA-N"
+  },
+  "tazemetostat": {
+    "smiles": "CCN(C1CCOCC1)C2=CC(=CC(=C2C)C(=O)NCC3=C(C=C(NC3=O)C)C)C4=CC=C(C=C4)CN5CCOCC5",
+    "mw": "572.7",
+    "inchikey": "NSQSAUGJQHDYNO-UHFFFAOYSA-N"
+  },
+  "tucatinib": {
+    "smiles": "CC1=C(C=CC(=C1)NC2=NC=NC3=C2C=C(C=C3)NC4=NC(CO4)(C)C)OC5=CC6=NC=NN6C=C5",
+    "mw": "480.5",
+    "inchikey": "SDEAXTCZPQIFQM-UHFFFAOYSA-N"
+  },
+  "vibegron": {
+    "smiles": "C1C[C@@H](N[C@@H]1CC2=CC=C(C=C2)NC(=O)[C@@H]3CCC4=NC=CC(=O)N34)[C@@H](C5=CC=CC=C5)O",
+    "mw": "444.5",
+    "inchikey": "DJXRIQMCROIRCZ-XOEOCAAJSA-N"
+  },
+  "asciminib": {
+    "smiles": "C1CN(C[C@@H]1O)C2=C(C=C(C=N2)C(=O)NC3=CC=C(C=C3)OC(F)(F)Cl)C4=CC=NN4",
+    "mw": "449.8",
+    "inchikey": "VOVZXURTCKPRDQ-CQSZACIVSA-N"
+  },
+  "atogepant": {
+    "smiles": "C[C@@H]1[C@@H](C[C@@H](C(=O)N1CC(F)(F)F)NC(=O)C2=CC3=C(C[C@@]4(C3)C5=C(NC4=O)N=CC=C5)N=C2)C6=C(C=CC(=C6F)F)F",
+    "mw": "603.5",
+    "inchikey": "QIVUCLWGARAQIO-OLIXTKCUSA-N"
+  },
+  "avacopan": {
+    "smiles": "CC1=C(C(=CC=C1)F)C(=O)N2CCC[C@@H]([C@@H]2C3=CC=C(C=C3)NC4CCCC4)C(=O)NC5=CC(=C(C=C5)C)C(F)(F)F",
+    "mw": "581.6",
+    "inchikey": "PUKBOVABABRILL-YZNIXAGQSA-N"
+  },
+  "belumosudil": {
+    "smiles": "CC(C)NC(=O)COC1=CC=CC(=C1)C2=NC3=CC=CC=C3C(=N2)NC4=CC5=C(C=C4)NN=C5",
+    "mw": "452.5",
+    "inchikey": "GKHIVNAUVKXIIY-UHFFFAOYSA-N"
+  },
+  "belzutifan": {
+    "smiles": "CS(=O)(=O)C1=C2[C@@H]([C@@H]([C@@H](C2=C(C=C1)OC3=CC(=CC(=C3)C#N)F)F)F)O",
+    "mw": "383.3",
+    "inchikey": "LOMMPXLFBTZENJ-ZACQAIPSSA-N"
+  },
+  "fexinidazole": {
+    "smiles": "CN1C(=CN=C1COC2=CC=C(C=C2)SC)[N+](=O)[O-]",
+    "mw": "279.32",
+    "inchikey": "MIWWSGDADVMLTG-UHFFFAOYSA-N"
+  },
+  "finerenone": {
+    "smiles": "CCOC1=NC=C(C2=C1[C@@H](C(=C(N2)C)C(=O)N)C3=C(C=C(C=C3)C#N)OC)C",
+    "mw": "378.4",
+    "inchikey": "BTBHLEZXCOBLCY-QGZVFWFLSA-N"
+  },
+  "ibrexafungerp": {
+    "smiles": "C[C@H](C(C)C)[C@]1(CC[C@@]2([C@H]3CC[C@H]4[C@]5(COC[C@]4(C3=CC[C@]2([C@@H]1C(=O)O)C)C[C@H]([C@@H]5OC[C@@](C)(C(C)(C)C)N)N6C(=NC=N6)C7=CC=NC=C7)C)C)C",
+    "mw": "730.0",
+    "inchikey": "BODYFEUFKHPRCK-ZCZMVWJSSA-N"
+  },
+  "infigratinib": {
+    "smiles": "CCN1CCN(CC1)C2=CC=C(C=C2)NC3=CC(=NC=N3)N(C)C(=O)NC4=C(C(=CC(=C4Cl)OC)OC)Cl",
+    "mw": "560.5",
+    "inchikey": "QADPYRIHXKWUSV-UHFFFAOYSA-N"
+  },
+  "maribavir": {
+    "smiles": "CC(C)NC1=NC2=CC(=C(C=C2N1[C@@H]3[C@H]([C@H]([C@@H](O3)CO)O)O)Cl)Cl",
+    "mw": "376.2",
+    "inchikey": "KJFBVJALEQWJBS-XUXIUFHCSA-N"
+  },
+  "mobocertinib": {
+    "smiles": "CC(C)OC(=O)C1=CN=C(N=C1C2=CN(C3=CC=CC=C32)C)NC4=C(C=C(C(=C4)NC(=O)C=C)N(C)CCN(C)C)OC",
+    "mw": "585.7",
+    "inchikey": "AZSRSNUQCUDCGG-UHFFFAOYSA-N"
+  },
+  "odevixibat": {
+    "smiles": "CCCCC1(CN(C2=CC(=C(C=C2S(=O)(=O)N1)OCC(=O)N[C@H](C3=CC=C(C=C3)O)C(=O)N[C@@H](CC)C(=O)O)SC)C4=CC=CC=C4)CCCC",
+    "mw": "740.9",
+    "inchikey": "XULSCZPZVQIMFM-IPZQJPLYSA-N"
+  },
+  "sotorasib": {
+    "smiles": "C[C@H]1CN(CCN1C2=NC(=O)N(C3=NC(=C(C=C32)F)C4=C(C=CC=C4F)O)C5=C(C=CN=C5C(C)C)C)C(=O)C=C",
+    "mw": "560.6",
+    "inchikey": "NXQKSXLFSAEQCZ-SFHVURJKSA-N"
+  },
+  "tepotinib": {
+    "smiles": "CN1CCC(CC1)COC2=CN=C(N=C2)C3=CC=CC(=C3)CN4C(=O)C=CC(=N4)C5=CC=CC(=C5)C#N",
+    "mw": "492.6",
+    "inchikey": "AHYMHWXQRWRBKT-UHFFFAOYSA-N"
+  },
+  "tivozanib": {
+    "smiles": "CC1=CC(=NO1)NC(=O)NC2=C(C=C(C=C2)OC3=C4C=C(C(=CC4=NC=C3)OC)OC)Cl",
+    "mw": "454.9",
+    "inchikey": "SPMVMDHWKHCIDT-UHFFFAOYSA-N"
+  },
+  "umbralisib": {
+    "smiles": "C[C@@H](C1=C(C(=O)C2=C(O1)C=CC(=C2)F)C3=CC(=CC=C3)F)N4C5=NC=NC(=C5C(=N4)C6=CC(=C(C=C6)OC(C)C)F)N",
+    "mw": "571.5",
+    "inchikey": "IUVCFHHAEHNCFT-INIZCTEOSA-N"
+  },
+  "vericiguat": {
+    "smiles": "COC(=O)NC1=C(N=C(N=C1N)C2=NN(C3=C2C=C(C=N3)F)CC4=CC=CC=C4F)N",
+    "mw": "426.4",
+    "inchikey": "QZFHIXARHDBPBY-UHFFFAOYSA-N"
+  },
+  "viloxazine": {
+    "smiles": "CCOC1=CC=CC=C1OCC2CNCCO2",
+    "mw": "237.29",
+    "inchikey": "YWPHCCPCQOJSGZ-UHFFFAOYSA-N"
+  },
+  "voclosporin": {
+    "smiles": "CC[C@H]1C(=O)N(CC(=O)N([C@H](C(=O)N[C@H](C(=O)N([C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N([C@H](C(=O)N1)[C@@H]([C@H](C)C/C=C/C=C)O)C)C(C)C)C)CC(C)C)C)CC(C)C)C)C)C)CC(C)C)C)C(C)C)CC(C)C)C)C",
+    "mw": "1214.6",
+    "inchikey": "BICRTLVBTLFLRD-PTWUADNWSA-N"
+  },
+  "abrocitinib": {
+    "smiles": "CCCS(=O)(=O)NC1CC(C1)N(C)C2=NC=NC3=C2C=CN3",
+    "mw": "323.42",
+    "inchikey": "IUEWXNHSKRWHDY-UHFFFAOYSA-N"
+  },
+  "adagrasib": {
+    "smiles": "CN1CCC[C@H]1COC2=NC3=C(CCN(C3)C4=CC=CC5=C4C(=CC=C5)Cl)C(=N2)N6CCN([C@H](C6)CC#N)C(=O)C(=C)F",
+    "mw": "604.1",
+    "inchikey": "PEMUGDMSUDYLHU-ZEQRLZLVSA-N"
+  },
+  "daridorexant": {
+    "smiles": "CC1=C(C=CC2=C1N=C(N2)[C@@]3(CCCN3C(=O)C4=C(C=CC(=C4)OC)N5N=CC=N5)C)Cl",
+    "mw": "450.9",
+    "inchikey": "NBGABHGMJVIVBW-QHCPKHFHSA-N"
+  },
+  "deucravacitinib": {
+    "smiles": "[2H]C([2H])([2H])NC(=O)C1=NN=C(C=C1NC2=CC=CC(=C2OC)C3=NN(C=N3)C)NC(=O)C4CC4",
+    "mw": "425.5",
+    "inchikey": "BZZKEPGENYLQSC-FIBGUPNXSA-N"
+  },
+  "futibatinib": {
+    "smiles": "COC1=CC(=CC(=C1)C#CC2=NN(C3=NC=NC(=C23)N)[C@H]4CCN(C4)C(=O)C=C)OC",
+    "mw": "418.4",
+    "inchikey": "KEIPNCCJPRMIAX-HNNXBMFYSA-N"
+  },
+  "ganaxolone": {
+    "smiles": "CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@@](C4)(C)O)C)C",
+    "mw": "332.5",
+    "inchikey": "PGTVWKLGGCQMBR-FLBATMFCSA-N"
+  },
+  "lenacapavir (note this is combination of sc and oral admin).  Values are for oral only": {
+    "smiles": "",
+    "mw": "",
+    "inchikey": "",
+    "error": "HTTP 404"
+  },
+  "mavacamten": {
+    "smiles": "C[C@@H](C1=CC=CC=C1)NC2=CC(=O)N(C(=O)N2)C(C)C",
+    "mw": "273.33",
+    "inchikey": "RLCLASQCAPXVLM-NSHDSACASA-N"
+  },
+  "mitapivat": {
+    "smiles": "C1CC1CN2CCN(CC2)C(=O)C3=CC=C(C=C3)NS(=O)(=O)C4=CC=CC5=C4N=CC=C5",
+    "mw": "450.6",
+    "inchikey": "XAYGBKHKBBXDAK-UHFFFAOYSA-N"
+  },
+  "olutasidenib": {
+    "smiles": "C[C@@H](C1=CC2=C(C=CC(=C2)Cl)NC1=O)NC3=CC=C(N(C3=O)C)C#N",
+    "mw": "354.8",
+    "inchikey": "NEQYWYXGTJDAKR-JTQLQIEISA-N"
+  },
+  "pacritinib": {
+    "smiles": "C1CCN(C1)CCOC2=C3COC/C=C/COCC4=CC(=CC=C4)C5=NC(=NC=C5)NC(=C3)C=C2",
+    "mw": "472.6",
+    "inchikey": "HWXVIOGONBBTBY-ONEGZZNKSA-N"
+  },
+  "bexagliflozin": {
+    "smiles": "C1CC1OCCOC2=CC=C(C=C2)CC3=C(C=CC(=C3)[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)Cl",
+    "mw": "464.9",
+    "inchikey": "BTCRKOKVYTVOLU-SJSRKZJXSA-N"
+  },
+  "capivasertib": {
+    "smiles": "C1CN(CCC1(C(=O)N[C@@H](CCO)C2=CC=C(C=C2)Cl)N)C3=NC=NC4=C3C=CN4",
+    "mw": "428.9",
+    "inchikey": "JDUBGYFRJFOXQC-KRWDZBQOSA-N"
+  },
+  "daprodustat": {
+    "smiles": "C1CCC(CC1)N2C(=O)C(C(=O)N(C2=O)C3CCCCC3)C(=O)NCC(=O)O",
+    "mw": "393.4",
+    "inchikey": "RUEYEZADQJCKGV-UHFFFAOYSA-N"
+  },
+  "elacestrant": {
+    "smiles": "CCNCCC1=CC=C(C=C1)CN(CC)C2=C(C=CC(=C2)OC)[C@@H]3CCC4=C(C3)C=CC(=C4)O",
+    "mw": "458.6",
+    "inchikey": "SIFNOOUKXBRGGB-AREMUKBSSA-N"
+  },
+  "etrasimod": {
+    "smiles": "C1CCC(C1)C2=C(C=C(C=C2)COC3=CC4=C(C=C3)NC5=C4CC[C@@H]5CC(=O)O)C(F)(F)F",
+    "mw": "457.5",
+    "inchikey": "MVGWUTBTXDYMND-QGZVFWFLSA-N"
+  },
+  "fezolinetant": {
+    "smiles": "C[C@@H]1C2=NN=C(N2CCN1C(=O)C3=CC=C(C=C3)F)C4=NC(=NS4)C",
+    "mw": "358.4",
+    "inchikey": "PPSNFPASKFYPMN-SECBINFHSA-N"
+  },
+  "fruquintinib": {
+    "smiles": "CC1=C(C2=C(O1)C=C(C=C2)OC3=NC=NC4=CC(=C(C=C43)OC)OC)C(=O)NC",
+    "mw": "393.4",
+    "inchikey": "BALLNEJQLSTPIO-UHFFFAOYSA-N"
+  },
+  "gepirone": {
+    "smiles": "CC1(CC(=O)N(C(=O)C1)CCCCN2CCN(CC2)C3=NC=CC=N3)C",
+    "mw": "359.5",
+    "inchikey": "QOIGKGMMAGJZNZ-UHFFFAOYSA-N"
+  },
+  "iptacopan": {
+    "smiles": "CCO[C@H]1CCN([C@@H](C1)C2=CC=C(C=C2)C(=O)O)CC3=C(C=C(C4=C3C=CN4)C)OC",
+    "mw": "422.5",
+    "inchikey": "RENRQMCACQEWFC-UGKGYDQZSA-N"
+  },
+  "leniolisib": {
+    "smiles": "CCC(=O)N1CC[C@@H](C1)NC2=NC=NC3=C2CN(CC3)C4=CC(=C(N=C4)OC)C(F)(F)F",
+    "mw": "450.5",
+    "inchikey": "MWKYMZXCGYXLPL-ZDUSSCGKSA-N"
+  },
+  "momelotinib": {
+    "smiles": "C1COCCN1C2=CC=C(C=C2)NC3=NC=CC(=N3)C4=CC=C(C=C4)C(=O)NCC#N",
+    "mw": "414.5",
+    "inchikey": "ZVHNDZWQTBEVRY-UHFFFAOYSA-N"
+  },
+  "nirmatrelvir, ritonavir": {
+    "smiles": "",
+    "mw": "",
+    "inchikey": "",
+    "error": "HTTP 404"
+  },
+  "nirogacestat": {
+    "smiles": "CCC[C@@H](C(=O)NC1=CN(C=N1)C(C)(C)CNCC(C)(C)C)N[C@H]2CCC3=C(C2)C(=CC(=C3)F)F",
+    "mw": "489.6",
+    "inchikey": "VFCRKLWBYMDAED-REWPJTCUSA-N"
+  },
+  "omaveloxolone": {
+    "smiles": "C[C@@]12CC[C@]3(CCC(C[C@H]3[C@H]1C(=O)C=C4[C@]2(CC[C@@H]5[C@@]4(C=C(C(=O)C5(C)C)C#N)C)C)(C)C)NC(=O)C(C)(F)F",
+    "mw": "554.7",
+    "inchikey": "RJCWBNBKOKFWNY-IDPLTSGASA-N"
+  },
+  "palovarotene": {
+    "smiles": "CC1(CCC(C2=C1C=C(C(=C2)/C=C/C3=CC=C(C=C3)C(=O)O)CN4C=CC=N4)(C)C)C",
+    "mw": "414.5",
+    "inchikey": "YTFHCXIPDIHOIA-DHZHZOJOSA-N"
+  },
+  "pirtobrutinib": {
+    "smiles": "C[C@@H](C(F)(F)F)N1C(=C(C(=N1)C2=CC=C(C=C2)CNC(=O)C3=C(C=CC(=C3)F)OC)C(=O)N)N",
+    "mw": "479.4",
+    "inchikey": "FWZAWAUZXYCBKZ-NSHDSACASA-N"
+  },
+  "quizartinib": {
+    "smiles": "CC(C)(C)C1=CC(=NO1)NC(=O)NC2=CC=C(C=C2)C3=CN4C5=C(C=C(C=C5)OCCN6CCOCC6)SC4=N3",
+    "mw": "560.7",
+    "inchikey": "CVWXJKQAOSCOAB-UHFFFAOYSA-N"
+  },
+  "repotrectinib": {
+    "smiles": "C[C@H]1CNC(=O)C2=C3N=C(C=CN3N=C2)N[C@@H](C4=C(O1)C=CC(=C4)F)C",
+    "mw": "355.4",
+    "inchikey": "FIKPXCOQUIZNHB-WDEREUQCSA-N"
+  },
+  "ritlecitinib": {
+    "smiles": "C[C@H]1CC[C@H](CN1C(=O)C=C)NC2=NC=NC3=C2C=CN3",
+    "mw": "285.34",
+    "inchikey": "CBRJPFGIXUFMTM-WDEREUQCSA-N"
+  },
+  "sotagliflozin": {
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)SC)O)O)O)Cl",
+    "mw": "424.9",
+    "inchikey": "QKDRXGFQVGOQKS-CRSSMBPESA-N"
+  },
+  "sparsentan": {
+    "smiles": "CCCCC1=NC2(CCCC2)C(=O)N1CC3=CC(=C(C=C3)C4=CC=CC=C4S(=O)(=O)NC5=NOC(=C5C)C)COCC",
+    "mw": "592.8",
+    "inchikey": "WRFHGDPIDHPWIQ-UHFFFAOYSA-N"
+  },
+  "trofinetide": {
+    "smiles": "C[C@]1(CCCN1C(=O)CN)C(=O)N[C@@H](CCC(=O)O)C(=O)O",
+    "mw": "315.32",
+    "inchikey": "BUSXWGRAOZQTEY-SDBXPKJASA-N"
+  },
+  "vamorolone": {
+    "smiles": "C[C@@H]1C[C@H]2[C@@H]3CCC4=CC(=O)C=C[C@@]4(C3=CC[C@@]2([C@]1(C(=O)CO)O)C)C",
+    "mw": "356.5",
+    "inchikey": "ZYTXTXAMMDTYDQ-DGEXFFLYSA-N"
+  },
+  "zuranolone": {
+    "smiles": "C[C@]1(CC[C@H]2[C@@H](C1)CC[C@@H]3[C@@H]2CC[C@]4([C@H]3CC[C@@H]4C(=O)CN5C=C(C=N5)C#N)C)O",
+    "mw": "409.6",
+    "inchikey": "HARRKNSQXBRBGZ-GVKWWOCJSA-N"
+  },
+  "acoramidis": {
+    "smiles": "CC1=C(C(=NN1)C)CCCOC2=C(C=CC(=C2)C(=O)O)F",
+    "mw": "292.30",
+    "inchikey": "WBFUHHBPNXWNCC-UHFFFAOYSA-N"
+  },
+  "aprocitentan": {
+    "smiles": "C1=CC(=CC=C1C2=C(N=CN=C2OCCOC3=NC=C(C=N3)Br)NS(=O)(=O)N)Br",
+    "mw": "546.2",
+    "inchikey": "DKULOVKANLVDEA-UHFFFAOYSA-N"
+  },
+  "arimoclomol": {
+    "smiles": "C1CCN(CC1)C[C@H](CON=C(C2=C[N+](=CC=C2)[O-])Cl)O",
+    "mw": "313.78",
+    "inchikey": "SGEIEGAXKLMUIZ-CYBMUJFWSA-N"
+  },
+  "crinecerfont": {
+    "smiles": "CC1=C(C=C(C=C1)[C@H](CC2CC2)N(CC#C)C3=NC(=C(S3)C)C4=C(C=C(C(=C4)C)OC)Cl)F",
+    "mw": "483.0",
+    "inchikey": "IEAKXXNRGSLYTQ-DEOSSOPVSA-N"
+  },
+  "deuruxolitinib": {
+    "smiles": "[2H]C1(C(C(C(C1([2H])[2H])([2H])[2H])([2H])[2H])[C@@H](CC#N)N2C=C(C=N2)C3=C4C=CNC4=NC=N3)[2H]",
+    "mw": "314.41",
+    "inchikey": "HFNKQEVNSGCOJV-FBXGHSCESA-N"
+  },
+  "ensartinib": {
+    "smiles": "C[C@@H]1CN(C[C@@H](N1)C)C(=O)C2=CC=C(C=C2)NC(=O)C3=NN=C(C(=C3)O[C@H](C)C4=C(C=CC(=C4Cl)F)Cl)N",
+    "mw": "561.4",
+    "inchikey": "GLYMPHUVMRFTFV-QLFBSQMISA-N"
+  },
+  "givinostat": {
+    "smiles": "CCN(CC)CC1=CC2=C(C=C1)C=C(C=C2)COC(=O)NC3=CC=C(C=C3)C(=O)NO",
+    "mw": "421.5",
+    "inchikey": "YALNUENQHAQXEA-UHFFFAOYSA-N"
+  },
+  "inavolisib": {
+    "smiles": "C[C@@H](C(=O)N)NC1=CC2=C(C=C1)C3=NC(=CN3CCO2)N4[C@@H](COC4=O)C(F)F",
+    "mw": "407.4",
+    "inchikey": "SGEUNORSOZVTOL-CABZTGNLSA-N"
+  },
+  "levacetylleucine": {
+    "smiles": "CC(C)C[C@@H](C(=O)O)NC(=O)C",
+    "mw": "173.21",
+    "inchikey": "WXNXCEHXYPACJF-ZETCQYMHSA-N"
+  },
+  "mavorixafor": {
+    "smiles": "C1C[C@@H](C2=C(C1)C=CC=N2)N(CCCCN)CC3=NC4=CC=CC=C4N3",
+    "mw": "349.5",
+    "inchikey": "WVLHHLRVNDMIAR-IBGZPJMESA-N"
+  },
+  "resmetirom": {
+    "smiles": "CC(C)C1=CC(=NNC1=O)OC2=C(C=C(C=C2Cl)N3C(=O)NC(=O)C(=N3)C#N)Cl",
+    "mw": "435.2",
+    "inchikey": "FDBYIYFVSAHJLY-UHFFFAOYSA-N"
+  },
+  "revumenib": {
+    "smiles": "CCN(C(C)C)C(=O)C1=C(C=CC(=C1)F)OC2=CN=CN=C2N3CC4(C3)CCN(CC4)CC5CCC(CC5)NS(=O)(=O)CC",
+    "mw": "630.8",
+    "inchikey": "FRVSRBKUQZKTOW-UHFFFAOYSA-N"
+  },
+  "seladelpar": {
+    "smiles": "CCO[C@H](COC1=CC=C(C=C1)C(F)(F)F)CSC2=CC(=C(C=C2)OCC(=O)O)C",
+    "mw": "444.5",
+    "inchikey": "JWHYSEDOYMYMNM-QGZVFWFLSA-N"
+  },
+  "tovorafenib": {
+    "smiles": "C[C@H](C1=NC=C(S1)C(=O)NC2=NC=C(C(=C2)C(F)(F)F)Cl)NC(=O)C3=C(C(=NC=N3)N)Cl",
+    "mw": "506.3",
+    "inchikey": "VWMJHAFYPMOMGF-ZCFIWIBFSA-N"
+  },
+  "vadadustat": {
+    "smiles": "C1=CC(=CC(=C1)Cl)C2=CC(=C(N=C2)C(=O)NCC(=O)O)O",
+    "mw": "306.70",
+    "inchikey": "JGRXMPYUTJLTKT-UHFFFAOYSA-N"
+  },
+  "vorasidenib": {
+    "smiles": "C[C@H](C(F)(F)F)NC1=NC(=NC(=N1)C2=NC(=CC=C2)Cl)N[C@H](C)C(F)(F)F",
+    "mw": "414.74",
+    "inchikey": "QCZAWDGAVJMPTA-RNFRBKRXSA-N"
+  }
+}

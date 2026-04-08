@@ -1,0 +1,2180 @@
+{
+  "date": "2026-04-08",
+  "pre_registered": true,
+  "model": "XGBoost (same as ho_diagnostic, no retuning)",
+  "n_training_samples": 3546,
+  "n_training_drugs": 868,
+  "E0_holdout_97": {
+    "set_name": "holdout_97",
+    "n_evaluated": 97,
+    "n_skipped": 0,
+    "aafe": 3.355,
+    "two_fold_pct": 37.1,
+    "bias": 0.269,
+    "per_drug": [
+      {
+        "name": "vonoprazan",
+        "pred_log_cd": 1.2115,
+        "actual_log_cd": -0.6812,
+        "abs_err": 1.8927,
+        "signed_err": 1.8927,
+        "fold_err": 78.12,
+        "direction": "OVER"
+      },
+      {
+        "name": "cabozantinib",
+        "pred_log_cd": 0.1418,
+        "actual_log_cd": 1.8451,
+        "abs_err": 1.7033,
+        "signed_err": -1.7033,
+        "fold_err": 50.5,
+        "direction": "UNDER"
+      },
+      {
+        "name": "lenacapavir",
+        "pred_log_cd": 0.2651,
+        "actual_log_cd": -1.4089,
+        "abs_err": 1.6741,
+        "signed_err": 1.6741,
+        "fold_err": 47.21,
+        "direction": "OVER"
+      },
+      {
+        "name": "fluvoxamine",
+        "pred_log_cd": 0.6273,
+        "actual_log_cd": -0.8239,
+        "abs_err": 1.4512,
+        "signed_err": 1.4512,
+        "fold_err": 28.26,
+        "direction": "OVER"
+      },
+      {
+        "name": "ramelteon",
+        "pred_log_cd": 0.7015,
+        "actual_log_cd": -0.7417,
+        "abs_err": 1.4432,
+        "signed_err": 1.4432,
+        "fold_err": 27.75,
+        "direction": "OVER"
+      },
+      {
+        "name": "acamprosate",
+        "pred_log_cd": 0.5417,
+        "actual_log_cd": -0.8692,
+        "abs_err": 1.4109,
+        "signed_err": 1.4109,
+        "fold_err": 25.76,
+        "direction": "OVER"
+      },
+      {
+        "name": "abiraterone",
+        "pred_log_cd": 0.2115,
+        "actual_log_cd": -1.1367,
+        "abs_err": 1.3482,
+        "signed_err": 1.3482,
+        "fold_err": 22.29,
+        "direction": "OVER"
+      },
+      {
+        "name": "sumatriptan",
+        "pred_log_cd": 0.1821,
+        "actual_log_cd": -1.0835,
+        "abs_err": 1.2656,
+        "signed_err": 1.2656,
+        "fold_err": 18.43,
+        "direction": "OVER"
+      },
+      {
+        "name": "alvimopan",
+        "pred_log_cd": 0.9244,
+        "actual_log_cd": -0.3396,
+        "abs_err": 1.264,
+        "signed_err": 1.264,
+        "fold_err": 18.37,
+        "direction": "OVER"
+      },
+      {
+        "name": "fesoterodine",
+        "pred_log_cd": 0.5795,
+        "actual_log_cd": -0.6266,
+        "abs_err": 1.2061,
+        "signed_err": 1.2061,
+        "fold_err": 16.07,
+        "direction": "OVER"
+      },
+      {
+        "name": "upadacitinib",
+        "pred_log_cd": 0.8755,
+        "actual_log_cd": -0.2663,
+        "abs_err": 1.1417,
+        "signed_err": 1.1417,
+        "fold_err": 13.86,
+        "direction": "OVER"
+      },
+      {
+        "name": "selegiline",
+        "pred_log_cd": 0.1187,
+        "actual_log_cd": -1.0,
+        "abs_err": 1.1187,
+        "signed_err": 1.1187,
+        "fold_err": 13.14,
+        "direction": "OVER"
+      },
+      {
+        "name": "azacitidine",
+        "pred_log_cd": 0.7662,
+        "actual_log_cd": -0.3158,
+        "abs_err": 1.0819,
+        "signed_err": 1.0819,
+        "fold_err": 12.08,
+        "direction": "OVER"
+      },
+      {
+        "name": "diclofenac",
+        "pred_log_cd": 1.5907,
+        "actual_log_cd": 0.5229,
+        "abs_err": 1.0678,
+        "signed_err": 1.0678,
+        "fold_err": 11.69,
+        "direction": "OVER"
+      },
+      {
+        "name": "ciprofloxacin",
+        "pred_log_cd": 0.7218,
+        "actual_log_cd": 1.7738,
+        "abs_err": 1.052,
+        "signed_err": -1.052,
+        "fold_err": 11.27,
+        "direction": "UNDER"
+      },
+      {
+        "name": "oxybutynin",
+        "pred_log_cd": 0.2021,
+        "actual_log_cd": -0.699,
+        "abs_err": 0.9011,
+        "signed_err": 0.9011,
+        "fold_err": 7.96,
+        "direction": "OVER"
+      },
+      {
+        "name": "posaconazole",
+        "pred_log_cd": 0.2879,
+        "actual_log_cd": -0.5992,
+        "abs_err": 0.8871,
+        "signed_err": 0.8871,
+        "fold_err": 7.71,
+        "direction": "OVER"
+      },
+      {
+        "name": "progesterone",
+        "pred_log_cd": 0.0687,
+        "actual_log_cd": -0.762,
+        "abs_err": 0.8307,
+        "signed_err": 0.8307,
+        "fold_err": 6.77,
+        "direction": "OVER"
+      },
+      {
+        "name": "carbamazepine",
+        "pred_log_cd": 1.0263,
+        "actual_log_cd": 0.2218,
+        "abs_err": 0.8045,
+        "signed_err": 0.8045,
+        "fold_err": 6.38,
+        "direction": "OVER"
+      },
+      {
+        "name": "paroxetine",
+        "pred_log_cd": -0.1169,
+        "actual_log_cd": -0.9031,
+        "abs_err": 0.7862,
+        "signed_err": 0.7862,
+        "fold_err": 6.11,
+        "direction": "OVER"
+      },
+      {
+        "name": "etodolac",
+        "pred_log_cd": 1.1173,
+        "actual_log_cd": 1.9004,
+        "abs_err": 0.7831,
+        "signed_err": -0.7831,
+        "fold_err": 6.07,
+        "direction": "UNDER"
+      },
+      {
+        "name": "venlafaxine",
+        "pred_log_cd": 0.1319,
+        "actual_log_cd": -0.6259,
+        "abs_err": 0.7578,
+        "signed_err": 0.7578,
+        "fold_err": 5.72,
+        "direction": "OVER"
+      },
+      {
+        "name": "atovaquone",
+        "pred_log_cd": 0.4954,
+        "actual_log_cd": 1.2455,
+        "abs_err": 0.7501,
+        "signed_err": -0.7501,
+        "fold_err": 5.62,
+        "direction": "UNDER"
+      },
+      {
+        "name": "alosetron",
+        "pred_log_cd": 0.8331,
+        "actual_log_cd": 0.0969,
+        "abs_err": 0.7362,
+        "signed_err": 0.7362,
+        "fold_err": 5.45,
+        "direction": "OVER"
+      },
+      {
+        "name": "ruxolitinib",
+        "pred_log_cd": 0.5316,
+        "actual_log_cd": -0.1878,
+        "abs_err": 0.7194,
+        "signed_err": 0.7194,
+        "fold_err": 5.24,
+        "direction": "OVER"
+      },
+      {
+        "name": "penicillamine",
+        "pred_log_cd": 1.1681,
+        "actual_log_cd": 0.4771,
+        "abs_err": 0.691,
+        "signed_err": 0.691,
+        "fold_err": 4.91,
+        "direction": "OVER"
+      },
+      {
+        "name": "fruquintinib",
+        "pred_log_cd": 0.7714,
+        "actual_log_cd": 1.451,
+        "abs_err": 0.6796,
+        "signed_err": -0.6796,
+        "fold_err": 4.78,
+        "direction": "UNDER"
+      },
+      {
+        "name": "isosorbide mononitrate",
+        "pred_log_cd": 0.8469,
+        "actual_log_cd": 1.4921,
+        "abs_err": 0.6451,
+        "signed_err": -0.6451,
+        "fold_err": 4.42,
+        "direction": "UNDER"
+      },
+      {
+        "name": "mefenamic acid",
+        "pred_log_cd": 1.2638,
+        "actual_log_cd": 0.6382,
+        "abs_err": 0.6256,
+        "signed_err": 0.6256,
+        "fold_err": 4.22,
+        "direction": "OVER"
+      },
+      {
+        "name": "sildenafil",
+        "pred_log_cd": 0.7523,
+        "actual_log_cd": 0.1303,
+        "abs_err": 0.622,
+        "signed_err": 0.622,
+        "fold_err": 4.19,
+        "direction": "OVER"
+      },
+      {
+        "name": "phenytoin",
+        "pred_log_cd": 1.1144,
+        "actual_log_cd": 0.4949,
+        "abs_err": 0.6196,
+        "signed_err": 0.6196,
+        "fold_err": 4.16,
+        "direction": "OVER"
+      },
+      {
+        "name": "temozolomide",
+        "pred_log_cd": 1.109,
+        "actual_log_cd": 1.699,
+        "abs_err": 0.5899,
+        "signed_err": -0.5899,
+        "fold_err": 3.89,
+        "direction": "UNDER"
+      },
+      {
+        "name": "apixaban",
+        "pred_log_cd": 0.9838,
+        "actual_log_cd": 0.4014,
+        "abs_err": 0.5824,
+        "signed_err": 0.5824,
+        "fold_err": 3.82,
+        "direction": "OVER"
+      },
+      {
+        "name": "vilazodone",
+        "pred_log_cd": 0.3106,
+        "actual_log_cd": 0.8921,
+        "abs_err": 0.5815,
+        "signed_err": -0.5815,
+        "fold_err": 3.81,
+        "direction": "UNDER"
+      },
+      {
+        "name": "triazolam",
+        "pred_log_cd": 1.0369,
+        "actual_log_cd": 0.4722,
+        "abs_err": 0.5647,
+        "signed_err": 0.5647,
+        "fold_err": 3.67,
+        "direction": "OVER"
+      },
+      {
+        "name": "famotidine",
+        "pred_log_cd": 0.7953,
+        "actual_log_cd": 0.2613,
+        "abs_err": 0.5341,
+        "signed_err": 0.5341,
+        "fold_err": 3.42,
+        "direction": "OVER"
+      },
+      {
+        "name": "indomethacin",
+        "pred_log_cd": 1.721,
+        "actual_log_cd": 1.1875,
+        "abs_err": 0.5335,
+        "signed_err": 0.5335,
+        "fold_err": 3.42,
+        "direction": "OVER"
+      },
+      {
+        "name": "clomipramine",
+        "pred_log_cd": -0.4397,
+        "actual_log_cd": 0.0887,
+        "abs_err": 0.5284,
+        "signed_err": -0.5284,
+        "fold_err": 3.38,
+        "direction": "UNDER"
+      },
+      {
+        "name": "methylphenidate",
+        "pred_log_cd": 0.1645,
+        "actual_log_cd": -0.3632,
+        "abs_err": 0.5276,
+        "signed_err": 0.5276,
+        "fold_err": 3.37,
+        "direction": "OVER"
+      },
+      {
+        "name": "pilocarpine",
+        "pred_log_cd": 0.6843,
+        "actual_log_cd": 0.1761,
+        "abs_err": 0.5082,
+        "signed_err": 0.5082,
+        "fold_err": 3.22,
+        "direction": "OVER"
+      },
+      {
+        "name": "ranitidine",
+        "pred_log_cd": 0.6597,
+        "actual_log_cd": 0.1663,
+        "abs_err": 0.4934,
+        "signed_err": 0.4934,
+        "fold_err": 3.11,
+        "direction": "OVER"
+      },
+      {
+        "name": "montelukast",
+        "pred_log_cd": 1.0608,
+        "actual_log_cd": 1.5441,
+        "abs_err": 0.4833,
+        "signed_err": -0.4833,
+        "fold_err": 3.04,
+        "direction": "UNDER"
+      },
+      {
+        "name": "losartan",
+        "pred_log_cd": 0.5277,
+        "actual_log_cd": 0.0492,
+        "abs_err": 0.4785,
+        "signed_err": 0.4785,
+        "fold_err": 3.01,
+        "direction": "OVER"
+      },
+      {
+        "name": "sirolimus",
+        "pred_log_cd": 0.5564,
+        "actual_log_cd": 0.0792,
+        "abs_err": 0.4772,
+        "signed_err": 0.4772,
+        "fold_err": 3.0,
+        "direction": "OVER"
+      },
+      {
+        "name": "trazodone",
+        "pred_log_cd": 0.7461,
+        "actual_log_cd": 1.2095,
+        "abs_err": 0.4634,
+        "signed_err": -0.4634,
+        "fold_err": 2.91,
+        "direction": "UNDER"
+      },
+      {
+        "name": "pravastatin",
+        "pred_log_cd": 0.244,
+        "actual_log_cd": -0.2041,
+        "abs_err": 0.4481,
+        "signed_err": 0.4481,
+        "fold_err": 2.81,
+        "direction": "OVER"
+      },
+      {
+        "name": "alprazolam",
+        "pred_log_cd": 1.2747,
+        "actual_log_cd": 0.8303,
+        "abs_err": 0.4445,
+        "signed_err": 0.4445,
+        "fold_err": 2.78,
+        "direction": "OVER"
+      },
+      {
+        "name": "pomalidomide",
+        "pred_log_cd": 0.8506,
+        "actual_log_cd": 0.4241,
+        "abs_err": 0.4266,
+        "signed_err": 0.4266,
+        "fold_err": 2.67,
+        "direction": "OVER"
+      },
+      {
+        "name": "clozapine",
+        "pred_log_cd": 0.3152,
+        "actual_log_cd": 0.7409,
+        "abs_err": 0.4256,
+        "signed_err": -0.4256,
+        "fold_err": 2.66,
+        "direction": "UNDER"
+      },
+      {
+        "name": "ponatinib",
+        "pred_log_cd": 0.4973,
+        "actual_log_cd": 0.0848,
+        "abs_err": 0.4125,
+        "signed_err": 0.4125,
+        "fold_err": 2.59,
+        "direction": "OVER"
+      },
+      {
+        "name": "ketoconazole",
+        "pred_log_cd": 0.1852,
+        "actual_log_cd": 0.574,
+        "abs_err": 0.3889,
+        "signed_err": -0.3889,
+        "fold_err": 2.45,
+        "direction": "UNDER"
+      },
+      {
+        "name": "tenofovir disoproxil",
+        "pred_log_cd": 0.4805,
+        "actual_log_cd": 0.1027,
+        "abs_err": 0.3778,
+        "signed_err": 0.3778,
+        "fold_err": 2.39,
+        "direction": "OVER"
+      },
+      {
+        "name": "budesonide",
+        "pred_log_cd": 0.0751,
+        "actual_log_cd": -0.301,
+        "abs_err": 0.3761,
+        "signed_err": 0.3761,
+        "fold_err": 2.38,
+        "direction": "OVER"
+      },
+      {
+        "name": "febuxostat",
+        "pred_log_cd": 1.1526,
+        "actual_log_cd": 0.7959,
+        "abs_err": 0.3567,
+        "signed_err": 0.3567,
+        "fold_err": 2.27,
+        "direction": "OVER"
+      },
+      {
+        "name": "dapagliflozin",
+        "pred_log_cd": 0.7408,
+        "actual_log_cd": 0.3867,
+        "abs_err": 0.354,
+        "signed_err": 0.354,
+        "fold_err": 2.26,
+        "direction": "OVER"
+      },
+      {
+        "name": "ulipristal",
+        "pred_log_cd": 0.4338,
+        "actual_log_cd": 0.7684,
+        "abs_err": 0.3346,
+        "signed_err": -0.3346,
+        "fold_err": 2.16,
+        "direction": "UNDER"
+      },
+      {
+        "name": "donepezil",
+        "pred_log_cd": 0.2071,
+        "actual_log_cd": -0.1135,
+        "abs_err": 0.3206,
+        "signed_err": 0.3206,
+        "fold_err": 2.09,
+        "direction": "OVER"
+      },
+      {
+        "name": "norethindrone",
+        "pred_log_cd": 0.3996,
+        "actual_log_cd": 0.7192,
+        "abs_err": 0.3196,
+        "signed_err": -0.3196,
+        "fold_err": 2.09,
+        "direction": "UNDER"
+      },
+      {
+        "name": "rivaroxaban",
+        "pred_log_cd": 0.8712,
+        "actual_log_cd": 0.5539,
+        "abs_err": 0.3173,
+        "signed_err": 0.3173,
+        "fold_err": 2.08,
+        "direction": "OVER"
+      },
+      {
+        "name": "clopidogrel",
+        "pred_log_cd": 0.3092,
+        "actual_log_cd": 0.0,
+        "abs_err": 0.3092,
+        "signed_err": 0.3092,
+        "fold_err": 2.04,
+        "direction": "OVER"
+      },
+      {
+        "name": "quinine",
+        "pred_log_cd": 0.344,
+        "actual_log_cd": 0.6532,
+        "abs_err": 0.3092,
+        "signed_err": -0.3092,
+        "fold_err": 2.04,
+        "direction": "UNDER"
+      },
+      {
+        "name": "digoxin",
+        "pred_log_cd": 0.4744,
+        "actual_log_cd": 0.1761,
+        "abs_err": 0.2983,
+        "signed_err": 0.2983,
+        "fold_err": 1.99,
+        "direction": "OVER"
+      },
+      {
+        "name": "metronidazole",
+        "pred_log_cd": 1.0875,
+        "actual_log_cd": 0.8129,
+        "abs_err": 0.2746,
+        "signed_err": 0.2746,
+        "fold_err": 1.88,
+        "direction": "OVER"
+      },
+      {
+        "name": "carbinoxamine",
+        "pred_log_cd": 0.2033,
+        "actual_log_cd": 0.4771,
+        "abs_err": 0.2738,
+        "signed_err": -0.2738,
+        "fold_err": 1.88,
+        "direction": "UNDER"
+      },
+      {
+        "name": "amantadine",
+        "pred_log_cd": 0.2877,
+        "actual_log_cd": 0.0265,
+        "abs_err": 0.2613,
+        "signed_err": 0.2613,
+        "fold_err": 1.83,
+        "direction": "OVER"
+      },
+      {
+        "name": "dalfampridine",
+        "pred_log_cd": 0.3697,
+        "actual_log_cd": 0.6304,
+        "abs_err": 0.2607,
+        "signed_err": -0.2607,
+        "fold_err": 1.82,
+        "direction": "UNDER"
+      },
+      {
+        "name": "dasatinib",
+        "pred_log_cd": 0.1705,
+        "actual_log_cd": -0.0851,
+        "abs_err": 0.2556,
+        "signed_err": 0.2556,
+        "fold_err": 1.8,
+        "direction": "OVER"
+      },
+      {
+        "name": "adefovir dipivoxil",
+        "pred_log_cd": 0.5152,
+        "actual_log_cd": 0.2648,
+        "abs_err": 0.2504,
+        "signed_err": 0.2504,
+        "fold_err": 1.78,
+        "direction": "OVER"
+      },
+      {
+        "name": "clonidine",
+        "pred_log_cd": 0.3689,
+        "actual_log_cd": 0.1257,
+        "abs_err": 0.2432,
+        "signed_err": 0.2432,
+        "fold_err": 1.75,
+        "direction": "OVER"
+      },
+      {
+        "name": "erythromycin",
+        "pred_log_cd": 0.7951,
+        "actual_log_cd": 0.553,
+        "abs_err": 0.2421,
+        "signed_err": 0.2421,
+        "fold_err": 1.75,
+        "direction": "OVER"
+      },
+      {
+        "name": "lorlatinib",
+        "pred_log_cd": 0.9366,
+        "actual_log_cd": 0.7001,
+        "abs_err": 0.2365,
+        "signed_err": 0.2365,
+        "fold_err": 1.72,
+        "direction": "OVER"
+      },
+      {
+        "name": "levocetirizine",
+        "pred_log_cd": 0.9445,
+        "actual_log_cd": 1.1761,
+        "abs_err": 0.2315,
+        "signed_err": -0.2315,
+        "fold_err": 1.7,
+        "direction": "UNDER"
+      },
+      {
+        "name": "zolpidem",
+        "pred_log_cd": 0.8072,
+        "actual_log_cd": 1.0302,
+        "abs_err": 0.223,
+        "signed_err": -0.223,
+        "fold_err": 1.67,
+        "direction": "UNDER"
+      },
+      {
+        "name": "rifabutin",
+        "pred_log_cd": 0.1377,
+        "actual_log_cd": -0.0792,
+        "abs_err": 0.2169,
+        "signed_err": 0.2169,
+        "fold_err": 1.65,
+        "direction": "OVER"
+      },
+      {
+        "name": "lamivudine",
+        "pred_log_cd": 0.7028,
+        "actual_log_cd": 0.4929,
+        "abs_err": 0.2099,
+        "signed_err": 0.2099,
+        "fold_err": 1.62,
+        "direction": "OVER"
+      },
+      {
+        "name": "tamsulosin",
+        "pred_log_cd": 1.1968,
+        "actual_log_cd": 1.4023,
+        "abs_err": 0.2055,
+        "signed_err": -0.2055,
+        "fold_err": 1.6,
+        "direction": "UNDER"
+      },
+      {
+        "name": "pindolol",
+        "pred_log_cd": 0.5444,
+        "actual_log_cd": 0.3437,
+        "abs_err": 0.2007,
+        "signed_err": 0.2007,
+        "fold_err": 1.59,
+        "direction": "OVER"
+      },
+      {
+        "name": "quizartinib",
+        "pred_log_cd": 0.3406,
+        "actual_log_cd": 0.5198,
+        "abs_err": 0.1792,
+        "signed_err": -0.1792,
+        "fold_err": 1.51,
+        "direction": "UNDER"
+      },
+      {
+        "name": "valganciclovir",
+        "pred_log_cd": 0.6339,
+        "actual_log_cd": 0.8092,
+        "abs_err": 0.1753,
+        "signed_err": -0.1753,
+        "fold_err": 1.5,
+        "direction": "UNDER"
+      },
+      {
+        "name": "itraconazole",
+        "pred_log_cd": 0.2262,
+        "actual_log_cd": 0.3979,
+        "abs_err": 0.1718,
+        "signed_err": -0.1718,
+        "fold_err": 1.49,
+        "direction": "UNDER"
+      },
+      {
+        "name": "levofloxacin",
+        "pred_log_cd": 0.9496,
+        "actual_log_cd": 0.7924,
+        "abs_err": 0.1572,
+        "signed_err": 0.1572,
+        "fold_err": 1.44,
+        "direction": "OVER"
+      },
+      {
+        "name": "glasdegib",
+        "pred_log_cd": 0.7674,
+        "actual_log_cd": 0.9215,
+        "abs_err": 0.1541,
+        "signed_err": -0.1541,
+        "fold_err": 1.43,
+        "direction": "UNDER"
+      },
+      {
+        "name": "tamoxifen",
+        "pred_log_cd": 0.1993,
+        "actual_log_cd": 0.301,
+        "abs_err": 0.1017,
+        "signed_err": -0.1017,
+        "fold_err": 1.26,
+        "direction": "UNDER"
+      },
+      {
+        "name": "probenecid",
+        "pred_log_cd": 1.3161,
+        "actual_log_cd": 1.2162,
+        "abs_err": 0.0999,
+        "signed_err": 0.0999,
+        "fold_err": 1.26,
+        "direction": "OVER"
+      },
+      {
+        "name": "codeine",
+        "pred_log_cd": 0.1634,
+        "actual_log_cd": 0.0638,
+        "abs_err": 0.0995,
+        "signed_err": 0.0995,
+        "fold_err": 1.26,
+        "direction": "OVER"
+      },
+      {
+        "name": "brincidofovir",
+        "pred_log_cd": 0.1599,
+        "actual_log_cd": 0.2535,
+        "abs_err": 0.0936,
+        "signed_err": -0.0936,
+        "fold_err": 1.24,
+        "direction": "UNDER"
+      },
+      {
+        "name": "hydroxyzine",
+        "pred_log_cd": -0.0998,
+        "actual_log_cd": -0.1915,
+        "abs_err": 0.0916,
+        "signed_err": 0.0916,
+        "fold_err": 1.23,
+        "direction": "OVER"
+      },
+      {
+        "name": "cimetidine",
+        "pred_log_cd": 0.6779,
+        "actual_log_cd": 0.7687,
+        "abs_err": 0.0908,
+        "signed_err": -0.0908,
+        "fold_err": 1.23,
+        "direction": "UNDER"
+      },
+      {
+        "name": "sonidegib",
+        "pred_log_cd": 0.6322,
+        "actual_log_cd": 0.7118,
+        "abs_err": 0.0796,
+        "signed_err": -0.0796,
+        "fold_err": 1.2,
+        "direction": "UNDER"
+      },
+      {
+        "name": "darolutamide",
+        "pred_log_cd": 0.8246,
+        "actual_log_cd": 0.9022,
+        "abs_err": 0.0776,
+        "signed_err": -0.0776,
+        "fold_err": 1.2,
+        "direction": "UNDER"
+      },
+      {
+        "name": "nilotinib",
+        "pred_log_cd": 0.761,
+        "actual_log_cd": 0.688,
+        "abs_err": 0.073,
+        "signed_err": 0.073,
+        "fold_err": 1.18,
+        "direction": "OVER"
+      },
+      {
+        "name": "ketorolac",
+        "pred_log_cd": 1.4925,
+        "actual_log_cd": 1.426,
+        "abs_err": 0.0665,
+        "signed_err": 0.0665,
+        "fold_err": 1.17,
+        "direction": "OVER"
+      },
+      {
+        "name": "colchicine",
+        "pred_log_cd": 0.335,
+        "actual_log_cd": 0.3979,
+        "abs_err": 0.0629,
+        "signed_err": -0.0629,
+        "fold_err": 1.16,
+        "direction": "UNDER"
+      },
+      {
+        "name": "azithromycin",
+        "pred_log_cd": 0.0333,
+        "actual_log_cd": 0.0,
+        "abs_err": 0.0333,
+        "signed_err": 0.0333,
+        "fold_err": 1.08,
+        "direction": "OVER"
+      },
+      {
+        "name": "morphine",
+        "pred_log_cd": 0.2956,
+        "actual_log_cd": 0.2707,
+        "abs_err": 0.0249,
+        "signed_err": 0.0249,
+        "fold_err": 1.06,
+        "direction": "OVER"
+      },
+      {
+        "name": "zonisamide",
+        "pred_log_cd": 0.8012,
+        "actual_log_cd": 0.8239,
+        "abs_err": 0.0227,
+        "signed_err": -0.0227,
+        "fold_err": 1.05,
+        "direction": "UNDER"
+      },
+      {
+        "name": "moxifloxacin",
+        "pred_log_cd": 0.9903,
+        "actual_log_cd": 1.0107,
+        "abs_err": 0.0204,
+        "signed_err": -0.0204,
+        "fold_err": 1.05,
+        "direction": "UNDER"
+      }
+    ],
+    "skipped": []
+  },
+  "E1_brown_2025": {
+    "set_name": "brown_2025",
+    "n_evaluated": 29,
+    "n_skipped": 2,
+    "aafe": 3.255,
+    "two_fold_pct": 37.9,
+    "bias": -0.159,
+    "per_drug": [
+      {
+        "name": "odevixibat",
+        "pred_log_cd": 0.9563,
+        "actual_log_cd": -1.1061,
+        "abs_err": 2.0624,
+        "signed_err": 2.0624,
+        "fold_err": 115.44,
+        "direction": "OVER"
+      },
+      {
+        "name": "crinecerfont",
+        "pred_log_cd": -0.0034,
+        "actual_log_cd": 1.3254,
+        "abs_err": 1.3289,
+        "signed_err": -1.3289,
+        "fold_err": 21.32,
+        "direction": "UNDER"
+      },
+      {
+        "name": "asciminib",
+        "pred_log_cd": 0.7633,
+        "actual_log_cd": 1.8483,
+        "abs_err": 1.085,
+        "signed_err": -1.085,
+        "fold_err": 12.16,
+        "direction": "UNDER"
+      },
+      {
+        "name": "ganaxolone",
+        "pred_log_cd": 0.2456,
+        "actual_log_cd": -0.7899,
+        "abs_err": 1.0355,
+        "signed_err": 1.0355,
+        "fold_err": 10.85,
+        "direction": "OVER"
+      },
+      {
+        "name": "fruquintinib",
+        "pred_log_cd": 0.7656,
+        "actual_log_cd": 1.7782,
+        "abs_err": 1.0126,
+        "signed_err": -1.0126,
+        "fold_err": 10.29,
+        "direction": "UNDER"
+      },
+      {
+        "name": "leniolisib",
+        "pred_log_cd": 0.7422,
+        "actual_log_cd": 1.7172,
+        "abs_err": 0.975,
+        "signed_err": -0.975,
+        "fold_err": 9.44,
+        "direction": "UNDER"
+      },
+      {
+        "name": "sparsentan",
+        "pred_log_cd": 0.32,
+        "actual_log_cd": 1.2088,
+        "abs_err": 0.8888,
+        "signed_err": -0.8888,
+        "fold_err": 7.74,
+        "direction": "UNDER"
+      },
+      {
+        "name": "pirtobrutinib",
+        "pred_log_cd": 0.7165,
+        "actual_log_cd": 1.5092,
+        "abs_err": 0.7927,
+        "signed_err": -0.7927,
+        "fold_err": 6.2,
+        "direction": "UNDER"
+      },
+      {
+        "name": "deuruxolitinib",
+        "pred_log_cd": 0.3467,
+        "actual_log_cd": 0.9749,
+        "abs_err": 0.6281,
+        "signed_err": -0.6281,
+        "fold_err": 4.25,
+        "direction": "UNDER"
+      },
+      {
+        "name": "repotrectinib",
+        "pred_log_cd": 0.9134,
+        "actual_log_cd": 0.3479,
+        "abs_err": 0.5654,
+        "signed_err": 0.5654,
+        "fold_err": 3.68,
+        "direction": "OVER"
+      },
+      {
+        "name": "selpercatinib",
+        "pred_log_cd": 0.4738,
+        "actual_log_cd": 0.9691,
+        "abs_err": 0.4953,
+        "signed_err": -0.4953,
+        "fold_err": 3.13,
+        "direction": "UNDER"
+      },
+      {
+        "name": "nifurtimox",
+        "pred_log_cd": 0.4964,
+        "actual_log_cd": 0.0721,
+        "abs_err": 0.4243,
+        "signed_err": 0.4243,
+        "fold_err": 2.66,
+        "direction": "OVER"
+      },
+      {
+        "name": "tovorafenib",
+        "pred_log_cd": 0.6475,
+        "actual_log_cd": 1.0607,
+        "abs_err": 0.4132,
+        "signed_err": -0.4132,
+        "fold_err": 2.59,
+        "direction": "UNDER"
+      },
+      {
+        "name": "umbralisib",
+        "pred_log_cd": 0.5858,
+        "actual_log_cd": 0.9602,
+        "abs_err": 0.3744,
+        "signed_err": -0.3744,
+        "fold_err": 2.37,
+        "direction": "UNDER"
+      },
+      {
+        "name": "revumenib",
+        "pred_log_cd": 0.2205,
+        "actual_log_cd": 0.5798,
+        "abs_err": 0.3593,
+        "signed_err": -0.3593,
+        "fold_err": 2.29,
+        "direction": "UNDER"
+      },
+      {
+        "name": "ensartinib",
+        "pred_log_cd": 0.4639,
+        "actual_log_cd": 0.1132,
+        "abs_err": 0.3507,
+        "signed_err": 0.3507,
+        "fold_err": 2.24,
+        "direction": "OVER"
+      },
+      {
+        "name": "osilodrostat",
+        "pred_log_cd": 0.3743,
+        "actual_log_cd": 0.7076,
+        "abs_err": 0.3333,
+        "signed_err": -0.3333,
+        "fold_err": 2.15,
+        "direction": "UNDER"
+      },
+      {
+        "name": "momelotinib",
+        "pred_log_cd": 0.7049,
+        "actual_log_cd": 0.3784,
+        "abs_err": 0.3265,
+        "signed_err": 0.3265,
+        "fold_err": 2.12,
+        "direction": "OVER"
+      },
+      {
+        "name": "nirogacestat",
+        "pred_log_cd": 0.2299,
+        "actual_log_cd": 0.5298,
+        "abs_err": 0.2999,
+        "signed_err": -0.2999,
+        "fold_err": 1.99,
+        "direction": "UNDER"
+      },
+      {
+        "name": "quizartinib",
+        "pred_log_cd": 0.3406,
+        "actual_log_cd": 0.5971,
+        "abs_err": 0.2565,
+        "signed_err": -0.2565,
+        "fold_err": 1.81,
+        "direction": "UNDER"
+      },
+      {
+        "name": "vorasidenib",
+        "pred_log_cd": 0.7504,
+        "actual_log_cd": 0.5218,
+        "abs_err": 0.2286,
+        "signed_err": 0.2286,
+        "fold_err": 1.69,
+        "direction": "OVER"
+      },
+      {
+        "name": "lonafarnib",
+        "pred_log_cd": 0.5168,
+        "actual_log_cd": 0.6747,
+        "abs_err": 0.1579,
+        "signed_err": -0.1579,
+        "fold_err": 1.44,
+        "direction": "UNDER"
+      },
+      {
+        "name": "zuranolone",
+        "pred_log_cd": 0.4018,
+        "actual_log_cd": 0.2833,
+        "abs_err": 0.1185,
+        "signed_err": 0.1185,
+        "fold_err": 1.31,
+        "direction": "OVER"
+      },
+      {
+        "name": "avapritinib",
+        "pred_log_cd": 0.492,
+        "actual_log_cd": 0.6091,
+        "abs_err": 0.117,
+        "signed_err": -0.117,
+        "fold_err": 1.31,
+        "direction": "UNDER"
+      },
+      {
+        "name": "trofinetide",
+        "pred_log_cd": 0.9598,
+        "actual_log_cd": 1.0638,
+        "abs_err": 0.104,
+        "signed_err": -0.104,
+        "fold_err": 1.27,
+        "direction": "UNDER"
+      },
+      {
+        "name": "seladelpar",
+        "pred_log_cd": 0.9652,
+        "actual_log_cd": 1.0128,
+        "abs_err": 0.0477,
+        "signed_err": -0.0477,
+        "fold_err": 1.12,
+        "direction": "UNDER"
+      },
+      {
+        "name": "resmetirom",
+        "pred_log_cd": 0.9427,
+        "actual_log_cd": 0.9872,
+        "abs_err": 0.0445,
+        "signed_err": -0.0445,
+        "fold_err": 1.11,
+        "direction": "UNDER"
+      },
+      {
+        "name": "inavolisib",
+        "pred_log_cd": 0.8548,
+        "actual_log_cd": 0.8846,
+        "abs_err": 0.0298,
+        "signed_err": -0.0298,
+        "fold_err": 1.07,
+        "direction": "UNDER"
+      },
+      {
+        "name": "bexagliflozin",
+        "pred_log_cd": 0.8352,
+        "actual_log_cd": 0.8261,
+        "abs_err": 0.0091,
+        "signed_err": 0.0091,
+        "fold_err": 1.02,
+        "direction": "OVER"
+      }
+    ],
+    "skipped": [
+      {
+        "name": "lenacapavir (note this is combination of sc and oral admin).  Values are for oral only",
+        "reason": "missing data"
+      },
+      {
+        "name": "nirmatrelvir, ritonavir",
+        "reason": "missing data"
+      }
+    ],
+    "n_leakage_excluded": 61,
+    "pre_registered_criterion": "AAFE < 5.0",
+    "criterion_met": true
+  },
+  "E2_post_cutoff": {
+    "set_name": "post_cutoff",
+    "n_evaluated": 6,
+    "n_skipped": 0,
+    "aafe": 4.262,
+    "two_fold_pct": 16.7,
+    "bias": 0.071,
+    "per_drug": [
+      {
+        "name": "sevabertinib",
+        "pred_log_cd": 0.551,
+        "actual_log_cd": 1.6542,
+        "abs_err": 1.1031,
+        "signed_err": -1.1031,
+        "fold_err": 12.68,
+        "direction": "UNDER"
+      },
+      {
+        "name": "tradipitant",
+        "pred_log_cd": 0.8732,
+        "actual_log_cd": -0.0015,
+        "abs_err": 0.8748,
+        "signed_err": 0.8748,
+        "fold_err": 7.49,
+        "direction": "OVER"
+      },
+      {
+        "name": "imlunestrant",
+        "pred_log_cd": 0.2701,
+        "actual_log_cd": -0.4528,
+        "abs_err": 0.7229,
+        "signed_err": 0.7229,
+        "fold_err": 5.28,
+        "direction": "OVER"
+      },
+      {
+        "name": "sebetralstat",
+        "pred_log_cd": 0.4322,
+        "actual_log_cd": 1.0058,
+        "abs_err": 0.5736,
+        "signed_err": -0.5736,
+        "fold_err": 3.75,
+        "direction": "UNDER"
+      },
+      {
+        "name": "taletrectinib",
+        "pred_log_cd": 0.3978,
+        "actual_log_cd": -0.1005,
+        "abs_err": 0.4984,
+        "signed_err": 0.4984,
+        "fold_err": 3.15,
+        "direction": "OVER"
+      },
+      {
+        "name": "relacorilant",
+        "pred_log_cd": 0.6858,
+        "actual_log_cd": 0.6812,
+        "abs_err": 0.0046,
+        "signed_err": 0.0046,
+        "fold_err": 1.01,
+        "direction": "OVER"
+      }
+    ],
+    "skipped": []
+  },
+  "E3_holdout_103": {
+    "set_name": "holdout_103",
+    "n_evaluated": 103,
+    "n_skipped": 0,
+    "aafe": 3.354,
+    "two_fold_pct": 36.9,
+    "bias": 0.228,
+    "per_drug": [
+      {
+        "name": "vonoprazan",
+        "pred_log_cd": 1.2115,
+        "actual_log_cd": -0.6812,
+        "abs_err": 1.8927,
+        "signed_err": 1.8927,
+        "fold_err": 78.12,
+        "direction": "OVER"
+      },
+      {
+        "name": "cabozantinib",
+        "pred_log_cd": 0.1418,
+        "actual_log_cd": 1.8451,
+        "abs_err": 1.7033,
+        "signed_err": -1.7033,
+        "fold_err": 50.5,
+        "direction": "UNDER"
+      },
+      {
+        "name": "lenacapavir",
+        "pred_log_cd": 0.2651,
+        "actual_log_cd": -1.4089,
+        "abs_err": 1.6741,
+        "signed_err": 1.6741,
+        "fold_err": 47.21,
+        "direction": "OVER"
+      },
+      {
+        "name": "fluvoxamine",
+        "pred_log_cd": 0.6273,
+        "actual_log_cd": -0.8239,
+        "abs_err": 1.4512,
+        "signed_err": 1.4512,
+        "fold_err": 28.26,
+        "direction": "OVER"
+      },
+      {
+        "name": "ramelteon",
+        "pred_log_cd": 0.7015,
+        "actual_log_cd": -0.7417,
+        "abs_err": 1.4432,
+        "signed_err": 1.4432,
+        "fold_err": 27.75,
+        "direction": "OVER"
+      },
+      {
+        "name": "acamprosate",
+        "pred_log_cd": 0.5417,
+        "actual_log_cd": -0.8692,
+        "abs_err": 1.4109,
+        "signed_err": 1.4109,
+        "fold_err": 25.76,
+        "direction": "OVER"
+      },
+      {
+        "name": "abiraterone",
+        "pred_log_cd": 0.2115,
+        "actual_log_cd": -1.1367,
+        "abs_err": 1.3482,
+        "signed_err": 1.3482,
+        "fold_err": 22.29,
+        "direction": "OVER"
+      },
+      {
+        "name": "sumatriptan",
+        "pred_log_cd": 0.1821,
+        "actual_log_cd": -1.0835,
+        "abs_err": 1.2656,
+        "signed_err": 1.2656,
+        "fold_err": 18.43,
+        "direction": "OVER"
+      },
+      {
+        "name": "alvimopan",
+        "pred_log_cd": 0.9244,
+        "actual_log_cd": -0.3396,
+        "abs_err": 1.264,
+        "signed_err": 1.264,
+        "fold_err": 18.37,
+        "direction": "OVER"
+      },
+      {
+        "name": "fesoterodine",
+        "pred_log_cd": 0.5795,
+        "actual_log_cd": -0.6266,
+        "abs_err": 1.2061,
+        "signed_err": 1.2061,
+        "fold_err": 16.07,
+        "direction": "OVER"
+      },
+      {
+        "name": "upadacitinib",
+        "pred_log_cd": 0.8755,
+        "actual_log_cd": -0.2663,
+        "abs_err": 1.1417,
+        "signed_err": 1.1417,
+        "fold_err": 13.86,
+        "direction": "OVER"
+      },
+      {
+        "name": "selegiline",
+        "pred_log_cd": 0.1187,
+        "actual_log_cd": -1.0,
+        "abs_err": 1.1187,
+        "signed_err": 1.1187,
+        "fold_err": 13.14,
+        "direction": "OVER"
+      },
+      {
+        "name": "azacitidine",
+        "pred_log_cd": 0.7662,
+        "actual_log_cd": -0.3158,
+        "abs_err": 1.0819,
+        "signed_err": 1.0819,
+        "fold_err": 12.08,
+        "direction": "OVER"
+      },
+      {
+        "name": "diclofenac",
+        "pred_log_cd": 1.5907,
+        "actual_log_cd": 0.5229,
+        "abs_err": 1.0678,
+        "signed_err": 1.0678,
+        "fold_err": 11.69,
+        "direction": "OVER"
+      },
+      {
+        "name": "ciprofloxacin",
+        "pred_log_cd": 0.7218,
+        "actual_log_cd": 1.7738,
+        "abs_err": 1.052,
+        "signed_err": -1.052,
+        "fold_err": 11.27,
+        "direction": "UNDER"
+      },
+      {
+        "name": "leflunomide",
+        "pred_log_cd": 0.8179,
+        "actual_log_cd": 1.8573,
+        "abs_err": 1.0395,
+        "signed_err": -1.0395,
+        "fold_err": 10.95,
+        "direction": "UNDER"
+      },
+      {
+        "name": "lopinavir",
+        "pred_log_cd": 0.4527,
+        "actual_log_cd": 1.3892,
+        "abs_err": 0.9365,
+        "signed_err": -0.9365,
+        "fold_err": 8.64,
+        "direction": "UNDER"
+      },
+      {
+        "name": "oxybutynin",
+        "pred_log_cd": 0.2021,
+        "actual_log_cd": -0.699,
+        "abs_err": 0.9011,
+        "signed_err": 0.9011,
+        "fold_err": 7.96,
+        "direction": "OVER"
+      },
+      {
+        "name": "posaconazole",
+        "pred_log_cd": 0.2879,
+        "actual_log_cd": -0.5992,
+        "abs_err": 0.8871,
+        "signed_err": 0.8871,
+        "fold_err": 7.71,
+        "direction": "OVER"
+      },
+      {
+        "name": "progesterone",
+        "pred_log_cd": 0.0687,
+        "actual_log_cd": -0.762,
+        "abs_err": 0.8307,
+        "signed_err": 0.8307,
+        "fold_err": 6.77,
+        "direction": "OVER"
+      },
+      {
+        "name": "carbamazepine",
+        "pred_log_cd": 1.0263,
+        "actual_log_cd": 0.2218,
+        "abs_err": 0.8045,
+        "signed_err": 0.8045,
+        "fold_err": 6.38,
+        "direction": "OVER"
+      },
+      {
+        "name": "paroxetine",
+        "pred_log_cd": -0.1169,
+        "actual_log_cd": -0.9031,
+        "abs_err": 0.7862,
+        "signed_err": 0.7862,
+        "fold_err": 6.11,
+        "direction": "OVER"
+      },
+      {
+        "name": "etodolac",
+        "pred_log_cd": 1.1173,
+        "actual_log_cd": 1.9004,
+        "abs_err": 0.7831,
+        "signed_err": -0.7831,
+        "fold_err": 6.07,
+        "direction": "UNDER"
+      },
+      {
+        "name": "venlafaxine",
+        "pred_log_cd": 0.1319,
+        "actual_log_cd": -0.6259,
+        "abs_err": 0.7578,
+        "signed_err": 0.7578,
+        "fold_err": 5.72,
+        "direction": "OVER"
+      },
+      {
+        "name": "atovaquone",
+        "pred_log_cd": 0.4954,
+        "actual_log_cd": 1.2455,
+        "abs_err": 0.7501,
+        "signed_err": -0.7501,
+        "fold_err": 5.62,
+        "direction": "UNDER"
+      },
+      {
+        "name": "alosetron",
+        "pred_log_cd": 0.8331,
+        "actual_log_cd": 0.0969,
+        "abs_err": 0.7362,
+        "signed_err": 0.7362,
+        "fold_err": 5.45,
+        "direction": "OVER"
+      },
+      {
+        "name": "ruxolitinib",
+        "pred_log_cd": 0.5316,
+        "actual_log_cd": -0.1878,
+        "abs_err": 0.7194,
+        "signed_err": 0.7194,
+        "fold_err": 5.24,
+        "direction": "OVER"
+      },
+      {
+        "name": "penicillamine",
+        "pred_log_cd": 1.1681,
+        "actual_log_cd": 0.4771,
+        "abs_err": 0.691,
+        "signed_err": 0.691,
+        "fold_err": 4.91,
+        "direction": "OVER"
+      },
+      {
+        "name": "fruquintinib",
+        "pred_log_cd": 0.7714,
+        "actual_log_cd": 1.451,
+        "abs_err": 0.6796,
+        "signed_err": -0.6796,
+        "fold_err": 4.78,
+        "direction": "UNDER"
+      },
+      {
+        "name": "isosorbide mononitrate",
+        "pred_log_cd": 0.8469,
+        "actual_log_cd": 1.4921,
+        "abs_err": 0.6451,
+        "signed_err": -0.6451,
+        "fold_err": 4.42,
+        "direction": "UNDER"
+      },
+      {
+        "name": "mefenamic acid",
+        "pred_log_cd": 1.2638,
+        "actual_log_cd": 0.6382,
+        "abs_err": 0.6256,
+        "signed_err": 0.6256,
+        "fold_err": 4.22,
+        "direction": "OVER"
+      },
+      {
+        "name": "sildenafil",
+        "pred_log_cd": 0.7523,
+        "actual_log_cd": 0.1303,
+        "abs_err": 0.622,
+        "signed_err": 0.622,
+        "fold_err": 4.19,
+        "direction": "OVER"
+      },
+      {
+        "name": "phenytoin",
+        "pred_log_cd": 1.1144,
+        "actual_log_cd": 0.4949,
+        "abs_err": 0.6196,
+        "signed_err": 0.6196,
+        "fold_err": 4.16,
+        "direction": "OVER"
+      },
+      {
+        "name": "temozolomide",
+        "pred_log_cd": 1.109,
+        "actual_log_cd": 1.699,
+        "abs_err": 0.5899,
+        "signed_err": -0.5899,
+        "fold_err": 3.89,
+        "direction": "UNDER"
+      },
+      {
+        "name": "apixaban",
+        "pred_log_cd": 0.9838,
+        "actual_log_cd": 0.4014,
+        "abs_err": 0.5824,
+        "signed_err": 0.5824,
+        "fold_err": 3.82,
+        "direction": "OVER"
+      },
+      {
+        "name": "vilazodone",
+        "pred_log_cd": 0.3106,
+        "actual_log_cd": 0.8921,
+        "abs_err": 0.5815,
+        "signed_err": -0.5815,
+        "fold_err": 3.81,
+        "direction": "UNDER"
+      },
+      {
+        "name": "prasugrel",
+        "pred_log_cd": 0.4571,
+        "actual_log_cd": 1.0219,
+        "abs_err": 0.5648,
+        "signed_err": -0.5648,
+        "fold_err": 3.67,
+        "direction": "UNDER"
+      },
+      {
+        "name": "triazolam",
+        "pred_log_cd": 1.0369,
+        "actual_log_cd": 0.4722,
+        "abs_err": 0.5647,
+        "signed_err": 0.5647,
+        "fold_err": 3.67,
+        "direction": "OVER"
+      },
+      {
+        "name": "famotidine",
+        "pred_log_cd": 0.7953,
+        "actual_log_cd": 0.2613,
+        "abs_err": 0.5341,
+        "signed_err": 0.5341,
+        "fold_err": 3.42,
+        "direction": "OVER"
+      },
+      {
+        "name": "indomethacin",
+        "pred_log_cd": 1.721,
+        "actual_log_cd": 1.1875,
+        "abs_err": 0.5335,
+        "signed_err": 0.5335,
+        "fold_err": 3.42,
+        "direction": "OVER"
+      },
+      {
+        "name": "clomipramine",
+        "pred_log_cd": -0.4397,
+        "actual_log_cd": 0.0887,
+        "abs_err": 0.5284,
+        "signed_err": -0.5284,
+        "fold_err": 3.38,
+        "direction": "UNDER"
+      },
+      {
+        "name": "methylphenidate",
+        "pred_log_cd": 0.1645,
+        "actual_log_cd": -0.3632,
+        "abs_err": 0.5276,
+        "signed_err": 0.5276,
+        "fold_err": 3.37,
+        "direction": "OVER"
+      },
+      {
+        "name": "pilocarpine",
+        "pred_log_cd": 0.6843,
+        "actual_log_cd": 0.1761,
+        "abs_err": 0.5082,
+        "signed_err": 0.5082,
+        "fold_err": 3.22,
+        "direction": "OVER"
+      },
+      {
+        "name": "ranitidine",
+        "pred_log_cd": 0.6597,
+        "actual_log_cd": 0.1663,
+        "abs_err": 0.4934,
+        "signed_err": 0.4934,
+        "fold_err": 3.11,
+        "direction": "OVER"
+      },
+      {
+        "name": "montelukast",
+        "pred_log_cd": 1.0608,
+        "actual_log_cd": 1.5441,
+        "abs_err": 0.4833,
+        "signed_err": -0.4833,
+        "fold_err": 3.04,
+        "direction": "UNDER"
+      },
+      {
+        "name": "losartan",
+        "pred_log_cd": 0.5277,
+        "actual_log_cd": 0.0492,
+        "abs_err": 0.4785,
+        "signed_err": 0.4785,
+        "fold_err": 3.01,
+        "direction": "OVER"
+      },
+      {
+        "name": "sirolimus",
+        "pred_log_cd": 0.5564,
+        "actual_log_cd": 0.0792,
+        "abs_err": 0.4772,
+        "signed_err": 0.4772,
+        "fold_err": 3.0,
+        "direction": "OVER"
+      },
+      {
+        "name": "trazodone",
+        "pred_log_cd": 0.7461,
+        "actual_log_cd": 1.2095,
+        "abs_err": 0.4634,
+        "signed_err": -0.4634,
+        "fold_err": 2.91,
+        "direction": "UNDER"
+      },
+      {
+        "name": "pravastatin",
+        "pred_log_cd": 0.244,
+        "actual_log_cd": -0.2041,
+        "abs_err": 0.4481,
+        "signed_err": 0.4481,
+        "fold_err": 2.81,
+        "direction": "OVER"
+      },
+      {
+        "name": "alprazolam",
+        "pred_log_cd": 1.2747,
+        "actual_log_cd": 0.8303,
+        "abs_err": 0.4445,
+        "signed_err": 0.4445,
+        "fold_err": 2.78,
+        "direction": "OVER"
+      },
+      {
+        "name": "pomalidomide",
+        "pred_log_cd": 0.8506,
+        "actual_log_cd": 0.4241,
+        "abs_err": 0.4266,
+        "signed_err": 0.4266,
+        "fold_err": 2.67,
+        "direction": "OVER"
+      },
+      {
+        "name": "clozapine",
+        "pred_log_cd": 0.3152,
+        "actual_log_cd": 0.7409,
+        "abs_err": 0.4256,
+        "signed_err": -0.4256,
+        "fold_err": 2.66,
+        "direction": "UNDER"
+      },
+      {
+        "name": "ponatinib",
+        "pred_log_cd": 0.4973,
+        "actual_log_cd": 0.0848,
+        "abs_err": 0.4125,
+        "signed_err": 0.4125,
+        "fold_err": 2.59,
+        "direction": "OVER"
+      },
+      {
+        "name": "ketoconazole",
+        "pred_log_cd": 0.1852,
+        "actual_log_cd": 0.574,
+        "abs_err": 0.3889,
+        "signed_err": -0.3889,
+        "fold_err": 2.45,
+        "direction": "UNDER"
+      },
+      {
+        "name": "tenofovir disoproxil",
+        "pred_log_cd": 0.4805,
+        "actual_log_cd": 0.1027,
+        "abs_err": 0.3778,
+        "signed_err": 0.3778,
+        "fold_err": 2.39,
+        "direction": "OVER"
+      },
+      {
+        "name": "budesonide",
+        "pred_log_cd": 0.0751,
+        "actual_log_cd": -0.301,
+        "abs_err": 0.3761,
+        "signed_err": 0.3761,
+        "fold_err": 2.38,
+        "direction": "OVER"
+      },
+      {
+        "name": "febuxostat",
+        "pred_log_cd": 1.1526,
+        "actual_log_cd": 0.7959,
+        "abs_err": 0.3567,
+        "signed_err": 0.3567,
+        "fold_err": 2.27,
+        "direction": "OVER"
+      },
+      {
+        "name": "dapagliflozin",
+        "pred_log_cd": 0.7408,
+        "actual_log_cd": 0.3867,
+        "abs_err": 0.354,
+        "signed_err": 0.354,
+        "fold_err": 2.26,
+        "direction": "OVER"
+      },
+      {
+        "name": "ulipristal",
+        "pred_log_cd": 0.4338,
+        "actual_log_cd": 0.7684,
+        "abs_err": 0.3346,
+        "signed_err": -0.3346,
+        "fold_err": 2.16,
+        "direction": "UNDER"
+      },
+      {
+        "name": "ranolazine",
+        "pred_log_cd": 0.3849,
+        "actual_log_cd": 0.716,
+        "abs_err": 0.3311,
+        "signed_err": -0.3311,
+        "fold_err": 2.14,
+        "direction": "UNDER"
+      },
+      {
+        "name": "donepezil",
+        "pred_log_cd": 0.2071,
+        "actual_log_cd": -0.1135,
+        "abs_err": 0.3206,
+        "signed_err": 0.3206,
+        "fold_err": 2.09,
+        "direction": "OVER"
+      },
+      {
+        "name": "norethindrone",
+        "pred_log_cd": 0.3996,
+        "actual_log_cd": 0.7192,
+        "abs_err": 0.3196,
+        "signed_err": -0.3196,
+        "fold_err": 2.09,
+        "direction": "UNDER"
+      },
+      {
+        "name": "rivaroxaban",
+        "pred_log_cd": 0.8712,
+        "actual_log_cd": 0.5539,
+        "abs_err": 0.3173,
+        "signed_err": 0.3173,
+        "fold_err": 2.08,
+        "direction": "OVER"
+      },
+      {
+        "name": "clopidogrel",
+        "pred_log_cd": 0.3092,
+        "actual_log_cd": 0.0,
+        "abs_err": 0.3092,
+        "signed_err": 0.3092,
+        "fold_err": 2.04,
+        "direction": "OVER"
+      },
+      {
+        "name": "quinine",
+        "pred_log_cd": 0.344,
+        "actual_log_cd": 0.6532,
+        "abs_err": 0.3092,
+        "signed_err": -0.3092,
+        "fold_err": 2.04,
+        "direction": "UNDER"
+      },
+      {
+        "name": "digoxin",
+        "pred_log_cd": 0.4744,
+        "actual_log_cd": 0.1761,
+        "abs_err": 0.2983,
+        "signed_err": 0.2983,
+        "fold_err": 1.99,
+        "direction": "OVER"
+      },
+      {
+        "name": "metronidazole",
+        "pred_log_cd": 1.0875,
+        "actual_log_cd": 0.8129,
+        "abs_err": 0.2746,
+        "signed_err": 0.2746,
+        "fold_err": 1.88,
+        "direction": "OVER"
+      },
+      {
+        "name": "carbinoxamine",
+        "pred_log_cd": 0.2033,
+        "actual_log_cd": 0.4771,
+        "abs_err": 0.2738,
+        "signed_err": -0.2738,
+        "fold_err": 1.88,
+        "direction": "UNDER"
+      },
+      {
+        "name": "molnupiravir",
+        "pred_log_cd": 0.7272,
+        "actual_log_cd": 0.4643,
+        "abs_err": 0.2629,
+        "signed_err": 0.2629,
+        "fold_err": 1.83,
+        "direction": "OVER"
+      },
+      {
+        "name": "amantadine",
+        "pred_log_cd": 0.2877,
+        "actual_log_cd": 0.0265,
+        "abs_err": 0.2613,
+        "signed_err": 0.2613,
+        "fold_err": 1.83,
+        "direction": "OVER"
+      },
+      {
+        "name": "dalfampridine",
+        "pred_log_cd": 0.3697,
+        "actual_log_cd": 0.6304,
+        "abs_err": 0.2607,
+        "signed_err": -0.2607,
+        "fold_err": 1.82,
+        "direction": "UNDER"
+      },
+      {
+        "name": "dasatinib",
+        "pred_log_cd": 0.1705,
+        "actual_log_cd": -0.0851,
+        "abs_err": 0.2556,
+        "signed_err": 0.2556,
+        "fold_err": 1.8,
+        "direction": "OVER"
+      },
+      {
+        "name": "adefovir dipivoxil",
+        "pred_log_cd": 0.5152,
+        "actual_log_cd": 0.2648,
+        "abs_err": 0.2504,
+        "signed_err": 0.2504,
+        "fold_err": 1.78,
+        "direction": "OVER"
+      },
+      {
+        "name": "clonidine",
+        "pred_log_cd": 0.3689,
+        "actual_log_cd": 0.1257,
+        "abs_err": 0.2432,
+        "signed_err": 0.2432,
+        "fold_err": 1.75,
+        "direction": "OVER"
+      },
+      {
+        "name": "erythromycin",
+        "pred_log_cd": 0.7951,
+        "actual_log_cd": 0.553,
+        "abs_err": 0.2421,
+        "signed_err": 0.2421,
+        "fold_err": 1.75,
+        "direction": "OVER"
+      },
+      {
+        "name": "lorlatinib",
+        "pred_log_cd": 0.9366,
+        "actual_log_cd": 0.7001,
+        "abs_err": 0.2365,
+        "signed_err": 0.2365,
+        "fold_err": 1.72,
+        "direction": "OVER"
+      },
+      {
+        "name": "levocetirizine",
+        "pred_log_cd": 0.9445,
+        "actual_log_cd": 1.1761,
+        "abs_err": 0.2315,
+        "signed_err": -0.2315,
+        "fold_err": 1.7,
+        "direction": "UNDER"
+      },
+      {
+        "name": "zolpidem",
+        "pred_log_cd": 0.8072,
+        "actual_log_cd": 1.0302,
+        "abs_err": 0.223,
+        "signed_err": -0.223,
+        "fold_err": 1.67,
+        "direction": "UNDER"
+      },
+      {
+        "name": "rifabutin",
+        "pred_log_cd": 0.1377,
+        "actual_log_cd": -0.0792,
+        "abs_err": 0.2169,
+        "signed_err": 0.2169,
+        "fold_err": 1.65,
+        "direction": "OVER"
+      },
+      {
+        "name": "lamivudine",
+        "pred_log_cd": 0.7028,
+        "actual_log_cd": 0.4929,
+        "abs_err": 0.2099,
+        "signed_err": 0.2099,
+        "fold_err": 1.62,
+        "direction": "OVER"
+      },
+      {
+        "name": "tamsulosin",
+        "pred_log_cd": 1.1968,
+        "actual_log_cd": 1.4023,
+        "abs_err": 0.2055,
+        "signed_err": -0.2055,
+        "fold_err": 1.6,
+        "direction": "UNDER"
+      },
+      {
+        "name": "pindolol",
+        "pred_log_cd": 0.5444,
+        "actual_log_cd": 0.3437,
+        "abs_err": 0.2007,
+        "signed_err": 0.2007,
+        "fold_err": 1.59,
+        "direction": "OVER"
+      },
+      {
+        "name": "quizartinib",
+        "pred_log_cd": 0.3406,
+        "actual_log_cd": 0.5198,
+        "abs_err": 0.1792,
+        "signed_err": -0.1792,
+        "fold_err": 1.51,
+        "direction": "UNDER"
+      },
+      {
+        "name": "valganciclovir",
+        "pred_log_cd": 0.6339,
+        "actual_log_cd": 0.8092,
+        "abs_err": 0.1753,
+        "signed_err": -0.1753,
+        "fold_err": 1.5,
+        "direction": "UNDER"
+      },
+      {
+        "name": "itraconazole",
+        "pred_log_cd": 0.2262,
+        "actual_log_cd": 0.3979,
+        "abs_err": 0.1718,
+        "signed_err": -0.1718,
+        "fold_err": 1.49,
+        "direction": "UNDER"
+      },
+      {
+        "name": "levofloxacin",
+        "pred_log_cd": 0.9496,
+        "actual_log_cd": 0.7924,
+        "abs_err": 0.1572,
+        "signed_err": 0.1572,
+        "fold_err": 1.44,
+        "direction": "OVER"
+      },
+      {
+        "name": "glasdegib",
+        "pred_log_cd": 0.7674,
+        "actual_log_cd": 0.9215,
+        "abs_err": 0.1541,
+        "signed_err": -0.1541,
+        "fold_err": 1.43,
+        "direction": "UNDER"
+      },
+      {
+        "name": "tamoxifen",
+        "pred_log_cd": 0.1993,
+        "actual_log_cd": 0.301,
+        "abs_err": 0.1017,
+        "signed_err": -0.1017,
+        "fold_err": 1.26,
+        "direction": "UNDER"
+      },
+      {
+        "name": "probenecid",
+        "pred_log_cd": 1.3161,
+        "actual_log_cd": 1.2162,
+        "abs_err": 0.0999,
+        "signed_err": 0.0999,
+        "fold_err": 1.26,
+        "direction": "OVER"
+      },
+      {
+        "name": "codeine",
+        "pred_log_cd": 0.1634,
+        "actual_log_cd": 0.0638,
+        "abs_err": 0.0995,
+        "signed_err": 0.0995,
+        "fold_err": 1.26,
+        "direction": "OVER"
+      },
+      {
+        "name": "brincidofovir",
+        "pred_log_cd": 0.1599,
+        "actual_log_cd": 0.2535,
+        "abs_err": 0.0936,
+        "signed_err": -0.0936,
+        "fold_err": 1.24,
+        "direction": "UNDER"
+      },
+      {
+        "name": "hydroxyzine",
+        "pred_log_cd": -0.0998,
+        "actual_log_cd": -0.1915,
+        "abs_err": 0.0916,
+        "signed_err": 0.0916,
+        "fold_err": 1.23,
+        "direction": "OVER"
+      },
+      {
+        "name": "cimetidine",
+        "pred_log_cd": 0.6779,
+        "actual_log_cd": 0.7687,
+        "abs_err": 0.0908,
+        "signed_err": -0.0908,
+        "fold_err": 1.23,
+        "direction": "UNDER"
+      },
+      {
+        "name": "sonidegib",
+        "pred_log_cd": 0.6322,
+        "actual_log_cd": 0.7118,
+        "abs_err": 0.0796,
+        "signed_err": -0.0796,
+        "fold_err": 1.2,
+        "direction": "UNDER"
+      },
+      {
+        "name": "darolutamide",
+        "pred_log_cd": 0.8246,
+        "actual_log_cd": 0.9022,
+        "abs_err": 0.0776,
+        "signed_err": -0.0776,
+        "fold_err": 1.2,
+        "direction": "UNDER"
+      },
+      {
+        "name": "nilotinib",
+        "pred_log_cd": 0.761,
+        "actual_log_cd": 0.688,
+        "abs_err": 0.073,
+        "signed_err": 0.073,
+        "fold_err": 1.18,
+        "direction": "OVER"
+      },
+      {
+        "name": "ketorolac",
+        "pred_log_cd": 1.4925,
+        "actual_log_cd": 1.426,
+        "abs_err": 0.0665,
+        "signed_err": 0.0665,
+        "fold_err": 1.17,
+        "direction": "OVER"
+      },
+      {
+        "name": "colchicine",
+        "pred_log_cd": 0.335,
+        "actual_log_cd": 0.3979,
+        "abs_err": 0.0629,
+        "signed_err": -0.0629,
+        "fold_err": 1.16,
+        "direction": "UNDER"
+      },
+      {
+        "name": "azithromycin",
+        "pred_log_cd": 0.0333,
+        "actual_log_cd": 0.0,
+        "abs_err": 0.0333,
+        "signed_err": 0.0333,
+        "fold_err": 1.08,
+        "direction": "OVER"
+      },
+      {
+        "name": "morphine",
+        "pred_log_cd": 0.2956,
+        "actual_log_cd": 0.2707,
+        "abs_err": 0.0249,
+        "signed_err": 0.0249,
+        "fold_err": 1.06,
+        "direction": "OVER"
+      },
+      {
+        "name": "zonisamide",
+        "pred_log_cd": 0.8012,
+        "actual_log_cd": 0.8239,
+        "abs_err": 0.0227,
+        "signed_err": -0.0227,
+        "fold_err": 1.05,
+        "direction": "UNDER"
+      },
+      {
+        "name": "moxifloxacin",
+        "pred_log_cd": 0.9903,
+        "actual_log_cd": 1.0107,
+        "abs_err": 0.0204,
+        "signed_err": -0.0204,
+        "fold_err": 1.05,
+        "direction": "UNDER"
+      },
+      {
+        "name": "bexagliflozin",
+        "pred_log_cd": 0.8352,
+        "actual_log_cd": 0.8261,
+        "abs_err": 0.0091,
+        "signed_err": 0.0091,
+        "fold_err": 1.02,
+        "direction": "OVER"
+      }
+    ],
+    "skipped": [],
+    "n_original": 97,
+    "n_recovered": 6
+  }
+}
