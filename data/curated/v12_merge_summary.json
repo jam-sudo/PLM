@@ -1,0 +1,11 @@
+{
+  "date": "2026-04-11",
+  "v11_rows": 4540,
+  "chembl_entries_raw": 164,
+  "after_holdout_filter": 164,
+  "after_dedup": 164,
+  "after_v11_overlap_drop": 164,
+  "v12_total_rows": 4704,
+  "v12_unique_drugs": 1264,
+  "v11_unique_drugs": 1173
+}
