@@ -1,0 +1,114 @@
+{
+  "hypothesis": "v12b (v11 + 107 audit-refined ChEMBL rows) improves HO vs v11 baseline",
+  "v11": [
+    {
+      "seed": 42,
+      "cv": {
+        "aafe": 3.1688,
+        "fold2": 40.18,
+        "fold3": 59.85,
+        "n": 4540
+      },
+      "holdout": {
+        "aafe": 3.3586,
+        "fold2": 38.14,
+        "fold3": 59.79,
+        "n": 97
+      },
+      "cv_ho_gap": 0.1898
+    },
+    {
+      "seed": 137,
+      "cv": {
+        "aafe": 3.1571,
+        "fold2": 40.53,
+        "fold3": 59.47,
+        "n": 4540
+      },
+      "holdout": {
+        "aafe": 3.3744,
+        "fold2": 39.18,
+        "fold3": 57.73,
+        "n": 97
+      },
+      "cv_ho_gap": 0.2173
+    },
+    {
+      "seed": 2024,
+      "cv": {
+        "aafe": 3.1677,
+        "fold2": 40.35,
+        "fold3": 59.25,
+        "n": 4540
+      },
+      "holdout": {
+        "aafe": 3.3827,
+        "fold2": 38.14,
+        "fold3": 57.73,
+        "n": 97
+      },
+      "cv_ho_gap": 0.215
+    }
+  ],
+  "v12b": [
+    {
+      "seed": 42,
+      "cv": {
+        "aafe": 3.2606,
+        "fold2": 39.29,
+        "fold3": 58.19,
+        "n": 4647
+      },
+      "holdout": {
+        "aafe": 3.3638,
+        "fold2": 37.11,
+        "fold3": 57.73,
+        "n": 97
+      },
+      "cv_ho_gap": 0.1032
+    },
+    {
+      "seed": 137,
+      "cv": {
+        "aafe": 3.2848,
+        "fold2": 38.99,
+        "fold3": 58.36,
+        "n": 4647
+      },
+      "holdout": {
+        "aafe": 3.3629,
+        "fold2": 37.11,
+        "fold3": 56.7,
+        "n": 97
+      },
+      "cv_ho_gap": 0.0781
+    },
+    {
+      "seed": 2024,
+      "cv": {
+        "aafe": 3.2735,
+        "fold2": 38.97,
+        "fold3": 58.47,
+        "n": 4647
+      },
+      "holdout": {
+        "aafe": 3.3324,
+        "fold2": 35.05,
+        "fold3": 56.7,
+        "n": 97
+      },
+      "cv_ho_gap": 0.0589
+    }
+  ],
+  "summary": {
+    "v11_rows": 4540,
+    "v12b_rows": 4647,
+    "cv_v11_mean": 3.1645333333333334,
+    "cv_v12b_mean": 3.272966666666667,
+    "ho_v11_mean": 3.3719,
+    "ho_v12b_mean": 3.353033333333333,
+    "delta_ho_mean": -0.01886666666666681,
+    "delta_ho_std": 0.028473906183264154
+  },
+  "verdict": "NULL"
+}

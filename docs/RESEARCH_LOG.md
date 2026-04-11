@@ -566,6 +566,72 @@
   3. Try to push S12 from PARTIAL to full PASS by adding one more data source (ChEMBL AUC records, or text mining of PubMed abstracts for human oral PK mentions)
   4. If v12 replicates across a 4th seed, publish as new baseline (3.327 vs Sisyphus 2.808, gap reduced from 1.09 to 0.52)
 
+### S12b. ChEMBL Cmax Exhausted + Audit Refinement HURT Performance (surprising null)
+
+- **Date**: 2026-04-11
+- **Two discoveries that changed the picture set by S12**:
+
+#### Discovery 1: ChEMBL Cmax is completely exhausted at 28,160 activities
+- Ran `pipeline/chembl_v2_strict.py` with max=75000 expecting more yield
+- ChEMBL iterator terminated at **28,160 activities** total (no more records for `standard_type IN (Cmax, CMAX)`)
+- Checked all Cmax variants: `C max`, `Cmax (free)`, `Cmaxu`, `Cmax,ss`, `Cmaxss`, `C_max` → all return 0 records. Only `'Cmax'` exists.
+- Final yield: **165 (drug, dose) pairs from all ~28k available activities** (1 more than the 25k scan — confirms saturation)
+- **Ceiling**: ChEMBL Cmax alone cannot exceed ~165 pairs under strict filtering. Further expansion requires AUC conversion, t½ conversion, or external sources.
+
+#### Discovery 2: Manual audit + refinement FAILED (v12b underperforms v12)
+- Random 10-row audit of `chembl_v2_strict.json` revealed 20% contamination:
+  - **#3 (MQDSUKRVUXNMFO, 200 mg)**: "assessed as EDP-420 9-keto level" — **metabolite Cmax** wrongly associated with parent SMILES
+  - **#8 (SUJUHGSWHZTSEU, 500 mg)**: "500 mg po twice daily... for 21 days" — **multi-dose steady-state** mislabeled as single dose
+  - Other 8: phenytoin (valid), valproate (valid), ritonavir-boosted PI (valid), 4 plausible
+- Built `pipeline/chembl_v3_refine.py` to post-hoc filter by:
+  - **Metabolite patterns**: `assessed as`, `metabolite`, `N-oxide`, `[A-Z]+-\d+ \d+-keto`, `M\d+` labels
+  - **Multi-dose patterns**: `twice daily`, `BID`, `TID`, `QID`, `once daily for N days`, `for N days`, `steady-state`, `multiple dose`, `on day N`, `dosing continued`
+  - **Single-dose whitelist override**: entries with `single dose` or `single ascending dose` keep multi-dose rejection bypassed
+- Refinement result: **165 → 107 kept (65%)**. Rejected 37 multi-dose, 21 metabolite.
+- Built `pipeline/build_v12b_chembl_refined.py` → v12b = v11 + 107 clean rows = 4647 rows, 1234 drugs
+
+- **S12b pre-registered retrain (`models/s12b_v12b_retrain.py`)**:
+
+  | Metric | v11 baseline | **v12 contaminated (S12)** | **v12b refined (S12b)** |
+  |---|---|---|---|
+  | CV AAFE | 3.165 ± 0.005 | 3.220 ± 0.015 | 3.273 ± 0.010 |
+  | **HO AAFE** | **3.372 ± 0.010** | **3.327 ± 0.024** | **3.353 ± 0.015** |
+  | CV-HO gap | 0.207 | 0.107 | 0.080 |
+  | ΔHO vs baseline | 0 | **−0.045 (PARTIAL)** | **−0.019 (NULL)** |
+  | Rows added | 0 | +164 | +107 |
+
+- **Verdict**: **NULL** (−0.019 is within the pre-registered NULL band −0.02 to +0.05). Refinement DEGRADED the result by +0.026 relative to S12.
+
+- **Why aggressive quality filtering backfired**:
+  1. **Row count matters more than per-row quality at this scale.** Going from 164 → 107 rows is a 35% reduction in new data. XGB's ability to use the new information scales with count; losing 57 rows apparently hurts more than the noise they add.
+  2. **"Contaminated" rows may still carry information.** For linear PK drugs, metabolite Cmax is often proportional to parent Cmax (constant ratio), so training on metabolite values with parent SMILES still conveys dose-response structure. For multi-dose SS in linear PK, Cmax_ss = Cmax_sd × (1 + accumulation factor), so SS values are still linearly related to single-dose values with a scalar multiplier that XGB can implicitly learn.
+  3. **CV-HO gap suggests training-distribution effect.** v12b gap is 0.080 (lowest), v12 gap is 0.107, v11 gap is 0.207. Both refined and unrefined ChEMBL additions reduce the gap (distribution regularization), but only v12 unrefined improved absolute HO. Suggests v12's extra 57 rows fill important gaps even though individually some are "wrong".
+
+- **Counter-interpretation (honest skepticism)**:
+  - The v12 ΔHO = −0.045 was only 2.4σ from zero (paired std 0.019). The v12b NULL result ΔHO = −0.019 is 0.7σ from zero.
+  - Both are within 1σ of each other. The "refinement HURT" conclusion could itself be noise.
+  - Running a 4th seed on both v12 and v12b would tighten the confidence. For now, v12 is the best point estimate but the signal is fragile.
+  - The "contamination is useful" interpretation is post-hoc rationalization; a more conservative reading is "both are noisy null-to-partial with the 5-seed variance dominating the ChEMBL contribution".
+
+- **Practical conclusion for baseline update**:
+  - **Keep S12 v12 as the candidate new baseline (HO 3.327)** rather than v12b refined (HO 3.353)
+  - Note in the timeline that both results are fragile (small N, narrow effect size)
+  - Do NOT aggressively filter ChEMBL for "contamination" — the cost in row count exceeds the benefit in row quality at this scale
+  - The "refinement improves data quality" intuition from data science does not translate to this regime
+
+- **Artifacts**:
+  - `pipeline/chembl_v3_refine.py` — contamination filter (preserved even though outcome was harmful)
+  - `data/curated/chembl_v3_refined.json` — 107 refined rows
+  - `pipeline/build_v12b_chembl_refined.py`, `data/curated/plm_dataset_v12b_chembl_refined.json`
+  - `models/s12b_v12b_retrain.py`, `models/b1/s12b_v12b_results.json`
+
+- **Status**: **NULL** (refinement hypothesis refuted). Correct baseline candidate remains v12 (3.327 PARTIAL), not v12b (3.353 NULL).
+
+- **Key learning for future data expansion work**:
+  - At small expansion scale (100-200 rows), row count dominates row quality for HO AAFE impact.
+  - Contamination modes that are "wrong but structured" (metabolite Cmax, multi-dose SS) may still contain training signal via proportionality relationships.
+  - Only remove rows if the contamination is STRUCTURELESS noise (e.g., wrong analyte entirely, random garbage). Remove rows with preserved structure only at larger expansion scale (>500 new rows).
+
 ## Key Metrics Timeline
 
 | Experiment | Best AAFE | Type | Notes |
@@ -590,7 +656,8 @@
 | Holdout expanded | **3.354** | HO | N=103, +6 recovered (S9-E3) |
 | B1v5 XGB clean baseline (no enc) | 3.387 | HO | (S11 replication, 3-seed mean) |
 | S11 fp_enc_base replication | 3.372 | HO | (S11, 3-seed mean; corrects old 3.456) |
-| S12 v12 (v11 + ChEMBL v2 strict) | **3.327** | HO | (S12, 3-seed mean; ΔHO=−0.045, gap=0.107) |
+| S12 v12 (v11 + ChEMBL v2 strict) | **3.327** | HO | (S12, 3-seed mean; ΔHO=−0.045, gap=0.107, PARTIAL) |
+| S12b v12b (v11 + ChEMBL v3 refined) | 3.353 | HO | (S12b, 3-seed mean; ΔHO=−0.019, gap=0.080, NULL — refinement HURT) |
 | Sisyphus Meta | **2.283** | HO | Benchmark target |
 
 ## Cross-References

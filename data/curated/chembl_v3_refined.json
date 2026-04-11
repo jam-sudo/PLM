@@ -1,0 +1,1083 @@
+{
+  "source": "chembl_v2_strict.json",
+  "refinement_date": "2026-04-11",
+  "audit_finding": "20% contamination in v2 (10 random samples): metabolite Cmax + multi-dose SS",
+  "input_count": 165,
+  "kept": 107,
+  "rejected_counts": {
+    "multidose": 37,
+    "metabolite": 21
+  },
+  "entries": [
+    {
+      "smiles": "C[C@H]1[C@H](N2CCS(=O)(=O)CC2)O[C@@H]2O[C@@]3(C)CC[C@H]4[C@H](C)CC[C@@H]1[C@@]24OO3",
+      "ik": "FDMUNKXWYMSZIR",
+      "dose_mg": 40.0,
+      "cmax_ngml": 177.1623729856911,
+      "log_cd": 0.6463114974426345,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 8,
+      "sample_desc": "Cmax in healthy human plasma at 40 mg, po administered as single ascending doses as solution during 10 hrs overnight fas"
+    },
+    {
+      "smiles": "C[C@H]1[C@H](N2CCS(=O)(=O)CC2)O[C@@H]2O[C@@]3(C)CC[C@H]4[C@H](C)CC[C@@H]1[C@@]24OO3",
+      "ik": "FDMUNKXWYMSZIR",
+      "dose_mg": 80.0,
+      "cmax_ngml": 144.4572486258801,
+      "log_cd": 0.2566493519140466,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 8,
+      "sample_desc": "Cmax in healthy human plasma at 80 mg, po administered as single immediate release tablets during 10 hrs overnight fasti"
+    },
+    {
+      "smiles": "CCCCN(CCCC)CC(O)c1cc(Cl)cc2c1-c1ccc(Cl)cc1/C2=C/c1ccc(Cl)cc1",
+      "ik": "DYLGFOYVTXJFJP",
+      "dose_mg": 120.0,
+      "cmax_ngml": 496.31111169500934,
+      "log_cd": 0.6165727524900289,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 7,
+      "sample_desc": "Cmax in pregnant human patient with uncomplicated multidrug-resistant Plasmodium falciparum malaria at 120 mg, po admini"
+    },
+    {
+      "smiles": "COP(=O)(c1cc(C)cc(/C=C/C#N)c1)c1c(C(N)=O)[nH]c2ccc(Cl)cc12",
+      "ik": "CGBYTKOSZYQOPV",
+      "dose_mg": 400.0,
+      "cmax_ngml": 1996.4686718171904,
+      "log_cd": 0.6982025083946453,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 5,
+      "sample_desc": "Cmax in fasted state healthy human at 400 mg, po administered as single dose"
+    },
+    {
+      "smiles": "CCOC(=O)C1=C[C@@H](OC(CC)CC)[C@H](NC(C)=O)[C@@H](N)C1.O=P(O)(O)O",
+      "ik": "PGZUMBJQJWIWGJ",
+      "dose_mg": 150.0,
+      "cmax_ngml": 61.37456188528595,
+      "log_cd": -0.3881028540710003,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 4,
+      "sample_desc": "Cmax in healthy adult plasma at 150 mg, po administered as single dose by LC/MS analysis"
+    },
+    {
+      "smiles": "Cn1cnc([N+](=O)[O-])c1Sc1ncnc2[nH]cnc12",
+      "ik": "LMEKQMALGUDUQG",
+      "dose_mg": 100.0,
+      "cmax_ngml": 49.86687482352001,
+      "log_cd": -0.30218784833325,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 4,
+      "sample_desc": "Cmax in healthy human (29 volunteers) assessed as 6-mercaptopurine at 100 mg, po of standard compound by HPLC analysis"
+    },
+    {
+      "smiles": "CCN1c2ncc(CCOc3cc[n+]([O-])c4ccccc34)cc2C(=O)N(C)c2cccnc21",
+      "ik": "BEMBRAMZGVDPMH",
+      "dose_mg": 50.0,
+      "cmax_ngml": 429.6961718638163,
+      "log_cd": 0.9341914802628802,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 3,
+      "sample_desc": "Cmax in high fat fed healthy human at 50 mg, po administered as single dose coadministered with 100 mg of ritonavir by h"
+    },
+    {
+      "smiles": "COP(=O)(c1cc(C)cc(/C=C/C#N)c1)c1c(C(N)=O)[nH]c2ccc(Cl)cc12",
+      "ik": "CGBYTKOSZYQOPV",
+      "dose_mg": 800.0,
+      "cmax_ngml": 4591.880010527567,
+      "log_cd": 0.7589005440864304,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 3,
+      "sample_desc": "Cmax in fed state healthy human at 800 mg, po administered as single dose"
+    },
+    {
+      "smiles": "O=C1C=CN(c2c(F)cc(N3C[C@H](CNc4ccon4)OC3=O)c(F)c2F)CC1",
+      "ik": "SULYVXZZUMRQAX",
+      "dose_mg": 600.0,
+      "cmax_ngml": 20328.270707963853,
+      "log_cd": 1.5299491851195162,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 3,
+      "sample_desc": "Cmax in fasted human at 600 mg, po administered as single dose"
+    },
+    {
+      "smiles": "CC(=O)Nc1cc(-c2c(-c3ccc(F)cc3)nc([S+](C)[O-])n2C)ccn1",
+      "ik": "DRMJRHUMYBYDIX",
+      "dose_mg": 10.0,
+      "cmax_ngml": 52.09478750056001,
+      "log_cd": 0.7167942708428344,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 3,
+      "sample_desc": "Cmax in human at 10 mg, po administered as single dose"
+    },
+    {
+      "smiles": "Cn1c([S+](C)[O-])nc(-c2ccc(F)cc2)c1-c1ccnc(N)c1",
+      "ik": "ADHKYAXGWCBOHI",
+      "dose_mg": 10.0,
+      "cmax_ngml": 49.51425904800001,
+      "log_cd": 0.694730284471065,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 3,
+      "sample_desc": "Cmax in human at 10 mg, po administered as single dose"
+    },
+    {
+      "smiles": "CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(O)c(c(/C=N/N5CCN(C)CC5)c(O)c4c3C2=O)NC(=O)/C(C)=C\\C=C\\[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](O)[C@@H]1C",
+      "ik": "KUJZTIJOBQNKDR",
+      "dose_mg": 600.0,
+      "cmax_ngml": 1678.5990342965574,
+      "log_cd": 0.4467957185424977,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in HIV-negative human at 600 mg, po administered every 24 hrs coadministered with 300 mg of atazanavir every 12 hrs"
+    },
+    {
+      "smiles": "C[C@@H]1CCO[C@H]2Cn3cc(C(=O)NCc4ccc(F)cc4F)c(=O)c([O-])c3C(=O)N12.[Na+]",
+      "ik": "UGWJRRXTMKRYNK",
+      "dose_mg": 10.0,
+      "cmax_ngml": 1414.3317038345342,
+      "log_cd": 2.1505512766820623,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human at 10 mg administered as single dose suspension"
+    },
+    {
+      "smiles": "C[C@@H]1CCO[C@H]2Cn3cc(C(=O)NCc4ccc(F)cc4F)c(=O)c([O-])c3C(=O)N12.[Na+]",
+      "ik": "UGWJRRXTMKRYNK",
+      "dose_mg": 25.0,
+      "cmax_ngml": 3071.6665527863947,
+      "log_cd": 2.0894340600621746,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human at 25 mg administered as single dose suspension"
+    },
+    {
+      "smiles": "C[C@@H]1CCO[C@H]2Cn3cc(C(=O)NCc4ccc(F)cc4F)c(=O)c([O-])c3C(=O)N12.[Na+]",
+      "ik": "UGWJRRXTMKRYNK",
+      "dose_mg": 50.0,
+      "cmax_ngml": 5574.592172940514,
+      "log_cd": 2.047243096349179,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human at 50 mg administered as single dose suspension"
+    },
+    {
+      "smiles": "Nc1nc2c(nc(O)n2COCCO)c(=O)[nH]1",
+      "ik": "PTSDSAPWOJZBNX",
+      "dose_mg": 1500.0,
+      "cmax_ngml": 164.2185305071659,
+      "log_cd": -0.9606690974845692,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in human systemic circulation with chronic kidney disease assessed as 8-OH-ACV level at 1500 mg, po every 12 hrs me"
+    },
+    {
+      "smiles": "CCN1c2ncc(CCOc3cc[n+]([O-])c4ccccc34)cc2C(=O)N(C)c2cccnc21",
+      "ik": "BEMBRAMZGVDPMH",
+      "dose_mg": 75.0,
+      "cmax_ngml": 531.206230884739,
+      "log_cd": 0.8502018971380445,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human at 75 mg, po administered as single dose coadministered with 100 mg of ritonavir by high-pressure "
+    },
+    {
+      "smiles": "CCN1c2ncc(CCOc3cc[n+]([O-])c4ccccc34)cc2C(=O)N(C)c2cccnc21",
+      "ik": "BEMBRAMZGVDPMH",
+      "dose_mg": 25.0,
+      "cmax_ngml": 96.8953788020107,
+      "log_cd": 0.5883630562152146,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human at 25 mg, po administered as single dose coadministered with 100 mg of ritonavir by high-pressure "
+    },
+    {
+      "smiles": "CCN1c2ncc(CCOc3cc[n+]([O-])c4ccccc34)cc2C(=O)N(C)c2cccnc21",
+      "ik": "BEMBRAMZGVDPMH",
+      "dose_mg": 12.5,
+      "cmax_ngml": 33.09143837858215,
+      "log_cd": 0.42280563194885024,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human at 12.5 mg, po administered as single dose coadministered with 100 mg of ritonavir by high-pressur"
+    },
+    {
+      "smiles": "CCN1c2ncc(CCOc3cc[n+]([O-])c4ccccc34)cc2C(=O)N(C)c2cccnc21",
+      "ik": "BEMBRAMZGVDPMH",
+      "dose_mg": 5.0,
+      "cmax_ngml": 10.495947492403284,
+      "log_cd": 0.3220516450758491,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human at 5 mg, po administered as single dose coadministered with 100 mg of ritonavir by high-pressure l"
+    },
+    {
+      "smiles": "COP(=O)(c1cc(C)cc(/C=C/C#N)c1)c1c(C(N)=O)[nH]c2ccc(Cl)cc12",
+      "ik": "CGBYTKOSZYQOPV",
+      "dose_mg": 200.0,
+      "cmax_ngml": 952.2551899839584,
+      "log_cd": 0.6777233526684796,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in fasted state healthy human at 200 mg, po administered as single dose"
+    },
+    {
+      "smiles": "C[C@H]1[C@H](N2CCS(=O)(=O)CC2)O[C@@H]2O[C@@]3(C)CC[C@H]4[C@H](C)CC[C@@H]1[C@@]24OO3",
+      "ik": "FDMUNKXWYMSZIR",
+      "dose_mg": 10.0,
+      "cmax_ngml": 114.74163051133367,
+      "log_cd": 1.059721017038871,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human plasma at 10 mg, po administered as single ascending doses as solution during 10 hrs overnight fas"
+    },
+    {
+      "smiles": "C[C@H]1[C@H](N2CCS(=O)(=O)CC2)O[C@@H]2O[C@@]3(C)CC[C@H]4[C@H](C)CC[C@@H]1[C@@]24OO3",
+      "ik": "FDMUNKXWYMSZIR",
+      "dose_mg": 20.0,
+      "cmax_ngml": 114.62513367365068,
+      "log_cd": 0.758249859480356,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human plasma at 20 mg, po administered as single ascending doses as solution during 10 hrs overnight fas"
+    },
+    {
+      "smiles": "C[C@H]1[C@H](N2CCS(=O)(=O)CC2)O[C@@H]2O[C@@]3(C)CC[C@H]4[C@H](C)CC[C@@H]1[C@@]24OO3",
+      "ik": "FDMUNKXWYMSZIR",
+      "dose_mg": 30.0,
+      "cmax_ngml": 77.78028035724391,
+      "log_cd": 0.41374824949913974,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human plasma at 30 mg, po administered as single ascending doses as solution during 10 hrs overnight fas"
+    },
+    {
+      "smiles": "O=C1C=CN(c2c(F)cc(N3C[C@H](CNc4ccon4)OC3=O)c(F)c2F)CC1",
+      "ik": "SULYVXZZUMRQAX",
+      "dose_mg": 900.0,
+      "cmax_ngml": 25383.68220561551,
+      "log_cd": 1.4503121124795548,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in fasted human at 900 mg, po administered as single dose"
+    },
+    {
+      "smiles": "O=C1C=CN(c2c(F)cc(N3C[C@H](CNc4ccon4)OC3=O)c(F)c2F)CC1",
+      "ik": "SULYVXZZUMRQAX",
+      "dose_mg": 800.0,
+      "cmax_ngml": 27100.963101538757,
+      "log_cd": 1.5298947379138854,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in human at 800 mg, po administered as single dose with meal measured on day 1"
+    },
+    {
+      "smiles": "CC(=O)N1CCN([C@H]2CCN(C(=O)N(C)[C@H](C)c3cc(C(F)(F)F)cc(C(F)(F)F)c3)[C@@H](c3ccc(F)cc3C)C2)CC1",
+      "ik": "XGGTZCKQRWXCHW",
+      "dose_mg": 100.0,
+      "cmax_ngml": 755.3768347494215,
+      "log_cd": 0.8781636621240709,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human at 100 mg, po administered as single dose"
+    },
+    {
+      "smiles": "CC(=O)N1CCN([C@H]2CCN(C(=O)N(C)[C@H](C)c3cc(C(F)(F)F)cc(C(F)(F)F)c3)[C@@H](c3ccc(F)cc3C)C2)CC1",
+      "ik": "XGGTZCKQRWXCHW",
+      "dose_mg": 150.0,
+      "cmax_ngml": 280.8049489849809,
+      "log_cd": 0.27231349859698684,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human at 150 mg, po administered as single dose"
+    },
+    {
+      "smiles": "CC(=O)N1CCN([C@H]2CCN(C(=O)N(C)[C@H](C)c3cc(C(F)(F)F)cc(C(F)(F)F)c3)[C@@H](c3ccc(F)cc3C)C2)CC1O",
+      "ik": "IMIUKXZVUAUOBR",
+      "dose_mg": 100.0,
+      "cmax_ngml": 181.7629111139675,
+      "log_cd": 0.2595052697450967,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human treated with casopitant at 100 mg, po administered as single dose on day 4 and cotreated with keto"
+    },
+    {
+      "smiles": "CC(=O)N1CCN([C@H]2CCN(C(=O)N(C)[C@H](C)c3cc(C(F)(F)F)cc(C(F)(F)F)c3)[C@@H](c3ccc(F)cc3C)C2)CC1O",
+      "ik": "IMIUKXZVUAUOBR",
+      "dose_mg": 150.0,
+      "cmax_ngml": 180.314095413519,
+      "log_cd": 0.07993841842123879,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human treated with casopitant at 150 mg, po administered as single dose"
+    },
+    {
+      "smiles": "CC(C)OC(=O)N[C@H]1Cc2c(n(Cc3ccccn3)c3ccc(C#N)cc23)C1",
+      "ik": "IHIWYQYVBNODSV",
+      "dose_mg": 15.0,
+      "cmax_ngml": 128.2286592268885,
+      "log_cd": 0.9318938422042037,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in human at 15 mg, po administered as single dose by liquid scintillation counting method"
+    },
+    {
+      "smiles": "Cc1cc2c(F)c(Oc3ncnn4cc(OC[C@@H](C)O)c(C)c34)ccc2[nH]1",
+      "ik": "WCWUXEGQKLTGDX",
+      "dose_mg": 400.0,
+      "cmax_ngml": 418.0689338978831,
+      "log_cd": 0.019187905622139678,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human plasma at 400 mg, po administered as single dose via gavage by LC/MS analysis"
+    },
+    {
+      "smiles": "COc1cc2c(cc1OC)[C@H](CCc1ccc(C(F)(F)F)cc1)NCC2",
+      "ik": "YDSAXZXFUOAJSV",
+      "dose_mg": 200.0,
+      "cmax_ngml": 69.74519356734142,
+      "log_cd": -0.45751571173419675,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human treated with [14C]almorexant at 200 mg, po dosed as single dose"
+    },
+    {
+      "smiles": "O=C1NC(=O)C(c2ccccc2)(c2ccccc2)N1.[Na+]",
+      "ik": "FJPYVLNWWICYDW",
+      "dose_mg": 300.0,
+      "cmax_ngml": 4424.481320977546,
+      "log_cd": 1.1687411112429225,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy adult human subjects at 300 mg, po dosed 30 minutes after ingestion of soup (melahu rasam) with black pe"
+    },
+    {
+      "smiles": "Cn1cnc([N+](=O)[O-])c1Sc1ncnc2[nH]cnc12",
+      "ik": "LMEKQMALGUDUQG",
+      "dose_mg": 50.0,
+      "cmax_ngml": 7.899587543679434,
+      "log_cd": -0.8013655880051095,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human subjects (24 subjects) assessed as 6-mercaptopurine at 50 mg dosed as delayed release oral formula"
+    },
+    {
+      "smiles": "CC(=O)Nc1cc(-c2c(-c3ccc(F)cc3)nc([S+](C)[O-])n2C)ccn1",
+      "ik": "DRMJRHUMYBYDIX",
+      "dose_mg": 20.0,
+      "cmax_ngml": 115.1106209899283,
+      "log_cd": 0.7600854011587992,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in human at 20 mg, po administered as single dose"
+    },
+    {
+      "smiles": "CCC(=O)N(c1ccccc1)C1(COC)CCN(CCc2cccs2)CC1",
+      "ik": "GGCSSNBKKAUURC",
+      "dose_mg": 0.6,
+      "cmax_ngml": 0.09968746949465511,
+      "log_cd": -0.7795106785447257,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in human at 0.615 mg, po dosed as repeated dose"
+    },
+    {
+      "smiles": "NCCCC(O)(P(=O)([O-])O)P(=O)(O)O.[Na+]",
+      "ik": "CAKRAHQRJGUPIG",
+      "dose_mg": 70.0,
+      "cmax_ngml": 57.597896764128144,
+      "log_cd": -0.08469141493150147,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in healthy human at 70 mg, po in crossover study measured up to 8 hrs post dose by LC-MS/MS analysis"
+    },
+    {
+      "smiles": "C[C@@]1(O)CC[C@H]2[C@H](CC[C@@H]3[C@@H]2CC[C@]2(C)[C@@H](C(=O)CO)CC[C@@H]32)C1",
+      "ik": "GEJDELDOOCQBCA",
+      "dose_mg": 30.0,
+      "cmax_ngml": 37.07508853262203,
+      "log_cd": 0.09196094204571498,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 2,
+      "sample_desc": "Cmax in human at 30 mg administered as formulated fed (high-fat meal) capsules"
+    },
+    {
+      "smiles": "COc1ccc(OC(=O)N(CC(=O)O)Cc2ccc(OCCc3nc(-c4ccccc4)oc3C)cc2)cc1.Cl",
+      "ik": "VNRMGWLEPYHHBK",
+      "dose_mg": 10.0,
+      "cmax_ngml": 1924.1119198319368,
+      "log_cd": 2.284230330046784,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human at 10 mg, po after 192 hrs"
+    },
+    {
+      "smiles": "COc1ccc(OC(=O)N(CC(=O)O)Cc2ccc(OCCc3nc(-c4ccccc4)oc3C)cc2)cc1",
+      "ik": "IRLWJILLXJGJTD",
+      "dose_mg": 10.0,
+      "cmax_ngml": 1399.0236498484187,
+      "log_cd": 2.1458250561014434,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human at 10 mg, po after 72 hrs"
+    },
+    {
+      "smiles": "CC(C)(C)NC(=O)[C@@H]1C[C@@H]2CCCC[C@@H]2CN1C[C@@H](O)[C@H](Cc1ccccc1)NC(=O)[C@H](CC(N)=O)NC(=O)c1ccc2ccccc2n1",
+      "ik": "QWAXKHKRTORLEM",
+      "dose_mg": 480.0,
+      "cmax_ngml": 3597.4495819113745,
+      "log_cd": 0.8747534786587359,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in HIV-infected patient at 480 mg/m2, po administered every 12 hrs for 6 weeks co-administered with 120 mg/m2 of ri"
+    },
+    {
+      "smiles": "Cc1cc(NS(=O)(=O)c2ccc(N)cc2)no1",
+      "ik": "JLKIGFTWXXRPMT",
+      "dose_mg": 800.0,
+      "cmax_ngml": 39964.0089163745,
+      "log_cd": 1.6985790602029371,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in immunodeficiency virus-infected patient at 800 mg, po by high-pressure liquid chromatography"
+    },
+    {
+      "smiles": "COc1cc(Cc2cnc(N)nc2N)cc(OC)c1OC",
+      "ik": "IEDVJHCEMCRBQM",
+      "dose_mg": 160.0,
+      "cmax_ngml": 2298.5565080222177,
+      "log_cd": 1.157335202315576,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 160 mg administered orally"
+    },
+    {
+      "smiles": "C[C@@H]1CCO[C@H]2Cn3cc(C(=O)NCc4ccc(F)cc4F)c(=O)c([O-])c3C(=O)N12.[Na+]",
+      "ik": "UGWJRRXTMKRYNK",
+      "dose_mg": 2.0,
+      "cmax_ngml": 242.9684718571306,
+      "log_cd": 2.0845199265482433,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 2 mg administered as single dose suspension"
+    },
+    {
+      "smiles": "C[C@@H]1CCO[C@H]2Cn3cc(C(=O)NCc4ccc(F)cc4F)c(=O)c([O-])c3C(=O)N12.[Na+]",
+      "ik": "UGWJRRXTMKRYNK",
+      "dose_mg": 5.0,
+      "cmax_ngml": 695.2530404910917,
+      "log_cd": 2.1431728924675153,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 5 mg administered as single dose suspension"
+    },
+    {
+      "smiles": "C[C@@H]1CCO[C@H]2Cn3cc(C(=O)NCc4ccc(F)cc4F)c(=O)c([O-])c3C(=O)N12.[Na+]",
+      "ik": "UGWJRRXTMKRYNK",
+      "dose_mg": 100.0,
+      "cmax_ngml": 8561.7923628078,
+      "log_cd": 1.9325646912884968,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 100 mg administered as single dose suspension"
+    },
+    {
+      "smiles": "Nc1nc2c(nc(O)n2COCCO)c(=O)[nH]1",
+      "ik": "PTSDSAPWOJZBNX",
+      "dose_mg": 2000.0,
+      "cmax_ngml": 77.14595322624001,
+      "log_cd": -1.4137168460504035,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human systemic circulation with normal renal function assessed as 8-OH-ACV level at 2000 mg, po every 6 hrs meas"
+    },
+    {
+      "smiles": "CCN1c2ncc(CCOc3cc[n+]([O-])c4ccccc34)cc2C(=O)N(C)c2cccnc21",
+      "ik": "BEMBRAMZGVDPMH",
+      "dose_mg": 87.5,
+      "cmax_ngml": 837.4127516639593,
+      "log_cd": 0.9809315167823942,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 87.5 mg, po administered as single dose coadministered with 100 mg of ritonavir by high-pressur"
+    },
+    {
+      "smiles": "CCN1c2ncc(CCOc3cc[n+]([O-])c4ccccc34)cc2C(=O)N(C)c2cccnc21",
+      "ik": "BEMBRAMZGVDPMH",
+      "dose_mg": 62.5,
+      "cmax_ngml": 652.5406469196517,
+      "log_cd": 1.0187275518204244,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 62.5 mg, po administered as single dose coadministered with 100 mg of ritonavir by high-pressur"
+    },
+    {
+      "smiles": "CCN1c2ncc(CCOc3cc[n+]([O-])c4ccccc34)cc2C(=O)N(C)c2cccnc21",
+      "ik": "BEMBRAMZGVDPMH",
+      "dose_mg": 37.5,
+      "cmax_ngml": 343.75870221141116,
+      "log_cd": 0.9622224333638636,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 37.5 mg, po administered as single dose coadministered with 100 mg of ritonavir by high-pressur"
+    },
+    {
+      "smiles": "CCN1c2ncc(CCOc3cc[n+]([O-])c4ccccc34)cc2C(=O)N(C)c2cccnc21",
+      "ik": "BEMBRAMZGVDPMH",
+      "dose_mg": 100.0,
+      "cmax_ngml": 936.3429749549666,
+      "log_cd": 0.9714349564806839,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 100 mg, po administered as single dose by high-pressure liquid chromatography-tandem mass spect"
+    },
+    {
+      "smiles": "COP(=O)(c1cc(C)cc(/C=C/C#N)c1)c1c(C(N)=O)[nH]c2ccc(Cl)cc12",
+      "ik": "CGBYTKOSZYQOPV",
+      "dose_mg": 50.0,
+      "cmax_ngml": 1597.174937453752,
+      "log_cd": 1.5043824823785323,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in fasted state healthy human at 50 mg, po administered as single dose"
+    },
+    {
+      "smiles": "COP(=O)(c1cc(C)cc(/C=C/C#N)c1)c1c(C(N)=O)[nH]c2ccc(Cl)cc12",
+      "ik": "CGBYTKOSZYQOPV",
+      "dose_mg": 100.0,
+      "cmax_ngml": 2994.7050730738147,
+      "log_cd": 1.4763540582967856,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in fasted state healthy human at 100 mg, po administered as single dose"
+    },
+    {
+      "smiles": "COP(=O)(c1cc(C)cc(/C=C/C#N)c1)c1c(C(N)=O)[nH]c2ccc(Cl)cc12",
+      "ik": "CGBYTKOSZYQOPV",
+      "dose_mg": 1200.0,
+      "cmax_ngml": 5590.116411784192,
+      "log_cd": 0.6682396059298692,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in fed state healthy human at 1200 mg, po administered as single dose"
+    },
+    {
+      "smiles": "CC(=O)OCC(CCn1cnc2cnc(N)nc21)COC(C)=O",
+      "ik": "GGXKWVWZWMLJEH",
+      "dose_mg": 500.0,
+      "cmax_ngml": 3447.891938762953,
+      "log_cd": 0.8385836416987973,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 500 mg, po administered as single dose"
+    },
+    {
+      "smiles": "COc1cnc(OC)c2c1c(C(=O)C(=O)N1CCN(C(=O)c3ccccc3)CC1)cn2COP(=O)(O)O.NCCCC[C@H](N)C(=O)O",
+      "ik": "ZBSWJVQMWMTXIV",
+      "dose_mg": 25.0,
+      "cmax_ngml": 998.6698298862431,
+      "log_cd": 1.6014819212364946,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 25 mg, po administered with high fat meal"
+    },
+    {
+      "smiles": "COc1cnc(OC)c2c1c(C(=O)C(=O)N1CCN(C(=O)c3ccccc3)CC1)cn2COP(=O)(O)O.NCCCC[C@H](N)C(=O)O",
+      "ik": "ZBSWJVQMWMTXIV",
+      "dose_mg": 50.0,
+      "cmax_ngml": 1746.3971083886534,
+      "log_cd": 1.5431729992790062,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 50 mg, po administered with high fat meal"
+    },
+    {
+      "smiles": "COc1cnc(OC)c2c1c(C(=O)C(=O)N1CCN(C(=O)c3ccccc3)CC1)cn2COP(=O)(O)O.NCCCC[C@H](N)C(=O)O",
+      "ik": "ZBSWJVQMWMTXIV",
+      "dose_mg": 100.0,
+      "cmax_ngml": 4653.238195575876,
+      "log_cd": 1.6677552842926668,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 100 mg, po administered with high fat meal"
+    },
+    {
+      "smiles": "COc1cnc(OC)c2c1c(C(=O)C(=O)N1CCN(C(=O)c3ccccc3)CC1)cn2COP(=O)(O)O.NCCCC[C@H](N)C(=O)O",
+      "ik": "ZBSWJVQMWMTXIV",
+      "dose_mg": 200.0,
+      "cmax_ngml": 10724.224826066664,
+      "log_cd": 1.729335914430211,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 200 mg, po administered with high fat meal"
+    },
+    {
+      "smiles": "COc1cnc(OC)c2c1c(C(=O)C(=O)N1CCN(C(=O)c3ccccc3)CC1)cn2COP(=O)(O)O.NCCCC[C@H](N)C(=O)O",
+      "ik": "ZBSWJVQMWMTXIV",
+      "dose_mg": 400.0,
+      "cmax_ngml": 16444.92009864721,
+      "log_cd": 1.6139717763781594,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 400 mg, po administered with high fat meal"
+    },
+    {
+      "smiles": "COc1cnc(OC)c2c1c(C(=O)C(=O)N1CCN(C(=O)c3ccccc3)CC1)cn2COP(=O)(O)O.NCCCC[C@H](N)C(=O)O",
+      "ik": "ZBSWJVQMWMTXIV",
+      "dose_mg": 800.0,
+      "cmax_ngml": 34087.22120506233,
+      "log_cd": 1.6295016119343277,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 800 mg, po administered with high fat meal"
+    },
+    {
+      "smiles": "COc1ncc(OC)c2c(C(=O)C(=O)N3CCN(C(=O)c4ccccc4)CC3)c[nH]c12",
+      "ik": "DBPMWRYLTBNCCE",
+      "dose_mg": 800.0,
+      "cmax_ngml": 4097.272809888118,
+      "log_cd": 0.709404894677709,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in high fat fed healthy human at 800 mg, po administered as capsule with high fat meal"
+    },
+    {
+      "smiles": "CS(=O)(=O)O.OCCn1cc(-c2cnc3nnn(Cc4ccc5ncccc5c4)c3n2)cn1",
+      "ik": "HBEMHKVWZJTVOC",
+      "dose_mg": 30.0,
+      "cmax_ngml": 301.70692252811887,
+      "log_cd": 1.0024640202590123,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human at 30 mg, po at 1.2 hrs"
+    },
+    {
+      "smiles": "O=C1C=CN(c2c(F)cc(N3C[C@H](CNc4ccon4)OC3=O)c(F)c2F)CC1",
+      "ik": "SULYVXZZUMRQAX",
+      "dose_mg": 300.0,
+      "cmax_ngml": 8065.345530237681,
+      "log_cd": 1.4295017231629228,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in fasted human at 300 mg, po administered as single dose"
+    },
+    {
+      "smiles": "O=C(O)[C@H]1O[C@@H](Oc2c(O)cc3oc(-c4ccc(O)cc4)cc(=O)c3c2O)[C@H](O)[C@@H](O)[C@@H]1O",
+      "ik": "HBLWMMBFOKSEKW",
+      "dose_mg": 60.0,
+      "cmax_ngml": 86.87100729100797,
+      "log_cd": 0.1607236069114334,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human treated with 60 mg, po of scutellarin"
+    },
+    {
+      "smiles": "CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1.Cc1ccc(S(=O)(=O)O)cc1.Cc1ccc(S(=O)(=O)O)cc1.O",
+      "ik": "XNRVGTHNYCNCFF",
+      "dose_mg": 250.0,
+      "cmax_ngml": 535.0852094785339,
+      "log_cd": 0.330482937946708,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 250 mg, po administered as single dose"
+    },
+    {
+      "smiles": "CS(=O)(=O)CCNCc1ccc(-c2ccc3ncn[14c](Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1.Cc1ccc(S(=O)(=O)O)cc1.O",
+      "ik": "DFHHLTRPIUJKPY",
+      "dose_mg": 250.0,
+      "cmax_ngml": 956.7855901243382,
+      "log_cd": 0.582874617235874,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 250 mg, po administered as single dose"
+    },
+    {
+      "smiles": "CCNC1(C(N)=O)CCN(c2ncnc3c2nc(-c2ccccc2Cl)n3-c2ccc(Cl)cc2)CC1.Cl",
+      "ik": "KPYUQCJBZGQHPL",
+      "dose_mg": 25.0,
+      "cmax_ngml": 14.952818290125562,
+      "log_cd": -0.2232169529683347,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy obese adult male human at 25 mg, po administered as single dose"
+    },
+    {
+      "smiles": "NC(=O)C1(N)CCN(c2ncnc3c2nc(-c2ccccc2Cl)n3-c2ccc(Cl)cc2)CC1",
+      "ik": "YBQGLTGAHBCMME",
+      "dose_mg": 25.0,
+      "cmax_ngml": 41.89098463017964,
+      "log_cd": 0.22418055972041093,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy obese adult male human treated with [14C]CP-945,598 at 25 mg, po administered as single dose"
+    },
+    {
+      "smiles": "CN1CCc2nc(C(=O)N[C@@H]3C[C@@H](C(=O)N(C)C)CC[C@@H]3NC(=O)C(=O)O)sc2C1",
+      "ik": "CIKVHUDEOYKYGJ",
+      "dose_mg": 60.0,
+      "cmax_ngml": 14.89012225617384,
+      "log_cd": -0.6052529868179211,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human plasma treated with 60 mg, po of [14C]edoxaban by LC-MS/MS analysis"
+    },
+    {
+      "smiles": "CN1CCc2nc(C(=O)N[C@@H]3C[C@@H](C(=O)O)CC[C@@H]3NC(=O)C(=O)Nc3ccc(Cl)cn3)sc2C1",
+      "ik": "QPYMJNYAASVNAP",
+      "dose_mg": 60.0,
+      "cmax_ngml": 22.1627208319738,
+      "log_cd": -0.4325281743914844,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human plasma treated with 60 mg, po of [14C]edoxaban by LC-MS/MS analysis"
+    },
+    {
+      "smiles": "CN(C)C(=O)[C@H]1CC[C@H](NC(=O)C(=O)Nc2ccc(Cl)cn2)[C@H](NC(=O)c2nc3c(s2)CNCC3)C1",
+      "ik": "GMRJAYKIRXDGFT",
+      "dose_mg": 60.0,
+      "cmax_ngml": 6.979080121823041,
+      "log_cd": -0.934353066205046,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human plasma treated with 60 mg, po of [14C]edoxaban by LC-MS/MS analysis"
+    },
+    {
+      "smiles": "CNC(=O)[C@H]1CC[C@H](NC(=O)C(=O)Nc2ccc(Cl)cn2)[C@H](NC(=O)c2nc3c(s2)CN(C)CC3)C1",
+      "ik": "XEESEADVQCJXSF",
+      "dose_mg": 60.0,
+      "cmax_ngml": 0.6291302172460802,
+      "log_cd": -1.9794107054496763,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human plasma treated with 60 mg, po of [14C]edoxaban by LC-MS/MS analysis"
+    },
+    {
+      "smiles": "CCN(CC)CCNC(=O)c1c(C)[nH]c(/[14CH]=C2\\C(=O)Nc3ccc(F)cc32)c1C.O=C(O)C[C@H](O)C(=O)O",
+      "ik": "LBWFXVZLPYTWQI",
+      "dose_mg": 50.0,
+      "cmax_ngml": 90.36077338315881,
+      "log_cd": 0.2570099349840298,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax as total radioactivity  in human plasma at 50 mg, po administered as single dose measured up to 24 hrs by LC/MS/MS "
+    },
+    {
+      "smiles": "CCNCCNC(=O)c1c(C)[nH]c(/C=C2\\C(=O)Nc3ccc(F)cc32)c1C",
+      "ik": "LIZNIAKSBJKPQC",
+      "dose_mg": 50.0,
+      "cmax_ngml": 6.1968216402410405,
+      "log_cd": -0.9068010080691629,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human plasma treated with [14C]sunitinib at 50 mg, po administered as single dose by LC/MS/MS analysis"
+    },
+    {
+      "smiles": "NC(=O)N1c2ccccc2[C@@H](O)[C@H](O)c2ccccc21",
+      "ik": "PRGQOPPDPVELEG",
+      "dose_mg": 300.0,
+      "cmax_ngml": 54.02008846160002,
+      "log_cd": -0.7445659636806463,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human treated with oxcarbazepine at 300 mg, po administered as one-film coated tablet by high-performance liquid"
+    },
+    {
+      "smiles": "Cc1cc2c(F)c(Oc3ncnn4cc(OC[C@@H](C)O)c(C)c34)ccc2[nH]1",
+      "ik": "WCWUXEGQKLTGDX",
+      "dose_mg": 800.0,
+      "cmax_ngml": 6096.1144728203235,
+      "log_cd": 0.8819631265967229,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human plasma treated with [14C]brivanib alaninate at 800 mg, po administered as single dose via gavage by LC-MS/"
+    },
+    {
+      "smiles": "CNC(=O)[C@@H](c1ccccc1)[n+]1ccc2cc(OC)c(OC)cc2c1CCc1ccc(C(F)(F)F)cc1",
+      "ik": "GXLLHVAGVUSWTO",
+      "dose_mg": 200.0,
+      "cmax_ngml": 80.34740232879663,
+      "log_cd": -0.3960581552927587,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human treated with [14C]almorexant at 200 mg, po dosed as single dose"
+    },
+    {
+      "smiles": "CNC(=O)[C@@H](c1ccccc1)N1CCc2cc(OC)c(O)cc2[C@@H]1CCc1ccc(C(F)(F)F)cc1",
+      "ik": "RXQVHTULATYGAZ",
+      "dose_mg": 200.0,
+      "cmax_ngml": 61.35991646049567,
+      "log_cd": -0.5131452360002804,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human treated with [14C]almorexant at 200 mg, po dosed as single dose"
+    },
+    {
+      "smiles": "CNC(=O)[C@@H](c1ccccc1)N1CCc2cc(O)c(OC)cc2[C@@H]1CCc1ccc(C(F)(F)F)cc1",
+      "ik": "IBGXKVPJPLLVKU",
+      "dose_mg": 200.0,
+      "cmax_ngml": 25.6828815649444,
+      "log_cd": -0.8913862466119055,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human treated with [14C]almorexant at 200 mg, po dosed as single dose"
+    },
+    {
+      "smiles": "COc1cc2c(cc1OC)[C@H](CCc1ccc(C(F)(F)F)cc1)NC[C@H]2O",
+      "ik": "NLVAXLHFIPVIGH",
+      "dose_mg": 200.0,
+      "cmax_ngml": 21.485717396486876,
+      "log_cd": -0.9688801365440314,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 200 mg, po dosed as single dose"
+    },
+    {
+      "smiles": "COc1cc2c(cc1OC)[C@H](CC(O)c1ccc(C(F)(F)F)cc1)N([C@@H](C(N)=O)c1ccccc1)CC2",
+      "ik": "QCBNLFTZZMJSJE",
+      "dose_mg": 200.0,
+      "cmax_ngml": 21.483607819601033,
+      "log_cd": -0.9689227798760736,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 200 mg, po dosed as single dose"
+    },
+    {
+      "smiles": "CC(C)(C)NC(=O)c1ccc(Oc2cc(F)c(CC(=O)O)cc2Cl)c(NS(=O)(=O)c2ccc(C3CC3)cc2Cl)c1",
+      "ik": "PFWVGKROPKKEDW",
+      "dose_mg": 50.0,
+      "cmax_ngml": 269.38004443474034,
+      "log_cd": 0.7313954158821416,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human at 50 mg, po in presence of ketoconazole"
+    },
+    {
+      "smiles": "N#C[C@@H]1C[C@@H]2C[C@@H]2N1C(=O)[C@@H](N)C12CC3CC(O)(CC(O)(C3)C1)C2",
+      "ik": "GAWUJFVQGSLSSZ",
+      "dose_mg": 50.0,
+      "cmax_ngml": 605.5801683503101,
+      "log_cd": 1.0832016400340487,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human treated with 50 mg, po of saxagliptin by LC-MS/MS analysis"
+    },
+    {
+      "smiles": "Cc1cc2c(F)c(Oc3n[14cH]nn4cc(OC[C@@H](C)OC(=O)[C@H](C)N)c(C)c34)ccc2[nH]1",
+      "ik": "LTEJRLHKIYCEOX",
+      "dose_mg": 800.0,
+      "cmax_ngml": 9436.718150944702,
+      "log_cd": 1.0717309970576152,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax as total radioactivity in human plasma treated at 800 mg, po administered as single dose via gavage by mass spectro"
+    },
+    {
+      "smiles": "Nc1cc(F)ccc1NC(=O)c1ccc(CNC(=O)/C=C/c2cccnc2)cc1",
+      "ik": "SZMJVTADHFNAIS",
+      "dose_mg": 32.5,
+      "cmax_ngml": 121.72655166921598,
+      "log_cd": 0.5735019583005336,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in patient at 32.5 mg, po administered as single dose"
+    },
+    {
+      "smiles": "O=C([O-])Cc1ccccc1Nc1c(Cl)cccc1Cl.[Na+]",
+      "ik": "KPHWPUGNDIVLNH",
+      "dose_mg": 50.0,
+      "cmax_ngml": 2140.796345781906,
+      "log_cd": 1.6316053504362635,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy subject (7 subjects) at 50 mg, po administered as single dose"
+    },
+    {
+      "smiles": "Cn1cnc([N+](=O)[O-])c1Sc1ncnc2[nH]cnc12",
+      "ik": "LMEKQMALGUDUQG",
+      "dose_mg": 200.0,
+      "cmax_ngml": 10.491436386481682,
+      "log_cd": -1.280195043979711,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human (9 volunteers) assessed as 6-mercaptopurine at 200 mg, po of delayed release compound by HPLC anal"
+    },
+    {
+      "smiles": "Cn1cnc([N+](=O)[O-])c1Sc1ncnc2[nH]cnc12",
+      "ik": "LMEKQMALGUDUQG",
+      "dose_mg": 400.0,
+      "cmax_ngml": 23.581491027655684,
+      "log_cd": -1.2294887298135455,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human (10 volunteers) assessed as 6-mercaptopurine at 400 mg, po of delayed release compound by HPLC ana"
+    },
+    {
+      "smiles": "Cn1cnc([N+](=O)[O-])c1Sc1ncnc2[nH]cnc12",
+      "ik": "LMEKQMALGUDUQG",
+      "dose_mg": 600.0,
+      "cmax_ngml": 19.085161147734958,
+      "log_cd": -1.497455419068052,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in healthy human (10 volunteers) assessed as 6-mercaptopurine at 600 mg, po of delayed release compound by HPLC ana"
+    },
+    {
+      "smiles": "CCCC(CCC)C(=O)[O-].[Na+]",
+      "ik": "AEQFSUDEHCCHBT",
+      "dose_mg": 800.0,
+      "cmax_ngml": 82697.19688289921,
+      "log_cd": 2.014400801896504,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in epileptic patient (6 patients) at 800 mg, po administered as single dose by gas liquid chromatographic method"
+    },
+    {
+      "smiles": "CN(C)[C@@H]1C(O)=C(C(N)=O)C(=O)[C@@]2(O)C(O)=C3C(=O)c4c(O)c(NC(=O)CN5CCCC5)cc(F)c4C[C@H]3C[C@@H]12",
+      "ik": "HLFSMUUOKPBTSM",
+      "dose_mg": 100.0,
+      "cmax_ngml": 159.8999970276694,
+      "log_cd": 0.20384845567327164,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human at 100 mg, po q12h"
+    },
+    {
+      "smiles": "CC(=O)Nc1cc(-c2c(-c3ccc(F)cc3)nc([S+](C)[O-])n2C)ccn1",
+      "ik": "DRMJRHUMYBYDIX",
+      "dose_mg": 50.0,
+      "cmax_ngml": 219.54231875236002,
+      "log_cd": 0.6425482424707217,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human at 50 mg, po administered as single dose"
+    },
+    {
+      "smiles": "CC(=O)Nc1cc(-c2c(-c3ccc(F)cc3)nc([S+](C)[O-])n2C)ccn1",
+      "ik": "DRMJRHUMYBYDIX",
+      "dose_mg": 30.0,
+      "cmax_ngml": 156.28436250168,
+      "log_cd": 0.7167942708428343,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human at 30 mg, po administered as single dose"
+    },
+    {
+      "smiles": "Cn1c([S+](C)[O-])nc(-c2ccc(F)cc2)c1-c1ccnc(N)c1",
+      "ik": "ADHKYAXGWCBOHI",
+      "dose_mg": 50.0,
+      "cmax_ngml": 198.05703619200003,
+      "log_cd": 0.5978202714630085,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human at 50 mg, po administered as single dose"
+    },
+    {
+      "smiles": "Cn1c([S+](C)[O-])nc(-c2ccc(F)cc2)c1-c1ccnc(N)c1",
+      "ik": "ADHKYAXGWCBOHI",
+      "dose_mg": 20.0,
+      "cmax_ngml": 118.83422171520002,
+      "log_cd": 0.7739115305186898,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human at 20 mg, po administered as single dose"
+    },
+    {
+      "smiles": "Cn1c([S+](C)[O-])nc(-c2ccc(F)cc2)c1-c1ccnc(N)c1",
+      "ik": "ADHKYAXGWCBOHI",
+      "dose_mg": 30.0,
+      "cmax_ngml": 138.63992533440003,
+      "log_cd": 0.6647670610936218,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human at 30 mg, po administered as single dose"
+    },
+    {
+      "smiles": "C=C(c1ccc(C(=O)O)cc1)c1cc2c(cc1C)C(C)(C)CCC2(C)C",
+      "ik": "NAVMQTYZDKMPEU",
+      "dose_mg": 300.0,
+      "cmax_ngml": 1180.42827316104,
+      "log_cd": 0.594918348286144,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in patient with solid tumor at 300 mg/m2, po administered once daily"
+    },
+    {
+      "smiles": "COc1cc(/C=C/C(=O)CC(=O)/C=C/c2ccc(O)c(OC)c2)ccc1O",
+      "ik": "VFLDPWHFBUODDF",
+      "dose_mg": 800.0,
+      "cmax_ngml": 651.5829993972,
+      "log_cd": -0.08912024248546492,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human at 800 mg/day, po after 3 months"
+    },
+    {
+      "smiles": "Cc1cc(Nc2ccc(S(F)(F)(F)(F)F)cc2)n2nc(C(C)(F)F)nc2n1",
+      "ik": "OIZSVTOIBNSVOS",
+      "dose_mg": 1200.0,
+      "cmax_ngml": 1309.1478998228533,
+      "log_cd": 0.0378074673087246,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human at 25 to 1200 mg, po measured up to 480 hrs by HPLC-MS/MS analysis"
+    },
+    {
+      "smiles": "CC#C[C@@H](CC(=O)O)c1ccc(OCc2ccc(CN3CCCc4cccc(OC)c43)s2)cc1",
+      "ik": "VJVDLRVFJTVWEO",
+      "dose_mg": 270.0,
+      "cmax_ngml": 1998.2009457854629,
+      "log_cd": 0.8692753960360698,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in type 2 diabetic mellitus human at 270 mg, po administered as single dose"
+    },
+    {
+      "smiles": "CC#C[C@@H](CC(=O)O)c1ccc(OCc2ccc(CN3CCCc4cccc(OC)c43)s2)cc1",
+      "ik": "VJVDLRVFJTVWEO",
+      "dose_mg": 540.0,
+      "cmax_ngml": 3776.5970789986686,
+      "log_cd": 0.8447068930739923,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in type 2 diabetic mellitus human at 540 mg, po administered as single dose"
+    },
+    {
+      "smiles": "CC#C[C@@H](CC(=O)O)c1ccc(OCc2ccc(CN3CCCc4cccc(OC)c43)s2)cc1",
+      "ik": "VJVDLRVFJTVWEO",
+      "dose_mg": 1080.0,
+      "cmax_ngml": 7942.843176111895,
+      "log_cd": 0.866552232415382,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in type 2 diabetic mellitus human at 1080 mg, po administered as single dose"
+    },
+    {
+      "smiles": "Cc1cc2c(C(C)C)c(O)c(O)c(C=O)c2c(O)c1-c1c(C)cc2c(C(C)C)c(O)c(O)c(C=O)c2c1O",
+      "ik": "QBKSWRVVCFFDOT",
+      "dose_mg": 20.0,
+      "cmax_ngml": 906.8396188599997,
+      "log_cd": 1.6565004900697335,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human at 20 mg, po measured up to 240 hrs by HPLC method"
+    },
+    {
+      "smiles": "COc1cc2c(cc1OC)CN(CCc1ccc(-n3nnc(-c4cc(OC)c(OC)cc4NC(=O)c4cc(=O)c5ccccc5o4)n3)cc1)CC2",
+      "ik": "AHJUHHDDCJQACA",
+      "dose_mg": 360.0,
+      "cmax_ngml": 22.485602766563638,
+      "log_cd": -1.204397966671478,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human upto 360 mg, po administered as repeated dose for 5 consecutive days"
+    },
+    {
+      "smiles": "CCCCOC(=O)N1CCN(C(=O)[C@H](CP(=O)(OCOC(=O)OC(C)C)OCOC(=O)OC(C)C)NC(=O)c2cc(N3CC[C@H](OC)C3)nc(-c3ccccc3)n2)CC1",
+      "ik": "ZDPYSJCPGHHDID",
+      "dose_mg": 70.0,
+      "cmax_ngml": 3.9966515192289975,
+      "log_cd": -1.2434017576219916,
+      "src": "CHEMBL_v2_strict",
+      "n_records": 1,
+      "sample_desc": "Cmax in human at 70 mg, po measured upto 72 hrs"
+    }
+  ]
+}
