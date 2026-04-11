@@ -1,0 +1,213 @@
+{
+  "extraction_run": "2026-04-10 batches 2-5 (indices 48-85)",
+  "method": "Claude multimodal Read on figure PNG/JPEG files",
+  "processed": 38,
+  "rendered_failed": 3,
+  "valid_new": 10,
+  "rejected": 25,
+  "yield_pct": 26.3,
+  "valid_candidates": [
+    {
+      "idx": 48,
+      "drug": "methotrexate",
+      "nda": "NDA205776",
+      "dose_mg": 30,
+      "route": "oral",
+      "figure": "BE oral R vs SC pen T at 30 mg, use R curve (oral tablet)",
+      "cmax_visual_approx": 435,
+      "tmax_h": 1.5,
+      "v05_status": "1 entry Cmax 580 \u2014 likely SC pen curve; SHOULD REPLACE with oral R"
+    },
+    {
+      "idx": 56,
+      "drug": "oxycodone",
+      "nda": "NDA201194",
+      "dose_mg": null,
+      "route": "oral",
+      "figure": "BE Test A vs Ref B, log scale, single dose",
+      "cmax_visual_approx": 30,
+      "tmax_h": 1.0,
+      "v05_status": "1 entry 15mg Cmax 74 \u2014 different dose, may be different curve; keep existing"
+    },
+    {
+      "idx": 60,
+      "drug": "panobinostat",
+      "nda": "NDA205353",
+      "dose_mg": 60,
+      "route": "oral",
+      "figure": "Day 1 single-dose arithmetic mean, 45/60/80 mg cohorts",
+      "cmax_visual_approx": 60,
+      "tmax_h": 1.5,
+      "v05_status": "4 entries all 20mg \u2014 different dose; ADD 60mg as new"
+    },
+    {
+      "idx": 70,
+      "drug": "sitagliptin",
+      "nda": "NDA219122",
+      "dose_mg": 100,
+      "route": "oral",
+      "figure": "Analyte=Sitagliptin, 3 curves A/B/C",
+      "cmax_visual_approx": 250,
+      "tmax_h": 3,
+      "v05_status": "2 entries 100mg Cmax 351/905 \u2014 Cmax 905 likely wrong; check"
+    },
+    {
+      "idx": 71,
+      "drug": "spironolactone",
+      "nda": "NDA209478",
+      "dose_mg": 25,
+      "route": "oral",
+      "figure": "Mean plasma Ref vs Test BE, fast elimination",
+      "cmax_visual_approx": 40,
+      "tmax_h": 1.0,
+      "v05_status": "1 entry 25mg Cmax 12.3 \u2014 my visual 40 disagrees; verify"
+    },
+    {
+      "idx": 73,
+      "drug": "sumatriptan",
+      "nda": "NDA206099",
+      "dose_mg": 100,
+      "route": "oral",
+      "figure": "Imitrex PO 100 mg vs AVP-825 nasal \u2014 use Imitrex PO curve",
+      "cmax_visual_approx": 55,
+      "tmax_h": 2.5,
+      "v05_status": "4 entries 22mg (nasal AVP-825) \u2014 ADD 100mg oral as new"
+    },
+    {
+      "idx": 75,
+      "drug": "tadalafil",
+      "nda": "NDA218527",
+      "dose_mg": null,
+      "route": "oral",
+      "figure": "Test vs Reference Fast, 0-120h",
+      "cmax_visual_approx": 330,
+      "tmax_h": 3,
+      "v05_status": "NEW \u2014 no existing tadalafil in v0.5"
+    },
+    {
+      "idx": 77,
+      "drug": "telotristat",
+      "nda": "NDA208794",
+      "dose_mg": 500,
+      "route": "oral",
+      "figure": "LP-778902 active moiety semi-log, two dose curves",
+      "cmax_visual_approx": 700,
+      "tmax_h": 2.5,
+      "v05_status": "1 entry 500mg Cmax 792 \u2014 matches; keep"
+    },
+    {
+      "idx": 82,
+      "drug": "vibegron",
+      "nda": "NDA213006",
+      "dose_mg": 75,
+      "route": "oral",
+      "figure": "MK-4618 Alone linear+log, with inset; single dose",
+      "cmax_visual_approx": 140,
+      "tmax_h": 1.5,
+      "v05_status": "7 entries 75mg with varying Cmax \u2014 multiple studies, keep but audit"
+    },
+    {
+      "idx": 85,
+      "drug": "vorapaxar",
+      "nda": "NDA204886",
+      "dose_mg": null,
+      "route": "oral",
+      "figure": "Day 1 single dose, Vorapaxar curve (not M20 metabolite)",
+      "cmax_visual_approx": 25,
+      "tmax_h": 1.5,
+      "v05_status": "NEW \u2014 no existing vorapaxar in v0.5"
+    }
+  ],
+  "v05_contamination_flagged": [
+    {
+      "drug": "motixafortide",
+      "v05_entries": 2,
+      "v05_dose_route": "1-1.25 mg oral",
+      "truth": "SC peptide, not oral; figure was CD34+ PD response",
+      "action": "REMOVE both"
+    },
+    {
+      "drug": "netupitant Cmax-7.9",
+      "v05_entries": 1,
+      "v05_dose_route": "300 mg oral",
+      "truth": "Figure showed digoxin DDI probe, not netupitant",
+      "action": "REMOVE Cmax-7.9 entry"
+    },
+    {
+      "drug": "nitroglycerin",
+      "v05_entries": 3,
+      "v05_dose_route": "6.5 mg oral",
+      "truth": "Real NTG is 0.4-0.8 mg sublingual; figure was 1,2-GDN metabolite",
+      "action": "REMOVE all 3 entries"
+    },
+    {
+      "drug": "nirmatrelvir",
+      "v05_entries": 1,
+      "v05_dose_route": "100 mg oral Cmax 2.0",
+      "truth": "Real nirmatrelvir 100mg Cmax ~1000 ng/mL; 500x off",
+      "action": "REMOVE entry"
+    },
+    {
+      "drug": "oxymetazoline",
+      "v05_entries": 5,
+      "v05_dose_route": "18 mg oral",
+      "truth": "Real oxymetazoline nasal 0.05-0.2 mg; 100x dose error AND wrong route",
+      "action": "REMOVE all 5 entries"
+    },
+    {
+      "drug": "rucaparib",
+      "v05_entries": 1,
+      "v05_dose_route": "600 mg oral Cmax 4.3",
+      "truth": "Real rucaparib 600mg Cmax ~1900 ng/mL; 400x off",
+      "action": "REMOVE entry"
+    },
+    {
+      "drug": "naloxone",
+      "v05_entries": 3,
+      "v05_dose_route": "20 mg oral Cmax 2-102",
+      "truth": "Oral naloxone bioavailability ~2%, Cmax at 20 mg should be <1 ng/mL",
+      "action": "REMOVE all 3 entries"
+    },
+    {
+      "drug": "sarecycline Cmax-6912",
+      "v05_entries": 1,
+      "v05_dose_route": "100 mg oral Cmax 6912",
+      "truth": "Real sarecycline 100mg Cmax ~800-1200 ng/mL; 6x too high",
+      "action": "REMOVE high-Cmax entry (60mg Cmax 107 may be OK)"
+    },
+    {
+      "drug": "paltusotine",
+      "v05_entries": 2,
+      "v05_dose_route": "20-30 mg oral",
+      "truth": "Figure was PK parameter TABLE, not C-t curve",
+      "action": "FLAG for review"
+    },
+    {
+      "drug": "prucalopride",
+      "v05_entries": 6,
+      "v05_dose_route": "2 mg oral Cmax 30-1002",
+      "truth": "Inconsistent Cmax (30-1002 same dose); figure was Day 4 SS breastmilk",
+      "action": "FLAG for review, likely remove outliers"
+    },
+    {
+      "drug": "rolapitant",
+      "v05_entries": 1,
+      "v05_dose_route": "180 mg oral Cmax 621",
+      "truth": "Figure was DEX (dexamethasone) DDI victim, not rolapitant",
+      "action": "REMOVE entry"
+    },
+    {
+      "drug": "testosterone undecanoate",
+      "v05_entries": 8,
+      "v05_dose_route": "200-316 mg oral",
+      "truth": "Cmax 0.7 at 200mg is implausible; likely multi-sample contamination",
+      "action": "FLAG for audit"
+    }
+  ],
+  "summary": {
+    "new_profiles_to_add": 10,
+    "v05_contamination_entries_to_remove_high_conf": 18,
+    "v05_contamination_to_review": 16,
+    "total_v05_impact": "up to ~34 entries out of 199 (~17% of training set)"
+  }
+}

@@ -290,6 +290,220 @@
 - **File**: `data/validation/external_validation_results.json`, `pipeline/external_validation.py`
 - **Status**: SUCCESS (E1 PASS, E3 PASS). E2 inconclusive (N=6).
 
+### F12. B1v4 — Physics-Informed NN with Half-Life Auxiliary Supervision
+- **Date**: 2026-04-10
+- **Pre-registered hypothesis**: Output-space parameterization through physical PK model (A, k_slow, k_fast) combined with half-life auxiliary loss will reduce the CV-HO overfitting gap (0.67) by constraining the hypothesis class to a physical manifold. Targets: HO AAFE ≤ 3.15 (PASS), 3.15–3.30 (PARTIAL), >3.30 (FAIL).
+- **Mechanism**: NN outputs (logA, log k_slow, log Δk); analytic Cmax = A·(exp(−k_slow·tmax)−exp(−k_fast·tmax)) and t_half = ln2/k_slow. Dual loss L = L_cmax + λ·L_thalf on rows where half-life is observed (356 unique IK14s, 1498 rows out of 4540 training).
+- **Ablation (3 NN variants, same features = FP4096+physchem+tdc+upbpk+log_dose = 4132-d)**:
+  | variant | CV AAFE | HO AAFE | CV-HO gap | interpretation |
+  |---|---|---|---|---|
+  | nn_scalar (direct output) | 3.128 | 4.076 | 0.947 | NN architecture effect alone |
+  | nn_physical (physical reparam only) | 3.159 | 4.138 | 0.979 | +reparam |
+  | nn_b1v4_full (phys+halflife loss) | 3.182 | 4.144 | 0.961 | +half-life aux |
+  | *xgb_ref (fp_enc_base)* | *2.788* | *3.456* | *0.67* | *reference* |
+- **Result**: **FAIL.** NN framework is ~0.6 AAFE worse than XGB on this tabular task (known tabular ML result — sparse 4096-d FP + 3,600 rows favors tree models). First NN run (larger hidden 768-384-128 with BatchNorm) showed half-life aux effect of −0.26; second run (256-64 LayerNorm, higher dropout) showed null (+0.006). The first run's improvement was noise from random init, not a real mechanism effect.
+- **File**: `models/b1/b1_results.json`, `models/plm_b1_nn.py`
+- **Why null**: (a) NN cannot match XGB baseline on this feature set by >0.6 AAFE, making absolute comparison impossible; (b) the apparent effect was not reproducible across hyperparameters; (c) see F13 XGB replication which confirmed null.
+- **Status**: FAIL
+
+### F13. B1v5 — XGB Half-Life Stacking (observed + predicted auxiliary feature)
+- **Date**: 2026-04-10
+- **Pre-registered hypothesis**: If B1's mechanism (half-life informs Cmax) is real, it should transfer to XGB framework via (a) direct observed half-life as feature, or (b) out-of-fold predicted half-life from a stacked XGB. This tests the mechanism independently of NN architecture confound in F12.
+- **Method**: 3 XGB models on same features (FP4096+physchem+tdc_adme+μPBPK+log_dose = 4132-d), 5-fold GroupKFold on IK14, leakage-safe OOF for predicted half-life:
+  | variant | CV AAFE | HO AAFE | CV-HO gap | 2-fold% |
+  |---|---|---|---|---|
+  | A) XGB baseline (no half-life) | 3.092 | **3.389** | 0.297 | 34.0% |
+  | B) XGB + observed half-life feat | 3.092 | 3.383 | 0.291 | 36.1% |
+  | C) XGB + predicted half-life feat | 3.094 | 3.380 | 0.286 | 36.1% |
+- **Result**: **FAIL.** Δ(B−A) = −0.006, Δ(C−A) = −0.009 — both within noise. Half-life adds no measurable information to Cmax prediction whether supplied as observed value or out-of-fold XGB prediction.
+- **OOF half-life prediction quality**: AAFE 1.97, MAE(log10) 0.295 — good enough to be meaningful, yet transfers zero benefit to Cmax.
+- **File**: `models/b1/b1_xgb_stacked_results.json`, `models/plm_b1_xgb_stacked.py`
+- **Mechanism interpretation**: Cmax for single-dose PK is dominated by F·dose/Vd (absorption + distribution amplitude) and ka (absorption rate), not by ke = ln2/t_half (elimination rate). Elimination governs AUC and terminal concentration, not peak. Half-life is the WRONG auxiliary signal for Cmax — it constrains the irrelevant parameter dimension.
+- **Lesson**: Physically plausible does not imply statistically useful. The analytic coupling Cmax = f(A, ka, ke) has low sensitivity to ke near typical PK values, so even accurate half-life supervision barely shifts Cmax predictions.
+- **Corollary (see S10)**: Side-by-side, this baseline (3.389) is better than the current `fp_enc_base` reference (3.456), revealing the ADME encoder was hurting, not helping.
+- **Status**: FAIL. B1 mechanism refuted across both NN and XGB frameworks. Half-life is not a useful auxiliary target for Cmax prediction.
+
+### S10. ADME Encoder Claim — RETRACTED and Replaced by S11
+- **Date**: 2026-04-10
+- **Original claim (INCORRECT)**: While running B1v5, observed HO AAFE 3.389 without encoder vs 3.456 with encoder (`pretrain_results.json` `fp_enc_base`), concluded encoder hurts by 0.067.
+- **Retraction reason**: The 3.389 vs 3.456 comparison was CONFOUNDED — different scripts, different random seeds, different `tree_method`. Not apples-to-apples.
+- **Replacement**: See S11 for the pre-registered replication that measured the true effect.
+- **Status**: RETRACTED. Conclusion reversed by S11.
+
+### S11. ADME Encoder Pre-Registered Replication
+- **Date**: 2026-04-10
+- **Pre-registered hypothesis**: ΔHO AAFE = (with encoder) − (without encoder) > +0.03, AND 3-seed CI excludes 0 → PASS (encoder hurts). Otherwise INCONCLUSIVE or FAIL.
+- **Design**: 3 seeds {42, 137, 2024} × 2 configs (with/without frozen 128-d encoder), 5-fold GroupKFold on IK14, identical XGB params, identical features except encoder block.
+- **Result**:
+  | config | CV AAFE (mean±std) | HO AAFE (mean±std) | CV-HO gap |
+  |---|---|---|---|
+  | A — with encoder | 3.165±0.005 | **3.372±0.010** | **0.207** |
+  | B — no encoder | 3.091±0.001 | 3.387±0.010 | 0.296 |
+  - Paired ΔHO = **−0.015 ± 0.021**
+  - 95% CI (t_2): [−0.067, +0.037] — **includes 0**
+  - ΔCV-HO gap = **−0.089** — encoder reduces gap reproducibly
+- **Pre-registered verdict**: **FAIL** (encoder does NOT hurt HO; in fact slightly helps). S10 reversed.
+- **Key finding**: The encoder's real effect is to **reduce the CV-HO gap by ~0.09** while leaving HO AAFE statistically unchanged. This is a regularization signature, not a feature-noise signature as S10 initially suggested. The encoder IS doing its job — distilling TDC ADME tasks into a representation that smooths out overfitting in the Cmax head.
+- **Corrected baseline**: `fp_enc_base` HO AAFE ≈ **3.37** (not 3.456 from the old pretrain_results.json which used an unlucky seed). This is PLM's true holdout number under the current feature architecture.
+- **Methodological lesson**: Cross-script baseline comparisons are confounded. Always replicate within a single codebase with shared seeds before interpreting deltas.
+- **Actionable direction**: Since the encoder is halving the CV-HO gap, MORE aggressive regularization in the same direction (longer pretraining, larger encoder, stronger weight decay, fewer raw FP features) may give further gains. This is a new breakthrough candidate.
+- **File**: `models/b1/s10_replication_results.json`, `models/s10_replication.py`
+- **Status**: NULL on HO AAFE (as pre-registered), POSITIVE on gap reduction. S10 retracted. Current PLM baseline corrected to HO ≈ 3.37.
+
+### I7. Per-Drug Diagnostic — PLM vs Sisyphus on 97-drug Holdout
+- **Date**: 2026-04-10
+- **Purpose**: Before proposing another mechanism, diagnose WHICH drugs PLM systematically fails on, so the next proposal is data-driven not blind-guess.
+- **Method**: Trained S11 config (fp_enc_base, seed 42) on all 4540 training rows, predicted 97 holdout. Loaded Sisyphus meta predictions from `holdout_definition.json` (caveat: these are the OLD contaminated Sisyphus values ≈2.19 AAFE, not the clean 2.808; however the RELATIVE per-drug comparison is still informative). Computed per-drug signed + absolute log errors, stratified by chemical features, ionization, drug class, non-linear PK.
+- **Key Findings**:
+  1. **PLM has +0.26 systematic over-prediction bias** (67% of holdout drugs over-predicted). This is NOT random noise.
+  2. **Worst drug classes** (mean class AAFE, signed PLM error):
+     | Class | n | PLM AAFE | Sis AAFE | PLM signed |
+     |---|---|---|---|---|
+     | SSRI/SNRI | 3 | **12.17** | 6.28 | +1.085 |
+     | Steroids | 3 | **6.68** | 3.56 | +0.825 |
+     | TKI | 4 | 4.05 | 2.28 | −0.104 |
+     | Fluoroquinolones | 4 | 2.30 | 1.22 | −0.198 |
+     | NSAID | 2 | 2.78 | 2.51 | +0.444 |
+  3. **Surprising: Tanimoto-to-training HIGHER in PLM-worse subset** (0.555 vs 0.463, p=0.040). PLM does NOT fail on novel compounds — it fails on drugs structurally similar to training but with outlier PK. This is SAR-PK divergence.
+  4. **S8 non-linear PK is NOT the main bottleneck**: PLM-worse has 12.0% non-linear, rest has 11.1%, Fisher p=1.0.
+  5. **No significant difference** in MW, logP, TPSA, HBD/HBA, RotBonds, ionization class for PLM-worse vs rest.
+  6. **Over-predicted drugs** cluster on: non-linear PK (carbamazepine, digoxin, phenytoin), prodrugs (losartan, tenofovir disoproxil), high first-pass (sildenafil, ramelteon, steroids), high Vd (SSRIs).
+- **Actionable hypothesis**: Cmax depends directly on F and Vd via Cmax ≈ F·dose/Vd. PLM may be missing these "downward correction" signals. Proposed test: B2 — Vd as auxiliary target (like B1 but with the physically correct parameter).
+- **File**: `data/validation/plm_vs_sisyphus_diagnostic.json`, `models/plm_diagnostic_vs_sisyphus.py`
+- **Status**: ACTIONABLE DIAGNOSTIC. Directly motivated B2 experiment (below).
+
+### F14. B2 — Vd Auxiliary Target (Motivated by I7 Diagnostic)
+- **Date**: 2026-04-10
+- **Pre-registered hypothesis**: Vd directly enters Cmax formula (Cmax ∝ F·dose/Vd) unlike half-life (ke has weak Cmax sensitivity). Providing Vd as auxiliary feature/target should improve Cmax prediction — specifically the SSRI and steroid classes identified as PLM-worst in I7.
+- **Design**: 3 configs (A: baseline no Vd, B: + observed Vd feat, C: + OOF predicted Vd feat) × 3 seeds (42, 137, 2024) × 5-fold GroupKFold on IK14. Same XGB_PARAMS and features as S11.
+- **Data**: 426 Vd-labeled training drugs (TDC vd_L_kg 1107 + FDA v3 36 + DailyMed 6), 54 holdout. Much better coverage than B1's half-life (356 drugs).
+- **Pre-registered criteria**: PASS ≥ +0.10, PARTIAL +0.05 to +0.10, NULL −0.02 to +0.05, HARM < −0.02
+- **Result**:
+  | variant | HO mean±std | paired Δ | 95% CI | verdict |
+  |---|---|---|---|---|
+  | A baseline | 3.372±0.010 | — | — | — |
+  | B observed Vd feat | 3.403±0.007 | −0.032 ± 0.015 | [−0.069, +0.006] | **HARM** (marginal) |
+  | C predicted Vd feat (OOF) | 3.429±0.003 | −0.057 ± 0.013 | [−0.090, −0.024] | **HARM** (CI excludes 0) |
+- **Class-specific (target classes from I7)**:
+  | Class | A baseline | B obs Vd | C pred Vd |
+  |---|---|---|---|
+  | SSRI/SNRI (n=4) | 7.84 | 8.26 (Δ +0.42) | 8.07 (Δ +0.23) |
+  | Steroids (n=3) | 6.06 | 6.37 (Δ +0.31) | 6.21 (Δ +0.15) |
+  | TKI (n=4) | 4.25 | 3.75 (Δ −0.50) | 4.24 (Δ −0.01) |
+- **Result interpretation**: Pre-registered hypothesis **DIRECTLY REFUTED**. The diagnosed target classes (SSRI, steroids) got MEASURABLY WORSE with Vd supervision, not better. Only TKIs marginally benefited from observed Vd. OOF Vd prediction quality was reasonable (MAE ~0.23 log) but still hurt Cmax.
+- **Why it failed** (hypotheses):
+  1. **Measurement context mismatch**: TDC Vd_L_kg comes from IV studies (Lombardo dataset). Apparent Vd from oral Cmax differs because it's confounded with F (oral Vd/F, not true Vd).
+  2. **Extreme-class Vd is poorly measured**: SSRIs have very high tissue distribution (Vd 10-30 L/kg) that's hard to estimate clinically; the data is noisy for exactly the classes we wanted to fix.
+  3. **XGB already extracting Vd-relevant signal**: Morgan FP + physchem + μPBPK ke-derived feature may already capture what Vd would add, and explicit Vd introduces context-mismatched noise.
+- **Pattern across B1, B2, F11**: Three independent ADME-auxiliary approaches (half-life, Vd, DailyMed merge) all FAILED. Strong evidence that **scalar ADME features/targets are a saturated/dead-end direction for PLM**. The bottleneck is NOT an information-content gap in features.
+- **File**: `models/b1/b2_vd_stacked_results.json`, `models/plm_b2_vd_stacked.py`
+- **Status**: FAIL. B2 refuted. Plus broader conclusion: ADME auxiliary path (F11/B1/B2) is exhausted.
+
+### I6. Visual Profile Extraction Pilot (Claude multimodal vision)
+- **Date**: 2026-04-10
+- **Goal**: Expand PLM C(t) profile dataset beyond v0.5's 199 (of which ~25 are usable absorption-shape) to enable B1-style parametric output experiments.
+- **Pipeline attempts (in order)**:
+  1. **fitz text scan** of pre-extracted PK text (387 PDFs): 0 profiles — text extraction destroys table structure, numbers become free-floating
+  2. **pdfplumber structured table scan** (~200 PDFs): 1 profile (NDA021164 gepirone p214) — FDA PDFs mostly store C(t) in figures, not text tables
+  3. **Claude multimodal vision** reading auto_digitized_full figure PNGs (86 candidates from training drugs): 17 valid profiles from 48 processed (35% yield, stopped at 55.8% of queue due to context budget)
+- **Successful pipeline** (approach 3): Use auto_digitized_full.json → filter to training drugs (not holdout) → read figure PNG directly → visually classify (single-dose oral vs rejected types) → extract (time, conc) points → save to JSON.
+- **Output**: `data/curated/profile_visual_extracted.json` with 17 profiles:
+  - acyclovir, aficamten, amoxicillin (RHB-105), amphetamine, benzgalantamine (galantamine), daridorexant, desvenlafaxine, dexlansoprazole, dextroamphetamine (transdermal), diphenhydramine, edaravone, elacestrant, esomeprazole strontium, granisetron (SC ER), ibrutinib (fed + fasted), larotrectinib
+- **Contamination patterns in REJECTED candidates** (31/48 = 65%):
+  1. **DDI wrong-analyte**: auto_digitizer mapped figure to parent NDA drug, but figure actually shows CO-ADMINISTERED drug's profile (bremelanotide→norethindrone, buprenorphine→naloxone, bupropion→dextromethorphan, istradefylline→atorvastatin OH metabolite, drospirenone→estetrol)
+  2. **Multi-dose steady-state sawtooth** over 300-500h (adagrasib, avapritinib, ivosidenib)
+  3. **PK parameter tables** misclassified (auto_digitizer extracted 25 "points" from table cells)
+  4. **PD response curves** (CD34+ cells, survival, ANC nadir)
+  5. **Dissolution testing** (% dissolved vs Time(min))
+  6. **Demographics box plots** (by renal impairment, BSA category)
+  7. **Exposure-response scatter** (Ctau vs HIV-1 RNA, ANC vs AUC)
+- **Limitations of extracted profiles**:
+  - Visual precision ±10-20% on curve values
+  - Most profiles lack explicit dose (visible on caption, not figure) → need lookup via v11_llm IK14 match or PDF caption read
+  - ~30% of valid profiles are non-standard: transdermal patch (dextroamphetamine), SC extended release (granisetron APF530), steady-state multi-dose but clean shape (elacestrant MD)
+- **Scale-out estimate**: At 35% yield, remaining 38 unprocessed candidates → ~13 more valid = ~30 total. Combined with v0.5's 25 usable → ~55 profiles. Still small but ~2x the starting point.
+- **File**: `data/curated/profile_visual_extracted.json`, `data/curated/visual_extraction_queue.json`
+- **Status**: PIPELINE VALIDATED. Visual extraction via Claude vision is the correct approach (0→1→17 progression across three methods). Scale-out requires either (a) completing the remaining 38 candidates in a fresh context, or (b) extending beyond auto_digitized's 86 to broader figure set (11,403 total PNGs, most are not profile figures). Current 17-profile dataset may be too small for B1 regularizer strength but is usable as auxiliary validation set.
+
+### I8. Architectural Exhaustion Analysis (Session 2026-04-10 Conclusion)
+- **Date**: 2026-04-10
+- **Purpose**: After B1 (F12/F13) and B2 (F14) both failed, the user asked whether architectural expansion is limited to GNN/ensemble. This analysis consolidates what's been tried, what's refuted, and what's structurally open.
+- **Method**: Systematic survey of 5 architectural dimensions (input representation, model class, output formulation, training regime, ensemble strategy) cross-referenced against the existing RESEARCH_LOG and this session's new refutations.
+- **Key structural findings**:
+
+  **1. "Better chemical representation" is a refuted dimension.** F2 (MolFormer embeddings) and F3 (Tanimoto-retrieval augmentation) both failed with the explicit conclusion "PK ≠ SAR". This session's I7 diagnostic independently confirmed the same pattern: **PLM-worse drugs have HIGHER Tanimoto to training** (p=0.04), refuting the "novelty-hurts-model" hypothesis. Any variant of this dimension (ChemBERTa, ChemGPT, Chemprop/GNN, Mordred, 3D descriptors, pharmacophore FPs) shares the same failure mode — they all operate in SAR-space, and SAR-space is a poor proxy for PK-space.
+
+  **2. "Scalar ADME auxiliary" is a refuted dimension.** Three independent experiments (F11 DailyMed merge → feature; F12/F13 B1 half-life → feature+target; F14 B2 Vd → feature+target) all produced null or harmful results with different sources, different usage modes, and different physical rationales. The failure reason is consistent: TDC/public ADME data comes from IV studies whose measurement context does not match the oral Cmax training data; XGB already extracts whatever ADME-relevant signal exists from Morgan+physchem+μPBPK features implicitly; explicit scalar auxiliaries add measurement-context noise without new information.
+
+  **3. "PBPK ensemble" is structurally blocked by data.** Sisyphus achieves 2.808 HO AAFE via PBPK engine + ML meta-stacking. Their Engine works because of high-quality proprietary ADME data (Biogen ~3000 compounds: hlm_clint, mdr1_efflux, ppb_human, permeability). PLM lacks this. Building PLM's own PBPK component would require predicting (ka, ke, Vd) from structure — exactly what B1/B2 failed at. The `simulator/pk_engine.py` has the analytical math (1-compartment with lag, Numba JIT'd, superposition) but the structure→parameter mapping is the bottleneck, and that mapping is ADME prediction, which is refuted at (2).
+
+  **4. "Architecture tinkering without new data" is exhausted within current constraints.** Every remaining variant (GNN, FT-Transformer, TabNet, CatBoost, quantile regression, scaffold-stratified training, seed ensembles, etc.) either (a) shares failure mode with F2/F3/F11/B1/B2, (b) provides only marginal ensemble-variance reduction (~−0.02 to −0.05), or (c) is blocked by small data size (4540 rows is borderline for deep models, too small for meta-learning).
+
+- **What remains open**:
+  1. **Data quantity expansion** (CLAUDE.md "primary lever"). LLM extraction on older FDA PDFs (needs API key), visual profile extraction completion (started in I6, 38 candidates remaining in auto_digitized + 11,403 broader figure pool), stricter ChEMBL re-mining (F10 revisited).
+  2. **Profile-based temporal supervision**. The original B1 (parametric C(t) output, 13→5) requires profile data. With ~17 visual-extracted profiles now + remaining queue + potential LLM-vision expansion, a profile dataset large enough (~200+) for temporal regularizer is achievable but multi-session.
+  3. **Mechanism-aware data sourcing**. Biogen-equivalent in-vitro ADME would unlock PBPK ensemble. Realistically obtainable via: published in-vitro screening datasets (ChEMBL bioassays, FDA review appendix tables), academic group collaborations, or synthetic augmentation via first-principles docking. High effort, uncertain yield.
+  4. **Different evaluation angle**. PLM's design premise is "direct [SMILES, dose] → Cmax without IVIVE chain". At HO AAFE 3.37, PLM is comparable to mechanistic PBPK engines (Sisyphus Engine alone = 3.416). The "gap to Sisyphus ensemble" (2.808) reflects the advantage of ensembling, not of PLM's ML component being worse. Reframing PLM's value proposition around simulator integration, trial simulation, or uncertainty calibration rather than chasing Cmax AAFE lower may be more productive.
+
+- **Session 2026-04-10 closing inventory** (what was learned, not just tried):
+  - 3 pre-registered experiments completed, all with falsifiable criteria: **F12, F14 FAIL**; **S11 NULL on HO (Δ=−0.015), POSITIVE on CV-HO gap (Δ=−0.089)**
+  - 1 prior claim retracted: **old S10** (encoder-hurts) → **S11** (encoder-null-on-HO, regularizes gap)
+  - 1 diagnostic with actionable patterns: **I7** (directional over-prediction bias, SSRI/SNRI/steroid class-specific failure, SAR-PK divergence)
+  - 1 partial data expansion: **17 visual-extracted profiles** (I6 partial)
+  - 1 corrected baseline number: **fp_enc_base HO ≈ 3.37** (not 3.456)
+  - 1 architectural exhaustion map (this entry)
+
+- **Takeaway for next session**: The scientifically honest path forward is NOT another architecture tweak. It is either **data quantity expansion** (primary CLAUDE.md lever) or **reframing PLM's value proposition** away from AAFE-chasing. Architecture changes have been tested across 5 dimensions and all cheap options are exhausted or known to fail for the same root cause (SAR-PK divergence, measurement-context mismatch, small training set).
+- **Status**: CONSOLIDATED. Session 2026-04-10 closed with honest architectural exhaustion finding.
+
+### I9. Data Expansion Attempt (Session 2026-04-10 continuation) — Two Surprises
+
+- **Date**: 2026-04-10 (second half of session)
+- **Goal**: Execute the "data quantity expansion" open direction from I8. User pointed out (twice, across sessions) that Claude Code's multimodal Read tool can scan PDFs/figures directly, no external API needed. Planned three-tier approach: (A) finish visual extraction queue 38 remaining candidates, (B) scan unprocessed FDA PDFs for PK tables via Read, (C) broader figure re-exploration.
+
+- **Tier A execution** — visual extraction batches 2–5 (queue indices 48–85, 38 candidates):
+  - **10 valid / 38 processed = 26% yield** (below I6's 35%). 3 unrendered JPX files (pyridostigmine, paclitaxel, tirzepatide). Valid list: methotrexate, oxycodone, panobinostat 60mg, sitagliptin, spironolactone, sumatriptan PO 100mg, tadalafil, telotristat (active moiety), vibegron, vorapaxar.
+  - Rejection patterns: DDI victim wrong-analyte (netupitant→digoxin, rolapitant→DEX), metabolite instead of parent (nitroglycerin→1,2-GDN), PD response curves (motixafortide→CD34+ cells, relugolix→testosterone), nasal/IM route instead of oral (oxymetazoline, testosterone), multi-dose steady-state (nevirapine, prucalopride, rucaparib, oteseconazole, vismodegib), tables/scatter plots (paltusotine, sarecycline, teriflunomide, suvorexant, selumetinib, nirmatrelvir).
+
+- **Surprise #1 — v0.5 cleaned dataset has ~20 contaminated entries**: Cross-referencing rejected candidates against `plm_dataset_v0.5_cleaned.json` revealed that the same auto-digitization errors had been propagated into the v0.5 "cleaned" training set:
+  - `motixafortide` (2 rows, 1.0-1.25 mg "oral", Cmax 3.3/67.4) — actually CD34+ cell counts from SC peptide PD study
+  - `nitroglycerin` (3 rows, 6.5 mg "oral") — real NTG is 0.4-0.8 mg sublingual; stored values are 1,2-GDN metabolite
+  - `oxymetazoline` (5 rows, "18 mg oral" Cmax 7708) — real Kovanaze is 0.05-0.2 mg intranasal (100x dose error + wrong route)
+  - `naloxone` (3 rows, "20 mg oral" Cmax 2-102) — oral naloxone bioavailability ~2%, Cmax should be <1 ng/mL
+  - `nirmatrelvir` (1 row, 100 mg Cmax 2.0) — real 100 mg Cmax is ~1000 ng/mL (500x off); figure was DDI scatter
+  - `rucaparib` (1 row, 600 mg Cmax 4.3) — real 600 mg Cmax is ~1900 ng/mL (400x off); figure was BID steady-state
+  - `rolapitant` (1 row, 180 mg Cmax 621) — figure was dexamethasone DDI victim
+  - `netupitant` (3 rows at 300 mg, Cmax < 20) — DDI probe digoxin, not netupitant
+  - `sarecycline` (1 row at 100 mg Cmax 6912) — real Cmax is ~1000; figure was urinary excretion
+  - `pipeline/build_v06_cleaned.py` produces `data/curated/plm_dataset_v0.6_cleaned.json`: 199 → 179 profiles after rule-based removal (20 entries, 9 drugs). Removal log: `data/curated/v06_cleanup_log.json`.
+
+- **Surprise #2 — v0.5 is NOT used by S11 training**: Looking at `models/s10_replication.py` line 175, fp_enc_base training loads `plm_dataset_v11_llm.json` (4540 rows: 3340 SIS + 1050 LLM_FDA + 150 PLM source), NOT v0.5. All 9 flagged contaminated drugs were checked in v11_llm by canonical SMILES: **all have correct literature Cmax values** (rucaparib 600mg=1940, sarecycline 100mg=2620, nirmatrelvir 100mg=1042-2224, rolapitant 180mg=947, netupitant 300mg=599, oxymetazoline=0.05-0.3 mg correct nasal doses, etc.). v11 was independently built from SIS training data + LLM table extraction, not from v0.5 profiles. Consequence: **v0.6 cleanup has zero effect on current XGB training**, but is still kept as a data-quality artifact for downstream profile-based work.
+
+- **Tier B execution** — unprocessed FDA PDF scan:
+  - 217 of 456 PDFs are NOT in `pk_llm_merged.json` (the LLM was run against a 239-NDA subset).
+  - Small PDFs (<800 KB) sampled first: NDA219840 (barium sulfate imaging), NDA215033 (bendamustine IV 505(b)(2)), NDA208419 (pemetrexed IV 505(b)(2)) — **all empty-shell nonclinical/reliance reviews, 0 rows**.
+  - Mid-size PDFs (2-5 MB) sampled: NDA215446 (edaravone oral suspension RADICAVA ORS) yielded **6 extractable rows** (edaravone 105 mg oral healthy Cmax 1656, edaravone 105 mg ALS Cmax 1903, edaravone NGT Cmax 2431, plus DDI control arms: sildenafil 50 mg 194.3, rosuvastatin 10 mg 10.6, furosemide 40 mg 1502.8). NDA204141 (desoximetasone 0.25% topical spray) yielded **0 rows** (wrong route). Saved: `data/curated/pdf_scan_extracted.json`.
+  - **Selection bias discovered**: The 239 processed NDAs were the *yield-positive* subset. Remaining 217 are disproportionately topical/IV/imaging/generic-BE/505(b)(2)-reliance reviews with no oral PK data. Yield from random sampling ≈ 1/5 PDFs × ~5 rows = ~40 rows from all 217 unprocessed (not the initially estimated ~500).
+  - 6 rows / 4540 existing = 0.13% training-set growth. Far below the detection threshold for HO AAFE change. Not worth running a retrain experiment.
+
+- **Tier C** — broader figure re-exploration: **Not executed**. Same selection-bias argument: the 927 figure candidates already captured by the heuristic are the low-hanging fruit; residual figures are likely lower yield.
+
+- **Pre-registered hypothesis (`docs/prereg_x2_cleanup.md`)**: X2 planned to cleanup v0.5 + expand training and measure ΔHO. Upon discovering v11 is the real target and v11 is already clean, the pre-registered test became **vacuous** (cleanup touches wrong dataset, expansion size is below signal threshold). Retract X2 as "test design invalidated by upstream discovery". Document the pre-reg and the discovery together so the null is transparent rather than buried.
+
+- **What this reveals about the actual bottleneck**: The CLAUDE.md claim that "data expansion is the primary lever" implicitly assumed there are many un-mined FDA PDFs. Empirically, the 239 already-processed NDAs captured the bulk of oral single-dose Cmax data available from FDA review PDFs. The remaining 217 are mostly unusable (topical, IV, imaging, BE). The true data quantity ceiling for the FDA-PDF route is approximately where v11 already sits (~4540 rows, ~1173 unique drugs). To materially expand beyond this, one must go outside FDA review PDFs — e.g., ChEMBL bioassay re-mining (F10 revisited with looser criteria), EMA review scraping (`data/raw/ema_medicines.json` exists and is unprocessed — worth a dedicated session), academic literature mining, or in-vitro ADME datasets.
+
+- **Artifacts produced**:
+  - `data/curated/plm_dataset_v0.6_cleaned.json` (179 profiles, 65 drugs) + `data/curated/v06_cleanup_log.json`
+  - `data/curated/pdf_scan_extracted.json` (6 new PK tuples from NDA215446)
+  - `data/curated/visual_extraction_full_findings.json` (batches 2-5 verdicts + v0.5 contamination map)
+  - `data/curated/visual_extraction_batch1_findings.json`
+  - `docs/prereg_x2_cleanup.md` (pre-registration, explicitly marked vacuous in retrospect)
+  - `pipeline/build_v06_cleaned.py` (reusable cleanup rule engine)
+
+- **Status**: HONEST NULL. No retrain run because row count is below signal threshold. Both the v0.5 cleanup and the PDF scan are archived as data-quality artifacts for potential future profile-based supervision work, not as ML improvements.
+
+- **Takeaway for next session**: FDA-PDF-based data expansion is approximately saturated. The *genuine* open paths are (a) EMA medicines data (already downloaded, never processed), (b) ChEMBL bioassay re-mining with pharmacokinetic-context filters, (c) pivot to value-reframing per I8 point 4. Do not re-attempt "scan more FDA PDFs" without first checking whether the candidate NDA has an oral small molecule indication.
+
 ## Key Metrics Timeline
 
 | Experiment | Best AAFE | Type | Notes |
@@ -312,6 +526,8 @@
 | Brown 2025 external | **3.255** | EXT | N=29 independent, PASS (S9-E1) |
 | Post-cutoff NMEs | 4.262 | EXT | N=6, novel compounds (S9-E2) |
 | Holdout expanded | **3.354** | HO | N=103, +6 recovered (S9-E3) |
+| B1v5 XGB clean baseline (no enc) | 3.387 | HO | (S11 replication, 3-seed mean) |
+| S11 fp_enc_base replication | **3.372** | HO | (S11, 3-seed mean; corrects old 3.456) |
 | Sisyphus Meta | **2.283** | HO | Benchmark target |
 
 ## Cross-References

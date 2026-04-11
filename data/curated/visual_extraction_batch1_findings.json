@@ -1,0 +1,93 @@
+{
+  "batch": 1,
+  "queue_indices": [
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54
+  ],
+  "results": [
+    {
+      "idx": 48,
+      "drug": "methotrexate",
+      "nda": "NDA205776",
+      "page": 12,
+      "verdict": "VALID",
+      "actual_figure": "BE study of MTX oral tablet (R) vs SC pen (T) at 30 mg",
+      "v05_cmax": 580.3,
+      "v05_note": "Likely SC pen curve (T); oral is lower ~430",
+      "extract_curve": "R=oral tablet 30 mg",
+      "cmax_approx_ngml": 435,
+      "tmax_approx_h": 1.5,
+      "v05_action": "replace_with_oral_R"
+    },
+    {
+      "idx": 49,
+      "drug": "motixafortide",
+      "nda": "NDA217159",
+      "page": 182,
+      "verdict": "REJECT",
+      "reason": "PD response curve (CD34+ cell counts), not PK; motixafortide is SC peptide, not oral",
+      "v05_note": "v0.5 has TWO motixafortide entries labeled 'oral' at 1.25/1.0 mg with Cmax 67/3.3 ng/mL \u2014 CONTAMINATED, derived from PD figure misparse",
+      "v05_action": "REMOVE both motixafortide entries from v0.5"
+    },
+    {
+      "idx": 50,
+      "drug": "naloxone",
+      "nda": "NDA205777",
+      "page": 8,
+      "verdict": "REJECT",
+      "reason": "Simulated multi-dose steady-state sawtooth (160/80 mg oxycodone/naloxone)",
+      "v05_note": "v0.5 has 3 naloxone entries at 20 mg oral \u2014 figure basis unclear, likely from other NDA pages",
+      "v05_action": "needs_further_check"
+    },
+    {
+      "idx": 51,
+      "drug": "netupitant",
+      "nda": "NDA205718",
+      "page": 29,
+      "verdict": "REJECT",
+      "reason": "Figure shows DIGOXIN (DDI victim) not netupitant; TEST=digoxin+netupitant, REF=digoxin alone",
+      "v05_note": "v0.5 entry with Cmax 7.9 at 300 mg oral is digoxin data (7.9 \u03bcg/L \u2248 digoxin), CONTAMINATED",
+      "v05_action": "REMOVE netupitant 300 mg Cmax 7.9 entry"
+    },
+    {
+      "idx": 52,
+      "drug": "nevirapine",
+      "nda": "NDA201152",
+      "page": 34,
+      "verdict": "REJECT",
+      "reason": "Multi-dose steady-state IR vs ER (baseline already 3000-4000 ng/mL before additional dose)",
+      "v05_note": "v0.5 entry 400 mg Cmax 5809 \u2014 possibly correct for SS IR but not single-dose; note route convention",
+      "v05_action": "flag_multidose"
+    },
+    {
+      "idx": 53,
+      "drug": "nirmatrelvir",
+      "nda": "NDA217188",
+      "page": 275,
+      "verdict": "REJECT",
+      "reason": "Scatter plot of DDI effects (AUCR), not a C-t profile",
+      "v05_note": "v0.5 entry 100 mg Cmax 2.0 ng/mL \u2014 nirmatrelvir real Cmax at 100 mg is ~1000 ng/mL, CONTAMINATED",
+      "v05_action": "REMOVE nirmatrelvir 100 mg entry"
+    },
+    {
+      "idx": 54,
+      "drug": "nitroglycerin",
+      "nda": "NDA208424",
+      "page": 7,
+      "verdict": "REJECT",
+      "reason": "Figure shows 1,2-GDN (dinitroglycerin METABOLITE), not parent GTN; 0.8 mg sublingual",
+      "v05_note": "v0.5 entry 'oral 6.5 mg' Cmax 1.1 \u2014 wrong route (should be sublingual) AND wrong dose (0.8 mg) AND wrong analyte (metabolite), TRIPLE CONTAMINATED",
+      "v05_action": "REMOVE nitroglycerin entries"
+    }
+  ],
+  "summary": {
+    "valid": 1,
+    "rejected": 6,
+    "v05_contamination_flagged": 5
+  }
+}

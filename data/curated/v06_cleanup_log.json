@@ -1,0 +1,297 @@
+{
+  "date": "2026-04-10",
+  "n_before": 199,
+  "n_after": 179,
+  "n_removed": 20,
+  "by_drug": {
+    "nirmatrelvir": 1,
+    "netupitant": 3,
+    "naloxone": 3,
+    "rolapitant": 1,
+    "oxymetazoline": 5,
+    "nitroglycerin": 3,
+    "rucaparib camsylate": 1,
+    "sarecycline": 1,
+    "motixafortide": 2
+  },
+  "rules_applied": [
+    {
+      "drug": "motixafortide",
+      "source_nda": "NDA217159",
+      "reason": "Figure was CD34+ cell count (PD response), not PK. Motixafortide is SC peptide, not oral.",
+      "all_matching": true
+    },
+    {
+      "drug": "nitroglycerin",
+      "source_nda": "NDA208424",
+      "reason": "Figure was 1,2-GDN metabolite (not parent GTN). Stored as 'oral 6.5 mg' but real NTG is 0.4-0.8 mg sublingual. Triple contamination: wrong analyte, wrong dose, wrong route.",
+      "all_matching": true
+    },
+    {
+      "drug": "oxymetazoline",
+      "source_nda": "NDA208032",
+      "reason": "Real oxymetazoline is 0.05-0.2 mg intranasal (pediatric Kovanaze). Stored as 'oral 18 mg' is 100x dose error + wrong route. Auto-digitizer parsed text erroneously.",
+      "all_matching": true
+    },
+    {
+      "drug": "naloxone",
+      "source_nda": "NDA205777",
+      "reason": "Oral naloxone bioavailability is ~2%; Cmax at 20 mg should be <1 ng/mL. Stored values 2-102 ng/mL impossible. Figure was simulated multi-dose oxycodone/naloxone SS.",
+      "all_matching": true
+    },
+    {
+      "drug": "nirmatrelvir",
+      "source_nda": "NDA217188",
+      "reason": "Real nirmatrelvir 100 mg gives Cmax ~1000 ng/mL; stored 2.0 ng/mL is 500x off. Figure was DDI scatter plot (AUCR), not C-t profile.",
+      "all_matching": true
+    },
+    {
+      "drug": "rucaparib",
+      "source_nda": "NDA209115",
+      "reason": "Real rucaparib 600 mg gives Cmax ~1900 ng/mL; stored 4.3 ng/mL is 400x off. Figure was BID steady-state (flat profile from t=0, pre-dose baseline), not single dose.",
+      "all_matching": true
+    },
+    {
+      "drug": "rolapitant",
+      "source_nda": "NDA206500",
+      "reason": "Figure was dexamethasone (DEX) DDI victim, not rolapitant. Stored as rolapitant but analyte was DEX.",
+      "all_matching": true
+    },
+    {
+      "drug": "netupitant",
+      "source_nda": "NDA205718",
+      "reason": "Specific entry with Cmax ~7.9 ng/mL at 300 mg oral \u2014 figure showed digoxin DDI. Digoxin Cmax values are typically <10 \u03bcg/L and this matches the mis-parsed digoxin data.",
+      "cmax_lt": 20,
+      "dose_eq": 300.0
+    },
+    {
+      "drug": "sarecycline",
+      "source_nda": "NDA209521",
+      "reason": "Figure was urinary excretion (Ae, CLR) TABLE, not plasma C-t. Specific entry at 100 mg Cmax 6912 is 6x real literature value.",
+      "dose_eq": 100.0,
+      "cmax_gt": 3000
+    }
+  ],
+  "removed_profiles": [
+    {
+      "profile": {
+        "drug_name": "nirmatrelvir",
+        "source_nda": "NDA217188",
+        "dose_mg": 100.0,
+        "cmax_reported": 2.0,
+        "route": "oral"
+      },
+      "rule_drug": "nirmatrelvir",
+      "reason": "Real nirmatrelvir 100 mg gives Cmax ~1000 ng/mL; stored 2.0 ng/mL is 500x off. Figure was DDI scatter plot (AUCR), not C-t profile."
+    },
+    {
+      "profile": {
+        "drug_name": "netupitant",
+        "source_nda": "NDA205718",
+        "dose_mg": 300.0,
+        "cmax_reported": 7.9,
+        "route": "oral"
+      },
+      "rule_drug": "netupitant",
+      "reason": "Specific entry with Cmax ~7.9 ng/mL at 300 mg oral \u2014 figure showed digoxin DDI. Digoxin Cmax values are typically <10 \u03bcg/L and this matches the mis-parsed digoxin data."
+    },
+    {
+      "profile": {
+        "drug_name": "netupitant",
+        "source_nda": "NDA205718",
+        "dose_mg": 300.0,
+        "cmax_reported": 19.4,
+        "route": "oral"
+      },
+      "rule_drug": "netupitant",
+      "reason": "Specific entry with Cmax ~7.9 ng/mL at 300 mg oral \u2014 figure showed digoxin DDI. Digoxin Cmax values are typically <10 \u03bcg/L and this matches the mis-parsed digoxin data."
+    },
+    {
+      "profile": {
+        "drug_name": "netupitant",
+        "source_nda": "NDA205718",
+        "dose_mg": 300.0,
+        "cmax_reported": 2.3,
+        "route": "oral"
+      },
+      "rule_drug": "netupitant",
+      "reason": "Specific entry with Cmax ~7.9 ng/mL at 300 mg oral \u2014 figure showed digoxin DDI. Digoxin Cmax values are typically <10 \u03bcg/L and this matches the mis-parsed digoxin data."
+    },
+    {
+      "profile": {
+        "drug_name": "naloxone",
+        "source_nda": "NDA205777",
+        "dose_mg": 20.0,
+        "cmax_reported": 2.0,
+        "route": "oral"
+      },
+      "rule_drug": "naloxone",
+      "reason": "Oral naloxone bioavailability is ~2%; Cmax at 20 mg should be <1 ng/mL. Stored values 2-102 ng/mL impossible. Figure was simulated multi-dose oxycodone/naloxone SS."
+    },
+    {
+      "profile": {
+        "drug_name": "naloxone",
+        "source_nda": "NDA205777",
+        "dose_mg": 20.0,
+        "cmax_reported": 15.4,
+        "route": "oral"
+      },
+      "rule_drug": "naloxone",
+      "reason": "Oral naloxone bioavailability is ~2%; Cmax at 20 mg should be <1 ng/mL. Stored values 2-102 ng/mL impossible. Figure was simulated multi-dose oxycodone/naloxone SS."
+    },
+    {
+      "profile": {
+        "drug_name": "naloxone",
+        "source_nda": "NDA205777",
+        "dose_mg": 20.0,
+        "cmax_reported": 102.2,
+        "route": "oral"
+      },
+      "rule_drug": "naloxone",
+      "reason": "Oral naloxone bioavailability is ~2%; Cmax at 20 mg should be <1 ng/mL. Stored values 2-102 ng/mL impossible. Figure was simulated multi-dose oxycodone/naloxone SS."
+    },
+    {
+      "profile": {
+        "drug_name": "rolapitant",
+        "source_nda": "NDA206500",
+        "dose_mg": 180.0,
+        "cmax_reported": 621.2,
+        "route": "oral"
+      },
+      "rule_drug": "rolapitant",
+      "reason": "Figure was dexamethasone (DEX) DDI victim, not rolapitant. Stored as rolapitant but analyte was DEX."
+    },
+    {
+      "profile": {
+        "drug_name": "oxymetazoline",
+        "source_nda": "NDA208032",
+        "dose_mg": 18.0,
+        "cmax_reported": 9.0,
+        "route": "oral"
+      },
+      "rule_drug": "oxymetazoline",
+      "reason": "Real oxymetazoline is 0.05-0.2 mg intranasal (pediatric Kovanaze). Stored as 'oral 18 mg' is 100x dose error + wrong route. Auto-digitizer parsed text erroneously."
+    },
+    {
+      "profile": {
+        "drug_name": "oxymetazoline",
+        "source_nda": "NDA208032",
+        "dose_mg": 18.0,
+        "cmax_reported": 1.1,
+        "route": "oral"
+      },
+      "rule_drug": "oxymetazoline",
+      "reason": "Real oxymetazoline is 0.05-0.2 mg intranasal (pediatric Kovanaze). Stored as 'oral 18 mg' is 100x dose error + wrong route. Auto-digitizer parsed text erroneously."
+    },
+    {
+      "profile": {
+        "drug_name": "oxymetazoline",
+        "source_nda": "NDA208032",
+        "dose_mg": 18.0,
+        "cmax_reported": 7708.7,
+        "route": "oral"
+      },
+      "rule_drug": "oxymetazoline",
+      "reason": "Real oxymetazoline is 0.05-0.2 mg intranasal (pediatric Kovanaze). Stored as 'oral 18 mg' is 100x dose error + wrong route. Auto-digitizer parsed text erroneously."
+    },
+    {
+      "profile": {
+        "drug_name": "oxymetazoline",
+        "source_nda": "NDA208032",
+        "dose_mg": 18.0,
+        "cmax_reported": 847.4,
+        "route": "oral"
+      },
+      "rule_drug": "oxymetazoline",
+      "reason": "Real oxymetazoline is 0.05-0.2 mg intranasal (pediatric Kovanaze). Stored as 'oral 18 mg' is 100x dose error + wrong route. Auto-digitizer parsed text erroneously."
+    },
+    {
+      "profile": {
+        "drug_name": "oxymetazoline",
+        "source_nda": "NDA208032",
+        "dose_mg": 18.0,
+        "cmax_reported": 1.1,
+        "route": "oral"
+      },
+      "rule_drug": "oxymetazoline",
+      "reason": "Real oxymetazoline is 0.05-0.2 mg intranasal (pediatric Kovanaze). Stored as 'oral 18 mg' is 100x dose error + wrong route. Auto-digitizer parsed text erroneously."
+    },
+    {
+      "profile": {
+        "drug_name": "nitroglycerin",
+        "source_nda": "NDA208424",
+        "dose_mg": 6.5,
+        "cmax_reported": 1.1,
+        "route": "oral"
+      },
+      "rule_drug": "nitroglycerin",
+      "reason": "Figure was 1,2-GDN metabolite (not parent GTN). Stored as 'oral 6.5 mg' but real NTG is 0.4-0.8 mg sublingual. Triple contamination: wrong analyte, wrong dose, wrong route."
+    },
+    {
+      "profile": {
+        "drug_name": "nitroglycerin",
+        "source_nda": "NDA208424",
+        "dose_mg": 6.5,
+        "cmax_reported": 1.2,
+        "route": "oral"
+      },
+      "rule_drug": "nitroglycerin",
+      "reason": "Figure was 1,2-GDN metabolite (not parent GTN). Stored as 'oral 6.5 mg' but real NTG is 0.4-0.8 mg sublingual. Triple contamination: wrong analyte, wrong dose, wrong route."
+    },
+    {
+      "profile": {
+        "drug_name": "nitroglycerin",
+        "source_nda": "NDA208424",
+        "dose_mg": 6.5,
+        "cmax_reported": 1.2,
+        "route": "oral"
+      },
+      "rule_drug": "nitroglycerin",
+      "reason": "Figure was 1,2-GDN metabolite (not parent GTN). Stored as 'oral 6.5 mg' but real NTG is 0.4-0.8 mg sublingual. Triple contamination: wrong analyte, wrong dose, wrong route."
+    },
+    {
+      "profile": {
+        "drug_name": "rucaparib camsylate",
+        "source_nda": "NDA209115",
+        "dose_mg": 600.0,
+        "cmax_reported": 4.3,
+        "route": "oral"
+      },
+      "rule_drug": "rucaparib",
+      "reason": "Real rucaparib 600 mg gives Cmax ~1900 ng/mL; stored 4.3 ng/mL is 400x off. Figure was BID steady-state (flat profile from t=0, pre-dose baseline), not single dose."
+    },
+    {
+      "profile": {
+        "drug_name": "sarecycline",
+        "source_nda": "NDA209521",
+        "dose_mg": 100.0,
+        "cmax_reported": 6912.2,
+        "route": "oral"
+      },
+      "rule_drug": "sarecycline",
+      "reason": "Figure was urinary excretion (Ae, CLR) TABLE, not plasma C-t. Specific entry at 100 mg Cmax 6912 is 6x real literature value."
+    },
+    {
+      "profile": {
+        "drug_name": "motixafortide",
+        "source_nda": "NDA217159",
+        "dose_mg": 1.25,
+        "cmax_reported": 67.4,
+        "route": "oral"
+      },
+      "rule_drug": "motixafortide",
+      "reason": "Figure was CD34+ cell count (PD response), not PK. Motixafortide is SC peptide, not oral."
+    },
+    {
+      "profile": {
+        "drug_name": "motixafortide",
+        "source_nda": "NDA217159",
+        "dose_mg": 1.0,
+        "cmax_reported": 3.3,
+        "route": "oral"
+      },
+      "rule_drug": "motixafortide",
+      "reason": "Figure was CD34+ cell count (PD response), not PK. Motixafortide is SC peptide, not oral."
+    }
+  ]
+}
