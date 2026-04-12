@@ -615,8 +615,8 @@
   - The "contamination is useful" interpretation is post-hoc rationalization; a more conservative reading is "both are noisy null-to-partial with the 5-seed variance dominating the ChEMBL contribution".
 
 - **Practical conclusion for baseline update**:
-  - **Keep S12 v12 as the candidate new baseline (HO 3.327)** rather than v12b refined (HO 3.353)
-  - Note in the timeline that both results are fragile (small N, narrow effect size)
+  - **Keep S12 v12 as the official baseline** — confirmed at HO **3.332** (4-seed mean, p=0.006; see S12c below)
+  - ~~Note in the timeline that both results are fragile~~ → **Resolved by S12c**: 4-seed replication confirms PARTIAL with high significance
   - Do NOT aggressively filter ChEMBL for "contamination" — the cost in row count exceeds the benefit in row quality at this scale
   - The "refinement improves data quality" intuition from data science does not translate to this regime
 
@@ -626,7 +626,7 @@
   - `pipeline/build_v12b_chembl_refined.py`, `data/curated/plm_dataset_v12b_chembl_refined.json`
   - `models/s12b_v12b_retrain.py`, `models/b1/s12b_v12b_results.json`
 
-- **Status**: **NULL** (refinement hypothesis refuted). Correct baseline candidate remains v12 (3.327 PARTIAL), not v12b (3.353 NULL).
+- **Status**: **NULL** (refinement hypothesis refuted). Correct baseline is v12 (HO **3.332**, 4-seed, confirmed in S12c), not v12b (3.353 NULL).
 
 ### S12c. 4th Seed Replication — S12 PARTIAL Confirmed at p=0.006
 

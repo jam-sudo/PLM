@@ -2,7 +2,7 @@
 
 ## The Apparent Problem
 
-PLM Cmax prediction (AAFE 3.332) appears to lag Sisyphus Meta-Ensemble (AAFE 2.28) by 1.05 on the 97-drug holdout. This framing is misleading.
+PLM Cmax prediction (AAFE 3.332) appears to lag Sisyphus Meta-Ensemble (AAFE 2.283) by 1.05 on the 97-drug holdout. This framing is misleading.
 
 ## The Correct Comparison
 
@@ -13,11 +13,11 @@ PLM Cmax prediction (AAFE 3.332) appears to lag Sisyphus Meta-Ensemble (AAFE 2.2
 | **PLM (v12)** | **3.332** | ML-only | SMILES + dose |
 | Sisyphus Engine | 3.42 | Mechanistic PBPK | In-vitro ADME (CLint, Perm, PPB) |
 | Sisyphus ML | 2.34 | ML-only | Morgan FP + features (~500 compounds training) |
-| Sisyphus Meta | 2.28 | PBPK+ML ensemble | Both above |
+| Sisyphus Meta | 2.283 | PBPK+ML ensemble | Both above |
 
 **PLM (3.332) outperforms Sisyphus Engine (3.416)** when compared at the same tier.
 
-The gap to Sisyphus Meta (2.28) reflects **ensembling advantage** from combining mechanistic and ML predictions, not inferior ML. Sisyphus achieves 2.28 because:
+The gap to Sisyphus Meta (2.283) reflects **ensembling advantage** from combining mechanistic and ML predictions, not inferior ML. Sisyphus achieves 2.283 because:
 1. Their PBPK engine uses proprietary Biogen ADME data (~3,000 compounds with in-vitro CLint, permeability, PPB)
 2. Meta-stacking learns drug-specific weight allocation between engine and ML
 3. PLM lacks this PBPK tier entirely — not because the ML is worse
@@ -99,7 +99,7 @@ PLM trains on **4,704 human oral Cmax observations** from FDA reviews and ChEMBL
 > PLM achieves Cmax AAFE 3.332 (p=0.006, 4-seed) on a 97-drug holdout using SMILES as sole molecular input, outperforming the mechanistic PBPK engine tier (Sisyphus Engine: 3.416) without requiring in-vitro ADME data. Combined with an integrated clinical trial simulator, PLM enables end-to-end dose-finding simulation from molecular structure alone.
 
 **For grant applications**:
-> PLM demonstrates that structure-based Cmax prediction can match IVIVE-dependent PBPK approaches. Closing the remaining gap to meta-ensemble performance (2.28) requires either (a) an independent PBPK tier for ensembling, or (b) ~5-10x more training data from non-public sources.
+> PLM demonstrates that structure-based Cmax prediction can match IVIVE-dependent PBPK approaches. Closing the remaining gap to meta-ensemble performance (2.283) requires either (a) an independent PBPK tier for ensembling, or (b) ~5-10x more training data from non-public sources.
 
 **For industry presentations**:
 > PLM + simulator enables virtual dose-finding studies from SMILES alone, with no laboratory measurements required. This creates a new capability for computational triage of compound libraries before any wet-lab work.
