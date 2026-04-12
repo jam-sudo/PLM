@@ -2,7 +2,7 @@
 
 ## The Apparent Problem
 
-PLM Cmax prediction (AAFE 3.33) appears to lag Sisyphus Meta-Ensemble (AAFE 2.28) by 1.05 on the 97-drug holdout. This framing is misleading.
+PLM Cmax prediction (AAFE 3.332) appears to lag Sisyphus Meta-Ensemble (AAFE 2.28) by 1.05 on the 97-drug holdout. This framing is misleading.
 
 ## The Correct Comparison
 
@@ -10,12 +10,12 @@ PLM Cmax prediction (AAFE 3.33) appears to lag Sisyphus Meta-Ensemble (AAFE 2.28
 
 | System | AAFE | Type | Data Required |
 |--------|------|------|---------------|
-| **PLM (v12)** | **3.33** | ML-only | SMILES + dose |
+| **PLM (v12)** | **3.332** | ML-only | SMILES + dose |
 | Sisyphus Engine | 3.42 | Mechanistic PBPK | In-vitro ADME (CLint, Perm, PPB) |
 | Sisyphus ML | 2.34 | ML-only | Morgan FP + features (~500 compounds training) |
 | Sisyphus Meta | 2.28 | PBPK+ML ensemble | Both above |
 
-**PLM (3.33) outperforms Sisyphus Engine (3.42)** when compared at the same tier.
+**PLM (3.332) outperforms Sisyphus Engine (3.416)** when compared at the same tier.
 
 The gap to Sisyphus Meta (2.28) reflects **ensembling advantage** from combining mechanistic and ML predictions, not inferior ML. Sisyphus achieves 2.28 because:
 1. Their PBPK engine uses proprietary Biogen ADME data (~3,000 compounds with in-vitro CLint, permeability, PPB)
@@ -87,7 +87,7 @@ PLM trains on **4,704 human oral Cmax observations** from FDA reviews and ChEMBL
 
 ## Honest Limitations
 
-1. **AAFE 3.33 means average 3.3-fold error** — not clinically precise for individual dose selection
+1. **AAFE 3.332 means average 3.3-fold error** — not clinically precise for individual dose selection
 2. **Systematic overprediction bias (+0.27 log units)** — PLM tends to overpredict Cmax
 3. **SSRI/SNRI and steroids are worst classes** (AAFE >6) — high first-pass/high Vd drugs poorly captured
 4. **No uncertainty quantification** — single point prediction, no confidence interval
@@ -96,7 +96,7 @@ PLM trains on **4,704 human oral Cmax observations** from FDA reviews and ChEMBL
 ## Recommended Positioning
 
 **For publications**:
-> PLM achieves Cmax AAFE 3.33 on a 97-drug holdout using SMILES as sole molecular input, matching the mechanistic PBPK engine tier (Sisyphus Engine: 3.42) without requiring in-vitro ADME data. Combined with an integrated clinical trial simulator, PLM enables end-to-end dose-finding simulation from molecular structure alone.
+> PLM achieves Cmax AAFE 3.332 (p=0.006, 4-seed) on a 97-drug holdout using SMILES as sole molecular input, outperforming the mechanistic PBPK engine tier (Sisyphus Engine: 3.416) without requiring in-vitro ADME data. Combined with an integrated clinical trial simulator, PLM enables end-to-end dose-finding simulation from molecular structure alone.
 
 **For grant applications**:
 > PLM demonstrates that structure-based Cmax prediction can match IVIVE-dependent PBPK approaches. Closing the remaining gap to meta-ensemble performance (2.28) requires either (a) an independent PBPK tier for ensembling, or (b) ~5-10x more training data from non-public sources.

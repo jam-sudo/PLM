@@ -544,10 +544,10 @@
   3. **The first "data is the lever" result that actually measures.** I8 concluded architectural tinkering was exhausted; data expansion was the recommended path but all prior attempts (I6 visual profiles, FDA PDF scan) gave 0-6 rows each, below detection threshold. S12 is the first experiment to validate the "data is the lever" hypothesis with a measurable HO improvement.
 
 - **Caveats and honest limits**:
-  - 164 rows is still small; ΔHO −0.045 is only 2.4σ from zero (paired std 0.019). A fourth seed could push it either direction.
-  - Gap reduction from 0.207 to 0.107 is striking but single experiment. Needs replication.
-  - I did not run a 10k or 50k ChEMBL scan — yield was plateauing around 25k activities at 290 rows, suggesting ChEMBL Cmax data is mostly medicinal-chemistry animal PK with only ~1% human-oral-single-dose clinical. Full scan might yield 500-1000 more rows; incremental gain uncertain.
-  - Some of the new drugs may still be borderline (e.g., multi-dose confounded with single-dose despite description filters, or incorrect dose from regex). Random manual audit of 10 entries recommended before production use.
+  - ~~164 rows is still small; ΔHO −0.045 is only 2.4σ from zero~~ **RESOLVED by S12c**: 4th seed confirmed at p=0.006 (t=−5.4).
+  - ~~Full scan might yield 500-1000 more rows~~ **RESOLVED by S12b**: ChEMBL Cmax exhausted at 28,160 total activities; only 165 pairs survive strict filters.
+  - Manual audit of 10 rows found 20% contamination (metabolite + multi-dose) but refinement HURT (S12b NULL). "Contaminated" rows carry structured signal.
+  - Gap reduction from 0.207 to 0.107 is consistent across 4 seeds.
 
 - **Artifacts**:
   - `pipeline/chembl_v2_strict.py` — extraction with new filters
@@ -559,13 +559,13 @@
   - `models/b1/s12_v12_results.json` — per-seed metrics + verdict
   - `docs/prereg_s12_chembl_v12.md` — pre-registration document
 
-- **Status**: **PARTIAL PASS**. First data expansion experiment with HO improvement. Validates ChEMBL re-mining as a viable expansion path when properly filtered. New baseline candidate: fp_enc_base HO AAFE **3.327** (was 3.372 from S11).
+- **Status**: **PARTIAL PASS confirmed** (S12c 4th seed: p=0.006). First and only data expansion experiment with HO improvement. Official PLM baseline: fp_enc_base v12 HO AAFE **3.332** (4-seed mean).
 
-- **Takeaway for next session**:
-  1. Run a larger ChEMBL scan (50k–100k activities) to see if yield continues past 290 rows
-  2. Manually audit 10-20 random new rows for residual contamination
-  3. Try to push S12 from PARTIAL to full PASS by adding one more data source (ChEMBL AUC records, or text mining of PubMed abstracts for human oral PK mentions)
-  4. If v12 replicates across a 4th seed, publish as new baseline (3.327 vs Sisyphus 2.808, gap reduced from 1.09 to 0.52)
+- **Follow-up completed**:
+  1. ~~Run larger ChEMBL scan~~ → S12b: exhausted at 28,160 activities (done)
+  2. ~~Manual audit~~ → 20% contamination found, refinement HURT (S12b NULL, done)
+  3. ~~Try another data source~~ → I10: all 6 public sources exhausted (done)
+  4. ~~4th seed replication~~ → S12c: p=0.006, confirmed (done)
 
 ### S12b. ChEMBL Cmax Exhausted + Audit Refinement HURT Performance (surprising null)
 
@@ -702,9 +702,9 @@
 | Phase A holdout | **3.723** | HO | First clean holdout eval |
 | Phase B (3D) | 3.702 | HO | Marginal gain from 3D descriptors |
 | Phase D tuned | 3.964 | HO | Feature engineering overfitting |
-| Novel baseline | 3.355 | HO | Current best holdout |
+| Novel baseline | 3.355 | HO | Old holdout (pre-S11 correction) |
 | DrugBank expansion | 3.469 | HO | Synthetic data hurts (F1) |
-| LLM CoT + Lasso CV-cal | **2.043** | HO | Current best (Phase 4) |
+| LLM CoT + Lasso CV-cal | **2.043** | HO | Best HO with LLM (data leakage) |
 | NL routing (NL→XGB) | **2.009** | HO | Mechanism-aware routing (S8) |
 | Linear-only subset | **1.923** | HO | LLM on 86 linear drugs (S8) |
 | Oracle best-of-2 | **1.834** | HO | Per-drug routing ceiling (S8) |
@@ -713,14 +713,28 @@
 | Holdout expanded | **3.354** | HO | N=103, +6 recovered (S9-E3) |
 | B1v5 XGB clean baseline (no enc) | 3.387 | HO | (S11 replication, 3-seed mean) |
 | S11 fp_enc_base replication | 3.372 | HO | (S11, 3-seed mean; corrects old 3.456) |
-| S12 v12 (v11 + ChEMBL v2 strict) | **3.327** | HO | (S12, **4-seed** mean; ΔHO=−0.043, **p=0.006**, PARTIAL confirmed) |
+| **S12/S12c v12 (CURRENT BASELINE)** | **3.332** | **HO** | **(S12c, 4-seed mean; ΔHO=−0.043, p=0.006, PARTIAL confirmed)** |
 | S12b v12b (v11 + ChEMBL v3 refined) | 3.353 | HO | (S12b, 3-seed mean; ΔHO=−0.019, gap=0.080, NULL — refinement HURT) |
-| Sisyphus Meta | **2.283** | HO | Benchmark target |
+| Sisyphus Engine | 3.416 | HO | PLM v12 is better (3.332 < 3.416) |
+| Sisyphus Meta | **2.283** | HO | Ensemble benchmark target |
+
+## Experiment Index
+
+### Successes: S1–S12c
+S1 (table extraction), S2 (cleaning), S3 (ADME encoder), S4 (physchem), S5 (LLM extraction pipeline), S6 (unit normalization), S7 (info theory), S8 (NL-PK routing), S9 (external validation E1/E2/E3), S10 (retracted → S11), S11 (encoder replication), **S12/S12c (ChEMBL v12, current baseline, p=0.006)**
+
+### Failures: F1–F14
+F1 (DrugBank synthetic), F2 (MolFormer), F3 (Tanimoto retrieval), F4 (asymmetric loss), F5 (isotonic cal), F6 (PK-DB API), F7 (Tanimoto-gated ensemble), F8 (bioavailability feature), F9 (VLM re-digitization), F10 (ChEMBL conservative), F11 (DailyMed ADME merge), F12 (B1 NN half-life), F13 (B1 XGB half-life stacking), F14 (B2 Vd auxiliary)
+
+### Informational: I1–I10
+I1 (LLM leakage), I2 (LLM+XGB ensemble), I3 (error correlation), I4 (ChEMBL audit), I5 (post-cutoff validation set), I6 (visual profile extraction), I7 (per-drug diagnostic), I8 (architectural exhaustion), I9 (data expansion audit), **I10 (public data source exhaustion)**
 
 ## Cross-References
 
-- **Project spec**: [CLAUDE.md](../CLAUDE.md) — model progression table, unit conventions
-- **Scale-up plan**: [docs/scaleup_plan.md](scaleup_plan.md) — PDF extraction pipeline
+- **Project spec**: [CLAUDE.md](../CLAUDE.md) — model progression, feature architecture, current status
+- **Value reframing**: [docs/value_reframing.md](value_reframing.md) — PLM vs Sisyphus positioning
 - **Holdout definition**: `data/validation/holdout_definition.json` — 97 drugs
-- **All result JSONs**: `data/validation/*_results.json`, `models/*_results.json`
-- **Simulator**: `simulator/` — clinical trial simulator POC (independent of PK model)
+- **Current model**: `models/b1/plm_cmax_model.pkl` — trained XGBoost v12
+- **S12 results**: `models/b1/s12_v12_results.json` — 4-seed metrics
+- **Simulator**: `simulator/pk_engine.py` — PLMPKEngine (SMILES → trial outcomes)
+- **All result JSONs**: `data/validation/*_results.json`, `models/b1/*_results.json`
