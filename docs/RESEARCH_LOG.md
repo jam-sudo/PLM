@@ -422,6 +422,25 @@
 - **File**: `models/b1/s14_adaptive_results.json`, `models/s14_adaptive_conformal.py`
 - **Status**: FAIL. Negative result confirming inherent limitation of structure-only prediction.
 
+### F16. S15 — Hyperparameter Optimization + LightGBM + Ensemble
+- **Date**: 2026-04-12
+- **Pre-registered hypothesis**: Hand-set XGB params are suboptimal; Bayesian HP optimization (Optuna, 100 trials) + LightGBM + ensemble should improve holdout AAFE from 3.332.
+- **Method**: (A) Optuna XGBoost 100 trials on 5-fold GroupKFold CV, (B) Feature importance pruning (top-K), (C) Optuna LightGBM 100 trials, (D) XGB+LGBM weighted ensemble.
+- **Result**: **NULL.** All optimized configs WORSE than baseline on holdout.
+
+| Config | CV AAFE | HO AAFE | ΔHO |
+|---|---|---|---|
+| Baseline (hand-set) | 3.199 | **3.332** | — |
+| Optuna XGB best | 3.143 | 3.396 | +0.064 |
+| Optuna LightGBM best | 3.147 | 3.455 | +0.123 |
+| Feature top-3000 | 3.187 | 3.414 | +0.082 |
+| XGB+LGBM ensemble | — | 3.412 | +0.080 |
+
+- **Key finding**: CV-optimal hyperparameters consistently WORSEN holdout. The hand-set params (reg_lambda=5, colsample=0.3, min_child=5) are already near-optimal for this generalization problem. Optuna finds lower CV by reducing regularization, which increases overfitting to training chemical space.
+- **Interpretation**: The CV-HO gap is a **chemical space shift** problem, not a hyperparameter problem. GroupKFold by drug prevents same-drug leakage but doesn't prevent same-scaffold/same-class leakage. Holdout drugs occupy different chemical space regions than training. No amount of HP tuning can bridge this gap — it requires either (a) more diverse training data or (b) a model architecture that generalizes across chemical space boundaries.
+- **File**: `models/b1/s15_hp_results.json`, `models/s15_hp_optimization.py`
+- **Status**: FAIL. 6th dimension exhausted (HP tuning). Baseline params confirmed optimal.
+
 ### I6. Visual Profile Extraction Pilot (Claude multimodal vision)
 - **Date**: 2026-04-10
 - **Goal**: Expand PLM C(t) profile dataset beyond v0.5's 199 (of which ~25 are usable absorption-shape) to enable B1-style parametric output experiments.
@@ -785,8 +804,8 @@
 ### Successes: S1–S13
 S1 (table extraction), S2 (cleaning), S3 (ADME encoder), S4 (physchem), S5 (LLM extraction pipeline), S6 (unit normalization), S7 (info theory), S8 (NL-PK routing), S9 (external validation E1/E2/E3), S10 (retracted → S11), S11 (encoder replication), **S12/S12c (ChEMBL v12, current baseline, p=0.006)**, **S13 (UQ conformal prediction, 88.7% coverage)**
 
-### Failures: F1–F15
-F1 (DrugBank synthetic), F2 (MolFormer), F3 (Tanimoto retrieval), F4 (asymmetric loss), F5 (isotonic cal), F6 (PK-DB API), F7 (Tanimoto-gated ensemble), F8 (bioavailability feature), F9 (VLM re-digitization), F10 (ChEMBL conservative), F11 (DailyMed ADME merge), F12 (B1 NN half-life), F13 (B1 XGB half-life stacking), F14 (B2 Vd auxiliary), **F15 (adaptive conformal — difficulty not predictable from structure)**
+### Failures: F1–F16
+F1 (DrugBank synthetic), F2 (MolFormer), F3 (Tanimoto retrieval), F4 (asymmetric loss), F5 (isotonic cal), F6 (PK-DB API), F7 (Tanimoto-gated ensemble), F8 (bioavailability feature), F9 (VLM re-digitization), F10 (ChEMBL conservative), F11 (DailyMed ADME merge), F12 (B1 NN half-life), F13 (B1 XGB half-life stacking), F14 (B2 Vd auxiliary), F15 (adaptive conformal), **F16 (HP optimization + LightGBM + ensemble — all worse than hand-set baseline)**
 
 ### Informational: I1–I10
 I1 (LLM leakage), I2 (LLM+XGB ensemble), I3 (error correlation), I4 (ChEMBL audit), I5 (post-cutoff validation set), I6 (visual profile extraction), I7 (per-drug diagnostic), I8 (architectural exhaustion), I9 (data expansion audit), **I10 (public data source exhaustion)**
