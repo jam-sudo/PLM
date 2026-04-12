@@ -1,0 +1,38 @@
+{
+  "SSRI/SNRI": {
+    "n": 2,
+    "aafe": 7.87,
+    "worst": "paroxetine",
+    "worst_aafe": 8.05
+  },
+  "NSAID": {
+    "n": 1,
+    "aafe": 6.57,
+    "worst": "diclofenac",
+    "worst_aafe": 6.57
+  },
+  "Antiepileptic": {
+    "n": 2,
+    "aafe": 4.18,
+    "worst": "carbamazepine",
+    "worst_aafe": 6.67
+  },
+  "Antihypertensive": {
+    "n": 1,
+    "aafe": 3.32,
+    "worst": "losartan",
+    "worst_aafe": 3.32
+  },
+  "Steroid": {
+    "n": 1,
+    "aafe": 1.85,
+    "worst": "budesonide",
+    "worst_aafe": 1.85
+  },
+  "Statin": {
+    "n": 1,
+    "aafe": 1.31,
+    "worst": "pravastatin",
+    "worst_aafe": 1.31
+  }
+}
