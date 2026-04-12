@@ -399,6 +399,29 @@
 - **File**: `models/b1/b2_vd_stacked_results.json`, `models/plm_b2_vd_stacked.py`
 - **Status**: FAIL. B2 refuted. Plus broader conclusion: ADME auxiliary path (F11/B1/B2) is exhausted.
 
+### F15. S14 — Locally Adaptive Conformal Prediction (Difficulty Model)
+- **Date**: 2026-04-12
+- **Pre-registered hypothesis**: Difficulty model (features → |OOF residual|) enables locally adaptive conformal intervals with ≥85% coverage and narrower width than S13's fixed 2.18 log10.
+- **Method**: (1) OOF residuals from 2 seeds × 5-fold. (2) XGBoost difficulty model: features → |residual| (OOF to avoid overfit, n_est=100, max_depth=4). (3) Normalized scores = |residual| / σ̂(x). (4) Adaptive interval: ŷ ± q_norm × σ̂(x).
+- **Result**: **NULL.** Coverage 81.4% (below 85% target). Width reduction only 3.2%.
+
+| Group | Coverage | Width (log10) | AAFE | N |
+|---|---|---|---|---|
+| Easy (low σ̂) | **68.8%** | 1.54 | 3.51 | 32 |
+| Medium | 90.6% | 2.02 | 3.05 | 32 |
+| Hard (high σ̂) | 84.8% | 2.76 | 3.44 | 33 |
+
+- **Critical finding**: Spearman(σ̂, |actual error|) = **−0.014, p=0.89** — difficulty model completely fails on holdout. "Easy" drugs (low σ̂) have the WORST coverage (68.8%) — model is anti-calibrated.
+- **Why it failed**: OOF residual patterns in training chemical space don't transfer to holdout. The features that predict which training drugs are hard (specific scaffold/fingerprint patterns) are orthogonal to what makes holdout drugs hard (mechanism-specific ADME interactions not capturable from structure alone).
+- **Convergent evidence**: This is the 4th failed attempt at predicting per-drug difficulty:
+  1. I7: Tanimoto distance → error r=−0.088
+  2. S13: seed ensemble std → error r=0.138
+  3. S14: OOF difficulty model → error r=−0.014
+  4. F7: Tanimoto-gated ensemble → no pattern
+- **Conclusion**: **Per-drug prediction difficulty is not estimable from molecular features**. The error structure is mechanism-specific (CYP interactions, transporter biology, formulation) and lies outside the information content of Morgan FP + physchem descriptors. S13's fixed-width conformal (88.7% coverage, 2.18 log10) remains the best achievable UQ without mechanism-specific knowledge.
+- **File**: `models/b1/s14_adaptive_results.json`, `models/s14_adaptive_conformal.py`
+- **Status**: FAIL. Negative result confirming inherent limitation of structure-only prediction.
+
 ### I6. Visual Profile Extraction Pilot (Claude multimodal vision)
 - **Date**: 2026-04-10
 - **Goal**: Expand PLM C(t) profile dataset beyond v0.5's 199 (of which ~25 are usable absorption-shape) to enable B1-style parametric output experiments.
@@ -762,8 +785,8 @@
 ### Successes: S1–S13
 S1 (table extraction), S2 (cleaning), S3 (ADME encoder), S4 (physchem), S5 (LLM extraction pipeline), S6 (unit normalization), S7 (info theory), S8 (NL-PK routing), S9 (external validation E1/E2/E3), S10 (retracted → S11), S11 (encoder replication), **S12/S12c (ChEMBL v12, current baseline, p=0.006)**, **S13 (UQ conformal prediction, 88.7% coverage)**
 
-### Failures: F1–F14
-F1 (DrugBank synthetic), F2 (MolFormer), F3 (Tanimoto retrieval), F4 (asymmetric loss), F5 (isotonic cal), F6 (PK-DB API), F7 (Tanimoto-gated ensemble), F8 (bioavailability feature), F9 (VLM re-digitization), F10 (ChEMBL conservative), F11 (DailyMed ADME merge), F12 (B1 NN half-life), F13 (B1 XGB half-life stacking), F14 (B2 Vd auxiliary)
+### Failures: F1–F15
+F1 (DrugBank synthetic), F2 (MolFormer), F3 (Tanimoto retrieval), F4 (asymmetric loss), F5 (isotonic cal), F6 (PK-DB API), F7 (Tanimoto-gated ensemble), F8 (bioavailability feature), F9 (VLM re-digitization), F10 (ChEMBL conservative), F11 (DailyMed ADME merge), F12 (B1 NN half-life), F13 (B1 XGB half-life stacking), F14 (B2 Vd auxiliary), **F15 (adaptive conformal — difficulty not predictable from structure)**
 
 ### Informational: I1–I10
 I1 (LLM leakage), I2 (LLM+XGB ensemble), I3 (error correlation), I4 (ChEMBL audit), I5 (post-cutoff validation set), I6 (visual profile extraction), I7 (per-drug diagnostic), I8 (architectural exhaustion), I9 (data expansion audit), **I10 (public data source exhaustion)**
