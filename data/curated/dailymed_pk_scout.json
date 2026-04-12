@@ -1,0 +1,26 @@
+[
+  {
+    "cmax_ngml": 1804.0,
+    "unit_raw": "ng/mL",
+    "dose_mg": 400.0,
+    "context": "the plasma concentration time curve over the dosing interval (AUC tau ). The mean steady state levels are achieved within 15 days of daily dosing. The mean accumulation ratio ranged between 3- to 4-fo",
+    "drug_name": "fedratinib",
+    "in_v11": false
+  },
+  {
+    "cmax_ngml": 1252.0,
+    "unit_raw": "ng/mL",
+    "dose_mg": 100.0,
+    "context": "he dosing interval (AUC 0-Tau ). Steady-state plasma levels are reached by 8 days of daily dosing. The median accumulation ratio of glasdegib ranged from 1.2 to 2.5 following once-daily dosing. At DAU",
+    "drug_name": "glasdegib",
+    "in_v11": false
+  },
+  {
+    "cmax_ngml": 374.0,
+    "unit_raw": "ng/mL",
+    "dose_mg": 120.0,
+    "context": "eritinib 120 mg once daily, unless otherwise specified. Gilteritinib exposure (C max and AUC 24 ) increases proportionally with once daily doses ranging from 20 mg to 450 mg (0.17 to 3.75 times the re",
+    "drug_name": "gilteritinib",
+    "in_v11": false
+  }
+]

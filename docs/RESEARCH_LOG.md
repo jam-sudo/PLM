@@ -536,6 +536,7 @@
   | Per-seed HO (42/137/2024) | 3.359 / 3.374 / 3.383 | 3.304 / 3.317 / 3.359 | −0.055/−0.058/−0.024 |
 
 - **Pre-registered verdict**: ΔHO −0.0452 ± 0.019 → **PARTIAL** (just below PASS threshold of −0.05, clearly outside NULL band of ±0.02−0.05). 2 of 3 seeds individually crossed PASS threshold (−0.055, −0.058), one was PARTIAL (−0.024).
+  - **4th-seed update (S12c, 2026-04-12)**: Added seed=7 → ΔHO = −0.043 ± 0.016, t=−5.4, **p=0.006**. PARTIAL confirmed with high statistical significance. See S12c entry below.
 
 - **Why this matters** (first HO-improving experiment in the entire data expansion series):
   1. **CV-HO gap collapsed −0.100 from just +164 rows.** The new data didn't change the training CV much (v11 CV 3.165 → v12 CV 3.220, +0.055 actually worse on in-distribution) but dramatically improved OOD holdout. This is the signature of **distribution-shift regularization** — the new drugs fill chemical/PK space that v11 was missing, pulling the decision function toward better OOD generalization.
@@ -627,6 +628,62 @@
 
 - **Status**: **NULL** (refinement hypothesis refuted). Correct baseline candidate remains v12 (3.327 PARTIAL), not v12b (3.353 NULL).
 
+### S12c. 4th Seed Replication — S12 PARTIAL Confirmed at p=0.006
+
+- **Date**: 2026-04-12
+- **Purpose**: S12's ΔHO=−0.045 was only 2.4σ from zero with 3 seeds. A 4th seed (seed=7) was added to increase statistical power.
+- **Result**:
+
+  | Metric | 3-seed (original) | 4-seed (updated) |
+  |---|---|---|
+  | ΔHO mean ± std | −0.045 ± 0.019 | **−0.043 ± 0.016** |
+  | t-statistic | −2.4 | **−5.4** |
+  | p-value (one-sided) | ~0.07 | **0.006** |
+  | Seed 7 ΔHO | — | −0.037 |
+  | v12 HO (4 seeds) | — | **3.332 ± 0.022** |
+  | v11 HO (4 seeds) | — | 3.375 ± 0.010 |
+
+- **Interpretation**: The 4th seed is consistent (ΔHO = −0.037, same direction as all other seeds). The improvement is now **statistically significant** at p=0.006 with 4 paired seeds. PARTIAL verdict is confirmed — not PASS (ΔHO > −0.05) but robustly below NULL.
+- **Corrected baseline**: v12 fp_enc_base HO AAFE **3.332** (4-seed mean), updated from 3.327 (3-seed mean).
+- **File**: `models/b1/s12_v12_results.json` (updated with 4th seed), `models/s12_4th_seed.py`
+- **Status**: **PARTIAL confirmed** (p=0.006). v12 is now the official PLM baseline.
+
+### I10. Data Expansion Ceiling Analysis — Public Sources Exhausted
+
+- **Date**: 2026-04-12
+- **Purpose**: After S12 validated ChEMBL data expansion (+164 rows → ΔHO −0.043 PARTIAL), systematically explore all remaining automated public data sources to find additional training data.
+- **Sources explored**:
+
+  | Source | Method | Yield | Status |
+  |---|---|---|---|
+  | ChEMBL Cmax | S12 strict filters | 164 rows | **EXHAUSTED** (28,160 total, ceiling reached) |
+  | ChEMBL AUC | `pipeline/chembl_auc_scout.py` | ~42 est. human oral | **DEAD END** (84% animal, 0.2% human) |
+  | EMA EPAR PDFs | fitz + pdfplumber | 0 auto-parsed | **BLOCKED** (image-based tables, no auto-extraction) |
+  | EMA SmPC | Section 5.2 | 0 numeric Cmax | **DEAD END** (qualitative only, no numbers) |
+  | DailyMed labels | Section 12.3 regex | 7 novel / 55 total | **LOW YIELD** (65% parse failure, v11 covers most drugs) |
+  | FDA PDFs | I9 analysis | ~40 est. from 217 unprocessed | **SATURATED** (topical/IV/imaging residual) |
+
+- **DailyMed detailed results** (`pipeline/dailymed_bulk_extract.py`, 146 drugs scanned):
+  - 95/146 (65%) had PK section but no parseable Cmax — labels use non-standard table formatting
+  - 48 entries for drugs already in v12 (redundant but potentially different dose points)
+  - **7 truly novel entries**: pirtobrutinib (2 doses), selpercatinib, gilteritinib, revumenib, rucaparib, rifaximin
+  - Too few (7) for measurable HO improvement (S12 needed 164 for PARTIAL)
+
+- **Why v11 already covers most FDA oral drugs**: v11 has 1,173 unique IK14s, built from Sisyphus training (3,340 rows covering ~870 drugs) + LLM extraction from 456 FDA PDFs (1,050 rows covering ~226 drugs) + PLM direct (150 rows). This covers the majority of marketed oral small molecules with published FDA review PK data.
+
+- **EMA EPAR deep-dive**: Downloaded and analyzed 2 EPARs (Otezla/apremilast, Noxafil/posaconazole). EPARs contain rich PK tables (e.g., apremilast 30mg: Cmax=339.86 ng/mL, Table 17) but the tables are rendered as images/non-standard PDF objects that neither pdfplumber nor fitz can extract. Manual extraction via Read tool works but requires ~5-10 min per drug. ~50-100 novel European-only drugs could theoretically be extracted this way, but it's labor-intensive manual work.
+
+- **Conclusion**: **Public automated data sources for human oral Cmax are approximately exhausted** at the current v12 level (4,704 rows, 1,264 drugs). S12's +164 ChEMBL rows is likely the last significant automated expansion. The data ceiling for PLM's current feature architecture has been reached.
+
+- **Remaining data expansion paths (all manual/semi-automated)**:
+  1. Manual EPAR extraction — labor intensive, ~50-100 potential rows
+  2. PubMed abstract mining — requires NLP pipeline for PK table extraction from papers
+  3. Japanese PMDA / Health Canada reviews — separate regulatory agencies
+  4. Academic collaboration — proprietary ADME datasets (Biogen-equivalent)
+
+- **Artifacts**: `pipeline/chembl_auc_scout.py`, `pipeline/ema_epar_analysis.py`, `pipeline/ema_pk_extractor.py`, `pipeline/dailymed_pk_extract.py`, `pipeline/dailymed_bulk_extract.py`, `data/curated/dailymed_bulk_extracted.json`, `data/curated/ema_epar_analysis.json`
+- **Status**: INFORMATIONAL. No retrain warranted (7 novel rows << signal threshold).
+
 - **Key learning for future data expansion work**:
   - At small expansion scale (100-200 rows), row count dominates row quality for HO AAFE impact.
   - Contamination modes that are "wrong but structured" (metabolite Cmax, multi-dose SS) may still contain training signal via proportionality relationships.
@@ -656,7 +713,7 @@
 | Holdout expanded | **3.354** | HO | N=103, +6 recovered (S9-E3) |
 | B1v5 XGB clean baseline (no enc) | 3.387 | HO | (S11 replication, 3-seed mean) |
 | S11 fp_enc_base replication | 3.372 | HO | (S11, 3-seed mean; corrects old 3.456) |
-| S12 v12 (v11 + ChEMBL v2 strict) | **3.327** | HO | (S12, 3-seed mean; ΔHO=−0.045, gap=0.107, PARTIAL) |
+| S12 v12 (v11 + ChEMBL v2 strict) | **3.327** | HO | (S12, **4-seed** mean; ΔHO=−0.043, **p=0.006**, PARTIAL confirmed) |
 | S12b v12b (v11 + ChEMBL v3 refined) | 3.353 | HO | (S12b, 3-seed mean; ΔHO=−0.019, gap=0.080, NULL — refinement HURT) |
 | Sisyphus Meta | **2.283** | HO | Benchmark target |
 

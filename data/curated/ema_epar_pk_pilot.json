@@ -1,0 +1,105 @@
+{
+  "source": "EMA EPAR extraction (pilot)",
+  "n_entries": 9,
+  "entries": [
+    {
+      "drug_name": "posaconazole",
+      "dose_mg": 400.0,
+      "cmax_ngml": 31.0,
+      "condition": "fasted",
+      "source": "noxafil_scientific.pdf:p17",
+      "n_subjects": null,
+      "tmax_h": null,
+      "half_life_h": null,
+      "auc_nghr_ml": null
+    },
+    {
+      "drug_name": "posaconazole",
+      "dose_mg": 400.0,
+      "cmax_ngml": 72.0,
+      "condition": "fasted",
+      "source": "noxafil_scientific.pdf:p17",
+      "n_subjects": null,
+      "tmax_h": null,
+      "half_life_h": null,
+      "auc_nghr_ml": null
+    },
+    {
+      "drug_name": "apremilast",
+      "dose_mg": 30.0,
+      "cmax_ngml": 500.0,
+      "condition": "unknown",
+      "source": "otezla_epar.pdf:p30",
+      "n_subjects": null,
+      "tmax_h": null,
+      "half_life_h": null,
+      "auc_nghr_ml": null
+    },
+    {
+      "drug_name": "apremilast",
+      "dose_mg": 30.0,
+      "cmax_ngml": 1000.0,
+      "condition": "unknown",
+      "source": "otezla_epar.pdf:p30",
+      "n_subjects": null,
+      "tmax_h": null,
+      "half_life_h": null,
+      "auc_nghr_ml": null
+    },
+    {
+      "drug_name": "apremilast",
+      "dose_mg": 30.0,
+      "cmax_ngml": 5.5,
+      "condition": "unknown",
+      "source": "otezla_epar.pdf:p78",
+      "n_subjects": null,
+      "tmax_h": null,
+      "half_life_h": null,
+      "auc_nghr_ml": null
+    },
+    {
+      "drug_name": "apremilast",
+      "dose_mg": 30.0,
+      "cmax_ngml": 19.49,
+      "condition": "unknown",
+      "source": "otezla_epar.pdf:p78",
+      "n_subjects": null,
+      "tmax_h": null,
+      "half_life_h": null,
+      "auc_nghr_ml": null
+    },
+    {
+      "drug_name": "apremilast",
+      "dose_mg": 30.0,
+      "cmax_ngml": 5.0,
+      "condition": "unknown",
+      "source": "otezla_epar.pdf:p79",
+      "n_subjects": null,
+      "tmax_h": null,
+      "half_life_h": null,
+      "auc_nghr_ml": null
+    },
+    {
+      "drug_name": "apremilast",
+      "dose_mg": 30.0,
+      "cmax_ngml": 90.0,
+      "condition": "unknown",
+      "source": "otezla_epar.pdf:p79",
+      "n_subjects": null,
+      "tmax_h": null,
+      "half_life_h": null,
+      "auc_nghr_ml": null
+    },
+    {
+      "drug_name": "apremilast",
+      "dose_mg": 30.0,
+      "cmax_ngml": 100.0,
+      "condition": "unknown",
+      "source": "otezla_epar.pdf:p88",
+      "n_subjects": null,
+      "tmax_h": null,
+      "half_life_h": null,
+      "auc_nghr_ml": null
+    }
+  ]
+}

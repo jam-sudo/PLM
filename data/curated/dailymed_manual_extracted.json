@@ -1,0 +1,204 @@
+{
+  "entries": [
+    {
+      "drug_name": "pirtobrutinib",
+      "smiles": "C[C@@H](C(F)(F)F)N1C(=C(C(=N1)C2=CC=C(C=C2)CNC(=O)C3=C(C=CC(=C3)F)OC)C(=O)N)N",
+      "ik": "FWZAWAUZXYCBKZ",
+      "dose_mg": 200,
+      "cmax_ngml": 3670,
+      "log_cd": 1.2636,
+      "src": "DailyMed_S13",
+      "notes": "SS 200mg QD",
+      "is_novel": true
+    },
+    {
+      "drug_name": "gilteritinib",
+      "smiles": "CCC1=C(N=C(C(=N1)C(=O)N)NC2=CC(=C(C=C2)N3CCC(CC3)N4CCN(CC4)C)OC)NC5CCOCC5",
+      "ik": "GYQYAJJFPNQOOW",
+      "dose_mg": 120,
+      "cmax_ngml": 374,
+      "log_cd": 0.4937,
+      "src": "DailyMed_S13",
+      "notes": "SD 120mg",
+      "is_novel": true
+    },
+    {
+      "drug_name": "rucaparib",
+      "smiles": "CNCC1=CC=C(C=C1)C2=C3CCNC(=O)C4=C3C(=CC(=C4)F)N2",
+      "ik": "HMABYWSNWIZPAG",
+      "dose_mg": 240,
+      "cmax_ngml": 1940,
+      "log_cd": 0.9076,
+      "src": "DailyMed_S13",
+      "notes": "SD 240mg",
+      "is_novel": true
+    },
+    {
+      "drug_name": "repotrectinib",
+      "smiles": "C[C@H]1CNC(=O)C2=C3N=C(C=CN3N=C2)N[C@@H](C4=C(O1)C=CC(=C4)F)C",
+      "ik": "FIKPXCOQUIZNHB",
+      "dose_mg": 160,
+      "cmax_ngml": 713,
+      "log_cd": 0.649,
+      "src": "DailyMed_S13",
+      "notes": "SS 160mg BID",
+      "is_novel": true
+    },
+    {
+      "drug_name": "omadacycline",
+      "smiles": "CC(C)(C)CNCC1=CC(=C2C[C@H]3C[C@H]4[C@@H](C(=O)C(=C([C@]4(C(=O)C3=C(C2=C1O)O)O)O)C(=O)N)N(C)C)N(C)C",
+      "ik": "VJYKVCURWJGLPG",
+      "dose_mg": 300,
+      "cmax_ngml": 548,
+      "log_cd": 0.2617,
+      "src": "DailyMed_S13",
+      "notes": "SD 300mg oral",
+      "is_novel": true
+    },
+    {
+      "drug_name": "futibatinib",
+      "smiles": "COC1=CC(=CC(=C1)C#CC2=NN(C3=NC=NC(=C23)N)[C@H]4CCN(C4)C(=O)C=C)OC",
+      "ik": "KEIPNCCJPRMIAX",
+      "dose_mg": 20,
+      "cmax_ngml": 144,
+      "log_cd": 0.8573,
+      "src": "DailyMed_S13",
+      "notes": "SS 20mg QD",
+      "is_novel": false
+    },
+    {
+      "drug_name": "axitinib",
+      "smiles": "CNC(=O)C1=CC=CC=C1SC2=CC3=C(C=C2)C(=NN3)/C=C/C4=CC=CC=N4",
+      "ik": "RITAVMQDGBJQJZ",
+      "dose_mg": 5,
+      "cmax_ngml": 27.8,
+      "log_cd": 0.7451,
+      "src": "DailyMed_S13",
+      "notes": "SS 5mg BID",
+      "is_novel": false
+    },
+    {
+      "drug_name": "vemurafenib",
+      "smiles": "CCCS(=O)(=O)NC1=C(C(=C(C=C1)F)C(=O)C2=CNC3=C2C=C(C=N3)C4=CC=C(C=C4)Cl)F",
+      "ik": "GPXBXXGIAQBQNI",
+      "dose_mg": 960,
+      "cmax_ngml": 62000,
+      "log_cd": 1.8101,
+      "src": "DailyMed_S13",
+      "notes": "SS 960mg BID",
+      "is_novel": false
+    },
+    {
+      "drug_name": "niraparib",
+      "smiles": "C1C[C@H](CNC1)C2=CC=C(C=C2)N3C=C4C=CC=C(C4=N3)C(=O)N",
+      "ik": "PCHKPVIQAHNQLW",
+      "dose_mg": 300,
+      "cmax_ngml": 603,
+      "log_cd": 0.3032,
+      "src": "DailyMed_S13",
+      "notes": "QD 300mg",
+      "is_novel": false
+    },
+    {
+      "drug_name": "venetoclax",
+      "smiles": "CC1(CCC(=C(C1)C2=CC=C(C=C2)Cl)CN3CCN(CC3)C4=CC(=C(C=C4)C(=O)NS(=O)(=O)C5=CC(=C(C=C5)NCC6CCOCC6)[N+](=O)[O-])OC7=CN=C8C(=C7)C=CN8)C",
+      "ik": "LQBVNQSMGBZMKD",
+      "dose_mg": 400,
+      "cmax_ngml": 2100,
+      "log_cd": 0.7202,
+      "src": "DailyMed_S13",
+      "notes": "SS 400mg QD",
+      "is_novel": false
+    },
+    {
+      "drug_name": "vericiguat",
+      "smiles": "COC(=O)NC1=C(N=C(N=C1N)C2=NN(C3=C2C=C(C=N3)F)CC4=CC=CC=C4F)N",
+      "ik": "QZFHIXARHDBPBY",
+      "dose_mg": 10,
+      "cmax_ngml": 350,
+      "log_cd": 1.5441,
+      "src": "DailyMed_S13",
+      "notes": "SS 10mg QD",
+      "is_novel": false
+    },
+    {
+      "drug_name": "avacopan",
+      "smiles": "CC1=C(C(=CC=C1)F)C(=O)N2CCC[C@@H]([C@@H]2C3=CC=C(C=C3)NC4CCCC4)C(=O)NC5=CC(=C(C=C5)C)C(F)(F)F",
+      "ik": "PUKBOVABABRILL",
+      "dose_mg": 30,
+      "cmax_ngml": 349,
+      "log_cd": 1.0657,
+      "src": "DailyMed_S13",
+      "notes": "SS 30mg BID",
+      "is_novel": false
+    },
+    {
+      "drug_name": "bedaquiline",
+      "smiles": "CN(C)CC[C@@](C1=CC=CC2=CC=CC=C21)([C@H](C3=CC=CC=C3)C4=C(N=C5C=CC(=CC5=C4)Br)OC)O",
+      "ik": "QUIJNHUBAXPXFS",
+      "dose_mg": 400,
+      "cmax_ngml": 3060,
+      "log_cd": 0.8837,
+      "src": "DailyMed_S13",
+      "notes": "Week 2 400mg QD",
+      "is_novel": false
+    },
+    {
+      "drug_name": "idelalisib",
+      "smiles": "CC[C@@H](C1=NC2=C(C(=CC=C2)F)C(=O)N1C3=CC=CC=C3)NC4=NC=NC5=C4NC=N5",
+      "ik": "IFSDAJWBUCMOAH",
+      "dose_mg": 150,
+      "cmax_ngml": 1861,
+      "log_cd": 1.0937,
+      "src": "DailyMed_S13",
+      "notes": "SS 150mg BID",
+      "is_novel": false
+    },
+    {
+      "drug_name": "ozanimod",
+      "smiles": "CC(C)OC1=C(C=C(C=C1)C2=NC(=NO2)C3=C4CC[C@@H](C4=CC=C3)NCCO)C#N",
+      "ik": "XRVDGNKRPOAQTN",
+      "dose_mg": 0.92,
+      "cmax_ngml": 0.244,
+      "log_cd": -0.5764,
+      "src": "DailyMed_S13",
+      "notes": "SS 0.92mg QD",
+      "is_novel": false
+    },
+    {
+      "drug_name": "vorinostat",
+      "smiles": "C1=CC=C(C=C1)NC(=O)CCCCCCC(=O)NO",
+      "ik": "WAEXFXRVDQXREF",
+      "dose_mg": 400,
+      "cmax_ngml": 317,
+      "log_cd": -0.101,
+      "src": "DailyMed_S13",
+      "notes": "SD 400mg, from \u00b5M",
+      "is_novel": false
+    },
+    {
+      "drug_name": "entrectinib",
+      "smiles": "CN1CCN(CC1)C2=CC(=C(C=C2)C(=O)NC3=NNC4=C3C=C(C=C4)CC5=CC(=CC(=C5)F)F)NC6CCOCC6",
+      "ik": "HAYYBYPASCDWEQ",
+      "dose_mg": 600,
+      "cmax_ngml": 1261,
+      "log_cd": 0.3226,
+      "src": "DailyMed_S13",
+      "notes": "SD 600mg, from nM",
+      "is_novel": false
+    },
+    {
+      "drug_name": "pemigatinib",
+      "smiles": "CCN1C2=C3C=C(NC3=NC=C2CN(C1=O)C4=C(C(=CC(=C4F)OC)OC)F)CN5CCOCC5",
+      "ik": "HCDMJFOHIXMBOV",
+      "dose_mg": 13.5,
+      "cmax_ngml": 115,
+      "log_cd": 0.9304,
+      "src": "DailyMed_S13",
+      "notes": "SS 13.5mg QD, from nM",
+      "is_novel": false
+    }
+  ],
+  "novel": 5,
+  "existing_new_dose": 13
+}

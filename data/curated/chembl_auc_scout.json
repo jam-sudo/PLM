@@ -1,0 +1,27 @@
+{
+  "auc_type_counts": {
+    "AUC": 42434,
+    "AUClast": 206
+  },
+  "total_auc_records": 42640,
+  "sample_size": 2000,
+  "unit_distribution": {
+    "ng.hr.mL-1": 1450,
+    "null": 285,
+    "uM": 90,
+    "ug ml-1": 31,
+    "%": 24,
+    "ug hr uM-1": 23,
+    "mg hr-1 kg-1": 20,
+    "nM hr ml": 18,
+    "uM L": 9,
+    "0-24hr": 8
+  },
+  "description_stats": {
+    "has_desc": 2000,
+    "animal": 1682,
+    "human": 4,
+    "oral": 1230,
+    "ambiguous": 314
+  }
+}

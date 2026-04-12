@@ -1,0 +1,529 @@
+{
+  "total_catalog": 2679,
+  "oral_small_molecules": 65,
+  "overlap_v11": 0,
+  "novel": 65,
+  "novel_drugs": [
+    {
+      "active_substance": "nevirapine",
+      "inn": "nevirapine",
+      "group": "Antivirals for systemic use",
+      "area": "HIV Infections",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/viramune",
+      "product_number": "EMEA/H/C/000183"
+    },
+    {
+      "active_substance": "deutivacaftor;tezacaftor;vanzacaftor calcium dihydrate",
+      "inn": "deutivacaftor / tezacaftor / vanzacaftor",
+      "group": "Other respiratory system products",
+      "area": "Cystic Fibrosis",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/alyftrek",
+      "product_number": "EMEA/H/C/006382"
+    },
+    {
+      "active_substance": "posaconazole",
+      "inn": "posaconazole",
+      "group": "Triazole and triazole derivatives",
+      "area": "Candidiasis;Mycoses;Coccidioidomycosis;Aspergillosis",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/noxafil",
+      "product_number": "EMEA/H/C/000610"
+    },
+    {
+      "active_substance": "ivacaftor;tezacaftor;elexacaftor",
+      "inn": "ivacaftor;tezacaftor;elexacaftor",
+      "group": "Other respiratory system products",
+      "area": "Cystic Fibrosis",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kaftrio",
+      "product_number": "EMEA/H/C/005269"
+    },
+    {
+      "active_substance": "metformin hydrochloride;dapagliflozin propanediol monohydrate",
+      "inn": "dapagliflozin;metformin",
+      "group": "Drugs used in diabetes;Combinations of oral blood glucose lowering drugs",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xigduo",
+      "product_number": "EMEA/H/C/002672"
+    },
+    {
+      "active_substance": "cangrelor",
+      "inn": "cangrelor",
+      "group": "Antithrombotic agents",
+      "area": "Acute Coronary Syndrome;Vascular Surgical Procedures",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kengrexal",
+      "product_number": "EMEA/H/C/003773"
+    },
+    {
+      "active_substance": "estetrol monohydrate;drospirenone",
+      "inn": "estetrol;drospirenone",
+      "group": "Sex hormones and modulators of the genital system",
+      "area": "Contraceptives, Oral",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lydisilka",
+      "product_number": "EMEA/H/C/005382"
+    },
+    {
+      "active_substance": "drospirenone;estetrol monohydrate",
+      "inn": "estetrol;drospirenone",
+      "group": "Sex hormones and modulators of the genital system",
+      "area": "Contraceptives, Oral",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/drovelis",
+      "product_number": "EMEA/H/C/005336"
+    },
+    {
+      "active_substance": "apremilast",
+      "inn": "apremilast",
+      "group": "Immunosuppressants",
+      "area": "Arthritis, Psoriatic;Psoriasis;Behcet Syndrome",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/otezla",
+      "product_number": "EMEA/H/C/003746"
+    },
+    {
+      "active_substance": "olanzapine",
+      "inn": "olanzapine",
+      "group": "Psycholeptics",
+      "area": "Schizophrenia;Bipolar Disorder",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zyprexa",
+      "product_number": "EMEA/H/C/000115"
+    },
+    {
+      "active_substance": "bempedoic acid;ezetimibe",
+      "inn": "bempedoic acid;ezetimibe",
+      "group": "Lipid modifying agents",
+      "area": "Hypercholesterolemia;Dyslipidemias",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nustendi",
+      "product_number": "EMEA/H/C/004959"
+    },
+    {
+      "active_substance": "lenacapavir sodium",
+      "inn": "lenacapavir",
+      "group": "Antivirals for systemic use",
+      "area": "HIV Infections;HIV-1",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/yeytuo",
+      "product_number": "EMEA/H/C/006658"
+    },
+    {
+      "active_substance": "lenacapavir sodium",
+      "inn": "lenacapavir",
+      "group": "Antivirals for systemic use",
+      "area": "HIV Infections",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sunlenca",
+      "product_number": "EMEA/H/C/005638"
+    },
+    {
+      "active_substance": "olanzapine pamoate",
+      "inn": "olanzapine",
+      "group": "Psycholeptics",
+      "area": "Schizophrenia",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zypadhera",
+      "product_number": "EMEA/H/C/000890"
+    },
+    {
+      "active_substance": "macitentan;tadalafil",
+      "inn": "macitentan;tadalafil",
+      "group": "Antihypertensives",
+      "area": "Pulmonary Arterial Hypertension",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/yuvanci",
+      "product_number": "EMEA/H/C/005001"
+    },
+    {
+      "active_substance": "miglustat",
+      "inn": "miglustat",
+      "group": "Other alimentary tract and metabolism products",
+      "area": "Gaucher Disease;Niemann-Pick Diseases",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zavesca",
+      "product_number": "EMEA/H/C/000435"
+    },
+    {
+      "active_substance": "topotecan",
+      "inn": "topotecan",
+      "group": "Antineoplastic agents",
+      "area": "Ovarian Neoplasms;Uterine Cervical Neoplasms;Small Cell Lung Carcinoma",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/hycamtin",
+      "product_number": "EMEA/H/C/000123"
+    },
+    {
+      "active_substance": "fentanyl",
+      "inn": "fentanyl",
+      "group": "Analgesics",
+      "area": "Pain;Cancer",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/effentora",
+      "product_number": "EMEA/H/C/000833"
+    },
+    {
+      "active_substance": "tezacaftor;ivacaftor",
+      "inn": "tezacaftor;ivacaftor",
+      "group": "Other respiratory system products",
+      "area": "Cystic Fibrosis",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/symkevi",
+      "product_number": "EMEA/H/C/004682"
+    },
+    {
+      "active_substance": "vildagliptin;metformin hydrochloride",
+      "inn": "vildagliptin;metformin",
+      "group": "Drugs used in diabetes;Combinations of oral blood glucose lowering drugs",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/eucreas",
+      "product_number": "EMEA/H/C/000807"
+    },
+    {
+      "active_substance": "vildagliptin;metformin hydrochloride",
+      "inn": "vildagliptin;metformin",
+      "group": "Drugs used in diabetes;Combinations of oral blood glucose lowering drugs",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/icandra",
+      "product_number": "EMEA/H/C/001050"
+    },
+    {
+      "active_substance": "vildagliptin;metformin hydrochloride",
+      "inn": "vildagliptin;metformin",
+      "group": "Drugs used in diabetes",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zomarist",
+      "product_number": "EMEA/H/C/001049"
+    },
+    {
+      "active_substance": "sitagliptin",
+      "inn": "sitagliptin",
+      "group": "Drugs used in diabetes",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xelevia",
+      "product_number": "EMEA/H/C/000762"
+    },
+    {
+      "active_substance": "sitagliptin",
+      "inn": "sitagliptin",
+      "group": "Drugs used in diabetes",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tesavel",
+      "product_number": "EMEA/H/C/000910"
+    },
+    {
+      "active_substance": "ertugliflozin l-pyroglutamic acid;sitagliptin phosphate monohydrate",
+      "inn": "ertugliflozin;sitagliptin",
+      "group": "Drugs used in diabetes;Combinations of oral blood glucose lowering drugs",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/steglujan",
+      "product_number": "EMEA/H/C/004313"
+    },
+    {
+      "active_substance": "ertugliflozin l-pyroglutamic acid;metformin hydrochloride",
+      "inn": "ertugliflozin;metformin hydrochloride",
+      "group": "Drugs used in diabetes;Combinations of oral blood glucose lowering drugs",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/segluromet",
+      "product_number": "EMEA/H/C/004314"
+    },
+    {
+      "active_substance": "empagliflozin;metformin",
+      "inn": "empagliflozin;metformin",
+      "group": "Drugs used in diabetes",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/synjardy",
+      "product_number": "EMEA/H/C/003770"
+    },
+    {
+      "active_substance": "tenofovir disoproxil fumarate",
+      "inn": "tenofovir disoproxil",
+      "group": "Antivirals for systemic use",
+      "area": "Hepatitis B, Chronic;HIV Infections",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/viread",
+      "product_number": "EMEA/H/C/000419"
+    },
+    {
+      "active_substance": "temozolomide",
+      "inn": "temozolomide",
+      "group": "Antineoplastic agents",
+      "area": "Glioma",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/temodal",
+      "product_number": "EMEA/H/C/000229"
+    },
+    {
+      "active_substance": "sitagliptin",
+      "inn": "sitagliptin",
+      "group": "Drugs used in diabetes",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/januvia",
+      "product_number": "EMEA/H/C/000722"
+    },
+    {
+      "active_substance": "sitagliptin",
+      "inn": "sitagliptin",
+      "group": "Drugs used in diabetes",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ristaben",
+      "product_number": "EMEA/H/C/001234"
+    },
+    {
+      "active_substance": "Lumacaftor;ivacaftor",
+      "inn": "lumacaftor;ivacaftor",
+      "group": "Other respiratory system products",
+      "area": "Cystic Fibrosis",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/orkambi",
+      "product_number": "EMEA/H/C/003954"
+    },
+    {
+      "active_substance": "cabotegavir sodium;cabotegravir",
+      "inn": "cabotegravir",
+      "group": "Antivirals for systemic use",
+      "area": "HIV Infections",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vocabria",
+      "product_number": "EMEA/H/C/004976"
+    },
+    {
+      "active_substance": "aripiprazole",
+      "inn": "aripiprazole",
+      "group": "Psycholeptics",
+      "area": "Schizophrenia",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/abilify-maintena",
+      "product_number": "EMEA/H/C/002755"
+    },
+    {
+      "active_substance": "aprepitant",
+      "inn": "aprepitant",
+      "group": "Antiemetics and antinauseants",
+      "area": "Vomiting;Postoperative Nausea and Vomiting;Cancer",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/emend",
+      "product_number": "EMEA/H/C/000527"
+    },
+    {
+      "active_substance": "risperidone",
+      "inn": "risperidone",
+      "group": "Psycholeptics",
+      "area": "Schizophrenia",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/okedi",
+      "product_number": "EMEA/H/C/005406"
+    },
+    {
+      "active_substance": "glycine,L-alanine,L-arginine,L-aspartic acid,L-cysteine hydrochloride monohydrate,L-histidine,L-methionine,L-phenylalanine,L-proline,L-serine,L-threonine,L-tryptophan,L-tyrosine,L-glutamic acid,L-lysine monohydrate,taurine",
+      "inn": "amino acids",
+      "group": "Blood substitutes and perfusion solutions",
+      "area": "Maple Syrup Urine Disease",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/maapliv",
+      "product_number": "EMEA/H/C/005557"
+    },
+    {
+      "active_substance": "sildenafil",
+      "inn": "sildenafil",
+      "group": "Urologicals",
+      "area": "Hypertension, Pulmonary",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/revatio",
+      "product_number": "EMEA/H/C/000638"
+    },
+    {
+      "active_substance": "Mirabegron",
+      "inn": "mirabegron",
+      "group": "Urologicals",
+      "area": "Urinary Bladder, Overactive",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/betmiga",
+      "product_number": "EMEA/H/C/002388"
+    },
+    {
+      "active_substance": "bupivacaine",
+      "inn": "bupivacaine",
+      "group": "Amides;Anesthetics, local",
+      "area": "Acute Pain",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/exparel-liposomal",
+      "product_number": "EMEA/H/C/004586"
+    },
+    {
+      "active_substance": "Fentanyl citrate",
+      "inn": "fentanyl",
+      "group": "Analgesics",
+      "area": "Pain;Cancer",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/instanyl",
+      "product_number": "EMEA/H/C/000959"
+    },
+    {
+      "active_substance": "etanercept",
+      "inn": "etanercept",
+      "group": "Immunosuppressants",
+      "area": "Spondylitis, Ankylosing;Arthritis, Juvenile Rheumatoid;Arthritis, Psoriatic;Psoriasis;Arthritis, Rheumatoid",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/enbrel",
+      "product_number": "EMEA/H/C/000262"
+    },
+    {
+      "active_substance": "bexarotene",
+      "inn": "bexarotene",
+      "group": "Antineoplastic agents",
+      "area": "Lymphoma, T-Cell, Cutaneous",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/targretin",
+      "product_number": "EMEA/H/C/000326"
+    },
+    {
+      "active_substance": "ivacaftor",
+      "inn": "ivacaftor",
+      "group": "Other respiratory system products",
+      "area": "Cystic Fibrosis",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kalydeco",
+      "product_number": "EMEA/H/C/002494"
+    },
+    {
+      "active_substance": "isavuconazole",
+      "inn": "isavuconazole",
+      "group": "Antimycotics for systemic use;Triazole and triazole derivatives",
+      "area": "Aspergillosis",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cresemba",
+      "product_number": "EMEA/H/C/002734"
+    },
+    {
+      "active_substance": "C1 inhibitor (human)",
+      "inn": "C1 inhibitor (human)",
+      "group": "c1-inhibitor, plasma derived;Drugs used in hereditary angioedema",
+      "area": "Angioedemas, Hereditary",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cinryze",
+      "product_number": "EMEA/H/C/001207"
+    },
+    {
+      "active_substance": "canagliflozin;metformin hydrochloride",
+      "inn": "canagliflozin;metformin",
+      "group": "Drugs used in diabetes",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vokanamet",
+      "product_number": "EMEA/H/C/002656"
+    },
+    {
+      "active_substance": "metformin hydrochloride;saxagliptin hydrochloride",
+      "inn": "saxagliptin;metformin hydrochloride",
+      "group": "Drugs used in diabetes;Combinations of oral blood glucose lowering drugs",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/komboglyze",
+      "product_number": "EMEA/H/C/002059"
+    },
+    {
+      "active_substance": "telmisartan;amlodipine",
+      "inn": "telmisartan;amlodipine",
+      "group": "Agents acting on the renin-angiotensin system",
+      "area": "Hypertension",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/twynsta",
+      "product_number": "EMEA/H/C/001224"
+    },
+    {
+      "active_substance": "pioglitazone;metformin hydrochloride",
+      "inn": "pioglitazone;metformin",
+      "group": "Drugs used in diabetes",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/competact",
+      "product_number": "EMEA/H/C/000655"
+    },
+    {
+      "active_substance": "tedizolid",
+      "inn": "tedizolid phosphate",
+      "group": "Antibacterials for systemic use;Other antibacterials",
+      "area": "Soft Tissue Infections;Skin Diseases, Bacterial",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sivextro",
+      "product_number": "EMEA/H/C/002846"
+    },
+    {
+      "active_substance": "spheroids of human autologous matrix-associated chondrocytes",
+      "inn": "spheroids of human autologous matrix-associated chondrocytes",
+      "group": "Other drugs for disorders of the musculo-skeletal system",
+      "area": "Cartilage Diseases",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/spherox",
+      "product_number": "EMEA/H/C/002736"
+    },
+    {
+      "active_substance": "nomegestrol acetate;estradiol",
+      "inn": "nomegestrol;estradiol",
+      "group": "Sex hormones and modulators of the genital system",
+      "area": "Contraception",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zoely",
+      "product_number": "EMEA/H/C/001213"
+    },
+    {
+      "active_substance": "exenatide",
+      "inn": "exenatide",
+      "group": "Drugs used in diabetes",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bydureon",
+      "product_number": "EMEA/H/C/002020"
+    },
+    {
+      "active_substance": "exenatide",
+      "inn": "exenatide",
+      "group": "Drugs used in diabetes",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/byetta",
+      "product_number": "EMEA/H/C/000698"
+    },
+    {
+      "active_substance": "methotrexate",
+      "inn": "methotrexate",
+      "group": "Antineoplastic agents",
+      "area": "Arthritis, Psoriatic;Precursor Cell Lymphoblastic Leukemia-Lymphoma;Psoriasis;Arthritis, Rheumatoid;Arthritis",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/jylamvo",
+      "product_number": "EMEA/H/C/003756"
+    },
+    {
+      "active_substance": "atazanavir (as sulfate)",
+      "inn": "atazanavir sulfate",
+      "group": "Antivirals for systemic use",
+      "area": "HIV Infections",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/reyataz",
+      "product_number": "EMEA/H/C/000494"
+    },
+    {
+      "active_substance": "fidaxomicin",
+      "inn": "fidaxomicin",
+      "group": "Antidiarrheals, intestinal antiinflammatory / antiinfective agents",
+      "area": "Clostridium Infections",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dificlir",
+      "product_number": "EMEA/H/C/002087"
+    },
+    {
+      "active_substance": "ibandronic acid",
+      "inn": "ibandronic acid",
+      "group": "Drugs for treatment of bone diseases",
+      "area": "Osteoporosis, Postmenopausal",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bonviva",
+      "product_number": "EMEA/H/C/000501"
+    },
+    {
+      "active_substance": "darunavir",
+      "inn": "darunavir",
+      "group": "Antivirals for systemic use",
+      "area": "HIV Infections",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/prezista",
+      "product_number": "EMEA/H/C/000707"
+    },
+    {
+      "active_substance": "paliperidone palmitate",
+      "inn": "paliperidone",
+      "group": "Psycholeptics",
+      "area": "Schizophrenia",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xeplion",
+      "product_number": "EMEA/H/C/002105"
+    },
+    {
+      "active_substance": "fentanyl",
+      "inn": "fentanyl",
+      "group": "Analgesics",
+      "area": "Pain;Cancer",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pecfent",
+      "product_number": "EMEA/H/C/001164"
+    },
+    {
+      "active_substance": "saxagliptin",
+      "inn": "saxagliptin",
+      "group": "Drugs used in diabetes",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/onglyza",
+      "product_number": "EMEA/H/C/001039"
+    },
+    {
+      "active_substance": "pioglitazone hydrochloride",
+      "inn": "pioglitazone",
+      "group": "Drugs used in diabetes",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/actos",
+      "product_number": "EMEA/H/C/000285"
+    },
+    {
+      "active_substance": "alogliptin;pioglitazone",
+      "inn": "alogliptin;pioglitazone",
+      "group": "Drugs used in diabetes;Combinations of oral blood glucose lowering drugs",
+      "area": "Diabetes Mellitus, Type 2",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/incresync",
+      "product_number": "EMEA/H/C/002178"
+    }
+  ],
+  "overlap_drugs": []
+}
