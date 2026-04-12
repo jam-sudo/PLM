@@ -227,24 +227,28 @@ class TestAnalyticalEngine:
 
 
 class TestPLMPKEngine:
-    def test_fallback_to_analytical(self):
-        """PLMPKEngine with no model should fallback to AnalyticalPKEngine."""
+    def test_predict_cmax_returns_positive(self):
+        """PLMPKEngine should predict positive Cmax from valid SMILES."""
+        plm = PLMPKEngine(smiles="CC(=O)Oc1ccccc1C(=O)O")  # aspirin
+        cmax = plm.predict_cmax(500)
+        assert cmax > 0, f"Cmax should be positive, got {cmax}"
+        assert cmax < 1e6, f"Cmax should be reasonable, got {cmax}"
+
+    def test_concentration_produces_profile(self):
+        """PLMPKEngine.concentration should return a valid C(t) profile."""
+        plm = PLMPKEngine(smiles="CC(=O)Oc1ccccc1C(=O)O")  # aspirin
         patient = _make_patient(ka=1.5, ke=0.15, vd_f=80.0, tlag=0.0)
-        doses = [(0.0, 100.0)]
-        t = np.linspace(0, 24, 100)
+        t = np.linspace(0, 24, 50)
+        doses = [(0.0, 500.0)]
+        c = plm.concentration(t, doses, patient)
+        assert len(c) == len(t)
+        assert c.max() > 0, "Profile should have positive peak"
+        assert c[0] == 0.0, "Concentration at t=0 should be 0"
 
-        plm = PLMPKEngine(model_path=None)
-        analytical = AnalyticalPKEngine()
-
-        c_plm = plm.concentration(t, doses, patient)
-        c_analytical = analytical.concentration(t, doses, patient)
-
-        np.testing.assert_array_almost_equal(c_plm, c_analytical)
-
-    def test_bad_model_path_raises(self):
-        """Loading from nonexistent path should raise RuntimeError."""
-        with pytest.raises(RuntimeError, match="could not load model"):
-            PLMPKEngine(model_path="/nonexistent/model.pkl")
+    def test_invalid_smiles_raises(self):
+        """Invalid SMILES should raise ValueError."""
+        with pytest.raises(ValueError, match="Invalid SMILES"):
+            PLMPKEngine(smiles="NOT_A_SMILES")
 
 
 # ── Population Generator Tests ───────────────────────────────────────
