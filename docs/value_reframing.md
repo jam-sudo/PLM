@@ -90,13 +90,13 @@ PLM trains on **4,704 human oral Cmax observations** from FDA reviews and ChEMBL
 1. **AAFE 3.332 means average 3.3-fold error** — not clinically precise for individual dose selection
 2. **Systematic overprediction bias (+0.27 log units)** — PLM tends to overpredict Cmax
 3. **SSRI/SNRI and steroids are worst classes** (AAFE >6) — high first-pass/high Vd drugs poorly captured
-4. **No uncertainty quantification** — single point prediction, no confidence interval
+4. **Wide prediction intervals** — conformal 90% intervals span 151-fold range (2.18 log10); well-calibrated marginally (88.7% coverage) but too wide for clinical utility. Q4 (worst 25%) drugs only 56% covered.
 5. **Training data ceiling reached** — all automated public sources exhausted at v12
 
 ## Recommended Positioning
 
 **For publications**:
-> PLM achieves Cmax AAFE 3.332 (p=0.006, 4-seed) on a 97-drug holdout using SMILES as sole molecular input, outperforming the mechanistic PBPK engine tier (Sisyphus Engine: 3.416) without requiring in-vitro ADME data. Combined with an integrated clinical trial simulator, PLM enables end-to-end dose-finding simulation from molecular structure alone.
+> PLM achieves Cmax AAFE 3.332 (p=0.006, 4-seed) on a 97-drug holdout using SMILES as sole molecular input, outperforming the mechanistic PBPK engine tier (Sisyphus Engine: 3.416) without requiring in-vitro ADME data. Cross-conformal prediction intervals provide 88.7% empirical coverage at 90% nominal level, with epistemic model uncertainty negligible (seed σ=0.026) relative to aleatoric prediction difficulty. Combined with an integrated clinical trial simulator, PLM enables end-to-end dose-finding simulation from molecular structure alone.
 
 **For grant applications**:
 > PLM demonstrates that structure-based Cmax prediction can match IVIVE-dependent PBPK approaches. Closing the remaining gap to meta-ensemble performance (2.283) requires either (a) an independent PBPK tier for ensembling, or (b) ~5-10x more training data from non-public sources.

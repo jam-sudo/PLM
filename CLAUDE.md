@@ -75,6 +75,7 @@ IVIVE error propagation chain inherent in traditional PBPK approaches.
 - [x] External validation: Brown 2025 PASS, post-cutoff tested (S9)
 - [x] Architectural exhaustion analysis: 5 dimensions tested, all null/fail (I8)
 - [x] Value reframing: PLM 3.33 > Sisyphus Engine 3.42 (docs/value_reframing.md)
+- [x] Uncertainty quantification: conformal prediction 88.7% coverage (S13)
 
 ### PLM Model Progression (structure-based, no leakage)
 | Version | AAFE | 2-fold% | Type | Notes |
@@ -100,12 +101,14 @@ IVIVE error propagation chain inherent in traditional PBPK approaches.
 - Architecture: **5 dimensions exhausted** — representation, ADME aux, PBPK, loss, ensemble (I8)
 - PLM wins 35/97 drugs (36%), 45.5% win rate on nonlinear PK drugs
 - Oracle best-of-2 (PLM+Sisyphus): AAFE 1.79
+- **UQ**: 90% conformal intervals with 88.7% empirical coverage (S13)
+- Epistemic uncertainty negligible (seed std=0.026); bottleneck is aleatoric
 
 ### Next Steps
-- Value reframing for publication positioning (see docs/value_reframing.md)
+- Publication preparation (value_reframing.md + UQ results)
 - Manual EMA EPAR extraction (~50-100 potential rows, labor intensive)
 - Academic collaboration for proprietary ADME datasets
-- Uncertainty quantification for clinical decision support
+- Class-conditional conformal for tighter intervals on predictable drugs
 
 ## Architecture Decisions
 

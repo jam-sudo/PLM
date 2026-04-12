@@ -1,0 +1,1325 @@
+{
+  "pre_registration": {
+    "date": "2026-04-12",
+    "hypothesis": "Cross-conformal \u226585% coverage at 90% nominal",
+    "alpha": 0.1,
+    "conformal_seeds": [
+      42,
+      137
+    ],
+    "ensemble_seeds": [
+      42,
+      137,
+      2024,
+      7
+    ],
+    "method": "CV+ cross-conformal, 5-fold GroupKFold"
+  },
+  "conformal": {
+    "n_scores": 9408,
+    "score_median": 0.4215,
+    "score_mean": 0.5297,
+    "score_p90": 1.0884,
+    "half_width": 1.0897,
+    "width_log10": 2.1795,
+    "width_fold": 151.17
+  },
+  "holdout": {
+    "coverage": 0.8866,
+    "n_covered": 86,
+    "n_total": 97,
+    "ensemble_aafe": 3.3284,
+    "fold2_pct": 39.18
+  },
+  "seed_uncertainty": {
+    "mean_std": 0.026,
+    "spearman_r": 0.1382,
+    "spearman_p": 0.1771
+  },
+  "adaptive": {
+    "coverage": 0.8144,
+    "width_log10": 2.1795
+  },
+  "conditional_coverage": {
+    "Q1(low)": {
+      "coverage": 1.0,
+      "n": 24
+    },
+    "Q2": {
+      "coverage": 1.0,
+      "n": 24
+    },
+    "Q3": {
+      "coverage": 1.0,
+      "n": 24
+    },
+    "Q4(high)": {
+      "coverage": 0.56,
+      "n": 25
+    }
+  },
+  "per_drug": [
+    {
+      "drug": "abiraterone",
+      "y_true": -1.1367,
+      "y_pred": 0.0993,
+      "error": 1.236,
+      "aafe": 17.2178,
+      "seed_std": 0.0575,
+      "ci90": [
+        -0.9904,
+        1.189
+      ],
+      "covered": false
+    },
+    {
+      "drug": "acamprosate",
+      "y_true": -0.8692,
+      "y_pred": 0.6129,
+      "error": 1.4821,
+      "aafe": 30.3483,
+      "seed_std": 0.0173,
+      "ci90": [
+        -0.4768,
+        1.7026
+      ],
+      "covered": false
+    },
+    {
+      "drug": "adefovir dipivoxil",
+      "y_true": 0.2648,
+      "y_pred": 0.2209,
+      "error": 0.0439,
+      "aafe": 1.1064,
+      "seed_std": 0.0254,
+      "ci90": [
+        -0.8688,
+        1.3106
+      ],
+      "covered": true
+    },
+    {
+      "drug": "alosetron",
+      "y_true": 0.0969,
+      "y_pred": 0.9084,
+      "error": 0.8115,
+      "aafe": 6.4784,
+      "seed_std": 0.0107,
+      "ci90": [
+        -0.1814,
+        1.9981
+      ],
+      "covered": true
+    },
+    {
+      "drug": "alprazolam",
+      "y_true": 0.8303,
+      "y_pred": 1.1963,
+      "error": 0.366,
+      "aafe": 2.323,
+      "seed_std": 0.0334,
+      "ci90": [
+        0.1066,
+        2.286
+      ],
+      "covered": true
+    },
+    {
+      "drug": "alvimopan",
+      "y_true": -0.3396,
+      "y_pred": 0.788,
+      "error": 1.1276,
+      "aafe": 13.4158,
+      "seed_std": 0.0148,
+      "ci90": [
+        -0.3017,
+        1.8777
+      ],
+      "covered": false
+    },
+    {
+      "drug": "amantadine",
+      "y_true": 0.0265,
+      "y_pred": 0.2933,
+      "error": 0.2669,
+      "aafe": 1.8487,
+      "seed_std": 0.015,
+      "ci90": [
+        -0.7964,
+        1.3831
+      ],
+      "covered": true
+    },
+    {
+      "drug": "apixaban",
+      "y_true": 0.4014,
+      "y_pred": 0.921,
+      "error": 0.5196,
+      "aafe": 3.308,
+      "seed_std": 0.0143,
+      "ci90": [
+        -0.1688,
+        2.0107
+      ],
+      "covered": true
+    },
+    {
+      "drug": "atovaquone",
+      "y_true": 1.2455,
+      "y_pred": 0.4006,
+      "error": 0.8449,
+      "aafe": 6.9968,
+      "seed_std": 0.0288,
+      "ci90": [
+        -0.6891,
+        1.4904
+      ],
+      "covered": true
+    },
+    {
+      "drug": "azacitidine",
+      "y_true": -0.3158,
+      "y_pred": 0.6486,
+      "error": 0.9643,
+      "aafe": 9.2116,
+      "seed_std": 0.0472,
+      "ci90": [
+        -0.4412,
+        1.7383
+      ],
+      "covered": true
+    },
+    {
+      "drug": "azithromycin",
+      "y_true": 0.0,
+      "y_pred": 0.1527,
+      "error": 0.1527,
+      "aafe": 1.4215,
+      "seed_std": 0.0101,
+      "ci90": [
+        -0.937,
+        1.2425
+      ],
+      "covered": true
+    },
+    {
+      "drug": "brincidofovir",
+      "y_true": 0.2535,
+      "y_pred": -0.44,
+      "error": 0.6935,
+      "aafe": 4.9374,
+      "seed_std": 0.0572,
+      "ci90": [
+        -1.5297,
+        0.6498
+      ],
+      "covered": true
+    },
+    {
+      "drug": "budesonide",
+      "y_true": -0.301,
+      "y_pred": -0.0459,
+      "error": 0.2551,
+      "aafe": 1.7994,
+      "seed_std": 0.0379,
+      "ci90": [
+        -1.1356,
+        1.0438
+      ],
+      "covered": true
+    },
+    {
+      "drug": "cabozantinib",
+      "y_true": 1.8451,
+      "y_pred": 0.4307,
+      "error": 1.4144,
+      "aafe": 25.9641,
+      "seed_std": 0.0318,
+      "ci90": [
+        -0.659,
+        1.5205
+      ],
+      "covered": false
+    },
+    {
+      "drug": "carbamazepine",
+      "y_true": 0.2218,
+      "y_pred": 0.8695,
+      "error": 0.6476,
+      "aafe": 4.4426,
+      "seed_std": 0.0236,
+      "ci90": [
+        -0.2202,
+        1.9592
+      ],
+      "covered": true
+    },
+    {
+      "drug": "carbinoxamine",
+      "y_true": 0.4771,
+      "y_pred": 0.2612,
+      "error": 0.2159,
+      "aafe": 1.6441,
+      "seed_std": 0.0101,
+      "ci90": [
+        -0.8285,
+        1.3509
+      ],
+      "covered": true
+    },
+    {
+      "drug": "levocetirizine",
+      "y_true": 1.1761,
+      "y_pred": 0.8864,
+      "error": 0.2897,
+      "aafe": 1.9485,
+      "seed_std": 0.0176,
+      "ci90": [
+        -0.2033,
+        1.9761
+      ],
+      "covered": true
+    },
+    {
+      "drug": "cimetidine",
+      "y_true": 0.7687,
+      "y_pred": 0.7075,
+      "error": 0.0612,
+      "aafe": 1.1513,
+      "seed_std": 0.0321,
+      "ci90": [
+        -0.3822,
+        1.7973
+      ],
+      "covered": true
+    },
+    {
+      "drug": "ciprofloxacin",
+      "y_true": 1.7738,
+      "y_pred": 0.7215,
+      "error": 1.0523,
+      "aafe": 11.2805,
+      "seed_std": 0.0167,
+      "ci90": [
+        -0.3683,
+        1.8112
+      ],
+      "covered": true
+    },
+    {
+      "drug": "clomipramine",
+      "y_true": 0.0887,
+      "y_pred": -0.4124,
+      "error": 0.5011,
+      "aafe": 3.1704,
+      "seed_std": 0.0493,
+      "ci90": [
+        -1.5021,
+        0.6774
+      ],
+      "covered": true
+    },
+    {
+      "drug": "clonidine",
+      "y_true": 0.1257,
+      "y_pred": 0.3689,
+      "error": 0.2432,
+      "aafe": 1.7505,
+      "seed_std": 0.0138,
+      "ci90": [
+        -0.7208,
+        1.4586
+      ],
+      "covered": true
+    },
+    {
+      "drug": "clopidogrel",
+      "y_true": 0.0,
+      "y_pred": 0.1091,
+      "error": 0.1091,
+      "aafe": 1.2857,
+      "seed_std": 0.0313,
+      "ci90": [
+        -0.9806,
+        1.1989
+      ],
+      "covered": true
+    },
+    {
+      "drug": "clozapine",
+      "y_true": 0.7409,
+      "y_pred": 0.1921,
+      "error": 0.5488,
+      "aafe": 3.5385,
+      "seed_std": 0.0488,
+      "ci90": [
+        -0.8977,
+        1.2818
+      ],
+      "covered": true
+    },
+    {
+      "drug": "codeine",
+      "y_true": 0.0638,
+      "y_pred": 0.1656,
+      "error": 0.1018,
+      "aafe": 1.2641,
+      "seed_std": 0.0139,
+      "ci90": [
+        -0.9241,
+        1.2554
+      ],
+      "covered": true
+    },
+    {
+      "drug": "colchicine",
+      "y_true": 0.3979,
+      "y_pred": 0.4416,
+      "error": 0.0437,
+      "aafe": 1.1058,
+      "seed_std": 0.0181,
+      "ci90": [
+        -0.6481,
+        1.5313
+      ],
+      "covered": true
+    },
+    {
+      "drug": "dalfampridine",
+      "y_true": 0.6304,
+      "y_pred": 0.2991,
+      "error": 0.3314,
+      "aafe": 2.1447,
+      "seed_std": 0.0287,
+      "ci90": [
+        -0.7907,
+        1.3888
+      ],
+      "covered": true
+    },
+    {
+      "drug": "dapagliflozin",
+      "y_true": 0.3867,
+      "y_pred": 0.7758,
+      "error": 0.3891,
+      "aafe": 2.4496,
+      "seed_std": 0.0285,
+      "ci90": [
+        -0.3139,
+        1.8655
+      ],
+      "covered": true
+    },
+    {
+      "drug": "darolutamide",
+      "y_true": 0.9022,
+      "y_pred": 0.7405,
+      "error": 0.1617,
+      "aafe": 1.4512,
+      "seed_std": 0.0159,
+      "ci90": [
+        -0.3493,
+        1.8302
+      ],
+      "covered": true
+    },
+    {
+      "drug": "dasatinib",
+      "y_true": -0.0851,
+      "y_pred": 0.2701,
+      "error": 0.3552,
+      "aafe": 2.2658,
+      "seed_std": 0.0303,
+      "ci90": [
+        -0.8196,
+        1.3598
+      ],
+      "covered": true
+    },
+    {
+      "drug": "diclofenac",
+      "y_true": 0.5229,
+      "y_pred": 1.3583,
+      "error": 0.8355,
+      "aafe": 6.8463,
+      "seed_std": 0.0131,
+      "ci90": [
+        0.2686,
+        2.4481
+      ],
+      "covered": true
+    },
+    {
+      "drug": "digoxin",
+      "y_true": 0.1761,
+      "y_pred": 0.5912,
+      "error": 0.4151,
+      "aafe": 2.6006,
+      "seed_std": 0.0379,
+      "ci90": [
+        -0.4986,
+        1.6809
+      ],
+      "covered": true
+    },
+    {
+      "drug": "donepezil",
+      "y_true": -0.1135,
+      "y_pred": 0.2596,
+      "error": 0.3731,
+      "aafe": 2.3609,
+      "seed_std": 0.0083,
+      "ci90": [
+        -0.8302,
+        1.3493
+      ],
+      "covered": true
+    },
+    {
+      "drug": "erythromycin",
+      "y_true": 0.553,
+      "y_pred": 0.7546,
+      "error": 0.2016,
+      "aafe": 1.5907,
+      "seed_std": 0.0133,
+      "ci90": [
+        -0.3352,
+        1.8443
+      ],
+      "covered": true
+    },
+    {
+      "drug": "etodolac",
+      "y_true": 1.9004,
+      "y_pred": 0.8113,
+      "error": 1.0891,
+      "aafe": 12.2772,
+      "seed_std": 0.0231,
+      "ci90": [
+        -0.2785,
+        1.901
+      ],
+      "covered": true
+    },
+    {
+      "drug": "famotidine",
+      "y_true": 0.2613,
+      "y_pred": 0.7815,
+      "error": 0.5202,
+      "aafe": 3.3132,
+      "seed_std": 0.0142,
+      "ci90": [
+        -0.3082,
+        1.8712
+      ],
+      "covered": true
+    },
+    {
+      "drug": "febuxostat",
+      "y_true": 0.7959,
+      "y_pred": 1.0276,
+      "error": 0.2317,
+      "aafe": 1.705,
+      "seed_std": 0.0169,
+      "ci90": [
+        -0.0621,
+        2.1173
+      ],
+      "covered": true
+    },
+    {
+      "drug": "fesoterodine",
+      "y_true": -0.6266,
+      "y_pred": 0.5488,
+      "error": 1.1754,
+      "aafe": 14.9765,
+      "seed_std": 0.0331,
+      "ci90": [
+        -0.541,
+        1.6385
+      ],
+      "covered": false
+    },
+    {
+      "drug": "fluvoxamine",
+      "y_true": -0.8239,
+      "y_pred": 0.648,
+      "error": 1.4719,
+      "aafe": 29.6432,
+      "seed_std": 0.0207,
+      "ci90": [
+        -0.4417,
+        1.7378
+      ],
+      "covered": false
+    },
+    {
+      "drug": "fruquintinib",
+      "y_true": 1.451,
+      "y_pred": 1.048,
+      "error": 0.403,
+      "aafe": 2.5294,
+      "seed_std": 0.039,
+      "ci90": [
+        -0.0417,
+        2.1377
+      ],
+      "covered": true
+    },
+    {
+      "drug": "glasdegib",
+      "y_true": 0.9215,
+      "y_pred": 0.7093,
+      "error": 0.2122,
+      "aafe": 1.63,
+      "seed_std": 0.0324,
+      "ci90": [
+        -0.3804,
+        1.7991
+      ],
+      "covered": true
+    },
+    {
+      "drug": "hydroxyzine",
+      "y_true": -0.1915,
+      "y_pred": 0.0809,
+      "error": 0.2723,
+      "aafe": 1.8721,
+      "seed_std": 0.0245,
+      "ci90": [
+        -1.0089,
+        1.1706
+      ],
+      "covered": true
+    },
+    {
+      "drug": "indomethacin",
+      "y_true": 1.1875,
+      "y_pred": 1.6603,
+      "error": 0.4727,
+      "aafe": 2.9698,
+      "seed_std": 0.0085,
+      "ci90": [
+        0.5705,
+        2.75
+      ],
+      "covered": true
+    },
+    {
+      "drug": "isosorbide mononitrate",
+      "y_true": 1.4921,
+      "y_pred": 0.7735,
+      "error": 0.7186,
+      "aafe": 5.2312,
+      "seed_std": 0.026,
+      "ci90": [
+        -0.3163,
+        1.8632
+      ],
+      "covered": true
+    },
+    {
+      "drug": "itraconazole",
+      "y_true": 0.3979,
+      "y_pred": 0.4875,
+      "error": 0.0896,
+      "aafe": 1.2291,
+      "seed_std": 0.0295,
+      "ci90": [
+        -0.6022,
+        1.5773
+      ],
+      "covered": true
+    },
+    {
+      "drug": "ketoconazole",
+      "y_true": 0.574,
+      "y_pred": 0.4497,
+      "error": 0.1244,
+      "aafe": 1.3316,
+      "seed_std": 0.0243,
+      "ci90": [
+        -0.6401,
+        1.5394
+      ],
+      "covered": true
+    },
+    {
+      "drug": "ketorolac",
+      "y_true": 1.426,
+      "y_pred": 1.5559,
+      "error": 0.13,
+      "aafe": 1.3489,
+      "seed_std": 0.0217,
+      "ci90": [
+        0.4662,
+        2.6457
+      ],
+      "covered": true
+    },
+    {
+      "drug": "lamivudine",
+      "y_true": 0.4929,
+      "y_pred": 0.7384,
+      "error": 0.2455,
+      "aafe": 1.7598,
+      "seed_std": 0.0209,
+      "ci90": [
+        -0.3514,
+        1.8281
+      ],
+      "covered": true
+    },
+    {
+      "drug": "lenacapavir",
+      "y_true": -1.4089,
+      "y_pred": 0.2981,
+      "error": 1.707,
+      "aafe": 50.9382,
+      "seed_std": 0.0613,
+      "ci90": [
+        -0.7916,
+        1.3878
+      ],
+      "covered": false
+    },
+    {
+      "drug": "levofloxacin",
+      "y_true": 0.7924,
+      "y_pred": 0.9899,
+      "error": 0.1975,
+      "aafe": 1.5759,
+      "seed_std": 0.0106,
+      "ci90": [
+        -0.0998,
+        2.0797
+      ],
+      "covered": true
+    },
+    {
+      "drug": "lorlatinib",
+      "y_true": 0.7001,
+      "y_pred": 0.825,
+      "error": 0.1249,
+      "aafe": 1.3333,
+      "seed_std": 0.0043,
+      "ci90": [
+        -0.2647,
+        1.9148
+      ],
+      "covered": true
+    },
+    {
+      "drug": "losartan",
+      "y_true": 0.0492,
+      "y_pred": 0.561,
+      "error": 0.5118,
+      "aafe": 3.2491,
+      "seed_std": 0.0418,
+      "ci90": [
+        -0.5288,
+        1.6507
+      ],
+      "covered": true
+    },
+    {
+      "drug": "mefenamic acid",
+      "y_true": 0.6382,
+      "y_pred": 1.3103,
+      "error": 0.6721,
+      "aafe": 4.7004,
+      "seed_std": 0.0322,
+      "ci90": [
+        0.2206,
+        2.4
+      ],
+      "covered": true
+    },
+    {
+      "drug": "methylphenidate",
+      "y_true": -0.3632,
+      "y_pred": 0.4321,
+      "error": 0.7953,
+      "aafe": 6.2412,
+      "seed_std": 0.0188,
+      "ci90": [
+        -0.6577,
+        1.5218
+      ],
+      "covered": true
+    },
+    {
+      "drug": "metronidazole",
+      "y_true": 0.8129,
+      "y_pred": 1.0221,
+      "error": 0.2092,
+      "aafe": 1.6188,
+      "seed_std": 0.0268,
+      "ci90": [
+        -0.0676,
+        2.1118
+      ],
+      "covered": true
+    },
+    {
+      "drug": "montelukast",
+      "y_true": 1.5441,
+      "y_pred": 1.1446,
+      "error": 0.3995,
+      "aafe": 2.5089,
+      "seed_std": 0.0229,
+      "ci90": [
+        0.0548,
+        2.2343
+      ],
+      "covered": true
+    },
+    {
+      "drug": "morphine",
+      "y_true": 0.2707,
+      "y_pred": 0.2302,
+      "error": 0.0405,
+      "aafe": 1.0976,
+      "seed_std": 0.0221,
+      "ci90": [
+        -0.8595,
+        1.32
+      ],
+      "covered": true
+    },
+    {
+      "drug": "moxifloxacin",
+      "y_true": 1.0107,
+      "y_pred": 0.9915,
+      "error": 0.0192,
+      "aafe": 1.0453,
+      "seed_std": 0.0038,
+      "ci90": [
+        -0.0983,
+        2.0812
+      ],
+      "covered": true
+    },
+    {
+      "drug": "nilotinib",
+      "y_true": 0.688,
+      "y_pred": 0.7103,
+      "error": 0.0223,
+      "aafe": 1.0527,
+      "seed_std": 0.0537,
+      "ci90": [
+        -0.3795,
+        1.8
+      ],
+      "covered": true
+    },
+    {
+      "drug": "norethindrone",
+      "y_true": 0.7192,
+      "y_pred": 0.6116,
+      "error": 0.1076,
+      "aafe": 1.2812,
+      "seed_std": 0.0308,
+      "ci90": [
+        -0.4782,
+        1.7013
+      ],
+      "covered": true
+    },
+    {
+      "drug": "oxybutynin",
+      "y_true": -0.699,
+      "y_pred": 0.2481,
+      "error": 0.9471,
+      "aafe": 8.8527,
+      "seed_std": 0.0259,
+      "ci90": [
+        -0.8416,
+        1.3378
+      ],
+      "covered": true
+    },
+    {
+      "drug": "paroxetine",
+      "y_true": -0.9031,
+      "y_pred": 0.0338,
+      "error": 0.9369,
+      "aafe": 8.6478,
+      "seed_std": 0.0091,
+      "ci90": [
+        -1.0559,
+        1.1236
+      ],
+      "covered": true
+    },
+    {
+      "drug": "penicillamine",
+      "y_true": 0.4771,
+      "y_pred": 0.9452,
+      "error": 0.4681,
+      "aafe": 2.9383,
+      "seed_std": 0.0188,
+      "ci90": [
+        -0.1445,
+        2.035
+      ],
+      "covered": true
+    },
+    {
+      "drug": "phenytoin",
+      "y_true": 0.4949,
+      "y_pred": 0.8692,
+      "error": 0.3743,
+      "aafe": 2.3678,
+      "seed_std": 0.0284,
+      "ci90": [
+        -0.2205,
+        1.9589
+      ],
+      "covered": true
+    },
+    {
+      "drug": "pilocarpine",
+      "y_true": 0.1761,
+      "y_pred": 0.8375,
+      "error": 0.6614,
+      "aafe": 4.5853,
+      "seed_std": 0.0143,
+      "ci90": [
+        -0.2523,
+        1.9272
+      ],
+      "covered": true
+    },
+    {
+      "drug": "pindolol",
+      "y_true": 0.3437,
+      "y_pred": 0.642,
+      "error": 0.2982,
+      "aafe": 1.9871,
+      "seed_std": 0.0241,
+      "ci90": [
+        -0.4478,
+        1.7317
+      ],
+      "covered": true
+    },
+    {
+      "drug": "pomalidomide",
+      "y_true": 0.4241,
+      "y_pred": 0.927,
+      "error": 0.503,
+      "aafe": 3.1839,
+      "seed_std": 0.0041,
+      "ci90": [
+        -0.1627,
+        2.0168
+      ],
+      "covered": true
+    },
+    {
+      "drug": "ponatinib",
+      "y_true": 0.0848,
+      "y_pred": 0.4431,
+      "error": 0.3583,
+      "aafe": 2.2819,
+      "seed_std": 0.0266,
+      "ci90": [
+        -0.6467,
+        1.5328
+      ],
+      "covered": true
+    },
+    {
+      "drug": "posaconazole",
+      "y_true": -0.5992,
+      "y_pred": 0.2779,
+      "error": 0.8771,
+      "aafe": 7.5354,
+      "seed_std": 0.0367,
+      "ci90": [
+        -0.8118,
+        1.3677
+      ],
+      "covered": true
+    },
+    {
+      "drug": "pravastatin",
+      "y_true": -0.2041,
+      "y_pred": -0.1196,
+      "error": 0.0845,
+      "aafe": 1.2148,
+      "seed_std": 0.0403,
+      "ci90": [
+        -1.2093,
+        0.9701
+      ],
+      "covered": true
+    },
+    {
+      "drug": "probenecid",
+      "y_true": 1.2162,
+      "y_pred": 1.2812,
+      "error": 0.065,
+      "aafe": 1.1614,
+      "seed_std": 0.0377,
+      "ci90": [
+        0.1914,
+        2.3709
+      ],
+      "covered": true
+    },
+    {
+      "drug": "progesterone",
+      "y_true": -0.762,
+      "y_pred": 0.1276,
+      "error": 0.8896,
+      "aafe": 7.7546,
+      "seed_std": 0.037,
+      "ci90": [
+        -0.9621,
+        1.2173
+      ],
+      "covered": true
+    },
+    {
+      "drug": "quinine",
+      "y_true": 0.6532,
+      "y_pred": 0.442,
+      "error": 0.2112,
+      "aafe": 1.6263,
+      "seed_std": 0.0114,
+      "ci90": [
+        -0.6477,
+        1.5318
+      ],
+      "covered": true
+    },
+    {
+      "drug": "quizartinib",
+      "y_true": 0.5198,
+      "y_pred": 0.1175,
+      "error": 0.4023,
+      "aafe": 2.5253,
+      "seed_std": 0.0267,
+      "ci90": [
+        -0.9722,
+        1.2073
+      ],
+      "covered": true
+    },
+    {
+      "drug": "ramelteon",
+      "y_true": -0.7417,
+      "y_pred": 0.6154,
+      "error": 1.3571,
+      "aafe": 22.7548,
+      "seed_std": 0.0333,
+      "ci90": [
+        -0.4744,
+        1.7051
+      ],
+      "covered": false
+    },
+    {
+      "drug": "ranitidine",
+      "y_true": 0.1663,
+      "y_pred": 0.8829,
+      "error": 0.7166,
+      "aafe": 5.2072,
+      "seed_std": 0.0159,
+      "ci90": [
+        -0.2068,
+        1.9727
+      ],
+      "covered": true
+    },
+    {
+      "drug": "rifabutin",
+      "y_true": -0.0792,
+      "y_pred": 0.122,
+      "error": 0.2012,
+      "aafe": 1.5893,
+      "seed_std": 0.0436,
+      "ci90": [
+        -0.9677,
+        1.2118
+      ],
+      "covered": true
+    },
+    {
+      "drug": "rivaroxaban",
+      "y_true": 0.5539,
+      "y_pred": 0.8936,
+      "error": 0.3397,
+      "aafe": 2.1862,
+      "seed_std": 0.0424,
+      "ci90": [
+        -0.1962,
+        1.9833
+      ],
+      "covered": true
+    },
+    {
+      "drug": "ruxolitinib",
+      "y_true": -0.1878,
+      "y_pred": 0.4582,
+      "error": 0.646,
+      "aafe": 4.4257,
+      "seed_std": 0.0499,
+      "ci90": [
+        -0.6316,
+        1.5479
+      ],
+      "covered": true
+    },
+    {
+      "drug": "selegiline",
+      "y_true": -1.0,
+      "y_pred": 0.1842,
+      "error": 1.1842,
+      "aafe": 15.2822,
+      "seed_std": 0.0362,
+      "ci90": [
+        -0.9056,
+        1.2739
+      ],
+      "covered": false
+    },
+    {
+      "drug": "sildenafil",
+      "y_true": 0.1303,
+      "y_pred": 0.7636,
+      "error": 0.6332,
+      "aafe": 4.2977,
+      "seed_std": 0.0282,
+      "ci90": [
+        -0.3262,
+        1.8533
+      ],
+      "covered": true
+    },
+    {
+      "drug": "sirolimus",
+      "y_true": 0.0792,
+      "y_pred": 0.4114,
+      "error": 0.3322,
+      "aafe": 2.1489,
+      "seed_std": 0.0238,
+      "ci90": [
+        -0.6783,
+        1.5011
+      ],
+      "covered": true
+    },
+    {
+      "drug": "sonidegib",
+      "y_true": 0.7118,
+      "y_pred": 0.3077,
+      "error": 0.4041,
+      "aafe": 2.5358,
+      "seed_std": 0.0258,
+      "ci90": [
+        -0.7821,
+        1.3974
+      ],
+      "covered": true
+    },
+    {
+      "drug": "sumatriptan",
+      "y_true": -1.0835,
+      "y_pred": 0.2743,
+      "error": 1.3578,
+      "aafe": 22.7945,
+      "seed_std": 0.0266,
+      "ci90": [
+        -0.8155,
+        1.364
+      ],
+      "covered": false
+    },
+    {
+      "drug": "tamoxifen",
+      "y_true": 0.301,
+      "y_pred": 0.0934,
+      "error": 0.2076,
+      "aafe": 1.613,
+      "seed_std": 0.0162,
+      "ci90": [
+        -0.9963,
+        1.1831
+      ],
+      "covered": true
+    },
+    {
+      "drug": "tamsulosin",
+      "y_true": 1.4023,
+      "y_pred": 1.2858,
+      "error": 0.1164,
+      "aafe": 1.3075,
+      "seed_std": 0.0237,
+      "ci90": [
+        0.1961,
+        2.3756
+      ],
+      "covered": true
+    },
+    {
+      "drug": "temozolomide",
+      "y_true": 1.699,
+      "y_pred": 1.0558,
+      "error": 0.6431,
+      "aafe": 4.3969,
+      "seed_std": 0.034,
+      "ci90": [
+        -0.0339,
+        2.1456
+      ],
+      "covered": true
+    },
+    {
+      "drug": "tenofovir disoproxil",
+      "y_true": 0.1027,
+      "y_pred": 0.2728,
+      "error": 0.1701,
+      "aafe": 1.4796,
+      "seed_std": 0.0335,
+      "ci90": [
+        -0.8169,
+        1.3626
+      ],
+      "covered": true
+    },
+    {
+      "drug": "trazodone",
+      "y_true": 1.2095,
+      "y_pred": 0.9834,
+      "error": 0.2261,
+      "aafe": 1.6831,
+      "seed_std": 0.0285,
+      "ci90": [
+        -0.1063,
+        2.0731
+      ],
+      "covered": true
+    },
+    {
+      "drug": "triazolam",
+      "y_true": 0.4722,
+      "y_pred": 0.8335,
+      "error": 0.3614,
+      "aafe": 2.2981,
+      "seed_std": 0.0181,
+      "ci90": [
+        -0.2562,
+        1.9233
+      ],
+      "covered": true
+    },
+    {
+      "drug": "ulipristal",
+      "y_true": 0.7684,
+      "y_pred": 0.2172,
+      "error": 0.5512,
+      "aafe": 3.5576,
+      "seed_std": 0.0492,
+      "ci90": [
+        -0.8725,
+        1.307
+      ],
+      "covered": true
+    },
+    {
+      "drug": "upadacitinib",
+      "y_true": -0.2663,
+      "y_pred": 0.7197,
+      "error": 0.986,
+      "aafe": 9.6829,
+      "seed_std": 0.0297,
+      "ci90": [
+        -0.37,
+        1.8095
+      ],
+      "covered": true
+    },
+    {
+      "drug": "valganciclovir",
+      "y_true": 0.8092,
+      "y_pred": 0.0761,
+      "error": 0.7331,
+      "aafe": 5.4082,
+      "seed_std": 0.0298,
+      "ci90": [
+        -1.0136,
+        1.1659
+      ],
+      "covered": true
+    },
+    {
+      "drug": "venlafaxine",
+      "y_true": -0.6259,
+      "y_pred": 0.2684,
+      "error": 0.8943,
+      "aafe": 7.8391,
+      "seed_std": 0.0207,
+      "ci90": [
+        -0.8213,
+        1.3581
+      ],
+      "covered": true
+    },
+    {
+      "drug": "vilazodone",
+      "y_true": 0.8921,
+      "y_pred": 0.5159,
+      "error": 0.3762,
+      "aafe": 2.3778,
+      "seed_std": 0.0131,
+      "ci90": [
+        -0.5738,
+        1.6056
+      ],
+      "covered": true
+    },
+    {
+      "drug": "vonoprazan",
+      "y_true": -0.6812,
+      "y_pred": 1.1725,
+      "error": 1.8537,
+      "aafe": 71.3996,
+      "seed_std": 0.0064,
+      "ci90": [
+        0.0827,
+        2.2622
+      ],
+      "covered": false
+    },
+    {
+      "drug": "zolpidem",
+      "y_true": 1.0302,
+      "y_pred": 0.7639,
+      "error": 0.2663,
+      "aafe": 1.8461,
+      "seed_std": 0.0206,
+      "ci90": [
+        -0.3258,
+        1.8537
+      ],
+      "covered": true
+    },
+    {
+      "drug": "zonisamide",
+      "y_true": 0.8239,
+      "y_pred": 0.8214,
+      "error": 0.0025,
+      "aafe": 1.0058,
+      "seed_std": 0.014,
+      "ci90": [
+        -0.2684,
+        1.9111
+      ],
+      "covered": true
+    }
+  ],
+  "verdict": "PARTIAL"
+}
