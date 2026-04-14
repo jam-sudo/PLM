@@ -1,0 +1,49 @@
+{
+  "baseline": {
+    "ho_mean": 3.3318,
+    "ho_std": 0.0223
+  },
+  "bias_mean_bias": {
+    "bias": 0.0058,
+    "ho_mean": 3.3176,
+    "ho_std": 0.0223
+  },
+  "bias_median_bias": {
+    "bias": -0.0493,
+    "ho_mean": 3.4711,
+    "ho_std": 0.0239
+  },
+  "weight_SIS_1.5": {
+    "ho_mean": 3.3254,
+    "ho_std": 0.0219
+  },
+  "weight_SIS_2.0": {
+    "ho_mean": 3.3589,
+    "ho_std": 0.0295
+  },
+  "weight_SIS_1.0_even": {
+    "ho_mean": 3.3318,
+    "ho_std": 0.0223
+  },
+  "fp_ecfp6": {
+    "ho_mean": 3.3352,
+    "ho_std": 0.024
+  },
+  "fp_fcfp4": {
+    "ho_mean": 3.3284,
+    "ho_std": 0.0189
+  },
+  "fp_fcfp6": {
+    "ho_mean": 3.3667,
+    "ho_std": 0.0187
+  },
+  "best_combo": {
+    "bias": 0.0058,
+    "weight_config": "SIS_1.5",
+    "ho_mean": 3.3104,
+    "ho_std": 0.0216
+  },
+  "verdict": "NULL",
+  "best_config": "best_combo",
+  "best_ho": 3.3104
+}
