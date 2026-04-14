@@ -1,0 +1,52 @@
+[
+  {
+    "drug_name": "setmelanotide",
+    "dose_mg": 3.0,
+    "cmax_ngml": 37.9,
+    "unit_original": "ng/ml",
+    "source": "EMA_SmPC",
+    "smiles": "C[C@@H]1C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)N1)NC(=O)[C@H](CCCN=C(N)N)NC(=O)C)C(=O)N)CC2=CNC3=CC=CC=C32)CCCN=C(N)N)CC4=CC=CC=C4)CC5=CN=CN5",
+    "ik": "HDHDTKMUACZDAA",
+    "ema_name": "Imcivree"
+  },
+  {
+    "drug_name": "volanesorsen sodium",
+    "dose_mg": 285.0,
+    "cmax_ngml": 8920.0,
+    "unit_original": "\u00b5g/ml",
+    "source": "EMA_SmPC",
+    "smiles": "CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)COP(=S)(O)O[C@H]3C[C@@H](O[C@@H]3COP(=S)(O)O[C@H]4C[C@@H](O[C@@H]4COP(=S)(O)O[C@@H]5[C@H](O[C@H]([C@@H]5OCCOC)N6C=C(C(=O)NC6=O)C)COP(=S)(O)O[C@@H]7[C@H](O[C@H]([C@@H]7OCCOC)N8C=C(C(=O)NC8=O)C)COP(=S)(O)O[C@@H]9[C@H](O[C@H]([C@@H]9OCCOC)N1C=C(C(=NC1=O)N)C)COP(=S)(O)O[C@@H]1[C@H](O[C@H]([C@@H]1OCCOC)N1C=NC2=C1N=C(NC2=O)N)COP(=S)(O)O[C@@H]1[C@H](O[C@H]([C@@H]1OCCOC)N1C=NC2=C(N=CN=C21)N)CO)N1C=C(C(=NC1=O)N)C)N1C=C(C(=O)NC1=O)C)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC2=C1N=C(NC2=O)N)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=C(C(=O)NC1=O)C)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=C(C(=NC1=O)N)C)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=C(C(=NC1=O)N)C)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC2=C(N=CN=C21)N)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=NC2=C1N=C(NC2=O)N)OP(=S)(O)OC[C@@H]1[C@H](C[C@@H](O1)N1C=C(C(=NC1=O)N)C)OP(=S)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N1C=C(C(=O)NC1=O)C)OCCOC)OP(=S)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N1C=C(C(=O)NC1=O)C)OCCOC)OP(=S)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N1C=C(C(=O)NC1=O)C)OCCOC)OP(=S)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N1C=NC2=C(N=CN=C21)N)OCCOC)OP(=S)(O)OC[C@@H]1[C@H]([C@H]([C@@H](O1)N1C=C(C(=O)NC1=O)C)OCCOC)O",
+    "ik": "IJUQCWMZCMFFJP",
+    "ema_name": "Waylivra"
+  },
+  {
+    "drug_name": "vorasidenib",
+    "dose_mg": 40.0,
+    "cmax_ngml": 75.4,
+    "unit_original": "ng/mL",
+    "source": "EMA_SmPC",
+    "smiles": "C[C@H](C(F)(F)F)NC1=NC(=NC(=N1)C2=NC(=CC=C2)Cl)N[C@H](C)C(F)(F)F",
+    "ik": "QCZAWDGAVJMPTA",
+    "ema_name": "Voranigo"
+  },
+  {
+    "drug_name": "dapagliflozin propanediol monohydrate",
+    "dose_mg": 10.0,
+    "cmax_ngml": 158.0,
+    "unit_original": "ng/mL",
+    "source": "EMA_SmPC",
+    "smiles": "CCOC1=CC=C(C=C1)CC2=C(C=CC(=C2)[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O)Cl.C[C@@H](CO)O.O",
+    "ik": "GOADIQFWSVMMRJ",
+    "ema_name": "Edistride"
+  },
+  {
+    "drug_name": "ganaxolone",
+    "dose_mg": 21.0,
+    "cmax_ngml": 292.0,
+    "unit_original": "ng/mL",
+    "source": "EMA_SmPC",
+    "smiles": "CC(=O)[C@H]1CC[C@@H]2[C@@]1(CC[C@H]3[C@H]2CC[C@@H]4[C@@]3(CC[C@@](C4)(C)O)C)C",
+    "ik": "PGTVWKLGGCQMBR",
+    "ema_name": "Ztalmy"
+  }
+]
